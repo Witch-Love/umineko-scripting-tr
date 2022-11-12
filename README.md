@@ -1,13 +1,15 @@
 Umineko Scripting (Turkish)
 =================
 
-[![Build Status](https://github.com/umineko-project/umineko-scripting/workflows/CI/badge.svg)](../../actions)
+[![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
-> I don't have any plans to translate Umineko to Turkish alone for now. But maybe if I find people who want to translate with me, my thoughts will change. You can contact with me through Discord that I provided on my github profile.
+Bu proje herkese açıktır ve isteyen herkes katkıda bulunabilir. Witch hunt çevirilerinin üzerine çeviri yapıyoruz.  
+Çevirmekte olduğumuz güncel dosya: [story/ep1/wh/umi1_op.txt](../../tree/master/story/ep1/wh/umi1_op.txt)
 
-> ^ Fikrimi değiştirdim ve çevirmeye başladım. Zaman zaman çevireceğim, ne kadar sürer bilinmez. Yardımcı olabilecek birkaç kişi daha olsa işimiz çok kolay olur. Şu anki hedef EP1'i tamamen çevirmek.
-
-This is the script code and select related tools empowering [Umineko Project port](https://umineko-project.org) of Umineko no Naku Koro ni from PlayStation 3. The code present here is not finished and remains being in development state.
+Çeviri Yapmak
+----------------
+Çeviri yapmak için basitçe yukarda belirtilen dosyadaki metinleri Türkçeleştirip Pull Request yollamanız gerekiyor. Pull Request başlığına da çevirdiğiniz satırları yazmalısınız.  
+Örneğin: "Satır 15-25" - Satır 15'den 25'e kadar. (ikisi de dahil)
 
 #### Credits
 - Umineko Project
