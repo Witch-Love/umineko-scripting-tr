@@ -69,7 +69,7 @@ jobs:
           echo "Refer to https://forum.umineko-project.org for more details." >> release_notes.md
 
       - name: Release
-        if: github.repository_owner == 'umineko-project'
+        if: github.repository_owner == ${{ github.repository_owner }}
         id: create_release
         uses: actions/create-release@v1
         env:
