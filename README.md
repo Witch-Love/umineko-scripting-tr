@@ -5,6 +5,8 @@ Umineko Scripting (Turkish)
 
 > I don't have any plans to translate Umineko to Turkish alone for now. But maybe if I find people who want to translate with me, my thoughts will change. You can contact with me through Discord that I provided on my github profile.
 
+> ^ Fikrimi değiştirdim ve çevirmeye başladım. Zaman zaman çevireceğim, ne kadar sürer bilinmez. Yardımcı olabilecek birkaç kişi daha olsa işimiz çok kolay olur. Şu anki hedef EP1'i tamamen çevirmek.
+
 This is the script code and select related tools empowering [Umineko Project port](https://umineko-project.org) of Umineko no Naku Koro ni from PlayStation 3. The code present here is not finished and remains being in development state.
 
 #### Credits
