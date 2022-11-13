@@ -4,8 +4,8 @@ Umineko Scripting (Turkish)
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 Bu proje herkese açıktır ve isteyen herkes katkıda bulunabilir. Süre sınırımız yok. İsteyen istediği zaman katkıda bulunabilir. Herkes ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
-Witch Hunt çevirilerinin üzerine çeviri yapıyoruz.  
-Çevirmekte olduğumuz güncel dosya: [story/ep1/wh/umi1_op.txt](../../tree/master/story/ep1/wh/umi1_op.txt)
+Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.  
+Çevirmekte olduğumuz güncel dosya: [story/ep1/tr/umi1_op.txt](../../tree/master/story/ep1/tr/umi1_op.txt)
 
 Çeviri Yapmak
 ----------------
