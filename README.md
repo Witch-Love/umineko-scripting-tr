@@ -1,26 +1,224 @@
-Umineko Scripting (Turkish)
-=================
+# Umineko Scripting (Turkish)
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes katkıda bulunabilir. Süre sınırımız yok. İsteyen istediği zaman katkıda bulunabilir. Herkes ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
-Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.  
+Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.  
 Çevirmekte olduğumuz güncel dosya: [story/ep1/tr/umi1_op.txt](../../tree/master/story/ep1/tr/umi1_op.txt)
 
-Çeviri Yapmak
-----------------
-Çeviri yapmak için basitçe yukarda belirtilen dosyadaki metinleri Türkçeleştirip Pull Request yollamanız gerekiyor. Pull Request başlığına da çevirdiğiniz satırları yazmalısınız.  
-**Not:** Çevirdiğiniz metinlerde yazılar dışındaki şeylerin (bazı istisnalar olabilir) aynı kalması önemli. Örnekte görebilirsiniz.
+## Çeviri Yapmak
+1. [Bu repo'yu forklayın.](../../fork)
+2. Yukarıda belirtilen dosyayı forkunuz üzerinde çevirin.
+3. Daha sonra pull request gönderin.
 
-### Örnek
-Pull Request başlığı: "Satır 1-8"  
-Satır 1'den 8'e kadar. (ikisi de dahil)
+   Pull request başlığına çevirdiğiniz satırları yazın.  
+   **Örnek:** Pull Request başlığı: `Satır 1-8`  
+   Satır 1'den 8'e kadar. (ikisi de dahil) [(Görsel)](https://i.imgur.com/au1UqRk.png)
 
----
-<img src="https://i.imgur.com/au1UqRk.png" />
+## İlerleme
+* <details>
+  <summary>Episode 1 ✍️</summary>
 
+   * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✍️
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+</details>
 
-#### Credits
+* <details>
+  <summary>Episode 2 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+   * Chapter 20 ❌
+</details>
+
+* <details>
+  <summary>Episode 3 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+   * Chapter 20 ❌
+</details>
+
+* <details>
+  <summary>Episode 4 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+   * Chapter 20 ❌
+   * Chapter 21 ❌
+</details>
+
+* <details>
+  <summary>Episode 5 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+</details>
+
+* <details>
+  <summary>Episode 6 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+   * Chapter 20 ❌
+</details>
+
+* <details>
+  <summary>Episode 7 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+   * Chapter 19 ❌
+   * Chapter 20 ❌
+</details>
+
+* <details>
+  <summary>Episode 8 ❌</summary>
+
+   * Chapter 0 ❌
+   * Chapter 1 ❌
+   * Chapter 2 ❌
+   * Chapter 3 ❌
+   * Chapter 4 ❌
+   * Chapter 5 ❌
+   * Chapter 6 ❌
+   * Chapter 7 ❌
+   * Chapter 8 ❌
+   * Chapter 9 ❌
+   * Chapter 10 ❌
+   * Chapter 11 ❌
+   * Chapter 12 ❌
+   * Chapter 13 ❌
+   * Chapter 14 ❌
+   * Chapter 15 ❌
+   * Chapter 16 ❌
+   * Chapter 17 ❌
+   * Chapter 18 ❌
+</details>
+
+### Credits
 - Umineko Project
 - Knox Translations
 - SNS Team
