@@ -18,6 +18,15 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    **Örnek:** Pull Request başlığı: `Satır 1-8`  
    Satır 1'den 8'e kadar. (ikisi de dahil) [**(Görsel)**](https://i.imgur.com/au1UqRk.png)
 
+## Çeviri Kuralları
+
+1. Battler'ın okuyuculara hitap ettiği cümleleri "-siz" olarak hitap edecek şekilde çevirin.
+2. Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
+   * Kyrie-san, George-aniki gibi saygı ekleri
+   * "Gyah!", "Aaaahh", "Oooooohh!"
+3. Terimler:
+   * Eklenecek
+
 ## İlerleme
 * <details>
   <summary>Episode 1 ✍️</summary>
