@@ -5,6 +5,10 @@
 Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.  
 Çevirmekte olduğumuz güncel dosya: [story/ep1/tr/umi1_op.txt](../../tree/master/story/ep1/tr/umi1_op.txt)
 
+### İletişim
+Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
+
 ## Çeviri Yapmak
 1. [Bu repo'yu forklayın.](../../fork)
 2. Yukarıda belirtilen dosyayı forkunuz üzerinde çevirin.
@@ -12,7 +16,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 
    Pull request başlığına çevirdiğiniz satırları yazın.  
    **Örnek:** Pull Request başlığı: `Satır 1-8`  
-   Satır 1'den 8'e kadar. (ikisi de dahil) [(Görsel)](https://i.imgur.com/au1UqRk.png)
+   Satır 1'den 8'e kadar. (ikisi de dahil) [**(Görsel)**](https://i.imgur.com/au1UqRk.png)
 
 ## İlerleme
 * <details>
@@ -216,6 +220,24 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
    * Chapter 16 ❌
    * Chapter 17 ❌
    * Chapter 18 ❌
+</details>
+
+* <details>
+  <summary>Other ❌</summary>
+
+   * [credits.txt](../../tree/master/script/tr/credits.txt) ❌
+   * [header.txt](../../tree/master/script/tr/header.txt) ❌
+   * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
+   * Omake ❌
+     * Omake 1 ❌
+     * Omake 2 ❌
+     * Omake 3 ❌
+     * Omake 4 ❌
+     * Omake 5 ❌
+     * Omake 6 ❌
+     * Omake 7 ❌
+     * Omake 8 ❌
+     * Omake 9 ❌
 </details>
 
 ### Credits
