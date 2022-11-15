@@ -18,6 +18,8 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    **Örnek:** Pull Request başlığı: `Satır 1-8`  
    Satır 1'den 8'e kadar. (ikisi de dahil) [**(Görsel)**](https://i.imgur.com/au1UqRk.png)
 
+Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anlayamıyorsanız, çeviriyi yaparken yan sekmede de Youtube'a chapter chapter yüklediğim videolardan oyuna bakabilirsiniz. [(**Link**)](https://youtube.com/playlist?list=PLOxBDkucq83mp2JX42XQ_5n02-WNax7-H)
+
 ## Çeviri Kuralları
 
 1. Battler'ın okuyuculara hitap ettiği cümleleri "-siz" olarak hitap edecek şekilde çevirin.
