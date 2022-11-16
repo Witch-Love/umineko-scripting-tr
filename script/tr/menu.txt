@@ -446,7 +446,7 @@ stralias grim_8_10_1,""
 
 
 ;scenario
-stralias use_magic1,":s;#FFFFFF`{p:15:Zamanda ileriye atlamak için cadı büyüsü yapabilirsin.}"
+stralias use_magic1,":s;#FFFFFF`{p:15:Zamanda ileri atlamak için cadı büyüsü yapabilirsiniz.}"
 stralias use_magic2,":s;#C7C7C7#FFFFFF`{p:15:Büyü yap}"
 stralias use_magic3,":s;#C7C7C7#FFFFFF`{p:15:Yapma}"
 stralias show_dream1,":s;#FFFFFF`{p:15:Would you like to remember your Golden Dream?}"
@@ -1005,10 +1005,10 @@ stralias saveload_load_button,":a/2,0,3;graphics\menu_en\save\saveload_load_butt
 stralias saveload_save_button,":a/2,0,3;graphics\menu_en\save\saveload_save_button.png"
 stralias saveload_load_button_b,":a/2,0,3;graphics\menu_en\save\saveload_load_button_b.png"
 ;session
-stralias sess_real_world,"Real-world time"
-stralias sess_total_clicks,"Total clicks"
-stralias sess_total_time,"Total playtime"
-stralias sess_current_track,"Current track"
+stralias sess_real_world,"Gerçek dünya zamanı"
+stralias sess_total_clicks,"Toplam tıklama"
+stralias sess_total_time,"Toplam oyun süresi"
+stralias sess_current_track,"Güncel Müzik"
 
 ;Captions
 stralias chars_caption,":a;graphics\menu_en\chars\chars_caption.png"
@@ -1565,11 +1565,11 @@ stralias set_back,":s;#FFFFFF#FF0000`{p:11:Geri}"
 stralias set_back_s,":s;#FF0000`{p:11:Geri}"
 stralias set_next,":s;#FFFFFF#FF0000`{p:11:Ileri}"
 stralias set_next_s,":s;#FF0000`{p:11:Ileri}"
-stralias set_exit,":s;#FFFFFF#FF0000`{p:11:Cikis}"
+stralias set_exit,":s;#FFFFFF#FF0000`{p:11:Geri}"
 stralias log_prev,":s;#FFFFFF#FF0000`{p:11:Önceki chapter}"
 stralias log_next,":s;#FFFFFF#FF0000`{p:11:Sonraki chapter}"
 stralias log_hint_text,":s;#FFFFFF`{p:11:To listen to the line's voice, tap on it with one finger, left-click, or press Enter.{n}To jump to a line in-game, tap on it with three fingers, middle-click, or press Z.{n}To quickly scroll the lines, use Page Up/Page Down.}`"
-stralias tips_hint_text,":s;#FFFFFF`{p:11:If there are arrows next to the text, you can scroll it using the mouse wheel or two-finger swipe gesture.}`"
+stralias tips_hint_text,":s;#FFFFFF`{p:11:Yazi kutusunun üst ve alt tarafinda oklar varsa, kaydirarak metnin tamamini okuyabilirsiniz.}`"
 stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu resetlemek istiyor musunuz?{n}Bu islem kazanilan kupalarla beraber tum kayitlarinizi silecektir.}"
 stralias jump_hint_text,":s;#FFFFFF`{p:11:Would you like to jump to this line?{n}This might take time, and you may wish to save first.}"
 stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Onayla}"
