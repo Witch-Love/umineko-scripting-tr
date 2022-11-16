@@ -1505,11 +1505,11 @@ stralias chars_bernquiz_goh_1,":s;#FFFFFF`{p:3:• First twilight{n}“{p:42:The
 stralias chars_bernquiz_kum_1,":s;#FFFFFF`{p:3:• First twilight{n}“{p:42:That's when I arrived}. I recommended that he try unlocking the door, just in case.”{n}“{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san, six people in all, were lying there, covered in blood......}”}"
 
 ;menu settings
-stralias set_restarted_apply,":s;#FFFFFF`{w:1920:}{p:1:{a:c:The game needs to be restarted to apply the changes.}}"
-stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:On}"
-stralias set_on2,":s;#FFFFFF`{p:8:On}"
-stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Off}"
-stralias set_off2,":s;#FFFFFF`{p:8:Off}"
+stralias set_restarted_apply,":s;#FFFFFF`{w:1920:}{p:1:{a:c:Değişikliklerin uygulanabilmesi için oyunu baştan başlatın.}}"
+stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:Açık}"
+stralias set_on2,":s;#FFFFFF`{p:8:Açık}"
+stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Kapalı}"
+stralias set_off2,":s;#FFFFFF`{p:8:Kapalı}"
 ;page 1
 stralias set_game_language,":s;#FFFFFF`{p:8:Oyun dili}"
 stralias set_game_language_ru,":s;#C7C7C7#FFFFFF`{p:8:Russian}"
@@ -1532,8 +1532,8 @@ stralias set_display_mode_auto,":s;#C7C7C7#FFFFFF`{p:8:Otomatik}"
 stralias set_display_mode_auto_on,":s;#FFFFFF`{p:8:Otomatik}"
 stralias set_video_resolution,":s;#FFFFFF`{p:8:Ekran çözünürlüğü }"
 stralias set_interface,":s;#FFFFFF`{p:8:Oynanış}"
-stralias set_interface_kb_mouse,":s;#C7C7C7#FFFFFF`{p:8:Klavye+Fare}"
-stralias set_interface_kb_mouse_on,":s;#FFFFFF`{p:8:Klavye+Fare}"
+stralias set_interface_kb_mouse,":s;#C7C7C7#FFFFFF`{p:8:KB+Mouse}"
+stralias set_interface_kb_mouse_on,":s;#FFFFFF`{p:8:KB+Mouse}"
 stralias set_interface_dualshock,":s;#C7C7C7#FFFFFF`{p:8:DualShock}"
 stralias set_interface_dualshock_on,":s;#FFFFFF`{p:8:DualShock}"
 stralias set_object_caching,":s;#FFFFFF`{p:8:Önbelleğe alma}"
@@ -1551,7 +1551,7 @@ stralias set_voice_volume,":s;#FFFFFF`{p:8:Karakter sesleri}"
 ;page 3
 stralias set_rumble_strength,":s;#FFFFFF`{p:8:Rumble strength}"
 stralias set_text_speed,":s;#FFFFFF`{p:8:Yazı hızı}"
-stralias set_automode_speed,":s;#FFFFFF`{p:8:Otomatik mod hızı}"
+stralias set_automode_speed,":s;#FFFFFF`{p:8:Otomatik okuma hızı}"
 stralias set_textbox_window,":s;#FFFFFF`{p:8:Metin kutusu çerçevesi}"
 stralias set_alchemist_wording_edits,":s;#FFFFFF`{p:8:Alchemist wording edits}"
 stralias set_lip_synchronization,":s;#FFFFFF`{p:8:Dudak senkronizasyonu}"
@@ -1563,24 +1563,24 @@ stralias set_song_subtitles_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romaji}"
 stralias set_song_subtitles_both,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Both}"
 stralias set_back,":s;#FFFFFF#FF0000`{p:11:Geri}"
 stralias set_back_s,":s;#FF0000`{p:11:Geri}"
-stralias set_next,":s;#FFFFFF#FF0000`{p:11:İleri}"
-stralias set_next_s,":s;#FF0000`{p:11:İleri}"
-stralias set_exit,":s;#FFFFFF#FF0000`{p:11:Çıkış}"
+stralias set_next,":s;#FFFFFF#FF0000`{p:11:Ileri}"
+stralias set_next_s,":s;#FF0000`{p:11:Ileri}"
+stralias set_exit,":s;#FFFFFF#FF0000`{p:11:Cikis}"
 stralias log_prev,":s;#FFFFFF#FF0000`{p:11:Önceki chapter}"
 stralias log_next,":s;#FFFFFF#FF0000`{p:11:Sonraki chapter}"
 stralias log_hint_text,":s;#FFFFFF`{p:11:To listen to the line's voice, tap on it with one finger, left-click, or press Enter.{n}To jump to a line in-game, tap on it with three fingers, middle-click, or press Z.{n}To quickly scroll the lines, use Page Up/Page Down.}`"
 stralias tips_hint_text,":s;#FFFFFF`{p:11:If there are arrows next to the text, you can scroll it using the mouse wheel or two-finger swipe gesture.}`"
 stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu sıfırlamak istiyor musunuz?{n}Bu işlem kazanılan kupalarınızla beraber tüm kayıtlarınızı silecektir.}"
 stralias jump_hint_text,":s;#FFFFFF`{p:11:Would you like to jump to this line?{n}This might take time, and you may wish to save first.}"
-stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Evet}"
-stralias action_no,":s;#C7C7C7#FFFFFF`{p:11:Hayır}"
+stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Onayla}"
+stralias action_no,":s;#C7C7C7#FFFFFF`{p:11:Iptal}"
 
 stralias save_btn,":s;#FFFFFF#FF0000`{p:11:Kaydet}"
 stralias save_btn_b,":s;#FF0000`{p:11:Kaydet}"
 stralias load_btn,":s;#FFFFFF#FF0000`{p:11:Yükle}"
 stralias load_btn_b,":s;#FF0000`{p:11:Yükle}"
 stralias set_ctrl,":s;#FFFFFF#FF0000`{p:11:Kontroller}"
-stralias set_reset,":s;#FFFFFF#FF0000`{p:11:Oyunu sıfırla}"
+stralias set_reset,":s;#FFFFFF#FF0000`{p:11:Oyunu resetle}"
 
 ;r_click_chapters (images with chapter names that appear when you enter r_menu)
 
@@ -1941,8 +1941,8 @@ stralias ep8_9_page_6_2_t,":s;#FFFFFF`{p:3:Battler: “The three of us were toge
 
 ; trophies
 
-stralias trophy_text_locked,"{p:18:Trophy is locked}"
-stralias trophy_text_new,":s;#FFFFFF`{p:11:A new Trophy is available in the Trophies menu!}`"
+stralias trophy_text_locked,"{p:18:Kupa kilitli}"
+stralias trophy_text_new,":s;#FFFFFF`{p:11:Yeni bir kupa kazandın! Kupalar menüsünden görüntüleyebilirsin.}`"
 numalias trophy_text_x,537
 numalias trophy_text_y,680
 
