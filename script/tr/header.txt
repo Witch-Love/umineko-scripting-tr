@@ -299,8 +299,8 @@ stralias verify_engine,"Oyun motorunun ve scriptlerin son sürümlerini kulland�
 
 stralias verification_title,"Oyun dosyaları doğrulaması"
 stralias verification_verifying,"Dosyalar doğrulanıyor...{n}Bu işlem birkaç dakika sürebilir.{n}"
-stralias verification_legend,"Yazı: "
-stralias verification_modified," Değiştirilmiş dosya"
+stralias verification_legend,"Yazi: "
+stralias verification_modified," Degistirilmis dosya"
 stralias verification_missing," Eksik dosya"
 stralias verification_good,"Başarıyla doğrulandı!{n}"
 stralias verification_bad,"Dosya doğrulaması başarısız!{n}"

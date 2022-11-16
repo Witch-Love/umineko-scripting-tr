@@ -32941,7 +32941,7 @@ if %game_language != 4 jumpf
 	lsp 304,":s;#FFFFFF`{p:8:操作介面}",135,%y+300
 ~
 
-if %game_language != 0 jumpf
+if %game_language != 5 jumpf
 	lsp 300,":s;#FFFFFF`{p:10:——————}{p:9:{a:c: Oyun Ayarları }{p:10:——————}}",135,%y-100
 	lsp 301,":s;#FFFFFF`{p:8:Oyun dili}",135,%y
 	lsp 302,":s;#FFFFFF`{p:8:Pencere boyutu}",135,%y+100
