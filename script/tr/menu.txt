@@ -276,18 +276,18 @@ stralias t_btn_exit1,":a/2,0,3;graphics\menu_en\title_menu\exit1.png"
 
 stralias r_tips,":a/2,0,3;graphics\menu_en\SystemBtn\tips.png"
 stralias r_grim,":a/2,0,3;graphics\menu_en\SystemBtn\grimoire_btn.png"
-stralias r_resu,":s;#FFFFFF#FF0000`{p:12:Canlandır}"
+stralias r_resu,":s;#FFFFFF#FF0000`{p:12:Canlandir}"
 stralias r_exec,":s;#FFFFFF#FF0000`{p:12:Öldür}"
 stralias r_title,":a/2,0,3;graphics\menu\SystemBtn\title.png"
 
 stralias r_next,":a/2,0,3;graphics\menu\SystemBtn\cha_next.png"
-stralias r_people,":s;#FFFFFF#FF0000`{p:12:İnsan bakışı}"
-stralias r_people_select,":s;#FF0000`{p:12:İnsan bakışı}"
-stralias r_witches,":s;#FFFFFF#FF0000`{p:12:Cadı bakışı}"
-stralias r_witches_select,":s;#FF0000`{p:12:Cadı bakışı}"
-stralias r_ange,":s;#FFFFFF#FF0000`{p:12:Ange bakışı}"
-stralias r_ange_select,":s;#FF0000`{p:12:Ange bakışı}"
-stralias r_change,":s;#FFFFFF#FF0000`{p:12:Değiştir}"
+stralias r_people,":s;#FFFFFF#FF0000`{p:12:Insan bakisi}"
+stralias r_people_select,":s;#FF0000`{p:12:Insan bakisi}"
+stralias r_witches,":s;#FFFFFF#FF0000`{p:12:Cadi bakisi}"
+stralias r_witches_select,":s;#FF0000`{p:12:Cadi bakisi}"
+stralias r_ange,":s;#FFFFFF#FF0000`{p:12:Ange bakisi}"
+stralias r_ange_select,":s;#FF0000`{p:12:Ange bakisi}"
+stralias r_change,":s;#FFFFFF#FF0000`{p:12:Degistir}"
 stralias r_ep1,":c/2,0,3;graphics\menu\SystemBtn\ep1.png"	
 stralias r_ep2,":c/2,0,3;graphics\menu\SystemBtn\ep2.png"	
 stralias r_ep3,":c/2,0,3;graphics\menu\SystemBtn\ep3.png"	
@@ -819,7 +819,7 @@ stralias chapter_screen_all_ep6,":c/19,0,3,1;graphics\menu\jump\EP6.png"
 stralias chapter_screen_all_ep7,":c/19,0,3,1;graphics\menu\jump\EP7.png"
 stralias chapter_screen_all_ep8,":c/17,0,3,1;graphics\menu\jump\EP8.png"
 ;scenario menu
-stralias rmenu_btn_Exit_text,":s;#C7C7C7#FF0000`{p:11:Back to Main Menu}"
+stralias rmenu_btn_Exit_text,":s;#C7C7C7#FF0000`{p:11:Menüye dön}"
 ;menu setting
 stralias setting_on,":a/2,0,3;graphics\menu_en\SystemBtn\on.png"
 stralias setting_on1,":a/2,0,3;graphics\menu_en\SystemBtn\on_1.png"
@@ -1506,10 +1506,10 @@ stralias chars_bernquiz_kum_1,":s;#FFFFFF`{p:3:• First twilight{n}“{p:42:Tha
 
 ;menu settings
 stralias set_restarted_apply,":s;#FFFFFF`{w:1920:}{p:1:{a:c:Değişikliklerin uygulanabilmesi için oyunu baştan başlatın.}}"
-stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:Açık}"
-stralias set_on2,":s;#FFFFFF`{p:8:Açık}"
-stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Kapalı}"
-stralias set_off2,":s;#FFFFFF`{p:8:Kapalı}"
+stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:On}"
+stralias set_on2,":s;#FFFFFF`{p:8:On}"
+stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Off}"
+stralias set_off2,":s;#FFFFFF`{p:8:Off}"
 ;page 1
 stralias set_game_language,":s;#FFFFFF`{p:8:Oyun dili}"
 stralias set_game_language_ru,":s;#C7C7C7#FFFFFF`{p:8:Russian}"
@@ -1570,7 +1570,7 @@ stralias log_prev,":s;#FFFFFF#FF0000`{p:11:Önceki chapter}"
 stralias log_next,":s;#FFFFFF#FF0000`{p:11:Sonraki chapter}"
 stralias log_hint_text,":s;#FFFFFF`{p:11:To listen to the line's voice, tap on it with one finger, left-click, or press Enter.{n}To jump to a line in-game, tap on it with three fingers, middle-click, or press Z.{n}To quickly scroll the lines, use Page Up/Page Down.}`"
 stralias tips_hint_text,":s;#FFFFFF`{p:11:If there are arrows next to the text, you can scroll it using the mouse wheel or two-finger swipe gesture.}`"
-stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu sıfırlamak istiyor musunuz?{n}Bu işlem kazanılan kupalarınızla beraber tüm kayıtlarınızı silecektir.}"
+stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu resetlemek istiyor musunuz?{n}Bu islem kazanilan kupalarla beraber tum kayitlarinizi silecektir.}"
 stralias jump_hint_text,":s;#FFFFFF`{p:11:Would you like to jump to this line?{n}This might take time, and you may wish to save first.}"
 stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Onayla}"
 stralias action_no,":s;#C7C7C7#FFFFFF`{p:11:Iptal}"
@@ -1941,8 +1941,8 @@ stralias ep8_9_page_6_2_t,":s;#FFFFFF`{p:3:Battler: “The three of us were toge
 
 ; trophies
 
-stralias trophy_text_locked,"{p:18:Kupa kilitli}"
-stralias trophy_text_new,":s;#FFFFFF`{p:11:Yeni bir kupa kazandın! Kupalar menüsünden görüntüleyebilirsin.}`"
+stralias trophy_text_locked,"{p:18:Trophy is locked}"
+stralias trophy_text_new,":s;#FFFFFF`{p:11:A new Trophy is available in the Trophies menu!}`"
 numalias trophy_text_x,537
 numalias trophy_text_y,680
 
