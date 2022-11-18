@@ -35,8 +35,8 @@ Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anla
 * <details>
   <summary>Episode 1 ✍️</summary>
 
-   * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✍️
-   * Chapter 1 ❌
+   * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
+   * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✍️
    * Chapter 2 ❌
    * Chapter 3 ❌
    * Chapter 4 ❌
