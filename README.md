@@ -26,8 +26,10 @@ Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anla
 2. Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
    * Kyrie-san, George-aniki gibi saygı ekleri
    * "Gyah!", "Aaaahh", "Oooooohh!"
-3. Terimler:
-   * Eklenecek
+3. Bunlar bu şekilde:
+   * Aunt Eva / Aunt Rosa `->` Eva Hala / Rosa Hala
+   * Butler `->` Uşak
+   * Servant `->` Hizmetkar
 
 ## İlerleme
 * <details>
