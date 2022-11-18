@@ -37,25 +37,25 @@ Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anla
   <summary>Episode 1 ✍️</summary>
 
    * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
-   * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✍️
-   * Chapter 2 ❌
-   * Chapter 3 ❌
-   * Chapter 4 ❌
-   * Chapter 5 ❌
-   * Chapter 6 ❌
-   * Chapter 7 ❌
-   * Chapter 8 ❌
-   * Chapter 9 ❌
-   * Chapter 10 ❌
-   * Chapter 11 ❌
-   * Chapter 12 ❌
-   * Chapter 13 ❌
-   * Chapter 14 ❌
-   * Chapter 15 ❌
-   * Chapter 16 ❌
-   * Chapter 17 ❌
-   * Chapter 18 ❌
-   * Chapter 19 ❌
+   * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) `<- Burdayız`
+   * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ❌
+   * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ❌
+   * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ❌
+   * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ❌
+   * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ❌
+   * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ❌
+   * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ❌
+   * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ❌
+   * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) ❌
+   * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ❌
+   * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ❌
+   * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ❌
+   * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ❌
+   * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ❌
+   * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ❌
+   * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ❌
+   * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ❌
+   * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ❌
 </details>
 
 * <details>
