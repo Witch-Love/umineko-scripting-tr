@@ -2,8 +2,9 @@
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.  
-Çevirmekte olduğumuz güncel dosya: [story/ep1/tr/umi1_op.txt](../../tree/master/story/ep1/tr/umi1_op.txt)
+Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.
+
+Çevirmekte olduğumuz güncel dosya: [**Tıkla**](../../tree/master/story/ep1/tr/umi1_1.txt)
 
 ### İletişim
 Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
