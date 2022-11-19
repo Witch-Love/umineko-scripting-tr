@@ -1005,10 +1005,10 @@ stralias saveload_load_button,":a/2,0,3;graphics\menu_en\save\saveload_load_butt
 stralias saveload_save_button,":a/2,0,3;graphics\menu_en\save\saveload_save_button.png"
 stralias saveload_load_button_b,":a/2,0,3;graphics\menu_en\save\saveload_load_button_b.png"
 ;session
-stralias sess_real_world,"Gerçek dünya zamanı"
-stralias sess_total_clicks,"Toplam tıklama"
+stralias sess_real_world,"Gerçek zaman"
+stralias sess_total_clicks,"Toplam tiklama"
 stralias sess_total_time,"Toplam oyun süresi"
-stralias sess_current_track,"Güncel Müzik"
+stralias sess_current_track,"Müzik"
 
 ;Captions
 stralias chars_caption,":a;graphics\menu_en\chars\chars_caption.png"
