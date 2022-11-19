@@ -1,22 +1,24 @@
+[guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_1.txt
+
 # Umineko Scripting (Turkish)
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.
 
-Çevirmekte olduğumuz güncel dosya: [**Tıkla**](../../tree/master/story/ep1/tr/umi1_1.txt)
+Çevirmekte olduğumuz güncel dosya: [**Tıkla**][guncel-dosya]
 
 ### İletişim
 Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
 
 ## Çeviri Yapmak
-1. [Bu repo'yu forklayın.](../../fork)
-2. Yukarıda belirtilen dosyayı forkunuz üzerinde çevirin.
+1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
+2. Çevirmekte olduğumuz [Güncel Dosya][guncel-dosya]'yı forkunuz üzerinde [Çeviri Kuralları](#çeviri-kuralları)'na uyarak çevirin.
 3. Daha sonra pull request gönderin.
 
    Pull request başlığına çevirdiğiniz satırları yazın.  
-   **Örnek:** Pull Request başlığı: `Satır 1-8`  
+   Başlığınız böyle olmalı: `Satır 1-8`  
    Satır 1'den 8'e kadar. (ikisi de dahil) [**(Görsel)**](https://i.imgur.com/au1UqRk.png)
 
 Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anlayamıyorsanız, çeviriyi yaparken yan sekmede de Youtube'a chapter chapter yüklediğim videolardan oyuna bakabilirsiniz. [(**Link**)](https://youtube.com/playlist?list=PLOxBDkucq83mp2JX42XQ_5n02-WNax7-H)
