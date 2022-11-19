@@ -31,6 +31,7 @@ Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anla
    * Aunt Eva / Aunt Rosa `->` Eva Hala / Rosa Hala
    * Butler `->` Uşak
    * Servant `->` Hizmetkar
+   * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
 
 ## İlerleme
 * <details>
