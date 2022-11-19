@@ -48,7 +48,7 @@ jobs:
           cd extra
           zip -qry ../ciout/extra_${TODAY}.zip * || exit 1
           cd ..
-          echo "[Umineko Project](https://umineko-project.org/en/)'i kurup, ana klasöre `tr.file` dosyasını atın ve oyunu başlattıktan sonra oyun dilini Türkçe olarak ayarlayın." >> release_notes.md
+          echo "[Umineko Project](https://umineko-project.org/en/)'i kurup, ana klasöre **tr.file** dosyasını ve ekstraları atın. Oyunu başlattıktan sonra da oyun dilini Türkçe olarak ayarlayın." >> release_notes.md
 
       - name: Release
         if: github.repository_owner == ${{ github.repository_owner }}
