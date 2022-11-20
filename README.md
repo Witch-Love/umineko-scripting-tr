@@ -1,6 +1,6 @@
 [guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_1.txt
 
-# Umineko Scripting (Turkish)
+# Umineko Scripting (Turkish) ~ Umineko Türkçe Çeviri Projesi
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
@@ -8,20 +8,26 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 
 Çevirmekte olduğumuz güncel dosya: [**Tıkla**][guncel-dosya]
 
-### İletişim
-Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
+## Kurulum
+
+1. [Umineko Project](https://umineko-project.org/en/)'i kurun.
+2. [Releases](../..//releases) sayfasından son sürüm Türkçe scriptleri ve ekstralar dosyasını indirin.
+3. `tr.file` dosyasını ve diğer ekstraları oyun klasörünün içine atın.
+4. Oyunu başlattıktan sonra da oyun dilini Türkçe olarak ayarlayın. Hepsi bu!
 
 ## Çeviri Yapmak
 1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
 2. Çevirmekte olduğumuz [Güncel Dosya][guncel-dosya]'yı forkunuz üzerinde [Çeviri Kuralları](#çeviri-kuralları)'na uyarak çevirin.
-3. Daha sonra pull request gönderin.
+3. Daha sonra bir pull request açın.
 
    Pull request başlığına çevirdiğiniz satırları yazın.  
-   Başlığınız böyle olmalı: `Satır 1-8`  
-   Satır 1'den 8'e kadar. (ikisi de dahil) [**(Görsel)**](https://i.imgur.com/au1UqRk.png)
+   Başlığınız `Satır 1-8` şeklinde olmalı. [**(Örnek)**](https://i.imgur.com/au1UqRk.png)
 
 Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anlayamıyorsanız, çeviriyi yaparken yan sekmede de Youtube'a chapter chapter yüklediğim videolardan oyuna bakabilirsiniz. [(**Link**)](https://youtube.com/playlist?list=PLOxBDkucq83mp2JX42XQ_5n02-WNax7-H)
+
+### İletişim
+Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
 
 ## Çeviri Kuralları
 
@@ -30,7 +36,7 @@ Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anla
    * Kyrie-san, George-aniki gibi saygı ekleri
    * "Gyah!", "Aaaahh", "Oooooohh!"
 3. Bunlar bu şekilde:
-   * Aunt Eva / Aunt Rosa `->` Eva Hala / Rosa Hala
+   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
    * Butler `->` Uşak
    * Servant `->` Hizmetkar
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
