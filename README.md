@@ -11,9 +11,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 ## Kurulum
 
 1. [Umineko Project](https://umineko-project.org/en/)'i kurun.
-2. [Releases](../..//releases) sayfasından son sürüm Türkçe scriptleri ve ekstralar dosyasını indirin.
-3. `tr.file` dosyasını ve diğer ekstraları oyun klasörünün içine atın.
-4. Oyunu başlattıktan sonra da oyun dilini Türkçe olarak ayarlayın. Hepsi bu!
+2. [Releases](../..//releases) sayfasından son sürümü indirin.
+3. Tüm dosyaları oyun klasörünün içine atın.
+4. Oyunu başlattıktan sonra oyun dilini Türkçe olarak ayarlayın. Hepsi bu!
 
 ## Çeviri Yapmak
 1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
