@@ -35,19 +35,15 @@ jobs:
           cp misc/chiru.file ciout
           cp misc/game.hash ciout
           cp misc/default.cfg ciout
-          cd ciout
-          zip -qry umineko-main-scripts_r${BUILD}_dev.zip ru.txt en.txt chiru.file game.hash default.cfg || exit 1
-          zip -qry umineko-tr-scripts_r${BUILD}_dev.zip tr.txt || exit 1
-          cd ..
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
-          php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
+          php update-manager/update-manager.php script ciout/tr.txt "extra/tr_files/tr.file" "$LAST_EN" || exit 1
           cd ciout
           zip -qry umineko-main-scripts_r${BUILD}.zip ru.file en.file chiru.file game.hash default.cfg || exit 1
-          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file || exit 1
-          cd ..
-          cd extra
-          zip -qry ../ciout/extra_${TODAY}.zip * || exit 1
-          cd ..
+          cd ../extra/tr_files
+          zip -qry ../../ciout/umineko-tr-files-and-scripts_r${BUILD}.zip * || exit 1
+          cd ../extras
+          zip -qry ../../ciout/extra_${TODAY}.zip * || exit 1
+          cd ../../
           echo ${{ inputs.desc }} >> release_notes.md
 
       - name: Release
@@ -85,17 +81,6 @@ jobs:
           asset_name: umineko-main-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
 
-      - name: Upload Main (dev)
-        if: github.repository_owner == ${{ github.repository_owner }}
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-main-scripts_r${{ env.BUILD }}_dev.zip
-          asset_name: umineko-main-scripts_r${{ env.BUILD }}_dev.zip
-          asset_content_type: application/zip
-
       - name: Upload TR
         if: github.repository_owner == ${{ github.repository_owner }}
         uses: actions/upload-release-asset@v1
@@ -103,17 +88,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
-          asset_content_type: application/zip
-
-      - name: Upload TR (dev)
-        if: github.repository_owner == ${{ github.repository_owner }}
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}_dev.zip
-          asset_name: umineko-tr-scripts_r${{ env.BUILD }}_dev.zip
+          asset_path: ./ciout/umineko-tr-files-and-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-files-and-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
