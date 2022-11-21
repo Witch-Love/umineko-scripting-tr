@@ -152,9 +152,9 @@ stralias r_grim8_10,""
 
 ;System button
 
-stralias title_back_yes,":c/2,0,3;graphics\menu_en\SystemBtn\yes.png"
-stralias title_back_no,":c/2,0,3;graphics\menu_en\SystemBtn\no.png"
-stralias title_back_bg,":a;graphics\menu_en\SystemBtn\title_bg.png"
+stralias title_back_yes,":c/2,0,3;graphics\menu_tr\SystemBtn\yes.png"
+stralias title_back_no,":c/2,0,3;graphics\menu_tr\SystemBtn\no.png"
+stralias title_back_bg,":a;graphics\menu_tr\SystemBtn\title_bg.png"
 
 ;sub_menu
 stralias t_btn_ep1,":c/2,0,3;graphics\menu_en\title_menu\ep1.png"
