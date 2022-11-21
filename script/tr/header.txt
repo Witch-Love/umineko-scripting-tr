@@ -34,7 +34,7 @@ numalias criminal_button_y,883
 ; Logos
 stralias cinema_logo_1,":a;graphics\system\logo\cinema_logo_en.png"
 stralias cinema_logo_2,":a;graphics\system\logo\cinema_logo2_en.png"
-stralias loading_progres,":a/4,83,0;graphics\system\loading_en.png"
+stralias loading_progres,":a/4,83,0;graphics\system\loading_tr.png"
 stralias project_logo,":c;graphics\locale_tr\project_logo.png"
 stralias circle_logo,":c;graphics\locale_en\circle_logo.png"
 
