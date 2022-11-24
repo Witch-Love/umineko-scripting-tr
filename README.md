@@ -1,4 +1,4 @@
-[guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_1.txt
+[guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_2.txt
 
 # Umineko Scripting (Turkish) ~ Umineko Türkçe Çeviri Projesi
 
@@ -51,8 +51,8 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
 
    * Story
       * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) `<- Burdayız`
-      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅
+      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) `<- Burdayız`
       * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ❌
       * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ❌
       * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ❌
