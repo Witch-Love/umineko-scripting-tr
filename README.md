@@ -40,6 +40,10 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Butler `->` Uşak
    * Servant `->` Hizmetkar
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
+   * Portrait `->` Portre
+   * Epitaph `->` Kitabe
+   * Guesthouse `->` Konukevi
+   * The Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
 
 ## İlerleme
 * <details>
@@ -67,12 +71,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ❌
       * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ❌
    * Other
-      * [Tips Titles](../../tree/master/script/tr/menu.txt#L2) ❌
+      * [Tips Titles](../../tree/master/script/tr/menu.txt#L2) ✅
       * [Tips Texts](../../tree/master/script/tr/menu.txt#L296) ❌
       * [Grimoire Titles](../../tree/master/script/tr/menu.txt#L57) ❌
       * [Grimoire Texts](../../tree/master/script/tr/menu.txt#L349) ❌
-      * [Save/Load Menu](../../tree/master/script/tr/menu.txt#L829) ❌
-      * [Chapter Names](../../tree/master/script/tr/menu.txt#L485) ❌
+      * [Save/Load Menu](../../tree/master/script/tr/menu.txt#L829) ✅
+      * [Chapter Names](../../tree/master/script/tr/menu.txt#L485) ✅
       * [Characters Menu](../../tree/master/script/tr/menu.txt#L1030) ❌
 </details>
 
@@ -102,7 +106,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 19 ❌
       * Chapter 20 ❌
    * Other
-      * [Tips Titles](../../tree/master/script/tr/menu.txt#L11) ❌
+      * [Tips Titles](../../tree/master/script/tr/menu.txt#L11) ✅
       * [Tips Texts](../../tree/master/script/tr/menu.txt#L305) ❌
       * [Grimoire Titles](../../tree/master/script/tr/menu.txt#L69) ❌
       * [Grimoire Texts](../../tree/master/script/tr/menu.txt#L362) ❌
