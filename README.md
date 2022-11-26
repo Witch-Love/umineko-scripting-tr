@@ -34,15 +34,17 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
 1. Battler'ın okuyuculara hitap ettiği cümleleri "-siz" olarak hitap edecek şekilde çevirin.
 2. Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
    * Kyrie-san, George-aniki gibi saygı ekleri
-   * "Gyah!", "Aaaahh", "Oooooohh!"
+   * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
+   * "Madam"
 3. Bunlar bu şekilde:
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
    * Butler `->` Uşak
-   * Servant `->` Hizmetkar
+   * Servant `->` Hizmetkâr
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
    * Portrait `->` Portre
    * Epitaph `->` Kitabe
    * Guesthouse `->` Konukevi
+   * Milady `->` Leydim
    * The Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
 
 ## İlerleme
