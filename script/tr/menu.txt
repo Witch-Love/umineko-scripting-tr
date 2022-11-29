@@ -238,7 +238,7 @@ stralias cache_chars10,":s;#FFFFFF`{g:1:{i:abcdefghijklmnopqrstuvwxyz{n}ABCDEFGH
 stralias t_logo_rondo,":a;graphics\menu_en\title\title1_logo.png"
 stralias t_logo_chiru,":a;graphics\menu_en\title\chiru\title1_logo.png"
 stralias t_btn_start,":a/2,0,3;graphics\menu_tr\title_menu\start.png"
-stralias t_btn_web,":a/2,0,3;graphics\menu_en\title_menu\web.png"
+stralias t_btn_web,":a/2,0,3;graphics\menu_tr\title_menu\web.png"
 stralias t_btn_exit,":a/2,0,3;graphics\menu_tr\title_menu\exit.png"
 stralias t_btn_exit1_cg,":a/2,0,3;graphics\menu_tr\title_menu\exit1_cg.png"
 stralias t_btn_exit2,":a/2,0,3;graphics\menu_en\title_menu\exit2.png"
