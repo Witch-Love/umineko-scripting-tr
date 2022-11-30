@@ -40,9 +40,9 @@ stralias circle_logo,":c;graphics\locale_en\circle_logo.png"
 
 stralias congra,":c;graphics\locale\congra.png"
 
-stralias end_1a_1,":c;graphics\locale_en\end_1a_1.png"
-stralias end_1a_2,":c;graphics\locale_en\end_1a_2.png"
-stralias end_1a_3,":c;graphics\locale_en\end_1a_3.png"
+stralias end_1a_1,":c;graphics\locale_tr\end_1a_1.png"
+stralias end_1a_2,":c;graphics\locale_tr\end_1a_2.png"
+stralias end_1a_3,":c;graphics\locale_tr\end_1a_3.png"
 stralias end_1c,":c;graphics\locale_en\end_1c.png"
 stralias end_1c_1,":c;graphics\locale_en\end_1c_1.png"
 stralias end_1c_2,":c;graphics\locale_en\end_1c_2.png"
