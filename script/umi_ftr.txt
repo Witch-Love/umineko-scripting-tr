@@ -27711,7 +27711,7 @@ return
 		dec %op_ed_song_subtitles : gosub *settings_op_ed_song_subtitles
 	~	
 	if %BtnRes != 77 jumpf
-		if %op_ed_song_subtitles = 4 mov %op_ed_song_subtitles,0
+		if %op_ed_song_subtitles = 5 mov %op_ed_song_subtitles,0
 		inc %op_ed_song_subtitles : gosub *settings_op_ed_song_subtitles
 	~
 	;end
