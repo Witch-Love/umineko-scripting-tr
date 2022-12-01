@@ -37,15 +37,22 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
    * "Madam"
 3. Bunlar bu şekilde:
+   * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
    * Butler `->` Uşak
-   * Servant `->` Hizmetkâr
-   * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
-   * Portrait `->` Portre
+   * Culprit `->` Suçlu
    * Epitaph `->` Kitabe
+   * Fragment (Kakera olan) `->` Kakera
+   * Furniture `->` Mobilya
+   * Golden Land `->` Altın Diyar
    * Guesthouse `->` Konukevi
+   * Magic `->` Büyü
    * Milady `->` Leydim
-   * The Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Portrait `->` Portre
+   * Servant `->` Hizmetkar
+   * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
+   * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
 
 ## İlerleme
 * <details>
@@ -112,8 +119,8 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L69) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L362) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L522) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L522) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073) ❌
 </details>
 
@@ -143,12 +150,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 19 ❌
       * Chapter 20 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L20) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L20) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L314) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L81) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L561) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L561) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133) ❌
 </details>
 
@@ -179,12 +186,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 20 ❌
       * Chapter 21 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L28) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L28) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L322) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L93) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L386) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L600) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L600) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1191) ❌
 </details>
 
@@ -211,12 +218,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 16 ❌
       * Chapter 17 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L38) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L38) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L331) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L105) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L398) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279) ❌
 </details>
 
@@ -246,12 +253,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 19 ❌
       * Chapter 20 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L44) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L44) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L337) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L117) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L410) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L674) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L674) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332) ❌
 </details>
 
@@ -281,12 +288,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 19 ❌
       * Chapter 20 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L48) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L48) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L341) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L129) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L423) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402) ❌
 </details>
 
@@ -314,12 +321,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Chapter 17 ❌
       * Chapter 18 ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L51) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L51) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L344) ❌
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L141) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L435) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981) ❌
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L752) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L752) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442) ❌
 </details>
 
