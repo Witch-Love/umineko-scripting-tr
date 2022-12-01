@@ -336,16 +336,36 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * [credits.txt](../../tree/master/script/tr/credits.txt) ❌
    * [header.txt](../../tree/master/script/tr/header.txt) ❌
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
+   * Song Subtitles
+      * [Melody](../../tree/master/extra/tr_files/video/sub/58_tr.ass) ❌
+      * [activepain](../../tree/master/extra/tr_files/video/sub/83_tr.ass) ❌
+      * [Discode](../../tree/master/extra/tr_files/video/sub/109_tr.ass) ❌
+      * [Promise](../../tree/master/extra/tr_files/video/sub/132_tr.ass) ❌
+      * [WINGS(Ver hope)](../../tree/master/extra/tr_files/video/sub/134_tr.ass) ❌
+      * [birth of new witch(Short Ver)](../../tree/master/extra/tr_files/video/sub/160_tr.ass) ❌
+      * [FISHYAROMA](../../tree/master/extra/tr_files/video/sub/161_tr.ass) ❌
+      * [Song without a name ver.sakura ED-size](../../tree/master/extra/tr_files/video/sub/186_tr.ass) ❌
+      * [Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr_files/video/sub/240_tr.ass) ❌
+      * [When the Seagulls Cry](../../tree/master/extra/tr_files/video/sub/241_tr.ass) ❌
+      * [Igreja of Echoing Vows](../../tree/master/extra/tr_files/video/sub/tr.ass) ❌
+      * [When the Seagulls Cry (Legacy)](../../tree/master/extra/tr_files/legacy/sub/tr.ass) ❌
+      * [Inanna’s Dream](../../tree/master/extra/tr_files/video/sub/op4_tr.ass) ❌
+      * [The Witch of Occultics](../../tree/master/extra/tr_files/video/sub/op56_tr.ass) ❌
+      * [The Pithos in the Fog](../../tree/master/extra/tr_files/video/sub/op78_tr.ass) ❌
+
+
+
+      
    * Omake ❌
-     * Omake 1 ❌
-     * Omake 2 ❌
-     * Omake 3 ❌
-     * Omake 4 ❌
-     * Omake 5 ❌
-     * Omake 6 ❌
-     * Omake 7 ❌
-     * Omake 8 ❌
-     * Omake 9 ❌
+      * Omake 1 ❌
+      * Omake 2 ❌
+      * Omake 3 ❌
+      * Omake 4 ❌
+      * Omake 5 ❌
+      * Omake 6 ❌
+      * Omake 7 ❌
+      * Omake 8 ❌
+      * Omake 9 ❌
 </details>
 
 ### Credits
