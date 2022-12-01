@@ -336,8 +336,8 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * [credits.txt](../../tree/master/script/tr/credits.txt) ❌
    * [header.txt](../../tree/master/script/tr/header.txt) ❌
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
-   * Song Subtitles
-      * [Melody](../../tree/master/extra/tr_files/video/sub/58_tr.ass) ❌
+   * Song Subtitles ❌
+      * [Melody](../../tree/master/extra/tr_files/video/sub/58_tr.ass) ✅
       * [activepain](../../tree/master/extra/tr_files/video/sub/83_tr.ass) ❌
       * [Discode](../../tree/master/extra/tr_files/video/sub/109_tr.ass) ❌
       * [Promise](../../tree/master/extra/tr_files/video/sub/132_tr.ass) ❌

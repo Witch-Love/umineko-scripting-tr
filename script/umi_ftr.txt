@@ -32842,7 +32842,7 @@ reset
 
 	operate_config u_read,$op_ed_song_subtitles,"subtitles"
 	if $op_ed_song_subtitles == "None" mov %op_ed_song_subtitles,1
-	if $op_ed_song_subtitles == "Translation" mov %op_ed_song_subtitles,2
+	if $op_ed_song_subtitles == "English" mov %op_ed_song_subtitles,2
 	if $op_ed_song_subtitles == "Romaji" mov %op_ed_song_subtitles,3
 	if $op_ed_song_subtitles == "Both" mov %op_ed_song_subtitles,4
 	if $op_ed_song_subtitles == "Türkçe" mov %op_ed_song_subtitles,5
