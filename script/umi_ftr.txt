@@ -25238,6 +25238,7 @@ mov $track_id,""
 if %op_ed_song_subtitles = 2 goto *sub_get_translation
 if %op_ed_song_subtitles = 3 goto *sub_get_romaji
 if %op_ed_song_subtitles = 4 goto *sub_get_both 
+if %op_ed_song_subtitles = 5 goto *sub_get_tr 
 
 return
 
@@ -28866,6 +28867,7 @@ return
 	if %op_ed_song_subtitles = 2 lsp 272,set_song_subtitles_trans,1260+%mcoord_add,748
 	if %op_ed_song_subtitles = 3 lsp 272,set_song_subtitles_rom,1260+%mcoord_add,748
 	if %op_ed_song_subtitles = 4 lsp 272,set_song_subtitles_both,1260+%mcoord_add,748
+	if %op_ed_song_subtitles = 5 lsp 272,set_song_subtitles_tr,1260+%mcoord_add,748
 	lsp 276,":a/2,0,3;graphics\menu_en\config\config_left.png",1210+%mcoord_add,759
 	lsp 277,":a/2,0,3;graphics\menu_en\config\config_right.png",1640+%mcoord_add,759
 return
@@ -32843,6 +32845,7 @@ reset
 	if $op_ed_song_subtitles == "Translation" mov %op_ed_song_subtitles,2
 	if $op_ed_song_subtitles == "Romaji" mov %op_ed_song_subtitles,3
 	if $op_ed_song_subtitles == "Both" mov %op_ed_song_subtitles,4
+	if $op_ed_song_subtitles == "Türkçe" mov %op_ed_song_subtitles,5
 
     operate_config u_read,$skip_unread,"skip_unread_dialogues"
     if $skip_unread == "false" mov %skip_unread,1 ;off
