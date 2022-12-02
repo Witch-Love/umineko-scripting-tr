@@ -46,6 +46,7 @@ $exclude = [
 	'language_cn',
 	'language_cht',
 	'/en.file',
+	'/wh.file',
 	'/tr.file',
 	'/ru.file',
 	'/pt.file',
