@@ -37,6 +37,7 @@ jobs:
           cp misc/default.cfg ciout
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "extra/tr_files/tr.file" "$LAST_EN" || exit 1
+          php update-manager/update-manager.php genhash misc/game.hash "extra/tr_files/" "extra/tr_files/game_tr.hash"
           cd ciout
           zip -qry umineko-main-scripts_r${BUILD}.zip ru.file en.file chiru.file game.hash default.cfg || exit 1
           cd ../extra/tr_files

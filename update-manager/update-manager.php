@@ -473,6 +473,17 @@ function main($argc, $argv) {
 			else
 				echo $fixture;
 			break;
+		case 'genhash':
+			if ($argc < 4) err(getUsage());
+			if (!file_exists($argv[2])) err('No such file '.$argv[2]);
+			$base_hashes = json_decode(file_get_contents($argv[2]), true);
+			$new_hashes = [];
+			hashDir($argv[3], $argv[3], $new_hashes, 'size');
+			$final_hashes = array_merge($base_hashes, $new_hashes);
+			sort($final_hashes);
+			$out = filteredIniCreate($final_hashes, 'size');
+			file_put_contents($argv[4], $out);
+			break;
 		case 'dscript':
 			if ($argc < 5) err(getUsage());
 			$ver    = '8.2b' . ($argc > 5 ? ' r' . $argv[5] : '');

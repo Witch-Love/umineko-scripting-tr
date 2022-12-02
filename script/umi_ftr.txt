@@ -1687,7 +1687,7 @@ if %init_done = 1 jumpf
 	if %Free1 >  2048 mov %video_res,0
 	mov %video_res,0
 	mov %old_wording,1
-	mov %msgwnd_type,0
+	mov %msgwnd_type,1
 	mov %animated_lips,1
 	;mov %animated_rain,1
 	mov %enable_cache,1
