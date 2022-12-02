@@ -46,6 +46,7 @@ $exclude = [
 	'language_cn',
 	'language_cht',
 	'/en.file',
+	'/tr.file',
 	'/ru.file',
 	'/pt.file',
 	'/pt.cfg',
@@ -55,6 +56,7 @@ $exclude = [
 	'/cht.cfg',	
 	'/chiru.file',
 	'/game.hash',
+	'/game_tr.hash',
 	'/default.cfg'
 ];
 

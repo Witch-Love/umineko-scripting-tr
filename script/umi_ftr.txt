@@ -1694,7 +1694,7 @@ if %init_done = 1 jumpf
 	mov %init_done,1
 	mov %bgm_title_language,1
 
-	mov %op_ed_song_subtitles,2
+	mov %op_ed_song_subtitles,5
 	mov %rumble_strength,50
 	mov %bgm_chapter_display,1
 	mov %sskip_turbo,0
@@ -33301,7 +33301,7 @@ if %Free1==0 mov $Free1,verify_updates : gosub *verify_err : jumpf
 	if %Free1==0 || %Free2!=24299420 mov $Free1,verify_updates : gosub *verify_err : jumpf
 	fileexist %Free1,"sound\voice\01\51500238.ogg",%Free2
 	if %Free1==0 || %Free2!=21406 mov $Free1,verify_updates : gosub *verify_err : jumpf
-	fileexist %Free1,"game.hash"
+	fileexist %Free1,"game_tr.hash"
 	if %Free1==0 mov $Free1,verify_updates : gosub *verify_err : jumpf
 ~
 
@@ -33310,9 +33310,9 @@ if %Free1==0 mov $Free1,verify_engine : gosub *verify_err
 
 if %Free2==1 lsp 50,":s;#FFFFFF`{p:11:"+$Free2+"}", 150,50 : print 1 : click : end
 
-fileexist %Free1,"locale_game.hash",%Free2
+fileexist %Free1,"locale_game_tr.hash",%Free2
 if %Free2!=%last_locale_gamehash goto *full_verify
-fileexist %Free1,"game.hash",%Free2
+fileexist %Free1,"game_tr.hash",%Free2
 if %Free2!=%last_gamehash goto *full_verify
 
 return
@@ -33429,8 +33429,8 @@ border_pad_pop
 flush 1
 
 mov $Free1,""
-verify_files %Free1,"game.hash",$Free1
-if %Free1 == 0 mov $Free2,verification_good : fileexist %Free3,"game.hash",%last_gamehash : goto *full_verify_locale
+verify_files %Free1,"game_tr.hash",$Free1
+if %Free1 == 0 mov $Free2,verification_good : fileexist %Free3,"game_tr.hash",%last_gamehash : goto *full_verify_locale
 if %Free1 == 1 mov $Free2,verification_bad
 if %Free1 == -1 mov $Free2,verification_nohash
 if %Free1 == -2 || %Free1 == -3 mov $Free2,verification_unsupported
@@ -33441,11 +33441,11 @@ goto *full_verify_locale_skip
 
 *full_verify_locale
 
-fileexist %Free1,"locale_game.hash",%Free2
+fileexist %Free1,"locale_game_tr.hash",%Free2
 if %Free1 == 0 mov %last_locale_gamehash,0 : goto *full_verify_locale_skip
 
-verify_files %Free1,"locale_game.hash",$Free1
-if %Free1 == 0 mov $Free2,verification_good : fileexist %Free3,"locale_game.hash",%last_locale_gamehash
+verify_files %Free1,"locale_game_tr.hash",$Free1
+if %Free1 == 0 mov $Free2,verification_good : fileexist %Free3,"locale_game_tr.hash",%last_locale_gamehash
 if %Free1 == 1 mov $Free2,verification_bad
 if %Free1 == -1 mov $Free2,verification_nohash
 if %Free1 == -2 || %Free1 == -3 mov $Free2,verification_unsupported
@@ -33455,7 +33455,7 @@ mov $Free3,verification_end
 *full_verify_locale_skip
 
 ;mov $Free1,""
-;verify_files %Free1,"game.hash",$Free1
+;verify_files %Free1,"game_tr.hash",$Free1
 
 _csp 301
 lbsp2 301,":s;#FFFFFF`"+verification_verifying+$Free2+$Free1+$Free3,140,155
@@ -33521,7 +33521,7 @@ return
 	fileexist %Free2,"fonts\usr\font5.ttf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
-	fileexist %Free2,"fonts\usr\font6.ttf",%Free3
+	fileexist %Free2,"fonts\usr\font6_tr.ttf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
 	fileexist %Free2,"fonts\usr\font7.ttf",%Free3
@@ -33551,7 +33551,7 @@ return
 	fileexist %Free2,"fonts\usr\font5.otf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
-	fileexist %Free2,"fonts\usr\font6.otf",%Free3
+	fileexist %Free2,"fonts\usr\font6_tr.otf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
 	fileexist %Free2,"fonts\usr\font7.otf",%Free3
