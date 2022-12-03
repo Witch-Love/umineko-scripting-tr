@@ -40,7 +40,7 @@ export LAST_EPISODE_CN=$(cat "$UMINEKO_SCRIPTING/current/last_cn")
 php update-manager.php size "$UMINEKO_FILES" "$UMINEKO_SCRIPTING/misc/game.hash"
 php update-manager.php size "$UMINEKO_FILES" "$UMINEKO_FILES/game.hash"
 
-php update-manager.php genhash Base.hash "NEWFILES_DIR" "$UMINEKO_FILES/NEWHASH.hash"
+php update-manager.php genhash game.hash "NEWFILES_DIR" "$UMINEKO_FILES/NEWHASH.hash"
 
 # 2. To make an extra update run:
 

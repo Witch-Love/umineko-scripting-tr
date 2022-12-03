@@ -476,13 +476,20 @@ function main($argc, $argv) {
 		case 'genhash':
 			if ($argc < 4) err(getUsage());
 			if (!file_exists($argv[2])) err('No such file '.$argv[2]);
-			$base_hashes = json_decode(file_get_contents($argv[2]), true);
-			$new_hashes = [];
-			hashDir($argv[3], $argv[3], $new_hashes, 'size');
-			$final_hashes = array_merge($base_hashes, $new_hashes);
-			sort($final_hashes);
-			$out = filteredIniCreate($final_hashes, 'size');
-			file_put_contents($argv[4], $out);
+			copy($argv[2], $argv[4]);
+			$tr_hashes = [];
+			hashDir($argv[3], $argv[3], $tr_hashes, 'size');
+			
+			$output = '';
+			// IniCreate
+			global $exclude;
+			foreach ($tr_hashes as $file => $hash) {
+				if (!hasIn($file, $exclude) && !strstr($file, 'game.hash')) {
+					if ($file[0] == '/') $file = substr($file, 1);
+					$output .= '"'.$file.'"="'.$hash.'"'.CRLF; 
+				}
+			}
+			file_put_contents($argv[4], $output, FILE_APPEND);
 			break;
 		case 'dscript':
 			if ($argc < 5) err(getUsage());
