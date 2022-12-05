@@ -24607,7 +24607,7 @@ mov $BGM_Title,"FIXME"
 if %bgm_title_language != 1 jumpf
 if %BGM_Id == 1	mov $BGM_Title,"Thunberg Lily" : return
 if %BGM_Id == 2	mov $BGM_Title,"Door of Summer" : return
-if %BGM_Id == 3	mov $BGM_Title,"BOUNCE" : return
+if %BGM_Id == 3	mov $BGM_Title,"HANE (Feathers)" : return
 if %BGM_Id == 4	mov $BGM_Title,"Ride on" : return
 if %BGM_Id == 5	mov $BGM_Title,"sea" : return
 if %BGM_Id == 6	mov $BGM_Title,"Hour of Darkness" : return
@@ -24623,7 +24623,7 @@ if %BGM_Id == 15	mov $BGM_Title,"Hell’s Halls" : return
 if %BGM_Id == 16	mov $BGM_Title,"Fortitude" : return
 if %BGM_Id == 17	mov $BGM_Title,"witch in gold(cembalo)" : return
 if %BGM_Id == 18	mov $BGM_Title,"Beckoning" : return
-if %BGM_Id == 19	mov $BGM_Title,"Suspicious Scent" : return
+if %BGM_Id == 19	mov $BGM_Title,"Fishy Aroma" : return
 if %BGM_Id == 20	mov $BGM_Title,"stupefaction" : return
 if %BGM_Id == 21	mov $BGM_Title,"praise" : return
 if %BGM_Id == 22	mov $BGM_Title,"Pass" : return
@@ -24650,7 +24650,7 @@ if %BGM_Id == 42	mov $BGM_Title,"String Quartet #1 in G Major — I.Allegro" : r
 if %BGM_Id == 43	mov $BGM_Title,"cage" : return
 if %BGM_Id == 44	mov $BGM_Title,"Golden Sneer" : return
 if %BGM_Id == 45	mov $BGM_Title,"Scorpion Guts" : return
-if %BGM_Id == 46	mov $BGM_Title,"Final Curtain VerC" : return
+if %BGM_Id == 46	mov $BGM_Title,"Life's End (VerC)" : return
 if %BGM_Id == 47	mov $BGM_Title,"Answer" : return
 if %BGM_Id == 48	mov $BGM_Title,"Answer short" : return
 if %BGM_Id == 49	mov $BGM_Title,"Melody inst.ver" : return
@@ -24696,7 +24696,7 @@ if %BGM_Id == 88	mov $BGM_Title,"F Style" : return
 if %BGM_Id == 89	mov $BGM_Title,"Monochrome Clock" : return
 if %BGM_Id == 90	mov $BGM_Title,"apathy" : return
 if %BGM_Id == 91	mov $BGM_Title,"Mystic Forest" : return
-if %BGM_Id == 92	mov $BGM_Title,"The Tale of Sakutarou’s Tenacity" : return
+if %BGM_Id == 92	mov $BGM_Title,"Sakutarou's Adventure" : return
 if %BGM_Id == 93	mov $BGM_Title,"Parallel" : return
 if %BGM_Id == 95	mov $BGM_Title,"599 million ruins" : return
 if %BGM_Id == 96	mov $BGM_Title,"Happy Maria!(Instrumental)" : return
@@ -24715,7 +24715,7 @@ if %BGM_Id == 108	mov $BGM_Title,"dreamenddischarger" : return
 if %BGM_Id == 109	mov $BGM_Title,"Discode" : return
 if %BGM_Id == 110	mov $BGM_Title,"twirl"  : return
 if %BGM_Id == 111 	mov $BGM_Title,"Future" : return
-if %BGM_Id == 112 	mov $BGM_Title,"Azure Jeer" : return
+if %BGM_Id == 112 	mov $BGM_Title,"Deep Blue Jeer" : return
 if %BGM_Id == 113 	mov $BGM_Title,"The Great Detective Knows" : return
 if %BGM_Id == 114 	mov $BGM_Title,"Smileless Soirée" : return
 if %BGM_Id == 115 	mov $BGM_Title,"one" : return
@@ -24764,7 +24764,7 @@ if %BGM_Id == 157 	mov $BGM_Title,"liberatedliberator" : return
 if %BGM_Id == 158 	mov $BGM_Title,"Thanks for all people" : return
 if %BGM_Id == 159 	mov $BGM_Title,"Infant Queen Bee" : return
 if %BGM_Id == 160 	mov $BGM_Title,"birth of new witch(Short Ver)" : return
-if %BGM_Id == 161 	mov $BGM_Title,"SUSPICIOUSSCENT" : return
+if %BGM_Id == 161 	mov $BGM_Title,"FISHYAROMA" : return
 if %BGM_Id == 162 	mov $BGM_Title,"le4-octobre" : return
 if %BGM_Id == 163 	mov $BGM_Title,"l&d-circulation" : return
 if %BGM_Id == 164 	mov $BGM_Title,"reflection-call" : return
@@ -28846,8 +28846,7 @@ return
 	if $Free3 == "en" mov $Free3,"English"
 	if $Free3 == "ru" mov $Free3,"Русская"
 	if $Free3 == "pt" mov $Free3,"Português"
-	if $Free3 == "wh" mov $Free3,"Witch-Hunt"
-	if $Free3 == "tr" mov $Free3,"Türkçe"
+	if $Free3 == "tr" mov $Free3,"Witch Love"
 	if $Free3 == "cn" mov $Free3,"Chinese Simp."
 	if $Free3 == "cht" mov $Free3,"Chinese Trad."
 	lsp 268,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,226
@@ -33101,7 +33100,7 @@ return
 	if $Free3 == "pt" mov $Free3,"Português" mov %game_language,2
 	if $Free3 == "cn" mov $Free3,"Chinese Simp." mov %game_language,3
 	if $Free3 == "cht" mov $Free3,"Chinese Trad." mov %game_language,4
-	if $Free3 == "tr" mov $Free3,"Türkçe" mov %game_language,5
+	if $Free3 == "tr" mov $Free3,"Witch Love" mov %game_language,5
 	lsp 273,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,%y
 
 	lsp 269,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,%y

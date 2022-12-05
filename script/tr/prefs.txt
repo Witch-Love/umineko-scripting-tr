@@ -1,2 +1,2 @@
 	; Custom preferences per language
-	mov %bgm_title_language,2
+	mov %bgm_title_language,1

@@ -1,6 +1,6 @@
 [guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_2.txt
 
-# Umineko Scripting (Turkish) ~ Umineko Türkçe Çeviri Projesi
+# Witch Love ~ Umineko Türkçe Çeviri Projesi
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
@@ -13,7 +13,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 1. [Umineko Project](https://umineko-project.org/en/)'i kurun.
 2. [Releases](../..//releases) sayfasından son sürümü indirin.
 3. Tüm dosyaları oyun klasörünün içine atın.
-4. Oyunu başlattıktan sonra oyun dilini Türkçe olarak ayarlayın. Hepsi bu!
+4. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
 
 ## Çeviri Yapmak
 1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
@@ -44,6 +44,10 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Epitaph `->` Kitabe
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
+   * Game Master `->` Oyun Yöneticisi
+   * \*giggle\*
+      * Bir taneyse: \*kıkırdar\*
+      * Çokluysa: \*kıkır\*kıkır\*kıkır\*kıkır\*
    * Golden Land `->` Altın Diyar
    * Guesthouse `->` Konukevi
    * Magic `->` Büyü
@@ -51,7 +55,9 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Portrait `->` Portre
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Trick `->` Numara
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
+   * Voyager `->` Gezgin
    * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
 
 ## İlerleme
