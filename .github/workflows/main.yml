@@ -36,19 +36,21 @@ jobs:
           cp misc/game.hash ciout
           cp misc/default.cfg ciout
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
-          php update-manager/update-manager.php script ciout/tr.txt "extra/tr_files/tr.file" "$LAST_EN" || exit 1
-          php update-manager/update-manager.php genhash misc/game.hash "extra/tr_files/" "extra/tr_files/game_tr.hash"
+          php update-manager/update-manager.php script ciout/tr.txt "extra/tr/main/tr.file" "$LAST_EN" || exit 1
+          php update-manager/update-manager.php genhash misc/game.hash "extra/tr/files/" "extra/tr/main/game_tr.hash"
           cd ciout
           zip -qry umineko-main-scripts_r${BUILD}.zip ru.file en.file chiru.file game.hash default.cfg || exit 1
-          cd ../extra/tr_files
-          zip -qry ../../ciout/umineko-tr-files-and-scripts_r${BUILD}.zip * || exit 1
-          cd ../extras
+          cd ../extra/tr/main
+          zip -qry ../../../ciout/umineko-tr-scripts_r${BUILD}.zip * || exit 1
+          cd ../files
+          zip -qry ../../../ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
+          cd ../../extras
           zip -qry ../../ciout/extra_${TODAY}.zip * || exit 1
           cd ../../
           echo ${{ inputs.desc }} >> release_notes.md
 
       - name: Release
-        if: github.repository_owner == ${{ github.repository_owner }}
+        if: github.repository_owner == 'Singulariity'
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -61,7 +63,7 @@ jobs:
           prerelease: false
 
       - name: Upload Extra
-        if: github.repository_owner == ${{ github.repository_owner }}
+        if: github.repository_owner == 'Singulariity'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -72,7 +74,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Upload Main
-        if: github.repository_owner == ${{ github.repository_owner }}
+        if: github.repository_owner == 'Singulariity'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -82,13 +84,24 @@ jobs:
           asset_name: umineko-main-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
 
-      - name: Upload TR
-        if: github.repository_owner == ${{ github.repository_owner }}
+      - name: Upload TR Main
+        if: github.repository_owner == 'Singulariity'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-files-and-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-files-and-scripts_r${{ env.BUILD }}.zip
+          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload TR Files
+        if: github.repository_owner == 'Singulariity'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./ciout/umineko-tr-files_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-files_r${{ env.BUILD }}.zip
           asset_content_type: application/zip

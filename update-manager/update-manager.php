@@ -475,7 +475,8 @@ function main($argc, $argv) {
 			break;
 		case 'genhash':
 			if ($argc < 4) err(getUsage());
-			if (!file_exists($argv[2])) err('No such file '.$argv[2]);
+			if (!file_exists($argv[4])) err('No such file '.$argv[4]);
+			//if (!file_exists($argv[2])) err('No such file '.$argv[2]);
 			//copy($argv[2], $argv[4]);
 			$hashes = [];
 			hashDir($argv[3], $argv[3], $hashes, 'size');
