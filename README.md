@@ -42,6 +42,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Butler `->` Uşak
    * Culprit `->` Suçlu
    * Epitaph `->` Kitabe
+   * Family Head `->` Aile Reisi
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
    * Game Master `->` Oyun Yöneticisi
