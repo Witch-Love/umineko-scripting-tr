@@ -354,7 +354,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * [Song without a name ver.sakura ED-size](../../tree/master/extra/tr_files/video/sub/186_tr.ass) ❌
       * [Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr_files/video/sub/240_tr.ass) ❌
       * [When the Seagulls Cry](../../tree/master/extra/tr_files/video/sub/241_tr.ass) ❌
-      * [Igreja of Echoing Vows](../../tree/master/extra/tr_files/video/sub/tr.ass) ❌
+      * [Igreja of Echoing Vows](../../tree/master/extra/tr_files/video/sub/tr.ass) ✅
       * [When the Seagulls Cry (Legacy)](../../tree/master/extra/tr_files/legacy/sub/tr.ass) ❌
       * [Inanna’s Dream](../../tree/master/extra/tr_files/video/sub/op4_tr.ass) ❌
       * [The Witch of Occultics](../../tree/master/extra/tr_files/video/sub/op56_tr.ass) ❌
