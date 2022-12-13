@@ -940,28 +940,28 @@
 `...I imagine that's why Kinzo-san trusts you so much." `
 `"If so, I am honored..." `
 `As Nanjo lightly laughed in response, he once again looked at the epitaph. `
-`"......Behold the sweetfish river running through my beloved hometown. `
-`You who seek the Golden Land, follow its path downstream in search of the key..." `
-`The epitaph on the portrait called My Beloved Witch Beatrice goes as follows: `
-`{e:070:Behold the sweetfish river running through my beloved hometown. `
-`{n}You who seek the Golden Land, follow its path downstream in search of the key. `
-`{n}{n}As you travel down it, you will see a village. `
-`{n}In that village, look for the shore the two will tell you of. `
-`{n}There sleeps the key to the Golden Land. `
-`{n}{n}The one who obtains the key must then travel to the Golden Land in accordance with these rules.} `
-`{e:070:On the first twilight, offer the six chosen by the key as sacrifices. `
-`{n}On the second twilight, those who remain shall tear apart the two who are close. `
-`{n}On the third twilight, those who remain shall praise my noble name. `
-`{n}On the fourth twilight, gouge the head and kill. `
-`{n}On the fifth twilight, gouge the chest and kill. `
-`{n}On the sixth twilight, gouge the stomach and kill. `
-`{n}On the seventh twilight, gouge the knee and kill. `
-`{n}On the eighth twilight, gouge the leg and kill. `
-`{n}On the ninth twilight, the witch shall revive, and none shall be left alive. `
-`{n}On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.} `
-`{e:070:The witch shall praise the wise and bestow four treasures. `
-`{n}{n}One shall be all the gold from the Golden Land. `
-`{n}One shall be the resurrection of all the dead souls. `
-`{n}One shall be the resurrection of the love that was lost. `
-`{n}One shall be to put the witch to sleep for all time. `
-`{n}{n}Sleep peacefully, my beloved witch, Beatrice.} `
+`"......Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen. `
+`Anahtarın arayışında, akıntı yönündeki patikayı takip edeceksiniz, Altın Diyar’ın peşinde olan sizler..." `
+`Sevgili Cadım Beatrice adlı portrede yer alan kitabe şu sözlerle devam etmektedir: `
+`{e:070:Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen. `
+`{n}Anahtarın arayışında, akıntı yönündeki patikayı takip edeceksiniz, Altın Diyar’ın peşinde olan sizler. `
+`{n}{n}Bir köy göreceksiniz, patikada ilerlerken. `
+`{n}Sizler, düşün peşine ve ilerleyin, köydeki o ikilinin size bahsettiği kıyıya. `
+`{n}Orada yatmaktadır, Altın Diyar'ın anahtarı. `
+`{n}{n}Bu kurallara uyarak Altın Diyar'a seyahat etmelidir, anahtarı uyandıran kişi.} `
+`{e:070:İlk alacakaranlıkta anahtar tarafından seçilen altı kişi kurban olarak sunulacak. `
+`{n}İkinci alacakaranlıkta geride kalanlar yakın olan ikisini birbirinden ayıracak. `
+`{n}Üçüncü alacakaranlıkta hayatta kalanlar asil ismimi yüceltecek. `
+`{n}Dördüncü alacakaranlıkta kafasını oy ve öldür. `
+`{n}Beşinci alacakaranlıkta göğsünü oy ve öldür. `
+`{n}Altıncı alacakaranlıkta karnını oy ve öldür. `
+`{n}Yedinci alacakaranlıkta dizini oy ve öldür. `
+`{n}Sekizinci alacakaranlıkta bacağını oy ve öldür. `
+`{n}Dokuzuncu alacakaranlıkta cadı dirilecek ve hiçbiri hayatta kalmayacak. `
+`{n}Onuncu alacakaranlıkta yolculuk sona erecek ve Altın Diyar'ın hazinelerinin gücünü ilk ve son kez elde edeceksin.} `
+`{e:070:Cadı bilgeleri övecek ve dört hazine bahşedecek. `
+`{n}{n}Biri Altın Diyar'ın bütün altınları olacak. `
+`{n}Biri tüm ölü ruhların dirilişi olacak. `
+`{n}Biri kaybedilmiş aşkın dirilişi olacak. `
+`{n}Ve birisi de cadıyı sonsuza dek uyutmak olacak. `
+`{n}{n}Huzur içinde uyu, sevgili cadım, Beatrice.} `

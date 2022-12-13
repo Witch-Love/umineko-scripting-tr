@@ -46,9 +46,9 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
    * Game Master `->` Oyun Yöneticisi
-   * \*giggle\*
-      * Bir taneyse: \*kıkırdar\*
-      * Çokluysa: \*kıkır\*kıkır\*kıkır\*kıkır\*
+   * \*giggle\* ve \*cackle\*
+      * Bir taneyse `->` \*kıkırdar\*
+      * Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*
    * Golden Land `->` Altın Diyar
    * Guesthouse `->` Konukevi
    * Magic `->` Büyü
