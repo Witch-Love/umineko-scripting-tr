@@ -39,6 +39,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
 3. Bunlar bu şekilde:
    * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
+   * Boiler Room `->` Kazan Dairesi
    * Butler `->` Uşak
    * Culprit `->` Suçlu
    * Epitaph `->` Kitabe
@@ -51,11 +52,14 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*
    * Golden Land `->` Altın Diyar
    * Guesthouse `->` Konukevi
+   * Incinerator `->` Çöp Fırını
    * Magic `->` Büyü
    * Milady `->` Leydim
+   * Parlor `->` Salon
    * Portrait `->` Portre
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Study `->` Çalışma Odası
    * Trick `->` Numara
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
    * Voyager `->` Gezgin
@@ -93,7 +97,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L349) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L829) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L485) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1030) ❌
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1030) ✅
 </details>
 
 * <details>
