@@ -34,7 +34,7 @@
 `She had been sleeping in her parents' room. `
 `"Hey, Ange! `
 `So, you woke up." `
-`"Umm, they said it's time for dinner, so we have to go to the mansion. `
+`"Umm, they said it's time for dinner, so we have to go to the {çeviri-malikane}mansion. `
 `They said to get ready." `
 `"Uu-uu-uu-!! `
 `Food, fooood!! `
@@ -77,12 +77,12 @@
 `Make sure you don't lose your umbrellas." `
 `"Everyone, please take an umbrella." `
 `"Here's your umbrella, Ange-chan." `
-`"Thanks, Aunt Eva." `
+`"Thanks, {çeviri-Hala}Aunt Eva." `
 `"*giggle* `
 `...Ah, girls really are so cute. `
-`Come over to play at your aunt's house one of these days. `
+`Come over to play at your {çeviri-hala}aunt's house one of these days. `
 `It's a promise, okay?" `
-`"...It looks like Aunt Eva's taken a liking to Ange." `
+`"...It looks like {çeviri-Hala}Aunt Eva's taken a liking to Ange." `
 `"Yep. `
 `Apparently, Mother really wanted a daughter." `
 `"Ah, I've heard that too. `
@@ -97,7 +97,7 @@
 `His little sister was cute when she clung to him, but she was just as cute and adorable when looking up at someone else with a happy smile. `
 `The wind and rain were strong, but even this must have been the perfect spice to heighten their anticipation of the coming meal... `
 `Thanks to some festive decorations, the main hall had been remade into the scene of a Halloween party. `
-`The Ushiromiya family always took meals in the dining hall. `
+`The Ushiromiya family always took meals in the {çeviri-yemek salonu}dining hall. `
 `This was the first time I'd ever seen a buffet-style party set up in the main hall. `
 `"Yo, Battleeer! `
 `Hey, Maria! Long time no see...!" `
@@ -122,7 +122,7 @@
 `"And this coming from a person who tells little kids not to eat candy before a meal..." `
 `"Pardon me. `
 `Beatrice-sama, the Master is calling for you." `
-`I saw Kinzo beckoning from over by the portrait. `
+`I saw Kinzo beckoning from over by the {çeviri-portre}portrait. `
 `"Good grief. `
 `When it comes to ceremonies, that man is always so obsessed with form." `
 `"It's probably about that ceremony for the gold's return. `
@@ -146,7 +146,7 @@
 `But it doesn't have anything to do with you personally, so you should just relax." `
 `"Okay. `
 `...Ah, that's right. Hey, hey, did you know? `
-`I just heard a huge secret from Aunt Eva...! `
+`I just heard a huge secret from {çeviri-Hala}Aunt Eva...! `
 `Even Maria onee-chan doesn't know, but I'll tell you!" `
 `"Ooh? `
 `So, what's this secret?" `
@@ -163,9 +163,9 @@
 `Thanks for letting me in on that major secret." `
 `"Nnnnnnng, you're mean, Onii-chan! `
 `And I even told you my secret!" `
-`Ange, her cheeks still puffed out, headed back to where Aunt Eva was. `
+`Ange, her cheeks still puffed out, headed back to where {çeviri-Hala}Aunt Eva was. `
 `They really are getting along well. `
-`Well, I guess I have no problem if it's her aunt. `
+`Well, I guess I have no problem if it's her {çeviri-hala}aunt. `
 `If it was some guy from her class, I don't care if they're in elementary school, it's not happening! `
 `No playing with the opposite sex without Onii-chan's approval! `
 `At that moment, Genji-san's voice rang out. `
@@ -209,7 +209,7 @@
 `"...Beatrice-sama." `
 `"Nngyhh, nnn...!" `
 `After that, Kinzo's longwinded speech continued. `
-`Tonight, Kinzo would retire as the Ushiromiya Family Head. `
+`Tonight, Kinzo would retire as the Ushiromiya {çeviri-Aile Reisi}Family Head. `
 `Then, he announced that he would reveal the distribution of his inheritance. `
 `A stir of excitement spread across the siblings in money trouble when they heard that they wouldn't have to wait for Kinzo's death to get their shares. `
 `"I am aware that each of you is in trouble with money. `
@@ -240,7 +240,7 @@
 `...And so was Rudolf. `
 `Perhaps now, ...despite their ages, `
 `...they had finally left the nest for real. `
-`Tonight, the eagles of the Ushiromiya family would leave Rokkenjima, the nest weaved from the witch's magic, and go their separate ways. `
+`Tonight, the eagles of the Ushiromiya family would leave Rokkenjima, the nest weaved from the witch's {çeviri-büyü}magic, and go their separate ways. `
 `With their own power and determination. `
 `It made Kinzo think. `
 `If only I had done this from the start... `
@@ -258,7 +258,7 @@
 `As the vibrancy of their youth returned to them, the siblings made a promise once again. `
 `When Krauss finished his announcement, a friendly applause filled the hall. `
 `The cousins... `
-`and the servants too... `
+`and the {çeviri-hizmetkar}servants too... `
 `...joined in on the applause that continued on and on. `
 `Ange...watched this, dumbfounded. `
 `...The four siblings were supposed to have quarreled with each other constantly since they were kids. `
@@ -275,19 +275,19 @@
 `"What will you have to see...what will you have to hear... `
 `before you'll let yourself believe...?" `
 `"...Red. `
-`......If you say it with the red truth..." `
+`......If you say it with the {çeviri-kırmızı gerçek}red truth..." `
 `"Is everything that can't be said in red a lie?" `
 `"...I won't believe... `
 `...This is...just..." `
 `Ange looked at the floor and fell silent. `
-`As the Game Master, Battler was able to use the red truth. `
+`As the {çeviri-Oyun Yöneticisi}Game Master, Battler was able to use the {çeviri-kırmızı gerçek}red truth. `
 `However, that rule only exists on a witch's game board. `
-`In the world of Humans, red truth...doesn't exist. `
+`In the world of Humans, {çeviri-kırmızı gerçek}red truth...doesn't exist. `
 `People see things, hear things, `
-`...and when they believe that something is worth believing, they accept it as a red truth. `
+`...and when they believe that something is worth believing, they accept it as a {çeviri-kırmızı gerçek}red truth. `
 `Unless Ange accepts it, no kind of truth can become truth. `
 `Battler wanted her to realize this. `
-`There was no point in using the red truth, a rule of this game, to force the truth on her. `
+`There was no point in using the {çeviri-kırmızı gerçek}red truth, a rule of this game, to force the truth on her. `
 `Ange would have to use her own power, her own heart... `
 `To accept the truth as truth. `
 `The decision was Ange's. `
@@ -313,15 +313,15 @@
 `Those would help anyone enjoy themselves like they were kids again... `
 `Even to Ange, it was like a dream. `
 `She chatted happily with her cousins. `
-`She also chatted with her aunts and uncles. `
-`Beato showed her several tricks that she called magic. `
-`Maria said they were magic, Ange said they were tricks, and the night grew even more lively. `
+`She also chatted with her {çeviri-hala}aunts and uncles. `
+`Beato showed her several tricks that she called {çeviri-büyü}magic. `
+`Maria said they were {çeviri-büyü}magic, Ange said they were tricks, and the night grew even more lively. `
 `The two young girls were so fired up that the adults decided to show some tricks they knew, shocking both of the kids utterly. `
 `Eventually, they each started showing tricks to the others, asking if they'd ever seen this one or that one before, `
-`and it became a party of magic, just perfect for Halloween. `
-`In addition to magic tricks, several quizzes, riddles and games popped up, reminding everyone of their childhood days. `
-`Even the servants who were serving food got dragged into the groups, and the whole hall was filled with chatter. `
-`To Ange, young as she was, every single magic trick, quiz, and riddle was an entirely new experience. `
+`and it became a party of {çeviri-büyü}magic, just perfect for Halloween. `
+`In addition to {çeviri-büyü}magic tricks, several quizzes, riddles and games popped up, reminding everyone of their childhood days. `
+`Even the {çeviri-hizmetkar}servants who were serving food got dragged into the groups, and the whole hall was filled with chatter. `
+`To Ange, young as she was, every single {çeviri-büyü}magic trick, quiz, and riddle was an entirely new experience. `
 `They stimulated her intellectual curiosity, and she couldn't contain her excitement. `
 `Add in the wide variety of delicious foods and drinks she could choose from, and it was like being in a dream. `
 `Ange felt a floaty sensation, as though she was walking on a cloud... `
@@ -350,7 +350,7 @@
 `You'd better come over to my house to play sometime...! `
 `We'll have lots of fun!" `
 `"Okay. `
-`Thanks, Aunt Eva...!" `
+`Thanks, {çeviri-Hala}Aunt Eva...!" `
 `Everyone's being really nice. `
 `It almost feels like I've become a real princess. `
 `I feel so great, I could almost believe that this whole celebration was being held for my sake. `
@@ -384,7 +384,7 @@
 `...Ange has to think and choose for herself. `
 `Even if she doesn't make the decision we view as the correct one, ...I think we should respect it." `
 `"...Hmmm. `
-`...You are the Game Master. `
+`...You are the {çeviri-Oyun Yöneticisi}Game Master. `
 `I cannot argue with you anymore. `
 `I will simply watch on and enjoy this night." `
 `"This game is really significant for Ange. `
@@ -642,7 +642,7 @@
 `"I've...already chosen my wish..." `
 `"Oh. `
 `And what is it? `
-`Won't you tell your aunt?" `
+`Won't you tell your {çeviri-hala}aunt?" `
 `I want this fun time to keep on going. `
 `...Forever. `
 `The young me spoke for the desire in my heart. `
@@ -658,7 +658,7 @@
 `Remember how much fun we were having earlier? `
 `Let's all entertain Ange-chan with tricks and quizzes." `
 `"Hold up there. `
-`I've already used up all my magic tricks." `
+`I've already used up all my {çeviri-büyü}magic tricks." `
 `"Then let's do quizzes and riddles." `
 `"So, we just need to entertain Ange-chan with quizzes?" `
 `"We can all present quizzes for our princess to enjoy." `

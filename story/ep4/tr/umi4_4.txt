@@ -37,7 +37,7 @@
 `I don't even care if Dad hits us." `
 `"To make a long story short, we wanna meet Dad directly and say hello. `
 `Even if he says he doesn't want to. `
-`If he's locked up in his study, we don't care if we have to borrow a key from Genji-san. `
+`If he's locked up in his {çeviri-çalışma odası}study, we don't care if we have to borrow a key from Genji-san. `
 `Right, Rosa?" `
 `"...Oh, ...well, umm...it's not like we're forcing you... `
 `...It's just...we haven't said hello to Father in such a long time. `
@@ -98,7 +98,7 @@
 `"......I'm surprised. `
 `I did not think you, Kyrie-san, would be able to understand our efforts, `
 `which even my true siblings have not stopped to consider." `
-`"...It's a natural duty for the Successor to the Ushiromiya Family Headship." `
+`"...It's a natural duty for the Successor to the Ushiromiya {çeviri-Aile Reisliği}Family Headship." `
 `"That's right. `
 `It's your responsibility as the Successor to the Headship, isn't it? `
 `...It's because you take care of Father that we must acknowledge you as the Successor." `
@@ -219,23 +219,23 @@
 `...There was a single illusion in there." `
 `It was never guaranteed that {i:the 18 names = the 18 people on the island}. `
 `"When she named off all 18 people and announced who was alive and who was dead, `
-`she hid the name of culprit X, and instead mixed in someone who wasn't on this island...! `
-`By doing that, even though the culprit was on the island, she was able to leave him out of the list of living or dead people! `
+`she hid the name of {çeviri-suçlu}culprit X, and instead mixed in someone who wasn't on this island...! `
+`By doing that, even though the {çeviri-suçlu}culprit was on the island, she was able to leave him out of the list of living or dead people! `
 `The person who was mixed in wasn't actually on the island, so he didn't count towards the total number of people on the island." `
-`"By this, even though the culprit counted towards the total of 18 people on the island, it was possible for his name not to be listed! `
+`"By this, even though the {çeviri-suçlu}culprit counted towards the total of 18 people on the island, it was possible for his name not to be listed! `
 `The two statements in red are completely independent, so this theory creates no contradictions...!" `
-`"If someone's name was used to hide the existence of the culprit, that name must satisfy several conditions. `
+`"If someone's name was used to hide the existence of the {çeviri-suçlu}culprit, that name must satisfy several conditions. `
 `...First of all, even though this person isn't on the island, they've got to be someone we think is on the island. `
 `...Otherwise, she wouldn't have been able to trick us." `
 `"And it's best if this person happens to be dead. `
-`...No alibi is more perfect than death. `
+`...No {çeviri-mazeret}alibi is more perfect than death. `
 `After all, at that point, the mystery was based on the fact that the crime was impossible for all 18 people. `
 `......Is it something like that?" `
 `"Yeah, that's it...! `
 `And, that person was... `
 `Grandfather. `
 `...Right now, there's only one thing Kyrie-san can be about to say. `
-`...We thought Grandfather was locked up in his study, saying that he didn't want to meet anyone, `
+`...We thought Grandfather was locked up in his {çeviri-çalışma odası}study, saying that he didn't want to meet anyone, `
 `...but there's a possibility that he's actually dead already, `
 `and that Uncle Krauss is lying when he claims that Grandfather's alive...!" `
 `That's right. `
@@ -273,7 +273,7 @@
 `This is the end of your deceptiooooooooooon!!" `
 `"*cackle*cackle*cackle*cackle* Ahhahahahahahahahahaha...!! `
 `Well now, what have we here? `
-`......Shall I slice that in two with the red truth? `
+`......Shall I slice that in two with the {çeviri-kırmızı gerçek}red truth? `
 `No, no, it might also be good to hold back for now and let you get all excited. `
 `If I'm going to push you off a cliff anyway, it would be more interesting to lure you to a higher place first. `
 `*cackle*!" `
@@ -294,21 +294,21 @@
 `...She won't do it until she thinks it'll benefit her." `
 `"What?! `
 `What do you mean...?" `
-`"You've been toyed with by this red truth in the games up until now, so the witch has used it many times. `
+`"You've been toyed with by this {çeviri-kırmızı gerçek}red truth in the games up until now, so the witch has used it many times. `
 `But now, the situation is different. `
-`You're trying to draw the red truth out of her...and are instead using it as your weapon. `
+`You're trying to draw the {çeviri-kırmızı gerçek}red truth out of her...and are instead using it as your weapon. `
 `In this situation, there's no way the witch will keep firing off the red without reason. `
 `......Right?" `
 `"Gretel, or whoever you are. `
 `...It seems your mind is quite sharp, unlike Battler's. `
 `What a fearsome enemy I've welcomed in. `
 `That is correct! `
-`When Battler hopes I'll use the red truth, do I have any responsibility to do so?!" `
+`When Battler hopes I'll use the {çeviri-kırmızı gerçek}red truth, do I have any responsibility to do so?!" `
 `"No! `
 `I don't even have a crumb from that croissant you ate this morning's worth of responsibility to please yooooooou!!" `
 `"Y-You bastard......!!" `
 `"Yes yes yes yes, that's the faaaaace! `
-`I started playing with the red truth just because I wanted to see that face! `
+`I started playing with the {çeviri-kırmızı gerçek}red truth just because I wanted to see that face! `
 `I have no reason to play around if it won't give me a chance to see you look like that...!" `
 `"...Heheh. `
 `You just don't like losing, right? `
@@ -325,9 +325,9 @@
 `"*cackle*cackle*! `
 `Exactly, exactly! `
 `Unlike Battler, everything goes quickly with this girl, with no need for explanations! `
-`I will say what I please with the red truth, at the time that I desire!" `
+`I will say what I please with the {çeviri-kırmızı gerçek}red truth, at the time that I desire!" `
 `"That's it. `
-`Basically, it's the witch's right to use the red truth as she pleases. `
+`Basically, it's the witch's right to use the {çeviri-kırmızı gerçek}red truth as she pleases. `
 `She doesn't have to use it at whatever time the human side desires. `
 `......But even that depends on the situation." `
 `"...The situation...? `
@@ -338,7 +338,7 @@
 `"...Just like how the witch theory made by the witch...... `
 `will instantly become truth if you collapse and stop thinking." `
 `"Then, ...since she doesn't have a counterargument for my guess, that means it's right?! `
-`It's right that the culprit is the mysterious 18th person X, and Grandfather is already dead?!" `
+`It's right that the {çeviri-suçlu}culprit is the mysterious 18th person X, and Grandfather is already dead?!" `
 `"...At least, until the witch argues back. `
 `Truth always loses to new truths farther in the future. `
 `...The tricky part is that even the timing of the counterargument is up to the witch." `
@@ -368,7 +368,7 @@
 `Kuhihihihihihihihi!" `
 `"...But that alone doesn't change the fact that demanding that you repeat things is one of Battler's ways to fight back. `
 `As I already said, as long as it's something fatal that'll destroy the witch theory, `
-`the witch is obligated to argue back, and therefore, to speak with the red truth. `
+`the witch is obligated to argue back, and therefore, to speak with the {çeviri-kırmızı gerçek}red truth. `
 `...While the timing of that counterargument is up to the witch, it must be performed eventually. `
 `......Isn't that right?" `
 `"Hmm, that may be so. `
@@ -405,7 +405,7 @@
 `You can't proclaim your victory unless you solve all the puzzles." `
 `"Just as I can use the red, `
 `from now on, I will allow you to use the blue, Battler." `
-`"When explaining my magical murders with human tricks, you may state your claims in blue. `
+`"When explaining my {çeviri-büyülü}magical murders with human tricks, you may state your claims in blue. `
 `I am responsible for countering your blue with the red by the end of the game." `
 `"Blue... `
 `...So I'll talk in blue when I tell you to repeat things...?" `
@@ -421,8 +421,8 @@
 `But since that by itself wouldn't deny witches, I can't say it in blue. `
 `So, in order to speak in blue, I'd need to say something like this... `
 `'The actual number of master keys was greater than 5. `
-`The culprit entered or exited the room with that extra key!' `
-`...Only then would the witch, who claimed that this was a closed room murder made with magic, be responsible for making a counterargument. `
+`The {çeviri-suçlu}culprit entered or exited the room with that extra key!' `
+`...Only then would the witch, who claimed that this was a closed room murder made with {çeviri-büyü}magic, be responsible for making a counterargument. `
 `In other words, I can't demand that she repeat something that merely confirms the premises of my reasoning. `
 `......That'll probably be a significant disadvantage for me. `
 `Crap... `
@@ -466,7 +466,7 @@
 `Blast away with a massive number of bullets, of guesses, and make them impact like a wall, so that only one of them hitting the target is enough. `
 `"......Blue, huh...? `
 `...I get it. `
-`If your red truth is a razor-sharp katana, then it looks like my blue is a shotgun. `
+`If your {çeviri-kırmızı gerçek}red truth is a razor-sharp katana, then it looks like my blue is a shotgun. `
 `No, ...a machine gun whose firepower'll turn the witch into a honeycomb." `
 `"I see, so it's an awkward gun that fires many shots. `
 `*cackle*cackle*! `
@@ -489,7 +489,7 @@
 `Suspension of thought is a clogged barrel...! `
 `The pathetic way I've been reasoning up until now is like a peashooter. `
 `I've been so lame, weakly firing off shots, getting them denied in red, and then taking the next bullet and reloading. `
-`My "blue truth", which claims that humans and tricks are what's real, `
+`My "{çeviri-mavi gerçek}blue truth", which claims that humans and tricks are what's real, `
 `will overpower its target, the illusion told by the witch, with its firepower and the force of what I can imagine...! `
 `This is... `
 `Ushiromiya Battler's fighting style...!! `
@@ -505,14 +505,14 @@
 `I'll show you it!!" `
 `"*cackle*cackle*cackle*cackle*!! `
 `That willpower is good, I like it! `
-`Then, try using it right away, this blue truth of yours...!!" `
+`Then, try using it right away, this {çeviri-mavi gerçek}blue truth of yours...!!" `
 `"...Yeah, I'll use it. `
-`With this blue truth, I'll break apart your witch theory, which states that only a witch culprit was possible because everyone had alibis!!" `
+`With this {çeviri-mavi gerçek}blue truth, I'll break apart your witch theory, which states that only a witch {çeviri-suçlu}culprit was possible because everyone had {çeviri-mazeret}alibis!!" `
 `"This is my truth! `
 `{p:2:Ushiromiya Kinzo is already dead}. `
 `{p:2:Therefore, the true number of people on the island is 17}! `
 `{p:2:By adding an unknown person X to that, it becomes 18 people}. `
-`{p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!" `
+`{p:2:By supposing that this person X exists, the crime is possible even if all 17 people have {çeviri-mazeret}alibis}!!" `
 `"...In short, if you keep preventing us from meeting with Father, we will have to accept the following theory. `
 `Simply put, Father is already dead. `
 `But you're hiding that because you don't want the inheritance to be distributed." `
@@ -555,7 +555,7 @@
 `"......I'm sorry, but please don't take it badly, okay? `
 `I'm just playing detective here." `
 `"...H-How rude can one be?!! `
-`You have no right to stay in this mansion!! `
+`You have no right to stay in this {çeviri-malikane}mansion!! `
 `Leave immediately!! `
 `I won't permit you to cross the threshold of this house again!!" `
 `"It worked last year, but you've used up your luck if you thought it'd work this year too. `
@@ -571,7 +571,7 @@
 `In that case, if you just accept our conditions, everything will be settled here and now." `
 `"......After all, you care so greatly for Father, Krauss nii-san. `
 `There's no way Father will die in a manner that leads to trouble during the autopsy." `
-`"After all, Father hates hospitals, so he'll pass away in his study, right? `
+`"After all, Father hates hospitals, so he'll pass away in his {çeviri-çalışma odası}study, right? `
 `An autopsy will certainly be carried out no matter what happens. `
 `......The only way to {i:kill him without an autopsy} would be for him to disappear." `
 `"......Enough, Kyrie-san. I think you've bullied Nii-san enough." `
@@ -654,7 +654,7 @@
 `Please persuade him to meet with us. `
 `After all, you're Dad's caretaker." `
 `"And as for persuading him, ...let's set a limit on it to sometime tonight, okay? `
-`When tomorrow comes, we'll confirm Father's well-being, even if we have to break down the door to his study. `
+`When tomorrow comes, we'll confirm Father's well-being, even if we have to break down the door to his {çeviri-çalışma odası}study. `
 `......You have no problems with that, I take it? `
 `Nii-san...?" `
 `"...Do as you like. `
@@ -662,7 +662,7 @@
 `...Let us go, Natsuhi. `
 `We shall ask him to join us for dinner at least." `
 `"R-Right...!" `
-`Krauss left the parlor with Natsuhi. `
+`Krauss left the {çeviri-salon}parlor with Natsuhi. `
 `Once their footsteps disappeared, `
 `Hideyoshi took a deep breath, smirking and flopping onto the sofa... `
 `"......Kyrie-san, `
@@ -683,7 +683,7 @@
 `There's no way he can." `
 `There's no way to convince someone who isn't even there...! `
 `"......The siblings have all come, despite their various circumstances, for this annual family conference." `
-`Krauss and Natsuhi could be seen in Kinzo's dimly lit study. `
+`Krauss and Natsuhi could be seen in Kinzo's dimly lit {çeviri-çalışma odası}study. `
 `Every once in a while, thunder could be heard, and the dimly lit room flickered with light. `
 `...It seemed that the island would be closed off by the storm very soon. `
 `"...Father...! `

@@ -15,7 +15,7 @@
 `Quiet footsteps rang out across this still cathedral... `
 `From the darkness behind a pillar, ...a woman slowly stepped forward. `
 `...It was Beatrice. `
-`Just like they'd been the whole time in the Golden Land, ...her eyes had no light in them... `
+`Just like they'd been the whole time in the {çeviri-Altın Diyar}Golden Land, ...her eyes had no light in them... `
 `and were still muddied over with gray. `
 `This person was once unable to even drink black tea to her satisfaction by her own will, `
 `...but though it was slow...and though there was no life in her eyes, `
@@ -65,7 +65,7 @@
 `...her task... `
 `and scattered... `
 `as a spray of gold. `
-`In the Golden Land, `
+`In the {çeviri-Altın Diyar}Golden Land, `
 `...the gray rain... `
 `gently continued to fall. `
 `...There was a faint aroma of good black tea. `
@@ -75,7 +75,7 @@
 `...This is... `
 `...a recollection... `
 `A recollection from Battler's memory, which Dlanor's sword must have given him as it pierced him... `
-`A recollection of that time Dlanor had come to visit the tea party in the Golden Land... `
+`A recollection of that time Dlanor had come to visit the tea party in the {çeviri-Altın Diyar}Golden Land... `
 `"It's the same with {f:5:me}. `
 `The next time we cross swords, I won't hold {f:5:back}." `
 `"Bring it on. `
@@ -101,7 +101,7 @@
 `...Sounds pretty ridiculous." `
 `Bernkastel said it herself. `
 `She said that, because they were forbidden by Knox's 3rd, even searching for hidden doors was a waste of time. `
-`I'd like to counter that by saying it probably isn't so uncommon for a rich family's mansion to have a hidden door or two built into it. `
+`I'd like to counter that by saying it probably isn't so uncommon for a rich family's {çeviri-malikane}mansion to have a hidden door or two built into it. `
 `...But apparently, that sort of rule works perfectly well in the mystery genre. `
 `By the way, there exist many wonderful mysteries in which hidden doors appear... `
 `and where hidden doors are the theme. `
@@ -111,7 +111,7 @@
 `...I think that's probably the essence of her ridiculous argument. `
 `It's like the detective trying to expose the truth...and the illusion trying to confuse it with a mixture of truth and lies... `
 `are getting blended together, leading to a bizarre form of argument similar to a Devil's Proof. `
-`Making a closed room murder seem to be accomplished by a witch with magic is fantasy. `
+`Making a closed room murder seem to be accomplished by a witch with {çeviri-büyü}magic is fantasy. `
 `Exposing that it was a Human's crime done with tricks is anti-fantasy. `
 `Examining all possibilities to expose the nature of those tricks is mystery. `
 `But is it also mystery...to claim that possibilities with no hints supporting them are unworthy of investigation? `
@@ -170,7 +170,7 @@
 `The same thing goes for thinking and reasoning. `
 `Humans view a problem differently `
 `depending on whether or not it's guaranteed to be solvable... `
-`"In detective novels, there's always a scene where the detective announces that he's discovered who the culprit is. `
+`"In detective novels, there's always a scene where the detective announces that he's discovered who the {çeviri-suçlu}culprit is. `
 `...That's a sign saying 'The hints have all been given in the previous parts of the story, `
 `so dear readers, please try to reason it out'." `
 `"...Ah. `
@@ -196,14 +196,14 @@
 `Isn't that convenient? `
 `What clever little words to hide your own incompetence.' `
 `Then, she said she'd give me certain information that couldn't be denied, `
-`and created the rule called the red truth. `
+`and created the rule called the {çeviri-kırmızı gerçek}red truth. `
 `Once we reached that point, the curtain finally rose on my battle with Beato... `
 `"...So, ...that's when I finally had a guarantee that I could solve this tale if I tried, `
 `...and I stepped up to the stage with her for the first time...?" `
 `"Beatrice. `
 `...She's a strange {f:5:person}. `
-`Though riddles are the only holes witches can live within, she began to give you the red truth, a method by which those riddles could be {f:5:solved}." `
-`You could say the red truth is a hint Beato gives me, so that I can compete in this war of reasoning. `
+`Though riddles are the only holes witches can live within, she began to give you the {çeviri-kırmızı gerçek}red truth, a method by which those riddles could be {f:5:solved}." `
+`You could say the {çeviri-kırmızı gerçek}red truth is a hint Beato gives me, so that I can compete in this war of reasoning. `
 `...Like candy. `
 `Because I've been given hints, `
 `it's like she's saying... `
@@ -313,12 +313,12 @@
 `"For that reason, `
 `...I cannot say for certain that this tale is something you will be able to solve. `
 `...However, I can promise you one thing. `
-`...I will guarantee it with the red truth." `
+`...I will guarantee it with the {çeviri-kırmızı gerçek}red truth." `
 `"...What?" `
 `"{p:1:Beato wanted you to solve it, `
 `so she created this game— `
 `and the riddles of this tale—to be solvable}. `
-`That alone, I will guarantee with the red truth." `
+`That alone, I will guarantee with the {çeviri-kırmızı gerçek}red truth." `
 `It was... `
 `...the one guarantee... `
 `...that all those who try to use reasoning desire. `
@@ -335,7 +335,7 @@
 `...And...if you come face to face with me {f:5:again}, `
 `there probably won't be time to speak of such things so {f:5:casually}." `
 `...Knox's Decalogue... `
-`...and Virgilia's red truth. `
+`...and Virgilia's {çeviri-kırmızı gerçek}red truth. `
 `"{p:1:Beato wanted me to solve the riddles of this game, `
 `so she created them to be solvable}." `
 `In other words, ...Beato wants me to be capable of solving it. `
@@ -424,7 +424,7 @@
 `...One guy, multiple women. `
 `And the topic is love. `
 `...Wait a sec, isn't this the worst possible formation for getting made fun of? `
-`When I tried to bring back a proper mood for a tea party in the rainy Golden Land `
+`When I tried to bring back a proper mood for a tea party in the rainy {çeviri-Altın Diyar}Golden Land `
 `by clumsily searching for a more noble subject, `
 `Virgilia saw right through me and laughed... `
 `......... `
@@ -437,11 +437,11 @@
 `By now, it's all too late... `
 `..."Let me think". `
 `Now that everything is too late already and I've got an endless amount of time on my hands, ...let me think. `
-`...One more time, let me think about the red truth Virgilia gave me... `
+`...One more time, let me think about the {çeviri-kırmızı gerçek}red truth Virgilia gave me... `
 `and the crutch of the Decalogue that Dlanor lent me... `
-`With the red truth, `
+`With the {çeviri-kırmızı gerçek}red truth, `
 `...Virgilia guaranteed that at the very least, Beato left enough room in this tale for me to achieve victory. `
-`...That red truth guarantee will once again... `
+`...That {çeviri-kırmızı gerçek}red truth guarantee will once again... `
 `...give me the power to start my heart beating... `
 `And...there's the crutch of the Decalogue, which Dlanor lent me. `
 `Dlanor herself warned me in the beginning that the Decalogue isn't so almighty that it can solve all riddles. `
@@ -468,15 +468,15 @@
 `What was...the first one, again...? `
 `"...Allow me to speak. `
 `Knox's 1st. `
-`It is forbidden for the culprit to be anyone not mentioned in the early part of the story." `
+`It is forbidden for the {çeviri-suçlu}culprit to be anyone not mentioned in the early part of the story." `
 `When I muttered about what the first one was... `
 `...As if answering my question, `
 `...Dlanor's subordinate appeared. `
 `Without bothering with an unnecessary "hello", she told me nothing more or less than what I wanted to know. `
 `"...Yeah, that's it. `
 `The 1st. `
-`...The culprit has to be one of the people mentioned in the early part of the story." `
-`In other words, ...the culprit must have already appeared... `
+`...The {çeviri-suçlu}culprit has to be one of the people mentioned in the early part of the story." `
+`In other words, ...the {çeviri-suçlu}culprit must have already appeared... `
 `as early as the first game...? `
 `True, that's the most basic of basics in the mystery genre. `
 `A classic assumption. `
@@ -487,22 +487,22 @@
 `That violates the closed circle rule. `
 `By that point, everything gets screwed up. `
 `Did I give up on the inside, `
-`...thinking that the true culprit or mastermind must not have shown up yet, and that reasoning was therefore useless...? `
+`...thinking that the true {çeviri-suçlu}culprit or mastermind must not have shown up yet, and that reasoning was therefore useless...? `
 `If I read this tale as a fantasy, ...new characters keep showing up, `
 `to the point where even having demon kings or gods or creators appear wouldn't be strange at all. `
 `Even if the true mastermind first appears in one of the last Episodes, I'd have to accept it. `
 `However, ...if I read it as a mystery and stick with that conviction... `
 `Then there's no need to worry at all about anyone who shows up later. `
 `Because Knox's 1st clearly states `
-`that it's impossible for the culprit to be anyone who appears later on in the story. `
+`that it's impossible for the {çeviri-suçlu}culprit to be anyone who appears later on in the story. `
 `...Of course, there's also what both Dlanor and Virgilia said. `
 `There's no guarantee that this tale follows the rules of the Decalogue, `
-`so of course, I can't deny the possibility that the culprit first appeared in the 2nd game or later. `
+`so of course, I can't deny the possibility that the {çeviri-suçlu}culprit first appeared in the 2nd game or later. `
 `However, ...this is one way of thinking. `
 `This time... `
 `I'll forget about the Devil's Proof completely...and try to borrow the power of the Decalogue in my thinking. `
 `After all, I've already said myself that I won't be able to reach the truth without a multi-angled outlook. `
-`"In that case, ...that means the culprit in all of these repeating games... `
+`"In that case, ...that means the {çeviri-suçlu}culprit in all of these repeating games... `
 `is one of the 18. `
 `From the very beginning, ...there was no need for an illusion of a 19th person." `
 `...Even the first of Knox's commandments... `
@@ -515,11 +515,11 @@
 `It is forbidden for supernatural agencies to be employed as a detective technique." `
 `Dlanor's other subordinate appeared without a sound...and gave me an answer to my question. `
 `...That's right. `
-`A detective can't go around using magic. `
+`A detective can't go around using {çeviri-büyü}magic. `
 `"So, ...... `
 `...if this is a fair battle, `
 `...does that mean that, like the detective, `
-`...the culprit also isn't allowed to use magic...?" `
+`...the {çeviri-suçlu}culprit also isn't allowed to use {çeviri-büyü}magic...?" `
 `"Allow me to speak. `
 `...Know that you are free to interpret it as you please." `
 `"Yeah, that's right. `
@@ -528,17 +528,17 @@
 `If this game is a battle between me and Beato... `
 `...Then because this tale is solvable, `
 `no elements will appear that make it impossible to solve. `
-`In other words, things like magic mustn't appear. `
+`In other words, things like {çeviri-büyü}magic mustn't appear. `
 `When they do appear, I shouldn't suspect that the mystery element is breaking down, `
 `...but I should instead question why it was shown...and suspect the witnesses and observers. `
 `That's right, `
 `...that was... `
 `Beato's greatest weapon in the 2nd game. `
-`Depictions of magic, which couldn't exist in a mystery. `
+`Depictions of {çeviri-büyü}magic, which couldn't exist in a mystery. `
 `By showing me that, she forced me to think that this tale wasn't a mystery, `
 `and therefore, that reasoning was impossible... So I surrendered... `
 `However, if I had believed unshakably that it was a mystery... `
-`...It would've been completely obvious to doubt the witnesses who claimed to have seen magic. `
+`...It would've been completely obvious to doubt the witnesses who claimed to have seen {çeviri-büyü}magic. `
 `Also, at the end of the 1st game, `
 `it was revealed that this tale was passed on to people in the future by that message bottle. `
 `...Someone had written about this crime, ...this tale. `
@@ -552,7 +552,7 @@
 `that the story itself must be seen through the eyes of God. `
 `For that reason, it's possible to doubt even the observer, as well as the witnesses. `
 `If I could've doubted this much, `
-`...then no matter how many seemingly unsolvable displays of magic appeared, `
+`...then no matter how many seemingly unsolvable displays of {çeviri-büyü}magic appeared, `
 `I wouldn't have had to blindly accept them and give up... `
 `However, that begs the question: `
 `...is it even possible to solve a tale written by an observer who isn't impartial? `
@@ -575,8 +575,8 @@
 `Unless we acknowledge that we "love each other", `
 `...we won't be able to get any further. `
 `When Virgilia ran out of patience with the two of us, shy and incapable as we were of acknowledging that out loud, `
-`she gave me that red truth instead. `
-`That was the red truth saying `
+`she gave me that {çeviri-kırmızı gerçek}red truth instead. `
+`That was the {çeviri-kırmızı gerçek}red truth saying `
 `“{p:1:Beato wanted me to solve the riddles of this game, so she created them to be solvable}”. `
 `...What the hell. `
 `It's like "Satou-san in class A says he likes you". `
@@ -616,7 +616,7 @@
 `...It isn't from the Decalogue, but Erika or someone said this: `
 `There are three riddles to be exposed in a mystery. `
 `One is the "who dunnit". `
-`Who is the culprit? `
+`Who is the {çeviri-suçlu}culprit? `
 `One is the "how dunnit". `
 `How did they commit the crime? `
 `One is the "why dunnit". `
@@ -636,7 +636,7 @@
 `...from the 3rd game onwards, she set things up in a way that made it easier for me, `
 `giving me tips on how to fight and a few hints. `
 `Virgilia and Ronove obviously appeared so that they could help me. `
-`Also, though we still had the usual crazy magic shows, `
+`Also, though we still had the usual crazy {çeviri-büyü}magic shows, `
 `she gave me the metaphor of the Braun tube trial, as well as tips on how to fight back. `
 `I finally understood how to fight, `
 `...and most likely, at the end of the 4th game... `
@@ -646,13 +646,13 @@
 `...entrusted me with explaining this tale, didn't she... `
 `In that case, ...it was really dumb of me to boycott most of the 5th game... `
 `just because I was so disgusted with those two witches... `
-`It doesn't matter who the Game Master is. `
+`It doesn't matter who the {çeviri-Oyun Yöneticisi}Game Master is. `
 `All I need is to search for the truth in Beato's game. `
 `...On the contrary, I should probably... `
 `thank those two witches just a little for continuing the game in Beato's place, now that she's gone and left everything to me. `
 `Of course, `
 `I doubt those evil witches were trying to do anything of the sort... `
-`Culprit. `
+`{çeviri-Suçlu}Culprit. `
 `Crime. `
 `Motive. `
 `The answers to those three ultimate riddles...the hints...must be scattered throughout the previously shown tales. `
@@ -681,7 +681,7 @@
 `...and kept on falling and falling... `
 `It was a bizarre experience, `
 `...like crossing over the boundary of sleep while still conscious. `
-`The several tales before became faint bubbles...no, were they small shining Fragments? `
+`The several tales before became faint bubbles...no, were they small shining {çeviri-Kakera}Fragments? `
 `...And were scattered like stars amidst a pitch-black sky. `
 `I kept sinking on and on... `
 `...into that sea... `
@@ -824,10 +824,10 @@
 `dammiiiiiiiiiittt...!!!" `
 `...At that time, I noticed a golden glint on the palm of my hand. `
 `It was......a single wing from a gold butterfly. `
-`That small Fragment of gold... `
+`That small {çeviri-Kakera}Fragment of gold... `
 `...was the only piece of Beato... `
 `...that I was permitted to touch... `
-`I cried with all my strength, ...gripped that Fragment, ...and pressed it against my head, apologizing. `
+`I cried with all my strength, ...gripped that {çeviri-Kakera}Fragment, ...and pressed it against my head, apologizing. `
 `...Why couldn't I reach the truth earlier...? `
 `Then I pressed it to my chest, `
 `...promising that even now, `
@@ -837,7 +837,7 @@
 `When I pressed my hand against my chest, ...the sword piercing my chest cut my wrist, and blood dribbled out. `
 `That blood spread throughout my fist... `
 `...and it must have... `
-`...soaked that gold Fragment with my red blood. `
+`...soaked that gold {çeviri-Kakera}Fragment with my red blood. `
 `It must have been...the only way of telling her... `
 `that I'd found the truth she'd wanted me to know about... `
 `I clutched the wing of the gold butterfly... `
@@ -937,8 +937,8 @@
 `Looks like that kid's game really will keep us entertained until the very end...! `
 `Sure, I'll play along...!" `
 `"Erika, you handle this...! `
-`The red truth you've created with me is perfect...! `
-`The construction of truth that makes Natsuhi the culprit is perfect...! `
+`The {çeviri-kırmızı gerçek}red truth you've created with me is perfect...! `
+`The construction of truth that makes Natsuhi the {çeviri-suçlu}culprit is perfect...! `
 `Battler certainly won't be able to break it!" `
 `"O-Of course, my master...!! `
 `There's no need to worry at all! `
@@ -949,13 +949,13 @@
 `"...Nyeh. `
 `I told you he'd do it nyeh." `
 `"Territory lord...?! Who is?! `
-`Who controls this Fragment?! `
+`Who controls this {çeviri-Kakera}Fragment?! `
 `I do...!!" `
 `"...Territory lord... `
 `...You don't mean, `
 `...Battler is...?" `
 `"Yes. `
-`Ushiromiya Battler has been authorized as the official territory lord of this Fragment...!" `
+`Ushiromiya Battler has been authorized as the official territory lord of this {çeviri-Kakera}Fragment...!" `
 `"Yes, that's right. `
 `...So, you still don't understand? `
 `You don't know what that gold sparkle signifies? `
@@ -970,8 +970,8 @@
 `Okay, I'll test Battler to see whether he really understands everything...!! `
 `Erika!" `
 `"Too bad, Erika. `
-`...Just when you were finally appointed as the territory lord of this Fragment, you've been deprived of that title." `
-`"The new territory lord of this Fragment is Ushiromiya Battler. `
+`...Just when you were finally appointed as the territory lord of this {çeviri-Kakera}Fragment, you've been deprived of that title." `
+`"The new territory lord of this {çeviri-Kakera}Fragment is Ushiromiya Battler. `
 `...*giggle* Is it awful? Hey, hey, don't you feel just awful?! `
 `How's it feel to be deprived of that title just when you'd finally gotten it?! How's it feel?!" `
 `"Ahh, `
@@ -991,13 +991,13 @@
 `impossible `
 `impossible!! `
 `The theory I've created has no holes!! `
-`It's impossible to deny that Natsuhi is the culprit!!" `
+`It's impossible to deny that Natsuhi is the {çeviri-suçlu}culprit!!" `
 `"... `
-`{p:1:I can construct a theory with someone other than Aunt Natsuhi as the culprit}. `
+`{p:1:I can construct a theory with someone other than {çeviri-Hala}Aunt Natsuhi as the {çeviri-suçlu}culprit}. `
 `...It may be that your truth is impossible to disprove. `
 `...If so, that means your truth won't be able to deny my new truth either...!" `
-`Battler spoke with the red truth allowed him by his status as a sorcerer. `
-`"...A-A culprit other than Natsuhi...?! `
+`Battler spoke with the {çeviri-kırmızı gerçek}red truth allowed him by his status as a sorcerer. `
+`"...A-A {çeviri-suçlu}culprit other than Natsuhi...?! `
 `...H-Hah!! How's that?!! `
 `Dlanor!! `
 `Let's see where this delusion of Battler-san's takes us...!!" `
@@ -1016,7 +1016,7 @@
 `Dlanor A. Knoooooooooooxxxx!!!" `
 `Dlanor's form disappeared in an instant. `
 `As though her slow, dignified movements from before were only a lie...! `
-`...The curve drawn by the longsword of red truth burned itself into the retinas of those who saw it. `
+`...The curve drawn by the longsword of {çeviri-kırmızı gerçek}red truth burned itself into the retinas of those who saw it. `
 `Before anyone had enough time to follow that curve, ...it was already approaching Battler's chest...! `
 `"{p:2:Lady {f:5:Erika}'s reasoning has solved the fifth {f:5:game}. `
 `No new facts exist to overturn this logically derived {f:5:truth}}...!!" `
@@ -1033,41 +1033,41 @@
 `"...What a laughable script...!! `
 `I'd expect nothing less from a demon's script!!" `
 `"Then let me {f:5:ask}!! `
-`What is this theory with someone other than Natsuhi as the {f:5:culprit}?!!" `
+`What is this theory with someone other than Natsuhi as the {f:5:{çeviri-suçlu}culprit}?!!" `
 `Battler's golden longsword drew both red and blue curves at will. `
-`"{p:2:It's possible to construct a theory in which this was the revenge of the baby from 19 years ago mentioned by Aunt Natsuhi in her confession}." `
+`"{p:2:It's possible to construct a theory in which this was the revenge of the baby from 19 years ago mentioned by {çeviri-Hala}Aunt Natsuhi in her confession}." `
 `"{p:1:Knox's 1st: `
-`It is forbidden for the culprit to be anyone not mentioned in the early part of the {f:5:story}! `
-`A person first introduced in the fifth game cannot be named as the {f:5:culprit}}...!!" `
+`It is forbidden for the {çeviri-suçlu}culprit to be anyone not mentioned in the early part of the {f:5:story}! `
+`A person first introduced in the fifth game cannot be named as the {f:5:{çeviri-suçlu}culprit}}...!!" `
 `"{p:2:What if the baby from 19 years ago was among us since the very beginning? `
 `For example, ......what if it was me}?!" `
 `"{p:1:Knox's 8th: `
 `It is forbidden for the case to be resolved with clues that are not {f:5:presented}}! `
 `Was there ever any foreshadowing showing that you might be the baby from 19 years {f:5:ago}?!!" `
-`"{p:1:The red truth from the fourth game that I am not the son of my mother Asumu. `
+`"{p:1:The {çeviri-kırmızı gerçek}red truth from the fourth game that I am not the son of my mother Asumu. `
 `The feeling that Dad was hiding something in both the first game and this game. `
 `In particular, in this game, it was made clear that there were some special circumstances having to do with my birth}." `
 `Battler proposed that he might be the baby from 19 years ago... `
-`...and announced that he'd reconstruct the crime with himself as the culprit. `
+`...and announced that he'd reconstruct the crime with himself as the {çeviri-suçlu}culprit. `
 `As Dlanor cautiously held her sword at the ready, she gauged the distance between them... `
 `Now that Battler had inherited the position of this world's territory lord and attained the rank of Endless Sorceror, `
 `his movements surpassed Human understanding. `
 `By now, the physical distance between them probably counted for nothing. `
 `After all, their extremely agile battle was surpassing the point where the concept of distance made any difference. `
 `"...A good {f:5:start}. `
-`Let us hear...your theory with Battler as the {f:5:culprit}...!" `
+`Let us hear...your theory with Battler as the {f:5:{çeviri-suçlu}culprit}...!" `
 `"Yeah, I'll let you hear it. `
 `I'll prove that this explanation also works... `
-`...and that you can't be certain Aunt Natsuhi is the culprit...!" `
+`...and that you can't be certain {çeviri-Hala}Aunt Natsuhi is the {çeviri-suçlu}culprit...!" `
 `"<Good>!! `
-`If you're supposed to be the culprit, that creates several contradictions! `
+`If you're supposed to be the {çeviri-suçlu}culprit, that creates several contradictions! `
 `I'll use those contradictions to reap your feeble truth! `
 `I, Furudo Erika, the detective and the Witch of Truth will...!!" `
 `This time, Erika stepped forward. `
 `...In her hand, there appeared a scythe like one a grim reaper might hold. `
 `{n}A ruthless scythe for reaping everything that threatened her theory...! `
 `"{p:2:It's only possible for the crimes to have taken place during the single hour after midnight}!! `
-`{p:1:During that one hour, you were in the dining hall of the mansion}!! `
+`{p:1:During that one hour, you were in the {çeviri-yemek salonu}dining hall of the {çeviri-malikane}mansion}!! `
 `{p:2:Therefore, it was impossible for you to commit the crimes}!" `
 `"{p:1:It has not been specified that the time of death was during the single hour after midnight}. `
 `{p:2:Therefore, it's possible that the crimes didn't occur between midnight and {nobr:1 a.m.}...!" `
@@ -1080,28 +1080,28 @@
 `Because clues were not given to the detective, Lady Erika, who was on the watch for any abnormalities inside that room until morning, such a crime is {f:5:impossible}}...!!" `
 `"{p:2:The "time of the crime's discovery" refers to the point at which I let out a scream and everyone gathered there. `
 `Even if it was impossible to kill them before that point, it was possible to kill them afterwards}...!!" `
-`Battler used a blue flash to deflect both of the red truths that Erika and Dlanor had flung at him...! `
+`Battler used a blue flash to deflect both of the {çeviri-kırmızı gerçek}red truths that Erika and Dlanor had flung at him...! `
 `Erika's eyes went wide. `
 `After all, what he had said was completely absurd. `
 `...At that time, `
 `...they still hadn't been killed...?! `
 `Even though corpses with their necks sliced open were laying right there?! `
-`"{p:1:The deaths of the four in the cousins' room have been declared with the red truth}!! `
+`"{p:1:The deaths of the four in the cousins' room have been declared with the {çeviri-kırmızı gerçek}red truth}!! `
 `Are you trying to use the Illusion of the Witch?! `
-`Are you trying to resurrect George and the others using the concept of magic, even though they were dead at the time?!" `
+`Are you trying to resurrect George and the others using the concept of {çeviri-büyü}magic, even though they were dead at the time?!" `
 `"I see, since you believe they were dead by that point, `
 `it probably looks as though the dead have been brought back to life to you...! `
-`So this might look like magic in your eyes. `
+`So this might look like {çeviri-büyü}magic in your eyes. `
 `...In that case, I won't be the one to take the next shot at you!" `
 `"Fool!! `
 `How often do I have to say it?!! `
-`"{p:1:The deaths of the four in the cousins' room have been declared with the red truth!! `
+`"{p:1:The deaths of the four in the cousins' room have been declared with the {çeviri-kırmızı gerçek}red truth!! `
 `And their dead bodies were witnessed by a large number of people!! `
-`And it's already been declared with the red truth that no examination of any corpse is ever mistaken}...!!" `
+`And it's already been declared with the {çeviri-kırmızı gerçek}red truth that no examination of any corpse is ever mistaken}...!!" `
 `Take that, dead people!!!" `
-`"{p:2:......To what point in time did that red truth refer? `
+`"{p:2:......To what point in time did that {çeviri-kırmızı gerçek}red truth refer? `
 `Have you forgotten, Miss}?" `
-`The fierce shower of red was blocked by a magical barrier set up by Ronove, who suddenly appeared right in front of Battler. `
+`The fierce shower of red was blocked by a {çeviri-büyülü}magical barrier set up by Ronove, who suddenly appeared right in front of Battler. `
 `Now that Beato was gone, the demons shouldn't have been able to manifest themselves in the real world... `
 `However, ...he "existed" here... `
 `...and calmly dealt with Erika's attack. `
@@ -1114,7 +1114,7 @@
 `"<Yes, your majesty>. `
 `...Well then, ...allow me to be your opponent for a bit. `
 `What do you say, Miss?" `
-`"{p:2:The red truth pronouncing them dead referred to what point in time, then, according to you?! `
+`"{p:2:The {çeviri-kırmızı gerçek}red truth pronouncing them dead referred to what point in time, then, according to you?! `
 `Are you saying you can pinpoint that?! `
 `You can't pinpoint it, so you can't disprove that it declared them dead at the time of the crime's discovery}!!" `
 `"{p:1:When this court was opened, Lady Lambdadelta made a proclamation. `
@@ -1181,7 +1181,7 @@
 `...was extremely...humiliating! `
 `"Looks like you toyed around with your plan too much in order to corner Natsuhi like that." `
 `"You played around too much with your reasoning. `
-`...At this point, your master isn't the only one who can speak of Kinzo's death with the red truth." `
+`...At this point, your master isn't the only one who can speak of Kinzo's death with the {çeviri-kırmızı gerçek}red truth." `
 `"This is what you get for playing around in the witches' darkness. `
 `...Know that, Furudo Erika...!" `
 `"Nngh, ...gggh, ggh...!!" `
@@ -1195,7 +1195,7 @@
 `"D-Dlanoooooooooooorrrr!!!!" `
 `"{p:1:Knox's 2nd!! `
 `It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}! `
-`If you intend on showing that Kinzo has died with the red truth, I demand that you present evidence of a human truth supporting such a {f:5:statement}}...!" `
+`If you intend on showing that Kinzo has died with the {çeviri-kırmızı gerçek}red truth, I demand that you present evidence of a human truth supporting such a {f:5:statement}}...!" `
 `"...Forgive me, damn geezer." `
 `"Overcome it, Battler. `
 `Don't let my corpse stop you...!!" `
@@ -1205,9 +1205,9 @@
 `No matter how much it resembles him, unless you can prove that it is him, `
 `it is possible to claim that it is a substitute corpse from someone {f:5:else}!! `
 `Can you show that it is Kinzo's body with {y:0:Human}{n:0:human} truth {f:5:alone}?! `
-`In this one case, I will treat any rebuttal that uses only the red truth as {f:5:invalid}}...!!" `
+`In this one case, I will treat any rebuttal that uses only the {çeviri-kırmızı gerçek}red truth as {f:5:invalid}}...!!" `
 `"...Ooh. `
-`Any counter with the red truth will be invalid? `
+`Any counter with the {çeviri-kırmızı gerçek}red truth will be invalid? `
 `I guess that works." `
 `"It may be true that the existence of third-party corpses has already been denied with the red. `
 `However, if saying that with the red is forbidden... `
@@ -1219,9 +1219,9 @@
 `This unidentifiable body cannot serve as proof of Kinzo's {f:5:death}}...!!" `
 `"{p:2:......Checkmate...!! `
 `My theory is rock solid}!!" `
-`Dlanor had sealed off the red truth as a means of proving that Kinzo's corpse had been shown. `
+`Dlanor had sealed off the {çeviri-kırmızı gerçek}red truth as a means of proving that Kinzo's corpse had been shown. `
 `...Even with the power of witches, Battler couldn't argue back...! `
-`"...How are you gonna prove that the corpse was Kinzo's if the red truth is sealed? `
+`"...How are you gonna prove that the corpse was Kinzo's if the {çeviri-kırmızı gerçek}red truth is sealed? `
 `It's impossible. `
 `...It can't be done...!" `
 `"...With red or blue, ...right...?" `
@@ -1249,7 +1249,7 @@
 `...Gold truth, valid. `
 `The gold truth... `
 `...can only be used by the territory lord of this world... `
-`...no, ...only by the Game Master himself!!" `
+`...no, ...only by the {çeviri-Oyun Yöneticisi}Game Master himself!!" `
 `"...Wh-What did you say......?" `
 `"...Gold {f:5:truth}. `
 `A divine truth woven in a different fashion than the red {f:5:truth}. `
@@ -1290,13 +1290,13 @@
 `Only Erika, the one who was supposedly so intelligent, couldn't understand. `
 `...She couldn't understand that Battler had already reached the real truth. `
 `"{p:1:Grandfather's absence has therefore been proven, `
-`and the dishonorable relationship between Aunt Natsuhi and Grandfather has been removed from consideration}!!" `
-`"{p:1:Aunt Natsuhi is pure and faithful! `
+`and the dishonorable relationship between {çeviri-Hala}Aunt Natsuhi and Grandfather has been removed from consideration}!!" `
+`"{p:1:{çeviri-Hala}Aunt Natsuhi is pure and faithful! `
 `I won't permit this vulgar tale you're all so fond of}!!" `
 `"...B-Battler-kun...!!" `
 `"{p:1:Furthermore. `
-`Because doubts have been raised about the time of death for all who have died so far, the alibis for everyone besides Aunt Natsuhi are null and void}...!!" `
-`"{p:1:The argument that the crimes couldn't have been committed by anyone except Aunt Natsuhi no longer stands}!!" `
+`Because doubts have been raised about the time of death for all who have died so far, the {çeviri-mazeret}alibis for everyone besides {çeviri-Hala}Aunt Natsuhi are null and void}...!!" `
+`"{p:1:The argument that the crimes couldn't have been committed by anyone except {çeviri-Hala}Aunt Natsuhi no longer stands}!!" `
 `Dlanor, who must have risen to her knees at some point, `
 `slowly stood up... `
 `The flash from the golden longsword was still buried deep into her chest. `
@@ -1306,7 +1306,7 @@
 `...Dlanor didn't abandon her duty...! `
 `"{p:1:However, in the cousins' room, you witnessed dead bodies which were impossible to {f:5:misidentify}...! `
 `Are you trying to say that was a {f:5:falsehood}?! `
-`...Knox's 7th: It is forbidden for the detective to be the {f:5:culprit}}!! `
+`...Knox's 7th: It is forbidden for the detective to be the {f:5:{çeviri-suçlu}culprit}}!! `
 `The detective is obligated to keep to an objective point of {f:5:view}. `
 `Your theory would mean you violated this {f:5:obligation}!!" `
 `"{p:1:Furudo Erika is the detective in this game, not me!! `
@@ -1316,24 +1316,24 @@
 `Was it ever shown that you were not the detective this time, and that you were an observer with a subjective {f:5:viewpoint}?!! `
 `Unless it was, you do not have the right to falsify your point of {f:5:view}}!!" `
 `"{p:1:In this game, `
-`when I figured out the device of the epitaph's riddle, I witnessed Grandfather. `
+`when I figured out the device of the {çeviri-kitabe}epitaph's riddle, I witnessed Grandfather. `
 `......As has already been shown in red, Grandfather doesn't exist. `
 `It was impossible for me to witness him! `
 `Therefore, it has already been shown that my viewpoint wasn't objective}!!" `
 `"{p:2:It is possible that it was just a sheet or something fluttering in the wind and rain which you mistook for Kinzo. `
 `It cannot be used as foreshadowing to form a basis for Knox's 9th...!! `
 `Mistaking things for something else is a right permitted to all observers}!!" `
-`"{p:1:There's the red truth which Beato showed during the fourth game!! `
+`"{p:1:There's the {çeviri-kırmızı gerçek}red truth which Beato showed during the fourth game!! `
 `No person would mistake Ushiromiya Kinzo by sight}!" `
-`It's the red truth Beato used to counter my blue truth claim that "someone disguised themselves as Kinzo" `
+`It's the {çeviri-kırmızı gerçek}red truth Beato used to counter my {çeviri-mavi gerçek}blue truth claim that "someone disguised themselves as Kinzo" `
 `to make it seem as though Grandfather had appeared. `
 `{p:1:In other words, on this island, anything which might lead someone to visually mistake something for Grandfather, including someone else pretending to be Grandfather, {i:cannot ever work}.} `
-`All of Aunt Natsuhi's schemes to make it seem Grandfather existed were hidden in the relatives' blind spots, `
+`All of {çeviri-Hala}Aunt Natsuhi's schemes to make it seem Grandfather existed were hidden in the relatives' blind spots, `
 `all of them clever tricks like "he was here just a second ago" `
-`or "he's in his study alone now". `
+`or "he's in his {çeviri-çalışma odası}study alone now". `
 `They never tried to make anyone mistake something they saw for Grandfather himself, `
 `so there are no contradictions. `
-`If they had tried to dress one of the servants in Grandfather's robe, `
+`If they had tried to dress one of the {çeviri-hizmetkar}servants in Grandfather's robe, `
 `...it probably would've been seen through in an instant... `
 `It has been guaranteed that none of the characters in this tale `
 `would "mistake something for Grandfather by sight"...! `
@@ -1344,7 +1344,7 @@
 `"the detective"...!! `
 `"{p:1:Because of the right granted by Knox's 9th, everyone is allowed to mistake a sheet in the wind for something else and talk mistakenly about what they saw. `
 `......However! `
-`Mistaking it for Grandfather in particular is not permitted in this game due to the red truth}!!" `
+`Mistaking it for Grandfather in particular is not permitted in this game due to the {çeviri-kırmızı gerçek}red truth}!!" `
 `"...So, once you claimed to have seen Kinzo, `
 `it was no longer misrecognition, `
 `but {f:5:intentional}. `
@@ -1383,7 +1383,7 @@
 `You stupid half-wit murder doll!! `
 `You've tainted the honor of your own father, shame on you!! `
 `You still call yourself mystery's wedges?! `
-`Will you surrender to magic?! `
+`Will you surrender to {çeviri-büyü}magic?! `
 `The history of the mystery genre won't allow that!!" `
 `"...You're the one... `
 `...that doesn't understand what mystery is all about. `
@@ -1391,9 +1391,9 @@
 `...I won't let you ever say so again!!" `
 `"...B-Battleeeeeeeeee...eeer...!!!" `
 `"{p:2:I present a truth that conflicts with yours!! `
-`Aunt Natsuhi was threatened by a phone call over the internal line made by the man from 19 years ago: me}!" `
-`"{p:2:His goal was to make Aunt Natsuhi look like a murderer...!! `
-`From the beginning, this has all been a drama of revenge intent on framing Aunt Natsuhi}...!!" `
+`{çeviri-Hala}Aunt Natsuhi was threatened by a phone call over the internal line made by the man from 19 years ago: me}!" `
+`"{p:2:His goal was to make {çeviri-Hala}Aunt Natsuhi look like a murderer...!! `
+`From the beginning, this has all been a drama of revenge intent on framing {çeviri-Hala}Aunt Natsuhi}...!!" `
 `"{p:2:Th‐that's wrong, it's a drama of revenge against the Ushiromiya family planned by Natsuhi!! `
 `Your theory outright opposes mine}!!" `
 `"...You still can't pull out the blue spear that's sticking through you, right?" `
@@ -1426,9 +1426,9 @@
 `Gyaaaaaaaaaaaaaaaaggghhhh...!!" `
 `As Erika's face twisted in humiliation and tears streamed from her eyes, `
 `she withdrew and revised her own theory in accordance with her master's order... `
-`Mumbling quietly, she made various revisions with the blue truth, `
+`Mumbling quietly, she made various revisions with the {çeviri-mavi gerçek}blue truth, `
 `had them acknowledged by Lambdadelta, and finally had the blue spear smashed and was freed... `
-`Though that blue truth did indeed explain how the corpses had disappeared, `
+`Though that {çeviri-mavi gerçek}blue truth did indeed explain how the corpses had disappeared, `
 `...it couldn't conceal its desperation and was a bit of truly shabby reasoning. `
 `"...My master, `
 `...I-I've taken it out... `
@@ -1473,14 +1473,14 @@
 `Therefore, both of their truths exist together! `
 `The conclusion of the 5th game is rescinded!" `
 `"The game goes back to being even!! `
-`And I transfer the position of Game Master from myself to the Golden Sorcerer, Ushiromiya Battler!!" `
+`And I transfer the position of {çeviri-Oyun Yöneticisi}Game Master from myself to the Golden Sorcerer, Ushiromiya Battler!!" `
 `"Ushiromiya Battler, step forward!! `
-`I appoint you as the new Game Master!! `
+`I appoint you as the new {çeviri-Oyun Yöneticisi}Game Master!! `
 `Will you accept? `
 `You will, right?! `
 `Do it, you new Endless Witch!!!" `
 `"Yeah!! `
-`I'm the new Game Master!! `
+`I'm the new {çeviri-Oyun Yöneticisi}Game Master!! `
 `I'll weave the 6th game...!!" `
 `"Erika, let's settle things for good this time!! `
 `Stand up!!" `

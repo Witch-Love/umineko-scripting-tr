@@ -4,13 +4,13 @@
 `"............Who is that?"`
 `"......Oh, that is the Golden Witch, {f:5:Beatrice}-sama."`
 `".........Good morning, everyone.`
-` .........Oh, ......what a wonderful magic circle."`
+` .........Oh, ......what a wonderful {çeviri-büyü}magic circle."`
 `"Behold...`
 `...the sweetfish river, running through my beloved home of old......?"`
-`"I see.........the epitaph..."`
+`"I see.........the {çeviri-kitabe}epitaph..."`
 `"Did you know?`
-` In mystery novels, they call things like these epitaph murders "plotline murders".`
-`"......All it takes is the presence of this magic circle,`
+` In mystery novels, they call things like these {çeviri-kitabe}epitaph murders "plotline murders".`
+`"......All it takes is the presence of this {çeviri-büyü}magic circle,`
 ` and a deduction like this becomes trivial for Furudo Erika.`
 `"......?! Krauss-sama! The chain on this room is also set...!"`
 `"A locked room.`
@@ -21,14 +21,14 @@
 `"Exactly. Of course there's no way {f:5:Beatrice} is real."`
 `"Uu, she's real!`
 ` {f:5:Beatrice} is real!"`
-`"It's magic, it is magic!!`
+`"It's {çeviri-büyü}magic, it is {çeviri-büyü}magic!!`
 `".........Do you even have a heart?"`
 `"A heart?`
 ` What's that?"`
 `"Yes, we shall.`
 ` Dlanooooooooooor!!"`
 `"{p:1:I will not allow a hidden door to exist in this {f:5:room}.}"`
-`"{p:2:Suppose there existed a method X that could lead someone to the second floor of the guesthouse without passing through the lounge!}`
+`"{p:2:Suppose there existed a method X that could lead someone to the second floor of the {çeviri-konukevi}guesthouse without passing through the lounge!}`
 `"It's because this is the mystery genre.`
 ` {p:1:Knox's 3rd: It is forbidden for hidden passages to exist.}`
 `"{p:1:It's useless.}`
@@ -82,7 +82,7 @@
 `"Then let us begin, Ange.`
 `{a:c:{p:8:Choose a slice of cake}}`
 `{a:c:{p:8:Choose a slice of cake}}`
-`"Okay. Thanks, Auntie Eva...!"`
+`"Okay. Thanks, {çeviri-Hala}Auntie Eva...!"`
 `".........You're lying......`
 ` ......You're lying......lying...!!`
 `"Don't try to understand.`
@@ -96,11 +96,11 @@
 `{p:8:Kakerapedia}`
 `{p:8:Maid control help}`
 `{p:8:Return to Hinamizawa}`
-`"{p:42:All of us servants were together the whole time.}"`
+`"{p:42:All of us {çeviri-hizmetkar}servants were together the whole time.}"`
 `"Illusions to illusions.`
 `"Illusions...to illusions.`
 ` ......The promised reaper lowers the curtains on the tale regardless of the witch's will."`
-`"*cackle*cackle*cackle*...... Yes, it is. {p:41:You used magic to create a golden flower petal inside an overturned cup.}`
+`"*cackle*cackle*cackle*...... Yes, it is. {p:41:You used {çeviri-büyü}magic to create a golden flower petal inside an overturned cup.}`
 `It was...a mountain of gold ingots.`
 `"......What a pitiful person......`
 ` I see that you've never truly loved someone..."`

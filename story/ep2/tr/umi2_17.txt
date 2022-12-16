@@ -1,13 +1,13 @@
-`Battler's figure was in the dining hall. `
-`He didn't feel like going back to the guesthouse in the middle of all this rain... `
-`and wandered halfheartedly around the mansion in search for any place where he could sit, ...before setting up camp in the dining hall. `
+`Battler's figure was in the {çeviri-yemek salonu}dining hall. `
+`He didn't feel like going back to the {çeviri-konukevi}guesthouse in the middle of all this rain... `
+`and wandered halfheartedly around the {çeviri-malikane}mansion in search for any place where he could sit, ...before setting up camp in the {çeviri-yemek salonu}dining hall. `
 `He didn't even lock the door. `
 `He thought the shapeless murderer, or maybe the Golden Witch, might come to kill him now that he was isolated, `
 `but he no longer had any desire to resist. `
-`He didn't even feel like using a locked door to hold off the culprit. `
+`He didn't even feel like using a locked door to hold off the {çeviri-suçlu}culprit. `
 `He wanted that person to come at him openly, from the front. `
 `...If it was the killer, he wanted to ask them about some of those wonderful closed room tricks as a parting gift. `
-`If it was the witch, he hoped she'd at least take his life with some spectacular magic. `
+`If it was the witch, he hoped she'd at least take his life with some spectacular {çeviri-büyü}magic. `
 `...However, ironically, neither of these two came to meet him... `
 `Battler opened the liquor cabinet on his own and enjoyed the liquor to his heart's content. `
 `No longer was there anyone to scold him for drinking alcohol. `
@@ -55,7 +55,7 @@
 `My drunkenness was completely blown away. `
 `I lowered my feet from the table and listened carefully to hear what Genji would say next... `
 `"Battler-sama, `
-`...I shall guide you to the Master's study. `
+`...I shall guide you to the Master's {çeviri-çalışma odası}study. `
 `...It would probably be best to hear it directly from both the Master and..." `
 `"From both Grandfather...and...? `
 `H-Hey, what in the world do you mean by that...?!!" `
@@ -93,13 +93,13 @@
 `"......Indeed, you are just like the Master in his youth. `
 `...Battler-sama, please be diligent in your studies. `
 `In the future, you will surely have great aspirations. `
-`And when that time comes, see to it that you are never forced to regret a lack of study and training." `
+`And when that time comes, see to it that you are never forced to regret a lack of {çeviri-çalışma odası}study and training." `
 `"......I'd be happy to, assuming I ever get a chance to work hard in my studies." `
 `"..............." `
 `Genji-san's silence felt like it was further confirming a certain resigned feeling I had... `
-`And then, ......the door to Grandfather's study, surrounded by a sweet smell, came into sight. `
+`And then, ......the door to Grandfather's {çeviri-çalışma odası}study, surrounded by a sweet smell, came into sight. `
 `Genji-san took a gold key with an elegant design out from his pocket. `
-`The master keys had been confiscated by Aunt Rosa, but he'd kept the key to this study alone on his person. `
+`The master keys had been confiscated by {çeviri-Hala}Aunt Rosa, but he'd kept the key to this {çeviri-çalışma odası}study alone on his person. `
 `He put it in the keyhole, ......and it made a heavy clunking sound. `
 `"......Master, `
 `it is I, Genji. `
@@ -113,13 +113,13 @@
 `At that moment, ...I got slightly disoriented by the dazzling golden glow...... `
 `It was......unbelievably... `
 `...a swarm of butterflies that shone gold. `
-`The gold butterflies that completely filled the inside of the study poured out all at once... `
+`The gold butterflies that completely filled the inside of the {çeviri-çalışma odası}study poured out all at once... `
 `" Wha-...... `
 `...What is... `
 `...this......?" `
 `It was almost like golden leaf confetti. `
-`The interior of Grandfather's study was filled with a golden glow... `
-`And, ...on a sofa like a reception chair in front of the study desk, `
+`The interior of Grandfather's {çeviri-çalışma odası}study was filled with a golden glow... `
+`And, ...on a sofa like a reception chair in front of the {çeviri-çalışma odası}study desk, `
 `......I could see Grandfather's back. `
 `There was someone on the side opposite from Grandfather. `
 `...It was in shadow, so I couldn't see it well... `
@@ -153,7 +153,7 @@
 `However, ...I knew this witch. `
 `Even though it was our first meeting, `
 `.........I knew her...... `
-`from the portrait...! `
+`from the {çeviri-portre}portrait...! `
 `"Genji, `
 `serve some alcohol for Battler. `
 `What would be an appropriate liquor for this man...?" `
@@ -165,18 +165,18 @@
 `In deference to that, I allowed you to meet me. `
 `...So, what will you ask me? `
 `What will you inquire? `
-`...The door of the Golden Land will soon be opened. `
+`...The door of the {çeviri-Altın Diyar}Golden Land will soon be opened. `
 `Soon, we will have a banquet to celebrate my revival, at which I will be welcoming in the witches. `
 `...In the meantime, I'll answer your questions, as many as you like." `
 `"...I-I've got a bunch of things I wanna ask!! `
 `What happened on this island?! `
 `And why did incidents like these occur?! `
 `I want to ask about the closed rooms too!! `
-`What about the chapel?! `
+`What about the {çeviri-kilise}chapel?! `
 `What about Jessica's room?! `
-`And the servant room?! `
-`And Aunt Natsuhi's room?! `
-`And the parlor?!" `
+`And the {çeviri-hizmetkar}servant room?! `
+`And {çeviri-Hala}Aunt Natsuhi's room?! `
+`And the {çeviri-salon}parlor?!" `
 `"There's so much more I wanna ask!! `
 `About the witch's true nature!! `
 `Is Beatrice really a witch?!! `
@@ -200,7 +200,7 @@
 `"...D-Damn you, talking so tough!! `
 `Yeah, all right. `
 `Try and convince me. `
-`...Try and convince me that you're a witch who can use weird, awesome, powerful magic!!" `
+`...Try and convince me that you're a witch who can use weird, awesome, powerful {çeviri-büyü}magic!!" `
 `"If I surrender, I'll kiss you or do anything else!!!" `
 `The witch cackled gloatingly. `
 `Then, she glared at him unpleasantly with eyes that said a man can't go back on his word... `

@@ -23,12 +23,12 @@
 `There's no need for us to pamper Yasu." `
 `"I'm sick of this. `
 `I don't get why someone as dull-witted as Yasu was chosen!" `
-`"Being selected as an Ushiromiya family servant was an achievement that all Fukuin children respected. `
-`The older servants had achieved glory by making it through the strict selection process. `
+`"Being selected as an Ushiromiya family {çeviri-hizmetkar}servant was an achievement that all Fukuin children respected. `
+`The older {çeviri-hizmetkar}servants had achieved glory by making it through the strict selection process. `
 `Yasu was so clumsy that they all wondered why that child had been chosen." `
 `"...Of course, Yasu was working very hard for a child of that age. `
 `However, before long, `
-`the unsatisfied older servants started being mean to Yasu whenever they got the chance. `
+`the unsatisfied older {çeviri-hizmetkar}servants started being mean to Yasu whenever they got the chance. `
 `Even after getting used to life on Rokkenjima, Yasu didn't manage to make a single friend. `
 `At least, not any Human friends..." `
 `"Hohohohoho. `
@@ -57,7 +57,7 @@
 `"A spiderweb? `
 `Like the ones the evil spirits of Rokkenjima fear?" `
 `"Good, I'm glad you remember. `
-`It is said that the spiderwebs on this island are imbued with magical power, and that they can be quite effective at repelling evil. `
+`It is said that the spiderwebs on this island are imbued with {çeviri-büyülü}magical power, and that they can be quite effective at repelling evil. `
 `See? If you stretch it out like this, it looks like a spiderweb, doesn't it? `
 `Hohoho, this way, that spiderweb-hating Beatrice won't be able to prank you anymore." `
 `That...does make sense. `
@@ -182,7 +182,7 @@
 `that's quite the bright smile you've got there. `
 `When a witch appears, it should be time to cry, not laugh. `
 `Your break time is over. `
-`See if you can manage to do your job today without slowing down the older servants." `
+`See if you can manage to do your job today without slowing down the older {çeviri-hizmetkar}servants." `
 `"Sure. Today is Sunday, and the weather is wonderful. `
 `I'd better do my best." `
 `"Indeed, go to it with all you can manage. `
@@ -256,7 +256,7 @@
 `Whose is it?" `
 `Genji took a master key ring out of his pocket. `
 `...Apparently, someone had dropped their master key. `
-`All of the servants swung around to look at me, the usual offender. `
+`All of the {çeviri-hizmetkar}servants swung around to look at me, the usual offender. `
 `"Come on. Yasu again?" `
 `"Y-You shouldn't be so quick to judge." `
 `"I have mine, of course. `
@@ -285,7 +285,7 @@
 `would be engraved into an unforgettable page in the memory of my young life... `
 `So, whose key did Genji find...?" `
 `"......!" `
-`There was only one servant who hadn't raised their key. `
+`There was only one {çeviri-hizmetkar}servant who hadn't raised their key. `
 `As she muttered "It has to be Yasu's key, not mine" `
 `and fished in her pocket, `
 `her face went pale... `
@@ -295,7 +295,7 @@
 `"M- `
 `My... `
 `apologies..." `
-`The older servant turned red and hung her head. `
+`The older {çeviri-hizmetkar}servant turned red and hung her head. `
 `Behind her, ...though no one else could see it, was the witch. `
 `"*cackle*! `
 `My friend will not make the same mistake again. `
@@ -308,7 +308,7 @@
 `"N-No, nothing..." `
 `"I tried not to feel vindictive, `
 `but after being called dull-witted for so long, I was finally able to hold my head up high. `
-`On that day, for the first time, I truly felt as though I'd gotten used to life as a servant of the Ushiromiya family..." `
+`On that day, for the first time, I truly felt as though I'd gotten used to life as a {çeviri-hizmetkar}servant of the Ushiromiya family..." `
 `"When people compliment you, it feels like they've acknowledged you!" `
 `"It's very important. `
 `People can't grow without it." `
@@ -360,7 +360,7 @@
 `must have enjoyed listening in and hearing what sorts of theories a young intellect could create." `
 `"Of course, I didn't start right away with the complicated books Kumasawa read. `
 `First, I asked for her recommendations and got books from the school library. `
-`I would even bring them into the servant room and read a bit during every break." `
+`I would even bring them into the {çeviri-hizmetkar}servant room and read a bit during every break." `
 `"Every time a new theory popped into my head, I told Kumasawa about it, `
 `and she, who already knew the answer, would nod at my theory and grin. `
 `...That was a lot of fun for me." `
@@ -371,7 +371,7 @@
 `"*giggle* `
 `You've become a total mystery nut. `
 `If you get too excited reading, you won't be able to sleep again." `
-`"......According to Kumasawa-san, the culprit has already appeared... `
+`"......According to Kumasawa-san, the {çeviri-suçlu}culprit has already appeared... `
 `But I don't have a clue who it is..." `
 `"What's that book called?" `
 `"It's by Agatha Christie. `
@@ -379,7 +379,7 @@
 `...It's really interesting. `
 `Almost like it's a crime happening on Rokkenjima." `
 `"That's a really famous mystery novel, isn't it? `
-`Wasn't that one a perfect crime, at least until the culprit confesses to the truth in a message bottle at the end? `
+`Wasn't that one a perfect crime, at least until the {çeviri-suçlu}culprit confesses to the truth in a message bottle at the end? `
 `An incredible book." `
 `"Shhh, `
 `shhh! `
@@ -402,11 +402,11 @@
 `"*cackle* `
 `......In the ancient times I was born in, pleasures such as mystery novels didn't exist. `
 `I've been reading over your shoulder, and this truly is a captivating read." `
-`"Beato, who do you think is the culprit?" `
+`"Beato, who do you think is the {çeviri-suçlu}culprit?" `
 `"In "And Then There Were None"?" `
 `"Yeah. `
 `Who is this U. N. Owen, I wonder..." `
-`"The culprit who lured the victims to the island, of course." `
+`"The {çeviri-suçlu}culprit who lured the victims to the island, of course." `
 `"There are no more than ten people on this island. `
 `And U. N. Owen doesn't exist." `
 `"Someone must have stranded them on the island and waited somewhere far away for them to die of starvation." `
@@ -417,14 +417,14 @@
 `"How do you know that there are only ten people on the island?" `
 `"...That's just how it is." `
 `Since, if you doubt that, you're stuck, or it's just a standard rule of the mystery genre, ...or...hmmm... `
-`"The culprit owns the island, correct? `
+`"The {çeviri-suçlu}culprit owns the island, correct? `
 `They may be hiding in some hidden room. `
 `Or perhaps they're like me! `
 `They may be a thousand-year-old witch! `
 `No, no, if they went to such lengths to kill a mere ten people, they couldn't be a thousand years old. `
 `495 years old at best, I'd say. *cackle*cackle*!" `
 `"Closed rooms do appear a lot in mystery novels. `
-`And books often use the phrase "it could only conceivably have been done with magic". `
+`And books often use the phrase "it could only conceivably have been done with {çeviri-büyü}magic". `
 `...And here I am, with a witch right before my eyes. It's a complicated feeling." `
 `"Pft, *cackle*cackle*! `
 `Very entertaining, these closed room murders. `
@@ -439,9 +439,9 @@
 `Simply take out the last few pages of that book you're reading, `
 `and you might think of Lady U. N. Owen as a witch on the same level as myself...!" `
 `"...That might be surprisingly wise, coming from you. `
-`...So, the culprit of an answerless detective novel is a witch." `
+`...So, the {çeviri-suçlu}culprit of an answerless detective novel is a witch." `
 `"All of the dark places in this world belong to us witches. `
-`So, I could reign as the culprit for all detective novels across the world." `
+`So, I could reign as the {çeviri-suçlu}culprit for all detective novels across the world." `
 `"Except, if you reason it out right and find the true answer, then the witch is done for." `
 `"*cackle*cackle* `
 `These detective novels can be quite intriguing, it seems. `
@@ -450,7 +450,7 @@
 `This is a thinking game. `
 `You fight against the book, make a theory, and then compete against friends who have also read the book." `
 `"Perhaps, but it's also a fight between humans and witches. `
-`Will you allow for or deny the magic of my closed room murders? `
+`Will you allow for or deny the {çeviri-büyü}magic of my closed room murders? `
 `Call it a chess match of mystery!" `
 `"...... `
 `...So, it isn't a book I'm reading, but a challenge against you?" `

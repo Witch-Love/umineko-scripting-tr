@@ -105,7 +105,7 @@
 `...Very well. `
 `Even that brings back fond memories... `
 `I have heard the rumors... `
-`......It seems you have taken the name Bernkastel, Witch of Miracles, ...and have been playing a far from praiseworthy Fragment game..." `
+`......It seems you have taken the name Bernkastel, Witch of Miracles, ...and have been playing a far from praiseworthy {çeviri-Kakera}Fragment game..." `
 `"I'm just imitating you. `
 `Though I could hardly match up to your level. `
 `...If the rumors you've heard about me are bad, that applies a hundredfold to you." `
@@ -149,15 +149,15 @@
 `...I'm sure Beato is very grateful to you." `
 `"......Hmph. `
 `...And? `
-`If you want me to read the Fragments of Beato's game aloud for you, I refuse. `
+`If you want me to read the {çeviri-Kakera}Fragments of Beato's game aloud for you, I refuse. `
 `I'm not your miko anymore." `
 `"I have observed all of Beato's games. `
 `...I also watched Lambdadelta's game and Battler's game with great interest. `
 `...I believe I have formed an answer for all the riddles in my own way. `
-`......The culprit. `
+`......The {çeviri-suçlu}culprit. `
 `The motive. `
 `The individual tricks. `
-`...I'm not yet clear about the very last part of the epitaph's riddle, `
+`...I'm not yet clear about the very last part of the {çeviri-kitabe}epitaph's riddle, `
 `but I have enough of a theory that if I actually went to Rokkenjima and investigated, I should be able to resolve that part as well." `
 `"......And...?" `
 `"Of course, since there is no single truth, my theory is probably only one of many possibilities. `
@@ -225,7 +225,7 @@
 `Wait, I've seen this before. `
 `......This is- `
 `"I acknowledge it. You may sit. `
-`You are the Game Master." `
+`You are the {çeviri-Oyun Yöneticisi}Game Master." `
 `"......Are you sure? `
 `...Are you really...sure...?" `
 `"You can create whatever sort of tale you like to satisfy your grudge. `
@@ -238,7 +238,7 @@
 `Tearing up guts and dragging them out is my specialty. `
 `...After all, you trained me." `
 `"Let us make some black tea. `
-`...We'll use our own hands, not magic. `
+`...We'll use our own hands, not {çeviri-büyü}magic. `
 `...Let the master treat her miko to some tea..." `
 `"The old Beato told me that witches are the best ones to have black tea with." `
 `"It seems that rule doesn't apply to us... `

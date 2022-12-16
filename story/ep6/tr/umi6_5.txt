@@ -1,7 +1,7 @@
 `"...Back then I was, and I guess I still am, a bit of a klutz... `
 `I always forgot where I'd put things...or think I'd locked something up when I'd actually forgotten. `
 `...I caused a lot of trouble." `
-`"Hahaha, I remember how Aunt Natsuhi used to get mad at you all the time." `
+`"Hahaha, I remember how {çeviri-Hala}Aunt Natsuhi used to get mad at you all the time." `
 `"But eventually, Shannon managed to overcome all that forgetfulness." `
 `"Oh, and how'd you do that?" `
 `"...Heheh. `
@@ -39,7 +39,7 @@
 `......but, perhaps because she was so happy to have met her double and little sister, she was more than willing to teach her anything she wanted to know. `
 `The first thing she taught was that they were witches, `
 `a different type of being than Humans. `
-`Beato had thought her inability to use magic meant she wasn't a witch, `
+`Beato had thought her inability to use {çeviri-büyü}magic meant she wasn't a witch, `
 `but apparently, she was still a witch nonetheless. `
 `And, she learned that witches like her were bound by various limitations, unlike Humans. `
 `The greatest of those restrictions was the anti-magic toxin possessed by Humans. `
@@ -51,31 +51,31 @@
 `"...So, even just getting close to Humans is dangerous to us..." `
 `Wasn't Father a Human...? `
 `Why am I not burnt by Father's toxin...? `
-`"If we stock up magical power and have it acknowledged by humans, that toxin can be reduced drastically. `
+`"If we stock up {çeviri-büyülü}magical power and have it acknowledged by humans, that toxin can be reduced drastically. `
 `In other words, by having our existence acknowledged by humans, we make them lose their toxin, `
 `making it possible for us to appear before them once more." `
 `"I see... `
 `Simply put, as we are now, we can only exist when Humans aren't around..." `
-`"We are still very lacking in magical power, `
+`"We are still very lacking in {çeviri-büyülü}magical power, `
 `which makes us inferior to even a stray cat hiding from humans in the shadows." `
-`The main goal of the older sister was to gain a large supply of magical power and be revived as a great witch strong enough to have no fear of the anti-magic toxin. `
-`For that purpose, she had wandered around the mansion night after night, `
-`striving to regain her magical power and reduce the anti-magic power of the Humans... `
+`The main goal of the older sister was to gain a large supply of {çeviri-büyülü}magical power and be revived as a great witch strong enough to have no fear of the anti-magic toxin. `
+`For that purpose, she had wandered around the {çeviri-malikane}mansion night after night, `
+`striving to regain her {çeviri-büyülü}magical power and reduce the anti-magic power of the Humans... `
 `The powerful previous Beatrice, whom she had read about in Featherine's library, `
 `had appeared openly in front of Humans and had even toyed with them at will. `
 `...According to her big sister, such a level of power was most impressive. `
-`"To think that a witch could appear openly before humans and use magic at will! `
+`"To think that a witch could appear openly before humans and use {çeviri-büyü}magic at will! `
 `...A witch like that would be so great that even I can hardly imagine it. `
 `Is that what we will eventually become?" `
 `"Yes. `
-`...She was like a witch from a picture book, appearing openly before the Humans of the mansion and summoning magic and underlings at will..." `
+`...She was like a witch from a picture book, appearing openly before the Humans of the {çeviri-malikane}mansion and summoning {çeviri-büyü}magic and underlings at will..." `
 `"Hmmm, how inspiring. `
 `If that is our future, it means that all of our hard work will have been worth the effort." `
 `"That's right. `
 `...Anyway, Onee-sama, `
 `how is that goal connected to going around unlocking windows like this...?" `
 `It was the middle of the night. `
-`They were following behind servants, who were checking the locks on the doors and windows...and undoing those locks after the servants thought they had been set. `
+`They were following behind {çeviri-hizmetkar}servants, who were checking the locks on the doors and windows...and undoing those locks after the {çeviri-hizmetkar}servants thought they had been set. `
 `...It felt more like a child's prank than the work of a witch... `
 `"Heheheh, this is the path that leads to becoming a great witch. `
 `All journeys begin with a single step. `
@@ -95,7 +95,7 @@
 `I shall go further. `
 `"Right now, there is no one in this corridor". `
 `And yet, the lock has been undone, ...and the window has opened. `
-`...Can you see how great a miracle, a work of magic, ...a proof of our existence that is? `
+`...Can you see how great a miracle, a work of {çeviri-büyü}magic, ...a proof of our existence that is? `
 `Even you should understand the coolness of this breeze..." `
 `"...I do understand. `
 `It's nice and cool..." `
@@ -107,9 +107,9 @@
 `Of course, it wasn't just small pranks like opening a window. `
 `...She could also smash windows and vases or leave behind strange fires and mysterious scribbles. `
 `In fact, one time, she actually did play a large-scale prank in the kitchen, `
-`piling up kitchenware in an eerie manner and leaving behind a bizarre scribble, which scared the servants considerably. `
+`piling up kitchenware in an eerie manner and leaving behind a bizarre scribble, which scared the {çeviri-hizmetkar}servants considerably. `
 `It was a complete success. `
-`She'd really managed to scare the servants and had succeeded in making them acknowledge the existence of magic, weakening the anti-magic toxin... `
+`She'd really managed to scare the {çeviri-hizmetkar}servants and had succeeded in making them acknowledge the existence of {çeviri-büyü}magic, weakening the anti-magic toxin... `
 `However, she usually chose to make her presence known by unlocking windows. `
 `The act of unlocking...symbolized her release from the limitations imposed by the Humans' toxin. `
 `"One day, `
@@ -124,7 +124,7 @@
 `who cannot appear before anyone, to look forward to... `
 `"...Right now, they are little more than pranks. `
 `However, as they pile up, proof that we exist will begin to gather. `
-`The servants already call me the witch, Beatrice, master of the night, `
+`The {çeviri-hizmetkar}servants already call me the witch, Beatrice, master of the night, `
 `and are beginning to believe in me bit by bit." `
 `"The more they believe, the more those Humans will lose their anti-magic toxin..." `
 `...I see... `
@@ -134,7 +134,7 @@
 `"I'd like to become a great witch and appear in front of everyone soon." `
 `"Indeed. `
 `Eventually, we will be able to appear openly in front of anyone. `
-`By doing that repeatedly, we shall make people believe in us even more, ...and eventually, we shall display even our magic for all to see. `
+`By doing that repeatedly, we shall make people believe in us even more, ...and eventually, we shall display even our {çeviri-büyü}magic for all to see. `
 `...At that time, we shall descend upon Rokkenjima as the great witch you told me of. Ahahahahaha!" `
 `"...The logic of the witch side is quite interesting. `
 `It keeps me entertained." `
@@ -147,49 +147,49 @@
 `"If a person has charisma, people will interpret what they do in a positive way, even when they screw up. `
 `...I see. `
 `I guess in that sense, the Beatos' small efforts aren't misguided." `
-`"If it was just the mansion's locks being undone, everything could be resolved by saying that someone forgot to lock up or that it was some kind of prank. `
-`...However, the rumors of a witch wandering about the mansion night after night slowly began to take shape as the existence of the witch." `
-`"An environment was established so that, if anything strange happened in the mansion at night, it would all be viewed as the work of the witch. `
+`"If it was just the {çeviri-malikane}mansion's locks being undone, everything could be resolved by saying that someone forgot to lock up or that it was some kind of prank. `
+`...However, the rumors of a witch wandering about the {çeviri-malikane}mansion night after night slowly began to take shape as the existence of the witch." `
+`"An environment was established so that, if anything strange happened in the {çeviri-malikane}mansion at night, it would all be viewed as the work of the witch. `
 `...I get it. If you follow that reasoning to an extreme, `
-`then what you get is no different from a witch existing in the mansion at night." `
+`then what you get is no different from a witch existing in the {çeviri-malikane}mansion at night." `
 `After the Beatos finished their mischief of unlocking and opening the window, `
 `they enjoyed the coolness of the wind and the brightness of the moon, then became gold butterflies and disappeared into the darkness. `
 `...There was no way of knowing whether the window they had opened had actually been opened by them. `
-`The servants might have forgotten to lock up, `
-`or one of the family might have opened it after the servants had locked up and forgotten to shut it again, `
+`The {çeviri-hizmetkar}servants might have forgotten to lock up, `
+`or one of the family might have opened it after the {çeviri-hizmetkar}servants had locked up and forgotten to shut it again, `
 `or maybe someone had played a prank. `
 `In the same way that none of those possibilities could be denied, `
 `...it was also impossible to deny the possibility that a witch really had opened a window to enjoy the night breeze... `
 `"......A result without an observer can possess an endless number of ways in which it might have occurred. `
 `...Humans who can't grasp anything more than a single possibility are unable to imagine anything." `
 `"However, people who believe in the possibility of a witch can imagine that it was a witch's prank. `
-`...When that happens, the scene of the Beatrices' prank that we have just seen is etched into the Fragment as a fact..." `
-`"...That's one of the foundations of magic. `
+`...When that happens, the scene of the Beatrices' prank that we have just seen is etched into the {çeviri-Kakera}Fragment as a fact..." `
+`"...That's one of the foundations of {çeviri-büyü}magic. `
 `Embellishing...the process." `
-`With just a little magic, even a mass-produced stuffed animal... `
+`With just a little {çeviri-büyü}magic, even a mass-produced stuffed animal... `
 `...can be reborn as a wonderful, unique stuffed animal filled with a mother's love. `
 `If you doubt it, ...it'll be burnt by the anti-magic toxin. `
-`If you believe it, that magic will become the truth. `
+`If you believe it, that {çeviri-büyü}magic will become the truth. `
 `"......... `
-`...Not all magic is bad. `
+`...Not all {çeviri-büyü}magic is bad. `
 `...Maria onee-chan was right. `
-`...Good magic exists too." `
-`"It may be necessary for a child of man to possess the power to repel evil magic. `
-`...However, refusing to burn away and defile love-filled magic is part of how love in the human world works." `
+`...Good {çeviri-büyü}magic exists too." `
+`"It may be necessary for a child of man to possess the power to repel evil {çeviri-büyü}magic. `
+`...However, refusing to burn away and defile love-filled {çeviri-büyü}magic is part of how love in the human world works." `
 `"...... `
-`...Well, good magic is the only kind I can forgive. `
+`...Well, good {çeviri-büyü}magic is the only kind I can forgive. `
 `...For all other kinds, the best remedy is to deny them and burn them away." `
 `"Heheheheheheheh... `
 `A typical answer for a child of man." `
 `"Getting back to the point. `
 `...Knowing this much, `
 `I guess this means that the ghost Beatrice, who was called the ruler of Rokkenjima's night, doesn't really exist. `
-`It's nothing more than a general term for any inexplicable occurrences that take place in the mansion after dark. `
+`It's nothing more than a general term for any inexplicable occurrences that take place in the {çeviri-malikane}mansion after dark. `
 `In other words, Beatrice isn't the name of a person, it's the name of a phenomenon." `
 `If anything bizarre happens, it all becomes the work of the Golden Witch... `
 `That "environment in which a witch could exist" is what Beatrice is. `
 `"...That keeps building on itself until we reach 1986. `
-`...This is the veil that the true culprit is hiding behind. `
+`...This is the veil that the true {çeviri-suçlu}culprit is hiding behind. `
 `And the person hiding behind it is, without a doubt, a Human." `
 `"Perhaps that holds true at this point in the witches' tale of the past. `
 `...However, I doubt you can use that argument alone to fight all the way through 1986, don't you...?" `
@@ -200,26 +200,26 @@
 `"...W-Well, you may say that, but...umm... `
 `B-But this isn't just something that happened once or twice..." `
 `"In other words, you're a klutz, a fool, `
-`and a moron of a servant who forgot to check not just once or twice, but many times over?" `
+`and a moron of a {çeviri-hizmetkar}servant who forgot to check not just once or twice, but many times over?" `
 `"...Shannon isn't the only one. `
-`That same window was always opened even when other servants did the rounds." `
+`That same window was always opened even when other {çeviri-hizmetkar}servants did the rounds." `
 `"Yeah, Mom even asked me if I'd ever left a window open in the hall at night. `
 `I had absolutely nothing to do with it, but she still got pissed. `
 `Sheesh." `
 `"I'm sure Beatrice wanted to gaze at the moon. `
 `Uu-." `
 `"It is a bit creepy to have that happen over and over at the same window. `
-`...And that time when the kitchenware was piled up in the kitchen, with a creepy magic circle scribbled there...sounds even more freaky." `
+`...And that time when the kitchenware was piled up in the kitchen, with a creepy {çeviri-büyü}magic circle scribbled there...sounds even more freaky." `
 `"...Y-Yes. `
-`They said it was an eerie magic circle drawn with something like blood... `
+`They said it was an eerie {çeviri-büyü}magic circle drawn with something like blood... `
 `Ever since then, people have been scared to patrol the kitchen..." `
-`"About the case of the eerie magic circle in the kitchen... `
+`"About the case of the eerie {çeviri-büyü}magic circle in the kitchen... `
 `Who witnessed that?" `
 `"Well, ...uh, ...it wasn't me... `
-`I, uh...think I heard about it from a servant kid who quit. `
+`I, uh...think I heard about it from a {çeviri-hizmetkar}servant kid who quit. `
 `I wasn't on duty that day..." `
 `"So, it's basically like this. `
-`Just like those exaggerated stories you hear about haunted locations all over the world, you servants like to have a little fun telling ghost stories about the nighttime mansion, right? `
+`Just like those exaggerated stories you hear about haunted locations all over the world, you {çeviri-hizmetkar}servants like to have a little fun telling ghost stories about the nighttime {çeviri-malikane}mansion, right? `
 `You talk as though the witch exists and infect others with that belief." `
 `"...So, all of the eerie things that are supposedly done by Beatrice are baseless rumors, `
 `which are either the result of coincidence and accident or something that someone fabricated for fun. `
@@ -238,27 +238,27 @@
 `I've met her!!" `
 `"Ooh, could you tell me about that in detail? `
 `You met Beatrice? `
-`And did she show you magic or something?" `
+`And did she show you {çeviri-büyü}magic or something?" `
 `"Uu-! `
 `I see her all the time! `
 `Every time I come to Rokkenjima! `
-`And she always shows me fun magic!!" `
+`And she always shows me fun {çeviri-büyü}magic!!" `
 `Denying the existence of the witch would always have the immediate effect of infuriating Maria. `
 `However, Erika, who didn't know this trick to avoiding Maria's fury, plunged into it head-on. `
 `But no matter how Maria tried to sell the idea of Beatrice's existence, she stood no chance of defeating the ruthlessly intelligent Erika in an argument... `
 `George and Jessica hurriedly tried to calm Maria down, but there could be no quelling her anger at this point. `
 `"<Good>! `
-`So, she showed you magic? `
-`Could you explain in detail what kind of magic?" `
-`"She would always use magic to give me candy as a present!! `
-`Beato can create candy with magic!!" `
+`So, she showed you {çeviri-büyü}magic? `
+`Could you explain in detail what kind of {çeviri-büyü}magic?" `
+`"She would always use {çeviri-büyü}magic to give me candy as a present!! `
+`Beato can create candy with {çeviri-büyü}magic!!" `
 `"Are you sure she didn't just take it out of her pocket?" `
 `"No, she didn't!! `
-`It was magic! `
+`It was {çeviri-büyü}magic! `
 `It was incredible!! Tons of candies poured out of an empty cup!" `
-`"W-Wow, that's some awesome magic..." `
-`"That's right, that really would be magic...!" `
-`"Yeah, it was magic!! `
+`"W-Wow, that's some awesome {çeviri-büyü}magic..." `
+`"That's right, that really would be {çeviri-büyü}magic...!" `
+`"Yeah, it was {çeviri-büyü}magic!! `
 `It really was empty!! `
 `I checked inside it myself!!" `
 `"Huh? `
@@ -290,14 +290,14 @@
 `She put it upside down on the table!!" `
 `"Yeah, and then what?! `
 `Did she lift it up right away, and candies flowed out?! `
-`Incredible, that really would be magic, right? ...It {i:would} be!!!" `
+`Incredible, that really would be {çeviri-büyü}magic, right? ...It {i:would} be!!!" `
 `Battler and the others tried to get between the two and calm them down, `
 `but it was no use. `
 `They violently pushed aside the others, `
 `and, glaring at each other from so close that their foreheads banged together, they repeatedly slammed the upside down cup on the table. `
 `The sound of their foreheads banging together and the cup being slapped down...shattered the barrier between reality and illusion...!! `
-`"It is magic, it is magic!! `
-`Beato used magic to make candies appear!!" `
+`"It is {çeviri-büyü}magic, it is {çeviri-büyü}magic!! `
+`Beato used {çeviri-büyü}magic to make candies appear!!" `
 `"Then why don't you reproduce it for us?!! `
 `Founder of Mariage Sorciere, {f:5:Maria}, the Witch of Origiiiiiiiiiiiiiiiinsss!!" `
 `"Lady Erika, this opponent is not worth your {f:5:time}. `
@@ -306,17 +306,17 @@
 `Okay!! `
 `How do you claim that the overturned cup was filled with candies?!" `
 `"Just turning the cup over won't make candies come out!! `
-`Because you have to use magic!! `
-`Beato can use magic because she's a witch!!" `
-`"Oh yes, magic, she used magic!! `
-`How did she use magic?! `
-`Did she swing a magic wand and tap the cup to make candies pour out?! `
+`Because you have to use {çeviri-büyü}magic!! `
+`Beato can use {çeviri-büyü}magic because she's a witch!!" `
+`"Oh yes, {çeviri-büyü}magic, she used {çeviri-büyü}magic!! `
+`How did she use {çeviri-büyü}magic?! `
+`Did she swing a {çeviri-büyü}magic wand and tap the cup to make candies pour out?! `
 `*giggle* No, that can't be it. Right?!" `
-`"Beato is a witch, so she uses magic! `
-`Magic happens when you say an incantation and cause a miracle!! `
-`You can't use the magic that makes candy unless you say the incantation!!" `
+`"Beato is a witch, so she uses {çeviri-büyü}magic! `
+`{çeviri-Büyü}Magic happens when you say an incantation and cause a miracle!! `
+`You can't use the {çeviri-büyü}magic that makes candy unless you say the incantation!!" `
 `"Oh, sure, understood. <Good>, <good>, very <good>!! `
-`Let's see this incantation, let's see this magic, come on, what kind of incantation would a witch use? What kind?!?!" `
+`Let's see this incantation, let's see this {çeviri-büyü}magic, come on, what kind of incantation would a witch use? What kind?!?!" `
 `"Come, try and picture it!! `
 `The inside of the cup is filled with candies!! `
 `Try and picture such a wonder!" `
@@ -330,7 +330,7 @@
 `...several cute candies poured out...! `
 `Maria looked at Erika with a full smile, as if to say "that showed you". `
 `"<Good>!! `
-`And this is what you'd like to call Beatrice's magic, is it?! `
+`And this is what you'd like to call Beatrice's {çeviri-büyü}magic, is it?! `
 `Dlanoooooooooor!! `
 `{e:170: `
 `"Beat `
@@ -344,9 +344,9 @@
 `!!!"} `
 `"........................ `
 `......As you {f:5:wish}." `
-`"I won't let anyone deny Beato's magic!! `
-`Because magic is magic!!" `
-`"Magic is impossible. `
+`"I won't let anyone deny Beato's {çeviri-büyü}magic!! `
+`Because {çeviri-büyü}magic is {çeviri-büyü}magic!!" `
+`"{çeviri-Büyü}Magic is impossible. `
 `{p:2:You might be telling a lie about something that never happened!!}" `
 `"Repetition {f:5:demanded}. `
 `Failure to respond will be a violation of Knox's {f:5:7th}." `
@@ -361,24 +361,24 @@
 `Knox's 8th allows them to be used. `
 `"{p:1:There were no tricks like that!! `
 `It was just an ordinary table and an ordinary cup!!} `
-`So it was magic, not sleight of hand!!" `
+`So it was {çeviri-büyü}magic, not sleight of hand!!" `
 `"...{f:5:Understood}. `
-`...By Knox's 9th, we acknowledge that Lady {f:5:Maria} witnessed {f:5:magic}." `
+`...By Knox's 9th, we acknowledge that Lady {f:5:Maria} witnessed {f:5:{çeviri-büyü}magic}." `
 `"Ahahahahahahahahaha!! `
 `That's right, with the 9th at least!! `
 `Observers are always allowed to speak their personal opinions! `
-`Otherwise, mysteries where the culprit is seen dressed up as a woman and it's written "I saw a woman" would all be disqualified!! `
-`Sure, that's fine, claim that you saw magic all you want!!" `
+`Otherwise, mysteries where the {çeviri-suçlu}culprit is seen dressed up as a woman and it's written "I saw a woman" would all be disqualified!! `
+`Sure, that's fine, claim that you saw {çeviri-büyü}magic all you want!!" `
 `"All truths are nothing more than claims! `
 `So, I'll make a different claim and see straight through yours to the truth!! `
 `That's the detective's duty, and where we shine the mooooooost!!" `
-`"There's nothing to see through, this is magic!!!" `
-`"Since it is magic, only witches can use it, right?" `
+`"There's nothing to see through, this is {çeviri-büyü}magic!!!" `
+`"Since it is {çeviri-büyü}magic, only witches can use it, right?" `
 `"That's right, only witches can use it!!" `
 `"...So, if a Human like me could use it too, `
-`that would mean it isn't magic, right?" `
+`that would mean it isn't {çeviri-büyü}magic, right?" `
 `"You can't use it!!! `
-`Only Beato can use magic!!" `
+`Only Beato can use {çeviri-büyü}magic!!" `
 `"<Good>!! `
 `Then why don't I show you?!! `
 `I'll make candy appear from out of this empty cup!!" `
@@ -398,20 +398,20 @@
 `"<Stooop>!! `
 `Maria-san, `
 `why did you close your eyes when you said the incantation? `
-`Why not witness the miracle of magic?" `
+`Why not witness the miracle of {çeviri-büyü}magic?" `
 `"Humans are polluted by the anti-magic toxin!! `
-`If a lowly Human saw it, the miracle of magic would be wiped out of existence!! `
-`That's why the rules say that lowly Humans have to close their eyes when using magic!!" `
-`"I see, I see. Okay, I understand the protocol for Humans to follow when magic's being used!! `
-`In other words, not once have you ever witnessed the moment that magic happened! Isn't that right?! `
+`If a lowly Human saw it, the miracle of {çeviri-büyü}magic would be wiped out of existence!! `
+`That's why the rules say that lowly Humans have to close their eyes when using {çeviri-büyü}magic!!" `
+`"I see, I see. Okay, I understand the protocol for Humans to follow when {çeviri-büyü}magic's being used!! `
+`In other words, not once have you ever witnessed the moment that {çeviri-büyü}magic happened! Isn't that right?! `
 `Look, it's done now! `
 `Please, try and lift up the cup, okay...? `
-`After all, I've used magic to make candies appear." `
-`"There's no way someone who makes fun of witches could use candy magic...!" `
+`After all, I've used {çeviri-büyü}magic to make candies appear." `
+`"There's no way someone who makes fun of witches could use candy {çeviri-büyü}magic...!" `
 `"Then if it actually does work, it'd be pretty amazing, huh?" `
 `After glaring at Erika with the utmost of malice, `
 `...Maria slowly stretched her hand out towards the overturned cup... `
-`...There was no way that Erika, someone who made fun of witches like this, could ever use magic. `
+`...There was no way that Erika, someone who made fun of witches like this, could ever use {çeviri-büyü}magic. `
 `There was no way that there'd be candy there... `
 `"......So, how's it look inside?" `
 `"...... `
@@ -419,13 +419,13 @@
 `...And there...lay a single...candy with a cute wrapper... `
 `"......See?" `
 `"............" `
-`"...This is magic, right?" `
+`"...This is {çeviri-büyü}magic, right?" `
 `Erika smiled gently... `
 `A look of disbelieving shock rose to Maria's eyes, `
-`...along with envy for this person who could use the same magic as Beato... `
+`...along with envy for this person who could use the same {çeviri-büyü}magic as Beato... `
 `"Erika, `
-`...you can...use magic too...?" `
-`"See? It's magic, isn't it? `
+`...you can...use {çeviri-büyü}magic too...?" `
+`"See? It's {çeviri-büyü}magic, isn't it? `
 `What I did there." `
 `"...Y-Yeah!!" `
 `"So, in other words-" `
@@ -434,40 +434,40 @@
 `"Of course it issssssssnnnnnnnnnnn't!!! `
 `" `
 `{p:2:While you had your eyes closed, I just lifted the cup up and tossed a candy in!! `
-`You call that magic? `
+`You call that {çeviri-büyü}magic? `
 `It's just a third-rate triiiiiick, hyahhaaaaaaah!!!} `
-`There's my blue truth as the detective. `
+`There's my {çeviri-mavi gerçek}blue truth as the detective. `
 `Now, as the Witch of Truth, here's my red truuuuuuuuuuth!!!" `
-`{p:1:Your so-called candy magic is nothing more than a sleight of hand!! `
-`Just a sleight of hand that the fake witch calling herself Beatrice or whatever claimed was magic!!} `
-`I mean, seriously, did you really get fooled by such a stupid parlor trick? `
-`Any magic related by your perspective can't be trusted at all!!! `
-`"{p:2:Everything you ever thought was magic was just a trick that you didn't get!! `
-`There's no way that was magic! There's no way magic exiiiiiiiiiiiiiists!!}" `
+`{p:1:Your so-called candy {çeviri-büyü}magic is nothing more than a sleight of hand!! `
+`Just a sleight of hand that the fake witch calling herself Beatrice or whatever claimed was {çeviri-büyü}magic!!} `
+`I mean, seriously, did you really get fooled by such a stupid {çeviri-salon}parlor trick? `
+`Any {çeviri-büyü}magic related by your perspective can't be trusted at all!!! `
+`"{p:2:Everything you ever thought was {çeviri-büyü}magic was just a trick that you didn't get!! `
+`There's no way that was {çeviri-büyü}magic! There's no way {çeviri-büyü}magic exiiiiiiiiiiiiiists!!}" `
 `"...Huuuh?!" `
 `"{p:2:I-It might have been sleight of hand when you put candy in this cup, `
-`but that doesn't prove that Beato's magic was also sleight of hand}. `
+`but that doesn't prove that Beato's {çeviri-büyü}magic was also sleight of hand}. `
 `Uryuuu--!!!" `
-`"{p:2:However, you also can't prove that only magic could've done it!! `
+`"{p:2:However, you also can't prove that only {çeviri-büyü}magic could've done it!! `
 `You rotten stuffed animaaaal!!}" `
 `"...Please, allow me to speak." `
 `"Know that this is a meaningless battle." `
 `"You goddamn scraps of paper!! `
 `Why'd you have to butt in at the good part...?!!" `
 `"That is {f:5:enough}. `
-`Lady {f:5:Maria} has been shown that the candy cup magic could possibly be a trick that she misunderstood to be {f:5:magic}. `
-`Therefore, her claim that it was magic is {f:5:dismissed}." `
-`"{p:2:However, it might really have been magic when Maria saw it...! `
-`Just because it can be done by sleight of hand doesn't disprove magic.}" `
+`Lady {f:5:Maria} has been shown that the candy cup {çeviri-büyü}magic could possibly be a trick that she misunderstood to be {f:5:{çeviri-büyü}magic}. `
+`Therefore, her claim that it was {çeviri-büyü}magic is {f:5:dismissed}." `
+`"{p:2:However, it might really have been {çeviri-büyü}magic when Maria saw it...! `
+`Just because it can be done by sleight of hand doesn't disprove {çeviri-büyü}magic.}" `
 `"...Well done, Lady Erika. `
 `Congratulations on crushing Lady {f:5:Maria}'s Illusion of the {f:5:witch}." `
-`An "Illusion of the Witch" occurs when someone tries to force the acknowledgement of magic by claiming that a thing would be impossible without it. It's how witches launch an attack. `
-`If someone's able to successfully argue back and show that it would be possible without magic, the Illusion of the Witch is defeated, and the witch must retreat. `
-`The magic Maria claimed to have seen could have been a trick, so it was unqualified to be acknowledged as magic. `
+`An "Illusion of the Witch" occurs when someone tries to force the acknowledgement of {çeviri-büyü}magic by claiming that a thing would be impossible without it. It's how witches launch an attack. `
+`If someone's able to successfully argue back and show that it would be possible without {çeviri-büyü}magic, the Illusion of the Witch is defeated, and the witch must retreat. `
+`The {çeviri-büyü}magic Maria claimed to have seen could have been a trick, so it was unqualified to be acknowledged as {çeviri-büyü}magic. `
 `However, that was only the result of this battle. `
-`It was still too early to bring the fight into the domain of denying Beatrice, the witch and the magic that Maria believed in... `
+`It was still too early to bring the fight into the domain of denying Beatrice, the witch and the {çeviri-büyü}magic that Maria believed in... `
 `However, battles always end instantly when your opponent surrenders. `
-`Erika had wanted to hit Maria with everything at once, defiling the witch and magic she believed in... `
+`Erika had wanted to hit Maria with everything at once, defiling the witch and {çeviri-büyü}magic she believed in... `
 `and crushing it without a fragment of compassion... `
 `"...... `
 `...Tch!! `
@@ -512,19 +512,19 @@
 `Erika left, leaving an evil laugh behind her. `
 `After bowing to Maria and Sakutarou, Dlanor left too. `
 `...Gertrude and Cornelia followed suit... `
-`After that, only Maria and Sakutarou were left in the lonely Golden Land... `
+`After that, only Maria and Sakutarou were left in the lonely {çeviri-Altın Diyar}Golden Land... `
 `"......Uryuu-..." `
 `"...Beato...is a witch..." `
 `"Uryu... `
 `Beato is a witch..." `
-`"It was magic... `
+`"It was {çeviri-büyü}magic... `
 `...*hic*... `
-`...it was magic..." `
-`"It was magic... Beato used magic to give you candy... `
+`...it was {çeviri-büyü}magic..." `
+`"It was {çeviri-büyü}magic... Beato used {çeviri-büyü}magic to give you candy... `
 `You don't need to doubt that... `
 `...Uryuu-...! `
 `Please believe in Beato... `
-`You know that magic can't bear fruit unless you believe..." `
+`You know that {çeviri-büyü}magic can't bear fruit unless you believe..." `
 `"Uuuuu...uuuuuuuuuuwaaaaaaaaahhhh..." `
 `Surrounded by an ice-cold drizzle that had started falling at some point, `
 `...Maria cried quietly... `
@@ -537,7 +537,7 @@
 `"My apologies. `
 `I'm still just a kid, after all." `
 `"...*hic*, ......*hic*..." `
-`After seeing that wonderful candy magic brutally insulted by Erika, `
+`After seeing that wonderful candy {çeviri-büyü}magic brutally insulted by Erika, `
 `...Maria had been crying non-stop... `
 `"*sigh*... `
 `...I started noticing it as soon as the after-dinner quiz party, `
@@ -568,9 +568,9 @@
 `Then, Maria stopped and spun around. `
 `"......Got a problem?" `
 `"Kihihihihihihihihihihihihihihihihihi!! `
-`They do exist here and there, ...Humans who are practically lumps of the toxin and don't believe in magic! `
+`They do exist here and there, ...Humans who are practically lumps of the toxin and don't believe in {çeviri-büyü}magic! `
 `There were lots of boys like you in my class!" `
-`"They don't believe in witches, or magic, or miracles, or happiness! `
+`"They don't believe in witches, or {çeviri-büyü}magic, or miracles, or happiness! `
 `You can't become a witch if you let the toxin of people like that burn you to ashes! `
 `I may not look it, but I'm Beatrice's disciple! `
 `I'm the Apprentice Witch of Origins! `

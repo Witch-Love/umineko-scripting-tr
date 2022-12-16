@@ -1,13 +1,13 @@
 `News of the drifter, Furudo Erika, quickly spread across Rokkenjima. `
 `Erika had been welcomed in politely, and it was decided that she would be treated as a guest until the typhoon passed. `
-`In the dining hall, Gohda's wonderful dinner had ended, and everyone was relaxing and enjoying some after-dinner coffee and cheese... `
+`In the {çeviri-yemek salonu}dining hall, Gohda's wonderful dinner had ended, and everyone was relaxing and enjoying some after-dinner coffee and cheese... `
 `Apparently, Battler was a bit relieved that Erika had come and turned into a good scapegoat. `
 `It drove away some of the attention he'd been getting piled on him for finally coming back after six years. `
 `In fact, she turned out to be very talkative. `
 `When the conversation turned to a sophisticated discussion of the mystery genre, even the adults were drawn in. `
 `She was apparently so well-versed that even Nanjo, who had a vast knowledge of the subject, was impressed. `
 `"Wahahaha, good point. `
-`A strange family in a western mansion on an isolated island during a storm. `
+`A strange family in a western {çeviri-malikane}mansion on an isolated island during a storm. `
 `Now that we have a detective stopping by to take shelter from the rain, we've got all the major factors lined up." `
 `"Have no fear. `
 `No matter how difficult the crime, I will solve it. `
@@ -23,7 +23,7 @@
 `it'll be nothing more than one of the same classes of tricks dressed up to look like something new." `
 `"...The only reason mysteries still make for popular books today is because self-proclaimed "fans" `
 `--those who work off pieced-together knowledge and who have hardly read any of the classics-- `
-`mistakenly think that a classic trick they didn't know about, through lack of proper study, is actually something new and surprising." `
+`mistakenly think that a classic trick they didn't know about, through lack of proper {çeviri-çalışma odası}study, is actually something new and surprising." `
 `Everyone couldn't help but gape at this imposing claim... `
 `If an aged critic had said it, that would have been one thing. `
 `...But to think that a young person like this could say it so boldly... `
@@ -180,7 +180,7 @@
 `Really? `
 `I...thought the correct answer was one." `
 `"Wahahahaha! `
-`What kind of magic did you use?! `
+`What kind of {çeviri-büyü}magic did you use?! `
 `There's no way in the world you could manage it with one." `
 `"*giggle* `
 `This isn't a riddle, it's just a normal math problem." `
@@ -244,7 +244,7 @@
 `"With normal cheese, it'd break if you tried to fold it like this, `
 `...but the rules say that this cheese can't break unless you use a knife, right...?" `
 `"Yes, no problems there. `
-`After all, this is magic cheese that can only be cut by a knife." `
+`After all, this is {çeviri-büyü}magic cheese that can only be cut by a knife." `
 `"After folding it, `
 `...if you start at the top and make a cut right down the middle..." `
 `"...Y-You're right. `
@@ -266,7 +266,7 @@
 `"We were thinking in three dimensions, `
 `...but it looks like Battler-kun and Erika-chan were thinking in one dimension higher." `
 `"...It seems the game with the witch has toughened you up quite a lot. `
-`...Puzzles without specified rules--in other words, all things not covered by the red truth--are left to the observer's interpretation. `
+`...Puzzles without specified rules--in other words, all things not covered by the {çeviri-kırmızı gerçek}red truth--are left to the observer's interpretation. `
 `...It's the most basic of methods for constructing gaps in the witch's closed rooms." `
 `"What are you talking about...? `
 `Is that a quote from some novel...?" `
@@ -329,7 +329,7 @@
 `it would suddenly turn into a roar and rattle the window, striking up even more fear and unease within me... `
 `Light from the hallway poured in through the thin crack of the slightly open door, `
 `...and it seemed to carry with it laughter that was warm and happy, but very distant... `
-`I'm sure everyone's in the dining hall or somewhere, having a good time... `
+`I'm sure everyone's in the {çeviri-yemek salonu}dining hall or somewhere, having a good time... `
 `I want to go there as soon as I can... `
 `......I'm sure my family will be there... `
 `I hate being all alone in a place like this... `
@@ -476,25 +476,25 @@
 `"I think I heard it too. `
 `It sounded like a clunk..." `
 `"It's probably just the wind hitting a window. `
-`Heheh, this is a beat-up old mansion, after all." `
+`Heheh, this is a beat-up old {çeviri-malikane}mansion, after all." `
 `"Yeah, it is pretty creepy. `
 `When I was a brat six years ago, `
-`I remember spending a lot of nights all scared that the witch really was walking around the mansion." `
+`I remember spending a lot of nights all scared that the witch really was walking around the {çeviri-malikane}mansion." `
 `"Uu-, she exists! `
 `Beatrice exists!" `
 `"......What's at the other end of this hallway?" `
-`"There are guest rooms there, but they aren't being used now." `
+`"There are {çeviri-misafir odası}guest rooms there, but they aren't being used now." `
 `"Yeah. `
-`After all, we have the guesthouse now. `
-`Until then, we would always stay in these guest rooms." `
+`After all, we have the {çeviri-konukevi}guesthouse now. `
+`Until then, we would always stay in these {çeviri-misafir odası}guest rooms." `
 `"Yeah, I remember too. `
-`When I saw the guesthouse today, I was surprised at how beautiful it was." `
+`When I saw the {çeviri-konukevi}guesthouse today, I was surprised at how beautiful it was." `
 `"Well, that's because it was just built. `
 `I wish I could move my own room over there. `
-`Shannon, Erika-san's room is in the guesthouse too, right?" `
+`Shannon, Erika-san's room is in the {çeviri-konukevi}guesthouse too, right?" `
 `"Yes. `
-`We have prepared a room for her in the guesthouse." `
-`"...And, since the guesthouse is a good distance away from the mansion, `
+`We have prepared a room for her in the {çeviri-konukevi}guesthouse." `
+`"...And, since the {çeviri-konukevi}guesthouse is a good distance away from the {çeviri-malikane}mansion, `
 `...no matter what kind of trouble happens, you can't hear what's going on in one from the other." `
 `"Heh. `
 `Are you still in detective mode? `
@@ -502,13 +502,13 @@
 `"*giggle* True. `
 `At least one of us had better be gone by tomorrow morning. `
 `Right?" `
-`"A-Allow me to guide you all to the guesthouse..." `
+`"A-Allow me to guide you all to the {çeviri-konukevi}guesthouse..." `
 `The adults were apparently about to begin a conversation that they didn't want the kids to hear. `
 `...The real family conference was about to start. `
-`As the kids and Erika followed Shannon on their way to the guesthouse, they passed through the entrance hall... `
+`As the kids and Erika followed Shannon on their way to the {çeviri-konukevi}guesthouse, they passed through the entrance hall... `
 `"Looks like it's pouring down at its hardest right now." `
-`"...Should we watch TV in the parlor until it dies down a bit?" `
-`"Mama said to go back to the guesthouse. `
+`"...Should we watch TV in the {çeviri-salon}parlor until it dies down a bit?" `
+`"Mama said to go back to the {çeviri-konukevi}guesthouse. `
 `We have to go or she'll get mad. `
 `Uu-." `
 `"I think we'll be able to relax a lot more over there. `
@@ -520,21 +520,21 @@
 `Please wait here." `
 `"Oh, wait a second. `
 `It's been bugging me for a while. `
-`...Who's the woman in that portrait?" `
+`...Who's the woman in that {çeviri-portre}portrait?" `
 `Well, to be honest, `
-`I already know that it's Beato's portrait. `
+`I already know that it's Beato's {çeviri-portre}portrait. `
 `...Still, we only just walked past it in the last game, which is no fun. `
 `Erika whispered to herself, but of course no one heard her. `
 `"...This is the Master's benefactor, `
 `Beatrice-sama." `
 `"They say she gave Grandfather a vast quantity of gold, meaning that she's to thank for the Ushiromiya family's revival." `
 `"......She's just a witch of Grandfather's delusions. `
-`Supposedly, her ghost walks the corridors of the mansion every night." `
+`Supposedly, her ghost walks the corridors of the {çeviri-malikane}mansion every night." `
 `"Hey, quit it... `
-`That story always freaked me out when I was little, and it always made this mansion feel terrifying after night fell." `
+`That story always freaked me out when I was little, and it always made this {çeviri-malikane}mansion feel terrifying after night fell." `
 `"Oh, right, that's true. `
 `What about now, six years later?" `
-`"I'd totally forgotten, but looking at this portrait head on, I can feel that old fear coming back a bit." `
+`"I'd totally forgotten, but looking at this {çeviri-portre}portrait head on, I can feel that old fear coming back a bit." `
 `"Uu-. `
 `Beatrice isn't scary. `
 `At least, as long as you respect her. `
@@ -542,39 +542,39 @@
 `......kihihihihihihihihihihihihihihihihi! `
 `Right, Shannon?!" `
 `"Uh, ...yes. `
-`...That rumor does exist among the servants as well. `
-`...Rumors about servants patrolling at night bumping into mysterious silhouettes...or gold butterflies..." `
-`"Yeah, was it last year, or the year before? Didn't one servant fall down some stairs and get so badly injured that they quit? `
+`...That rumor does exist among the {çeviri-hizmetkar}servants as well. `
+`...Rumors about {çeviri-hizmetkar}servants patrolling at night bumping into mysterious silhouettes...or gold butterflies..." `
+`"Yeah, was it last year, or the year before? Didn't one {çeviri-hizmetkar}servant fall down some stairs and get so badly injured that they quit? `
 `Wasn't there a rumor that it was Beatrice's curse? `
 `Ihhihihihi!" `
 `Jessica told it like a ghost story, trying to scare Erika, but Erika just laughed disdainfully. `
 `"C-Come on, that's creepy... `
 `It was probably just an accident, right? `
 `Just a coincidence?" `
-`"...It happened just after Grandfather had this portrait hung here, so it was probably the year before last. `
-`...In fact, if I remember, this here is the staircase that servant fell down, right?" `
+`"...It happened just after Grandfather had this {çeviri-portre}portrait hung here, so it was probably the year before last. `
+`...In fact, if I remember, this here is the staircase that {çeviri-hizmetkar}servant fell down, right?" `
 `"Yep. `
-`After all, this insanely huge portrait really stands out. `
+`After all, this insanely huge {çeviri-portre}portrait really stands out. `
 `Shortly after it was put up, everyone was talking about what it might be. `
 `...And then, when the accident happened shortly afterwards, people started calling it Beatrice's curse." `
-`"So, these ghost stories about Beatrice started after the portrait was put on display...?" `
+`"So, these ghost stories about Beatrice started after the {çeviri-portre}portrait was put on display...?" `
 `"...N-No. `
 `Rumors about Beatrice-sama's ghost walking about were around even before that. `
-`However, I do think those stories grew in number after the portrait was put there..." `
+`However, I do think those stories grew in number after the {çeviri-portre}portrait was put there..." `
 `"...Before then, even though they had heard about the witch, Beatrice, they didn't have an actual distinct picture in their heads of what she'd be like. `
-`I imagine that this portrait made that picture distinct for them, strengthening the rumors even more." `
+`I imagine that this {çeviri-portre}portrait made that picture distinct for them, strengthening the rumors even more." `
 `"So, ...who started talking about this Beatrice witch in the first place?" `
 `"Grandfather. `
 `He'd always start freaking out and yelling "my beloved witch Beatriiice". `
-`Though until we saw that portrait, we had no idea what she looked like." `
-`"It's no surprise that you'd get one or two ghost stories with a creepy portrait like this hanging around. `
-`You always find ghost stories cropping up around things like a portrait of Beethoven in the music room or the statue of the school founder." `
+`Though until we saw that {çeviri-portre}portrait, we had no idea what she looked like." `
+`"It's no surprise that you'd get one or two ghost stories with a creepy {çeviri-portre}portrait like this hanging around. `
+`You always find ghost stories cropping up around things like a {çeviri-portre}portrait of Beethoven in the music room or the statue of the school founder." `
 `"...True. `
 `It wouldn't be strange for a few ghost stories to arise `
-`in an old, gloomy mansion with the sound of wind and rain present in the background for so long. `
+`in an old, gloomy {çeviri-malikane}mansion with the sound of wind and rain present in the background for so long. `
 `...Well, it's nothing more than a ghost story, a delusion, a fairy tale. `
 `Worth less than the useless drivel of a half-sleeping nitwit." `
-`Erika looked up at the portrait and smiled at it hostilely... `
+`Erika looked up at the {çeviri-portre}portrait and smiled at it hostilely... `
 `As though she felt that this smile was disrespectful to Beato, Maria's face soured. `
 `"...Uu-. `
 `Beatrice exists. `
@@ -597,9 +597,9 @@
 `...It looked like a cheap prize from an arcade or something. `
 `"What are these?" `
 `"Uu-! `
-`They're magic-repelling charms! `
+`They're {çeviri-büyü}magic-repelling charms! `
 `Their effect is very weak, but if you use them, you'll definitely be able to avoid Beatrice's curse all night long." `
-`"I've heard that spiderwebs are also useful for repelling magic." `
+`"I've heard that spiderwebs are also useful for repelling {çeviri-büyü}magic." `
 `"Uu-. `
 `That's probably because Beato is the incarnation of a butterfly." `
 `"Huh? `
@@ -607,23 +607,23 @@
 `Kumasawa-san knows a lot about that sort of thing." `
 `"...Witches...and evil spirits? `
 `Heheh, this is getting a bit interesting. `
-`Would you mind telling me about it in a bit more detail when we get to the guesthouse?" `
+`Would you mind telling me about it in a bit more detail when we get to the {çeviri-konukevi}guesthouse?" `
 `"Here are umbrellas for everyone. `
 `It's still raining very hard outside, so please take care." `
 `Shannon handed out the umbrellas she had brought. `
 `Everyone headed towards the exit... `
-`And then, when there were none left standing in front of the portrait, `
+`And then, when there were none left standing in front of the {çeviri-portre}portrait, `
 `...a gold butterfly appeared. `
 `It expanded out into a golden splash, becoming a human form. `
 `In the hall, empty now that the children had left, `
-`...Beato stood alone and silent, looking up at her own portrait... `
+`...Beato stood alone and silent, looking up at her own {çeviri-portre}portrait... `
 `"........." `
 `Without a doubt, the figure depicted there was as like her as an image in a mirror. `
 `However, it felt as though its eyes and expression...were just a little different from hers. `
-`From her perspective, while the person in this portrait was almost infinitely close to herself, ...it was just as surely a different person entirely. `
+`From her perspective, while the person in this {çeviri-portre}portrait was almost infinitely close to herself, ...it was just as surely a different person entirely. `
 `"......Who...are you? `
 `...Please tell me what kind of person you are..." `
-`Beato had already finished reading the Fragments from Featherine's library, which showed the tales of all the games so far. `
+`Beato had already finished reading the {çeviri-Kakera}Fragments from Featherine's library, which showed the tales of all the games so far. `
 `However, the witch called Beatrice who had been depicted in them... `
 `had been so vastly different from her. `
 `...At the very end, it had looked as though that witch and Battler had connected just a little bit as rivals, `
@@ -644,14 +644,14 @@
 `...Was being perfectly fine when around those... `
 `...proof that she wasn't Beatrice...? `
 `Even though this involved her own self, ...she didn't understand at all. `
-`So, she quietly gazed into her own eyes on the portrait. `
+`So, she quietly gazed into her own eyes on the {çeviri-portre}portrait. `
 `It felt as though the truth hid behind those eyes... `
 `...Beato slowly... `
-`...approached the portrait... `
+`...approached the {çeviri-portre}portrait... `
 `And then, `
 `...she lightly `
 `touched it... `
-`When she did, it felt as though the portrait rippled slightly. `
+`When she did, it felt as though the {çeviri-portre}portrait rippled slightly. `
 `...Yes. `
 `This is...a doorway. `
 `A doorway to the long path that will lead her to the Golden Witch, Beatrice... `
@@ -659,8 +659,8 @@
 `...She lost her balance, feeling as though the world was twisting around her. `
 `Then, when she couldn't tell which way was up or down, ...she was swallowed downwards. `
 `*plunk* `
-`With a soft, watery sound, ...Beato was sucked into the portrait... `
-`The world inside the portrait......was pitch black. `
+`With a soft, watery sound, ...Beato was sucked into the {çeviri-portre}portrait... `
+`The world inside the {çeviri-portre}portrait......was pitch black. `
 `However, there was nothing unsettling about it. `
 `It was a comfortable darkness, like when you put your head under the covers in bed at night. `
 `Beato...realized. `
@@ -745,21 +745,21 @@
 `However, since we both realized that we were the same person, there was no need for her to be a bully. `
 `...She probably realized that, after meeting me, her current form was no longer her real self. `
 `"Where...are we? `
-`Is this...the hall of the mansion...? `
+`Is this...the hall of the {çeviri-malikane}mansion...? `
 `...Oh-" `
 `Beato gasped. `
-`Her portrait wasn't there. `
+`Her {çeviri-portre}portrait wasn't there. `
 `...Did that mean that this was at least two years in the past...? `
-`"Precisely. This is the hall of the Ushiromiya mansion. `
+`"Precisely. This is the hall of the Ushiromiya {çeviri-malikane}mansion. `
 `...The night is my time. `
-`And the nighttime mansion is mine as well. `
+`And the nighttime {çeviri-malikane}mansion is mine as well. `
 `That fool Kinzo is still so desperate to catch me or revive me. `
 `How truly ironic. `
-`Here I am, openly ruling the mansion every night. `
+`Here I am, openly ruling the {çeviri-malikane}mansion every night. `
 `*cackle*cackle*!" `
 `"So, `
 `...what do you do here...?" `
-`"...I have lost my body, and due to the effects of that hateful shrine, I have no magical energy. `
+`"...I have lost my body, and due to the effects of that hateful shrine, I have no {çeviri-büyülü}magical energy. `
 `However, my power is reviving bit by bit every day. `
 `...I can't wait to eventually undergo a spectacular resurrection and have a good laugh at Kinzo. `
 `I can't wait to tell him that I've succeeded in escaping from his cage...! `
@@ -776,7 +776,7 @@
 `"A somewhat embarrassing name. `
 `But it is not bad. `
 `Come, let us go. `
-`Let us take a walk through the nighttime mansion. `
+`Let us take a walk through the nighttime {çeviri-malikane}mansion. `
 `*cackle*cackle* Let me introduce you to my boring everyday life." `
 `The two Beatrices changed their forms into two gold butterflies, `
-`flitting silently into the depths of the shadowy mansion... `
+`flitting silently into the depths of the shadowy {çeviri-malikane}mansion... `

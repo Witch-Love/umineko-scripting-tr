@@ -39,9 +39,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
 3. Bunlar bu şekilde:
    * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
+   * Blue Truth `->` Mavi Gerçek
    * Boiler Room `->` Kazan Dairesi
    * Butler `->` Uşak
+   * Chapel `->` Kilise
    * Culprit `->` Suçlu
+   * Dining Hall `->` Yemek Salonu
    * Epitaph `->` Kitabe
    * Family Head `->` Aile Reisi
    * Fragment (Kakera olan) `->` Kakera
@@ -52,11 +55,14 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*
    * Golden Land `->` Altın Diyar
    * Guesthouse `->` Konukevi
+   * Guest room `->` Misafir odası
    * Incinerator `->` Çöp Fırını
    * Magic `->` Büyü
+   * Mansion `->` Malikane
    * Milady `->` Leydim
    * Parlor `->` Salon
    * Portrait `->` Portre
+   * Red Truth `->` Kırmızı Gerçek
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
    * Study `->` Çalışma Odası

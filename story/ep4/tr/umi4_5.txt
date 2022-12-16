@@ -18,7 +18,7 @@
 `"Uu-, I'm just fine! `
 `More importantly, I'm hungry, so food's better than changing clothes, uu-!" `
 `"Hahahaha. `
-`She looks okay, Aunt Rosa. `
+`She looks okay, {çeviri-Hala}Aunt Rosa. `
 `She's gotta be if she's this spirited." `
 `"It's a really good thing she had an umbrella. `
 `...I was thinking she might be soaked to the bone. `
@@ -50,7 +50,7 @@
 `"Kanon-kun, thanks for the towel. `
 `That really helped." `
 `"...Then, if you would excuse me." `
-`As Kanon bowed with a blank expression, as though he'd done nothing that required gratitude, he left the parlor. `
+`As Kanon bowed with a blank expression, as though he'd done nothing that required gratitude, he left the {çeviri-salon}parlor. `
 `"...Okay, it's already dinnertime. `
 `Let's all go together. `
 `...I'll even give Maria my dessert for being so good." `
@@ -299,7 +299,7 @@
 `The tears couldn't keep falling from Maria's eyes. `
 `...If she greeted Mama with a tear-stained face, Mama would probably get sad too. `
 `‘You know about it, Maria. `
-`You can't use the magic that creates smiles if you aren't smiling too.’ `
+`You can't use the {çeviri-büyü}magic that creates smiles if you aren't smiling too.’ `
 `"...Yeah. `
 `...I know. `
 `So, I won't cry anymore." `
@@ -410,18 +410,18 @@
 `Is this your happiness, Maria onee-chan...?" `
 `"Yeah. `
 `I'm happy." `
-`"...Even though you were looking forward to that movie so much, and Aunt Rosa promised that she'd definitely take you, she completely forgot." `
+`"...Even though you were looking forward to that movie so much, and {çeviri-Hala}Aunt Rosa promised that she'd definitely take you, she completely forgot." `
 `"She just happened to forget because she was so busy with work. `
 `...Even if she remembered, with her work, there'd be nothing she could do. `
 `Whether she remembered or not, Mama would've spent the night at work. `
 `She couldn't go to the movies. `
 `......Whether she remembered or not is a minor issue." `
 `...There's no way that's a minor issue. `
-`After all, ...when Aunt Rosa answered "Movie?" on the phone, `
+`After all, ...when {çeviri-Hala}Aunt Rosa answered "Movie?" on the phone, `
 `it was obvious that she'd completely forgotten her promise. `
 `And when she heard that, Maria onee-chan's mood definitely darkened. `
 `"Well, ...like you say, `
-`even if Aunt Rosa had remembered her promise, you wouldn't have been able to go to the movies in the end. `
+`even if {çeviri-Hala}Aunt Rosa had remembered her promise, you wouldn't have been able to go to the movies in the end. `
 `...But even so. `
 `...To think that your mother just forgot her promise to spend one of her few days off with you, ...it's sad. `
 `I'd be mad." `
@@ -451,10 +451,10 @@
 `and that I stayed up late having a pajama party with Sakutaro...and made a mess of my room searching for treasure." `
 `"Yes. `
 `And......this is what it means! `
-`You were starving for Aunt Rosa's love, Maria onee-chan...! `
-`And Aunt Rosa always put her work and her public image first, always keeping you on the back-burner...!" `
+`You were starving for {çeviri-Hala}Aunt Rosa's love, Maria onee-chan...! `
+`And {çeviri-Hala}Aunt Rosa always put her work and her public image first, always keeping you on the back-burner...!" `
 `"That's what disgusts me! `
-`Because I know just how superficial Aunt Rosa's words of love for you were!! `
+`Because I know just how superficial {çeviri-Hala}Aunt Rosa's words of love for you were!! `
 `You should realize this yourself!" `
 `"So, ...how can you say you're happy despite that?! `
 `I don't understand...that part of you, Maria onee-chan!! `
@@ -656,7 +656,7 @@
 `That ticket stub you picked up was clearly strange!" `
 `"What was? `
 `There was nothing strange about it, and it has nothing to do with the happiness of that night, right...?" `
-`"Aunt Rosa called because she'd be staying over at her company because of work, right?! `
+`"{çeviri-Hala}Aunt Rosa called because she'd be staying over at her company because of work, right?! `
 `Why Atami?! `
 `Isn't that what you call a vacation?! `
 `It means she left you and went on a vacation, right?! `
@@ -673,22 +673,22 @@
 `...This evidence you're talking about is only circumstantial. `
 `Imagination and delusions. `
 `......I don't know why you're interpreting it in a way that makes our relationship worse." `
-`"I'm the one who doesn't understand why you're interpreting it in a way that's so convenient for Aunt Rosa!!" `
+`"I'm the one who doesn't understand why you're interpreting it in a way that's so convenient for {çeviri-Hala}Aunt Rosa!!" `
 `"......As I thought, you're a pitiable child, Ange. `
-`......Even though there are so many Fragments lying about you that could make you happy, `
+`......Even though there are so many {çeviri-Kakera}Fragments lying about you that could make you happy, `
 `you can't find them." `
-`"...Instead, you only look at unhappy Fragments and continue to get hurt. `
+`"...Instead, you only look at unhappy {çeviri-Kakera}Fragments and continue to get hurt. `
 `...That's why you're scared of being hurt... `
 `and only start looking for happiness after you check to make sure there's nothing around you that could hurt you." `
 `".........When I talk with you, Onee-chan, it gets hard to tell which one of us isn't making sense." `
 `"You know what? `
-`There are lots of happy and unhappy Fragments, and they fill the world up. `
+`There are lots of happy and unhappy {çeviri-Kakera}Fragments, and they fill the world up. `
 `So people who can't find happiness right beside them won't be able to find it no matter how hard they look. `
 `...Like Tyltyl and Mytyl searching for the blue bird." `
 `"......Oh yeah. `
 `That story with a moral." `
 `"You're the complete opposite, Ange. `
-`You're searching for a world without a Fragment of unhappiness. `
+`You're searching for a world without a {çeviri-Kakera}Fragment of unhappiness. `
 `But that's the same as the blue bird. `
 `So you'll be unable to find your happiness for all eternity. `
 `......Is Battler Hansel? `
@@ -729,7 +729,7 @@
 `......To me, your happiness is...too painful, Maria onee-chan." `
 `"...I understand how you feel, more or less. `
 `...Before I realized I had that "power", `
-`...even I was a pitiful child who could only find Fragments filled with misfortune, just like you are now." `
+`...even I was a pitiful child who could only find {çeviri-Kakera}Fragments filled with misfortune, just like you are now." `
 `"......What is that "power"? `
 `This power that I don't have, but you do... `
 `...Are you saying that I'm unfortunate and you're blessed because I don't have that? `
@@ -754,7 +754,7 @@
 `"The "power" {f:5:Maria} has, but you do not." `
 `"Yeah. `
 `The "power" I have, but Ange doesn't." `
-`——It's...magic. `
+`——It's...{çeviri-büyü}magic. `
 `Maria and Beato said it together. `
 `And then they started giggling because they'd said it at the same time. `
 `...It was an innocent reaction, one that didn't seem like Beato at all. `
@@ -776,7 +776,7 @@
 `"...Maria, does something like this happen frequently for you in your everyday life?" `
 `"Uu-? `
 `What?" `
-`"Is breathing a spirit of magic into inorganic matter and giving it life like this... `
+`"Is breathing a spirit of {çeviri-büyü}magic into inorganic matter and giving it life like this... `
 `commonplace in your everyday life?" `
 `"...Uu-. `
 `Sakutaro isn't inorganic matter, he's a lion cub." `
@@ -811,19 +811,19 @@
 `It was natural for stuffed animals to talk, move, and become her friends of their own will. `
 `...When she saw that Maria accepted this as something natural, as a witch, Beatrice felt a respect bordering on awe. `
 `"......Maria, `
-`without a doubt, that power of yours is magic." `
-`"It's magic...? `
-`I'm still a witch apprentice, so I can't use magic yet, right...?" `
-`"No, it is magic. `
+`without a doubt, that power of yours is {çeviri-büyü}magic." `
+`"It's {çeviri-büyü}magic...? `
+`I'm still a witch apprentice, so I can't use {çeviri-büyü}magic yet, right...?" `
+`"No, it is {çeviri-büyü}magic. `
 `......Because you cannot use it consciously, you are still an apprentice, `
-`...but even so, what magical power it is! `
+`...but even so, what {çeviri-büyülü}magical power it is! `
 `The materialization of your friend, Sakutarou, is excellent proof of that." `
 `"Materialization...?" `
 `"Indeed. `
 `In your case, it may even be fitting to call it creation. `
-`...A piece of inorganic matter that would have no soul at all in another's hands can have a soul sent into it through your magic." `
-`"Furthermore, that strong magical power lies in the human world. `
-`...In this era so filled with the toxin that denies magic, summoning a magical power that can materialize a single life-form is not easy even for me." `
+`...A piece of inorganic matter that would have no soul at all in another's hands can have a soul sent into it through your {çeviri-büyü}magic." `
+`"Furthermore, that strong {çeviri-büyülü}magical power lies in the human world. `
+`...In this era so filled with the toxin that denies {çeviri-büyü}magic, summoning a {çeviri-büyülü}magical power that can materialize a single life-form is not easy even for me." `
 `It isn't hard to give birth to any number of soulless beings. `
 `However, giving birth to a being with a soul is very difficult. `
 `...This is what Beato asserted. `
@@ -859,9 +859,9 @@
 `...I see, I must also give my new friend some kind of present." `
 `"Uu-? `
 `Beato is giving Sakutaro a present...?" `
-`"Of course, a gift from a witch must be something with magical power. `
+`"Of course, a gift from a witch must be something with {çeviri-büyülü}magical power. `
 `In that case, so that he can be your friend for all time, and so that you can have even more fun playing with him, `
-`I shall give Sakutarou my magic power. `
+`I shall give Sakutarou my {çeviri-büyü}magic power. `
 `With that, he should be able to materialize even more strongly." `
 `"Uu-? `
 `I'll be able to have much more fun playing with Sakutaro...? `
@@ -883,7 +883,7 @@
 `It was Beato's teacher, Virgilia. `
 `Virgilia truly was a Great Witch. `
 `...Since Maria already thought of Beato as a Great Witch, this person Beato called a Great Witch must've been a Great Great Witch. `
-`According to Beato, she still didn't even rise up to this witch's feet when it came to magical power. `
+`According to Beato, she still didn't even rise up to this witch's feet when it came to {çeviri-büyülü}magical power. `
 `"My, my. `
 `I thought I heard some cheery voices. `
 `What a fun tea party this seems to be..." `
@@ -926,15 +926,15 @@
 `Yeah, I'll take it out. `
 `What should I write?" `
 `"...Oh, what are you starting?" `
-`"I will use a magic I learned from you, Teacher. `
-`...Magic to make a resident of another world materialize into a vessel. `
+`"I will use a {çeviri-büyü}magic I learned from you, Teacher. `
+`...{çeviri-Büyü}Magic to make a resident of another world materialize into a vessel. `
 `I think that by applying that, we may be able to further strengthen the power that makes this friend of Maria's materialize. `
 `...I wanted to give that as a gift to Maria and her friend." `
 `"I see. `
 `...For a being that has already materialized, it shouldn't be that difficult. `
 `That could become a wonderful gift. `
 `Well then, I shall help too, if only a little." `
-`"It would be very reassuring if you would sign for this magic as a witness, Teacher...! `
+`"It would be very reassuring if you would sign for this {çeviri-büyü}magic as a witness, Teacher...! `
 `Be glad, Maria. `
 `This will be a wonderful gift...!" `
 `‘Uryu...? `
@@ -945,11 +945,11 @@
 `But I don't think it's scary. `
 `...What could it be? I can't wait." `
 `Beato borrowed the grimoire from Maria's handbag and majestically flipped through the pages. `
-`...Then, she found an empty page among those with magic circles drawn on them...and flattened it out. `
+`...Then, she found an empty page among those with {çeviri-büyü}magic circles drawn on them...and flattened it out. `
 `After gazing at Sakutarou with a grin, she suddenly started moving her pen. `
 `...It was something like a written declaration made by witches to a high-order world. `
-`It was magic whose effect could be controlled if Beatrice wrote and Virgilia signed. `
-`Maria didn't understand what Beato was writing at first, but partway through, she figured out the wonderful magical power of this document, and her eyes began to sparkle... `
+`It was {çeviri-büyü}magic whose effect could be controlled if Beatrice wrote and Virgilia signed. `
+`Maria didn't understand what Beato was writing at first, but partway through, she figured out the wonderful {çeviri-büyülü}magical power of this document, and her eyes began to sparkle... `
 `‘Uryu?! `
 `Uryu?! `
 `What is it, Maria, what's she drawing?! `
@@ -978,7 +978,7 @@
 `It was a document with the power to proclaim to the beings of a higher world that Sakutarou had most certainly materialized in the human world. `
 `Sakutarou, who had been born from Maria, was nominated by the two witches, Beatrice and Virgilia, `
 `and just now, his existence had been acknowledged by the higher world. `
-`...That itself was the great magic of materialization. `
+`...That itself was the great {çeviri-büyü}magic of materialization. `
 `According to Beato, it was apparently quite fortunate that Virgilia was there. `
 `After all, depending on the number and quality of witches that signed proclamations to the higher world, the power that resided in them could change drastically. `
 `Virgilia in particular had many friends in that higher plane, `
@@ -1016,15 +1016,15 @@
 `"Thank you, Beatrice!! `
 `Thank you very much for the wonderful present!!" `
 `"There is no need for thanks. `
-`This is out of respect for your wonderful magic and your friend. `
+`This is out of respect for your wonderful {çeviri-büyü}magic and your friend. `
 `......And, now that you have reached this level, it would not be odd for you to graduate from being an apprentice at any time. `
-`From now on, I shall instruct you on even more new and fun magic. `
+`From now on, I shall instruct you on even more new and fun {çeviri-büyü}magic. `
 `...From this point forward, you may call yourself {f:5:Maria}, an Apprentice Witch of Origins." `
 `"A Witch of Origins...?" `
 `"Indeed. `
 `It is the title of a witch who seeks to become a Creator. `
-`Right now, you are just an Enchanter (a magician specializing in forms of magical enhancement) who has only enough strength to breathe magical power into the small objects around her. `
-`...But after one thousand years of training, you could conceivably use the magical compendium that resides inside your heart to create a galaxy." `
+`Right now, you are just an Enchanter (a {çeviri-büyücü}magician specializing in forms of {çeviri-büyülü}magical enhancement) who has only enough strength to breathe {çeviri-büyülü}magical power into the small objects around her. `
+`...But after one thousand years of training, you could conceivably use the {çeviri-büyülü}magical compendium that resides inside your heart to create a galaxy." `
 `"...The talent of a Witch of Origins is very rare. `
 `Even though everyone has it when they are young, no one can continue to hold onto it. `
 `...This title is also proof that you have not lost your untainted heart." `
@@ -1057,13 +1057,13 @@
 `"Please, don't be afraid of being happy. `
 `Becoming happy isn't the same thing as accepting your current misfortune. `
 `It means creating a new happiness out of your current misfortune. `
-`That is the Magic of Origins." `
+`That is the {çeviri-Büyü}Magic of Origins." `
 `"...I...didn't want to acknowledge my current world. `
 `...I couldn't bear to accept such an isolated and painful world. `
 `...That's why, even though I was entranced by your world, Maria onee-chan, `
 `...I couldn't cross the final line." `
 `"......I'll teach you. `
-`About my Magic of Origins. `
+`About my {çeviri-Büyü}Magic of Origins. `
 `No, I taught you before, right? `
 `And you used it before. `
 `Did you forget...?" `

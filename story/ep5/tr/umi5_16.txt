@@ -1,7 +1,7 @@
 `"...Erika, Dlanor." `
 `"Yes, my master." `
 `"You {f:5:called}?" `
-`"...I want you two to stay in this Fragment `
+`"...I want you two to stay in this {çeviri-Kakera}Fragment `
 `and explain everything in the remaining 1st through 4th games. `
 `That pitiful transient witch who supports the Illusion of the Witch no longer exists herself. `
 `Expose the naked truth thoroughly." `
@@ -20,13 +20,13 @@
 `I won't let anyone say it's the crime of the witch Beatrice again. `
 `I'll start compiling it together at once, and then present a first-rate tale to you." `
 `"*giggle*... `
-`You mustn't leave even a single Fragment of Beato's Legend of the Witch behind. `
-`The rumors among the servants, the way people talked about unexplained events as though that legend was the cause, `
+`You mustn't leave even a single {çeviri-Kakera}Fragment of Beato's Legend of the Witch behind. `
+`The rumors among the {çeviri-hizmetkar}servants, the way people talked about unexplained events as though that legend was the cause, `
 `the Illusion of the Witch that worked alongside the illusion of Kinzo... `
 `...Deal with all of them completely." `
 `"Of course. `
 `I'll get to it right away. `
-`...We now have the furniture in custody. `
+`...We now have the {çeviri-mobilya}furniture in custody. `
 `We're hurrying to identify their vessels." `
 `The Seven Sisters of Purgatory had already been taken into custody. `
 `Those noisy sisters who had served Beato now faced nothing but denial. `
@@ -38,7 +38,7 @@
 `An aide has already been sent to the {f:5:location}." `
 `"The 1960's? The Seven Sisters of Purgatory are <Made in USA>? `
 `Pfft, *giggle*giggle*giggle*... `
-`Even though they bragged about being furniture connected with King Solomon and serving a thousand-year-old witch, they're a total sham. `
+`Even though they bragged about being {çeviri-mobilya}furniture connected with King Solomon and serving a thousand-year-old witch, they're a total sham. `
 `Who was it...?" `
 `"According to the report, ... `
 `there's this group of big-time swindlers who make money by selling fakes to rich fans of the occult." `
@@ -94,7 +94,7 @@
 `You've got to enjoy it slowly, one spoonful at a time." `
 `"*giggle*giggle*! Exactly. `
 `Let's have their executions on consecutive days. `
-`For the furniture and the witches, one by one. `
+`For the {çeviri-mobilya}furniture and the witches, one by one. `
 `I'll send you an execution show every day." `
 `"Wonderful. `
 `...After all, there really are a lot of them. `
@@ -115,7 +115,7 @@
 `...*giggle* I'll iron out my ideas and send you a letter soon." `
 `"Certainly, my master. `
 `Then, we'll have the Bernkastel-style one as the grand finale. `
-`...At the very, very end, when all the illusions are broken and Beato's magical compendium has been completely crushed, `
+`...At the very, very end, when all the illusions are broken and Beato's {çeviri-büyülü}magical compendium has been completely crushed, `
 `...I shall present my master with that finest of executions that she desires, ...the execution of Beatrice...!" `
 `"Thank you, Erika. `
 `...Thanks to you, it seems I'll be able to forget the pain of my illness for a little while... `
@@ -125,9 +125,9 @@
 `...and my adorable daughter." `
 `"...Y-Your words are too good for me...! My master...!!" `
 `"Erika, I'll give you honor and a reward. `
-`...And that reward is...the greatest symbol of Beatrice, the portrait from the reception hall. `
+`...And that reward is...the greatest symbol of Beatrice, the {çeviri-portre}portrait from the reception hall. `
 `Take that off, smash it to make firewood, bake a cake with that and eat it. `
-`Then, I'll allow you to put your portrait up in the remaining frame." `
+`Then, I'll allow you to put your {çeviri-portre}portrait up in the remaining frame." `
 `"...Th-Thank you very much...! `
 `It is a great honor...!" `
 `"...You will eradicate and erase Beatrice's name and all traces of her. `
@@ -155,8 +155,8 @@
 `...And you might've become even more interesting, ...but too bad." `
 `"What a wonderful way to die. `
 `...Erika! `
-`You can hang Battler's corpse in the mansion's reception hall. `
-`...The next time I come to visit this Fragment, welcome me in front of it." `
+`You can hang Battler's corpse in the {çeviri-malikane}mansion's reception hall. `
+`...The next time I come to visit this {çeviri-Kakera}Fragment, welcome me in front of it." `
 `"Certainly, my master. `
 `I'll make that foolish man an eternal monument to my master's victory!" `
 `"*giggle* That sounds wonderful. Really tasteful. `
@@ -190,22 +190,22 @@
 `...Let's meet again somewhere. `
 `However, we may not be reunited for another hundred or thousand years...if ever." `
 `"That's okay. `
-`The sea of Fragments is tiny to a pair who love each other." `
+`The sea of {çeviri-Kakera}Fragments is tiny to a pair who love each other." `
 `"The Third Man?" `
 `"No, Children of Paradise of course." `
 `"...If you could escape the poison of just a single evening's worth of boredom... `
-`each time you smashed one of those countless Fragments that glitter like a starry night, `
+`each time you smashed one of those countless {çeviri-Kakera}Fragments that glitter like a starry night, `
 `even you would want to count the stars in the sky." `
 `"Ooh, not bad...pfft, *giggle*giggle*...!" `
-`The Voyager witches travel across the countless glittering futures of possibility... `
+`The {çeviri-Gezgin}Voyager witches travel across the countless glittering futures of possibility... `
 `...and gobble them up, trying to escape their illness called boredom for as long as they can. `
-`The tiny, tiny Fragment created by the Human known as Beatrice... `
+`The tiny, tiny {çeviri-Kakera}Fragment created by the Human known as Beatrice... `
 `...had now been gobbled up by the two witches... `
 `...and had lost its glitter. `
 `The two who had earlier called themselves rivals in front of Beato... `
 `now stopped that charade and laughed together playfully. `
 `"Erika, `
-`new ruler of this Fragment, `
+`new ruler of this {çeviri-Kakera}Fragment, `
 `...weave the truth, ...and create the tale that leads up to this world's demise. `
 `...Umm, the next was the 6th game, right?" `
 `"Yes, it's the 6th game." `

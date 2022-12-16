@@ -1,4 +1,4 @@
-`In the Golden Land, the quiet rain...just kept on falling. `
+`In the {çeviri-Altın Diyar}Golden Land, the quiet rain...just kept on falling. `
 `In the arbor...sat the sad witch whose eyes had lost their glint...and Battler. `
 `Virgilia could also be seen there. `
 `...She sat next to Beato, knitting quietly. `
@@ -100,9 +100,9 @@
 `...Though I was a bit concerned about whether Dlanor, an Inquisitor of Heresy, could watch such a spectacle. `
 `"...Do not {f:5:worry}. `
 `I am not so boorish as to complain about how my tea is {f:5:served}." `
-`"Even though the tea's being made with magic...?" `
+`"Even though the tea's being made with {çeviri-büyü}magic...?" `
 `"...There is a tea set hiding in the shadows, and <Mrs> Virgilia is making us tea with it in {f:5:secret}. `
-`We interpret or judge that it was "made with {f:5:magic}", and it is written as such in the {f:5:tale}. `
+`We interpret or judge that it was "made with {f:5:{çeviri-büyü}magic}", and it is written as such in the {f:5:tale}. `
 `...That interpretation is allowed by Knox's 9{f:5:th}." `
 `"Oh my... `
 `I do believe the interpretation of the 9th is such a delicate problem that it's viewed as a taboo, even in the Great Court... `
@@ -112,13 +112,13 @@
 `Therefore, I do not worry about how it was {f:5:prepared}." `
 `".........Aha..." `
 `Though she looked cold, ...she was a surprisingly tactful person. `
-`...If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant. `
+`...If Dlanor were to deny that the black tea had been prepared with {çeviri-büyü}magic, this {çeviri-büyü}magic would surely be crushed in a instant. `
 `However, the possibility had been presented that a tea set existed and had been used to make the tea normally, `
 `so the fact that Virgilia had made tea was, in the end, undisputed. `
-`"Magic that hides the result in darkness is {f:5:evil}. `
+`"{çeviri-Büyü}Magic that hides the result in darkness is {f:5:evil}. `
 `I will not permit {f:5:it}. `
-`However, magic that enshrouds the process is not necessarily {f:5:evil}. `
-`My foe is evil itself, not {f:5:magic}." `
+`However, {çeviri-büyü}magic that enshrouds the process is not necessarily {f:5:evil}. `
+`My foe is evil itself, not {f:5:{çeviri-büyü}magic}." `
 `"I see. `
 `...The important thing is that you're being served some tea, `
 `so it's just common courtesy to avoid complaining about how it was made." `
@@ -135,7 +135,7 @@
 `"I'm a {f:5:kid}. `
 `It must be {f:5:sweet}." `
 `"......So then, `
-`...is magic... `
+`...is {çeviri-büyü}magic... `
 `a gentle... `
 `...lie?" `
 `"The word "lie" makes it sound bad. `
@@ -143,19 +143,19 @@
 `"When giving a child candy, `
 `you can take a crumpled up one out of your pocket, `
 `or you can use some clever sleight of hand to take the candy {f:5:out}. The impression given by each method varies {f:5:greatly}." `
-`"Well yeah, it'd look cooler if you took it out with a little magic trick." `
+`"Well yeah, it'd look cooler if you took it out with a little {çeviri-büyü}magic trick." `
 `"{f:5:Wrong}. `
 `There is meaning in the fact that the result--giving them candy--has been adorned to be even more beautiful and {f:5:fun}." `
 `"...Think of when you give Maria-chan a candy. `
 `There's a huge difference between taking it out of your pocket to give to her... `
 `and slipping it into her pocket `
 `and saying a fairy gave it to her for being such a good girl." `
-`"In my opinion, it would be boorish to then question everyone about their alibis `
+`"In my opinion, it would be boorish to then question everyone about their {çeviri-mazeret}alibis `
 `and pinpoint who it was that slipped it into her {f:5:pocket}. `
 `The important thing is the result: that the girl received the candy and {f:5:rejoiced}. `
 `And it is significant that it was embellished in a way that made her {f:5:rejoice}." `
 `"...That's surprising. `
-`When you showed up, I got the feeling you'd deny anything that went by the name of magic." `
+`When you showed up, I got the feeling you'd deny anything that went by the name of {çeviri-büyü}magic." `
 `"That is how I act in my capacity as an Inquisitor of {f:5:Heresy}. `
 `It is my {f:5:job}. `
 `However, when I am away from my job, I don't enjoy being quite so cold-{f:5:hearted}." `
@@ -183,12 +183,12 @@
 `"After hearing all this, I've changed my view of you a bit. `
 `...And that's why I'm certain the heart isn't meaningless." `
 `Virgilia was a little surprised to hear the words she should have said coming from Battler's mouth. `
-`After all, understanding the "heart" is the first step towards finding the essence of magic. `
+`After all, understanding the "heart" is the first step towards finding the essence of {çeviri-büyü}magic. `
 `By now, ...perhaps Battler has unconsciously started to understand, bit by bit, `
 `...the essence of Beato, the essence of witches... `
-`and the very first essence of all, ...magic. `
+`and the very first essence of all, ...{çeviri-büyü}magic. `
 `Whether you want to become a witch or vanquish them... `
-`...The very first step is learning about magic. `
+`...The very first step is learning about {çeviri-büyü}magic. `
 `Virgilia was sure that she'd felt this faint change within Battler... `
 `"...As for that last fight, thank you very {f:5:much}. `
 `I am grateful for the mercy you showed me at the very {f:5:end}." `
@@ -252,9 +252,9 @@
 `Don't tell me it was because of a stalemate or something like that." `
 `"{p:1:Knox's 2nd: `
 `It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}. `
-`We cannot use that red truth {f:5:directly}. `
+`We cannot use that {çeviri-kırmızı gerçek}red truth {f:5:directly}. `
 `However, I gave Cornelia, who was protecting the window, `
-`the red truth that "{p:1:the window was never opened after it started {f:5:raining}}"." `
+`the {çeviri-kırmızı gerçek}red truth that "{p:1:the window was never opened after it started {f:5:raining}}"." `
 `"Boom. `
 `...That's checkmate. `
 `......Why didn't that girl use that trump card...?" `
@@ -271,7 +271,7 @@
 `"I don't {f:5:understand}. `
 `All of a sudden, in that instant, use of that trump card became {f:5:forbidden}. `
 `Once we lost that, your victory was {f:5:guaranteed}." `
-`"......The Game Master, Lady Lambdadelta, probably interfered." `
+`"......The {çeviri-Oyun Yöneticisi}Game Master, Lady Lambdadelta, probably interfered." `
 `"That bastard... `
 `......So in the end, that whole fight was a farce in the palm of Lambdadelta's hand. `
 `She made "us" play out that entire act according to her script." `
@@ -345,7 +345,7 @@
 `She spoke to Beato...but of course, there was no response. `
 `After bowing once more in thanks for the black tea, `
 `...Dlanor disappeared off into the rainy rose garden... `
-`"So, no one can reach this Golden Land if Beato doesn't want them to?" `
+`"So, no one can reach this {çeviri-Altın Diyar}Golden Land if Beato doesn't want them to?" `
 `"Yes. `
 `...This child is the one who called Dlanor here." `
 `"............" `
@@ -487,24 +487,24 @@
 `The tale creates the illusion that the events of that instant would be impossible for any Human, `
 `making it seem like an unknown witch exists. `
 `...Let's start by crushing this Illusion of the Witch. `
-`We'll first check the situation in the dining hall last night when the letter was delivered." `
+`We'll first check the situation in the {çeviri-yemek salonu}dining hall last night when the letter was delivered." `
 `"{f:5:Understood}. `
 `Gertrude, Cornelia. `
-`Reconstruct last night's family conference in the dining hall." `
+`Reconstruct last night's family conference in the {çeviri-yemek salonu}dining hall." `
 `""As you wish."" `
 `The family conference last night was held with the adult relatives and Battler. `
-`And partway through, the servants had arrived to serve tea. `
+`And partway through, the {çeviri-hizmetkar}servants had arrived to serve tea. `
 `"Let's check everyone's location at the instant the letter arrived. `
 `How did that go, again?" `
 `"Please, allow me to speak. `
-`{p:1:Before the family conference, Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa left the mansion and moved to the guesthouse}." `
+`{p:1:Before the family conference, Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa left the {çeviri-malikane}mansion and moved to the {çeviri-konukevi}guesthouse}." `
 `"Please, allow me to speak. `
 `{p:1:Of those who remain, only Krauss, Natsuhi, and Genji were in the second floor corridor, `
-`while all others were in the dining hall}." `
-`"Because the family conference was proceeding and the mansion was completely locked, `
-`all other humans were unable to enter the {f:5:mansion}." `
+`while all others were in the {çeviri-yemek salonu}dining hall}." `
+`"Because the family conference was proceeding and the {çeviri-malikane}mansion was completely locked, `
+`all other humans were unable to enter the {f:5:{çeviri-malikane}mansion}." `
 `"Aha. `
-`That'd mean there was no one inside the mansion who could've knocked and placed the letter there, right? `
+`That'd mean there was no one inside the {çeviri-malikane}mansion who could've knocked and placed the letter there, right? `
 `Heheheh." `
 `"{f:5:Yes}. `
 `The witch side will probably claim that the one who did this...was the witch who wrote the letter, Beatrice." `
@@ -514,23 +514,23 @@
 `It's only sensible to consider that it might've been placed there earlier." `
 `"Just a few minutes before the letter was discovered, Shannon and Kanon came in to serve {f:5:tea}. `
 `When they entered, multiple witnesses confirmed that there was nothing suspicious like a letter in the hallway." `
-`"{p:2:Most likely, one of those not in the dining hall—Krauss, Natsuhi, or Genji— `
+`"{p:2:Most likely, one of those not in the {çeviri-yemek salonu}dining hall—Krauss, Natsuhi, or Genji— `
 `simply saw their chance right after that and placed the letter there}. `
-`No wait, it should be possible for the people who supposedly went to the guesthouse too." `
-`"{p:2:We've heard that the mansion was locked and that no one outside could get in, `
-`but if someone only pretended to go to the guesthouse and instead hid inside the mansion, `
+`No wait, it should be possible for the people who supposedly went to the {çeviri-konukevi}guesthouse too." `
+`"{p:2:We've heard that the {çeviri-malikane}mansion was locked and that no one outside could get in, `
+`but if someone only pretended to go to the {çeviri-konukevi}guesthouse and instead hid inside the {çeviri-malikane}mansion, `
 `it's perfectly possible that they could have placed the letter there}." `
 `"Allow me to speak. `
-`Blue truth, valid." `
+`{çeviri-Mavi gerçek}Blue truth, valid." `
 `"In that case, the problem is the "{f:5:knock}". `
 `Unlike the letter, someone would have to exist there at the instant of the {f:5:knock}." `
 `"I see, so this is the so-called proof that a person who shouldn't be there--a witch--existed? `
 `This is just so ridiculous. `
 `Do they think I, Furudo Erika, would surrender to something like that? `
 `*giggle*giggle*, ahhahaha!" `
-`"{p:2:Firstly, I question whether the knock was even something hitting the door to the dining hall at all. `
-`For example, the mansion's construction may be such that when a certain pillar on the second floor is struck, the noise is transmitted down the pillar, `
-`and it sounds just like a knock on the door to people in the dining hall}." `
+`"{p:2:Firstly, I question whether the knock was even something hitting the door to the {çeviri-yemek salonu}dining hall at all. `
+`For example, the {çeviri-malikane}mansion's construction may be such that when a certain pillar on the second floor is struck, the noise is transmitted down the pillar, `
+`and it sounds just like a knock on the door to people in the {çeviri-yemek salonu}dining hall}." `
 `"{p:2:Or they could have misheard some other random sound as a knock and misconstrued it in a similar way. `
 `Or a tape with the sound of a knock recorded on it could have been secretly playing, `
 `which had been carefully set up to be heard at exactly that time}." `
@@ -539,20 +539,20 @@
 `How is that? My master! `
 `How is my reasoning...?!!" `
 `"......That's what she says, ...so what do you think?" `
-`"Well, it looks like your cute piece gave it her all thinking up these blue truths, `
+`"Well, it looks like your cute piece gave it her all thinking up these {çeviri-mavi gerçek}blue truths, `
 `so I guess I'll be nice and give out a few reds{p:0:♪}" `
 `I guess I'll start with the letter. `
 `We have both the knock made when the bell of the large clock rang out 24:00... `
 `And the letter sitting there in an envelope bearing the One-Winged Eagle crest when the door was opened. `
-`It's so obvious to suspect that the people who weren't in the parlor secretly placed the letter there, right? `
+`It's so obvious to suspect that the people who weren't in the {çeviri-salon}parlor secretly placed the letter there, right? `
 `{p:1:Krauss, Natsuhi, and Genji did not even touch that letter}! `
 `"...Oho? `
 `Then, `
-`{p:2:when Shannon and Kanon came in to serve tea, who was the last Human to enter the dining hall...? `
+`{p:2:when Shannon and Kanon came in to serve tea, who was the last Human to enter the {çeviri-yemek salonu}dining hall...? `
 `Let's say it was Kanon. `
 `Wouldn't it be easy if Kanon, the last person in, secretly dropped the letter there when he closed the door}?" `
-`"{p:1:Not a single person in the dining hall—no, there's a simpler way to say it. `
-`Among all those inside the mansion at midnight, `
+`"{p:1:Not a single person in the {çeviri-yemek salonu}dining hall—no, there's a simpler way to say it. `
+`Among all those inside the {çeviri-malikane}mansion at midnight, `
 `not a single one of them placed that letter in the hallway}." `
 `"So, you can't say that no one touched it?" `
 `"Obviously. `
@@ -560,23 +560,23 @@
 `Of course I couldn't say that none of them touched it." `
 `"I see. `
 `Then let's interpret it this way: `
-`{p:2:Someone who existed outside of the mansion at midnight placed the letter somewhere other than the hallway beforehand. `
+`{p:2:Someone who existed outside of the {çeviri-malikane}mansion at midnight placed the letter somewhere other than the hallway beforehand. `
 `Then, it moved by some means, and ended up "placed in the hallway".}" `
 `"{p:2:Just as an example, let's say it was deliberately stuck to the underside of... `
-`the serving cart carrying the tea set, which the servants wheeled into the room. `
+`the serving cart carrying the tea set, which the {çeviri-hizmetkar}servants wheeled into the room. `
 `It was simply affixed there in a way that would make it come unstuck after a certain amount of time, `
 `such that when it eventually fell off, it would become "the letter left by a witch who shouldn't exist". `
-`In other words, this is a classic trick where the true sender gives themselves an alibi by making the letter appear at a different time}." `
+`In other words, this is a classic trick where the true sender gives themselves an {çeviri-mazeret}alibi by making the letter appear at a different time}." `
 `"Allow me to speak. `
-`Blue truth, valid." `
-`"In other words, the fact that it landed just outside the dining hall door was just the culprit's good luck. `
-`At worst, it might have happened in the kitchen, the corridor, or even inside the dining hall." `
+`{çeviri-Mavi gerçek}Blue truth, valid." `
+`"In other words, the fact that it landed just outside the {çeviri-yemek salonu}dining hall door was just the {çeviri-suçlu}culprit's good luck. `
+`At worst, it might have happened in the kitchen, the corridor, or even inside the {çeviri-yemek salonu}dining hall." `
 `"...Oh, <good>! `
-`If it had happened inside the dining hall, that would've been even more wonderful. `
+`If it had happened inside the {çeviri-yemek salonu}dining hall, that would've been even more wonderful. `
 `Within everyone's sight, a letter would suddenly appear on the floor. `
-`And that wouldn't even violate a red truth saying "no one in the closed room of the dining hall touched the letter unexpectedly"!" `
+`And that wouldn't even violate a {çeviri-kırmızı gerçek}red truth saying "no one in the closed room of the {çeviri-yemek salonu}dining hall touched the letter unexpectedly"!" `
 `"Well {f:5:done}. `
-`If the letter was stuck to the bottom of the serving cart, then anyone could be the {f:5:culprit}." `
+`If the letter was stuck to the bottom of the serving cart, then anyone could be the {f:5:{çeviri-suçlu}culprit}." `
 `"That might work okay regarding the letter. `
 `However, will that same type of argument apply to the knock as well? `
 `Let's try this again, shall we?" `
@@ -590,32 +590,32 @@
 `or else a sound that could be misidentified as a knock}." `
 `"Please, allow me to speak. `
 `{p:1:At 24:00, except for Krauss, Natsuhi, and Genji in the second floor corridor, `
-`and all of the people in the dining hall, no other Humans existed inside the mansion}." `
+`and all of the people in the {çeviri-yemek salonu}dining hall, no other Humans existed inside the {çeviri-malikane}mansion}." `
 `"Please, allow me to speak. `
-`{p:1:In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked, `
+`{p:1:In addition to Krauss, Natsuhi, and Genji, none of those in the {çeviri-yemek salonu}dining hall knocked, `
 `where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}." `
 `{e:070:A direct knock refers to someone literally hitting a door to make a knocking sound. `
 `{n}An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked. `
 `{n}An unintentional knock refers to someone unintentionally creating a fake knocking sound. `
 `{n}A coincidental knock refers to some kind of coincidence creating a fake knocking sound.} `
-`"{p:1:In other words, it is impossible for anyone who was in the mansion to have been the source of a knocking {f:5:sound}. `
+`"{p:1:In other words, it is impossible for anyone who was in the {çeviri-malikane}mansion to have been the source of a knocking {f:5:sound}. `
 `......In this case, "anyone" also includes any people who might have gone undetected or {f:5:unobserved}}." `
-`"Anyone who was in the mansion" also includes any unknown person X who was secretly hiding in the mansion. `
+`"Anyone who was in the {çeviri-malikane}mansion" also includes any unknown person X who was secretly hiding in the {çeviri-malikane}mansion. `
 `Therefore, this literally meant... `
-`that "it was impossible for anyone inside the mansion to knock", with no wordplay allowed. `
+`that "it was impossible for anyone inside the {çeviri-malikane}mansion to knock", with no wordplay allowed. `
 `"...I see. `
-`No matter how much I toy with it, it's impossible for anyone except those in the guesthouse group to create the knocking sound, right? `
+`No matter how much I toy with it, it's impossible for anyone except those in the {çeviri-konukevi}guesthouse group to create the knocking sound, right? `
 `Like me, for example. `
 `{p:2:What if I, Furudo Erika, recorded a knocking sound on a cassette tape, `
 `secretly installed it somewhere, and set it up so that it would start playing at exactly midnight? `
-`Of course, I wasn't in the mansion at midnight.} `
+`Of course, I wasn't in the {çeviri-malikane}mansion at midnight.} `
 `There aren't any problems with this, are there?" `
 `"No {f:5:problems}. `
 `However, though the knock did serve as a way of informing them about the letter on the other side of the door, `
 `I do not think it would have worked if the letter had fallen {f:5:elsewhere}." `
 `If the trick in Erika's theory about the letter being stuck to the serving cart was accurate, `
 `then the location that the letter fell was a matter of luck. `
-`Because it had fortunately fallen near the door, the people in the dining hall noticed it due to the knock. `
+`Because it had fortunately fallen near the door, the people in the {çeviri-yemek salonu}dining hall noticed it due to the knock. `
 `However, if the location it fell was a matter of chance, `
 `...it might have landed in the far off kitchen `
 `or remained stuck even after they entered. `
@@ -626,12 +626,12 @@
 `In that case, the random location the letter fell to off the bottom of the serving cart couldn't be connected with the knock. `
 `For the letter to be found thanks to the knock, it would have to be reliably positioned "on the other side of the door". `
 `However, `
-`it was announced in red that {p:1:no one in the mansion placed the letter in the hallway}. `
+`it was announced in red that {p:1:no one in the {çeviri-malikane}mansion placed the letter in the hallway}. `
 `"I'll reword that red about "placing it" in the corridor a bit. `
-`{p:1:No one in the mansion placed the letter in the hallway. `
+`{p:1:No one in the {çeviri-malikane}mansion placed the letter in the hallway. `
 `That goes for every conceivable possibility: directly, indirectly, intentionally, coincidentally, and unintentionally}." `
 `"...For example, let's assume there was a device on the serving cart that "drops the letter when it stops moving". `
-`In this case, you'd think they could predict that the cart would probably stop just once when those two knocked on the door to the dining hall, `
+`In this case, you'd think they could predict that the cart would probably stop just once when those two knocked on the door to the {çeviri-yemek salonu}dining hall, `
 `and by doing so, they'd be cleverly making it so the letter drops right in front of the door." `
 `"But even this doesn't work, okay? `
 `The action of "stopping the serving cart" would indirectly lead to "placing the letter in the hallway". `
@@ -641,10 +641,10 @@
 `would mean that the people pushing the serving cart had "coincidentally and unintentionally" placed the letter there. `
 `Of course, this is also no good!!" `
 `"Repeat it. `
-`"At 24:00, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion"." `
-`What if someone in the dining hall "didn't exist in the mansion" right at 24:00? `
+`"At 24:00, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the {çeviri-malikane}mansion"." `
+`What if someone in the {çeviri-yemek salonu}dining hall "didn't exist in the {çeviri-malikane}mansion" right at 24:00? `
 `For example, what if they'd slipped out a window just before...? `
-`With this wordplay, it might be possible to get around the red truth. `
+`With this wordplay, it might be possible to get around the {çeviri-kırmızı gerçek}red truth. `
 `"...Repeat iiiiiit...? `
 `Even though I'm nice enough to give you all this red for free? Aren't you being a bit greedy? `
 `I'm not an idiot like Beato, `
@@ -654,37 +654,37 @@
 `"Heheheheh, now you've gotta keep that promise. *slurp*! `
 `...Okay then, here's a freebie{p:0:♪} `
 `I'll respond. `
-`"{p:1:At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion}"!" `
-`In other words, no matter how much they struggled, those 8 people, including Erika, could not have existed inside the mansion, much less in front of the door. `
-`And at the same time, no matter how much they struggled, those inside the mansion could not have existed outside the mansion. `
+`"{p:1:At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the {çeviri-malikane}mansion}"!" `
+`In other words, no matter how much they struggled, those 8 people, including Erika, could not have existed inside the {çeviri-malikane}mansion, much less in front of the door. `
+`And at the same time, no matter how much they struggled, those inside the {çeviri-malikane}mansion could not have existed outside the {çeviri-malikane}mansion. `
 `"{p:2:In that case, the letter might have been stuck to the ceiling of the hallway instead of the serving cart. `
 `The ceiling of the hallway is surprisingly high, so even if you just stuck it there out in the open, maybe no one would notice it. `
 `This way, it would certainly fall in the corridor. `
-`And you can slip by the red if someone outside the mansion did this}! `
+`And you can slip by the red if someone outside the {çeviri-malikane}mansion did this}! `
 `<Good> job, me...!" `
 `"Please, allow me to speak. `
 `{p:1:The letter never existed on the ceiling of the hallway}." `
 `"Please, allow me to speak. `
 `{p:1:Know that the letter never touched the serving cart}." `
 `"......Wh-Who cares about that?! `
-`Anyway, some Human outside the mansion used some kind of trick to place the letter there!! `
+`Anyway, some Human outside the {çeviri-malikane}mansion used some kind of trick to place the letter there!! `
 `If you try to use that letter and the knock to argue that Beatrice exists, it definitely won't work on Furudo Erika." `
 `"Please, allow me to speak. `
-`{p:1:It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference}." `
-`"Then someone outside the mansion set up some kind of device before the family conference. `
+`{p:1:It was impossible for anyone outside the {çeviri-malikane}mansion to influence anything inside the {çeviri-malikane}mansion after the start of the family conference}." `
+`"Then someone outside the {çeviri-malikane}mansion set up some kind of device before the family conference. `
 `Something other than the ceiling or the serving cart!" `
-`"Allow me to speak. Blue truth, invalid." `
+`"Allow me to speak. {çeviri-Mavi gerçek}Blue truth, invalid." `
 `"Why...?!! `
 `That's the only way, right?! `
-`Someone outside the mansion used some kind of device other than the ceiling or the serving cart...!!" `
+`Someone outside the {çeviri-malikane}mansion used some kind of device other than the ceiling or the serving cart...!!" `
 `"A-Allow me to speak. `
-`Unless you can specify or theorize as to what that {i:something} might be, your blue truth will not be acknowledged." `
+`Unless you can specify or theorize as to what that {i:something} might be, your {çeviri-mavi gerçek}blue truth will not be acknowledged." `
 `"Allow me to speak. `
-`All of Lady Erika's blue truths regarding the letter have been lost." `
+`All of Lady Erika's {çeviri-mavi gerçek}blue truths regarding the letter have been lost." `
 `"They've all been lost, you say...?! `
-`Watch your tongues a bit more, useless furniture! `
+`Watch your tongues a bit more, useless {çeviri-mobilya}furniture! `
 `If I can just think of that device, it's an instant checkmate...! `
-`What do you mean A L L of them?! What do you mean my blue truth is invalid?! `
+`What do you mean A L L of them?! What do you mean my {çeviri-mavi gerçek}blue truth is invalid?! `
 `How dare you... `
 `say such a thing to me, `
 `...the detective, `
@@ -694,15 +694,15 @@
 `no, Erika's reasoning...were the worst form of torture and humiliation for her. `
 `"...<Miss> Erika, `
 `why don't we postpone the riddle of the letter for {f:5:now}? `
-`...Your blue stake about "someone outside the mansion playing it with a cassette tape" is still {f:5:valid}. `
+`...Your blue stake about "someone outside the {çeviri-malikane}mansion playing it with a cassette tape" is still {f:5:valid}. `
 `If it was possible for sound, then perhaps it wasn't impossible for a letter as {f:5:well}." `
 `As Erika made to grab and pull Gertrude's hair, Dlanor stopped her with those words. `
-`"That's right, my blue truth regarding the knock is still valid...! `
+`"That's right, my {çeviri-mavi gerçek}blue truth regarding the knock is still valid...! `
 `It's not true that everything's been denied...!! `
 `My master! I will solve the riddle of the letter without fail. `
 `Please allow me to postpone that for now...!! `
 `However, I will definitely figure out the riddle of the knock here! `
-`I've hit you with the blue stake that "{p:2:someone outside the mansion set things up with a cassette tape or something to make a knock sound play}"...!" `
+`I've hit you with the blue stake that "{p:2:someone outside the {çeviri-malikane}mansion set things up with a cassette tape or something to make a knock sound play}"...!" `
 `"Heheheheheheheheheheh...! `
 `You really are a cute kid, piece of Bern's. `
 `Very lively. `
@@ -740,10 +740,10 @@
 `"{p:1:‘To knock’ means someone hitting a door with their hand}! `
 `I won't accept hitting it with some device, eheheheheheheheheheheh!! `
 `They heard a knock at the same time as the 24:00 bell. `
-`At that time, everyone inside the dining hall definitely heard it. `
+`At that time, everyone inside the {çeviri-yemek salonu}dining hall definitely heard it. `
 `{p:1:And none of them would misinterpret a knocking sound. `
 `Krauss, Natsuhi, and Genji had no involvement in any knocking. `
-`No one else existed inside the mansion. `
+`No one else existed inside the {çeviri-malikane}mansion. `
 `And a "knock" refers to the action of standing directly in front of a door and hitting it with a hand}." `
 `"...Hey, Bern. `
 `What do you think of my red? `
@@ -790,7 +790,7 @@
 `Erika endured this with a hideous expression, looking with shame at the back of the master who ignored her. `
 `And with both fists clenched, she thought frantically in search of some kind of breakthrough. `
 `I am the detective, I am Furudo Erika. `
-`I am the piece and double and servant of the Great Lady Bernkastel...!! `
+`I am the piece and double and {çeviri-hizmetkar}servant of the Great Lady Bernkastel...!! `
 `I'll definitely make her satisfied... `
 `satisfied... `
 `definitely, definitely, `
@@ -815,14 +815,14 @@
 `With a hideous expression covered in cold sweat, Erika glared and lashed out at Battler. `
 `"......What `
 `do you get...?" `
-`"There's no way you jumped down from the third floor study...! `
+`"There's no way you jumped down from the third floor {çeviri-çalışma odası}study...! `
 `Not one of us saw you fall down and land in the courtyard...!!" `
 `"........." `
 `"{p:2:When you set up the ladder from the courtyard and saw Rudolf‐san go up it to the third‐story window, `
 `you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third‐floor window...! `
 `You didn't {i:jump down}! `
 `You used the rain gutters and so on and clambered down the outer wall like a loser}!! `
-`What do you think of my blue truth?!! Come on, what's your counterargument?!" `
+`What do you think of my {çeviri-mavi gerçek}blue truth?!! Come on, what's your counterargument?!" `
 `"......My counterargument?" `
 `"You don't have a counterargument? `
 `Then my truth is valid, right?! `
@@ -830,7 +830,7 @@
 `{p:2:It may have looked like you jumped down all dramatically, but it was all an illusion! `
 `All you actually did was jump out and grab desperately onto the rain gutter}...!!" `
 `"......... `
-`...My argument then was about whether it was possible for Grandfather to escape from the study, right...? `
+`...My argument then was about whether it was possible for Grandfather to escape from the {çeviri-çalışma odası}study, right...? `
 `And it was possible for Grandfather to escape through the window. `
 `All I did was prove that. `
 `...Whether I jumped down or crawled down, that doesn't change anything, does it?" `
@@ -845,7 +845,7 @@
 `His hand had slipped halfway, and he had fallen from a considerable height, `
 `but he had managed to land on his feet. `
 `...No one had witnessed this, `
-`but most likely, everyone in the dining hall now except Erika had realized that something like this had happened. `
+`but most likely, everyone in the {çeviri-yemek salonu}dining hall now except Erika had realized that something like this had happened. `
 `Since the very beginning, no one had believed that he'd jumped down from the third floor window. `
 `...Even if they hadn't witnessed that directly. `
 `So they had no clue what Erika was complaining about all of a sudden... `
@@ -853,7 +853,7 @@
 `"You can't counter that, can you?! `
 `You jumping down has already been denied! `
 `My truth has won!! `
-`My blue truth is valid!" `
+`My {çeviri-mavi gerçek}blue truth is valid!" `
 `"My master, please acknowledge this!! `
 `I am not incompetent or a disappointment...! `
 `I will match up to your expectations without fail, so please don't abandon me!! My master...!!" `

@@ -3,8 +3,8 @@
 `...It must have been a very deep sleep. `
 `Her mind was hazy, and she wasn't thinking clearly. `
 `Where is this...? `
-`It felt like some mansion, but it didn't seem to be the Ushiromiya mansion. `
-`She could see a room that looked like a parlor. `
+`It felt like some {çeviri-malikane}mansion, but it didn't seem to be the Ushiromiya {çeviri-malikane}mansion. `
+`She could see a room that looked like a {çeviri-salon}parlor. `
 `...And there was some tea that had been prepared. `
 `It had probably been made for her. `
 `Around the room, some glitter that looked like gold leaf drifted about, making the scene look quite fantastical. `
@@ -12,7 +12,7 @@
 `There was someone across from her. `
 `...A woman. `
 `...A lady. `
-`......It was the portrait's... `
+`......It was the {çeviri-portre}portrait's... `
 `witch. `
 `She seemed to be having a one-sided conversation. `
 `She was probably talking to Rosa, `
@@ -40,7 +40,7 @@
 `"Can you imagine it? `
 `A mountain of gold that you couldn't use up as long as you lived." `
 `As the witch blew on her pipe, multi-colored smoke enshrouded their surroundings. `
-`As she did this, the inside of the parlor...was suddenly filled with stacks of gold ingots. `
+`As she did this, the inside of the {çeviri-salon}parlor...was suddenly filled with stacks of gold ingots. `
 `It looked like a shining gold-colored wall. `
 `...If each ingot was worth several ten million yen, `
 `how much would all of this be worth? `
@@ -151,16 +151,16 @@
 `You simply must eat like a pig as long as you live." `
 `"If one meal isn't enough, then have as many as you want. `
 `Until the pain of your heart is healed, why not continue this gourmet banquet? `
-`...Begin it, furniture." `
+`...Begin it, {çeviri-mobilya}furniture." `
 `As the witch clapped twice, `
-`there were suddenly two goat head servants there, and they began to prepare the meal. `
+`there were suddenly two goat head {çeviri-hizmetkar}servants there, and they began to prepare the meal. `
 `From the beautiful dishes adorning the table, they efficiently took some food and began to pile it up on Rosa's plate. `
 `It really did look delicious, but Rosa's body still felt as heavy as lead, `
 `and there was no way she'd be able to eat. `
 `Maybe they also understood that. `
-`The goat head servants tied a napkin around Rosa's collar... `
+`The goat head {çeviri-hizmetkar}servants tied a napkin around Rosa's collar... `
 `and gallantly brought a glass of before-dinner alcohol to her mouth, tilting it for her. `
-`She remembered an old servant who had once carried rice porridge to her mouth when she was laid up with a high fever. `
+`She remembered an old {çeviri-hizmetkar}servant who had once carried rice porridge to her mouth when she was laid up with a high fever. `
 `She couldn't drink it well, and it dripped down from her mouth, but she felt the fragrant sweetness spread throughout her mouth. `
 `"It's a sweet aperitif of noble rot German-made wine. `
 `A wine cocktail of white wine mixed with a crimson golden drop." `
@@ -193,8 +193,8 @@
 `had woken up, and was now struggling to get out. `
 `But that was wrong. `
 `What was inside definitely had been {i:squeezed dregs}. `
-`Using her magic, the witch had once again revived the squeezed dregs to how they'd been before they were squeezed. `
-`Three goat head servants with muscular physiques approached the compressor...and forcefully started tightening the large bulb. `
+`Using her {çeviri-büyü}magic, the witch had once again revived the squeezed dregs to how they'd been before they were squeezed. `
+`Three goat head {çeviri-hizmetkar}servants with muscular physiques approached the compressor...and forcefully started tightening the large bulb. `
 `...As they did, an unearthly moan came from inside the coffin. `
 `...Rosa thought she knew the owner of that voice. `
 `"It is fitting for cooking to be done in the kitchen. `
@@ -212,7 +212,7 @@
 `Remember the taste of the tears that you spilled until you were dry. `
 `I believe this aperitif will be sufficient to heal that regrettable memory. `
 `*cackle*cackle*!!" `
-`Once again, the goat head servants tilted a deep red glass against her mouth. `
+`Once again, the goat head {çeviri-hizmetkar}servants tilted a deep red glass against her mouth. `
 `...Rosa tried resisting by closing her lips, `
 `but the deep red liquid was relentlessly poured into her mouth, which hung open with shock, `
 `and the inside of her mouth was filled with a ghastly sweetness... `
@@ -228,7 +228,7 @@
 `"............!!!" `
 `When Rosa heard the true nature of the pink-colored meat piled up in the salad, `
 `she had a sudden impulse to vomit her guts out. `
-`...Furthermore, the goat servants stuck a fork in it...and carried it to Rosa's mouth. `
+`...Furthermore, the goat {çeviri-hizmetkar}servants stuck a fork in it...and carried it to Rosa's mouth. `
 `"How does your double-tongued sister taste? `
 `It must be quite soft and enchanting, right? `
 `*cackle*cackle*!" `
@@ -238,7 +238,7 @@
 `"......mnnnnnnnnnnn!! `
 `Nggggnnnnnnnnnnnnnn!!" `
 `As the tongue salad that kept being pushed into Rosa's mouth was covered with saliva, she spat it out. `
-`But the goat head servants carefully returned it to the plate and carried it to Rosa's mouth over and over again. `
+`But the goat head {çeviri-hizmetkar}servants carefully returned it to the plate and carried it to Rosa's mouth over and over again. `
 `"It goes without saying, but I made this salad liberally using five of Eva's tongues. `
 `You can't get more than one tongue out of a person. `
 `But I can get them over and over. `
@@ -336,7 +336,7 @@
 `Release meeeeeeeeeeeeee!!" `
 `"*cackle*cackle*, hahahahahahahahahahahahaha!! `
 `I finally made you acknowledge it!! `
-`That crafty Battler has already surrendered, and I made Rosa, the fool who denied me even after being invited to the Golden Land, accept it!! `
+`That crafty Battler has already surrendered, and I made Rosa, the fool who denied me even after being invited to the {çeviri-Altın Diyar}Golden Land, accept it!! `
 `Perfect!! `
 `<It's perfect!!>" `
 `"I've accomplished my perfect victory!! `
@@ -351,7 +351,7 @@
 `As it did, the witch broke to pieces, turned into a cloud of gold butterflies, and reformed into her body a short distance away. `
 `"...B-Battler?!?! `
 `...Y-You bastard, `
-`...I thought you'd surrendered so far that even your soul was furniture!!" `
+`...I thought you'd surrendered so far that even your soul was {çeviri-mobilya}furniture!!" `
 `"Me too, `
 `...but while I was listening to that gross recipe, I started to get a little hungry." `
 `"Now I feel like eating a whole roast witch!!" `
@@ -361,7 +361,7 @@
 `"...Uu-. `
 `Promise." `
 `"B-Battler-kun...!" `
-`"Sorry to keep you waiting, Aunt Rosa. `
+`"Sorry to keep you waiting, {çeviri-Hala}Aunt Rosa. `
 `I'd forgotten. `
 `This is a one-on-one fight between me and this woman. `
 `It's totally wrong for me to give in. `
@@ -383,12 +383,12 @@
 `"Don't think I'm out just because you took a shot at me. `
 `I'll give you a good show, Beatriiiiiiiiiiiiiiiiiiiiiiiice!!" `
 `"I'll accept your challenge, Ushiromiya Battler!! `
-`Furniture, begin preparations for the next game!!" `
+`{çeviri-Mobilya}Furniture, begin preparations for the next game!!" `
 `"While we're waiting, why don't you tell me all about it? `
 `There were a lot of closed rooms in this game. `
 `Using red, I've smashed to bits most of the methods by which you tried to talk yourself out of them. `
 `What other evasive quibbles will you show me now?!! `
-`The lock to the chapel, the lock to Jessica's room, the lock to the servant room, the lock to Natsuhi's room, the lock to the parlor!! `
+`The lock to the {çeviri-kilise}chapel, the lock to Jessica's room, the lock to the {çeviri-hizmetkar}servant room, the lock to Natsuhi's room, the lock to the {çeviri-salon}parlor!! `
 `Use your bizarre specialty, `
 `those delusions, rantings, daydreams, and bluffs, `
 `all slanted with ridiculous, incredible turns of events, and show how you can thoroughly deny meeeeeeeeeeeeeeeeeeeeee!!" `
