@@ -89,7 +89,7 @@
 `"And, judging by how freaked our parents were, it looks like she wasn't an invited guest. `
 `...Now it's starting to get interesting." `
 `"There's no reason for us to simply assume that a woman called Beatrice doesn't exist. `
-`...It's what Uncle Rudolf called a Devil's Proof. `
+`...It's what Uncle Rudolf called a {çeviri-Şeytan'ın İspatı}Devil's Proof. `
 `......None of us knew that a woman calling herself Beatrice existed." `
 `"...But that's not the same as proving that Beatrice doesn't exist." `
 `"...Doctor Nanjo, you've been friends with Grandfather for a long time, right?" `
@@ -117,7 +117,7 @@
 `...Usually, if one loses a mistress but has a child left behind to remember them by, they pour all of their love onto that child. `
 `...Therefore, we naturally assumed that there was no such child between Kinzo-san and Beatrice..." `
 `".........Hmm? `
-`...So, that leaves us with another Devil's Proof." `
+`...So, that leaves us with another {çeviri-Şeytan'ın İspatı}Devil's Proof." `
 `"...Yeah. `
 `...It's impossible to prove that a child between him and a mistress "didn't exist". `
 `...So, now that this child has actually appeared, we have to assume she "did exist" after all." `
@@ -192,7 +192,7 @@
 `"...Kihihihihihihihihihihihihihihi. `
 `Hmmm...? `
 `Isn't that odd, Battler? `
-`...That's a Devil's Proof, isn't it? `
+`...That's a {çeviri-Şeytan'ın İspatı}Devil's Proof, isn't it? `
 `...Of course witches don't exist? `
 `But just because you've never met a witch, `
 `that doesn't mean you've proven that witches don't exist, right...?" `
@@ -213,8 +213,8 @@
 `Kihihihihihihihi...!" `
 `"Then there's only one way to resolve this, Maria. `
 `......The witch's side needs to show some proof themselves. `
-`It's a Devil's Proof again. `
-`...If you bring me a devil, we can end this right now." `
+`It's a {çeviri-Şeytan'ın İspatı}Devil's Proof again. `
+`...If you bring me a {çeviri-şeytan}devil, we can end this right now." `
 `"...In this case, we can just get this woman calling herself Beatrice `
 `to display some wonderful, magnificent {çeviri-büyü}magic like the twinkling stars. `
 `All she has to do is show us something {i:that's impossible for {y:0:Human}{n:0:human}s} `
@@ -566,10 +566,10 @@
 `"I acknowledge it too... `
 `......I still can't believe it. `
 `...Still, ......what can I do? `
-`{i:You've proven devils}! `
+`{i:You've proven {çeviri-şeytan}devils}! `
 `It's your victory...!" `
 `"*cackle*cackle*cackle*...! `
-`The Devil's Proof was a convenient excuse you liked using to handle unprovable matters, ...but now it's become your mortal enemy, has it not?" `
+`The {çeviri-Şeytan'ın İspatı}Devil's Proof was a convenient excuse you liked using to handle unprovable matters, ...but now it's become your mortal enemy, has it not?" `
 `"...Don't torture me, mighty witch. `
 `......I've already acknowledged you. `
 `I resign." `
@@ -586,7 +586,7 @@
 `Only Kyrie had faced the witch with stern eyes until the end. `
 `...However, this had only resulted in her refusing to accept the truth for a short time. `
 `The truth...the being...that was before her eyes...couldn't be denied. `
-`{i:Devils had already been proven}...! `
+`{i:{çeviri-Şeytan}Devils had already been proven}...! `
 `"......I also...acknowledge it. `
 `...You are Beatrice. `
 `The Ushiromiya family alchemist. `

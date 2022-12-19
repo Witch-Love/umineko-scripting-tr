@@ -103,9 +103,9 @@
 `"......In the hall of the {çeviri-malikane}mansion, Battler, Eva, George, and Nanjo... `
 `found the corpses of Rudolf, Kyrie, and Hideyoshi." `
 `"......The fourth through sixth twilights? `
-`Then, the corpses were pierced through the forehead, chest, and stomach with those demon stakes?" `
+`Then, the corpses were pierced through the forehead, chest, and stomach with those {çeviri-iblis kazığı}demon stakes?" `
 `"Yes. `
-`...The demon stakes were buried into them: one in Rudolf's forehead, `
+`...The {çeviri-iblis kazığı}demon stakes were buried into them: one in Rudolf's forehead, `
 `one in Hideyoshi's chest, `
 `and one in Kyrie's stomach." `
 `"The disorder of the clothing on all three suggests that they were fighting or running away. `
@@ -650,7 +650,7 @@
 `According to the legend of the Ushiromiya family, Grandfather met with her long ago and was given a vast quantity of gold. `
 `...Then, if I also met with her, `
 `...instead of gold, would she give me Shannon's life? `
-`As collateral, I don't care what sort of devil's contract she imposed. `
+`As collateral, I don't care what sort of {çeviri-şeytan sözleşmesi}devil's contract she imposed. `
 `I wouldn't mind sacrificing all of my remaining life... `
 `George probably couldn't believe or realize that his voiceless wish... `
 `was heard by the witch herself, who stood right behind him. `
@@ -868,7 +868,7 @@
 `"............" `
 `"............ `
 `...I see. `
-`If a great demon like you says that, then it must've been my imagination." `
+`If a {çeviri-yüce iblis}great demon like you says that, then it must've been my imagination." `
 `The witch persistently stared in the direction the presence had disappeared to. `
 `...That was where the rose garden lay. `
 `And beyond that, she could see the {çeviri-malikane}mansion's dark silhouette creating by lightning. `

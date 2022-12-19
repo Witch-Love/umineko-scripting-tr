@@ -44,6 +44,10 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Butler `->` Uşak
    * Chapel `->` Kilise
    * Culprit `->` Suçlu
+   * Demon `->` İblis
+   * Demons' Roulette `->` İblislerin Ruleti
+   * Demon Stake `->` İblis Kazığı
+   * Devil `->` Şeytan
    * Dining Hall `->` Yemek Salonu
    * Epitaph `->` Kitabe
    * Family Head `->` Aile Reisi
@@ -54,6 +58,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
       * Bir taneyse `->` \*kıkırdar\*
       * Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*
    * Golden Land `->` Altın Diyar
+   * Great Demon `->` Yüce İblis
    * Guesthouse `->` Konukevi
    * Guest room `->` Misafir odası
    * Incinerator `->` Çöp Fırını

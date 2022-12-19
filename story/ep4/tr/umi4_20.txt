@@ -1083,7 +1083,7 @@
 `This is the same as the linked closed rooms from the third game." `
 `"{p:2:Kanon‐kun died for a reason that was neither suicide nor homicide}. `
 `{p:2:Though the circumstances are unclear, he died from an accident}." `
-`"{p:2:By the Devil's Proof, I refuse to explain what kind of blunder could have led to an accidental death where a stake was driven into his chest}!!" `
+`"{p:2:By the {çeviri-Şeytan'ın İspatı}Devil's Proof, I refuse to explain what kind of blunder could have led to an accidental death where a stake was driven into his chest}!!" `
 `"Hohoh, now that you have borrowed the power of demons, you are without peer! `
 `It is valid!" `
 `"In that case, what about the murders after that in the {çeviri-salon}parlor, of Genji, Nanjo, and Kumasawa?! `
@@ -1168,7 +1168,7 @@
 `Then what about this?!!" `
 `"{p:2:The food they were given had small bombs in it, which exploded from inside their stomachs}. `
 `{p:2:In other words, the crime is possible through trap X}! `
-`{p:2:The details of a bomb that they could swallow without noticing and that could blow open their stomachs is a Devil's Proof}! `
+`{p:2:The details of a bomb that they could swallow without noticing and that could blow open their stomachs is a {çeviri-Şeytan'ın İspatı}Devil's Proof}! `
 `{p:2:I refuse to explain}!!" `
 `"Pfft, hhahahahahahahhahahahhaha!! `
 `What the hell's thaaaaaaaaat?! `

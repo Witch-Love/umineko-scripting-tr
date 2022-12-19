@@ -496,7 +496,7 @@
 `......It's possible to prove that someone exists, but you can't prove that someone doesn't exist." `
 `"In other words, the Human world is one in which, regardless of whether something exists or not, you can make it so that they "exist". `
 `...And the shadows that can make such things "exist" are themselves the world of us witches, the world of demons." `
-`"...You mean...a Devil's Proof." `
+`"...You mean...a {çeviri-Şeytan'ın İspatı}Devil's Proof." `
 `"Yes. `
 `......So don't worry. `
 `The power of demons will most certainly protect you." `
@@ -983,14 +983,14 @@
 `"Hohohoho... `
 `And they are hidden doors, after all... `
 `No matter how much people such as ourselves might search, {i:it's only natural that we won't find them}. `
-`"......I see. So it's a Devil's Proof. `
+`"......I see. So it's a {çeviri-Şeytan'ın İspatı}Devil's Proof. `
 `You're saying we can't deny the possibility that a hidden door exists in this room." `
 `"That's nonsense, a farce...!! `
 `Even considering that your lie about concealing Father's death is about to be revealed, how dare you...!!" `
 `"That's right!! Just where in this {çeviri-çalışma odası}study is there a hidden door...?!! `
 `Try and prove that it exists!!" `
 `"{p:2:No proof is required!! `
-`It's a Devil's Proof! The existence of a hidden door is impossible to discover or disprove!! `
+`It's a {çeviri-Şeytan'ın İspatı}Devil's Proof! The existence of a hidden door is impossible to discover or disprove!! `
 `Therefore, no one can eliminate the possibility that Kinzo escaped from this {çeviri-çalışma odası}study through a hidden door}!!" `
 `"{p:1:I will not allow a hidden door to exist in this {f:5:room}}." `
 `Beato's blue wedge, which had been fired off as a farewell gift, `
@@ -1012,7 +1012,7 @@
 `Here it is, the ten wedges to pierce witches...!! `
 `Just like usual, it's the kind of irrational argument I just love to hear...!" `
 `"What a fool. `
-`The Devil's Proof might've been vague enough to let you escape from everything until now, `
+`The {çeviri-Şeytan'ın İspatı}Devil's Proof might've been vague enough to let you escape from everything until now, `
 `but now that you're up against Dlanor, that move won't work anymore, Beatrice!" `
 `"...As I thought, you're no different from any witch after {f:5:all}. `
 `I'm {f:5:disappointed}." `
@@ -1033,12 +1033,12 @@
 `"{p:1:No such substance {f:5:exists}. `
 `It must not {f:5:exist}}." `
 `"{p:2:Maybe he invented a teleportation device! `
-`That possibility is impossible to eliminate because of the Devil's Proof}!!" `
+`That possibility is impossible to eliminate because of the {çeviri-Şeytan'ın İspatı}Devil's Proof}!!" `
 `"{p:1:Such a machine does not {f:5:exist}. `
 `I will not permit it to {f:5:exist}}." `
 `"{p:2:Oh, so you can examine every chemical substance in the world? `
 `You can rule out the existence of unknown scientific devices?! `
-`There's no way you can, it's a Devil's Proof! `
+`There's no way you can, it's a {çeviri-Şeytan'ın İspatı}Devil's Proof! `
 `You cannot rule out their existence}!" `
 `"{p:1:I will {f:5:repeat}. `
 `In the name of God, I will not permit such chemicals or devices to {f:5:exist}. `

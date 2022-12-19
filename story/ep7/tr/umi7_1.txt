@@ -255,7 +255,7 @@
 `"You ask me to solve the case of Beatrice's murder, but... `
 `{p:1:Van Dine's Twenty Rules, Rule #7. `
 `It is forbidden to have a crime without a corpse}." `
-`"{p:2:That's a Devil's Proof. `
+`"{p:2:That's a {çeviri-Şeytan'ın İspatı}Devil's Proof. `
 `Maybe it just isn't inside the casket? `
 `Unless you can prove that no corpse exists, this is mystery}." `
 `"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}." `
