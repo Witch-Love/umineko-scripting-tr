@@ -71,10 +71,10 @@
 `That's why we got a puzzle that was too hard for me." `
 `"Nnggggggggggghhhh...!! `
 `...S-Sorry, Ange-chan..." `
-`{çeviri-Hala}Aunt Eva clenched her hands together, grimacing. `
+`{ceviri}{Hala}Aunt Eva clenched her hands together, grimacing. `
 `It was just too hard, and I didn't have a clue... `
 `"......Correct." `
-`"Awesome, {çeviri-Hala}Aunt Eva! `
+`"Awesome, {ceviri}{Hala}Aunt Eva! `
 `Why?! `
 `Why is it 78 coins?! `
 `If platinum is better than gold, then why does gold get more coins?!" `
@@ -83,8 +83,8 @@
 `And, by the way, platinum is 78. `
 `So, the platinum prize gets you 78 gold coins." `
 `"...A-Aunt Eva, you're incredible!!" `
-`Dad once told me that {çeviri-Hala}Aunt Eva was an enthusiastic studier, and really, really smart even back when she was in school. `
-`Even George onii-chan, her son, is smart, so {çeviri-Hala}Aunt Eva must really be incredible. `
+`Dad once told me that {ceviri}{Hala}Aunt Eva was an enthusiastic studier, and really, really smart even back when she was in school. `
+`Even George onii-chan, her son, is smart, so {ceviri}{Hala}Aunt Eva must really be incredible. `
 `"Still, that was a pretty nasty riddle to choose. `
 `You should have at least given one that Ange could understand." `
 `"You did give me permission to show her the hardest one I've got." `
@@ -163,7 +163,7 @@
 `"Yes, that's right. `
 `Have you figured it out now, Ange-sama and Kanon-kun?" `
 `"I don't get it! `
-`What is it, {çeviri-Hala}Aunt Eva? `
+`What is it, {ceviri}{Hala}Aunt Eva? `
 `Tell me!" `
 `"Everything in the "W" group is sweet, right? `
 `So, what about the "A" group? `
@@ -200,7 +200,7 @@
 `So the answer for lemonade is "O"!" `
 `"Nice job. `
 `You got it right, Eva-sama and Ange-sama." `
-`"{çeviri-Hala}Aunt Eva, you're so awesome!!" `
+`"{ceviri}{Hala}Aunt Eva, you're so awesome!!" `
 `"We had to work together to solve that one. `
 `It's a team effort." `
 `"And here is my medal. `
@@ -217,7 +217,7 @@
 `"Careful, you'll get cavities. `
 `But if you ever come to my house to play, I'd be more than willing to share." `
 `"Yay!! `
-`I love you, {çeviri-Hala}Aunt Eva!!" `
+`I love you, {ceviri}{Hala}Aunt Eva!!" `
 `In the end, Kanon caved under the threat of "I" cooking `
 `and was forced to apologize to Shannon... `
 `"That's all for our puzzles. `
@@ -235,7 +235,7 @@
 `"Goodbye. `
 `And good luck." `
 `Shannon and Kanon returned to the kitchen with the serving cart. `
-`The {çeviri-yemek salonu}dining hall was filled with such an exciting and fun atmosphere, `
+`The {ceviri}{yemek salonu}dining hall was filled with such an exciting and fun atmosphere, `
 `but out here in the corridor, one was reminded of the fierce winds and the rain. `
 `But, they were satisfied with this. `
 `The whole point of this noisy farewell party was to forget the loneliness of the rain for just a little bit. `
@@ -261,15 +261,15 @@
 `"Our future inside the cat box is what will make all that come true, isn't it? `
 `...I'm not the only one. `
 `It's the same for you, right? `
-`What about a future for you and {çeviri-Leydim}Milady Jessica?" `
+`What about a future for you and {ceviri}{Leydim}Milady Jessica?" `
 `"...I'm..." `
 `"I could break off my engagement with George-sama, then leave the island and disappear. `
 `That future is also possible for me. `
-`In that world, you wouldn't have to hesitate for my sake. ...You could enjoy your youth to the fullest with {çeviri-Leydim}Milady." `
+`In that world, you wouldn't have to hesitate for my sake. ...You could enjoy your youth to the fullest with {ceviri}{Leydim}Milady." `
 `"...If you gave up on your engagement with George-sama, that sort of world might be possible." `
 `"So, `
 `...since it's a cat box, `
-`the world where I spend my life with George-sama and the world where you spend your life with {çeviri-Leydim}Milady can both exist at the same time." `
+`the world where I spend my life with George-sama and the world where you spend your life with {ceviri}{Leydim}Milady can both exist at the same time." `
 `"...It's a world where any contradicting dreams can exist at once." `
 `"That's the world we'll be put away in as pieces. `
 `...So, there's no need to be lonely, no need to be sad. `
@@ -367,9 +367,9 @@
 `"So, it's finally my turn. `
 `Kihihihihi, you took so long on Mama's easy puzzle that I got a little worried. `
 `There's no way you'll ever solve this one!" `
-`"I've got {çeviri-Hala}Aunt Eva with me, and we'll solve it together!" `
+`"I've got {ceviri}{Hala}Aunt Eva with me, and we'll solve it together!" `
 `"Kihihihihihi, impossible, impossible, impossible! `
-`Even {çeviri-Hala}Aunt Eva can't solve this one! `
+`Even {ceviri}{Hala}Aunt Eva can't solve this one! `
 `Wolves and Sheep puzzles are incredibly hard...!" `
 `From her handbag, `
 `Maria pulled out a "Wolves and Sheep Puzzle Book" that was worn-out, well-used, and had a majestic feel to it, like a grimoire. `
@@ -433,14 +433,14 @@
 `"Maria! `
 `Show some manners!" `
 `I thought so hard before getting that answer, but Maria onee-chan just burst out laughing. `
-`The laughter broke off when {çeviri-Hala}Aunt Rosa hit her, but then she was grinning again. `
+`The laughter broke off when {ceviri}{Hala}Aunt Rosa hit her, but then she was grinning again. `
 `"I don't get it at all. What was the difficulty level for this one...?" `
 `"Just about 20 picarats, I guess? `
 `Lots of the puzzles in this book are much, much harder!" `
 `I don't know what a pica-thing is, `
 `but apparently, even this puzzle doesn't count as a hard one for Maria onee-chan... `
 `I hung my head dejectedly. `
-`Maria onee-chan kept on laughing until {çeviri-Hala}Aunt Rosa smacked her again. `
+`Maria onee-chan kept on laughing until {ceviri}{Hala}Aunt Rosa smacked her again. `
 `"This really is a nasty problem. Can it really be solved? `
 `Is there some trick to it, like throwing things into the river without using the boat, `
 `or making the cow eat the vegetables so that they can be carried as one passenger...?" `
@@ -467,17 +467,17 @@
 `Then, he crosses with the shepherd in the third move." `
 `"But what about the cow and the sheep?! `
 `What about the meat and the vegetables?!" `
-`"But {çeviri-Hala}Aunt Eva, it said to take every person across, right? `
+`"But {ceviri}{Hala}Aunt Eva, it said to take every person across, right? `
 `Those other things aren't people." `
 `"Huh? Ah......" `
-`As {çeviri-Hala}Aunt Eva's mouth flopped open, {çeviri-Hala}Aunt Rosa started applauding. `
+`As {ceviri}{Hala}Aunt Eva's mouth flopped open, {ceviri}{Hala}Aunt Rosa started applauding. `
 `After clicking her tongue, Maria onee-chan joined in. `
 `"That's right. `
 `The question just asks how many moves it would take to move each person across. `
 `The animals and luggage never had anything to do with it." `
 `"They only got it because you kept saying "every person" over and over again, Mama. `
 `Uu!" `
-`{çeviri-Hala}Aunt Rosa had probably said it so much as a sort of hint. `
+`{ceviri}{Hala}Aunt Rosa had probably said it so much as a sort of hint. `
 `Without that, even I wouldn't have figured it out. `
 `"Come on. `
 `I was totally taken in. `
@@ -522,39 +522,39 @@
 `"I hope Ange finds happiness." `
 `"I'm sure she will. `
 `After all, look at all the people here wishing for her happiness. `
-`And now, Battler is the {çeviri-Oyun Yöneticisi}Game Master, and he's set up this final game just for Ange. `
+`And now, Battler is the {ceviri}{Oyun Yöneticisi}Game Master, and he's set up this final game just for Ange. `
 `...After all this, there's no way she won't be happy." `
 `"...Still, even though anyone can make happiness appear, you can only ever grasp it for yourself." `
 `"That's right. `
-`That kid is really bad at finding {çeviri-Kakera}Fragments of happiness. `
+`That kid is really bad at finding {ceviri}{Kakera}Fragments of happiness. `
 `Even though we tried to teach her how, she's been covering her ears for 12 full years. `
 `...This game might be much harder for Ange than Battler thinks." `
 `"...I'm sure Ange will find happiness." `
 `"Yeah. `
 `...If she really does enjoy herself at this party, `
 `that itself might be the greatest lesson we can teach her now." `
-`Ange is the girl who doesn't believe and says that everything is a trick, no matter what {çeviri-büyü}magic is shown to her... `
+`Ange is the girl who doesn't believe and says that everything is a trick, no matter what {ceviri}{büyü}magic is shown to her... `
 `12 years in the future, that girl will become the last person to inherit Beatrice's name. `
-`"At one point in time, that kid understood my white {çeviri-büyü}magic." `
+`"At one point in time, that kid understood my white {ceviri}{büyü}magic." `
 `"Yeah. `
 `And she understood me too." `
-`"She even summoned all of the Seven Sisters and understood {çeviri-büyü}magic itself. `
-`...And yet, she still can't use {çeviri-büyü}magic on herself." `
+`"She even summoned all of the Seven Sisters and understood {ceviri}{büyü}magic itself. `
+`...And yet, she still can't use {ceviri}{büyü}magic on herself." `
 `"Let us believe. `
 `Just as Battler did once, in the past." `
 `"...Beato." `
-`"It is easy to cast {çeviri-büyü}magic on others. `
-`And believing in other people's {çeviri-büyü}magic is not so difficult. `
-`The hardest thing is casting {çeviri-büyü}magic on yourself." `
+`"It is easy to cast {ceviri}{büyü}magic on others. `
+`And believing in other people's {ceviri}{büyü}magic is not so difficult. `
+`The hardest thing is casting {ceviri}{büyü}magic on yourself." `
 `"Is that...something Ange can do...?" `
 `"She can. `
-`Even Battler managed to understand {çeviri-büyü}magic. `
+`Even Battler managed to understand {ceviri}{büyü}magic. `
 `Of course his little sister will be able to do the same." `
 `"You're right. `
-`...There are some kinds of {çeviri-büyü}magic that we can only see when we're kids. `
+`...There are some kinds of {ceviri}{büyü}magic that we can only see when we're kids. `
 `...And there are some that only adults can understand. `
 `Right now, Ange is between the two of those." `
-`"She's lost the {çeviri-büyü}magic of children, but she has yet to understand the {çeviri-büyü}magic of adults. It's the most painful period of one's life." `
+`"She's lost the {ceviri}{büyü}magic of children, but she has yet to understand the {ceviri}{büyü}magic of adults. It's the most painful period of one's life." `
 `"It's so sad...that she didn't have anyone close to her at a time like that..." `
 `"That's not true. `
 `We're always by that kid's side. `
@@ -598,8 +598,8 @@
 `"...I don't really get it. `
 `I want some more hints." `
 `"That's all for my hint. `
-`If you want more, try talking to {çeviri-Hala}Aunt Eva." `
-`"{çeviri-Hala}Aunt Eva!" `
+`If you want more, try talking to {ceviri}{Hala}Aunt Eva." `
+`"{ceviri}{Hala}Aunt Eva!" `
 `"Rika is the key. `
 `Rika says that Miyoko is a liar. `
 `So, if Miyoko is speaking the truth, then Rika is a liar, and if Miyoko is lying, then Rika is speaking the truth. `
@@ -657,7 +657,7 @@
 `Okay, I've got it." `
 `"You really do whatever Eva nee-san tells you." `
 `"Yeah. `
-`{çeviri-Hala}Aunt Eva is nice and smart, and I like her. `
+`{ceviri}{Hala}Aunt Eva is nice and smart, and I like her. `
 `So I do what she tells me!" `
 `"Next time we try to feed Ange eggplant and bell peppers, we'll need to ask her to lend a hand." `
 `"*giggle*giggle*..." `
@@ -665,7 +665,7 @@
 `That's wrong." `
 `"Huh?! `
 `I got it wrong? I got it wrong?!" `
-`"Later on, try thinking it over with {çeviri-Hala}Aunt Eva. `
+`"Later on, try thinking it over with {ceviri}{Hala}Aunt Eva. `
 `I'm sure you'll figure it out soon." `
 `"Think about it. `
 `Miyoko speaks the truth, right? `
@@ -693,7 +693,7 @@
 `"That's all for our puzzles." `
 `"Listen up, Ange. `
 `Life will lead you through countless puzzles. `
-`...{çeviri-Hala}Aunt Eva is here to help you now, so it's okay to rely on her. `
+`...{ceviri}{Hala}Aunt Eva is here to help you now, so it's okay to rely on her. `
 `However, you'll have to solve most problems in life by yourself. `
 `When that happens, you must remember the advice you've gotten from those who have helped you in the past." `
 `"Okay. `
@@ -901,7 +901,7 @@
 `"Hints? `
 `Huh...??" `
 `I'm completely lost. `
-`How were {çeviri-Hala}Aunt Eva's questions just now hints...? `
+`How were {ceviri}{Hala}Aunt Eva's questions just now hints...? `
 `"Sorry. `
 `That's wrong." `
 `"What?! `
@@ -924,7 +924,7 @@
 `...Probability is hard. `
 `Didn't Onii-chan once say that people who don't get probability should never go gambling? `
 `...I guess I'll never gamble for the rest of my life... `
-`{çeviri-Hala}Aunt Eva nodded and patted my head encouragingly... `
+`{ceviri}{Hala}Aunt Eva nodded and patted my head encouragingly... `
 `"Oh. `
 `...The odds are better for the blue box!" `
 `"Hmmm. `
@@ -938,18 +938,18 @@
 `I'd thought that waiting for a lot of people to get wrong ones would make my chances for winning higher. `
 `But, in the end, no matter when I ate my slice, the odds were still 1 in 15. `
 `"Still, Ange-chan, `
-`what if the {çeviri-hizmetkar}servants were also having cake, `
+`what if the {ceviri}{hizmetkar}servants were also having cake, `
 `and it started with 20 slices?" `
 `"......Huh? `
 `...What...?" `
 `"This is a party, right? `
-`It's not fair that the {çeviri-hizmetkar}servants don't get any cake, don't you think? `
+`It's not fair that the {ceviri}{hizmetkar}servants don't get any cake, don't you think? `
 `So, let's say it was originally a 20 slice cake. `
-`The {çeviri-hizmetkar}servants took out 5 slices, then redecorated it as a 15 slice cake and let you choose a slice. `
+`The {ceviri}{hizmetkar}servants took out 5 slices, then redecorated it as a 15 slice cake and let you choose a slice. `
 `If so, what would your chances of choosing the right slice be?" `
 `If there really were 20 slices, `
 `......then the chances would be 1 in 20. `
-`"However, the {çeviri-hizmetkar}servants know where the almond is, so they chose 5 slices for themselves that had no almonds. `
+`"However, the {ceviri}{hizmetkar}servants know where the almond is, so they chose 5 slices for themselves that had no almonds. `
 `In other words, they removed 5 losing slices. `
 `That would mean your chances of winning were 1 in 15, not 1 in 20." `
 `"...They took out losing slices, so the odds would obviously go up." `
@@ -967,8 +967,8 @@
 `I'm sure you'll like it when you get into high school and college. `
 `Go and enjoy studying it all you can." `
 `My little head was already filled to the brim. `
-`Bewildered, I had to beg {çeviri-Hala}Aunt Eva for an explanation. `
-`{çeviri-Hala}Aunt Eva wore a bitter smile too. `
+`Bewildered, I had to beg {ceviri}{Hala}Aunt Eva for an explanation. `
+`{ceviri}{Hala}Aunt Eva wore a bitter smile too. `
 `I'll bet she doesn't really get it herself. `
 `As we felt a sense of connection through this failure, we happily grasped the medals we had wrangled out of them... `
 `"Ange-chan, `
@@ -976,7 +976,7 @@
 `"......? `
 `What is it, George onii-chan?" `
 `George onii-chan and Jessica onee-chan were calling to me from the window. `
-`{çeviri-Hala}Aunt Eva was talking with Mom and the others, and since it looked like they'd be a while, I went over to George onii-chan and Jessica onee-chan. `
+`{ceviri}{Hala}Aunt Eva was talking with Mom and the others, and since it looked like they'd be a while, I went over to George onii-chan and Jessica onee-chan. `
 `"What?" `
 `"It looks like the quiz tournament is almost over." `
 `"Yeah. `
@@ -1141,7 +1141,7 @@
 `...She looks like an angel, just like her name." `
 `"She's not an angel, she's a witch. `
 `Ange's the final witch, {f:5:Ange} Beatrice." `
-`"I wonder if that {çeviri-büyü}magic will bring her happiness." `
+`"I wonder if that {ceviri}{büyü}magic will bring her happiness." `
 `"Will she become a white witch or a black witch? `
 `...That's for Ange to choose. `
 `I've shown her both sides." `
@@ -1193,13 +1193,13 @@
 `"It goes without saying... `
 `that this is an illusion. `
 `You cannot come to Rokkenjima on October 4th, 1986. `
-`This whole party we shared was all a {çeviri-büyülü}magical illusion, created by the {çeviri-Oyun Yöneticisi}Game Master, Battler." `
+`This whole party we shared was all a {ceviri}{büyülü}magical illusion, created by the {ceviri}{Oyun Yöneticisi}Game Master, Battler." `
 `"But you've remembered, right...? `
 `You've remembered the truth... `
 `...about how kind everyone was, and how much of a blast we all had at the family conferences, right...?" `
 `Ange breathed softly in her sleep. `
 `Who knows...if those words truly reached her...? `
-`"{çeviri-Hala}Aunt Eva." `
+`"{ceviri}{Hala}Aunt Eva." `
 `"............" `
 `"...Take care of her." `
 `"Do you...really think...that I deserve to become her mother...?" `
@@ -1211,22 +1211,22 @@
 `...Ange, listen carefully." `
 `Battler grasped Ange's hand, then took Eva's hand and joined the two hands together... `
 `"...We know that a tragic fate leads to a future where you two hurt each other. `
-`...It's a sad thing for Ange...and just as sad for {çeviri-Hala}Aunt Eva. `
+`...It's a sad thing for Ange...and just as sad for {ceviri}{Hala}Aunt Eva. `
 `...It would've been cruel to ask you to open your heart to her. `
-`Likewise, it would've been cruel to ask {çeviri-Hala}Aunt Eva to keep on overcoming her sadness after being rejected." `
+`Likewise, it would've been cruel to ask {ceviri}{Hala}Aunt Eva to keep on overcoming her sadness after being rejected." `
 `"...Neither of you `
 `is at fault." `
 `"Even so, we have no right to tell you to forgive her. `
 `...So, we won't. `
 `...Just try and understand. `
 `It doesn't matter how long it takes, how far into the future it happens. `
-`Just try and understand {çeviri-Hala}Aunt Eva. `
+`Just try and understand {ceviri}{Hala}Aunt Eva. `
 `And, every once in a while, ......remember us." `
 `"I concur. `
 `And, every once in a while, remember this merry, cheerful, attractive paragon of a woman, and chant my name in praise three times every day." `
 `The relatives smiled bitterly, apparently disagreeing with some of that last bit. `
 `Eva softly stroked Ange's cheek and spoke one last time. `
-`"...It's okay if you don't forgive your {çeviri-hala}aunt. `
+`"...It's okay if you don't forgive your {ceviri}{hala}aunt. `
 `...But... `
 `it's true that I don't hate you. `
 `...At least understand that..." `
@@ -1235,12 +1235,12 @@
 `"...Genji-san, `
 `would you mind carrying Ange to somewhere she can lie down?" `
 `"As you wish. `
-`...Shall I take her to the {çeviri-konukevi}guesthouse?" `
+`...Shall I take her to the {ceviri}{konukevi}guesthouse?" `
 `"It would be a little too sad to leave her there all alone." `
 `"You're right. `
-`...Could you carry her to a sofa in the {çeviri-salon}parlor? `
+`...Could you carry her to a sofa in the {ceviri}{salon}parlor? `
 `That way, she'll be able to come back if she wakes up and feels like joining in again." `
-`Genji gently lifted Ange up and carried her towards the {çeviri-salon}parlor. `
+`Genji gently lifted Ange up and carried her towards the {ceviri}{salon}parlor. `
 `Everyone continued to watch over her as she left... `
 `"Shannon, Kanon. `
 `In the end, how many medals did Ange gather?" `
@@ -1266,7 +1266,7 @@
 `...Then place this by her pillow." `
 `"Yes, `
 `as you wish." `
-`Genji carried Ange to the {çeviri-salon}parlor and set her down on the sofa. `
+`Genji carried Ange to the {ceviri}{salon}parlor and set her down on the sofa. `
 `Shannon quietly laid a warm blanket on top of her. `
 `Kanon placed a message card by her pillow, along with that thing Kinzo had handed them. `
 `The message card read as follows: `
@@ -1297,6 +1297,6 @@
 `"...Yeah. `
 `......?" `
 `Shannon thought she saw something glittering silver near Ange's eye... `
-`The {çeviri-hizmetkar}servants left and closed the {çeviri-salon}parlor door. `
+`The {ceviri}{hizmetkar}servants left and closed the {ceviri}{salon}parlor door. `
 `As Ange slept, she was wrapped up in the soft sound of the rain. `
 `Surely, she was reliving that fun evening once more in her dreams... `

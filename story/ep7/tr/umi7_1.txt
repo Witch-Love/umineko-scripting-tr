@@ -1,14 +1,14 @@
 `Quietly, quietly. `
 `...The rain fell down. `
-`The rain of sadness dripped down the outer walls of the {çeviri-kilise}chapel, quietly washing away the dust of the world of the living. `
-`The {çeviri-kilise}chapel doors were open. `
+`The rain of sadness dripped down the outer walls of the {ceviri}{kilise}chapel, quietly washing away the dust of the world of the living. `
+`The {ceviri}{kilise}chapel doors were open. `
 `During a wedding, only those with invitations are allowed inside. `
 `However, during a funeral, the doors are open to all who remember the deceased. `
 `...So, this must be a funeral. `
-`A shadow holding an umbrella approached the {çeviri-kilise}chapel. `
+`A shadow holding an umbrella approached the {ceviri}{kilise}chapel. `
 `It was...Will. `
 `"............" `
-`A reception desk had been set up at the {çeviri-kilise}chapel's entrance. `
+`A reception desk had been set up at the {ceviri}{kilise}chapel's entrance. `
 `As the shadow approached, Kanon, who had been sitting at this desk, stood up and welcomed him with a bow. `
 `"...This is the reception desk. `
 `We are collecting the names of all mourners. `
@@ -27,8 +27,8 @@
 `...I am sure she will be pleased." `
 `Kanon handed him one of a set of golden roses, which were being handed out to all the mourners. `
 `Will took it, `
-`...silently bowed his head, and entered the {çeviri-kilise}chapel. `
-`Inside the {çeviri-kilise}chapel, several people who appeared to be the family of the deceased were gathered, `
+`...silently bowed his head, and entered the {ceviri}{kilise}chapel. `
+`Inside the {ceviri}{kilise}chapel, several people who appeared to be the family of the deceased were gathered, `
 `and they all seemed to be recalling memories of the departed. `
 `"Oooooooohhh... `
 `Beatriiiiice... `
@@ -90,7 +90,7 @@
 `If we're too noisy in here, it may disturb the dead. `
 `I've been told that the waiting room has been readied. `
 `Shall we move over there?" `
-`When Krauss called out to everyone, they began to move towards the {çeviri-kilise}chapel waiting room. `
+`When Krauss called out to everyone, they began to move towards the {ceviri}{kilise}chapel waiting room. `
 `"My apologies. `
 `Lion, could you entertain our guest for now? `
 `I will guide the others to the waiting room." `
@@ -115,7 +115,7 @@
 `"I'm here. `
 `Isn't it about time you showed your face?" `
 `The members of the Ushiromiya family had already followed Krauss's instructions and moved to the waiting room. `
-`By now, no one could be seen in this cold, vast {çeviri-kilise}chapel decorated with gold roses except for Will and Lion. `
+`By now, no one could be seen in this cold, vast {ceviri}{kilise}chapel decorated with gold roses except for Will and Lion. `
 `"...So, you've come, `
 `...Wizard-hunting Wright,
   Inquisitor of Heresy." `
@@ -146,7 +146,7 @@
 `"No. `
 `It's a true and proper piece of this game board. `
 `A character appearing in the story." `
-`"You're the {çeviri-Oyun Yöneticisi}Game Master. `
+`"You're the {ceviri}{Oyun Yöneticisi}Game Master. `
 `That means it's your piece." `
 `"*giggle*... `
 `...I've just moved from Beato's cat box into a larger cat box. `
@@ -167,7 +167,7 @@
 `"I-I don't know what you two are talking about... `
 `Anyway, you, girl. `
 `Please, get down off the altar. `
-`I ask this as the Successor to the Ushiromiya {çeviri-Aile Reisliği}Family Headship." `
+`I ask this as the Successor to the Ushiromiya {ceviri}{Aile Reisliği}Family Headship." `
 `Even Lion was finally forced to speak in a raised voice to that girl, who continued to chat while casually standing on the altar. `
 `However, the girl ignored this completely. `
 `On the other hand, Will did show a reaction. `
@@ -201,7 +201,7 @@
 `"We're wasting time, so let's move onwards. `
 `...Wright, `
 `try and beat this game. `
-`As the {çeviri-Oyun Yöneticisi}Game Master, Bernkastel, I invite you to join in." `
+`As the {ceviri}{Oyun Yöneticisi}Game Master, Bernkastel, I invite you to join in." `
 `"I refuse." `
 `"Why?" `
 `"I'm retired now. `
@@ -222,7 +222,7 @@
 `He knew that he was incapable of refusing an invitation from the Great Lady Bernkastel. `
 `""Who killed Beatrice?" `
 `That's my game. `
-`In payment, I'll forgive you for your insolence and let you leave this {çeviri-kilise}chapel." `
+`In payment, I'll forgive you for your insolence and let you leave this {ceviri}{kilise}chapel." `
 `"I hear that boredom-hating witches just love being spoken to rudely." `
 `"That's only for hags who've tired of life after a thousand years. `
 `I'm still plenty young, `
@@ -255,7 +255,7 @@
 `"You ask me to solve the case of Beatrice's murder, but... `
 `{p:1:Van Dine's Twenty Rules, Rule #7. `
 `It is forbidden to have a crime without a corpse}." `
-`"{p:2:That's a {çeviri-Şeytan'ın İspatı}Devil's Proof. `
+`"{p:2:That's a {ceviri}{Şeytan'ın İspatı}Devil's Proof. `
 `Maybe it just isn't inside the casket? `
 `Unless you can prove that no corpse exists, this is mystery}." `
 `"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}." `
@@ -282,7 +282,7 @@ all at the same time. `
 `Will signaled with his chin for Lion to follow him and spun around. `
 `After snorting once in an unsatisfied manner, `
 `Lion followed him, as though resigned to see Will's little show. `
-`...As she watched them leave the {çeviri-kilise}chapel, `
+`...As she watched them leave the {ceviri}{kilise}chapel, `
 `...Bernkastel sneered silently at them, a cold smile on her face. `
 `"......As the miko of the great Witch of Theatergoing, Drama, and Spectating, Featherine Something Auaurora, `
 `and as the Witch of Miracles, ...I, Bernkastel, `
@@ -291,7 +291,7 @@ all at the same time. `
 `...Spin a tale fitting for Beato's funeral. `
 `...*giggle*giggle* `
 `Well now, let's see just how you drag out the guts." `
-`She watched until the pair had left the {çeviri-kilise}chapel. `
+`She watched until the pair had left the {ceviri}{kilise}chapel. `
 `Bernkastel's form evaporated into the empty air, just as she had arrived. `
 `All that remained was her unpleasant cackling... `
 `Outside, it was still raining. `
@@ -303,8 +303,8 @@ all at the same time. `
 `"......It's Kanon. `
 `Yes, as you wish." `
 `Kanon bowed deeply, then disappeared. `
-`"Don't you remember the names of all your {çeviri-hizmetkar}servants?" `
-`"...Our family has many young {çeviri-hizmetkar}servants coming in and out, and they're usually replaced quite frequently. `
+`"Don't you remember the names of all your {ceviri}{hizmetkar}servants?" `
+`"...Our family has many young {ceviri}{hizmetkar}servants coming in and out, and they're usually replaced quite frequently. `
 `Well now. `
 `What are you trying to explain to me? `
 `Who are you, and what business do you have with this family? `
@@ -321,7 +321,7 @@ all at the same time. `
 `...Look at this." `
 `"Yes, I can see that. `
 `It's one of the memorial roses. `
-`Are you going to show me some kind of {çeviri-büyü}magic trick?" `
+`Are you going to show me some kind of {ceviri}{büyü}magic trick?" `
 `Will took one of the flower offerings, `
 `then showed it to Lion, as though pointing out that there were no mechanisms or tricks. `
 `Then, he slowly lifted it upwards. `
@@ -349,7 +349,7 @@ all at the same time. `
 `Lion had moved closer to try and touch the remains of the rose, which still hung in the air. `
 `Will had roughly blocked the way with his arm. `
 `It was as though he was telling Lion that leaving this place meant certain death. `
-`"...This {çeviri-kilise}chapel has been cut off from the {çeviri-Kakera}Fragment. `
+`"...This {ceviri}{kilise}chapel has been cut off from the {ceviri}{Kakera}Fragment. `
 `We're currently locked in a concentrated loop of time." `
 `"What... `
 `...do you mean by that...?!" `
@@ -357,7 +357,7 @@ all at the same time. `
 `Basically, unless we play along with that witch's game, no one can leave this place." `
 `"...Wh-What...?! `
 `The funeral is already over! `
-`I'm sure some people will want to return to the {çeviri-malikane}mansion or the {çeviri-konukevi}guesthouse. `
+`I'm sure some people will want to return to the {ceviri}{malikane}mansion or the {ceviri}{konukevi}guesthouse. `
 `We can't be locked up in here!" `
 `"If you've got a bone to pick, that witch is the one you're looking for. `
 `Being stuck in a place like this isn't any more pleasant for me." `
@@ -382,16 +382,16 @@ all at the same time. `
 `That's hardly something you should go barging into a funeral and asking the family about." `
 `"Questioning the family is one of the basics of the mystery genre. `
 `Just give up and accept it. `
-`...I do know that Beatrice is the mistress of Kinzo, the {çeviri-Aile Reisi}Family Head." `
+`...I do know that Beatrice is the mistress of Kinzo, the {ceviri}{Aile Reisi}Family Head." `
 `"...... `
 `You really are a strange person. `
 `...How do you know so much about this family? `
 `...Are you sure you have no connections with us...?" `
-`Will knew this much about the Ushiromiya family...because Bernkastel had shown him all of the {çeviri-Kakera}Fragments so far. `
+`Will knew this much about the Ushiromiya family...because Bernkastel had shown him all of the {ceviri}{Kakera}Fragments so far. `
 `Of course, he had no sort of connection with the Ushiromiya family himself. `
 `The very plane of his existence was on a different level. `
 `"However, Beatrice died a long, long time ago. `
-`According to Genji, she passed away before the {çeviri-malikane}mansion was completed, `
+`According to Genji, she passed away before the {ceviri}{malikane}mansion was completed, `
 `but the reason for her death is unclear. `
 `......To be honest, this is the first I've heard about her being "killed". `
 `...Tell me about it." `
@@ -411,8 +411,8 @@ all at the same time. `
 `If only Lion could've told him everything, revealing the truth without any effort from Will... `
 `Apparently, things wouldn't be so easy after all. `
 `"Everyone who enters the Ushiromiya family knows the name and image of Beatrice." `
-`"That's because of the massive {çeviri-portre}portrait hanging in the entrance hall, isn't it? `
-`That {çeviri-portre}portrait was first displayed in April of 1984." `
+`"That's because of the massive {ceviri}{portre}portrait hanging in the entrance hall, isn't it? `
+`That {ceviri}{portre}portrait was first displayed in April of 1984." `
 `"Seriously, ...how is it that you know so much? `
 `...Ah, well. `
 `It's about time I stopped finding that odd. `
@@ -429,8 +429,8 @@ all at the same time. `
 `I'll introduce you to him when the chance presents itself, so I ask that you develop an appropriately discreet attitude, Will-san." `
 `"That was quick. `
 `...I thought you'd resist a bit more than that." `
-`"I'm used to speaking with the {çeviri-Aile Reisi}Family Head. `
+`"I'm used to speaking with the {ceviri}{Aile Reisi}Family Head. `
 `I've learned to accept most unreasonable situations and just go with the flow." `
-`Bernkastel had set up a "barrier" cutting the {çeviri-kilise}chapel off from the rest of the world. `
+`Bernkastel had set up a "barrier" cutting the {ceviri}{kilise}chapel off from the rest of the world. `
 `To destroy that, they would have to find out "who killed Beatrice". `
 `For Lion, who had already experienced many of Kinzo's rantings, understanding this much was more than enough... `

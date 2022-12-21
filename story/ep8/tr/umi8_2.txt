@@ -16,7 +16,7 @@
 `"You're right. `
 `I think the sky's getting cloudier too. `
 `......Battler-kun, Maria-chan! `
-`I think we should call it a day soon and head back to the {çeviri-konukevi}guesthouse for the time being." `
+`I think we should call it a day soon and head back to the {ceviri}{konukevi}guesthouse for the time being." `
 `"Uu-? No way! `
 `I wanna play more!!" `
 `"Hey, don't ignore your cousin. `
@@ -63,12 +63,12 @@
 `"Mama!! Look!! `
 `I won!!" `
 `Maria ran forward, waving her hands about and yelling. `
-`It looked as though Rosa was waving to them from the front of the {çeviri-konukevi}guesthouse. `
+`It looked as though Rosa was waving to them from the front of the {ceviri}{konukevi}guesthouse. `
 `"I'm gonna head back to my room for a sec. `
 `I'll meet you in the cousin room right after." `
 `"Okay, got it. `
 `See you later, then." `
-`Jessica ran off in the direction of the {çeviri-malikane}mansion. `
+`Jessica ran off in the direction of the {ceviri}{malikane}mansion. `
 `George turned around, as though suggesting that they had better get going too. `
 `However, when he saw Ange standing still with a crabby look on her face, `
 `he realized that something might have put her into a bad mood. `
@@ -77,7 +77,7 @@
 `Sorry, but would you mind going on ahead of us?" `
 `"Sure, got it. `
 `See you later." `
-`George headed for the {çeviri-konukevi}guesthouse. `
+`George headed for the {ceviri}{konukevi}guesthouse. `
 `The only ones left in the rose garden were Battler, who was waving at George, ...and Ange, who was still staring at the ground and holding Battler's hand. `
 `For the past few minutes, he had repeatedly asked Ange what was wrong. `
 `He realized that this wasn't anything like a stomachache, or something obvious that had made her grumpy. `
@@ -201,7 +201,7 @@
 `Ange bit her lower lip and stared at the ground. `
 `She said she didn't understand, `
 `...but in truth, she understood perfectly, and was refusing to accept it. `
-`"Remember how we traded Halloween presents in the {çeviri-salon}parlor just now?" `
+`"Remember how we traded Halloween presents in the {ceviri}{salon}parlor just now?" `
 `"...What was that all about? `
 `The Ushiromiya family never did anything that sentimental...!" `
 `"It's almost as though...you don't remember it at all." `
@@ -216,7 +216,7 @@
 `"Are you saying that I was just too young to remember, `
 `...and that..."that"...was the truth of October 4th?!" `
 `On that day, just like six years before, `
-`Grandfather entered the {çeviri-salon}parlor with a cry of "Happy Halloween". `
+`Grandfather entered the {ceviri}{salon}parlor with a cry of "Happy Halloween". `
 `Then, he and I traded presents...as he shed tears over our long-awaited reunion after a six-year gap. `
 `...Grandfather seemed so sad that Ange wasn't able to come. `
 `So, he gave Kyrie-san a present, telling her to make sure that Ange got it... `
@@ -235,7 +235,7 @@
 `It's the truth, isn't it?!" `
 `"Do you think Dad would talk to you about financial difficulties with his company when you were that age...? `
 `And not just Dad. `
-`Even if Uncle Krauss, {çeviri-Hala}Aunt Eva, and {çeviri-Hala}Aunt Rosa were in money trouble and wanted Kinzo's inheritance money, `
+`Even if Uncle Krauss, {ceviri}{Hala}Aunt Eva, and {ceviri}{Hala}Aunt Rosa were in money trouble and wanted Kinzo's inheritance money, `
 `...do you really think they'd talk about it in front of you...?" `
 `"B-But... `
 `...But it's true, isn't it?!?!" `
@@ -324,7 +324,7 @@
 `"Sorry. `
 `I won't let you leave this game." `
 `"...Ah, that's right. `
-`Unless the {çeviri-Oyun Yöneticisi}Game Master admits defeat, the game never ends, right?" `
+`Unless the {ceviri}{Oyun Yöneticisi}Game Master admits defeat, the game never ends, right?" `
 `"That isn't what I meant. `
 `...I'm just telling you to stay quiet and listen." `
 `"...Oh, sure. `
@@ -364,13 +364,13 @@
 `...Onii-chan...?" `
 `"What is it?" `
 `"...How long are we gonna stand here...? The weather's all weird. `
-`...Let's go back to the {çeviri-konukevi}guesthouse." `
+`...Let's go back to the {ceviri}{konukevi}guesthouse." `
 `Ange's eyes weren't cloudy anymore. `
 `However, the tone and atmosphere about those eyes seemed somehow different from before... `
 `In a manner typical of young girls, Ange signaled that she was too bored and wanted to go do something. `
 `This Ange was clearly a six-year-old Ange. `
 `"Good point. `
-`...Then, why don't you head back to the {çeviri-konukevi}guesthouse now? `
+`...Then, why don't you head back to the {ceviri}{konukevi}guesthouse now? `
 `I'm going to stay here." `
 `"Why...? It'll start raining soon." `
 `"It won't be long now. `
@@ -455,7 +455,7 @@
 `...She looked like a fiercely emotional person, `
 `...but she wasn't at all what Ange had expected the creepy Golden Witch to be like. `
 `She was very loud, overreacting to everything. `
-`...Nothing at all like the witch Maria onee-chan had talked about, who had lived for a thousand years and had various {çeviri-hizmetkar}servants from the demon world. `
+`...Nothing at all like the witch Maria onee-chan had talked about, who had lived for a thousand years and had various {ceviri}{hizmetkar}servants from the demon world. `
 `She looked, well, like an energetic young woman, the kind Ange's mom might have gotten along great with. `
 `Her brother and the witch talked together happily like a pair of close friends. `
 `Dogs tend not to trust people they meet for the first time. `
@@ -506,40 +506,40 @@
 `"Fear not. `
 `It is impossible for anyone to steal that key from you." `
 `"...No one can steal it...?" `
-`"You might say that it has been imbued with {çeviri-büyü}magic to make it so. `
+`"You might say that it has been imbued with {ceviri}{büyü}magic to make it so. `
 `At any rate, fear not. `
 `Neither I, nor Battler, nor anyone else on this island can steal that key from you." `
 `"Really...?" `
 `"Yeah, really. `
-`The {çeviri-büyü}magic won't let them." `
+`The {ceviri}{büyü}magic won't let them." `
 `The key was hanging around her neck like an ordinary necklace. `
 `Ange could take it off right now if she wanted, and if an adult tried to use force, it seemed like it would be easy for them to take it away. `
-`However, both her brother and the witch said that it was protected by a {çeviri-büyü}magic that would stop anyone from stealing it... `
-`"......Does {çeviri-büyü}magic... `
+`However, both her brother and the witch said that it was protected by a {ceviri}{büyü}magic that would stop anyone from stealing it... `
+`"......Does {ceviri}{büyü}magic... `
 `...really...exist...?" `
-`Even the six-year-old Ange knew about the word "{çeviri-büyü}magic". `
-`However, she also realized that real {çeviri-büyü}magic didn't exist, `
-`...and that certain kinds of {çeviri-büyü}magic tricks were sometimes called {çeviri-büyü}magic. `
-`However, her brother and the witch were talking about {çeviri-büyü}magic itself. `
+`Even the six-year-old Ange knew about the word "{ceviri}{büyü}magic". `
+`However, she also realized that real {ceviri}{büyü}magic didn't exist, `
+`...and that certain kinds of {ceviri}{büyü}magic tricks were sometimes called {ceviri}{büyü}magic. `
+`However, her brother and the witch were talking about {ceviri}{büyü}magic itself. `
 `"Yeah. `
-`{çeviri-Büyü}Magic exists." `
+`{ceviri}{Büyü}Magic exists." `
 `"...Really...?" `
 `"Maria spoke of me often, did she not? `
 `She says that witches exist, `
-`{çeviri-büyü}magic exists—she must have told you these things on many an occasion." `
+`{ceviri}{büyü}magic exists—she must have told you these things on many an occasion." `
 `True, Maria had talked about that many times. `
 `When they were just playing, Ange had believed her, more or less. `
 `However, Ange was, in some ways, sharp for her age, `
-`...and when she heard Maria talking happily about {çeviri-büyü}magic, she sometimes thought that such a thing couldn't really exist. `
+`...and when she heard Maria talking happily about {ceviri}{büyü}magic, she sometimes thought that such a thing couldn't really exist. `
 `"Then, ...show me." `
 `"Hmm?" `
-`"Show me {çeviri-büyü}magic! `
+`"Show me {ceviri}{büyü}magic! `
 `Or I won't believe you...!" `
 `"Hold up a sec... `
-`Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the {çeviri-malikane}mansion yet..." `
+`Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the {ceviri}{malikane}mansion yet..." `
 `Battler spoke as though he was trying to smooth something over. `
-`When she heard that, Ange became sure that {çeviri-büyü}magic didn't exist after all. `
-`"{çeviri-Büyü}Magic is just a bunch of lies...! `
+`When she heard that, Ange became sure that {ceviri}{büyü}magic didn't exist after all. `
+`"{ceviri}{Büyü}Magic is just a bunch of lies...! `
 `I know!" `
 `"Hey, stop that. `
 `You'll hurt Beato's feelings..." `
@@ -552,7 +552,7 @@
 `Watch carefully, Ange." `
 `"...O-Okay." `
 `Though Ange had challenged the witch, `
-`now that she was about to be shown {çeviri-büyü}magic, she looked a bit hesitant. `
+`now that she was about to be shown {ceviri}{büyü}magic, she looked a bit hesitant. `
 `She gulped, then stared up at the witch's face. `
 `The witch held out her left hand, bringing it close to Ange's face. `
 `Then, she slowly spread her fingers. `
@@ -561,7 +561,7 @@
 `So, the part of her that had been scared began to get angry. `
 `"Nothing's happening." `
 `"Don't jump to conclusions. `
-`I haven't used {çeviri-büyü}magic yet. `
+`I haven't used {ceviri}{büyü}magic yet. `
 `See, look carefully at my palm. `
 `I'm not hiding anything, correct?" `
 `Oh, so that's what she's doing... `
@@ -602,18 +602,18 @@
 `"How?! `
 `That was a trick, wasn't it, Onii-chan?! `
 `Onii-chan?!!" `
-`"Nope. That was {çeviri-büyü}magic. `
+`"Nope. That was {ceviri}{büyü}magic. `
 `You were watching the whole time, weren't you?" `
 `"Nng, ...nnnnnnnn......!" `
 `Since I was watching the whole time, ...how did it happen...? `
-`Ange didn't like it, but she was unable to see how that could have been anything other than {çeviri-büyü}magic. `
-`As the little sister furrowed her brow and bit her lower lip, her brother gently told her again that it was {çeviri-büyü}magic. `
-`"It's about time for me to head to the {çeviri-malikane}mansion to pay my respects. `
+`Ange didn't like it, but she was unable to see how that could have been anything other than {ceviri}{büyü}magic. `
+`As the little sister furrowed her brow and bit her lower lip, her brother gently told her again that it was {ceviri}{büyü}magic. `
+`"It's about time for me to head to the {ceviri}{malikane}mansion to pay my respects. `
 `You should come along, Battler. `
 `I'll suffocate if I have to go alone." `
 `"You sure? Then I'll join you. `
 `...What about you, Ange? `
-`Will you go back to the {çeviri-konukevi}guesthouse?" `
+`Will you go back to the {ceviri}{konukevi}guesthouse?" `
 `"......I-I wanna stay with you, Onii-chan." `
 `She still couldn't accept it. `
 `However, ...could it really be...? `

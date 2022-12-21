@@ -1,5 +1,5 @@
 `......All of the pieces from the game board were gathered. `
-`All of the Humans, {çeviri-mobilya}furniture, witches, and the witches on an even higher level... `
+`All of the Humans, {ceviri}{mobilya}furniture, witches, and the witches on an even higher level... `
 `...had gathered in one place. `
 `That place was like a solemn cathedral, with an unbelievably high ceiling. `
 `White stonework. `
@@ -18,7 +18,7 @@
 `"Making you acknowledge them is what my game's all about. `
 `*cackle*cackle*!" `
 `The three witches were seated on special thrones set upon a very high balcony. `
-`In the center sat the {çeviri-Oyun Yöneticisi}Game Master, Lambdadelta, `
+`In the center sat the {ceviri}{Oyun Yöneticisi}Game Master, Lambdadelta, `
 `and on either side of the semicircular balcony sat Bernkastel and Beatrice, facing each other. `
 `Below them, Erika ran forward, lifted the corners of her skirt and bowed respectfully. `
 `"Great Lady Lambdadelta, we thank you for granting our request for an assembly. `
@@ -75,7 +75,7 @@
 `Maybe it's a good thing I don't have the right to speak for a while. `
 `I'll calm down and coolly watch over everything... `
 `"I am the detective and the one who called for this assembly of witches, Furudo Erika. `
-`I will expose the {çeviri-suçlu}culprit of the 5th game and stick a charming period on the end of this tale." `
+`I will expose the {ceviri}{suçlu}culprit of the 5th game and stick a charming period on the end of this tale." `
 `Erika greeted the witches above her and the Humans behind her once again. `
 `"I'm also looking forward to it. `
 `Okay, remaining pieces, introduce yourselves in whatever order." `
@@ -83,7 +83,7 @@
 `Introduce yourselves, all of you...!" `
 `When 45 urged him to introduce himself, Kinzo stood up. `
 `"...I'm Ushiromiya Kinzo. `
-`I slipped out of the {çeviri-çalışma odası}study window and am hiding somewhere on Rokkenjima." `
+`I slipped out of the {ceviri}{çalışma odası}study window and am hiding somewhere on Rokkenjima." `
 `"Ushiromiya Krauss. `
 `Currently, I have been captured and am being confined somewhere." `
 `"I'm Ushiromiya Eva. `
@@ -136,7 +136,7 @@
 `"I greet you in the name of the Seven Sisters of Purgatory. `
 `I served in the murder of Hideyoshi on the second twilight." `
 `""""""The Seven Sisters of Purgatory, right here!"""""" `
-`"Let us then have Lady Erika's {çeviri-mobilya}furniture introduce themselves." `
+`"Let us then have Lady Erika's {ceviri}{mobilya}furniture introduce themselves." `
 `"Gertrude. `
 `I am an Assistant Inquisitor of Heresy." `
 `"Cornelia. `
@@ -154,7 +154,7 @@
 `"...Let's just both give it all we've got." `
 `"Most of the time, there will be no need for Dlanor to step forward. `
 `However, when the witch side plays around with ugly word games, I'll need to have Dlanor convict them. `
-`...A miracle like the one in the {çeviri-çalışma odası}study won't happen again." `
+`...A miracle like the one in the {ceviri}{çalışma odası}study won't happen again." `
 `"............" `
 `"And finally, let us introduce ourselves. `
 `We are the Chiester Sisters Imperial Guards, who have been tasked with management of proceedings at this assembly of witches." `
@@ -191,7 +191,7 @@
 `"I, Furudo Erika, will make an accusation. `
 `The murderer of the 5th game is..." `
 `"Ushiromiya Natsuhi-san. `
-`You are the {çeviri-suçlu}culprit." `
+`You are the {ceviri}{suçlu}culprit." `
 `Erika pointed at Natsuhi and spoke... `
 `The Natsuhi wax doll alone...shook and regained its expression. `
 `...It was an expression of panic. `
@@ -225,20 +225,20 @@
 `I will confront any challenge that would disgrace the Ushiromiya family!" `
 `"......*giggle* `
 `How can you try a bluff like that in a situation like this? `
-`...You really are the bullied kid in every single {çeviri-Kakera}Fragment." `
+`...You really are the bullied kid in every single {ceviri}{Kakera}Fragment." `
 `"So, Bern, `
 `make your claims." `
 `"I, Bernkastel, claim... `
-`that a Human, Ushiromiya Natsuhi, is the {çeviri-suçlu}culprit of this game." `
+`that a Human, Ushiromiya Natsuhi, is the {ceviri}{suçlu}culprit of this game." `
 `"And you too Beato, okay?" `
 `"I, Beatrice, claim... `
-`that the {çeviri-suçlu}culprit in this game is not Human! `
-`I am the {çeviri-suçlu}culprit!" `
+`that the {ceviri}{suçlu}culprit in this game is not Human! `
+`I am the {ceviri}{suçlu}culprit!" `
 `Bernkastel, who smiled daringly, and Beatrice, who smiled firmly, crossed gazes. `
 `"Listen, witches and Humans!! `
 `Two claims have appeared for a single truth! `
-`Is the {çeviri-suçlu}culprit a Human, Ushiromiya Natsuhi? `
-`Is the {çeviri-suçlu}culprit a witch, Beatrice?!" `
+`Is the {ceviri}{suçlu}culprit a Human, Ushiromiya Natsuhi? `
+`Is the {ceviri}{suçlu}culprit a witch, Beatrice?!" `
 `"If the witch wins, the truth about the 5th game will disappear into darkness. `
 `If Erika wins, the Illusion of the Witch will be wiped from the game board. `
 `...In other words, for Beato alone, this is a battle that must not be lost. Are you prepared?" `
@@ -269,39 +269,39 @@
 `It should be impossible to suspect anyone other than Natsuhi-san. `
 `Except for the victim and Natsuhi-san, all of us were in the same room, correct?" `
 `It really was simple. `
-`...Except for Natsuhi, everyone had been inside the {çeviri-salon}parlor. `
+`...Except for Natsuhi, everyone had been inside the {ceviri}{salon}parlor. `
 `And because it was so simple, it was decisive... `
 `"...No matter how you look at it, the one who killed Hideyoshi was Natsuhi. `
 `No, it's the other way around. `
 `...No matter how you look at it, no one except for Natsuhi could have killed Hideyoshi. `
 `There's no room for discussion or debate." `
 `"I-I'm telling you, that's a mistake...!! `
-`Maybe I don't have an {çeviri-mazeret}alibi. `
-`However, I don't believe a lack of an {çeviri-mazeret}alibi proves that one is the {çeviri-suçlu}culprit...!" `
-`"Hmph, we know that Natsuhi is the only one without an {çeviri-mazeret}alibi. `
+`Maybe I don't have an {ceviri}{mazeret}alibi. `
+`However, I don't believe a lack of an {ceviri}{mazeret}alibi proves that one is the {ceviri}{suçlu}culprit...!" `
+`"Hmph, we know that Natsuhi is the only one without an {ceviri}{mazeret}alibi. `
 `But wait. `
 `The scene of the murder was a closed room. `
 `It should've been impossible for anyone, including Natsuhi, to have committed the crime in that room. `
-`Except for me, since I could've done it with {çeviri-büyü}magic." `
+`Except for me, since I could've done it with {ceviri}{büyü}magic." `
 `"I'll explain the closed room trick--the "how dunnit"--later. `
 `For the time being, I'll start with the "who dunnit". `
 `...Because of the aforementioned, it's impossible to suspect any character except Natsuhi-san regarding the murder of Hideyoshi-san." `
-`"......{çeviri-Leydim}Milady, `
+`"......{ceviri}{Leydim}Milady, `
 `it may be dangerous to press any further on this." `
 `"I agree. `
 `It's a fact that Natsuhi was hiding in the closet of Hideyoshi's room. `
 `...When it comes to repeating things in red, they'll check to see who's in the room, and you'll be cornered." `
 `"...Probably. `
 `Lady Lambdadelta is the commander of this game. `
-`...If it suits her fancy, she'll set up Natsuhi as the {çeviri-suçlu}culprit regardless of the facts." `
+`...If it suits her fancy, she'll set up Natsuhi as the {ceviri}{suçlu}culprit regardless of the facts." `
 `If the typhoon passes and the police come to perform a scientific investigation, `
-`perhaps the true {çeviri-suçlu}culprit will be identified, and the false accusations against Natsuhi will be lifted. `
+`perhaps the true {ceviri}{suçlu}culprit will be identified, and the false accusations against Natsuhi will be lifted. `
 `However, in this closed-off Rokkenjima, the police will not arrive for all eternity. `
 `...In other words, the real truth will not be revealed. `
 `Inside this cat box that will never be opened, false charges that everyone accepts are worth no more or less than the truth. `
-`"Their aim is most likely to use the simple murder of Hideyoshi to give the impression that Natsuhi-sama is the {çeviri-suçlu}culprit... `
+`"Their aim is most likely to use the simple murder of Hideyoshi to give the impression that Natsuhi-sama is the {ceviri}{suçlu}culprit... `
 `before moving on to the first twilight's reconstruction, which has more uncertain elements." `
-`"It's not good at all to move forward with the {çeviri-Oyun Yöneticisi}Game Master suspecting us. `
+`"It's not good at all to move forward with the {ceviri}{Oyun Yöneticisi}Game Master suspecting us. `
 `We should take the initiative." `
 `"Sure. `
 `.........Lady Lambdadelta! `
@@ -311,7 +311,7 @@
 `and stepping backwards and forwards in time will only lead to confusion. `
 `It is my belief that we should follow events chronologically and in order, though the decision is yours, of course." `
 `"Objection. `
-`In the process of prosecuting the {çeviri-suçlu}culprit, chronological order has no significance." `
+`In the process of prosecuting the {ceviri}{suçlu}culprit, chronological order has no significance." `
 `"Objection. `
 `Furudo Erika is trying to mix up the chronological sequence in order to create a false impression of the events." `
 `"Well, I'm not a fan of confusing things myself. `
@@ -334,20 +334,20 @@
 `"Then I will follow Lady Lambdadelta's orders and start from the first crime at the first twilight. `
 `As you know, at 24:00 on October 4th, the first day, `
 `following a short break in the family conference, Natsuhi left on her own, saying that she was going to bed early. `
-`Therefore, her {çeviri-mazeret}alibi is completely lost from that time until the next morning." `
+`Therefore, her {ceviri}{mazeret}alibi is completely lost from that time until the next morning." `
 `"Oh, is that so? `
-`I believe there are several people besides Natsuhi who have dubious {çeviri-mazeret}alibis. `
-`Unless you can clear suspicion from all of them, I cannot allow you to call Natsuhi the {çeviri-suçlu}culprit." `
+`I believe there are several people besides Natsuhi who have dubious {ceviri}{mazeret}alibis. `
+`Unless you can clear suspicion from all of them, I cannot allow you to call Natsuhi the {ceviri}{suçlu}culprit." `
 `"True. `
 `If Erika's gonna call Natsuhi suspicious so confidently, `
-`she's first gotta show that everyone else has an {çeviri-mazeret}alibi. `
+`she's first gotta show that everyone else has an {ceviri}{mazeret}alibi. `
 `Right, Bern?" `
 `"......Yes, of course. `
 `Erika will explain that perfectly." `
 `"Of course, my master...! `
 `In that case, I would like to explain things in order. `
-`Let's forget about Genji's murder for now and focus on the crime in the {çeviri-konukevi}guesthouse. `
-`For this case, you'd like to suspect the {çeviri-hizmetkar}servants who were in the {çeviri-konukevi}guesthouse, right? `
+`Let's forget about Genji's murder for now and focus on the crime in the {ceviri}{konukevi}guesthouse. `
+`For this case, you'd like to suspect the {ceviri}{hizmetkar}servants who were in the {ceviri}{konukevi}guesthouse, right? `
 `On that night, Gohda-san and Kumasawa-san were there. `
 `Isn't that right, you two?" `
 `When she turned to face the direction where those two were seated, ...those two wax models alone came back to life. `
@@ -356,25 +356,25 @@
 `...Natsuhi, who was in the defendant's chair, kept her soul the whole time, and was constantly hanging her head, looking nervous... `
 `Gohda hurried to his feet and answered Erika's question. `
 `"Y-Yes, that is correct. `
-`On that evening, I was alone in the {çeviri-konukevi}guesthouse {çeviri-hizmetkar}servant room..." `
+`On that evening, I was alone in the {ceviri}{konukevi}guesthouse {ceviri}{hizmetkar}servant room..." `
 `"Well, look at my age. `
 `Staying up all night would be a heavy burden, `
-`so I returned to the waiting room in the {çeviri-konukevi}guesthouse and went to bed right away on my own, ...yes, yes...!" `
-`"...Doesn't that mean Gohda and Kumasawa have lost their {çeviri-mazeret}alibis?!! `
+`so I returned to the waiting room in the {ceviri}{konukevi}guesthouse and went to bed right away on my own, ...yes, yes...!" `
+`"...Doesn't that mean Gohda and Kumasawa have lost their {ceviri}{mazeret}alibis?!! `
 `Kumasawa claims that she was sleeping alone in the waiting room. `
-`Gohda claims he was alone in the {çeviri-hizmetkar}servant room. `
+`Gohda claims he was alone in the {ceviri}{hizmetkar}servant room. `
 `Either of them should have had enough time to go to the cousin room and commit murder!!" `
 `"N-N-Nonsense...! `
 `Why would we do something like that...?!" `
 `"That's right, that's right...! `
 `How could I ever kill someone...?!" `
 `"Natsuhi said it all. `
-`Both Kumasawa, who was sleeping alone in the waiting room, and Gohda, who was alone in the {çeviri-hizmetkar}servant room, `
+`Both Kumasawa, who was sleeping alone in the waiting room, and Gohda, who was alone in the {ceviri}{hizmetkar}servant room, `
 `are in the exact same situation as Natsuhi in her room. `
-`Both of them have lost their {çeviri-mazeret}alibis." `
+`Both of them have lost their {ceviri}{mazeret}alibis." `
 `"Have no fear. `
 `I guarantee that neither of these two are murderers. `
-`First off, following dinner, Kumasawa-san left the {çeviri-malikane}mansion with me and the others and went to the {çeviri-konukevi}guesthouse, `
+`First off, following dinner, Kumasawa-san left the {ceviri}{malikane}mansion with me and the others and went to the {ceviri}{konukevi}guesthouse, `
 `entered the waiting room, and slept until morning. `
 `It's the same for Gohda-san. `
 `Once he finished with his job, he chatted with us in the lounge and went to sleep afterwards. `
@@ -387,17 +387,17 @@
 `Beato glanced at where Dlanor sat on the second-floor audience seating. `
 `...However, Dlanor just stared back with those usual expressionless eyes. `
 `"Repeat it. `
-`"We have absolute proof of Gohda and Kumasawa's {çeviri-mazeret}alibis"." `
+`"We have absolute proof of Gohda and Kumasawa's {ceviri}{mazeret}alibis"." `
 `"We refuse. `
 `......Why give a hint to an enemy? `
 `There's no way we'd answer." `
 `"Aha. `
 `Did you hear that, Lady Lambdadelta? `
 `They say they have no proof! `
-`How could they claim that Gohda and Kumasawa have {çeviri-mazeret}alibis without proof?!" `
+`How could they claim that Gohda and Kumasawa have {ceviri}{mazeret}alibis without proof?!" `
 `"Good point. `
 `What do you say, Bern, Erika? `
-`How can you claim that Gohda and Kumasawa have {çeviri-mazeret}alibis?" `
+`How can you claim that Gohda and Kumasawa have {ceviri}{mazeret}alibis?" `
 `"Fall back, Erika. `
 `My opponent is Dlanor over there. `
 `A mere Human like you can be no match for a witch!" `
@@ -410,16 +410,16 @@
 `...I'm ready for it, okay?" `
 `In response to Erika's challenge, Beato smiled boldly yet gracefully and slowly stood up. `
 `And they glared at each other between the floor and the balcony... `
-`"{p:2:Gohda and Kumasawa have no {çeviri-mazeret}alibis. `
-`The two of them were in the {çeviri-konukevi}guesthouse and could have reached the cousins' room to commit murder at any time. `
-`Unless you can eliminate that possibility, you cannot treat Natsuhi as the {çeviri-suçlu}culprit}." `
-`Beato's {çeviri-mavi gerçek}blue truth struck out rapidly. `
+`"{p:2:Gohda and Kumasawa have no {ceviri}{mazeret}alibis. `
+`The two of them were in the {ceviri}{konukevi}guesthouse and could have reached the cousins' room to commit murder at any time. `
+`Unless you can eliminate that possibility, you cannot treat Natsuhi as the {ceviri}{suçlu}culprit}." `
+`Beato's {ceviri}{mavi gerçek}blue truth struck out rapidly. `
 `The curtain had finally dropped, and the battle had begun... `
 `"...A Human like Erika can't use any red. `
 `How could she turn this around without calling Dlanor?" `
 `"Though Erika cannot use it, her master, Lady Bernkastel, can. `
 `...We mustn't let our guards down." `
-`"{çeviri-Mavi gerçek}Blue truth, valid. `
+`"{ceviri}{Mavi gerçek}Blue truth, valid. `
 `...What'll you do, Bern? `
 `Will you or Dlanor step in instead?" `
 `"It is still not my {f:5:turn}. `
@@ -446,65 +446,65 @@
 `"And what exactly is "that"...? `
 `...You don't mean..." `
 `"That's right. `
-`It's what cornered and sealed Kinzo in his {çeviri-çalışma odası}study. `
+`It's what cornered and sealed Kinzo in his {ceviri}{çalışma odası}study. `
 `...I learned that you can create a seal by putting something between a door and the frame." `
 `"......Are you kidding...? `
 `Did she actually...do that to Kumasawa-san's waiting room?!" `
-`"Erika was in the {çeviri-konukevi}guesthouse, so there's no obstacle to her having been capable of that." `
+`"Erika was in the {ceviri}{konukevi}guesthouse, so there's no obstacle to her having been capable of that." `
 `"After all, it was an unsettling night, and a massive amount of gold had just been discovered. `
 `Many sorts of crimes might have occurred. `
 `...Where there is a detective, there will be a crime. `
-`I foresaw that some kind of crime would take place, so I used this to seal away people whose {çeviri-mazeret}alibis might otherwise be lost." `
+`I foresaw that some kind of crime would take place, so I used this to seal away people whose {ceviri}{mazeret}alibis might otherwise be lost." `
 `Erika held a small, folded piece of brown paper high in the air. `
-`"After I watched Kumasawa-san, who returned to the {çeviri-konukevi}guesthouse with me, say goodnight and enter the waiting room, `
+`"After I watched Kumasawa-san, who returned to the {ceviri}{konukevi}guesthouse with me, say goodnight and enter the waiting room, `
 `I used this to seal the door. `
 `Then, in the morning, `
 `when the crime was discovered and caused a big uproar, I immediately went to check Kumasawa-san's waiting room, `
 `where I confirmed that the seal was still set. `
-`Therefore, I can prove Kumasawa-san's {çeviri-mazeret}alibi!" `
+`Therefore, I can prove Kumasawa-san's {ceviri}{mazeret}alibi!" `
 `"......<Good>. `
-`A wonderful {çeviri-mazeret}alibi. Not a single gap. `
-`Kumasawa returned to the {çeviri-konukevi}guesthouse with Erika, went to the waiting room to sleep, and never left the room until morning. `
-`{p:1:In other words, after Kumasawa returned to the {çeviri-konukevi}guesthouse, she never went to the second floor until morning}." `
-`The proof Erika had shown was elevated by Bernkastel and became {çeviri-kırmızı gerçek}red truth. `
+`A wonderful {ceviri}{mazeret}alibi. Not a single gap. `
+`Kumasawa returned to the {ceviri}{konukevi}guesthouse with Erika, went to the waiting room to sleep, and never left the room until morning. `
+`{p:1:In other words, after Kumasawa returned to the {ceviri}{konukevi}guesthouse, she never went to the second floor until morning}." `
+`The proof Erika had shown was elevated by Bernkastel and became {ceviri}{kırmızı gerçek}red truth. `
 `This truth, which had become red, could no longer be overturned, even by Beato... `
-`In other words, in that instant, Kumasawa's perfect {çeviri-mazeret}alibi had been absolutely guaranteed. `
+`In other words, in that instant, Kumasawa's perfect {ceviri}{mazeret}alibi had been absolutely guaranteed. `
 `"Hohoh! `
 `Then what about Gohda?!" `
-`"Gohda-san holed up in the {çeviri-hizmetkar}servant room right after reaching the {çeviri-konukevi}guesthouse. `
+`"Gohda-san holed up in the {ceviri}{hizmetkar}servant room right after reaching the {ceviri}{konukevi}guesthouse. `
 `I sealed him up in the same way. `
 `Then, when Rosa-san returned at 1:00 AM, I happened to notice her when I stepped out into the corridor. `
-`I let Gohda-san, who was still in the {çeviri-hizmetkar}servant room, know this." `
-`"At that moment, the seal was still in place, so from the time we arrived at the {çeviri-konukevi}guesthouse until 1:00 AM, `
-`Gohda-san never left the {çeviri-hizmetkar}servant room. `
+`I let Gohda-san, who was still in the {ceviri}{hizmetkar}servant room, know this." `
+`"At that moment, the seal was still in place, so from the time we arrived at the {ceviri}{konukevi}guesthouse until 1:00 AM, `
+`Gohda-san never left the {ceviri}{hizmetkar}servant room. `
 `And afterwards, he was with me in the lounge until 3:00 AM. `
 `And after 3:00 AM, I was on the second floor, `
 `so I can guarantee that Gohda-san didn't come up to the second floor." `
-`"......Erika's seal proves that Gohda was holed up in the {çeviri-hizmetkar}servant room until 1:00 AM. `
-`And Erika has proven his {çeviri-mazeret}alibi from `
+`"......Erika's seal proves that Gohda was holed up in the {ceviri}{hizmetkar}servant room until 1:00 AM. `
+`And Erika has proven his {ceviri}{mazeret}alibi from `
 `then until 3:00 AM, since she was passing the time in the lounge with him. `
 `And Erika has also proven that he never set foot `
 `on the second floor until the morning after." `
-`"{p:1:In other words, after Gohda returned to the {çeviri-konukevi}guesthouse, he never went up to the second floor until morning}." `
-`"{çeviri-Kırmızı gerçek}red truth, valid. `
+`"{p:1:In other words, after Gohda returned to the {ceviri}{konukevi}guesthouse, he never went up to the second floor until morning}." `
+`"{ceviri}{Kırmızı gerçek}red truth, valid. `
 `...Well done, Erika. `
-`The {çeviri-mazeret}alibi due to your seal on that door has been acknowledged by Bern and elevated to the status of {çeviri-kırmızı gerçek}red truth." `
+`The {ceviri}{mazeret}alibi due to your seal on that door has been acknowledged by Bern and elevated to the status of {ceviri}{kırmızı gerçek}red truth." `
 `"Thank you very much, my master. `
-`...I am the detective! I may be Human, but I can use the {çeviri-kırmızı gerçek}red truth despite that and surpass Humans!" `
+`...I am the detective! I may be Human, but I can use the {ceviri}{kırmızı gerçek}red truth despite that and surpass Humans!" `
 `"So now you claim to have surpassed Humans... `
 `It's a thousand years too early for you to talk like that, conceited brat!" `
 `"It'll be a pain to have you try anything funny, so I'll make this clear now. `
 `In fact, I should've done this in the beginning. `
 `I apologize for being so roundabout. `
-`This is the situation around the {çeviri-konukevi}guesthouse at 24:00." `
-`"......The gold was found, an emergency family meeting was called for, and Battler-san went to the {çeviri-malikane}mansion with the relatives. `
-`I, the three cousins, Doctor Nanjo, Gohda-san, and Kumasawa-san remained in the {çeviri-konukevi}guesthouse." `
-`"I have already explained Gohda-san and Kumasawa-san's {çeviri-mazeret}alibis. `
+`This is the situation around the {ceviri}{konukevi}guesthouse at 24:00." `
+`"......The gold was found, an emergency family meeting was called for, and Battler-san went to the {ceviri}{malikane}mansion with the relatives. `
+`I, the three cousins, Doctor Nanjo, Gohda-san, and Kumasawa-san remained in the {ceviri}{konukevi}guesthouse." `
+`"I have already explained Gohda-san and Kumasawa-san's {ceviri}{mazeret}alibis. `
 `George-san, Jessica-san, and Maria-san were playing cards in the cousin room. `
 `I actually joined them for a just little bit, and I clearly witnessed that they were alive at that time." `
 `"My master, I ask that you repeat this!!" `
 `"Yes, I'll respond. `
-`{p:1:At 24:00 in the {çeviri-konukevi}guesthouse, George, Jessica, and Maria were alive, `
+`{p:1:At 24:00 in the {ceviri}{konukevi}guesthouse, George, Jessica, and Maria were alive, `
 `and they were in the second‐floor cousins' room. `
 `Nanjo, Gohda, and Kumasawa were on the first floor}." `
 `"And, since there's no need to hold off on it anymore, `
@@ -512,33 +512,33 @@
 `{p:1:George, Jessica, Maria, Rosa, and Genji—these five really are dead}. `
 `How could they be playing dead with their necks sliced open like that?" `
 `"Thanks for repeating that, my master...! `
-`If we hadn't made these things clear, you might have started going on about how they were already dead before I guaranteed everyone's {çeviri-mazeret}alibis, `
+`If we hadn't made these things clear, you might have started going on about how they were already dead before I guaranteed everyone's {ceviri}{mazeret}alibis, `
 `or that they weren't actually dead at all." `
 `"......Gah..." `
 `Unsurprisingly, Beato's side couldn't get away with the simple plan of claiming that the victims were only playing dead. `
-`But in order to overcome Gohda and Kumasawa's {çeviri-mazeret}alibis, it should've been possible to suppose that the crime occurred before those doors were sealed. `
+`But in order to overcome Gohda and Kumasawa's {ceviri}{mazeret}alibis, it should've been possible to suppose that the crime occurred before those doors were sealed. `
 `However, the opponent had predicted this move perfectly. `
-`It had been shown in red that the crime did not occur before the time period covered by Erika's {çeviri-mazeret}alibis. `
+`It had been shown in red that the crime did not occur before the time period covered by Erika's {ceviri}{mazeret}alibis. `
 `"Got it. `
 `That's the last time the victims were confirmed to be alive. `
 `I wish you'd said that in the beginning. `
 `...This means we can ignore everything that happened before 24:00." `
 `"......To go even further, `
-`{p:1:at 24:00, Natsuhi, Krauss, and Genji were in a corridor on the second floor of the {çeviri-malikane}mansion. `
-`All the remaining people were at the family conference in the {çeviri-yemek salonu}dining hall. `
+`{p:1:at 24:00, Natsuhi, Krauss, and Genji were in a corridor on the second floor of the {ceviri}{malikane}mansion. `
+`All the remaining people were at the family conference in the {ceviri}{yemek salonu}dining hall. `
 `Of course, at that point in time, no murder had occurred. `
 `Genji was also alive}." `
 `"This isn't something Erika observed, `
 `but we can't move the game forward without settling it. `
-`Very well, I'll acknowledge that {çeviri-kırmızı gerçek}red truth." `
-`"Thank you very much for that {çeviri-kırmızı gerçek}red truth, my master!" `
-`Since Erika had been in the {çeviri-konukevi}guesthouse, `
+`Very well, I'll acknowledge that {ceviri}{kırmızı gerçek}red truth." `
+`"Thank you very much for that {ceviri}{kırmızı gerçek}red truth, my master!" `
+`Since Erika had been in the {ceviri}{konukevi}guesthouse, `
 `it was only natural that she could explain the situation there. `
-`However, since she hadn't been in the {çeviri-malikane}mansion at the time, `
+`However, since she hadn't been in the {ceviri}{malikane}mansion at the time, `
 `explaining the situation over there would have been extremely difficult for her. `
-`...Beato would normally have attacked there with the {çeviri-mavi gerçek}blue truth, `
-`saying that the people in the {çeviri-yemek salonu}dining hall had all agreed to keep to the same story, `
-`that someone had snuck out of the {çeviri-yemek salonu}dining hall, and that they might have committed murder in the {çeviri-konukevi}guesthouse. `
+`...Beato would normally have attacked there with the {ceviri}{mavi gerçek}blue truth, `
+`saying that the people in the {ceviri}{yemek salonu}dining hall had all agreed to keep to the same story, `
+`that someone had snuck out of the {ceviri}{yemek salonu}dining hall, and that they might have committed murder in the {ceviri}{konukevi}guesthouse. `
 `However, because Bern had instantly settled that matter with the red text, `
 `Beato had completely lost her chance to strike back... `
 `"Dammit........." `
@@ -548,21 +548,21 @@
 `"...In fact, the situation might be even worse than it was back then." `
 `At a glance, the fight between the two of them resembled our previous fights. `
 `However, there were some vital differences. `
-`The first was whether or not Beato was the {çeviri-Oyun Yöneticisi}Game Master. `
-`The Beato who fought against me was the {çeviri-Oyun Yöneticisi}Game Master. `
+`The first was whether or not Beato was the {ceviri}{Oyun Yöneticisi}Game Master. `
+`The Beato who fought against me was the {ceviri}{Oyun Yöneticisi}Game Master. `
 `So she knew all the truth. `
 `That's why she was able to use the red text at will. `
-`However, the current Beato isn't the {çeviri-Oyun Yöneticisi}Game Master. `
+`However, the current Beato isn't the {ceviri}{Oyun Yöneticisi}Game Master. `
 `She's just a single piece on the game board. `
 `...In other words, even Beato doesn't know the truth. `
 `So you could say that Beato is now in the same position I once was. `
 `Also, though Erika may seem to be in the same position I once was, `
 `the situation for her is totally different. `
 `She's connected to the witch called Bernkastel. `
-`...Even though she isn't the {çeviri-Oyun Yöneticisi}Game Master, she's capable of elevating Erika's statements to become {çeviri-kırmızı gerçek}red truth. `
-`Because of this, Erika can use the {çeviri-kırmızı gerçek}red truth, even though she's neither a witch nor the {çeviri-Oyun Yöneticisi}Game Master. `
+`...Even though she isn't the {ceviri}{Oyun Yöneticisi}Game Master, she's capable of elevating Erika's statements to become {ceviri}{kırmızı gerçek}red truth. `
+`Because of this, Erika can use the {ceviri}{kırmızı gerçek}red truth, even though she's neither a witch nor the {ceviri}{Oyun Yöneticisi}Game Master. `
 `Beato, who's supposed to be the witch, possesses no truth nor red she can use. `
-`And yet the detective, Erika, can use the {çeviri-kırmızı gerçek}red truth. `
+`And yet the detective, Erika, can use the {ceviri}{kırmızı gerçek}red truth. `
 `The advantage has completely flipped over to the other side. `
 `...Perhaps you could say that the current Beato is in a much worse position than I was when I fought with her. `
 `After I got used to the game, Beato stopped responding to my demands that she use the red, `
@@ -583,12 +583,12 @@
 `"Yes. `
 `Let's switch to a different approach." `
 `"The next in line would probably be Nanjo. `
-`He was also in the {çeviri-konukevi}guesthouse." `
+`He was also in the {ceviri}{konukevi}guesthouse." `
 `"Nanjo was in the lounge with Erika. `
 `...However, I believe the time periods before and after that have been left open." `
 `"That's right, I'll strike there. `
 `...Nanjo, `
-`you were relaxing in the first floor lounge of the {çeviri-konukevi}guesthouse with Erika and Gohda, correct?" `
+`you were relaxing in the first floor lounge of the {ceviri}{konukevi}guesthouse with Erika and Gohda, correct?" `
 `"Yes... `
 `I was with Erika-san the whole time..." `
 `"And during what time was this?" `
@@ -599,58 +599,58 @@
 `...Repeat it, my master!" `
 `"I'll respond. `
 `{p:1:From {nobr:1 a.m.} to {nobr:3 a.m.}, the trio of Erika, Nanjo, and Gohda... `
-`spent their time in the lounge on the first floor of the {çeviri-konukevi}guesthouse}." `
+`spent their time in the lounge on the first floor of the {ceviri}{konukevi}guesthouse}." `
 `...Though she had flat-out refused to repeat what Beato told her to, she responded to Erika's demand immediately. `
-`The {çeviri-kırmızı gerçek}red truth...was starting to corner Beato. `
-`...She grimaced as though in pain, but she still struck back with the {çeviri-mavi gerçek}blue truth. `
+`The {ceviri}{kırmızı gerçek}red truth...was starting to corner Beato. `
+`...She grimaced as though in pain, but she still struck back with the {ceviri}{mavi gerçek}blue truth. `
 `...No, perhaps she really was in pain. `
-`Now that the characters apart from Natsuhi have had their {çeviri-mazeret}alibis established, the Illusion of the Witch is also being denied. `
+`Now that the characters apart from Natsuhi have had their {ceviri}{mazeret}alibis established, the Illusion of the Witch is also being denied. `
 `Beato perceived the denial of her existence as pain... `
-`"{p:2:Even so, he shouldn't have an {çeviri-mazeret}alibi for the time period before and after you were in the lounge! `
+`"{p:2:Even so, he shouldn't have an {ceviri}{mazeret}alibi for the time period before and after you were in the lounge! `
 `It was possible for Nanjo to commit the crime too}!" `
 `"That's right. `
 `I get that Nanjo was in the lounge with Erika from 1:00 to 3:00, but what about before and after that? `
 `...What about that, Erika?" `
 `"Yes. `
-`First, the {çeviri-mazeret}alibi for before 1:00 AM. `
+`First, the {ceviri}{mazeret}alibi for before 1:00 AM. `
 `This is no problem at all. `
 `I played cards with the cousins in their room until 24:00, `
 `and then went downstairs to the lounge, where I met Doctor Nanjo." `
 `"That's right... `
 `At 24:00, I met Erika-san after she came down the stairs and spoke with her, learning that she was quite the connoisseur of the mystery genre. `
 `I realized that I'd found a kindred spirit..." `
-`"When I went into the library to solve the {çeviri-kitabe}epitaph's riddle, `
+`"When I went into the library to solve the {ceviri}{kitabe}epitaph's riddle, `
 `I noticed that there were several original copies of famous foreign mystery novels stored there. `
 `So, I wanted to discuss them with the actual books in hand. `
 `We moved to the library and were talking the whole time. `
 `Constantly, until we moved to the lounge." `
-`Cramped though it was, that book storage room in the {çeviri-konukevi}guesthouse was stocked well enough that it was fair to call it a small library. `
+`Cramped though it was, that book storage room in the {ceviri}{konukevi}guesthouse was stocked well enough that it was fair to call it a small library. `
 `In it were several famous foreign mystery novels `
 `that Kinzo had once taken a liking to. `
 `Of course, they were all originals and in English, but English was no problem for either Erika or Nanjo. `
-`For this occasion, they had borrowed the key to the library one more time from Gohda in the {çeviri-hizmetkar}servant room. `
+`For this occasion, they had borrowed the key to the library one more time from Gohda in the {ceviri}{hizmetkar}servant room. `
 `At that point, Erika checked the seal again, and, of course, reset it. `
 `Damn her. `
 `Even though she keeps it sealed for anyone else to enter or leave, she alone enters and leaves whenever she wants. `
 `"I see. `
 `So, from 24:00 until 3:00 AM when you went to sleep, you were with Nanjo the whole time? `
-`That means Nanjo's {çeviri-mazeret}alibi is the most rock solid of them all." `
+`That means Nanjo's {ceviri}{mazeret}alibi is the most rock solid of them all." `
 `"Yes, that's it exactly! `
 `My master, repeat it...!" `
 `"I'll respond. `
 `{p:1:After 24:00, Erika was with Nanjo the whole time until {nobr:3 a.m}}." `
 `At 24:00, the crime in the cousin room still hadn't occurred. `
-`So this way, an {çeviri-mazeret}alibi had been established for the period before the time they were in the lounge. `
+`So this way, an {ceviri}{mazeret}alibi had been established for the period before the time they were in the lounge. `
 `"After that, we walked out of the library and into the hallway at 1:00 AM. `
 `When we did, we just happened to bump into Rosa-san as she returned. `
 `I then told Gohda-san about that. `
-`...I figured it was probably a {çeviri-hizmetkar}servant's responsibility to welcome in a guest." `
+`...I figured it was probably a {ceviri}{hizmetkar}servant's responsibility to welcome in a guest." `
 `Gohda asked if he should bring a towel, but Rosa refused. `
 `She quickly headed up to the second floor. `
 `At this point, Erika, Gohda, and Nanjo gathered together and decided to have a drink... `
-`Their {çeviri-mazeret}alibis in the lounge up until 3:00 AM have already been proclaimed in red, so there are no problems there. `
+`Their {ceviri}{mazeret}alibis in the lounge up until 3:00 AM have already been proclaimed in red, so there are no problems there. `
 `"Let's continue on to after 3:00 AM. `
-`This is Doctor Nanjo's {çeviri-mazeret}alibi after we split up. `
+`This is Doctor Nanjo's {ceviri}{mazeret}alibi after we split up. `
 `At 3:00 AM, Battler-san returned and the people in the lounge went their separate ways. `
 `Doctor Nanjo, Battler-san and I went up to the second floor. `
 `I then said good night to Doctor Nanjo. `
@@ -658,17 +658,17 @@
 `"And it went unchanged until the crime was discovered. `
 `I flew out of my room at the same time as Battler-san's scream `
 `and checked to see that the door to Doctor Nanjo's room was still sealed. `
-`Therefore, Doctor Nanjo's {çeviri-mazeret}alibi is perfect both before 1:00 and after 3:00...!" `
+`Therefore, Doctor Nanjo's {ceviri}{mazeret}alibi is perfect both before 1:00 and after 3:00...!" `
 `"Splendid, Erika. `
-`{p:1:Both your seal and your {çeviri-kırmızı gerçek}red truth are perfect. `
-`Nanjo had the {çeviri-mazeret}alibi of being with Erika until {nobr:3 a.m}. `
+`{p:1:Both your seal and your {ceviri}{kırmızı gerçek}red truth are perfect. `
+`Nanjo had the {ceviri}{mazeret}alibi of being with Erika until {nobr:3 a.m}. `
 `And he didn't leave his room after {nobr:3 a.m.} until morning}." `
 `Erika made use of the seals on the doors `
-`and was granted {çeviri-kırmızı gerçek}red truths from Bernkastel one after another... `
+`and was granted {ceviri}{kırmızı gerçek}red truths from Bernkastel one after another... `
 `For me, demanding that Beato repeat something had been about maneuvering and tactics, `
 `...but it's totally different for Erika. `
 `For her, it's like having a trump card that can make red whenever she wants... `
-`"This concludes the proof of {çeviri-mazeret}alibis for all suspects in the {çeviri-konukevi}guesthouse. `
+`"This concludes the proof of {ceviri}{mazeret}alibis for all suspects in the {ceviri}{konukevi}guesthouse. `
 `...Any problems?" `
 `"...I-I do have a problem...!! `
 `And that problem is, ...umm......" `
@@ -679,7 +679,7 @@
 `"Beato's complaint is rejected. `
 `I can't sense any problems at all. `
 `...It's totally <pop>, <cute>, and <perfect>! `
-`{çeviri-Mazeret}Alibis for all humans in the {çeviri-konukevi}guesthouse have now been proven." `
+`{ceviri}{Mazeret}Alibis for all humans in the {ceviri}{konukevi}guesthouse have now been proven." `
 `"...Wait a sec, Erika. `
 `Are you trying to leave me out of this? `
 `Ushiromiya Battler also should've had a chance to commit the crime. `
@@ -694,7 +694,7 @@
 `"Yeah, I understand, Battler. `
 `...And my apologies. Forgive me. `
 `...Erika! `
-`You still haven't shown an {çeviri-mazeret}alibi for Battler! `
+`You still haven't shown an {ceviri}{mazeret}alibi for Battler! `
 `Battler is the man who was sleeping alongside the victims. `
 `Shouldn't he be placed under suspicion more than anyone else?!" `
 `"Beato's right. `
@@ -706,7 +706,7 @@
 `You may have gone to the cousin room at 24:00, but I don't think you went there after 3:00 AM." `
 `"...Will you now claim that you went to crawl into Battler's bed later on? `
 `*cackle*cackle*! `
-`Well, if you say you were looking at Battler's sleeping face all night long to confirm his {çeviri-mazeret}alibi in the cousin room, `
+`Well, if you say you were looking at Battler's sleeping face all night long to confirm his {ceviri}{mazeret}alibi in the cousin room, `
 `then I'd accept it, riiight?" `
 `"Yes. I listened to him breathing in his sleep all night long. Got a problem with that?" `
 `"...What...?!" `
@@ -714,7 +714,7 @@
 `that he went straight to bed afterwards, and that he went straight to sleep. `
 `And I can prove that until he woke up, noticed the gruesome situation the room was in, and let out a scream, nothing happened in that room." `
 `"So you have no need to worry. `
-`Battler-san isn't the {çeviri-suçlu}culprit. `
+`Battler-san isn't the {ceviri}{suçlu}culprit. `
 `He's just the charming first discoverer, who entered the murder scene without realizing it was one and slept until morning." `
 `"That's insane... `
 `It shouldn't be possible for you to prove that with those seals you love so much...! `
@@ -770,58 +770,58 @@
 `...ggghh......" `
 `The red from the pair forced Beato to show an expression of considerable anguish... `
 `It was only natural. `
-`Those {çeviri-kırmızı gerçek}red truths not only guaranteed Battler's {çeviri-mazeret}alibi, but a number of other things as well. `
+`Those {ceviri}{kırmızı gerçek}red truths not only guaranteed Battler's {ceviri}{mazeret}alibi, but a number of other things as well. `
 `First off, it meant the murder was impossible for anyone after 3:00 AM. `
 `And since the cousins were confirmed to be alive as late as 24:00, the time period of the crime automatically became... `
 `"between 24:00 and 3:00". `
-`That meant the {çeviri-mazeret}alibis for all people who weren't in the {çeviri-konukevi}guesthouse before 3:00 AM... `
+`That meant the {ceviri}{mazeret}alibis for all people who weren't in the {ceviri}{konukevi}guesthouse before 3:00 AM... `
 `had also been guaranteed automatically. `
 `"...That one hurts... `
 `...a lot......" `
-`"After 24:00, Erika was in the {çeviri-konukevi}guesthouse the whole time. `
-`So, it should have been difficult for her to prove {çeviri-mazeret}alibis for all of the people in the {çeviri-malikane}mansion..." `
-`"It should've been almost impossible to prove {çeviri-mazeret}alibis for Eva and the others. `
-`...But now, all she has to do is prove that they never visited the {çeviri-konukevi}guesthouse between 24:00 and 3:00, `
-`and she can prove those {çeviri-mazeret}alibis..." `
+`"After 24:00, Erika was in the {ceviri}{konukevi}guesthouse the whole time. `
+`So, it should have been difficult for her to prove {ceviri}{mazeret}alibis for all of the people in the {ceviri}{malikane}mansion..." `
+`"It should've been almost impossible to prove {ceviri}{mazeret}alibis for Eva and the others. `
+`...But now, all she has to do is prove that they never visited the {ceviri}{konukevi}guesthouse between 24:00 and 3:00, `
+`and she can prove those {ceviri}{mazeret}alibis..." `
 `"...Anyway, we'll have to construct it so that the murders were possible before 3:00 AM. `
-`And we have to prove that it was possible for one of the people in the {çeviri-malikane}mansion to do it...!" `
-`The people who had been in the {çeviri-konukevi}guesthouse all had {çeviri-mazeret}alibis. `
+`And we have to prove that it was possible for one of the people in the {ceviri}{malikane}mansion to do it...!" `
+`The people who had been in the {ceviri}{konukevi}guesthouse all had {ceviri}{mazeret}alibis. `
 `The crime didn't occur before 24:00. `
 `The crime couldn't have occurred after 3:00. `
-`In other words, there was no way for the murders to happen unless someone from the {çeviri-malikane}mansion committed the crime between 24:00 and 3:00... `
+`In other words, there was no way for the murders to happen unless someone from the {ceviri}{malikane}mansion committed the crime between 24:00 and 3:00... `
 `In order to protect Natsuhi, she had to establish that it was possible for someone other than Natsuhi to commit the crime. `
 `Ironically, the witch had to prove that a Human had committed the crime... `
 `"......Still, this is getting pretty difficult. `
 `...Until 3:00, Erika was in the lounge. `
 `And you have to pass through there to reach the second floor. `
-`In other words, she's practically like a manager for the {çeviri-konukevi}guesthouse's second floor." `
+`In other words, she's practically like a manager for the {ceviri}{konukevi}guesthouse's second floor." `
 `"...This tactic may be a bit overused, but if it was possible for someone to go up to the second floor without Erika noticing, `
 `we should be able to prove that the crime was possible for anyone." `
 `"It's probably possible for a Human to climb up to a second story window if they really wanted to." `
 `Of course, Beato had also thought of striking back that way. `
 `...And Bernkastel must have thought this as well. `
 `"Battler, Nanjo, Gohda, Kumasawa. `
-`We realize that the crime was impossible for all these people in the {çeviri-konukevi}guesthouse. `
-`...However, what about the Humans in the {çeviri-malikane}mansion?!" `
-`"As I have already said, and as my master has even proclaimed with the {çeviri-kırmızı gerçek}red truth, `
-`I was in the lounge on the first floor of the {çeviri-konukevi}guesthouse. `
+`We realize that the crime was impossible for all these people in the {ceviri}{konukevi}guesthouse. `
+`...However, what about the Humans in the {ceviri}{malikane}mansion?!" `
+`"As I have already said, and as my master has even proclaimed with the {ceviri}{kırmızı gerçek}red truth, `
+`I was in the lounge on the first floor of the {ceviri}{konukevi}guesthouse. `
 `And to reach the second floor, one must pass through the lounge. `
 `In other words, it was impossible to reach the second floor without me seeing it." `
 `"And what if that wasn't impossible? `
-`{p:2:For example, what if someone placed a ladder against the outer wall of the {çeviri-konukevi}guesthouse and snuck in through a second‐story window?! `
+`{p:2:For example, what if someone placed a ladder against the outer wall of the {ceviri}{konukevi}guesthouse and snuck in through a second‐story window?! `
 `There must be a way to reach the second floor without passing through the lounge! `
 `If this is the case, it would be possible to reach the crime scene without you seeing it}...!" `
 `Beato finally struck back. `
 `Before now, she'd let Erika take total control and attack her with the red over and over. `
-`During that time, Beato's counterattacks with the {çeviri-mavi gerçek}blue truth had been few in number, even including this one... `
+`During that time, Beato's counterattacks with the {ceviri}{mavi gerçek}blue truth had been few in number, even including this one... `
 `"Of course, I knew you'd try saying that. `
 `I couldn't have my lookout in the lounge become meaningless. `
 `So first, I must prove that my lookout was perfect." `
-`"...First off, because of how the {çeviri-konukevi}guesthouse is constructed, `
+`"...First off, because of how the {ceviri}{konukevi}guesthouse is constructed, `
 `it's impossible to reach the second floor without me seeing it from the lounge. `
 `There are no places under cover, nor are there any physical or mental blind spots. `
 `...My master, repeat it!" `
-`"{p:1:It is impossible for someone to reach the second floor of the {çeviri-konukevi}guesthouse without anyone in the lounge noticing it. `
+`"{p:1:It is impossible for someone to reach the second floor of the {ceviri}{konukevi}guesthouse without anyone in the lounge noticing it. `
 `......Though of course, this only refers to reaching the second floor from inside the building}." `
 `"<Good>, my master! `
 `...So, next is Lady Beatrice's theory that there might be a way to reach the second floor from the outside. `
@@ -831,7 +831,7 @@
 `But I {i:can't let you do that}." `
 `"Hoh, you won't let me...? `
 `And how's that? `
-`Did you stay up all night circling the {çeviri-konukevi}guesthouse? `
+`Did you stay up all night circling the {ceviri}{konukevi}guesthouse? `
 `No, you couldn't do that. `
 `You were in the lounge...! `
 `From the lounge, you can only see a small part of the outer perimeter through the window!" `
@@ -841,15 +841,15 @@
 `"Prevent...entry...?!" `
 `"...I had already foreseen this move. `
 `...How terrifying...that she would be so persistent...!" `
-`"Because of how the {çeviri-konukevi}guesthouse is constructed, the windows are the only method of entry from the outside to the second floor." `
+`"Because of how the {ceviri}{konukevi}guesthouse is constructed, the windows are the only method of entry from the outside to the second floor." `
 `"The locks? Not important at all. `
 `I only had to prove that none of the windows or shutters were opened even once. `
 `After I witnessed the location of the hidden gold, `
-`I returned to the {çeviri-konukevi}guesthouse and immediately began severing all methods of entry to the second floor of the {çeviri-konukevi}guesthouse that didn't pass through the lounge. `
+`I returned to the {ceviri}{konukevi}guesthouse and immediately began severing all methods of entry to the second floor of the {ceviri}{konukevi}guesthouse that didn't pass through the lounge. `
 `......Yes, it's exactly the same. `
 `No different from the rest...!" `
 `"...Don't tell me... `
-`you used that seal of yours...on all the windows of the {çeviri-konukevi}guesthouse...? `
+`you used that seal of yours...on all the windows of the {ceviri}{konukevi}guesthouse...? `
 `In that weather, ...dressed like that...?" `
 `"Well, I did have my swimsuit from when I drifted here." `
 `"......You're insane... `
@@ -859,37 +859,37 @@
 `...However, she is the witch's piece." `
 `In the middle of all that rain, `
 `Erika sealed all the windows from the outside... `
-`...to create an {çeviri-mazeret}alibi showing that no one could've snuck into the {çeviri-konukevi}guesthouse from the outside. `
+`...to create an {ceviri}{mazeret}alibi showing that no one could've snuck into the {ceviri}{konukevi}guesthouse from the outside. `
 `She climbed up the wall herself...and did that to all the windows on the first and second floor. `
 `No, to all things that could possibly have permitted entry. `
 `Although, after hearing that she'd listened to the cousin room all night long, without even sleeping a wink, `
 `this new bizarre action didn't seem quite so impossible... `
 `This had probably also...looked like a venomous spider. `
-`A disgusting spider crawling over the outside {çeviri-konukevi}guesthouse wall during a storm... `
+`A disgusting spider crawling over the outside {ceviri}{konukevi}guesthouse wall during a storm... `
 `"......You... `
 `...Just what do you... `
 `...think of this Ushiromiya family...? `
 `Is this how you repay us for welcoming you as a guest...?!" `
 `"To a detective, the Ushiromiya family is nothing more or less than the stage upon which the crime occurs. `
 `...Before the outbreak of the crime, it was important for me to memorize the names of the characters, memorize the layout of the land, `
-`and prepare for the upcoming crime by devoting my time towards collecting and creating all possible {çeviri-mazeret}alibis." `
+`and prepare for the upcoming crime by devoting my time towards collecting and creating all possible {ceviri}{mazeret}alibis." `
 `"From my perspective, detectives who don't prepare anything before the outbreak of the crime are pretty third-rate. `
 `After all, we all know that someone will die wherever we spend the night." `
 `"......Furthermore, at the time the crime was discovered, `
 `Erika confirmed that none of those seals had been broken. `
 `That's why Erika wasn't the first one to reach the cousin room when the corpses were found." `
-`"Even without inspecting the corpses, she could be certain of several things thanks to the {çeviri-kırmızı gerçek}red truth. `
-`It was more important to check the seals and construct {çeviri-mazeret}alibis." `
+`"Even without inspecting the corpses, she could be certain of several things thanks to the {ceviri}{kırmızı gerçek}red truth. `
+`It was more important to check the seals and construct {ceviri}{mazeret}alibis." `
 `"My master is perfect. `
 `All I did was prove everything perfectly by following my master's orders...!" `
 `"Well done, Erika. `
 `My double, my piece...! `
 `What do you think, Lambda? `
-`Doesn't this prove that Erika's lookout in the lounge contains absolute reliability as far as constructing {çeviri-mazeret}alibis...?" `
+`Doesn't this prove that Erika's lookout in the lounge contains absolute reliability as far as constructing {ceviri}{mazeret}alibis...?" `
 `"...Yeah, I acknowledge it. `
 `Erika, your seal is perfect. `
 `I'll acknowledge it in red. `
-`{p:1:It was impossible to reach the second floor of the {çeviri-konukevi}guesthouse without passing through the lounge, `
+`{p:1:It was impossible to reach the second floor of the {ceviri}{konukevi}guesthouse without passing through the lounge, `
 `and impossible to reach it at all without Erika, who was in the lounge, knowing about it}!" `
 `"Thank you very much, Lady Lambdadelta...! `
 `So, you know what's coming next, Great Lady Beatrice! `
@@ -903,17 +903,17 @@
 `"...It's a bit embarrassing, but I grew so wrapped up in that discussion... `
 `that I wouldn't have noticed if anyone had passed through the corridor during that period. `
 `...Quite a regretful mistake for a detective." `
-`After doing all that maneuvering and setting up seals to guarantee a perfect {çeviri-mazeret}alibi, `
+`After doing all that maneuvering and setting up seals to guarantee a perfect {ceviri}{mazeret}alibi, `
 `she became too engrossed in a mystery discussion and left an opening...? `
 `Her relaxed smile was completely shameless, the total opposite of her words. `
 `It almost seems like it's the other way around. `
 `It's enough to make you think that this was an intentional trap... `
-`...to make it clear to all that only Natsuhi didn't have an {çeviri-mazeret}alibi between 24:00 and 1:00... `
+`...to make it clear to all that only Natsuhi didn't have an {ceviri}{mazeret}alibi between 24:00 and 1:00... `
 `"In other words, it paradoxically means this: `
-`the only ones who could have reached the cousin room and committed the crime...are those characters who have no {çeviri-mazeret}alibi between 24:00 and 1:00!" `
+`the only ones who could have reached the cousin room and committed the crime...are those characters who have no {ceviri}{mazeret}alibi between 24:00 and 1:00!" `
 `Her eyes clearly hinted that Natsuhi was the only one who fit this description... `
 `...It should've been a crime whose time and location were completely unknown during that long night. `
-`But because of the {çeviri-mazeret}alibis Erika had constructed, `
+`But because of the {ceviri}{mazeret}alibis Erika had constructed, `
 `it had been limited to the time period between 24:00 and 1:00. `
 `Erika left the cousin room at 24:00. `
 `That marks the last confirmation that George and the others were alive. `
@@ -929,54 +929,54 @@
 `... `
 `*giggle*giggle*giggle*giggle*!!" `
 `"Then let us continue. `
-`Let's examine the {çeviri-mazeret}alibis of the remaining suspects, the people in the {çeviri-malikane}mansion. `
+`Let's examine the {ceviri}{mazeret}alibis of the remaining suspects, the people in the {ceviri}{malikane}mansion. `
 `After all, we only have to worry about the single hour between 24:00 and 1:00. `
 `That shouldn't be difficult at all." `
 `"Let's start with 24:00. `
-`At this time, Natsuhi, Krauss, and Genji are in the second floor corridor, and all of the others are in the first floor {çeviri-yemek salonu}dining hall. `
+`At this time, Natsuhi, Krauss, and Genji are in the second floor corridor, and all of the others are in the first floor {ceviri}{yemek salonu}dining hall. `
 `This has already been shown by my master's red!" `
 `"Yeah, that's right. `
-`{p:1:At 24:00, Natsuhi, Krauss, and Genji were in the corridor on the second floor of the {çeviri-malikane}mansion. `
-`The rest of them were in the {çeviri-yemek salonu}dining hall on the first floor}. `
+`{p:1:At 24:00, Natsuhi, Krauss, and Genji were in the corridor on the second floor of the {ceviri}{malikane}mansion. `
+`The rest of them were in the {ceviri}{yemek salonu}dining hall on the first floor}. `
 `And as you know, there was a mysterious knock, and a letter with the One Wing seal on it appeared. `
 `The discussion surrounding that continued on until 1:00. `
-`I will say it with the {çeviri-kırmızı gerçek}red truth. `
-`{p:1:Of all the people in the {çeviri-yemek salonu}dining hall, not one of them left the {çeviri-yemek salonu}dining hall until {nobr:1 a.m.}}...!" `
+`I will say it with the {ceviri}{kırmızı gerçek}red truth. `
+`{p:1:Of all the people in the {ceviri}{yemek salonu}dining hall, not one of them left the {ceviri}{yemek salonu}dining hall until {nobr:1 a.m.}}...!" `
 `Since the possible times for the crime had been limited to between 24:00 and 1:00... `
-`The adults in the family conference, who were confirmed not to have left the {çeviri-malikane}mansion between 24:00 and 1:00, `
-`all had proven {çeviri-mazeret}alibis. `
+`The adults in the family conference, who were confirmed not to have left the {ceviri}{malikane}mansion between 24:00 and 1:00, `
+`all had proven {ceviri}{mazeret}alibis. `
 `"...A-And how do you intend to prove that?! `
-`Erika's in the {çeviri-konukevi}guesthouse! `
-`Did someone prove it by using one of your favorite seals on the {çeviri-yemek salonu}dining hall door?! `
+`Erika's in the {ceviri}{konukevi}guesthouse! `
+`Did someone prove it by using one of your favorite seals on the {ceviri}{yemek salonu}dining hall door?! `
 `You have no convincing evidence or proof...!!" `
-`"{p:1:The {çeviri-kırmızı gerçek}red truth is simply truth, and there is no need to provide evidence, proof, or room for a counterargument}!! `
+`"{p:1:The {ceviri}{kırmızı gerçek}red truth is simply truth, and there is no need to provide evidence, proof, or room for a counterargument}!! `
 `......You made that rule. `
 `*cackle*cackle*cackle* *giggle*giggle*giggle* ehehehehehahahahahahahahahahaha...!!" `
-`This overbearing {çeviri-kırmızı gerçek}red truth hadn't only given {çeviri-mazeret}alibis to the adults in the {çeviri-yemek salonu}dining hall. `
-`It also gave {çeviri-mazeret}alibis to Shannon and Kanon, who had come to serve tea, `
-`and even guaranteed that they never left the {çeviri-yemek salonu}dining hall. `
-`In other words, ...the only ones who didn't have proven {çeviri-mazeret}alibis... `
+`This overbearing {ceviri}{kırmızı gerçek}red truth hadn't only given {ceviri}{mazeret}alibis to the adults in the {ceviri}{yemek salonu}dining hall. `
+`It also gave {ceviri}{mazeret}alibis to Shannon and Kanon, who had come to serve tea, `
+`and even guaranteed that they never left the {ceviri}{yemek salonu}dining hall. `
+`In other words, ...the only ones who didn't have proven {ceviri}{mazeret}alibis... `
 `were these three: Natsuhi, Krauss, and Genji... `
 `No, ...there were only two left. `
-`If Krauss and Genji had their {çeviri-mazeret}alibis proven, `
-`it proves that no one but Natsuhi could've been the {çeviri-suçlu}culprit...! `
+`If Krauss and Genji had their {ceviri}{mazeret}alibis proven, `
+`it proves that no one but Natsuhi could've been the {ceviri}{suçlu}culprit...! `
 `"Let's do Genji next. `
 `He's a victim, but you can't deny the possibility that he committed the crime in the cousin room and was then killed himself." `
 `"And furthermore, though he was in the second floor corridor at 24:00, `
-`he then returned to the {çeviri-hizmetkar}servant room to transfer the phone call for Natsuhi and was completely isolated." `
+`he then returned to the {ceviri}{hizmetkar}servant room to transfer the phone call for Natsuhi and was completely isolated." `
 `"Which means it was possible for Genji to commit the-" `
 `"I'll say it in red. `
-`{p:1:When Genji finished transferring the call, he immediately returned to the {çeviri-hizmetkar}servants' quarters}. `
-`That's just a cold, hard truth, without any evidence, proof, seals or {çeviri-mazeret}alibis, got it?" `
+`{p:1:When Genji finished transferring the call, he immediately returned to the {ceviri}{hizmetkar}servants' quarters}. `
+`That's just a cold, hard truth, without any evidence, proof, seals or {ceviri}{mazeret}alibis, got it?" `
 `"Then, at 1:00 AM, `
-`there was another break in the family conference, and Rosa returned to the {çeviri-konukevi}guesthouse. `
+`there was another break in the family conference, and Rosa returned to the {ceviri}{konukevi}guesthouse. `
 `...At that time... `
 `I'm truly thankful for your cooperation, Ushiromiya Eva-san. `
 `Please rise...!" `
 `"......Erika-chan wasn't the only one, okay? `
 `I was also certain that something would happen that night." `
 `"She's the person who taught me how to make those seals. `
-`And she helped me to check the {çeviri-mazeret}alibis of those people under suspicion...!" `
+`And she helped me to check the {ceviri}{mazeret}alibis of those people under suspicion...!" `
 `"During the break at 1:00 AM, `
 `I went to Genji-san's waiting room and used the same seal as Erika-chan...! `
 `In other words, if that wasn't broken, `
@@ -993,27 +993,27 @@
 `"I'm not asking for your opinions. Just give us the facts. `
 `Did you break the seal and enter the room?" `
 `""Y-Yes..."" `
-`"With the {çeviri-kırmızı gerçek}red truth, I'll guarantee that Eva, Kanon, and Kumasawa's statements just now are the truth. `
+`"With the {ceviri}{kırmızı gerçek}red truth, I'll guarantee that Eva, Kanon, and Kumasawa's statements just now are the truth. `
 `{p:1:At {nobr:1 a.m.}, Eva sealed Genji's sleeping quarters, and that seal was broken by Kanon and Kumasawa in the morning when the crime was discovered}. `
 `This'll be a pain, so I'll add on some more. `
-`"{p:1:During the short break at {nobr:1 a.m.}, the first two to leave the {çeviri-yemek salonu}dining hall were Rosa and Eva. `
-`Until Eva returned, everyone in the {çeviri-yemek salonu}dining hall remained there. `
+`"{p:1:During the short break at {nobr:1 a.m.}, the first two to leave the {ceviri}{yemek salonu}dining hall were Rosa and Eva. `
+`Until Eva returned, everyone in the {ceviri}{yemek salonu}dining hall remained there. `
 `After seeing Rosa off, Eva went to the sleeping quarters and sealed it. `
 `Of course, she did not enter the room at all at this time}." `
 `"This is all information gathered from the people involved. `
-`It isn't a {çeviri-kırmızı gerçek}red truth without a basis. `
+`It isn't a {ceviri}{kırmızı gerçek}red truth without a basis. `
 `It's a truth due to proper reasoning constructed from testimony. `
 `Not only testimony, but the limits of scientific investigations such as collecting fingerprints were used here." `
-`"After all, Kinzo-san's {çeviri-çalışma odası}study is a treasure vault with all kinds of chemicals! `
-`I obtained all sorts of results to create an ultimate truth, infinitely close to a {çeviri-kırmızı gerçek}red truth. `
+`"After all, Kinzo-san's {ceviri}{çalışma odası}study is a treasure vault with all kinds of chemicals! `
+`I obtained all sorts of results to create an ultimate truth, infinitely close to a {ceviri}{kırmızı gerçek}red truth. `
 `This isn't a science mystery, so I'll spare you the details." `
 `As Erika swaggered around the cathedral, she arrogantly touted her scientific knowledge. `
-`She had thorough knowledge of all the chemicals in Kinzo's {çeviri-çalışma odası}study and had used them to conduct a scientific investigation, `
-`which had now been acknowledged and made into a {çeviri-kırmızı gerçek}red truth by Bernkastel. `
-`...She didn't explain the details, but she had obtained results that were convincing even without the {çeviri-kırmızı gerçek}red truth. `
+`She had thorough knowledge of all the chemicals in Kinzo's {ceviri}{çalışma odası}study and had used them to conduct a scientific investigation, `
+`which had now been acknowledged and made into a {ceviri}{kırmızı gerçek}red truth by Bernkastel. `
+`...She didn't explain the details, but she had obtained results that were convincing even without the {ceviri}{kırmızı gerçek}red truth. `
 `Collecting fingerprints with aluminum powder. `
 `Component analysis of the mud under someone's shoe and various chemical reactions from the clinging rain water. `
-`...Erika just walked into someone else's {çeviri-çalışma odası}study several times... `
+`...Erika just walked into someone else's {ceviri}{çalışma odası}study several times... `
 `and used several chemicals however she pleased, all without asking the family's permission. `
 `However, no one could fault her for this. `
 `The pieces couldn't hinder any action the detective might take for the investigation. `
@@ -1029,11 +1029,11 @@
 `It had already been made clear in red that, after transferring the phone call to Natsuhi, `
 `Genji had gone straight back to the waiting room. `
 `And because of Erika's scientific investigation, further red had been added, saying `
-`{p:1:Genji never left the {çeviri-malikane}mansion after 24:00}... `
-`Because of this, it's been made clear that Genji couldn't have reached the {çeviri-konukevi}guesthouse, `
+`{p:1:Genji never left the {ceviri}{malikane}mansion after 24:00}... `
+`Because of this, it's been made clear that Genji couldn't have reached the {ceviri}{konukevi}guesthouse, `
 `much less the cousin room... `
 `"Now, ...only Krauss and Natsuhi remain...! `
-`Everyone else has had their {çeviri-mazeret}alibis proven, haven't they?!!" `
+`Everyone else has had their {ceviri}{mazeret}alibis proven, haven't they?!!" `
 `"...I- `
 `Impossible...... `
 `.........!" `
@@ -1050,56 +1050,56 @@
 `I'll give you the same chance. `
 `...You understand, right? `
 `...Or wait, don't tell me... `
-`You aren't going to take advantage of the fact that Krauss is missing to try and pull a {çeviri-Şeytan'ın İspatı}Devil's Proof on me, are you...?" `
+`You aren't going to take advantage of the fact that Krauss is missing to try and pull a {ceviri}{Şeytan'ın İspatı}Devil's Proof on me, are you...?" `
 `"......Gah, ghh......" `
 `Beato realized that they were rapidly approaching the end of this battle. `
-`Normally, Beato should've been able to argue against these {çeviri-mazeret}alibis of Erika's in several ways, using the {çeviri-mavi gerçek}blue truth. `
-`However, all of those {çeviri-mazeret}alibis had been accepted by Bernkastel and Lambdadelta as {çeviri-kırmızı gerçek}red truth, `
+`Normally, Beato should've been able to argue against these {ceviri}{mazeret}alibis of Erika's in several ways, using the {ceviri}{mavi gerçek}blue truth. `
+`However, all of those {ceviri}{mazeret}alibis had been accepted by Bernkastel and Lambdadelta as {ceviri}{kırmızı gerçek}red truth, `
 `and Beato no longer had any room to argue... `
 `"...It's like...... `
 `those witches are distorting things, so that they match with a plotline Erika's drawn up..." `
 `"That's right. `
-`If the {çeviri-Oyun Yöneticisi}Game Master, Lady Lambdadelta, accepts a truth, `
+`If the {ceviri}{Oyun Yöneticisi}Game Master, Lady Lambdadelta, accepts a truth, `
 `its authenticity will not be questioned. `
 `The world that comes after will be formed based on the final remaining truth. ...This happens no matter how far this final truth is from the real truth." `
-`"There's no way Uncle Krauss is the {çeviri-suçlu}culprit. `
+`"There's no way Uncle Krauss is the {ceviri}{suçlu}culprit. `
 `He's being held prisoner somewhere. `
 `...W-Wait, `
-`we can't deny the possibility that {çeviri-Hala}Aunt Natsuhi was skillfully tricked into believing that during the phone call..." `
+`we can't deny the possibility that {ceviri}{Hala}Aunt Natsuhi was skillfully tricked into believing that during the phone call..." `
 `"Do you suspect Natsuhi and Krauss, Battler-kun?" `
 `"Well......" `
 `"Erika's truth has been constructed in a cowardly fashion, but it is a proper truth. `
-`Though the witches did conspire with her, it has still been acknowledged as a {çeviri-kırmızı gerçek}red truth. `
+`Though the witches did conspire with her, it has still been acknowledged as a {ceviri}{kırmızı gerçek}red truth. `
 `In other words, it cannot be a fake truth built solely on lies." `
 `"...This means that even Erika's truth is supported by logic. `
-`The truth about Natsuhi and Krauss being {çeviri-suçlu}culprits is also very possible. `
+`The truth about Natsuhi and Krauss being {ceviri}{suçlu}culprits is also very possible. `
 `Even if it's a mixture of truth and lies, it "makes sense logically". `
 `...It's a mixture of truth and lies...that is just as valuable as truth is. `
 `...Which of those two truths will you believe? `
 `That is up to you to decide." `
 `"......No. `
-`...I'll......trust {çeviri-Hala}Aunt Natsuhi...and Uncle Krauss. `
+`...I'll......trust {ceviri}{Hala}Aunt Natsuhi...and Uncle Krauss. `
 `I realize they're in some money trouble." `
-`"But even so, ...I don't want to believe that they're the {çeviri-suçlu}culprits. `
+`"But even so, ...I don't want to believe that they're the {ceviri}{suçlu}culprits. `
 `No, I can't believe it...!" `
 `"On this game board, where the red is steadily cornering Natsuhi, how do you intend to let her escape?" `
 `"...I-I don't know... `
 `However, ...I seriously don't want to give up...! `
-`{çeviri-Hala}Aunt Natsuhi was just caught in a cowardly trap. `
+`{ceviri}{Hala}Aunt Natsuhi was just caught in a cowardly trap. `
 `...Erika's reasoning has fallen for that trap completely...! `
-`So whether it's intentional or she's being manipulated, Erika is aiding the true {çeviri-suçlu}culprit." `
-`"......Erika has accused {çeviri-Hala}Aunt Natsuhi of being the {çeviri-suçlu}culprit, ...but even if everyone here believes that, `
-`...in fact, for that very reason, I want to be the one person who trusts {çeviri-Hala}Aunt Natsuhi...!" `
+`So whether it's intentional or she's being manipulated, Erika is aiding the true {ceviri}{suçlu}culprit." `
+`"......Erika has accused {ceviri}{Hala}Aunt Natsuhi of being the {ceviri}{suçlu}culprit, ...but even if everyone here believes that, `
+`...in fact, for that very reason, I want to be the one person who trusts {ceviri}{Hala}Aunt Natsuhi...!" `
 `If everyone believes it's her, will that become the truth? `
 `If everyone accepts a lie, will that become the truth? `
 `Must an honest person be dragged up to the guillotine, `
 `all alone and taunted by liars? `
 `"I...don't like it. `
-`...If no one else will believe in {çeviri-Hala}Aunt Natsuhi, then I will...!! `
+`...If no one else will believe in {ceviri}{Hala}Aunt Natsuhi, then I will...!! `
 `The real truth isn't something that's determined when everyone accepts it! `
 `It's something you find after thoroughly investigating both possibilities...! `
 `So this trial is a downright lie! `
-`This trial exists for no reason other than to set {çeviri-Hala}Aunt Natsuhi up as the {çeviri-suçlu}culprit!!" `
+`This trial exists for no reason other than to set {ceviri}{Hala}Aunt Natsuhi up as the {ceviri}{suçlu}culprit!!" `
 `"...Beato is doing all she can to plead Natsuhi's case, right?" `
 `"Wrong. `
 `Beato is trying to refute Erika's argument. `
@@ -1110,14 +1110,14 @@
 `She has to find a different truth and show Lambdadelta, the commander of this game, `
 `... `
 `that her truth is more correct than Erika's...!!" `
-`"Can anyone create a truth where Natsuhi isn't the {çeviri-suçlu}culprit, `
-`without violating the {çeviri-kırmızı gerçek}red truths that Lady Bernkastel has shown...?" `
+`"Can anyone create a truth where Natsuhi isn't the {ceviri}{suçlu}culprit, `
+`without violating the {ceviri}{kırmızı gerçek}red truths that Lady Bernkastel has shown...?" `
 `"...I-I don't know... `
-`But...as long as I don't believe that {çeviri-Hala}Aunt Natsuhi is the {çeviri-suçlu}culprit, there's got to be a different truth!" `
-`"It's even okay if the {çeviri-suçlu}culprit for the crime was a witch. `
+`But...as long as I don't believe that {ceviri}{Hala}Aunt Natsuhi is the {ceviri}{suçlu}culprit, there's got to be a different truth!" `
+`"It's even okay if the {ceviri}{suçlu}culprit for the crime was a witch. `
 `That's better than having Natsuhi be framed by an incorrect truth...!!" `
-`"......So, no matter how much {çeviri-kırmızı gerçek}red truth you are shown, `
-`you won't believe that Natsuhi is the {çeviri-suçlu}culprit, correct?" `
+`"......So, no matter how much {ceviri}{kırmızı gerçek}red truth you are shown, `
+`you won't believe that Natsuhi is the {ceviri}{suçlu}culprit, correct?" `
 `"Yeah...! `
 `For all things, there should always be some people who believe and some who don't...! `
 `No matter how much evidence is stacked up against her, someone has to believe that she's innocent! `
@@ -1140,27 +1140,27 @@
 `I abandoned that truth without even trying to check it! `
 `...Even without evidence, `
 `I abandoned the truth I believed in...! `
-`And now, everyone is starting to believe that {çeviri-Hala}Aunt Natsuhi is the {çeviri-suçlu}culprit. `
+`And now, everyone is starting to believe that {ceviri}{Hala}Aunt Natsuhi is the {ceviri}{suçlu}culprit. `
 `Even though no decisive evidence has been shown...! `
 `Even without evidence, Erika's words sound reasonable, so they're probably the truth...? `
-`Is {i:that} why you're throwing away your "belief" that {çeviri-Hala}Aunt Natsuhi is innocent, despite a lack of proof?! `
+`Is {i:that} why you're throwing away your "belief" that {ceviri}{Hala}Aunt Natsuhi is innocent, despite a lack of proof?! `
 `"If no one else will believe, ...then I will...! `
 `I believe the real truth only appears if you look with both eyes, one denying and one affirming...!! `
-`No matter how much she tries to make us believe that {çeviri-Hala}Aunt Natsuhi is the {çeviri-suçlu}culprit, I believe she isn't! `
+`No matter how much she tries to make us believe that {ceviri}{Hala}Aunt Natsuhi is the {ceviri}{suçlu}culprit, I believe she isn't! `
 `I won't abandon that belief!!" `
 `".........Understood. `
-`Then I will give you just a single {çeviri-kırmızı gerçek}red truth. `
+`Then I will give you just a single {ceviri}{kırmızı gerçek}red truth. `
 `I will give this single bit of power to you, now that you possess the will to fight in the truest sense." `
 `"Power......?" `
 `"By the name of the Finite Witch Virgilia. `
-`......No, as the former witch Beatrice, I will grant you this {çeviri-kırmızı gerçek}red truth. `
+`......No, as the former witch Beatrice, I will grant you this {ceviri}{kırmızı gerçek}red truth. `
 `{a:c: `
-`"{p:1:Ushiromiya Natsuhi is not the {çeviri-suçlu}culprit}!"} `
+`"{p:1:Ushiromiya Natsuhi is not the {ceviri}{suçlu}culprit}!"} `
 `"............!!!!" `
 `"A plea bargain. `
-`...If you acknowledge that Krauss is the {çeviri-suçlu}culprit, `
+`...If you acknowledge that Krauss is the {ceviri}{suçlu}culprit, `
 `Erika will suspend her pursuit of Natsuhi. `
-`From then on, the investigation will proceed assuming that Krauss, whose location is unknown, is the {çeviri-suçlu}culprit." `
+`From then on, the investigation will proceed assuming that Krauss, whose location is unknown, is the {ceviri}{suçlu}culprit." `
 `"What'll you do, Beato? `
 `At this rate, Natsuhi's in serious trouble, right? `
 `...Will you accept the plea bargain? `
@@ -1171,25 +1171,25 @@
 `A cat inside a box is unfixed, and no interpretation of it can be denied. `
 `It is the root of endless interpretations. `
 `The true source of the Endless Witch's power. `
-`In other words, no matter how much Bernkastel claims that Krauss is the {çeviri-suçlu}culprit, `
+`In other words, no matter how much Bernkastel claims that Krauss is the {ceviri}{suçlu}culprit, `
 `...she can't make that the sole truth. `
-`In other words, the Krauss {çeviri-suçlu}culprit theory and the witch theory can be in almost perfect balance. `
+`In other words, the Krauss {ceviri}{suçlu}culprit theory and the witch theory can be in almost perfect balance. `
 `...It would mean making the game a draw. `
 `Bernkastel was......tempting her. `
 `This was cajolery, ...offering her a second chance if she abandons the honor of the family she swore to protect... `
-`and consents to a {çeviri-Kakera}Fragment that stomps all over that honor. `
+`and consents to a {ceviri}{Kakera}Fragment that stomps all over that honor. `
 `There's no room for false confidence. `
 `For Beato, to lose is to die. `
 `...In this game, she should always choose a draw unless she has an overwhelming advantage. `
 `"...Mu, ...uu......" `
-`"I won't allow you to treat my husband like the {çeviri-suçlu}culprit!! `
-`My husband is the Successor to the Ushiromiya {çeviri-Aile Reisliği}Family Headship!! `
+`"I won't allow you to treat my husband like the {ceviri}{suçlu}culprit!! `
+`My husband is the Successor to the Ushiromiya {ceviri}{Aile Reisliği}Family Headship!! `
 `The only person who will inherit the glory of the Ushiromiya family! `
 `I will never let you treat him like a criminal...!!" `
 `"...Are you sure, Natsuhi...? `
 `......If you refuse to suspect Krauss, ...then...you'll be the only one left. `
-`...{çeviri-Mazeret}Alibis have been proven for everyone else, ...in other words, Hempel's Raven...! `
-`Even without any evidence, ...it will be determined that you are the {çeviri-suçlu}culprit...!" `
+`...{ceviri}{Mazeret}Alibis have been proven for everyone else, ...in other words, Hempel's Raven...! `
+`Even without any evidence, ...it will be determined that you are the {ceviri}{suçlu}culprit...!" `
 `"And if I'm the only one left, what then?! `
 `I am Ushiromiya Natsuhi!! `
 `I will not run or hide! `
@@ -1204,7 +1204,7 @@
 `"...Natsuhi refuses the deal. `
 `......And you, Beato? `
 `...You understand, right? `
-`The instant Natsuhi is specified as the {çeviri-suçlu}culprit, Lambda will make her verdict. `
+`The instant Natsuhi is specified as the {ceviri}{suçlu}culprit, Lambda will make her verdict. `
 `As soon as that happens, the Illusion of the Witch will be denied, and you'll disappear into the mist. `
 `...Do you plan to let Natsuhi's foolish bragging drag you down to the depths of hell...?" `
 `"......Nn......gah......" `
@@ -1217,11 +1217,11 @@
 `If they see that you're willing to make a concession, `
 `they will most likely accept it gladly and move on to the next game." `
 `"If we move on to the next game, ......then what will happen to the Natsuhi of this game, `
-`...the Natsuhi of this {çeviri-Kakera}Fragment...?" `
+`...the Natsuhi of this {ceviri}{Kakera}Fragment...?" `
 `"Now isn't the time to be worrying about that, right?! `
 `Natsuhi is just a piece! `
 `Even if she gets removed from this game, she'll show up again in the next one!" `
-`"But that doesn't apply to you, {çeviri-Leydim}Milady... `
+`"But that doesn't apply to you, {ceviri}{Leydim}Milady... `
 `I believe you know what Lady Bernkastel plans for this game. `
 `It's a more realistic goal to make use of that and aim for victory in the next game instead. `
 `...Accepting Lady Bernkastel's deal might be our one and only good option right now...!" `
@@ -1239,19 +1239,19 @@
 `Because if everyone else suspects Natsuhi, then someone has to believe in her! `
 `Because truth can only be found in the gap between those who doubt and those who believe...!!" `
 `"I won't abandon her! `
-`Even if everyone believes that Natsuhi is the {çeviri-suçlu}culprit, I will still claim that I, the witch, am the {çeviri-suçlu}culprit...!! `
+`Even if everyone believes that Natsuhi is the {ceviri}{suçlu}culprit, I will still claim that I, the witch, am the {ceviri}{suçlu}culprit...!! `
 `If I can't even make that claim, my existence isn't worth anything...!!" `
 `"...I cannot lose. `
 `The truth isn't something anyone gets to deny. `
 `...Only when you doubt and abandon it yourself does it disappeeeeeeear!!" `
 `"Is that your answer, Beato...?" `
 `"Yeah, of course I refuse!! `
-`Ushiromiya Krauss is not the {çeviri-suçlu}culprit!!" `
+`Ushiromiya Krauss is not the {ceviri}{suçlu}culprit!!" `
 `"......Fool. `
 `I won't let you take that back, okay...? `
 `Here's what you get for being a quick-tempered moron. `
-`By the name of Bernkastel, Witch of Miracles, I speak with the {çeviri-kırmızı gerçek}red truth. `
-`{p:1:Ushiromiya Krauss is not the {çeviri-suçlu}culprit. `
+`By the name of Bernkastel, Witch of Miracles, I speak with the {ceviri}{kırmızı gerçek}red truth. `
+`{p:1:Ushiromiya Krauss is not the {ceviri}{suçlu}culprit. `
 `And he was killed long ago. `
 `Shortly after you heard his voice over the phone, in fact}." `
 `"...N-No...... `
@@ -1269,8 +1269,8 @@
 `Even wrapped up in so much sadness, ...Natsuhi would do all she could to protect that honor... `
 `with this final bit of strength... `
 `"Nope, it's all over! `
-`It's been determined with the {çeviri-kırmızı gerçek}red truth that none of the remaining people in the {çeviri-yemek salonu}dining hall left that room until 1:00. `
-`In other words, {çeviri-mazeret}alibis have already been proven for everyone except Natsuhi!" `
+`It's been determined with the {ceviri}{kırmızı gerçek}red truth that none of the remaining people in the {ceviri}{yemek salonu}dining hall left that room until 1:00. `
+`In other words, {ceviri}{mazeret}alibis have already been proven for everyone except Natsuhi!" `
 `"...Well done, Erika and Bernkastel! `
 `You've fully proven that the crime was impossible for everyone except Ushiromiya Natsuhi! `
 `Why don't I start reading aloud from the verdict?" `
@@ -1285,20 +1285,20 @@
 `During the hour before 1:00 AM, `
 `Krauss, George, Jessica, Maria, Rosa, and Genji were killed one after another! `
 `It's only possible for any of these murders to have taken place between 24:00 and 1:00! `
-`The only person without an {çeviri-mazeret}alibi during this time was Ushiromiya Natsuhi...! `
-`From this point forward, the defendant will be treated as the true {çeviri-suçlu}culprit." `
+`The only person without an {ceviri}{mazeret}alibi during this time was Ushiromiya Natsuhi...! `
+`From this point forward, the defendant will be treated as the true {ceviri}{suçlu}culprit." `
 `"Furthermore, because it has been fully proven that the crime was possible for Humans, `
 `Beatrice, Endless Witch...!! `
 `This Court of Illusions hereby denies your existence!!" `
-`"You'll be given a chance to plead your case, but can you prove an {çeviri-mazeret}alibi for Natsuhi? `
+`"You'll be given a chance to plead your case, but can you prove an {ceviri}{mazeret}alibi for Natsuhi? `
 `Or can you prove that it was possible for someone other than Natsuhi? `
 `If you can do that, Natsuhi will stop at being one shade short of absolutely guilty, `
 `and the denial of your existence will be put on hold for this game..." `
-`If Natsuhi had an {çeviri-mazeret}alibi, Beato would've shown it long ago. `
-`In fact, wasn't the whole point of that trap to make her lose her {çeviri-mazeret}alibi...? `
-`"Even if her {çeviri-mazeret}alibi is not proven, ...I will believe in Natsuhi's innocence...!! `
+`If Natsuhi had an {ceviri}{mazeret}alibi, Beato would've shown it long ago. `
+`In fact, wasn't the whole point of that trap to make her lose her {ceviri}{mazeret}alibi...? `
+`"Even if her {ceviri}{mazeret}alibi is not proven, ...I will believe in Natsuhi's innocence...!! `
 `No matter how much you try to pin your fake truth on her!! `
-`I am the true {çeviri-suçlu}culprit! `
+`I am the true {ceviri}{suçlu}culprit! `
 `Natsuhi is innocent!! `
 `Even without any proof!!" `
 `"...The truth is known only by the master of the night on this island, Beatrice the Golden. `
@@ -1307,7 +1307,7 @@
 `My determination will not bend no matter how you try and humiliate me!" `
 `"Why, you ask? `
 `It is because Father gave me permission to engrave the family crest of the One-Winged Eagle into my heart...!! `
-`How do you intend to disprove the existence of this honor with your evidence and your {çeviri-mazeret}alibis? `
+`How do you intend to disprove the existence of this honor with your evidence and your {ceviri}{mazeret}alibis? `
 `You cannot!! `
 `The Ushiromiya family crest engraved into my heart is immortal!!" `
 `......Now that Natsuhi and Beatrice `
@@ -1324,7 +1324,7 @@
 `"......Sheesh, stop howling already. `
 `...I like it best when witches sob and beg for their lives when they're about to be burned at the stake. `
 `When they try and bluff like you do, it's such a killjoy. `
-`In that case, I guess I'll send you one final gift. A {çeviri-kırmızı gerçek}red truth to smash that bluff wide open." `
+`In that case, I guess I'll send you one final gift. A {ceviri}{kırmızı gerçek}red truth to smash that bluff wide open." `
 `"...Wh-What do you mean......?" `
 `"...S- `
 `Stop it, ...Lady Bernkastel... `
@@ -1343,7 +1343,7 @@
 `"Natsuhi!! You need not listen to this!! `
 `No one can defile the crest engraved in your heart!! `
 `That is yours alone!! `
-`Don't let your pride as the final {çeviri-Aile Reisi}Family Head be forgotten forever! `
+`Don't let your pride as the final {ceviri}{Aile Reisi}Family Head be forgotten forever! `
 `Natsuhiiiiiiiiiiiiiiiiiiiiii!!" `
 `"Just shut up and disappear. `
 `You miserable delusion of Natsuhi's." `
@@ -1397,7 +1397,7 @@
 `...and it echoed throughout the cathedral... `
 `...Natsuhi could no longer stop her tears. `
 `Some last, faint element that had cheered her up until today, `
-`that had allowed her to endure as an Ushiromiya, as the wife to the Head's representative, ...and as the final {çeviri-Aile Reisi}Family Head... `
+`that had allowed her to endure as an Ushiromiya, as the wife to the Head's representative, ...and as the final {ceviri}{Aile Reisi}Family Head... `
 `...had been torn to bits... `
 `Natsuhi no longer... `
 `...had anything left. `
@@ -1408,7 +1408,7 @@
 `All of these flitted through her mind, one after another... `
 `...and disappeared. `
 `All of those once-beautiful memories... `
-`were then...crushed by Bernkastel's {çeviri-kırmızı gerçek}red truth, `
+`were then...crushed by Bernkastel's {ceviri}{kırmızı gerçek}red truth, `
 `......smashed to bits and scattered, `
 `...plunged deep into her hands, `
 `...and smeared red with mournful blood... `
@@ -1425,12 +1425,12 @@
 `and the unshakable verdict was welcomed with a great applause...... `
 `And so, ......the "truth" of this tale... `
 `was decided...... `
-`Right now, no humans exist on this island except for those in this {çeviri-salon}parlor. `
+`Right now, no humans exist on this island except for those in this {ceviri}{salon}parlor. `
 `And, with one exception, it has been shown that none of them have committed murder. `
-`And, the {çeviri-suçlu}culprit is among these people. `
+`And, the {ceviri}{suçlu}culprit is among these people. `
 `"...Whoa, whoa. `
 `...In that case, ...it's conclusive, isn't it...?" `
-`"Unless the {çeviri-suçlu}culprit is a witch who committed murder with {çeviri-büyü}magic, that is..." `
+`"Unless the {ceviri}{suçlu}culprit is a witch who committed murder with {ceviri}{büyü}magic, that is..." `
 `"...It was you?! `
 `You killed George, killed my husband?! `
 `Why?!! `
@@ -1439,10 +1439,10 @@
 `I-I...d-didn't...!!" `
 `"..............." `
 `In a panic, and with a voice that was far from calm, `
-`......in a manner that was, to put it coldly, unsightly...{çeviri-Hala}Aunt Natsuhi denied the suspicion placed upon her... `
+`......in a manner that was, to put it coldly, unsightly...{ceviri}{Hala}Aunt Natsuhi denied the suspicion placed upon her... `
 `However, ...there was no longer any way around it... `
-`{i:She} stood up, ...brushed back her long hair, pointed at {çeviri-Hala}Aunt Natsuhi, and said it one more time. `
-`"...You're the {çeviri-suçlu}culprit, `
+`{i:She} stood up, ...brushed back her long hair, pointed at {ceviri}{Hala}Aunt Natsuhi, and said it one more time. `
+`"...You're the {ceviri}{suçlu}culprit, `
 `Ushiromiya Natsuhi-san." `
 `Red-faced and tear-streaked, `
 `...Eva walked up to Natsuhi... `
@@ -1471,39 +1471,39 @@
 `It was because they thought it an appropriate act of retribution for a person who had lost her beloved son and husband. `
 `A proper...retribution. `
 `A proper...truth. `
-`Everyone in the {çeviri-salon}parlor accepted that Natsuhi was the {çeviri-suçlu}culprit... `
+`Everyone in the {ceviri}{salon}parlor accepted that Natsuhi was the {ceviri}{suçlu}culprit... `
 `...They accepted the truth Erika claimed. `
-`So it became a proper truth, and Natsuhi was designated as the proper {çeviri-suçlu}culprit. `
+`So it became a proper truth, and Natsuhi was designated as the proper {ceviri}{suçlu}culprit. `
 `She had already lost the husband and daughter who might have protected her, `
 `...and even Kinzo, who should have given her a final bit of strength, had already vanished like a bubble in the ocean of illusions... `
 `No longer...would anyone protect her. `
-`No longer...would anyone believe her. So she was now...the true {çeviri-suçlu}culprit. `
+`No longer...would anyone believe her. So she was now...the true {ceviri}{suçlu}culprit. `
 `Eva's shoulders heaved with her heavy breathing. `
 `...Apparently, her anger still hadn't abated. `
 `Erika patted her shoulder and made Eva take a step back. `
 `...Of course, this wasn't to protect Natsuhi from violence. `
-`It was to further humiliate Natsuhi, ...now that she had been branded as the {çeviri-suçlu}culprit. `
+`It was to further humiliate Natsuhi, ...now that she had been branded as the {ceviri}{suçlu}culprit. `
 `"Natsuhi-san, `
 `I've solved two of the three riddles. `
 `The "who dunnit". `
 `And the "how dunnit". `
-`The final riddle--the "why dunnit"--must always be confessed by the {çeviri-suçlu}culprit herself. `
+`The final riddle--the "why dunnit"--must always be confessed by the {ceviri}{suçlu}culprit herself. `
 `Please follow the rules of the mystery genre and confess." `
 `The "why dunnit"...refers to the motive. `
 `"If this was a third-rate mystery, `
 `...you would let out a high-pitched laugh about now, confess to the crime, `
 `and start telling the story of her sad past. `
 `...Don't tell me you intend to make me explain that part as well?" `
-`"...I am not the {çeviri-suçlu}culprit!! `
+`"...I am not the {ceviri}{suçlu}culprit!! `
 `Someone, believe me!! `
 `I just had my husband taken hostage, was threatened, ...and fell into a trap...!!" `
 `Natsuhi, with her hair a mess and her face red and tear-streaked, `
 `...protested to everyone, `
 `...but no one met her gaze. `
-`Because it has already been resolved that Natsuhi was the {çeviri-suçlu}culprit. `
-`Because Lambdadelta had acknowledged that the {çeviri-suçlu}culprit of the tale was Natsuhi and had woven it that way, `
-`none of the pieces would pay any heed to Natsuhi's...to "the {çeviri-suçlu}culprit's" words... `
-`"Natsuhi isn't the {çeviri-suçlu}culprit!! `
+`Because it has already been resolved that Natsuhi was the {ceviri}{suçlu}culprit. `
+`Because Lambdadelta had acknowledged that the {ceviri}{suçlu}culprit of the tale was Natsuhi and had woven it that way, `
+`none of the pieces would pay any heed to Natsuhi's...to "the {ceviri}{suçlu}culprit's" words... `
+`"Natsuhi isn't the {ceviri}{suçlu}culprit!! `
 `I am the Golden Witch, Beatrice!! `
 `I am the one who commands Rokkenjima's night and who has reigned since long before the time you were all still scared of the dark!" `
 `"Why can't you just call it my sin? Why must you suspect Natsuhi?!! `
@@ -1515,7 +1515,7 @@
 `......Everything had been decided. `
 `"No one can hear you. `
 `You're a phantom, a mere illusion! `
-`Go back to being a simple {çeviri-portre}portrait! `
+`Go back to being a simple {ceviri}{portre}portrait! `
 `You're a faint phantom of a witch, born when Kinzo shared his illusion with his relatives!! `
 `That is the truth chosen by this world!!" `
 `"So, Great Lady Lambdadelta!! `
@@ -1616,10 +1616,10 @@
 `...However, all trials have a limited time in which the truth must be {f:5:decided}. `
 `Therefore, a truth that cannot be reached within that limited time cannot become {f:5:truth}." `
 `...Yeah, ...I know that...!! `
-`By now, everyone is certain that {çeviri-Hala}Aunt Natsuhi's the {çeviri-suçlu}culprit. `
+`By now, everyone is certain that {ceviri}{Hala}Aunt Natsuhi's the {ceviri}{suçlu}culprit. `
 `It might be too late now, ...even for the real truth...! `
-`{çeviri-Hala}Aunt Eva's violence will probably go unstopped, `
-`and no one is even thinking about protecting {çeviri-Hala}Aunt Natsuhi. `
+`{ceviri}{Hala}Aunt Eva's violence will probably go unstopped, `
+`and no one is even thinking about protecting {ceviri}{Hala}Aunt Natsuhi. `
 `It's no longer a situation where we can say "oh, the truth will eventually be found". `
 `And in this world, ...the time remaining to expose the truth...is very short. `
 `It's already 24:00, at the game's end. `
@@ -1634,7 +1634,7 @@
 `I don't know the truth. `
 `...However, ...if I don't jump in now, I won't get another chance to fight... `
 `The red used by Erika's group is mercilessly strict. `
-`I seriously doubt that I can put together a truth where {çeviri-Hala}Aunt Natsuhi isn't the {çeviri-suçlu}culprit without violating that red... `
+`I seriously doubt that I can put together a truth where {ceviri}{Hala}Aunt Natsuhi isn't the {ceviri}{suçlu}culprit without violating that red... `
 `"...Why the uncertain {f:5:face}? `
 `How {f:5:pathetic}." `
 `"D-Dammit......" `
@@ -1661,8 +1661,8 @@
 `"...D-Dammit, I've got nothing more to lose... `
 `If you wanna see me struggle, I'll show yooooooooouuuuu!!" `
 `The only reason Erika's theory is so strong is because of those seals. `
-`She was given red so quickly just because Lambdadelta easily bought the {çeviri-mazeret}alibis created by those seals. `
-`But the seals aren't {çeviri-kırmızı gerçek}red truth! `
+`She was given red so quickly just because Lambdadelta easily bought the {ceviri}{mazeret}alibis created by those seals. `
+`But the seals aren't {ceviri}{kırmızı gerçek}red truth! `
 `Just sticking paper in a door crack is far from perfect. `
 `There's no way something like that can prove anything with "certainty"...! `
 `"Begin, Battler!! `
@@ -1674,9 +1674,9 @@
 `""Ahyahhahahahahahahhhayhhyahyayhyahahahaaaaaaaaaahhhh!!"" `
 `"D-Dammiiiiiiiiiiiiiiiiiiiiittt!! `
 `"{p:2:Can't we doubt the reliability of these seals of Erika's?! `
-`Something like wedging some paper in a door can't create a perfect {çeviri-mazeret}alibi! `
+`Something like wedging some paper in a door can't create a perfect {ceviri}{mazeret}alibi! `
 `It might be that someone noticed by chance and happened to put it back in the same place}...!!" `
-`The blade of my {çeviri-mavi gerçek}blue truth should have slashed diagonally through Dlanor's chest. `
+`The blade of my {ceviri}{mavi gerçek}blue truth should have slashed diagonally through Dlanor's chest. `
 `...However, Dlanor's expression didn't budge in the slightest, and there wasn't a single wound on her chest. `
 `"I was wondering what you'd throw out there, but this is ridiculous..." `
 `"...Allow me to explain. `
@@ -1694,7 +1694,7 @@
 `"{p:1:Due to the above, the seals are guaranteed to be {f:5:perfect}. `
 `Miss Erika's seals were not broken by anyone, and deception is {f:5:impossible}}!!" `
 `"{p:2:I'll acknowledge Erika's seals...! `
-`However, {çeviri-Hala}Auntie Eva's seal on Genji‐san's room should be different}!!" `
+`However, {ceviri}{Hala}Auntie Eva's seal on Genji‐san's room should be different}!!" `
 `"{p:1:Eva's seal was of the same type as Miss Erika's. `
 `That is because this method of sealing was one that Miss Erika and Eva conceived of together after {f:5:dinner}}." `
 `"{p:2:Erika fished through the chemicals in Grandfather's room saying she'd use them for forensic testing, right?! `
@@ -1722,7 +1722,7 @@
 `"Were the seals all that you had to {f:5:discuss}? `
 `You promised to give it everything you've {f:5:got}." `
 `".........Nngg......" `
-`If I only knew a truth that could prove {çeviri-Hala}Aunt Natsuhi's innocence... `
+`If I only knew a truth that could prove {ceviri}{Hala}Aunt Natsuhi's innocence... `
 `If I could only make a theory that weaves its way through Erika's red... `
 `...Dammit, I don't know anything!! `
 `"...Do you have any chance of winning...?" `
@@ -1753,7 +1753,7 @@
 `Kill me, Dlanor!! Slice me in half with that red longsword of yours!! `
 `Hyahhahahahahahahahahaahhaaaaaaahhh!!" `
 `Nng, ...nngaaaaaaaaaaaaggghhhhh!! `
-`"{p:2:I postulate a method X that could lead someone to the upper floor of the {çeviri-konukevi}guesthouse without passing through the lounge! `
+`"{p:2:I postulate a method X that could lead someone to the upper floor of the {ceviri}{konukevi}guesthouse without passing through the lounge! `
 `Erika claims that the windows and such were sealed, but she can't prove that she sealed all possible means of entry! `
 `There's a possibility that Erika was unable to seal entrance X because she couldn't find it}!" `
 `"{p:1:Knox's 3rd: `
@@ -1769,52 +1769,52 @@
 `There were no small gaps or carelessness or times when she looked away for even a second}." `
 `"Please, allow me to speak. `
 `{p:1:Therefore, during their entire meeting in the lounge, only Rosa went up to the second floor}!" `
-`"{p:2:But was that really {çeviri-Hala}Aunt Rosa herself?! `
-`There's a possibility that someone disguised themselves as {çeviri-Hala}Aunt Rosa!! `
+`"{p:2:But was that really {ceviri}{Hala}Aunt Rosa herself?! `
+`There's a possibility that someone disguised themselves as {ceviri}{Hala}Aunt Rosa!! `
 `Or maybe she was actually holding a large suitcase with someone hiding inside it}!" `
 `"{p:1:Knox's 10th: It is forbidden for a character to disguise themselves as another without any {f:5:clues}! `
 `There was no foreshadowing suggesting that someone might be disguised as Rosa! `
 `Furthermore, Erika verified that Rosa was not carrying any luggage large enough to hide a human {f:5:being}}!" `
-`"{p:2:{çeviri-Hala}Aunt Natsuhi was being threatened by someone!! `
-`The uninvited, unknown guest X is the true {çeviri-suçlu}culprit!! `
+`"{p:2:{ceviri}{Hala}Aunt Natsuhi was being threatened by someone!! `
+`The uninvited, unknown guest X is the true {ceviri}{suçlu}culprit!! `
 `How can you be sure that we are the only ones on this island?! `
-`The true {çeviri-suçlu}culprit is someone else}!" `
+`The true {ceviri}{suçlu}culprit is someone else}!" `
 `"{p:1:Knox's 1st: `
-`It is forbidden for the {çeviri-suçlu}culprit to be anyone not mentioned in the early part of the {f:5:story}}!!" `
+`It is forbidden for the {ceviri}{suçlu}culprit to be anyone not mentioned in the early part of the {f:5:story}}!!" `
 `"{p:2:Maybe they were killed with poison in a remote murder!! `
 `Umm, ......with a strange drug that can make a cut appear in the victim's neck when they die...!! `
-`The poison used has a delayed effect, so even with an {çeviri-mazeret}alibi—}" `
+`The poison used has a delayed effect, so even with an {ceviri}{mazeret}alibi—}" `
 `"{p:1:Knox's 4th: `
 `It is forbidden for unknown drugs or obscure scientific devices to be {f:5:used}}!!" `
 `"{p:2:There's a chance that there existed a murder device X in the cousins' room and Genji‐san's quarters that made a remote murder possible...!! `
 `It used a secret mechanism that still hasn't been discovered to—}" `
 `"{p:1:Knox's 8th: `
 `It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!" `
-`"{p:2:I just know there exists a true {çeviri-suçlu}culprit other than {çeviri-Hala}Aunt Natsuhi!! `
-`If you deny that, then for each character, repeat in red that they aren't the {çeviri-suçlu}culprit}!!" `
+`"{p:2:I just know there exists a true {ceviri}{suçlu}culprit other than {ceviri}{Hala}Aunt Natsuhi!! `
+`If you deny that, then for each character, repeat in red that they aren't the {ceviri}{suçlu}culprit}!!" `
 `"{p:1:Knox's 6th: `
 `It is forbidden for accident or unaccountable intuition to be employed as a detective {f:5:technique}}!!" `
-`"{p:2:You say that everyone except {çeviri-Hala}Aunt Natsuhi has an {çeviri-mazeret}alibi?! `
+`"{p:2:You say that everyone except {ceviri}{Hala}Aunt Natsuhi has an {ceviri}{mazeret}alibi?! `
 `You're forgetting one!! `
-`Who's gonna prove that Erika herself has an {çeviri-mazeret}alibi}?!!" `
+`Who's gonna prove that Erika herself has an {ceviri}{mazeret}alibi}?!!" `
 `"{p:1:Knox's 7th: `
-`It is forbidden for the detective to be the {f:5:{çeviri-suçlu}culprit}}!!" `
-`"{p:2:Unless she's caught red‐handed, you should never be able to deny the possibility that {çeviri-Hala}Aunt Natsuhi is innocent!! `
+`It is forbidden for the detective to be the {f:5:{ceviri}{suçlu}culprit}}!!" `
+`"{p:2:Unless she's caught red‐handed, you should never be able to deny the possibility that {ceviri}{Hala}Aunt Natsuhi is innocent!! `
 `Can you even deny future possibilities, like if a piece of evidence X that Erika hasn't discovered proves Natsuhi's innocence}?!" `
 `"{p:1:Knox's 8th: `
 `It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!" `
 `"{p:2:Th‐this story is full of malicious fiction!! `
-`The story itself is a trap designed to frame {çeviri-Hala}Aunt Natsuhi! `
+`The story itself is a trap designed to frame {ceviri}{Hala}Aunt Natsuhi! `
 `We should reconstruct the story from impartial truths alone}!!" `
 `"{p:1:Knox's 9th: `
 `Observers are permitted to put forward their own conclusions and {f:5:interpretations}}!" `
-`"{p:2:Maybe I was the {çeviri-suçlu}culprit, and I gave George‐aniki and the others a slow‐acting poison to make them die after midnight, `
+`"{p:2:Maybe I was the {ceviri}{suçlu}culprit, and I gave George‐aniki and the others a slow‐acting poison to make them die after midnight, `
 `then silently slit their throats when I returned at {nobr:3 a.m.}!! `
 `I could have done it so quietly that Erika wouldn't hear}...!!" `
 `"{p:1:Knox's 8th: `
 `It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!" `
 `"{p:2:Everyone committed suicide...!! `
-`So there is no {çeviri-suçlu}culprit}!!" `
+`So there is no {ceviri}{suçlu}culprit}!!" `
 `"For your attention: I beg to inform you of the following. `
 `{p:1:All deaths were homicides}." `
 `"{p:2:Erika didn't personally examine the corpses, right?! `
@@ -1826,19 +1826,19 @@
 `"Be advised that {p:1:no corpses exist except those of characters who have appeared in the story}." `
 `"{p:2:Th‐then how can you claim that Uncle Krauss is dead without his corpse?!! `
 `Doesn't that violate Knox's somethingth or whatever}?!!" `
-`"Be advised that {p:1:the {çeviri-kırmızı gerçek}red truth is simply truth, and there is no need to provide evidence or proof}!!" `
+`"Be advised that {p:1:the {ceviri}{kırmızı gerçek}red truth is simply truth, and there is no need to provide evidence or proof}!!" `
 `"Wh- `
 `What the... `
 `...d- `
 `dammiiiiiiiiiiiiittt......!!" `
 `In the face of these insane arguments, `
-`...any attempts to overturn the truth where {çeviri-Hala}Aunt Natsuhi is treated as the {çeviri-suçlu}culprit are completely meaningless. `
-`Each time I brandished my desperate {çeviri-mavi gerçek}blue truths, `
-`Dlanor and the others' {çeviri-kırmızı gerçek}red truths knocked me down to the floor. `
+`...any attempts to overturn the truth where {ceviri}{Hala}Aunt Natsuhi is treated as the {ceviri}{suçlu}culprit are completely meaningless. `
+`Each time I brandished my desperate {ceviri}{mavi gerçek}blue truths, `
+`Dlanor and the others' {ceviri}{kırmızı gerçek}red truths knocked me down to the floor. `
 `...It was getting hard to even stand back up again. `
 `...Does that mean...my body is telling me that I'm about to surrender... `
-`to the truth where {çeviri-Hala}Aunt Natsuhi is the {çeviri-suçlu}culprit...? `
-`Their {çeviri-kırmızı gerçek}red truth is getting more and more perfect... `
+`to the truth where {ceviri}{Hala}Aunt Natsuhi is the {ceviri}{suçlu}culprit...? `
+`Their {ceviri}{kırmızı gerçek}red truth is getting more and more perfect... `
 `Each time I think I can slip through a chink in their armor, `
 `Dlanor smacks me down with the red longsword of Knox... `
 `"...Hihihiha, `
@@ -1852,7 +1852,7 @@
 `"............Gah..." `
 `I don't... `
 `want to see Beato like this... `
-`Her majesty as the ruler of the {çeviri-Altın Diyar}Golden Land... `
+`Her majesty as the ruler of the {ceviri}{Altın Diyar}Golden Land... `
 `...her enthusiasm as my rival... `
 `...are completely gone. `
 `She's just a pitiful woman who's been trampled over and lost all hope, `
@@ -1861,21 +1861,21 @@
 `No, `
 `...I have one... `
 `last thing. `
-`"...And that is a different truth, where Natsuhi isn't the {f:5:{çeviri-suçlu}culprit}?" `
+`"...And that is a different truth, where Natsuhi isn't the {f:5:{ceviri}{suçlu}culprit}?" `
 `...That's not it. `
-`All I can do is prove that {çeviri-Hala}Aunt Natsuhi isn't the {çeviri-suçlu}culprit. `
+`All I can do is prove that {ceviri}{Hala}Aunt Natsuhi isn't the {ceviri}{suçlu}culprit. `
 `After that, `
 `...I can't show what the real truth `
 `is at all... `
 `"...But even so, ...maybe at least you'll be saved that way." `
 `"Why......?" `
-`"...I can show without a doubt that {çeviri-Hala}Aunt Natsuhi isn't the {çeviri-suçlu}culprit. `
+`"...I can show without a doubt that {ceviri}{Hala}Aunt Natsuhi isn't the {ceviri}{suçlu}culprit. `
 `...However, I cannot show a different truth. `
 `...If Erika's truth is dispersed, the crime will return to darkness, and there might still be room for you to exist." `
 `"Yeah, if you can do it. `
 `......But if you can't show a new truth, that means you're incompetent and useless as a player. `
 `I'll have you vanish from this game board for all eternity." `
-`At this point, the {çeviri-Oyun Yöneticisi}Game Master is Lambdadelta, `
+`At this point, the {ceviri}{Oyun Yöneticisi}Game Master is Lambdadelta, `
 `...and "she" is there too. `
 `This probably doesn't mean losing a single game, `
 `but being banished from this game for all eternity for losing. `
@@ -1885,8 +1885,8 @@
 `...an eternal darkness that lies on the far side of an eternal oblivion and where there is no concept of life or death... `
 `...I'm going to disappear, aren't I... `
 `However, ...Beato will remain. `
-`As long as Beato remains, no matter how suspicious {çeviri-Hala}Aunt Natsuhi is, `
-`...there will always remain space for the witch to be the {çeviri-suçlu}culprit...in other words, room for {çeviri-Hala}Aunt Natsuhi to not be the {çeviri-suçlu}culprit. `
+`As long as Beato remains, no matter how suspicious {ceviri}{Hala}Aunt Natsuhi is, `
+`...there will always remain space for the witch to be the {ceviri}{suçlu}culprit...in other words, room for {ceviri}{Hala}Aunt Natsuhi to not be the {ceviri}{suçlu}culprit. `
 `...As long as that space exists, ...someone will eventually expose the truth. `
 `It doesn't have to be me. `
 `Anyway, ...eventually, someone will smash this fake truth to pieces...! `
@@ -1918,14 +1918,14 @@
 `let me see you muster it now, in your last {f:5:moments}...!" `
 `"Nng, ......... `
 `...nnnggaaaaaaaaaaaaaaaaagghhhhh!!!" `
-`It's small, but it's a sparkling {çeviri-kırmızı gerçek}red truth. `
+`It's small, but it's a sparkling {ceviri}{kırmızı gerçek}red truth. `
 `The last trump card Virgilia gave me...!! `
 `Erika, ...this takes your theory back to square one...!! `
 `"If you can, why not go ahead?" `
 `{a:c: `
 `Take thiiiiiiiiiiis}!!! `
-`"{p:1:Ushiromiya Natsuhi is not the {çeviri-suçlu}culprit}!!!" `
-`The {çeviri-kırmızı gerçek}red truth is simply truth, with no evidence or proof needed......!! `
+`"{p:1:Ushiromiya Natsuhi is not the {ceviri}{suçlu}culprit}!!!" `
+`The {ceviri}{kırmızı gerçek}red truth is simply truth, with no evidence or proof needed......!! `
 `This will make Dlanor stagger...!! `
 `Even if that's all it does, `
 `...it's the first and last strike I can make...!! `
@@ -1933,26 +1933,26 @@
 `It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}." `
 `.........Huh...? `
 `My... `
-`...{çeviri-kırmızı gerçek}red truth... `
+`...{ceviri}{kırmızı gerçek}red truth... `
 `...was blown away by Dlanor's red longsword... `
-`"...In this court, if anyone other than witches is going to speak the {çeviri-kırmızı gerçek}red truth, `
+`"...In this court, if anyone other than witches is going to speak the {ceviri}{kırmızı gerçek}red truth, `
 `they'll have to construct an appropriate proof for it. `
 `Erika has been following this procedure, right...?" `
 `True, Erika hadn't used the red herself even once so far. `
 `...She always had Bernkastel, a witch, repeat her statements... `
-`"Your {çeviri-kırmızı gerçek}red truth isn't something you obtained for yourself. `
+`"Your {ceviri}{kırmızı gerçek}red truth isn't something you obtained for yourself. `
 `...It's a supernatural truth given by a paranormal being. `
 `In other words, it isn't reasoning. `
 `It's no better than a random thought..." `
 `I- `
 `In that case, `
 `...if I have Virgilia... `
-`...say the same {çeviri-kırmızı gerçek}red truth... `
+`...say the same {ceviri}{kırmızı gerçek}red truth... `
 `Where is...Virgilia......? `
-`"If you are to present that {çeviri-kırmızı gerçek}red truth, you must construct an appropriate {f:5:argument}. `
+`"If you are to present that {ceviri}{kırmızı gerçek}red truth, you must construct an appropriate {f:5:argument}. `
 `.........Can you do {f:5:that}...?" `
 `No, ......it's impossible...... `
-`I just have the truth that {çeviri-Hala}Aunt Natsuhi isn't the {çeviri-suçlu}culprit, `
+`I just have the truth that {ceviri}{Hala}Aunt Natsuhi isn't the {ceviri}{suçlu}culprit, `
 `......without any basis or evidence. `
 `"......See...? `
 `...Real truth...is a very fragile thing. `
@@ -1988,18 +1988,18 @@
 `{n}<Sentence to {f:5:death}>!! `
 `{n}<Great equalizer is the {f:5:death}>}!!" `
 `With that, the trial for the 5th game ended. `
-`The detective, Furudo Erika, accused the {çeviri-suçlu}culprit, Ushiromiya Natsuhi. `
+`The detective, Furudo Erika, accused the {ceviri}{suçlu}culprit, Ushiromiya Natsuhi. `
 `There are three riddles that the detective must explain. `
 `The first is the "who dunnit". `
-`Who is the {çeviri-suçlu}culprit? `
+`Who is the {ceviri}{suçlu}culprit? `
 `As previously stated, it is Ushiromiya Natsuhi. `
 `The second is the "how dunnit". `
 `How did they carry out the crime? `
 `During the hour between 24:00 on October 4th, 1986 and 1:00 the next day, `
-`Ushiromiya Natsuhi went to the cousins' room on the second floor of the {çeviri-konukevi}guesthouse and the {çeviri-hizmetkar}servant waiting room on the first floor of the {çeviri-malikane}mansion. `
+`Ushiromiya Natsuhi went to the cousins' room on the second floor of the {ceviri}{konukevi}guesthouse and the {ceviri}{hizmetkar}servant waiting room on the first floor of the {ceviri}{malikane}mansion. `
 `There, she carried out the murders. `
 `It is only possible for the crime to have taken place during that hour, `
-`and for that one hour, {çeviri-mazeret}alibis have been proven for all characters except Natsuhi. `
+`and for that one hour, {ceviri}{mazeret}alibis have been proven for all characters except Natsuhi. `
 `From the sky, a massive, red longsword, even greater in size than the one Dlanor held, came crashing down like a thunderbolt, `
 `piercing through Battler's heart and pinning him in place while he still stood... `
 `In that instant, Beatrice became a golden splash and faded away, `
@@ -2024,9 +2024,9 @@
 `Why did they commit the crime? `
 `The motive. `
 `In third-rate mysteries, there's no need to uncover this. `
-`After all, even if you don't expose the motive, the {çeviri-suçlu}culprit will just confess it when all's said and done. `
+`After all, even if you don't expose the motive, the {ceviri}{suçlu}culprit will just confess it when all's said and done. `
 `However, Furudo Erika was first-rate, so she would expose even this. `
-`Natsuhi was being confined in the {çeviri-salon}parlor, under everyone's watchful gazes. `
+`Natsuhi was being confined in the {ceviri}{salon}parlor, under everyone's watchful gazes. `
 `Then, Erika made use of everyone to diligently and persistently search all places, even Natsuhi's room, `
 `for clues about her motive. `
 `"Well, now that we have all gathered, `
@@ -2116,17 +2116,17 @@
 `And there exists no evidence `
 `that you eventually accepted his feelings, as you claim." `
 `"......I-I loved my husband...!!" `
-`"You can't find any testimony or evidence that can be used to elevate that statement to the level of {çeviri-kırmızı gerçek}red truth, right?" `
+`"You can't find any testimony or evidence that can be used to elevate that statement to the level of {ceviri}{kırmızı gerçek}red truth, right?" `
 `"...D-Does anyone need evidence to say they're in love...?!" `
-`"You can't trust anything besides the {çeviri-kırmızı gerçek}red truth...!! `
+`"You can't trust anything besides the {ceviri}{kırmızı gerçek}red truth...!! `
 `Statements that aren't red don't count as evidence at all, and they can't be trusted at all! `
 `All non-red letters are falsehoods that exist to deceive me!! `
 `"I love you"? `
 `Who would believe that when spoken with the white text? `
 `No non-red words can ever be trusted!! `
-`All I can trust in this world are the {çeviri-kırmızı gerçek}red truth and the pieces of evidence I offer to my master to gain it!!" `
+`All I can trust in this world are the {ceviri}{kırmızı gerçek}red truth and the pieces of evidence I offer to my master to gain it!!" `
 `"You lying Human who can't speak the truth!! `
-`Humans lacking the {çeviri-kırmızı gerçek}red truth have no right to speak of love or the heart or truth! `
+`Humans lacking the {ceviri}{kırmızı gerçek}red truth have no right to speak of love or the heart or truth! `
 `Did you know? `
 `Men aren't as stupid as you women think they are. `
 `Men never really take it seriously when a woman says "I love you"...!" `
@@ -2149,7 +2149,7 @@
 `How dare you say that?!! `
 `Die! Die and apologize to my husband!!" `
 `"Please cease your violence, Eva-san. `
-`This is now the precious moment where I question and convict the {çeviri-suçlu}culprit. `
+`This is now the precious moment where I question and convict the {ceviri}{suçlu}culprit. `
 `It's not yours, okay?" `
 `"Well then. `
 `Over the next several years, she appeared to have gotten used to her new way of life, `
@@ -2165,7 +2165,7 @@
 `However, Erika claimed that these were Natsuhi's true, hidden feelings `
 `that had been locked away and concealed. `
 `Since it had already been "concluded" that Natsuhi was a murderer, everyone accepted Erika's claim. `
-`By this point, the {çeviri-kırmızı gerçek}red truth wasn't even necessary to establish Natsuhi's motive. `
+`By this point, the {ceviri}{kırmızı gerçek}red truth wasn't even necessary to establish Natsuhi's motive. `
 `As long as the reason seemed plausible, everyone would believe it. `
 `No matter how much Natsuhi might object, no one would believe her. `
 `No one could accept the truth Natsuhi spoke of, about the days she had spent loving her husband. `
@@ -2192,70 +2192,70 @@
 `"............" `
 `"............... `
 `...I- `
-`Is {çeviri-Hala}Aunt Natsuhi... `
-`...really the {çeviri-suçlu}culprit...?" `
+`Is {ceviri}{Hala}Aunt Natsuhi... `
+`...really the {ceviri}{suçlu}culprit...?" `
 `"Well, now that you mention it, `
-`there is just one person besides Natsuhi-san that might be the {çeviri-suçlu}culprit." `
+`there is just one person besides Natsuhi-san that might be the {ceviri}{suçlu}culprit." `
 `"...Wh-What? `
 `Hey, are you serious...?! `
 `Why didn't you say something that important sooner?!!" `
 `"Natsuhi-san, `
 `the truth is, there is one person besides you for whom the crime was possible. `
-`...If you truly claim that you aren't the {çeviri-suçlu}culprit, `
-`it means that person must be the {çeviri-suçlu}culprit." `
+`...If you truly claim that you aren't the {ceviri}{suçlu}culprit, `
+`it means that person must be the {ceviri}{suçlu}culprit." `
 `".........Huh...?" `
 `"Who is it...?! `
 `Who...?!" `
 `"Ushiromiya...Kinzo-san." `
 `"......Ah, ......" `
-`"Early this morning, Kinzo-san went outside through the window of the third floor {çeviri-çalışma odası}study, `
+`"Early this morning, Kinzo-san went outside through the window of the third floor {ceviri}{çalışma odası}study, `
 `and his location is unknown. `
 `Isn't that right, Battler-san?" `
 `"...Nngg, ......" `
 `"Just like Natsuhi-san, `
-`Kinzo-san has no {çeviri-mazeret}alibi whatsoever. `
-`The truth is, for this crime, it was possible for Kinzo-san to be the {çeviri-suçlu}culprit as well." `
+`Kinzo-san has no {ceviri}{mazeret}alibi whatsoever. `
+`The truth is, for this crime, it was possible for Kinzo-san to be the {ceviri}{suçlu}culprit as well." `
 `"I just assumed that he never existed in the first place, `
 `so I totally forgot about him until just now. `
 `Allow me to apologize." `
 `She didn't look shy or apologetic in the slightest. `
 `Erika bowed in as unpleasant a manner as ever... `
-`...She had held a grudge ever since her defeat in the {çeviri-çalışma odası}study battle... `
+`...She had held a grudge ever since her defeat in the {ceviri}{çalışma odası}study battle... `
 `"Natsuhi-san, you gained Kinzo-san's trust and are the person who served closest to him, right? `
 `So, shouldn't you know better than anyone else? `
-`...This incident is actually the crime of the {çeviri-Aile Reisi}Family Head, carried out by Ushiromiya Kinzo-san." `
+`...This incident is actually the crime of the {ceviri}{Aile Reisi}Family Head, carried out by Ushiromiya Kinzo-san." `
 `"...Y- `
 `You dare... `
 `...call Father...a criminal...?" `
 `"Don't worry. `
 `I have prepared more than enough evidence and testimony `
-`to explain the "why dunnit" if Kinzo-san was actually the {çeviri-suçlu}culprit. `
+`to explain the "why dunnit" if Kinzo-san was actually the {ceviri}{suçlu}culprit. `
 `If you say, for example, that you have put yourself on the line to cover for Kinzo's crime, I am more than capable of supporting you." `
 `"Ever since the late period of the author Ellery Queen, `
 `even the theory created by the detective can sometimes change the plot itself. `
 `You really can't afford to be careless in this day and age." `
 `"...I won't let you... `
-`...treat Father like the {çeviri-suçlu}culprit!!" `
+`...treat Father like the {ceviri}{suçlu}culprit!!" `
 `"Natsuhi-san, `
 `calm down, place your hand on your chest, and think carefully. `
-`...If you accuse Kinzo-san of being the {çeviri-suçlu}culprit, this entire case will be resolved. `
+`...If you accuse Kinzo-san of being the {ceviri}{suçlu}culprit, this entire case will be resolved. `
 `You will no longer be held accountable for another person's actions, and your honor will be restored." `
 `In other words, by pushing the crime onto Kinzo, Natsuhi would be saved... `
 `However...... `
 `"...I-I have been entrusted with the honor of the Ushiromiya family...by Father... `
 `...Did you really think......that I would defile Father's honor, ...the Ushiromiya family honor, `
 `just to clear away the false accusations made against me...?!!" `
-`Of course, Natsuhi knew that she wasn't the {çeviri-suçlu}culprit. `
+`Of course, Natsuhi knew that she wasn't the {ceviri}{suçlu}culprit. `
 `And she also knew that Kinzo wasn't. `
 `So being framed herself and pushing the blame onto Kinzo were both unacceptable, `
 `unbearable outcomes. `
 `"Are you sure? `
 `As I have already established quite thoroughly, `
-`{çeviri-mazeret}alibis have been proven for everyone except you. `
+`{ceviri}{mazeret}alibis have been proven for everyone except you. `
 `If you will not accuse Kinzo-san, `
-`...then this time, it really will be clear that you are the {çeviri-suçlu}culprit, `
+`...then this time, it really will be clear that you are the {ceviri}{suçlu}culprit, `
 `and that will become the truth, right...?" `
-`"If you intend to label me as the {çeviri-suçlu}culprit and call that your own personal truth, `
+`"If you intend to label me as the {ceviri}{suçlu}culprit and call that your own personal truth, `
 `then do whatever you like...! `
 `I am sure that God knows of my innocence...! `
 `Eventually, he will prove it!!" `
@@ -2264,18 +2264,18 @@
 `Perhaps... `
 `...that was her way... `
 `...of protecting the Ushiromiya family's honor. `
-`"......{çeviri-Hala}Aunt...Natsuhi..." `
+`"......{ceviri}{Hala}Aunt...Natsuhi..." `
 `"And I even gave you a chance..." `
 `.........Stupid woman. `
 `This future where your name will eventually be cleared... `
 `doesn't exist for any of you...not for any of the pieces on this board. `
 `Natsuhi...had made her decision. `
-`If they were going to call her the {çeviri-suçlu}culprit, `
+`If they were going to call her the {ceviri}{suçlu}culprit, `
 `...she would let them. `
 `She boldly rejected the thought of selling Kinzo's honor `
-`to gain a momentary truth where she wasn't the {çeviri-suçlu}culprit... `
+`to gain a momentary truth where she wasn't the {ceviri}{suçlu}culprit... `
 `And, therefore... `
-`The tale was woven with her as the {çeviri-suçlu}culprit. `
+`The tale was woven with her as the {ceviri}{suçlu}culprit. `
 `In the future, if the accusations against her are proven false. `
 `This tale will probably be rewritten... `
 `However, that future will never come. `
@@ -2287,22 +2287,22 @@
 `...Then even all the goodness in which I lived my life could be overwritten easily. `
 `And so, I think... `
 `That I won't live as a good person for all eternity.... `
-`"...If you claim that Kinzo-san was not the {çeviri-suçlu}culprit, `
-`he will need an {çeviri-mazeret}alibi proving that the crime was impossible for him. `
-`Otherwise, we cannot truly be certain that you are the {çeviri-suçlu}culprit, Natsuhi-san." `
+`"...If you claim that Kinzo-san was not the {ceviri}{suçlu}culprit, `
+`he will need an {ceviri}{mazeret}alibi proving that the crime was impossible for him. `
+`Otherwise, we cannot truly be certain that you are the {ceviri}{suçlu}culprit, Natsuhi-san." `
 `Erika has probably known for a long time. `
 `Kinzo is nothing more than an illusion to make the inheritance problem more uncertain. `
 `However, it would be very hard to prove that he was an illusion. `
 `The only way to do this would be to confirm Kinzo's death, `
-`...but as has been made known by the {çeviri-kırmızı gerçek}red truth in previous games, Kinzo died a long time ago. `
+`...but as has been made known by the {ceviri}{kırmızı gerçek}red truth in previous games, Kinzo died a long time ago. `
 `And in this 5th game, his corpse hasn't even appeared. `
 `In a situation like this, it wouldn't be easy to absolutely prove his death... `
-`If Kinzo's death was confirmed, ...it would practically erase that defeat in the {çeviri-çalışma odası}study. `
+`If Kinzo's death was confirmed, ...it would practically erase that defeat in the {ceviri}{çalışma odası}study. `
 `It was the only way Erika had of removing the humiliation of that loss. `
 `And there was something that could confirm Kinzo's death almost as certainly as real proof. `
-`And that was........."the confession of the {çeviri-suçlu}culprit". `
+`And that was........."the confession of the {ceviri}{suçlu}culprit". `
 `It would mean having Natsuhi herself acknowledge that Kinzo no longer existed in this world. `
-`That way, it would be acknowledged that Erika's reasoning in the {çeviri-çalışma odası}study was correct, `
+`That way, it would be acknowledged that Erika's reasoning in the {ceviri}{çalışma odası}study was correct, `
 `...that loss would be painted over, and it would be rewritten as Erika's victory... `
 `Battler hung suspended by Dlanor's red longsword. `
 `Beato had disappeared by having her existence denied, ...and her minions had gone too. `
@@ -2313,7 +2313,7 @@
 `"That's correct...! `
 `Father is in good health...! `
 `No matter what anyone says, I will not change my statement...!" `
-`"The {çeviri-kırmızı gerçek}red truth from the previous games says that `
+`"The {ceviri}{kırmızı gerçek}red truth from the previous games says that `
 `{p:1:Kinzo is already dead}. `
 `...But that's not enough to satisfy you, right, Bern?" `
 `"...Yeah, that's right. `
@@ -2343,24 +2343,24 @@
 `It sounds interesting, so keep going." `
 `"......From now on, I'll use the word Kinzo to refer to "the living Kinzo". `
 `After all, Natsuhi claims that he's alive. `
-`...I'll say more with the {çeviri-kırmızı gerçek}red truth. `
-`{p:1:Kinzo does not exist anywhere outside the {çeviri-malikane}mansion}. `
+`...I'll say more with the {ceviri}{kırmızı gerçek}red truth. `
+`{p:1:Kinzo does not exist anywhere outside the {ceviri}{malikane}mansion}. `
 `...Isn't that right? Erika." `
 `"Y-Yes, my master...!! `
-`I searched for Kinzo all over the premises outside the {çeviri-malikane}mansion...! `
+`I searched for Kinzo all over the premises outside the {ceviri}{malikane}mansion...! `
 `However, I was unable to find him...!" `
 `Because of the detective's authority, Erika could "find all clues". `
-`Therefore, if Erika was unable to find "a hint that Kinzo existed outside the {çeviri-malikane}mansion", `
-`it was the same as proving that Kinzo didn't exist outside the {çeviri-malikane}mansion. `
+`Therefore, if Erika was unable to find "a hint that Kinzo existed outside the {ceviri}{malikane}mansion", `
+`it was the same as proving that Kinzo didn't exist outside the {ceviri}{malikane}mansion. `
 `Therefore, Bernkastel repeated that truth of Erika's... `
-`"{p:1:Kinzo does not exist outside the {çeviri-malikane}mansion}. `
+`"{p:1:Kinzo does not exist outside the {ceviri}{malikane}mansion}. `
 `.........Hey, Natsuhi. `
-`If "Kinzo does exist", then this means he must be somewhere inside the {çeviri-malikane}mansion. `
+`If "Kinzo does exist", then this means he must be somewhere inside the {ceviri}{malikane}mansion. `
 `Do you have any idea where Kinzo might be hiding...?" `
 `"H-How could I know...?! `
 `After all, think of the weather. `
 `There would be nothing strange about him leaving the courtyard `
-`to hide somewhere in the {çeviri-malikane}mansion and dry the rain off...!" `
+`to hide somewhere in the {ceviri}{malikane}mansion and dry the rain off...!" `
 `"Pfft, ...*giggle*giggle*giggle*giggle* `
 `From this point forward, I will repeat the same thing several times. `
 `...I'll give you many chances for an honorable surrender. `
@@ -2369,15 +2369,15 @@
 `"*giggle*giggle*giggle*giggle* `
 `I just love teasing pieces like you. `
 `...Then, let us continue." `
-`"...For the aforementioned reasons, it is unthinkable that Kinzo-san could have been somewhere outside the {çeviri-malikane}mansion. `
-`...So, first off, I performed an extensive search of the third floor, where the {çeviri-çalışma odası}study is." `
+`"...For the aforementioned reasons, it is unthinkable that Kinzo-san could have been somewhere outside the {ceviri}{malikane}mansion. `
+`...So, first off, I performed an extensive search of the third floor, where the {ceviri}{çalışma odası}study is." `
 `"However, there was nowhere he could've been hiding. `
 `......We couldn't find any trace of Dad on the third floor." `
 `"So then, where is he, Natsuhi-san?" `
 `"I-I don't know...! `
 `If he isn't on the third floor, perhaps he's hiding in the basement..." `
 `"Ah, yes, the basement. `
-`The {çeviri-kazan dairesi}boiler room, that underground storage room...every part of your suspicious basement was also included in my search." `
+`The {ceviri}{kazan dairesi}boiler room, that underground storage room...every part of your suspicious basement was also included in my search." `
 `"Yes, I searched too...! `
 `I didn't see Father anywhere...!" `
 `"I'll say it again. `
@@ -2402,12 +2402,12 @@
 `Both Shannon and Kanon knew that Kinzo was already dead. `
 `So they didn't have a clue how Erika would use `
 `a phantom of a person who didn't exist to corner Natsuhi... `
-`"{p:1:Kinzo is nowhere outside the {çeviri-malikane}mansion. `
+`"{p:1:Kinzo is nowhere outside the {ceviri}{malikane}mansion. `
 `Kinzo isn't on the third floor. `
 `Kinzo isn't in the basement. `
 `Kinzo isn't on the first floor. `
 `Therefore, the only place Kinzo could possibly exist is the second floor}." `
-`"I accept that {çeviri-kırmızı gerçek}red truth. `
+`"I accept that {ceviri}{kırmızı gerçek}red truth. `
 `...Natsuhi, `
 `Kinzo should be somewhere on the second floor. `
 `Will you still not tell us where he's hiding...?" `
@@ -2441,7 +2441,7 @@
 `What do you think about that?" `
 `"He isn't on the third floor or the first floor or the basement, `
 `and he isn't in any of the rooms on the second floor except the one at the end. `
-`So if he really did exist inside the {çeviri-malikane}mansion, `
+`So if he really did exist inside the {ceviri}{malikane}mansion, `
 `......it had been proven that he could only exist in that room at the end. `
 `In other words, this was Hempel's Raven. `
 `Because it had been established that a "living Kinzo" couldn't exist anywhere except the final room at the end of the corridor, `
@@ -2468,12 +2468,12 @@
 `"......I see, looks like he isn't there. `
 `Did he realize we were coming and escape out the window?" `
 `If Kinzo wasn't in this last room, ...it meant that he didn't exist anywhere. `
-`"There was no living Kinzo outside the {çeviri-malikane}mansion". `
-`"There was no living Kinzo inside the {çeviri-malikane}mansion". `
+`"There was no living Kinzo outside the {ceviri}{malikane}mansion". `
+`"There was no living Kinzo inside the {ceviri}{malikane}mansion". `
 `Therefore..."No living Kinzo existed". `
 `However, Erika didn't make that argument. `
 `She had pointed that out herself, without making a checkmate. `
-`It was because Bernkastel didn't want to win by cornering Natsuhi with the {çeviri-kırmızı gerçek}red truth. `
+`It was because Bernkastel didn't want to win by cornering Natsuhi with the {ceviri}{kırmızı gerçek}red truth. `
 `She wanted to force Natsuhi to accept a humiliating resignation... `
 `"I have not only been searching for Kinzo-san himself all this time. `
 `I have been looking for signs that Kinzo-san hid somewhere between 24:00 and the morning. `
@@ -2481,12 +2481,12 @@
 `"...In other words, from 24:00 until morning, `
 `Kinzo was always holed up in the same room. `
 `And that was Natsuhi's room!" `
-`"It means the checkmate of {çeviri-kırmızı gerçek}red truth `
+`"It means the checkmate of {ceviri}{kırmızı gerçek}red truth `
 `has finally cornered the piece known as Kinzo's phantom inside Natsuhi's room." `
 `"Hey, Natsuhi-san. `
 `This means you were with Kinzo in this room until morning. `
 `Do you still claim that you didn't know where he was?" `
-`"I'll acknowledge it with the {çeviri-kırmızı gerçek}red truth...!! `
+`"I'll acknowledge it with the {ceviri}{kırmızı gerçek}red truth...!! `
 `{p:1:For the entire duration of the night between midnight and morning, `
 `a living Kinzo could not have existed anywhere outside Natsuhi's room}!! `
 `I permit you to use this truth to advance your argument about how he could only have existed in Natsuhi's room!" `
@@ -2494,10 +2494,10 @@
 `......Hey, Natsuhi. `
 `...Even someone as stupid as you must have realized the fix you're in now. `
 `This is your last chance. `
-`......Make Kinzo the {çeviri-suçlu}culprit." `
-`"Call the Ushiromiya {çeviri-Aile Reisi}Family Head a criminal and crush the Head's honor to protect yourself. `
+`......Make Kinzo the {ceviri}{suçlu}culprit." `
+`"Call the Ushiromiya {ceviri}{Aile Reisi}Family Head a criminal and crush the Head's honor to protect yourself. `
 `If you show that you have the guts to do that, `
-`I'll change the plot into one of a tragic heroine taking the blame to protect the {çeviri-Aile Reisi}Family Head." `
+`I'll change the plot into one of a tragic heroine taking the blame to protect the {ceviri}{Aile Reisi}Family Head." `
 `"Father is innocent! `
 `I cannot call Father a criminal!!" `
 `"...She's refused the deal! `
@@ -2526,7 +2526,7 @@
 `And last night, Natsuhi also slept in that same bed}." `
 `"Wow, look how close they were. `
 `So, you two were so close to each other, you slept sharing the same pillow?" `
-`"{çeviri-Mavi gerçek}Blue truth. `
+`"{ceviri}{Mavi gerçek}Blue truth. `
 `{p:2:Therefore, we can conjecture that Ushiromiya Natsuhi and Ushiromiya Kinzo had sexual relations with each other. `
 `Why else would a man and a woman share the same bed all night long}?" `
 `"H-How rude!!! `
@@ -2534,9 +2534,9 @@
 `...d-do such a thing...with the Father I respected so much... `
 `I-I won't allow you to say such things!!" `
 `"Natsuhi, `
-`use the {çeviri-kırmızı gerçek}red truth to counter this {çeviri-mavi gerçek}blue truth. `
+`use the {ceviri}{kırmızı gerçek}red truth to counter this {ceviri}{mavi gerçek}blue truth. `
 `Of course, since you aren't a witch, there's no red that you can use. `
-`So I'll speak with the {çeviri-kırmızı gerçek}red truth in your place. `
+`So I'll speak with the {ceviri}{kırmızı gerçek}red truth in your place. `
 `At least, I will if you can show me convincing proof...!!" `
 `"...H- `
 `How could such proof... `
@@ -2554,7 +2554,7 @@
 `"I understand why you want to deny it, `
 `......but testimony from several witnesses has already made it clear that you've had repeated secret meetings with Kinzo-san." `
 `"After all, last night, you went to "say goodnight" to Kinzo-san... `
-`with just the two of you alone in his {çeviri-çalışma odası}study, right? `
+`with just the two of you alone in his {ceviri}{çalışma odası}study, right? `
 `And beyond that, I've collected multiple bits of testimony regarding clear traces of sexual intercourse." `
 `"Are you insane?!?! `
 `Who was it?! `
@@ -2570,7 +2570,7 @@
 `*giggle*giggle*giggle*...! No room for doubt now!" `
 `"Hey, Natsuhi, `
 `looks like you don't even have a scrap of honor left now, `
-`...but I'll give you one, final chance before I build you the worst of all possible {çeviri-Kakera}Fragments. `
+`...but I'll give you one, final chance before I build you the worst of all possible {ceviri}{Kakera}Fragments. `
 `......Go ahead and say that Kinzo wasn't there, okay?" `
 `"That's right, you sure are stubborn, Natsuhi. `
 `...The Ushiromiya family has already been torn to ribbons, right? `
@@ -2591,7 +2591,7 @@
 `She no longer `
 `had any way to reject the fake truth `
 `that Bernkastel and Erika had weaved... `
-`"......By my name as the {çeviri-Oyun Yöneticisi}Game Master, Lambdadelta, `
+`"......By my name as the {ceviri}{Oyun Yöneticisi}Game Master, Lambdadelta, `
 `...I acknowledge Lady Bernkastel as the victor of this game! `
 `...If anyone has any objections, state your name now!!" `
 `............... `
@@ -2599,7 +2599,7 @@
 `All of those who might have objected had been erased... `
 `"No objections! `
 `Bern, this is your victory, and a wonderful victory it is! `
-`Now, you must weave up the {çeviri-Kakera}Fragment of the truth!!" `
+`Now, you must weave up the {ceviri}{Kakera}Fragment of the truth!!" `
 `"Sure. `
 `I'll go weave up the truth. `
 `...This is the truth of this sad, pathetic tale. `

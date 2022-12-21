@@ -58,7 +58,7 @@
 `That relationship was very long, stretching back to the time Mr. Ushiromiya moved to Rokkenjima." `
 `"Just how close were they?" `
 `"Very close, it seems. `
-`It seems that their connection through chess led my father to stay at Mr. Ushiromiya's {çeviri-malikane}mansion quite often. `
+`It seems that their connection through chess led my father to stay at Mr. Ushiromiya's {ceviri}{malikane}mansion quite often. `
 `...Although I may not be one to talk, Mr. Ushiromiya was extremely moody. `
 `And my father was an exceedingly magnanimous man, who excelled at interacting with humans like him. `
 `It's not hard to imagine that he was a rare friend for the isolated Mr. Ushiromiya." `
@@ -407,10 +407,10 @@
 `As I got closer, I realized that some characters had been written with a pen. `
 `"...Oh yeah, that's a photo I got when Mother's belongings were distributed. `
 `I think it probably has something to do with that "Legend of the Gold" thing." `
-`"The witch's {çeviri-kitabe}epitaph, you mean? `
+`"The witch's {ceviri}{kitabe}epitaph, you mean? `
 `It was whispered that it pointed out the location of the hidden 10 tons of gold... `
 `...So, Kumasawa-san tried to solve it too. `
-`But this isn't the {çeviri-kitabe}epitaph. `
+`But this isn't the {ceviri}{kitabe}epitaph. `
 `It's the first time I've seen it." `
 `There was an arch above the Western-style door, and that's where the relief was. `
 `English words were engraved there, and that seemed to be what the picture was focused on. `
@@ -419,26 +419,26 @@
 `'This door is opened only at a probability of a quadrillion to one. `
 `You will be blessed only at a probability of a quadrillion to one'. `
 `...I don't recognize it. `
-`Nothing like this ever showed up in the {çeviri-kitabe}epitaph or Onee-chan's diary." `
-`"In Mother's belongings, there were quite a few photos and notes that looked like her trying to solve the riddle of the {çeviri-kitabe}epitaph. `
+`Nothing like this ever showed up in the {ceviri}{kitabe}epitaph or Onee-chan's diary." `
+`"In Mother's belongings, there were quite a few photos and notes that looked like her trying to solve the riddle of the {ceviri}{kitabe}epitaph. `
 `Mother was actually surprisingly fond of that kind of thing. `
 `And there was that rumor that 10 tons of gold bars were hidden somewhere. `
 `It's no surprise she got so absorbed by it." `
-`In both Maria onee-chan's diary and in her grimoire, there was a description of the witch's {çeviri-kitabe}epitaph. `
-`It had talked about how it was a ceremony to open the door to the {çeviri-Altın Diyar}Golden Land, Beatrice's resurrection ceremony, Beatrice's succession ceremony. `
+`In both Maria onee-chan's diary and in her grimoire, there was a description of the witch's {ceviri}{kitabe}epitaph. `
+`It had talked about how it was a ceremony to open the door to the {ceviri}{Altın Diyar}Golden Land, Beatrice's resurrection ceremony, Beatrice's succession ceremony. `
 `On and on. `
 `Maybe the most interesting one was the last part, about it being a succession ceremony. `
 `According to Beatrice, `
-`if you were able to solve the witch's {çeviri-kitabe}epitaph, `
+`if you were able to solve the witch's {ceviri}{kitabe}epitaph, `
 `you would receive not only the 10 tons of gold and the Ushiromiya family inheritance, `
-`but her own {çeviri-büyülü}magical power and name, as well as the title of Golden Witch. `
-`Among the Ushiromiya family household at the time, the witch's {çeviri-kitabe}epitaph was thought of as a difficult quiz, which the {çeviri-Aile Reisi}Family Head, Kinzo, had arranged for to choose his successor. `
+`but her own {ceviri}{büyülü}magical power and name, as well as the title of Golden Witch. `
+`Among the Ushiromiya family household at the time, the witch's {ceviri}{kitabe}epitaph was thought of as a difficult quiz, which the {ceviri}{Aile Reisi}Family Head, Kinzo, had arranged for to choose his successor. `
 `But with the Mariage Sorcière interpretation, the questioner was Beatrice herself, `
 `and she had posed the question in part to choose her successor. `
 `...There were slight discrepancies in the details of the two interpretations. `
 `Either way, its ominous contents brought to mind a bloody serial murder, `
 `and both of the message bottles drew a tale of a crime following that pattern. `
-`If I could solve the witch's {çeviri-kitabe}epitaph now, 12 years later, I wonder if I could expose some plot made back then... `
+`If I could solve the witch's {ceviri}{kitabe}epitaph now, 12 years later, I wonder if I could expose some plot made back then... `
 `I tried to solve it many times myself, but I never did have a clue what it meant. `
 `It seems that many Witch Hunters tried as well. `
 `I also found theories like the La Plata theory and the Enoura theory in certain books. `
@@ -448,11 +448,11 @@
 `I don't have a clue who has what. `
 `Sorry." `
 `"......Just reading this English text that Kumasawa-san took a picture of, it gives the impression that this was a forbidden door that was rarely opened. `
-`...But where in the {çeviri-malikane}mansion is it, I wonder? `
+`...But where in the {ceviri}{malikane}mansion is it, I wonder? `
 `Judging by the lighting, it looks like it's outside. `
 `...I wonder if Kumasawa-san thought that the gold might be hidden in there." `
 `"Who knows. `
-`Either way, I do wonder where in the Rokkenjima {çeviri-malikane}mansion it was. `
+`Either way, I do wonder where in the Rokkenjima {ceviri}{malikane}mansion it was. `
 `...I hate to say it, but there wasn't enough money in Mother's bank account to make me think she found the gold. `
 `Uhahahaha, she probably didn't find it after all." `
 `...The Golden Witch, Beatrice, gave 10 tons of gold to Kinzo. `
@@ -653,7 +653,7 @@
 `What's going on here...?!’ `
 `"...I-I don't have a clue either... `
 `There's no way something that ridiculous... `
-`Is this {çeviri-büyü}magic? `
+`Is this {ceviri}{büyü}magic? `
 `A miracle...?" `
 `"......Yes, this is probably fate. `
 `...Now, ...I understand. `
@@ -687,7 +687,7 @@
 `‘Uryu , ...Ange, `
 `...I don't know what's going on... `
 `...Is this...a dream? `
-`{çeviri-Büyü}Magic...? `
+`{ceviri}{Büyü}Magic...? `
 `What is it...? `
 `......? `
 `......Ange......?’ `
@@ -701,4 +701,4 @@
 `...And, `
 `......Beatrice." `
 `‘......Uryu......’ `
-`This is......{çeviri-büyü}magic, isn't it......? `
+`This is......{ceviri}{büyü}magic, isn't it......? `

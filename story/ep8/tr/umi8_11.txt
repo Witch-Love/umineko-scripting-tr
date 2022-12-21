@@ -110,9 +110,9 @@
 `"It is. `
 `After all, this game is between me and you, right? `
 `I'm the player. `
-`You're the {çeviri-Oyun Yöneticisi}Game Master. `
+`You're the {ceviri}{Oyun Yöneticisi}Game Master. `
 `...No matter how many pieces get between us, in the end, it's still a direct battle between you and me." `
-`"...Well, it's true that I'm the {çeviri-Oyun Yöneticisi}Game Master, but it's not like I'm fighting against you or anything. `
+`"...Well, it's true that I'm the {ceviri}{Oyun Yöneticisi}Game Master, but it's not like I'm fighting against you or anything. `
 `This final game was held so you could be invited to the Rokkenjima of 1986." `
 `"Games are played to decide who wins and who loses. `
 `There can be no game unless you have foes and allies. `
@@ -167,7 +167,7 @@
 `Battler's expression faltered for just an instant, and Ange didn't miss it. `
 `So he was hiding it after all. `
 `Onii-chan...has been hiding the Book of the Single Truth from me...!! `
-`"{çeviri-Hala}Aunt Eva...! `
+`"{ceviri}{Hala}Aunt Eva...! `
 `For the first time since your death, I'd like to express my gratitude. `
 `...Because you wrote down what happened that day, you gave me one last chance at learning the truth...!" `
 `"...A-Ange-chan, you have to listen to me...! `
@@ -176,12 +176,12 @@
 `It's already been proven in red `
 `that your diary has the truth of that day in it!" `
 `"...A-Absurd. `
-`How could anyone but Battler, the {çeviri-Oyun Yöneticisi}Game Master, use the {çeviri-kırmızı gerçek}red truth...?!" `
+`How could anyone but Battler, the {ceviri}{Oyun Yöneticisi}Game Master, use the {ceviri}{kırmızı gerçek}red truth...?!" `
 `"...... `
 `...It's Auaurora, isn't it?" `
 `"That's right. `
 `...The Book of the Single Truth exists in 1998, the world of the future. `
-`Who else could perform the crucial role of confirming its contents with the {çeviri-kırmızı gerçek}red truth...?" `
+`Who else could perform the crucial role of confirming its contents with the {ceviri}{kırmızı gerçek}red truth...?" `
 `"I heard everything from Bernkastel!! `
 `I've been fooled by you long enough!! `
 `I don't want some sentimental illusion. `
@@ -203,7 +203,7 @@
 `Yes, this is the end of Onii-chan's boring party! `
 `Now it's time for my party to start!! `
 `I've even readied a game to liven things up! `
-`You're up, {çeviri-Hala}Aunt Eva." `
+`You're up, {ceviri}{Hala}Aunt Eva." `
 `"Huh...?!" `
 `When Ange snapped her fingers, she vanished along with a swirl of gold butterflies. `
 `Replacing her in the middle of that cyclone...was a girl wearing a dress, bowing modestly... `
@@ -220,23 +220,23 @@
 `Yes, a bottle. `
 `A glass bottle with no label. `
 `There was no alcohol inside. `
-`...Sealed within it was a {çeviri-Kakera}Fragment that let off a pale, sinister light. `
+`...Sealed within it was a {ceviri}{Kakera}Fragment that let off a pale, sinister light. `
 `"B-Battler!! This is bad!! `
 `She must not smash that bottle!!" `
 `"Okay, it's show time!!!" `
 `The bottle was slammed against the floor and smashed to pieces. `
-`As soon as the {çeviri-Kakera}Fragment within it touched the outside air, it flashed white and burst. `
+`As soon as the {ceviri}{Kakera}Fragment within it touched the outside air, it flashed white and burst. `
 `...At first, it seemed that nothing had happened. `
 `However, {f:5:Eva} grinned at them before becoming a cloud of butterflies and vanishing. `
 `At some point, Bernkastel must have vanished as well. `
 `"What did she do...?!" `
-`"...It was probably a {çeviri-Kakera}Fragment she brought back with her from the world of the future. `
+`"...It was probably a {ceviri}{Kakera}Fragment she brought back with her from the world of the future. `
 `...Perhaps we could call it the contents of the cat box in the future." `
 `"What does all this mean?! `
 `What?!" `
 `At that moment, they heard a thundering roar. `
 `It was as though large chunks of hail had started falling everywhere. `
-`An earthquake accompanied that noise, and the whole {çeviri-malikane}mansion creaked. `
+`An earthquake accompanied that noise, and the whole {ceviri}{malikane}mansion creaked. `
 `Dust began to fall from the ceiling. `
 `At the same time, it seemed as though the curtain-covered window glowed with a pale light. `
 `"Wh-What on earth is going on...?" `
@@ -250,24 +250,24 @@
 `"...Not all beauty is benign." `
 `"They always say that beauty has thorns nyeh." `
 `Though everyone found the scene beautiful, ...they all sensed impending misfortune from it. `
-`Outside the window, ...countless small objects--pale, glowing {çeviri-Kakera}Fragments of crystals--lay strewn about everywhere like fallen hail. `
+`Outside the window, ...countless small objects--pale, glowing {ceviri}{Kakera}Fragments of crystals--lay strewn about everywhere like fallen hail. `
 `The word "fantastical" perfectly summed up the scene that lay before them in the glowing rose garden... `
 `"...I saw something move over there...!" `
 `"H-Hey, is there someone over there?! `
 `Wait, huh...?!" `
-`"...A-A person...just grew out of that glowing {çeviri-Kakera}Fragment...!" `
+`"...A-A person...just grew out of that glowing {ceviri}{Kakera}Fragment...!" `
 `"Seven Sisters of Purgatory, battle formation!!" `
 `With those words of Lucifer's, everyone finally realized that they were being surrounded by "danger"... `
-`One by one, the countless {çeviri-Kakera}Fragments shook and burst, ...and large, dark bodies rose up from inside each. `
+`One by one, the countless {ceviri}{Kakera}Fragments shook and burst, ...and large, dark bodies rose up from inside each. `
 `They were...giants with goat heads. `
-`One after another, they appeared from the insides of broken {çeviri-Kakera}Fragments. `
-`Those {çeviri-Kakera}Fragments lay all over the rose garden in vast numbers and made the ground glow, ...so that everyone inside was forced to shudder. `
+`One after another, they appeared from the insides of broken {ceviri}{Kakera}Fragments. `
+`Those {ceviri}{Kakera}Fragments lay all over the rose garden in vast numbers and made the ground glow, ...so that everyone inside was forced to shudder. `
 `"45! Wide-area surveillance!" `
 `"...M-My radar's filled with white! `
 `We're either being jammed, o-or the vast number of readings is making a count of enemy numbers impossible!!" `
 `Even as she said this, the glowing rose garden outside the window was being filled with giant goats. `
-`The {çeviri-Kakera}Fragments carrying the goats weren't just in the rose garden. ...They were spread evenly across the entire island. `
-`...Not just the rose garden, ...but the entire area around the {çeviri-malikane}mansion was being covered with goats by now... `
+`The {ceviri}{Kakera}Fragments carrying the goats weren't just in the rose garden. ...They were spread evenly across the entire island. `
+`...Not just the rose garden, ...but the entire area around the {ceviri}{malikane}mansion was being covered with goats by now... `
 `"...Allow us to speak." `
 `"Know that we are completely surrounded." `
 `"Yeah, we noticed..." `
@@ -284,7 +284,7 @@
 `"Message bottles? `
 `The ones Beato made?" `
 `"Not quite. `
-`...These are {çeviri-Kakera}Fragments of what people in the future have imagined." `
+`...These are {ceviri}{Kakera}Fragments of what people in the future have imagined." `
 `"...Endless possibilities are hidden within the cat box. `
 `...Because of that, those outside the box can imagine the insides to be any one of an infinite number of things. `
 `...It would seem those endless delusions are the true form of these creatures." `
@@ -294,7 +294,7 @@
 `...Those lowlifes, making up and passing around stories, imagining the tragedies that might have unfolded around us on this island... `
 `...They found it so fascinating that I never talked about the truth...that they kept on creating tragedies one after another for their own enjoyment..." `
 `"I see. `
-`......So, they're {çeviri-Kakera}Fragments from the future, imagining the cat box of 1986 however they please..." `
+`......So, they're {ceviri}{Kakera}Fragments from the future, imagining the cat box of 1986 however they please..." `
 `"In the world of the future, any and all interpretations can and do {f:5:exist}. `
 `Unless we deny them, everyone will be able to claim that their own view is the truth, and they will remain on this {f:5:island}." `
 `"Ahhahahahahahaha! `
@@ -388,13 +388,13 @@
 `If the others were careful not to attract the goats' attention, they would be able to escape from this place... `
 `The Humans ran on ahead up to the second floor, while the Illusions, who were used to fighting, guarded the rear. `
 `The goats were completely absorbed by their feast on everything in the hall. `
-`...By now, they were even brutally chewing away at the {çeviri-portre}portrait of Beatrice, which could fairly be called the symbol of the Ushiromiya family itself... `
+`...By now, they were even brutally chewing away at the {ceviri}{portre}portrait of Beatrice, which could fairly be called the symbol of the Ushiromiya family itself... `
 `"Battler, the Humans have all taken refuge on the second floor...!" `
 `"Good. `
 `Dlanor, seal all the staircases." `
 `"Gertrude and Cornelia will handle {f:5:it}. `
 `However, they need more {f:5:time}." `
-`All over the {çeviri-malikane}mansion, there were loud beating sounds that might be called knocks and the sound of shattering glass. `
+`All over the {ceviri}{malikane}mansion, there were loud beating sounds that might be called knocks and the sound of shattering glass. `
 `"...Well now, ladies and gentlemen. `
 `It's time for work." `
 `"Seven Sisters of Purgatory, right here! `
@@ -412,7 +412,7 @@
 `...You have your own job to do. Protect your family." `
 `"...I-I understand. `
 `...Everyone, stay safe..." `
-`The {çeviri-malikane}mansion was filled with the sounds of knocking, crushing, smashing, and chewing. `
+`The {ceviri}{malikane}mansion was filled with the sounds of knocking, crushing, smashing, and chewing. `
 `The goats and their wave of destruction was drawing steadily closer... `
 `"...Lord {f:5:Battler}, `
 `Gertrude and Cornelia have finished sealing the other {f:5:staircases}. `
@@ -434,7 +434,7 @@
 `Doesn't want to steal our show." `
 `"Heheh. `
 `Sure, let's call it that." `
-`As a {çeviri-Gezgin}Voyager Witch, Lambdadelta could retreat from this game board of Battler's if she wanted to. `
+`As a {ceviri}{Gezgin}Voyager Witch, Lambdadelta could retreat from this game board of Battler's if she wanted to. `
 `In other words, she was the only one who wasn't in trouble now. `
 `"See you later. `
 `...I think I'll watch this game between you and Bern 'til the end. `
@@ -461,7 +461,7 @@
 `...It's a sea." `
 `It was no longer a crowd of goats, but an entire sea of them. `
 `Just as Rokkenjima poked out from the ocean... `
-`The {çeviri-malikane}mansion was now poking out from a sea of goats. `
+`The {ceviri}{malikane}mansion was now poking out from a sea of goats. `
 `"...People in the future really are amazing. `
 `...Just how many of them have imagined the tragedy on this island?" `
 `"It's nothing more than the worthless drivel of those outside the cat box...! `
@@ -476,12 +476,12 @@
 `"...Yeah, ...you're probably right. `
 `...They're eating it. `
 `...Eating the whole island..." `
-`"Come, try and remember, {çeviri-Kakera}Fragments from the future!! `
+`"Come, try and remember, {ceviri}{Kakera}Fragments from the future!! `
 `If only you'd just chew up all the embellishment, all the illusions, all the fantasy!" `
 `As {f:5:Eva} yelled this to the heavens, hovering about the raging sea, ...hail fell down with a pale glow. `
-`Each was an unlabelled bottle with a {çeviri-Kakera}Fragment inside. `
-`They poured onto the island, were smashed to bits, and the {çeviri-Kakera}Fragments inside them scattered everywhere. `
-`Every now and then, the {çeviri-Kakera}Fragments would split in two, then split in two again, `
+`Each was an unlabelled bottle with a {ceviri}{Kakera}Fragment inside. `
+`They poured onto the island, were smashed to bits, and the {ceviri}{Kakera}Fragments inside them scattered everywhere. `
+`Every now and then, the {ceviri}{Kakera}Fragments would split in two, then split in two again, `
 `and every single one of them burst and gave birth to a massive goat. `
 `To say it was like bamboo shoots springing up after the rain would be a vast understatement. `
 `The goats writhed about like bubbling, boiling water in a pot. `
@@ -507,17 +507,17 @@
 `...Hope this helps a bit when you're making strategic decisions." `
 `"Yeah, thanks. `
 `Now I feel like crap." `
-`"Then let's go to the {çeviri-çalışma odası}study next, if you don't mind. `
+`"Then let's go to the {ceviri}{çalışma odası}study next, if you don't mind. `
 `Goldsmith wants to talk to you." `
-`Gaap snapped her fingers, and another black hole swallowed them up and spat them out in the {çeviri-çalışma odası}study. `
+`Gaap snapped her fingers, and another black hole swallowed them up and spat them out in the {ceviri}{çalışma odası}study. `
 `"Owowowowow... `
 `Gaap, if you're gonna drop me, at least do it on a bed." `
 `"...Grandfather, we're in trouble! There's absolutely nowhere left to go...!" `
 `"I know. `
 `And even waiting out the storm from here is not an option." `
 `"Ronove and the others should be able to buy us some time, but that's all." `
-`If they just holed up in the {çeviri-malikane}mansion, it would only be a matter of time before the swarm of goats got them. `
-`Trying to repel a few of the goats barging into the {çeviri-malikane}mansion... `
+`If they just holed up in the {ceviri}{malikane}mansion, it would only be a matter of time before the swarm of goats got them. `
+`Trying to repel a few of the goats barging into the {ceviri}{malikane}mansion... `
 `would be like using a cup to bail water from a boat with a hole in it. `
 `"We can fight defensively for a while, but it's only a matter of time..." `
 `"We need to think of something while we fight. `
@@ -525,33 +525,33 @@
 `Where to?! `
 `Is there any way for us to leave the game board?!" `
 `"The outside of the game board is beyond the range of our territory. `
-`Only a {çeviri-Gezgin}Voyager Witch could leave." `
+`Only a {ceviri}{Gezgin}Voyager Witch could leave." `
 `Only Bernkastel and Lambdadelta could do it. `
 `However, there was no way Bernkastel would help. `
 `Even Lambdadelta had already announced that she would be an observer instead of lending a hand. `
 `"So, there's nowhere left to run." `
 `"No, there is just one place." `
 `"Where?!" `
-`"The {çeviri-Altın Diyar}Golden Land." `
+`"The {ceviri}{Altın Diyar}Golden Land." `
 `"I see... `
 `Is that our only option now...?!" `
 `"Indeed. `
-`The {çeviri-Altın Diyar}Golden Land is the most impenetrable place on this game board. `
+`The {ceviri}{Altın Diyar}Golden Land is the most impenetrable place on this game board. `
 `If we wish to escape, it's that or nothing." `
 `"These things are eating the cat box itself. `
-`For all we know, they might start chewing away at the {çeviri-Altın Diyar}Golden Land itself at any moment." `
+`For all we know, they might start chewing away at the {ceviri}{Altın Diyar}Golden Land itself at any moment." `
 `"...Nng, ...what should we do, Battler...?!" `
 `"No point thinking about it. `
 `We're retreating. `
 `...If we take too long to make a decision, even that road will be closed to us. `
-`Evacuate everyone. How can we open the door to the {çeviri-Altın Diyar}Golden Land?!" `
+`Evacuate everyone. How can we open the door to the {ceviri}{Altın Diyar}Golden Land?!" `
 `"I just have to open it. `
 `...However, an immense wave of the anti-magic toxin is emanating from that crowd of goats. `
 `It will take some time to open the door." `
-`"So, we've only got to protect this {çeviri-çalışma odası}study with our lives until the door's open. `
+`"So, we've only got to protect this {ceviri}{çalışma odası}study with our lives until the door's open. `
 `Just have to keep doing what we've been doing." `
 `"There's one more problem. `
-`...The door to the {çeviri-Altın Diyar}Golden Land cannot be shut unless two people close it from the outside." `
+`...The door to the {ceviri}{Altın Diyar}Golden Land cannot be shut unless two people close it from the outside." `
 `"Two from the outside...? `
 `What do you mean...?" `
 `As soon as he said this, Battler realized. `
@@ -565,10 +565,10 @@
 `If it's just the two of us, we might even be able to protect ourselves." `
 `"Okay, open the door...!" `
 `Beato waved her pipe, leaving a golden trail behind as she sliced the air vertically. `
-`Then, the gap of the door to the {çeviri-Altın Diyar}Golden Land appeared. `
+`Then, the gap of the door to the {ceviri}{Altın Diyar}Golden Land appeared. `
 `It looked like nothing more than a thin golden string hanging from the ceiling. `
 `If you looked closely, you could see that the string was getting thicker very slowly. `
-`The door to the {çeviri-Altın Diyar}Golden Land certainly was opening, but so slowly that you couldn't even tell if you weren't careful. `
+`The door to the {ceviri}{Altın Diyar}Golden Land certainly was opening, but so slowly that you couldn't even tell if you weren't careful. `
 `At this rate, it would probably take quite some time before it grew big enough to let a person through... `
 `"Grandfather, Gaap, we'll need you to be our inner line of defense!" `
 `"Yes, there may be goats climbing up the outer walls...!" `
@@ -579,9 +579,9 @@
 `A giant was sliced at an angle, split into two parts, ...and fell to the floor, showering it with filthy dark blood and guts. `
 `"Splendidly {f:5:done}." `
 `"...I'll let you take the next one." `
-`Countless massive goats, which had forced their way in from rooms and windows all across the {çeviri-malikane}mansion, wandered about in search of something to chew. `
+`Countless massive goats, which had forced their way in from rooms and windows all across the {ceviri}{malikane}mansion, wandered about in search of something to chew. `
 `Several of the goats noticed the group of people huddled around the staircase and lumbered closer, but they were pulverized by merciless attacks. `
-`Ronove's shields easily halted the charging goats, and Virgilia's {çeviri-büyü}magic spears were pinning the giants against the walls. `
+`Ronove's shields easily halted the charging goats, and Virgilia's {ceviri}{büyü}magic spears were pinning the giants against the walls. `
 `Dlanor's and Will's blades were also slicing easily through goats. `
 `The pinpoint strikes of the Seven Sisters of Purgatory could pierce the vitals of and finish off any opponent, no matter how large. `
 `The Chiester Sisters were holding their own too. `
@@ -637,9 +637,9 @@
 `"...All of the crimes can be explained by mystery... `
 `All fantasy is irrelevant..." `
 `"Looks like-" `
-`"We've got lots of people who won't accept the existence of {çeviri-büyü}magic!" `
+`"We've got lots of people who won't accept the existence of {ceviri}{büyü}magic!" `
 `"And that means?!" `
-`"No {çeviri-büyülü}magical attacks will have any effect on them!" `
+`"No {ceviri}{büyülü}magical attacks will have any effect on them!" `
 `"D-Does that mean all of our attacks will be completely useless?!" `
 `"...Endless Nine nyeh. `
 `...If they don't accept that we exist, our attacks can't hurt them nyeh." `
@@ -647,14 +647,14 @@
 `"We'll have to test it." `
 `Ronove stepped forward, stamped on the floor twice, and a red barrier rose up in front of him. `
 `The crowd of goats dashed into it with a terrifying force. `
-`While some goats were blown away by it, several of them slipped right through the {çeviri-büyülü}magical barrier. `
-`"...Ronove is a creature of {çeviri-büyü}magic, a creature of fiction..." `
+`While some goats were blown away by it, several of them slipped right through the {ceviri}{büyülü}magical barrier. `
+`"...Ronove is a creature of {ceviri}{büyü}magic, a creature of fiction..." `
 `"...Genji is Ronove's vessel... `
 `He's an imaginary version of Genji..." `
 `"I see, ...so even my attacks will not affect some of them." `
-`There was no longer any point in Virgilia trying out her {çeviri-büyü}magic spear. `
+`There was no longer any point in Virgilia trying out her {ceviri}{büyü}magic spear. `
 `Now that some of the goats had decided that her existence was fictional, she could no longer hurt them. `
-`...Even these {çeviri-yüce iblis}great demons and great witches, ...as well as high-level {çeviri-mobilya}furniture and weapons, `
+`...Even these {ceviri}{yüce iblis}great demons and great witches, ...as well as high-level {ceviri}{mobilya}furniture and weapons, `
 `...were overcome with fear of the crowd that surrounded them, a crowd that would not be affected by any of their attacks... `
 `"...Wh-What are we going to do...?!" `
 `"...W-We'll keep fighting until the end. `
@@ -671,7 +671,7 @@
 `Ronove threw himself at the oncoming goats. `
 `Even he would be chewed apart easily. `
 `Knowing this, Ronove leapt forward. `
-`"...Even if my {çeviri-büyü}magic no longer functions, `
+`"...Even if my {ceviri}{büyü}magic no longer functions, `
 `...I am still the fiercely passionate and loyal man I always was. `
 `...And furthermore, did you expect that I would simply sit by and watch a lady die?" `
 `"...Ronove is fantasy... Ronove is fantasy..." `
@@ -739,10 +739,10 @@
 `...There's no need for us to play {f:5:defense}." `
 `"Do you get it yet?" `
 `{a:c:You're the ones in the hot seat now.} `
-`{çeviri-Mavi gerçek}Blue truth cut the goats apart. `
-`That {çeviri-mavi gerçek}blue truth dwelt within each and every one of the riddles from Beato's games so far. `
+`{ceviri}{Mavi gerçek}Blue truth cut the goats apart. `
+`That {ceviri}{mavi gerçek}blue truth dwelt within each and every one of the riddles from Beato's games so far. `
 `What about the closed room with the chain, first game, second twilight? `
-`What about the closed room of the {çeviri-kilise}chapel, second game, first twilight? `
+`What about the closed room of the {ceviri}{kilise}chapel, second game, first twilight? `
 `What about the trick to killing Nanjo, third game, ninth twilight? `
 `There was no end to the blades. `
 `The countless riddles Beatrice had left behind became blades, "challenges" that tore the goats apart. `
@@ -751,10 +751,10 @@
 `However, while most of the goats called themselves anti-fantasy, they hadn't thought up any answers for the mystery. `
 `Though, every now and then, goats with answers did appear. `
 `"...S-Someone outside the Ushiromiya family was hiding on the island, and..." `
-`"Knox's 1st, it is forbidden for the {çeviri-suçlu}culprit to be anyone not mentioned in the early part of the {f:5:story}!!" `
-`"...There were multiple {çeviri-suçlu}culprits all working separately, and it just happened to look like a single {çeviri-suçlu}culprit..." `
+`"Knox's 1st, it is forbidden for the {ceviri}{suçlu}culprit to be anyone not mentioned in the early part of the {f:5:story}!!" `
+`"...There were multiple {ceviri}{suçlu}culprits all working separately, and it just happened to look like a single {ceviri}{suçlu}culprit..." `
 `"Van Dine's 12th. `
-`There must be but one true {çeviri-suçlu}culprit." `
+`There must be but one true {ceviri}{suçlu}culprit." `
 `"...Y-You mean...everything but that is...f-forbidden...?!" `
 `"Boring, right? To have a genre like that. `
 `Personally, I think `
@@ -898,7 +898,7 @@
 `"That just makes you another target nyeh...!" `
 `"It's the same as acknowledging that we exist..." `
 `"Begin recognition of hostile elements...!! `
-`Mark all targets vulnerable to {çeviri-büyülü}magical attacks in our HMDs!!" `
+`Mark all targets vulnerable to {ceviri}{büyülü}magical attacks in our HMDs!!" `
 `"Kids who surrender to fantasy get to deal with us!!" `
 `"...And if you have a theory, we will hear it {f:5:out}." `
 `"We'll welcome those people with open arms. `
@@ -906,10 +906,10 @@
 `"Oh, but it would seem that this is {f:5:Battler}-sama's time to shine." `
 `"......While I'd like to listen to all your favorite theories, both mystery and fantasy, `
 `...this isn't your game right now. `
-`...No matter how much you future {çeviri-Kakera}Fragments try to deny us, this is no time for me to be defeated..." `
+`...No matter how much you future {ceviri}{Kakera}Fragments try to deny us, this is no time for me to be defeated..." `
 `A golden glint gathered in Battler's hand. `
 `It was so bright that the whole hall was bathed in gold. `
-`Golden butterflies flitted about, as though the whole room was being swallowed up by the {çeviri-Altın Diyar}Golden Land. `
+`Golden butterflies flitted about, as though the whole room was being swallowed up by the {ceviri}{Altın Diyar}Golden Land. `
 `Battler lifted...his golden longsword high. `
 `"......Feel free to challenge Beato's game as a mystery or a fantasy. `
 `I welcome it. `
@@ -939,7 +939,7 @@
 `I'm counting on all of you...!! `
 `We'll definitely protect this final game I made for Ange!!" `
 `"They're managing to hold their ground down below!" `
-`"The door to the {çeviri-Altın Diyar}Golden Land continues to open slowly. `
+`"The door to the {ceviri}{Altın Diyar}Golden Land continues to open slowly. `
 `It will still take some time though." `
 `"That's right. `
 `We'd better start buying some time ourselves...!" `
@@ -948,24 +948,24 @@
 `The horizon was gone, ...and the chewed-up island was now floating on an eerie emptiness like space. `
 `The goats that flooded the edges of Rokkenjima seemed to be spilling off the sides. `
 `"Looks like that's it for this game board..." `
-`"As long as there's a {çeviri-Oyun Yöneticisi}Game Master and pieces, `
+`"As long as there's a {ceviri}{Oyun Yöneticisi}Game Master and pieces, `
 `the game board can always be laid out again. `
 `As long as you have two people together, you can create any sort of game." `
 `"...True. ......Where on earth is Ange...?" `
 `"Where did you hide "that"?" `
-`"That's right, ...the {çeviri-kilise}chapel...! `
-`What's happened to the {çeviri-kilise}chapel?!" `
+`"That's right, ...the {ceviri}{kilise}chapel...! `
+`What's happened to the {ceviri}{kilise}chapel?!" `
 `"It's still there...!" `
-`The {çeviri-kilise}chapel looked like a white building floating in the pitch-black sea of goats. `
+`The {ceviri}{kilise}chapel looked like a white building floating in the pitch-black sea of goats. `
 `...Yes. `
 `This was strange. `
-`There was no way those goats, who consumed everything, would go out of their way to avoid just the {çeviri-kilise}chapel. `
+`There was no way those goats, who consumed everything, would go out of their way to avoid just the {ceviri}{kilise}chapel. `
 `"That's where Ange is...!" `
-`Outside the {çeviri-kilise}chapel was a sea of goats. `
-`Very soon, the earth around the {çeviri-kilise}chapel would be eaten away, and it would probably end up floating on nothingness. `
+`Outside the {ceviri}{kilise}chapel was a sea of goats. `
+`Very soon, the earth around the {ceviri}{kilise}chapel would be eaten away, and it would probably end up floating on nothingness. `
 `The rampage of the goats, as they devoured everything and recited the tragedies they had imagined, was truly making a lot of noise. `
-`However, none of that reached inside the {çeviri-kilise}chapel. `
-`Ange finally broke the {çeviri-büyü}magic seal on the entrance and stepped inside... `
+`However, none of that reached inside the {ceviri}{kilise}chapel. `
+`Ange finally broke the {ceviri}{büyü}magic seal on the entrance and stepped inside... `
 `The seal was supposed to be unbreakable by anyone. `
 `However, in the face of {f:5:Ange} Beatrice, Witch of Truth, the one who sought the truth and could sweep aside all forces that prevented her from finding it, `
 `no barrier was absolute... `
@@ -978,15 +978,15 @@
 `This time, I have the key. `
 `I gripped the gold key that sat in my pocket, ...the key Onii-chan gave me. `
 `As I approached the altar, I saw that the Book of the Single Truth was wrapped in a strange bending of the light. `
-`"...So, this is that "Seal of the {çeviri-Oyun Yöneticisi}Game Master" that Bernkastel talked about." `
+`"...So, this is that "Seal of the {ceviri}{Oyun Yöneticisi}Game Master" that Bernkastel talked about." `
 `The Book of the Single Truth was sealed in something like a crystal. `
-`It was a seal made by the {çeviri-Oyun Yöneticisi}Game Master's authority. `
-`This was on a different level than the breakable {çeviri-büyü}magic seal on the {çeviri-kilise}chapel door. `
-`No matter how Ange used her power as a Witch of Truth, this couldn't be broken by anyone except the {çeviri-Oyun Yöneticisi}Game Master. `
-`...However, this time, Battler wasn't the only {çeviri-Oyun Yöneticisi}Game Master. `
+`It was a seal made by the {ceviri}{Oyun Yöneticisi}Game Master's authority. `
+`This was on a different level than the breakable {ceviri}{büyü}magic seal on the {ceviri}{kilise}chapel door. `
+`No matter how Ange used her power as a Witch of Truth, this couldn't be broken by anyone except the {ceviri}{Oyun Yöneticisi}Game Master. `
+`...However, this time, Battler wasn't the only {ceviri}{Oyun Yöneticisi}Game Master. `
 `"Hmph. `
 `...So sorry, Onii-chan. `
-`Bernkastel is a {çeviri-Oyun Yöneticisi}Game Master too. `
+`Bernkastel is a {ceviri}{Oyun Yöneticisi}Game Master too. `
 `...I just need to take this to her and have her break the seal." `
 `Ange slowly approached the altar... `
 `"...Will Ange really do as you say?" `
@@ -1008,7 +1008,7 @@
 `...Looks like our final guest has finally arrived." `
 `"You don't mean..." `
 `"Go, and take care of Ange...!" `
-`Beato left Battler to handle this on his own and headed for the {çeviri-kilise}chapel. `
+`Beato left Battler to handle this on his own and headed for the {ceviri}{kilise}chapel. `
 `Battler took a deep breath, then smiled daringly... `
 `"...I've been waiting for you. `
 `...Was it boring in that depths of oblivion place?" `
@@ -1054,13 +1054,13 @@
 `"<Good>!! `
 `{p:2:Ushiromiya Battler committed suicide, he died in an accident, he was killed by an illness!!} `
 `Time for me to test your closed room!" `
-`"{çeviri-Kırmızı gerçek}red truth!! `
+`"{ceviri}{Kırmızı gerçek}red truth!! `
 `{p:1:Ushiromiya Battler was stabbed to death!! `
 `Let's say the weapon was a knife, stuck right into his back!!}" `
 `"<Good>!! `
 `Nothing beats a classic closed room!!" `
 `"Then why don't you try it too?!" `
-`"I'll take that challenge with the {çeviri-kırmızı gerçek}red truth!! `
+`"I'll take that challenge with the {ceviri}{kırmızı gerçek}red truth!! `
 `{p:1:Furudo Erika was stabbed to death! `
 `The weapon was a knife, stuck right in her back!!}" `
 `"Interesting!! `
@@ -1068,8 +1068,8 @@
 `"...What's this supposed to be?" `
 `"Battler is busy at the moment. `
 `For now, I shall be your opponent." `
-`Beato had sealed the {çeviri-kilise}chapel with a closed room barrier. `
-`Unless that riddle was smashed with {çeviri-mavi gerçek}blue truth, Ange wouldn't be able to leave. `
+`Beato had sealed the {ceviri}{kilise}chapel with a closed room barrier. `
+`Unless that riddle was smashed with {ceviri}{mavi gerçek}blue truth, Ange wouldn't be able to leave. `
 `After shrugging impatiently, Ange finally faced Beato. `
 `"This might be the first time I've fought you directly..." `
 `"Oh, is it now...? `

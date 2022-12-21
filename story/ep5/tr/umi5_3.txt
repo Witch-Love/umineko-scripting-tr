@@ -9,7 +9,7 @@
 `Heh, shut up! Ahhahahahahahaha! `
 `So, that means you'll be coming to this year's family conference, right? `
 `I mean, it's been six whole years!" `
-`Five businessmen in expensive suits were visiting in the {çeviri-salon}parlor, `
+`Five businessmen in expensive suits were visiting in the {ceviri}{salon}parlor, `
 `giving Krauss and Natsuhi a progress report on their business. `
 `Spread out on the table were the blueprints and designs for a building, as well as documents related to expenditures and the like, `
 `...so packed that even a tea cup would have gotten in the way. `
@@ -65,13 +65,13 @@
 `"...My apologies, Father. `
 `...For one more year, ...you might not be granted peace." `
 `"It is fine. Fear not, Natsuhi. `
-`I am no longer the Ushiromiya {çeviri-Aile Reisi}Family Head. `
-`The ghost of the {çeviri-çalışma odası}study should obediently follow the current Head's commands. `
+`I am no longer the Ushiromiya {ceviri}{Aile Reisi}Family Head. `
+`The ghost of the {ceviri}{çalışma odası}study should obediently follow the current Head's commands. `
 `...I've taken a look at Krauss's charts, and they aren't bad at all." `
 `"Even from your perspective, Father?" `
 `"...Hmmm. They're pretty good even from my perspective. `
-`Everyone is confident in victory, gathering together a significant quantity of {çeviri-büyülü}magical power. `
-`As a result, that victory is growing ever deeper, involving more and more people and {çeviri-büyü}magic, beginning to create gold. `
+`Everyone is confident in victory, gathering together a significant quantity of {ceviri}{büyülü}magical power. `
+`As a result, that victory is growing ever deeper, involving more and more people and {ceviri}{büyü}magic, beginning to create gold. `
 `A perfect embodiment of classic alchemy." `
 `"Hoh. `
 `If you've earned even the Golden Witch's approval, that is very reassuring. `
@@ -88,16 +88,16 @@
 `you were correct to predict that the same thing might have to happen again." `
 `"...Even for those who aren't witches, preparing for the worst-case scenario is one of the basics for getting on in this world. `
 `...So, what will you do this year?" `
-`"Just like last year, I will see to it that a high concentration of the {çeviri-hizmetkar}servants who know Father's secret are there on the day of the conference. `
+`"Just like last year, I will see to it that a high concentration of the {ceviri}{hizmetkar}servants who know Father's secret are there on the day of the conference. `
 `...Some of the relatives may already have noticed that Father isn't around. `
 `A careless show might actually put us in more danger of exposure." `
 `"Indeed. `
 `It is said that too much is as bad as too little. `
 `...Then what will you do?" `
-`"Unlike last year, I think we'll go with a plan that has you staying inside your {çeviri-çalışma odası}study until the end." `
+`"Unlike last year, I think we'll go with a plan that has you staying inside your {ceviri}{çalışma odası}study until the end." `
 `"That would be suitable. `
 `Barricades are straightforward and simple, a final trump card." `
-`"No matter how strongly the toxin fills this {çeviri-malikane}mansion, `
+`"No matter how strongly the toxin fills this {ceviri}{malikane}mansion, `
 `as long as the closed room barrier remains around this room, it will be impossible to deny Kinzo's existence. `
 `I guarantee that myself. `
 `...However, when forming a barricade, it is inevitable that you will be surrounded." `
@@ -113,15 +113,15 @@
 `You are the family alchemist. `
 `So, I won't ask you to help. `
 `I order you to help. `
-`...Your {çeviri-büyü}magic is the one thing we can rely on. `
+`...Your {ceviri}{büyü}magic is the one thing we can rely on. `
 `Use that power to create an illusion of Father just one more time." `
 `"Very well. `
 `I hear and obey. `
 `I find your confidence quite pleasing." `
-`From the shadows of the {çeviri-çalışma odası}study, Battler watched the exchange between these three... `
+`From the shadows of the {ceviri}{çalışma odası}study, Battler watched the exchange between these three... `
 `"...I see. `
 `So we've made it to this year's family conference. `
-`...Grandfather was in a bad mood, so he shut himself in his {çeviri-çalışma odası}study and didn't appear in front of anyone." `
+`...Grandfather was in a bad mood, so he shut himself in his {ceviri}{çalışma odası}study and didn't appear in front of anyone." `
 `"....................." `
 `Natsuhi spoke boldly about how she would somehow overcome this year's crisis and protect the Ushiromiya family's honor until the end, `
 `while Kinzo praised her, saying that her plan looked promising. `
@@ -201,7 +201,7 @@
 `"............Nn..." `
 `Beato looked up at me again...and gave a small nod. `
 `...That's right. `
-`The position of {çeviri-Oyun Yöneticisi}Game Master might have been snatched up by Lambdadelta. `
+`The position of {ceviri}{Oyun Yöneticisi}Game Master might have been snatched up by Lambdadelta. `
 `However, ...as long as I continue this contest with the intent of fighting against Beato, `
 `...our fight will continue no matter who controls the game board. `
 `...Very soon, the curtain will rise on our game... `
@@ -210,11 +210,11 @@
 `...I understand." `
 `"......I'm a little doubtful that the same trick will work twice." `
 `"Madam shares your concerns. `
-`Because of that, it was decided that this year, he will not leave the {çeviri-çalışma odası}study even once." `
-`"In other words, we'll make it seem like he's been shut away in his {çeviri-çalışma odası}study the whole time...?" `
+`Because of that, it was decided that this year, he will not leave the {ceviri}{çalışma odası}study even once." `
+`"In other words, we'll make it seem like he's been shut away in his {ceviri}{çalışma odası}study the whole time...?" `
 `"...Yes. `
-`And the only ones allowed to enter the {çeviri-çalışma odası}study... `
-`are the three of us, the {çeviri-hizmetkar}servants permitted to wear the One-Winged Eagle." `
+`And the only ones allowed to enter the {ceviri}{çalışma odası}study... `
+`are the three of us, the {ceviri}{hizmetkar}servants permitted to wear the One-Winged Eagle." `
 `"......Which means the three of us will have to perpetuate the lie about the Master..." `
 `"Correct. `
 `...The relatives will probably question you about the Master's health and mood. `
@@ -240,7 +240,7 @@
 `"...Shannon. Kanon. `
 `...The Master we serve has already passed away. `
 `However, until he has truly passed on, we will continue to serve. `
-`...That {çeviri-çalışma odası}study is not empty. `
+`...That {ceviri}{çalışma odası}study is not empty. `
 `The Master is still there, hard at work on his usual research. `
 `Make sure you take that to heart." `
 `""Yes, Genji-sama."" `
@@ -267,7 +267,7 @@
 `I've felt as though somethin' was strange." `
 `"You mean the time when Rudolf and I were talking about the inheritance and Father overheard us from the hall-" `
 `"That's just it. `
-`...Natsuhi-san and the {çeviri-hizmetkar}servants kept saying Father was here or there and that he seemed to be in a bad mood, `
+`...Natsuhi-san and the {ceviri}{hizmetkar}servants kept saying Father was here or there and that he seemed to be in a bad mood, `
 `but not a single one of us relatives saw Father, right?" `
 `"If what you're thinking is right, `
 `...what does that mean?! `
@@ -542,7 +542,7 @@
 `"......You refuse to repeat it?" `
 `"Well now... `
 `Should I refuse, or should I respond... `
-`As the {çeviri-Oyun Yöneticisi}Game Master, that's up to me to decide, and I get to make that decision any time I want." `
+`As the {ceviri}{Oyun Yöneticisi}Game Master, that's up to me to decide, and I get to make that decision any time I want." `
 `"......Unless I state it in blue, you aren't obligated to respond." `
 `"That's it! `
 `*giggle*giggle* `
@@ -553,7 +553,7 @@
 `happened before October 4th, 1986. `
 `This is still before the start time of the game. `
 `So, there's basically no need to question whether it's true or false. `
-`"......Since you, the {çeviri-Oyun Yöneticisi}Game Master, went out of your way to show me this, I'll take it as a preparatory move for something else. `
+`"......Since you, the {ceviri}{Oyun Yöneticisi}Game Master, went out of your way to show me this, I'll take it as a preparatory move for something else. `
 `...It might be a trick, but I'll at least keep this move of yours in my memory." `
 `"Ehheheheheheheheheheheheheheh...... `
 `So, you'll leave without turning the card over. `

@@ -33,7 +33,7 @@
 `"......... `
 `......Why are you worried about something like that? `
 `You are Beatrice. `
-`The Master of this {çeviri-malikane}mansion, is that not so? `
+`The Master of this {ceviri}{malikane}mansion, is that not so? `
 `...What more could you want to know?" `
 `"......I do not know." `
 `"What's this? `
@@ -73,11 +73,11 @@
 `everyone's captured by those philosophical worries at least once, wondering what meaning there is in their life. `
 `Doesn't this just prove you had a charming period like that at one point?" `
 `"......... `
-`...I'd been in that {çeviri-malikane}mansion since the time of my birth. `
-`And I lived only inside the {çeviri-malikane}mansion. `
-`Of course, I went out into the garden, but the area around the {çeviri-malikane}mansion was surrounded by a very tall fence. I was unable to leave through it, `
+`...I'd been in that {ceviri}{malikane}mansion since the time of my birth. `
+`And I lived only inside the {ceviri}{malikane}mansion. `
+`Of course, I went out into the garden, but the area around the {ceviri}{malikane}mansion was surrounded by a very tall fence. I was unable to leave through it, `
 `and I was told severely that I mustn't leave." `
-`"...I could walk freely throughout the {çeviri-malikane}mansion and the garden, `
+`"...I could walk freely throughout the {ceviri}{malikane}mansion and the garden, `
 `but outside of that, not once was my desire to take just one step outside of my own accord granted." `
 `"......What do you mean by that? `
 `...Are you trying to say that, as far back as you can remember, you were always a bird in a cage?" `
@@ -103,7 +103,7 @@
 `...and by that hidden art, I was bound as his prisoner for eternity." `
 `"......Never heard that before. `
 `From what we hear in the Ushiromiya family, you were summoned by Grandfather, `
-`made something like a {çeviri-şeytan sözleşmesi}devil's contract with him, and gave him the gold." `
+`made something like a {ceviri}{şeytan sözleşmesi}devil's contract with him, and gave him the gold." `
 `"Indeed. `
 `That is correct. `
 `...Then, I was supposed to vanish until the contract was complete. `
@@ -124,13 +124,13 @@
 `...Heh, ridiculous. `
 `Who'd believe such a weird story?" `
 `"...As I thought, you don't believe." `
-`"All I believe is the fact that you lived in this hidden {çeviri-malikane}mansion in the middle of the forest. `
+`"All I believe is the fact that you lived in this hidden {ceviri}{malikane}mansion in the middle of the forest. `
 `You are the 19th person on Rokkenjima, right?!" `
 `"...Indeed. `
 `Just as you imagine, this is deep within the forest of Rokkenjima. `
-`A hidden {çeviri-malikane}mansion not to be found from the outside world. `
+`A hidden {ceviri}{malikane}mansion not to be found from the outside world. `
 `Its name is Kuwadorian (Nine Birds' Retreat)." `
-`"...Come to think of it, I heard the {çeviri-konukevi}guesthouse's real name was Toraian (Visitor's Retreat). `
+`"...Come to think of it, I heard the {ceviri}{konukevi}guesthouse's real name was Toraian (Visitor's Retreat). `
 `...I see, the naming sense is similar. `
 `...So, you were Grandfather's mistress, who lived here in secret. `
 `Isn't that right?!" `
@@ -139,12 +139,12 @@
 `I spoke of it just now, correct? `
 `He fell in love with me of his own accord. `
 `He then courted me, but I rejected him." `
-`"...Then, I was shut up in this hidden {çeviri-malikane}mansion. `
+`"...Then, I was shut up in this hidden {ceviri}{malikane}mansion. `
 `......No, that's not quite right. `
 `...It would be more correct to say that I was shut up in this body." `
 `"......I've got no idea what you said at the end there." `
 `"You will just make fun of it and refuse to listen, right? `
-`After all, you say you don't believe in witches or {çeviri-büyü}magic. `
+`After all, you say you don't believe in witches or {ceviri}{büyü}magic. `
 `If you have no ears to hear what I tell you, `
 `saying it would be the pinnacle of foolishness." `
 `"............ `
@@ -155,7 +155,7 @@
 `"Very well. `
 `......I refused Kinzo when he courted me, but he was not a man to lose heart at something like that. `
 `He wanted to make me nod my head in agreement no matter what. `
-`He shut me up in this {çeviri-malikane}mansion and spent an eternity trying to win my heart." `
+`He shut me up in this {ceviri}{malikane}mansion and spent an eternity trying to win my heart." `
 `"...Talk about overbearing. `
 `Guess no one likes obstinate men, huh?" `
 `"......*cackle*cackle* `
@@ -167,7 +167,7 @@
 `"...And then?" `
 `"After trying to resist in various ways, `
 `I eventually reached the conclusion that, to escape from Kinzo's barrier, I would have to throw away this body of flesh. `
-`...The physical body is a vessel with many restrictions for a {çeviri-büyü}magic user." `
+`...The physical body is a vessel with many restrictions for a {ceviri}{büyü}magic user." `
 `"Throw away your body of flesh...? `
 `What does that mean? `
 `Something like an out-of-body experience?" `
@@ -197,7 +197,7 @@
 `"...That's right. `
 `That is the new cage I was given by Kinzo." `
 `"......Cage? `
-`You mean this {çeviri-malikane}mansion?" `
+`You mean this {ceviri}{malikane}mansion?" `
 `"No. `
 `I mean my body, relaxing in the garden chair over there. `
 `......Even though I was so desperate to escape that I became naught but a soul, `
@@ -212,13 +212,13 @@
 `...Human emotions are terrifying. `
 `To think he would be able to exhibit such power... `
 `Tying down a dead soul... `
-`is not something that can be accomplished easily, not even for a {çeviri-büyücü}magician who specializes in such matters. `
-`Because I knew this, Kinzo's fearful {çeviri-büyülü}magical power shocked me for the first time." `
+`is not something that can be accomplished easily, not even for a {ceviri}{büyücü}magician who specializes in such matters. `
+`Because I knew this, Kinzo's fearful {ceviri}{büyülü}magical power shocked me for the first time." `
 `"......Then, Kinzo seized my soul and brought me back. `
 `However, a cage to hold a seized soul cannot be made from iron or lead. `
 `...Only one thing remained." `
 `"......What? `
-`You aren't gonna say it was a {çeviri-büyülü}magical cage or something, are you?" `
+`You aren't gonna say it was a {ceviri}{büyülü}magical cage or something, are you?" `
 `"Wrong. `
 `It's that body of flesh over there, just like yours or mine. `
 `...Only a cage made of flesh and blood can tie a soul down to this world. `
@@ -236,7 +236,7 @@
 `That isn't even possible, right?!" `
 `"Kinzo accomplished even the miracle of creating life. `
 `And simply to shut my soul up in that cage. `
-`...That he would show such {çeviri-büyülü}magical power simply because of his own love... `
+`...That he would show such {ceviri}{büyülü}magical power simply because of his own love... `
 `A thoroughly terrifying person." `
 `"Aah, it's already gotten pretty ridiculous! `
 `Say whatever you want. `
@@ -269,15 +269,15 @@
 `After I made fun of her, Beato reacted a little sensitively. `
 `It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by others. `
 `Just then, my black tea cup suddenly made a sound, surprising me. `
-`"...{çeviri-Leydim}Milady's soul was seized and breathed into a cage of new life. `
-`In other words, {çeviri-Leydim}Milady received life as a human once more." `
-`Before I realized it, the demon {çeviri-uşak}butler had taken my cup and was adding more black tea to it. `
+`"...{ceviri}{Leydim}Milady's soul was seized and breathed into a cage of new life. `
+`In other words, {ceviri}{Leydim}Milady received life as a human once more." `
+`Before I realized it, the demon {ceviri}{uşak}butler had taken my cup and was adding more black tea to it. `
 `"Ronove, `
 `enough of that. `
 `This person just said it was too ridiculous to be worth listening to. `
 `Well, he's too ridiculous to be worth talking to." `
 `"I'm baking some new cookies right now. `
-`Until they're ready, I thought you might find the story of {çeviri-Leydim}Milady's past to be a perfect substitute for a snack. `
+`Until they're ready, I thought you might find the story of {ceviri}{Leydim}Milady's past to be a perfect substitute for a snack. `
 `Pu ku ku...!" `
 `"...D-Didn't I say that's enough talking about me?! `
 `Such unpleasant people, the lot of you. `
@@ -306,30 +306,30 @@
 `It's that thing, right? `
 `A manufactured human created with alchemy or something?" `
 `"Yes. `
-`{çeviri-Leydim}Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby. `
+`{ceviri}{Leydim}Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby. `
 `...However, because she was a baby, `
 `any professions of love on Kinzo's part would have been quite useless." `
 `"......... `
 `......You aren't saying... `
-`...that Grandfather shut that baby up in this hidden {çeviri-malikane}mansion... `
+`...that Grandfather shut that baby up in this hidden {ceviri}{malikane}mansion... `
 `until it grew to reach the same age she'd been?!" `
 `"Correct. `
 `That is what I am saying. `
 `However, while her soul was the same, a human spirit is strongly influenced by its container. `
-`{çeviri-Leydim}Milady lost all her memories of the past and grew up as a very normal human girl." `
+`{ceviri}{Leydim}Milady lost all her memories of the past and grew up as a very normal human girl." `
 `"And you're saying...that's the Beato sitting in the garden chair?" `
 `"Yes. `
 `That is correct. `
 `It grew to be completely identical. `
 `However, it did not possess her power as a witch. `
-`...{çeviri-Leydim}Milady was completely human." `
+`...{ceviri}{Leydim}Milady was completely human." `
 `"............" `
 `Beato, who was sitting in the garden chair, looking up at the sky, voiced that same question again. `
 `She asked who she was. `
 `...The meaning of those words was finally starting to click. `
 `She couldn't understand why she was living here, all locked up. `
 `Grandfather had seized Beatrice's soul, shut it up in a body of flesh, `
-`and then shut that up in a hidden {çeviri-malikane}mansion. `
+`and then shut that up in a hidden {ceviri}{malikane}mansion. `
 `However, since she had lived here since the time of her birth, she couldn't even understand who she was, `
 `or why she lived shut up in there... `
 `...W-Wait, wait. `
@@ -338,7 +338,7 @@
 `...In other words, couldn't it be something like this? `
 `Grandfather met Beatrice. `
 `He then fell in love with her and courted her, but she didn't accept him. `
-`Then, he flew into a rage and shut her up inside this hidden {çeviri-malikane}mansion. `
+`Then, he flew into a rage and shut her up inside this hidden {ceviri}{malikane}mansion. `
 `Beatrice tried to escape, but no matter what she did, she couldn't succeed, `
 `...so she finally chose her own death. `
 `...And then, ......no. `
@@ -354,17 +354,17 @@
 `This might be some bullshit Beato cooked up to confuse me. `
 `As if I could accept any of this...! `
 `In the first place...Kuwadorian, was it? `
-`There's no proof whatsoever that a hidden {çeviri-malikane}mansion actually existed. `
+`There's no proof whatsoever that a hidden {ceviri}{malikane}mansion actually existed. `
 `Couldn't this be something she just fabricated on the spot? `
 `" `
-`{p:1:A hidden {çeviri-malikane}mansion called Kuwadorian does exist in the forest of Rokkenjima}. `
+`{p:1:A hidden {ceviri}{malikane}mansion called Kuwadorian does exist in the forest of Rokkenjima}. `
 `That is the place we were just talking about." `
 `"......Huh? `
 `R-Red?!" `
 `Ronove used the red to say that Kuwadorian actually existed. `
 `...Did that mean the same thing as the red Beato used? `
 `"I may not look it, but I am a demon. `
-`...Please keep this a secret from {çeviri-Leydim}Milady, yes?" `
+`...Please keep this a secret from {ceviri}{Leydim}Milady, yes?" `
 `"...S-Sure!" `
 `Beato, who knew I would try to trip her up, had grown extremely cautious when using red. `
 `To think that Ronove could also use the red... `
@@ -379,7 +379,7 @@
 `"Th‐thanks a lot. `
 `I'll ask for some more red. `
 `You said she was born from a homunculus, `
-`but does that kind of unscientific, {çeviri-büyülü}magical thing actually exist?!" `
+`but does that kind of unscientific, {ceviri}{büyülü}magical thing actually exist?!" `
 `"I am unable to answer that question. `
 `After all, doing so would cause a stalemate." `
 `"...A stalemate?? `
@@ -389,10 +389,10 @@
 `This would be the opposite of an endless repetition of moves, `
 `because all moves would disappear, and it would bring about a kind of deadlock. `
 `In chess, this would lead to a draw, just as a perpetual check would. `
-`...However, there can be no draws in the game between you and {çeviri-Leydim}Milady. `
+`...However, there can be no draws in the game between you and {ceviri}{Leydim}Milady. `
 `Therefore, I am unable to answer a question that would bring about a stalemate." `
 `"......You obviously want to confuse me by saying incomprehensible stuff, `
-`but simply put, you're trying to dodge the question, because you can't use the red to say that something {çeviri-büyülü}magical like a homunculus exists, right?" `
+`but simply put, you're trying to dodge the question, because you can't use the red to say that something {ceviri}{büyülü}magical like a homunculus exists, right?" `
 `"If I were to say in red that "a witch exists", what would you do, Battler-sama?" `
 `"......Mu. `
 `...Whether or not I believe that is what our whole fight's about, right? `
@@ -404,9 +404,9 @@
 `"In this situation, `
 `even though you wouldn't be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock. `
 `Even though checkmate would not have been reached, there would be no existing moves left." `
-`"Since you would not be able to play your next hand, it would never become {çeviri-Leydim}Milady's turn, `
+`"Since you would not be able to play your next hand, it would never become {ceviri}{Leydim}Milady's turn, `
 `and the game would stop there for all eternity. `
-`As a result, {çeviri-Leydim}Milady would be unable to force you to submit. `
+`As a result, {ceviri}{Leydim}Milady would be unable to force you to submit. `
 `...That would be a deadlock situation. `
 `In order to avoid that, `
 `I am unable to answer questions of this nature in red." `
@@ -417,8 +417,8 @@
 `I believe we might be able to work together if you ask your questions in a different form." `
 `"...Can you help me with that line Beatrice dodged when I told her to repeat it? `
 `About the number of people on this island?" `
-`"If {çeviri-Leydim}Milady held back on repeating it, then of course I cannot respond. `
-`As {çeviri-Leydim}Milady's {çeviri-mobilya}furniture, I am unable to be too forward." `
+`"If {ceviri}{Leydim}Milady held back on repeating it, then of course I cannot respond. `
+`As {ceviri}{Leydim}Milady's {ceviri}{mobilya}furniture, I am unable to be too forward." `
 `Ronove made an exaggerated gesture, trying to act like a loyal retainer. `
 `This guy's so shameless. `
 `"Heh. `
@@ -436,7 +436,7 @@
 `Let's try rearranging this story again. `
 `I wonder if it couldn't be something like this... `
 `Grandfather fell in unrequited love with a person called Beatrice. `
-`Then, he confined her in this hidden {çeviri-malikane}mansion and continued to court her. `
+`Then, he confined her in this hidden {ceviri}{malikane}mansion and continued to court her. `
 `But she was stubborn and didn't give in. `
 `Eventually, she grew pessimistic about being able to escape from here... `
 `and probably...committed suicide. `
@@ -452,22 +452,22 @@
 `"...I'm starting to get confused. `
 `...Either way, we can't do more than speculate. `
 `The only thing we can say for sure in red... `
-`is that in 1967, in a hidden {çeviri-malikane}mansion on Rokkenjima, Beatrice existed as a human. `
+`is that in 1967, in a hidden {ceviri}{malikane}mansion on Rokkenjima, Beatrice existed as a human. `
 `That's all." `
 `"That is correct. `
-`{p:1:In 1967, in a hidden {çeviri-malikane}mansion on Rokkenjima, Beatrice‐sama existed as a human}." `
+`{p:1:In 1967, in a hidden {ceviri}{malikane}mansion on Rokkenjima, Beatrice‐sama existed as a human}." `
 `"Oh, thank you. `
 `That really helps." `
 `"Congratulations. `
 `With this, you have made clear the existence of the piece known as the 19th person. `
 `A 19th human for you to blame, just as you longed for." `
 `"...A sacrificial sheep upon which you can shift the blame of any crime. `
-`How amusing that it happens to be {çeviri-Leydim}Milady. `
+`How amusing that it happens to be {ceviri}{Leydim}Milady. `
 `Pu ku ku ku." `
 `Ronove laughed indiscreetly. `
 `Somehow, I didn't like how he put that, so I didn't feel like laughing along with him. `
 `"...That's right. `
-`There's that thing {çeviri-Hala}Aunt Rosa said. `
+`There's that thing {ceviri}{Hala}Aunt Rosa said. `
 `...Beatrice is dead? `
 `"I killed her"? `
 `What did that mean...?" `
@@ -487,17 +487,17 @@
 `what kind of urgent business could it be? `
 `...It's seems my chat with Battler-sama has run a tad long." `
 `"Well then, Battler-sama, if you will excuse me. `
-`Please continue to enjoy your game with {çeviri-Leydim}Milady." `
+`Please continue to enjoy your game with {ceviri}{Leydim}Milady." `
 `"Yeah, yeah. `
 `I'll enjoy it as best I can. `
 `...'Cause my conversations go a lot more smoothly when they're with you, as opposed to her. `
 `And you're more gracious with the red too. `
 `Come and talk again any time you like." `
 `"......Battler-sama, `
-`despite how I look, I am {çeviri-Leydim}Milady's {çeviri-mobilya}furniture. `
-`...I can do nothing that {çeviri-Leydim}Milady does not desire. `
-`What I said in red was something that normally should have come from {çeviri-Leydim}Milady's mouth. `
-`...I did nothing more than announce the {çeviri-kırmızı gerçek}red truth in {çeviri-Leydim}Milady's place as she sulked." `
+`despite how I look, I am {ceviri}{Leydim}Milady's {ceviri}{mobilya}furniture. `
+`...I can do nothing that {ceviri}{Leydim}Milady does not desire. `
+`What I said in red was something that normally should have come from {ceviri}{Leydim}Milady's mouth. `
+`...I did nothing more than announce the {ceviri}{kırmızı gerçek}red truth in {ceviri}{Leydim}Milady's place as she sulked." `
 `"So she really was sulking then? `
 `Ihihihi!" `
 `"Pu ku ku ku." `
@@ -516,7 +516,7 @@
 `Maybe she didn't like seeing him act so friendly with me, or maybe she really had been told to hurry. `
 `When the Stake nee-chan let out a thunderous cry, Ronove laughed frivolously and disappeared, as if running away... `
 `"...Hmph. `
-`Why am I, the oldest sister of the {çeviri-Araf'ın Yedi Kazığı}Seven Stakes of Purgatory, being summoned for menial tasks like this?! `
+`Why am I, the oldest sister of the {ceviri}{Araf'ın Yedi Kazığı}Seven Stakes of Purgatory, being summoned for menial tasks like this?! `
 `...Even though Beato-sama could've told one of the younger sisters, who look like they've got nothing better to do. Sheesh...!" `
 `"Why so grumpy, nee-chan. `
 `If you're hungry, eat a cookie or something. `
@@ -539,7 +539,7 @@
 `...Nee-chan, isn't it about time you cut your nails?" `
 `"It's Lucifer. `
 `...That is my glorious name. `
-`The honored {çeviri-mobilya}furniture who serves Beatrice-sama, and the oldest sister of the {çeviri-Araf'ın Yedi Kazığı}Seven Stakes of Purgatory." `
+`The honored {ceviri}{mobilya}furniture who serves Beatrice-sama, and the oldest sister of the {ceviri}{Araf'ın Yedi Kazığı}Seven Stakes of Purgatory." `
 `"......I'm not like my disgraceful younger sisters. `
 `If you don't show proper respect, you will regret it." `
 `"...And why would I regret it, exactly? `
@@ -594,7 +594,7 @@
 `...I realized that in addition to facing or surrendering to my problems, `
 `I had the third choice of running away. `
 `Though I say "run away", there was no way I could've left Rokkenjima and gone somewhere else. `
-`But, anyway, I wanted to run away from the {çeviri-malikane}mansion and my own self at that time. `
+`But, anyway, I wanted to run away from the {ceviri}{malikane}mansion and my own self at that time. `
 `...In a way, it was like a kid running away from home, or maybe a passive sort of suicide... `
 `"...I wanted to disappear. `
 `Or maybe it was that child-like form of resistance where I tried to make my parents worry by disappearing... `
@@ -624,7 +624,7 @@
 `This is no time for sarcasm. `
 `...So, you managed to end up there by coincidence...? `
 `At Beatrice's... `
-`hidden {çeviri-malikane}mansion." `
+`hidden {ceviri}{malikane}mansion." `
 `Rosa nodded weakly... `
 `"About how far did you walk? `
 `Could you show it to us on a map...? `
@@ -637,13 +637,13 @@
 `I probably couldn't reach it again even if I went into the forest..." `
 `"......Hmmmmmm..." `
 `Several people let out dejected sighs. `
-`It was vividly clear that in their haste, they'd thought some hint related to the witch's {çeviri-kitabe}epitaph... `
+`It was vividly clear that in their haste, they'd thought some hint related to the witch's {ceviri}{kitabe}epitaph... `
 `or maybe even the gold itself might be resting there. `
-`"On Rokkenjima, only the land around the {çeviri-malikane}mansion is ready to be developed on. `
+`"On Rokkenjima, only the land around the {ceviri}{malikane}mansion is ready to be developed on. `
 `...The rest is completely uncultivated, and it'd probably take a lot of work to survey the entire island." `
 `"But just knowing that it actually exists is helpful. `
 `It would take some money, but if we enlisted an aerial photography company to investigate, `
-`or asked the businessman who constructed this {çeviri-malikane}mansion about what happened at the time, `
+`or asked the businessman who constructed this {ceviri}{malikane}mansion about what happened at the time, `
 `we could probably find some way to search for it." `
 `"That's right. `
 `...At least we have more options now, as opposed to when we weren't sure it existed." `
@@ -651,7 +651,7 @@
 `It may be worth investigating right away." `
 `"The siblings will do that investigation together. `
 `We won't leave you on your own, Nii-san." `
-`It wasn't yet certain that the gold was hidden in that secret {çeviri-malikane}mansion, `
+`It wasn't yet certain that the gold was hidden in that secret {ceviri}{malikane}mansion, `
 `but the sparks seemed to have started flying between Krauss and Eva already. `
 `"Give it a rest for now, you two. `
 `Rosa, please continue." `
@@ -662,18 +662,18 @@
 `so at that time, I naturally took the easiest path. `
 `As I did, ......suddenly, right before my eyes, a very, very tall fence appeared. `
 `It was a fence wonderfully adorned in a gothic style. `
-`For an instant, I thought I'd gotten turned around and returned to the original {çeviri-malikane}mansion. `
-`Of course, there were fences around the {çeviri-malikane}mansion to stop us from entering the forest. `
+`For an instant, I thought I'd gotten turned around and returned to the original {ceviri}{malikane}mansion. `
+`Of course, there were fences around the {ceviri}{malikane}mansion to stop us from entering the forest. `
 `But this fence was decorated differently, ...and moreover, it was very tall. `
 `It probably reached a full two stories up. `
 `It was covered with ivy and created a mysterious, solemn atmosphere... `
 `At the time, ...I believed in the legend of the witch of the forest, Beatrice. `
 `I had been told that she was frightening, `
-`but some of the {çeviri-hizmetkar}servants told me that she'd sometimes help you if you respected her. `
+`but some of the {ceviri}{hizmetkar}servants told me that she'd sometimes help you if you respected her. `
 `...Since I had little confidence in those days, `
 `I believed the only way I could be saved was by receiving her help. `
 `That's why I thought what I did. `
-`...I believed that this was the fence of the {çeviri-malikane}mansion belonging to Beatrice, the witch of the forest. `
+`...I believed that this was the fence of the {ceviri}{malikane}mansion belonging to Beatrice, the witch of the forest. `
 `I thought that if I could meet with Beatrice, she'd definitely save me. `
 `So I decided to try going in. `
 `But the fence was very, very tall, and it didn't look like I'd be able go over it. `
@@ -687,8 +687,8 @@
 `and I started to feel sad, as though the witch had rejected me... `
 `As I did, I eventually came upon a large tree, whose twisted root had bent the fence. `
 `It might get my clothes dirty, but if I crawled, it looked like I'd be able to sneak in... `
-`"......And there you found the hidden {çeviri-malikane}mansion?" `
-`"I don't know if it was the hidden {çeviri-malikane}mansion we've been talking about... `
+`"......And there you found the hidden {ceviri}{malikane}mansion?" `
+`"I don't know if it was the hidden {ceviri}{malikane}mansion we've been talking about... `
 `Still, at the very least, it wasn't a place that we know of." `
 `It wasn't as though I came out into a garden as soon as I passed the fence. `
 `I had to continue through a lot more uncultivated forest after that. `
@@ -696,15 +696,15 @@
 `And what appeared there... `
 `...was an unbelievably fantastical scene. `
 `To think that, on Rokkenjima, where I thought only we lived, `
-`...there could be such a wonderful {çeviri-malikane}mansion hidden away... `
-`A beautiful flower garden spanned the front of the {çeviri-malikane}mansion. `
+`...there could be such a wonderful {ceviri}{malikane}mansion hidden away... `
+`A beautiful flower garden spanned the front of the {ceviri}{malikane}mansion. `
 `It was a flower garden of a completely different design from the rose garden we know so well, and it was very lovely. `
-`Of course, the {çeviri-malikane}mansion was also wonderful. `
+`Of course, the {ceviri}{malikane}mansion was also wonderful. `
 `...It was a couple sizes smaller than ours, `
 `but it was still elegant and adorable at the same time. `
 `Then, ......I saw her figure. `
 `I saw her sitting in a garden chair positioned to give a view of the flower garden, wearing an elegant dress. `
-`It was that black dress embroidered in gold that we would later know from that {çeviri-portre}portrait. `
+`It was that black dress embroidered in gold that we would later know from that {ceviri}{portre}portrait. `
 `...I hadn't seen an elegant dress like that except in fairy tales and on the stage of musicals. `
 `...For a person to be wearing it as her normal clothes... That in itself seemed quite fantastical. `
 `That mysterious scene was enough to make me lose my sense of reality. `
@@ -746,7 +746,7 @@
 `...After all, I thought she might really turn me into a frog. `
 `...The closer I got, the stronger that fear became. `
 `After all, ...as I keep saying over and over, `
-`......that woman and her dress and the flower garden and the {çeviri-malikane}mansion... `
+`......that woman and her dress and the flower garden and the {ceviri}{malikane}mansion... `
 `that whole picture was so fantastical and beautiful that it seemed separate from reality. `
 `It probably wouldn't have surprised me at all to learn that she really was a witch... `
 `And I really was lucky. `
@@ -764,9 +764,9 @@
 `I am Beatrice." `
 `"As I thought. `
 `Beatrice actually existed..." `
-`"...Did she really look like the {çeviri-portre}portrait?" `
+`"...Did she really look like the {ceviri}{portre}portrait?" `
 `"...Yes. `
-`Really, just like the {çeviri-portre}portrait." `
+`Really, just like the {ceviri}{portre}portrait." `
 `"So, `
 `...she wasn't just a witch from Father's imagination..." `
 `"Well, what did you talk with her about?" `
@@ -776,7 +776,7 @@
 `"...So when I told her I'd come through the forest to reach this place, she was shocked. `
 `She asked how I had managed to escape from the wolves. `
 `Did I give them a biscuit and they let me go? `
-`Or did I cover myself in a {çeviri-büyü}magic cloak? ...That kind of thing." `
+`Or did I cover myself in a {ceviri}{büyü}magic cloak? ...That kind of thing." `
 `"Wahahaha. `
 `...That sure sounds like a witch. `
 `What an interesting person." `
@@ -807,7 +807,7 @@
 `"...Well, at any rate, `
 `if Father's the one who shut Beatrice up in there, it makes sense that he'd use the same story about wolves. `
 `To him, the vast forest of Rokkenjima was a wall that shouldn't be crossed, dividing his two incompatible worlds: `
-`the Ushiromiya family and his mistress's {çeviri-malikane}mansion." `
+`the Ushiromiya family and his mistress's {ceviri}{malikane}mansion." `
 `"Considering the height of that fence, it does sound as though Father turned that whole area, garden and all, into a giant jail cell. `
 `...Just like a border dividing his two separate worlds." `
 `"...Wolves aside, could there have been some breed of stray dogs there at the time? `
@@ -846,7 +846,7 @@
 `"Well, she was his hidden mistress, after all. `
 `If she just walked around wherever she liked, Mom might've found her. `
 `...I'll bet she was practically under house arrest." `
-`"Even though she had beautiful clothes, a beautiful {çeviri-malikane}mansion, and a garden, she must've felt pretty cramped. `
+`"Even though she had beautiful clothes, a beautiful {ceviri}{malikane}mansion, and a garden, she must've felt pretty cramped. `
 `I'll bet she had it rough. `
 `......And then?" `
 `"She was definitely worried about something. `
@@ -880,22 +880,22 @@
 `but it was very difficult for a person like her, who had never visited one, to understand... `
 `On the contrary, as I explained it to her, her expression grew increasingly dismal. `
 `...She couldn't see the difference. `
-`Apparently, even though she lived in an elegant {çeviri-malikane}mansion that was surrounded by a high fence and seemed to lack for nothing, `
+`Apparently, even though she lived in an elegant {ceviri}{malikane}mansion that was surrounded by a high fence and seemed to lack for nothing, `
 `she couldn't see how she was any different from animals shut up in cages... `
 `"Who am I? `
 `...Everyone calls me Beatrice. `
 `...And that does indeed seem to be the name of a great witch, as you say." `
 `"...But that isn't me. `
-`I cannot use any {çeviri-büyü}magic. `
+`I cannot use any {ceviri}{büyü}magic. `
 `...I simply have the soul of that witch sealed inside my body." `
 `"......?" `
 `There was definitely something odd about her. `
 `Beyond just being cut off from the world, `
-`it seemed she truly believed that {çeviri-büyü}magic exists. `
+`it seemed she truly believed that {ceviri}{büyü}magic exists. `
 `I think she talked about lots of weird things, but I don't remember the details. `
 `All I thought was that... `
 `this might be a person to be pitied. `
-`She was unable to leave this {çeviri-malikane}mansion of her own free will, a prisoner without even realizing it. `
+`She was unable to leave this {ceviri}{malikane}mansion of her own free will, a prisoner without even realizing it. `
 `...And she didn't know anything about the outside world, didn't even understand who she was. `
 `...She probably vaguely realized that she was to be pitied. `
 `But since she didn't know anything, she seemed incapable of recognizing her own unhappiness. `
@@ -923,7 +923,7 @@
 `Right, there aren't any." `
 `"............" `
 `I'd only planned on inviting her to go on a short walk, `
-`...but she kept looking over her shoulder at the {çeviri-malikane}mansion, as though she was seriously worrying over the decision. `
+`...but she kept looking over her shoulder at the {ceviri}{malikane}mansion, as though she was seriously worrying over the decision. `
 `Then, I learned what she was preparing herself for. `
 `"......I...have had enough of this place. `
 `...I want to go...outside. `
@@ -1009,7 +1009,7 @@
 `It really was like the inside of that fence had been her entire world. `
 `So, now that she'd traveled beyond the limits of her world...... `
 `...It's strange. `
-`When I first saw her, I really thought she was the witch herself, relaxing inside the witch's {çeviri-malikane}mansion. `
+`When I first saw her, I really thought she was the witch herself, relaxing inside the witch's {ceviri}{malikane}mansion. `
 `But now, it was different. `
 `Or actually, the complete opposite. `
 `...She'd left a world she'd believed to be finite...and was overjoyed at the realization that the world was endless, something she'd never thought of before. `
@@ -1019,7 +1019,7 @@
 `To her, it was probably a really fun walk, filled to the brim with excitement. `
 `...But I was actually at a loss at what to do. `
 `...After all, I walked randomly to get there. `
-`Of course I didn't know the way back to our {çeviri-malikane}mansion. `
+`Of course I didn't know the way back to our {ceviri}{malikane}mansion. `
 `There were no lights in the forest, and I hadn't brought a flashlight. `
 `I realized it would be terrible if it got dark while we were still like this...and grew impatient. `
 `She was too innocent, `
@@ -1028,7 +1028,7 @@
 `...I had to take responsiblity somehow and resolve this situation. `
 `So, I had a thought. `
 `...Let's go out to the ocean for now. `
-`If we then follow the beach around, we should eventually make it back to the {çeviri-malikane}mansion. `
+`If we then follow the beach around, we should eventually make it back to the {ceviri}{malikane}mansion. `
 `However, that was much more of a problem than I'd imagined. `
 `...I didn't have a map or a compass. `
 `There was no way I could walk in a straight line through an uncultivated forest, and I immediately lost my sense of direction. `
@@ -1042,7 +1042,7 @@
 `I pushed my way through the woods, advancing down a path that wasn't a path. `
 `Then, after going through various troubles, I fortunately managed reach the ocean... `
 `At that time, I still didn't even have a clue where I was on the island, `
-`but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the {çeviri-malikane}mansion. `
+`but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the {ceviri}{malikane}mansion. `
 `However, though I had reached the ocean, we were at the top of a rock cliff. `
 `The beach was far below us. `
 `I was tired from walking around the forest for so long, `
@@ -1072,7 +1072,7 @@
 `I cautiously examined our potential route down. `
 `...It seemed to be...quite a long drop. `
 `I think it might've been about 10 meters down. `
-`If you looked at it from the bottom up, it would probably have looked shorter than the roof of the {çeviri-malikane}mansion. `
+`If you looked at it from the bottom up, it would probably have looked shorter than the roof of the {ceviri}{malikane}mansion. `
 `But looking from the top, it felt almost like staring down from the observation room on Tokyo Tower. `
 `But Beatrice still appeared to be completely without fear. `
 `...It felt as though she had never even been taught that high places were dangerous. `
@@ -1157,14 +1157,14 @@
 `......Even though you showed up as the 19th person, `
 `...you were already dead...?" `
 `"Don't mess with me, that's impossible...! `
-`{çeviri-Hala}Aunt Rosa was a kid, and she was panicked. `
+`{ceviri}{Hala}Aunt Rosa was a kid, and she was panicked. `
 `And it's not like a doctor was there. `
 `She probably just mistakenly thought you were dead, and you were probably...umm...alive and pretending to be dead or something. `
 `Isn't that right?!" `
 `It can't be true. `
 `She's got to be alive. `
 `Otherwise, how can she be here...?! `
-`...The kid-aged {çeviri-Hala}Aunt Rosa shook Beatrice's body, crying. `
+`...The kid-aged {ceviri}{Hala}Aunt Rosa shook Beatrice's body, crying. `
 `I stared into that face too, `
 `......but her eyes were still open, and it really was a corpse. `
 `...I wanted to dodge the issue by saying something vague, like "she must be playing dead", `
@@ -1178,11 +1178,11 @@
 `No matter how dead she looked, ...she had to be alive...! `
 `Then, she went on to become this damn irritating witch! `
 `That makes all the inconsistencies fit. `
-`Grandfather must have kept her confined constantly in a hidden {çeviri-malikane}mansion. `
+`Grandfather must have kept her confined constantly in a hidden {ceviri}{malikane}mansion. `
 `Then, to take revenge for that, `
 `...she committed several atrocious murders! `
-`{çeviri-Hala}Aunt Rosa probably just mistakenly thought she was dead. `
-`But she was actually alive, and as soon as {çeviri-Hala}Aunt Rosa left, would miraculously breathe again. `
+`{ceviri}{Hala}Aunt Rosa probably just mistakenly thought she was dead. `
+`But she was actually alive, and as soon as {ceviri}{Hala}Aunt Rosa left, would miraculously breathe again. `
 `...Then, she somehow lived on until today...and opened the curtain on her revenge drama. `
 `Otherwise, the facts don't fit together!! `
 `"...I won't let you trick me so easily. `
@@ -1197,7 +1197,7 @@
 `...I had planned to strike back from a defensive position, but... `
 `"...Then, ...who are you? `
 `You just died, right?! `
-`Don't tell me you revived yourself with {çeviri-büyü}magic?!" `
+`Don't tell me you revived yourself with {ceviri}{büyü}magic?!" `
 `"*cackle*cackle* `
 `I've already explained that, have I not? `
 `...The "me" lying over there definitely possesses my soul, `
@@ -1213,7 +1213,7 @@
 `Ronove, `
 `our guest would like some tea." `
 `When Beato clapped her hands, Ronove appeared. `
-`...{çeviri-Uşak}Butlers sure are convenient. `
+`...{ceviri}{Uşak}Butlers sure are convenient. `
 `"A refill, you say? `
 `Certainly. `
 `How much shall I pour you?" `
@@ -1252,7 +1252,7 @@
 `Even this glorious midday sun is agony to me. `
 `I destroyed my human form. `
 `Then, I changed it into several gold butterflies. `
-`...Yes, with my {çeviri-büyülü}magical power as frail as it is now, this form is easier to maintain. `
+`...Yes, with my {ceviri}{büyülü}magical power as frail as it is now, this form is easier to maintain. `
 `To escape even a little from the light of the sun, I rode the wind and gently flew up the side of the cliff. `
 `It will probably be a bit cooler in the forest. `
 `Anyway, I'll take some time to recuperate and regain my former power. `
@@ -1269,9 +1269,9 @@
 `Regret that you are not here now. `
 `No longer will you be able to capture me. `
 `...*cackle*cackle*! `
-`"......And then, you changed into gold butterflies, hid in the forest, and waited for your {çeviri-büyülü}magical power to be restored? Is that what you're saying?" `
+`"......And then, you changed into gold butterflies, hid in the forest, and waited for your {ceviri}{büyülü}magical power to be restored? Is that what you're saying?" `
 `"That is correct. `
-`I take this form to sneer at you, but most of the time, it is easier {çeviri-büyülü}magically for me to keep my form as gold butterflies." `
+`I take this form to sneer at you, but most of the time, it is easier {ceviri}{büyülü}magically for me to keep my form as gold butterflies." `
 `"Hey, feel free to take a load off and stick to whatever's easiest. `
 `I wouldn't mind not having to hear your irritating laugh." `
 `"*cackle*cackle* `
@@ -1286,47 +1286,47 @@
 `"He found a way to keep you from leaving after you turned into butterflies? `
 `What, did he put a bug net around the entire forest?" `
 `"Indeed. `
-`A {çeviri-büyülü}magical one. `
+`A {ceviri}{büyülü}magical one. `
 `......Didn't you know? `
-`On the sea in front of the harbor is a reef...upon which sits a small shrine of Eastern {çeviri-büyü}magic." `
+`On the sea in front of the harbor is a reef...upon which sits a small shrine of Eastern {ceviri}{büyü}magic." `
 `"...Ah, that. `
 `It was gone by this year, though. `
 `It was a small shrine built long ago by a shugenja, right?" `
 `"From the very beginning, Rokkenjima has been an island enveloped by a distortion. `
-`It attracts things of {çeviri-büyülü}magical power and other related creatures. `
-`...{çeviri-Leydim}Milady herself is one of them. `
+`It attracts things of {ceviri}{büyülü}magical power and other related creatures. `
+`...{ceviri}{Leydim}Milady herself is one of them. `
 `How about some more tea?" `
 `"*cackle*cackle*, please. `
 `...They brought harm to humans and probably left several eerie legends in their wake. `
-`That small shrine was built in ancient times by an Eastern {çeviri-büyücü}magician who heard of them. `
+`That small shrine was built in ancient times by an Eastern {ceviri}{büyücü}magician who heard of them. `
 `A long time passed, and that power was lost. `
 `By repairing it, Kinzo restored this island's barrier...and once again bound me to the island." `
-`"...Can Eastern {çeviri-büyü}magic work on a Western witch like you?" `
+`"...Can Eastern {ceviri}{büyü}magic work on a Western witch like you?" `
 `"Normally, the affinity would be poor. `
 `However, for the purpose of sealing me here, it may have been quite convenient in a way." `
-`"If it was Western {çeviri-büyü}magic, I would have had some knowledge. `
+`"If it was Western {ceviri}{büyü}magic, I would have had some knowledge. `
 `For any barrier, there would have been some measures I could have taken. `
-`But Eastern {çeviri-büyü}magic is outside my area of expertise. `
+`But Eastern {ceviri}{büyü}magic is outside my area of expertise. `
 `It was as if I had been given chopsticks instead of a spoon for some soup that I wanted to drink." `
-`"In a space dominated by Eastern {çeviri-büyü}magic, Western {çeviri-büyü}magic loses much of its power. `
+`"In a space dominated by Eastern {ceviri}{büyü}magic, Western {ceviri}{büyü}magic loses much of its power. `
 `Even if she were given one thousand days to regain her strength, `
 `she would have to wait many, many more." `
 `"...So you're saying it took you 20 years to regain your power, and now you've revived, as we can all see?" `
 `"Those were horribly long years... `
-`I spent many days in the form of gold butterflies, found Kinzo's {çeviri-malikane}mansion, and watched over him every day. `
+`I spent many days in the form of gold butterflies, found Kinzo's {ceviri}{malikane}mansion, and watched over him every day. `
 `I lived through those days with no means to enjoy myself except to ponder how I would get back at him." `
 `"...That period of 20 years was fortunate for me. `
-`Kinzo tried to use all sorts of {çeviri-büyü}magic to find and capture me, but each failed. `
+`Kinzo tried to use all sorts of {ceviri}{büyü}magic to find and capture me, but each failed. `
 `There's a limit to how many miracles a single human can bring about. `
 `Even simply holding me captive for that long had been a miracle far above his place. `
 `It would be unthinkable for me to be captured like that multiple times." `
 `"......Grandfather said something in the previous game. `
-`It was something like...{çeviri-büyü}magic lies in a miracle of probability." `
+`It was something like...{ceviri}{büyü}magic lies in a miracle of probability." `
 `"Indeed. `
 `As Kinzo was searching for a hidden art to capture me again, he stumbled upon that. `
 `......Then, he finally worked out the ceremony involving the offering of 13 people as sacrifices to revive me again." `
 `"13 people...as sacrifices..." `
-`"That is the witch's {çeviri-kitabe}epitaph. `
+`"That is the witch's {ceviri}{kitabe}epitaph. `
 `A song of sacrifices. `
 `...Six people on the first twilight. `
 `Two people on the second. `
@@ -1355,7 +1355,7 @@
 `To Kinzo, who offered me a chance to run away from that for several decades... `
 `yes, you could say I owe him for that." `
 `"I decided to go along with Kinzo's game. `
-`So, to start, Kinzo returns the Ushiromiya {çeviri-Aile Reisi}Family Head's Ring to me. `
+`So, to start, Kinzo returns the Ushiromiya {ceviri}{Aile Reisi}Family Head's Ring to me. `
 `It was my gold that revived the family, after all. `
 `......Then, 13 people are chosen at random to be sacrifices. `
 `While that happens, you all run about, `
@@ -1363,7 +1363,7 @@
 `Yes, I truly have taken a liking to this game of Kinzo's! `
 `*cackle*cackle*." `
 `"Aaaaaaaaaahh!! `
-`I definitely won't believe in that kind of {çeviri-büyü}magic story! `
+`I definitely won't believe in that kind of {ceviri}{büyü}magic story! `
 `......Then who are you?! `
 `You fell off a cliff and died, dammit! `
 `Your soul slipped out, became butterflies, and went to the forest? `
@@ -1383,12 +1383,12 @@
 `"Pu ku ku ku... `
 `That is what this means. `
 `My condolences. `
-`...Still, you do move fast, {çeviri-Leydim}Milady. `
+`...Still, you do move fast, {ceviri}{Leydim}Milady. `
 `And I thought you'd let him flounder about before spinning everything around at the end. `
 `Well then, Battler-sama, would some more tea be agreeable?" `
 `"I-I don't need it, damn it!! `
 `I don't believe it! `
-`The {çeviri-suçlu}culprit can't be one of the 18! `
+`The {ceviri}{suçlu}culprit can't be one of the 18! `
 `Then what are you, and why are you here?!! `
 `If the 19th person doesn't exist, then are you saying you're one of the 18 in disguise?!" `
 `"*cackle*cackle*! `
@@ -1396,7 +1396,7 @@
 `Though reluctantly, you are doubting one of the 18 people as your last way out. `
 `......However, it will be difficult for me from here on out. `
 `If you choose to stop caring about propriety, `
-`you could prepare a {çeviri-suçlu}culprit freely amid 18 people! `
+`you could prepare a {ceviri}{suçlu}culprit freely amid 18 people! `
 `Making you reach checkmate `
 `by evading those 18 pieces... `
 `...will be truly difficult." `
@@ -1410,7 +1410,7 @@
 `*cackle*cackle*! `
 `You don't want to suspect any of those beloved people in the 18, do you? Were you trying to hide that from me? `
 `Then why do you refuse me?" `
-`"They say you should play the opening like a book, the middle game like a {çeviri-büyücü}magician, `
+`"They say you should play the opening like a book, the middle game like a {ceviri}{büyücü}magician, `
 `and the endgame like a machine. `
 `I'll corner you from here on. `
 `Slowly, carefully, ...surely. `

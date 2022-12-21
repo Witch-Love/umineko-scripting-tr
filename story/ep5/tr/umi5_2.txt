@@ -29,7 +29,7 @@
 `...Well, it's fairly pointless to wonder about that sort of thing when you're dealing with a witch. `
 `Beatrice was casually sitting on the roof of the arbor, `
 `almost as though she had been basking in the sun. `
-`"Those relatives are like a massive lump of the {çeviri-büyü}magic-resisting toxin, and they'll be intruding in on us. `
+`"Those relatives are like a massive lump of the {ceviri}{büyü}magic-resisting toxin, and they'll be intruding in on us. `
 `If you bump into them, your soul will evaporate in a instant." `
 `"Hmph. `
 `I am already dead. `
@@ -41,18 +41,18 @@
 `Perhaps it's about time to bring an end to this walk of yours." `
 `"...Is that so? `
 `Thank you. `
-`...Please return to the {çeviri-çalışma odası}study, Father." `
+`...Please return to the {ceviri}{çalışma odası}study, Father." `
 `"My, my... `
 `How tiresome, to go back inside when the weather is this perfect." `
 `"Don't grumble, Kinzo. `
 `Right now, you're nothing more than a ghost I gave life to. `
 `It'll be troublesome for both me and Natsuhi if you're scattered away by the toxin. `
-`Just be a good boy, shut yourself away in the {çeviri-çalışma odası}study, and wrap a blanket around yourself or something. `
+`Just be a good boy, shut yourself away in the {ceviri}{çalışma odası}study, and wrap a blanket around yourself or something. `
 `*cackle*cackle*!" `
 `"Hmph. `
 `...Merely receiving the chance to enjoy these roses after death makes me an extremely fortunate man. `
 `I understand. `
-`I shall return to the {çeviri-çalışma odası}study." `
+`I shall return to the {ceviri}{çalışma odası}study." `
 `"But I would like some black tea. `
 `Kanon, tell Genji to bring me some. `
 `Perhaps some Marco Polo would do well today." `
@@ -61,7 +61,7 @@
 `Natsuhi, `
 `...you must conduct the family conference splendidly in my absence." `
 `"Of course, Father. `
-`He can't say it in front of them, but my husband is already the Ushiromiya {çeviri-Aile Reisi}Family Head. `
+`He can't say it in front of them, but my husband is already the Ushiromiya {ceviri}{Aile Reisi}Family Head. `
 `And, I will do all I can to ensure that I don't embarrass him as his wife." `
 `"...Compared to Krauss, who's had a stomachache since this morning, you are so very composed, Natsuhi. `
 `...My son is quite hopeless." `
@@ -71,16 +71,16 @@
 `Carry out your task with precision. `
 `I will make sure to stay shut away, so that I don't get in the way of this farce." `
 `"Kanon, `
-`go with Father to the {çeviri-çalışma odası}study. `
+`go with Father to the {ceviri}{çalışma odası}study. `
 `And then have Genji prepare some black tea." `
 `"I'm not so senile that I need your help to stand up. `
 `Here I go..." `
 `Refusing Kanon's attempt to lend him a hand, Kinzo rose from the flower bed he had been sitting on. `
-`The retired Head left everything in Natsuhi's hands and returned to the {çeviri-çalışma odası}study at a gentle pace... `
+`The retired Head left everything in Natsuhi's hands and returned to the {ceviri}{çalışma odası}study at a gentle pace... `
 `"...You're looking well. `
 `You possess a sense of dignity reminiscent of Kinzo's deceased wife." `
-`"On the off-chance that the {çeviri-büyü}magic-resisting toxin does reach Father, `
-`...will the {çeviri-büyü}magic dissolve in an instant?" `
+`"On the off-chance that the {ceviri}{büyü}magic-resisting toxin does reach Father, `
+`...will the {ceviri}{büyü}magic dissolve in an instant?" `
 `"Indeed. `
 `In the blink of an eye. `
 `...I can vanish whenever I please, `
@@ -89,12 +89,12 @@
 `"Yes. `
 `I understand." `
 `"......You may have talent as a witch. `
-`The {çeviri-büyü}magic-resisting toxin has been building up in your system over the years, `
-`and yet you are still able to understand {çeviri-büyü}magic. `
+`The {ceviri}{büyü}magic-resisting toxin has been building up in your system over the years, `
+`and yet you are still able to understand {ceviri}{büyü}magic. `
 `...If you and I had met during your youth, you might have become a powerful witch by now." `
-`"I am the wife of Ushiromiya Krauss, the {çeviri-Aile Reisi}Family Head. `
+`"I am the wife of Ushiromiya Krauss, the {ceviri}{Aile Reisi}Family Head. `
 `I would become even a witch or a demon to protect his honor. `
-`...I am deeply grateful for the power of your {çeviri-büyü}magic. `
+`...I am deeply grateful for the power of your {ceviri}{büyü}magic. `
 `I wouldn't have been able to protect the honor of the Ushiromiya family without you." `
 `"Let's discuss that at another time. `
 `I'd like to enjoy it with just the two of us women drinking tea." `
@@ -109,7 +109,7 @@
 `Then, I'll see you later." `
 `"Yes, later." `
 `The witch made her body crumble into the rustling winds, became gold flower petals, and scattered into thin air. `
-`Natsuhi watched her go, then turned on her heels and headed for the {çeviri-malikane}mansion. `
+`Natsuhi watched her go, then turned on her heels and headed for the {ceviri}{malikane}mansion. `
 `And then there were none left in the rose garden... `
 `"Oookay then. `
 `It's <break time>. `
@@ -119,11 +119,11 @@
 `"What a rude thing to say. `
 `{p:1:Kinzo is already dead}, right? `
 `But he's walking around and talking, isn't he? `
-`Doesn't that mean this is {çeviri-büyü}magic?!" `
+`Doesn't that mean this is {ceviri}{büyü}magic?!" `
 `"Of course, I doubt this move would work on you after all this time, Bern. `
 `...But what about you, Battler? `
 `Isn't this weird? `
-`Don't you have to accept the existence of the {çeviri-büyü}magic that revived Kinzo? `
+`Don't you have to accept the existence of the {ceviri}{büyü}magic that revived Kinzo? `
 `Hahhihhyahhahaaaah!" `
 `"...If you're trying to imitate Beato, `
 `it's pissing me off, so stop it right now." `
@@ -144,15 +144,15 @@
 `{p:1:Grandfather is dead at this point in time}. `
 `There's no way he exists. `
 `"The only reason he's able to act like he's alive like this... `
-`is because of {çeviri-Hala}Aunt Natsuhi's lie, her attempt to make it through the family conference while hiding Grandfather's death." `
+`is because of {ceviri}{Hala}Aunt Natsuhi's lie, her attempt to make it through the family conference while hiding Grandfather's death." `
 `"Oh? `
 `It's Natsuhi's lie?! `
 `You can revive the dead by lying? `
-`Wouldn't that make it Natsuhi's {çeviri-büyü}magic?" `
+`Wouldn't that make it Natsuhi's {ceviri}{büyü}magic?" `
 `"This world is like a Braun tube before you've looked in it. `
 `...It's the world of the cat box before you open it. `
-`As long as {çeviri-Hala}Aunt Natsuhi says she took a walk with Grandfather, and as long as no one can confirm that it's a lie, `
-`it's possible to display "{çeviri-Hala}Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality. `
+`As long as {ceviri}{Hala}Aunt Natsuhi says she took a walk with Grandfather, and as long as no one can confirm that it's a lie, `
+`it's possible to display "{ceviri}{Hala}Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality. `
 `That means it's possible for Grandfather to appear." `
 `*clap*, *clap*, *clap*... `
 `That extremely unflattering applause was coming from Bernkastel. `
@@ -166,9 +166,9 @@
 `"But Kanon was in the same place, and he was also looking at Kinzo, right? `
 `How would you explain that?" `
 `"...That's no problem at all. `
-`Kanon-kun is a {çeviri-hizmetkar}servant who works for the Ushiromiya family. `
-`...{çeviri-Hala}Aunt Natsuhi probably ordered him to keep to her story, so that she could hide Grandfather's death. `
-`...Because of that, Kanon can see Grandfather even though he shouldn't exist, just like {çeviri-Hala}Aunt Natsuhi can." `
+`Kanon-kun is a {ceviri}{hizmetkar}servant who works for the Ushiromiya family. `
+`...{ceviri}{Hala}Aunt Natsuhi probably ordered him to keep to her story, so that she could hide Grandfather's death. `
+`...Because of that, Kanon can see Grandfather even though he shouldn't exist, just like {ceviri}{Hala}Aunt Natsuhi can." `
 `".........Too bad, Lambda. `
 `Battler isn't gonna fall for that kind of child's play anymore." `
 `"Seems so. `
@@ -188,22 +188,22 @@
 `Then, they'll talk as though Grandfather actually exists and was with them until a second ago. `
 `That's why he's strolling around like it's perfectly natural.}" `
 `" `
-`"{p:2:Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with {çeviri-Hala}Aunt Natsuhi.} `
-`{p:2:That's why they made up the story of him shutting himself away in his {çeviri-çalışma odası}study and refusing to come out.}" `
-`In the games before now, Grandfather has always locked himself up in his {çeviri-çalışma odası}study. `
+`"{p:2:Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with {ceviri}{Hala}Aunt Natsuhi.} `
+`{p:2:That's why they made up the story of him shutting himself away in his {ceviri}{çalışma odası}study and refusing to come out.}" `
+`In the games before now, Grandfather has always locked himself up in his {ceviri}{çalışma odası}study. `
 `We never met him directly. `
-`However, some people said things that made us think he was locked up in his {çeviri-çalışma odası}study in a bad mood, `
+`However, some people said things that made us think he was locked up in his {ceviri}{çalışma odası}study in a bad mood, `
 `such as claiming to have met him only a short while ago. `
-`We blindly accepted their statements and believed that Grandfather was in the {çeviri-çalışma odası}study. `
+`We blindly accepted their statements and believed that Grandfather was in the {ceviri}{çalışma odası}study. `
 `{a:c: `
-`{i:That's why it was possible for an illusion of Grandfather to exist in the {çeviri-çalışma odası}study}.} `
+`{i:That's why it was possible for an illusion of Grandfather to exist in the {ceviri}{çalışma odası}study}.} `
 `That's right, in the games before now, `
-`the only people who met Grandfather were Uncle Krauss, {çeviri-Hala}Aunt Natsuhi, `
-`and the {çeviri-hizmetkar}servants. `
+`the only people who met Grandfather were Uncle Krauss, {ceviri}{Hala}Aunt Natsuhi, `
+`and the {ceviri}{hizmetkar}servants. `
 `{p:2:Because they all stuck to the same story, `
 `an illusion of Grandfather was able to exist on this island, making it seem like he was alive}. `
 `"...You even showed us a scene at the beginning of this game, `
-`where {çeviri-Hala}Aunt Natsuhi convinced Doctor Nanjo and the rest to cover up Grandfather's death. `
+`where {ceviri}{Hala}Aunt Natsuhi convinced Doctor Nanjo and the rest to cover up Grandfather's death. `
 `...I'm not gonna fall for a cheap trick like that after all this time." `
 `"......Well, not bad. `
 `But I was hoping for the unknown drug Purupuru Pikopuyo." `
@@ -244,7 +244,7 @@
 `"...Y-Yeah." `
 `At every single crime scene, `
 `you enthusiastically check with Beato to make sure there are no hidden doors, right? `
-`Then that leads to a flashy bunch of {çeviri-kırmızı gerçek}red truths weaving together all over the place, `
+`Then that leads to a flashy bunch of {ceviri}{kırmızı gerçek}red truths weaving together all over the place, `
 `almost as though that itself is the battle. `
 `I call that a waste of time. `
 `After all, it's clearly specified in Knox's 3rd. `
@@ -362,7 +362,7 @@
 `Both of you, as well as Genji and Shannon, `
 `will get your pay for a month's worth of past vacation time, as well as five extra days, just as promised. `
 `Consider this is a confidential benefit. `
-`Talk with Genji when you collect your pay so that the other {çeviri-hizmetkar}servants don't find out." `
+`Talk with Genji when you collect your pay so that the other {ceviri}{hizmetkar}servants don't find out." `
 `"Sure, we understand. `
 `Right?" `
 `"......Kumasawa-san, `
@@ -466,7 +466,7 @@
 `What's the point of traveling if we don't do things that can only be done here?" `
 `Krauss kept chewing, ignoring the fact that even his lips were being colored bright red. `
 `"Father likes these too. `
-`He must have ordered them long ago, because he used to chew away at them on the {çeviri-malikane}mansion's terrace. `
+`He must have ordered them long ago, because he used to chew away at them on the {ceviri}{malikane}mansion's terrace. `
 `Although it seems he stopped ever since you arrived." `
 `"Look here, Father, the person you respect even more than me, enjoyed these all the time. `
 `Look, look, don't be shy, take some." `
@@ -509,25 +509,25 @@
 `I've taken a liking to you." `
 `"Really? `
 `Thank you." `
-`"The instructions and orders you gave the {çeviri-hizmetkar}servants for this family conference were superb. `
+`"The instructions and orders you gave the {ceviri}{hizmetkar}servants for this family conference were superb. `
 `You took everything from where Kinzo would be and when, what he did, and what he left behind, `
 `and put it all together splendidly without any contradictions. `
-`That detailed written plan of yours had the same beauty as a high-level {çeviri-büyü}magic circle." `
+`That detailed written plan of yours had the same beauty as a high-level {ceviri}{büyü}magic circle." `
 `To make it look like Kinzo actually existed and was living life his own way, `
-`she had written his schedule for the day down to the finest detail and made the {çeviri-hizmetkar}servants follow it to the letter. `
+`she had written his schedule for the day down to the finest detail and made the {ceviri}{hizmetkar}servants follow it to the letter. `
 `When did he meet whom and where, and what did he leave them? `
 `When did he do what and where, and what changed? `
 `As a result, even though the relatives never saw Kinzo even once, `
 `they hadn't suspected in the slightest that he hadn't been there. `
 `Eva and the rest truly believed that Kinzo had just happened to be walking through the hall when he heard them talking about the inheritance and went into a rage. `
 `Everything had gone just as Natsuhi's plan had predicted, down to the finest detail. `
-`And the cooperation by the {çeviri-hizmetkar}servants had also worked smoothly, down to the finest detail... `
+`And the cooperation by the {ceviri}{hizmetkar}servants had also worked smoothly, down to the finest detail... `
 `"We had to stop this secret from getting out no matter the cost. `
 `That's why I double-checked the plan thoroughly." `
 `"Your willpower and attention to detail summoned success with certainty. `
 `...As a witch, it seems that you're in Lady Lambdadelta's camp. `
-`At your current level, as soon as you become self-aware of that as {çeviri-büyü}magic, you will be worthy of calling yourself a witch apprentice." `
-`"If you call something like that {çeviri-büyü}magic, then that would make Kumasawa the witch of feigned illnesses. `
+`At your current level, as soon as you become self-aware of that as {ceviri}{büyü}magic, you will be worthy of calling yourself a witch apprentice." `
+`"If you call something like that {ceviri}{büyü}magic, then that would make Kumasawa the witch of feigned illnesses. `
 `It's only on busy days that she calls us to say she's taking the day off because of her bad back. `
 `Like every year's family conference, for example." `
 `"Oh, no, you've got Kumasawa completely wrong there. `
@@ -573,7 +573,7 @@
 `Especially if it's a rehash." `
 `"..............." `
 `"Laugh. `
-`Just like you're cackling over there as you drink with {çeviri-Hala}Aunt Natsuhi." `
+`Just like you're cackling over there as you drink with {ceviri}{Hala}Aunt Natsuhi." `
 `"..........................." `
 `"..............." `
 `"...............................................................................................................................................................{0}..." `
@@ -739,7 +739,7 @@
 `Beatrice doesn't exist. `
 `This is a fake illusion of a witch that Natsuhi created, since she believes she was borrowing a witch's power when she thought up a brilliant plan to overcome hardship. `
 `It only looks like they're drinking together `
-`because Lambdadelta, who's the {çeviri-Oyun Yöneticisi}Game Master and {i:the one telling the story}, interpreted it that way." `
+`because Lambdadelta, who's the {ceviri}{Oyun Yöneticisi}Game Master and {i:the one telling the story}, interpreted it that way." `
 `"If you could stare at this scene without a fragment of love for Natsuhi, you wouldn't see an illusion like that. `
 `...That's why with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence." `
 `Without love, it cannot be "seen". `
@@ -756,13 +756,13 @@
 `"It doesn't matter where I say it. `
 `This is Beato's world we're in." `
 `"...Also, it's not like I'm protecting Beato, `
-`but it's still possible {çeviri-Hala}Aunt Natsuhi really is drinking tea with some unknown person X, who calls themselves Beatrice. `
+`but it's still possible {ceviri}{Hala}Aunt Natsuhi really is drinking tea with some unknown person X, who calls themselves Beatrice. `
 `This scene takes place a year before everything. `
-`The number of people on the island on this day has never been shown with the {çeviri-kırmızı gerçek}red truth." `
+`The number of people on the island on this day has never been shown with the {ceviri}{kırmızı gerçek}red truth." `
 `".........Sure. `
 `Even Lambda hasn't said anything in red about the number of people on Rokkenjima on this day." `
 `"In that case, `
-`it's possible for {çeviri-Hala}Aunt Natsuhi to claim that she really did drink tea with a woman calling herself Beatrice. `
+`it's possible for {ceviri}{Hala}Aunt Natsuhi to claim that she really did drink tea with a woman calling herself Beatrice. `
 `Just like I can't deny your theory, you can't deny mine. `
 `That means you can't say for sure whether the Beato there is an illusion or not." `
 `"......Oh, is this cat box theory? `
@@ -775,7 +775,7 @@
 `was erased. `
 `...A lonely wind blew, `
 `...and the one person who remained on the bench drinking tea with a tired expression... `
-`...was {çeviri-Hala}Aunt Natsuhi, all by herself...... `
+`...was {ceviri}{Hala}Aunt Natsuhi, all by herself...... `
 `".........Nng, ggh..............." `
 `Beato...groaned. `
 `I could see clearly that she was in anguish. `
@@ -787,15 +787,15 @@
 `In other words, ...even if I want to minimize her pain, I still have to cause it. `
 `I have to accept...that look of anguish on her face... `
 `And at the same time, `
-`...I realized what a merciless thing the {çeviri-kırmızı gerçek}red truth was. `
-`...Right now, in this rose garden, there's no one except {çeviri-Hala}Aunt Natsuhi. `
-`In other words, there are no observers except for {çeviri-Hala}Aunt Natsuhi. `
+`...I realized what a merciless thing the {ceviri}{kırmızı gerçek}red truth was. `
+`...Right now, in this rose garden, there's no one except {ceviri}{Hala}Aunt Natsuhi. `
+`In other words, there are no observers except for {ceviri}{Hala}Aunt Natsuhi. `
 `So, if that lone observer were to say that she'd had some tea with Beato, `
 `...no one should be able to refute that. `
 `...If there's something no one can deny, ...doesn't that mean it's truth? `
-`{çeviri-Hala}Aunt Natsuhi is enjoying the roses and drinking tea together with Beato. `
+`{ceviri}{Hala}Aunt Natsuhi is enjoying the roses and drinking tea together with Beato. `
 `...How could anyone have the right to mercilessly trample that pleasant moment...? `
-`"......The {çeviri-kırmızı gerçek}red truth is like a blade." `
+`"......The {ceviri}{kırmızı gerçek}red truth is like a blade." `
 `"..............." `
 `"In a battle with a witch, it's a blade that sometimes tears your theories apart, but sometimes becomes a weapon you can fight back with." `
 `"...I know. `
@@ -804,25 +804,25 @@
 `"........." `
 `"A blade is a tool if you use it when you're supposed to, `
 `...but it's a weapon if you use it out of malice." `
-`True enough, {çeviri-Hala}Aunt Natsuhi wasn't really drinking tea with a witch. `
-`However, saying that with the {çeviri-kırmızı gerçek}red truth probably has nothing to do with our game. `
+`True enough, {ceviri}{Hala}Aunt Natsuhi wasn't really drinking tea with a witch. `
+`However, saying that with the {ceviri}{kırmızı gerçek}red truth probably has nothing to do with our game. `
 `Our game is the tale of October 1986. `
 `The two days of the crime give us more than enough time to injure each other, with our red and blue blades glistening. `
 `"This isn't about the Illusion of the Witch. `
-`...It's about {çeviri-Hala}Aunt Natsuhi's privacy. `
+`...It's about {ceviri}{Hala}Aunt Natsuhi's privacy. `
 `How could anyone have the right to expose that?" `
 `"............ `
 `...Do you want to acknowledge that a witch actually existed here and drank tea with Natsuhi? `
 `Weren't you trying to deny the existence of witches?" `
 `"...That's right, if we're talking about our game, the two-day period from October 4th to October 5th in 1986. `
 `But I have no desire to question whether or not witches exist outside that game board." `
-`"In the first place, the {çeviri-Şeytan'ın İspatı}Devil's Proof argument makes it impossible to deny the existence of witches. `
+`"In the first place, the {ceviri}{Şeytan'ın İspatı}Devil's Proof argument makes it impossible to deny the existence of witches. `
 `And, according to the rules of this game, saying something like what you did in red is a forbidden move that leads to a stalemate. `
-`You can't deny the existence of witches, not even with the {çeviri-kırmızı gerçek}red truth." `
+`You can't deny the existence of witches, not even with the {ceviri}{kırmızı gerçek}red truth." `
 `".........True. `
 `...I never thought I'd hear you talk so glibly about witches existing. `
 `.........Not bad, Lambda. `
-`You've done a good job getting Battler stuck between his human {çeviri-suçlu}culprit theory and the idea that witches existing wouldn't be so bad." `
+`You've done a good job getting Battler stuck between his human {ceviri}{suçlu}culprit theory and the idea that witches existing wouldn't be so bad." `
 `"She really excels at controlling Human hearts. `
 `...Looks like I'd better start helping you out even more." `
 `"I really couldn't care less about you two. `

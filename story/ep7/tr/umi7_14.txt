@@ -28,16 +28,16 @@
 `That doesn't mean I can accept it easily." `
 `Lion suddenly yelled and looked at the floor. `
 `Lion already knew. `
-`Because of the {çeviri-Kakera}Fragments lent by Bernkastel, Lion knew. `
+`Because of the {ceviri}{Kakera}Fragments lent by Bernkastel, Lion knew. `
 `There was a different world, where Lion lived as the Golden Witch Beatrice. `
 `And, in this world, ...eventually, `
 `......on the day of the 1986 October family conference, `
 `...she would be the ringleader of a terrible crime. `
 `"...Even if it is a different world, `
-`...you're saying that I get my entire family and all of the {çeviri-hizmetkar}servants involved in a terrible crime that I'm the mastermind of! `
+`...you're saying that I get my entire family and all of the {ceviri}{hizmetkar}servants involved in a terrible crime that I'm the mastermind of! `
 `How am I supposed to deal with that?!" `
 `"......Be quiet, listen, and figure it out." `
-`"In a different life, I end up as a {çeviri-hizmetkar}servant! `
+`"In a different life, I end up as a {ceviri}{hizmetkar}servant! `
 `And if that wasn't enough, I suddenly become a witch! `
 `And then, I eventually carry out several terrifying murders...! `
 `How am I supposed to understand that?!" `
@@ -53,7 +53,7 @@
 `I'm not the main character in this tale. `
 `You are. `
 `...I'm just here to help you understand." `
-`"You said that you understand the {çeviri-suçlu}culprit's motive." `
+`"You said that you understand the {ceviri}{suçlu}culprit's motive." `
 `"...Yes." `
 `"Is that motive... `
 `a satisfying explanation for why I'd kill my entire family...?!" `
@@ -72,19 +72,19 @@
 `...I did not have the power to commit those crimes at that time." `
 `"Probably. `
 `...Your misfortune probably came... `
-`when you solved the {çeviri-kitabe}epitaph's riddle." `
+`when you solved the {ceviri}{kitabe}epitaph's riddle." `
 `"......Huh? `
-`You mean that {çeviri-kitabe}epitaph about the hidden gold, which Grandfather supposedly wrote...?!" `
+`You mean that {ceviri}{kitabe}epitaph about the hidden gold, which Grandfather supposedly wrote...?!" `
 `"There exists a system for gaining different accomplices for each crime. `
-`...Reasoning can lead us to the possibility that the {çeviri-suçlu}culprit possessed a vast amount of money. `
+`...Reasoning can lead us to the possibility that the {ceviri}{suçlu}culprit possessed a vast amount of money. `
 `We can also envision another system, `
-`...which involves inviting all to the {çeviri-Altın Diyar}Golden Land... `
+`...which involves inviting all to the {ceviri}{Altın Diyar}Golden Land... `
 `...and making all loves bear fruit." `
 `"...So, it wasn't just the motive. `
 `You've already seen that far as well." `
 `"That's the answer to the final riddle from the 4th game. `
-`...Your greatest misfortune was solving the {çeviri-kitabe}epitaph, `
-`...reviving as the Golden Witch in the truest sense, and gaining {çeviri-büyülü}magical power." `
+`...Your greatest misfortune was solving the {ceviri}{kitabe}epitaph, `
+`...reviving as the Golden Witch in the truest sense, and gaining {ceviri}{büyülü}magical power." `
 `"...Looking back, ...was that really misfortune after all? `
 `...I do not know. `
 `However, as long as the fact that Battler-san returns in 1986 remains unchanged, `
@@ -100,7 +100,7 @@
 `...then what?" `
 `"...... `
 `...Fate can be so filled with irony. `
-`...It made me walk the path of a witch, ...and when I solved the {çeviri-kitabe}epitaph, I became a true witch. `
+`...It made me walk the path of a witch, ...and when I solved the {ceviri}{kitabe}epitaph, I became a true witch. `
 `...Then, six years passed, and I learned of his return. `
 `...If all of that was fate, `
 `...then this crime must have been inevitable and inescapable for me." `
@@ -246,7 +246,7 @@
 `"And poor Battler-san, too... `
 `I do believe that he'll make up with them eventually, but..." `
 `"...This is a matter for the family. `
-`It is not something {çeviri-hizmetkar}servants need concern themselves with. `
+`It is not something {ceviri}{hizmetkar}servants need concern themselves with. `
 `Instead, we should focus on memorizing the face of the newest member of the Ushiromiya family, Kyrie-sama." `
 `"Yes, that's true. `
 `She will be coming to the family conference this year..." `
@@ -299,7 +299,7 @@
 `...Then...this must be another dream... `
 `I was there, under an arbor surrounded by a golden rose garden, `
 `and two witches in white and red dresses were showering words of encouragement upon me... `
-`"You can be sure that those rumor-mongering young {çeviri-hizmetkar}servants are embellishing the story however they please. `
+`"You can be sure that those rumor-mongering young {ceviri}{hizmetkar}servants are embellishing the story however they please. `
 `So, he has changed his name, they say?! `
 `Surely, this can be nothing more than a family quarrel." `
 `"......... `
@@ -343,12 +343,12 @@
 `How nice would it be if they were right... `
 `In fact, if I could, I'd like to flip through the calendar until autumn right now and check to see whether he does come to the next conference. `
 `If he does, then all of my fears are groundless. `
-`It would mean the rumor-mongering family members and {çeviri-hizmetkar}servants have just blown things out of proportion... `
+`It would mean the rumor-mongering family members and {ceviri}{hizmetkar}servants have just blown things out of proportion... `
 `If Battler-san was right here, I'd want to question him right away... `
 `...Hey, it isn't true that you'll never come to Rokkenjima again, right...? `
 `And then, if he said that of course he would come again, ...it would be such a relief... `
 `I don't know the phone number for Rudolf-sama's house, but I could probably look it up if I tried. `
-`However, as a {çeviri-hizmetkar}servant of the family, I have no excuse for making such a call. `
+`However, as a {ceviri}{hizmetkar}servant of the family, I have no excuse for making such a call. `
 `And anyway, I have no way of knowing the phone number for Battler's grandparents' house... `
 `I can't do anything except wait for Rudolf-sama's family to come visit and hope that my fears are groundless... `
 `However, will I be able to make it through the day feeling like this...? `
@@ -363,12 +363,12 @@
 `...I can't bear it... `
 `"Hey, Shannon. `
 `Sorry to ask this out of the blue, `
-`...but when you made up your mind to do something by the next year, that something wasn't just quitting work as a {çeviri-hizmetkar}servant on this island, right?" `
+`...but when you made up your mind to do something by the next year, that something wasn't just quitting work as a {ceviri}{hizmetkar}servant on this island, right?" `
 `"...Uh, ...that... `
 `......" `
 `I...made the decision to start a new life. `
-`I didn't want keep on being a {çeviri-hizmetkar}servant by force of habit. `
-`I made the decision to step into a new life...and to leave my old life as a {çeviri-hizmetkar}servant behind. `
+`I didn't want keep on being a {ceviri}{hizmetkar}servant by force of habit. `
+`I made the decision to step into a new life...and to leave my old life as a {ceviri}{hizmetkar}servant behind. `
 `"And Battler promised that he'd come here on the day of your decision, right...?" `
 `"...Ummm, `
 `...yes..." `
@@ -387,9 +387,9 @@
 `"What does it mean to live life with Battler? `
 `Have you ever thought seriously about it in detail?" `
 `"Well, ...uh..." `
-`As long as I'm working as a {çeviri-hizmetkar}servant on Rokkenjima, my opportunities for meeting him are limited. `
+`As long as I'm working as a {ceviri}{hizmetkar}servant on Rokkenjima, my opportunities for meeting him are limited. `
 `We're both underage, so it's too early to talk about...umm...marriage. `
-`However, if I quit working as a {çeviri-hizmetkar}servant, I should have many more opportunities to meet him. `
+`However, if I quit working as a {ceviri}{hizmetkar}servant, I should have many more opportunities to meet him. `
 `Once I quit work here, ...I'll return to the Fukuin House. `
 `I have my wages from serving the family, so I should have more than enough to travel to Battler-san's house to play. `
 `And when I graduate from school, I can rent an apartment near Battler-san's house. `
@@ -397,7 +397,7 @@
 `That life would be a lot more difficult than I first thought. `
 `...However, I'd be able to see Battler-san much, much more often. `
 `If not every day, then every week. `
-`I won't be a {çeviri-hizmetkar}servant anymore, so there won't be any difference in class. `
+`I won't be a {ceviri}{hizmetkar}servant anymore, so there won't be any difference in class. `
 `...I can call him whenever I want. `
 `And I'm already doing both school and work. `
 `Thanks to my experience here, I know more than enough to do simple housework... `
@@ -430,7 +430,7 @@
 `...like the gentle breeze that washes over you when you go outside during a brief spot of sunshine on a rainy day. `
 `That's right, I didn't actually have the determination to go that far. `
 `I need to strengthen my determination by the time the next family conference comes around. `
-`If I can't do that, then sticking around as a {çeviri-hizmetkar}servant on this island is no more than I deserve. `
+`If I can't do that, then sticking around as a {ceviri}{hizmetkar}servant on this island is no more than I deserve. `
 `"And at the same time, this is also a trial." `
 `"True. `
 `A trial to be overcome." `
@@ -454,9 +454,9 @@
 `because he's set his sights on a future with you." `
 `"Oh, why would that be?" `
 `"If he knows that you will live together and eventually exchange marriage vows, `
-`having the name Ushiromiya would cause problems, since Shannon is a {çeviri-hizmetkar}servant of the Ushiromiya family." `
+`having the name Ushiromiya would cause problems, since Shannon is a {ceviri}{hizmetkar}servant of the Ushiromiya family." `
 `"Ah, I see! `
-`He realizes that there'll be all kinds of trouble if he decides to marry a {çeviri-hizmetkar}servant girl, so he's abandoned the Ushiromiya name beforehand...!" `
+`He realizes that there'll be all kinds of trouble if he decides to marry a {ceviri}{hizmetkar}servant girl, so he's abandoned the Ushiromiya name beforehand...!" `
 `"What do you think, Shannon?! `
 `That way, everything makes sense! `
 `Battler has abandoned the Ushiromiya name for your sake! `
@@ -625,7 +625,7 @@
 `...However, I've decided to think of it that way for now. `
 `This is a trial...to see whether I trust Battler-san or not." `
 `If he had come today, `
-`...then today, I would have had to tell Madam that I wanted to quit my job as a {çeviri-hizmetkar}servant. `
+`...then today, I would have had to tell Madam that I wanted to quit my job as a {ceviri}{hizmetkar}servant. `
 `However, was I really prepared to do that? `
 `Last night, I kept worrying about whether Battler-san would come or not. `
 `Thanks to that, not only did I not have the resolve to quit my job, I hadn't even started on the paperwork to do so. `

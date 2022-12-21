@@ -696,9 +696,9 @@
 `I'm wearing a Navy uniform. `
 `I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships. `
 `If the doctor happens to be of the greedy sort, all the better. `
-`...After all, I have right here the golden {çeviri-büyü}magic to make people do what I say. `
+`...After all, I have right here the golden {ceviri}{büyü}magic to make people do what I say. `
 `A witch...from a distant country...took my lifeless body and gave me a soul. `
-`A woman came to me with the gold...and revived me with her {çeviri-büyü}magic. `
+`A woman came to me with the gold...and revived me with her {ceviri}{büyü}magic. `
 `"<You...are a witch. `
 `...The Golden Witch.>" `
 `"<*giggle* `
@@ -777,7 +777,7 @@
 `Then, he made use of his considerable skills in English to make connections with the GHQ, becoming immensely wealthy in a short span of time. `
 `There's no need to explain this part to you, Lion-san." `
 `"...Yes. `
-`He used that vast wealth, ...bought Rokkenjima, and built the {çeviri-malikane}mansion. `
+`He used that vast wealth, ...bought Rokkenjima, and built the {ceviri}{malikane}mansion. `
 `The remaining relatives in Odawara scoffed at Grandfather, thinking he was crazy to buy an entire deserted island." `
 `"If you could carry 10 tons of gold around in your pocket, Kinzo probably wouldn't have bought Rokkenjima." `
 `He hid the gold somewhere in Rokkenjima, `

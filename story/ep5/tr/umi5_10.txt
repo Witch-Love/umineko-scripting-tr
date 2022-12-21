@@ -52,7 +52,7 @@
 `"This is just too horrible... `
 `How...could anyone get away with somethin' like this...?!!" `
 `As they clung to Aniki's corpse, which would never wake up again, `
-`...{çeviri-Hala}Aunt Eva and Uncle Hideyoshi cried. `
+`...{ceviri}{Hala}Aunt Eva and Uncle Hideyoshi cried. `
 `"...That's enough. `
 `Do you think George-kun would like the two of you to see him this way...? `
 `Of course not...!" `
@@ -66,7 +66,7 @@
 `We mustn't keep staring at George in such a state... `
 `...This is for George's sake! `
 `We have to restrain ourselves for now...!" `
-`When {çeviri-Hala}Aunt Eva tried even harder to cling to that corpse, `
+`When {ceviri}{Hala}Aunt Eva tried even harder to cling to that corpse, `
 `Dad and Uncle Hideyoshi dragged her away and had a heated debate with her beside the wall... `
 `"No, nooooooooooooo, Geooooooooorge!! `
 `Doctor Nanjo! Help him!! `
@@ -106,8 +106,8 @@
 `...And not only Maria. `
 `There was one more victim. `
 `Lying on the same bed, as though they'd been sleeping alongside each other, `
-`...was {çeviri-Hala}Aunt Rosa. `
-`George-aniki, Jessica, Maria, ...and {çeviri-Hala}Aunt Rosa. `
+`...was {ceviri}{Hala}Aunt Rosa. `
+`George-aniki, Jessica, Maria, ...and {ceviri}{Hala}Aunt Rosa. `
 `...In this room were four humans who had been killed, their necks sliced open. `
 `They'd probably been like that since last night. `
 `...I'd returned without noticing anything, gotten in bed, and fallen asleep... `
@@ -129,7 +129,7 @@
 `...was just horrible......... `
 `And...there was one more thing that adorned these brutal murders, making them even more unsettling. `
 `Drawn very large on the wall... `
-`...was something like an eerie {çeviri-büyü}magic circle. `
+`...was something like an eerie {ceviri}{büyü}magic circle. `
 `It was drawn in a bright-red paint that looked like blood... `
 `and made it look as though some creepy ceremony had taken place in this room, `
 `with the four of them offered as human sacrifices... `
@@ -137,10 +137,10 @@
 `...No one has a heart so cold that they could witness the deaths of those close to them... `
 `...and still worry about some scribbles on the wall... `
 `"......Good morning, everyone. `
-`......Oh, ...what a wonderful {çeviri-büyü}magic circle." `
+`......Oh, ...what a wonderful {ceviri}{büyü}magic circle." `
 `The girl who bragged that she drew more pleasure from the process of exposing the truth than the truth itself... `
 `...and who went so far as to call herself an intellectual rapist, ...appeared in the hall. `
-`When she saw the extraordinarily creepy {çeviri-büyü}magic circle in this gruesome room, `
+`When she saw the extraordinarily creepy {ceviri}{büyü}magic circle in this gruesome room, `
 `I heard what was unmistakably a sigh of admiration escape her lips... `
 `"You...... ...Don't come in here......" `
 `"......I just heard about it in the corridor. `
@@ -165,7 +165,7 @@
 `"We're saying that we have no business with you...! `
 `Now's the time for outsiders like you to stand back!!" `
 `"......In my personal opinion, `
-`only third-rate mysteries have a suspect who tries to interfere with the investigation, and then turns out to be the {çeviri-suçlu}culprit." `
+`only third-rate mysteries have a suspect who tries to interfere with the investigation, and then turns out to be the {ceviri}{suçlu}culprit." `
 `"Who gives a damn about what you want?!! `
 `Get out!! `
 `You aren't wanted here!!" `
@@ -208,16 +208,16 @@
 `That's two corpses short. `
 `...Well, she doesn't necessarily need to have six people killed, but that's how we've been playing. `
 `That girl isn't completely clueless, so she must've killed two more people somewhere." `
-`On the wall was a {çeviri-büyü}magic circle representing the first twilight, similar to the ones in Beato's games. `
+`On the wall was a {ceviri}{büyü}magic circle representing the first twilight, similar to the ones in Beato's games. `
 `*giggle* That girl talks tough, but I wonder just how closely she'll be able to imitate Beato. `
 `*giggle*giggle*, ahhahahahahaha...! `
 `That Hebrew sure is crappy. `
 `It isn't written exactly right. `
 `"...What the heck... `
 `What's going on? `
-`Why's there a {çeviri-büyü}magic circle?" `
+`Why's there a {ceviri}{büyü}magic circle?" `
 `"I'll bet they wanted to copy Beatrice-sama. `
-`Aha, what a crappy {çeviri-büyü}magic circle...!" `
+`Aha, what a crappy {ceviri}{büyü}magic circle...!" `
 `"This isn't just a copycat! `
 `Some Human went out of their way to draw that...so they could make it look like Beatrice-sama did this...! `
 `Anyway, let's report to Beatrice-sama about this!" `
@@ -228,14 +228,14 @@
 `"...Furudo Erika... `
 `...An unexpected crime and an unexpected woman. `
 `...And the unexpected man from 19 years ago. `
-`......And if you add in the fact that Battler's already solved the {çeviri-kitabe}epitaph, this game is completely different from normal. `
+`......And if you add in the fact that Battler's already solved the {ceviri}{kitabe}epitaph, this game is completely different from normal. `
 `...What the heck's going on...?! `
 `Let's go!!" `
 `""Yes, Onee-sama!!"" `
 `In the kitchen, Gohda was preparing a wonderful breakfast at a brisk pace. `
 `The main dish would be herb omelets. `
 `Even simple foods could become an invigorating feast under Gohda's skillful hands. `
-`He would precook everything beforehand and prepare the food in the {çeviri-yemek salonu}dining hall right before everyone's eyes. `
+`He would precook everything beforehand and prepare the food in the {ceviri}{yemek salonu}dining hall right before everyone's eyes. `
 `"Hmm hmm hmm hmm{p:0:♪} Pan pan pan pan{p:0:♪}" `
 `Gohda hummed as he continued his work in high spirits. `
 `When Shannon, who was helping out, saw Gohda like this, her mood also brightened. `
@@ -250,7 +250,7 @@
 `Shannon didn't like Gohda when he was sneaky, but she had no problems at all with him when he was cooking happily. `
 `She sometimes even thought it'd be nice if his contract hadn't included any jobs besides cooking. `
 `If that had been the case, he wouldn't have had to get in a bad mood doing unnecessary jobs. `
-`"The {çeviri-yemek salonu}dining hall is ready. `
+`"The {ceviri}{yemek salonu}dining hall is ready. `
 `You can carry it in whenever you want." `
 `"We're almost good to go, so please get the serving cart ready. `
 `Hmm hmm hmmmmm!" `
@@ -275,14 +275,14 @@
 `Even though Gohda had asked her to get the serving cart ready, `
 `Kumasawa plodded off after Kanon, slyly skipping work. `
 `As Kanon muttered about how Gohda was the one who slept in all the time, `
-`he headed for the {çeviri-hizmetkar}servant waiting room. `
+`he headed for the {ceviri}{hizmetkar}servant waiting room. `
 `"So, you didn't wake him up this morning, Kanon-san?" `
-`"...Last night, I fell asleep while still in the {çeviri-hizmetkar}servant room, so I didn't return to the waiting room." `
+`"...Last night, I fell asleep while still in the {ceviri}{hizmetkar}servant room, so I didn't return to the waiting room." `
 `Last night, Kanon had dozed off while in the middle of his late night shift, `
-`falling asleep in the {çeviri-hizmetkar}servant room. `
+`falling asleep in the {ceviri}{hizmetkar}servant room. `
 `Shannon had been kind enough to put a blanket on him, `
 `but that had just made it so warm that he fell into an even deeper sleep... `
-`So he hadn't returned to his bed in the {çeviri-hizmetkar}servant waiting room the previous night. `
+`So he hadn't returned to his bed in the {ceviri}{hizmetkar}servant waiting room the previous night. `
 `Because of that, he hadn't met Genji even once this morning. `
 `There was a knock on the door. `
 `"...Genji-sama, `
@@ -317,7 +317,7 @@
 `G-Genji-sama...!" `
 `"Eek, ...wh-what is this, what is this...?!" `
 `There was a large, red-black stain on the blanket. `
-`...Even the {çeviri-hizmetkar}servants' blankets were always kept clean. `
+`...Even the {ceviri}{hizmetkar}servants' blankets were always kept clean. `
 `A stain like that definitely shouldn't have been there. `
 `Kanon hesitantly peeled back Genji's blanket, `
 `......saw what was left of him, `
@@ -327,7 +327,7 @@
 `"......It's thin. `
 `...You wouldn't be able to leave a cut this deep without a fairly long blade." `
 `"Wh-What's going on? `
-`Battler solved the riddle of the {çeviri-kitabe}epitaph, right? `
+`Battler solved the riddle of the {ceviri}{kitabe}epitaph, right? `
 `Why are there murders happening?!" `
 `"I don't know. `
 `...In any event, this isn't good. `
@@ -342,7 +342,7 @@
 `...There's no chance they'll have a quiet and peaceful breakfast on the second day. `
 `...I have a bad feeling about this. `
 `Genji might not be the only one. `
-`...Let's check the entire {çeviri-malikane}mansion. Something else might've happened...!" `
+`...Let's check the entire {ceviri}{malikane}mansion. Something else might've happened...!" `
 `"Yes, Onee-sama!!" `
 `Natsuhi sprang awake at the sudden sound of the phone. `
 `Even Natsuhi was surprised that she'd woken up. `
@@ -418,15 +418,15 @@
 `If you keep two promises, that is." `
 `"What are they...?!" `
 `"One is that you keep it a secret that I have your husband in my care. `
-`...There will probably be a fuss when they are unable to find Krauss anywhere in the {çeviri-malikane}mansion, `
+`...There will probably be a fuss when they are unable to find Krauss anywhere in the {ceviri}{malikane}mansion, `
 `but you know nothing, so you will say nothing. `
 `...Understand?" `
 `"I-I understand...! `
 `What's your other condition?!" `
 `"...Oh, just a little game. `
 `At 1:00 today, `
-`you will go into the foremost {çeviri-misafir odası}guest room on the first floor of the {çeviri-malikane}mansion and hide in the closet." `
-`"A {çeviri-misafir odası}guest room...? `
+`you will go into the foremost {ceviri}{misafir odası}guest room on the first floor of the {ceviri}{malikane}mansion and hide in the closet." `
+`"A {ceviri}{misafir odası}guest room...? `
 `Why should I go into a closet...?!" `
 `"Just a little hide-and-seek. `
 `If you can hide there for an hour without anyone finding you, you win. `
@@ -454,7 +454,7 @@
 `"......What is it? `
 `Did something happen?" `
 `"I-It's nothing. `
-`It looks like the {çeviri-hizmetkar}servants have arrived. `
+`It looks like the {ceviri}{hizmetkar}servants have arrived. `
 `I'm hanging up." `
 `"Sure. `
 `I have said everything I wanted to. `
@@ -492,26 +492,26 @@
 `F-Five people have been killed?!" `
 `"Y-Yes. `
 `...And it was so...horrible...!" `
-`"It was exactly the same as the four in the {çeviri-konukevi}guesthouse... `
+`"It was exactly the same as the four in the {ceviri}{konukevi}guesthouse... `
 `...The neck...was sliced open...with a terribly sharp blade..." `
 `"...T-To think that even though I had the midnight shift, ...I didn't notice anyone suspicious..." `
 `"Don't blame yourself. `
-`...If you'd bumped into the {çeviri-suçlu}culprit, you might be the one dead right now." `
+`...If you'd bumped into the {ceviri}{suçlu}culprit, you might be the one dead right now." `
 `"On top of that, the phones aren't even connectin'...! `
 `I doubt any boats'll come in this weather. `
 `This is serious...!" `
-`"...And that makes it very likely the {çeviri-suçlu}culprit's still nearby." `
+`"...And that makes it very likely the {ceviri}{suçlu}culprit's still nearby." `
 `"E-Eeeeeeeeeeeeekkkk...! `
 `Then what? `
 `Does that mean we'll be trapped here with a murderer until the typhoon passes and the boat comes...?!" `
 `"...I-It'll be okay. `
-`If we all stay together like this, even the {çeviri-suçlu}culprit won't be able to lay a finger on us...!" `
+`If we all stay together like this, even the {ceviri}{suçlu}culprit won't be able to lay a finger on us...!" `
 `"...E-Even Jessica... `
 `...I can't believe it......" `
 `"W-We won't let ourselves be killed...!! `
 `I'll avenge George!! `
 `I won't let them get away! `
-`No matter who the {çeviri-suçlu}culprit is or what their reason was, I won't let the one who killed George get away!! `
+`No matter who the {ceviri}{suçlu}culprit is or what their reason was, I won't let the one who killed George get away!! `
 `I'll kill them, I'll kill them!! `
 `Waaaaaaaaaaaaahhhhh...!!" `
 `"......Okay, everyone, are you done crying yet? Silence, please. `
@@ -524,11 +524,11 @@
 `"Wh-What does it mean...? `
 `You don't think...Uncle Krauss too...?!" `
 `".........Figures. `
-`......I hate to say it at a time like this, ...but there were four in the {çeviri-konukevi}guesthouse, plus Genji to make five. `
+`......I hate to say it at a time like this, ...but there were four in the {ceviri}{konukevi}guesthouse, plus Genji to make five. `
 `...I figured there would be one more." `
 `"Why?! `
 `How could you know that?! `
-`Are you the {çeviri-suçlu}culprit?! `
+`Are you the {ceviri}{suçlu}culprit?! `
 `Did you kill George?!" `
 `"St-Stop it, Eva-san...! `
 `Now is not the time...!" `
@@ -536,7 +536,7 @@
 `Nanjo stepped in between them, and it grew into a bit of a scuffle... `
 `Watching this, Erika smiled condescendingly and shrugged. `
 `"Of course. `
-`It's natural you'd guess there were six victims after seeing the crime scene in the {çeviri-konukevi}guesthouse. `
+`It's natural you'd guess there were six victims after seeing the crime scene in the {ceviri}{konukevi}guesthouse. `
 `There were only four corpses, so it'd make you wonder who the other two were." `
 `"How could you know such a thing?!! `
 `You killed them?! `
@@ -546,9 +546,9 @@
 `How can you know that?! `
 `Can't you think before you talk...?!" `
 `"......It's a simple connection to make. `
-`The scribble drawn at the scene of the crime in the {çeviri-konukevi}guesthouse was a {çeviri-büyü}magic circle. `
-`I just tried to think of things connected to both {çeviri-büyü}magic and murders." `
-`"Ah, ......so it's the {çeviri-kitabe}epitaph, huh?" `
+`The scribble drawn at the scene of the crime in the {ceviri}{konukevi}guesthouse was a {ceviri}{büyü}magic circle. `
+`I just tried to think of things connected to both {ceviri}{büyü}magic and murders." `
+`"Ah, ......so it's the {ceviri}{kitabe}epitaph, huh?" `
 `"...I see... `
 `......It's......the first twilight." `
 `"Huh? ...Huh? `
@@ -563,9 +563,9 @@
 `"I told you, Eva...! Calm down a bit...!!" `
 `"..............." `
 `"...That's how it is. `
-`Ever since I saw the {çeviri-büyü}magic circle at that crime scene, `
-`I imagined this might be a plotline murder following the {çeviri-kitabe}epitaph's first twilight, which would mean there are six victims." `
-`"...Simply by the existence of the {çeviri-büyü}magic circle in that place, `
+`Ever since I saw the {ceviri}{büyü}magic circle at that crime scene, `
+`I imagined this might be a plotline murder following the {ceviri}{kitabe}epitaph's first twilight, which would mean there are six victims." `
+`"...Simply by the existence of the {ceviri}{büyü}magic circle in that place, `
 `this level of reasoning is possible for Furudo Erika. `
 `What do you think, everyone?" `
 `"......So, Uncle Krauss was also...killed...?" `
@@ -574,9 +574,9 @@
 `There's one more." `
 `".........!" `
 `For just an instant, Natsuhi's brow furrowed...... `
-`So, ...she hadn't been able to avoid the topic of the {çeviri-çalışma odası}study after all... `
+`So, ...she hadn't been able to avoid the topic of the {ceviri}{çalışma odası}study after all... `
 `"You don't mean...Dad?! `
-`Hey, someone must've contacted the {çeviri-çalışma odası}study, right?!" `
+`Hey, someone must've contacted the {ceviri}{çalışma odası}study, right?!" `
 `"O-Of course we called...and even knocked on the door... `
 `But, umm, there was no answer..." `
 `"...F-Father is immersing himself in his research... `
@@ -595,7 +595,7 @@
 `Oh, but in third-rate disaster movies and third-rate action movies, people who act alone do survive, right? `
 `Weird. `
 `*giggle*giggle*! `
-`"...Even though the {çeviri-kitabe}epitaph has already been solved... `
+`"...Even though the {ceviri}{kitabe}epitaph has already been solved... `
 `...Who's behind this farce...?" `
 `"It might be the work of this man from 19 years ago, ...who is thought to be Lady Lambdadelta's piece. `
 `...Ah yes, that can't be true." `
@@ -622,7 +622,7 @@
 `Perhaps this isn't the best time to wait and see what happens next." `
 `"I know that. `
 `At this rate, Kinzo's existence will become an issue once again. `
-`...And the barrier around the {çeviri-çalışma odası}study won't last long." `
+`...And the barrier around the {ceviri}{çalışma odası}study won't last long." `
 `"That isn't all. `
 `Things are going to get even worse. `
 `......See? `
@@ -642,7 +642,7 @@
 `If we slip up here, Natsuhi will be cornered...! `
 `Gaap, can I count on you?!" `
 `"Of course! `
-`...I'll blow a hole through closed room tricks, {çeviri-mazeret}alibis, and mysteries alike. `
+`...I'll blow a hole through closed room tricks, {ceviri}{mazeret}alibis, and mysteries alike. `
 `......Leave it to me. I'll handle it." `
 `Gaap was swallowed up, along with the chair she sat in, into a pitch-black hole that opened on the floor and then disappeared. `
 `After that, a hole opened on the ceiling and spat just the chair back out, returning the place to the way it had been... `
@@ -665,7 +665,7 @@
 `"...What's going on?! `
 `Where's Nii-san?!" `
 `"Judging by this bloodstained bed... `
-`I don't like to think about it, but we should probably assume that he was killed and had his neck cut open, just like the people in the {çeviri-konukevi}guesthouse..." `
+`I don't like to think about it, but we should probably assume that he was killed and had his neck cut open, just like the people in the {ceviri}{konukevi}guesthouse..." `
 `"......Probably... `
 `Judging by the amount of blood lost, ...it's hard to imagine that he's okay..." `
 `"B-But... `
@@ -692,9 +692,9 @@
 `"Oh, all that stuff about keys is a pointless argument. `
 `...Did you forget that Genji-san is already a victim? `
 `His master key is missing. `
-`That means all the locks in this {çeviri-malikane}mansion are meaningless." `
+`That means all the locks in this {ceviri}{malikane}mansion are meaningless." `
 `"......How boring. `
-`In other words, no closed room murders have existed or will exist in this {çeviri-malikane}mansion. `
+`In other words, no closed room murders have existed or will exist in this {ceviri}{malikane}mansion. `
 `...Sheesh. `
 `This is getting to be a pretty boring mystery." `
 `Erika laughed off this murder in disappointment, as though it was something she was watching on TV. `
@@ -711,15 +711,15 @@
 `I haven't even seen Jessica's face yet...! `
 `......Jessica, ...Jessicaaaaaaaa!!" `
 `"W-Wait up, Natsuhi-san...!!" `
-`"The {çeviri-suçlu}culprit might still be hiding nearby! `
+`"The {ceviri}{suçlu}culprit might still be hiding nearby! `
 `It would be dangerous to let her be alone..." `
-`Natsuhi flew out of the room and dashed towards the {çeviri-konukevi}guesthouse this time. `
+`Natsuhi flew out of the room and dashed towards the {ceviri}{konukevi}guesthouse this time. `
 `...It was only natural. `
 `Natsuhi still hadn't even seen Jessica's dying face. `
 `Everyone probably thought that. `
 `......Of course, even Natsuhi was half thinking that. `
 `The other half... `
-`...was her desire to shift everyone else's attention away from the {çeviri-çalışma odası}study. `
+`...was her desire to shift everyone else's attention away from the {ceviri}{çalışma odası}study. `
 `Strange crimes had occurred, the gold had been discovered, and some relatives had even recommended Battler to be the Successor. `
 `Even in these twisted circumstances, `
 `......she had to protect Kinzo's secret. `
@@ -727,7 +727,7 @@
 `...Please, just let my head explode right now. `
 `That way, I won't have to suffer any longer...... `
 `"So, everyone, `
-`for Natsuhi-san's sake, let's return to the {çeviri-konukevi}guesthouse for the time being. `
+`for Natsuhi-san's sake, let's return to the {ceviri}{konukevi}guesthouse for the time being. `
 `...Though it's not as though seeing their dead faces is going to lead to any new developments." `
 `"......Do you even have a heart?" `
 `"A heart? `
@@ -741,8 +741,8 @@
 `*cackle*cackle*cackle* `
 `Beato's pieces have brought about a really interesting change. *giggle*giggle*!" `
 `"Wh-What in the........." `
-`Natsuhi flew into the cousin room on the second floor of the {çeviri-konukevi}guesthouse... `
-`...and was struck dumb by the bloodstained beds and the eerie {çeviri-büyü}magic circle, which looked like it might've been drawn with the victims' blood... `
+`Natsuhi flew into the cousin room on the second floor of the {ceviri}{konukevi}guesthouse... `
+`...and was struck dumb by the bloodstained beds and the eerie {ceviri}{büyü}magic circle, which looked like it might've been drawn with the victims' blood... `
 `"...Where is Jessica...? `
 `Where is she...?! Jessicaaa!!" `
 `"In that... `
@@ -756,17 +756,17 @@
 `...what the hell... `
 `...is going on here...?" `
 `"......We made sure to lock this room when we left, right? `
-`We can now be certain the {çeviri-suçlu}culprit has a master key. `
+`We can now be certain the {ceviri}{suçlu}culprit has a master key. `
 `Once again, my reasoning was correct." `
 `"Who cares about that...?! `
 `Where did they go...? `
 `Wh-Where did everyone's corpses go...?!" `
 `".........Heheh. `
 `Nice trick." `
-`"Hey, look, look, it's {çeviri-büyü}magic, right? `
-`That Gaap who's with Beato hid the corpses somewhere with {çeviri-büyü}magic...!" `
+`"Hey, look, look, it's {ceviri}{büyü}magic, right? `
+`That Gaap who's with Beato hid the corpses somewhere with {ceviri}{büyü}magic...!" `
 `"...All of us moved together. `
-`So you're trying to say that everyone had {çeviri-mazeret}alibis?" `
+`So you're trying to say that everyone had {ceviri}{mazeret}alibis?" `
 `"Your reasoning goes like this, right? `
 `The four of them weren't actually dead, they were just playing dead. `
 `Then, when no one else was around, they hid somewhere. `
@@ -774,19 +774,19 @@
 `"You don't intend to proclaim any of their deaths in red now, do you?" `
 `"Of course I won't. `
 `Unlike that dolt Beato, I don't give red out for free!" `
-`"In that case, I'll be glad to use the {çeviri-mavi gerçek}blue truth. `
+`"In that case, I'll be glad to use the {ceviri}{mavi gerçek}blue truth. `
 `I can think of many ways to work around something of this level." `
 `"*giggle* `
 `Sure, go ahead! `
-`{çeviri-Mavi gerçek}Blue truth time!" `
+`{ceviri}{Mavi gerçek}Blue truth time!" `
 `"Here's the first one I can think of. `
 `{p:2:The victims aren't actually dead. `
 `They pretended to be dead, then secretly hid themselves somewhere. `
-`After all, you haven't declared anyone's death with the {çeviri-kırmızı gerçek}red truth}." `
+`After all, you haven't declared anyone's death with the {ceviri}{kırmızı gerçek}red truth}." `
 `"Ahhaha! `
 `Even through you've been shown their gaping wounds, you're still trying that one on principle, as long as there's no red, right?! `
 `But don't get your hopes up. `
-`I'm not giving you a freebie {çeviri-kırmızı gerçek}red truth! `
+`I'm not giving you a freebie {ceviri}{kırmızı gerçek}red truth! `
 `After all, I just have to deny it all at once at the end of the game, at 24:00 on October 5th!" `
 `"Ah, the witch's side has such a big advantage! `
 `It'd all be over now if that stupid Battler was my opponent, but you aren't like that, right, Bern?!" `
@@ -796,10 +796,10 @@
 `Second one. `
 `{p:2:Krauss carried the bodies off and hid them. `
 `You're making it look like you've kidnapped Krauss and locked him up somewhere, but he might actually be free. `
-`Krauss has no {çeviri-mazeret}alibi. `
+`Krauss has no {ceviri}{mazeret}alibi. `
 `Krauss hid their corpses}." `
 `"Yeah, that's right. `
-`It's not like I proclaimed that Krauss was being confined with the {çeviri-kırmızı gerçek}red truth. *giggle*giggle*! `
+`It's not like I proclaimed that Krauss was being confined with the {ceviri}{kırmızı gerçek}red truth. *giggle*giggle*! `
 `You know how they say you've gotta confuse your friends before you can confuse your enemies! `
 `So he lied to Natsuhi, making it seem like he'd been captured?! `
 `Heheheheheheh!! `
@@ -812,19 +812,19 @@
 `"Ahhahhahhahahahahahahahaha!! `
 `That's messed up!! `
 `So even though all those people gathered around and saw their dead faces, none of them realized they were substitute corpses?" `
-`"Since you haven't used the {çeviri-kırmızı gerçek}red truth, there's a possibility that everyone misidentified all of the corpses. `
+`"Since you haven't used the {ceviri}{kırmızı gerçek}red truth, there's a possibility that everyone misidentified all of the corpses. `
 `Though if you feel like repeating "no one would misidentify a person", I'll withdraw that claim immediately, okay...?" `
 `"No way{p:0:♪} I'm not falling for that! `
-`The {çeviri-kırmızı gerçek}red truth's only useful if you use it with flash, right? `
+`The {ceviri}{kırmızı gerçek}red truth's only useful if you use it with flash, right? `
 `I'll take a single truth out of a large pile of blue and smash it with the red! `
-`Then, the rest of the {çeviri-mavi gerçek}blue truths will be swallowed up by darkness before you can find out whether they were right or wrong!" `
+`Then, the rest of the {ceviri}{mavi gerçek}blue truths will be swallowed up by darkness before you can find out whether they were right or wrong!" `
 `"That darkness is the world of witches! `
 `You won't be given any truth at all! `
 `Ehheheheheheheheheheheheheh!!" `
 `......Heheh. `
 `...This girl acts like she's stupid, but she's not bad at all. `
 `She'll never rise to provocation. `
-`Looks like she understands the darkness of {çeviri-büyü}magic even better than the true {çeviri-Oyun Yöneticisi}Game Master, Beato. `
+`Looks like she understands the darkness of {ceviri}{büyü}magic even better than the true {ceviri}{Oyun Yöneticisi}Game Master, Beato. `
 `And apparently, Gaap also understood that well. `
 `...That move of hiding the corpses. `
 `It was pretty effective for both Lambda and Beato. `
@@ -846,7 +846,7 @@
 `By simply letting off a few quick lines confirming their deaths and Krauss's innocence with the red, `
 `she can remove all three of my wedges. `
 `Well, that's okay. `
-`When the {çeviri-kırmızı gerçek}red truth does come out, I just need to follow along with it and stab her full of blue wedges again. `
+`When the {ceviri}{kırmızı gerçek}red truth does come out, I just need to follow along with it and stab her full of blue wedges again. `
 `......*giggle*giggle* `
 `This is how a game of witches plays out. `
 `*giggle* Ah, it's so fun...! `
@@ -857,7 +857,7 @@
 `*giggle* ......Wouldn't have it any other way... `
 `......I'll make you lose pathetically and cry out in regret as you crawl and scratch at the floor! `
 `I've almost forgotten the pleasure of grabbing that cute hair of yours and wiping the floor with it as I roll around laughing...!! `
-`The {çeviri-hizmetkar}servant waiting room in the {çeviri-malikane}mansion had once again gone silent... `
+`The {ceviri}{hizmetkar}servant waiting room in the {ceviri}{malikane}mansion had once again gone silent... `
 `There lay Genji's corpse, which had been covered completely with a blanket... `
 `In the ceiling of this cramped room, a pitch-black hole appeared, `
 `...captivating legs sprouted out, `
@@ -876,14 +876,14 @@
 `The Great Lady Lambdadelta called that being here as a trump card 19th person. `
 `......Even optimistically speaking, this is on par with Ronove and me... `
 `A pitch-black hole opened on the bed, and Genji disappeared as though the bed had swallowed him up. `
-`Just like the four in the {çeviri-konukevi}guesthouse, Genji's corpse was also hidden in some unknown place... `
+`Just like the four in the {ceviri}{konukevi}guesthouse, Genji's corpse was also hidden in some unknown place... `
 `It was a place that no one could find, located neither within this world nor the next... `
 `No longer would anyone be able to find their corpses. `
 `No longer would anyone be able to confirm their deaths. `
 `She carried Genji's corpse to this place of endless silence, `
 `where it would never be disturbed... `
 `"When there's no corpse, a person goes missing. `
-`...When a person's missing, people both suspect that they might be the {çeviri-suçlu}culprit and suspect that they might be victims, truly like the inside of a cat box. `
+`...When a person's missing, people both suspect that they might be the {ceviri}{suçlu}culprit and suspect that they might be victims, truly like the inside of a cat box. `
 `...The darkness inside of cat boxes that'll never be opened...is where we demons and witches reside...! `
 `You were a bit too slow, Miss Great Detective. ......Heheheheh..." `
 `Gaap licked her lips and gulped... `
@@ -892,7 +892,7 @@
 `But Gaap-sama is pretty cool. `
 `She's just so...awesome." `
 `"Don't be stupid, what happened to standing guard?! `
-`The Humans are returning from the {çeviri-konukevi}guesthouse!! `
+`The Humans are returning from the {ceviri}{konukevi}guesthouse!! `
 `Gaap-sama...!" `
 `"Yes, let's disperse. `
 `......This should be enough to give Natsuhi a way out..." `
@@ -907,8 +907,8 @@
 `"Well done. `
 `...However, the next part is tricky." `
 `"They will probably be somewhat surprised at the disappearance of Genji's corpse, `
-`but their interest will most likely swing back to Kinzo's {çeviri-çalışma odası}study after that." `
-`"...There are two keys to the {çeviri-çalışma odası}study. `
+`but their interest will most likely swing back to Kinzo's {ceviri}{çalışma odası}study after that." `
+`"...There are two keys to the {ceviri}{çalışma odası}study. `
 `...It's fortunate that Natsuhi is in possession of both. `
 `If she had left one with Genji, it would probably have fallen into Lady Lambdadelta's hands by now." `
 `"It seems that Lady Lambdadelta has no intention of hiding Kinzo's death. `
@@ -941,8 +941,8 @@
 `...That Lady Lambdadelta...! `
 `*cackle*cackle*cackle*cackle*cackle*!!" `
 `"Pardon me. `
-`...The Humans have confirmed the disappearance of Genji's corpse in the {çeviri-hizmetkar}servant waiting room. `
-`...They have started moving towards Lord Goldsmith's {çeviri-çalışma odası}study." `
+`...The Humans have confirmed the disappearance of Genji's corpse in the {ceviri}{hizmetkar}servant waiting room. `
+`...They have started moving towards Lord Goldsmith's {ceviri}{çalışma odası}study." `
 `"Riiche, `
 `...they're coming." `
 `"Hmph, ...let them come. `

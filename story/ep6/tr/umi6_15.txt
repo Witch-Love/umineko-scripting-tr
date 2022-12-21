@@ -1,15 +1,15 @@
-`The entrance to the {çeviri-malikane}mansion was locked, but Erika had a master key, so she opened it without any trouble. `
-`She had gotten Krauss and the others to take the master keys from the {çeviri-hizmetkar}servants, `
+`The entrance to the {ceviri}{malikane}mansion was locked, but Erika had a master key, so she opened it without any trouble. `
+`She had gotten Krauss and the others to take the master keys from the {ceviri}{hizmetkar}servants, `
 `and at that time, she had used a little sleight of hand to pilfer one of them... `
 `"Well {f:5:then}. `
 `Where shall we go {f:5:first}?" `
 `"Why ask? `
 `...Let's go and hear Battler-san's answer." `
-`Grinning, Erika cut across the entrance hall and passed in front of the {çeviri-yemek salonu}dining hall, ...deeper, ...deeper. `
-`...She headed for the {çeviri-misafir odası}guest room Battler had lain dead in. `
+`Grinning, Erika cut across the entrance hall and passed in front of the {ceviri}{yemek salonu}dining hall, ...deeper, ...deeper. `
+`...She headed for the {ceviri}{misafir odası}guest room Battler had lain dead in. `
 `Battler could put off deciding whether the seals would remain whole or not until the moment right before Erika witnessed them. `
-`However, once she did witness them, ...the {çeviri-Oyun Yöneticisi}Game Master would have to show what had happened to them. `
-`In the witch's game they were in now, ...the simple act of going to check the seals around the {çeviri-misafir odası}guest room was an attack. `
+`However, once she did witness them, ...the {ceviri}{Oyun Yöneticisi}Game Master would have to show what had happened to them. `
+`In the witch's game they were in now, ...the simple act of going to check the seals around the {ceviri}{misafir odası}guest room was an attack. `
 `"......Are you ready, Lord {f:5:Battler}?" `
 `"Yeah. `
 `...Or as you'd say it, `
@@ -21,7 +21,7 @@
 `The piece Erika held high in the air...was the white queen, which represented herself. `
 `Her target...was Battler's camp. `
 `She attacked! `
-`Erika dashed down the hallway with a sickening smile and clung to the {çeviri-misafir odası}guest room door like a spider. `
+`Erika dashed down the hallway with a sickening smile and clung to the {ceviri}{misafir odası}guest room door like a spider. `
 `Then, she closely examined the seals she had placed retroactively. `
 `"......Heh... `
 `...heheheheheheheheeheheheheheehheh! `
@@ -31,7 +31,7 @@
 `"...I-Is this okay, Battler-san...?" `
 `"...Yeah, I can't back down here. `
 `...After all, even if I'm sealed in here, ...there are ways of placing the letter." `
-`"But now, Erika will probably enter the {çeviri-misafir odası}guest room. `
+`"But now, Erika will probably enter the {ceviri}{misafir odası}guest room. `
 `And then, she will observe your corpse. `
 `...What are you going to do?! `
 `If the corpse is there, then there's no problem. `
@@ -42,10 +42,10 @@
 `...I must not...pull back here. `
 `...I'll take that challenge. `
 `I can search for a way out all I want to later...! `
-`I managed to do that with Kinzo's {çeviri-çalışma odası}study last time...! `
+`I managed to do that with Kinzo's {ceviri}{çalışma odası}study last time...! `
 `...Don't worry, ...I can do it...! I can do it!! `
 `Come on, Erikaaaaaaaaaaaa!!!" `
-`"{p:1:We have confirmed that the seals to the {çeviri-misafir odası}guest room are {f:5:undamaged}. `
+`"{p:1:We have confirmed that the seals to the {ceviri}{misafir odası}guest room are {f:5:undamaged}. `
 `Since the time Lady Erika confirmed Battler's presence, this closed room has been {f:5:preserved}.}" `
 `"<Good>!! `
 `I'm breaking the seals!! `
@@ -61,7 +61,7 @@
 `Hehihihahahaahaaaaaaaaahhh!!!" `
 `Like a ruffian pushing down a frail girl, `
 `...Erika mercilessly and greedily threw the door open. `
-`Then, finally, ...the inside of Battler's {çeviri-misafir odası}guest room was observed by Erika. `
+`Then, finally, ...the inside of Battler's {ceviri}{misafir odası}guest room was observed by Erika. `
 `Battler had to show it. `
 `......Was there a corpse, or wasn't there? `
 `"<Come ooooooooooooooon>, Battleeeeeeeeeeeeeeeer!!" `
@@ -72,7 +72,7 @@
 `And yet, ...for some reason, she realized that this was a move that could not be taken back. `
 `Once this piece was moved, they couldn't move it back...!! `
 `Uwaaaaaaaaaaaaaaaaaaahhhhh!! `
-`...The {çeviri-misafir odası}guest room was covered by a silent darkness. `
+`...The {ceviri}{misafir odası}guest room was covered by a silent darkness. `
 `It was pitch black, and nothing could be seen. `
 `...However, there was a light switch just off to the side of the entrance. `
 `If she flicked that, the room would be lit up, and she would see whether or not there was a corpse on the bed. `
@@ -81,8 +81,8 @@
 `...Battler-san, I have a proposal." `
 `"Let's hear it." `
 `"I think you already know, `
-`...but this time around, I'm not aiming to find the {çeviri-suçlu}culprit and achieve a standard victory. `
-`...My enemy is not the lowly {çeviri-suçlu}culprit killing the pieces, ...but my opponent, you yourself." `
+`...but this time around, I'm not aiming to find the {ceviri}{suçlu}culprit and achieve a standard victory. `
+`...My enemy is not the lowly {ceviri}{suçlu}culprit killing the pieces, ...but my opponent, you yourself." `
 `"......I know. `
 `...So, ...you're after a logic error." `
 `"Heheh..." `
@@ -129,13 +129,13 @@
 `"......Fighting to keep that from happening is our job. `
 `...What is this proposal of yours?" `
 `"An endgame fought over a logic error should be a bit more precise. `
-`...Once again, we will fight with the red and {çeviri-mavi gerçek}blue truths, `
-`but we need a referee on the same level as the {çeviri-Oyun Yöneticisi}Game Master to observe and see that he doesn't create any logic errors with the {çeviri-kırmızı gerçek}red truth." `
+`...Once again, we will fight with the red and {ceviri}{mavi gerçek}blue truths, `
+`but we need a referee on the same level as the {ceviri}{Oyun Yöneticisi}Game Master to observe and see that he doesn't create any logic errors with the {ceviri}{kırmızı gerçek}red truth." `
 `"...Th-That seems reasonable." `
 `"There's nothing special about this. `
-`...Back when the old you was the {çeviri-Oyun Yöneticisi}Game Master, `
+`...Back when the old you was the {ceviri}{Oyun Yöneticisi}Game Master, `
 `you were under the observation of your guardian, Lady Lambdadelta. `
-`In that way, it was judged that all {çeviri-kırmızı gerçek}red truths were valid." `
+`In that way, it was judged that all {ceviri}{kırmızı gerçek}red truths were valid." `
 `"...So, you're telling us to show Lambdadelta our cards?" `
 `"I've been watching since the beginning. `
 `...It's okay, don't worry. `
@@ -160,8 +160,8 @@
 `...And she saw that Erika's first move had indeed gone straight through his heart. `
 `Just as Erika had guessed, `
 `Battler was alive, and had slipped out of the room after Erika had examined his "corpse", `
-`...placed the letter by the {çeviri-konukevi}guesthouse, and hid himself somewhere. `
-`When the packing tape seals had been retroactively placed on the {çeviri-misafir odası}guest room, `
+`...placed the letter by the {ceviri}{konukevi}guesthouse, and hid himself somewhere. `
+`When the packing tape seals had been retroactively placed on the {ceviri}{misafir odası}guest room, `
 `...he would've had to show that they'd been torn. `
 `However, if he had done that, it would be the same as admitting that he'd been seen through and that he'd lost. `
 `Unwilling to admit that, Battler had claimed that the seals had been maintained, with false courage, `
@@ -279,21 +279,21 @@
 `...Now it's Erika's turn. `
 `Go ahead." `
 `"...I present the possibility that Ushiromiya Battler is alive and hiding somewhere in this room. `
-`I proclaim this with the {çeviri-mavi gerçek}blue truth." `
+`I proclaim this with the {ceviri}{mavi gerçek}blue truth." `
 `"Invalid. `
-`If you want to use the {çeviri-mavi gerçek}blue truth, give me a specific location." `
+`If you want to use the {ceviri}{mavi gerçek}blue truth, give me a specific location." `
 `"...Pfft. `
-`...In the last game, Beato did that in Kinzo's {çeviri-çalışma odası}study, `
+`...In the last game, Beato did that in Kinzo's {ceviri}{çalışma odası}study, `
 `and Dlanor made Swiss cheese of her, right...? `
 `Are you trying to take revenge for that? ...*giggle*..." `
-`"Before I start searching, I have one {çeviri-mavi gerçek}blue truth I can use without a search. `
+`"Before I start searching, I have one {ceviri}{mavi gerçek}blue truth I can use without a search. `
 `{p:2:There is a possibility of a hidden door X that is impossible to discover. `
 `He's hidden behind that, so it's impossible for me to find him.} `
 `"{p:1:Knox's 3rd. `
 `It is forbidden for hidden passages to exist.} `
 `...Isn't that right?" `
 `"... `
-`{p:1:No hidden places that are impossible for Erika-san to find exist inside the {çeviri-misafir odası}guest room.}" `
+`{p:1:No hidden places that are impossible for Erika-san to find exist inside the {ceviri}{misafir odası}guest room.}" `
 `"Knox's 3rd, ...{f:5:valid}." `
 `"<Good>. `
 `...Then let's get started with the search." `
@@ -306,7 +306,7 @@
 `...where each breath made her tense... `
 `Even the quiet sound of the rain...was distracting... `
 `"Now that I've searched the room, let's confirm its layout." `
-`"...The {çeviri-misafir odası}guest room is divided into two rooms, the bedroom and the {f:5:bathroom}. `
+`"...The {ceviri}{misafir odası}guest room is divided into two rooms, the bedroom and the {f:5:bathroom}. `
 `Lady Erika has currently searched the entire bedroom {f:5:section}. `
 `There is only one {f:5:exception}." `
 `"......I'll leave that one place be for the time being. `
@@ -319,7 +319,7 @@
 `...I'll turn it over if it's needed, so look forward to it. ...*giggle*." `
 `After thoroughly checking the bedroom, ...Erika headed for the bathroom door. `
 `Since he wasn't in the bedroom, it was natural to think that he was in the bathroom. `
-`And, since the {çeviri-misafir odası}guest room was made up of two rooms, if Battler wasn't in the bathroom either, `
+`And, since the {ceviri}{misafir odası}guest room was made up of two rooms, if Battler wasn't in the bathroom either, `
 `...it would mean that he had managed to vanish from the closed room. `
 `...Except for that single location that Erika had intentionally left unchecked... `
 `"I'm checking the bathroom." `
@@ -402,7 +402,7 @@
 `{p:1:No one was seen in the {f:5:bathroom}}." `
 `"<Good>. `
 `Now we've confirmed that, `
-`{p:1:except for one location, Battler does not exist anywhere inside the {çeviri-misafir odası}guest room.}" `
+`{p:1:except for one location, Battler does not exist anywhere inside the {ceviri}{misafir odası}guest room.}" `
 `"...Give that a rest. `
 `Just where is this one exception?" `
 `"A coffin. `
@@ -416,7 +416,7 @@
 `...the room was filled with tension, ...as though you'd be sliced in half if you relaxed for an instant. `
 `A cloud of gold butterflies gathered on the room's round table...and turned into a witch's chessboard. `
 `It was finally...time for her attack. `
-`"{çeviri-Mavi gerçek}Blue truth. `
+`"{ceviri}{Mavi gerçek}Blue truth. `
 `{p:2:You did not vanish from this room. `
 `You just hid yourself to make it seem as though you'd disappeared from a closed room. `
 `The place you are hiding...is the "one exception" that I haven't investigated yet.}" `
@@ -432,7 +432,7 @@
 `hit the board, `
 `...landing by a weak spot in Battler's formation... `
 `"Yes, it is {f:5:here}...!!!" `
-`With a crash, the door of the closet, which was just off to the side of the {çeviri-misafir odası}guest room's entrance, was impaled by a spear that represented the {çeviri-mavi gerçek}blue truth. `
+`With a crash, the door of the closet, which was just off to the side of the {ceviri}{misafir odası}guest room's entrance, was impaled by a spear that represented the {ceviri}{mavi gerçek}blue truth. `
 `Dlanor had spun around and thrown it. `
 `The door was completely pierced, `
 `...and the spear stuck in so deeply that if a human had been hiding in it, it would have pierced their chest as well. `
@@ -476,7 +476,7 @@
 `"......This is my response... `
 `to your "{p:2:Battler is hiding in the closet}"... `
 `...Take this." `
-`"{p:1:Ushiromiya Battler does not exist within the {çeviri-misafir odası}guest room. `
+`"{p:1:Ushiromiya Battler does not exist within the {ceviri}{misafir odası}guest room. `
 `...There are no exceptions, including the closet.}" `
 `Like a black bolt of lightning this time, `
 `...Battler slammed his piece down on the white piece of Erika's that had cut deep behind his lines, ...crushing hers. `
@@ -484,7 +484,7 @@
 `as a faint cloud of gold sparks drifted about... `
 `"...I see, so he hid in the closet at first, `
 `...and then slipped out of the room while Erika was occupied by the shower!" `
-`"It's the same technique he used to let Kinzo escape from the {çeviri-çalışma odası}study in the last game. `
+`"It's the same technique he used to let Kinzo escape from the {ceviri}{çalışma odası}study in the last game. `
 `Distract the observation of the observer, and disappear into the darkness." `
 `"...<Good>. `
 `Of course. Yes, of course. `
@@ -518,7 +518,7 @@
 `{p:1:The use of the packing tape wasn't limited by the number of strips, right? `
 `It was by the number of rooms. `
 `...The only restriction was to limit it to only three rooms. `
-`...Erika chose this {çeviri-misafir odası}guest room to be one of those rooms. `
+`...Erika chose this {ceviri}{misafir odası}guest room to be one of those rooms. `
 `So, Erika has the right to seal as many places as many times as she wants within this room.}" `
 `"...Gah......" `
 `"...That's right. `
@@ -528,7 +528,7 @@
 `"So, `
 `with this retroactive move, `
 `{p:1:I proclaim that the chain lock has been repaired by the packing tape seal and has regained its original functionality. `
-`And, thanks to that, I locked the room upon entering it and made this {çeviri-misafir odası}guest room a closed room from the inside once more.}" `
+`And, thanks to that, I locked the room upon entering it and made this {ceviri}{misafir odası}guest room a closed room from the inside once more.}" `
 `The white piece Erika held aloft...represented the seal caused by the chain lock. `
 `This move would draw out Battler's king and drag it to the guillotine. `
 `"Die, Battler." `
@@ -543,7 +543,7 @@
 `using the uproar in the bathroom to escape, `
 `...then the chain lock must have been undone. `
 `In other words, he couldn't respond to her demand. `
-`If he didn't respond, Erika would use the {çeviri-mavi gerçek}blue truth in her next move. `
+`If he didn't respond, Erika would use the {ceviri}{mavi gerçek}blue truth in her next move. `
 `She would probably say 'you hid in the closet, then used the disturbance in the bathroom to escape. `
 `Since you then couldn't set the chain lock from the outside, you left it undone'... `
 `And she would be right. `
@@ -556,7 +556,7 @@
 `......he responded to her demand? `
 `What if he could say "the lock created by the chain is still intact"? `
 `That...would be fatal to Erika. `
-`It had already been shown with the {çeviri-kırmızı gerçek}red truth that this {çeviri-misafir odası}guest room could only be made into a closed room from the inside. `
+`It had already been shown with the {ceviri}{kırmızı gerçek}red truth that this {ceviri}{misafir odası}guest room could only be made into a closed room from the inside. `
 `So, ...this hopeless closed room would instead become Erika's coffin. `
 `With a riddle of that magnitude, Erika probably wouldn't solve the mystery of Battler's disappearance before the end. `
 `Each unsolved riddle gives an advantage to the witch side. `
@@ -568,7 +568,7 @@
 `Once he escaped, he wouldn't be able to set the chain lock again. `
 `It would make a riddle to corner Erika, but he would have to construct a different escape method. `
 `Even a move such as him leaving the closet during the scene in the bathroom and hiding in another place--say, under the bed-- `
-`wouldn't work because he had proclaimed that "{p:1:Battler does not exist within the {çeviri-misafir odası}guest room}". `
+`wouldn't work because he had proclaimed that "{p:1:Battler does not exist within the {ceviri}{misafir odası}guest room}". `
 `If he could construct logic that allowed him to escape from here while preserving the chain lock's position, `
 `......then Erika would be the one facing a fatal blow. `
 `However, ...if he didn't have that logic, ...if he failed, `
@@ -580,7 +580,7 @@
 `Either way, ...Erika would probably corner him. `
 `"...In that case, ...my choice is obvious." `
 `"...B-Battler-san, `
-`...this {çeviri-misafir odası}guest room has already been restricted in many ways by the {çeviri-kırmızı gerçek}red truth due to its closed room nature. `
+`...this {ceviri}{misafir odası}guest room has already been restricted in many ways by the {ceviri}{kırmızı gerçek}red truth due to its closed room nature. `
 `...How do you plan on escaping from this...?!" `
 `"......If only I could do something about the chain lock... `
 `...If only..." `
@@ -606,17 +606,17 @@
 `We've still only started the second day, haven't we? `
 `We have plenty of time to reconstruct an impossible murder." `
 `"...No, that's no good. `
-`If I acknowledge that I've escaped from this room now, it's the same as acknowledging that I'm the {çeviri-suçlu}culprit! `
+`If I acknowledge that I've escaped from this room now, it's the same as acknowledging that I'm the {ceviri}{suçlu}culprit! `
 `...If I back down from the fight in this room, ...it's the same as accepting my defeat in this game." `
 `Battler's point was a valid one. `
-`Since all of the other humans were still locked in the {çeviri-konukevi}guesthouse, `
+`Since all of the other humans were still locked in the {ceviri}{konukevi}guesthouse, `
 `then if Battler alone was alive and free to move... `
-`Erika would probably base her explanation for all of the following impossible crimes on the {çeviri-mavi gerçek}blue truth that Battler was the perpetrator. `
+`Erika would probably base her explanation for all of the following impossible crimes on the {ceviri}{mavi gerçek}blue truth that Battler was the perpetrator. `
 `If they wanted to forcefully turn that around, they would have to rewrite their tricks and logic so that "someone other than Battler" would be set up as the perpetrator. `
 `If they fixed up one flaw, it would give rise to new flaws, `
 `...which might eventually pile up and kill Battler. `
 `Even running away would mean tightening the noose around his own throat. `
-`The first truth...that Battler is the {çeviri-suçlu}culprit...has already been hit upon! `
+`The first truth...that Battler is the {ceviri}{suçlu}culprit...has already been hit upon! `
 `And yet, I have to struggle desperately to get out of this...! ...I need to...!! `
 `I'm on the edge. `
 `I've definitely been cornered in a dangerous spot. `
@@ -651,9 +651,9 @@
 `...I can kill Erika on my second move. `
 `I still can't think of a trick for escaping this closed room. `
 `However, ...there has to be something, ...there has to... `
-`Once I think of that, ...I can make a {çeviri-büyü}magic illusion of me changing into a butterfly `
+`Once I think of that, ...I can make a {ceviri}{büyü}magic illusion of me changing into a butterfly `
 `and slipping out of the crack in the door like smoke... `
-`...If I have even a drop of that mad {çeviri-büyücü}magician's blood in my veins, `
+`...If I have even a drop of that mad {ceviri}{büyücü}magician's blood in my veins, `
 `......please let that honor... `
 `...give me just a fragment of a miracle right now...! `
 `"...So, Battler-san? `
@@ -705,7 +705,7 @@
 `them `
 `aaaahhaaaaaaaaaaaaaahhhaaaaaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhh, `
 `I file a motion for a logic error!!" `
-`"That {çeviri-kırmızı gerçek}red truth of yours just now has cut off your own logic!! `
+`"That {ceviri}{kırmızı gerçek}red truth of yours just now has cut off your own logic!! `
 `Please have the impartial referee make her judgment immediately!! `
 `Great Lady Lambdadeltaaaaaaaaaaaaaaaaaaaaaa!!!" `
 `"Motion received. `
@@ -823,8 +823,8 @@
 `"Va...lid......?" `
 `"...You're lying...!!" `
 `"I judge it to be valid. `
-`...He's presented logic that doesn't violate any of the {çeviri-kırmızı gerçek}red truths, and I've finished checking it. `
-`...The move by the player on the witch side, along with that final {çeviri-kırmızı gerçek}red truth he repeated, are valid. `
+`...He's presented logic that doesn't violate any of the {ceviri}{kırmızı gerçek}red truths, and I've finished checking it. `
+`...The move by the player on the witch side, along with that final {ceviri}{kırmızı gerçek}red truth he repeated, are valid. `
 `......Battler, `
 `for the first time, ...I've got to say I think you're incredible..." `
 `"......See? `
@@ -885,18 +885,18 @@
 `However, ...Battler didn't let his thinking get trapped inside this closed room, `
 `...and so, he broke through. `
 `...It doesn't matter who, ...but let's explain it with his mother, Kyrie's piece. `
-`Just like Battler, the life or death status of the rest of the first twilight victims has not been specified by the {çeviri-kırmızı gerçek}red truth. `
+`Just like Battler, the life or death status of the rest of the first twilight victims has not been specified by the {ceviri}{kırmızı gerçek}red truth. `
 `In other words, ...just like Battler, `
 `...the others, and Kyrie specifically, can still move. `
 `And their closed rooms were not sealed, so they can go out as they please. `
 `...Kyrie...had come to save him. `
-`Kyrie followed behind Erika...and waited in the hallway while the latter entered the {çeviri-misafir odası}guest room and sealed the door from the inside. `
+`Kyrie followed behind Erika...and waited in the hallway while the latter entered the {ceviri}{misafir odası}guest room and sealed the door from the inside. `
 `...Then, after Battler undid the chain lock and escaped, `
 `......she entered the room in his place... `
 `Then, ...Kyrie reset the chain lock from the inside, `
 `...and hid in the closet, ...just like Battler had done... `
 `Yes. `
-`...Battler truly isn't inside this {çeviri-misafir odası}guest room right now. `
+`...Battler truly isn't inside this {ceviri}{misafir odası}guest room right now. `
 `However, that doesn't mean that no one else is inside it. `
 `...Kyrie took Battler's place in the closet, `
 `...the one exception that Erika had left, and is there still... `
@@ -913,24 +913,24 @@
 `{p:1:Ushiromiya Kyrie......cannot save Battler}." `
 `"...Wh‐......why not?! `
 `There's no red saying that Kyrie can't save Battler! `
-`Wait a second, ...how are you using the {çeviri-kırmızı gerçek}red truth?!" `
+`Wait a second, ...how are you using the {ceviri}{kırmızı gerçek}red truth?!" `
 `"Valid. `
-`......Dlanor's {çeviri-kırmızı gerçek}red truth is valid." `
+`......Dlanor's {ceviri}{kırmızı gerçek}red truth is valid." `
 `"Requesting permission to unsheathe red key." `
 `"......Permission granted. `
 `Please do it, Dlanor." `
 `"...H-How...? `
 `...How...can you give that permission?!?!" `
 `"It's valid. `
-`...As the result of an impartial judgment, I guarantee this {çeviri-kırmızı gerçek}red truth." `
+`...As the result of an impartial judgment, I guarantee this {ceviri}{kırmızı gerçek}red truth." `
 `"...Without telling us your reason?!" `
 `"We'll tell you that soon. `
 `...Very soon." `
-`"...B-Battler hasn't proclaimed Kyrie dead with the {çeviri-kırmızı gerçek}red truth yet...! `
+`"...B-Battler hasn't proclaimed Kyrie dead with the {ceviri}{kırmızı gerçek}red truth yet...! `
 `It is allowed for Kyrie to be playing dead! `
 `And the packing tape has already been used on three rooms, making it impossible for you to seal Kyrie's room...! `
-`So how can you use the {çeviri-kırmızı gerçek}red truth to say that Kyrie can't save Battler?! `
-`That {çeviri-kırmızı gerçek}red truth has no basis!!" `
+`So how can you use the {ceviri}{kırmızı gerçek}red truth to say that Kyrie can't save Battler?! `
+`That {ceviri}{kırmızı gerçek}red truth has no basis!!" `
 `"We'll tell you its basis soon. `
 `...But more importantly, Lambda...? `
 `...The logic with Kyrie has ceased to function. `
@@ -984,7 +984,7 @@
 `...Erika, ...you..." `
 `"...I-I've got it. `
 `...Yes, ...if I'm right, `
-`this {çeviri-kırmızı gerçek}red truth is valid..." `
+`this {ceviri}{kırmızı gerçek}red truth is valid..." `
 `"I-I don't understand! `
 `Was there some power that could only be used without the detective's authority...?!" `
 `"......There is. `
@@ -999,14 +999,14 @@
 `...Knox rule was it...?" `
 `"{p:1:Knox's 7th. `
 `......It is... `
-`forbidden for the detective to be the {çeviri-suçlu}culprit.}" `
+`forbidden for the detective to be the {ceviri}{suçlu}culprit.}" `
 `"Y-You mean... `
 `...wh-whaaat?!" `
 `...Finally, Beato realized everything. `
 `Yes, ...the detective's authority bestows several powers that are useful for reasoning, `
 `but it eliminates one single privilege. `
 `That is Knox's 7th. `
-`...It is forbidden for the detective to be the {çeviri-suçlu}culprit... `
+`...It is forbidden for the detective to be the {ceviri}{suçlu}culprit... `
 `"...In this game, `
 `...it is impossible for Humans without the detective's authority to examine corpses perfectly. `
 `...So, ...there have been several tricks where the dead have all been faking and walking around where they please. `
@@ -1045,18 +1045,18 @@
 `...And, if possible, `
 `it would be preferable if they were removed from the game board `
 `so that they couldn't make a mess of things later on." `
-`"So, I dashed through the chaos-filled {çeviri-malikane}mansion, `
+`"So, I dashed through the chaos-filled {ceviri}{malikane}mansion, `
 `visited all the crime scenes, `
 `and... `
 `{p:1:I re-killed all of them.}" `
 `"...Wh-What on...Earth......" `
 `"......Of course, she couldn't just kill them however she liked. `
-`...It had to be a perfect way of killing, good enough that their deaths could be determined with the {çeviri-kırmızı gerçek}red truth. `
+`...It had to be a perfect way of killing, good enough that their deaths could be determined with the {ceviri}{kırmızı gerçek}red truth. `
 `...Erika made sure of that." `
 `"The manner in which they were each killed differed, `
 `...but afterwards, `
 `{p:1:she completely severed the heads of all those she killed.} `
-`...That method of killing is solid enough to be called a {çeviri-kırmızı gerçek}red truth, right...? Lambda...?" `
+`...That method of killing is solid enough to be called a {ceviri}{kırmızı gerçek}red truth, right...? Lambda...?" `
 `"...V-Valid. `
 `No human could survive... `
 `...after having their head sliced off...!" `
@@ -1116,18 +1116,18 @@
 `It was only natural for Natsuhi to "die" in her own room. `
 `...If you're going to play dead, it's only natural that you'd want to lie down on your own bed. `
 `Eva's vanity is strong, so she must have asked to "die" in the VIP room. `
-`Kyrie was in Krauss's {çeviri-çalışma odası}study. `
+`Kyrie was in Krauss's {ceviri}{çalışma odası}study. `
 `...That was probably well air-conditioned and comfortable. `
-`Rosa and Maria were in the {çeviri-salon}parlor. `
+`Rosa and Maria were in the {ceviri}{salon}parlor. `
 `A soft sofa should have been a great place to play dead. `
 `...Maria had done her best and had impressively acted the part of lying dead alongside the wall. `
-`Battler was in a {çeviri-misafir odası}guest room. `
+`Battler was in a {ceviri}{misafir odası}guest room. `
 `The temperature here was also nice. `
 `The bed must also have been fairly pleasant. `
 `...Yes. `
 `The victims for this first twilight had all died in comfortable rooms. `
 `In the past games, the corpses had often been found exposed in the courtyard or under the rose garden arbor. `
-`In the cold gardening shed or in the {çeviri-kazan dairesi}boiler room... `
+`In the cold gardening shed or in the {ceviri}{kazan dairesi}boiler room... `
 `This time, there were no victims in any such inhospitable environments. `
 `This... `
 `...is probably the truth. `
@@ -1147,7 +1147,7 @@
 `"...D-Dammit, ...dammit, dammit, dammiiiiiiiiit!!" `
 `"...Battler-san, please, calm yourself...! `
 `Now's the time to hold back your tears and fight...! `
-`Even if you've lost five pieces who can save you, there's still the 11 people in the {çeviri-konukevi}guesthouse!" `
+`Even if you've lost five pieces who can save you, there's still the 11 people in the {ceviri}{konukevi}guesthouse!" `
 `"Y-You're right... `
 `...Krauss, Hideyoshi, Rudolf, ...George, Jessica, Shannon, Kanon! `
 `Genji, Gohda, Kumasawa, Nanjo!! `
@@ -1163,7 +1163,7 @@
 `Whhhaaaaat arrrre theeeesse?!" `
 `Erika, who was now so excited that her pronunciation was tumbling all over the place, `
 `pointed at two doors. `
-`It was the hallway on the second floor of the {çeviri-konukevi}guesthouse... `
+`It was the hallway on the second floor of the {ceviri}{konukevi}guesthouse... `
 `...They were in front of the cousin room and the next room over. `
 `"Look, here, here! `
 `There's something attached to the door?! `
@@ -1181,7 +1181,7 @@
 `Please have a look at the packing tape seals on both doors!! `
 `So, what do you think of them...?! `
 `Are they broken, or aren't they...? `
-`Please, let us have the {çeviri-kırmızı gerçek}red truth!!" `
+`Please, let us have the {ceviri}{kırmızı gerçek}red truth!!" `
 `""{p:1:Please, allow me to speak. `
 `Know that neither is broken.}"" `
 `"{p:1:Know that an unbroken seal proves that there are still none who have entered or exited.}" `
@@ -1190,7 +1190,7 @@
 `...Battler, it is as you {f:5:see}. `
 `...There no longer exists anyone who can save {f:5:you}." `
 `The victims of the first twilight have all been killed! `
-`And the {çeviri-konukevi}guesthouse is still sealed!! `
+`And the {ceviri}{konukevi}guesthouse is still sealed!! `
 `No one can come to the rescue...!! `
 `"Uu... `
 `ku... `
@@ -1201,19 +1201,19 @@
 `Wondering why the human side player wouldn't want as many free humans as `
 `possible was a natural, simple reaction to that move. `
 `However, if you sealed up all humans, `
-`...there would be no room for {çeviri-büyü}magic to intervene. `
-`Why is {çeviri-büyü}magic {çeviri-büyü}magic? `
-`Because the people who see it say that it's {çeviri-büyü}magic. `
-`Then, is it possible for {çeviri-büyü}magic to exist in a place with no people? `
+`...there would be no room for {ceviri}{büyü}magic to intervene. `
+`Why is {ceviri}{büyü}magic {ceviri}{büyü}magic? `
+`Because the people who see it say that it's {ceviri}{büyü}magic. `
+`Then, is it possible for {ceviri}{büyü}magic to exist in a place with no people? `
 `...Does the lack of anti-magic toxin mean that there's no problem...? `
 `Wrong! `
-`{çeviri-Büyü}Magic in a place that isn't being witnessed is no different from a delusion, a daydream! `
-`{çeviri-Büyü}Magic that matches a result must be carried out by human hands. `
-`If all humans are sealed off, then {çeviri-büyü}magic cannot be created. `
+`{ceviri}{Büyü}Magic in a place that isn't being witnessed is no different from a delusion, a daydream! `
+`{ceviri}{Büyü}Magic that matches a result must be carried out by human hands. `
+`If all humans are sealed off, then {ceviri}{büyü}magic cannot be created. `
 `This was Erika's strategy for this game...and her beautiful...checkmate!! `
 `"Well now. `
 `...Who's going to come save you? `
-`Please tell me the identity of the "real" person who switched places with you, remained in the {çeviri-misafir odası}guest room in your place, `
+`Please tell me the identity of the "real" person who switched places with you, remained in the {ceviri}{misafir odası}guest room in your place, `
 `and set the chain lock from the inside. `
 `If they even exist." `
 `"......Okay, Battler...? `
@@ -1249,9 +1249,9 @@
 `...Pretty sure it's impossible though. `
 `*giggle*giggle*giggle*giggle*!!" `
 `"...So then, Battler, `
-`...let's go back to the {çeviri-misafir odası}guest room. `
+`...let's go back to the {ceviri}{misafir odası}guest room. `
 `From now on, that will be your world." `
-`Once again, ...they returned to the slightly chilly {çeviri-misafir odası}guest room. `
+`Once again, ...they returned to the slightly chilly {ceviri}{misafir odası}guest room. `
 `It was the same room as before, of course, `
 `...but it felt as though an unsettling darkness had crept in... `
 `"Here's the room you'll spend your days in from now on. `
@@ -1501,14 +1501,14 @@
 `"Are you listening? `
 `The old "you" was the Endless Witch Beatrice. `
 `...You used to love detective novels that depicted impossible crimes, `
-`and you used those to make the claim that a witch existed, to make many people believe in {çeviri-büyü}magic... `
+`and you used those to make the claim that a witch existed, to make many people believe in {ceviri}{büyü}magic... `
 `as one stage on your path to becoming a witch." `
 `"...Detective...novels..." `
 `"That's right. `
 `The old you was an avid reader. `
 `...You loved detective novels, loved closed room murders...and were a super expert on impossible crimes. `
 `You searched for and found several closed room tricks, `
-`...found the single most basic element to all of them, and used that to form the core of your {çeviri-büyülü}magical compendium." `
+`...found the single most basic element to all of them, and used that to form the core of your {ceviri}{büyülü}magical compendium." `
 `"...Didn't Battler tell you? `
 `...He said that the old "you" would definitely have thought of a way out of this predicament. `
 `......I agree with that. `

@@ -1,10 +1,10 @@
-`Rosa could be seen in the {çeviri-salon}parlor. `
+`Rosa could be seen in the {ceviri}{salon}parlor. `
 `The relatives apparently all wanted to be alone after dispersing for a short break. `
-`Since everyone avoided the {çeviri-salon}parlor, the one place where people would normally gather, `
+`Since everyone avoided the {ceviri}{salon}parlor, the one place where people would normally gather, `
 `Rosa was able to have this relaxing and comforting room all to herself... `
 `That didn't mean she looked relaxed. `
 `Her expression was heavy with gloom and weariness. `
-`The cup of black tea that she had brought from the {çeviri-yemek salonu}dining hall had gone cold... `
+`The cup of black tea that she had brought from the {ceviri}{yemek salonu}dining hall had gone cold... `
 `"........." `
 `...A pleasant silence. `
 `Now that no one was in sight, Rosa's heart finally awoke. `
@@ -28,7 +28,7 @@
 `...to stick to, isn't it?" `
 `"Huh?! `
 `...Wh-Who...?" `
-`Though no one should have been in the {çeviri-salon}parlor, someone suddenly spoke to Rosa, and she jumped. `
+`Though no one should have been in the {ceviri}{salon}parlor, someone suddenly spoke to Rosa, and she jumped. `
 `...Just when did he get there... `
 `Kanon could be seen standing there. `
 `Even considering that she had been deep in thought, ...to think that she hadn't noticed him at all... `
@@ -266,7 +266,7 @@
 `...I won't forgive you...for the sin of stealing my Mama away... `
 `...I'll kill you. `
 `...Just like Mama killed all of them, ...I'll kill you without mercy!!!" `
-`As {f:5:Maria} howled, the entire {çeviri-salon}parlor was surrounded by a cube of red, {çeviri-büyü}magic barriers. `
+`As {f:5:Maria} howled, the entire {ceviri}{salon}parlor was surrounded by a cube of red, {ceviri}{büyü}magic barriers. `
 `It was a closed room symbolizing a barrier that Kanon could never escape. `
 `"...D-Dammiiiiiit...!! `
 `Not...here...!" `
@@ -291,13 +291,13 @@
 `"Yes. `
 `I don't intend to target her in any way. `
 `...I will simply protect myself." `
-`A cylindrical red {çeviri-büyülü}magical barrier surrounded Shannon as she stood in the center of the {çeviri-salon}parlor. `
+`A cylindrical red {ceviri}{büyülü}magical barrier surrounded Shannon as she stood in the center of the {ceviri}{salon}parlor. `
 `She made its brightness and thickness grow, and its radius suddenly expanded, filling up the room. `
 `It wasn't targeting {f:5:Maria}. `
 `This power was being wielded to protect Shannon's body. `
 `So, Sakutarou's power didn't make it disappear. `
 `"......N-Nee-san..." `
-`"Would you let your feelings for {çeviri-Leydim}Milady collapse in a situation like this? `
+`"Would you let your feelings for {ceviri}{Leydim}Milady collapse in a situation like this? `
 `...Get ahold of yourself...!" `
 `"Ugh, ...ghgh, gghh......!!" `
 `"Uryu...uu......!!" `
@@ -309,7 +309,7 @@
 `"...*cackle*cackle* Kuhihihihihihiihihihihhihihiihi!! `
 `I see, this is a closed room... `
 `...Kihihihihihihihihihihi! `
-`This might be just perfect for that wannabe detective who's trying to deny Beato's {çeviri-büyü}magic." `
+`This might be just perfect for that wannabe detective who's trying to deny Beato's {ceviri}{büyü}magic." `
 `"......Checkmate, Maria-sama. `
 `...Is that acceptable?" `
 `"Yeah, it's fine!! Crush me! `
@@ -340,7 +340,7 @@
 `So, `
 `...though she didn't like it one bit, `
 `...there was no way around it... `
-`It was probably close to the time for the break to end, and the family conference would begin once again in the {çeviri-yemek salonu}dining hall. `
+`It was probably close to the time for the break to end, and the family conference would begin once again in the {ceviri}{yemek salonu}dining hall. `
 `Her husband would have to protect the Ushiromiya family honor from those greedy siblings...all by himself. `
 `If she grew emotional by his side, she would just tie him down. `
 `...Though she knew that quietly waiting here was the best way she could support him, ...that didn't make the waiting any easier. `
@@ -383,10 +383,10 @@
 `"...Wh-Who are you?!" `
 `"........." `
 `Natsuhi was confused. `
-`There was no one like this in this {çeviri-malikane}mansion. `
+`There was no one like this in this {ceviri}{malikane}mansion. `
 `However, though this was her first time seeing this person, it felt as though she had seen her somewhere else... `
 `Her mind had gone blank with anger at the ruffian who had snuck into her private room...and confusion over the appearance of someone she didn't know, `
-`...so it took quite some time before she realized that this was the witch of the {çeviri-portre}portrait. `
+`...so it took quite some time before she realized that this was the witch of the {ceviri}{portre}portrait. `
 `"...Though you murdered a baby you didn't know on that day 19 years ago, I will not hold that sin against you." `
 `"...Wh- `
 `What are... `
@@ -396,7 +396,7 @@
 `Beato had chosen Natsuhi as her sacrifice. `
 `She was "Battler's" enemy. `
 `Beato didn't know much about the details of Battler's birth. `
-`......However, she knew about the {çeviri-Kakera}Fragment from the previous game, `
+`......However, she knew about the {ceviri}{Kakera}Fragment from the previous game, `
 `and knew there was a chance that Battler was the baby that Natsuhi had pushed off a cliff 19 years ago. `
 `Battler had used this blue wedge to protect Natsuhi from certain false charges, `
 `...but if you took it as a confession by Battler himself, `
@@ -444,7 +444,7 @@
 `Even Beato couldn't understand what about the spirit mirror had had such an overpowering effect on her. `
 `".........!!" `
 `But Natsuhi was different. `
-`She instantly realized that the reason for the hesitation of this unearthly being, this witch of the {çeviri-portre}portrait, ...must be the power of the mirror. `
+`She instantly realized that the reason for the hesitation of this unearthly being, this witch of the {ceviri}{portre}portrait, ...must be the power of the mirror. `
 `So, she rapidly crawled across the floor and picked it up. `
 `Then, she stuck it out so that Beato could see it... `
 `...Beato still didn't know what was happening, `
@@ -557,7 +557,7 @@
 `...Beato's power would weaken immediately, and Natsuhi would surely escape into the hallway. `
 `Their strengths were matched. `
 `However, Natsuhi's began to surpass Beato's slightly... `
-`The power of the living to live is fundamentally stronger than the power of {çeviri-büyü}magic. `
+`The power of the living to live is fundamentally stronger than the power of {ceviri}{büyü}magic. `
 `Of course, Beato was mustering all her might. `
 `However, ...Natsuhi was just a bit stronger... `
 `"......That's enough. `
@@ -618,7 +618,7 @@
 `Apparently, you're supposed to play it in pairs." `
 `"Yes, that is correct, Lord {f:5:Battler}!!" `
 `"If you can succeed in winning through our trial...!" `
-`""We will bless the pair of you and bestow a miracle of {çeviri-büyü}magic upon you!"" `
+`""We will bless the pair of you and bestow a miracle of {ceviri}{büyü}magic upon you!"" `
 `"It seems these guys have been giving their power to Beato's golden butterfly brooch. `
 `That means its effectiveness is guaranteed. `
 `...We've been stuck with each other for a long time now. `
@@ -689,7 +689,7 @@
 `She had said that she enjoyed sowing seeds of love and watching complications arise, `
 `and when Shannon stopped borrowing her power, the reason for her argument was also love. `
 `...After her interactions with Battler started up in full, scenes about love were toned down for a while, `
-`...but the "without love, it cannot be seen" definition of {çeviri-büyü}magic has been mentioned repeatedly. `
+`...but the "without love, it cannot be seen" definition of {ceviri}{büyü}magic has been mentioned repeatedly. `
 `Then, in the tale right before this one, when Beato became like a doll, `
 `several scenes made it seem almost as though Battler and Beato had accepted each other as rivals, ...or possibly something more. `
 `In the end, Battler had regained some memory, and his impression of Beato had undergone a complete change. `

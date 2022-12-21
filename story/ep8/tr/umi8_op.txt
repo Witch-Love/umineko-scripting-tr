@@ -1,4 +1,4 @@
-`Two silhouettes could be seen in the {çeviri-kilise}chapel. `
+`Two silhouettes could be seen in the {ceviri}{kilise}chapel. `
 `A big brother...and a little sister. `
 `The big brother who would never return from that day 12 years in the past, and the little sister who waited all alone 12 years in the future. `
 `However, the big brother knew everything, ...understood everything. `
@@ -50,7 +50,7 @@
 `I'd...want to go there. `
 `To that island. `
 `On that day. `
-`To Rokkenjima, on that day I couldn't go... To the Ushiromiya family {çeviri-malikane}mansion. `
+`To Rokkenjima, on that day I couldn't go... To the Ushiromiya family {ceviri}{malikane}mansion. `
 `To Mom and Dad. `
 `To all the cousins, all the relatives. `
 `And...everyone else. `
@@ -64,7 +64,7 @@
 `...I want to go home...to where everyone is..." `
 `"That's why...I've decided to invite you there." `
 `"...Huh...?" `
-`"Your Onii-chan is the {çeviri-Oyun Yöneticisi}Game Master now. `
+`"Your Onii-chan is the {ceviri}{Oyun Yöneticisi}Game Master now. `
 `Only those who know everything about the game board can open it up and invite pieces in. `
 `...So, I'll invite you to come to the game board." `
 `"You'll...take me to Rokkenjima...on that day...?" `
@@ -156,7 +156,7 @@
 `"The key will tell you." `
 `The large, gold key hung from Ange's neck. `
 `Her small hand held it tightly... `
-`...At that moment, she noticed a book lying on the {çeviri-kilise}chapel's altar. `
+`...At that moment, she noticed a book lying on the {ceviri}{kilise}chapel's altar. `
 `The book had a lock on it and was sealed, so that it could not be read without a key. `
 `Ange looked between the key hanging at her chest and the book on the altar. `
 `"......Will this key unlock that book?" `
@@ -168,7 +168,7 @@
 `"Okay." `
 `Battler held out his hand, and Ange gripped it tightly. `
 `Then, they started walking. `
-`A brilliant light lay beyond the {çeviri-kilise}chapel's door. `
+`A brilliant light lay beyond the {ceviri}{kilise}chapel's door. `
 `That blinding light peeked in through the cracks around the door. `
 `...The brother and sister began to walk through to the other side... `
 `{a:c: `

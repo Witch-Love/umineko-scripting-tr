@@ -18,7 +18,7 @@
 `"Hohoho! `
 `If only you had figured it out a little faster." `
 `Grandfather laughed like Santa Claus. `
-`{çeviri-Hala}Aunt Eva asked him to count it as a right answer, since I figured it out in the end, but Grandfather shook his head. `
+`{ceviri}{Hala}Aunt Eva asked him to count it as a right answer, since I figured it out in the end, but Grandfather shook his head. `
 `"Come on...! `
 `Don't be such a stingy Grandpa." `
 `"Still, now I've figured out how to do it. `
@@ -32,7 +32,7 @@
 `"Yes. `
 `Give it your all. `
 `I have a truly splendid present waiting for you." `
-`After bowing to Grandfather, I hurried off with {çeviri-Hala}Aunt Eva to where everyone else was gathered. `
+`After bowing to Grandfather, I hurried off with {ceviri}{Hala}Aunt Eva to where everyone else was gathered. `
 `"Oh, I see. `
 `It is possible...!" `
 `"Yeah, that's right. `
@@ -45,7 +45,7 @@
 `And both of those nights are nights on Christmas Day." `
 `"Heheheheh. `
 `Am I awesome? Am I awesome...?!" `
-`With a delighted smile, {çeviri-Hala}Aunt Eva patted my head vigorously. `
+`With a delighted smile, {ceviri}{Hala}Aunt Eva patted my head vigorously. `
 `"Wahahaha! `
 `Well done, Ange. `
 `I tried to make it a hard question, but you solved it like it was nothing." `
@@ -61,7 +61,7 @@
 `If I get a lot of these right, my pocket might burst. `
 `I'm gonna get so many that I can brag about it to everyone! `
 `After bowing to Grandfather, `
-`I hurried off with {çeviri-Hala}Aunt Eva to where everyone else was gathered. `
+`I hurried off with {ceviri}{Hala}Aunt Eva to where everyone else was gathered. `
 `Kinzo watched Ange go `
 `with a warm gaze. `
 `"Did I make it a bit too easy...?" `
@@ -121,7 +121,7 @@
 `...Remember the smile...that Kinzo once showed you." `
 `Okay, whose quiz should I take next? `
 `I'm gonna challenge more and more people, get more and more medals for getting them right, and get a wonderful present to show everyone. `
-`Uncle Krauss and {çeviri-Hala}Aunt Natsuhi are over there. `
+`Uncle Krauss and {ceviri}{Hala}Aunt Natsuhi are over there. `
 `They're looking this way and smiling. `
 `I'm sure they've thought up some interesting puzzles. `
 `There's Uncle Hideyoshi, beckoning for me to come over. `
@@ -130,7 +130,7 @@
 `They're waving at me, telling me to have lots of fun. `
 `...Dad probably knows a lot of really hard questions. `
 `He might be tough. `
-`Over there is {çeviri-Hala}Aunt Rosa and Maria onee-chan. `
+`Over there is {ceviri}{Hala}Aunt Rosa and Maria onee-chan. `
 `It looks like they're reading a quiz book together, searching for a problem. `
 `Every now and then, Maria onee-chan glances over at me, saying "kihihihihi". `
 `She can be mean sometimes, so I'm sure her puzzle won't be a nice one. `
@@ -220,7 +220,7 @@
 `It kept going with "d", "e", and "f". `
 `So, after "f" comes "g". `
 `That's why the answer had to be something that started with "g". `
-`"Thanks, {çeviri-Hala}Aunt Eva. I got it right thanks to your hint!" `
+`"Thanks, {ceviri}{Hala}Aunt Eva. I got it right thanks to your hint!" `
 `"*giggle* `
 `You solved it by yourself, Ange-chan. `
 `Incredible." `
@@ -238,7 +238,7 @@
 `"Sure. `
 `How about a quiz for the princess from her attendant{p:0:♪} `
 `I've thought of a fun one, so please, have a go at it!" `
-`{çeviri-Hala}Aunt Eva smiled brightly. `
+`{ceviri}{Hala}Aunt Eva smiled brightly. `
 `I want to get as many medals as possible, so of course, I want as many chances as I can get. `
 `"Okay, I'll have a go at it." `
 `"*giggle* That's the spirit. `
@@ -303,7 +303,7 @@
 `Go ask one of the others to give you one!" `
 `"Let's go! `
 `Who should we challenge next?!" `
-`If {çeviri-Hala}Aunt Eva knows puzzles this hard, I'm sure she must be good at quizzes. `
+`If {ceviri}{Hala}Aunt Eva knows puzzles this hard, I'm sure she must be good at quizzes. `
 `If she's with me, I know we'll get lots and lots of medals. `
 `Who will I ask next...?! `
 `"I got it...! `
@@ -319,15 +319,15 @@
 `Here's another medal for ya." `
 `I got a heavy, gold-colored medal. `
 `All right, I did it...! `
-`{çeviri-Hala}Aunt Eva and I held up our fists in celebration. `
+`{ceviri}{Hala}Aunt Eva and I held up our fists in celebration. `
 `"Okay, that's all for our puzzles! `
 `Go ask one of the others to give you one!" `
 `"Okay! Thank you, Uncle Hideyoshi...!" `
-`"Your {çeviri-hala}aunt's really clever...! `
+`"Your {ceviri}{hala}aunt's really clever...! `
 `...With the two of you together, you'll be gettin' medals right and left!" `
 `"Yep, that's right!" `
 `"Yeah. `
-`Let's do our best together, {çeviri-Hala}Aunt Eva." `
+`Let's do our best together, {ceviri}{Hala}Aunt Eva." `
 `I dashed away. `
 `Who will I ask next...?! `
 `Uncle Hideyoshi waved goodbye, smiling... `
@@ -401,10 +401,10 @@
 `And I, Kumasawa, have a veeery tricky puzzle for you." `
 `"It doesn't matter how hard it is. `
 `I'm not alone. `
-`I'll solve it with {çeviri-Hala}Aunt Eva!" `
+`I'll solve it with {ceviri}{Hala}Aunt Eva!" `
 `Gohda and Kumasawa offered to challenge me. `
 `I'll have to go up against everyone in the end, so it doesn't matter who comes next. `
-`I waved at {çeviri-Hala}Aunt Eva to hurry up, `
+`I waved at {ceviri}{Hala}Aunt Eva to hurry up, `
 `and she ran toward me. `
 `"So, we're challenging this pair next? `
 `Who will we start with?" `
@@ -438,7 +438,7 @@
 `It looks as though she didn't figure it out." `
 `The answer I'd chosen at random was wrong, apparently. `
 `...Too bad. `
-`"Then tell me the right answer, {çeviri-Hala}Aunt Eva. `
+`"Then tell me the right answer, {ceviri}{Hala}Aunt Eva. `
 `You figured it out, right? `
 `Tell me!" `
 `"All right. `
@@ -461,7 +461,7 @@
 `Very impressive. `
 `How quickly you saw through the puzzle that I, Gohda, put all my efforts into...!" `
 `"It was totally easy. `
-`{çeviri-Hala}Aunt Eva's puzzle was harder." `
+`{ceviri}{Hala}Aunt Eva's puzzle was harder." `
 `"*giggle* Thanks." `
 `"Congratulations. `
 `This medal is your prize for answering my question correctly." `
@@ -480,7 +480,7 @@
 `"This is Kumasawa-san we're talking about, so you can bet it'll be a strange one. `
 `Be careful." `
 `"Okay!" `
-`"{çeviri-Hala}Aunt Eva, do you get it?" `
+`"{ceviri}{Hala}Aunt Eva, do you get it?" `
 `"She says you have to change one letter, so the answer's probably some sort of word game. `
 `Her choice of words is suspicious to say the least. Try and think of some kind of dessert that you can make by changing a letter in... `
 `Ah, I've got it!" `
@@ -553,7 +553,7 @@
 `"Please keep up the pace, get more and more medals, and win that splendid prize from the Master!" `
 `"Okay! Thank you. `
 `I'll keep it up...! `
-`We did it, {çeviri-Hala}Aunt Eva!" `
+`We did it, {ceviri}{Hala}Aunt Eva!" `
 `"Heheheh! `
 `Let's keep it up!" `
 `We rushed away. `
@@ -610,7 +610,7 @@
 `"Oh, have you selected me?" `
 `"Yeah. `
 `I'll have to face everyone sooner or later. `
-`Right, {çeviri-Hala}Aunt Eva?!" `
+`Right, {ceviri}{Hala}Aunt Eva?!" `
 `"Right! `
 `Come on, let's have a puzzle. `
 `We'll solve it in a flash!" `
@@ -651,7 +651,7 @@
 `Still, no matter how annoyed I get, I don't have a clue what the answer is. `
 `"Aw, so close. `
 `I thought you'd made it pretty far too..." `
-`Apparently, {çeviri-Hala}Aunt Eva knows the answer. `
+`Apparently, {ceviri}{Hala}Aunt Eva knows the answer. `
 `She looks disappointed that I didn't figure it out too. `
 `"...Mumumumu...? `
 `Ah, yes, I have it! `
@@ -696,7 +696,7 @@
 `I started to get so tense that my stomach began to hurt... `
 `"It'll be okay. `
 `Hang in there!" `
-`{çeviri-Hala}Aunt Eva gripped my hand firmly, and my stomachache got a little better. `
+`{ceviri}{Hala}Aunt Eva gripped my hand firmly, and my stomachache got a little better. `
 `"...Ange-sama, have you learned division?" `
 `"Y-Yeah. `
 `I learned it in cram school." `
@@ -710,7 +710,7 @@
 `During the next hour, it burns down half of that remaining length. `
 `And during the third hour, it burns down half of that remaining length..." `
 `"...I can't really do it without a calculator. `
-`Do you know the answer, {çeviri-Hala}Aunt Eva?" `
+`Do you know the answer, {ceviri}{Hala}Aunt Eva?" `
 `"Ah, ...I've got it. `
 `*giggle* This is a pretty mean puzzle." `
 `"Why is it mean?" `
@@ -730,7 +730,7 @@
 `"Yes, of course. `
 `Division is unnecessary. `
 `This was an easy puzzle, one that even Ange-san could have solved." `
-`Not only {çeviri-Hala}Aunt Eva, but everyone else said that math wasn't needed. `
+`Not only {ceviri}{Hala}Aunt Eva, but everyone else said that math wasn't needed. `
 `And I worked so hard on that division... `
 `"That is all for my puzzle. `
 `I believe several others are waiting for you to challenge them, Ange-sama. `
@@ -776,7 +776,7 @@
 `"Congratulations, Ange-sama. `
 `This medal is proof that you have correctly solved my puzzle." `
 `"Thanks! `
-`Heheheh, I got another medal, {çeviri-Hala}Aunt Eva...!" `
+`Heheheh, I got another medal, {ceviri}{Hala}Aunt Eva...!" `
 `"Heheh, nice going!" `
 `"I'll get lots more. `
 `I'll get a ton, and then Grandfather will give me a great prize!" `
@@ -855,15 +855,15 @@
 `...and there could be hardly any point in an unrelated person sifting through history books to interpret it however they pleased. `
 `They had been good friends since long ago, and they owed each other their lives. `
 `Though the troubled times tossed them about, their friendship held firm for decades... `
-`Genji's role is now that of the {çeviri-uşak}butler, `
-`...but when they're alone in the {çeviri-çalışma odası}study, they sometimes share a drink and think back on the days of their youth. `
+`Genji's role is now that of the {ceviri}{uşak}butler, `
+`...but when they're alone in the {ceviri}{çalışma odası}study, they sometimes share a drink and think back on the days of their youth. `
 `...And they're still that way today. `
 `Leaving Kinzo and Genji to reminisce, Battler walked off on his own. `
 `It would be rude to ask for any more detail, and he didn't need to know. `
 `Kinzo and Genji had been friends since long, long ago. `
 `That was something he already knew. `
 `"What do you think? `
-`Do you want to challenge {çeviri-Hala}Aunt Natsuhi and Uncle Krauss next?" `
+`Do you want to challenge {ceviri}{Hala}Aunt Natsuhi and Uncle Krauss next?" `
 `"Yeah. `
 `Let's beat them!" `
 `"Hahahaha. Very well, we'll play along." `
@@ -885,13 +885,13 @@
 `Is it...gray?? `
 `Is it that easy...? `
 `"Th-This is a surprisingly hard one, coming from you, Natsuhi nee-san..." `
-`{çeviri-Hala}Aunt Eva was groaning. `
+`{ceviri}{Hala}Aunt Eva was groaning. `
 `Apparently, this one's really tough. `
 `"I-Is it really so hard...?" `
 `"...There's a chance that some people won't understand, if they haven't had the right experiences." `
 `"Eva-san aside, I think Ange-chan would have seen it a lot at school and kindergarten..." `
 `"Wh-What the heck? I don't have a clue!!" `
-`Is it a problem that I could get easier than {çeviri-Hala}Aunt Eva...? `
+`Is it a problem that I could get easier than {ceviri}{Hala}Aunt Eva...? `
 `...It's hard. `
 `"The hint for this one is probably what Natsuhi nee-san said, about something you might see in a school or kindergarten. `
 `...Do you know what it is, Ange-chan?" `
@@ -911,7 +911,7 @@
 `It's the sort of puzzle that brings out one's upbringing. `
 `Perhaps it was a bit too hard for you." `
 `"Wh-What did you saaaaaaay...?!" `
-`"...{çeviri-Hala}Aunt Natsuhi, `
+`"...{ceviri}{Hala}Aunt Natsuhi, `
 `could you tell me the answer?" `
 `"The answer is...a keyboard." `
 `"A keyboard? `
@@ -919,7 +919,7 @@
 `"That's right. `
 `The blacks and whites are the pattern of colors on a keyboard. `
 `In which case, you must already know the right answer." `
-`{çeviri-Hala}Aunt Natsuhi smiled at me, but I don't really remember what a keyboard looks like. `
+`{ceviri}{Hala}Aunt Natsuhi smiled at me, but I don't really remember what a keyboard looks like. `
 `...Nnng, too bad. `
 `I'd better have a go at Uncle Krauss's puzzle and redeem myself. `
 `"Ready? `
@@ -947,13 +947,13 @@
 `"Congratulations, Ange-chan. `
 `Here's my medal for you." `
 `"All right! `
-`{çeviri-Hala}Aunt Eva, I got another one!" `
+`{ceviri}{Hala}Aunt Eva, I got another one!" `
 `"Things are moving along nicely. `
 `Next up is Nii-san's puzzle. `
 `Let's solve it in a flash and teach him a lesson, okay?" `
 `"How interesting. `
 `Looks like it's time you were taught a lesson." `
-`"Stop it, {çeviri-Hala}Aunt Eva! Don't make him mad! `
+`"Stop it, {ceviri}{Hala}Aunt Eva! Don't make him mad! `
 `You'll make the puzzle harder!" `
 `"Heheheheheheh. `
 `If there's anyone you have to blame, it's Eva! `
@@ -972,7 +972,7 @@
 `"It's the same either way, isn't it...?" `
 `"...Ah. `
 `............" `
-`{çeviri-Hala}Aunt Eva suddenly stumbled on something. `
+`{ceviri}{Hala}Aunt Eva suddenly stumbled on something. `
 `Then, she started counting on her fingers, starting from the first floor... `
 `"I've got it, Ange-chan...! `
 `Try saying them aloud, starting from the first floor...! `
@@ -1020,7 +1020,7 @@
 `"That's all for our puzzles." `
 `"I do hope you enjoyed them." `
 `"I did! `
-`Thank you, {çeviri-Hala}Aunt Natsuhi and Uncle Krauss!" `
+`Thank you, {ceviri}{Hala}Aunt Natsuhi and Uncle Krauss!" `
 `"I hope you can enjoy all the tricky questions, without worrying about your medal count too much." `
 `"We all hope that this becomes a wonderful night, just for you." `
 `"We really are enjoying ourselves." `

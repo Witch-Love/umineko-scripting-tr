@@ -7,7 +7,7 @@
 `...uuuuu......" `
 `"George-kun, be quiet for a second! `
 `A murder occurred before your very eyes, right?! `
-`Did you see the {çeviri-suçlu}culprit?! `
+`Did you see the {ceviri}{suçlu}culprit?! `
 `Or not?!!" `
 `"...Th-That is, umm, `
 `...how should I explain...?! `
@@ -24,7 +24,7 @@
 `or Kanon-kun, who's gone missing! `
 `Was it a man or a woman?! `
 `You should be able to tell me at least that much, right?!" `
-`"{çeviri-Hala}Aunt Rosa, calm down a bit...! `
+`"{ceviri}{Hala}Aunt Rosa, calm down a bit...! `
 `Anyone would be confused if two people were taken out right in front of them! `
 `Gohda-san, Genji-san, `
 `there's no need to rush. `
@@ -37,7 +37,7 @@
 `But even so, they spoke awkwardly. `
 `They admitted that they had definitely seen the crime with their own eyes. `
 `But when asked to explain what they had seen, their mouths went suddenly shut. `
-`I could understand why {çeviri-Hala}Aunt Rosa was irritated and flaring up... `
+`I could understand why {ceviri}{Hala}Aunt Rosa was irritated and flaring up... `
 `"...Shannon, `
 `did you see it? `
 `When Doctor Nanjo was attacked?" `
@@ -55,7 +55,7 @@
 `"Let them finish! `
 `And after that?!" `
 `"......That person was...stained with blood...and had a large wound. `
-`...We carried that person to the {çeviri-hizmetkar}servant room, and Doctor Nanjo immediately began first aid. `
+`...We carried that person to the {ceviri}{hizmetkar}servant room, and Doctor Nanjo immediately began first aid. `
 `...It was...a very deep wound." `
 `"Like I said, who are you talking about?!" `
 `"...I don't know! `
@@ -94,9 +94,9 @@
 `I...can only say the same thing..." `
 `"............" `
 `...If we give their claims the benefit of the doubt, `
-`...it means that {çeviri-Hala}Aunt Rosa's first conclusion was correct. `
+`...it means that {ceviri}{Hala}Aunt Rosa's first conclusion was correct. `
 `Kanon had appeared near the back door to the kitchen with a serious injury. `
-`Then, he had been taken to the {çeviri-hizmetkar}servant room and cared for. `
+`Then, he had been taken to the {ceviri}{hizmetkar}servant room and cared for. `
 `...And after that, something terrifying had happened. `
 `So, were these people so convinced that Kanon-kun couldn't possibly have done such a thing... `
 `that they'd started to suspect whether it had even been Kanon-kun at all? `
@@ -105,22 +105,22 @@
 `So, does that mean that, after all, Kanon-kun used some trick to escape that room even though it was locked?! `
 `No, that doesn't matter anymore. `
 `The real problem is that Doctor Nanjo and Kumasawa-san were killed. `
-`{çeviri-Hala}Aunt Rosa has claimed that Kanon-kun was behind this from the very beginning. `
+`{ceviri}{Hala}Aunt Rosa has claimed that Kanon-kun was behind this from the very beginning. `
 `No matter how confused these people are, no matter how much they try to deny it, ...they're halfway confirming that she was right. `
 `...But even so, for some reason, I felt like their awkwardness couldn't be explained by confusion alone... `
 `...What did they see? `
 `Like they said, did they really {i:see something that couldn't be explained with words}...? `
-`{çeviri-Hala}Aunt Rosa, who'd decided that further talk wouldn't get us anywhere, `
+`{ceviri}{Hala}Aunt Rosa, who'd decided that further talk wouldn't get us anywhere, `
 `concluded her questioning and said she wanted to check the two bodies. `
 `That was something I'd been wanting to do too. `
 `The witnesses had been unable to figure anything out, but they'd been shaken. `
 `...If those of us who hadn't been at the scene calmly looked at the corpses, we might find something. `
-`......But it was a little surprising to learn that {çeviri-Hala}Aunt Rosa was also concerned about the bodies. `
-`Even at this point, I still wanted to use any clues I could find to expose the {çeviri-suçlu}culprit and the truth myself. `
-`But it should've been different in {çeviri-Hala}Aunt Rosa's case. `
-`...Hasn't {çeviri-Hala}Aunt Rosa prioritized staying safe over finding the {çeviri-suçlu}culprit? `
-`I couldn't really see why she would go to all the trouble of leaving our barricade in the {çeviri-salon}parlor, just because she wanted to check the bodies. `
-`"We will all go to the {çeviri-hizmetkar}servant room together. `
+`......But it was a little surprising to learn that {ceviri}{Hala}Aunt Rosa was also concerned about the bodies. `
+`Even at this point, I still wanted to use any clues I could find to expose the {ceviri}{suçlu}culprit and the truth myself. `
+`But it should've been different in {ceviri}{Hala}Aunt Rosa's case. `
+`...Hasn't {ceviri}{Hala}Aunt Rosa prioritized staying safe over finding the {ceviri}{suçlu}culprit? `
+`I couldn't really see why she would go to all the trouble of leaving our barricade in the {ceviri}{salon}parlor, just because she wanted to check the bodies. `
+`"We will all go to the {ceviri}{hizmetkar}servant room together. `
 `If we all move together, it'll be safe. `
 `Maria, stop playing with scribbles!" `
 `"Uu-. `
@@ -129,12 +129,12 @@
 `Uu-..." `
 `"Beatrice's puzzle? `
 `What's that? Show me too." `
-`"...{çeviri-Hala}Aunt Rosa, are you, ...umm, bringing Maria-chan too?" `
+`"...{ceviri}{Hala}Aunt Rosa, are you, ...umm, bringing Maria-chan too?" `
 `It seemed that George-aniki was against the idea of bringing Maria to the bloody crime scene. `
 `...But considering that Maria would be all alone if left here, it'd surely be much safer to take Maria with us. `
 `...In the end, it was just Aniki's irresponsible humanism. `
-`We decided that all of us, including Maria, would go to the {çeviri-hizmetkar}servant room. `
-`The bed in the {çeviri-hizmetkar}servant room was stained with bright-red blood. `
+`We decided that all of us, including Maria, would go to the {ceviri}{hizmetkar}servant room. `
+`The bed in the {ceviri}{hizmetkar}servant room was stained with bright-red blood. `
 `...No, not just the bed. `
 `The whole room was covered with a gruesome paint from countless blood stains. `
 `That dreadful scene alone was enough to give us an idea of the repulsive sight they'd been trying to describe... `
@@ -151,11 +151,11 @@
 `...In other words, it's already too late for me... `
 `"......Huh..." `
 `"Wh-Where did they...?!" `
-`Right after they entered the {çeviri-hizmetkar}servant room, Gohda-san and Shannon-chan trembled. `
+`Right after they entered the {ceviri}{hizmetkar}servant room, Gohda-san and Shannon-chan trembled. `
 `...We shook, wondering what horrible new situation had arisen to make them tremble again. `
 `"What happened? `
 `What is it?" `
-`{çeviri-Hala}Aunt Rosa also shuddered, raised her gun high, and searched for whatever it was that had made them shudder. `
+`{ceviri}{Hala}Aunt Rosa also shuddered, raised her gun high, and searched for whatever it was that had made them shudder. `
 `...But she couldn't find it. `
 `...It was only natural. `
 `...They were trembling because they couldn't find it. `
@@ -167,7 +167,7 @@
 `"...Wait, wait, wait. `
 `What the hell, are you saying the corpses just walked off somewhere? `
 `That couldn't happen, right? `
-`I mean, wasn't the {çeviri-hizmetkar}servant room locked? `
+`I mean, wasn't the {ceviri}{hizmetkar}servant room locked? `
 `Didn't you unlock the door when you came in just now, Gohda-san?!" `
 `"...So what does that mean? `
 `...Isn't this the same as Jessica's room?! `
@@ -180,12 +180,12 @@
 `Shannon was the same. `
 `"Two corpses disappeared! `
 `And furthermore, they disappeared while the door was locked! `
-`Even if Kanon-kun was the {çeviri-suçlu}culprit, he shouldn't have a master key anymore!!" `
+`Even if Kanon-kun was the {ceviri}{suçlu}culprit, he shouldn't have a master key anymore!!" `
 `"That's wrong...! `
-`Kanon-kun isn't the {çeviri-suçlu}culprit...!!" `
+`Kanon-kun isn't the {ceviri}{suçlu}culprit...!!" `
 `"...Shannon... `
 `I believe Shannon. `
-`Kanon-kun is not the {çeviri-suçlu}culprit. `
+`Kanon-kun is not the {ceviri}{suçlu}culprit. `
 `This must be the doing of someone who looks a lot like him." `
 `"No. `
 `Kanon-kun could have gotten a master key. `
@@ -197,22 +197,22 @@
 `That's right. `
 `Back then, it definitely was Doctor Nanjo who searched through Jessica's clothes and found the master key...! `
 `So, if someone had the opportunity to search Doctor Nanjo's corpse, it would've been easy for them to take the master key back... `
-`{çeviri-Hala}Aunt Rosa searched under the bed and in the locker. `
+`{ceviri}{Hala}Aunt Rosa searched under the bed and in the locker. `
 `...By now, I also understood what that meant. `
-`If you assume there are two {çeviri-suçlu}culprits, this can be easily explained. `
+`If you assume there are two {ceviri}{suçlu}culprits, this can be easily explained. `
 `The first person was Kanon-kun, or maybe an impostor who looked like him. `
 `He finished off Doctor Nanjo and ran off somewhere. `
 `The second person was...probably the 19th person, Beatrice, whose location was unknown. `
-`That person hid under the bed in the {çeviri-hizmetkar}servant room beforehand, and while Doctor Nanjo's body was enshrined here, they waited for Genji-san and the rest to leave. `
+`That person hid under the bed in the {ceviri}{hizmetkar}servant room beforehand, and while Doctor Nanjo's body was enshrined here, they waited for Genji-san and the rest to leave. `
 `Then later, they crawled out, took the master key back from Doctor Nanjo's pocket, and carried the two corpses away for some reason. `
 `If they then locked the door with the master key, you'd end up with this closed room. `
 `"*cackle*cackle* `
 `You constructed that one pretty fast, basing it off your reasoning from Jessica's room. `
-`With that method, you could create a closed room even without {çeviri-büyü}magic. `
+`With that method, you could create a closed room even without {ceviri}{büyü}magic. `
 `Should I give you passing marks? `
 `However, interestingly enough, ...there's one thing you mustn't forget." `
-`"...If the {çeviri-suçlu}culprit took back the master key as you suggest, `
-`......that {çeviri-suçlu}culprit... `
+`"...If the {ceviri}{suçlu}culprit took back the master key as you suggest, `
+`......that {ceviri}{suçlu}culprit... `
 `they {i:must have known that Nanjo took the master key from Jessica's body}." `
 `"...You don't have to tell me that... `
 `You're probably trying to say that it's information only the people in that place, at that time, could know..." `
@@ -224,7 +224,7 @@
 `This person's trying to close in on me from two directions. `
 `On the one hand, there's the frontal attack, where she tries to force me to believe there's a witch using closed room tricks that only a witch could do. `
 `...And on the other hand, there's the rear attack, where she tries to lure me into wanting a witch to exist... by strengthening my suspicions of those close to me. `
-`In the first closed room, the {çeviri-kilise}chapel, she used the frontal attack, but it didn't work on me. `
+`In the first closed room, the {ceviri}{kilise}chapel, she used the frontal attack, but it didn't work on me. `
 `So by the second closed room, and now on the third closed room, she's definitely changing the direction of her attack... `
 `However, the fact that she {i:is} changing the direction of her attack proves that my resistance is having some effect. `
 `...And she must've given up on the frontal attack because she clearly can't win with it... `
@@ -235,7 +235,7 @@
 `...A rear attack only has meaning because it advances at the same time as the front. `
 `If I were to degenerate into only using the rear attack, it would merely result in a foolish plan where my means have became my goal." `
 `"...Ihihi, really? `
-`Well then, won't you repeat "someone was hiding in the {çeviri-hizmetkar}servant room" using that red you're so proud of?" `
+`Well then, won't you repeat "someone was hiding in the {ceviri}{hizmetkar}servant room" using that red you're so proud of?" `
 `"There is no need. `
 `The premise of your theory is about to be destroyed." `
 `"Oh, really?! `
@@ -247,7 +247,7 @@
 `"Please believe us, Rosa-sama...!! `
 `The two corpses were definitely lying here! `
 `The bright-red blood on the floor is theirs...!!" `
-`{çeviri-Hala}Aunt Rosa began to search through various objects around the room, her back to Gohda-san as he cried out in supplication. `
+`{ceviri}{Hala}Aunt Rosa began to search through various objects around the room, her back to Gohda-san as he cried out in supplication. `
 `...Eventually, she found something, and for a while, stopped moving. `
 `"Rosa-sama, we definitely aren't lying...!! `
 `The two corpses were definitely here!!" `
@@ -256,13 +256,13 @@
 `......With this." `
 `Rosa showed them a single sheet of paper over her shoulder. `
 `"What on Earth is that?! `
-`Could it be...a letter in a sealed envelope, just like in the {çeviri-kilise}chapel?!" `
+`Could it be...a letter in a sealed envelope, just like in the {ceviri}{kilise}chapel?!" `
 `"...Yes, that's right. `
 `It was set here, out in the open. `
 `I'll read it." `
 `{e:070:'Members of the Ushiromiya Family and its household. `
-`Have you now reached the climax of the riddle of the gold's {çeviri-kitabe}epitaph? `
-`There is only one way you all can stop me: by solving the {çeviri-kitabe}epitaph's riddle. `
+`Have you now reached the climax of the riddle of the gold's {ceviri}{kitabe}epitaph? `
+`There is only one way you all can stop me: by solving the {ceviri}{kitabe}epitaph's riddle. `
 `There are no other options left to you that will result in the suspension of my ceremony. `
 `I humbly ask that you take care not to misunderstand your current situation. `
 `Searching for me will prove useless. `
@@ -279,7 +279,7 @@
 `"What the heeeeeell...? `
 `So what does that mean...? `
 `Damn you, again?! `
-`You're saying I can only suspect the {çeviri-hizmetkar}servants with keys again?!" `
+`You're saying I can only suspect the {ceviri}{hizmetkar}servants with keys again?!" `
 `"I won't say it in red, okay...? `
 `I won't deny the possibility that after they locked the door and left, someone was hiding in this room, okay...? `
 `*cackle*cackle*cackle*!" `
@@ -287,12 +287,12 @@
 `But they wouldn't have been able to lock the door! `
 `The master key they went to all that trouble to get was left right here! `
 `...That's right, I'd forgotten. `
-`What about the keys specifically for this room, the "{çeviri-hizmetkar}servant room keys"?!" `
+`What about the keys specifically for this room, the "{ceviri}{hizmetkar}servant room keys"?!" `
 `"Indeed. `
-`Those {p:1:are in the key box in the center of the {çeviri-hizmetkar}servant room}. `
-`There are several {çeviri-hizmetkar}servant room keys, but {p:1:all of those are inside the key box}." `
+`Those {p:1:are in the key box in the center of the {ceviri}{hizmetkar}servant room}. `
+`There are several {ceviri}{hizmetkar}servant room keys, but {p:1:all of those are inside the key box}." `
 `"Which means the situation is exactly the same as Jessica's room... `
-`It's not like the {çeviri-hizmetkar}servants would walk around with an unnecessary key when they have those convenient master keys. `
+`It's not like the {ceviri}{hizmetkar}servants would walk around with an unnecessary key when they have those convenient master keys. `
 `I can accept that they're all kept in the key box..." `
 `"And the other conditions remain unchanged as well. `
 `{p:1:Entry and exit are impossible except for the single door and the single window}. `
@@ -303,7 +303,7 @@
 `{p:1:And those were both locked}. `
 `{p:1:The door and the window do not permit any kind of entry or exit when they are locked}. `
 `So it wouldn't work to remove the door and make a crack to slide in through or anything like that while the lock is still set. `
-`And obviously, {p:1:it is impossible to unlock the door without the {çeviri-hizmetkar}servant room key or a master key}." `
+`And obviously, {p:1:it is impossible to unlock the door without the {ceviri}{hizmetkar}servant room key or a master key}." `
 `"...It's a pain having to read all these aloud every time. `
 `Sooner or later, I should think of a word to put this all together and abbreviate it." `
 `"But you can't repeat that someone was hiding in this room! `
@@ -314,7 +314,7 @@
 `What happened to that spinning the chessboard around thing that you're so proud of...? `
 `Please, announce your boastful strange theory." `
 `"...Spin...the chessboard around. `
-`......What would I do if I were the {çeviri-suçlu}culprit? `
+`......What would I do if I were the {ceviri}{suçlu}culprit? `
 `I carry the corpses off somewhere. `
 `...I leave a letter. `
 `......I lock the door from the inside. `
@@ -324,7 +324,7 @@
 `.........Ah-" `
 `...At that moment, ...I got it. `
 `That's right. `
-`...The {çeviri-suçlu}culprit carried away the corpses, left the letter... `
+`...The {ceviri}{suçlu}culprit carried away the corpses, left the letter... `
 `...And since they didn't use a "hidden door", {i:they weren't able to escape}... `
 `...That's it. `
 `This isn't a question, it's an answer... `
@@ -337,9 +337,9 @@
 `"...So in other words, if you can't get outside the room with it, it isn't a hidden door?" `
 `"Hoh. `
 `......So that's your game." `
-`"I kept thinking there needed to be some way for the {çeviri-suçlu}culprit to escape from the closed room. `
+`"I kept thinking there needed to be some way for the {ceviri}{suçlu}culprit to escape from the closed room. `
 `...That's wrong. `
-`The {çeviri-suçlu}culprit couldn't escape! `
+`The {ceviri}{suçlu}culprit couldn't escape! `
 `So they decided to hide until we all left!" `
 `During the second closed room, I tried applying this theory to Kanon-kun. `
 `...But after hearing "Kanon-kun was killed" in red, I gave it up. `
@@ -353,18 +353,18 @@
 `Heh, how pathetic, it was all just a bit of wordplay! `
 `Looks like that technique should be enough to handle even this third closed room. `
 `If there's a hidden shelf under the bed or anything like that, that'd be enough. `
-`The {çeviri-suçlu}culprit's hiding somewhere, waiting for us to leave. `
-`......The {çeviri-suçlu}culprit is also trapped in this closed room even now!! `
+`The {ceviri}{suçlu}culprit's hiding somewhere, waiting for us to leave. `
+`......The {ceviri}{suçlu}culprit is also trapped in this closed room even now!! `
 `Which means...at this very moment! `
-`The {çeviri-suçlu}culprit is still hiding in the {çeviri-hizmetkar}servant room, holding their breath...!!! `
+`The {ceviri}{suçlu}culprit is still hiding in the {ceviri}{hizmetkar}servant room, holding their breath...!!! `
 `And that means......what the hell... `
 `Even though we've been tortured by closed rooms three times, `
-`...at this very moment, we've actually gotten the {çeviri-suçlu}culprit in checkmate!! `
+`...at this very moment, we've actually gotten the {ceviri}{suçlu}culprit in checkmate!! `
 `"I'm finally starting to see it. `
 `...Eat this, Beato!! `
 `Repeat it! `
 `"There is no one in this room other than us"! `
-`By us, I mean me, George-aniki, Maria, {çeviri-Hala}Aunt Rosa, Genji-san, Gohda-san, and Shannon-chan, got it?! `
+`By us, I mean me, George-aniki, Maria, {ceviri}{Hala}Aunt Rosa, Genji-san, Gohda-san, and Shannon-chan, got it?! `
 `What do you think?!! You can't say it, right?!" `
 `"......Hoh... `
 `......hoh...!" `
@@ -387,7 +387,7 @@
 `{p:1:At the time of Jessica's corpse discovery, `
 `only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}." `
 `Whoops, the corpse of {p:1:Jessica is also included}. `
-`{p:1:Therefore, both in the case of Jessica's room and the case of this {çeviri-hizmetkar}servant room, no humans exist that you were not aware of}. `
+`{p:1:Therefore, both in the case of Jessica's room and the case of this {ceviri}{hizmetkar}servant room, no humans exist that you were not aware of}. `
 `{p:1:No one is hiding}." `
 `"And I'll say more. `
 `{p:1:No method exists by which the doors can be locked from the outside without using a key}. `
@@ -422,7 +422,7 @@
 `No one is hiding! `
 `And there's no hidden door, and no way to get past the door or the window while they're locked!! `
 `Have you just proven that it's all impossible?! `
-`Has the {çeviri-Şeytan'ın İspatı}Devil's Proof... `
+`Has the {ceviri}{Şeytan'ın İspatı}Devil's Proof... `
 `been fulfilled... `
 `with a frontal attack?! `
 `Impossible, `
@@ -442,9 +442,9 @@
 `e `
 `er `
 `???" `
-`"What are you calling {çeviri-büyü}magic?! I'll definitely prove that witches don't exist!! `
+`"What are you calling {ceviri}{büyü}magic?! I'll definitely prove that witches don't exist!! `
 `I definitely won't believe in you!! `
-`You used the power of {çeviri-büyü}magic... `
+`You used the power of {ceviri}{büyü}magic... `
 `and bullied and killed everyone for fun? `
 `...I definitely won't accept thaaaaaaaat!!" `
 `"Hey, Battler? `
@@ -462,7 +462,7 @@
 `"...Come on, you see what I'm getting at, don't you? `
 `It's Jessica. `
 `Jeeeessicaaaaaa!!" `
-`If Jessica were the {çeviri-suçlu}culprit, ...a farce like this could be easily constructed!! `
+`If Jessica were the {ceviri}{suçlu}culprit, ...a farce like this could be easily constructed!! `
 `She killed Kanon-kun and carried him off somewhere! `
 `Then, she played dead and let us walk by! `
 `But that's ridiculous!! `
@@ -480,15 +480,15 @@
 `*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!! `
 `And that makes the third closed room a farce, doesn't it?" `
 `Yeah, then it's simple. `
-`Doctor Nanjo was in on it, so in other words, he's on the {çeviri-suçlu}culprit's side, ...which means...which means... `
+`Doctor Nanjo was in on it, so in other words, he's on the {ceviri}{suçlu}culprit's side, ...which means...which means... `
 `he was never dead in the first place?! `
-`We thought his body disappeared after he was killed, but what if he was never in the {çeviri-hizmetkar}servant room to begin with?! `
+`We thought his body disappeared after he was killed, but what if he was never in the {ceviri}{hizmetkar}servant room to begin with?! `
 `So, if Kumasawa baa-chan disappeared with him, does that mean she's in on it too?! `
 `...That's not all, that's not all! `
-`The {çeviri-hizmetkar}servants who all agreed to keep to that story, Genji-san and Gohda-san, and even Shannon-chan, were also in on it! `
+`The {ceviri}{hizmetkar}servants who all agreed to keep to that story, Genji-san and Gohda-san, and even Shannon-chan, were also in on it! `
 `Then, the one who stole the key from Maria's handbag was Jessica... `
 `no, it could even have been George-aniki! `
-`After all, if Shannon-chan is on the {çeviri-suçlu}culprit's side, that automatically makes George-aniki on the {çeviri-suçlu}culprit's side!! `
+`After all, if Shannon-chan is on the {ceviri}{suçlu}culprit's side, that automatically makes George-aniki on the {ceviri}{suçlu}culprit's side!! `
 `Wait a second, just wait a second, they're all wolves... `
 `They're all wolves!! `
 `Not only am I drowning in an ocean of bright-red blood, `
@@ -505,7 +505,7 @@
 `"{p:1:If you accept me, all of the riddles will be resolved}. `
 `{p:1:With my power, any kind of locked room can be created or destroyed}!!" `
 `"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer?? `
-`{p:1:I'll make you my favorite piece of {çeviri-mobilya}furniture}. `
+`{p:1:I'll make you my favorite piece of {ceviri}{mobilya}furniture}. `
 `{p:1:I'll love you so much and make you my toy until you turn to ashes}..." `
 `"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!" `
 `".........Now, it's clear. `
@@ -516,22 +516,22 @@
 `...And now we have this letter from Beatrice, where she's been kind enough to confess that she carried the corpses off." `
 `"...It's as simple as that. `
 `I've had enough of this farce!!" `
-`As {çeviri-Hala}Aunt Rosa yelled this, she looked at all of us with a fierce expression. `
+`As {ceviri}{Hala}Aunt Rosa yelled this, she looked at all of us with a fierce expression. `
 `'W- `
 `What do you mean... `
 `by farce...?!" `
 `"I said it in Jessica-chan's room. `
 `...You can't trust anyone but yourself and those whose corpses have been found. `
 `And since we can't find the corpses of those two people, we must not accept that they've been killed." `
-`"...P-Please wait, {çeviri-Hala}Aunt Rosa. `
+`"...P-Please wait, {ceviri}{Hala}Aunt Rosa. `
 `What do you mean by that...?!" `
 `"Doctor Nanjo and Kumasawa-san aren't dead, they're alive! `
-`We're supposed to believe that they've been killed, but they're definitely hiding somewhere in this {çeviri-malikane}mansion. `
+`We're supposed to believe that they've been killed, but they're definitely hiding somewhere in this {ceviri}{malikane}mansion. `
 `So that they can attack us!!" `
 `"How could you know that?! `
 `Are you saying that Gohda-san and the rest are lying?!" `
 `"...Rosa-sama!! `
-`I, Gohda...no, all of the Ushiromiya family {çeviri-hizmetkar}servants! `
+`I, Gohda...no, all of the Ushiromiya family {ceviri}{hizmetkar}servants! `
 `We all swear that nothing of the sort happened!!" `
 `"You all say that those two were killed. `
 `But since there are no corpses, we mustn't believe you. `
@@ -560,7 +560,7 @@
 `"...A-Aunt Rosa!! `
 `That's horrible!! `
 `A murder occurred in this room! `
-`And then the {çeviri-suçlu}culprit carried the corpses away! `
+`And then the {ceviri}{suçlu}culprit carried the corpses away! `
 `All they're doing is honestly reporting what they saw!!" `
 `"......Aaah, aaaaaaaaaaaaaahhhhhhh!!!" `
 `Shannon had finally broken down in tears... `
@@ -583,7 +583,7 @@
 `Yeah, bit by bit, I'm starting to understand... `
 `...It's {i:because} we've been searching an answer, ...that's why everything keeps going wrong... `
 `We don't need...an answer. `
-`These are all...strange murders, committed with bizarre {çeviri-büyü}magic by the 19th person, the witch Beatrice, in accordance with some creepy ceremony. `
+`These are all...strange murders, committed with bizarre {ceviri}{büyü}magic by the 19th person, the witch Beatrice, in accordance with some creepy ceremony. `
 `......Isn't that...enough......? `
 `I don't...want to suspect...anyone anymore...... `
 `Shannon-chan and Gohda-san were protesting their innocence, half-crying. `
@@ -595,22 +595,22 @@
 `That's right. `
 `...By Rosa-san's argument, if their corpses can be found, then the innocence of those people alone can be proven. `
 `But that only counted for the corpses. `
-`Even if the survivors searched the {çeviri-malikane}mansion and found the corpses, in the end, their own innocence would never be proven. `
+`Even if the survivors searched the {ceviri}{malikane}mansion and found the corpses, in the end, their own innocence would never be proven. `
 `"They kidnapped Doctor Nanjo and Kumasawa-san, killed them in another place, and locked the closed room with their own master keys." `
 `Unless the closed room could be broken by a method other than that one, `
 `...it would be impossible to prove their innocence... `
 `...But......that couldn't be done!! `
 `They only have one chance to prove their innocence. `
-`...That can only happen if they meet with the {çeviri-suçlu}culprit, become corpses, and are then reunited with {çeviri-Hala}Aunt Rosa. `
+`...That can only happen if they meet with the {ceviri}{suçlu}culprit, become corpses, and are then reunited with {ceviri}{Hala}Aunt Rosa. `
 `Isn't that strange?!! `
 `They're innocent if they die, but guilty as long as they're alive, just like a witch trial! `
 `...Oh, right, the enemy's a witch. `
 `So everything's cool, is that it...? `
 `"...Rosa-sama, `
-`we are {çeviri-mobilya}furniture in service to the Ushiromiya family. `
+`we are {ceviri}{mobilya}furniture in service to the Ushiromiya family. `
 `...Whether you trust us or not is no business of ours. `
 `No matter what assessment you give us, we will merely continue to serve until our final hour." `
-`"You really are a model {çeviri-hizmetkar}servant. `
+`"You really are a model {ceviri}{hizmetkar}servant. `
 `...I deeply understand why Father trusts you. `
 `It really is heartrending that I must suspect even you." `
 `"............" `
@@ -626,16 +626,16 @@
 `"......You two." `
 `Genji-san looked at Gohda-san and Shannon-chan. `
 `...The two of them nodded and set their own master keys on the table. `
-`{çeviri-Hala}Aunt Rosa lay the two master keys that had come out of the envelope on top. `
+`{ceviri}{Hala}Aunt Rosa lay the two master keys that had come out of the envelope on top. `
 `With that, all five master keys were gathered in this place. `
-`In other words, this was proof that all of the {çeviri-hizmetkar}servants' service until today had been negated, `
+`In other words, this was proof that all of the {ceviri}{hizmetkar}servants' service until today had been negated, `
 `with even the final honor they should have been permitted stripped from them... `
 `"Maria, give me that handbag." `
 `"...Uu-! `
 `Give it back!!" `
-`{çeviri-Hala}Aunt Rosa snatched Maria's handbag, tossed the master keys in there, and held up one of them for all to see. `
+`{ceviri}{Hala}Aunt Rosa snatched Maria's handbag, tossed the master keys in there, and held up one of them for all to see. `
 `She was showing us that she now had all the master keys. `
-`"...A-Are you satisfied now, {çeviri-Hala}Aunt Rosa? `
+`"...A-Are you satisfied now, {ceviri}{Hala}Aunt Rosa? `
 `...Now you have all the master keys. `
 `...Doesn't that satisfy you?!!" `
 `"Yes, I'm satisfied. `
@@ -647,9 +647,9 @@
 `Ahahahahahahahahaha, hahahahahahahah!" `
 `"......Kiihihihihi." `
 `At that time, Maria, who alone seemed to be watching this as though it were a show, sneered at her mother. `
-`...{çeviri-Hala}Aunt Rosa reacted nervously to that laugh and turned around. `
+`...{ceviri}{Hala}Aunt Rosa reacted nervously to that laugh and turned around. `
 `"...Keys don't have anything to do with this. `
-`...Beatrice can open doors with {çeviri-büyü}magic. `
+`...Beatrice can open doors with {ceviri}{büyü}magic. `
 `She doesn't need keys. `
 `...It doesn't matter who has or doesn't have something like that. `
 `Kihihihihihihihihihihihihihi...!" `
@@ -660,7 +660,7 @@
 `...No, that's not it. `
 `...I was on my knees...and hugging Maria's head. `
 `...I was...crying. `
-`"Just...stop it already, {çeviri-Hala}Aunt Rosa... `
+`"Just...stop it already, {ceviri}{Hala}Aunt Rosa... `
 `...Maria was...right..." `
 `"...Wh-What are you talking about...?" `
 `"......Maria, `
@@ -684,7 +684,7 @@
 `"Yes...! `
 `I believe. `
 `...Beatrice "exists". `
-`And she's a witch, who uses strange {çeviri-büyü}magic...!" `
+`And she's a witch, who uses strange {ceviri}{büyü}magic...!" `
 `"Battler..." `
 `Maria let go of my hand, ...and then she was the one holding my head. `
 `"...That's enough, Battler. `
@@ -693,18 +693,18 @@
 `......Witches "exist". `
 `They "exist". `
 `And will "come" soon." `
-`"......You believed in Beato, so you'll surely be invited to the {çeviri-Altın Diyar}Golden Land. `
+`"......You believed in Beato, so you'll surely be invited to the {ceviri}{Altın Diyar}Golden Land. `
 `...Very soon now. `
 `...It will happen very soon. `
 `So there's nothing to be afraid of anymore. `
 `......There's no need to be afraid, okay? `
 `Stay with me, hands joined, ...okay...? `
-`Let's think about the riddle of the {çeviri-kitabe}epitaph together. `
+`Let's think about the riddle of the {ceviri}{kitabe}epitaph together. `
 `Let's think about Beato's puzzle. `
 `......Beato has been saying it from the beginning. `
 `She hasn't said anything other than "let's play and solve this puzzle"." `
 `"Right, ...she did... `
-`Searching for the {çeviri-suçlu}culprit was just a waste of time... `
+`Searching for the {ceviri}{suçlu}culprit was just a waste of time... `
 `......If only we had... `
 `...just believed in...... `
 `...the witch......" `
@@ -712,8 +712,8 @@
 `...Maria kissed my forehead, as soft as a feather. `
 `For just that instant, ...Maria's smile, which had once seemed creepy to me, looked like that of an angel... `
 `"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change. `
-`......From now on, we will not enter the {çeviri-salon}parlor without permission. `
-`Rosa-sama, please lock the {çeviri-salon}parlor from the inside." `
+`......From now on, we will not enter the {ceviri}{salon}parlor without permission. `
+`Rosa-sama, please lock the {ceviri}{salon}parlor from the inside." `
 `"...You truly are an admirable person. `
 `When the typhoon passes, ...if the cries of the seagulls return to this island again, `
 `......I wonder if we'll be able to trust each other once more." `
@@ -730,7 +730,7 @@
 `how shamelessly you speak. `
 `...And if you are a sheep, `
 `......then I'm sorry for throwing you into the cage of wolves." `
-`"...{çeviri-Mobilya}Furniture entrusts its fate to the family. `
+`"...{ceviri}{Mobilya}Furniture entrusts its fate to the family. `
 `...If I could regain your trust by giving up this life of mine, `
 `I would consider it a great honor." `
 `"............ `
@@ -739,9 +739,9 @@
 `...When the performance ends...and the curtain closes, `
 `...we will surely be able to grasp hands together again." `
 `"...When the seagulls...cry." `
-`{çeviri-Hala}Aunt Rosa nodded in response... `
+`{ceviri}{Hala}Aunt Rosa nodded in response... `
 `Genji-san turned on his heels. `
-`He left the {çeviri-hizmetkar}servant room. `
+`He left the {ceviri}{hizmetkar}servant room. `
 `Gohda-san's face was still streaked with tears, `
 `...but maybe he'd managed to sort out his feelings as he listened to Genji-san's words. `
 `...His face had been truly shameful, `
@@ -765,12 +765,12 @@
 `George-kun?" `
 `"...I'm...going with them." `
 `"...It's all right, George-sama... `
-`Please, return to the {çeviri-salon}parlor. `
+`Please, return to the {ceviri}{salon}parlor. `
 `There are no more master keys. `
-`So, if you're with Rosa-sama in the {çeviri-salon}parlor, you won't be threatened by anyone." `
+`So, if you're with Rosa-sama in the {ceviri}{salon}parlor, you won't be threatened by anyone." `
 `"You're right. `
 `...That's how things have sorted themselves out, isn't it? `
-`...Objectively speaking, I'd say you'll be safest staying with me in the {çeviri-salon}parlor." `
+`...Objectively speaking, I'd say you'll be safest staying with me in the {ceviri}{salon}parlor." `
 `"...But I won't force you to stay with us. `
 `George-kun, you may stay in any place you feel is safe. `
 `......You're already an adult. `
@@ -779,11 +779,11 @@
 `I will decide... `
 `with whom I'll spend this night." `
 `"...A-Aniki..." `
-`"Battler-kun, stay with {çeviri-Hala}Aunt Rosa in the {çeviri-salon}parlor. `
+`"Battler-kun, stay with {ceviri}{Hala}Aunt Rosa in the {ceviri}{salon}parlor. `
 `I'm sure you'll be safest there. `
-`...Everywhere outside the {çeviri-salon}parlor is dangerous in comparison. `
+`...Everywhere outside the {ceviri}{salon}parlor is dangerous in comparison. `
 `...So, I can't leave her in a place like that alone." `
-`"...It's...not like I suspect Shannon-chan and the other {çeviri-hizmetkar}servants `
+`"...It's...not like I suspect Shannon-chan and the other {ceviri}{hizmetkar}servants `
 `...or anyone at all... `
 `I don't want to suspect anyone... `
 `The inheritance? `
@@ -812,12 +812,12 @@
 `But when tomorrow morning comes, let me apologize again." `
 `"Yes... `
 `......Thank you very much." `
-`George-aniki and Shannon-chan left the {çeviri-hizmetkar}servant room together. `
-`......Now, only Maria, {çeviri-Hala}Aunt Rosa and I were left in this disgusting, bloodstained room. `
+`George-aniki and Shannon-chan left the {ceviri}{hizmetkar}servant room together. `
+`......Now, only Maria, {ceviri}{Hala}Aunt Rosa and I were left in this disgusting, bloodstained room. `
 `Until Genji-san disappeared, until Gohda-san disappeared, until George-aniki and Shannon-chan disappeared, we stood there, shocked... `
-`After their presence and their footsteps had completely disappeared, {çeviri-Hala}Aunt Rosa giggled, as though she'd just remembered something pleasant. `
+`After their presence and their footsteps had completely disappeared, {ceviri}{Hala}Aunt Rosa giggled, as though she'd just remembered something pleasant. `
 `"......You can't trust them for a moment. `
-`That damned {çeviri-mobilya}furniture." `
+`That damned {ceviri}{mobilya}furniture." `
 `That one sentence... `
 `made me choke. `
 `"...Wh... `
@@ -835,7 +835,7 @@
 `What's with that parting line...? `
 `They've shown that they're willing to go this far, and you still can't trust them?! `
 `Too much, ...that's just too much...!" `
-`"It's a {çeviri-Şeytan'ın İspatı}Devil's Proof! `
+`"It's a {ceviri}{Şeytan'ın İspatı}Devil's Proof! `
 `There are five master keys in all?! `
 `It's impossible to prove something like that!! `
 `You can show that there are five master keys by placing them here! `
@@ -844,8 +844,8 @@
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaahh!!! `
 `Stop it already, stop it already...!! `
 `Please, Beatrice, show yourself right now, `
-`and tell {çeviri-Hala}Aunt Rosa in red that "there are only five master keys"!! `
-`Please, I'm begging you, this can only be proved by {çeviri-şeytan}devils, by a witch like you! `
+`and tell {ceviri}{Hala}Aunt Rosa in red that "there are only five master keys"!! `
+`Please, I'm begging you, this can only be proved by {ceviri}{şeytan}devils, by a witch like you! `
 `Please, Beato, show yourself here and tell Rosa that those are all the master keys, `
 `and that there's no need to suspect anyone anymore...!!!" `
 `" `
@@ -861,11 +861,11 @@
 `Stop it already! Stop it already!! `
 `Aaaaaaaaaaaaaagggghhh!!" `
 `"Words alone are not enough, show it with your actions. `
-`Swear from your heart that you will become my {çeviri-mobilya}furniture." `
+`Swear from your heart that you will become my {ceviri}{mobilya}furniture." `
 `"Can you do it? `
 `Take off your clothes, be naked, then put your hands on the ground and crawl. `
 `Clothing is proof of one's humanity. `
-`From now on, you will become {çeviri-mobilya}furniture, so it's only natural that you will lose that right!!" `
+`From now on, you will become {ceviri}{mobilya}furniture, so it's only natural that you will lose that right!!" `
 `"Then kneel, make your tongue crawl on my shoes. `
 `Can you do it? `
 `You can do it, riiiiiiiight?? `

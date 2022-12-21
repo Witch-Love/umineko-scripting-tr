@@ -26,8 +26,8 @@
 `...Now that we've gotten used to this string of weird names, our perspective is totally skewed, `
 `so Krauss doesn't actually seem that bad. `
 `It even starts to sound kinda cool... `
-`Just like with {çeviri-Hala}Aunt Natsuhi, I didn't have many memories of speaking with Uncle Krauss. `
-`He had never been one to chat to children, and I felt like he was always talking with the adults, just like {çeviri-Hala}Aunt Natsuhi. `
+`Just like with {ceviri}{Hala}Aunt Natsuhi, I didn't have many memories of speaking with Uncle Krauss. `
+`He had never been one to chat to children, and I felt like he was always talking with the adults, just like {ceviri}{Hala}Aunt Natsuhi. `
 `According to my father's gossip, he was a spiteful and violent man. `
 `If what he said is true, Uncle Krauss used to be very domineering from his position as the oldest sibling `
 `...and was despised by all the other siblings. `
@@ -44,10 +44,10 @@
 `This was my first time meeting him. `
 `I had only just been introduced to him, but it seems he's Grandfather's personal doctor, a man called Nanjo ({p:0:南條}). `
 `I heard he used to own a huge clinic on the nearby island of Niijima, but he turned it over to his son and began living a life of leisure in his old age. `
-`He had known Grandfather since the very beginning, when the {çeviri-malikane}mansion was first constructed on this island, and had built up a relationship over several decades. `
+`He had known Grandfather since the very beginning, when the {ceviri}{malikane}mansion was first constructed on this island, and had built up a relationship over several decades. `
 `I thought at first that the two of them might've gotten to know each other through Grandfather's suspicious hobbies, but it seems he was actually Grandfather's chess partner. `
 `......I see. That kind of hobby seems very like our Grandfather, what with his love of all things Western. `
-`Nanjo's probably the only person who could enter Rokkenjima despite being neither a family member nor a {çeviri-hizmetkar}servant. `
+`Nanjo's probably the only person who could enter Rokkenjima despite being neither a family member nor a {ceviri}{hizmetkar}servant. `
 `He looked like a calm old gentleman as he listened to the discussion between Kyrie and the other women, who sat near to him. `
 `...Considering how long he stayed by the side of our short-tempered Grandfather, his generous heart was probably nothing to laugh at. `
 `...Still, even if he was a family doctor, having anyone outside the Ushiromiya family attend the family conference was a little odd. `
@@ -76,7 +76,7 @@
 `They owned several spinning mills, making them rich enough to just double over laughing every day as the money kept rolling in. `
 `Incidentally, Grandfather was a member of a branch family and had pretty much nothing to do with the main family. `
 `Not only was he way down the list of people who could inherit the Headship, but he had hardly any contact with the glamorous main family. `
-`However, during the Great Kanto Earthquake in {ruby:Taisho 12:1923}, the {çeviri-malikane}mansion owned by the Ushiromiya family in Odawara was flattened. `
+`However, during the Great Kanto Earthquake in {ruby:Taisho 12:1923}, the {ceviri}{malikane}mansion owned by the Ushiromiya family in Odawara was flattened. `
 `The spinning mills in Tokyo were all burned down in a huge fire, `
 `and the Ushiromiya family lost most of its wealth and family members in an instant. `
 `So, once they started trying to figure out who the successor to the Ushiromiya family should be, they apparently found no one remaining except Kinzo in his branch family. `
@@ -123,10 +123,10 @@
 `Of course, it probably wasn't all luck. `
 `He was obsessed with all things Western, which helped him cultivate his English skills. `
 `He was able to use this to his advantage and sink his teeth into the GHQ. `
-`A {çeviri-malikane}mansion was built on the island soon after. `
-`This {çeviri-malikane}mansion, in fact. `
+`A {ceviri}{malikane}mansion was built on the island soon after. `
+`This {ceviri}{malikane}mansion, in fact. `
 `Grandfather, with his love of the Western style, made this once uninhabited island a canvas upon which he could realize his dreams to his heart's content. `
-`...He now had the Western {çeviri-malikane}mansion of his dreams, overflowing with emotion and atmosphere, and a beautiful garden featuring all sorts of roses. `
+`...He now had the Western {ceviri}{malikane}mansion of his dreams, overflowing with emotion and atmosphere, and a beautiful garden featuring all sorts of roses. `
 `And, he had a private beach where nobody other than himself would ever be permitted to leave a footprint. `
 `......This would be a dream come true for any boy. `
 `After that, he made good use of his huge fortune, `
@@ -138,11 +138,11 @@
 `......Anyway, even a lord like that can't help but grow increasingly eccentric when locked up alone on an island `
 `, where all his dreams are made real. `
 `Everyone knows that he's had a Western obsession from the start, `
-`but none of our parents really know when his bizarre black {çeviri-büyü}magic hobby began. `
-`Did his love of black {çeviri-büyü}magic begin way back when he became fascinated with everything Western, `
+`but none of our parents really know when his bizarre black {ceviri}{büyü}magic hobby began. `
+`Did his love of black {ceviri}{büyü}magic begin way back when he became fascinated with everything Western, `
 `or did his miraculous stretch of good luck while reviving his family cause him to feel a mysterious power in himself? `
-`At some point, Grandfather began to make the research of black {çeviri-büyü}magic his life's work. `
-`He filled his {çeviri-çalışma odası}study up with suspicious books, chemicals, and {çeviri-büyülü}magical items as he became increasingly bizarre. `
+`At some point, Grandfather began to make the research of black {ceviri}{büyü}magic his life's work. `
+`He filled his {ceviri}{çalışma odası}study up with suspicious books, chemicals, and {ceviri}{büyülü}magical items as he became increasingly bizarre. `
 `From what I've heard, those around him warmly (?) watched over him, figuring that someone who had achieved success in life had a right to do as he pleased, but... `
 `...There's no way that's true. `
 `They were probably just creeped out, thinking "That's disgusting, I don't want to get involved." `
@@ -151,7 +151,7 @@
 `He would've had no opportunities and would probably have advanced like a chess piece from mandatory education to college at a leisurely pace, `
 `never becoming more than an average salaryman. `
 `If that happened, he'd probably have sat somewhere, happily talking behind his boss's back. `
-`No, no. Not in a fancy {çeviri-yemek salonu}dining hall like this. More like at a table in some bar. `
+`No, no. Not in a fancy {ceviri}{yemek salonu}dining hall like this. More like at a table in some bar. `
 `Then again, I'll bet this family conference would be a whole lot more relaxing if that were the case. `
 `Okay, that's enough about the old geezer. `
 `More importantly, let's talk about this incredible lunch!! `
@@ -169,17 +169,17 @@
 `"Well, I don't know the details, `
 `but stuff got complicated at the long-standing hotel he used to work at, what with them opening a new establishment with the same name and breaking into factions or whatever it was. `
 `In the middle of all that, he was apparently forced to retire. `
-`At that time, Mom just happened to be sending out job offers for a {çeviri-hizmetkar}servant." `
+`At that time, Mom just happened to be sending out job offers for a {ceviri}{hizmetkar}servant." `
 `As Gohda removed the empty plates, he began to recount his own bumpy past without losing his smile. `
 `"The world is a difficult place. `
 `However, thanks to the Madam, I was given a chance to display my skills as a chef once again, this time for the Ushiromiya family. `
 `Although I enjoy experiencing the smiles of a larger number of people, `
 `I also find it quite entertaining to perform more delicate work that can please the limited number of those who have employed me. `
 `All this is thanks to the opportunity given to me by the Madam." `
-`Gohda-san respectfully bowed his head towards {çeviri-Hala}Aunt Natsuhi. `
+`Gohda-san respectfully bowed his head towards {ceviri}{Hala}Aunt Natsuhi. `
 `"That's because you were the most talented of the applicants. `
 `The decision was purely objective, not based on personal feelings, so there is no need to thank me." `
-`...Dang, why does {çeviri-Hala}Aunt Natsuhi always have to sound so indifferent? `
+`...Dang, why does {ceviri}{Hala}Aunt Natsuhi always have to sound so indifferent? `
 `If only she spoke with a bit more kindness, she might leave a different impression. `
 `Shannon-chan and Kumasawa-san entered from the hallway with a serving cart. `
 `"...Please excuse us." `
@@ -194,7 +194,7 @@
 `Normally, during a high-class meal like this, `
 `you're supposed to wait for the chef to extol the virtues of this particular meal before eating. `
 `However, Maria was completely indifferent to strict rules like that, so she got excited by this beautiful and delicious-looking dessert, jumping into the fray as soon as it was placed before her. `
-`{çeviri-Hala}Aunt Rosa scolded her, calling it bad manners, but George responded by saying "Now, now, it's okay." `
+`{ceviri}{Hala}Aunt Rosa scolded her, calling it bad manners, but George responded by saying "Now, now, it's okay." `
 `"Uu-?! `
 `This part's sour! `
 `This part's sour! `
@@ -217,7 +217,7 @@
 `Still, even considering that, she seems pretty stressed. `
 `......Maybe I shouldn't have asked. `
 `Or did they use some ingredient that we'd be better off not knowing about? `
-`While {çeviri-Hala}Aunt Natsuhi made a gesture that seemed to indicate an oncoming headache, Kumasawa-san, who was setting the table at the opposite seat, began to chuckle. `
+`While {ceviri}{Hala}Aunt Natsuhi made a gesture that seemed to indicate an oncoming headache, Kumasawa-san, who was setting the table at the opposite seat, began to chuckle. `
 `"What do you think we made it out of? `
 `Hohohoh, it'll shock you..." `
 `"Huh? I-I don't have a clue. `
@@ -243,7 +243,7 @@
 `This is what comes out when you squeeze them!" `
 `""...ha, wahahahahaha...!"" `
 `When Maria started clamoring that mackerel were sour, the adults were unable to contain their laughter. `
-`Only {çeviri-Hala}Aunt Rosa, her face red, `
+`Only {ceviri}{Hala}Aunt Rosa, her face red, `
 `whispered to Maria that mackerel is sour only once {ruby:vinegared:prepared as shimesaba}. `
 `Aaahh, now I totally remember. `
 `Kumasawa-san was always like this, wasn't she? `
@@ -345,10 +345,10 @@
 `If you don't mind, I would be happy if you would help out a bit before your break." `
 `"Ah, yes...! `
 `I would be delighted to help." `
-`To Shannon, Kumasawa was like a mother among the {çeviri-hizmetkar}servants. `
-`The {çeviri-yemek salonu}dining hall needed to be cleaned up, so we were chased out. `
-`Instead, tea was being served in the {çeviri-salon}parlor. `
-`Apparently, they'd prepared the black tea that {çeviri-Hala}Aunt Rosa had bought for {çeviri-Hala}Aunt Natsuhi. `
+`To Shannon, Kumasawa was like a mother among the {ceviri}{hizmetkar}servants. `
+`The {ceviri}{yemek salonu}dining hall needed to be cleaned up, so we were chased out. `
+`Instead, tea was being served in the {ceviri}{salon}parlor. `
+`Apparently, they'd prepared the black tea that {ceviri}{Hala}Aunt Rosa had bought for {ceviri}{Hala}Aunt Natsuhi. `
 `Maria said she also wanted to have some black tea, but my old bastard said she couldn't and told us children to go play outside. `
 `"Battler-kun, why don't we all go for a walk outside?" `
 `"Go ahead and take a look at the roses or somethin'. `
@@ -373,9 +373,9 @@
 `"Hah! `
 `Hell no! `
 `Let's go everyone, c'mon!" `
-`The children flew out of the {çeviri-salon}parlor. `
+`The children flew out of the {ceviri}{salon}parlor. `
 `They were replaced by Genji, who pushed a serving cart in and prepared to serve the tea. `
-`The {çeviri-salon}parlor was filled with a sublime aroma which delighted everyone while they waited to sate their thirst... `
+`The {ceviri}{salon}parlor was filled with a sublime aroma which delighted everyone while they waited to sate their thirst... `
 `"Hahahahah, ha... `
 `Rudolf's family certainly seems close. `
 `It's a wonderful thing." `
@@ -385,7 +385,7 @@
 `I imagine that's yet another fruit of your talents at education and training, Natsuhi nee-san." `
 `"......Thank you." `
 `Natsuhi answered coldly. `
-`...The conversation broke off then, and the {çeviri-salon}parlor fell silent. `
+`...The conversation broke off then, and the {ceviri}{salon}parlor fell silent. `
 `Maybe Hideyoshi couldn't bear the silence, because he broke it himself with an exaggerated gesture. `
 `"Still, they sure do grow fast. `
 `...I thought they'd be kids forever, but they start gettin' huge all of a sudden, and then they're adults like us. `
@@ -422,7 +422,7 @@
 `"Last year, his life expectancy was estimated at about three months. `
 `Which I guess means he's got negative 9 months left now. `
 `Should we take that to mean it might suddenly happen at any time?" `
-`"...The {çeviri-Aile Reisi}Family Head is still alive and well. `
+`"...The {ceviri}{Aile Reisi}Family Head is still alive and well. `
 `The fact that you'd bring up such an inappropriate topic under the light of day...makes me doubt your sanity, Rudolf-san." `
 `"Still, Natsuhi-san, `
 `this is the sort of thing you can't put off until after somethin' happens. `
@@ -455,7 +455,7 @@
 `There's Dad for you, the heavy drinker." `
 `"Well then, Doctor, I know you can't give anything more than a prediction, `
 `...but what do you think about Father's chances of living until this day next year...?" `
-`"That's quite a rude question to ask about the {çeviri-Aile Reisi}Family Head." `
+`"That's quite a rude question to ask about the {ceviri}{Aile Reisi}Family Head." `
 `Natsuhi jumped on Eva, not even bothering to hide her astonished expression. `
 `Eva stared back daringly, but Hideyoshi realized what was going on and tried to smooth things over with a forced smile. `
 `"Ah, Natsuhi-san, forgive her! `
@@ -516,7 +516,7 @@
 `"...That's an interesting way to put it. `
 `That's right, you sometimes get strawberries or chocolates on top of the cake, making it hard to cleanly cut it into equal parts. `
 `Given that, don't you think it's important to discuss beforehand how best to stick the knife in...?" `
-`"I cannot understand how you all can openly discuss this as though the {çeviri-Aile Reisi}Family Head is dead, even though he's still alive." `
+`"I cannot understand how you all can openly discuss this as though the {ceviri}{Aile Reisi}Family Head is dead, even though he's still alive." `
 `"Come now, don't you see how important this is? `
 `After all, when the time comes, the inheritance of his fortune must be carried out immediately, right? `
 `Moreover, the glorious Ushiromiya house's wealth is vast. `
@@ -531,7 +531,7 @@
 `Hideyoshi tried to smooth things over by glancing at both with a forced smile, but it only resulted in making the hostility between Eva and Natsuhi even more intense... `
 `"............It seems I'll just get in the way if I stay any longer. `
 `Please excuse me." `
-`Nanjo rose from his seat and exited the {çeviri-salon}parlor. `
+`Nanjo rose from his seat and exited the {ceviri}{salon}parlor. `
 `...To an outsider, it may have seemed like a normal act of courtesy, but his back was watched by several glances envious of his ability to escape. `
 `After the doctor had exited and his footsteps had disappeared into the distance, Krauss recrossed his legs. `
 `"In other words, this is what you all would like to say... `
@@ -630,7 +630,7 @@
 `When that happens, all of you stand to profit as well, do you not?" `
 `"I understand that. `
 `If the value of this island rises, that'll increase our portions when we distribute the inheritance. `
-`Of course, I won't ask you to divide the island and the {çeviri-malikane}mansion into four equal parts. `
+`Of course, I won't ask you to divide the island and the {ceviri}{malikane}mansion into four equal parts. `
 `We can just resolve the matter with money equal to the value of the property." `
 `"If you understand that much, what about my business makes you so dissatisfied?" `
 `"We aren't dissatisfied, we're uneasy. `
@@ -641,15 +641,15 @@
 `It's an important tool for your business, isn't it? `
 `Surely you can't keep it locked up until the moment you open it. `
 `Buildings go bad if you don't use them and air them out every once in a while. `
-`Even so, it's a bit extravagant for a {çeviri-konukevi}guesthouse that we only use once a year. `
+`Even so, it's a bit extravagant for a {ceviri}{konukevi}guesthouse that we only use once a year. `
 `Right, Rosa?" `
 `".........That's right. `
 `Considering how wonderful it is, I'm sure it will become quite popular once you open it." `
 `"Oh, `
-`......so the hotel you keep talking about is the {çeviri-konukevi}guesthouse..." `
+`......so the hotel you keep talking about is the {ceviri}{konukevi}guesthouse..." `
 `"It's splendid. `
 `Just as Rosa said, if you were to open it, I'm sure it would become popular." `
-`The lodging they had been guided to wasn't originally intended to serve as a {çeviri-konukevi}guesthouse. `
+`The lodging they had been guided to wasn't originally intended to serve as a {ceviri}{konukevi}guesthouse. `
 `...It was originally constructed as a resort hotel. `
 `However, even though it was built two years previously, there was still absolutely no prospect of it opening. `
 `"Nii-san, it's just like all of your enterprises. `
@@ -729,7 +729,7 @@
 `This is embezzlement, plain and simple. `
 `A huge crime that can be criminally prosecuted." `
 `"Th-This sort of rudeness cannot be tolerated!! `
-`How can you face the Successor to the {çeviri-Ushiromiya Baş Ailesi}Ushiromiya Head Family and level these absurd accusations?!!" `
+`How can you face the Successor to the {ceviri}{Ushiromiya Baş Ailesi}Ushiromiya Head Family and level these absurd accusations?!!" `
 `"They aren't absurd, they're right on the mark. `
 `I'm sure he'd like to somehow make his business succeed and recover his losses, but his debt keeps getting bigger! `
 `He's just trying to cover up the failure of one gamble by making an even bigger one. `
@@ -737,8 +737,8 @@
 `Let me be frank. Nii-san, what you're doing is embezzlement. `
 `You're betraying Father. `
 `You know that we'll have the courts settle this after it's all over, right? `
-`Do you think that kind of person has any right to call themselves the Successor to the {çeviri-Ushiromiya Baş Ailesi}Ushiromiya Head Family?" `
-`"O-Of all the... Y-You dare to claim that he has betrayed the {çeviri-Aile Reisi}Family Head?!! `
+`Do you think that kind of person has any right to call themselves the Successor to the {ceviri}{Ushiromiya Baş Ailesi}Ushiromiya Head Family?" `
+`"O-Of all the... Y-You dare to claim that he has betrayed the {ceviri}{Aile Reisi}Family Head?!! `
 `You no longer have the right to straddle the threshold of the glorious Ushiromiya family!! `
 `Leave this place at once!! `
 `Now!! `
@@ -797,7 +797,7 @@
 `Aaaaaaaahhh, gaaaaaaaaahhhh!!!" `
 `Natsuhi was already unable to hide her tears. `
 `She flew from the room in that state. `
-`After that, all that remained was a somewhat embarrassed mood about the {çeviri-salon}parlor... `
+`After that, all that remained was a somewhat embarrassed mood about the {ceviri}{salon}parlor... `
 `When the sound of footsteps grew distant and silence returned, Krauss shrugged his shoulders slightly. `
 `"...I apologize for my wife. `
 `She has always been bad at controlling her emotions. `

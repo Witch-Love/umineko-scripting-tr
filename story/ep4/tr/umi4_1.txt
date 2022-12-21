@@ -1,4 +1,4 @@
-`"Good morning, {çeviri-Leydim}Milady. `
+`"Good morning, {ceviri}{Leydim}Milady. `
 `My, my, you do appear to be in a good mood. `
 `What a pleasant awakening you seem to have had." `
 `"What do you mean, pleasant awakening...?! `
@@ -51,7 +51,7 @@
 `{nobreak:tho `
 `rough `
 `ly} `
-`destroyed him, {çeviri-Leydim}Milady. `
+`destroyed him, {ceviri}{Leydim}Milady. `
 `That would turn most anyone into a misanthrope." `
 `"Hoh, distrust of Humans? How convenient! `
 `Let him give up on Humans and trust witches, wahahaha... `
@@ -63,7 +63,7 @@
 `Sh-Should we wait just a little longer before beginning the fourth game...?" `
 `"Lady Bernkastel's guest will be arriving, `
 `so it may be best to open the fourth game quickly. `
-`However, perhaps you ought to show a little concern for Battler's feelings, {çeviri-Leydim}Milady." `
+`However, perhaps you ought to show a little concern for Battler's feelings, {ceviri}{Leydim}Milady." `
 `"Concern! `
 `Show concern, you say?! `
 `How should I do that...?! `
@@ -202,7 +202,7 @@
 `You remain in a state of surrender for the last mystery in the previous game, the mystery of Nanjo's murder...!" `
 `"......My answer for that one's still on hold for now. `
 `But that doesn't mean that I've lost heart. `
-`I'll definitely break your "{çeviri-kırmızı gerçek}red truth"...and show that I can deny witches...!" `
+`I'll definitely break your "{ceviri}{kırmızı gerçek}red truth"...and show that I can deny witches...!" `
 `"Hmph. `
 `A commendable attitude. `
 `You truly are a man like a phoenix. `
@@ -361,7 +361,7 @@
 `Get it...?" `
 `"Yeah, ...I get it. `
 `...You're telling me not to swallow information given to me by others, but to think for myself. `
-`......In the past, I swallowed all the {çeviri-büyü}magic Beato showed me. `
+`......In the past, I swallowed all the {ceviri}{büyü}magic Beato showed me. `
 `{i:I stopped thinking}. `
 `So I was useless." `
 `Battler grimaced as he remembered his many painful losses. `
@@ -463,7 +463,7 @@
 `"Uu-uu-uu-!! `
 `Gonna faaall, faaall, siiink, siiink, *giggle*!" `
 `...The long-missed cousins I had loved dashed across the beach, `
-`...getting swallowed by the forest path that led to the {çeviri-malikane}mansion, and disappeared. `
+`...getting swallowed by the forest path that led to the {ceviri}{malikane}mansion, and disappeared. `
 `And of course, Onii-chan could be seen among them too. `
 `"...Daaamn it!! `
 `Stop right there, Maria!! `

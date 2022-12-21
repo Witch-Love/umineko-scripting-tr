@@ -249,7 +249,7 @@
 `Are the Ushiromiyas some sort of Japanese aristocrats?>" `
 `"<...Of course not. `
 `They just managed to strike it rich in the spinning industry in recent generations. `
-`I didn't {çeviri-çalışma odası}study all that as part of some noble's hobby. `
+`I didn't {ceviri}{çalışma odası}study all that as part of some noble's hobby. `
 `...I just did it because I wasn't allowed to do anything except read, `
 `play around with roses, `
 `and get myself drunk.>" `
@@ -330,13 +330,13 @@
 `It's in the shadows of a cove that can't be seen from the outside. `
 `After all, fishermen never approach this supposedly ill-omened island. `
 `It's unlikely that anyone besides me still knows of its existence." `
-`"Is the two-kilometer-long underground passage between Kuwadorian and the {çeviri-malikane}mansion a remnant of that base?" `
+`"Is the two-kilometer-long underground passage between Kuwadorian and the {ceviri}{malikane}mansion a remnant of that base?" `
 `"That is correct. `
 `There was some nonsense about fortifying several locations across the island and connecting them with tunnels carved out of limestone caverns. `
-`I made use of that underground passage and built two {çeviri-malikane}mansions, `
+`I made use of that underground passage and built two {ceviri}{malikane}mansions, `
 `one at each end of the island." `
-`"Two {çeviri-malikane}mansions, two families. `
-`...The Ushiromiya family {çeviri-malikane}mansion...and a {çeviri-malikane}mansion for the Kinzo released from the shackles of the family." `
+`"Two {ceviri}{malikane}mansions, two families. `
+`...The Ushiromiya family {ceviri}{malikane}mansion...and a {ceviri}{malikane}mansion for the Kinzo released from the shackles of the family." `
 `"......Correct. `
 `...It was something I needed. `
 `...Another place for me to escape from the cursed name of Ushiromiya." `

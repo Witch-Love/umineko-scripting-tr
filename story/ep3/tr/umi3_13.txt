@@ -86,10 +86,10 @@
 `...Under the covers, Eva kept praying `
 `that the grotesque nightmare she'd just had was only a dream... `
 `"In the center of the rose garden, Rudolf identified the corpses of Rosa and Maria. `
-`After that, he returned to the {çeviri-konukevi}guesthouse, called for help, and carried both of them into the {çeviri-konukevi}guesthouse." `
+`After that, he returned to the {ceviri}{konukevi}guesthouse, called for help, and carried both of them into the {ceviri}{konukevi}guesthouse." `
 `"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence. `
 `It is thought that Maria's death was due to strangling with bare hands. `
-`However, due to the "{çeviri-Şeytan'ın İspatı}Devil's Proof", we cannot discount a misdiagnosis." `
+`However, due to the "{ceviri}{Şeytan'ın İspatı}Devil's Proof", we cannot discount a misdiagnosis." `
 `"...I will say it in red. `
 `{p:1:Rosa and Maria died}. `
 `{p:1:The causes of death were as Nanjo diagnosed}. `
@@ -97,7 +97,7 @@
 `Don't worry." `
 `"......So, you argue that even though you toyed with their deaths so much, it's all fine because the corpse is neat and clean...? `
 `I definitely won't forgive you." `
-`"...I definitely won't forget all of that brutal treatment you gave {çeviri-Hala}Aunt Rosa, `
+`"...I definitely won't forget all of that brutal treatment you gave {ceviri}{Hala}Aunt Rosa, `
 `so I won't forgive you..." `
 `"...L-Like I said, that wasn't me... `
 `...I believe I gave them a much more peaceful death than the way she treated them..." `
@@ -108,10 +108,10 @@
 `One of them probably killed those two." `
 `"...Or could it also be an accidental death? `
 `Like Maria was having a tantrum, `
-`and when {çeviri-Hala}Aunt Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her. `
+`and when {ceviri}{Hala}Aunt Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her. `
 `Then she was so upset that she slipped and fell, landed on the fence, and unluckily, died." `
 `"...How's that? `
-`That way there's no need for a witch or {çeviri-büyü}magic." `
+`That way there's no need for a witch or {ceviri}{büyü}magic." `
 `"...Well, that's not quite true. `
 `Actually, Rosa and Maria..." `
 `"Shut up. `
@@ -158,9 +158,9 @@
 `What was the point of all that?" `
 `"......That's... `
 `well..." `
-`"When it comes to closed room murders and tricks and {çeviri-mazeret}alibis, `
+`"When it comes to closed room murders and tricks and {ceviri}{mazeret}alibis, `
 `I'm willing to give you a pass. `
-`You want to claim that this is a murder done by {çeviri-büyü}magic, `
+`You want to claim that this is a murder done by {ceviri}{büyü}magic, `
 `so I'll grudgingly accept that those complicated crimes need to occur." `
 `"...But what exactly is the point of all those grotesque murders?" `
 `"......Well, umm, `
@@ -168,7 +168,7 @@
 `"That's right. `
 `They don't mean anything. `
 `You're just fooling around by mangling the corpses for fun. `
-`That has nothing to do with whether you're a witch, or whether it could or couldn't be done with {çeviri-büyü}magic." `
+`That has nothing to do with whether you're a witch, or whether it could or couldn't be done with {ceviri}{büyü}magic." `
 `"You're just exploring the depths of cruelty for fun. `
 `This isn't about whether you're a witch, or anything like that. `
 `There are just some things I can't forgive as a human." `
@@ -193,7 +193,7 @@
 `That wasn't me-" `
 `"That's not it. `
 `That's not what I'm talking about! `
-`...You watched {çeviri-Hala}Aunt Rosa being killed horribly over and over, `
+`...You watched {ceviri}{Hala}Aunt Rosa being killed horribly over and over, `
 `and you sneered at it like it was an interesting show." `
 `...When I saw that, I was deeply disappointed in you. `
 `When I realized that your decision to kill them in a slightly better way this time was nothing more than a faint whim, `
@@ -202,7 +202,7 @@
 `You weren't just acting as cruel as you could to bully me. `
 `...You truly, genuinely enjoy cruelty. `
 `Your character lets you enjoy it. `
-`You said I'd probably think that {çeviri-Hala}Aunt Rosa being brutally killed over and over was fun. `
+`You said I'd probably think that {ceviri}{Hala}Aunt Rosa being brutally killed over and over was fun. `
 `You weren't joking. `
 `You enjoyed it from the bottom of your heart, wanted me to sympathize, and said that I'd probably think it was fun. `
 `...In that instant, I lost respect for you and realized the truth. `
@@ -252,18 +252,18 @@
 `an idiot." `
 `"......That's true. `
 `An idiot, and a straightforward one." `
-`"That idiot watched {çeviri-Hala}Aunt Rosa get killed horribly with me, `
+`"That idiot watched {ceviri}{Hala}Aunt Rosa get killed horribly with me, `
 `then turned around with a huge smile on her face. `
 `...She really believed that she could laugh with me at that cruel show. `
 `...She really believed that I could sympathize with that emotion..." `
 `"Looking at that innocent smile, I felt just horrible. `
 `...It would've been much better if she'd said it with her normal bullying face... `
 `...Damn it..." `
-`"{çeviri-Leydim}Milady has never had the experience of having a friend. `
+`"{ceviri}{Leydim}Milady has never had the experience of having a friend. `
 `...In addition, she has probably never had something spoken to her that strongly." `
 `"Madam and I are her attendants. `
 `No matter what we say, it will not reach her ears. `
-`For {çeviri-Leydim}Milady, this is also-" `
+`For {ceviri}{Leydim}Milady, this is also-" `
 `"Don't screw with me. `
 `I don't remember ever becoming her friend." `
 `"...That's true enough. `
@@ -277,23 +277,23 @@
 `...Let's resume the game. `
 `Of course, I don't intend to go easy on you." `
 `"I wouldn't have it any other way. `
-`Unlike {çeviri-Leydim}Milady, I do not get agitated." `
+`Unlike {ceviri}{Leydim}Milady, I do not get agitated." `
 `"...I've already made my move. `
-`If we suppose that {çeviri-Hala}Aunt Rosa is the {çeviri-suçlu}culprit and died in an accident, I can deny the witch. `
-`...I don't want to suspect {çeviri-Hala}Aunt Rosa, but I think I can bear to accept that premise if it'll beat the hell out of Beato." `
+`If we suppose that {ceviri}{Hala}Aunt Rosa is the {ceviri}{suçlu}culprit and died in an accident, I can deny the witch. `
+`...I don't want to suspect {ceviri}{Hala}Aunt Rosa, but I think I can bear to accept that premise if it'll beat the hell out of Beato." `
 `"I will deny it with red. `
 `{p:1:Rosa's and Maria's deaths were homicides}." `
 `"Okay. `
 `...Let's start from there. `
 `......Damn, I'm just not getting fired up." `
-`With Rosa's and Maria's deaths, it was now clear that the {çeviri-suçlu}culprit was still hiding somewhere, `
+`With Rosa's and Maria's deaths, it was now clear that the {ceviri}{suçlu}culprit was still hiding somewhere, `
 `trying to add even more murders to this chain. `
 `As he shed tears, Rudolf scolded Rosa's corpse for being reckless several times, `
 `but Rosa would never respond to that again. `
-`They decided to place the two corpses in one of the {çeviri-misafir odası}guest rooms...and to seal it until the police arrived... `
+`They decided to place the two corpses in one of the {ceviri}{misafir odası}guest rooms...and to seal it until the police arrived... `
 `The second murder...no, the murder of the second twilight had delivered a heavy blow to everyone. `
 `It had blown away the optimism that some of them had held, `
-`the thought that "a crime didn't actually occur, and it was all a game or a farce by Kinzo and the {çeviri-hizmetkar}servants". `
+`the thought that "a crime didn't actually occur, and it was all a game or a farce by Kinzo and the {ceviri}{hizmetkar}servants". `
 `Trying to distract themselves from the loss of the people they liked, `
 `George and Jessica had spent the whole time since morning talking about every possibility. `
 `...And, they had distracted their hearts `
@@ -320,7 +320,7 @@
 `I privately thought of the possibility that it was all an act. `
 `...My apologies to Doctor Nanjo, `
 `but if he had actually been an accomplice, `
-`I thought the deaths of all the {çeviri-hizmetkar}servants might possibly have been a massive, elaborate act by Father." `
+`I thought the deaths of all the {ceviri}{hizmetkar}servants might possibly have been a massive, elaborate act by Father." `
 `"...After all, the closed room situation they were in couldn't have been created unless we suppose that it was all an act." `
 `"...We also... `
 `suspected that. `
@@ -338,7 +338,7 @@
 `no, the deaths of all victims so far in this game. `
 `That faint dream that it was all a farce, that the victims were actually alive... `
 `I'm sorry to say it, but that's impossible... `
-`"...In that case, it makes more sense to assume it's someone familiar with the {çeviri-malikane}mansion, `
+`"...In that case, it makes more sense to assume it's someone familiar with the {ceviri}{malikane}mansion, `
 `someone hiding around and carrying out a really well-polished crime. `
 `So, ever since the typhoon came to this island and sealed it off from the outside world, there's been more than 18 people here." `
 `Of course, there was no way for them to know about that either. `
@@ -349,22 +349,22 @@
 `And yet, there's a likelihood that they were someone Rosa-san knew, someone she'd let her guard down around." `
 `"......S‐ `
 `So, for example, `
-`could it be...a {çeviri-hizmetkar}servant who wasn't on this two-day shift...?" `
+`could it be...a {ceviri}{hizmetkar}servant who wasn't on this two-day shift...?" `
 `"Hmm... `
 `...It's hard to be certain about that one. `
-`When our {çeviri-hizmetkar}servants finish their work and leave the island, it isn't as though we punch their ticket or something to make sure. `
-`If we're supposing that a {çeviri-hizmetkar}servant on a shift from a few days ago only pretended to leave the island and actually stayed here, `
+`When our {ceviri}{hizmetkar}servants finish their work and leave the island, it isn't as though we punch their ticket or something to make sure. `
+`If we're supposing that a {ceviri}{hizmetkar}servant on a shift from a few days ago only pretended to leave the island and actually stayed here, `
 `that would be hard to deny..." `
 `"...I don't think Rosa-san is such a fool. `
-`If a {çeviri-hizmetkar}servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?" `
+`If a {ceviri}{hizmetkar}servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?" `
 `"......I'm not even sure we should be assuming that it was someone she recognized. `
 `...Maybe they suddenly attacked Rosa from the darkness and were about to steal her gun. `
 `Then Rosa fell, hit her head against the fence, and stopped moving. `
-`The {çeviri-konukevi}guesthouse was nearby and they wanted to avoid the sound of gunfire, so they killed Maria-chan with their bare hands..." `
+`The {ceviri}{konukevi}guesthouse was nearby and they wanted to avoid the sound of gunfire, so they killed Maria-chan with their bare hands..." `
 `"...There's also that possibility. `
 `...Still, even if that is the case, `
 `would they really intentionally leave Rosa's gun at the scene of the crime? `
-`We don't know what the {çeviri-suçlu}culprit's armed with, but they've got to feel insecure about our guns. `
+`We don't know what the {ceviri}{suçlu}culprit's armed with, but they've got to feel insecure about our guns. `
 `...Wasn't that a perfect chance for them to thin out our supply? `
 `Why would they intentionally leave it at the scene of the crime?" `
 `"At first, I thought that gun was a trap. `
@@ -373,7 +373,7 @@
 `And they must have wanted to make us pull the trigger. `
 `...I was sure that something dangerous had been done to it...to make it explode and cause massive injuries." `
 `"But, it was actually okay. `
-`...The {çeviri-suçlu}culprit probably panicked. `
+`...The {ceviri}{suçlu}culprit probably panicked. `
 `I'll bet that right now, they're regrettin' that they missed their chance to steal a gun...!" `
 `"......I don't like it. `
 `It ticks me off, like it's a message from the witch, saying she isn't even scared of guns." `
@@ -388,18 +388,18 @@
 `...at the time we think Rosa-san was attacked outside, `
 `where was everyone...?" `
 `"Natsuhi and I were here, along with Rudolf and Kyrie-san. `
-`I can guarantee their {çeviri-mazeret}alibis." `
+`I can guarantee their {ceviri}{mazeret}alibis." `
 `"Eva and I were together. `
 `I can guarantee that." `
 `"George-aniki, Jessica, and I were together. `
-`...When {çeviri-Hala}Aunt Rosa yelled at us to return to the second floor, `
+`...When {ceviri}{Hala}Aunt Rosa yelled at us to return to the second floor, `
 `we retraced our steps back to the cousins' room, all dejected." `
 `"...Back then, `
 `...if we hadn't let Maria go..." `
 `"Saying that isn't going to change anything..." `
 `"......Doctor Nanjo?" `
 `"I-I was reading a book in a room on the second floor. `
-`...I was by myself, so no one can verify my {çeviri-mazeret}alibi, `
+`...I was by myself, so no one can verify my {ceviri}{mazeret}alibi, `
 `but I believe everyone saw me return to the second floor with the children." `
 `"...Once I say this, it'll never end, `
 `but what if you jumped out the window, attacked Rosa, `
@@ -413,9 +413,9 @@
 `...It's like Natsuhi-san says. `
 `......For now, let's stop suspecting each other." `
 `"That's right. `
-`We may be useless as far as searching for the {çeviri-suçlu}culprit is concerned. `
+`We may be useless as far as searching for the {ceviri}{suçlu}culprit is concerned. `
 `...We can only stay alive until tomorrow, inform the police, and follow their instructions. `
-`Because the police will definitely expose who the {çeviri-suçlu}culprit is." `
+`Because the police will definitely expose who the {ceviri}{suçlu}culprit is." `
 `"......What is it, Eva? `
 `...Is your body still feelin' bad...?" `
 `"M-Mother, what's wrong? `
@@ -439,7 +439,7 @@
 `"...To wound that even a tiny bit... `
 `is definitely not something that I, the new Golden Witch, Beatrice, will permit. `
 `...*giggle*giggle*giggle*giggle*giggle*!" `
-`"...Do you plan to continue these murders according to the witch's {çeviri-kitabe}epitaph...? `
+`"...Do you plan to continue these murders according to the witch's {ceviri}{kitabe}epitaph...? `
 `Do you actually plan to become a murderer five more times...?" `
 `"Yeah. `
 `If I don't finish that annoying ceremony, it seems my power as a witch won't become complete. `
@@ -474,10 +474,10 @@
 `So please, your dream has nothing to do with me! `
 `Stand down...!!" `
 `"......No waaay. `
-`{çeviri-Büyü}Magic's too interesting. `
-`...Also, those two dreams of yours both came true because of my {çeviri-büyü}magic. `
+`{ceviri}{Büyü}Magic's too interesting. `
+`...Also, those two dreams of yours both came true because of my {ceviri}{büyü}magic. `
 `It wouldn't be fair if my dream didn't come true too." `
-`"I'm grateful for your {çeviri-büyü}magic, and I acknowledge that you're a real witch. `
+`"I'm grateful for your {ceviri}{büyü}magic, and I acknowledge that you're a real witch. `
 `...So just stand down and return to the inside of my heart! `
 `And never appear again!!" `
 `"No wa-y. `
@@ -492,7 +492,7 @@
 `...urg, `
 `...the fever... `
 `is making my mind cloudy..." `
-`"My inexperience with {çeviri-büyülü}magical power is forcing me support it with your vitality. `
+`"My inexperience with {ceviri}{büyülü}magical power is forcing me support it with your vitality. `
 `Until I finish the ceremony and become a full witch, you might have to bear the burden. `
 `I'll take that as payment for making two of your dreams come true." `
 `"...It's fine, don't worry, okay? `
@@ -519,7 +519,7 @@
 `but I'll be fine as long as your father watches over me. `
 `...Go back to the second story cousins' room and don't come out no matter what. `
 `...Understood...? `
-`No matter what happens, you must not leave the {çeviri-konukevi}guesthouse... `
+`No matter what happens, you must not leave the {ceviri}{konukevi}guesthouse... `
 `...Outside, `
 `...that...witch will... `
 `uuuu..." `
@@ -541,31 +541,31 @@
 `"Witches are never inferior to Humans... `
 `However, perhaps you could say that times change, and that Humans have gotten their hands on a poison... `
 `...This wasn't a problem long ago, when people believed in witches, `
-`but just like that annoyance Battler, people in the current era deny {çeviri-büyü}magic on a fundamental level." `
+`but just like that annoyance Battler, people in the current era deny {ceviri}{büyü}magic on a fundamental level." `
 `"In other words, their existence itself is anti-magical. `
-`As a result, at some point, they grew to possess a toxin inside their bodies that denies {çeviri-büyü}magic." `
+`As a result, at some point, they grew to possess a toxin inside their bodies that denies {ceviri}{büyü}magic." `
 `"In other words, you're saying that the more Humans there are, `
-`the stronger that {çeviri-büyü}magic-resisting toxin gets, and the greater the disadvantage is for us witches?" `
-`"...The combined amount of power in their hearts that denies {çeviri-büyü}magic...in other words, their {çeviri-büyü}magic resistance power, becomes the denominator in the equation of your {çeviri-büyü}magic's power... `
+`the stronger that {ceviri}{büyü}magic-resisting toxin gets, and the greater the disadvantage is for us witches?" `
+`"...The combined amount of power in their hearts that denies {ceviri}{büyü}magic...in other words, their {ceviri}{büyü}magic resistance power, becomes the denominator in the equation of your {ceviri}{büyü}magic's power... `
 `Understand? `
 `Is that a bit too difficult for you...?" `
 `"You're joking. `
 `Actually, I understand it easily. `
-`...In other words, you're saying that the more people there are who don't believe in {çeviri-büyü}magic, `
-`and the stronger their will is, the more the effects of our {çeviri-büyü}magic are divided. `
+`...In other words, you're saying that the more people there are who don't believe in {ceviri}{büyü}magic, `
+`and the stronger their will is, the more the effects of our {ceviri}{büyü}magic are divided. `
 `...Yeah, if it's so formulaic, I'll have to rethink my method of attack." `
-`Fundamentally, {çeviri-büyü}magic possesses a vast power. `
+`Fundamentally, {ceviri}{büyü}magic possesses a vast power. `
 `It can even make a rain of fire fall from the heavens or divide a sea, and reviving a lost life isn't impossible either. `
 `However, that power is extremely weak against the toxin that rejects it. `
 `And that toxin started piling up in Humans since the time they forgot to respect things sacred, `
-`...until finally, this earth was covered with enough toxin that the miracles of {çeviri-büyü}magic could not be displayed. `
+`...until finally, this earth was covered with enough toxin that the miracles of {ceviri}{büyü}magic could not be displayed. `
 `Thus, witches from across the world were chased from their dwellings. `
-`...They had been forced to choose to throw away their {çeviri-büyü}magic and live as Humans, or else live in hiding in remote areas where the toxin of Humans didn't reach. `
+`...They had been forced to choose to throw away their {ceviri}{büyü}magic and live as Humans, or else live in hiding in remote areas where the toxin of Humans didn't reach. `
 `In that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches. `
 `And even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest. `
 `...In other words, by permeating the island with the fear that a witch might exist, `
-`the {çeviri-büyü}magic-resisting toxin from the Humans was weakened. `
-`A small population...and room for them to acknowledge {çeviri-büyülü}magical beings. `
+`the {ceviri}{büyü}magic-resisting toxin from the Humans was weakened. `
+`A small population...and room for them to acknowledge {ceviri}{büyülü}magical beings. `
 `In other words, minds that were only weakly anti-magical. `
 `...Only by existing in the valley where those two converged...could a witch live in modern times... `
 `"I see... `
@@ -573,8 +573,8 @@
 `"The first is presentation. `
 `Create a murder scene that couldn't conceivably have been done by Humans, decorate it in an occult way, `
 `make it look very much like a witch exists, and permeate people with fear to make them believe that witches exist. `
-`As a result, the anti-magic power and the denominator for our {çeviri-büyülü}magical power will be decreased. `
-`...I see, so this is why the creepy {çeviri-büyü}magic circles of the first twilight were created?" `
+`As a result, the anti-magic power and the denominator for our {ceviri}{büyülü}magical power will be decreased. `
+`...I see, so this is why the creepy {ceviri}{büyü}magic circles of the first twilight were created?" `
 `"Th-That's right, exactly...! `
 `The gaudy scenes for the first twilight in each game are all for that reason. `
 `It's definitely not as though I like being cruel or am doing it for fun..." `
@@ -613,17 +613,17 @@
 `Getting the Humans to split up should work." `
 `"Indeed, that is probably the most effective way. `
 `The smaller the number of Humans, the more the denominator shrinks. `
-`As a result, the {çeviri-büyülü}magical power functions instantaneously. `
+`As a result, the {ceviri}{büyülü}magical power functions instantaneously. `
 `In other words, it all begins from one point: how to destroy this barricade situation and have them split up into small groups." `
 `"However, they are already very cautious. `
 `The barricade won't be destroyed easily, right...? `
-`Both the barricade in Kinzo's {çeviri-çalışma odası}study two games ago and the barricade in the {çeviri-salon}parlor last time were very stubborn. `
+`Both the barricade in Kinzo's {ceviri}{çalışma odası}study two games ago and the barricade in the {ceviri}{salon}parlor last time were very stubborn. `
 `Furthermore, most of the cunning adults still remain this time." `
 `"The situation is more difficult than all the ones before it, understand? `
 `...If you wish, I could give you some special advice..." `
 `In a closed circle, when the first murder case occurs, the survivors always hole up, `
 `gathering together to observe each other and ensure their safety. `
-`...Funnily enough, not only do mystery authors and murder {çeviri-suçlu}culprits worry about how to break that situation apart, `
+`...Funnily enough, not only do mystery authors and murder {ceviri}{suçlu}culprits worry about how to break that situation apart, `
 `but so do witches, who supposedly exist at the other end of the spectrum. `
 `For a while, the new witch poked her cheek with her pointer finger, and after acting as though she was planning something, she spoke. `
 `"......... `
@@ -638,7 +638,7 @@
 `"I-Is that so...? `
 `You really are excellent... `
 `I'm pleased to see that my disciple won't be causing me much trouble." `
-`"My motto is to {çeviri-çalışma odası}study things myself before asking other people. `
+`"My motto is to {ceviri}{çalışma odası}study things myself before asking other people. `
 `...Then, if you would excuse me. `
 `I have to wait for my prey to get lured out." `
 `"Indeed. `
@@ -655,7 +655,7 @@
 `She laughed loudly on the outside, but a laugh no one can hear is completely pointless. `
 `Beato gave up and quickly stopped laughing. `
 `...Ronove chose that time to show himself. `
-`"Excuse me, {çeviri-Leydim}Milady. `
+`"Excuse me, {ceviri}{Leydim}Milady. `
 `...The game of the second twilight with Battler-sama has ended." `
 `"...Nn, I see. `
 `Good work. `
@@ -666,9 +666,9 @@
 `I made Battler-sama revise his claim of "Rosa strangled Maria to death, then died in an accident", `
 `...but I could not repel his chain of moves placing Eva as the principal offender." `
 `"Wasn't Eva sleeping in her room the whole time as Hideyoshi cared for her?" `
-`"...He put forth the possibility that Hideyoshi was an accomplice, and that the two worked together to create an {çeviri-mazeret}alibi." `
+`"...He put forth the possibility that Hideyoshi was an accomplice, and that the two worked together to create an {ceviri}{mazeret}alibi." `
 `"He even suspects Hideyoshi...?! `
-`Couldn't you have struck back by saying in red that he was in the {çeviri-misafir odası}guest room at the time of the murder?" `
+`Couldn't you have struck back by saying in red that he was in the {ceviri}{misafir odası}guest room at the time of the murder?" `
 `"...I also thought of that, but multiple important pieces might have been taken several moves later. `
 `...And, because this move might be connected to the new Beatrice-sama's strategy, `
 `I acted out of respect to her. `
@@ -692,7 +692,7 @@
 `"Pu ku ku ku... `
 `And with that, if you would excuse me. `
 `...I need to go bake some delicious cookies. `
-`I must at least enliven the discussion between you and Battler-sama, {çeviri-Leydim}Milady." `
+`I must at least enliven the discussion between you and Battler-sama, {ceviri}{Leydim}Milady." `
 `"Indeed! `
 `That guy really was munching your cookies, wasn't he? `
 `It's no surprise that a boy can eat so much. `

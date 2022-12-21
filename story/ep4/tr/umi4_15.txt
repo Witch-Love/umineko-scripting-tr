@@ -1,7 +1,7 @@
 `"......A test...?" `
 `"...Y-Yes. `
 `Listen well..." `
-`Once again, there was a call from Krauss to the {çeviri-konukevi}guesthouse. `
+`Once again, there was a call from Krauss to the {ceviri}{konukevi}guesthouse. `
 `...And the message was...that Kinzo wanted to hold a test to see if the grandchildren had the qualifications to become his successor. `
 `"......The Head has said that his successor will not be one of us siblings... `
 `That he wants...to pick from among his grandchildren..." `
@@ -17,7 +17,7 @@
 `"Before the test, those not involved must be removed. `
 `......Gohda and Kumasawa are there, I believe? `
 `It will be a problem if they interfere with the test. `
-`Banish them from the {çeviri-konukevi}guesthouse." `
+`Banish them from the {ceviri}{konukevi}guesthouse." `
 `"......Banish, ...you say...?" `
 `"There should be a gardening storehouse in the rose garden. `
 `Lock Gohda and Kumasawa in there. `
@@ -51,7 +51,7 @@
 `let us be patient..." `
 `"I understand. `
 `...It's unfortunate, but all we can do right now is wait. `
-`If only we could do something about these bars, we'd be able to return to the {çeviri-malikane}mansion..." `
+`If only we could do something about these bars, we'd be able to return to the {ceviri}{malikane}mansion..." `
 `"...If only we could somehow get out of here... `
 `...I-I'll try something. `
 `.........Kinzo-san, I have a request." `
@@ -90,17 +90,17 @@
 `"...Even if we break them, nothing will come of it." `
 `"Of course. `
 `...If you were to break these, it would mean the end of Goldsmith's game. `
-`...All of you, as well as those humans in the {çeviri-konukevi}guesthouse, would immediately become sacrifices for Kinzo's ceremony." `
+`...All of you, as well as those humans in the {ceviri}{konukevi}guesthouse, would immediately become sacrifices for Kinzo's ceremony." `
 `"...But, surprisingly, you two might be the only ones, yes? `
 `Perhaps only you two hold the power to break out of this situation, ...right?" `
-`"......You want to reach the {çeviri-Altın Diyar}Golden Land, don't you? `
+`"......You want to reach the {ceviri}{Altın Diyar}Golden Land, don't you? `
 `You must have many dreams you want granted, right...? `
 `*cackle*cackle*..." `
 `"..............." `
 `"Gaap, `
 `you musn't provoke them. `
 `...This is not your game. `
-`It is the Master's, as well as {çeviri-Leydim}Milady's game." `
+`It is the Master's, as well as {ceviri}{Leydim}Milady's game." `
 `"......What is it, Ronove?" `
 `"Oh, no, nothing. `
 `...We were talking to the prisoners. `
@@ -112,9 +112,9 @@
 `"...You did well... `
 `Good job hanging in there..." `
 `"We're powerless... `
-`Because we're {çeviri-mobilya}furniture..." `
+`Because we're {ceviri}{mobilya}furniture..." `
 `"That's right, ...we're powerless. `
-`...However, {çeviri-mobilya}furniture is sometimes relied upon...and even loved. `
+`...However, {ceviri}{mobilya}furniture is sometimes relied upon...and even loved. `
 `...Right now, we've only been stored away in the basement. `
 `...Surely, one day, somebody will love us. `
 `Because they'll rely on us. `
@@ -153,7 +153,7 @@
 `Ronove, Gaap, `
 `I'm asking you to be the examiners. `
 `Virgilia, you'll watch these rats. `
-`......After all, two of my {çeviri-mobilya}furniture are here. `
+`......After all, two of my {ceviri}{mobilya}furniture are here. `
 `Just in case, be on your guard." `
 `He glanced at Shannon and Kanon. `
 `Tightly closing her eyes, Shannon gave a silent bow and answered wordlessly, avoiding any unnecessary actions... `
@@ -166,7 +166,7 @@
 `Gap!" `
 `"Pukukuku...! `
 `Well now, what a strange experience this game is, to have a test and examiners. `
-`......I do hope this development entertains {çeviri-Leydim}Milady." `
+`......I do hope this development entertains {ceviri}{Leydim}Milady." `
 `"...Come, arise, goat attendants." `
 `Virgilia began to call out into the darkness, and from that spot, three massive goat-headed attendants suddenly appeared. `
 `"Ah, Beato's minions. `
@@ -193,8 +193,8 @@
 `Virgilia had spoken coolly, but Kyrie saw through that, and for a little while, she couldn't restrain her muffled laughter. `
 `However, on the inside, Kyrie was surprised at the number of people Kinzo had with him. `
 `After all, including Kinzo himself, at least 10 enemies had already been spotted... `
-`...The dungeon they were currently locked in was supposedly underneath the hidden {çeviri-malikane}mansion called Kuwadorian. `
-`Although this {çeviri-malikane}mansion had been whispered of, not even Krauss had known of its existence until today. `
+`...The dungeon they were currently locked in was supposedly underneath the hidden {ceviri}{malikane}mansion called Kuwadorian. `
+`Although this {ceviri}{malikane}mansion had been whispered of, not even Krauss had known of its existence until today. `
 `Are there actually several facilities like this on Rokkenjima, `
 `where many unknown henchmen that only Kinzo knows of hide...? `
 `Just how many humans are on Rokkenjima, locked away by the typhoon...? `
@@ -205,11 +205,11 @@
 `No wait, not only that... `
 `By now, are there actually more people on the enemy's side than on ours...? `
 `"......Just what the hell is going on...? `
-`Witches? Demons? {çeviri-Büyü}Magic? `
+`Witches? Demons? {ceviri}{Büyü}Magic? `
 `...Are you telling us to believe in those? `
 `Are my eyes screwed up? Or is it my head? `
 `...I think I'm losing it......" `
-`A mass murder by {çeviri-büyü}magic. `
+`A mass murder by {ceviri}{büyü}magic. `
 `Demons forming and disappearing into thin air. `
 `Setting aside the enemy's numbers, `
 `how should we interpret the various things thrust before our eyes that cannot be explained with the common sense of our world? `
@@ -242,7 +242,7 @@
 `...Please be careful, everyone. `
 `Right now, the Master...is taking human lives like they're pieces on a chessboard. `
 `...Please look out for yourselves." `
-`Gohda stared at the floor, even now unable to believe what had happened as he remembered that atrocity in the {çeviri-yemek salonu}dining hall, `
+`Gohda stared at the floor, even now unable to believe what had happened as he remembered that atrocity in the {ceviri}{yemek salonu}dining hall, `
 `and he hung his head in shame at his failure to fully describe that terror. `
 `"Thank you. `
 `...Make sure you stay on your guard. `
@@ -309,7 +309,7 @@
 `There's nothing to be sad about..." `
 `"...Maria..." `
 `"Soon, the witch will be revived. `
-`...Soon, we'll be able to meet in the {çeviri-Altın Diyar}Golden Land. `
+`...Soon, we'll be able to meet in the {ceviri}{Altın Diyar}Golden Land. `
 `...Kihihihihihihihihi... `
 `Ouch." `
 `"Don't laugh indiscreetly like that. `
@@ -317,9 +317,9 @@
 `...Getting so many people involved... `
 `in delusions he should've just kept inside his head. `
 `...That's gonna cost you, ...bastard..." `
-`"...Let's return to the {çeviri-konukevi}guesthouse. `
+`"...Let's return to the {ceviri}{konukevi}guesthouse. `
 `...It'll be bad if we aren't there when Grandfather calls." `
-`Urged on by George, everyone began walking towards the {çeviri-konukevi}guesthouse... `
+`Urged on by George, everyone began walking towards the {ceviri}{konukevi}guesthouse... `
 `At that moment, Jessica turned in a circle, facing towards the darkness of the rose garden, and roared. `
 `".........HEY!! `
 `Someone's watching, right?! `
@@ -327,7 +327,7 @@
 `Tell him I'm gonna fuckin' kill him!! `
 `Let's go...!!" `
 `Of course, there was no reply, only the howl of the wind and rain... `
-`The children returned to the {çeviri-konukevi}guesthouse... `
+`The children returned to the {ceviri}{konukevi}guesthouse... `
 `...While fearing what was waiting for them up ahead... `
 `After they left, `
 `...from the exact point in the darkness that Jessica had yelled at, `
@@ -427,7 +427,7 @@
 `"In that case, here are his instructions for the first test, Jessica-chan's: `
 `...Go to your room." `
 `"Really, go to your room? What's your game, you damn geezer..." `
-`"It seems he means Jessica-chan's personal room, the one in the {çeviri-malikane}mansion." `
+`"It seems he means Jessica-chan's personal room, the one in the {ceviri}{malikane}mansion." `
 `"...I'll hand it over to Jessica. `
 `Tell her directly for me. `
 `...Jessica, here." `
@@ -442,7 +442,7 @@
 `"...We're probably being watched, right? `
 `We can't do anything. `
 `All we can do is exactly as we're told." `
-`"...They say that old geezer killed those six in the {çeviri-yemek salonu}dining hall instantly, with no hesitation. `
+`"...They say that old geezer killed those six in the {ceviri}{yemek salonu}dining hall instantly, with no hesitation. `
 `...So, if we try to fight back, we might end up the same way." `
 `"I know. `
 `......I'll beat them at their own game." `
@@ -462,7 +462,7 @@
 `...Everyone's lives rest on our shoulders. `
 `The hostages can't do anything while they're locked up. `
 `That means we'll have to manage something ourselves." `
-`"......If something happens, run back to the {çeviri-konukevi}guesthouse. `
+`"......If something happens, run back to the {ceviri}{konukevi}guesthouse. `
 `At that time, we'll be done playing along with Grandfather's game." `
 `"Aniki......" `
 `"At that time, we'll declare war. `
