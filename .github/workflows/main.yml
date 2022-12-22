@@ -32,21 +32,18 @@ jobs:
           if [ -f current/last_en ]; then LAST_EN=$(<current/last_en); else LAST_EN="$LAST" ; fi
           php update-manager/update-manager.php dscript "ciout/en.txt" . en ${BUILD} || exit 1
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
+          php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
+          php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
+          php update-manager/update-manager.php genhash misc/game.hash "extra/tr/files/" "extra/tr/main/game_tr.hash"
           cp misc/chiru.file ciout
           cp misc/game.hash ciout
-          cp misc/default.cfg ciout
-          php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
-          php update-manager/update-manager.php script ciout/tr.txt "extra/tr/main/tr.file" "$LAST_EN" || exit 1
-          php update-manager/update-manager.php genhash misc/game.hash "extra/tr/files/" "extra/tr/main/game_tr.hash"
+          cp extra/tr/main/default.cfg ciout
+          cp extra/tr/main/game_tr.hash ciout
           cd ciout
-          zip -qry umineko-main-scripts_r${BUILD}.zip ru.file en.file chiru.file game.hash default.cfg || exit 1
-          cd ../extra/tr/main
-          zip -qry ../../../ciout/umineko-tr-scripts_r${BUILD}.zip * || exit 1
-          cd ../files
+          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash game_tr.hash default.cfg || exit 1
+          cd ../extra/tr/files
           zip -qry ../../../ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
-          cd ../../extras
-          zip -qry ../../ciout/extra_${TODAY}.zip * || exit 1
-          cd ../../
+          cd ../../../
           echo ${{ inputs.desc }} >> release_notes.md
 
       - name: Release
@@ -62,17 +59,6 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Upload Extra
-        if: github.repository_owner == 'Singulariity'
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/extra_${{ env.TODAY }}.zip
-          asset_name: extra_${{ env.TODAY }}.zip
-          asset_content_type: application/zip
-
       - name: Upload Main
         if: github.repository_owner == 'Singulariity'
         uses: actions/upload-release-asset@v1
@@ -80,8 +66,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-main-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-main-scripts_r${{ env.BUILD }}.zip
+          asset_path: ./ciout/umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
 
       - name: Upload TR Main
