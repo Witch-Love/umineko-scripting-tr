@@ -54,7 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: z${{ env.BUILD }}
-          release_name: Umineko Scripts r${{ env.BUILD }}
+          release_name: Umineko Witch Love Scripts r${{ env.BUILD }}
           body_path: release_notes.md
           draft: false
           prerelease: false
@@ -68,17 +68,6 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./ciout/umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
           asset_name: umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
-          asset_content_type: application/zip
-
-      - name: Upload TR Main
-        if: github.repository_owner == 'Singulariity'
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
 
       - name: Upload TR Files
