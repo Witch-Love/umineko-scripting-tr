@@ -272,7 +272,7 @@
 `"......Oh, that scorpion keychain. `
 `I thought that was just some cheap gift or something, but are you saying it really had some power?" `
 `"Kihihihihihihihi. `
-`If it weren't for that, you'd be lying in that storehouse as a sacrifice with your face crushed by now. `
+`If it weren't for that, you'd be lying in that {ceviri}{ambar}storehouse as a sacrifice with your face crushed by now. `
 `Kihihihihihihihihi, you're so lucky, Battler...! `
 `Kihhihihihihihihihihihihihihihihihi!" `
 `"...I see. `
@@ -284,7 +284,7 @@
 `Hey, I'll bet you want to believe it now. `
 `Believe it. `
 `And thank me for giving you that charm...! `
-`If it weren't for that, you'd be in the storehouse right now. `
+`If it weren't for that, you'd be in the {ceviri}{ambar}storehouse right now. `
 `But then, maybe you would've saved someone else in exchange, right? `
 `Kihhihihihihihihihihihi!" `
 `Pfft. `
@@ -562,7 +562,7 @@
 `Because of that, there was a rumor between the {ceviri}{hizmetkar}servants that Beatrice-sama's anger had been brought down upon this person..." `
 `"...If you don't respect her, you'll suffer her wrath and get hurt. `
 `...So, to the {ceviri}{hizmetkar}servants, Beatrice's existence `
-is just as credible as the story that, if you pull pranks on {c:86EF9C:Inari‐san}, you will be cursed by the {c:86EF9C:kitsune}.
+`is just as credible as the story that, if you pull pranks on {c:86EF9C:Inari‐san}, you will be cursed by the {c:86EF9C:kitsune}. `
 `Of course, even though everyone accepts that curses and the like don't exist in the modern era, `
 `...people are still afraid and still have a little respect for them. `
 `You often see it when, in a residential area, someone is building a house, and they call a Shinto priest for a ceremony to honor the god of that plot of land. `

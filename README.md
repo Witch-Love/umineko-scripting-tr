@@ -68,8 +68,10 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Parlor `->` Salon
    * Portrait `->` Portre
    * Red Truth `->` Kırmızı Gerçek
+   * Rose Garden `->` Gül Bahçesi
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Storehouse `->` Ambar
    * Study `->` Çalışma Odası
    * Trick `->` Numara
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi

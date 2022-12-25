@@ -436,7 +436,7 @@
 `"410, Firing. `
 `Nihi!" `
 `The gold snake arrow fired by the Chiesters... `
-`weaved its way through the bushes in the rose garden, `
+`weaved its way through the bushes in the {ceviri}{gül bahçesi}rose garden, `
 `weaved its way through the hedges, `
 `and climbed the stone steps towards the {ceviri}{malikane}mansion's entrance, `
 `aiming for the keyhole. `

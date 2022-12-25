@@ -167,7 +167,7 @@
 `Once again, their actions left a weak point open, and they were faced with yet another tragedy. `
 `"Shannon-chan and Kanon-kun went outside on an errand and still haven't come back...!" `
 `"George nii‐san got upset, so {p:42:we all went outside to look for them}." `
-`"We found Shannon-chan lying there in the rose garden. `
+`"We found Shannon-chan lying there in the {ceviri}{gül bahçesi}rose garden. `
 `Oh, poor, poor Shannon-chan..." `
 `"I prayed she was still alive. `
 `However, {p:42:I was forced to acknowledge that she was dead}..." `
@@ -195,7 +195,7 @@
 `"...Hmm. `
 `Looks like the crimes are moving along." `
 `This was the crime of the fourth twilight. `
-`The scene was the rose garden. `
+`The scene was the {ceviri}{gül bahçesi}rose garden. `
 `There were no locks or doors. `
 `It wasn't a closed room. `
 `So, the master keys were no longer a factor. `

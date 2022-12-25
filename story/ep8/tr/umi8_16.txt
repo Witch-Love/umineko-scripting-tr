@@ -395,7 +395,7 @@
 `This was no longer a battlefield where two sides fought for victory. `
 `It was just a confused, hellish pot of boiling water. `
 `The {ceviri}{Altın Diyar}Golden Land...was being torn apart. `
-`The once-beautiful rose garden was filled with explosion craters, and its rose petals were scattered about without pity. `
+`The once-beautiful {ceviri}{gül bahçesi}rose garden was filled with explosion craters, and its rose petals were scattered about without pity. `
 `There were flying bits of flesh, blood, fangs, jaws. `
 `Shrieks and half-crazed screams. `
 `And even amidst this hellish swirl, the goats and the dead continued to fight. `
@@ -435,7 +435,7 @@
 `Yes, it truly was the end of this world. `
 `The end of the {ceviri}{Altın Diyar}Golden Land. `
 `Ground to dust, filled with flames. `
-`The golden rose garden was burning spectacularly, with bits of fire and golden splashes flying about. `
+`The golden {ceviri}{gül bahçesi}rose garden was burning spectacularly, with bits of fire and golden splashes flying about. `
 `The ground creaked as fissures ran through it. ...Through to the base of the {ceviri}{Altın Diyar}Golden Land. `
 `All of the ships started pulling up their anchors at once. `
 `Crowds of mighty goats used all of their monstrous strength to lift them. `
@@ -1448,8 +1448,8 @@
 `Just as Ange looked up to see the finger raised high, it swung down as though trying to dodge her gaze. `
 `In that manner, `
 `...up, `
-down, `
-left, `
+`down, `
+`left, `
 right, `
 `then left again, as though Ange was playing a game of Acchi Muite Hoi. `
 `Ange, feeling as though she'd lose if she couldn't keep up with the fingertip, swung her face this way and that, looking serious. `

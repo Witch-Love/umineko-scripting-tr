@@ -39,7 +39,7 @@
 `...From what I could tell by looking at it, I'm positive that it couldn't be opened from the outside. `
 `...In other words, this was a perfect closed room." `
 `"......That does seem to be the case. `
-`In the case of the rose garden storehouse, they might've sneaked the shutter's key out of the {ceviri}{hizmetkar}servant room, `
+`In the case of the {ceviri}{gül bahçesi}rose garden {ceviri}{ambar}storehouse, they might've sneaked the shutter's key out of the {ceviri}{hizmetkar}servant room, `
 `or maybe they had a duplicate key. ...I can imagine many ways they could've done it. `
 `......But this chain is different. `
 `Among generally used locking techniques, a chain is the simplest one to create a closed room with." `
@@ -523,7 +523,7 @@
 `let me ask this one more time. `
 `You'll probably answer the same anyway, but I'll ask just once more." `
 `"Uu-...?" `
-`"...Yesterday, you were given a letter in the rose garden. `
+`"...Yesterday, you were given a letter in the {ceviri}{gül bahçesi}rose garden. `
 `......Who gave it to you...?!" `
 `"Uu-. `
 `...Like I said, Beatrice. `

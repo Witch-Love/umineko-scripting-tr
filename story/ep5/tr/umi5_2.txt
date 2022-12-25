@@ -1,6 +1,6 @@
-`The rose garden was truly splendid this year. `
+`The {ceviri}{gül bahçesi}rose garden was truly splendid this year. `
 `The roses were blooming like crazy, as if competing with each other. `
-`In that rose garden, Kinzo, Kanon, and Natsuhi could be seen... `
+`In that {ceviri}{gül bahçesi}rose garden, Kinzo, Kanon, and Natsuhi could be seen... `
 `"Once again, the flowers have grown wonderfully this year. `
 `It must be the result of your care." `
 `"......Thank you very much. `
@@ -110,7 +110,7 @@
 `"Yes, later." `
 `The witch made her body crumble into the rustling winds, became gold flower petals, and scattered into thin air. `
 `Natsuhi watched her go, then turned on her heels and headed for the {ceviri}{malikane}mansion. `
-`And then there were none left in the rose garden... `
+`And then there were none left in the {ceviri}{gül bahçesi}rose garden... `
 `"Oookay then. `
 `It's <break time>. `
 `Got any complaints so far?" `
@@ -152,7 +152,7 @@
 `"This world is like a Braun tube before you've looked in it. `
 `...It's the world of the cat box before you open it. `
 `As long as {ceviri}{Hala}Aunt Natsuhi says she took a walk with Grandfather, and as long as no one can confirm that it's a lie, `
-`it's possible to display "{ceviri}{Hala}Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality. `
+`it's possible to display "{ceviri}{Hala}Aunt Natsuhi taking a walk in the {ceviri}{gül bahçesi}rose garden with Grandfather" as Natsuhi's reality. `
 `That means it's possible for Grandfather to appear." `
 `*clap*, *clap*, *clap*... `
 `That extremely unflattering applause was coming from Bernkastel. `
@@ -328,7 +328,7 @@
 `"Okay, let's go. `
 `Won't get anywhere by complainin' now." `
 `"We eagerly await your return to this island." `
-`Natsuhi was sitting on a bench in the rose garden, looking completely worn out. `
+`Natsuhi was sitting on a bench in the {ceviri}{gül bahçesi}rose garden, looking completely worn out. `
 `However, when she noticed that Kanon and Kumasawa were coming back, she immediately sat up straight, regaining the dignity of the Head's wife. `
 `"...Did the boat leave?" `
 `"Yes. `
@@ -374,7 +374,7 @@
 `That's right, I've had Gohda prepare some special tea. `
 `Tell him to serve it." `
 `Natsuhi let them know she wanted to be left alone for a while, `
-`so she could drink some black tea in the rose garden. `
+`so she could drink some black tea in the {ceviri}{gül bahçesi}rose garden. `
 `The black tea that had been carried all the way to the bench... `
 `was the Sri Lankan tea "Dimbula" that she had promised Beato, along with some patis... `
 `Sitting on either side of this snack, staring at it curiously, the wife of the Head and her witch could be seen. `
@@ -788,7 +788,7 @@
 `I have to accept...that look of anguish on her face... `
 `And at the same time, `
 `...I realized what a merciless thing the {ceviri}{kırmızı gerçek}red truth was. `
-`...Right now, in this rose garden, there's no one except {ceviri}{Hala}Aunt Natsuhi. `
+`...Right now, in this {ceviri}{gül bahçesi}rose garden, there's no one except {ceviri}{Hala}Aunt Natsuhi. `
 `In other words, there are no observers except for {ceviri}{Hala}Aunt Natsuhi. `
 `So, if that lone observer were to say that she'd had some tea with Beato, `
 `...no one should be able to refute that. `

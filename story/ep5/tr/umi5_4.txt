@@ -1,4 +1,4 @@
-`"This rose garden really is a masterpiece. `
+`"This {ceviri}{gül bahçesi}rose garden really is a masterpiece. `
 `It's gotten even more awesome than it was six years ago. `
 `You're so lucky to have this as your yard!" `
 `"Are you kidding? `
@@ -236,7 +236,7 @@
 `Very well. Back to your work." `
 `The {ceviri}{salon}parlor of the {ceviri}{malikane}mansion was bustling. `
 `The adults gathered, worrying about the health of this sudden guest... `
-`"Well, if she was able to walk all the way to the rose garden by herself, her life probably isn't in danger." `
+`"Well, if she was able to walk all the way to the {ceviri}{gül bahçesi}rose garden by herself, her life probably isn't in danger." `
 `"...It always helps to be prepared. `
 `It's probably all thanks to the life jacket. `
 `Without that, she might've drowned." `

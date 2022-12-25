@@ -259,8 +259,8 @@
 `Gohda looked a little put off about his masterpiece being laughed at for such a bizarre reason, `
 `but after clearing his throat once, he introduced the dessert to us. `
 `"Well then, allow me to introduce our dessert. `
-`After seeing how much you all enjoyed the rose garden earlier today, I finished this panna cotta in a rose garden style. `
-`The rose petals scattered across were selected just now from that very rose garden. `
+`After seeing how much you all enjoyed the {ceviri}{gül bahçesi}rose garden earlier today, I finished this panna cotta in a {ceviri}{gül bahçesi}rose garden style. `
+`The rose petals scattered across were selected just now from that very {ceviri}{gül bahçesi}rose garden. `
 `The sauce is a combination of two reds, strawberry and rose hips. `
 `Please enjoy this mixture of the strawberry's sweetness and the rose hip's sourness. `
 `Furthermore, the rose petals are merely decorative, so please avoid them while you eat. `
@@ -269,7 +269,7 @@
 `Just like with medicine, reading the detailed description first seems to make it work a whole lot better. `
 `As Gohda-san elaborated on the details of this dessert, it started to feel even more appetizing. `
 `Seriously, should you call him subtle or just talented? `
-`The dessert was probably planned from the beginning, but taking the hint when we all stopped in front of the rose garden earlier today, `
+`The dessert was probably planned from the beginning, but taking the hint when we all stopped in front of the {ceviri}{gül bahçesi}rose garden earlier today, `
 `he displayed an incredible and timely awareness by just adding a few rose petals from that garden. `
 `This combination of sweet and sour was also exquisite. `
 `If it was just sweet, you'd just get used to it and bored halfway through. `
@@ -433,7 +433,7 @@
 `could we hear the details from you? `
 `That appears to be what everyone else is waiting for, after all." `
 `".....................*cough*." `
-`Nanjo, who had been standing by the window and staring out at the rose garden, let out a single cough when he realized that he was being called. `
+`Nanjo, who had been standing by the window and staring out at the {ceviri}{gül bahçesi}rose garden, let out a single cough when he realized that he was being called. `
 `"...Doctor Nanjo, `
 `...how is Father's condition?" `
 `"Well, to begin, `

@@ -34,7 +34,7 @@
 `"Right. `
 `...Hey, brats. `
 `Where was this rose of Maria's?!" `
-`"I'm pretty sure...it was in the flower bed right in the middle of the rose garden..." `
+`"I'm pretty sure...it was in the flower bed right in the middle of the {ceviri}{gül bahçesi}rose garden..." `
 `"If that's where they are, we should be able to spot them pretty quickly if we go." `
 `"...Dad, shouldn't we bring them back here as soon as we can...?" `
 `"Of course. `
@@ -51,17 +51,17 @@
 `...How reckless of her." `
 `"Rosa and Maria-chan are... `
 `...outside...? `
-`In the rose garden...?!" `
+`In the {ceviri}{gül bahçesi}rose garden...?!" `
 `"That's right. `
 `...Oh, did you hear? `
 `Maria-chan was causin' a ruckus because she wanted to see this rose." `
 `"...Th-They mustn't... `
-`...They mustn't go to the rose garden...! `
+`...They mustn't go to the {ceviri}{gül bahçesi}rose garden...! `
 `Tell Rosa to stop...!" `
 `"Th-There's no tellin' her to stop now, it looks like they left a while ago. `
 `...Seriously, how reckless of them." `
 `"......That's not it... `
-`...Not the rose garden... `
+`...Not the {ceviri}{gül bahçesi}rose garden... `
 `...There's a witch there, `
 `...and she's waiting for a sacrifice...! `
 `Rosa, you mustn't go, `
@@ -72,7 +72,7 @@
 `Did the fever make you dream somethin' bad?" `
 `"......It's a dream, `
 `...yes... `
-`......In the rose garden, the witch, doing that to Rosa and Maria-chan... `
+`......In the {ceviri}{gül bahçesi}rose garden, the witch, doing that to Rosa and Maria-chan... `
 `......That's right. `
 `...It's a dream... `
 `It must be..." `
@@ -85,7 +85,7 @@
 `Hideyoshi beat his chest, trying to calm her, but Eva's insecure expression didn't change. `
 `...Under the covers, Eva kept praying `
 `that the grotesque nightmare she'd just had was only a dream... `
-`"In the center of the rose garden, Rudolf identified the corpses of Rosa and Maria. `
+`"In the center of the {ceviri}{gül bahçesi}rose garden, Rudolf identified the corpses of Rosa and Maria. `
 `After that, he returned to the {ceviri}{konukevi}guesthouse, called for help, and carried both of them into the {ceviri}{konukevi}guesthouse." `
 `"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence. `
 `It is thought that Maria's death was due to strangling with bare hands. `

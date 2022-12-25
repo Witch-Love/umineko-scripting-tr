@@ -145,7 +145,7 @@
 `"...They match." `
 `"Rosa and Maria were in the {ceviri}{salon}parlor. `
 `Beyond that, ...Natsuhi was in her own room, and Kyrie was in Krauss's {ceviri}{çalışma odası}study. `
-`Eva was in the rose garden...no, wait, she was moved to the VIP room, wasn't she?" `
+`Eva was in the {ceviri}{gül bahçesi}rose garden...no, wait, she was moved to the VIP room, wasn't she?" `
 `"Yes. `
 `Eva's corpse was found in the VIP room." `
 `"That makes five victims. `

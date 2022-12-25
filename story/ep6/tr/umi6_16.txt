@@ -521,7 +521,7 @@
 `"...Wh-What...do you mean...?" `
 `"As you know, the territory lord of this place has had his heart sealed away and cannot speak." `
 `"It seems the beautiful Lady Erika is going to become his wife and support him in his work!" `
-`The two demons explained the situation in a very simple
+`The two demons explained the situation in a very simple `
 `yet dramatic way. `
 `...I know what's going on. `
 `They're planning to take advantage of the fact that Battler's heart is sealed away... `
@@ -708,7 +708,7 @@
 `It is our responsibility to see that this duel reaches a decision no matter what!!"" `
 `When Zepar and Furfur cried these words out, `
 `...the whole area was blanketed in a gold-colored light, ...and when it cleared, `
-`...it had become the rose garden where golden roses bloomed... `
+`...it had become the {ceviri}{gül bahçesi}rose garden where golden roses bloomed... `
 `"A duel over love, is it...? `
 `How old-fashioned they are. `
 `...I have seen many duels with pistols during my thousand years, ...but I have never seen one like this." `
@@ -1435,7 +1435,7 @@
 `...forg......" `
 `"...Huuuuh...? `
 `...I can't really hear you...?" `
-`{a:c:
+`{a:c:`
 `I won't... `
 `...forgive you...} `
 `"...I'll never...forgive you..." `

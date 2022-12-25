@@ -128,7 +128,7 @@
 `After all, it's still just the first twilight! `
 `She isn't in the {ceviri}{konukevi}guesthouse. `
 `But she wasn't in the {ceviri}{malikane}mansion either, right? `
-`Hey, hey, I found her, I found her, she's in the rose garden. `
+`Hey, hey, I found her, I found her, she's in the {ceviri}{gül bahçesi}rose garden. `
 `Why's she standing around there without an umbrella? `
 `She's already given up, all mine, all mine, all miiine! `
 `You blockheads can just sit there and watch! `
@@ -284,7 +284,7 @@
 `It seems this is so trivial to you, you don't even feel like opening your eyes...! `
 `But I doubt you'll be able to win unless you're prepared to wreck this whole island, seeeeeeee? `
 `Come, arise, Shoulder War Towers!!" `
-`In response to Beatrice's summons, a terrific earth tremor split the rose garden. `
+`In response to Beatrice's summons, a terrific earth tremor split the {ceviri}{gül bahçesi}rose garden. `
 `And on either side of her shoulders, two massive War Towers sprouted and stabbed into the heavens. `
 `They stretched up to 100 {c:86Ef9C:merute} tall, and each had over 360 ports. `
 `They were War Towers of the gods' army corps, which had prevented even groups of ancient heroes from invading their sacred grounds. `
@@ -442,7 +442,7 @@
 `The Giant Soldier Battle Line and the War Tower split up into countless gold butterflies, wrapping the area in a gold-colored storm. `
 `Then came the sound of thunder. `
 `And the sound of the falling rain and wind. `
-`If you looked around, the rose garden was empty. `
+`If you looked around, the {ceviri}{gül bahçesi}rose garden was empty. `
 `...The {ceviri}{uşak}butler and the rest were watching the two witches confronting each other. `
 `......But Beatrice alone had changed. `
 `She had been pierced straight through by the spear, from the base of her neck and her right shoulder to her left buttocks, `

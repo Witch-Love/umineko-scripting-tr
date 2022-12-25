@@ -141,12 +141,12 @@
 `Isn't it obvious that humans committed these crimes? `
 `There's no way something like a witch exists, right...?" `
 `"Th-Then, `
-`...what about when I was killed in the storehouse, and something horrible was done to half of my face? `
+`...what about when I was killed in the {ceviri}{ambar}storehouse, and something horrible was done to half of my face? `
 `...If the {ceviri}{suçlu}culprit was human, how could they have accomplished it...?" `
 `"...That's... `
 `...well, `
 `it's hard to imagine how they did something that awful. `
-`But that was the rose garden storehouse, right? `
+`But that was the {ceviri}{gül bahçesi}rose garden {ceviri}{ambar}storehouse, right? `
 `I'm sure there were plenty of weird tools in there. `
 `Let's say they used some electrical tools like a grinder or an electric saw." `
 `"......Th- `
@@ -391,7 +391,7 @@
 `...Yes, it seems you were born with a strong {ceviri}{büyü}magic-resisting power. `
 `...You're a natural enemy of us witches. `
 `...No matter how much we turn your world upside down, `
-{i:you never believe in us.} `
+`{i:you never believe in us.} `
 `{i:Therefore, the {ceviri}{büyü}magic won't succeed}. `
 `...I accept that attitude of yours. `
 `*cackle*cackle*...!" `
@@ -550,7 +550,7 @@
 `...the {ceviri}{büyü}magic is dissolviiiiiiiing!!" `
 `For the first time in his life, ...Battler heard that sound, like a pomegranate splitting. `
 `The red spray even landed on Battler's face... `
-`Poor Shannon's face had been split in half, ...and her last horrible moments in that storehouse were repeated once again. `
+`Poor Shannon's face had been split in half, ...and her last horrible moments in that {ceviri}{ambar}storehouse were repeated once again. `
 `"U-Uwaaaaaaaaaaaaaaaaaaaaaaaaahh, Shannon, Shannon!! `
 `Uwaaaaaaaaaaaaaaaaaaahh!!!" `
 `"Ngg...nnnnnggg, damn it, damn iiiiiiiiiiit! `
