@@ -431,6 +431,21 @@ function removeGrim($str) {
 	);
 }
 
+function readDirs($path) {
+	$dirHandle = opendir($path);
+	$list = [];
+	while ($item = readdir($dirHandle)) {
+		$newPath = $path."/".$item;
+		if ($item != '.' && $item != '..') {
+			if (is_dir($newPath)) {
+				readDirs($newPath);
+			} else {
+				array_push($list, "$path/$item");
+		 	}
+	  	}
+	}
+	return $list;
+}
 
 function main($argc, $argv) {
 	if ($argc < 2) err(getUsage());
@@ -438,6 +453,49 @@ function main($argc, $argv) {
 	ini_set('memory_limit','2048M');
 
 	switch ($argv[1]) {
+		case 'script-check':
+			//$contents = file_get_contents("GermanWords.txt");
+			$path = dirname(__FILE__, 2);
+			$story_tr = [];
+			$story_wh = [];
+			for ($i = 1; $i <= 8; $i++) {
+				$story_tr[$i] = readDirs("$path/story/ep$i/tr");
+				$story_wh[$i] = readDirs("$path/story/ep$i/wh");
+			}
+			for ($i = 1; $i <= count($story_tr); $i++) {
+				for ($x = 0; $x < count($story_tr[$i]); $x++) {
+					$chapter_tr = $story_tr[$i][$x];
+					$chapter_wh = $story_wh[$i][$x];
+
+					// check : line counts
+					$lines_tr = count(file($chapter_tr));
+					$lines_wh = count(file($chapter_wh));
+					if ($lines_tr != $lines_wh) {
+						echo "Line counts don't match for: $chapter_tr".PHP_EOL;
+						exit(1);
+					}
+
+					// check : backticks
+					$contents = file_get_contents($chapter_tr);
+					$lines = explode("\n", $contents);
+					$exp = "/(`)(.*)(`)(\n|)/";
+
+					$handle = fopen($chapter_tr, "r");
+					if ($handle) {
+						$n = 1;
+						while (($line = fgets($handle)) !== false) {
+							if (preg_match($exp, $line) == 0) {
+								echo "File: $chapter_tr, Line: $n is needed to be fixed.".PHP_EOL;
+								err();
+							}
+							$n++;
+						}
+						fclose($handle);
+					}
+				}
+			}
+			//echo "All good.";
+			break;
 		case 'hash':
 		case 'adler':
 		case 'size':
