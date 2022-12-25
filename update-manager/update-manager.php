@@ -486,6 +486,7 @@ function main($argc, $argv) {
 						while (($line = fgets($handle)) !== false) {
 							if (preg_match($exp, $line) == 0) {
 								echo "File: $chapter_tr, Line: $n is needed to be fixed.".PHP_EOL;
+								exit(1);
 							}
 							$n++;
 						}
