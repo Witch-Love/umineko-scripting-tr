@@ -458,6 +458,7 @@ function main($argc, $argv) {
 			$path = dirname(__FILE__, 2);
 			$story_tr = [];
 			$story_wh = [];
+			$exit = false;
 			for ($i = 1; $i <= 8; $i++) {
 				$story_tr[$i] = readDirs("$path/story/ep$i/tr");
 				$story_wh[$i] = readDirs("$path/story/ep$i/wh");
@@ -471,8 +472,11 @@ function main($argc, $argv) {
 					$lines_tr = count(file($chapter_tr));
 					$lines_wh = count(file($chapter_wh));
 					if ($lines_tr != $lines_wh) {
-						echo "Line counts don't match for: $chapter_tr".PHP_EOL;
-						exit(1);
+						echo "==========================================".PHP_EOL;
+						echo "!! ERROR !!".PHP_EOL;
+						echo "Line counts don't match for the file:".PHP_EOL;
+						echo $chapter_tr.PHP_EOL;
+						$exit = true;
 					}
 
 					// check : backticks
@@ -485,8 +489,11 @@ function main($argc, $argv) {
 						$n = 1;
 						while (($line = fgets($handle)) !== false) {
 							if (preg_match($exp, $line) == 0) {
-								echo "File: $chapter_tr, Line: $n is needed to be fixed.".PHP_EOL;
-								exit(1);
+								echo "==========================================".PHP_EOL;
+								echo "!! ERROR !!".PHP_EOL;
+								echo "File: $chapter_tr".PHP_EOL;
+								echo "Line: $n is needed to be fixed.".PHP_EOL;
+								$exit = true;
 							}
 							$n++;
 						}
@@ -494,7 +501,11 @@ function main($argc, $argv) {
 					}
 				}
 			}
-			//echo "All good.";
+			if ($exit) {
+				exit(1);
+			} else {
+				echo "All good.";
+			}
 			break;
 		case 'hash':
 		case 'adler':
