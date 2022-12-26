@@ -474,8 +474,17 @@ function main($argc, $argv) {
 					if ($lines_tr != $lines_wh) {
 						echo "==========================================".PHP_EOL;
 						echo "!! ERROR !!".PHP_EOL;
-						echo "Line counts don't match for the file:".PHP_EOL;
-						echo $chapter_tr.PHP_EOL;
+						echo "Line counts don't match ";
+						$diff = $lines_wh - $lines_tr;
+						if (diff > 0) {
+							echo "( $diff missing line(s) )".PHP_EOL;
+						} else {
+							$diff = abs($diff);
+							echo "( $diff extra line(s) )".PHP_EOL;
+						}
+						echo "File: $chapter_tr".PHP_EOL;
+						echo "Default count: $lines_wh";
+						echo "New count: $lines_tr";
 						$exit = true;
 					}
 
@@ -491,8 +500,9 @@ function main($argc, $argv) {
 							if (preg_match($exp, $line) == 0) {
 								echo "==========================================".PHP_EOL;
 								echo "!! ERROR !!".PHP_EOL;
+								echo "Missing backtick(s)".PHP_EOL;
 								echo "File: $chapter_tr".PHP_EOL;
-								echo "Line: $n is needed to be fixed.".PHP_EOL;
+								echo "Line: $n".PHP_EOL;
 								$exit = true;
 							}
 							$n++;
@@ -502,10 +512,10 @@ function main($argc, $argv) {
 				}
 			}
 			if ($exit) {
+				echo "==========================================".PHP_EOL;
 				exit(1);
-			} else {
-				echo "All good.";
 			}
+			echo "All good.";
 			break;
 		case 'hash':
 		case 'adler':
