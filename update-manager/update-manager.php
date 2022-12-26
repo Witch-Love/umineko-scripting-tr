@@ -483,8 +483,8 @@ function main($argc, $argv) {
 							echo "( $diff extra line(s) )".PHP_EOL;
 						}
 						echo "File: $chapter_tr".PHP_EOL;
-						echo "Default count: $lines_wh";
-						echo "New count: $lines_tr";
+						echo "Default count: $lines_wh".PHP_EOL;
+						echo "New count: $lines_tr".PHP_EOL;
 						$exit = true;
 					}
 
