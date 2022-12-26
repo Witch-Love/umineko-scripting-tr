@@ -476,7 +476,7 @@ function main($argc, $argv) {
 						echo "!! ERROR !!".PHP_EOL;
 						echo "Line counts don't match ";
 						$diff = $lines_wh - $lines_tr;
-						if (diff > 0) {
+						if ($diff > 0) {
 							echo "( $diff missing line(s) )".PHP_EOL;
 						} else {
 							$diff = abs($diff);
