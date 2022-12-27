@@ -454,7 +454,6 @@ function main($argc, $argv) {
 
 	switch ($argv[1]) {
 		case 'script-check':
-			//$contents = file_get_contents("GermanWords.txt");
 			$path = dirname(__FILE__, 2);
 			$story_tr = [];
 			$story_wh = [];
