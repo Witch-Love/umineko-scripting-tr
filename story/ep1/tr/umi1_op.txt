@@ -114,11 +114,11 @@
 `......bir şansım olsaydı bile!!" `
 `"...Görmek isterdim. `
 `Bir kez daha görmek isterdim! `
-`Beatrice'in gülümseyen yüzünü son bir kez görmek istiyorum!! `
-`Oh, Beatrice, bana neden bu kadar uzun süre direndin?! `
+`{f:5:Beatrice}'in gülümseyen yüzünü son bir kez görmek istiyorum!! `
+`Oh {f:5:Beatrice}, bana neden bu kadar uzun süre direndin?! `
 `Bana verdiğin her şeyi geri vereceğim! Her şeyi kaybetmeye hazırım!! `
 `Lütfen, bana gülümsemeni bir kez daha göster..." `
-`"Beatrice, sana yalvarıyorum! Yalvarışımı duyabiliyor olmalısın, ...işte sen böyle bir kadınsın! `
+`"{f:5:Beatrice}, sana yalvarıyorum! Yalvarışımı duyabiliyor olmalısın, ...işte sen böyle bir kadınsın! `
 `Yalvarıyorum, kendini göster!! `
 `Zaten buradasın, değil mi?! `
 `Tam burada görünmez bir şekilde dikiliyor ve söylediğim her şeyi dinleyerek benimle alay ediyorsun değil mi?! `
@@ -126,9 +126,9 @@
 `Beni azarlayabilir, hatta kendi ellerinle hayatıma bir son verebilirsin!! `
 `Bu şekilde yalnız ölmek istemiyorum!! `
 `Gülümsemeni bir kez daha görmeden ölmeme izin veremem!! `
-`Aah, Beatrice, Beatrice!! `
+`Aah, {f:5:Beatrice}, {f:5:Beatrice}!! `
 `Hayatımı sana sunuyorum, tamamen!! `
-`Yalvarıyorum, Beatriiiiiiiiiiiice!!!" `
+`Sana yalvarıyorum, {f:5:Beatriceeeeee}!!!" `
 `"Whoa... `
 `İşler kesinlikle zamana ayak uyduruyor... `
 `Yolculuğu sadece yirmi dakikada yapabileceğimize inanamıyorum...." `

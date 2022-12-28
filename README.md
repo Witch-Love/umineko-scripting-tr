@@ -4,7 +4,7 @@
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz. Witch-Hunt çevirilerinin üzerine çeviri yapıyoruz.
+Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
 
 Çevirmekte olduğumuz güncel dosya: [**Tıkla**][guncel-dosya]
 

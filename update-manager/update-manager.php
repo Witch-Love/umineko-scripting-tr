@@ -456,25 +456,25 @@ function main($argc, $argv) {
 		case 'script-check':
 			$path = dirname(__FILE__, 2);
 			$story_tr = [];
-			$story_wh = [];
+			$story_en = [];
 			$exit = false;
 			for ($i = 1; $i <= 8; $i++) {
 				$story_tr[$i] = readDirs("$path/story/ep$i/tr");
-				$story_wh[$i] = readDirs("$path/story/ep$i/wh");
+				$story_en[$i] = readDirs("$path/story/ep$i/en");
 			}
 			for ($i = 1; $i <= count($story_tr); $i++) {
 				for ($x = 0; $x < count($story_tr[$i]); $x++) {
 					$chapter_tr = $story_tr[$i][$x];
-					$chapter_wh = $story_wh[$i][$x];
+					$chapter_en = $story_en[$i][$x];
 
 					// check : line counts
 					$lines_tr = count(file($chapter_tr));
-					$lines_wh = count(file($chapter_wh));
-					if ($lines_tr != $lines_wh) {
+					$lines_en = count(file($chapter_en));
+					if ($lines_tr != $lines_en) {
 						echo "==========================================".PHP_EOL;
 						echo "!! ERROR !!".PHP_EOL;
 						echo "Line counts don't match ";
-						$diff = $lines_wh - $lines_tr;
+						$diff = $lines_en - $lines_tr;
 						if ($diff > 0) {
 							echo "( $diff missing line(s) )".PHP_EOL;
 						} else {
@@ -482,14 +482,12 @@ function main($argc, $argv) {
 							echo "( $diff extra line(s) )".PHP_EOL;
 						}
 						echo "File: $chapter_tr".PHP_EOL;
-						echo "Default count: $lines_wh".PHP_EOL;
+						echo "Default count: $lines_en".PHP_EOL;
 						echo "New count: $lines_tr".PHP_EOL;
 						$exit = true;
 					}
 
 					// check : backticks
-					$contents = file_get_contents($chapter_tr);
-					$lines = explode("\n", $contents);
 					$exp = "/(`)(.*)(`)(\n|)/";
 
 					$handle = fopen($chapter_tr, "r");
