@@ -26,8 +26,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anlayamıyorsanız, çeviriyi yaparken yan sekmede de Youtube'a chapter chapter yüklediğim videolardan oyuna bakabilirsiniz. [(**Link**)](https://youtube.com/playlist?list=PLOxBDkucq83mp2JX42XQ_5n02-WNax7-H)
 
 ### İletişim
-Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek çeviri grubumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
+Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Sunucumuz](https://discord.gg/jyD5jn9Vpd)
 
 ## Çeviri Kuralları
 
