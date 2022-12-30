@@ -62,7 +62,7 @@
 ` Please tell me everything you know about {f:5:Beatrice}."`
 `"......Well, you can see how much Maria‐chan likes witches and the occult.`
 ` For her, {f:5:Beatrice} is a symbol to be admired, like an anime heroine.`
-` She believes every little thing is some sort of prank caused by a witch's magic."`
+` She believes every little thing is some sort of prank caused by a witch's {ruby:çeviri > büyü:magic}."`
 `"You are an adult.`
 ` And the fact that you never say this to Maria is also very adult of you."`
 `"Of course.`
@@ -71,7 +71,7 @@
 `"Looks like the two of us will get along well."`
 `George's position was that {f:5:Beatrice} was nothing more than a fairy tale.`
 `However, that phrase—“respecting a child's dreams is the adult thing to do”—that might be worthy of further scrutiny.`
-`When she got a candy from {f:5:Beatrice} by magic, Maria probably got excited and told George and the others.`
+`When she got a candy from {f:5:Beatrice} by {ruby:çeviri > büyü:magic}, Maria probably got excited and told George and the others.`
 `Then, the adults followed his lead and positively went along with her story "as adults should".`
 `However, there could be other ways this sort of reaction could occur, other than as an adult's response to a child's claims.`
 `For example, it could be an inferior's response to the claims of their superior.`
@@ -81,20 +81,20 @@
 `......it's probably safe to say that the concept of her existence penetrated deeply within the Ushiromiya family, even among those who had never seen her.`
 `However, no matter how deeply that concept penetrated, she was only viewed as a sort of fairy tale character.`
 `It would be necessary to transform the concept of that character from an imaginary fairy tale into reality.`
-`So, a person attempting to do this would need to perform something that could only conceivably be done by magic.`
+`So, a person attempting to do this would need to perform something that could only conceivably be done by {ruby:çeviri > büyü:magic}.`
 `And that something......was the series of witch incidents that started with the nighttime window‐opening pranks played by Beato the Elder...`
 `...and ultimately escalated to locked‐room murders.`
-`......Beato the Elder referred to this, saying that the anti‐magic power filling the mansion would be weakened bit by bit the more she made her existence known.`
+`......Beato the Elder referred to this, saying that the anti‐magic power filling the {ruby:çeviri > malikane:mansion} would be weakened bit by bit the more she made her existence known.`
 `{f:5:Beatrice}.`
 `Why did you desire so greatly to make all others accept your existence?`
 `Because the imaginary becomes the truth if everyone accepts it?`
 `Because at that moment, the being called {f:5:Beatrice} will be acknowledged and will become {y:0:Human}{n:0:human}?`
 `In that case, before {f:5:Beatrice} is acknowledged by all people, she's less than {y:0:Human}{n:0:human}.`
-` She's furniture.`
-`Why would furniture want to become {y:0:Human}{n:0:human}?`
+` She's {ruby:çeviri > mobilya:furniture}.`
+`Why would {ruby:çeviri > mobilya:furniture} want to become {y:0:Human}{n:0:human}?`
 `It feels like this was the theme of the previous game.`
 `Because they want to gain the right.`
-`Furniture cannot ____.`
+`{ruby:çeviri > Mobilya:Furniture} cannot ____.`
 `{n}So, they try to become {y:0:Human}{n:0:human} for the right to ____.`
 `...........................`
 `It really is quite simple.`
@@ -153,29 +153,29 @@
 `Everyone's heard of them.`
 ` But of course, that doesn't mean they believe in them.`
 `The stories about {f:5:Beatrice} were the same.`
-`It was just one of those strange tales about our way‐too‐big mansion.`
-`The servants would sometimes talk about seeing things or whatever during their night patrols.`
+`It was just one of those strange tales about our way‐too‐big {ruby:çeviri > malikane:mansion}.`
+`The {ruby:çeviri > hizmetkarlar:servants} would sometimes talk about seeing things or whatever during their night patrols.`
 `Sometimes, I felt a bit annoyed about them turning my home into a place for ghost stories, but I didn't pay it any more attention than that.`
 ` That's how little it mattered to me.`
 `So, during my normal, everyday life, I would completely forget about the name "{f:5:Beatrice}".`
-`Of course, when that huge portrait was first hung, I was definitely creeped out.`
+`Of course, when that huge {ruby:çeviri > portre:portrait} was first hung, I was definitely creeped out.`
 `Even I tried not to meet her eyes after dark,`
-` so yeah, I don't blame the servants for finding it eerie.`
+` so yeah, I don't blame the {ruby:çeviri > hizmetkarlar:servants} for finding it eerie.`
 `But that only lasted for a short while.`
-`{n}I mean, I walked by that portrait every day.`
+`{n}I mean, I walked by that {ruby:çeviri > portre:portrait} every day.`
 `I gradually got used to it, and eventually bored of it.`
-`It was just a portrait that Grandfather blew a bunch of money on, showing the mistress from his delusions... I was past caring.`
+`It was just a {ruby:çeviri > portre:portrait} that Grandfather blew a bunch of money on, showing the mistress from his delusions... I was past caring.`
 `"I get that.`
 ` I'll bet it was different for the other relatives, who only came a few times a year."`
 `"Exactly.`
-` That's why every time the family came for a family conference, they'd always stand in front of that portrait and talk about {f:5:Beatrice}.`
+` That's why every time the family came for a family conference, they'd always stand in front of that {ruby:çeviri > portre:portrait} and talk about {f:5:Beatrice}.`
 ` So, I was reminded of it every year."`
 `"Uu, {f:5:Beatrice}!!`
 ` I've come to play again...!`
 ` I've drawn another new spell.`
 ` Take a look at it later, okay?! Uu!"`
 `"You really do like {f:5:Beatrice}, don't you?`
-` You've been in such high spirits ever since Grandfather had this portrait hung."`
+` You've been in such high spirits ever since Grandfather had this {ruby:çeviri > portre:portrait} hung."`
 `"Huh?`
 ` Where's Ange?"`
 `"She went back with Aunt Kyrie to take some medicine."`
@@ -191,7 +191,7 @@
 ` If a kid told you that she'd met Santa Claus,`
 ` would you tell her she's a liar?"`
 `"......Well, of course I wouldn't go that far."`
-`Maria kept talking to the portrait as though it was an old friend.`
+`Maria kept talking to the {ruby:çeviri > portre:portrait} as though it was an old friend.`
 `She promised to play with it later, as if she was talking to a living human.`
 `George, a man, seemed to think that this behavior from a younger member of the opposite sex was cute.`
 `......But, to be perfectly frank...`
@@ -254,12 +254,12 @@
 ` So, there was no one to calm Maria down...`
 `"Kihihihihi!!`
 ` Poor Jessica, you're just a clump of the toxin!`
-` With Beato's weak magical power now, she'd burn to a crisp if she ever appeared in front of you!`
+` With Beato's weak {ruby:çeviri > büyülü:magical} power now, she'd burn to a crisp if she ever appeared in front of you!`
 ` But she will appear before you eventually.`
 ` Yes, in front of everyone else too!!"`
-`"Kihihihi, and then the door to the Golden Land will open!!`
+`"Kihihihi, and then the door to the {ruby:çeviri > Altın Diyar:Golden Land} will open!!`
 ` But who knows if you'll be invited in?`
-` Of course, she will take me there, to the Golden Land!`
+` Of course, she will take me there, to the {ruby:çeviri > Altın Diyar:Golden Land}!`
 ` But not Jessica, not Jessica!!`
 ` Not someone who makes fun of {f:5:Beatrice}, not an unenlightened, stupid, confused, filthy, toxin‐stained {y:0:Human}{n:0:human}!!`
 ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hhi{0}hhi{0}hhi{0}hhi!!"`
@@ -337,11 +337,11 @@
 `......Either way, denying {f:5:Beatrice} in front of Maria is clearly taboo.`
 `.........In her search for something more than her everyday life,`
 ` Maria had found it in {f:5:Beatrice} and inside herself.`
-`Then, is going to the Golden Land with {f:5:Beatrice}...`
+`Then, is going to the {ruby:çeviri > Altın Diyar:Golden Land} with {f:5:Beatrice}...`
 `...Maria's...wish?`
 `....................................`
 `"Looks like we've gone off track.`
-` Anyway, Maria kept up that tantrum until Auntie Rosa got back.`
+` Anyway, Maria kept up that tantrum until {ruby:çeviri > Hala:Auntie} Rosa got back.`
 ` ......It was my fault too, arguing back when I should've let her be."`
 `"And you said there was no way {f:5:Beatrice} could exist?"`
 `"Something like that.`
@@ -360,15 +360,15 @@
 `If Maria had just stayed mad,`
 ` we'd have made up with each other and I could've put it all behind me.`
 `But since Maria got over it, it felt like I was the only one unsatisfied...`
-`"Oh, Milady.`
+`"Oh, {ruby:çeviri > Leydim:Milady}.`
 ` Why the gloomy face?"`
 `"......Oh, it's you.`
 ` It's nothing important.`
 ` ......Did everyone make it back okay?"`
 `"If they're still on schedule, they should have reached the Niijima airport by now.`
-` ......You've done your part well, Milady."`
+` ......You've done your part well, {ruby:çeviri > Leydim:Milady}."`
 `"I haven't done anything.`
-` It's you servants who've done a great job."`
+` It's you {ruby:çeviri > hizmetkarlar:servants} who've done a great job."`
 `".....................`
 ` Is the argument you had with Maria‐sama yesterday still playing on your mind?"`
 `"Nn, .........sorta."`
@@ -379,8 +379,8 @@
 ` ......you mean?"`
 `"See, even you call her {i:sama}."`
 `{f:5:Beatrice} is the name of Grandfather's mistress, the person he's still infatuated with.`
-` ......I realize that, as a servant, Kumasawa‐san can't speak of her indiscreetly.`
-`Still, ......that's now become the name of the fictitious witch who lives in the mansion,`
+` ......I realize that, as a {ruby:çeviri > hizmetkar:servant}, Kumasawa‐san can't speak of her indiscreetly.`
+`Still, ......that's now become the name of the fictitious witch who lives in the {ruby:çeviri > malikane:mansion},`
 ` .........and it's almost normal for people to call her "sama".`
 `"{f:5:Beatrice} is just a ghost story created by the adults to stop us from wandering into the forest.`
 ` ......Maria just thought it was interesting one day and decided to pretend it was true."`
@@ -390,11 +390,11 @@
 `"Come on, we both know that isn't true.`
 ` I don't need George nii‐san to tell me not to make a fuss about Santa not existing.`
 ` But that doesn't mean Santa actually exists."`
-`"......You'll find you're wrong there, Milady."`
+`"......You'll find you're wrong there, {ruby:çeviri > Leydim:Milady}."`
 `"Wrong...?"`
 `"Oh yes.`
 ` The gods do dwell in all things.`
-` ......In the same way, {f:5:Beatrice}‐sama dwells on this island, in this mansion.`
+` ......In the same way, {f:5:Beatrice}‐sama dwells on this island, in this {ruby:çeviri > malikane:mansion}.`
 ` Like the gods, {f:5:Beatrice}‐sama will do you no harm if you respect her."`
 `"As you say, it is as though she doesn't exist...`
 ` However, if you ever fail to show proper respect, it will most certainly come back to haunt you.`
@@ -403,7 +403,7 @@
 ` I'd just love to meet her."`
 `"M‐Milady...!`
 ` You mustn't say such things...!"`
-`"Ah, Milady..."`
+`"Ah, {ruby:çeviri > Leydim:Milady}..."`
 `"You were splendid today..."`
 `"Shannon, Gohda‐san.`
 ` You guys know about {f:5:Beatrice}, right?"`
@@ -434,7 +434,7 @@
 `He was being very evasive.`
 `Even a man as big as Gohda was apparently unable to deny the existence of someone he'd never met.`
 `.........This really didn't sit well with Jessica.`
-`She was herself a resident of this mansion.`
+`She was herself a resident of this {ruby:çeviri > malikane:mansion}.`
 `They were acting as though someone else, someone she didn't know, was living here.`
 ` ......Of course she didn't like it.`
 `"Nn, wait a sec.`
@@ -458,10 +458,10 @@
 ` All the other stories are about people saying they heard or saw something they thought was {f:5:Beatrice}, but this one isn't.`
 ` This one says that, if you go to the VIP room at two in the morning, you can actually meet {f:5:Beatrice}‐sama...!"`
 `"W‐well, ......I, I wonder......"`
-`"Milady...`
-` They say that servants who speak ill of {f:5:Beatrice}‐sama will be cursed.`
+`"{ruby:çeviri > Leydim:Milady}...`
+` They say that {ruby:çeviri > hizmetkarlar:servants} who speak ill of {f:5:Beatrice}‐sama will be cursed.`
 ` Furthermore, the VIP room is {f:5:Beatrice}‐sama's room..."`
-`"......Even you, Milady, ......should probably reconsider......"`
+`"......Even you, {ruby:çeviri > Leydim:Milady}, ......should probably reconsider......"`
 `"The VIP room is locked now, right?`
 ` Where's the key?"`
 `"Was that key......in the key box...?"`
@@ -469,12 +469,12 @@
 `"The master key can open it, right?`
 ` Let me borrow yours."`
 `"I, I cannot do such a thing...!"`
-`"Milady, you mustn't approach an ill‐omened place without reason..."`
+`"{ruby:çeviri > Leydim:Milady}, you mustn't approach an ill‐omened place without reason..."`
 `"Hold it, don't you go calling my house ill‐omened.`
 ` Anyway, I've made up my mind.`
 ` If you can't give me your master key, there's still that key for the VIP room, right?`
 ` Let me borrow it."`
-`"............M‐...Milady......"`
+`"............M‐...{ruby:çeviri > Leydim:Milady}......"`
 `To Jessica, it was their two expressions that felt more like an ill omen than anything else did.`
 `It wasn't the witch or the VIP room that felt foreboding to Jessica.`
 ` It was {i:them}, Maria and the others who believed in witches.`
@@ -497,9 +497,9 @@
 `{n}The swaying, rustling trees were particularly creepy.`
 `I'd complained to Shannon and Gohda about making up ghost stories for my house,`
 ` ......but I was starting to feel as though they had a bit of a place after all.`
-`......The Ushiromiya mansion is huge.`
-`Honestly, I can't think of the entire mansion as my own house.`
-`As Mom says, the hallways of the Ushiromiya mansion should be treated like public roads.`
+`......The Ushiromiya {ruby:çeviri > malikane:mansion} is huge.`
+`Honestly, I can't think of the entire {ruby:çeviri > malikane:mansion} as my own house.`
+`As Mom says, the hallways of the Ushiromiya {ruby:çeviri > malikane:mansion} should be treated like public roads.`
 `In other words, my own room is part of my home, ......but the hallways and the rooms I don't usually enter are "outside".`
 `So, while part of me felt that this VIP room ghost story was ridiculous,`
 ` ......the other part of me was so creeped out that it kept trying to convince itself that the first part of me was right.`
@@ -532,7 +532,7 @@
 `{n}......So, the silence felt unbelievably loud.`
 `Even though it was so quiet, ......the eerie sound of the wind was loud in my ears.`
 `The sound of twigs rustling.`
-` The sound of some pillar in this old mansion creaking.`
+` The sound of some pillar in this old {ruby:çeviri > malikane:mansion} creaking.`
 `What's that sound like a beak tapping against glass?`
 `Though it was so quiet, ......all of the little, suspicious sounds felt obnoxiously loud.`
 `Damn, I'm an idiot.`
@@ -544,7 +544,7 @@
 ` The door to the VIP room.`
 `......The VIP room was supposedly reserved for important guests.`
 `However, as far as I knew, it had never been used.`
-`None of the guests who came to this mansion......had ever been given the right to use this room.`
+`None of the guests who came to this {ruby:çeviri > malikane:mansion}......had ever been given the right to use this room.`
 `Though I'd been clutching the key all this time, it didn't feel warm at all.`
 `{n}The icy metal tormented me ruthlessly.`
 `Maybe that was a warning.`
@@ -621,7 +621,7 @@
 `And, as though it was an offering to that owner,`
 ` ......there sat a small plate with several cookies and wrapped chocolates.`
 `It was all set out neatly, and there was no dust piled up on the doll.`
-`......In other words, both the doll and the offering were being taken care of on a regular basis by the servants,`
+`......In other words, both the doll and the offering were being taken care of on a regular basis by the {ruby:çeviri > hizmetkarlar:servants},`
 ` and kept in good condition along with the rest of the room.`
 `Taken care of?`
 ` ......No, it was more than that.`
@@ -641,13 +641,13 @@
 `Hanging about in the VIP room this late just because that fight with Maria is still eating at me...`
 ` ......This is beyond stupid... I'm disappointed in myself.`
 ` {f:5:Beatrice}, huh...`
-`Just when did that strange witch start living in this mansion...?`
+`Just when did that strange witch start living in this {ruby:çeviri > malikane:mansion}...?`
 `......Grandfather's always yelling about {f:5:Beatrice}.`
-`Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this mansion.`
+`Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this {ruby:çeviri > malikane:mansion}.`
 `There's that kids' horror story about the witch in the forest,`
 ` which might be a ghost story made by the adults to stop the kids from going in there.`
-`The portrait Grandfather had hung in April was really striking.`
-`And there was also that weird epitaph.`
+`The {ruby:çeviri > portre:portrait} Grandfather had hung in April was really striking.`
+`And there was also that weird {ruby:çeviri > kitabe:epitaph}.`
 ` ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of {f:5:Beatrice} seem all the more unnerving.`
 `At some point, those stories mixed together, and they now say that the witch {f:5:Beatrice} exists.`
 `......I don't believe in {f:5:Beatrice}...`
@@ -658,11 +658,11 @@
 ` But that was just a made‐up story, not reality.`
 `In fact, I've heard that kids were once threatened about wolves living in the forest.`
 ` Apparently, the kids realized that wolves couldn't exist on the island, so it was changed to the witch.`
-`When the portrait was hung,`
+`When the {ruby:çeviri > portre:portrait} was hung,`
 ` ......that once‐vague character suddenly had a face,`
 ` and people acted as though she'd been around since long ago.`
 `......That's right, it's all a ghost story someone made, a fiction.`
-`And Maria calls {f:5:Beatrice} her best friend, and the servants worship her like a household shrine.`
+`And Maria calls {f:5:Beatrice} her best friend, and the {ruby:çeviri > hizmetkarlar:servants} worship her like a household shrine.`
 `I just don't get it, and it creeps me out......`
 `".........! ..........................."`
 `The sudden ring of the phone made me jump so hard I thought my heart would explode.`
@@ -765,7 +765,7 @@
 ` ......But I didn't find it."`
 `"Just what do you think happened in that room?"`
 `"I don't think it was actually "{f:5:Beatrice}‐sama's curse".`
-` ......It might have been a prank done by the servants."`
+` ......It might have been a prank done by the {ruby:çeviri > hizmetkarlar:servants}."`
 `"A prank?"`
 `"Maybe they recorded Maria's voice on a cassette tape or something ahead of time.`
 ` They then called at exactly {nobr:2 a.m.} and pushed the play button.`
@@ -779,7 +779,7 @@
 `Then, someone called the VIP room and replayed that recording.`
 `Then, someone waited until exactly the right time and tripped the breaker for the VIP room.`
 `To turn off the power to the VIP room, you'd have to go down to the basement.`
-` ......There's a breaker box down in the boiler room.`
+` ......There's a breaker box down in the {ruby:çeviri > kazan dairesi:boiler room}.`
 `There's no phone line down there, so you'd need a different person to play back Maria's tape.`
 `And you'd need another person to hide in the VIP room and cackle before leaving.`
 `And......just how long would this last person have to hide in the VIP room beforehand...?`
@@ -792,7 +792,7 @@
 ` To me, that's even creepier......"`
 `"I agree.`
 ` I'd much prefer a curse.`
-` ......Did you ask the servants about that later on?"`
+` ......Did you ask the {ruby:çeviri > hizmetkarlar:servants} about that later on?"`
 `"What's the point? They'd just play dumb, of course.`
 ` ......And there had to have been at least three of them...`
 ` On that day, only Genji‐san, Gohda‐san, Kumasawa‐san, and Shannon stayed the night.`
@@ -803,7 +803,7 @@
 `True, it had been a strange experience for her, but it wasn't something completely impossible for humans to do.`
 `......Even so, it really must have been more unnerving to imagine a large number of people planning so carefully just to scare Jessica.`
 `......It's no surprise that she found this scarier than {f:5:Beatrice}'s curse.`
-`"Do you still believe the servants pulled a fast one on you?"`
+`"Do you still believe the {ruby:çeviri > hizmetkarlar:servants} pulled a fast one on you?"`
 `".........No.`
 ` I probably......just freaked out and mistook what I saw and heard.`
 ` The doll probably just fell somewhere, and I just had trouble finding it."`
@@ -838,9 +838,9 @@
 ` ......I have one last question."`
 `"About the VIP room?"`
 `"No.`
-` About the dining hall."`
-`"The dining hall?"`
-`"On the day of the family conference, just before your ghost story, all of the relatives were gathered in the dining hall, right?"`
+` About the {ruby:çeviri > yemek salonu:dining hall}."`
+`"The {ruby:çeviri > yemek salonu:dining hall}?"`
+`"On the day of the family conference, just before your ghost story, all of the relatives were gathered in the {ruby:çeviri > yemek salonu:dining hall}, right?"`
 `"Yeah.`
 ` Except Battler hadn't come back to the family yet.`
 ` Everyone else was there.`
@@ -878,19 +878,19 @@
 ` ........................"`
 `".........?`
 ` What?"`
-`"Do you know about the epitaph, Lion?"`
-`"Epitaph?`
-` What epitaph?"`
-`"That epitaph by {f:5:Beatrice}'s portrait."`
+`"Do you know about the {ruby:çeviri > kitabe:epitaph}, Lion?"`
+`"{ruby:çeviri > Kitabe:Epitaph}?`
+` What {ruby:çeviri > kitabe:epitaph}?"`
+`"That {ruby:çeviri > kitabe:epitaph} by {f:5:Beatrice}'s {ruby:çeviri > portre:portrait}."`
 `".........My apologies,`
 ` but I have no idea what you mean."`
 `"‘Behold the sweetfish river, running through my beloved home of old’."`
 `".........Just what...`
 `are you talking about?"`
 `"So, in your world, ......no, in this world,`
-` the portrait exists, but not the epitaph?"`
-`"Of course, I know about the large portrait of Beatrice hanging in the entrance hall.`
-` ......But I haven't heard of this epitaph.`
+` the {ruby:çeviri > portre:portrait} exists, but not the {ruby:çeviri > kitabe:epitaph}?"`
+`"Of course, I know about the large {ruby:çeviri > portre:portrait} of Beatrice hanging in the entrance hall.`
+` ......But I haven't heard of this {ruby:çeviri > kitabe:epitaph}.`
 ` What is it?"`
 `"........................`
 ` ......That's a very interesting difference.`
@@ -908,7 +908,7 @@
 `"......Beatrice is a woman to whom Grandfather owes a great debt.`
 ` Don't you think it's a bit rude to treat her like a witch or a ghost?"`
 `"...............You don't know about the witch {f:5:Beatrice}?"`
-`"I know about the Beatrice who came here in a submarine along with the gold, and about her daughter, who was raised in the hidden mansion.`
+`"I know about the Beatrice who came here in a submarine along with the gold, and about her daughter, who was raised in the hidden {ruby:çeviri > malikane:mansion}.`
 ` We just learned about those two together a short while ago, right?`
 ` Where does a witch come in?"`
 `"...........................`

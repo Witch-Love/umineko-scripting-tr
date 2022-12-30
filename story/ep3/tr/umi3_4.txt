@@ -1,11 +1,11 @@
 `"...I see...`
 ` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
 `"......So there can be more than 18 people!`
-` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
+` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving {ruby:çeviri > büyü:magic}.`
 ` ......That's some big information."`
 `"Excuse me.`
 ` Battler‐sama, would you care for some black tea and cookies?"`
-`Beato's butler, who called himself Ronove, appeared out of nowhere in particular.`
+`Beato's {ruby:çeviri > uşak:butler}, who called himself Ronove, appeared out of nowhere in particular.`
 `Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.`
 `...I really don't like this guy's smile.`
 `{n}For some reason, it doesn't look like a smile used to warmly greet a guest.`
@@ -26,14 +26,14 @@
 `".........You really are annoying.`
 ` ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."`
 `"Oh, yes, yes, that is quite true.`
-` There are times when Milady's laughter becomes quite undignified.`
+` There are times when {ruby:çeviri > Leydim:Milady}'s laughter becomes quite undignified.`
 ` Every time I hear it, I think of my noble rank,`
 ` and struggle to comprehend why I must have such a person as my master.`
 ` Pu ku ku ku..."`
 `"......Man you're weird.`
 ` If you don't like it, then couldn't you just not work for her?"`
-`"To continue serving despite that is furniture's joy.`
-` One could not serve as furniture without such an attitude."`
+`"To continue serving despite that is {ruby:çeviri > mobilya:furniture}'s joy.`
+` One could not serve as {ruby:çeviri > mobilya:furniture} without such an attitude."`
 `"......Let us set that aside.`
 ` How has the game been proceeding?`
 ` Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.`
@@ -47,18 +47,18 @@
 ` I'm just going to say it again in front of Beato anyway.`
 ` No reason to hide it."`
 `"......Alright.`
-` It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.`
+` It looks like there's a hidden {ruby:çeviri > malikane:mansion} somewhere on this island, and that Grandfather had his mistress living there.`
 ` In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved."`
 `"Although you deny witches,`
-` you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."`
+` you hold a double standard by refusing to seek a {ruby:çeviri > suçlu:culprit} among the 18, and have driven yourself into a dead‐end."`
 `"...The easiest way to deny the witch would be to doubt one of the 18.`
-` ......It's not so easy for every one of the 18 to have an alibi.`
-` You always find at least one person with a fragile alibi.`
+` ......It's not so easy for every one of the 18 to have an {ruby:çeviri > mazeret:alibi}.`
+` You always find at least one person with a fragile {ruby:çeviri > mazeret:alibi}.`
 ` ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."`
 `"However, I will steadfastly refuse to do that!!`
 ` Yeah, that's no good, that's no goddamn good at all!`
 ` Every one of those 18 people is either a parent, a relative or a cousin to me!`
-` And those reliable servants, who are sometimes serious and sometimes funny.`
+` And those reliable {ruby:çeviri > hizmetkarlar:servants}, who are sometimes serious and sometimes funny.`
 ` I won't let myself use any one of them as a sacrifice!!"`
 `"In the past, my resolve wavered.`
 ` That's how Beato hit me where my heart was weak."`
@@ -69,25 +69,25 @@
 `"In any event, unlike how unprepared you were in the games up until now,`
 ` let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.`
 ` With this, you need not doubt any of the 18 you love and respect,`
-` and can easily suspect a 19th person, and pursue your theory that the culprit is a human."`
+` and can easily suspect a 19th person, and pursue your theory that the {ruby:çeviri > suçlu:culprit} is a human."`
 `"That's it exactly.`
-` Like in the first game, when Kanon‐kun was killed in the boiler room,`
+` Like in the first game, when Kanon‐kun was killed in the {ruby:çeviri > kazan dairesi:boiler room},`
 ` ...and a bunch of other places,`
-` there are countless tricks I can use without hesitation if a 19th person existed."`
-`In the very first game, Kanon‐kun had been killed in the boiler room.`
-`One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,`
+` there are countless {ruby:çeviri > numaralar:tricks} I can use without hesitation if a 19th person existed."`
+`In the very first game, Kanon‐kun had been killed in the {ruby:çeviri > kazan dairesi:boiler room}.`
+`One might think that he was attacked by Kumasawa‐san, who had gone down into the {ruby:çeviri > kazan dairesi:boiler room} with him,`
 ` or maybe that someone who had appeared to be dead earlier was actually faking,`
-` and had ambushed Kanon‐kun in the boiler room.`
+` and had ambushed Kanon‐kun in the {ruby:çeviri > kazan dairesi:boiler room}.`
 ` Either way, it was a move that forced me to suspect one of the 18.`
 `However, by simply proposing that a 19th person exists,`
-` there's no longer any need to suspect one of the 18 for that murder in the boiler room.`
+` there's no longer any need to suspect one of the 18 for that murder in the {ruby:çeviri > kazan dairesi:boiler room}.`
 `"In short!`
-` "Impossible for any of the 18 = The culprit is a witch"...`
+` "Impossible for any of the 18 = The {ruby:çeviri > suçlu:culprit} is a witch"...`
 ` is an equation that I can now deny."`
 `Using this argument, we can take, for example, the question which has been raised once again in this game,`
 ` "who gave Maria the letter?",`
 ` and come up with an easy explanation.`
-` Even if all 18 people have alibis,`
+` Even if all 18 people have {ruby:çeviri > mazeretler:alibis},`
 ` I can easily explain everything by saying that a 19th person visited her and gave her the letter.`
 `".........Hmm, hmm.`
 ` I think that is quite a good move.`
@@ -96,7 +96,7 @@
 ` Perhaps the "18 people attack" will be an effective move.`
 ` As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."`
 `"Then how would you do it,`
-` demon butler...?!"`
+` demon {ruby:çeviri > uşak:butler}...?!"`
 `"......I believe it would be appropriate to attack this 19th piece that you have played.`
 ` Battler‐sama, have you ever met this 19th person?`
 ` May I ask you for some proof that this 19th person exists?"`
@@ -107,23 +107,23 @@
 `"Witches and demons and the like...`
 ` There's no move more appropriate for you than this one.`
 ` ......And that is—"`
-`"The "Devil's Proof"!"`
+`"The "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}"!"`
 `When we humans are accused of something, we always counterattack by saying to show some evidence.`
 ` Because that's a human move.`
 `But I'm fighting with a witch.`
 `{n}I'm taking part in a battle with someone who isn't human!`
 `And some moves exist which can only be used in a game against a witch.`
 `{n}There are cheap moves!`
-`And that's what this "Devil's Proof" is.`
+`And that's what this "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}" is.`
 `{n}Therefore, evidence is unnecessary!`
-`Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,`
+`Let's take the assumption that there is a hidden {ruby:çeviri > malikane:mansion} on Rokkenjima separate from the Ushiromiya family {ruby:çeviri > malikane:mansion},`
 ` and that a woman named {f:5:Beatrice} is living there.`
-`In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.`
+`In order to prove this, one must find this {ruby:çeviri > malikane:mansion} and actually bring {f:5:Beatrice} out of it.`
 `That's called actual proof in the human world.`
-`However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.`
+`However, if we follow the rules of the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}", you can't disprove that she exists, even if there's no evidence that she does.`
 `Because it's impossible to prove that something doesn't exist.`
-`......That's right, this "Devil's Proof", which tormented me so much before, I've finally managed to use to my own advantage.`
-`Those guys were always trying to force me to accept the existence of the witch by using the "Devil's Proof".`
+`......That's right, this "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}", which tormented me so much before, I've finally managed to use to my own advantage.`
+`Those guys were always trying to force me to accept the existence of the witch by using the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`
 `That was because, in response to Beato's professions that witches do exist,`
 ` I physically could not offer any proof that "witches don't exist".`
 `That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.`
@@ -133,18 +133,18 @@
 `In other words, the enigmatic mistress in question is craftily hiding herself, so it's perfectly natural that you can never find her no matter how hard you look.`
 `So you can't say that "The 19th person can't be found = The 19th person doesn't exist".`
 `Therefore, it is impossible to disprove a 19th person.`
-`{n}Beato used the "Devil's Proof" to make denying her existence impossible,`
+`{n}Beato used the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}" to make denying her existence impossible,`
 ` but this time it's become my weapon.`
 `If we can get away with this argument, then never mind a 19th person,`
 ` this island could be full of people we don't know about,`
 ` and even if there are ten or a hundred of them hiding, she still can't disprove that they exist.`
 `In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.`
-`It's very difficult to imagine that a single culprit could have set all of those up.`
+`It's very difficult to imagine that a single {ruby:çeviri > suçlu:culprit} could have set all of those up.`
 `However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn't be any problem at all.`
 `If they all split up the work, they could handle any job in a short period of time.`
-`Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,`
-` but those are all settled by the "Devil's Proof".`
-`Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.`
+`Of course, doubts will naturally arise at whether a large group of people like that could sneak around the {ruby:çeviri > malikane:mansion} without being noticed,`
+` but those are all settled by the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`
+`Because not seeing or not noticing a hundred people inside the {ruby:çeviri > malikane:mansion} does not disprove that they were there.`
 `Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!`
 ` However, it's because it's such a dirty‐as‐hell move that makes it the perfect one to use against a witch.`
 `Well, we're only imagining here,`
@@ -166,17 +166,17 @@
 ` That is truly a solid first step.`
 ` Quite a spectacular move, I think."`
 `"Well, even if we do assume that there is a 19th person,`
-` there are still a few tricks left that I can't get past no matter how many humans I add, like the number of master keys.`
+` there are still a few {ruby:çeviri > numaralar:tricks} left that I can't get past no matter how many humans I add, like the number of master keys.`
 ` ...Still, it isn't bad as a first step, for the time being."`
 `"This is your trump card, the important piece known as the 19th person.`
-` ......You countered my move of asking for evidence by using the "Devil's Proof".`
+` ......You countered my move of asking for evidence by using the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`
 ` ......A good skirmish."`
-`"Although I have no excuse for making moves by myself when Milady is absent,`
+`"Although I have no excuse for making moves by myself when {ruby:çeviri > Leydim:Milady} is absent,`
 ` .........I find that I too have become slightly interested.`
-` ...I wonder if you would permit me to make yet another move on Milady's behalf?"`
+` ...I wonder if you would permit me to make yet another move on {ruby:çeviri > Leydim:Milady}'s behalf?"`
 `"......Go for it.`
 ` I don't care if you're a witch or a demon, I'll take you all on!"`
-`"The move that you made, the "Devil's Proof".`
+`"The move that you made, the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`
 ` It is a specialty of us demons, but there are also various other moves available to us.`
 ` ......Do you know of a move called "Hempel's Raven"?"`
 `"Hempel's Raven...??`
@@ -185,13 +185,13 @@
 ` Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
 `Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.`
 `The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.`
-`"Why, if it isn't Milady.`
+`"Why, if it isn't {ruby:çeviri > Leydim:Milady}.`
 ` Good morning."`
 `"I thought you might be doing something interesting while I was away."`
 `"......‘Hempel's Raven’, was it?`
 ` What an amusing and nostalgic move.`
 ` To think the day would come when it would be introduced to Battler.`
-` It's a classic move to use against the "Devil's Proof"."`
+` It's a classic move to use against the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}"."`
 `"......Ronove, I will make this move.`
 ` Do not get in the way of my fun."`
 `"So you've finally shown up, you guffawing witch.`
@@ -201,7 +201,7 @@
 `"I am offended.`
 ` Is that true?"`
 `"By no means.`
-` I have only words of the highest heartfelt respect for Milady;`
+` I have only words of the highest heartfelt respect for {ruby:çeviri > Leydim:Milady};`
 ` why would I speak such gossip?"`
 `"...I can't believe you can say that so brazenly.`
 ` Doesn't look like we'll be getting along well together..."`
@@ -239,7 +239,7 @@
 `"...In other words, if you choose the box at random, whether it's the winner or the loser,`
 ` you'll be able to figure out which box has the cookie in it after your first move."`
 `"That is correct.`
-` If the cookie is in the box you open, then the "Devil's Proof" is satisfied.`
+` If the cookie is in the box you open, then the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}" is satisfied.`
 ` You can prove directly that "this box is the winner = this box has a cookie in it"."`
 `"However, if the box that you open is empty, then the reverse, "Hempel's Raven", is satisfied.`
 ` Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."`
@@ -249,14 +249,14 @@
 ` Only poison can stop poison, and only twisted logic can stop twisted logic."`
 `"...Then what?`
 ` How does that overturn my claim that "no doubt there is a 19th human hidden on this island,`
-` so even if all of the 18 people have alibis,`
+` so even if all of the 18 people have {ruby:çeviri > mazeretler:alibis},`
 ` that does not amount to an acceptance of witches"......?"`
 `"Very well.`
 ` I will tell you my move.`
-` First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person"."`
+` First of all, you are stating that "if the {ruby:çeviri > suçlu:culprit} is not among the 18, then the {ruby:çeviri > suçlu:culprit} is a 19th person"."`
 `"*cackle*cackle*!`
 ` ...So if you use the contrapositive, it ends up like this.`
-` In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!"`
+` In short, "if the {ruby:çeviri > suçlu:culprit} is not a 19th person, then the {ruby:çeviri > suçlu:culprit} is one of the 18"!"`
 `"Whaah?!`
 ` What the, what does that mean?!"`
 `"All I have done is turn your move on its head.`
@@ -268,7 +268,7 @@
 `Allow me to repeat once more my earlier story,`
 ` about two treasure chests, one of which has a cookie in it.`
 `In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".`
-`So the cookie would represent the "culprit".`
+`So the cookie would represent the "{ruby:çeviri > suçlu:culprit}".`
 `Battler‐sama, you open the 18 box.`
 `{n}Because the cookie is not there,`
 ` you have proven from the opposite direction that "therefore, the cookie is in the 19 box".`
@@ -297,8 +297,8 @@
 `And if I think of it not as two treasure chests,`
 ` but as 18, one for each person, plus one more for the 19th person,`
 ` for a total of 19 boxes, it gets even easier to understand.`
-`First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.`
-`Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "Devil's Proof",`
+`First of all, one of the premises established by the human {ruby:çeviri > suçlu:culprit} theory was that the bomb would definitely be in one of those boxes.`
+`Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}",`
 ` and created the 19th box so that I could throw the bomb in there.`
 ` ......That much was alright.`
 `But Beato had struck back like this:`
@@ -312,7 +312,7 @@
 `The police wouldn't come here in this typhoon.`
 `{n}There would be no scientific investigations, no autopsies, no nothing.`
 `{n}In short, I can't show anything decisively!`
-`It's impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.`
+`It's impossible for me to find any proof other than simply gulping down whatever {ruby:çeviri > mazeretler:alibis} each of the 18 give.`
 `In that case, I have to confirm their innocence both personally and perfectly.`
 `Like staying with someone the whole time, never letting them out of my sight for a second.`
 `If I do that, I can probably be sure of that person's innocence,`
@@ -326,7 +326,7 @@
 ` and show that it is empty, to prove that the bomb is in one of the other 18 boxes.`
 ` (Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!)`
 `I have 18 times more work to do to explain my pet theory than Beato does for hers......`
-`"Just as you know from the "Devil's Proof",`
+`"Just as you know from the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}",`
 ` there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."`
 `"However, "Hempel's Raven" turns that problem around, and makes it possible to prove things easily!"`
 `"By using "Hempel's Raven", various reckless arguments become possible to prove."`
@@ -349,9 +349,9 @@
 `"Wha‐.........what a ridiculous argument.........!!!"`
 `"It is a very, very convenient move.`
 ` Not only demons, but gods also use it.`
-` When you propose "blessed = God's servant",`
-` the contrapositive is "if a human is not a servant of God, then he must not be blessed"."`
-`"So in order for servants of God to prove that they are granted fortune by their divine protection,`
+` When you propose "blessed = God's {ruby:çeviri > hizmetkar:servant}",`
+` the contrapositive is "if a human is not a {ruby:çeviri > hizmetkar:servant} of God, then he must not be blessed"."`
+`"So in order for {ruby:çeviri > hizmetkarlar:servants} of God to prove that they are granted fortune by their divine protection,`
 ` they only have to prove that those who don't receive that divine protection suffer misfortune."`
 `".........Therefore,`
 ` by bringing misfortune down upon those people who don't believe in their own god, they prove their own blessedness."`
@@ -365,9 +365,9 @@
 `"It seems that we've gone off‐topic.`
 ` Let us return to it."`
 `"I have finished describing the move for my counterattack.`
-` ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn't exist" is:`
-` "In that case, if I can prove that the culprit is not some 19th person,`
-` do we agree that the culprit must either be one of the 18, or a witch?".`
+` ......The counterattack to your claim that "a 19th person is the {ruby:çeviri > suçlu:culprit}; therefore, the 18 are innocent and the witch doesn't exist" is:`
+` "In that case, if I can prove that the {ruby:çeviri > suçlu:culprit} is not some 19th person,`
+` do we agree that the {ruby:çeviri > suçlu:culprit} must either be one of the 18, or a witch?".`
 ` I await your answer."`
 `For a while, I just stood there, shocked, completely forgetting to close my mouth...`
 `Just when I'd thought that I'd got my own back on them by using their favorite move against them,`
@@ -381,7 +381,7 @@
 ` ......Don't give up this struggle yet.`
 `Who cares about "Whoever's Raven"?`
 `{n}They're just trying to speak in riddles by bringing up some weird bits of trivia...`
-`I had used the "Devil's Proof".`
+`I had used the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`
 `{n}Don't feel doubt in something once you've used it.`
 `{n}Believe in the spear you've lunged forward with.`
 `Apply even more force......and gouge it in......!`
@@ -392,22 +392,22 @@
 ` ......wait a sec,`
 ` I want to be sure."`
 `"While yes, I did use the phrasing of a "19th person" to make it easy to understand,`
-` if I can use the "Devil's Proof" to raise the number of people above 18,`
+` if I can use the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}" to raise the number of people above 18,`
 ` then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred."`
 `"{i:Always one more than you assume}.`
 ` ...Understand?"`
 `She had returned my twisted logic with something even more twisted.`
 `{n}So the only thing that could counter that would be even crazier twisted logic...!`
 `"Hmm, I see.`
-` .........Even if I somehow prove an alibi for the 19th person,`
-` as soon as I do, you will think up a 20th person, and claim that they are the culprit.`
-` By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity."`
+` .........Even if I somehow prove an {ruby:çeviri > mazeret:alibi} for the 19th person,`
+` as soon as I do, you will think up a 20th person, and claim that they are the {ruby:çeviri > suçlu:culprit}.`
+` By repeating this infinitely, you would make it so I kept searching for their {ruby:çeviri > mazeretler:alibis} for all eternity."`
 `"......I see, I see, *cackle*cackle*!`
 ` Just like a demon king summoning a plague of locusts.`
 ` I wouldn't expect anything less from Kinzo's grandchild.`
 ` It looks like you have been gifted with a talent in summoning."`
 `"......In short!`
-` It is impossible to continually prove an alibi for the "X" existing outside of the first 18!`
+` It is impossible to continually prove an {ruby:çeviri > mazeret:alibi} for the "X" existing outside of the first 18!`
 ` ......How do you like that, Beato...?!`
 ` Now that I know we're having a battle with twisted logic, I won't lose!"`
 `"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
@@ -454,7 +454,7 @@
 ` Suddenly looking so relaxed..."`
 `"Sorry, but I've been waiting for you to take out that blood‐red treasured sword.`
 ` ......Let's see, what will you proclaim in red this time?"`
-`"You aren't going to say "the culprit was one of the 18", are you?`
+`"You aren't going to say "the {ruby:çeviri > suçlu:culprit} was one of the 18", are you?`
 ` Let me warn you, that would be self‐destruction, remember?`
 ` That would be the same as throwing away your own witch theory yourself.`
 ` A complete resignation."`
@@ -463,17 +463,17 @@
 ` On the contrary, if she used it the wrong way, it's dangerous enough that she could bring about her own death.`
 ` If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.`
 `"Of course,`
-` it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.`
-` ......No matter who the culprit actually was, it would surely bring me some tough emotions..."`
+` it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the {ruby:çeviri > suçlu:culprit}.`
+` ......No matter who the {ruby:çeviri > suçlu:culprit} actually was, it would surely bring me some tough emotions..."`
 `"But before that, it would mean your defeat!`
-` Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!`
+` Saying in red that the {ruby:çeviri > suçlu:culprit} is a human is equivalent to your proclamation of resignation!!`
 ` If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.`
 ` However, this battle will end in my victory!!"`
 `{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.`
 ` The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.`
 `They had cut me down to size many times now, rending in two any supports my heart had to lean on.`
 `However, if she used it carelessly, then I could also find a little information about the truth.`
-`...In the last game, especially during the chapel's locked room trick, I had taken advantage of that,`
+`...In the last game, especially during the {ruby:çeviri > kilise:chapel}'s locked room {ruby:çeviri > numara:trick}, I had taken advantage of that,`
 ` and had once closed her in almost completely.`
 `But she was also pretty sly.`
 ` She had learned from experience, and since then, had started using discretion in the timing of the red...`
@@ -486,7 +486,7 @@
 ` ......That's right.`
 ` To use your "Hempel's Raven",`
 ` first, you'll have to confirm in red how many humans there are other than the 18."`
-`"And after that, if you proclaim in red that none of the people in that group are the culprit,`
+`"And after that, if you proclaim in red that none of the people in that group are the {ruby:çeviri > suçlu:culprit},`
 ` ......that's right, that might be a fatal wound to me."`
 `".........I'm surprised that you no longer have even an atom of fear for that red which you feared so much...`
 ` You're quite sturdy."`
@@ -508,8 +508,8 @@
 `Her merciless blood‐red blade is the only way I can survive.`
 `...This isn't just walking on a tightrope, it's literally like walking on the edge of a blade...`
 `Of course I'm afraid.`
-` In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.`
-`But I didn't want to search for the culprit amid the 18.`
+` In terms of her contrapositive, my victory condition—the denial of the witch—meant that the {ruby:çeviri > suçlu:culprit} was a human.`
+`But I didn't want to search for the {ruby:çeviri > suçlu:culprit} amid the 18.`
 `...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.`
 ` Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.`
 `......But that's alright.`
@@ -545,7 +545,7 @@
 `Ronove cleared his throat.`
 `"You appear to be at a standstill.`
 ` That black tea I worked so hard to make is getting cold,`
-` Milady."`
+` {ruby:çeviri > Leydim:Milady}."`
 `".........kh."`
 `Ronove, who was supposed to be her ally, roguishly rushed her next move.`
 `Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn't hide the sweat building up on her forehead.`
@@ -576,7 +576,7 @@
 `"....................."`
 `"...If I hear you say this in red, I will have no choice but to doubt one of the 18.`
 ` ......Since it could no longer be the work of a 19th person, all doors will be closed to me."`
-`".........But I believe that the culprit is definitely not one of the 18!`
+`".........But I believe that the {ruby:çeviri > suçlu:culprit} is definitely not one of the 18!`
 ` There's no way that any of those 18 could commit such brutal murders...!!"`
 `"....................."`
 `"I'll say it again.`
@@ -595,13 +595,13 @@
 `She hadn't sliced me up with red by using that move, which should have been as good as forking a rook and the king...!`
 `......This was a big sign of my advantage.`
 `That's right.`
-` The culprit isn't one of the 18 people.`
+` The {ruby:çeviri > suçlu:culprit} isn't one of the 18 people.`
 `{n}I won't doubt anyone...!`
-`And since the culprit isn't a witch either,`
+`And since the {ruby:çeviri > suçlu:culprit} isn't a witch either,`
 ` .........it means that a 19th person exists on this island.`
 `And that's you.`
 `A person who, as Grandfather's mistress of thirty years,`
-` has been living secretly in a hidden mansion in the forest for a long, long time.`
+` has been living secretly in a hidden {ruby:çeviri > malikane:mansion} in the forest for a long, long time.`
 `The {i:human} {f:5:Beatrice}.........!!`
 `"That's right.`
 ` You aren't a witch or anything like it.`
@@ -622,7 +622,7 @@
 `The red had already become a foothold for my counterattack.`
 ` With that in mind, the red had become a risk for the witch.`
 `But if she couldn't repeat this, her "Hempel's Raven" wouldn't work.`
-`In order to break my "Devil's Proof",`
+`In order to break my "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}",`
 ` first, the existence of and number of people outside the 18...`
 `needed to be confirmed in red.`
 `That's right.`
@@ -634,9 +634,9 @@
 `"It's alright to decline.`
 ` ...If you can't say it in red, then that will mean the total number of people on this island will be 18+X."`
 `"......That X is a pretty huge piece to allow me to have on the first move, isn't it?`
-` After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...`
+` After all, from then on, all of the {ruby:çeviri > numaralar:tricks} with the basis "it was impossible for any of the 18"...`
 `will become explainable with a human X outside of the 18 people.`
-` ......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!"`
+` ......This is a huge piece that can break open any locked room hinging on everyone having an {ruby:çeviri > mazeret:alibi}...!"`
 `It was just like...`
 `a bishop in chess, which can cut a thin line through enemy forces as long as there's a slight gap.`
 ` It only exerts an effect over squares of the same color, but it has a great ability to control the board.`
@@ -646,7 +646,7 @@
 `She couldn't just let such an important piece go, especially this close to the beginning of the game...`
 `If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.`
 `......But Beato was completely aware that I was expecting it.`
-` She was afraid that a careless red truth might end up strangling her own neck...!`
+` She was afraid that a careless {ruby:çeviri > kırmızı gerçek:red truth} might end up strangling her own neck...!`
 `Because, ...in the first place, a witch was something which should be {i:denied} in red.`
 `Believe.`
 ` Don't doubt!`
@@ -723,14 +723,14 @@
 `"......After all, knowing you...`
 `you probably know that I'm being led into a trap, and that clapping is just a barefaced lie, right...?"`
 `"How could you think that?`
-` I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.`
-` ...After all, Milady is a person who is quick to become arrogant.`
+` I am innocently celebrating your ability that has enabled you to take one shot at {ruby:çeviri > Leydim:Milady}, though granted it is only the opening.`
+` ...After all, {ruby:çeviri > Leydim:Milady} is a person who is quick to become arrogant.`
 ` I believe that a little stimulation such as that makes for a good medicine every once in a while."`
-`"...This butler of yours sure has a vicious tongue..."`
+`"...This {ruby:çeviri > uşak:butler} of yours sure has a vicious tongue..."`
 `"Isn't that so?`
 ` Sometimes he enrages even me."`
 `"My, my, how incredibly rude of me."`
-`"Well then, Milady, Battler‐sama.`
+`"Well then, {ruby:çeviri > Leydim:Milady}, Battler‐sama.`
 ` Would you care for some more black tea?`
 ` The game has still barely begun.`
 ` Please leave any tea or pastries that might adorn this game to me.`
@@ -747,7 +747,7 @@
 `"No need.`
 ` Give it to Beelzebub to keep her happy.`
 ` ............Remain silent for now."`
-`While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.`
+`While listening to the sound of the demon {ruby:çeviri > uşak:butler} pouring tea, the witch closed her eyes slightly and fell into silence.`
 `......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.`
 `"Very well.`
 ` ............Why don't I inform you now why I declined to speak in red for the first move."`
@@ -778,7 +778,7 @@
 `"I, I'm sorry......"`
 `"I imagine you woke up quite early this morning?`
 ` If you feel sick, you shouldn't overdo it."`
-`"......The beds have been prepared in the guest rooms.`
+`"......The beds have been prepared in the {ruby:çeviri > misafir odaları:guest rooms}.`
 ` How about taking a rest?`
 ` I will guide you."`
 `"No, ...I'm fine.`
@@ -817,7 +817,7 @@
 ` Obviously she's alive.`
 ` She's sending letters to us, what more do you want?"`
 `"Whether she's healthy or not is a different story though.`
-` The lovely woman in that portrait must be getting up there in age by now."`
+` The lovely woman in that {ruby:çeviri > portre:portrait} must be getting up there in age by now."`
 `"I'd think she's healthy.`
 ` People who are crafty when it comes to money are healthy no matter how old they are!`
 ` Evil plans might even be the best rejuvenating agent.`

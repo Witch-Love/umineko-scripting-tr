@@ -92,7 +92,7 @@
 ` ......Sakutaro, ......everyone."`
 `Then, I once again regained my former world.`
 `{n}I regained the world where I wasn't lonely, and where I was surrounded by many friends.`
-`As always, I didn't have any {y:0:Human}{n:0:human} friends at school, but my magic friends were always with me.`
+`As always, I didn't have any {y:0:Human}{n:0:human} friends at school, but my {ruby:çeviri > büyü:magic} friends were always with me.`
 `Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.`
 `Just listening to that added a lot of color to those lonely school hours.`
 `I made sure that my other friends, too, were always with me, as long as Mama and the teacher wouldn't find out.`
@@ -106,7 +106,7 @@
 ` That's why Sakutaro and the others just look like normal stuffed animals to them.`
 `After all, the men at the convenience store say hello to Sakutaro.`
 `.........Not all {y:0:Human}{n:0:human}s are worthless.`
-` There are a ton of people who, unlike Ange and Mama and my teacher, can say hello to magic friends like I can......`
+` There are a ton of people who, unlike Ange and Mama and my teacher, can say hello to {ruby:çeviri > büyü:magic} friends like I can......`
 `"Oh, Maria‐chan.`
 ` Welcome.`
 ` Is your mama late coming home tonight too...?"`
@@ -333,7 +333,7 @@
 ` ......Ah.`
 ` Hello?`
 ` Hello?`
-` Is this Auntie Rosa Co., Ltd.?"`
+` Is this {ruby:çeviri > Hala:Auntie} Rosa Co., Ltd.?"`
 `"This is the Komatsugawa Police Department police box in front of Senbonzakura Station.`
 ` Is President...umm, {c:86EF9C:Udaikan}...no, sorry, President Ushiromiya‐san available?`
 ` ............Yes.`
@@ -693,11 +693,11 @@
 ` As long as you do not forget that, he will always be with you...`
 ` So do not cry..."`
 `"Bring him back to life!!`
-` You can use a lot of magic, Beato!!`
+` You can use a lot of {ruby:çeviri > büyü:magic}, Beato!!`
 ` You can bring Sakutaro back to life as well, right?!"`
 `"............A‐about that......`
-` ...Of course, if Sakutarou had been my furniture, it would be easy.`
-` However, Sakutarou is your furniture.`
+` ...Of course, if Sakutarou had been my {ruby:çeviri > mobilya:furniture}, it would be easy.`
+` However, Sakutarou is your {ruby:çeviri > mobilya:furniture}.`
 ` ......That makes it difficult for me."`
 `"Difficult but not impossible, right?!`
 ` Bring him back to life!!`
@@ -712,7 +712,7 @@
 ` it wouldn't be enough to calm Maria and make her accept it.`
 `But she had to communicate the painful truth to her disciple and close friend.`
 `.........She had to tell her the fact...`
-`...that even with all of her own magic, even she could not revive Sakutarou.`
+`...that even with all of her own {ruby:çeviri > büyü:magic}, even she could not revive Sakutarou.`
 `"As long as you continue to strongly believe in Sakutarou's existence, his soul will not disappear......`
 ` So, {f:5:Maria}, ...please, do not be sad...`
 ` Even now, look, ...you must believe that Sakutarou is smiling right over there......"`
@@ -724,10 +724,10 @@
 ` No no no!`
 ` WaaA{0}AAa{0}a{0}a{0}aAAa{0}a{0}aAa{0}aAahhhh!!"`
 `"Give up...!!`
-` There is no magic to revive Sakutarou...!`
+` There is no {ruby:çeviri > büyü:magic} to revive Sakutarou...!`
 ` You must strongly believe that even in spite of that, Sakutarou will continue to exist as your close friend...!!`
-` That power will become magic...!"`
-`"That's not magic, that's not magic!!`
+` That power will become {ruby:çeviri > büyü:magic}...!"`
+`"That's not {ruby:çeviri > büyü:magic}, that's not {ruby:çeviri > büyü:magic}!!`
 ` You have to bring Sakutaro back to life...!!"`
 `"Can't you do it because Mama made him herself?`
 ` Why did Mama make Sakutaro?`
@@ -763,8 +763,8 @@
 ` Want to make the same thing happen to Mama!!`
 ` Want to make her suffer the same thing as Sakutaro...!"`
 `"{f:5:Beatrice}!!`
-` Teach me magic for that!!`
-` Teach me magic to get back at Mama...!!"`
+` Teach me {ruby:çeviri > büyü:magic} for that!!`
+` Teach me {ruby:çeviri > büyü:magic} to get back at Mama...!!"`
 `".................................`
 ` ......Are those your true feelings?"`
 `"I'll kill Mama!!`

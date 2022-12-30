@@ -1,5 +1,5 @@
 `We crossed the hall again on our way to the entrance.`
-`As we did, we once again saw that witch's portrait.`
+`As we did, we once again saw that witch's {ruby:çeviri > portre:portrait}.`
 `However, the word "saw" is probably not the best word to describe that experience.`
 `{n}......It was more like our eyes were drawn to it.`
 `That woman's eyes, with their sage‐like glamour, definitely had the power to make those who looked at her stand rooted to the spot.`
@@ -10,8 +10,8 @@
 `Back when he had asked what this picture was, the first person to tell him it was {f:5:Beatrice} had been Maria.`
 `Therefore, when Battler showed signs of doubt, Maria must have felt that Battler didn't have faith in her.`
 `...Of course, that's not what Battler meant.`
-`Maria ran up to the portrait and began banging on a plate below it.`
-`Maybe the title of the portrait was written there.`
+`Maria ran up to the {ruby:çeviri > portre:portrait} and began banging on a plate below it.`
+`Maybe the title of the {ruby:çeviri > portre:portrait} was written there.`
 `Maria, trying to prove that she wasn't lying, obstinately continued to hit the plate.`
 `"Ahh―sorry about that,`
 ` it's not like I doubt anything you said, Maria."`
@@ -22,9 +22,9 @@
 `"...............Let's see here.`
 ` "My beloved witch, {f:5:Beatrice}".`
 ` .........Behold the sweetfish river...`
-`...wait.........what's with this weird, long epitaph?"`
-`The plate did have the title of the portrait written on it, but it was much too big to contain only that.`
-`Beneath the title, what looked like a long epitaph was also written.`
+`...wait.........what's with this weird, long {ruby:çeviri > kitabe:epitaph}?"`
+`The plate did have the title of the {ruby:çeviri > portre:portrait} written on it, but it was much too big to contain only that.`
+`Beneath the title, what looked like a long {ruby:çeviri > kitabe:epitaph} was also written.`
 `As I skimmed over it, I was taken aback by the array of unnerving words that jumped out at me.`
 `"Incredible, isn't it?`
 ` Grandfather had that written.`
@@ -35,7 +35,7 @@
 `"......Wait, is it that story about the Ushiromiya family's hidden gold?`
 ` There's another thing that takes me back...`
 ` ......Wait, Aniki, ...is that for real?"`
-`"Grandfather had this written, but he refuses to say anything about this picture or the epitaph.`
+`"Grandfather had this written, but he refuses to say anything about this picture or the {ruby:çeviri > kitabe:epitaph}.`
 ` .........Even so, amongst the family, it is often whispered that it points to the location of Grandfather's hidden gold,`
 ` and that he will relinquish the family headship and the gold to the person who solves the riddle."`
 `"Uu!`
@@ -51,7 +51,7 @@
 ` and by successfully riding the stormy seas after the war, managed to accumulate great wealth.`
 `...That much of the story everyone knows.`
 `{n}However, this is where the strange part of the story begins.`
-`...Part of it is closely tied to Grandfather's black magic hobby, so its credibility is extremely low, but......`
+`...Part of it is closely tied to Grandfather's black {ruby:çeviri > büyü:magic} hobby, so its credibility is extremely low, but......`
 `......Well, wait until the end before you doubt or make fun of it.`
 `After the war, Grandfather successfully predicted what the future would hold, his big gamble paid off, and he accumulated a vast store of wealth,`
 ` ......but there is a mysterious legend about how he gained the funds in the first place.`
@@ -75,7 +75,7 @@
 ` Grandmother or someone began to spread the story that the witch lived in the forest and approaching it was too dangerous...`
 `"......I remember that old story.`
 ` When we were little, our parents told us about it and we went all over the island searching for treasure.`
-` .........Didn't we get lost in the forest and start crying until some of the servants found us? Our parents were so mad at us.`
+` .........Didn't we get lost in the forest and start crying until some of the {ruby:çeviri > hizmetkarlar:servants} found us? Our parents were so mad at us.`
 ` ...That takes me back."`
 `"We sure were idiots, weren't we?`
 ` I mean, come on, Grandfather used that to build up the funds that he finally bought this island with, right?`
@@ -85,7 +85,7 @@
 ` Maybe the gold was hidden on the island from the beginning and he bought the whole island just to make sure it was all his.`
 ` There was a whole ten tons of it, right?`
 ` It seems more realistic that he would try to secure the place where it was hidden rather than try to move it all."`
-`"This epitaph was written two years ago.`
+`"This {ruby:çeviri > kitabe:epitaph} was written two years ago.`
 ` And since Grandfather had it written himself...`
 ` ......I see, this does make the Legend of the Gold more believable."`
 `"Ten tons of gold, bestowed upon Grandfather by a witch, that it's said he used to revive the Ushiromiya family.`
@@ -93,15 +93,15 @@
 `".........Hahh, I guess that sounds like Grandfather's style or something......`
 ` Ihihi!`
 ` If it's true, that's one hell of an opportunity."`
-`The epitaph carved into the plate was very mysterious, something like a poem or a song.`
-`Its sentences were incredibly disturbing, filled with the signs of Grandfather's black magic hobby, and truly in bad taste,`
+`The {ruby:çeviri > kitabe:epitaph} carved into the plate was very mysterious, something like a poem or a song.`
+`Its sentences were incredibly disturbing, filled with the signs of Grandfather's black {ruby:çeviri > büyü:magic} hobby, and truly in bad taste,`
 ` but it could definitely be viewed as a puzzle which, if solved, could lead to the place where the gold was hidden.`
 `"I can't even imagine if that's what he intended or not.`
-` ......All I can say is, this shady epitaph was displayed here so that everyone in the family could see it."`
+` ......All I can say is, this shady {ruby:çeviri > kitabe:epitaph} was displayed here so that everyone in the family could see it."`
 `"And that, even while hinting at the existence of the gold, he still refuses to touch upon the subject of its hiding place.`
 ` .........That caused our parents' imaginations to run wild, and call it a battle of wits from Grandfather..."`
 `"...Bet it's my dad who's taking this nonsense at face value, his greed exposed to the world.`
-` Even though he laughs at Grandfather's black magic hobby, he'll still believe this story about the hidden gold.`
+` Even though he laughs at Grandfather's black {ruby:çeviri > büyü:magic} hobby, he'll still believe this story about the hidden gold.`
 ` He's all talk."`
 `"......Well, it's certainly not a realistic story.`
 ` At that time, when Grandfather was still nameless without any connections, there's no way anyone would have just lent him a massive quantity of gold bars for free.`
@@ -249,7 +249,7 @@
 `".........Uhh, I'm sorry.`
 ` I wasn't trying to make fun of your dreams. I apologize.`
 ` Of course {f:5:Beatrice} exists.`
-` Even now she's living in the forest, and comes every night to the mansion to peek in and see what everyone's doing."`
+` Even now she's living in the forest, and comes every night to the {ruby:çeviri > malikane:mansion} to peek in and see what everyone's doing."`
 `"......That's why you shouldn't go into the forest.`
 ` And at night, you mustn't stay up staring into the dark forest.`
 ` ......You might be seen by the witch of the forest, {f:5:Beatrice}.`
@@ -265,9 +265,9 @@
 `"......Oh.`
 ` This is where all of you were?`
 ` I was sure you had just left to go to the beach..."`
-`Shannon‐chan, carrying a basket, was surprised to find us all gathered in front of the portrait.`
+`Shannon‐chan, carrying a basket, was surprised to find us all gathered in front of the {ruby:çeviri > portre:portrait}.`
 `"Ah, Shannon.`
-` Well, this is the first time Battler has seen {f:5:Beatrice}'s portrait.`
+` Well, this is the first time Battler has seen {f:5:Beatrice}'s {ruby:çeviri > portre:portrait}.`
 ` He was just fascinated by it."`
 `"Yes, she does that, doesn't she?`
 ` ...{f:5:Beatrice}‐sama is truly beautiful.`
@@ -296,7 +296,7 @@
 ` Uu!"`
 `"Certainly, you may eat as many as you would like.`
 ` ...But, umm..."`
-`Unsure whether it was really acceptable to serve cookies in a place like this in front of the portrait,`
+`Unsure whether it was really acceptable to serve cookies in a place like this in front of the {ruby:çeviri > portre:portrait},`
 ` Shannon‐chan sent us a glance which seemed to ask what we wanted to do.`
 `...Well, thinking about it, yeah, that would be bad manners.`
 `"Maria, why don't we eat someplace else?`
@@ -322,7 +322,7 @@
 ` ......That way is more fantastical!`
 ` The Golden Witch {f:5:Beatrice} gave Grandfather ten tons of gold!"`
 `"And that gold might be sleeping around somewhere.`
-` Plus, they're saying Grandfather wrote that strange epitaph as though challenging us to find it if we can.`
+` Plus, they're saying Grandfather wrote that strange {ruby:çeviri > kitabe:epitaph} as though challenging us to find it if we can.`
 ` I think that kind of romantic story is way better."`
 `"20 billion yen's worth of goollld!`
 ` Hehe, even if we split it up between the four of us, that's still a ridiculous amount of money!"`
@@ -373,7 +373,7 @@
 `"In that case, are you saying that the gold never existed, ...and that Father made it all up?"`
 `"Of course.`
 ` Therefore, after he had become sufficiently successful, the fiction of the gold was nothing but an inconvenience.`
-` So Father made up that absurd story about the witch and black magic and made the whole thing seem less believable."`
+` So Father made up that absurd story about the witch and black {ruby:çeviri > büyü:magic} and made the whole thing seem less believable."`
 `"In other words, he revealed that the gold was a complete fiction.`
 ` If he says that he received the gold from a witch, no one would believe that it exists at all, right?"`
 `"He may even have said it for all of your sakes.`
@@ -769,7 +769,7 @@
 ` .........Oh wait, you already said that I have no influence.`
 ` Well then, I can't do anything, can I?`
 ` ......Hehheheheheheheh!"`
-`Krauss's low, gloating laugh began to fill the parlor.`
+`Krauss's low, gloating laugh began to fill the {ruby:çeviri > salon:parlor}.`
 `The younger siblings who had, until now, been driving the oldest brother into a corner, could do nothing more than grimace and grind their teeth...`
 `"............E‐Eva......"`
 `"......Don't make me laugh...`
@@ -796,7 +796,7 @@
 ` How sad, how sad, how very sad!`
 ` How extremely totally truly hopelessly sad!"`
 `"............Tonight, let us drink together as brothers and sisters, and discuss the whereabouts of Father's hidden gold,`
-` ......solve the riddle of {f:5:Beatrice}'s epitaph together, why don't we?"`
+` ......solve the riddle of {f:5:Beatrice}'s {ruby:çeviri > kitabe:epitaph} together, why don't we?"`
 `"With four friendly siblings all together, there is surely no puzzle that can't be solved.`
 ` ...Hahhahahahahahahahahahahahahahahahahahahahahaha!!"`
 `"..................Hmph.`
@@ -817,7 +817,7 @@
 ` He can't even manage incompetence.`
 ` .........What are they doing now?"`
 `"......That conversation has been put on hold for the time being.`
-` Now, {f:5:Beatrice}‐sama's epitaph is being discussed."`
+` Now, {f:5:Beatrice}‐sama's {ruby:çeviri > kitabe:epitaph} is being discussed."`
 `"So, they are trying to solve the riddle and find out where my gold is hidden?"`
 `"...............Yes."`
 `Kinzo set down his glasses and snorted.`
@@ -826,7 +826,7 @@
 ` ...What a sight to behold."`
 `"......If those fools solve my puzzle, at that time I will be completely defeated.`
 ` They can suck my corpse down to the last fragment of bone.`
-` The magnitude of the fools' greed imbues my great magic with its miraculous potential."`
+` The magnitude of the fools' greed imbues my great {ruby:çeviri > büyü:magic} with its miraculous potential."`
 `"......But if!!`
 ` If the fulfillment of the miracle comes first...`
 ` If it comes first!`
@@ -843,19 +843,19 @@
 `Kanon got closer and tried to pat his master's back, but Kinzo signaled that he didn't need to.`
 `"............Do you know why I went to the trouble of exposing the hidden location of the gold so that everyone could see it?"`
 `"......No."`
-`"It is because magical power is determined by risk.`
+`"It is because {ruby:çeviri > büyülü:magical} power is determined by risk.`
 ` The greater the number of people who try to discover {f:5:Beatrice}'s gold,`
-` the greater the danger of that happening, then assuming that the bet is successful despite those long odds, the magical power will bring about an even grander miracle."`
-`".........In other words, magic is a game.`
+` the greater the danger of that happening, then assuming that the bet is successful despite those long odds, the {ruby:çeviri > büyülü:magical} power will bring about an even grander miracle."`
+`".........In other words, {ruby:çeviri > büyü:magic} is a game.`
 ` It is not true that the most superior person will become the winner.`
-` The winner becomes superior because he is granted magic.`
+` The winner becomes superior because he is granted {ruby:çeviri > büyü:magic}.`
 ` Do you understand?`
 ` Just as the miracle of life is granted precisely because of a victory against divine odds of several hundred million to one.`
 ` ..................Is this a little difficult for you to understand?"`
 `".........My apologies."`
 `"That's fine.`
 ` ......It all comes down to this.`
-` To the one that solves the mystery of {f:5:Beatrice}'s epitaph, I will give all of that which I have built up.`
+` To the one that solves the mystery of {f:5:Beatrice}'s {ruby:çeviri > kitabe:epitaph}, I will give all of that which I have built up.`
 ` Wealth, honor, gold, and succession to the Ushiromiya family headship—everything that I have established!"`
 `"The right to tackle the riddle is not limited to my children.`
 ` Even if it were you who succeeded in solving it, that would make you qualified to gain everything."`
@@ -865,13 +865,13 @@
 `"Of course.`
 ` I made it difficult.`
 ` ...But you must also challenge it.`
-` That will become the seed with which the miracle of my magic will be summoned.`
+` That will become the seed with which the miracle of my {ruby:çeviri > büyü:magic} will be summoned.`
 ` If everyone challenges it, and everyone fails, that will be that."`
-`"However, if the miracles are gathered and the magical power is born, it will happen then!`
+`"However, if the miracles are gathered and the {ruby:çeviri > büyülü:magical} power is born, it will happen then!`
 ` {f:5:Beatrice} will revive.`
 ` Therefore you too must challenge it.`
 ` All must challenge it.`
-` And in doing so, they must give strength to my magic!!`
+` And in doing so, they must give strength to my {ruby:çeviri > büyü:magic}!!`
 ` Do you understand?!"`
 `"............Yes.`
 ` ...I will try."`
@@ -883,9 +883,9 @@
 ` You can take some with you as a reward."`
 `"......I'm fine.`
 ` After all,`
-` .........I am furniture."`
+` .........I am {ruby:çeviri > mobilya:furniture}."`
 `"............Hmm.`
-` ......So furniture doesn't eat sweets?`
+` ......So {ruby:çeviri > mobilya:furniture} doesn't eat sweets?`
 ` ...Indeed.`
 ` In that case, leave me."`
 `"As you ask.`
@@ -896,20 +896,20 @@
 `{n}It was the door locking automatically.`
 `No one could enter without Kinzo's permission, and once they left, they could not enter again.`
 `......It was a mechanism that Kinzo, unable to trust his blood relatives, had created to lock himself up in his own study and isolate himself from the outside world.`
-`......The only ones he could trust now were not the sons who shared his blood, but those servants who called themselves furniture...`
+`......The only ones he could trust now were not the sons who shared his blood, but those {ruby:çeviri > hizmetkarlar:servants} who called themselves {ruby:çeviri > mobilya:furniture}...`
 `"..................Doctor Nanjo, is something the matter?"`
 `"...Ah, Genji‐san.`
 ` Oh, it's just that I had no place in there anymore."`
-`With a bitter laugh, Nanjo turned to face the door to the parlor.`
+`With a bitter laugh, Nanjo turned to face the door to the {ruby:çeviri > salon:parlor}.`
 `...It seemed that because of that motion, Genji understood what Nanjo wanted to say.`
 `For the most part, Genji also understood the family's situation.`
-`...It must have made him want to frown, knowing that right now in the parlor, the master he served was being discussed so disrespectfully.`
+`...It must have made him want to frown, knowing that right now in the {ruby:çeviri > salon:parlor}, the master he served was being discussed so disrespectfully.`
 `But it would have been very difficult to gather that from his indifferent expression.`
 `".........Still,`
 ` ...it isn't clear to me.`
 ` ...Why did Kinzo‐san have something so provocative written, I wonder."`
-`Nanjo looked at the portrait of {f:5:Beatrice}.`
-`{n}......No, he actually directed his gaze beneath the portrait, at the plate with the epitaph.`
+`Nanjo looked at the {ruby:çeviri > portre:portrait} of {f:5:Beatrice}.`
+`{n}......No, he actually directed his gaze beneath the {ruby:çeviri > portre:portrait}, at the plate with the {ruby:çeviri > kitabe:epitaph}.`
 `"...............I fail to understand the Master's thoughts.`
 ` I sense that they run very deep."`
 `"......For as long as I can remember, whenever Kinzo‐san played chess, he would always make moves based on some far‐sighted reading of the board.`
@@ -922,33 +922,33 @@
 ` It could be something like that, then.`
 ` Kinzo‐san may rudely disparage his children, but he might also be hoping that the siblings repair their relationship."`
 `"........................"`
-`If, as Nanjo said, this epitaph had been written to repair the relationship between the siblings, how heartwarming that would be.`
+`If, as Nanjo said, this {ruby:çeviri > kitabe:epitaph} had been written to repair the relationship between the siblings, how heartwarming that would be.`
 `...However, Nanjo and Genji both knew this was the one thing that could never be the case.`
 `Here were the two who held the longest relationship with Kinzo, more trusted than his blood relatives,`
 ` and even they could not guess at Kinzo's true motive...`
 `"......The Master is always saying that the right to challenge the riddle is granted to everyone, whether they are a member of the family or not.`
 ` ......How about you, Doctor Nanjo?"`
 `"No, no......It's a little too hard to understand for this senile old man."`
-`"......Actually, I wrote this epitaph down in my notebook at one point in time.`
+`"......Actually, I wrote this {ruby:çeviri > kitabe:epitaph} down in my notebook at one point in time.`
 ` Night after night, I would try to solve it before going to sleep, but...`
 `...hahaha, it truly is hard.`
 ` I believe it shall continue providing me enjoyment for the rest of my days.`
 ` What about you, Genji‐san?"`
-`".........I am nothing more than furniture that serves the Master.`
+`".........I am nothing more than {ruby:çeviri > mobilya:furniture} that serves the Master.`
 ` Gold and assets are useless to me."`
 `"My, my, you are a humble person.`
 ` ...That's probably why Kinzo‐san trusts you so much."`
 `"If so, I am honored..."`
-`As Nanjo lightly laughed in response, he once again looked at the epitaph.`
+`As Nanjo lightly laughed in response, he once again looked at the {ruby:çeviri > kitabe:epitaph}.`
 `"......Behold the sweetfish river, running through my beloved home of old.`
-` You who seek the Golden Land, follow its path downstream in search of the key..."`
-`That which is written on the epitaph of the portrait of my beloved witch {f:5:Beatrice} is as follows:`
+` You who seek the {ruby:çeviri > Altın Diyar:Golden Land}, follow its path downstream in search of the key..."`
+`That which is written on the {ruby:çeviri > kitabe:epitaph} of the {ruby:çeviri > portre:portrait} of my beloved witch {f:5:Beatrice} is as follows:`
 `{e:070:Behold the sweetfish river, running through my beloved home of old.`
-`{n}You who seek the Golden Land, follow its path downstream in search of the key.`
+`{n}You who seek the {ruby:çeviri > Altın Diyar:Golden Land}, follow its path downstream in search of the key.`
 `{n}{n}As you travel down it, you will see a village.`
 `{n}In that village, look for the shore the two speak of.`
-`{n}There the key to the Golden Land sleeps.`
-`{n}{n}You who laid hand upon the key must journey as follows to the Golden Land.}`
+`{n}There the key to the {ruby:çeviri > Altın Diyar:Golden Land} sleeps.`
+`{n}{n}You who laid hand upon the key must journey as follows to the {ruby:çeviri > Altın Diyar:Golden Land}.}`
 `{e:070:On the first twilight, sacrifice the six chosen by the key.`
 `{n}On the second twilight, those who remain shall tear apart the two who are close.`
 `{n}On the third twilight, those who remain shall praise my noble name.`
@@ -960,7 +960,7 @@
 `{n}On the ninth twilight, the witch revives, and none shall be left alive.`
 `{n}On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}`
 `{e:070:The witch shall praise the wise, and bestow four treasures.`
-`{n}{n}One shall be all of the Golden Land's gold.`
+`{n}{n}One shall be all of the {ruby:çeviri > Altın Diyar:Golden Land}'s gold.`
 `{n}One resurrects all the dead people's souls.`
 `{n}One even revives all the love they possessed.`
 `{n}And one for the witch to eternally rest.`

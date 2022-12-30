@@ -1,5 +1,5 @@
 `The strange letter that the witch had entrusted Maria with had wiped all memories of dinner from our minds.`
-`Maria had been repeatedly barraged with questions by Auntie Rosa and the other parents,`
+`Maria had been repeatedly barraged with questions by {ruby:çeviri > Hala:Auntie} Rosa and the other parents,`
 ` and was now in the worst of tempers because no one would believe her.`
 ` Even when we kids tried to talk to her, she would just ignore us.`
 `Our parents were all stirred up over the gold, firing back and forth about the distribution of the assets, and completely forgetting that we children were even there.`
@@ -63,11 +63,11 @@
 `Six years ago, I would have further taunted the dejected Jessica,`
 ` ......but even I have grown up over the past six years.`
 `I realized that it would be better to leave Jessica as she was right now...`
-`Jessica suddenly looked away sulkily and left the parlor.`
+`Jessica suddenly looked away sulkily and left the {ruby:çeviri > salon:parlor}.`
 `...She probably wanted to be left alone for now.`
 `{n}I could do nothing but wordlessly watch her back as she left...`
 `"......Come to think of it, I wonder where Maria‐chan went."`
-`"She's probably still huddled up on the floor in front of the portrait."`
+`"She's probably still huddled up on the floor in front of the {ruby:çeviri > portre:portrait}."`
 `Maria, who truly looked up to witches, had expected that coming in direct contact with {f:5:Beatrice}, and receiving the letter as proof,`
 ` would be an event that would surprise everyone and make them happy.`
 `However, the adults had doubted its authenticity, had not taken Maria's story at face value, and had thoroughly bombarded her with questions.`
@@ -76,7 +76,7 @@
 `...In the end, George‐aniki and I just abandoned ourselves to the sound of the falling rain in the dark night...`
 `"I wonder what's happening with that typhoon.`
 ` ......Maybe there's some news."`
-`George‐aniki walked over to the corner of the parlor where the television was.`
+`George‐aniki walked over to the corner of the {ruby:çeviri > salon:parlor} where the television was.`
 `He hadn't called me over, and I really couldn't have cared less where the typhoon was on the sea now.`
 ` So I didn't go over to the television, but instead loitered around the window.`
 `"......The wind hasn't picked up that much here, but I wonder if it's horrible over the sea.`
@@ -150,9 +150,9 @@
 ` And since that time, the weather has become progressively worse, so taking a boat out would be pretty much impossible.`
 ` In that case, that person must still be on the island hiding from the rain somewhere.`
 ` ......And without being spotted by any of us."`
-`".........Certainly, all of us have been randomly prowling around all over the mansion and the guesthouse, but no one has bumped into a 19th person."`
+`".........Certainly, all of us have been randomly prowling around all over the {ruby:çeviri > malikane:mansion} and the {ruby:çeviri > konukevi:guesthouse}, but no one has bumped into a 19th person."`
 `"...Even so, this island is huge.`
-` There might be other places to hide from the rain outside the mansion and the guesthouse."`
+` There might be other places to hide from the rain outside the {ruby:çeviri > malikane:mansion} and the {ruby:çeviri > konukevi:guesthouse}."`
 `At about this time, I began to realize what direction Kyrie‐san's doubts were taking us in.`
 `Kyrie‐san was denying that a 19th person existed.`
 `{n}......{f:5:Beatrice} was one of us 18.`
@@ -160,12 +160,12 @@
 `"If {f:5:Beatrice} really was as she described herself, this person would definitely be the most honored of guests.`
 ` The most honored of confidants, trusted by Grandfather.`
 ` ...There's no way that Grandfather wouldn't give that kind of person a warm reception.`
-` She would surely have been ushered into the mansion.`
+` She would surely have been ushered into the {ruby:çeviri > malikane:mansion}.`
 ` However, we haven't seen anyone."`
 `"Wait a second, isn't this line of reasoning a little too hasty?`
 ` Yes, no one spotted them, but that doesn't mean that you can deny the possibility that a 19th person exists, right?"`
 `"Maybe, for some reason, they landed on the island stealthily and have been hiding ever since.`
-` ......It's what they call the Devil's Proof.`
+` ......It's what they call the {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}.`
 ` It's easy to prove that something exists.`
 ` If this {f:5:Beatrice} appears in front of us all and says hi, then everything is resolved.`
 ` But it's impossible to prove that there is no 19th person."`
@@ -230,14 +230,14 @@
 ` ......But I think that's exactly why it's possible.`
 ` That girl's a dreamer who looks up to and blindly accepts the existence of witches.`
 ` So if a person appeared in front of her and said they were the witch {f:5:Beatrice}, Maria‐chan would be so happy that she would just swallow it up, I think."`
-`".........So you're saying that if someone disguised themselves by wearing that fancy dress from the portrait, tricking Maria wouldn't be that hard?"`
+`".........So you're saying that if someone disguised themselves by wearing that fancy dress from the {ruby:çeviri > portre:portrait}, tricking Maria wouldn't be that hard?"`
 `"Of course, with that reasoning, all of us women would become the primary suspects.`
 ` ......Anyway, who did Maria‐chan encounter...`
 ` Asking her the details of that would be our best and closest key to solving this riddle."`
 `"...But that key has been obstinately closed up inside her heart.`
 ` Everyone denied the existence of the witch without listening to her, and barraged her with too many questions about who {f:5:Beatrice} actually was.`
 ` ......Maria‐chan probably won't open her heart to the adults now."`
-`In the dim hall, in front of the portrait of {f:5:Beatrice}, ......Maria was sobbing.`
+`In the dim hall, in front of the {ruby:çeviri > portre:portrait} of {f:5:Beatrice}, ......Maria was sobbing.`
 `"......Uu...`
 ` Uu.`
 ` ...No one believes I met you!`
@@ -255,7 +255,7 @@
 `"Battler‐kun, I think there's a higher probability of a kid like you cheering her up than an adult like me.`
 ` ...After she feels better, try asking her."`
 `"......I know you don't care about all this back and forth on the distribution of the inheritance,`
-` but don't you think this classic Western mansion mystery situation is exciting?`
+` but don't you think this classic Western {ruby:çeviri > malikane:mansion} mystery situation is exciting?`
 ` Who in the world is this person who gave Maria‐chan the letter?`
 ` ......It makes my intellectual curiosity tingle."`
 `"Even while being made to sit through those boring money talks, you can call this exciting? You really are tough...`
@@ -282,8 +282,8 @@
 `His way of talking hadn't changed, but he couldn't completely hide his fatigue.`
 `...I couldn't say I was sympathetic, but he looked pitiful compared to his normal, energetic self.`
 `"Still, that rain's just awful.`
-` I really don't want to go back to the guesthouse.`
-` It looks like Natsuhi nee‐san made preparations for us to spend the night here in the mansion.`
+` I really don't want to go back to the {ruby:çeviri > konukevi:guesthouse}.`
+` It looks like Natsuhi nee‐san made preparations for us to spend the night here in the {ruby:çeviri > malikane:mansion}.`
 ` What'll we do?"`
 `"......We don't need to think about that until you're done, right?`
 ` If you run out of enough energy to head back to our room, then we can let them take care of us."`
@@ -372,7 +372,7 @@
 ` Th‐that's ridiculous."`
 `"Heheheh, can great detectives deduce the emotions and feelings between men and women?`
 ` They can't, right?`
-` Figuring out the feelings of the opposite sex is an even more advanced art than exposing the tricks in difficult crime cases.`
+` Figuring out the feelings of the opposite sex is an even more advanced art than exposing the {ruby:çeviri > numaralar:tricks} in difficult crime cases.`
 ` If you ask me, romance novels have much deeper mysteries than masterpiece mystery novels."`
 `"I, ...I see.`
 ` Is that how it is......"`
@@ -395,7 +395,7 @@
 `Natsuhi could be found in the dimly lit hallway.`
 `{n}Now and then, the thunder would crash, but this had no effect on Natsuhi's expression.`
 `......Her expression was completely worn out.`
-`The discussion that had just taken place between the relatives in the dining hall was repeating itself inside Natsuhi's mind...`
+`The discussion that had just taken place between the relatives in the {ruby:çeviri > yemek salonu:dining hall} was repeating itself inside Natsuhi's mind...`
 `{f:5:Beatrice} had proclaimed that in addition to the gold, the headship and all of the assets of the Ushiromiya family would be given to the person who could solve the riddle.`
 `...In other words, she planned to undermine the absolute guarantee that Krauss, as the oldest brother, had to succeed the family head.`
 `Originally, the other siblings had absolutely no chance to succeed the head.`
@@ -406,15 +406,15 @@
 `The proof was that Kinzo remained stubbornly neutral as to that letter's authenticity.`
 `......He was completely ignoring these reckless claims that he shouldn't be able to ignore: that he had given up the Head's Ring.`
 `............In short, Kinzo had wordlessly admitted that the letter held his own message.`
-`Most likely, one of the servants had given Maria the letter.`
-`Kinzo had probably worked out an elaborate plan where the dress from the portrait would be prepared,`
+`Most likely, one of the {ruby:çeviri > hizmetkarlar:servants} had given Maria the letter.`
+`Kinzo had probably worked out an elaborate plan where the dress from the {ruby:çeviri > portre:portrait} would be prepared,`
 ` ......and someone, probably Shannon, would be made to wear it and deliver the letter and the umbrella.`
-`By doing that, he could make it seem like the witch from the portrait actually existed.`
+`By doing that, he could make it seem like the witch from the {ruby:çeviri > portre:portrait} actually existed.`
 `...No, if anything, that is why you could be certain that Kinzo was behind all of this.`
 `In that case, ......it was just as if Kinzo had butted in on the siblings' private discussion.`
 `And, by announcing that he would give everything to the person who could solve the riddle, Kinzo had weakened Krauss's overwhelming advantage.`
 `.........Now it was certain.`
-`{n}Kinzo had listened in on the siblings' discussion in the parlor earlier that day.`
+`{n}Kinzo had listened in on the siblings' discussion in the {ruby:çeviri > salon:parlor} earlier that day.`
 `So he had known how Krauss had staved off the attack by the other three,`
 ` and to make the scales of the battle go back into balance, he had sent out this strange letter which benefited the other three.`
 `Eva and Rudolf had dragged Rosa in, who had a weak position among the siblings because of her age,`
@@ -655,7 +655,7 @@
 `She was poking around in her pocket when her hand touched something, and she took it out.`
 `"Um, hey, Mom!`
 ` I, uh, was given a charm today.`
-` What was it, a charm against magic?"`
+` What was it, a charm against {ruby:çeviri > büyü:magic}?"`
 `"Umm, err...... I'm pretty sure that...you were supposed to hang it from your doorknob, was it?`
 ` Ahahaha... I forget...`
 ` There's no reason for me to have it, so......`
@@ -683,51 +683,51 @@
 `{n}......She then disappeared into the dark hall...`
 `"...It looks like the weather will be like this all day tomorrow after all."`
 `"Damn... It's hard to believe it was dry out earlier."`
-`George‐aniki and I were killing time in front of the parlor television.`
+`George‐aniki and I were killing time in front of the {ruby:çeviri > salon:parlor} television.`
 `At that point, Jessica returned.`
 `{n}Her face was still blank, but it looked like she had calmed down a little since she had left.`
-`"......Is Maria still in front of the portrait?"`
+`"......Is Maria still in front of the {ruby:çeviri > portre:portrait}?"`
 `"Nope.`
 ` She just came back, and she's sleeping over there on the sofa.`
 ` It is getting pretty late for her."`
 `Looking at the clock, it was a little past 10 p.m.`
 `{n}...Even if we were going to stay up all night, it was about time to head back to our room.`
-`"My mom did prepare a room for us in the mansion, but...`
+`"My mom did prepare a room for us in the {ruby:çeviri > malikane:mansion}, but...`
 `...what d'you wanna do?"`
-`"I think I'd rather head back to the guesthouse.`
-` ......Judging by our parents' appearance, I think it would be better if we weren't in the mansion."`
+`"I think I'd rather head back to the {ruby:çeviri > konukevi:guesthouse}.`
+` ......Judging by our parents' appearance, I think it would be better if we weren't in the {ruby:çeviri > malikane:mansion}."`
 `"Second that.`
 ` Feels like they're telling us kids to mind our own business and stay out of their way.`
 ` Let's do that, like good little boys and girls."`
-`After we discussed that, Auntie Rosa came into the parlor.`
+`After we discussed that, {ruby:çeviri > Hala:Auntie} Rosa came into the {ruby:çeviri > salon:parlor}.`
 `She was looking all over restlessly, probably trying to find Maria.`
-`"Auntie Rosa, if you're looking for Maria, she's over there on the sofa."`
+`"{ruby:çeviri > Hala:Auntie} Rosa, if you're looking for Maria, she's over there on the sofa."`
 `"Thank you.`
 ` My, she's out cold.`
 ` ......We must move her to a bed."`
 `"If you would like me to, I can carry her to a bed."`
 `"Thank you, that would be wonderful.`
-` .........Will all of you return to the guesthouse?`
+` .........Will all of you return to the {ruby:çeviri > konukevi:guesthouse}?`
 ` Or will you stay in the room Natsuhi nee‐san had prepared?"`
 `"We were just talking about that.`
-` We just decided to head over to the guesthouse."`
+` We just decided to head over to the {ruby:çeviri > konukevi:guesthouse}."`
 `"Really.`
 ` Then I wonder if you wouldn't mind taking Maria with you.`
 ` ...I think it will be much more comforting for her if she's with all of her cousins."`
 `It seemed that, in the shadow behind those words, there was some regret that the adults, herself included, had deeply hurt Maria's feelings...`
-`"Leave it to us, Auntie.`
+`"Leave it to us, {ruby:çeviri > Hala:Auntie}.`
 ` After all, we do have an expert at comforting Maria with us!"`
 `"A‐are you talking about me?`
 ` I couldn't do it by myself.`
 ` We'll need everyone together."`
 `"That's right.`
 ` Battler, weren't you the one who hit it off with Maria when you were messing around earlier?"`
-`As we said this, Auntie Rosa smiled, looking truly happy.`
+`As we said this, {ruby:çeviri > Hala:Auntie} Rosa smiled, looking truly happy.`
 `"Thank you, everyone.`
 ` ......It looks like our meeting will last until very late.`
 ` So, I'm sorry for the burden, but I'll have to leave Maria in your hands."`
 `"Hey, Maria, are you awake...?`
-` We're going back to the guesthouse~."`
+` We're going back to the {ruby:çeviri > konukevi:guesthouse}~."`
 `Maria muttered something indistinct as if answering, but then rolled over and fell back asleep.`
 `......It looked like she was sleeping deeply.`
 `"She's really out cold.`
@@ -736,12 +736,12 @@
 `Maria's body was much lighter than it looked.`
 `{n}George‐aniki picked her up and pulled her over his back.`
 `It was raining hard outside, and Aniki couldn't hold an umbrella and carry Maria at the same time.`
-`It looked like Auntie Rosa would come with us as far as the guesthouse to help out.`
+`It looked like {ruby:çeviri > Hala:Auntie} Rosa would come with us as far as the {ruby:çeviri > konukevi:guesthouse} to help out.`
 `However, when she heard Uncle Krauss's voice call out to her, she had no choice but to return.`
 `"......Oh dear.`
 ` I have to go back."`
-`".........Is everyone returning to the guesthouse?"`
-`After we left the hall on the way to the entrance, the door to the servant room opened and Shannon‐chan stepped out.`
+`".........Is everyone returning to the {ruby:çeviri > konukevi:guesthouse}?"`
+`After we left the hall on the way to the entrance, the door to the {ruby:çeviri > hizmetkar:servant} room opened and Shannon‐chan stepped out.`
 `"It has become very dark, so allow me to guide you."`
 `"Perfect timing, Shannon‐chan.`
 ` George‐kun is going to carry Maria there.`
@@ -749,7 +749,7 @@
 `"Yes, certainly."`
 `Shannon‐chan brought umbrellas for each of us and a flashlight to guide the way.`
 `As we opened the front door, the downpour was quite terrific.`
-`It looked like we wouldn't have any spare time to take a pleasant walk and enjoy the nighttime rose garden...`
+`It looked like we wouldn't have any spare time to take a pleasant walk and enjoy the nighttime {ruby:çeviri > gül bahçesi:rose garden}...`
 `"Aniki, is she too heavy?`
 ` Want me to carry her?"`
 `"It's alright.`
@@ -757,20 +757,20 @@
 `"......I'm truly grateful.`
 ` Please take care of Maria."`
 `"Right, we understand.`
-` In that case, goodnight, Auntie."`
+` In that case, goodnight, {ruby:çeviri > Hala:Auntie}."`
 `"Then I will see them over there and return here."`
 `"Yes, please..."`
-`Auntie Rosa saw us off.`
+`{ruby:çeviri > Hala:Auntie} Rosa saw us off.`
 `".........Maria.`
 ` ......I'm sorry for everything..."`
 `Rosa's mumbling voice didn't reach the person in question, nor anyone else, but disappeared beneath the sound of the rain...`
-`After cutting through the rainy rose garden, we arrived at the guesthouse.`
+`After cutting through the rainy {ruby:çeviri > gül bahçesi:rose garden}, we arrived at the {ruby:çeviri > konukevi:guesthouse}.`
 `"Ahh, if only I'd applied for the position of Maria‐carrier!`
 ` Then I'd have gotten to rub Shannon‐chan's huge chest all over with my arm as she held the umbrella over me!"`
 `"Th‐th‐th‐that's not on purpose, it's a misunderstanding...!"`
 `"I, I thought that if I didn't, George‐sama would get all wet........."`
 `"C'mon, quit babbling and go in!"`
-`After being nudged by Jessica, Shannon folded up her umbrella and went into the guesthouse.`
+`After being nudged by Jessica, Shannon folded up her umbrella and went into the {ruby:çeviri > konukevi:guesthouse}.`
 `"Has anyone gotten their clothes wet?`
 ` I can bring some towels if you would like..."`
 `"You don't need to worry about us that much.`
@@ -781,11 +781,11 @@
 ` Who had the night shift on today's schedule?"`
 `"I believe there is a special schedule for the duration of the family conference.`
 ` I think there were a few changes, so I will go and check......"`
-`"Wait, if you have to go all the way back to the mansion to find out, you don't have to force yourself—"`
+`"Wait, if you have to go all the way back to the {ruby:çeviri > malikane:mansion} to find out, you don't have to force yourself—"`
 `"Ah, it's alright.`
-` I can find out from the servant room in the guesthouse.`
+` I can find out from the {ruby:çeviri > hizmetkar:servant} room in the {ruby:çeviri > konukevi:guesthouse}.`
 ` ......Please excuse me for a short while."`
-`Shannon‐chan gave a quick bow and went into the guesthouse servant room.`
+`Shannon‐chan gave a quick bow and went into the {ruby:çeviri > konukevi:guesthouse} {ruby:çeviri > hizmetkar:servant} room.`
 `The rest of us headed for the cousins' room and put Maria in the bed for the time being.`
 `Maria was sleeping very deeply, and there was absolutely no sign of her eyes opening...`
 `We got some drinks out of the room's refrigerator, and spent some time playing cards while drinking...`
@@ -796,22 +796,22 @@
 `"............Krauss‐sama has given an order.`
 ` There have been modifications made to most of the schedule."`
 `"......Indeed.`
-` Gohda has been changed to the night shift at the mansion.`
-` You and Kanon have the night shift in the guesthouse.`
-` Kumasawa‐san and I have been ordered to spend the night in the guesthouse...`
+` Gohda has been changed to the night shift at the {ruby:çeviri > malikane:mansion}.`
+` You and Kanon have the night shift in the {ruby:çeviri > konukevi:guesthouse}.`
+` Kumasawa‐san and I have been ordered to spend the night in the {ruby:çeviri > konukevi:guesthouse}...`
 ` We just now had a phone call stating that you are to remain here as well."`
 `"Huh...?`
 ` Th‐that's quite a large modification...`
-` The shifts at the guesthouse and the mansion have been completely reversed, haven't they...?"`
-`Originally, Shannon and Kanon had been given the night shift in the mansion, while the night shift in the guesthouse, where all of the relatives were staying, had been assigned to Gohda, who had an abundance of experience in entertaining.`
-`Kumasawa had been scheduled to stay in the guesthouse, while Genji had been scheduled to stay in the mansion.`
+` The shifts at the {ruby:çeviri > konukevi:guesthouse} and the {ruby:çeviri > malikane:mansion} have been completely reversed, haven't they...?"`
+`Originally, Shannon and Kanon had been given the night shift in the {ruby:çeviri > malikane:mansion}, while the night shift in the {ruby:çeviri > konukevi:guesthouse}, where all of the relatives were staying, had been assigned to Gohda, who had an abundance of experience in entertaining.`
+`Kumasawa had been scheduled to stay in the {ruby:çeviri > konukevi:guesthouse}, while Genji had been scheduled to stay in the {ruby:çeviri > malikane:mansion}.`
 `However, it seemed that Krauss had suddenly ordered that the schedule be modified.`
-`......The shifts at the guesthouse and the mansion had all been reversed, and Genji was spending the night in the guesthouse.`
+`......The shifts at the {ruby:çeviri > konukevi:guesthouse} and the {ruby:çeviri > malikane:mansion} had all been reversed, and Genji was spending the night in the {ruby:çeviri > konukevi:guesthouse}.`
 `"............It's probably because of {f:5:Beatrice}‐sama's letter."`
 `"Probably? ......Why?"`
 `".........When such a mysterious letter appeared, it was only natural that Krauss‐sama would suspect one of us.`
 ` .........We serve directly under the Master, so Krauss‐sama probably wanted to keep us as far away from the family conference as possible."`
-`Genji, Shannon, and Kanon were all permitted to wear the Ushiromiya family crest, the "One‐winged Eagle", as the servants who served directly under Kinzo.`
+`Genji, Shannon, and Kanon were all permitted to wear the Ushiromiya family crest, the "One‐winged Eagle", as the {ruby:çeviri > hizmetkarlar:servants} who served directly under Kinzo.`
 `Of course, since they were working for the Ushiromiya family, they had to obey anyone's orders, but their only boss was Kinzo.`
 `Since only Kinzo held the right to employ them, even Krauss could not have them dismissed of his own accord.`
 `Because of this, they were often viewed by Krauss and the others as Kinzo's underlings, and shunned.`
@@ -827,14 +827,14 @@
 `Genji nodded back, went behind a screen, took off his jacket, and slowly began to relax after a day's worth of tension...`
 `".........The ones who just returned now, were they the children...?"`
 `"Yes.`
-` The other relatives are having a conference in the mansion.`
+` The other relatives are having a conference in the {ruby:çeviri > malikane:mansion}.`
 ` It looked like it would drag on until much later..."`
 `"......That would be comfortable.`
 ` It's already this late, and there's this weather.`
-` Probably, the rest of the relatives will spend the night in their rooms in the mansion."`
+` Probably, the rest of the relatives will spend the night in their rooms in the {ruby:çeviri > malikane:mansion}."`
 `"Yes, probably...`
 ` I'm only saying this because Genji‐sama isn't around, but...`
-`...I'm a little happy I was sent to the guesthouse......I think..."`
+`...I'm a little happy I was sent to the {ruby:çeviri > konukevi:guesthouse}......I think..."`
 `"Oh...?`
 ` Why's that?`
 ` Because you were able to distance yourself from the bullying of Madam and Eva‐sama?`
@@ -851,7 +851,7 @@
 `It looked like he didn't plan on indulging his "sister".`
 `"............You can't.`
 ` You were assigned the night shift.`
-` ...And besides that, it is not necessary for furniture like us to respond to an invitation to play.`
+` ...And besides that, it is not necessary for {ruby:çeviri > mobilya:furniture} like us to respond to an invitation to play.`
 ` ...You understand, right?"`
 `"Y‐...yes, I do understand.`
 ` ..................nn."`
@@ -863,7 +863,7 @@
 ` ......Off you go, then."`
 `"Huh.........ah, yes!`
 ` I'll just go apologize..."`
-`Shannon hurriedly stood from her seat before her brother's mood could change, gave a quick bow, and flew out of the servant room...`
+`Shannon hurriedly stood from her seat before her brother's mood could change, gave a quick bow, and flew out of the {ruby:çeviri > hizmetkar:servant} room...`
 `As he watched her disappear, Kanon took a single deep breath...`
 `Genji's voice came from beyond the screen.`
 `"......Kanon.`
@@ -877,10 +877,10 @@
 `".......................................`
 ` ......No, that's not something that I need to do.`
 ` ......A human child may have a need to play.`
-` ......But we......are furniture."`
+` ......But we......are {ruby:çeviri > mobilya:furniture}."`
 `".....................Is that so."`
 `".........Nee‐san is also...`
-`furniture.`
+`{ruby:çeviri > mobilya:furniture}.`
 ` .........Even if she pretends to be a person,`
 ` ...it will only hurt her later.`
 ` ...I understand that, so I try not to get too close to people."`
@@ -896,8 +896,8 @@
 `"No, but, yeah...now that you've said that...they really did have that kind of atmosphere, didn't they...`
 ` ......Haa, now I see, that George‐aniki..."`
 `George could not be seen anywhere in the room.`
-`{n}A short while ago, when Shannon had come into the room, George had suddenly said that he had forgotten something in the mansion and needed to go back and get it.`
-`Shannon had said she would guide him, just like she had on the way to the guesthouse, and the two of them had departed together.`
+`{n}A short while ago, when Shannon had come into the room, George had suddenly said that he had forgotten something in the {ruby:çeviri > malikane:mansion} and needed to go back and get it.`
+`Shannon had said she would guide him, just like she had on the way to the {ruby:çeviri > konukevi:guesthouse}, and the two of them had departed together.`
 `"......They've been showing signs of it for a long time, you know?`
 ` Asking what the other person liked, asking what their hobbies were.`
 ` I always knew it was too much to just be a passing interest!"`
@@ -950,7 +950,7 @@
 `Shannon had no parents.`
 `{n}She had been brought up in a welfare institute owned by Kinzo called the Gospel House.`
 `Under the guidance of the honorary director, Kinzo, the Gospel House offered excellent students a chance to live a life of service.`
-`If they were accepted, they would be able to leave the institute and work as servants for the Ushiromiya family.`
+`If they were accepted, they would be able to leave the institute and work as {ruby:çeviri > hizmetkarlar:servants} for the Ushiromiya family.`
 `...This was considered to be the highest honor for a student.`
 `Servants from the Gospel ({ruby:Fukuin:{p:0:福音}}) House all took names with the character "{ruby:in/on/non:{p:0:音}}" in them while they served.`
 `So "Shannon" ({p:0:紗音}) wasn't her real name.`
@@ -959,18 +959,18 @@
 `{n}Or, failing that, people who had been disowned by their parents through some special circumstances.`
 `......Because of this, the students had been taught to think of each other as their only family.`
 `That's why it seemed so natural to Kanon to call Shannon his sister.`
-`And while only Shannon and Kanon were working today in the mansion,`
-` there were other servants who worked in the shift rotation, named Manon ({p:0:眞音}) and Lenon ({p:0:恋音}), who also inherited the "{p:0:音}" character in their names.`
-`...However, there were not many servants who stayed with the Ushiromiya family for long.`
+`And while only Shannon and Kanon were working today in the {ruby:çeviri > malikane:mansion},`
+` there were other {ruby:çeviri > hizmetkarlar:servants} who worked in the shift rotation, named Manon ({p:0:眞音}) and Lenon ({p:0:恋音}), who also inherited the "{p:0:音}" character in their names.`
+`...However, there were not many {ruby:çeviri > hizmetkarlar:servants} who stayed with the Ushiromiya family for long.`
 `It was standard for them to quit after three years.`
 `So you could probably say that Shannon, who had been working for over ten years, was a very rare exception to the rule.`
-`Working as a servant for the Ushiromiya family was a heavy burden to bear, but the pay wasn't bad at all.`
+`Working as a {ruby:çeviri > hizmetkar:servant} for the Ushiromiya family was a heavy burden to bear, but the pay wasn't bad at all.`
 `Working for a full three years would earn more than what was needed to enter mainstream society.`
 `That was why, even though the students realized what a harsh task working for the Ushiromiya family was, they still hoped to be accepted.`
-`But in Shannon's case, maybe the fact that she had managed to continue for more than ten years should not be viewed as her having more willpower than any of the other servants.`
+`But in Shannon's case, maybe the fact that she had managed to continue for more than ten years should not be viewed as her having more willpower than any of the other {ruby:çeviri > hizmetkarlar:servants}.`
 `Maybe it was a lack of courage to say that she wanted to quit, that forced her to continue working for those ten years.`
-`To Kinzo, who could not even trust his own blood relatives, those "excellent" servants sent from the Gospel House were the only ones he could trust.`
-`Because of that, Kinzo would sometimes allow them to wear the family crest as servants under his direct control, and have them work close to him...`
+`To Kinzo, who could not even trust his own blood relatives, those "excellent" {ruby:çeviri > hizmetkarlar:servants} sent from the Gospel House were the only ones he could trust.`
+`Because of that, Kinzo would sometimes allow them to wear the family crest as {ruby:çeviri > hizmetkarlar:servants} under his direct control, and have them work close to him...`
 `"......Err, ......um, you've already been working here about ten years, was it?`
 ` You must have saved up a lot of money by now, right?"`
 `"I don't know, really...`
@@ -978,9 +978,9 @@
 ` And just because you have a few million yen doesn't mean you have enough to live the rest of your life with..."`
 `"So you haven't been working here trying to reach a target sum?"`
 `".........N‐...no, I haven't.`
-` ......I have nowhere to go outside of this mansion.`
-` ......I have been getting along well with Milady and the other young servants, too...`
-` ......I am sometimes scolded by Madam, but, ......caring for the rose garden and cleaning the mansion is fun..."`
+` ......I have nowhere to go outside of this {ruby:çeviri > malikane:mansion}.`
+` ......I have been getting along well with {ruby:çeviri > Leydim:Milady} and the other young {ruby:çeviri > hizmetkarlar:servants}, too...`
+` ......I am sometimes scolded by Madam, but, ......caring for the {ruby:çeviri > gül bahçesi:rose garden} and cleaning the {ruby:çeviri > malikane:mansion} is fun..."`
 `"But that isn't {i:your} life,`
 ` ......Sayo ({p:0:紗代})‐chan."`
 `".........Umm..."`
@@ -1016,7 +1016,7 @@
 `"Didn't you promise not to use "sama" when the two of us are alone...?"`
 `".........I, ......I can't obey that as a promise.`
 ` .........But, if it was an order, I would have to obey it...`
-` Because I'm............furniture."`
+` Because I'm............{ruby:çeviri > mobilya:furniture}."`
 `"Then it's an order."`
 `"Err,`
 ` ...............yes.`
@@ -1091,14 +1091,14 @@
 `Shannon nodded back.`
 `......Today was the culmination of their long relationship.`
 `{n}...This moment had not come as any surprise to Shannon...`
-`".........We should be getting back to the guesthouse soon.`
+`".........We should be getting back to the {ruby:çeviri > konukevi:guesthouse} soon.`
 ` If we take any longer, we'll make everyone worry about us."`
 `"......Ah,`
 ` ......err...`
 ` ...I'm sorry, I...!`
-` Um, I just remembered something I had to do in the mansion, so,`
+` Um, I just remembered something I had to do in the {ruby:çeviri > malikane:mansion}, so,`
 ` ...um,`
-` ......I have to go back to the mansion..."`
+` ......I have to go back to the {ruby:çeviri > malikane:mansion}..."`
 `"Something this late?`
 ` .........Really?"`
 `George stared into Shannon's face as he laughed mischievously.`

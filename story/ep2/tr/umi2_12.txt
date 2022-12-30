@@ -1,8 +1,8 @@
-`...Rosa and the rest returned from the chapel to the parlor in the mansion.`
+`...Rosa and the rest returned from the {ruby:çeviri > kilise:chapel} to the {ruby:çeviri > salon:parlor} in the {ruby:çeviri > malikane:mansion}.`
 `{n}Such a horrific thing had happened so early in the morning.`
 `{n}Of course they were high‐strung...`
 `Battler and George—who had cried, raged, and let their emotions explode after seeing their parents' tragic bodies—`
-`returned to the parlor, sat on the sofas, and let their minds go blank, as though everything up until then had been a lie...`
+`returned to the {ruby:çeviri > salon:parlor}, sat on the sofas, and let their minds go blank, as though everything up until then had been a lie...`
 `Only Maria was completely unchanged, and looked just like normal.`
 `......When she wasn't being mischievous, she was basically a kid who played wordlessly by herself,`
 ` so even if her mind was blank, she would probably look as she did.`
@@ -44,7 +44,7 @@
 `Genji and Shannon, who she had sent to see Kinzo, hadn't returned yet.`
 `...She had a general guess.`
 ` He was probably yelling about something nonsensical again, and they were unable to calm him.`
-`...His important chapel had been defiled with blood.`
+`...His important {ruby:çeviri > kilise:chapel} had been defiled with blood.`
 `{n}That was easy to imagine.`
 `She had planned on using the extension phone to call the study, but with the telephone line dead, there was nothing else for it.`
 `Rosa decided to go to the study directly, with her own two feet.`
@@ -62,7 +62,7 @@
 ` I shall make them something warm to drink."`
 `"Thank you."`
 `Rosa went out into the hallway, and headed towards Kinzo's study.`
-`The atmosphere in this mansion, which she had spent her younger days in and should have been full of memories, seemed somehow different...`
+`The atmosphere in this {ruby:çeviri > malikane:mansion}, which she had spent her younger days in and should have been full of memories, seemed somehow different...`
 `And she began to climb the stairs in the entrance hall...`
 `......Just then.`
 ` In the gloom down the stairs behind Rosa, ...something glowed.`
@@ -78,7 +78,7 @@
 `".........Wellll then, in what way should I entertain myself next?`
 ` ...There are still many, many pieces left.`
 ` ...*cackle*cackle*cackle*cackle*...!"`
-`In the parlor, which had returned to silence, the only sound was that of the TV, which Maria was watching alone.`
+`In the {ruby:çeviri > salon:parlor}, which had returned to silence, the only sound was that of the TV, which Maria was watching alone.`
 `If there was anything audible other than that, it was the sound of the rain which had continued on and on since last night.`
 `Every one of those people who had viewed that unearthly and horrible scene stayed silent, as though praying that the events of this morning were all a dream.`
 `Only Kumasawa hadn't seen it, and so acted slightly differently.`
@@ -99,14 +99,14 @@
 ` Oh yes, yes, it seems that it's near Halloween—there were some delicious‐looking pumpkin‐shaped cookies on the shelf..."`
 `"......Ah, Kumasawa‐san, that's........."`
 `Of course, she had said the wrong thing.`
-` ...Because she had reminded Battler and the rest about that horrible and tragic Halloween party in the chapel...`
+` ...Because she had reminded Battler and the rest about that horrible and tragic Halloween party in the {ruby:çeviri > kilise:chapel}...`
 `Nanjo hurriedly whispered into Kumasawa's ear.`
 `".........................................."`
 `"......Battler‐san, I am truly sorry!`
 ` ...I didn't mean anything bad, gracious, no..."`
 `"No, don't worry about it.`
-` .........I'll definitely turn this boiling anger back on the culprit."`
-`".........I wonder if that culprit is still on the island."`
+` .........I'll definitely turn this boiling anger back on the {ruby:çeviri > suçlu:culprit}."`
+`".........I wonder if that {ruby:çeviri > suçlu:culprit} is still on the island."`
 `"Probably.`
 ` After all, there's not gonna be a boat coming until the typhoon passes."`
 `"Ye‐...yes, my goodness!`
@@ -115,48 +115,48 @@
 `"......It creeps me out."`
 `"You think so too, Aniki?`
 ` Me too.`
-` .........Regardless of whether the culprit was that mystery guest or not."`
+` .........Regardless of whether the {ruby:çeviri > suçlu:culprit} was that mystery guest or not."`
 `"That's right.`
 ` ......We are naturally suspecting the mysterious guest who calls herself {f:5:Beatrice},`
-` but we still cannot be sure that she is the culprit.`
+` but we still cannot be sure that she is the {ruby:çeviri > suçlu:culprit}.`
 ` ...There is still the possibility she's a {i:victim whose corpse still hasn't been found}."`
 `"......When I think of it that way, there's something I just can't understand."`
 `"What do you......mean by that......?"`
 `"It's simple.`
 ` It's just like Kumasawa baa‐chan said a short while ago.`
 ` Right now, this island is right in the midst of the typhoon, and escape is impossible.`
-` The same thing goes for the culprit.`
-` .........In that case, having the crime come to light should have been the thing that the culprit most wanted to avoid."`
+` The same thing goes for the {ruby:çeviri > suçlu:culprit}.`
+` .........In that case, having the crime come to light should have been the thing that the {ruby:çeviri > suçlu:culprit} most wanted to avoid."`
 `"......That's right.`
-` ...There was no need to draw that creepy magic circle on the entrance to the chapel, and show off the fact that the corpses were there."`
+` ...There was no need to draw that creepy {ruby:çeviri > büyü:magic} circle on the entrance to the {ruby:çeviri > kilise:chapel}, and show off the fact that the corpses were there."`
 `"Right, exactly that.`
 ` Furthermore, if they were able to take the time and effort to do something so horrible to those six,`
 ` ......it should have been equally possible for them to hide the six corpses where they would be impossible to find."`
 `"I agree. That brutal Halloween party probably wasn't directed at those who died.`
 ` ......It was directed at the people who would eventually discover it: us.`
-` You could probably claim that the magic circle was there to show it to us."`
-`"...The culprit knew that they wouldn't be able to get away from this island for a while.`
+` You could probably claim that the {ruby:çeviri > büyü:magic} circle was there to show it to us."`
+`"...The {ruby:çeviri > suçlu:culprit} knew that they wouldn't be able to get away from this island for a while.`
 ` ......And yet, they acted as though they wanted to make us find the corpses in the middle of this typhoon."`
 `"......What...does this mean?`
-` ...If I was the culprit, I definitely wouldn't play around and make us find the corpses."`
+` ...If I was the {ruby:çeviri > suçlu:culprit}, I definitely wouldn't play around and make us find the corpses."`
 `"............{f:5:Beatrice}‐sama was not in her room.`
 ` ...The room did not seem particularly disturbed.`
-` ......Ah, no, Milady did disturb it quite a lot though..."`
+` ......Ah, no, {ruby:çeviri > Leydim:Milady} did disturb it quite a lot though..."`
 `"...Come to think of it, what happened to Jessica?"`
 `"Kanon‐san is looking after her.`
-` ...They are probably in Milady's room."`
+` ...They are probably in {ruby:çeviri > Leydim:Milady}'s room."`
 `"............That isn't good.`
-` ...The culprit is definitely still on the island.`
+` ...The {ruby:çeviri > suçlu:culprit} is definitely still on the island.`
 ` ......In this situation, I don't believe it's a very good idea to isolate ourselves in small numbers."`
 `"Wh‐what do you mean by that...?`
-` Y‐y‐you don't mean to say that the culprit plans to kill all of us...?!`
+` Y‐y‐you don't mean to say that the {ruby:çeviri > suçlu:culprit} plans to kill all of us...?!`
 ` Awawa{0}wa{0}wa{0}wa{0}wawawa..."`
 `"Let us remain calm...`
 ` That is not yet certain..."`
 `"But we can't deny the possibility, much to my chagrin. Ihihi."`
-`"......This letter was in the chapel.`
-` According to this, the culprit is the witch,`
-` and if we don't solve the riddle of Grandfather's epitaph and find the gold, she'll massacre the whole family...or something like that."`
+`"......This letter was in the {ruby:çeviri > kilise:chapel}.`
+` According to this, the {ruby:çeviri > suçlu:culprit} is the witch,`
+` and if we don't solve the riddle of Grandfather's {ruby:çeviri > kitabe:epitaph} and find the gold, she'll massacre the whole family...or something like that."`
 `"Is that true...!`
 ` Umm, would you allow me to read it as well...?"`
 `"Hii...{0}hi...{0}hi...{0}hieee{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}eeee...{0}eeee{0}e{0}e{0}eeee...{0}hh..."`
@@ -175,7 +175,7 @@
 ` I would think that there were very few people who believed it before then."`
 `"...Really? I wonder if that's why.`
 ` Do you remember?`
-` On the table in the chapel.`
+` On the table in the {ruby:çeviri > kilise:chapel}.`
 ` ...There were three gold ingots.`
 ` That alone is worth quite a lot.`
 ` Couldn't that truly prove that the Legend of the Gold was real?"`
@@ -203,7 +203,7 @@
 `"Might we not think of it this way?`
 ` Maybe the other people in the family each found one, and they each brought one of them there..."`
 `"No, I cannot believe that.`
-` When all of the relatives came to the mansion, I was entrusted with their luggage.`
+` When all of the relatives came to the {ruby:çeviri > malikane:mansion}, I was entrusted with their luggage.`
 ` I did not feel any suspicious weight back then."`
 `"......I think they weighed about ten kilograms.`
 ` If that much weight was in their bags, even I would notice.`
@@ -211,26 +211,26 @@
 `"Same here.`
 ` At the most, there were some changes of clothes, medicine, Kyrie‐san's makeup.`
 ` That's about it, I think.`
-` Auntie Rosa's luggage also looked pretty light."`
+` {ruby:çeviri > Hala:Auntie} Rosa's luggage also looked pretty light."`
 `"......In that case, those three piled up gold bars were being shown to them, ...or maybe us.`
 ` ......Telling us that the Legend of the Gold is definitely real.`
 ` That it isn't a fantasy.`
 ` And challenging us to uncover it."`
-`"Could there be a scheme...to have us solve the epitaph which points to the hidden location, and then try to snatch it away?"`
+`"Could there be a scheme...to have us solve the {ruby:çeviri > kitabe:epitaph} which points to the hidden location, and then try to snatch it away?"`
 `"............That does fit best.`
 ` ...But there are a few parts that don't make sense.`
-` First, our parents, who should have been the most likely to be able to solve the epitaph, were killed first.`
+` First, our parents, who should have been the most likely to be able to solve the {ruby:çeviri > kitabe:epitaph}, were killed first.`
 ` I think that creates an immediate contradiction."`
 `".........And something else makes even less sense.`
 ` ......They're trying to say that the Legend of the Gold is actually true,`
 ` {i:but how could they prepare that gold}?`
-` ......It's almost like the culprit has already found the gold,`
+` ......It's almost like the {ruby:çeviri > suçlu:culprit} has already found the gold,`
 ` and is telling us to try and find it too."`
-`"Maybe the culprit obtained those three like Uncle Krauss and thereby became certain about the Legend of the Gold,`
+`"Maybe the {ruby:çeviri > suçlu:culprit} obtained those three like Uncle Krauss and thereby became certain about the Legend of the Gold,`
 ` and is trying to make us search for the rest... I think that way is the most convincing."`
 `"...........................`
 ` ......The pieces on the chessboard aren't lining up at all.`
-` ............We don't have a clue what the culprit is planning, what they want, what they want to make us do.`
+` ............We don't have a clue what the {ruby:çeviri > suçlu:culprit} is planning, what they want, what they want to make us do.`
 ` ............Is it pointless?`
 ` Thinking about anything, at this point in time.`
 ` ..........................."`
@@ -242,12 +242,12 @@
 `...I'd thought she'd been concentrating on the TV, but she'd been listening in too, apparently.`
 `As she remained facing the TV, ...she very simply told us what we were forgetting.`
 `"{f:5:Beatrice} hasn't said one word about wanting the gold.`
-` ......She's not asked anything except whether you can solve the epitaph's riddle or not."`
+` ......She's not asked anything except whether you can solve the {ruby:çeviri > kitabe:epitaph}'s riddle or not."`
 `"...Although I bet she thinks it'll be impossible for you anyway.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `"......So you're saying you can solve it, Maria?"`
 `"...Don't caaare.`
-` She's going to take me to the Golden Land, so.`
+` She's going to take me to the {ruby:çeviri > Altın Diyar:Golden Land}, so.`
 ` Won't get in {f:5:Beatrice}'s way.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
 ` ouch."`
@@ -258,7 +258,7 @@
 `"Kihihihihihihihihihihihihihihihihi!`
 ` Well, you see, {f:5:Beatrice} is a witch!`
 ` She can do anything with her wondrous powers."`
-`"Anything can be done with the power of magic.`
+`"Anything can be done with the power of {ruby:çeviri > büyü:magic}.`
 ` You can create gold, you can create bread.`
 ` And of course, you can even create sweets!`
 ` You saw it, didn't you?`
@@ -283,31 +283,31 @@
 ` I would greatly appreciate it if you didn't interject."`
 `The atmosphere around Rosa, with Genji and Shannon in tow, was somehow cold, and yet dignified,`
 ` ...completely different from how she seemed before she left.`
-`We saw that Auntie Rosa was holding something that looked like a gun.`
+`We saw that {ruby:çeviri > Hala:Auntie} Rosa was holding something that looked like a gun.`
 `{n}......I couldn't imagine that she would have brought back a toy in this situation.`
-`"Auntie Rosa, what is...?"`
+`"{ruby:çeviri > Hala:Auntie} Rosa, what is...?"`
 `"......This is Father's.`
 ` Because of the current situation, I borrowed it specially.`
 ` .........I'm sure you all realize as well as I do.`
-` The culprit is still nearby.`
+` The {ruby:çeviri > suçlu:culprit} is still nearby.`
 ` We don't know what could happen."`
 `"...............I agree.`
-` ......Rather than trying to figure out what the culprit is planning, it might be better to first think about our own safety."`
+` ......Rather than trying to figure out what the {ruby:çeviri > suçlu:culprit} is planning, it might be better to first think about our own safety."`
 `"..........................."`
 `"Father was alright, but he was slightly agitated by these sudden events.`
 ` ...Fortunately, he said that he won't leave his room, so he's probably safe.`
 ` Now, we should do all we can to gather in the same place."`
 `"...I agree.`
-` We don't even know where the culprit is hiding, ......and anyway, there's no proof that there's only one of them.`
+` We don't even know where the {ruby:çeviri > suçlu:culprit} is hiding, ......and anyway, there's no proof that there's only one of them.`
 ` ..............."`
 `I shivered at the words that had come out of my own mouth.`
 `That's right.`
 ` Could a single person kill six people and create such a horrible scene all alone?`
-`......Isn't it natural to assume that this crime was carried out by multiple culprits?`
+`......Isn't it natural to assume that this crime was carried out by multiple {ruby:çeviri > suçlular:culprits}?`
 `"......I agree with Rosa‐san.`
 ` It is probably good for us to gather in one place."`
 `"My goodness, yes, I also think that is good, yes, yes!"`
-`".........Maybe it would be good to call Milady and Kanon‐san here already."`
+`".........Maybe it would be good to call {ruby:çeviri > Leydim:Milady} and Kanon‐san here already."`
 `"Good idea.`
 ` ......Let's have them come down."`
 `George‐aniki made to grab the extension phone, but Gohda‐san shook his head.`
@@ -340,27 +340,27 @@
 `"Copy down?"`
 `"............Shannon."`
 `"I, .........I am sorry, excuse me..."`
-`We headed for Jessica's room, led by Genji‐san, and Auntie Rosa, holding the gun.`
+`We headed for Jessica's room, led by Genji‐san, and {ruby:çeviri > Hala:Auntie} Rosa, holding the gun.`
 `Jessica and Kanon‐kun are a girl and boy of about the same age.`
 ` That'd sure be a shame if we walked in on them at a bad tiiime, is what I'd have joked about normally, I'm sure.`
-`However, Auntie Rosa was on edge, constantly exuding tension.`
+`However, {ruby:çeviri > Hala:Auntie} Rosa was on edge, constantly exuding tension.`
 ` ...So it really wasn't the kind of atmosphere where I could joke like that.`
 `"Hey, don't fall behind!!`
 ` Everyone move together!`
-` We don't know when or where the culprit might leap out at us, you know?!"`
-`...No, maybe Auntie Rosa's attitude was more appropriate.`
-`{n}......Since Grandfather hadn't come down, Auntie Rosa was the leader.`
+` We don't know when or where the {ruby:çeviri > suçlu:culprit} might leap out at us, you know?!"`
+`...No, maybe {ruby:çeviri > Hala:Auntie} Rosa's attitude was more appropriate.`
+`{n}......Since Grandfather hadn't come down, {ruby:çeviri > Hala:Auntie} Rosa was the leader.`
 `This wasn't a situation where she could smile like she always did.`
-`......And Auntie Rosa was herself a mother.`
+`......And {ruby:çeviri > Hala:Auntie} Rosa was herself a mother.`
 ` She probably also thought that, if she didn't get ahold of herself, some harm might befall her beloved daughter.`
-`The culprit had killed six of our parents at once.`
+`The {ruby:çeviri > suçlu:culprit} had killed six of our parents at once.`
 `{n}......The method they had used was unknown, but there was a good chance that this opponent could take down a large number of people in an instant.`
 `Was that with weapons, or with numbers?`
-`{n}......Or was it the magic of a witch?`
+`{n}......Or was it the {ruby:çeviri > büyü:magic} of a witch?`
 `In any case, it definitely didn't look like there were any factors indicating we could get careless...`
-`The rest of us should also take much, much greater care, like Auntie Rosa...`
+`The rest of us should also take much, much greater care, like {ruby:çeviri > Hala:Auntie} Rosa...`
 `"............Everyone, stop!"`
-`Auntie Rosa spoke in a sharp voice.`
+`{ruby:çeviri > Hala:Auntie} Rosa spoke in a sharp voice.`
 `When we peered forwards, wondering what was up...`
 `{n}......we immediately noticed the reason...`
 `".........Wh‐......what is this......"`
@@ -368,14 +368,14 @@
 `"Everyone, get back...!"`
 `Gohda‐san and Genji‐san approached the door...`
 `{n}Jessica's room was probably on the other side of that door.`
-`"This......seems to be the same paint that was scribbled on the door to the chapel."`
+`"This......seems to be the same paint that was scribbled on the door to the {ruby:çeviri > kilise:chapel}."`
 `"......It appears so.`
 ` It appears that not much time has passed since it was drawn."`
 `"What is that......`
-` ......Another...magic circle?!"`
-`"......It's the first magic circle of the moon.`
+` ......Another...{ruby:çeviri > büyü:magic} circle?!"`
+`"......It's the first {ruby:çeviri > büyü:magic} circle of the moon.`
 ` ...It has the power to open unopenable doors."`
-`The door to Jessica's room......had that creepy graffiti on it which had been drawn on the door to the chapel.`
+`The door to Jessica's room......had that creepy graffiti on it which had been drawn on the door to the {ruby:çeviri > kilise:chapel}.`
 `......That strange shape definitely had some meaning related to the occult.`
 `But it didn't matter what that meaning was.`
 `{n}We were more worried about whether those two were alright.`
@@ -383,8 +383,8 @@
 ` Are Jessica‐chan and Kanon‐kun alright?!"`
 `"...I have a bad premonition...`
 ` We should quickly take those two downstairs."`
-`"Milady!`
-` Milady!!`
+`"{ruby:çeviri > Leydim:Milady}!`
+` {ruby:çeviri > Leydim:Milady}!!`
 ` Are you there?`
 ` Please answer!!"`
 `Gohda‐san knocked violently and yelled, ...but there was no answer.`
@@ -394,9 +394,9 @@
 ` Please open it."`
 `Genji nodded, and Gohda quickly unlocked the door with the master key.`
 `...In the back of my mind, horrible images floated up and disappeared, one after another.`
-`{n}......A magic circle had been drawn on the door to the chapel.`
+`{n}......A {ruby:çeviri > büyü:magic} circle had been drawn on the door to the {ruby:çeviri > kilise:chapel}.`
 `{n}And six corpses had been behind that.`
-`......So, if there was a magic circle drawn on the door to Jessica's room, ......then beyond it............`
+`......So, if there was a {ruby:çeviri > büyü:magic} circle drawn on the door to Jessica's room, ......then beyond it............`
 `"Je‐............Jessica‐sama!!"`
 `"Wh‐what happened?`
 ` Is she there?!"`
@@ -425,10 +425,10 @@
 `"......B‐Battler‐sama......"`
 `"I was naive!!`
 ` I knew it!!`
-` Since they couldn't escape the island, the culprit was definitely close by!`
+` Since they couldn't escape the island, the {ruby:çeviri > suçlu:culprit} was definitely close by!`
 ` Then why wasn't I on my guard straight away!!`
 ` ......I was naive!!`
-` I just assumed that culprits sneak away after they commit a crime!"`
+` I just assumed that {ruby:çeviri > suçlular:culprits} sneak away after they commit a crime!"`
 `"......We were stunned then.`
 ` We thought we just had to accept it when Jessica‐chan gave in to rage and ran off.`
 ` ......But we were naive.`
@@ -437,14 +437,14 @@
 ` If only you had been with them, something like this would never...!!"`
 `"N‐no, you, you see, I...!!`
 ` I said it was dangerous so we should return!`
-` It's just that...Milady said that she wanted to be alone!`
+` It's just that...{ruby:çeviri > Leydim:Milady} said that she wanted to be alone!`
 ` Kanon‐san told me to leave it to him, and...!"`
 `"......Speaking of which, where is Kanon‐san...?!"`
 `"That's right!`
 ` What in the world happened to Kanon‐kun?!"`
 `"K‐......Kanon‐kun...`
 ` Where........."`
-`"Kanon‐san should have been with Milady...`
+`"Kanon‐san should have been with {ruby:çeviri > Leydim:Milady}...`
 ` Where in the world...!"`
 `"You don't think...they got him...?!"`
 `".......................................`
@@ -455,46 +455,46 @@
 `At Rosa‐san's order, everyone searched the room together.`
 `......But there wasn't a single human hiding anywhere.`
 `"......He's nowhere!!`
-` Could the culprit have taken him out of the room?!`
+` Could the {ruby:çeviri > suçlu:culprit} have taken him out of the room?!`
 ` Then we have to search for him quickly and save him!`
 ` ......If we're slow, something awful might happen!!"`
-`"Auntie Rosa, let's search all over the mansion!`
-` Let's search for the culprit!`
+`"{ruby:çeviri > Hala:Auntie} Rosa, let's search all over the {ruby:çeviri > malikane:mansion}!`
+` Let's search for the {ruby:çeviri > suçlu:culprit}!`
 ` Let's save Kanon‐kun!!"`
 `"........................`
 ` ............Quiet!!!"`
-`Auntie Rosa yelled at us loudly, and we fell instantly silent.`
+`{ruby:çeviri > Hala:Auntie} Rosa yelled at us loudly, and we fell instantly silent.`
 `She was probably contemplating something.`
 `{n}...But what in the world could that be......?`
-`...Auntie Rosa walked around the room as though looking for something, ...or as though she was collecting her thoughts.`
+`...{ruby:çeviri > Hala:Auntie} Rosa walked around the room as though looking for something, ...or as though she was collecting her thoughts.`
 `............Then, she found something on the side table by the bed, and picked it up.`
 `"...............If anyone knows, tell me.`
 ` ......What key is this?"`
-`Auntie Rosa showed everyone a key with a cute mascot attached to it.`
+`{ruby:çeviri > Hala:Auntie} Rosa showed everyone a key with a cute mascot attached to it.`
 `...Judging from its cute appearance, I didn't doubt that it was Jessica's key, but I had no way of knowing what key it was.`
-`"......It is probably the key to this—to Milady's room."`
-`After hearing that, Auntie Rosa made a point of going outside the door and checking.`
+`"......It is probably the key to this—to {ruby:çeviri > Leydim:Milady}'s room."`
+`After hearing that, {ruby:çeviri > Hala:Auntie} Rosa made a point of going outside the door and checking.`
 `.........Without a doubt, it was the key to this room.`
 `"............I wonder why it was set in a place like this.`
 ` Normally, don't you keep important keys in your pocket?"`
-`"...Umm, ............Milady wasn't in the habit of locking her room.`
+`"...Umm, ............{ruby:çeviri > Leydim:Milady} wasn't in the habit of locking her room.`
 ` Except for when she went to school—`
 `it seems she would do it then, because she didn't want Krauss‐sama to look inside her room..."`
 `".........I see.`
 ` She wasn't at school, so it's natural that Jessica‐chan would set the key down here.`
 ` How many keys can open this door?"`
-`"Ju‐...just the one Milady had..."`
+`"Ju‐...just the one {ruby:çeviri > Leydim:Milady} had..."`
 `"Can't it be opened with your master keys?"`
 `"......They can open it."`
 `"How many master keys are there?`
-` Do all of the servants have one?`
+` Do all of the {ruby:çeviri > hizmetkarlar:servants} have one?`
 ` Are there extras?"`
 `"Yes.`
 ` We all have one.`
 ` .........As for extras, ...I wonder."`
 `"There used to be several, ...but Madam strongly scolded us that this was careless, so I believe they have been dealt with."`
 `"......That is correct.`
-` There is only one held by each servant.`
+` There is only one held by each {ruby:çeviri > hizmetkar:servant}.`
 ` There are no more."`
 `"...nn?`
 ` Wait a second.`
@@ -503,32 +503,32 @@
 ` Regarding that.`
 ` I have noticed that having several master keys whose locations are unknown is quite disadvantageous for me."`
 `"......Well, yeah.`
-` Since you want to make me believe in magic by using locked rooms, it must be really disadvantageous for you to have master keys unaccounted for."`
-`"...In fact, every time a trick related to locks showed up,`
-` I was planning to resist by arguing that the culprit possessed a master key that someone had lost in the past, or a duplicate."`
+` Since you want to make me believe in {ruby:çeviri > büyü:magic} by using locked rooms, it must be really disadvantageous for you to have master keys unaccounted for."`
+`"...In fact, every time a {ruby:çeviri > numara:trick} related to locks showed up,`
+` I was planning to resist by arguing that the {ruby:çeviri > suçlu:culprit} possessed a master key that someone had lost in the past, or a duplicate."`
 `"Yes, exactly.`
 ` So I've decided to make a move to defeat that.`
 ` ......I'll alter the setup."`
 `"`
-`{p:1:The only master keys are the ones held by the servants, one key each}.`
+`{p:1:The only master keys are the ones held by the {ruby:çeviri > hizmetkarlar:servants}, one key each}.`
 ` *cackle*cackle*."`
 `"...Messing with me.`
 ` ......More importantly.`
 ` What is this move?`
-` ......What's Auntie Rosa saying?"`
+` ......What's {ruby:çeviri > Hala:Auntie} Rosa saying?"`
 `"*cackle*cackle*.`
 ` Who knows?`
 ` You should try listening in."`
 `"...............Thank you.`
 ` I have the situation sorted out."`
-`"......And I've managed to identify the culprit who assaulted Jessica‐chan, or maybe one of their accomplices."`
+`"......And I've managed to identify the {ruby:çeviri > suçlu:culprit} who assaulted Jessica‐chan, or maybe one of their accomplices."`
 `"Wha‐what did you say...?!`
 ` Who is that?!"`
-`"...Auntie Rosa, you can't be talking about Kanon‐kun...?"`
+`"...{ruby:çeviri > Hala:Auntie} Rosa, you can't be talking about Kanon‐kun...?"`
 `"......Huh, ......huuuh?!`
 ` Wh‐why Kanon‐kun?!"`
 `"This room was locked.`
-` And the only keys that can unlock this room are the master keys that each servant is holding, as well as the key Jessica had."`
+` And the only keys that can unlock this room are the master keys that each {ruby:çeviri > hizmetkar:servant} is holding, as well as the key Jessica had."`
 `"......But Jessica‐chan's key was closed up in here.`
 ` ...Which means the only keys that could have locked it are the master keys."`
 `"............It is as you say."`
@@ -539,10 +539,10 @@
 ` It wasn't me, not me!`
 ` Gracious, no, I couldn't do something like that!"`
 `"......Kumasawa‐san, you got up late.`
-` After we returned from the chapel to the parlor, we did meet you there,`
+` After we returned from the {ruby:çeviri > kilise:chapel} to the {ruby:çeviri > salon:parlor}, we did meet you there,`
 ` but it's impossible to prove where you were and what you were doing until that time."`
 `"You watched us from the shadows, chased after Jessica‐chan and Kanon‐kun when they were isolated, and stealthily attacked them."`
-`"A‐are you saying that I visited Milady's room,`
+`"A‐are you saying that I visited {ruby:çeviri > Leydim:Milady}'s room,`
 ` and did something so horrible?!`
 ` I, I, I did no such thing!`
 ` Gracious no, no such thing!!"`
@@ -569,7 +569,7 @@
 `"......Strange, ...you say...?"`
 `"Jessica‐chan was stabbed in the back.`
 ` .........Come on, it's often generally said, right?`
-` That in crimes where the victim is stabbed in the back, there's a high likelihood that the culprit was someone whose face was known to the victim.`
+` That in crimes where the victim is stabbed in the back, there's a high likelihood that the {ruby:çeviri > suçlu:culprit} was someone whose face was known to the victim.`
 ` She definitely wouldn't invite a person that she doesn't trust into her room, and defenselessly expose her back."`
 `"Ro‐......Rosa‐sama, you couldn't mean...`
 `.........to say that was Kanon‐kun...?"`
@@ -585,21 +585,21 @@
 `".........And I think that is the very reason why Jessica‐chan welcomed Kanon‐kun into her room."`
 `"But what if it had been Gohda‐san or Kumasawa‐san?`
 ` Would she have let them into her room?"`
-`"......I, I believe that I have gained Milady's trust.`
+`"......I, I believe that I have gained {ruby:çeviri > Leydim:Milady}'s trust.`
 ` But even so, err..."`
 `"Then you are another suspect after all, right, Gohda‐san?`
 ` I thought that you probably weren't liked by Jessica‐chan, so I believed she wouldn't have let you into her room."`
-`"So I thought it was impossible that you were the culprit, but...?"`
+`"So I thought it was impossible that you were the {ruby:çeviri > suçlu:culprit}, but...?"`
 `"No, umm...!`
-` .........I am afraid to say that I may not have been accepted by Milady.`
+` .........I am afraid to say that I may not have been accepted by {ruby:çeviri > Leydim:Milady}.`
 ` ...K‐Kumasawa‐san, what about you?"`
 `"Ho, hohohohohoho!`
-` A senior like me is far too separated by age to understand the feelings of a young person like Milady very well...`
-` And perhaps Milady did not open her heart up to me.`
+` A senior like me is far too separated by age to understand the feelings of a young person like {ruby:çeviri > Leydim:Milady} very well...`
+` And perhaps {ruby:çeviri > Leydim:Milady} did not open her heart up to me.`
 ` Right, Gohda‐san?!"`
 `"Yes, that's right!`
 ` She probably did not open her heart to us to a great degree!`
-` It would be inconceivable that Milady would let us into her room when she was heartbroken!"`
+` It would be inconceivable that {ruby:çeviri > Leydim:Milady} would let us into her room when she was heartbroken!"`
 `Gohda‐san and Kumasawa baa‐chan each clasped their hands together, affirming each other with forced smiles on their faces.`
 `It was a really unpleasant routine.`
 `"Someone who would be permitted to enter Jessica‐chan's room when she was heartbroken.`
@@ -616,31 +616,31 @@
 `"It wasn't me, Shannon‐san!`
 ` Gracious, no, it was not me!"`
 `"Of course, it wasn't me either!`
-` It was Kanon‐san who had a close relationship with Milady, and you, Shannon‐san, if anyone!"`
+` It was Kanon‐san who had a close relationship with {ruby:çeviri > Leydim:Milady}, and you, Shannon‐san, if anyone!"`
 `".........Oh yes, I almost forgot.`
 ` ......Jessica‐chan might also have let Shannon‐chan into her room."`
 `"But you should have been with Father.`
 ` .........But in reality,`
-` ......are you the culprit...............?"`
-`"Sha‐......Shannon can't be the culprit!`
+` ......are you the {ruby:çeviri > suçlu:culprit}...............?"`
+`"Sha‐......Shannon can't be the {ruby:çeviri > suçlu:culprit}!`
 ` You only just said that she was doing some important work with Grandfather!"`
 `"Yes, I know that.`
-` Neither Shannon‐chan nor Genji‐san is the culprit.`
+` Neither Shannon‐chan nor Genji‐san is the {ruby:çeviri > suçlu:culprit}.`
 ` Even Father acknowledges that they were together the whole time.`
 ` .........Well then, what do you think, everyone...?"`
 `Asked that, no one could respond...`
 `{n}Because even if someone did argue back, they would then have to offer the name of a different suspicious person.`
 `......And no matter whose name that was, that person was here.`
 `{n}...No one could do something like that.`
-`Auntie Rosa glanced at everyone in turn, fingering the gun like it was a toy...`
-`.........She seemed so different from the normal, kind Auntie Rosa.`
+`{ruby:çeviri > Hala:Auntie} Rosa glanced at everyone in turn, fingering the gun like it was a toy...`
+`.........She seemed so different from the normal, kind {ruby:çeviri > Hala:Auntie} Rosa.`
 `...No, it's probably because I still don't feel how much danger we're in.`
-`{n}...Maybe until Auntie Rosa's attitude seemed natural to me, I wasn't fully appreciating the danger...`
+`{n}...Maybe until {ruby:çeviri > Hala:Auntie} Rosa's attitude seemed natural to me, I wasn't fully appreciating the danger...`
 `"Looks like no one has an opinion.`
 ` Then I will say mine."`
 `"Of course, I can't deny the possibility that Kanon‐kun is a victim without a corpse.`
 ` But until we find his corpse, I also definitely can't deny the possibility that Kanon‐kun is a suspect."`
-`"......There's a chance that Kanon‐kun may claim to have been attacked by the culprit and confined somewhere...`
+`"......There's a chance that Kanon‐kun may claim to have been attacked by the {ruby:çeviri > suçlu:culprit} and confined somewhere...`
 ` He may appear unexpectedly with that excuse."`
 `"But take care.`
 ` Maybe, probably—no, definitely.`
@@ -648,11 +648,11 @@
 `"............No, ..................no way........."`
 `"I, ...I can't believe it...`
 ` For Kanon‐kun to do that...`
-`......to Milady,`
+`......to {ruby:çeviri > Leydim:Milady},`
 ` ......that's too much to accept!!"`
 `"I feel the same as Shannon.`
-` I oppose labeling Kanon‐kun as the culprit."`
-`"Then is the culprit Gohda‐san or is it Kumasawa‐san?`
+` I oppose labeling Kanon‐kun as the {ruby:çeviri > suçlu:culprit}."`
+`"Then is the {ruby:çeviri > suçlu:culprit} Gohda‐san or is it Kumasawa‐san?`
 ` Tell me who's more suspicious."`
 `""I‐i‐i‐it wasn't us!!""`
 `"If it wasn't Kanon‐kun, then who could have locked this door?`
@@ -660,14 +660,14 @@
 ` George‐kun.`
 ` ......Well?`
 ` Well, well, well...?"`
-`Auntie Rosa closed in on Shannon‐chan and George‐aniki, laughing unpleasantly.`
+`{ruby:çeviri > Hala:Auntie} Rosa closed in on Shannon‐chan and George‐aniki, laughing unpleasantly.`
 `...Of course, they couldn't say anything back.`
 `They wanted to believe in Kanon‐kun.`
-` ...But if they did, they would have to suspect the other servants.`
-`The simplest culprit was the mystery guest {f:5:Beatrice}.`
+` ...But if they did, they would have to suspect the other {ruby:çeviri > hizmetkarlar:servants}.`
+`The simplest {ruby:çeviri > suçlu:culprit} was the mystery guest {f:5:Beatrice}.`
 `{n}......But she was nothing more than a guest, and didn't have a master key.`
-`.........Then if {f:5:Beatrice} was the culprit without a master key...`
-`...Do we have to accept the argument that she really is a witch, and locked the door with the power of magic......?`
+`.........Then if {f:5:Beatrice} was the {ruby:çeviri > suçlu:culprit} without a master key...`
+`...Do we have to accept the argument that she really is a witch, and locked the door with the power of {ruby:çeviri > büyü:magic}......?`
 `"............That's a filthy argument...`
 ` ......Filthy...... Filthy......"`
 `"What's so difficult?`
@@ -676,8 +676,8 @@
 ` If you do, you won't have to watch this ugly battle of humans pressing each other...`
 ` *cackle*cackle*cackle*cackle*!"`
 `"So then what.`
-` The culprit is the 19th person, the guest {f:5:Beatrice}.`
-` ...She's a witch, so she could lock the door without a key using magic."`
+` The {ruby:çeviri > suçlu:culprit} is the 19th person, the guest {f:5:Beatrice}.`
+` ...She's a witch, so she could lock the door without a key using {ruby:çeviri > büyü:magic}."`
 `"Are you telling me to accept that?`
 ` No goddamn way...!`
 ` ...No way, no goddamn way...!!"`
@@ -694,21 +694,21 @@
 ` *cackle*hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `"Damn it!!`
 ` I won't accept you!!!`
-` But......Kanon‐kun being the culprit, ......that's impossible!!"`
+` But......Kanon‐kun being the {ruby:çeviri > suçlu:culprit}, ......that's impossible!!"`
 `"..........I don't want to suspect anyone.`
 ` ...However, it is sometimes the case that the suspicious are the guilty.`
 ` ......In any case, there is probably nothing better than caution..."`
 `"Doc‐...Doctor Nanjo...`
 ` What do you mean by that...?"`
 `"...Umm, please do not misunderstand.`
-` ...I do not wish to label Kanon‐san as the culprit.`
-` ......However, until we understand the situation, there is the possibility that Kanon‐san is the culprit,`
+` ...I do not wish to label Kanon‐san as the {ruby:çeviri > suçlu:culprit}.`
+` ......However, until we understand the situation, there is the possibility that Kanon‐san is the {ruby:çeviri > suçlu:culprit},`
 ` and I believe keeping that in mind is safer."`
 `"Ho, ......hoh‐hoh‐ho...`
 ` Yes, that's right... You cannot be too cautious."`
 `It didn't seem as though anyone blamed Nanjo.`
-`{n}In reality, no one thought that Kanon was the culprit.`
-`...But if they didn't suspect him, they would have to suspect one of the servants here.`
+`{n}In reality, no one thought that Kanon was the {ruby:çeviri > suçlu:culprit}.`
+`...But if they didn't suspect him, they would have to suspect one of the {ruby:çeviri > hizmetkarlar:servants} here.`
 `......We didn't want to do that.`
 `{n}We didn't want to suspect.`
 `{n}We didn't want to be suspected.`
@@ -725,9 +725,9 @@
 ` we removed our 19th person—{f:5:Beatrice}—from suspicion.`
 ` But we can't say that she is unrelated to the crime."`
 `"......After all, it's a vast amount of gold we're talking about.`
-` We can't deny the possibility that there are multiple culprits.`
-` ......Right now, one of the people here among us might have been bought by the culprit!!"`
-`As Auntie Rosa yelled, she looked all around, her gun still raised.`
+` We can't deny the possibility that there are multiple {ruby:çeviri > suçlular:culprits}.`
+` ......Right now, one of the people here among us might have been bought by the {ruby:çeviri > suçlu:culprit}!!"`
+`As {ruby:çeviri > Hala:Auntie} Rosa yelled, she looked all around, her gun still raised.`
 `......Don't believe anyone, suspect the person next to you—that's what she was saying.`
 `But no one wanted to suspect.`
 `{n}...They didn't want to suspect anyone here.`
@@ -740,7 +740,7 @@
 ` Even if he's still alive, even if he smooths things over with some explanation, you absolutely must not trust him!`
 ` Alright?!"`
 `No one gave a answer of their own initiative.`
-` ......However, those who met Auntie Rosa's eyes had to nod their heads...`
+` ......However, those who met {ruby:çeviri > Hala:Auntie} Rosa's eyes had to nod their heads...`
 `Humans are social beings.`
 `{n}......In other words, from the time they are born, trusting each other is imprinted in their genes.`
 `...It is unpleasant to go against that.`
@@ -749,9 +749,9 @@
 ` ...they thought that choosing one of the people not here right now would be the most acceptable.`
 `For just the reason of acceptability, they had passively chosen to sacrifice Kanon.`
 `This is ridiculous.........`
-`{n}I definitely don't want to believe that Kanon‐kun is the culprit!`
+`{n}I definitely don't want to believe that Kanon‐kun is the {ruby:çeviri > suçlu:culprit}!`
 `I'd only just heard it from George‐aniki, but not only were those two close in age,`
-` they also had that adolescent relationship Auntie Rosa had mentioned.`
+` they also had that adolescent relationship {ruby:çeviri > Hala:Auntie} Rosa had mentioned.`
 `......It may be a little late now, but yes, they really did have that kind of air about them.`
 `After seeing her parents' tragic bodies, Jessica, bearing deep wounds in her heart, would only have trusted Kanon‐kun.`
 `...That's a very conceivable story.`
@@ -761,42 +761,42 @@
 `So he was the only one who could have killed Jessica. ......I just can't accept that line of argument......!!!`
 `"...Understand?!`
 ` Even if Kanon‐kun appears, don't get careless!`
-` As long as we cannot prove Kanon‐kun's innocence, we will suppose that Kanon‐kun is the culprit who killed Jessica‐chan!!"`
-`Auntie Rosa made that claim.`
+` As long as we cannot prove Kanon‐kun's innocence, we will suppose that Kanon‐kun is the {ruby:çeviri > suçlu:culprit} who killed Jessica‐chan!!"`
+`{ruby:çeviri > Hala:Auntie} Rosa made that claim.`
 ` By using the ever‐so‐slightly vague word "suppose", ...ultimately, she gave everyone that last little push they needed.`
 `Everyone nodded weakly,`
 ` ...............and, under the excuse that they were just temporarily supposing it,`
-` .........they {i:concluded} that Kanon was the culprit who had killed Jessica...`
+` .........they {i:concluded} that Kanon was the {ruby:çeviri > suçlu:culprit} who had killed Jessica...`
 `.........I wonder what the dead Jessica and Kanon would think if they could hear this exchange.`
 `Jessica...was crying.`
 `{n}......She was crying in the chest of the person who had put his life on the line to fight for her: Kanon.`
 `It was frustrating.`
 `{n}So frustrating that it felt like her chest would explode...`
 `She grieved and resented how far the dignity of the dead had been trampled...`
-`"...Those guys, ...why are they treating you like the culprit?!!"`
+`"...Those guys, ...why are they treating you like the {ruby:çeviri > suçlu:culprit}?!!"`
 `"........................Because there's...no corpse."`
-`"Why are they treating you like the culprit because there's no corpse?!`
+`"Why are they treating you like the {ruby:çeviri > suçlu:culprit} because there's no corpse?!`
 ` You risked your life to fight for me...!"`
 `"Then, ......that witch erased your corpse for fun......!`
-` To call you the culprit because of that, it's horrible, it's too horrible!!"`
+` To call you the {ruby:çeviri > suçlu:culprit} because of that, it's horrible, it's too horrible!!"`
 `".........It's alright.`
 ` ......In the end, I couldn't completely protect you, but...`
-` .........I was able to be of use to you, Milady..."`
+` .........I was able to be of use to you, {ruby:çeviri > Leydim:Milady}..."`
 `"So......why doesn't everyone understand that?!`
-` Stop it, Auntie Rosa!!`
-` Don't call Kanon‐kun the culprit with that messed up reasoning!!"`
-`".........She isn't saying that I'm the culprit.`
+` Stop it, {ruby:çeviri > Hala:Auntie} Rosa!!`
+` Don't call Kanon‐kun the {ruby:çeviri > suçlu:culprit} with that messed up reasoning!!"`
+`".........She isn't saying that I'm the {ruby:çeviri > suçlu:culprit}.`
 ` ...She's just saying I'm suspicious,`
 ` ......no,`
 ` ......she's saying to be careful."`
 `"She is saying it!!`
-` These people are saying you're the culprit, Kanon‐kun, so they can stop thinking!`
-` They aren't gonna think about who the culprit who killed me is anymore!!`
-` They aren't gonna think of the possibility that you aren't the culprit!!"`
+` These people are saying you're the {ruby:çeviri > suçlu:culprit}, Kanon‐kun, so they can stop thinking!`
+` They aren't gonna think about who the {ruby:çeviri > suçlu:culprit} who killed me is anymore!!`
+` They aren't gonna think of the possibility that you aren't the {ruby:çeviri > suçlu:culprit}!!"`
 `"And after this, every time something happens, they'll repeat the excuse that it was the work of Kanon‐kun who's gone missing!!`
 ` ......I can't stand that!!"`
 `"...............It's alright.`
-` ...At least you know the truth, Milady."`
+` ...At least you know the truth, {ruby:çeviri > Leydim:Milady}."`
 `"If only I know the truth, that's pointless!!`
 ` I found out by dying.`
 ` Truth belongs to living humans!!`
@@ -810,10 +810,10 @@
 `"Damn it, damn iiiiiiit!!"`
 `"It doesn't matter who!!`
 ` Hear my voice!!`
-` Kanon‐kun isn't the culprit!!`
+` Kanon‐kun isn't the {ruby:çeviri > suçlu:culprit}!!`
 ` Kanon‐kun's corpse was just erased!`
 ` Why, why don't you understand that?!!"`
-`".........Milady."`
+`".........{ruby:çeviri > Leydim:Milady}."`
 `"......I can't take this!!`
 ` It's so sad!`
 ` It's so frustrating!!"`
@@ -822,21 +822,21 @@
 ` It doesn't matter who!`
 ` Realize!!`
 ` Realize!! Please!!`
-` Kanon‐kun isn't the culprit!!"`
+` Kanon‐kun isn't the {ruby:çeviri > suçlu:culprit}!!"`
 `"Aaaaaaaaaaaaaahh, don't go, don't go, guys!!`
 ` Please, don't end it like this......!`
 ` Don't go, ......don't goooooooooooooo!!!"`
 `Rosa proclaimed that this room should be sealed until the police came.`
 `...The rest didn't want to suspect each other, so they happily accepted that.`
-`......They accepted Kanon as the tentative culprit.`
+`......They accepted Kanon as the tentative {ruby:çeviri > suçlu:culprit}.`
 `...Without even imagining how much disgrace that gave to the dead, they accepted it.`
-`"......Milady... It's alright now...`
+`"......{ruby:çeviri > Leydim:Milady}... It's alright now...`
 ` ......Thank you......"`
 `"Don't go!!`
 ` Don't go, guys!!"`
 `"I beg you, come back!!`
 ` Don't leave us like this!!"`
-`"Don't leave......Kanon‐kun......treated as the culprit!!!!!!!`
+`"Don't leave......Kanon‐kun......treated as the {ruby:çeviri > suçlu:culprit}!!!!!!!`
 ` Uwaaaaaaaaaaaaaaaaaaahhh...!!"`
 `"It won't reach!!`
 ` The laments of the dead never reach!"`
@@ -854,10 +854,10 @@
 `"What do you mean, ...it's no good at all?`
 ` Do you have some objection...?"`
 `"I'll at least agree that we have to be vigilant.`
-` ......But this talk about having Kanon‐kun be the culprit, sorry, but allow me to refuse."`
+` ......But this talk about having Kanon‐kun be the {ruby:çeviri > suçlu:culprit}, sorry, but allow me to refuse."`
 `"......Hoh.`
 ` So you're biting into this part.`
-` If Kanon wasn't the culprit, and it wasn't my doing either, then how do you explain this locked room that Jessica's room has become...?"`
+` If Kanon wasn't the {ruby:çeviri > suçlu:culprit}, and it wasn't my doing either, then how do you explain this locked room that Jessica's room has become...?"`
 `".........Honestly, I've gotta throw my hands up there.`
 ` ...Seriously, why'd I say it's no goddamn good?"`
 `"...I've gotta take responsibility for my own actions.`
@@ -865,15 +865,15 @@
 ` ...............I'm empty‐handed with zero weapons to argue with.`
 ` ...But you know, I won't stand here twiddling my thumbs anymore!! {f:5:Beatrice}!!"`
 `"B‐......Battler‐sama......"`
-`"......I‐is there some proof that Kanon‐kun isn't the culprit......?"`
+`"......I‐is there some proof that Kanon‐kun isn't the {ruby:çeviri > suçlu:culprit}......?"`
 `The expression that rose to those two faces was definitely expectant.`
-`{n}......They didn't want to believe that Kanon was the culprit.`
+`{n}......They didn't want to believe that Kanon was the {ruby:çeviri > suçlu:culprit}.`
 `{n}In truth, they believed in Kanon.`
 `So this expectation was because they wanted to be made to believe in him even more strongly!`
-`"Then, Battler‐kun, which of the other servants do you suspect?`
+`"Then, Battler‐kun, which of the other {ruby:çeviri > hizmetkarlar:servants} do you suspect?`
 ` Gohda‐san?`
 ` Or is it Kumasawa‐san?"`
-`"Quit it, Auntie Rosa.`
+`"Quit it, {ruby:çeviri > Hala:Auntie} Rosa.`
 ` ...I know the person called Kumasawa baa‐chan well.`
 ` ......She'll sometimes slack off on work, but she'll always try to make things fun for people.`
 ` ......She is not a person who would kill, not even if her eyes were dazzled by money."`
@@ -891,9 +891,9 @@
 ` Who do you think shut Jessica‐chan up in a room that could only be locked by a master key?"`
 `"Wait.`
 ` ......Before I argue about that, there's something I want to make clear.`
-` I don't want to talk about, if so‐and‐so is not the culprit, then so‐and‐so is the culprit.`
-` ...I just want to talk about how it's completely impossible for Kanon‐kun to be the culprit."`
-`"You say that you can establish that Kanon isn't the culprit?`
+` I don't want to talk about, if so‐and‐so is not the {ruby:çeviri > suçlu:culprit}, then so‐and‐so is the {ruby:çeviri > suçlu:culprit}.`
+` ...I just want to talk about how it's completely impossible for Kanon‐kun to be the {ruby:çeviri > suçlu:culprit}."`
+`"You say that you can establish that Kanon isn't the {ruby:çeviri > suçlu:culprit}?`
 ` *cackle*, how?!"`
 `"It's really simple.`
 ` ...It's something I came dangerously close to overlooking.`
@@ -982,16 +982,16 @@
 `".........Shit.`
 ` Did I just fall for a blatant bait piece...?"`
 `"You wonderfully proved that at least Kanon couldn't lock the door to this room.`
-` The servants should all have been holding master keys.`
-` With that as a basis, Kanon was treated as the culprit, so you did a wonderful job of at least clearing away that suspicion.`
+` The {ruby:çeviri > hizmetkarlar:servants} should all have been holding master keys.`
+` With that as a basis, Kanon was treated as the {ruby:çeviri > suçlu:culprit}, so you did a wonderful job of at least clearing away that suspicion.`
 ` *cackle*cackle*cackle*."`
 `"......In that case.`
-` ...How did the culprit who killed Jessica lock the door?`
+` ...How did the {ruby:çeviri > suçlu:culprit} who killed Jessica lock the door?`
 ` So that's the problem I have now."`
 `"Tch.`
 ` ......I've been drawn into a development that went exactly like you wanted..."`
 `"Right into my trap, yes...?`
-` Furthermore, you said something outrageous about not doubting any of the other servants.`
+` Furthermore, you said something outrageous about not doubting any of the other {ruby:çeviri > hizmetkarlar:servants}.`
 ` Wellll then, it'll be worth seeing how you gloss this over..."`
 `"Shut your face.`
 ` ...Let's get this started.`
@@ -1000,7 +1000,7 @@
 ` First,`
 ` {p:1:there are absolutely no types of hidden doors}.`
 ` {p:1:This door is the only way in or out}.`
-` {p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant}."`
+` {p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each {ruby:çeviri > hizmetkar:servant}}."`
 `"It is on the second floor, but it is probably possible to enter or leave through the window.`
 ` However,`
 ` {p:1:the window is locked from the inside}."`
@@ -1012,14 +1012,14 @@
 ` "Kanon‐kun was killed in this room"."`
 `"Mmhm.`
 ` "{p:1:Kanon was killed in this room}".`
-` Although I erased his corpse with magic, of course?`
+` Although I erased his corpse with {ruby:çeviri > büyü:magic}, of course?`
 ` *cackle*cackle*cackle*!"`
 `"And again, repetition requested.`
 ` "Kanon‐kun's corpse is in this room"."`
 `"*cackle*cackle*cackle*cackle*!`
 ` I decline.`
 ` I cannot repeat it.`
-` ...Because I erased the corpse with magic.`
+` ...Because I erased the corpse with {ruby:çeviri > büyü:magic}.`
 ` *giggle*giggle*giggle*!"`
 `"Of course you wouldn't.`
 ` ......There's got to be a secret hidden in there somewhere."`
@@ -1034,7 +1034,7 @@
 ` *cackle*cackle*."`
 `"......This declining thing is really vague.`
 ` I don't know if you decline because it's impossible to repeat, or whether you can repeat it and you're declining on purpose..."`
-`"Back when discussing the lock to the chapel, you completely turned the tables on me.`
+`"Back when discussing the lock to the {ruby:çeviri > kilise:chapel}, you completely turned the tables on me.`
 ` When I have an advantage, there's no need to go out of my way to speak using the red, which carries risk.`
 ` That's all it is."`
 `".........Yeah, I guess so.`
@@ -1047,9 +1047,9 @@
 `"......Damn.`
 ` It's like you're leading me down a path, goddamn annoying...`
 ` Stay quiet a while, I'm thinking...!"`
-`"Of course, this door is the same as the chapel.`
+`"Of course, this door is the same as the {ruby:çeviri > kilise:chapel}.`
 ` {p:1:When locked, it does not permit any form of entry or exit}."`
-`"I'll say more. {p:1:No trick could have the effect of locking the door from the outside without using a key}.`
+`"I'll say more. {p:1:No {ruby:çeviri > numara:trick} could have the effect of locking the door from the outside without using a key}.`
 ` *cackle*cackle*...!"`
 `"Tch.`
 ` Damn you for always using red when I don't ask for it..."`
@@ -1062,8 +1062,8 @@
 `So even without a corpse, he's included as a victim.`
 `There are a few questionable points.`
 ` And depending on which I focus on, my line of thought changes a lot.`
-`First, after the culprit committed murder in this room, how did they lock it?`
-`If we assume that the culprit was one of those holding a master key, it's extremely simple.`
+`First, after the {ruby:çeviri > suçlu:culprit} committed murder in this room, how did they lock it?`
+`If we assume that the {ruby:çeviri > suçlu:culprit} was one of those holding a master key, it's extremely simple.`
 `......But I want to avoid that if I can.`
 `Because I would have to suspect Gohda‐san or Kumasawa‐san—no, in the worst case, even Shannon‐chan and Genji‐san.`
 `At this point, I noticed something.`
@@ -1071,10 +1071,10 @@
 `{n}I'm cutting my own throat.`
 `I want to deny {f:5:Beatrice} no matter what.`
 `{n}I want to erase the existence of that brutal, fickle, ridiculous witch!`
-`In order to do that, I have to explain everything with humans, not magic.`
+`In order to do that, I have to explain everything with humans, not {ruby:çeviri > büyü:magic}.`
 `......But that also means suspecting some human.`
 `I don't want to suspect someone.`
-`......Of course, if there was some clear proof, I would have to believe that person was the culprit,`
+`......Of course, if there was some clear proof, I would have to believe that person was the {ruby:çeviri > suçlu:culprit},`
 ` ...but as long as that didn't happen, I didn't want to cast any suspicions.`
 `Am I just green...?`
 `{n}Am I just a kid who doesn't want to have my feelings, which tell me that at least this person or that person couldn't be a murderer, betrayed...?`
@@ -1084,23 +1084,23 @@
 ` In the first place, the only victory condition in our game regarded whether or not you could deny my existence.`
 ` ...Even though that alone was a game that put you at a disadvantage, you've increased the number of victory conditions all by yourself, and made your own victory difficult...!"`
 `......It's just as she says.`
-` ...If I started arguing that someone holding a master key was the culprit, this locked room could be easily broken.`
+` ...If I started arguing that someone holding a master key was the {ruby:çeviri > suçlu:culprit}, this locked room could be easily broken.`
 `......However, since the number of keys that could open this door are limited,`
 ` and furthermore it's clearly known who holds them,`
 ` saying that would mean that I was suspecting someone I knew well...`
 `...No, ......have I just been averting my eyes?`
-`In that locked room trick with the chapel, which had been exhilarating to destroy,`
+`In that locked room {ruby:çeviri > numara:trick} with the {ruby:çeviri > kilise:chapel}, which had been exhilarating to destroy,`
 ` I had proposed that "someone stole the key from Maria's handbag, and returned it".`
 ` If that theory was right, then the question becomes who could have stolen the key from her handbag.`
 `...Maria's handbag had probably been at its most unguarded when she was sleeping.`
 `......In that case,`
 ` .........in addition to me,`
 ` ...George‐aniki and Jessica are also suspects.`
-`George‐aniki or Jessica was the culprit?`
+`George‐aniki or Jessica was the {ruby:çeviri > suçlu:culprit}?`
 `{n}Or maybe an accomplice?!`
 `......All of our parents had been killed, right?!`
 `{n}And yet, ......and yet, one of us consented to that and assisted with the crime?!`
-`We had lamented, mourned, and shed tears in the chapel.`
+`We had lamented, mourned, and shed tears in the {ruby:çeviri > kilise:chapel}.`
 `{n}...And yet, one among us......had been lying?!`
 `"......*cackle*cackle*.`
 ` That theory of yours about taking the key out of the handbag and putting it back cast a pronounced suspicion on the cousins, did it not...?"`
@@ -1108,15 +1108,15 @@
 ` and spoke your theory with such gusto...!`
 ` *giggle*giggle*giggle*."`
 `"D‐............damn it...`
-` That doesn't guarantee that one of the family or the servants is the culprit!`
+` That doesn't guarantee that one of the family or the {ruby:çeviri > hizmetkarlar:servants} is the {ruby:çeviri > suçlu:culprit}!`
 ` If you snuck up on us hiding in a cardboard box, for example,`
 ` there's a good chance you could have slunk into our room when we were fast asleep and stolen the key, right?!"`
 `"Mmm.`
 ` That would also be acceptable in that instance.`
 ` By suspecting me as the guest, the 19th person, you won't have to suspect them."`
 `".........But then, what will you do about the lock to Jessica's room?`
-` It's no trouble at all for me to open the lock with magic, but of course, I don't have a master key.`
-` If you deny my magic, you also have to deny that I'm a suspect, you realize...?"`
+` It's no trouble at all for me to open the lock with {ruby:çeviri > büyü:magic}, but of course, I don't have a master key.`
+` If you deny my {ruby:çeviri > büyü:magic}, you also have to deny that I'm a suspect, you realize...?"`
 `"And what that entails is suspecting one of you 18...!!"`
 `"Tha‐......thanks for the lovely explanation.`
 ` ...I've been able to sort things out a bit."`
@@ -1135,8 +1135,8 @@
 ` This is a locked room born from your mental contradiction.`
 ` *cackle*cackle*!`
 ` There's no one else, you closed that door yourself."`
-`"......So accept that a witch opened it with magic,`
-` ...or accept that someone I know is the culprit—those are my only two options, you're saying.`
+`"......So accept that a witch opened it with {ruby:çeviri > büyü:magic},`
+` ...or accept that someone I know is the {ruby:çeviri > suçlu:culprit}—those are my only two options, you're saying.`
 ` Damn, are you trying to fork the rook?!"`
 `"I merely wanted to show you that this move also exists."`
 `"......*cackle*.`
@@ -1147,12 +1147,12 @@
 `"...............Damn it!!`
 ` So if I suspect Gohda‐san and Kumasawa‐san, everything's fine?!`
 ` That's no good!"`
-`".........I can't think of Gohda‐san as the culprit!`
-` I can't think of Kumasawa‐san as the culprit!!`
+`".........I can't think of Gohda‐san as the {ruby:çeviri > suçlu:culprit}!`
+` I can't think of Kumasawa‐san as the {ruby:çeviri > suçlu:culprit}!!`
 ` But I won't accept you!!`
 ` Ever!!"`
-`"In that case, they would have to enter the room without using magic or a master key,`
-` kill Jessica and Kanon, and even erase Kanon's corpse without using magic."`
+`"In that case, they would have to enter the room without using {ruby:çeviri > büyü:magic} or a master key,`
+` kill Jessica and Kanon, and even erase Kanon's corpse without using {ruby:çeviri > büyü:magic}."`
 `"......How could it be done?!`
 ` How could it be done so that you can deny me and not suspect anyone at the same time?!!`
 ` *cackle*cackle*cackle*cackle*cackle*!"`
@@ -1168,18 +1168,18 @@
 `"......I don't want thanks.`
 ` After all, ......that means that you're under suspicion too."`
 `"....................."`
-`"...And sorry, Auntie Rosa.`
+`"...And sorry, {ruby:çeviri > Hala:Auntie} Rosa.`
 ` ......It's not like I wanted to be defiant towards you.`
 ` I don't want to die either, and I want to find Dad and the rest's true killer.`
 ` ......Sorry for saying something that wasn't cooperative."`
 `"......No, it's alright.`
 ` I was also a little rash.`
 ` Let's make up.`
-` As auntie and nephew, we have to be friendly with each other.`
+` As {ruby:çeviri > hala:auntie} and nephew, we have to be friendly with each other.`
 ` ............Right?"`
-`Auntie Rosa shifted the gun to one hand, and held out her other hand.`
+`{ruby:çeviri > Hala:Auntie} Rosa shifted the gun to one hand, and held out her other hand.`
 `...I reached out, and for the time being, we shook hands.`
-`Auntie's gaze was sharp.`
+`{ruby:çeviri > Hala:Auntie}'s gaze was sharp.`
 `{n}......In order to deny the witch, she would make anyone a sacrifice.`
 `{n}...That's what her eyes told me.`
 `And me...?`

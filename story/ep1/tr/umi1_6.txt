@@ -1,14 +1,14 @@
 `"So...on the tenth twilight, the journey shall end,`
-` and you shall reach the Golden Land.`
+` and you shall reach the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` You really are diligent, Maria.`
 ` You did a good job taking notes on all of this."`
 `"Uu!`
 ` I forget a lot so I write things down!`
 ` Write things down like Mama said!"`
 `There was a notebook inside the handbag Maria was always carrying around,`
-` and {f:5:Beatrice}'s epitaph was copied onto it.`
+` and {f:5:Beatrice}'s {ruby:çeviri > kitabe:epitaph} was copied onto it.`
 `Thanks to that,`
-` we were all able to challenge the puzzle of the epitaph while here on this beach.`
+` we were all able to challenge the puzzle of the {ruby:çeviri > kitabe:epitaph} while here on this beach.`
 `For Jessica and the others,`
 ` this was a puzzle that they had already tried to solve several times,`
 ` and had already gotten bored with.`
@@ -18,10 +18,10 @@
 `"Let's start with the first line.`
 ` Behold the sweetfish river, running through my beloved home of old.`
 ` Where was Grandfather's old home again?"`
-`"I heard that, before the war, the Ushiromiya family had a mansion near Odawara.`
+`"I heard that, before the war, the Ushiromiya family had a {ruby:çeviri > malikane:mansion} near Odawara.`
 ` So, that said, you'd want to know about a sweetfish river that flows through Odawara, right?"`
 `"Yeah, because that river's the starting point.`
-` And then it's got, you who seek the Golden Land, follow its path downstream in search of the key.`
+` And then it's got, you who seek the {ruby:çeviri > Altın Diyar:Golden Land}, follow its path downstream in search of the key.`
 ` What rivers are in Odawara?`
 ` It's got to be one with sweetfish swimming in it."`
 `"For sweetfish in Odawara, it'd be the Hayakawa.`
@@ -36,7 +36,7 @@
 `"Huh?`
 ` Oh, sorry—that's not what I meant, don't mind me!"`
 `Shannon‐chan, who didn't have any afternoon chores for a while, was faithfully keeping us company.`
-`I would have thought that, as a servant, accompanying us would force her to take care of us and tire her out, but it seemed that it wasn't so in her case.`
+`I would have thought that, as a {ruby:çeviri > hizmetkar:servant}, accompanying us would force her to take care of us and tire her out, but it seemed that it wasn't so in her case.`
 `...To the contrary, it seemed she was having fun joining in on the conversation with people of a similar age.`
 `When I asked, she told me she was a live‐in worker.`
 `{n}So normally, the only person close in age to her was Jessica.`
@@ -47,7 +47,7 @@
 `"Ummm,`
 ` ............if you follow it downstream, you'll arrive in the ocean."`
 `"Of course, you'd reach the mouth of the river!`
-` And then the third line of the epitaph was "As you travel down it, you will see a village."`
+` And then the third line of the {ruby:çeviri > kitabe:epitaph} was "As you travel down it, you will see a village."`
 ` By the way, since long ago, the mouths of rivers have generally been key points for transportation, and large cities tend to be built there.`
 ` That'd be the next checkpoint."`
 `"Hmmmmmm.`
@@ -103,7 +103,7 @@
 ` Maria‐chan, could you read it for us?"`
 `"...Uu.`
 ` ......There the key to the...`
-`Golden Land...`
+`{ruby:çeviri > Altın Diyar:Golden Land}...`
 `sleeps."`
 `"Uu!`
 ` I read it!"`
@@ -173,7 +173,7 @@
 `"............On the ninth twilight, the witch revives, and none shall be left alive.`
 ` ......So everyone dies in the end anyway."`
 `"And then it's got the goal finally being reached on the tenth twilight that follows.`
-` Not sure how anyone "shall reach the Golden Land" if everyone's dead."`
+` Not sure how anyone "shall reach the {ruby:çeviri > Altın Diyar:Golden Land}" if everyone's dead."`
 `"...It seems to allow for different interpretations as to whether or not the traveler who holds the key would be included in the "none shall be left alive" part."`
 `"But there's something pretty interesting written at the end.`
 ` The lines about how, after reaching the goal,`
@@ -200,7 +200,7 @@
 `...Of course, once we started laughing like that, Maria, who believed in witches, got angry.`
 `"Uu!`
 ` Witches are awesome!`
-` They can do anything with magic!`
+` They can do anything with {ruby:çeviri > büyü:magic}!`
 ` Even kill.`
 ` Even bring back to life.`
 ` Even give love, even take it."`
@@ -218,50 +218,50 @@
 ` but as dreamlike people with mysterious powers, who could do anything and wore beautiful dresses—`
 `just what you would expect from an imaginative young girl.`
 `Dancing through the sky, crossing a rainbow,`
-` dancing around all night with magical teacups and teapots that would never get empty no matter how much you poured out of them.`
+` dancing around all night with {ruby:çeviri > büyülü:magical} teacups and teapots that would never get empty no matter how much you poured out of them.`
 `With a flourish of their wands, the stars in the sky would become candy and pour down,`
 ` and flowers that produced sweets would bud by the roadside.`
-`......To Maria, witches were the sole thing that could give form to the magical dreams that so captivated her.`
+`......To Maria, witches were the sole thing that could give form to the {ruby:çeviri > büyülü:magical} dreams that so captivated her.`
 `The last thing enriching her reality, which revealed more and more of its bland nature to her with every inch she grew.`
 `That was why Maria believed in witches.`
 `She didn't want that dream to be insulted.`
-`{n}And for that very reason, nor did she want the epitaph, which affirmed the existence of witches, to be insulted.`
+`{n}And for that very reason, nor did she want the {ruby:çeviri > kitabe:epitaph}, which affirmed the existence of witches, to be insulted.`
 `Because the witch {f:5:Beatrice} {i:is} Maria's dream...`
 `"To Maria‐chan, this is not something that points to the hiding place of the gold,`
-` but magic to revive the witch."`
+` but {ruby:çeviri > büyü:magic} to revive the witch."`
 `So, it was the single bridge...`
 `between Maria and the witch.`
 `Maria was very angry and clung onto George‐aniki.`
 `Jessica and I scratched our heads and apologized.`
-`...It might not be possible to smooth things over again like the time she got mad in front of the portrait.`
+`...It might not be possible to smooth things over again like the time she got mad in front of the {ruby:çeviri > portre:portrait}.`
 `Maria didn't want to be easily consoled.`
 `{n}As Jessica and I hung our heads, wondering what we could do, Shannon‐chan timidly opened her mouth in our place.`
 `"Umm,`
 ` .........Maria‐sama, did you know...?`
-` There is a ghost story about {f:5:Beatrice}‐sama that has been passed down amongst the servants."`
+` There is a ghost story about {f:5:Beatrice}‐sama that has been passed down amongst the {ruby:çeviri > hizmetkarlar:servants}."`
 `"......Uu?"`
 `"Ah, ahh, yeah, that's right!`
 ` Shannon, tell us about it.`
-` I don't really know, but it's apparently pretty famous amongst the servants."`
+` I don't really know, but it's apparently pretty famous amongst the {ruby:çeviri > hizmetkarlar:servants}."`
 `"What's this?`
 ` A ghost story?"`
 `"Yes.`
 ` It seems it's a story from before we were born.`
 ` I've also heard it from my mother."`
 `"......Yes.`
-` It has been passed down since the mansion was built on this island.`
-` ......The servants of that time whispered that the mansion had two masters, one of the day and one of the night."`
+` It has been passed down since the {ruby:çeviri > malikane:mansion} was built on this island.`
+` ......The {ruby:çeviri > hizmetkarlar:servants} of that time whispered that the {ruby:çeviri > malikane:mansion} had two masters, one of the day and one of the night."`
 `The tale that Shannon told...`
 `was just like a typical campfire ghost story.`
 `If there was a forest with a witch living inside it,`
-` ...then, inevitably, the witch was going to pay the mansion a visit.`
-`At some point, this ghost story naturally sprouted up between the servants.`
+` ...then, inevitably, the witch was going to pay the {ruby:çeviri > malikane:mansion} a visit.`
+`At some point, this ghost story naturally sprouted up between the {ruby:çeviri > hizmetkarlar:servants}.`
 `"Doors and windows they were sure they'd shut or locked would be open when they came around to double‐check.`
 ` Lights they'd definitely turned off would be on,`
 ` and lights they'd definitely turned on would be off.`
 ` Things would disappear from where they had been placed,`
 ` and things would appear when no one had any memory of putting them there."`
-`"......When any of these things happened, the old servants would say that the witch had visited the mansion, invisible, and had played pranks."`
+`"......When any of these things happened, the old {ruby:çeviri > hizmetkarlar:servants} would say that the witch had visited the {ruby:çeviri > malikane:mansion}, invisible, and had played pranks."`
 `"Uu!`
 ` See, she exists!`
 ` {f:5:Beatrice} exists!!"`
@@ -272,26 +272,26 @@
 `...I mean, you hear that kind of story everywhere.`
 `Depending on the place, it might be blamed on fairies or something.`
 `{n}It's just that, on this island, they call it the witch.`
-`Of course, you would expect that walking around a vast, elegant mansion at night would be a little unsettling.`
+`Of course, you would expect that walking around a vast, elegant {ruby:çeviri > malikane:mansion} at night would be a little unsettling.`
 `It's an island devoid of people.`
-` Since the mansion is so drafty, walking around on the night of a thunderstorm would certainly be eerie.`
-`"In addition, some servants have also seen will‐o'‐the‐wisps and glittering butterflies dancing around.`
+` Since the {ruby:çeviri > malikane:mansion} is so drafty, walking around on the night of a thunderstorm would certainly be eerie.`
+`"In addition, some {ruby:çeviri > hizmetkarlar:servants} have also seen will‐o'‐the‐wisps and glittering butterflies dancing around.`
 ` ......Kanon‐kun also said he saw something like that when he went patrolling one night."`
-`"And recently, the servants have been talking about strange footsteps inside the mansion near midnight.`
-` We have whispered together that {f:5:Beatrice}‐sama from the portrait sometimes makes herself invisible and walks through the mansion."`
+`"And recently, the {ruby:çeviri > hizmetkarlar:servants} have been talking about strange footsteps inside the {ruby:çeviri > malikane:mansion} near midnight.`
+` We have whispered together that {f:5:Beatrice}‐sama from the {ruby:çeviri > portre:portrait} sometimes makes herself invisible and walks through the {ruby:çeviri > malikane:mansion}."`
 `"...It happened a long time ago,`
 ` but I have also heard those kinds of footsteps while patrolling at night."`
 `"......Whew.`
 ` That's scary..."`
 `"Ah, ...but,`
 ` there's nothing to be afraid of, you know?`
-` {f:5:Beatrice}‐sama is another ruler of this mansion separate from the Master.`
+` {f:5:Beatrice}‐sama is another ruler of this {ruby:çeviri > malikane:mansion} separate from the Master.`
 ` So, she won't do anything bad, as long as you respect her and don't act oddly afraid."`
 `"However, she's fearsome if you don't respect her, right?"`
 `"...Yes.`
 ` I heard that someone who quit just before I began working, after falling down the stairs and receiving a large injury to their back,`
 ` had been speaking badly of {f:5:Beatrice}‐sama.`
-` Because of that, there was a rumor between the servants that {f:5:Beatrice}‐sama's anger had been brought down upon this person..."`
+` Because of that, there was a rumor between the {ruby:çeviri > hizmetkarlar:servants} that {f:5:Beatrice}‐sama's anger had been brought down upon this person..."`
 `"Uu...`
 ` Anger will definitely be brought down on Battler and Jessica...`
 ` Uu..."`
@@ -309,19 +309,19 @@
 ` Uu!"`
 `"That's no good...`
 ` Maria‐chan, isn't there some kind of charm that could prevent Battler‐kun and Jessica‐chan from having {f:5:Beatrice}‐sama's anger brought down upon them?`
-` Maybe something to ward off magic?"`
+` Maybe something to ward off {ruby:çeviri > büyü:magic}?"`
 `By relying on Maria, who was proud of knowing the most about witches, George was trying to revive her self‐esteem.`
 `......I was once again forced to admire his ability to comfort children.`
 `After crossing her arms and pondering seriously as to whether there was some charm capable of protecting Jessica and myself from the witch's wrath,`
 ` Maria began flipping through the pages of her handbook.`
 `I had thought it was just a simple scribbled diary,`
-` ......but it turned out that there were also many pages that looked like they had come from a book on black magic.`
-`She was intently comparing several such pages, onto which had been copied what looked like magic circles.`
-`.........It looks like that black magic hobby wasn't limited to Grandfather alone.`
+` ......but it turned out that there were also many pages that looked like they had come from a book on black {ruby:çeviri > büyü:magic}.`
+`She was intently comparing several such pages, onto which had been copied what looked like {ruby:çeviri > büyü:magic} circles.`
+`.........It looks like that black {ruby:çeviri > büyü:magic} hobby wasn't limited to Grandfather alone.`
 `Perhaps she had finished her research;`
 ` she vigorously closed the notebook with a snap, threw it into her handbag, and began fishing through that bag's contents.`
 `It seemed that various jumbled up things were in there.`
-`For a while, she continued to take out various pieces of junk—although they were probably important magical items to her—`
+`For a while, she continued to take out various pieces of junk—although they were probably important {ruby:çeviri > büyülü:magical} items to her—`
 `and repeatedly throw them back in, saying they were wrong.`
 `She looked a little humorous, almost like Santa Claus deliberating over which present to give.`
 `Finally, it seemed that she had excavated what she was looking for.`
@@ -336,23 +336,23 @@
 `There were two.`
 ` Probably one for me and one for Jessica.`
 `......However, considering the odd fact that there were two of them, they looked like cheap manufactured goods,`
-` and it was quite hard to think of them as magical items.`
+` and it was quite hard to think of them as {ruby:çeviri > büyülü:magical} items.`
 `"You're giving these to me and Battler?"`
 `"Uu!`
 ` With these charms, even {f:5:Beatrice} is no problem!`
-` Because the scorpion has the power to block magic!"`
+` Because the scorpion has the power to block {ruby:çeviri > büyü:magic}!"`
 `"Huh, really?`
 ` Didn't think scorpions could do that."`
 `"Uu, Battler doesn't believe!`
 ` Uu‐uu‐uu!"`
 `I had inflamed Maria again because I said too much...`
 `Maria took out her notebook again, and turned and pointed to page after page,`
-` going on and on about how the scorpion had holy power, and had been drawn on magic‐repelling magic circles since ancient times.`
-`"......Ah, I've heard about that from some of the other young servants.`
+` going on and on about how the scorpion had holy power, and had been drawn on magic‐repelling {ruby:çeviri > büyü:magic} circles since ancient times.`
+`"......Ah, I've heard about that from some of the other young {ruby:çeviri > hizmetkarlar:servants}.`
 ` Something about how the scorpion is drawn as a magic‐repelling symbol in sorcery..."`
 `"Huh, really...!"`
 `"Uu!`
-` The scorpion protects against bad magic and disasters.`
+` The scorpion protects against bad {ruby:çeviri > büyü:magic} and disasters.`
 ` And emerald brings peace to the heart.`
 ` So it has double the effect!`
 ` Uu!"`
@@ -381,7 +381,7 @@
 `She was completely cheered up again.`
 `If it would keep her in this good of a mood, it would probably be worth it to let Maria lead the discussion for a while longer.`
 `When you think about it, she hadn't shared in our excitement when we talked about the gold's hidden location, so I think she had gotten a little bored.`
-`While eating the cookies Kumasawa‐san had baked, Jessica and I asked Maria this and that about black magic.`
+`While eating the cookies Kumasawa‐san had baked, Jessica and I asked Maria this and that about black {ruby:çeviri > büyü:magic}.`
 `Maria happily chatted away in response to our questions.`
 `For each one, George‐aniki and Shannon‐chan would act surprised and agree with everything she said.`
 `The color of the clouds in the sky grew progressively heavier, but the cousins really enjoyed communicating freely after one year of separation...`
@@ -408,7 +408,7 @@
 ` Thank you very much."`
 `"Tell Kumasawa‐san thanks for the cookies.`
 ` Alright everyone, help out with the cleanup."`
-`Shannon‐chan declined our help, saying that this was a servant's job,`
+`Shannon‐chan declined our help, saying that this was a {ruby:çeviri > hizmetkar:servant}'s job,`
 ` but picking up a dropped fork before the waitress has to is like my purpose in life.`
 `We folded up the blanket, gathered up the trash, and helped clean everything up.`
 `"Uu!`
@@ -434,8 +434,8 @@
 ` Do your best with your work."`
 `"Ye‐yes!`
 ` ......Then if you will excuse me."`
-`After making a respectful bow, Shannon‐chan hurried off in the direction of the rose garden.`
-`"Okay, let's head back to the guesthouse.`
+`After making a respectful bow, Shannon‐chan hurried off in the direction of the {ruby:çeviri > gül bahçesi:rose garden}.`
+`"Okay, let's head back to the {ruby:çeviri > konukevi:guesthouse}.`
 ` We can watch TV or something and relax a little."`
 `"Uu!`
 ` Watch TV!`
@@ -443,7 +443,7 @@
 `"Then it's decided.`
 ` Let's all head back and watch TV together."`
 `Even Maria, who was still not tired of playing, agreed when she thought about watching TV.`
-`We headed up the gentle stairs and returned to the rose garden.`
+`We headed up the gentle stairs and returned to the {ruby:çeviri > gül bahçesi:rose garden}.`
 `The wind had become very strong, and roses shook throughout the garden like ripples on water.`
 `This might be our last chance to see these beautiful roses.`
 `{n}Tonight's typhoon is sure to ruin them...`
@@ -520,10 +520,10 @@
 ` Maria shouted out loudly.`
 `"Mamaa!!`
 ` Uu‐uu!!"`
-`In the direction she was waving her hand, Auntie Rosa's figure was visible.`
+`In the direction she was waving her hand, {ruby:çeviri > Hala:Auntie} Rosa's figure was visible.`
 `Maybe she wanted to look at the garden one more time before the typhoon came,`
-` or maybe she had some business at the guesthouse.`
-`Auntie Rosa was coming from the mansion.`
+` or maybe she had some business at the {ruby:çeviri > konukevi:guesthouse}.`
+`{ruby:çeviri > Hala:Auntie} Rosa was coming from the {ruby:çeviri > malikane:mansion}.`
 `{n}She quickly noticed her daughter's voice and came over.`
 `"Oh my, what happened, everyone?`
 ` Are you looking for something?"`
@@ -543,10 +543,10 @@
 ` Uu‐uu!!"`
 `"For the umpteenth time, will you please stop that "uu‐uu" nonsense?!`
 ` Mama will look for it, so stay quiet!!"`
-`I was a little surprised to see Auntie Rosa, who I had only ever seen as gentle, get angry.`
-`Auntie Rosa began searching as well, so we went along with her for the time being,`
+`I was a little surprised to see {ruby:çeviri > Hala:Auntie} Rosa, who I had only ever seen as gentle, get angry.`
+`{ruby:çeviri > Hala:Auntie} Rosa began searching as well, so we went along with her for the time being,`
 ` but we were already more than sure that it wasn't around here.`
-`...And so, Auntie Rosa also realized, very quickly, that it wasn't here.`
+`...And so, {ruby:çeviri > Hala:Auntie} Rosa also realized, very quickly, that it wasn't here.`
 `"The rose isn't here.`
 ` Did you mistake this place for somewhere else?`
 ` There are so many roses around—"`
@@ -571,7 +571,7 @@
 ` Uu‐uu‐uu‐uu!!!"`
 `"How should I know!!`
 ` Stop it, stop that whining!!"`
-`Auntie Rosa slapped Maria's left cheek with her palm.`
+`{ruby:çeviri > Hala:Auntie} Rosa slapped Maria's left cheek with her palm.`
 `{n}For that instant, Maria was shocked into silence.`
 `Of course, it was only for an instant.`
 `{n}When Maria realized that her wish was being rejected before it could be fulfilled, she started yelling with an increasingly louder voice.`
@@ -586,13 +586,13 @@
 `Once again, her palm slapped Maria's cheek.`
 `This time she didn't go silent.`
 `{n}She choked as she started crying, and began to bawl in an increasingly louder voice...`
-`Auntie Rosa was clearly irritated, and lifted her hand once more to try and shut her daughter up...`
+`{ruby:çeviri > Hala:Auntie} Rosa was clearly irritated, and lifted her hand once more to try and shut her daughter up...`
 `"A‐Auntie Rosa...`
 ` Now, now...she's just a little kid...there's no reason to get so serious...ihihi."`
 `I attempted to intervene with a forced smile and my hands clasped together,`
-` ...but the deadly serious look I was thrown by Auntie Rosa taught me quickly that I shouldn't butt in.`
+` ...but the deadly serious look I was thrown by {ruby:çeviri > Hala:Auntie} Rosa taught me quickly that I shouldn't butt in.`
 `"I'm sorry, would you all return to your room for a little while?`
-` Your auntie needs to have a little talk with Maria."`
+` Your {ruby:çeviri > hala:auntie} needs to have a little talk with Maria."`
 `"Uu‐uu‐uu!!`
 ` Nobody believes in my rose!!`
 ` Even though it was here!!`
@@ -615,9 +615,9 @@
 ` Uu‐uu‐uu!!!"`
 `"I don't know that!!`
 ` So stop saying "uu‐uu"!!"`
-`Auntie Rosa once again raised her hand and, overrun by emotions, slapped Maria's cheek.`
+`{ruby:çeviri > Hala:Auntie} Rosa once again raised her hand and, overrun by emotions, slapped Maria's cheek.`
 `{n}It was so strong, it knocked Maria over.`
-`"H‐hey...Auntie Rosa,`
+`"H‐hey...{ruby:çeviri > Hala:Auntie} Rosa,`
 ` even if she is your daughter, you shouldn't be violent like that..."`
 `I stepped between them to protect Maria, who was still on the ground, crying "uu‐uu".`
 `......I know that problems between parent and child are none of my business as an outsider.`
@@ -629,7 +629,7 @@
 `"Cute?`
 ` Saying "uu‐uu" is cute?`
 ` Cute?!"`
-`It seemed that my reckless words had brought Auntie Rosa's wrath down upon me.`
+`It seemed that my reckless words had brought {ruby:çeviri > Hala:Auntie} Rosa's wrath down upon me.`
 `{n}She grabbed my collar with a terrifying expression...`
 `"Don't say such nonsense!!`
 ` Do you know how old Maria is?`
@@ -646,10 +646,10 @@
 ` Uu‐uu‐uu‐uu‐uu‐uu!!!"`
 `"I told you, stop saying "uu‐uu"!!!`
 ` Didn't I tell you to stop it!!"`
-`Auntie Rosa struck Maria's quivering head from which an increasingly unsatisfied voice was rising.`
+`{ruby:çeviri > Hala:Auntie} Rosa struck Maria's quivering head from which an increasingly unsatisfied voice was rising.`
 `I tried to stop her, but she thrust me away...`
 `My back collided with George‐aniki.`
-`"......A long time ago, Auntie Rosa also thought of it as nothing more than one of Maria‐chan's baby words...`
+`"......A long time ago, {ruby:çeviri > Hala:Auntie} Rosa also thought of it as nothing more than one of Maria‐chan's baby words...`
 `but she is now midway through elementary school, so the fact that it hasn't been fixed has bothered her a lot recently..."`
 `"It's not like it matters what kind of words she uses..."`
 `"You can't become a proper member of society like that.`
@@ -666,14 +666,14 @@
 ` ......Do you understand as well, Jessica‐chan?"`
 `"............I don't think anyone likes to be seen when they're being punished."`
 `"Let's go.`
-` Let's return to the guesthouse.`
+` Let's return to the {ruby:çeviri > konukevi:guesthouse}.`
 ` Then, after Maria‐chan comes back,`
 ` let's welcome her as if nothing happened.`
 ` ...That's...probably for the best, isn't it?"`
 `We thought that George‐aniki's point was probably correct,`
 ` ...and if we could use that correct‐sounding reason to justify our retreat from this painful scene, that was probably enough for us.`
 `Jessica and I nodded at George‐aniki, and we all left.`
-`We called towards Maria that we were going to head to the guesthouse,`
+`We called towards Maria that we were going to head to the {ruby:çeviri > konukevi:guesthouse},`
 ` but since it didn't seem to reach her ears, we felt guilty and shameless even saying it...`
 `"In that case, look by yourself as much as you want!`
 ` Mama doesn't care!!"`
@@ -683,12 +683,12 @@
 ` Look for it even if Mama doesn't care!`
 ` Uu‐uu‐uu‐uu‐uu!!"`
 `"Have it your way!!"`
-`After blasting her with those last few words, Rosa spun on her heels and quickly returned to the mansion.`
+`After blasting her with those last few words, Rosa spun on her heels and quickly returned to the {ruby:çeviri > malikane:mansion}.`
 `Maria probably viewed that as a cold, hurtful gesture.`
 `But from Rosa's perspective, that was not her intention.`
 `...It was because the hand which she had so emotionally struck Maria's cheek with was still numb.`
 `...It was because, if she stayed there screaming, she might again be taken over by her emotions, and continue slapping her daughter's cheek over and over.`
-`After Rosa left, only Maria was left in the rose garden, all alone.`
+`After Rosa left, only Maria was left in the {ruby:çeviri > gül bahçesi:rose garden}, all alone.`
 `The wind began to blow stronger and stronger, and every once in a while, a raindrop would fall on her forehead.`
 `...However, Maria couldn't leave that place.`
 `{n}Not until she found that poor, withering rose.`
@@ -722,9 +722,9 @@
 ` Four of my children.`
 ` Three of their companions.`
 ` Four of my grandchildren.`
-` Me and my guests and my servants!`
+` Me and my guests and my {ruby:çeviri > hizmetkarlar:servants}!`
 ` You may eat up as many as you please."`
-`"The key of fate will select the sacrifices in accordance with the Demons' Roulette.`
+`"The key of fate will select the sacrifices in accordance with the {ruby:çeviri > İblislerin Ruleti:Demons' Roulette}.`
 ` If that roulette chooses me, even I will become your sacrifice.`
 ` ......However, because of that...`
 `because I will bet on that madness,`

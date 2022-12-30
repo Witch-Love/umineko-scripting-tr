@@ -8,7 +8,7 @@
 ` She's talking about who killed the 1986 {f:5:Beatrice}."`
 `"......I'm not really sure what you mean by "this year's {f:5:Beatrice}".`
 ` What's all this about a witch called {f:5:Beatrice}?`
-` You've mentioned a ghost story, you've mentioned an epitaph...`
+` You've mentioned a ghost story, you've mentioned an {ruby:çeviri > kitabe:epitaph}...`
 ` Isn't it about time you explained all this to me?"`
 `"Alright.`
 ` No point stringing you along."`
@@ -36,7 +36,7 @@
 `So,`
 ` this means that she tends to think of the same person as different people depending on their behavior.`
 `We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.`
-`After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.`
+`After being chased out of the {ruby:çeviri > malikane:mansion} by the adults, Maria decided to drink some tea in the {ruby:çeviri > gül bahçesi:rose garden}.`
 `At that time, someone probably started talking to Maria.`
 `Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},`
 ` .........this person acted as though {f:5:Beatrice} was possessing them.`
@@ -51,17 +51,17 @@
 ` I do feel sorry for Maria, but still..."`
 `"Don't ignore the heart.`
 ` ......So, Maria believed {i:for the sake of believing}.`
-` She believed in {f:5:Beatrice}'s simple conjuring trick from the bottom of her heart.`
+` She believed in {f:5:Beatrice}'s simple conjuring {ruby:çeviri > numara:trick} from the bottom of her heart.`
 ` That probably comforted her a lot.`
 ` ......And at that moment, the witch {f:5:Beatrice} was born."`
 `"Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"`
 `"That's right."`
 `This marks the birth of Beato the Elder.`
 `All of that about living a thousand years and being bound to Rokkenjima.`
-`That was all the result of mixing the legend of Rokkenjima's evil spirits with the story of a ghost wandering the mansion at night.`
+`That was all the result of mixing the legend of Rokkenjima's evil spirits with the story of a ghost wandering the {ruby:çeviri > malikane:mansion} at night.`
 `As Furudo Erika guessed, the two ghost stories fused.`
 `Someone fused the two stories together and acted the part.`
-`So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion's night, while also fearing spiderwebs.`
+`So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the {ruby:çeviri > malikane:mansion}'s night, while also fearing spiderwebs.`
 `"So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},`
 ` she means who killed the kind person who pretended to be {f:5:Beatrice}?"`
 `"That's close, but not quite.`
@@ -81,25 +81,25 @@
 `"......I see.`
 ` If you kill the phone, you won't be able to talk to me, but that doesn't mean you've killed me."`
 `"We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.`
-` That clearly shows that {f:5:Beatrice} did not look like the portrait at that time."`
+` That clearly shows that {f:5:Beatrice} did not look like the {ruby:çeviri > portre:portrait} at that time."`
 `"So, if the person acting the part and the witch character they play are different people, ......we're talking about killing just the witch character itself.`
 ` ......Is that even possible?"`
 `"Only the actor can kill the character.`
 ` In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."`
-`"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}'s talking about?"`
+`"You mean that the person who played witches with Maria‐chan is the {ruby:çeviri > suçlu:culprit} {f:5:Bernkastel}'s talking about?"`
 `"That's it.`
-` .........But, as if this wasn't confusing enough, this chapel is now a world inside a cat box.`
-` The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."`
+` .........But, as if this wasn't confusing enough, this {ruby:çeviri > kilise:chapel} is now a world inside a cat box.`
+` The {ruby:çeviri > suçlu:culprit} is the cat, and there are now two cats existing at the same time—one alive, and one dead."`
 `"......Confusing is right.`
 ` I'm still lost, but keep going.`
-` You're saying that there are two culprits?"`
+` You're saying that there are two {ruby:çeviri > suçlular:culprits}?"`
 `"Right.`
 ` ......The person who can create and kill {f:5:Beatrice}...`
 `...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.`
 ` Both of those people are here."`
 `"Then let me ask.`
 ` In this {f:5:Beatrice} murder case,`
-` who are the two culprits?"`
+` who are the two {ruby:çeviri > suçlular:culprits}?"`
 `"Let's start with...`
 `...the dead cat."`
 `"Who is it?"`
@@ -136,9 +136,9 @@
 ` If you exist, the witch {f:5:Beatrice} doesn't.`
 ` Your existence...`
 `...{i:kills {f:7:Beatrice}}."`
-`"Are you saying I'm the culprit who killed {f:5:Beatrice}......?`
+`"Are you saying I'm the {ruby:çeviri > suçlu:culprit} who killed {f:5:Beatrice}......?`
 ` That's......just crazy.`
-` How can I be the culprit if I don't even understand her and have never met her?"`
+` How can I be the {ruby:çeviri > suçlu:culprit} if I don't even understand her and have never met her?"`
 `"Flip it around.`
 ` ......If you don't exist, {f:5:Beatrice} will be born."`
 `"Flip it?`
@@ -383,13 +383,13 @@
 `"Impressive.`
 ` So, you'd figured out the whodunit and the whydunit by the end of the fourth game.`
 ` ......Then what about the howdunit?"`
-`"Once you know who the culprit is, theorizing about the howdunit isn't impossible.`
+`"Once you know who the {ruby:çeviri > suçlu:culprit} is, theorizing about the howdunit isn't impossible.`
 ` ......Those linked locked rooms in the third game were so skillfully done, I felt like clapping."`
 `"And what about the riddle at the end of the fourth game,`
 ` "who am I"......?"`
-`"The "culprit" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.`
+`"The "{ruby:çeviri > suçlu:culprit}" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.`
 ` It was possible to form a certain kind of hypothesis at the moment the question was asked.`
-` ......You might call that the other treasure of the Golden Land."`
+` ......You might call that the other treasure of the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"......Oh?`
 ` So, you say that by the fourth game,`
 ` ......in other words, with just {f:5:Beatrice}'s games, you managed to reach all of the answers?"`
@@ -399,8 +399,8 @@
 `"*giggle*giggle*......`
 ` ......In that case, why don't you stop beating around the bush, and just tell me?`
 ` .........Who is...`
-`the culprit......?"`
-`At that moment, .........though there hadn't been anyone but them in the chapel, quiet footsteps rang out.`
+`the {ruby:çeviri > suçlu:culprit}......?"`
+`At that moment, .........though there hadn't been anyone but them in the {ruby:çeviri > kilise:chapel}, quiet footsteps rang out.`
 `That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.`
 `".........So, you've come."`
 `"Did you call this person here?"`
@@ -428,7 +428,7 @@
 ` ......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.`
 ` ......I was left speechless.`
 ` ......In every game, you die without revealing that truth to anyone."`
-`Having you confess in this empty chapel might be pointless.`
+`Having you confess in this empty {ruby:çeviri > kilise:chapel} might be pointless.`
 `However, even so, .........I believe it will bring you some measure of salvation.`
 `People are only saved when someone understands them.`
 `It's time someone forgave this pitiable witch, who went years after her death without being understood,`
@@ -464,4 +464,4 @@
 `......Then, the two of them looked into {f:5:Bernkastel}'s eyes,`
 ` ......and Will spoke out clearly.`
 `{a:c:`
-`"Here's the culprit."}`
+`"Here's the {ruby:çeviri > suçlu:culprit}."}`

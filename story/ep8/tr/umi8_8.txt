@@ -1,9 +1,9 @@
-`After putting Ange to sleep in the parlor, Genji and the others returned.`
+`After putting Ange to sleep in the {ruby:çeviri > salon:parlor}, Genji and the others returned.`
 `"Thanks.`
 ` Was she sleeping well...?"`
 `"Yes.`
 ` She is sleeping peacefully."`
-`"The noise from here won't reach the parlor, right...?"`
+`"The noise from here won't reach the {ruby:çeviri > salon:parlor}, right...?"`
 `"That's right.`
 ` The door is closed, so I don't think it will reach."`
 `"............Ange.`
@@ -222,7 +222,7 @@
 `When Battler stepped forward, everyone silently awaited his words.`
 `"Glad you could all make it!!`
 ` This marks the end of my long game with Beato...!`
-` I've invited everyone who has been a part of this game as a piece, a player, or a Game Master!`
+` I've invited everyone who has been a part of this game as a piece, a player, or a {ruby:çeviri > Oyun Yöneticisi:Game Master}!`
 ` I hope you'll enjoy this unending night to the fullest!!"`
 `Cheers.`
 `""Cheeeeeeeeeeers!!""`
@@ -249,7 +249,7 @@
 `I got up from the sofa and put on my shoes, which had been placed neatly for me to find.`
 `Let's go.`
 ` To where everyone is.`
-`The parlor door was shut.`
+`The {ruby:çeviri > salon:parlor} door was shut.`
 `......I tried to open it, but maybe because of my clumsiness, I couldn't get it open.`
 `It was a bit creepy, as though the bad dream I'd just had was continuing.`
 `".........It won't open.`
@@ -298,15 +298,15 @@
 `It then turned its head to look at me, almost as though it was telling me to follow it, and it leapt down into the darkness, leaving the jingle of its bell behind.`
 `When I peeked out the window, I saw the cat waiting for me under the pounding rain.`
 `......I finally realized.`
-`This window was the only exit out of this locked‐room parlor.`
+`This window was the only exit out of this locked‐room {ruby:çeviri > salon:parlor}.`
 `{n}That cat had surely come to tell me that.`
 `The longer I keep standing around here, the longer the cat will have to wait in the rain.`
 `That's no good.`
 ` It'll catch cold.`
 `I climbed up onto the windowsill and went out the window.`
 `The wind was strong, and the rain was cold, but I didn't get as wet as I'd thought I would.`
-`{n}I might have been in the mansion's shadow.`
-`When the cat saw that I was outside, it walked along the wall of the mansion as if guiding me.`
+`{n}I might have been in the {ruby:çeviri > malikane:mansion}'s shadow.`
+`When the cat saw that I was outside, it walked along the wall of the {ruby:çeviri > malikane:mansion} as if guiding me.`
 `It quickly disappeared into the blackness, but every now and then, it would turn around and set the bell jingling to let me know it was there.`
 `Eventually, a window with light seeping out came into view.`
 `It was the window to the hall.`
@@ -324,10 +324,10 @@
 `{n}I'll just get inside somehow and yell at everyone.`
 `When the cat realized that I had given up knocking on the window, it led me onwards with another jingle.`
 `......But just where is this cat going?`
-`I know it's following the wall of the mansion.`
+`I know it's following the wall of the {ruby:çeviri > malikane:mansion}.`
 `{n}But that's not the way to the front door.`
 `The front door might be locked.`
-`I'm sure the cat knows a place that I can get into the mansion from...and is leading me there.`
+`I'm sure the cat knows a place that I can get into the {ruby:çeviri > malikane:mansion} from...and is leading me there.`
 `Away from the light seeping from the hall,`
 ` ......and towards the blackness lit only dimly by the lights in the garden, ......the cat and I continued to walk.`
 `Then, .........I found it.`
@@ -350,23 +350,23 @@
 ` However, as my eyes got used to the darkness, I was able to make out a few things.`
 `It was a large room.`
 ` There was a long table, and many chairs.`
-`{n}......It was...the dining hall.`
+`{n}......It was...the {ruby:çeviri > yemek salonu:dining hall}.`
 `Perhaps because I realized this and was relieved, I was suddenly unable to see again.`
 `I searched blindly along the wall for the light switch.`
 `Then, finally, I felt a familiar shape.`
 `......Wouldn't it be annoying if I pushed this, and the light didn't come on?`
 `Click.`
-`In fact, ......it was nearly the opposite, and an annoyingly bright light filled the dining hall and made my eyes hurt.`
+`In fact, ......it was nearly the opposite, and an annoyingly bright light filled the {ruby:çeviri > yemek salonu:dining hall} and made my eyes hurt.`
 `I slowly opened my tightly shut eyes.`
 `...............And then,`
 `......I saw the state the room was in.`
-`The dining hall was covered with blood......and there were people......many people......lying on the floor......`
+`The {ruby:çeviri > yemek salonu:dining hall} was covered with blood......and there were people......many people......lying on the floor......`
 `Then, .........I realized that two of them were my own parents.`
 `"Hey, are you having a great time, people?!!"`
 `"Any kids who aren't having a good time'll get eaten!"`
 `""Yell and sing the praises of tonight's banquet!!`
 ` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""`
-`The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of magical fantasy.`
+`The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of {ruby:çeviri > büyülü:magical} fantasy.`
 `At first, everyone stayed with their own groups, too nervous to mingle.`
 `However, as time passed, people started to move around, and both halves began to chat happily together.`
 `"Anyway, they never listen, do they?!"`
@@ -464,11 +464,11 @@
 `"Ah, Shannon‐chan, you'll do.`
 ` ......Do you have a second?"`
 `Battler came back into the hall.`
-` He was searching for a servant, and the first one his eyes met was Shannon.`
+` He was searching for a {ruby:çeviri > hizmetkar:servant}, and the first one his eyes met was Shannon.`
 `"Of course, Battler‐sama.`
 ` Do you need something?"`
-`"Sorry, but would you mind lending me the key to the parlor?"`
-`"The...parlor...?`
+`"Sorry, but would you mind lending me the key to the {ruby:çeviri > salon:parlor}?"`
+`"The...{ruby:çeviri > salon:parlor}...?`
 ` The master keys can open that, ......but why?"`
 `"Well, I was just wondering if Ange was asleep, so I went over there.`
 ` The door was locked."`
@@ -485,7 +485,7 @@
 `In the hall, {f:5:Lambdadelta} started suggesting that they all have another quiz tournament together.`
 `Apparently, the Witch of Certainty would be handing out prizes.`
 ` Everyone seemed enthusiastic about the idea.`
-`Smiling contently at the ensuing uproar, Battler headed towards the parlor.`
+`Smiling contently at the ensuing uproar, Battler headed towards the {ruby:çeviri > salon:parlor}.`
 `".........It really is locked.`
 ` Shall I open it?"`
 `"Hmmm......`
@@ -504,7 +504,7 @@
 `Speaking a quiet voice to avoid waking Ange if she was asleep, Battler opened the door.`
 `Then, just as the door was opened, a chilly breeze drifted by.`
 `The breeze, which felt like outside air, immediately caught the attention of the pair, and they looked at each other.`
-`......It could be seen at a glance that Ange wasn't in the parlor.`
+`......It could be seen at a glance that Ange wasn't in the {ruby:çeviri > salon:parlor}.`
 `The curtains to the wide‐open window fluttered about.`
 `"Ange......? ......Ange......?"`
 `A blanket lay crumpled up on the sofa.`
@@ -514,7 +514,7 @@
 `"Ange‐sama......?`
 ` ......Are you there......?"`
 `She obviously wasn't playing hide‐and‐seek.`
-` ......Ange was nowhere to be seen in the parlor.`
+` ......Ange was nowhere to be seen in the {ruby:çeviri > salon:parlor}.`
 `Battler peered out the open window into the rainy blackness.`
 `......So, she slipped out the window in this rain and went......where?`
 `"Do you think Ange‐sama might have gone out the window......?"`
@@ -523,8 +523,8 @@
 `It was very hard to imagine any reason Ange could have for going outside in this weather.`
 `............I have a bad feeling about this.`
 `This shouldn't be happening.`
-`{n}I'm the Game Master of this game board.`
-`So why are we in a situation that the Game Master can't understand...?`
+`{n}I'm the {ruby:çeviri > Oyun Yöneticisi:Game Master} of this game board.`
+`So why are we in a situation that the {ruby:çeviri > Oyun Yöneticisi:Game Master} can't understand...?`
 `A large bolt of lightning lit up my surroundings for an instant, but I was unable to see any trace of Ange......`
 `"Okay, okay, now it's my turn to think of a question!`
 ` Umm, okay, so you have a third of a whole cake, a quarter of a cake, and a fifth of a cake all on a plate!`
@@ -568,22 +568,22 @@
 `"What are you talking about?`
 ` Did something happen...?"`
 `"Ange's gone.`
-` Even I, the Game Master, don't know where she went."`
+` Even I, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, don't know where she went."`
 `"That's insane...!`
 ` Isn't this your game?!`
 ` That doesn't make sense...!"`
 `".........If Ange disappearing isn't a scenario created by Battler,`
-` .........that means there must be another Game Master."`
+` .........that means there must be another {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
 `"Is that even possible...?!"`
 `"Oh, yes,`
 ` I was surprised myself.`
 ` ......Just when I opened the game board to start a delightful game of my own,`
 ` I found that Battler had started up this bizarre game at the same time.`
-` ......Two Game Masters at once... It's a crazy world we live in, don't you think...?"`
+` ......Two {ruby:çeviri > Oyun Yöneticileri:Game Masters} at once... It's a crazy world we live in, don't you think...?"`
 `"In other words, ......you're admitting that you hid Ange away somewhere."`
 `".....................`
 `......It would seem so.`
-` After all, no one could create a scenario not invented by the Game Master...except for another Game Master."`
+` After all, no one could create a scenario not invented by the {ruby:çeviri > Oyun Yöneticisi:Game Master}...except for another {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
 `"Would this be......those festivities to liven up the party that you mentioned?"`
 `"......All of you looked like you were having a blast with that quiz tournament.`
 ` So, I decided I wanted to join in."`
@@ -754,13 +754,13 @@
 `"......Do you have a game prepared?"`
 `"Of course.`
 ` ......I worked hard on this game, and I'm pretty proud of it."`
-`"So, Bern will be the Game Master, and Battler and Beato will be the players?`
-` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} tricks?"`
+`"So, Bern will be the {ruby:çeviri > Oyun Yöneticisi:Game Master}, and Battler and Beato will be the players?`
+` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} {ruby:çeviri > numaralar:tricks}?"`
 `"I'm interested to see what sort of scenario Lady {f:5:Bernkastel} develops."`
-`"......We'll explain things with the blue truth, and you'll knock those down with the red truth.`
+`"......We'll explain things with the {ruby:çeviri > mavi gerçek:blue truth}, and you'll knock those down with the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` Are we alright with those rules?"`
 `".........My game will be a simpler one.`
-` It's just a quiz of guessing the culprit.`
+` It's just a quiz of guessing the {ruby:çeviri > suçlu:culprit}.`
 ` ......I don't feel like trading red and blue with you."`
 `"Oh...?`
 ` What kind of game will that be...?`
@@ -782,16 +782,16 @@
 ` There are several rules to it, but if you follow them as you read it through, it'll lead you to a Single Truth—in other words, an answer."`
 `"So, ......it's an ordinary mystery novel?"`
 `"I see...`
-` In that case, there's no need for combat between red and blue truth."`
+` In that case, there's no need for combat between red and {ruby:çeviri > mavi gerçek:blue truth}."`
 `In Beato's games, the argument was about whether it was a mystery or not.`
 `However, {f:5:Bernkastel}'s game was a mystery.`
 ` There was no need to argue that from the start.`
-`"I've even cut out the motive and the tricks.`
+`"I've even cut out the motive and the {ruby:çeviri > numaralar:tricks}.`
 ` ......There's only one question I'm asking you."`
 `"Whodunit."`
 `"......What a simple, yet fitting game to conclude our fight."`
 `"Yeah.`
-` ......No cheap tricks.`
+` ......No cheap {ruby:çeviri > numaralar:tricks}.`
 ` Just a stoically simple game."`
 `"This is a genuine duel......"`
 `"As the observer, I'll say this.`
@@ -840,7 +840,7 @@
 `"......A Reader miko can use her own voice to embellish or distort the tale.`
 ` ......Even if there was no cheap trickery in my game, by having a Reader, any amount of trickery could be added."`
 `"Yes, that is true.`
-` ......That's another of the Game Master's privileges."`
+` ......That's another of the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s privileges."`
 `"I want to have a straightforward duel with you.`
 ` .........So, I don't need a Reader.`
 ` You can read this tale with your own eyes and ears."`
@@ -852,7 +852,7 @@
 `"If there is no Reader, .........doesn't that mean there will be absolutely no falsehoods in the narrated text?"`
 `"We're ready, {f:5:Bernkastel}."`
 `".............................."`
-`"A showdown over a genuine mystery, without any cheap tricks.`
+`"A showdown over a genuine mystery, without any cheap {ruby:çeviri > numaralar:tricks}.`
 ` .........If you're going to play fair and square, we'll challenge you head on too."`
 `".........Thank you.`
 ` ......And I don't plan on losing either."`
@@ -871,28 +871,28 @@
 `"That is more like it!`
 ` We'll take your challenge, Lady {f:5:Bernkastel}, Witch of Miracles!"`
 `"Alright, time to start!!`
-` I, Game Master Ushiromiya Battler,`
+` I, {ruby:çeviri > Oyun Yöneticisi:Game Master} Ushiromiya Battler,`
 ` and {f:5:Beatrice}, the Endless Witch, will be your opponents!`
 ` Don't start crying when we wipe the floor with you!!"`
 `"Take this! Behold a mystery from {f:5:Bernkastel}!!!"`
 `{f:5:Bernkastel} took the fragment holding the game and smashed it against the table, shattering it with a brilliant light as the game's scenario laid itself out.`
 `The curtain rose.........on the mystery {f:5:Bernkastel} had created......`
 `No sound but that of the falling rain filled the room.`
-`It covered the tragic scene in the bloody dining hall......`
+`It covered the tragic scene in the bloody {ruby:çeviri > yemek salonu:dining hall}......`
 `".............................."`
 `At some point, Ange had fainted and fallen to the floor.`
 `Now, her consciousness was slowly returning, ......forcing her to remember what had happened in this room.`
 `So, she reflexively averted her gaze even before the memory overtook her.`
-`Six bodies lay in the blood‐stained dining hall.`
+`Six bodies lay in the blood‐stained {ruby:çeviri > yemek salonu:dining hall}.`
 `Strangely enough, as her consciousness returned bit by bit, the terrifying scene before her seemed somehow less intense.`
 `So, this time, Ange was able to look at the six corpses well enough to make out who they were.`
 `First, ......there were her own parents.`
 ` ......They were a pitiful sight, colored bright red by a bloody makeup.`
-`Next to them, that's Uncle Hideyoshi......and Auntie Eva.`
-`Both Uncle Hideyoshi, the uncle who always said something funny and made me laugh......and Auntie Eva, the aunt who seemed to be so fond of me,`
+`Next to them, that's Uncle Hideyoshi......and {ruby:çeviri > Hala:Auntie} Eva.`
+`Both Uncle Hideyoshi, the uncle who always said something funny and made me laugh......and {ruby:çeviri > Hala:Auntie} Eva, the aunt who seemed to be so fond of me,`
 ` ......are lying there dead...`
-`Genji‐san, the servant, is lying over there.`
-`And, the one lying right here......is Auntie Rosa.`
+`Genji‐san, the {ruby:çeviri > hizmetkar:servant}, is lying over there.`
+`And, the one lying right here......is {ruby:çeviri > Hala:Auntie} Rosa.`
 `Six people.`
 `A full six people......had their lives taken from them...and are lying in this room......`
 `Maybe I had cried myself out before I fell unconscious.`
@@ -910,8 +910,8 @@
 `............?`
 `I immediately noticed something odd.`
 ` The door was locked.`
-`The same bad feeling I'd felt after being locked in the parlor crawled up my spine.`
-`......However, unlike the time in the parlor, this door unlocked itself easily when I turned the knob.`
+`The same bad feeling I'd felt after being locked in the {ruby:çeviri > salon:parlor} crawled up my spine.`
+`......However, unlike the time in the {ruby:çeviri > salon:parlor}, this door unlocked itself easily when I turned the knob.`
 `I unlocked it...and slowly opened the door......`
 `Beyond the door, .........I could see the dimly‐lit hallway, and a cat dashing down it away from me.`
 `Then, it stopped, its emerald eyes glittering in the darkness, ......as though it was waiting for me to follow.`
@@ -922,7 +922,7 @@
 ` ......and the howling of the storm outside.`
 `......The party is being held in the hall.`
 `I should be able to hear at least a little of the noise from this hallway......`
-`".........Maybe it got really late......while I was passed out in the dining hall..."`
+`".........Maybe it got really late......while I was passed out in the {ruby:çeviri > yemek salonu:dining hall}..."`
 `It was a reasonable conclusion.`
 ` Then, we finally reached the main hall.`
 `......The hall was frigid, and no trace of that party atmosphere remained.`
@@ -963,14 +963,14 @@
 `Krauss and Natsuhi's corpses lay sprawled on the floor......`
 `Very shortly, Ange will step into this room.`
 `{n}She will then scream in terror once more......`
-`And it isn't just the dining hall and Natsuhi's room.`
-`In the stormy rose garden, .........Shannon's corpse lies exposed to the rain.`
-`......Partway down the path to the rose garden...is Jessica's corpse.`
-`When Ange finds that, she'll probably dash crying and screaming into the guesthouse.`
-`And......death awaits her inside the guesthouse as well.`
+`And it isn't just the {ruby:çeviri > yemek salonu:dining hall} and Natsuhi's room.`
+`In the stormy {ruby:çeviri > gül bahçesi:rose garden}, .........Shannon's corpse lies exposed to the rain.`
+`......Partway down the path to the {ruby:çeviri > gül bahçesi:rose garden}...is Jessica's corpse.`
+`When Ange finds that, she'll probably dash crying and screaming into the {ruby:çeviri > konukevi:guesthouse}.`
+`And......death awaits her inside the {ruby:çeviri > konukevi:guesthouse} as well.`
 `Just inside the front door...is Nanjo's corpse.`
-`In the servant room nearby, even Gohda and Kumasawa lie dead.`
+`In the {ruby:çeviri > hizmetkar:servant} room nearby, even Gohda and Kumasawa lie dead.`
 `......The total number of corpses...is thirteen.`
 `A full thirteen corpses are waiting for Ange.`
-`They wait in the mansion and the guesthouse on this desolate Rokkenjima...`
+`They wait in the {ruby:çeviri > malikane:mansion} and the {ruby:çeviri > konukevi:guesthouse} on this desolate Rokkenjima...`
 `...for Ange, exposed to the wind and rain and tormented by thunder, to find them......`

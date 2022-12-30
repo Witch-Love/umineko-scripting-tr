@@ -3,15 +3,15 @@
 `I was a middle schooler at the time.`
 `{n}An ordinary girl, who dreamed about love, as is normal at that age.`
 `But I really should not have dreamed that dream.`
-`...Because I am "furniture".`
+`...Because I am "{ruby:çeviri > mobilya:furniture}".`
 `{n}Furniture is nothing more than a tool, and is not human.`
 `For a person less than human such as myself, just receiving my education was more than sufficient happiness.`
 `So even thinking about love was more than I deserved...`
 `The Ushiromiya family conference was a customary event held every October,`
 ` but relatives would occasionally visit at other times as well.`
 `{n}...Of course, they didn't come just to drink tea.`
-`On this day, Eva's family had visited the head family on Rokkenjima.`
-`The three people from Krauss's family and the three people from Eva's family had gathered in the parlor,`
+`On this day, Eva's family had visited the {ruby:çeviri > baş aile:head family} on Rokkenjima.`
+`The three people from Krauss's family and the three people from Eva's family had gathered in the {ruby:çeviri > salon:parlor},`
 ` and were having a friendly chat as they updated everyone on their situations.`
 `Genji had supposedly told Kinzo of Eva's family's arrival, but he hadn't come down yet.`
 `...He was probably immersed in his own "research", and couldn't spare the time.`
@@ -50,7 +50,7 @@
 ` Times change.`
 ` The times when we had to feign purity in order for a man to allow us to eat ended a long time ago."`
 `"Yes, yes!`
-` I knew you'd understand, Auntie Eva!`
+` I knew you'd understand, {ruby:çeviri > Hala:Auntie} Eva!`
 ` Eheheheh!"`
 `"......Haah...`
 ` My headache is truly trying today."`
@@ -86,7 +86,7 @@
 `{n}Recently, she had clashed often with her mother, who was enthusiastic about her education.`
 `"Excuse me...`
 ` kya?!"`
-`Jessica, making to leave the parlor in a bad mood, and Shannon, pushing a serving cart loaded with tea, bumped into each other.`
+`Jessica, making to leave the {ruby:çeviri > salon:parlor} in a bad mood, and Shannon, pushing a serving cart loaded with tea, bumped into each other.`
 `"Ah, Shannon. Don't bother with my tea.`
 ` I'm just going to wander around the garden."`
 `"...Mi‐Milady..."`
@@ -157,7 +157,7 @@
 `George gave her a small wink.`
 `Shannon finally realized that George had been doing her a favor by calming down the atmosphere in the room.`
 ` And he had been doing it for her sake as she had lost her self‐confidence.`
-`The Ushiromiya family did not pamper their servants.`
+`The Ushiromiya family did not pamper their {ruby:çeviri > hizmetkarlar:servants}.`
 `{n}So if there was any awkwardness, they would be harshly punished.`
 `So it didn't often happen that they were given a helping hand like this.`
 `Thanks to George's concern, Shannon was somehow able to get ahold of herself and finish serving everything safely.`
@@ -168,14 +168,14 @@
 `So she at least thanked him inside her heart, praying to God that George would hear it, and pushed the serving cart away.`
 `"George nii‐san has always lent a helping hand in times like that.`
 ` By changing the topic or something."`
-`Shannon and Jessica could be seen in the rose garden.`
-`Jessica, having gotten into a fight with her mother, now felt unable to simply nonchalantly wander back into the parlor, and so found herself here, killing time.`
+`Shannon and Jessica could be seen in the {ruby:çeviri > gül bahçesi:rose garden}.`
+`Jessica, having gotten into a fight with her mother, now felt unable to simply nonchalantly wander back into the {ruby:çeviri > salon:parlor}, and so found herself here, killing time.`
 `"......When I think back on it, I feel that maybe this wasn't the first time he has helped me like that."`
 `Whenever I made a careless mistake, and George‐sama was there,`
 ` he would always naturally smooth things over and make things harmonious, I think.`
 `...Maybe it wasn't something as direct as picking up a fork that had been dropped.`
 `But that was his way of caring.`
-`{n}Even servants have pride.`
+`{n}Even {ruby:çeviri > hizmetkarlar:servants} have pride.`
 ` They want to fix their own mistakes by themselves.`
 `...Because if a guest helped them out with that, they would lose face.`
 `"He's really good at reading between the lines in those kinds of situations.`
@@ -204,13 +204,13 @@
 `So she had a keen intuition for this kind of romantic topic.`
 `So, this wasn't the first time a topic like this had been brought to Shannon.`
 `But it was certainly the first time she had noticed George as a member of the opposite sex.`
-`She was furniture, and George was an honored guest connected to the Ushiromiya family.`
+`She was {ruby:çeviri > mobilya:furniture}, and George was an honored guest connected to the Ushiromiya family.`
 `{n}......She had thought it impermissible to even imagine any deeper relationship.`
 `So she hadn't thought about it.`
 `Jessica was taking immense pleasure in poking fun at all this, since it didn't affect her.`
 `{n}Shannon was doing her best to make sure that her blushing cheeks weren't discovered.`
 `So if George showed up at a time like that, there would be no way that she would be able to keep her cool.`
-`They saw George come out from the entrance hall of the mansion.`
+`They saw George come out from the entrance hall of the {ruby:çeviri > malikane:mansion}.`
 `{n}It looked like he had seen them as well.`
 `{n}He headed over, waving his hand.`
 `Shannon had to frantically try to regain her ordinary composure before George reached them...`
@@ -246,11 +246,11 @@
 ` I'm a little let down."`
 `"......It seems that the Master still scolds Krauss‐sama and Eva‐sama in just the same way he did when they were kids.`
 ` I'm sure she didn't want to show that to you, her son."`
-`As Shannon hung her head, she thought back on those scenes she had grown used to seeing while working in the mansion.`
+`As Shannon hung her head, she thought back on those scenes she had grown used to seeing while working in the {ruby:çeviri > malikane:mansion}.`
 `Even Krauss, who acted haughtily towards his siblings, was still treated like a child by Kinzo.`
 `...Shannon herself had often seen Kinzo slapping Krauss, or making him sit in {c:86EF9C:{i:seiza}}‐style.`
 `......It was probably deeply humiliating to have that forced upon him at his age.`
-`In the Ushiromiya family, taking care not to be present when this happened was one of the great tasks of the servants.`
+`In the Ushiromiya family, taking care not to be present when this happened was one of the great tasks of the {ruby:çeviri > hizmetkarlar:servants}.`
 `...Of course, that did mean that Shannon had been making mistakes by being witness to it.`
 `"Probably.`
 ` ...Realizing that and going away may be my duty as her child.`
@@ -266,7 +266,7 @@
 `But they were all immature, ......and none of them had had the composure that George did.`
 `Even though he had been just another guest until moments ago,`
 ` ...now, she couldn't describe him with just that.`
-`But that was idle thinking, irrelevant to her work as a servant.`
+`But that was idle thinking, irrelevant to her work as a {ruby:çeviri > hizmetkar:servant}.`
 `{n}Shannon tried to chase it away with a small shake of her head.`
 `"Hm?`
 ` What's up?"`
@@ -301,7 +301,7 @@
 `These silly little topics went round and round in circles.`
 `Even when the others' stories had been fascinating,`
 ` Shannon had never felt particularly connected to their contents.`
-`She was nothing more than a servant, and she had no intention of delving into her masters' lives.`
+`She was nothing more than a {ruby:çeviri > hizmetkar:servant}, and she had no intention of delving into her masters' lives.`
 `She simply wanted them to enjoy their time speaking with her,`
 ` and was only pretending to listen intently, and nodding at the right moments.`
 `But for some reason, she found talking with George deeply interesting today.`
@@ -350,7 +350,7 @@
 ` ......I'm sure there's a girl not—`
 `I mean, a, a, a lot of girls who will recognize your real charm."`
 `She probably wanted to say "there's a girl not very far away".`
-`...She avoided saying that much, drawing a final line as a servant.`
+`...She avoided saying that much, drawing a final line as a {ruby:çeviri > hizmetkar:servant}.`
 `"Re‐......really.`
 ` ...I guess I'm kind of...embarrassed..."`
 `Maybe he had never been praised this much by a girl.`
@@ -390,7 +390,7 @@
 `"...I‐is that true...?`
 ` I can't believe that a cute girl like you would be single, Shannon‐chan..."`
 `"I, I, I,`
-` ...I'm a servant, so, umm,`
+` ...I'm a {ruby:çeviri > hizmetkar:servant}, so, umm,`
 ` ......I don't have any opportunities to meet boys, and, umm..."`
 `"Which means that, in the future, if Shannon's gonna have any chance of getting herself a wonderful guy,`
 ` she needs practice with relationships, right?`
@@ -410,7 +410,7 @@
 ` You're all about that age.`
 ` I remember well what that's like—you must have no end of things like that to talk about.`
 ` *giggle*giggle*giggle*."`
-`"Oh, come on, Auntie Eva, you're still in your priiime!`
+`"Oh, come on, {ruby:çeviri > Hala:Auntie} Eva, you're still in your priiime!`
 ` Please tell us how you and Uncle Hideyoshi met!"`
 `"Oh my, there's no way I could tell you that.`
 ` *giggle*giggle*giggle*.`
@@ -452,7 +452,7 @@
 ` It's something you get used to after you do it.`
 ` If you marry just based on emotions, you'll definitely regret it.`
 ` There's definitely nothing wrong with choosing a person with a secure background as your partner in life, and then building up emotions of love."`
-`"Auntie Eva, that's so rude to Uncle Hideyoshiii...`
+`"{ruby:çeviri > Hala:Auntie} Eva, that's so rude to Uncle Hideyoshiii...`
 ` *cackle*!"`
 `"I love him, you know.`
 ` I want to always be with him, and to live my life by his side."`
@@ -486,10 +486,10 @@
 `"That's all you need to think of for now.`
 ` Come on now, let's go.`
 ` We're keeping Father waiting.`
-` Hurry to the mansion."`
+` Hurry to the {ruby:çeviri > malikane:mansion}."`
 `"Well, sorry, you two.`
 ` See you later."`
-`George bowed to the two of them, ...and after bowing once more to Shannon, he dashed off to the mansion.`
+`George bowed to the two of them, ...and after bowing once more to Shannon, he dashed off to the {ruby:çeviri > malikane:mansion}.`
 `"I'll be going as well, then.`
 ` Sorry for cutting your fun conversation short, Jessica‐chan, Shannon‐chan."`
 `"Ah, no no.`
@@ -508,7 +508,7 @@
 ` Thank you very much..."`
 `As Eva giggled and smiled, she approached Shannon's ear with a hand over her mouth, as though she was trying to tell her a secret.`
 `".........Huh?"`
-`"I'm sure you'll find a perfect match for a lowly servant like yourself.`
+`"I'm sure you'll find a perfect match for a lowly {ruby:çeviri > hizmetkar:servant} like yourself.`
 ` ......Have you forgotten to be grateful for your schooling?`
 ` Know your place."`
 `".........Th‐...that's not what I... ...I didn't..."`
@@ -539,12 +539,12 @@
 ` ...Shannon reflected very, very deeply on those words of Eva's, about knowing her place...`
 `...I felt deep remorse for my brief moment of conceit.`
 `I had forgotten.`
-` I am furniture.`
-`Furniture isn't human.`
+` I am {ruby:çeviri > mobilya:furniture}.`
+`{ruby:çeviri > Mobilya:Furniture} isn't human.`
 `So I am a being who must feel gratitude for even being treated like a human,`
 ` and I am not permitted to wish for anything more.`
-`Even if people develop affection for furniture that they're used to using,`
-` that is an emotion on the human's side, and the furniture has no right to hope for that.`
+`Even if people develop affection for {ruby:çeviri > mobilya:furniture} that they're used to using,`
+` that is an emotion on the human's side, and the {ruby:çeviri > mobilya:furniture} has no right to hope for that.`
 `......They should just serve with simple honesty every day.`
 `But that feeling I felt when talking with George‐sama and Jessica‐sama...is a forbidden drug for me.`
 `In other words, it may have been an emotion I must not know.`
@@ -558,7 +558,7 @@
 `This was supposed to be the time when she had to concentrate on the cleaning.`
 `But she had just kept sighing and hadn't accomplished anything...`
 `"Even if there aren't any guests, you must always be alert.`
-` Acting like this is shameful as a servant working for the Ushiromiya family."`
+` Acting like this is shameful as a {ruby:çeviri > hizmetkar:servant} working for the Ushiromiya family."`
 `"...Yes.`
 ` I will take care from now on..."`
 `"The head and my husband will return very soon.`
@@ -577,7 +577,7 @@
 `{n}So she could complete her jobs with a result that looked similar to an outsider, but in a much shorter time.`
 ` In other words, she was shrewd.`
 `Compared to her, we should say that Shannon, who had just talked back to Natsuhi when she was already in a bad mood, was not shrewd in the slightest...`
-`Of course, there was nothing that Natsuhi couldn't stand more than a servant talking back.`
+`Of course, there was nothing that Natsuhi couldn't stand more than a {ruby:çeviri > hizmetkar:servant} talking back.`
 `{n}Her forehead creased, and she spoke sternly.`
 `And yet, her speech was slow and admonishing, which was terrifying beyond measure, and finally made Shannon realize she had said the wrong thing...`
 `"In that case, you shall clean as thoroughly as you desire.`
@@ -672,26 +672,26 @@
 `That cruel Natsuhi had surely told the kitchen of that.`
 `...I have to respectfully receive Madam's punishment.`
 `That's right.`
-` My position in the world is furniture, ...and I had been intoxicated by a dream that is beyond me...`
+` My position in the world is {ruby:çeviri > mobilya:furniture}, ...and I had been intoxicated by a dream that is beyond me...`
 `I finished cleaning the hallway and went to the reception hall.`
 `Maybe hunger makes a nose more sensitive.`
 `The kitchen was far away, but somehow I could smell the delicious aroma wafting from there, stimulating my empty stomach all the more.`
 `...Until I finished up here, I could not get any soup.`
 ` I just had to prepare myself.`
-`Several portraits were hung in the reception hall.`
-`One of those portraits...was thought amongst the servants to hold a special meaning.`
-`......It was the portrait of the witch.`
-`{n}That wasn't its true name, but everyone in the mansion called it that.`
-`The name of the woman with elegant blonde hair, drawn as the subject of that portrait, was {f:5:Beatrice}.`
+`Several {ruby:çeviri > portre:portrait}s were hung in the reception hall.`
+`One of those {ruby:çeviri > portre:portrait}s...was thought amongst the {ruby:çeviri > hizmetkarlar:servants} to hold a special meaning.`
+`......It was the {ruby:çeviri > portre:portrait} of the witch.`
+`{n}That wasn't its true name, but everyone in the {ruby:çeviri > malikane:mansion} called it that.`
+`The name of the woman with elegant blonde hair, drawn as the subject of that {ruby:çeviri > portre:portrait}, was {f:5:Beatrice}.`
 `...It was whispered that she might be the former mistress of the family head, Kinzo.`
 `{n}......And also that she was the great witch who had given Kinzo his legendary gold.`
 `The witch, {f:5:Beatrice}, master of the night on Rokkenjima.`
 `{n}She was gracious to those who respected her, but she would always curse those who made light of her.`
 `It was in Shannon's character not to neglect rules and beliefs such as those.`
-`...So she thought of the portrait of her other master as that person herself, and always treated it carefully, treasuring it.`
-`...And it had become part of her daily routine to talk, inside her own head, to the witch who only existed inside the portrait.`
-`......She was furniture.`
-` Furniture doesn't complain.`
+`...So she thought of the {ruby:çeviri > portre:portrait} of her other master as that person herself, and always treated it carefully, treasuring it.`
+`...And it had become part of her daily routine to talk, inside her own head, to the witch who only existed inside the {ruby:çeviri > portre:portrait}.`
+`......She was {ruby:çeviri > mobilya:furniture}.`
+` {ruby:çeviri > Mobilya:Furniture} doesn't complain.`
 ` Cannot complain.`
 `{n}So she had no right to speak her mind about her difficult days.`
 `{n}No right to open her mouth and say those words.`
@@ -702,20 +702,20 @@
 `{n}......Shannon could only interpret that silence as she liked, as though the witch was at least listening attentively.`
 `...{f:5:Beatrice}‐sama.`
 `......Please listen to me, worthless as I am.`
-`As Shannon wiped the dust from the witch's portrait, she spoke inside her heart.`
-`.........Just as Eva‐sama says, I truly am incompetent and uncultured furniture.`
+`As Shannon wiped the dust from the witch's {ruby:çeviri > portre:portrait}, she spoke inside her heart.`
+`.........Just as Eva‐sama says, I truly am incompetent and uncultured {ruby:çeviri > mobilya:furniture}.`
 `......I am not a person.`
 `...So maybe I have no right to love...`
 `......But in that case, why was I given a heart which can know love?`
 `...Shannon paused there, and held back her tears for a time.`
 `The sound of the rain which had started falling, along with the chill air in the reception hall, made her feel as though her shabbiness had increased another level.`
-`"Real furniture...doesn't have a silly thing like a heart.`
+`"Real {ruby:çeviri > mobilya:furniture}...doesn't have a silly thing like a heart.`
 ` So they don't have to love people, right?`
 ` So they don't feel pain.`
-` ......If I'm just another piece of furniture, ......why do I have a heart?"`
+` ......If I'm just another piece of {ruby:çeviri > mobilya:furniture}, ......why do I have a heart?"`
 `".........If it's going to be this hard and this painful, ............I wish I'd never been given this stupid heart............!"`
 `......I see.`
-` To have given a heart to furniture.`
+` To have given a heart to {ruby:çeviri > mobilya:furniture}.`
 `Amusing games that one plays sometimes...`
 `*cackle*cackle*...!`
 `"e........................"`
@@ -743,7 +743,7 @@
 ` The contrast made by the lightning made it clear that this was not just a daydream.`
 `"......It is "love".`
 ` *cackle*cackle*cackle*cackle*!"`
-`The witch of the portrait elegantly held a golden pipe to her mouth, and giggled.`
+`The witch of the {ruby:çeviri > portre:portrait} elegantly held a golden pipe to her mouth, and giggled.`
 `...She laughed at the ignorance which caused mankind's thoughts to stray far from the most simple answer.`
 `"That man explained everything in the world with love.`
 ` That is the single element.`
@@ -763,7 +763,7 @@
 ` ...*cackle*."`
 `The witch giggled at how Shannon's reaction didn't betray her expectations.`
 `Shannon realized that she had met with a being that mustn't be met with, and she took a step backwards.`
-`......That's where the wall and the portrait were, so even as she gazed at the witch, she supported the witch's portrait on her back.`
+`......That's where the wall and the {ruby:çeviri > portre:portrait} were, so even as she gazed at the witch, she supported the witch's {ruby:çeviri > portre:portrait} on her back.`
 `"Your worries are due to love.`
 ` ......Which is the single element of the world.`
 ` In other words, everything of this world.`
@@ -777,7 +777,7 @@
 ` Which means that what makes one human is knowing love, and suffering."`
 `"......Girl of kind heart.`
 ` You should be proud.`
-` Now that you have known it, you are no longer furniture.`
+` Now that you have known it, you are no longer {ruby:çeviri > mobilya:furniture}.`
 ` Now, you are "human".`
 ` I recognize that upon my name."`
 `".....................umm, .........u......"`
@@ -802,7 +802,7 @@
 `Normally, Shannon would have been shocked by this guest who lacked realism, and wouldn't have been able to speak.`
 `......However, as though she had already been caught in the witch's trap,`
 ` ...Shannon responded to the witch.`
-`"With my magic, it is no trouble at all to arrange for a pair of people with feelings for each other to be joined."`
+`"With my {ruby:çeviri > büyü:magic}, it is no trouble at all to arrange for a pair of people with feelings for each other to be joined."`
 `You do mean it, don't you...`
 ` ...Those words almost escaped Shannon's lips, but she held herself back, with her final reserves of reason.`
 `A witch is a witch.`
@@ -819,7 +819,7 @@
 ` I didn't mean..."`
 `Shannon finally realized that her hostility was rude to this guest.`
 `And...she finally digested the words that had been spoken to her a short while ago.`
-`― You are no longer furniture.`
+`― You are no longer {ruby:çeviri > mobilya:furniture}.`
 ` Now, you are "human".`
 `......The more she reflected upon those words,`
 ` .......the more Shannon felt as though {f:5:Beatrice} could understand all of her suffering...`
@@ -827,7 +827,7 @@
 `...about a reward...`
 ` ......What did you mean?"`
 `"I say that I can arrange for you to be bound to the man who has captured your heart.`
-` You can think of it as a form of gratitude for diligently polishing my portrait all the time."`
+` You can think of it as a form of gratitude for diligently polishing my {ruby:çeviri > portre:portrait} all the time."`
 `"................................."`
 `"Calm yourself. I ask for nothing in return.`
 ` I am generous.`
@@ -852,7 +852,7 @@
 `{n}Why would someone as powerful as a witch be unable to do that herself, and be asking a human for help...?`
 `There was no need for Shannon to speak her thoughts aloud.`
 `{n}{f:5:Beatrice} started talking about this reasonable question before Shannon could give her answer.`
-`"The magic power of that mirror opposes my own.`
+`"The {ruby:çeviri > büyü:magic} power of that mirror opposes my own.`
 ` ......I cannot explain it well with human words.`
 ` ...By way of example, let us speak of the differences between utensils.`
 ` That mirror is a fork, and my power is soup.`
@@ -918,7 +918,7 @@
 `{n}......Definitely not.`
 `To Shannon, who was burning with love, tormented by passion, being tempted forever by a way of escape was far too cruel a trial...`
 `"I won't set a time limit on that promise,`
-` ......but there is a time limit on the magic that can grant that wish.`
+` ......but there is a time limit on the {ruby:çeviri > büyü:magic} that can grant that wish.`
 ` ...That limit is not mine to determine.`
 ` It will be determined by your loved one himself.`
 ` .........Do you understand what I mean?"`
@@ -954,7 +954,7 @@
 `stay back...!`
 ` This person is......!"`
 `"................................."`
-`It seemed that Kanon also realized that the being standing before him was the witch of the portrait.`
+`It seemed that Kanon also realized that the being standing before him was the witch of the {ruby:çeviri > portre:portrait}.`
 `...And also that she was a terrifying being.`
 `"......I just wanted to make Shannon take her reward, but it seems I said too much, and ended up tormenting her.`
 ` I shall apologize."`
@@ -1038,7 +1038,7 @@
 ` *cackle*cackle*cackle*!"`
 `"Well then, let us meet again when the chance arises.`
 ` It truly was entertaining to have a conversation again after so much time.`
-` Farewell, furniture.`
+` Farewell, {ruby:çeviri > mobilya:furniture}.`
 ` Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `{f:5:Beatrice}'s body crumbled like smoke and blew away.`
 `...It was golden smoke—no, a flight of golden butterflies.`

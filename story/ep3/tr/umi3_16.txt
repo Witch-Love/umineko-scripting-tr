@@ -1,4 +1,4 @@
-`The guesthouse lobby had been engulfed by silence.`
+`The {ruby:çeviri > konukevi:guesthouse} lobby had been engulfed by silence.`
 `The strings of tension which bound Krauss, Natsuhi, and Eva had already loosened; they were completely tired; and their consciousness was beginning to waver.`
 `Every once in a while, they would stand up and walk around pointlessly, fighting their drowsiness.`
 `".........Are you alright, Eva‐san?`
@@ -68,8 +68,8 @@
 `"A child like you can't possibly understand how good he was!!`
 ` Uuuughh{0}hhu{0}uuhu{0}u{0}u{0}u{0}uughh...{0}honey.........uuu{0}u{0}u{0}uuhhuhghh{0}hhu{0}uhuu{0}huu!"`
 `".........Come on.`
-` Our dreams were made real with magic, right?`
-` We solved the riddle of the epitaph.`
+` Our dreams were made real with {ruby:çeviri > büyü:magic}, right?`
+` We solved the riddle of the {ruby:çeviri > kitabe:epitaph}.`
 ` And we found the gold and got the Head's Ring.`
 ` All of our dreams came fully true, right?`
 ` What more could you want...?"`
@@ -170,11 +170,11 @@
 ` Data link to 410."`
 `"410, data received, firing permission confirmed.`
 ` Nihihihihi, firing!"`
-`Together, the sisters released the readied magic bowstring.`
+`Together, the sisters released the readied {ruby:çeviri > büyü:magic} bowstring.`
 ` A beautiful tail trailed the golden arrow, and it drew a beautiful curve as it flew.`
 `It was just like a golden snake.`
-`It skillfully avoided a grove of trees and flew towards the front door of the guesthouse.`
-`Then it flew into the keyhole of the door and snuck into the guesthouse without any problem at all.`
+`It skillfully avoided a grove of trees and flew towards the front door of the {ruby:çeviri > konukevi:guesthouse}.`
+`Then it flew into the keyhole of the door and snuck into the {ruby:çeviri > konukevi:guesthouse} without any problem at all.`
 `The gold snake raced down the hall smoothly, yet as fast as an arrow.`
 `Right in front of it was the door to the lobby.`
 `It would only need to fly into that keyhole, and Krauss and Natsuhi would be right there...`
@@ -194,7 +194,7 @@
 ` Two on the line at once nyeh, nihi!"`
 `The gold snake began to drag Krauss and Natsuhi's corpses back.`
 `......It slipped through the door to the corridor, dragging the corpses, gradually increasing in speed,`
-` and in the blink of an eye, it had pulled them outside the guesthouse.`
+` and in the blink of an eye, it had pulled them outside the {ruby:çeviri > konukevi:guesthouse}.`
 `So the lobby was still, as though nothing had happened at all.`
 `...As though Krauss and Natsuhi had never been there to begin with.`
 `Only the sound of the wind and the rain remained, as though feigning ignorance and pretending that they had been the only ones there......`
@@ -210,7 +210,7 @@
 `......She felt a warmth indicating that they had been sitting there until a short while ago.`
 `Maybe they had gone to do the rounds or something.`
 `For the time being, Eva sat down and waited for their return...`
-`Beato and George could be seen in the parlor of the mansion.`
+`Beato and George could be seen in the {ruby:çeviri > salon:parlor} of the {ruby:çeviri > malikane:mansion}.`
 `{n}George was kneeling near Shannon's body as though praying...`
 `{n}His face was sincerity itself, and there was even sweat on his forehead.`
 `However, Beato was the same.`
@@ -219,26 +219,26 @@
 `"......Good.`
 ` Don't talk to her, don't touch her with your hand.`
 ` ...Call to her with the voice of your heart; seek her with the hand of your heart.`
-` ...Only your strong feelings can make my magic reach Shannon's lost soul."`
+` ...Only your strong feelings can make my {ruby:çeviri > büyü:magic} reach Shannon's lost soul."`
 `".................................hh."`
 `George maintained a single‐minded focus.`
 `{n}He kept frantically yelling inside his heart, trying to call back the soul of the person he loved.`
 `...He strongly envisioned his soul leaving his body, and searching for her as she wandered through Hell.`
-`......Beato turned that strong force into magical power, supplementing her own magic.`
-` It was magic that, in the past, she could have performed easily, without anyone's help.`
+`......Beato turned that strong force into {ruby:çeviri > büyülü:magical} power, supplementing her own {ruby:çeviri > büyü:magic}.`
+` It was {ruby:çeviri > büyü:magic} that, in the past, she could have performed easily, without anyone's help.`
 `...But now, if she didn't rely on someone's help, she wouldn't be able to finish the chant, much less succeed.`
 `".........I have forgotten after several hundred years...`
-` .........Was magic,`
+` .........Was {ruby:çeviri > büyü:magic},`
 ` ......was resurrection...`
-`always this difficult of a magic......?"`
+`always this difficult of a {ruby:çeviri > büyü:magic}......?"`
 `An even more strained expression than George's had risen to Beato's face.`
-`...She was still forgetting this, but the magic to revive a life is fundamentally the ultimate hidden art.`
-`It was her previous magical power, giving her the ability to use that magic over and over with a snap of her fingers, that was abnormal.`
+`...She was still forgetting this, but the {ruby:çeviri > büyü:magic} to revive a life is fundamentally the ultimate hidden art.`
+`It was her previous {ruby:çeviri > büyülü:magical} power, giving her the ability to use that {ruby:çeviri > büyü:magic} over and over with a snap of her fingers, that was abnormal.`
 `Therefore, the heavy burden to her body and mind was, by rights, absolutely to be expected...`
 `"......However, .........the power this one has...`
-`is quite considerable, even though he doesn't know magic.`
+`is quite considerable, even though he doesn't know {ruby:çeviri > büyü:magic}.`
 ` ......I see, so he truly is Kinzo's grandchild..."`
-`The strong power pouring from George was even large enough to pass as magical power.`
+`The strong power pouring from George was even large enough to pass as {ruby:çeviri > büyülü:magical} power.`
 `...At first, Beato thought it was due to the blood of the mage Kinzo.`
 `......However, that was probably wrong.`
 `{n}...She had a feeling that Battler had taught her that.`
@@ -249,21 +249,21 @@
 ` To her, a life didn't mean anything more than the difference between the top and bottom of an Othello piece.`
 `If the black represented death, then she thought all you had to do was flip it over again and make it white.`
 `However, it was just like that broken vase.`
-`......To humans in a world without magic, where they can never return it to its original form,`
+`......To humans in a world without {ruby:çeviri > büyü:magic}, where they can never return it to its original form,`
 ` ......it is very, very natural for them to bet all their body and soul on that single life.`
 `".........So there are times when an Endless Witch, with full command over even life and death,`
 ` ......is inferior to a finite {y:0:Human}{n:0:human}, for whom even death's mountain is impossible to cross......?"`
 `Now, the witch acknowledged it.`
-`He was able to hold a magical power that could not reside in witches who didn't understand the value of a life.`
-`......What is this thing called the Endless Magic {i:for} again?`
+`He was able to hold a {ruby:çeviri > büyülü:magical} power that could not reside in witches who didn't understand the value of a life.`
+`......What is this thing called the Endless {ruby:çeviri > Büyü:Magic} {i:for} again?`
 `...Even though I call myself the Endless Witch,`
-` have I been forgetting what the Endless Magic means...for a whole thousand years.........?`
+` have I been forgetting what the Endless {ruby:çeviri > Büyü:Magic} means...for a whole thousand years.........?`
 `She looked at George's expression again.`
 ` .........His surging earnestness was like a lightning bolt.`
 `...Right now, even if George's body was burned, or smashed by a waterfall,`
 ` he would probably continue to pray for his beloved without minding it, without noticing it.`
 `For the first time, ...she showed respect for that power.`
-`So in that instant, all magical resistance was lost, and the enormous power of George's feelings turned into magical power in its perfect form......`
+`So in that instant, all {ruby:çeviri > büyülü:magical} resistance was lost, and the enormous power of George's feelings turned into {ruby:çeviri > büyülü:magical} power in its perfect form......`
 `The vase was very, very beautiful, rich with history and value.`
 `Even as young as I was, it still forced me to take a deep breath when I witnessed its beauty.`
 ` ......But that just made me want to touch it.`
@@ -284,11 +284,11 @@
 `By just the loss of a single life, the whole world would be filled with so much sadness.`
 `......I cried even more at how terrible that would be.`
 `{f:5:Beatrice} appeared, and spoke.`
-`"Then, Milady.`
-` Let us revive this vase with magic.`
-` If that will make everyone happy, then the vase and the magic and the spirits...`
+`"Then, {ruby:çeviri > Leydim:Milady}.`
+` Let us revive this vase with {ruby:çeviri > büyü:magic}.`
+` If that will make everyone happy, then the vase and the {ruby:çeviri > büyü:magic} and the spirits...`
 `should be happy to lend you their power, and return it to its original form."`
-`"Come, Milady.`
+`"Come, {ruby:çeviri > Leydim:Milady}.`
 ` Close your eyes, and say the chant with me..."`
 `"Come, try closing your eyes.`
 ` And try to remember.`
@@ -296,7 +296,7 @@
 ` It was surely a very, very beautiful form.`
 ` Please, show me that form one more time..."`
 `Those words of power powerfully knocked on the door to Hades.`
-`Her previous magic had powerfully knocked on the door to Hades in the same way.`
+`Her previous {ruby:çeviri > büyü:magic} had powerfully knocked on the door to Hades in the same way.`
 `......However, back then, it was horribly violent, ...and earned the displeasure of the peacefully sleeping dead...`
 `However, this time was different.`
 ` ...It was very powerful, ...but it was very kind and loving.`
@@ -365,34 +365,34 @@
 `Shannon's fingers curled around George's back,`
 ` ......and on her ring finger indeed shone the engagement ring George had given her.`
 `That strong sparkle was absolutely not the sparkle of diamond alone.`
-`{n}......There was, without doubt, a magical power there that only the two lovers could possibly feel.`
+`{n}......There was, without doubt, a {ruby:çeviri > büyülü:magical} power there that only the two lovers could possibly feel.`
 `It was because that strong light existed...that they had been able to find her casket in the land of the dead.`
 `Beato understood.`
 `......That ring, ......no.`
 `............The couple's feelings, in the form of that ring, had created this miracle.`
-`In that moment, George had definitely used magic.`
+`In that moment, George had definitely used {ruby:çeviri > büyü:magic}.`
 ` Beato had done nothing more than help him along.`
-` That magic had a magical power that could only reside in those who knew of the importance of life and trying their hardest.`
+` That {ruby:çeviri > büyü:magic} had a {ruby:çeviri > büyülü:magical} power that could only reside in those who knew of the importance of life and trying their hardest.`
 `It was the power of a miracle that an Endless Witch could not know, ......that only the power of the {i:finite} could give rise to.`
 `By now, she had no choice but to accept it.`
-` ......She had to accept that true magic, true magical power...`
+` ......She had to accept that true {ruby:çeviri > büyü:magic}, true {ruby:çeviri > büyülü:magical} power...`
 `...existed in the place farthest away from she who called herself a Great Witch.`
 `".........{f:5:Beatrice}...sama......"`
 `"......She brought you back to life...`
 ` Thank you, {f:5:Beatrice}...!"`
 `"No.`
 ` I could not do anything.`
-` ......What revived Shannon...was your magical power.`
-` Your magic.`
+` ......What revived Shannon...was your {ruby:çeviri > büyülü:magical} power.`
+` Your {ruby:çeviri > büyü:magic}.`
 ` ............I have indeed witnessed here the Ushiromiya blood, capable of achieving miracles."`
 `".........George‐san was the one who......brought......?"`
 `"...Mm.`
-` .........He had a phenomenal magical power, so much so that I could not reach up to his feet.`
+` .........He had a phenomenal {ruby:çeviri > büyülü:magical} power, so much so that I could not reach up to his feet.`
 ` ......So I still have not left the level of apprentice, then.`
 ` ...Now I finally know my place."`
 `Beato staggered backwards.`
 `{n}...Her physical strength was clearly exhausted.`
-`She had humbly said that George's power alone had revived Shannon, but Beato had also used all of her magical and physical strength.`
+`She had humbly said that George's power alone had revived Shannon, but Beato had also used all of her {ruby:çeviri > büyülü:magical} and physical strength.`
 `...And she reflected upon how difficult it was to revive a single one of these lives,`
 ` which she had toyed with however she wanted in the past.`
 `The couple kept each other in their tight embrace, and showed no signs of letting go.`
@@ -406,14 +406,14 @@
 ` ......Don't worry...about me.`
 ` ...Take all the time you want.........celebrating your reunion together........."`
 `Beato, who was leaning her back against the wall, slid down the wall, and sat.`
-` How many centuries had it been since she had last grown this tired from using magic?`
-`......Probably, not since the time I first succeeded in magic.`
+` How many centuries had it been since she had last grown this tired from using {ruby:çeviri > büyü:magic}?`
+`......Probably, not since the time I first succeeded in {ruby:çeviri > büyü:magic}.`
 `.........Didn't Master praise me for that back then?`
 `Oh, but, I myself killed that master who praises me, didn't I...`
 `......Don't be naive, {f:5:Beatrice}.`
 `...In the end, that's what it means to kill something, right...?`
 `"......Finally,`
-` ...it seems you've remembered how to use magic."`
+` ...it seems you've remembered how to use {ruby:çeviri > büyü:magic}."`
 `"...............My whole head...feels parched and suffocated, ......and I can't even think, let alone remember...`
 ` ...Wait, ...didn't I kill you?`
 ` You shouldn't be appearing..."`
@@ -424,7 +424,7 @@
 ` ......And after all this time, after retiring as a witch and everything, ...if I sit here and have my head patted, I'll be the laughingstock of the other witches......"`
 `"That's right.`
 ` ......Not only are you a full adult, but you boast about having retired from active service,`
-` so I am sure that it would be far too embarrassing to tell anyone that you only just now learned how to use magic."`
+` so I am sure that it would be far too embarrassing to tell anyone that you only just now learned how to use {ruby:çeviri > büyü:magic}."`
 `"............Yeah.`
 ` ......Keep it a secret, Masteer..."`
 `With a sense of pleasant despondency, Beato gazed at the couple hugging each other.`
@@ -436,12 +436,12 @@
 `"410, firing.`
 ` Nihi!"`
 `The golden serpentine arrow fired by the Chiesters...`
-`weaved its way through the bushes in the rose garden,`
+`weaved its way through the bushes in the {ruby:çeviri > gül bahçesi:rose garden},`
 ` weaved its way through the hedges,`
-` and climbed the stone steps towards the mansion's entrance,`
+` and climbed the stone steps towards the {ruby:çeviri > malikane:mansion}'s entrance,`
 ` aiming for the keyhole.`
 `It weaved through the corridors,`
-` and flew into the keyhole in the door to the parlor...!`
+` and flew into the keyhole in the door to the {ruby:çeviri > salon:parlor}...!`
 `"......Aaaaaaaaaaaaaaaaaaaaaaahhhh?!?!"`
 `It happened in an instant.`
 ` ...It would have been difficult for Beato, who was completely worn out, to have noticed it beforehand.`
@@ -450,7 +450,7 @@
 ` and pierced through their two hearts in a blink of an eye.`
 `......And with meticulous precision, that gold snake ran through that hole in Shannon's chest once more...`
 `The two had been pierced through the heart by the gold snake,`
-` ...no, by the gold sewing thread used by the new brutal witch's furniture,`
+` ...no, by the gold sewing thread used by the new brutal witch's {ruby:çeviri > mobilya:furniture},`
 ` .........and it had only taken an instant, so unfitting for the amount of effort it had taken to revive Shannon...!`
 `In front of Beato's shocked eyes, the two collapsed onto the floor...`
 `".........G‐`
@@ -462,17 +462,17 @@
 ` ...even just for a short while,`
 ` ......thank you........."`
 `George spent his last breath thanking Beato, and died side by side with the one he loved.`
-`The gold snake, which still sewed the two in place, spun like a large cyclone, revolving around the inside of the parlor.`
+`The gold snake, which still sewed the two in place, spun like a large cyclone, revolving around the inside of the {ruby:çeviri > salon:parlor}.`
 `.........It was searching for further kills in that room.`
 `Then, the tip of the snake met Beato's gaze...`
 `{n}In that instant, Beato prepared herself for death.`
 `Just then, {f:5:Virgilia} stood in front of her, the fingers of both her hands drawing a mark.`
-`In that instant, gold‐colored gold leaf buried the inside of the parlor.`
+`In that instant, gold‐colored gold leaf buried the inside of the {ruby:çeviri > salon:parlor}.`
 `{n}It was like a blizzard of gold...`
 `"Beato, escape while you can!!`
 ` {i:No one can escape} from the Chiesters' golden bow!!!"`
 `"410, target lost!!`
-` Nihyah, magical chaff!!"`
+` Nihyah, {ruby:çeviri > büyülü:magical} chaff!!"`
 `"45, understood...!`
 ` Modifying enemy search: personal image homing algorithm.`
 ` Target reacquired, data link to 410."`
@@ -482,15 +482,15 @@
 ` ...IMPACT!!"`
 `The Chiester Sisters' golden bow would not let its kill escape.`
 `{n}It would not let them block it.`
-`...No magical barrier could even dream of blocking it without being multilayered.`
-`The weak point during the instant of confusion caused by {f:5:Virgilia}'s deception magic was Beato's only chance to escape.`
+`...No {ruby:çeviri > büyülü:magical} barrier could even dream of blocking it without being multilayered.`
+`The weak point during the instant of confusion caused by {f:5:Virgilia}'s deception {ruby:çeviri > büyü:magic} was Beato's only chance to escape.`
 `And the only opportunity to make the sisters confuse {f:5:Virgilia} for Beato.`
 `As {f:5:Virgilia} spread her arms wide, blocking the way to her beloved disciple, the gold snake pierced straight through the location of her heart...`
 `The snake, which had snuck in through the keyhole, shot through George and Shannon, and then shot through {f:5:Virgilia} in an instant,`
 ` completely failed to notice as Beato escaped...`
 `As soon as {f:5:Virgilia} saw that Beato had gotten away, she expired.`
 `......The strength left her body, and like gold dust drifting with the wind, her form was erased...`
-`Beato completely erased all traces of her magical power,`
+`Beato completely erased all traces of her {ruby:çeviri > büyülü:magical} power,`
 ` became gold butterflies, and passed through the wall, escaping to the wind and rain outside......`
 `"..................Damn it,`
 ` .........damn it, damn it...`
@@ -502,7 +502,7 @@
 `Probably...not.`
 ` Of course, she also felt sick over the loss of her master.`
 `But even more than that, Beato was enraged at the barbarism which had boorishly stolen the union between the two reunited lovers.`
-`......Beato had poured out almost all of her magical power to reunite them.`
+`......Beato had poured out almost all of her {ruby:çeviri > büyülü:magical} power to reunite them.`
 `...That miracle had been achieved only as a result of all that,`
 ` ......yet it had taken such a short time to steal it away...!`
 `Beato trembled at the barbarous cruelty which had ended it so fast.`
@@ -523,7 +523,7 @@
 ` ......Ronove, you don't have any complaints, right?"`
 `"......Why, of course not,`
 ` {f:5:Beatrice}‐sama."`
-`"She interfered with the ritual of the witch's epitaph, you see?`
+`"She interfered with the ritual of the witch's {ruby:çeviri > kitabe:epitaph}, you see?`
 ` She revived a sacrifice from the first twilight without permission, and interfered with my ritual.`
 ` No one has aaany right at all to complain."`
 `"Kuhhihihihhyahyahyahya...!`
@@ -543,7 +543,7 @@
 `"I, I also remember it being around that time.`
 ` Because I was asked whether I wanted more coffee..."`
 `Something hard to believe had happened...`
-`Apparently, when Auntie Eva had left for a second to visit the lavatory,`
+`Apparently, when {ruby:çeviri > Hala:Auntie} Eva had left for a second to visit the lavatory,`
 ` Uncle Krauss and Aunt Natsuhi had disappeared.`
 `There's no way they went hiding somewhere.`
 ` Of course, the doors and windows had all been rigorously checked, and all were locked from the inside.`
@@ -555,25 +555,25 @@
 `Furthermore, they weren't the only ones who had disappeared......astonishingly, George‐aniki had too.`
 `George‐aniki had left saying that he was going to get more coffee,`
 ` and had gone downstairs more than an hour earlier.`
-`I'd been under the impression that he was having a good conversation with Auntie Eva and the rest,`
-` ......but Auntie Eva, who had been in the lobby the whole time, said that no one had come down.`
+`I'd been under the impression that he was having a good conversation with {ruby:çeviri > Hala:Auntie} Eva and the rest,`
+` ......but {ruby:çeviri > Hala:Auntie} Eva, who had been in the lobby the whole time, said that no one had come down.`
 `Since all of the doors and windows are locked from the inside,`
 ` ...it's hard to imagine that they went outside.`
-`......Nevertheless, three humans had evaporated from this barricaded guesthouse, which had become a perfect locked room......`
+`......Nevertheless, three humans had evaporated from this barricaded {ruby:çeviri > konukevi:guesthouse}, which had become a perfect locked room......`
 `It's hard to imagine any reason why they'd hide themselves away for a surprise prank in a situation like this.`
 `......It's probably appropriate to think that they've become caught up in this crime...`
-`When Auntie Eva learned that her only son was missing,`
+`When {ruby:çeviri > Hala:Auntie} Eva learned that her only son was missing,`
 ` she went half insane, running from room to room and yelling his name loudly.`
 `...And Jessica, who had suddenly lost both of her parents, followed suit.`
-`Cries of "George, George" and "Mom, Dad" were even now continuing to echo through the guesthouse...`
+`Cries of "George, George" and "Mom, Dad" were even now continuing to echo through the {ruby:çeviri > konukevi:guesthouse}...`
 `I think George said something about wanting to see Shannon's face.`
-`......It would be reasonable to imagine that he had snuck out of the guesthouse and gone to the mansion.`
+`......It would be reasonable to imagine that he had snuck out of the {ruby:çeviri > konukevi:guesthouse} and gone to the {ruby:çeviri > malikane:mansion}.`
 `...However, I don't know about Uncle Krauss and Aunt Natsuhi.`
-`{n}...Maybe they guessed that's what happened, and went to the mansion to search for him...?`
-`Without even telling Auntie Eva...?`
-`At this rate, it's only a matter of time before we start talking about leaving the guesthouse to search for them.`
+`{n}...Maybe they guessed that's what happened, and went to the {ruby:çeviri > malikane:mansion} to search for him...?`
+`Without even telling {ruby:çeviri > Hala:Auntie} Eva...?`
+`At this rate, it's only a matter of time before we start talking about leaving the {ruby:çeviri > konukevi:guesthouse} to search for them.`
 `.........At this point, I'd be in favor of that.`
-`We said that shutting ourselves up inside the guesthouse would be safe,`
+`We said that shutting ourselves up inside the {ruby:çeviri > konukevi:guesthouse} would be safe,`
 ` and shut ourselves in this morning as a big, happy family of twelve people.`
 `And yet, now there are only four people here.`
 ` ......In other words, being here does not imply safety...`
@@ -583,7 +583,7 @@
 `{n}How had they vanished from this place?`
 `We'd searched around thoroughly.`
 `{n}However, we were unable to find any signs of anyone hiding.`
-`...The three of them had almost certainly been taken outside the guesthouse.`
+`...The three of them had almost certainly been taken outside the {ruby:çeviri > konukevi:guesthouse}.`
 `".........I wonder how they did it...`
 ` You don't think......there might be something like a hidden door?"`
 `"A hidden door...?"`
@@ -629,19 +629,19 @@
 ` ......ooooooohhhh......"`
 `Nanjo turned pale and shook his head several times.`
 ` ...Because the thing that Battler said was presenting a certain truth to him that was frightening even to imagine...`
-`"......That's {i:if} they used the trick I thought of, of course?`
-` However, with this trick, only a very limited number of people can be suspected."`
+`"......That's {i:if} they used the {ruby:çeviri > numara:trick} I thought of, of course?`
+` However, with this {ruby:çeviri > numara:trick}, only a very limited number of people can be suspected."`
 `He didn't want to say it in front of Nanjo, ...but after eliminating Jessica, who had been with him the whole time,`
 ` ...the only ones who could have done it were Nanjo...and Eva.`
 `"I, ...I would not do anything of the sort...!`
 ` Y‐yes, I can swear it...!!"`
-`"......In this case, it would become a battle between Auntie Eva and you for an alibi.`
+`"......In this case, it would become a battle between {ruby:çeviri > Hala:Auntie} Eva and you for an {ruby:çeviri > mazeret:alibi}.`
 ` ...We'd just have to suspect both of you,`
 ` and confine the two of you separately."`
-`".........To say it the other way around, this might be an effective trick if there were more survivors,`
+`".........To say it the other way around, this might be an effective {ruby:çeviri > numara:trick} if there were more survivors,`
 ` but since our numbers have shrunk so much, it isn't particularly effective at all."`
 `...No, in fact, there's a chance they could dig their own grave with it.`
-`......It should have been more expedient to make it look like the culprit was outside,`
+`......It should have been more expedient to make it look like the {ruby:çeviri > suçlu:culprit} was outside,`
 ` and to intentionally leave a door unlocked, or break a window...`
 `"............If this disappearing act had taken place midday today,`
 ` I'd have probably announced this theory with full confidence.`
@@ -663,15 +663,15 @@
 `"......The witch is trying to make her case to us.`
 ` ...She must be showing us that she can do things that humans cannot,`
 ` ...trying to make us accept her as a witch."`
-`"...To me, this disappearance from the locked room of this entire guesthouse......feels like that kind of message from the witch......`
+`"...To me, this disappearance from the locked room of this entire {ruby:çeviri > konukevi:guesthouse}......feels like that kind of message from the witch......`
 ` ............I must not think of it.`
 ` Surely, it cannot mean anything.`
 ` ...Oooh, ......I, ...I am frightened......"`
 `As Doctor Nanjo shook with fear, it looked like he was he was trying to erase the fearsome thoughts that he kept imagining, one after the other.`
-`......When we went downstairs, Auntie Eva and Jessica were enraged,`
+`......When we went downstairs, {ruby:çeviri > Hala:Auntie} Eva and Jessica were enraged,`
 ` and were each making a lot of noise about leaving this place and searching for their respective families.`
 `It was a desire that naturally hits those who can no longer see their family.`
-`Auntie Eva told Doctor Nanjo and me to stay here, but I shook my head and started walking.`
+`{ruby:çeviri > Hala:Auntie} Eva told Doctor Nanjo and me to stay here, but I shook my head and started walking.`
 `".........I've had enough of being shut up in here.`
 ` ...I've started wanting to breathe some outside air."`
 `"Yeah, and if we're going, let's go right now...!!`
@@ -685,11 +685,11 @@
 ` Gonna watch the place by yourself...?"`
 `"N‐no...`
 ` Please allow me to join you..."`
-`If the alternative was holing up alone in a guesthouse whose security was by no means guaranteed,`
+`If the alternative was holing up alone in a {ruby:çeviri > konukevi:guesthouse} whose security was by no means guaranteed,`
 ` it would be better to be in a danger zone as a group of four people.`
-`Auntie Eva was holding the gun.`
+`{ruby:çeviri > Hala:Auntie} Eva was holding the gun.`
 ` Moving separately from her was almost like asking to be made into the next victim.`
-`In this way, the four of us decided to leave the guesthouse.`
+`In this way, the four of us decided to leave the {ruby:çeviri > konukevi:guesthouse}.`
 `......We'd barricaded ourselves in, saying we'd be safe if we did, ......and then lost eight people.`
 `It was almost as though this had been nothing more than a holding cell from which the sacrifices could be killed one after another.`
 `We removed the chain, unlocked the front door, and opened it.`
@@ -698,14 +698,14 @@
 ` ......they didn't have enough power to illuminate the darkness that some suspicious person was likely to be hiding in.`
 `"I'm going...!`
 ` If you fall behind, you're on your own, okay...?!"`
-`Still holding her gun, Auntie Eva dashed out without an umbrella.`
+`Still holding her gun, {ruby:çeviri > Hala:Auntie} Eva dashed out without an umbrella.`
 `Jessica followed after her.`
 `After looking at each other, Doctor Nanjo and I chased after them.`
-`...What in the world is happening in this mansion, on this island?`
-`Since yesterday, I've just been shut up in the cousins' room in the guesthouse with the rest of my cousins.`
+`...What in the world is happening in this {ruby:çeviri > malikane:mansion}, on this island?`
+`Since yesterday, I've just been shut up in the cousins' room in the {ruby:çeviri > konukevi:guesthouse} with the rest of my cousins.`
 ` So I don't know anything about what's been going on outside.`
 `Just what has been happening in those places I don't know about...`
-`outside the room, in the mansion, and on this island?`
+`outside the room, in the {ruby:çeviri > malikane:mansion}, and on this island?`
 `......Everything is occurring, everything is proceeding,`
 ` ...and everything is ending without my knowing it.`
 `Somewhere in my heart, I had already begun to give up.`

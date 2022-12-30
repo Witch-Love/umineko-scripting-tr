@@ -65,7 +65,7 @@
 ` The mere fact that you know her name shows that you are neither ignorant nor unconnected."`
 `"Good point.`
 ` ......The Beatrice I know of...`
-`is the woman you loved, the one you met before the mansion on Rokkenjima was even built.`
+`is the woman you loved, the one you met before the {ruby:çeviri > malikane:mansion} on Rokkenjima was even built.`
 ` However, she probably departed from this world, leaving behind a daughter.`
 ` That is the girl who was raised in Kuwadorian."`
 `".........Oho."`
@@ -75,7 +75,7 @@
 ` ...You mentioned it when we were talking with Aunt Rosa too.`
 ` ......What in the world does it mean?"`
 `"You should have an idea by now.`
-` It's the name of the hidden mansion deep in the forest where his mistress's daughter lived."`
+` It's the name of the hidden {ruby:çeviri > malikane:mansion} deep in the forest where his mistress's daughter lived."`
 `"Interesting.`
 ` ......So, you actually know the name of Kuwadorian.`
 ` ......Continue. You have sparked my interest."`
@@ -135,13 +135,13 @@
 ` ......Everyone calls me {f:5:Beatrice}.`
 ` ...And that does certainly seem to be the name of a great witch, as you say.`
 `— ......But that is not me.`
-` I cannot use any magic.`
+` I cannot use any {ruby:çeviri > büyü:magic}.`
 ` ......I simply have the soul of that witch sealed inside my body.`
 `"........................Her memory...`
 `would have returned.`
 ` ......She was without a doubt Beatrice reborn.`
 ` ......Her memory was coming back bit by bit.`
-` My magical rituals were helping her regain her memories one little bit at a time......"`
+` My {ruby:çeviri > büyülü:magical} rituals were helping her regain her memories one little bit at a time......"`
 `"G‐......Grandfather......"`
 `"There's no need to be surprised.`
 ` If you line up the information in all the games so far, this is the answer it leads you to.`
@@ -149,7 +149,7 @@
 ` She also said that her power and memory had been sealed.`
 ` If you match that interpretation of hers to this theory, it all makes sense."`
 `"............Willard‐sama.`
-` Thanks to a powerful magical ritual, the Master gained a reborn child of the late Beatrice‐sama.`
+` Thanks to a powerful {ruby:çeviri > büyülü:magical} ritual, the Master gained a reborn child of the late Beatrice‐sama.`
 ` That cannot be denied."`
 `"I won't contradict the stork.`
 ` And I don't intend to doubt the depths of Kinzo's love for this woman called Beatrice.`
@@ -224,7 +224,7 @@
 ` About Beatrice......?"`
 `"Of course she does.`
 ` ......In the fourth game, we have testimony from the ferryboat captain saying that Kumasawa went in and out of Kuwadorian.`
-` I'd be willing to bet that Kumasawa had different work shifts at the mansion and Kuwadorian.`
+` I'd be willing to bet that Kumasawa had different work shifts at the {ruby:çeviri > malikane:mansion} and Kuwadorian.`
 ` There was a young girl to be taken care of.`
 ` Kumasawa, with her long experience in taking care of children, must have been of immense value."`
 `".........That is correct.`
@@ -234,11 +234,11 @@
 ` ......So, ......everything Will‐san is saying is the truth."`
 `".........Yes.`
 ` It is a fact.`
-` ......There was a secret mansion constructed on the opposite side of the island for Beatrice‐sama.`
+` ......There was a secret {ruby:çeviri > malikane:mansion} constructed on the opposite side of the island for Beatrice‐sama.`
 ` The existence of Kuwadorian is the truth."`
 `"I don't know when Kinzo married his official wife,`
 ` but back when Kinzo already had an enormous store of wealth and had bought Rokkenjima whole,`
-` he built two mansions and set up two separate lives."`
+` he built two {ruby:çeviri > malikane:mansion}s and set up two separate lives."`
 `Kinzo's children had also been aware of Kinzo's clandestine eccentricities at the time.`
 `It probably hadn't been easy to set up two lives.`
 `{n}Moreover, Kinzo's wife had been suspicious and had sniffed around all the time...`

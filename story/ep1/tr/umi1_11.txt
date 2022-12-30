@@ -38,7 +38,7 @@
 ` ......You may do as you please."`
 `Natsuhi walked out without saying anything more.`
 `{n}Eva followed behind her.`
-`...Mere moments after they left, Kumasawa ran into the parlor.`
+`...Mere moments after they left, Kumasawa ran into the {ruby:çeviri > salon:parlor}.`
 `Since she wasn't the kind of person to run around, it would be normal to sense that something had happened,`
 ` ...but since everyone had been stricken by that earlier shock, none of them took any notice of this trivial difference.`
 `"......U‐umm,`
@@ -47,8 +47,8 @@
 `"If you're lookin' for Natsuhi nee‐san, she went to see Father.`
 ` She'll probably be back soon.`
 ` ...What happened, Kumasawa‐san?"`
-`"Th‐that is, .........in the dining hall, ......blood, .........blood...!"`
-`Everyone in the parlor turned to listen.`
+`"Th‐that is, .........in the {ruby:çeviri > yemek salonu:dining hall}, ......blood, .........blood...!"`
+`Everyone in the {ruby:çeviri > salon:parlor} turned to listen.`
 `Everyone thought the same thing.`
 ` ...“I hope I misheard that.”`
 `......Just like how any container has a limit to how much you can put in it,`
@@ -56,15 +56,15 @@
 `So they all thought it.`
 ` I hope I misheard that......`
 `"Wh‐......what?`
-` ......In the dining hall...?"`
-`"When I went to the dining hall...`
+` ......In the {ruby:çeviri > yemek salonu:dining hall}...?"`
+`"When I went to the {ruby:çeviri > yemek salonu:dining hall}...`
 `to set up for breakfast...`
 ` ......Awawa{0}wa{0}wawa...wawa..."`
 `The first to start running was George.`
 `{n}His harsh footsteps jogged Hideyoshi and Nanjo to their senses, and they chased after him.`
 ` Battler and the others followed.`
-`They flew into the dining hall one after another, but they didn't find any change that would have caused Kumasawa to go pale.`
-`...To those who had viewed that gruesome scene in the storehouse, it was a bit of an anticlimax.`
+`They flew into the {ruby:çeviri > yemek salonu:dining hall} one after another, but they didn't find any change that would have caused Kumasawa to go pale.`
+`...To those who had viewed that gruesome scene in the {ruby:çeviri > ambar:storehouse}, it was a bit of an anticlimax.`
 `However, Kumasawa, who had followed them, pointed it out.`
 `{n}......There really were some traces of blood on the floor.`
 `...Compared to that terrible scene, it was not very dramatic.`
@@ -84,18 +84,18 @@
 `is probably when it happened..."`
 `".........Christ...`
 ` .........I can't take this........."`
-`"Milady, ......stay strong......"`
+`"{ruby:çeviri > Leydim:Milady}, ......stay strong......"`
 `"...Heheheheh...`
-` ...After seeing that hell on earth in the storehouse, I think I can handle this much..."`
+` ...After seeing that hell on earth in the {ruby:çeviri > ambar:storehouse}, I think I can handle this much..."`
 `"......Really? Great for you...`
 ` I feel like my head's gonna friggin' explode...`
-` ......This is the dining hall, you know?`
+` ......This is the {ruby:çeviri > yemek salonu:dining hall}, you know?`
 ` This is where every day I would eat, complain about school, complain about homework,`
 ` ......talk to Dad about my grades,`
 ` ......that's what this place is to me......"`
-`"............Milady.`
+`"............{ruby:çeviri > Leydim:Milady}.`
 ` It wouldn't be good to remain here any longer.`
-` ...Let's return to the parlor."`
+` ...Let's return to the {ruby:çeviri > salon:parlor}."`
 `"I agree...`
 ` .........Uncle Hideyoshi!`
 ` I think this room will be really important to the police.`
@@ -104,13 +104,13 @@
 `".........Everything is just as Battler‐san has said.`
 ` There is nothing more to be gained from remaining in this room."`
 `Nanjo spoke while looking at the pale faces all around.`
-`......Even though that horrible scene in the storehouse had felt like something not of this world,`
+`......Even though that horrible scene in the {ruby:çeviri > ambar:storehouse} had felt like something not of this world,`
 ` at least it was in a place far from here, a place we had been able to cut ourselves off and run away from, which had helped everyone to keep on going.`
-`......However, this dining hall was different.`
-`It was in the mansion's main wing,`
-` ...and as Jessica had said, it was supposed to be one of the more relaxing places within the mansion.`
+`......However, this {ruby:çeviri > yemek salonu:dining hall} was different.`
+`It was in the {ruby:çeviri > malikane:mansion}'s main wing,`
+` ...and as Jessica had said, it was supposed to be one of the more relaxing places within the {ruby:çeviri > malikane:mansion}.`
 ` It was the same place where all of the relatives had enjoyed lunch and dinner yesterday.`
-`......The shock of seeing this place smeared with blood reminded us of that horrible spectacle in the storehouse,`
+`......The shock of seeing this place smeared with blood reminded us of that horrible spectacle in the {ruby:çeviri > ambar:storehouse},`
 ` and forced us to accept that we really hadn't been able to run away from the scene of that tragedy......`
 `"...Yeah.`
 ` I agree too...`
@@ -118,12 +118,12 @@
 `"Amateurs like us shouldn't stir the place up.`
 ` ...Let's leave quick.`
 ` Come on, come on!"`
-`Hideyoshi also understood the meaning of what Battler had said, and pushed everyone to hurry out of the dining hall.`
+`Hideyoshi also understood the meaning of what Battler had said, and pushed everyone to hurry out of the {ruby:çeviri > yemek salonu:dining hall}.`
 `...The way we were then, looking at that blood any longer would have been too harsh.`
 `Nobody went against his words.`
-` Everyone raced each other out of the dining hall.`
+` Everyone raced each other out of the {ruby:çeviri > yemek salonu:dining hall}.`
 ` ............Almost as though the last person in the room would be trapped in there, all alone...`
-`Once in the hallway, we lent a shoulder to Kumasawa, who was leaning against the wall still trembling, and we all headed back to the parlor together.`
+`Once in the hallway, we lent a shoulder to Kumasawa, who was leaning against the wall still trembling, and we all headed back to the {ruby:çeviri > salon:parlor} together.`
 `...Then, Genji returned.`
 `"......Oh, Genji‐san.`
 ` Were you able to contact the police?"`
@@ -147,14 +147,14 @@
 `...not just us,`
 ` ...but the criminal who killed everyone is also confined to this island..."`
 `"......That certainly follows.`
-` ......The culprit who killed everyone is still here on the island."`
+` ......The {ruby:çeviri > suçlu:culprit} who killed everyone is still here on the island."`
 `"S‐......so the bastard who killed Dad and the others can't get off the island, and he's still hiding somewhere...`
 ` ......Damn it, dammit{0}dammit{0}dammit!!!`
 ` I'll find you, you bastard, you think I'll hand you over to the police?!!"`
 `"I'll tear you to shreds myself...!!!`
 ` Uuuughh!!!"`
 `"...................................."`
-`Maria had finally realized that something was odd in the parlor.`
+`Maria had finally realized that something was odd in the {ruby:çeviri > salon:parlor}.`
 `...Or, rather than noticing something odd,`
 ` it was probably better to say that she felt unhappy and neglected since everyone was getting so excited about something only she didn't know about.`
 `".........Uu.`
@@ -196,8 +196,8 @@
 `Maria had just said something,`
 ` but since the words were so remotely separated from the flow and context of the conversation, for a second, I couldn't understand them.`
 `As I was about to ask her to repeat it,`
-` I was shocked by the sudden sound of Aunt Natsuhi's loud voice coming from the entrance to the parlor.`
-`It looked like Aunt Natsuhi and Auntie Eva had returned from their trip to see Grandfather.`
+` I was shocked by the sudden sound of Aunt Natsuhi's loud voice coming from the entrance to the {ruby:çeviri > salon:parlor}.`
+`It looked like Aunt Natsuhi and {ruby:çeviri > Hala:Auntie} Eva had returned from their trip to see Grandfather.`
 `"You can't contact them with the radio?!`
 ` .........If we can't use it at a time like this, why do we even have an emergency radio!"`
 `"...............My apologies.`
@@ -207,7 +207,7 @@
 `"......We do not have such equipment...`
 ` ...My apologies..."`
 `Just then, Kumasawa came pushing a serving cart loaded with breakfast.`
-`{n}......Since there was no way we would be able to eat in the dining hall, Hideyoshi had ordered her to bring it to the parlor.`
+`{n}......Since there was no way we would be able to eat in the {ruby:çeviri > yemek salonu:dining hall}, Hideyoshi had ordered her to bring it to the {ruby:çeviri > salon:parlor}.`
 `"Why are we eating breakfast here?"`
 `"......Aaaahhh, Natsuhi‐san... I'll tell you later.`
 ` More importantly, Eva, how was Father?"`
@@ -222,7 +222,7 @@
 ` I wonder when he left his room......`
 ` Do either of you have an idea?"`
 `Natsuhi looked at Genji and Kanon as she said this.`
-`...She probably thought that the servants permitted the One‐winged Eagle, who served directly under him, would know of a place he might go.`
+`...She probably thought that the {ruby:çeviri > hizmetkarlar:servants} permitted the One‐winged Eagle, who served directly under him, would know of a place he might go.`
 `.........However, it seemed to be the other way around.`
 `{n}...Their faces made it clear that those who knew Kinzo best realized even more than everyone else how impossible it was for him to leave his room.`
 `".........Even we have no idea."`
@@ -245,7 +245,7 @@
 `{n}...Even though they needed to do something, they couldn't think of anything;`
 ` some of them became irritated, while others merely held their heads in their hands.`
 `.........But not one of them...could explain what was occurring on this island of Rokkenjima......`
-`After that, we sat in the parlor and wordlessly chewed through the breakfast that Kumasawa‐san had made.`
+`After that, we sat in the {ruby:çeviri > salon:parlor} and wordlessly chewed through the breakfast that Kumasawa‐san had made.`
 `Of course, this was right after something like that had happened.`
 `{n}No one had any appetite.`
 `...However, we realized that not eating would weaken our bodies.`
@@ -260,9 +260,9 @@
 `First off, ......that Uncle Krauss,`
 ` my dad,`
 ` Kyrie‐san,`
-` Auntie Rosa,`
+` {ruby:çeviri > Hala:Auntie} Rosa,`
 ` Gohda‐san and Shannon‐chan...`
-`had been found in the rose garden storehouse as cruelly mutilated corpses.`
+`had been found in the {ruby:çeviri > gül bahçesi:rose garden} {ruby:çeviri > ambar:storehouse} as cruelly mutilated corpses.`
 `And that despite that, we were unable to use phones or radio, and still couldn't contact the police.`
 `......So until the typhoon passed, there was nothing we could do.`
 `Furthermore, Grandfather, who we had hoped might be able to show a little leadership in this kind of a situation, had disappeared at some point.`
@@ -271,9 +271,9 @@
 `And yet,`
 ` he hadn't appeared.`
 `......There was more than a small chance that he had become caught up in the earlier crime.`
-`Aunt Natsuhi and Auntie Eva had said that, on their return trip from going to see Kinzo, they had called out to him on every floor, looking for him, but were not able to find him.`
+`Aunt Natsuhi and {ruby:çeviri > Hala:Auntie} Eva had said that, on their return trip from going to see Kinzo, they had called out to him on every floor, looking for him, but were not able to find him.`
 `...If you think about the timing of it all, it was probably best to think that he had been caught up in the crime.`
-`If the culprit had taken the trouble to move the bodies of Dad and the rest, who we figured had been killed in the dining hall, all the way to the storehouse,`
+`If the {ruby:çeviri > suçlu:culprit} had taken the trouble to move the bodies of Dad and the rest, who we figured had been killed in the {ruby:çeviri > yemek salonu:dining hall}, all the way to the {ruby:çeviri > ambar:storehouse},`
 ` then maybe they had already killed Grandfather,`
 ` moved his body to some strange location, and we had simply not found it yet...`
 ` No one actually said it, but this theory seemed extremely convincing...`
@@ -284,8 +284,8 @@
 ` Doctor Nanjo as well."`
 `"...I understand.`
 ` I will wait here......"`
-`Aunt Natsuhi led the servants—Genji‐san, Kumasawa‐san, and Kanon‐kun—out of the parlor.`
-`All that was left was Auntie Eva, Uncle Hideyoshi,`
+`Aunt Natsuhi led the {ruby:çeviri > hizmetkarlar:servants}—Genji‐san, Kumasawa‐san, and Kanon‐kun—out of the {ruby:çeviri > salon:parlor}.`
+`All that was left was {ruby:çeviri > Hala:Auntie} Eva, Uncle Hideyoshi,`
 ` Doctor Nanjo, and the four of us children for a total of seven people.`
 `"Let's all stick together, and maybe watch some TV while we wait.`
 ` Geez, Sunday daytime TV sure doesn't have many good shows on, huh?"`
@@ -303,7 +303,7 @@
 `"............Aniki.`
 ` Can I ask you something?"`
 `"...What is it?"`
-`"......Just now in the storehouse.`
+`"......Just now in the {ruby:çeviri > ambar:storehouse}.`
 ` You said something about Shannon‐chan and a ring.`
 ` ......Did you give that to her?"`
 `George‐aniki didn't answer, but he hung his head and closed both of his eyes.`
@@ -330,7 +330,7 @@
 `"...............Shannon was always really bad at lying.`
 ` It was instantly obvious that it was you she was talking about."`
 `"...............She...`
-`asked whether it would be okay if she got close to you, being just a servant.`
+`asked whether it would be okay if she got close to you, being just a {ruby:çeviri > hizmetkar:servant}.`
 ` ......She asked about stuff like what kind of things do boys like,`
 ` and what kind of clothes should she wear to make them happy,`
 ` lots of stuff like that.`
@@ -349,14 +349,14 @@
 `".........................................."`
 `...George‐aniki, without raising his head, sighed deeply...`
 `{n}......Or maybe tears had risen to his eyes.`
-`"............It seems that Shannon was on duty in the guesthouse last night.`
-` ......But, ...because she was too embarrassed to go back to the guesthouse with me,`
-` ......she went over to the mansion."`
+`"............It seems that Shannon was on duty in the {ruby:çeviri > konukevi:guesthouse} last night.`
+` ......But, ...because she was too embarrassed to go back to the {ruby:çeviri > konukevi:guesthouse} with me,`
+` ......she went over to the {ruby:çeviri > malikane:mansion}."`
 `"......Think about Shannon's feelings.`
 ` ...When you receive an engagement ring, no matter how much you've prepared for it beforehand, it's normal to feel so elated your mind goes blank.`
 ` ......She must have been so embarrassed she didn't know what to do with herself."`
 `"......And then, Shannon,`
-` ............even though she hadn't been on duty there, she went to the mansion,`
+` ............even though she hadn't been on duty there, she went to the {ruby:çeviri > malikane:mansion},`
 ` ...............and got caught up in all this........."`
 `"If only I hadn't,`
 ` ...on that day,`
@@ -373,12 +373,12 @@
 `"..................uuuuughh..."`
 `"Battler‐kun.`
 ` Leave him be."`
-`After those words from Auntie Eva, I stopped talking to him.`
+`After those words from {ruby:çeviri > Hala:Auntie} Eva, I stopped talking to him.`
 `...Misplaced words of comfort might actually hurt him.`
 `{n}Jessica sat down next to Aniki, and quietly put an arm around him.`
 `.........Maybe only Jessica, who had known about Aniki and Shannon's love since the beginning,`
 ` and who had been discussing that relationship with Shannon, ...could comfort Aniki now.`
-`I went over to Auntie Eva and sat down on the opposite sofa...`
+`I went over to {ruby:çeviri > Hala:Auntie} Eva and sat down on the opposite sofa...`
 `"Battler‐kun, you really are strong...`
 ` It looks like you've kept a good hold on yourself."`
 `"...Umm, well, look, the depth of the love becomes the depth of the wound, right?`
@@ -413,7 +413,7 @@
 `That's right.`
 ` After the letter from the person who claimed to be {f:5:Beatrice} appeared at the dinner table last night,`
 ` ......we had talked about whether or not a 19th person actually exists.`
-`"Auntie Eva.`
+`"{ruby:çeviri > Hala:Auntie} Eva.`
 ` .........These murders,`
 ` ...do you think they have anything to do with the letter from {f:5:Beatrice} last night?"`
 `"...Aah, that thing?`
@@ -423,7 +423,7 @@
 `"Was that letter really given to Maria by some witch called {f:5:Beatrice}?"`
 `"How could it be?`
 ` All of it was a farce devised by Father, wasn't it?`
-` He made someone like Shannon‐chan wear the dress from the portrait and deceive Maria‐chan, right?`
+` He made someone like Shannon‐chan wear the dress from the {ruby:çeviri > portre:portrait} and deceive Maria‐chan, right?`
 ` Isn't that just like the kind of intricate prank Father would pull?"`
 `".........Last night, I talked with Kyrie‐san about whether {f:5:Beatrice} actually exists,`
 ` and she also said that {f:5:Beatrice} was probably one of the 18 of us."`
@@ -438,58 +438,58 @@
 ` There are only 18 people.`
 ` ...So the one who pretended to be {f:5:Beatrice} has to be one of those 18."`
 `Kyrie‐san had denied that there was a 19th person by "flipping over the chessboard".`
-`Even though Auntie Eva hadn't constructed an argument that complicated, her opinion at least was the same.`
+`Even though {ruby:çeviri > Hala:Auntie} Eva hadn't constructed an argument that complicated, her opinion at least was the same.`
 `...Except, if that is the case, our situation starts to look very ugly......`
 `At the time of {f:5:Beatrice}'s letter, we were able to dismiss the matter as just someone's prank.`
 `...However, if we deny the existence of a 19th person at this point, matters are not so jovial.`
 `.........In other words,`
 `"...If there is no 19th person,`
-` ......then the culprit who killed Dad and the others is also one of the 18, right?`
-` .........So, in other words, that would mean that someone in this very mansion is the one who killed them...!"`
+` ......then the {ruby:çeviri > suçlu:culprit} who killed Dad and the others is also one of the 18, right?`
+` .........So, in other words, that would mean that someone in this very {ruby:çeviri > malikane:mansion} is the one who killed them...!"`
 `"......................................."`
-`Auntie Eva smiled meaningfully.`
-`...It looked like Auntie thought that this conclusion should have been obvious from the very beginning.`
-`"The culprit carried the bodies of those six into the storehouse.`
-` But they sure did a good job getting into that storehouse, didn't they?`
+`{ruby:çeviri > Hala:Auntie} Eva smiled meaningfully.`
+`...It looked like {ruby:çeviri > Hala:Auntie} thought that this conclusion should have been obvious from the very beginning.`
+`"The {ruby:çeviri > suçlu:culprit} carried the bodies of those six into the {ruby:çeviri > ambar:storehouse}.`
+` But they sure did a good job getting into that {ruby:çeviri > ambar:storehouse}, didn't they?`
 ` That shutter was always kept closed and locked, I'm told."`
-`"In other words, in order to carry them into the storehouse, the culprit would need to unlock the shutter.`
+`"In other words, in order to carry them into the {ruby:çeviri > ambar:storehouse}, the {ruby:çeviri > suçlu:culprit} would need to unlock the shutter.`
 ` ...Understand?"`
 `"......Is there any possibility that the shutter was left open by mistake that day?"`
-`"The servants said that it's always shut.`
-` In other words, unless they brought the keys out of the servant room, they definitely couldn't have opened the storehouse."`
-`"Is the only key the one in the servant room...?"`
+`"The {ruby:çeviri > hizmetkarlar:servants} said that it's always shut.`
+` In other words, unless they brought the keys out of the {ruby:çeviri > hizmetkar:servant} room, they definitely couldn't have opened the {ruby:çeviri > ambar:storehouse}."`
+`"Is the only key the one in the {ruby:çeviri > hizmetkar:servant} room...?"`
 `"Genji‐san said so, yes.`
-` Which means that the culprit knew where that single key was stored and took it out."`
-`"Just now, I saw Kanon‐kun return the key to the servant room.`
+` Which means that the {ruby:çeviri > suçlu:culprit} knew where that single key was stored and took it out."`
+`"Just now, I saw Kanon‐kun return the key to the {ruby:çeviri > hizmetkar:servant} room.`
 ` The wall was packed with keys, and I don't think that a novice would know where and to what those keys went to.`
-` The culprit was magnificently able to select the key to the storehouse from all of those."`
-`"Furthermore, even though the key didn't have a tag or anything sticking to it, they knew it was the key to the storehouse behind the rose garden.`
-` ...And while I'm at it, they also knew where the storehouse was.`
+` The {ruby:çeviri > suçlu:culprit} was magnificently able to select the key to the {ruby:çeviri > ambar:storehouse} from all of those."`
+`"Furthermore, even though the key didn't have a tag or anything sticking to it, they knew it was the key to the {ruby:çeviri > ambar:storehouse} behind the {ruby:çeviri > gül bahçesi:rose garden}.`
+` ...And while I'm at it, they also knew where the {ruby:çeviri > ambar:storehouse} was.`
 ` .........I'll say it even clearer.`
-` The culprit knew the inside of the servant room well."`
+` The {ruby:çeviri > suçlu:culprit} knew the inside of the {ruby:çeviri > hizmetkar:servant} room well."`
 `Her argument was extremely plain and clear.`
-`......If the bodies had been thrown somewhere in the bushes of the rose garden, no explanation would have been necessary.`
-`However, the one key to the storehouse was in the servant room,`
+`......If the bodies had been thrown somewhere in the bushes of the {ruby:çeviri > gül bahçesi:rose garden}, no explanation would have been necessary.`
+`However, the one key to the {ruby:çeviri > ambar:storehouse} was in the {ruby:çeviri > hizmetkar:servant} room,`
 ` and stored with a large group of other keys, such that a novice would not be able to tell them apart.`
-`This meant that the culprit was someone who was used to going in and out of the servant room, and knew well where the key was.`
-`...The family didn't normally go into the servant room.`
+`This meant that the {ruby:çeviri > suçlu:culprit} was someone who was used to going in and out of the {ruby:çeviri > hizmetkar:servant} room, and knew well where the key was.`
+`...The family didn't normally go into the {ruby:çeviri > hizmetkar:servant} room.`
 `{n}......Which meant that............`
 `"......Which means that...`
-`...one of the servants...`
-`...is the culprit......"`
-`"I'm sorry, but even your auntie can't say any more than that.`
+`...one of the {ruby:çeviri > hizmetkarlar:servants}...`
+`...is the {ruby:çeviri > suçlu:culprit}......"`
+`"I'm sorry, but even your {ruby:çeviri > hala:auntie} can't say any more than that.`
 ` ......However, I'll tell you one thing."`
 `"......What's that?"`
-`"The culprit, ......we should properly say they were culprits in the plural, and what's more, they were well‐armed.`
+`"The {ruby:çeviri > suçlu:culprit}, ......we should properly say they were {ruby:çeviri > suçlular:culprits} in the plural, and what's more, they were well‐armed.`
 ` You see it, don't you?"`
-`"They had to assault the four in the dining hall and kill them all at once, drag a total of six bodies all the way to the storehouse beyond the rose garden, and scribble that disgusting makeup on their faces.`
-` ......There's no way that a single culprit could carry all of this out on their own, right?"`
+`"They had to assault the four in the {ruby:çeviri > yemek salonu:dining hall} and kill them all at once, drag a total of six bodies all the way to the {ruby:çeviri > ambar:storehouse} beyond the {ruby:çeviri > gül bahçesi:rose garden}, and scribble that disgusting makeup on their faces.`
+` ......There's no way that a single {ruby:çeviri > suçlu:culprit} could carry all of this out on their own, right?"`
 `It was impossible.`
 ` It might not have been if a single person spent enough time on it, but that would have taken ages.`
 `It was probably best to think that a significant number of people had been part of it.`
 `"...............Whoo.`
 ` So what you mean is...`
-`...maybe all of the servants were in cahoots."`
+`...maybe all of the {ruby:çeviri > hizmetkarlar:servants} were in cahoots."`
 `"Please keep it quiet, okay?`
 ` It's bad to speak from speculation alone."`
 `"......Besides, what would you do if it really was true?`
@@ -497,26 +497,26 @@
 ` This is an opponent who had no trouble killing Nii‐san and the three others."`
 `"The only people in this room right now who look like they could put up a decent fight are the three people in my family, and maybe you as well—four at most?`
 ` The situation is no different than it was last night.`
-` ......In short, it would be easy for the culprit to massacre the rest of us."`
-`I had been playing detective with Auntie Eva out of a desire to expose the person who had killed Dad and the rest before the police did.`
-`...If I could manage to skillfully penetrate the culprit's identity, I wanted to stick the evidence in their face.`
-`......I had gotten it into my head that if I did that, the culprit would give up and surrender, just like in one of those detective movies.`
-`However, the culprit only surrenders there because they are in a situation where resisting would be futile.`
-`The culprits behind these incidents on the island were far from helpless,`
+` ......In short, it would be easy for the {ruby:çeviri > suçlu:culprit} to massacre the rest of us."`
+`I had been playing detective with {ruby:çeviri > Hala:Auntie} Eva out of a desire to expose the person who had killed Dad and the rest before the police did.`
+`...If I could manage to skillfully penetrate the {ruby:çeviri > suçlu:culprit}'s identity, I wanted to stick the evidence in their face.`
+`......I had gotten it into my head that if I did that, the {ruby:çeviri > suçlu:culprit} would give up and surrender, just like in one of those detective movies.`
+`However, the {ruby:çeviri > suçlu:culprit} only surrenders there because they are in a situation where resisting would be futile.`
+`The {ruby:çeviri > suçlular:culprits} behind these incidents on the island were far from helpless,`
 ` and might even be able to massacre all of the remaining people on the island.`
 `...And on top of that, this island was like a giant locked room, cut off from the outside world by the typhoon,`
 ` so they had the full day until tomorrow to kill, scheme, and cover up their handiwork......`
 `In short, we weren't in the kind of safe atmosphere where we could entertain ourselves by playing detective...`
 `On the contrary, we were at a stage where we had to be scared stiff,`
-` since playing detective might displease the culprits, and cause them to repeat another mass murder......`
+` since playing detective might displease the {ruby:çeviri > suçlular:culprits}, and cause them to repeat another mass murder......`
 `"...Well, it is just a possibility, right?`
-` ......But I can't bring myself to trust the servants yet.`
+` ......But I can't bring myself to trust the {ruby:çeviri > hizmetkarlar:servants} yet.`
 ` And that doesn't mean they're the only ones I suspect.`
 ` I also think there might be some mastermind behind all this."`
 `"A mastermind?`
 ` Hmm... Why do you say that?"`
 `"It's just a feeling.`
-` ......Think about what the word servant literally means.`
+` ......Think about what the word {ruby:çeviri > hizmetkar:servant} literally means.`
 ` It means they serve someone—they do someone's bidding, right?"`
 `"Everyone who was killed had some relation to the Ushiromiya family.`
 ` So it would be natural for someone with interest in that result to be involved."`
@@ -524,10 +524,10 @@
 `The Ushiromiya family were currently right in the middle of discussing how to distribute the inheritance if Grandfather died.`
 `If this followed the formulaic plot used to death by many classic mystery novels,`
 ` it would definitely be a crime by someone with ties to the Ushiromiya family and who was entangled in the inheritance problem...`
-`Auntie had probably also read a few books in that genre.`
+`{ruby:çeviri > Hala:Auntie} had probably also read a few books in that genre.`
 `......Her theory did have a few one‐sided conclusions to it, but it was a run‐of‐the‐mill idea that anyone would surely hit upon.`
-`I think anyone would have suspected the servants, even if their logic was different.`
-`Especially the talk revolving around the key to the shutter—that was enough to make it easy to suspect strongly that one of the servants was involved in the case...`
+`I think anyone would have suspected the {ruby:çeviri > hizmetkarlar:servants}, even if their logic was different.`
+`Especially the talk revolving around the key to the shutter—that was enough to make it easy to suspect strongly that one of the {ruby:çeviri > hizmetkarlar:servants} was involved in the case...`
 `"...............Which is whyyy...`
 `I don't like it for some reason."`
 `"What do you mean, you don't like it?"`
@@ -538,38 +538,38 @@
 `{n}{i:Reasoning that anyone could arrive at.}`
 ` ...And I just couldn't accept that.`
 `...If I tried "flipping over the chessboard" like I had learned from Kyrie‐san,`
-` ......that was exactly why it was impossible for the servants to be the culprits.`
-`If the servants really had been the culprits, they wouldn't have hidden the bodies in a place that was tied to themselves.`
-`Certainly not the rose garden storehouse of all places, whose key they themselves controlled.`
+` ......that was exactly why it was impossible for the {ruby:çeviri > hizmetkarlar:servants} to be the {ruby:çeviri > suçlular:culprits}.`
+`If the {ruby:çeviri > hizmetkarlar:servants} really had been the {ruby:çeviri > suçlular:culprits}, they wouldn't have hidden the bodies in a place that was tied to themselves.`
+`Certainly not the {ruby:çeviri > gül bahçesi:rose garden} {ruby:çeviri > ambar:storehouse} of all places, whose key they themselves controlled.`
 `The police would probably immediately pursue whoever had been in control of the key.`
 `That would create a danger for exposure.`
-`{n}......If we were to assume that they were the culprits, they had no reason to carry the bodies into the storehouse.`
-`...Did they expect us to think that, and so put them in the storehouse deliberately?`
+`{n}......If we were to assume that they were the {ruby:çeviri > suçlular:culprits}, they had no reason to carry the bodies into the {ruby:çeviri > ambar:storehouse}.`
+`...Did they expect us to think that, and so put them in the {ruby:çeviri > ambar:storehouse} deliberately?`
 `{n}No, that definitely didn't make sense.`
 `When the police come and inspect the site, all kinds of things will probably become clear.`
-`No matter how deeply careful the culprits were in carrying out murder, some kind of traces will definitely be found.`
+`No matter how deeply careful the {ruby:çeviri > suçlular:culprits} were in carrying out murder, some kind of traces will definitely be found.`
 `So, in summary, they have everything to lose and nothing to gain.`
-`If you think about it this way, and look at the game from the culprit's side,`
+`If you think about it this way, and look at the game from the {ruby:çeviri > suçlu:culprit}'s side,`
 ` it feels like there's no point in advertising the location of the corpses.`
 `If the bodies were found, a report would be sent to the police,`
 ` the remaining people would become more cautious,`
 ` they could start looking for who was responsible,`
-` ...anyway, none of these things would make the culprits feel any more comfortable.`
+` ...anyway, none of these things would make the {ruby:çeviri > suçlular:culprits} feel any more comfortable.`
 `...Just like the words of the main character's mother in a novel I read recently called {i:Higurashi no Naku Koro ni}.`
 `A mystery story has four parts—introduction, development, turn, and conclusion—and so, to commit the perfect crime, it is essential to eliminate the "introduction".`
 `......Right now, no one knew where Grandfather was.`
-`We didn't know whether he had already become a victim, or if he was one of the culprits,`
+`We didn't know whether he had already become a victim, or if he was one of the {ruby:çeviri > suçlular:culprits},`
 ` .........but this state of confusion had to be beneficial to whoever did this.`
 `By blatantly advertising the bodies to us,`
-` and declaring "Hey! There's a murder case going on!", the culprit had absolutely nothing to gain.`
+` and declaring "Hey! There's a murder case going on!", the {ruby:çeviri > suçlu:culprit} had absolutely nothing to gain.`
 `Right, that was where we could "flip over the chessboard".`
-`So this blatant advertisement of the bodies was itself the culprit's goal.`
-`......So, it may well be that, to the culprit, {i:having the six corpses be present there meant more than the deaths themselves}.`
-`In other words, the culprit wanted to display these murders.`
+`So this blatant advertisement of the bodies was itself the {ruby:çeviri > suçlu:culprit}'s goal.`
+`......So, it may well be that, to the {ruby:çeviri > suçlu:culprit}, {i:having the six corpses be present there meant more than the deaths themselves}.`
+`In other words, the {ruby:çeviri > suçlu:culprit} wanted to display these murders.`
 ` To who?`
 `......To us.`
 ` It was a message.`
-`{n}The culprit was trying to shove something in our faces.`
+`{n}The {ruby:çeviri > suçlu:culprit} was trying to shove something in our faces.`
 `...I didn't know what that could be.`
 `At the current time, none of us could grasp anything from this vulgar mass murder except malice.`
 `......Malice towards...`
@@ -578,20 +578,20 @@
 `Each one of the survivors had some kind of connection to one of the six who had been killed.`
 `Uncle Krauss's death brought sorrow to Jessica's family.`
 `The deaths of Dad and Kyrie‐san brought sorrow to me,`
-` while Auntie Rosa's death brought sorrow to Maria.`
-`......Gohda‐san's death probably dealt a shock to his fellow servants,`
+` while {ruby:çeviri > Hala:Auntie} Rosa's death brought sorrow to Maria.`
+`......Gohda‐san's death probably dealt a shock to his fellow {ruby:çeviri > hizmetkarlar:servants},`
 ` and Shannon‐chan's death brought grief to George‐aniki, who had proposed to her, and to Kanon‐kun, who had loved her like an older sister.`
 `......Everyone now on this island had received an equal amount of sadness.`
-`Auntie Eva had claimed that the servants were definitely in cahoots,`
+`{ruby:çeviri > Hala:Auntie} Eva had claimed that the {ruby:çeviri > hizmetkarlar:servants} were definitely in cahoots,`
 ` ......but then how could you explain the deaths of Gohda‐san and Shannon‐chan?`
 `......And by this argument,`
-` {i:the grief caused by the six deaths hit everyone but Auntie Eva and Uncle Hideyoshi}.`
-`It was very possible to doubt Auntie Eva herself,`
-` who was acting like she was outside the net of suspicion, and who might have been trying to point that suspicion at the servants.`
-`......In the first place, she had managed to avoid suspicion and place it on the servants with that argument about the key to the shutter,`
+` {i:the grief caused by the six deaths hit everyone but {ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi}.`
+`It was very possible to doubt {ruby:çeviri > Hala:Auntie} Eva herself,`
+` who was acting like she was outside the net of suspicion, and who might have been trying to point that suspicion at the {ruby:çeviri > hizmetkarlar:servants}.`
+`......In the first place, she had managed to avoid suspicion and place it on the {ruby:çeviri > hizmetkarlar:servants} with that argument about the key to the shutter,`
 ` ......but if you looked at it from a perspective of motive, about who would gain something from the murders,`
-` ............Auntie Eva's name floated to the top of the list.`
-`"......Battler‐kun, Auntie knows what you're thinking, okay?"`
+` ............{ruby:çeviri > Hala:Auntie} Eva's name floated to the top of the list.`
+`"......Battler‐kun, {ruby:çeviri > Hala:Auntie} knows what you're thinking, okay?"`
 `"Huh?`
 ` Ihihi, oh no,`
 ` please don't tell anyone,`
@@ -607,50 +607,50 @@
 `"I'm sorry, okay?`
 ` No matter how I try to smooth it over, I'll just be suspected anyway, so I was just fooling around."`
 `"......So I've been thinking, from my point of view, this murder might have been planned to cast suspicion on me.`
-` ......Unfortunately, my alibi for last night is weak."`
+` ......Unfortunately, my {ruby:çeviri > mazeret:alibi} for last night is weak."`
 `"Could you tell me about it?`
 ` About last night?"`
 `"As you know, the discussion of how we siblings would gnaw apart the inheritance continued until late in the night.`
 ` But I don't know how late it lasted.`
 ` My husband and I had woken up early that morning.`
 ` We were so sleepy, and we let ourselves out a little past midnight.`
-` We then returned to the guesthouse and rested there."`
+` We then returned to the {ruby:çeviri > konukevi:guesthouse} and rested there."`
 `"......Can anyone other than Uncle Hideyoshi prove that?`
 ` Oh, of course, it's not like I'm suspecting you or anything, you kno~w?`
 ` Hihihi!"`
 `"My, I wonder about that!`
 ` *giggle*.`
-` I don't know if it counts as proof, but when we returned to the guesthouse, we were greeted by Genji‐san and asked if we needed a towel."`
-`"I think that should be enough to prove that we returned to the guesthouse a little after midnight.`
-` ......Of course, if my theory was correct and the servants were all in cahoots, that wouldn't actually make for an alibi, would it?"`
+` I don't know if it counts as proof, but when we returned to the {ruby:çeviri > konukevi:guesthouse}, we were greeted by Genji‐san and asked if we needed a towel."`
+`"I think that should be enough to prove that we returned to the {ruby:çeviri > konukevi:guesthouse} a little after midnight.`
+` ......Of course, if my theory was correct and the {ruby:çeviri > hizmetkarlar:servants} were all in cahoots, that wouldn't actually make for an {ruby:çeviri > mazeret:alibi}, would it?"`
 `"That is a point, isn't it?`
-` Does that mean that, right now, I'm playing detective with the real culprit?`
+` Does that mean that, right now, I'm playing detective with the real {ruby:çeviri > suçlu:culprit}?`
 ` Ihihi!"`
 `"But let me say this for my honor's sake: if my goal was the inheritance, I wouldn't commit this weird kind of murder!"`
 `"After all, if I just wanted to make them forfeit their rights to the inheritance, the method of their deaths wouldn't have mattered.`
 ` On the contrary, I'd try to make their deaths look like an accident, wouldn't I?`
-` If I'd been roping in the servants, and carefully planning everything out, that's even more reason I'd do that."`
+` If I'd been roping in the {ruby:çeviri > hizmetkarlar:servants}, and carefully planning everything out, that's even more reason I'd do that."`
 `"You're right about that...`
 ` If you were killing someone to make a profit, you definitely shouldn't make it look like a murder."`
 `"You see?`
-` So from here on, your auntie will be in a very blue mood.`
+` So from here on, your {ruby:çeviri > hala:auntie} will be in a very blue mood.`
 ` ......I'll probably be treated as the person behind this by the police, and harshly investigated.`
 ` I can't wait..."`
-`Auntie Eva shrugged with a bitter smile.`
-`......Just like it was easy to think of the servants as suspicious, it was also very easy to think of Auntie Eva as suspicious.`
+`{ruby:çeviri > Hala:Auntie} Eva shrugged with a bitter smile.`
+`......Just like it was easy to think of the {ruby:çeviri > hizmetkarlar:servants} as suspicious, it was also very easy to think of {ruby:çeviri > Hala:Auntie} Eva as suspicious.`
 `So if we "flip over the chessboard",`
-` ......did that mean it was impossible for the culprit to be the easily doubtable Auntie Eva...?`
+` ......did that mean it was impossible for the {ruby:çeviri > suçlu:culprit} to be the easily doubtable {ruby:çeviri > Hala:Auntie} Eva...?`
 `However, if that logic could pass so easily, then motive wouldn't count for anything.`
 `No, that can't be right...`
-`{n}Knowing the motive should be a big clue towards knowing the culprit.`
+`{n}Knowing the motive should be a big clue towards knowing the {ruby:çeviri > suçlu:culprit}.`
 `...That is why murderers throughout history have tried to ensure their motive will not be found out, by skillfully complicating the incidents......`
 `.........I don't know, ...I don't know...`
 `{n}Every time I flip over the chessboard, it keeps flipping from front to back and back to front...`
 `...Were my thoughts closing in on the truth?`
 `{n}......Or.........`
-`Auntie Eva didn't want to talk any more than that, so I headed to the window, folding my arms, so that I could cool my head a little.`
-`As I looked over the parlor, I saw George‐aniki and the others gathered, talking.`
-`...It looked like they were talking about the magic circle that had been painted onto the shutter.`
+`{ruby:çeviri > Hala:Auntie} Eva didn't want to talk any more than that, so I headed to the window, folding my arms, so that I could cool my head a little.`
+`As I looked over the {ruby:çeviri > salon:parlor}, I saw George‐aniki and the others gathered, talking.`
+`...It looked like they were talking about the {ruby:çeviri > büyü:magic} circle that had been painted onto the shutter.`
 `As Uncle Hideyoshi thought back to that time, he started drawing the shape in the margins of Maria's notebook.`
 `......Yes, Maria is second only to Grandfather in knowledge of the occult, so she might understand what it meant.`
 `"Hmmm, I think it was probably somethin' like that!`
@@ -664,14 +664,14 @@
 ` Yep, this was it, there's no mistakin' the shape.`
 ` I don't know the exact characters, but the arrangement was nearly the same."`
 `Everyone was staring down at the shape, so I stared down at it too.`
-`...From what I had heard, this had been painted on the shutter to the storehouse with some material that looked like blood.`
+`...From what I had heard, this had been painted on the shutter to the {ruby:çeviri > ambar:storehouse} with some material that looked like blood.`
 `......I see, this sure is unsettling.`
 `"...Grandfather's about the only one who'd get it into his head to draw this nonsense.`
 ` ......Seriously, where did he go?!`
 ` I wanna grab him and ask what the hell this is supposed to mean!!"`
 `Jessica's voice contained impatience and anger.`
-`She hadn't gone so far as to say that Grandfather was the culprit,`
-` but it looked as though she thought that Grandfather definitely knew the culprit's identity.`
+`She hadn't gone so far as to say that Grandfather was the {ruby:çeviri > suçlu:culprit},`
+` but it looked as though she thought that Grandfather definitely knew the {ruby:çeviri > suçlu:culprit}'s identity.`
 `......Certainly, if you asked around for the link that bound the Ushiromiya family and the occult together, ten out of ten people would name Grandfather.`
 `......And, to a person who knew nothing of the occult, this strange mark would have no meaning.`
 `Which meant that......`
@@ -690,7 +690,7 @@
 ` It certainly does have that kind of design.`
 ` Does that mean it has somethin' to do with that foreign country?"`
 `"That cross symbol was originally a crest from a religious order of knights and was supposed to protect pilgrims traveling to sacred places..."`
-`"......Then this magic circle has some religious meaning or something...?`
+`"......Then this {ruby:çeviri > büyü:magic} circle has some religious meaning or something...?`
 ` This is starting to sound like gibberish......"`
 `When I looked over at all of them, preparing to jump into the discussion, ......something shocked me.`
 `Maria was...grinning, an eerie expression on her face that defied description.`
@@ -708,12 +708,12 @@
 `While everyone was scared out of their wits, Maria, alone, kept on cackling happily...`
 `After a while, that laugh suddenly and abruptly cut off.`
 `But her expression was still like someone completely different from Maria.`
-`"This is the seventh magic circle of the sun.`
+`"This is the seventh {ruby:çeviri > büyü:magic} circle of the sun.`
 ` ......The characters are Hebrew.`
 ` Lend it here?"`
 `"Ah, ......yes."`
 `Maria stole the writing materials from the stunned Hideyoshi's hand.`
-`She then started drawing another magic circle, effortlessly, right next to the one that Hideyoshi had drawn...`
+`She then started drawing another {ruby:çeviri > büyü:magic} circle, effortlessly, right next to the one that Hideyoshi had drawn...`
 `"......See?`
 ` It was this kind of shape, right?"`
 `"Y......yes...`
@@ -746,8 +746,8 @@
 `For a while, everyone, including me, was at a loss for words.`
 `{n}...After some moments, George‐aniki returned to his senses, and slowly managed to speak.`
 `"......That's incredible, I'm surprised...`
-` ...So, what meaning does this magic circle have?"`
-`"It's a magic circle to borrow the power of the sun.`
+` ...So, what meaning does this {ruby:çeviri > büyü:magic} circle have?"`
+`"It's a {ruby:çeviri > büyü:magic} circle to borrow the power of the sun.`
 ` ......He who wears it as a talisman drawn in gold shall receive the power to break free from the bonds of any prison, and gain freedom."`
 `"...Break free from the bonds,`
 ` ......and gain freedom...?`
@@ -760,13 +760,13 @@
 ` ...That's also pretty deep."`
 `"But I really don't understand...`
 ` What does this have to do with those six bodies?`
-` ...Far from bein' released, they were killed and stuffed in a storehouse, weren't they?!"`
-`"It's not like the magic circle was drawn for their sakes.`
-` The six of them were there for the sake of the magic circle.`
+` ...Far from bein' released, they were killed and stuffed in a {ruby:çeviri > ambar:storehouse}, weren't they?!"`
+`"It's not like the {ruby:çeviri > büyü:magic} circle was drawn for their sakes.`
+` The six of them were there for the sake of the {ruby:çeviri > büyü:magic} circle.`
 ` It is truly pitiable.`
 ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
 `"What do you mean...?`
-` What in the world do you mean when you say the six of them were there for the sake of the magic circle?"`
+` What in the world do you mean when you say the six of them were there for the sake of the {ruby:çeviri > büyü:magic} circle?"`
 `Maria lifted up her index finger and waggled it as if she were making fun of us.`
 `"That's written around the circumference.`
 ` Can't you read?`
@@ -779,14 +779,14 @@
 ` .........I have no idea what you're saying."`
 `"............You're saying that...`
 `...they're sacrifices?"`
-`If the part that Maria had just read aloud was the vital part of the magic circle,`
-` ......then it was saying that the benefit of this magic circle required sacrifices to be offered in exchange.`
-`...So inside the storehouse, where the magic circle had been drawn, the sacrifices had been offered.........`
+`If the part that Maria had just read aloud was the vital part of the {ruby:çeviri > büyü:magic} circle,`
+` ......then it was saying that the benefit of this {ruby:çeviri > büyü:magic} circle required sacrifices to be offered in exchange.`
+`...So inside the {ruby:çeviri > ambar:storehouse}, where the {ruby:çeviri > büyü:magic} circle had been drawn, the sacrifices had been offered.........`
 `It looked like everyone else had slowly arrived at the same conclusion.`
 `...Some were shocked, others spat out "they're insane" as they punched their knees...`
 `......This was starting to become a seriously disturbing story.`
 `{n}...And we couldn't accept it, nor understand it.`
-`......I don't care what kind of magic circles or curses other people believe in—`
+`......I don't care what kind of {ruby:çeviri > büyü:magic} circles or curses other people believe in—`
 `that's their right, and I won't pick a fight with them.`
 `...But did they really kill Dad and the rest as sacrifices for some bullshit like that......?!`
 `I just couldn't stand that feeling.`
@@ -795,12 +795,12 @@
 `......Something had gone insane since yesterday.`
 `That letter from the witch, {f:5:Beatrice}, that Maria had read aloud at last night's dinner.`
 `...I feel like ever since that point, we...`
-`...no, this whole mansion and this whole island...have begun to be drawn into some kind of peculiar world...`
+`...no, this whole {ruby:çeviri > malikane:mansion} and this whole island...have begun to be drawn into some kind of peculiar world...`
 `That's right.`
 ` When I think back on it, that letter was an invitation from the witch.`
 `The ruler of the nighttime island had invited us inhabitants of the day into another world.`
 `With the phone and the radio interrupted, and the island shut off by the typhoon, you could now call it another world cut off from the real one.`
-`......Yes, on this island right now, it is perfectly normal for witches to send letters, and for sacrifices to be offered to magic circles.`
+`......Yes, on this island right now, it is perfectly normal for witches to send letters, and for sacrifices to be offered to {ruby:çeviri > büyü:magic} circles.`
 `.........So what will happen next?`
 `{n}Will some weird people wearing goat masks start doing the Bon Festival dance or something...?!`
 `...Aah, it's no good, it's no good, I don't get it...`
@@ -825,7 +825,7 @@
 `{n}......Seriously, why have I been acting so damn thickheaded.`
 `{n}I was totally taken in.`
 `.........To hell with that shit, this is the human world.`
-`{n}As if I give a crap about witches, demons, magic circles and sacrifices.`
+`{n}As if I give a crap about witches, demons, {ruby:çeviri > büyü:magic} circles and sacrifices.`
 `The human who killed Dad and everyone else is still on this island.`
 `{n}That's all there is, right...?!`
 `Next to start speaking to my heart was Kyrie‐san.`
@@ -841,55 +841,55 @@
 `With all of my strength, I slapped my face with both hands.`
 `{n}.........Now, my eyes were truly open.`
 `When you don't understand anything, and you're completely cornered just like I am now, isn't that the perfect time to "flip over the chessboard"...!`
-`With us put on the defensive, we couldn't even guess at the culprit's scheme.`
+`With us put on the defensive, we couldn't even guess at the {ruby:çeviri > suçlu:culprit}'s scheme.`
 `...If you flipped it over and looked at it the other way, just how far could you see?`
-`......First off, at the time the murders were committed by the culprit, they knew that the island was cut off by the typhoon.`
+`......First off, at the time the murders were committed by the {ruby:çeviri > suçlu:culprit}, they knew that the island was cut off by the typhoon.`
 `So, they should have understood that even if they carried out the murders, they wouldn't be able to get away until the next morning.`
-`In short, the culprit had begun without securing a way to escape.`
-`Furthermore, the bastard had even tossed the corpses in the storehouse,`
+`In short, the {ruby:çeviri > suçlu:culprit} had begun without securing a way to escape.`
+`Furthermore, the bastard had even tossed the corpses in the {ruby:çeviri > ambar:storehouse},`
 ` while doing the courtesy of telling us "They are here" with that weird graffiti.`
 `In other words, since we would probably find the corpses sooner or later, they wanted to "show us them".`
 `......If we had all been dim,`
-` and hadn't noticed the storage shed, perhaps the culprit's goal "would not have been achieved"?`
+` and hadn't noticed the storage shed, perhaps the {ruby:çeviri > suçlu:culprit}'s goal "would not have been achieved"?`
 `Hehe, if you think about it this way, that murdering maniac...`
 `{n}Since this morning, he must have been watching our every move with bated breath.`
-`After all, if we hadn't been so kind as to discover what was on the storehouse,`
+`After all, if we hadn't been so kind as to discover what was on the {ruby:çeviri > ambar:storehouse},`
 ` all of that hard work and preparation that they had done last night would have just gone "poof".`
-`What did the culprit want to make us feel by showing us the corpses in the storehouse?`
+`What did the {ruby:çeviri > suçlu:culprit} want to make us feel by showing us the corpses in the {ruby:çeviri > ambar:storehouse}?`
 `All six of the bodies had had their faces noticeably destroyed.`
 `{n}...A grudge?`
 ` A warning?`
 `The defacement of the bodies had occurred after death.`
-`{n}So it hadn't been the means by which the culprit had murdered.`
+`{n}So it hadn't been the means by which the {ruby:çeviri > suçlu:culprit} had murdered.`
 `{n}It didn't mean anything to those who had been killed.`
 `{n}...It had "meaning to those who discovered it".`
-`The culprit wanted to show them to us—look how brutally I killed them!`
+`The {ruby:çeviri > suçlu:culprit} wanted to show them to us—look how brutally I killed them!`
 `Ha!`
 ` After thinking this way, I really want to tell that asshole to stop taking me so lightly.`
 `Who would dance to that tune? If I'm told "Please be scared", I'm not just gonna say "Really? Sure thing!"`
 `...When someone tells the great Ushiromiya Battler "Entrance This Way", I'm the kind of guy who'll start wanting to sneak in through the window!`
-`The next thing that had me concerned was the attempt at a magic circle on the shutter.`
-`...It was a genuine magic circle, declared authentic by even Maria, who had demonstrated that her knowledge of the occult rivaled Grandfather's.`
+`The next thing that had me concerned was the attempt at a {ruby:çeviri > büyü:magic} circle on the shutter.`
+`...It was a genuine {ruby:çeviri > büyü:magic} circle, declared authentic by even Maria, who had demonstrated that her knowledge of the occult rivaled Grandfather's.`
 `They must have drawn that thing in pitch‐black darkness while holding an umbrella in one hand,`
 ` and it must have taken them a lot of time—that's a formidable amount of hard work and attention to detail.`
 `What purpose would have been worth all of that effort?`
-`...If something related to the occult happened in this mansion, most likely, we would all automatically suspect the involvement of Grandfather.`
+`...If something related to the occult happened in this {ruby:çeviri > malikane:mansion}, most likely, we would all automatically suspect the involvement of Grandfather.`
 `Did they want to "make us think Grandfather was involved"?`
-`But if that was all they wanted, they could have just drawn any old scribble that looked like a magic circle.`
+`But if that was all they wanted, they could have just drawn any old scribble that looked like a {ruby:çeviri > büyü:magic} circle.`
 `It wasn't like any of us amateurs could tell the difference between genuine and fake.`
-`...However, this magic circle was genuine, and furthermore, it had even been written in Hebrew.`
-`.........So this magic circle...`
+`...However, this {ruby:çeviri > büyü:magic} circle was genuine, and furthermore, it had even been written in Hebrew.`
+`.........So this {ruby:çeviri > büyü:magic} circle...`
 `had a message “that could only be understood by someone with knowledge of the occult”.`
 `Messages are a form of communication.`
 `{n}......You send them, and hope for a reaction from the other party.`
 `...Reaction?`
 `{n}.........For some reason, we couldn't find Grandfather now.`
-`I don't know how Grandfather could have managed to see the magic circle on the shutter,`
+`I don't know how Grandfather could have managed to see the {ruby:çeviri > büyü:magic} circle on the shutter,`
 ` ...but had he chosen to hide himself in reaction to that sign...?`
 `No, was it a trap to make us suspect Grandfather's involvement?`
 `...You could read it either way—damn, that's annoying.`
-`......What kind of reaction was the culprit hoping to get out of us by showing this imitation of the occult...?`
-`Somehow, that felt like the culprit's weak point...`
+`......What kind of reaction was the {ruby:çeviri > suçlu:culprit} hoping to get out of us by showing this imitation of the occult...?`
+`Somehow, that felt like the {ruby:çeviri > suçlu:culprit}'s weak point...`
 `A section of {f:5:Beatrice}'s letter that Maria had read aloud during last night's dinner sprang back into my mind.`
 `......The part that said "I ask that you enjoy your battle of wits".`
 `Sounds like fun.`
@@ -898,29 +898,29 @@
 `Or me revealing you for who you are?`
 `......There's a whole day until the typhoon passes.`
 `{n}Why not enjoy ourselves...?!`
-`I finally noticed that the inside of the parlor had gone quiet again.`
+`I finally noticed that the inside of the {ruby:çeviri > salon:parlor} had gone quiet again.`
 `Everyone had sunk into their favorite sofas, some deep in thought,`
 ` some irritated, some depressed.`
 `Maria was once again enjoying the television as if she had never left it.`
 `...It looked like she found the commercials more fun than the boring program, and she happily yelled "uu‐uu" and giggled.`
 `I stared at each person's appearance in turn.`
 `{n}If there isn't a 19th person,`
-` .........the culprit must be in this room.`
-`...Right now, Aunt Natsuhi was searching the mansion with the servants, though, wasn't she?`
+` .........the {ruby:çeviri > suçlu:culprit} must be in this room.`
+`...Right now, Aunt Natsuhi was searching the {ruby:çeviri > malikane:mansion} with the {ruby:çeviri > hizmetkarlar:servants}, though, wasn't she?`
 `......Then it shouldn't be "in this room".`
-`{n}......“In this mansion” is what we should say.`
+`{n}......“In this {ruby:çeviri > malikane:mansion}” is what we should say.`
 `...After all, there was also the possibility that Aunt Natsuhi was behind this,`
-` ...and we still couldn't deny that one of the servants could be the killer.`
+` ...and we still couldn't deny that one of the {ruby:çeviri > hizmetkarlar:servants} could be the killer.`
 `.........Anyone could be the bad guy.`
 `Still, Aunt Natsuhi and the rest sure are slow...`
-`Of course, it's not a small mansion, but isn't this taking a little too long just to walk around, checking the windows and doors...?`
+`Of course, it's not a small {ruby:çeviri > malikane:mansion}, but isn't this taking a little too long just to walk around, checking the windows and doors...?`
 `Just as I thought that, Aunt Natsuhi and the rest returned.`
 `Not one of them was missing.`
 `{n}......But our relief was short‐lived.`
 `Everyone looked at Aunt Natsuhi, shocked...`
 `".........!!"`
-`......The talk I'd had with Auntie Eva started to creep back into my mind.`
-`The possibility that the culprits had enough in numbers,`
+`......The talk I'd had with {ruby:çeviri > Hala:Auntie} Eva started to creep back into my mind.`
+`The possibility that the {ruby:çeviri > suçlular:culprits} had enough in numbers,`
 ` or weapons, to kill all of those six at once.`
 `".........Sorry if I've startled you.`
 ` I brought this to be prepared for the worst."`
@@ -966,7 +966,7 @@
 `As Natsuhi‐san said this, she slumped down into one of the sofas and took a deep breath.`
 `As well as checking the doors and windows, ...she had also been trying to find Grandfather.`
 `Since Grandfather was not with her, apparently his whereabouts were still unknown.`
-`"...I carefully checked all of the doors and windows throughout the mansion.`
+`"...I carefully checked all of the doors and windows throughout the {ruby:çeviri > malikane:mansion}.`
 ` However, we must be prepared for anything.`
 ` Everyone, I think it would be best if we all remained here."`
 `"I agree.`
@@ -975,26 +975,26 @@
 `"Nothing really?`
 ` I'm just agreeing with your opinion, aren't I?"`
 `There was a dangerous atmosphere between the two of them...`
-`{n}If you thought about who stood to gain the most from the inheritance problem standpoint, Auntie Eva was the obvious answer.`
+`{n}If you thought about who stood to gain the most from the inheritance problem standpoint, {ruby:çeviri > Hala:Auntie} Eva was the obvious answer.`
 `...However, there was no proof that Aunt Natsuhi was innocent.`
 `......No, if you view {f:5:Beatrice}'s letter as Grandfather's elaborate prank,`
 ` and think of this incident as just an extension of that, there was more than enough evidence to doubt even Grandfather.`
 `Aunt Natsuhi thought that the criminal was on the outside.`
-`{n}...But Auntie Eva thought the criminal was on the inside.`
+`{n}...But {ruby:çeviri > Hala:Auntie} Eva thought the criminal was on the inside.`
 `In short, it was the question of whether or not a 19th person exists.`
 `.........It was the doubt that had been repeated endlessly since last night's dinner, with the letter from the witch who called herself {f:5:Beatrice}.`
-`......So was the culprit among us,`
+`......So was the {ruby:çeviri > suçlu:culprit} among us,`
 ` or not.`
 `{n}And did the witch {f:5:Beatrice} exist,`
 ` or not.`
 `If you assumed that something as stupid as a witch couldn't exist,`
-` it was the same as saying that one of these relatives here, who shared a common bloodline, was the culprit.`
+` it was the same as saying that one of these relatives here, who shared a common bloodline, was the {ruby:çeviri > suçlu:culprit}.`
 `If you didn't like that, it would be much more comfortable to simply accept the fairy tale about the witch.`
 `............Did a witch do it?`
-`{n}Draw that weird magic circle and sacrifice those people?`
+`{n}Draw that weird {ruby:çeviri > büyü:magic} circle and sacrifice those people?`
 `If I could only accept that rubbish, ...I would be able to completely trust everyone in this room.`
 `However, damn common sense got in the way.`
 `{n}......It kept repeating that witches don't exist.`
 `......In that case,`
-` ............the culprit was among us...`
+` ............the {ruby:çeviri > suçlu:culprit} was among us...`
 `In the middle of the seemingly endless rain, none of us could break our silence...`

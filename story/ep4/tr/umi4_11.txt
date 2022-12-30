@@ -1,9 +1,9 @@
 `It was already approaching ten at night.`
 `{n}The typhoon had already engulfed Rokkenjima.`
-`Even the rose garden that had looked so beautiful during the day...`
+`Even the {ruby:çeviri > gül bahçesi:rose garden} that had looked so beautiful during the day...`
 `was now being beaten down upon by the fierce winds and resisting with all its might, undulating and trying to keep the flowers from blowing away...`
-`Heading for the guesthouse through that rose garden, led by Shannon, were Battler, who was holding up an umbrella; Jessica; and Maria, who was sleeping on George's shoulder.`
-`"It's just to the guesthouse, we could make it there on our own...`
+`Heading for the {ruby:çeviri > konukevi:guesthouse} through that {ruby:çeviri > gül bahçesi:rose garden}, led by Shannon, were Battler, who was holding up an umbrella; Jessica; and Maria, who was sleeping on George's shoulder.`
+`"It's just to the {ruby:çeviri > konukevi:guesthouse}, we could make it there on our own...`
 ` Shannon‐chan, it's OK, go back and rest."`
 `"Oh, no, accompanying you is also my duty..."`
 `"The family conference is going on inside, and my mom and Genji‐san are on edge, that's the thing.`
@@ -12,7 +12,7 @@
 ` Just graciously accepting her offer will actually cause her less trouble.`
 ` ...Thanks, Shannon."`
 `"Not at all.`
-` ......Certainly, as Milady says, it is very tense inside the mansion today.`
+` ......Certainly, as {ruby:çeviri > Leydim:Milady} says, it is very tense inside the {ruby:çeviri > malikane:mansion} today.`
 ` Coming with all of you has allowed me a breath of fresh air, and taken some of the stress off me."`
 `"The family conference, huh.`
 ` .........They went to all the trouble of chasing us kids out, so they're probably having a pretty damn nasty discussion."`
@@ -57,11 +57,11 @@
 `"Ah, um, mgh!!`
 ` Th‐that's dirty, George nii‐san, twisting the conversation around like that is just mean!"`
 `As they had an animated discussion with ups and downs,`
-` the four kids headed for the guesthouse.......`
+` the four kids headed for the {ruby:çeviri > konukevi:guesthouse}.......`
 `The annual family conference was extremely important to the Ushiromiya family,`
 ` and this year in particular seemed like it was going to be especially so.`
 `Apparently, the family head, Kinzo, was personally going to be making a very serious announcement,`
-` and everyone other than the adults had been strictly ordered to leave the mansion.`
+` and everyone other than the adults had been strictly ordered to leave the {ruby:çeviri > malikane:mansion}.`
 `Battler hadn't attended the family conference in six years, so he hadn't really noticed,`
 ` but according to Jessica, there seemed to be a very tense atmosphere tonight,`
 ` completely different from a normal year.`
@@ -91,7 +91,7 @@
 ` Even the first twilight has not yet begun.`
 ` It is far too early to give up."`
 `"That's right.`
-` And it's not like it was denied with the red truth.`
+` And it's not like it was denied with the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` .........At this point in time, Battler's theory hasn't been defeated.`
 ` It's too early to say that you've won."`
 `"Hmm, you're right.`
@@ -106,7 +106,7 @@
 ` It will be resolved soon.`
 ` Very soon...`
 ` *cackle*cackle*......!"`
-`All of the relatives and Nanjo could be seen in the dining hall.`
+`All of the relatives and Nanjo could be seen in the {ruby:çeviri > yemek salonu:dining hall}.`
 `Nanjo sat alone, quietly watching the wind and rain outside.`
 `Krauss was sitting in the seat of his own rank, with Natsuhi standing motionlessly at his side.`
 `All the other siblings and their partners were gathered at the opposite end of the long table, whispering to each other......`
@@ -124,7 +124,7 @@
 ` Thanks to that, we've just been quarreling with Aniki uselessly."`
 `"............Maybe that's what he wanted to test?`
 ` Maybe it's not my place to say it, since we aren't related by blood, but your father is very intelligent, you realize?"`
-`"Our exchange during the day was probably being listened in on by one of the servants, and reported to Father.`
+`"Our exchange during the day was probably being listened in on by one of the {ruby:çeviri > hizmetkarlar:servants}, and reported to Father.`
 ` .........Incredible.`
 ` The fact that we're clamoring after Father's inheritance is now clear as day to him...`
 ` .........Ah, just incredible..."`
@@ -155,7 +155,7 @@
 `"......For example, if, say, Genji‐san came up to her and said something like "I was told by your grandfather to hand this to you, Maria‐sama",`
 ` then even if Maria‐chan hadn't met Dad, she still might say that she got an umbrella from him, right?"`
 `"Th‐......that's right.`
-` That could be the trick...!"`
+` That could be the {ruby:çeviri > numara:trick}...!"`
 `"But what Maria‐chan said was this, right?`
 ` "Grandfather came and handed me an umbrella"."`
 `"Yes, it was.`
@@ -222,7 +222,7 @@
 `But there came the sound of a knock, and her expression filled with disappointment.`
 `Because Kinzo probably wouldn't have knocked.`
 `"......Please excuse us.`
-` We have finished closing up the mansion for the night."`
+` We have finished closing up the {ruby:çeviri > malikane:mansion} for the night."`
 `It was Gohda and Kumasawa.`
 `Unlike the physically fit Gohda,`
 ` it was rare for Kumasawa with her old body to still be tasked with work this late.`
@@ -235,16 +235,16 @@
 ` Hoh‐hoh‐hoh‐ho...!"`
 `"......Could we not at least relieve Kumasawa of the duty of being an observer?`
 ` It really will be difficult on her body, I imagine."`
-`"............The order was to gather all of the servants as well.`
+`"............The order was to gather all of the {ruby:çeviri > hizmetkarlar:servants} as well.`
 ` I cannot disobey."`
 `Tonight's family conference was clearly different from a normal one.`
 `On a normal year, no one was able to attend the family conference except relatives.`
-`{n}It would have been inconceivable for any servants to be present.`
+`{n}It would have been inconceivable for any {ruby:çeviri > hizmetkarlar:servants} to be present.`
 `But this year was different.`
-`They had been told to have all of the servants in attendance for the family conference.`
+`They had been told to have all of the {ruby:çeviri > hizmetkarlar:servants} in attendance for the family conference.`
 `{n}Of course, they would not be allowed to speak.`
 ` .........They were there as observers.`
-`Just what in the world was going to happen that needed five servants to observe?`
+`Just what in the world was going to happen that needed five {ruby:çeviri > hizmetkarlar:servants} to observe?`
 `......Even Krauss didn't know.`
 `"Hoh‐hoh‐ho.`
 ` Believe it or not, I'm good at pulling all‐nighters.`
@@ -265,7 +265,7 @@
 ` They were light.`
 `Even before the knock, they could imagine who it was.`
 `"Excuse me......`
-` I have taken the children to the guesthouse."`
+` I have taken the children to the {ruby:çeviri > konukevi:guesthouse}."`
 `"Good work.`
 ` Tonight is a special evening.`
 ` Make sure you stay alert."`
@@ -327,15 +327,15 @@
 `{n}......It was the tone he used when speaking for Kinzo himself.`
 `So just by hearing Genji speak like that, the siblings were struck with a sudden tension.`
 `"Take your seats, everyone."`
-`At those words, the dining hall fell into complete silence, and everyone rushed back to their designated seats.`
+`At those words, the {ruby:çeviri > yemek salonu:dining hall} fell into complete silence, and everyone rushed back to their designated seats.`
 `They were like students who had been making a lot of noise just before homeroom, hurriedly returning to their seats when the teacher came;`
 ` it might even have felt humorous.`
 `......But there was no way anyone would joke about it.`
 `Everyone sat in order, and Shannon, Gohda, and Kumasawa stood up straight in a row by the wall.`
 `"......The head of the glorious Ushiromiya family, and lord of Rokkenjima, the island that sparkles gold.`
 ` Lord Ushiromiya Kinzo is present."`
-`Of the double doors into the dining hall, Genji opened the right door from the inside, and Kanon opened the left door from the outside.`
-`......And, welcomed by the deepest of bows from the two servants, with his cape fluttering majestically, ............Kinzo appeared......`
+`Of the double doors into the {ruby:çeviri > yemek salonu:dining hall}, Genji opened the right door from the inside, and Kanon opened the left door from the outside.`
+`......And, welcomed by the deepest of bows from the two {ruby:çeviri > hizmetkarlar:servants}, with his cape fluttering majestically, ............Kinzo appeared......`
 `Kinzo's gait had a dignified weight to it, and it was very hard to believe that he had been diagnosed as having not much time left to live.`
 `Genji pulled back Kinzo's seat, and motioned for him to sit.`
 `But Kinzo remained standing, signaling with his chin for Genji to move back.`
@@ -354,7 +354,7 @@
 ` Tonight, I shall make an important announcement regarding those things that you all have your hearts set upon: my fortune and the succession of the headship."`
 `"But first!`
 ` I think I will mention how incredibly disappointed I am.`
-` I refer to the fact that, to this very day, not a single one of you has been able to solve the riddle of the epitaph."`
+` I refer to the fact that, to this very day, not a single one of you has been able to solve the riddle of the {ruby:çeviri > kitabe:epitaph}."`
 `Even though Kinzo said he was disappointed,`
 ` a condescending smile, as though there was no way the likes of them could have solved it, rose to his face as he cast an eye over each and every one of them.`
 `".........I had been planning on handing over everything to the person who could solve it.`
@@ -367,7 +367,7 @@
 `Of course, they would have solved it if they could.`
 ` They had blown their chance, and none of them could deny that, but even so, it was just so hard a riddle...`
 `"Therefore.`
-` I am proclaiming here and now that I will suspend the use of the epitaph's riddle as a method of choosing my successor."`
+` I am proclaiming here and now that I will suspend the use of the {ruby:çeviri > kitabe:epitaph}'s riddle as a method of choosing my successor."`
 `"In short, time's up!`
 ` This is game over.`
 ` ......What a shame for all of you.`
@@ -574,10 +574,10 @@
 ` ......That is all."`
 `"Hmm.`
 ` ............I see.`
-` Dreams and the future, miracles and possibilities are the source of my magical power.`
-` No magic holds power without hope."`
+` Dreams and the future, miracles and possibilities are the source of my {ruby:çeviri > büyülü:magical} power.`
+` No {ruby:çeviri > büyü:magic} holds power without hope."`
 `"......Hmph, I cannot expect anything more from you people who have proven yourselves to be average, but...`
-`yes, my grandchildren do have future possibilities, and it is possible that they may be worth hoping for a magical miracle from."`
+`yes, my grandchildren do have future possibilities, and it is possible that they may be worth hoping for a {ruby:çeviri > büyülü:magical} miracle from."`
 `"If you say that this makes them worth more than ten billion, hmm, I could understand that.`
 ` ......Hmmm, hmmmm......"`
 `When Kinzo got in a rage, he wouldn't let anyone talk back,`
@@ -639,7 +639,7 @@
 `Was he talking about starting a strange ritual involving {f:5:Beatrice}'s resurrection again......?`
 `He was demanding that they help...?`
 `{n}What in the world was he planning to start?`
-`In the past, he had carried out many eccentricities that he called by the same name, such as lighting a strange incense and filling the whole mansion with the stench.`
+`In the past, he had carried out many eccentricities that he called by the same name, such as lighting a strange incense and filling the whole {ruby:çeviri > malikane:mansion} with the stench.`
 `To the siblings, a "ritual" was nothing more than one of the aged Kinzo's obnoxious hobbies.`
 `"Father...`
 ` Just what do you mean by.........?"`
@@ -647,8 +647,8 @@
 ` Right, Rosa?"`
 `"Y‐yes......`
 ` But...what in the world...is it...?"`
-`"The ritual as I inscribed it in the epitaph.`
-` ......It is a ritual to revive {f:5:Beatrice}, and open the door to the Golden Land."`
+`"The ritual as I inscribed it in the {ruby:çeviri > kitabe:epitaph}.`
+` ......It is a ritual to revive {f:5:Beatrice}, and open the door to the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"That witch, who escaped her cage of flesh and sneeringly slipped through my fingers, I will finally be able to capture,`
 ` and subjugate, with my greatest hidden art.`
 ` .........Only, I must sacrifice thirteen people for that purpose."`
@@ -690,7 +690,7 @@
 ` It is what I bet my life on, the final ritual, the final game that I will challenge."`
 `"Yes, this is a game!`
 ` If gaining my fortune and leaving the island is your goal, then there are only two ways to achieve it!"`
-`"Successfully survive being chosen as one of the thirteen sacrifices, and stop the ritual by finally solving the riddle of the epitaph,`
+`"Successfully survive being chosen as one of the thirteen sacrifices, and stop the ritual by finally solving the riddle of the {ruby:çeviri > kitabe:epitaph},`
 ` ......or kill me!`
 ` And stop the ritual in that manner.`
 ` Those are the only two ways!!"`
@@ -813,7 +813,7 @@
 `"Everyone, let's escape!!`
 ` Escape!!"`
 `Nanjo's sharp words finally broke the spell that had been holding them down in their chairs.`
-`As Gohda and Kumasawa made a mad scramble to escape from the dining hall...`
+`As Gohda and Kumasawa made a mad scramble to escape from the {ruby:çeviri > yemek salonu:dining hall}...`
 `...410 teleported to that spot, blocking the way.`
 `"Nihi! You sure are slow nye~h.`
 ` Did you think I'd let you escape nye~h{p:0:♪}"`
@@ -833,7 +833,7 @@
 `When Kyrie realized that the being in front of her, which looked like a girl,`
 ` was actually a being that surpassed human knowledge and which a {y:0:Human}{n:0:human} could not even begin to oppose,`
 ` her head was filled with a great alarm bell that welled up from inside her...`
-`Even with a scene like this before their eyes, Genji, Shannon, and Kanon, the servants permitted to wear the One‐winged Eagle, continued to stand calmly at attention by the wall,`
+`Even with a scene like this before their eyes, Genji, Shannon, and Kanon, the {ruby:çeviri > hizmetkarlar:servants} permitted to wear the One‐winged Eagle, continued to stand calmly at attention by the wall,`
 ` making them look very bizarre and eerie.`
 `For an instant, Kyrie thought that the source of their calmness...`
 `was that they were with the enemy, and had been guaranteed that they wouldn't be killed.`
@@ -874,7 +874,7 @@
 ` Just stop this brutality!!"`
 `"......Run, Rosa......`
 ` Ggh, ghhk, .........!"`
-`Rosa's protestations weren't reaching Kinzo as he continued to laugh loudly in the blood‐spattered dining hall,`
+`Rosa's protestations weren't reaching Kinzo as he continued to laugh loudly in the blood‐spattered {ruby:çeviri > yemek salonu:dining hall},`
 ` and nor was she able to lessen Krauss's pain as 00 lifted him up by the collar.`
 `So Rosa had no choice but to use force.`
 ` She raised one of the chairs beside her over her head, and gave a warning.`
@@ -914,7 +914,7 @@
 ` So, the sacrifices of the first twilight were Eva, Rudolf, Rosa, Natsuhi, Hideyoshi, and Genji.`
 ` *cackle*cackle*cackle*!!"`
 `It was a massacre that happened in an instant.`
-`The interior of the dining hall was dirtied with blood spatter,`
+`The interior of the {ruby:çeviri > yemek salonu:dining hall} was dirtied with blood spatter,`
 ` ......and the six unlucky victims lay with their heads brutally exposed.`
 `Fittingly, it was Kinzo's abnormal laugh alone that echoed in that abnormal space......`
 `"Hahhahahahahaha, wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
@@ -923,14 +923,14 @@
 `"You lucky ones who have managed to escape the first twilight, allow me to introduce you to my friends.`
 ` Arise, my friend!`
 ` Ronove...!!"`
-`When Kinzo called Ronove's name, the demon butler appeared out of thin air, bowing deeply and respectfully......`
+`When Kinzo called Ronove's name, the demon {ruby:çeviri > uşak:butler} appeared out of thin air, bowing deeply and respectfully......`
 `"It is a pleasure to meet you all.`
 ` And to those of you for whom this is a long‐overdue reunion, good day.`
 ` Pu ku ku ku...!`
 ` It seems that we once again have a spectacular mess on our hands."`
 `"I care not.`
 ` This level of stimulus is necessary to wake me from my days of waking dreams.`
-` Allow me to introduce you. My friend, reliable butler, and one of the 72 Great Demons, Ronove."`
+` Allow me to introduce you. My friend, reliable {ruby:çeviri > uşak:butler}, and one of the 72 {ruby:çeviri > Yüce İblis:Great Demon}s, Ronove."`
 `"I am pleased to make your acquaintance."`
 `Just who was he aiming that introduction at?`
 `......Krauss and Kyrie, who were still down on their backsides, and Nanjo, and Gohda, and Kumasawa...`
@@ -956,20 +956,20 @@
 ` As you wish, my lord."`
 `"............He is a fearsome fellow.`
 ` To think that he summoned three of the Chiester Sisters Corps, and then me, and even {f:5:Virgilia}‐sama..."`
-`"......Even though it is only in the area of summoning, to think that he far surpasses Milady is......frightening.`
+`"......Even though it is only in the area of summoning, to think that he far surpasses {ruby:çeviri > Leydim:Milady} is......frightening.`
 ` The Ushiromiya blood makes my own run cold."`
 `"I will be putting all I have as a summoner into the execution of {f:5:Beatrice}'s resurrection ritual.`
 ` It's still not enough.`
 ` In order to perfectly succeed in the ritual this time, I shall summon more."`
 `"The Pendragon Memorial Troops, Ronove, and {f:5:Virgilia}...`
-` ......I can still call more... With my magical power, I can still call many more......!!"`
+` ......I can still call more... With my {ruby:çeviri > büyülü:magical} power, I can still call many more......!!"`
 `"Answer to my summons......`
 `one of the 72 demons, Gaap!!"`
 `"Gaap...?`
 ` You can even summon her......?"`
 `"It probably means that the corrosion has advanced even more on this island.`
 ` ......It's enough to enable us to manifest.`
-` It would surely not be a surprise to see him summon any kind of great demon at this stage."`
+` It would surely not be a surprise to see him summon any kind of {ruby:çeviri > yüce iblis:great demon} at this stage."`
 `"Then Rokkenjima has already been completely sucked into a parallel world?`
 ` ............I hope he doesn't surrender."`
 `".........You gave him a good deal of hints the last time, did you not?`
@@ -978,12 +978,12 @@
 `"Pu ku ku!`
 ` .........Well then, I suggest we enjoy the action unfolding on the stage.`
 ` It seems the main character is the Master this time.`
-` Let us look forward to a script of a different flavor than Milady's."`
-`As Kinzo strongly concentrated his magical power, ......a pale blue light gathered in the air, twisted,`
-` ......and a magic circle began to be drawn with a deep‐red light.`
+` Let us look forward to a script of a different flavor than {ruby:çeviri > Leydim:Milady}'s."`
+`As Kinzo strongly concentrated his {ruby:çeviri > büyülü:magical} power, ......a pale blue light gathered in the air, twisted,`
+` ......and a {ruby:çeviri > büyü:magic} circle began to be drawn with a deep‐red light.`
 `Then it shattered with a sound like glass, .........and a new demon could be seen there.`
 `"......I am glad to see that you answered my call.`
-` ......Gaap, one of the 72 Great Demons...!"`
+` ......Gaap, one of the 72 {ruby:çeviri > Yüce İblis:Great Demon}s...!"`
 `"............This is a hell of a place I've been summoned into.`
 ` Did you call me to clean up this blood‐stained room?`
 ` {f:5:Goldsmith}...?"`
@@ -992,10 +992,10 @@
 `"If that had been the only reason for calling you,`
 ` it would be like using a cashmere scarf to mop the floor."`
 `"It's been a long time, Gaap.`
-` ......To think that a Great Demon such as yourself has finally appeared on this island.`
+` ......To think that a {ruby:çeviri > Yüce İblis:Great Demon} such as yourself has finally appeared on this island.`
 ` ......I wonder if this island has nearly sunk into fantasy."`
 `"This all‐star cast is more astonishing than the gruesome state of the room.`
-` .........A full three Chiester Sisters, the Great Demon Ronove, the Great Witch {f:5:Virgilia}, and even me."`
+` .........A full three Chiester Sisters, the {ruby:çeviri > Yüce İblis:Great Demon} Ronove, the Great Witch {f:5:Virgilia}, and even me."`
 `"What's going on?`
 ` Is this Pandemonium?`
 ` Are you trying to start a concert from hell or something?`
@@ -1053,11 +1053,11 @@
 ` Wait for the Master's authorization."`
 `"Great Lord {f:5:Goldsmith}...!`
 ` We await your orders...!"`
-`"It is still too soon for the coming of the second twilight, ......is what the source of my magical power is whispering to me.`
+`"It is still too soon for the coming of the second twilight, ......is what the source of my {ruby:çeviri > büyülü:magical} power is whispering to me.`
 ` Not now.`
 ` Let them do as they like.`
 ` They cannot escape from this island in any case."`
-`"The source of your magical power is noise and risk and tests of luck.`
+`"The source of your {ruby:çeviri > büyülü:magical} power is noise and risk and tests of luck.`
 ` ......Hoh‐hoh‐ho, your whims, in other words?"`
 `"Hhhhehhehheh, perhaps you could also put it that way.`
 ` Good work, Gaap.`
@@ -1087,10 +1087,10 @@
 ` ......This is why summoning is so gratifying.`
 ` All of you will bear one side of the scales of noise and risk in my ritual.`
 ` I am anticipating great results...!"`
-`Six brutally murdered corpses lay in the dining hall, which was tarnished by a red and gruesome decoration......`
+`Six brutally murdered corpses lay in the {ruby:çeviri > yemek salonu:dining hall}, which was tarnished by a red and gruesome decoration......`
 `By now, it was impossible to imagine that thirteen people had been sitting here in an orderly manner just moments ago.`
 `Kinzo lined up the demons of renown and their subordinates, loudly declared the beginning of an overwhelming night of mass murder,`
-` and swore to himself that he would certainly revive {f:5:Beatrice}, and open the door to the Golden Land......`
+` and swore to himself that he would certainly revive {f:5:Beatrice}, and open the door to the {ruby:çeviri > Altın Diyar:Golden Land}......`
 `"The wait is over!!`
 ` At last the curtain rises on the first twilight!!`
 ` *cackle*!`
@@ -1169,7 +1169,7 @@
 ` ......What did that mean...?"`
 `"Just what it sounds like.`
 ` ......Remember the first twilight of the very first game.`
-` ......When the adults' corpses were found in the gardening shed with the magic circle drawn on it.`
+` ......When the adults' corpses were found in the gardening shed with the {ruby:çeviri > büyü:magic} circle drawn on it.`
 ` Remember?"`
 `Episode 1.`
 ` The first twilight.`
@@ -1197,22 +1197,22 @@
 ` ......After all, Beato didn't state anything in red during that game whatsoever."`
 `"Well done. Correct.`
 ` .........A faked death is one of the basics of the mystery genre.`
-` Even if you make a doctor examine the corpse, you can't trust the results if you suspect him of being in league with the culprit.`
+` Even if you make a doctor examine the corpse, you can't trust the results if you suspect him of being in league with the {ruby:çeviri > suçlu:culprit}.`
 ` So, corpses that can't guarantee a death for certain always put the witch side at a disadvantage."`
-`"You can suspect faked deaths for all corpses, and hypothesize that they are the culprit for the incidents that follow.`
+`"You can suspect faked deaths for all corpses, and hypothesize that they are the {ruby:çeviri > suçlu:culprit} for the incidents that follow.`
 ` ......It's a move Battler doesn't like, but it's the most elementary move to use against a witch."`
 `"Yeah, that's right.`
 ` That's why Beato started using the red.`
-` ......With the red truth, she can carry out a perfect autopsy."`
+` ......With the {ruby:çeviri > kırmızı gerçek:red truth}, she can carry out a perfect autopsy."`
 `"*cackle*cackle*!`
 ` That's how it is.`
 ` Normally, for the tragedy of the first twilight,`
-` I would use the red truth right away, confirming the deaths of these six."`
-`"However, as you know, my battle strategy this time is the complete opposite of previous games, and I have switched to using red truth starvation tactics...!"`
+` I would use the {ruby:çeviri > kırmızı gerçek:red truth} right away, confirming the deaths of these six."`
+`"However, as you know, my battle strategy this time is the complete opposite of previous games, and I have switched to using {ruby:çeviri > kırmızı gerçek:red truth} starvation tactics...!"`
 `"I will not use the red easily given that you use it as a grounding from which to counterattack.`
 ` I can just make you come apart at the seams by using the minimum necessary amount of red in just a single place!"`
 `"What this means is that no matter how I permit you to rant about your theories for each of the locked rooms, ultimately,`
-` I need only smash one of those with a single red truth."`
+` I need only smash one of those with a single {ruby:çeviri > kırmızı gerçek:red truth}."`
 `"Ihihi!`
 ` You've been knocking me about with that thing all this goddamn time, and now I've started using it to counterattack, you've gone and put it away again.`
 ` What a joke."`
@@ -1236,11 +1236,11 @@
 ` even if their heads are half destroyed, we shouldn't assume that they're dead at this point in time."`
 `"I know.`
 ` ......Since Beato is holding out on me and refusing to say anything in red, I should suspect everything.`
-` ......Of course, there's no way in hell I'm gonna swallow the magic mass‐murder by the sexy‐assed Chiester babes."`
+` ......Of course, there's no way in hell I'm gonna swallow the {ruby:çeviri > büyü:magic} mass‐murder by the sexy‐assed Chiester babes."`
 `"*giggle*.`
 ` You certainly have become shrewd.`
 ` ......If this were the first game, you would have swallowed everything."`
 `"*cackle*cackle*!`
 ` An adversary must be like that, or he wouldn't be interesting."`
 `"There is no red for now—I suggest you capitalize on that to let your imagination run wild and build up theory upon theory.`
-` At the very end, at the very sweetest spot, I'll cut them all down at once with the red truth...!"`
+` At the very end, at the very sweetest spot, I'll cut them all down at once with the {ruby:çeviri > kırmızı gerçek:red truth}...!"`

@@ -22,7 +22,7 @@
 `"......Privately speaking, ......even though I work here,`
 ` I sometimes forget that the Master even lives here..."`
 `"Gohda.`
-` That is not the sort of statement I expect to hear from a servant!!"`
+` That is not the sort of statement I expect to hear from a {ruby:çeviri > hizmetkar:servant}!!"`
 `"M‐my apologies, Madam... I am truly sorry......"`
 `"Anyway, ...isn't it bad if we can't get in touch with him?`
 ` I mean, Father might not even know there's crimes goin' on! Right?!"`
@@ -70,16 +70,16 @@
 ` People had been murdered.`
 `Natsuhi's persistence in keeping things quiet for Kinzo even in a situation like this...`
 `was hard to understand from a rational perspective.`
-`".........The evidence suggests that the crimes occurring on this island are most likely a series of murders following the epitaph.`
+`".........The evidence suggests that the crimes occurring on this island are most likely a series of murders following the {ruby:çeviri > kitabe:epitaph}.`
 ` ......It's probably reasonable to assume that the crimes will continue."`
-`"If we reinterpret the epitaph as outlining this series of murders, that means the crimes will continue further, resulting in a total of thirteen lives being taken.`
+`"If we reinterpret the {ruby:çeviri > kitabe:epitaph} as outlining this series of murders, that means the crimes will continue further, resulting in a total of thirteen lives being taken.`
 ` .........Do you have any concept of how many victims that would be?"`
 `"......Wait a sec.`
 ` How many people do you think there are on this island?`
 ` ......That'd be almost everyone..."`
 `"Non, non. You have it all wrong.`
 ` .........To my knowledge, the serial murder resulting in the most deaths in mystery novel history...`
-`was ten people in a well‐known work from England, in which everyone including the culprit died.`
+`was ten people in a well‐known work from England, in which everyone including the {ruby:çeviri > suçlu:culprit} died.`
 ` As far as Japanese mysteries go, it's probably that famous novel in which an astrologer served as the detective.`
 ` Though there were less than ten deaths in that one."`
 `"......Do you realize?`
@@ -89,7 +89,7 @@
 `"......Why, that could give it an even greater number of deaths than the world record for serial murder mysteries and Japan's record added together,`
 ` making it a historical achievement in the world of serial murder mysteries!`
 ` ......Well? Did you know that, ladies and gentlemen?"`
-`"The culprit of this crime...`
+`"The {ruby:çeviri > suçlu:culprit} of this crime...`
 `...is undertaking an incredible challenge, one that stands to rewrite the record books of mysteries throughout the world and throughout history!`
 ` ......But I'm sure all of you were well aware of that, weren't you......?`
 ` Any mystery lover worth her salt will have read the works of the Queen of Crime.`
@@ -107,7 +107,7 @@
 `".....................`
 ` .....................Th‐`
 `.........the number of people was the same in both."`
-`"They tie for the record, but if you pay attention to the fact that the Shin‐Gesaku novel asked its readers to search for the culprit, it's a far more fitting example.`
+`"They tie for the record, but if you pay attention to the fact that the Shin‐Gesaku novel asked its readers to search for the {ruby:çeviri > suçlu:culprit}, it's a far more fitting example.`
 ` If you know so much about this, shouldn't your examples have been based on more than simply the number of victims, like perhaps the approaches of each work?"`
 `"............nn,`
 ` ...............khh."`
@@ -165,9 +165,9 @@
 `"We won't know unless we try.`
 ` Is there a ladder around here that can reach up to the third floor?"`
 `"I don't think the ladder in the gardening shed is long enough......"`
-`"......Oh, then what about the ladder in the boiler room?`
+`"......Oh, then what about the ladder in the {ruby:çeviri > kazan dairesi:boiler room}?`
 ` I remember using it some time ago when a bird made its nest on top of the rain gutter...!`
-` Yes, that would do the trick! Without a doubt!"`
+` Yes, that would do the {ruby:çeviri > numara:trick}! Without a doubt!"`
 `He must have been extremely happy about thinking of something Kanon hadn't.`
 `Looking pleased with himself as though he had won something, he glanced around at everyone.`
 `He was probably hoping that Natsuhi would praise him, but she quickly avoided his gaze...`
@@ -180,8 +180,8 @@
 `"......The wind might not be as strong in the courtyard.`
 ` I think it's at least worth it to take a look."`
 `"I must say, getting up to the third floor will be quite a challenge...!`
-` Back when we had to clean away the bird's nest, most of the servants shrank away from the danger.`
-` And that's when I, your humble servant, took it upon myself to accomplish the task.`
+` Back when we had to clean away the bird's nest, most of the {ruby:çeviri > hizmetkarlar:servants} shrank away from the danger.`
+` And that's when I, your humble {ruby:çeviri > hizmetkar:servant}, took it upon myself to accomplish the task.`
 ` Uha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!"`
 `"Right, then there's no problem!`
 ` We've got a ladder tall enough..."`
@@ -282,14 +282,14 @@
 `"How reassuring.`
 ` ......Very well.`
 ` I'll hide under the bed."`
-`".........Milady.`
+`".........{ruby:çeviri > Leydim:Milady}.`
 ` Rudolf will reach the window very soon."`
 `"Gaap.`
 ` I've changed my mind. I will guard this place.`
 ` Hide yourself along with Ronove."`
 `"What did you say...?`
 ` This was not the plan.`
-` We planned to leave this place to Gaap and have you retreat, Milady."`
+` We planned to leave this place to Gaap and have you retreat, {ruby:çeviri > Leydim:Milady}."`
 `Even though Ronove should have been used to her fickleness, this surprised him for the first time in a long while.`
 `......Though Beato was the powerful queen, she was also an important piece that should not be exposed to danger.`
 `Though she was strong, running to the front lines without any plan would not be a praiseworthy move.`
@@ -304,7 +304,7 @@
 ` You do what you want.`
 ` I'll keep a close watch over the first twilight corpses I erased to make sure nothing happens to them."`
 `"Sorry for stealing your time to shine."`
-`".........Are you certain about this, Milady?"`
+`".........Are you certain about this, {ruby:çeviri > Leydim:Milady}?"`
 `"You know that I love attention more than my three meals a day.`
 ` I've done nothing except gobble up Gaap's turn on the stage.`
 ` Don't pay it any mind...!"`
@@ -376,7 +376,7 @@
 `After that, he flopped onto the floor, using his entire body to enjoy the relief of having a ground under him.`
 `".........Dad! It's Rudolf.`
 ` Answer me!"`
-`It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the mansion.`
+`It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the {ruby:çeviri > malikane:mansion}.`
 `A study.`
 ` A book archive.`
 ` A place to sleep.`
@@ -418,7 +418,7 @@
 `"W‐......well......`
 ` B‐but Father is a fickle man...`
 ` Many times, he has bolted awake in the middle of the night saying that he had a revelation in a dream,`
-` and walked around the mansion.`
+` and walked around the {ruby:çeviri > malikane:mansion}.`
 ` Isn't that right, Doctor Nanjo...?"`
 `"Nn, ......y‐yes, that sort of thing has happened before...`
 ` ...As you say, ......he is, erm, a fickle fellow.`
@@ -433,7 +433,7 @@
 ` We should have checked to make sure Father was safe from the beginning, shouldn't we?"`
 `"...nn....................."`
 `"We can't be sure he isn't in this room.`
-` Maybe the culprit tied him up and locked him in the closet or something like that."`
+` Maybe the {ruby:çeviri > suçlu:culprit} tied him up and locked him in the closet or something like that."`
 `".........Just what I was thinking.`
 ` Let's conduct a search."`
 `"Th‐......the head treasures this study...`
@@ -448,7 +448,7 @@
 `"......My memory is photographic in every detail.`
 ` If any attempt is made to hide evidence or alter the scene, I will know at once.`
 ` ......Please don't commit some stupid blunder here and disappoint me.`
-` Don't you agree that any whodunit in which the culprit is unmasked by way of some silly mistake or slip of the tongue is dreadfully third‐rate?"`
+` Don't you agree that any whodunit in which the {ruby:çeviri > suçlu:culprit} is unmasked by way of some silly mistake or slip of the tongue is dreadfully third‐rate?"`
 `"............I, ...I don't understand what you're talking about, but I'll ask you to refrain from imprudent remarks.`
 ` ......Father, are you there...?!`
 ` Please answer me...!"`
@@ -487,7 +487,7 @@
 ` On the off‐chance that someone entered the study, I had planned to talk my way out of it by saying that he had probably gone for a walk somewhere.`
 ` ......However..."`
 `"Hmph.`
-` No one would believe that I was enjoying a casual midnight stroll in a mansion where a murder has occurred and many people have been killed.`
+` No one would believe that I was enjoying a casual midnight stroll in a {ruby:çeviri > malikane:mansion} where a murder has occurred and many people have been killed.`
 ` Though I wouldn't put it past myself to do such a thing."`
 `"Come now, Kinzo.`
 ` Be a good boy and stay hidden under the bed.`
@@ -496,7 +496,7 @@
 ` .........You can prove that someone exists, but you can't prove that they don't exist."`
 `"In other words, the {y:0:Human}{n:0:human} world is one in which regardless of whether something exists or not, you can make it "exist".`
 ` ......And the shadows in which you can make it "exist" form the world of us witches and the world of demons and devils."`
-`"......You mean...the Devil's Proof."`
+`"......You mean...the {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}."`
 `"Yes.`
 ` .........So don't worry.`
 ` The power of demons will most certainly protect you."`
@@ -533,24 +533,24 @@
 ` After all, the only one who claims that Natsuhi‐san really did stop by here at eleven o'clock last night is Natsuhi‐san herself.`
 ` A confirmation from Kinzo‐san that Natsuhi‐san did indeed come here last night would have sufficed,`
 ` but his absence is the very issue under question."`
-`".........Alibis are the foundation of a mystery, correct?"`
+`".........{ruby:çeviri > Mazeretler:Alibis} are the foundation of a mystery, correct?"`
 `"Yes, that's right.`
-` Alibis are important.`
+` {ruby:çeviri > Mazeretler:Alibis} are important.`
 ` Of course, they're almost useless when it comes to the actual theory‐making,`
 ` but it's common courtesy to be particular about this kind of thing."`
 `"Heh.`
-` ......You didn't ask for alibis regarding last night's murders, but you'll do it for Grandfather's disappearance, huh?`
+` ......You didn't ask for {ruby:çeviri > mazeretler:alibis} regarding last night's murders, but you'll do it for Grandfather's disappearance, huh?`
 ` ...You really are unpredictable."`
 `"Oh, don't worry.`
 ` Regarding the murders of the first twilight,`
-` have no fear that I will fully examine everyone's alibi for that as well later."`
+` have no fear that I will fully examine everyone's {ruby:çeviri > mazeret:alibi} for that as well later."`
 `".........So, can anyone confirm that Natsuhi‐san visited here at eleven o'clock?`
 ` If no one can, we'll be forced to doubt whether Natsuhi‐san really was the last person to spot him."`
 `"......A‐are you saying that I can't be trusted?"`
 `"No, no, just the opposite.`
-` I hope that you aren't the culprit.`
+` I hope that you aren't the {ruby:çeviri > suçlu:culprit}.`
 ` After all, that would be {i:dreadfully} dull, don't you agree?`
-` Only the worst third‐rate mysteries have the most suspicious person as the culprit."`
+` Only the worst third‐rate mysteries have the most suspicious person as the {ruby:çeviri > suçlu:culprit}."`
 `"...Natsuhi‐san......is suspicious?`
 ` W‐wait a second.`
 ` What exactly is your argument...?!"`
@@ -623,7 +623,7 @@
 `"<Good>.`
 ` .........Identifying oneself as the final witness is usually quite difficult.`
 ` ......That is, unless you know some reason that makes you certain that there couldn't have been any other witnesses after you."`
-`"......In third‐rate mysteries, the final witness is often the culprit.`
+`"......In third‐rate mysteries, the final witness is often the {ruby:çeviri > suçlu:culprit}.`
 ` They killed the victim themselves, so they knew that no one else could have met the victim later on...is how the argument goes."`
 `"Hohoh, ...hohohoho...`
 ` That's nothing more than a minor misuse of words...`
@@ -643,7 +643,7 @@
 ` I wonder if that means he slipped out of the study sometime after that and went somewhere else..."`
 `"W‐......well......`
 ` B‐but Father is a fickle man...`
-` Many times, he has bolted awake in the middle of the night saying that he had a revelation in a dream, and walked around the mansion.`
+` Many times, he has bolted awake in the middle of the night saying that he had a revelation in a dream, and walked around the {ruby:çeviri > malikane:mansion}.`
 ` Isn't that right, Doctor Nanjo...?"`
 `"Nn, ......y‐yes, that sort of thing has happened before...`
 ` ...As you say, ......he is, erm, a fickle fellow.`
@@ -665,16 +665,16 @@
 ` there's no way you could be certain that he'd stay in his bed until morning.`
 ` Right?"`
 `"It really is......like a third‐rate mystery.`
-` A lot of those have this part in the last five minutes where the culprit asks "When did you figure out it was me?"`
+` A lot of those have this part in the last five minutes where the {ruby:çeviri > suçlu:culprit} asks "When did you figure out it was me?"`
 ` and the detective answers..."`
 `"It is, isn't it?`
 ` ......That's why I feel let down.`
-` If it turns out that Natsuhi‐san really is the culprit, this will be worse than a TV mystery.`
+` If it turns out that Natsuhi‐san really is the {ruby:çeviri > suçlu:culprit}, this will be worse than a TV mystery.`
 ` ......That's why I want to clear away the suspicion surrounding Natsuhi‐san as soon as I can.`
 ` I want to make sure that this mystery isn't third‐rate before I do anything else."`
 `".........ugh......gah......"`
 `"......There's no need to get anxious, Natsuhi.`
-` She is merely playing with words, a favorite trick of would‐be detectives.`
+` She is merely playing with words, a favorite {ruby:çeviri > numara:trick} of would‐be detectives.`
 ` ......Is it of any consequence?`
 ` How can she possibly use that one statement to corner you?`
 ` In the court of hell, all of the demon jurors will declare you innocent.`
@@ -703,7 +703,7 @@
 ` but the timing now is just too perfect.`
 ` .........You know what I'm talking about, don't you?`
 ` ......Natsuhi nee‐san.........?"`
-`The servants gulped and held their breaths...`
+`The {ruby:çeviri > hizmetkarlar:servants} gulped and held their breaths...`
 `{n}It seemed that they hadn't been able to hide it......after all.........`
 `In the middle of this heavy silence, ......Eva fingered her trump card, and Natsuhi pretended to be calm.`
 `Both space and time grew as heavy as lead...and swallowed up everything...`
@@ -727,14 +727,14 @@
 ` You accuse me of hiding the death of the head?!`
 ` Slander of this nature is...absolutely unforgivable!!"`
 `"That's right...!!`
-` In addition to Madam, the other servants take care of the Master on a daily basis, and they see him all the time...!!`
+` In addition to Madam, the other {ruby:çeviri > hizmetkarlar:servants} take care of the Master on a daily basis, and they see him all the time...!!`
 ` Genji‐san, Shannon‐san, and Kanon‐kun...!`
 ` Even Doctor Nanjo and Kumasawa‐san meet with him often...!"`
 `"......P‐perhaps because he doesn't trust me, I haven't seen him even once since last year, but..."`
 `"Be quiet, Gohda!!!"`
 `"Eek!!`
 ` M‐my apologies...!"`
-`"All of the witnesses besides Natsuhi‐san are servants she employs.`
+`"All of the witnesses besides Natsuhi‐san are {ruby:çeviri > hizmetkarlar:servants} she employs.`
 ` ......You paid them to corroborate your story... Ohh, this really is third‐rate. What a waste of time.`
 ` .........I'm disappointed, Natsuhi‐san.`
 ` I think it's time I concluded this now."`
@@ -766,7 +766,7 @@
 ` I accept your challenge."`
 `"*cackle*cackle*cackle*.`
 ` You really are calm.`
-` ......Even though a witch has appeared before you and is about to fight with magic and fantasy.`
+` ......Even though a witch has appeared before you and is about to fight with {ruby:çeviri > büyü:magic} and fantasy.`
 ` .........If you were Battler, you'd be on your knees wailing that this isn't a mystery anymore."`
 `"Well, parallel worlds like this are popular even within the mystery genre these days.`
 ` Are you familiar with that detective who reasons from an armchair in a meta‐like space?"`
@@ -777,7 +777,7 @@
 ` Don't be so conceited, you miserable little {y:0:Human}{n:0:human}!!"`
 `Beato snapped her fingers, and something bounced around the room at terrifying speeds...!!`
 `It was the witch's stake.`
-` The witch's wedge which contained the power of the blue truth within it...!`
+` The witch's wedge which contained the power of the {ruby:çeviri > mavi gerçek:blue truth} within it...!`
 `Of course, a mere {y:0:Human}{n:0:human} like Erika couldn't follow its terrible speed with her eyes.`
 `Erika understood this, so she didn't attempt to look every which way stupidly trying to spot it.`
 `"You slowpoke!!`
@@ -788,7 +788,7 @@
 ` and disappeared, laughing shrilly.`
 `Erika wasn't blown back.`
 `{n}However, a blue wedge was stuck deeply into her.`
-`".........So this is that so‐called blue truth.`
+`".........So this is that so‐called {ruby:çeviri > mavi gerçek:blue truth}.`
 ` Well then, let me hear your opinion."`
 `"{p:2:You can't eliminate the possibility that Natsuhi met with Kinzo at 11 p.m.`
 ` In the six‐plus hours between then and the time you all barged into the study, Kinzo had every opportunity to escape!`
@@ -797,7 +797,7 @@
 `{n}Erika, on the other hand, was silent.`
 `......Was she too shocked to speak?`
 `There was no anguish in her expression.`
-`{n}She was just quietly listening to Beato's blue truth.`
+`{n}She was just quietly listening to Beato's {ruby:çeviri > mavi gerçek:blue truth}.`
 `No, ......judging by her disdainful expression,`
 ` it would probably be more appropriate to say that Beato's words went in one ear and out the other.`
 `".........<Good>.`
@@ -807,7 +807,7 @@
 `She tried pulling from the front and the back of the blue wedge that pierced her, but it didn't budge an inch.`
 `However, her indifferent, relaxed expression didn't budge an inch either.`
 `"You can't take it out!`
-` ......The blue truth can only be broken by the red truth.`
+` ......The {ruby:çeviri > mavi gerçek:blue truth} can only be broken by the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` ......And as you are a guest who came to this island a day ago at most, there exists no truth that you could possibly know!`
 ` There is no red available to the likes of you...!`
 ` In other words, this is checkmate!!"`
@@ -815,7 +815,7 @@
 ` This is one of those spaces.`
 ` ......In that case, I'll need a piece suitable for fighting a witch.`
 ` ......I am the detective.`
-` Let it be my role to deal with the {y:0:Human}{n:0:human} culprit.`
+` Let it be my role to deal with the {y:0:Human}{n:0:human} {ruby:çeviri > suçlu:culprit}.`
 ` You are a witch.`
 ` ...There is a piece better suited to the role of dealing with witches and demons."`
 `"Allow me to introduce you.`
@@ -882,7 +882,7 @@
 ` Guards, you are hereby ordered to blockade the study door."`
 `The doors to heaven opened with a strong, unrelenting radiance like the sun's,`
 ` and Dlanor's subordinates appeared.`
-`Their words were clad in the red truth and cut off the witch's method of escape.`
+`Their words were clad in the {ruby:çeviri > kırmızı gerçek:red truth} and cut off the witch's method of escape.`
 `"Chiester410, right here!"`
 `"Chiester45, right here!`
 ` It has been some time, Great Lady {f:5:Beatrice}!`
@@ -975,30 +975,30 @@
 `"A hidden door?!`
 ` Really, and where would we find one of those...?!"`
 `"It's a hidden door, so nobody knows.`
-` ......There are several mechanisms and hidden doors in this mansion that only Father knows of.`
-` ......No one has seen them first‐hand, but all the people of this mansion know of them in concept. Correct...?"`
+` ......There are several mechanisms and hidden doors in this {ruby:çeviri > malikane:mansion} that only Father knows of.`
+` ......No one has seen them first‐hand, but all the people of this {ruby:çeviri > malikane:mansion} know of them in concept. Correct...?"`
 `"Uh, ...ah, ......yes...!"`
 `"......It's true that there have been always been rumors about hidden passages only the Master knows of..."`
-`"Th‐that is the sort of trick that Kinzo‐san would love..."`
+`"Th‐that is the sort of {ruby:çeviri > numara:trick} that Kinzo‐san would love..."`
 `"Hohohoho......`
 ` And they are hidden doors, after all...`
 ` No matter how much people such as ourselves might search, {i:it's only natural that we won't find them}."`
-`".........I see. It's a Devil's Proof.`
+`".........I see. It's a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}.`
 ` You're saying we can't eliminate the possibility that a hidden door exists in this room."`
 `"That's nonsense, it's all made up...!!`
 ` How dare you stoop to this just because your lie about concealing Father's death is about to be revealed...!!"`
 `"Darn right!! Just where in this study is there a hidden door...?!!`
 ` Go on, try provin' it exists!!"`
 `"{p:2:No proof is required!!`
-` It's a Devil's Proof! The existence of a hidden door is impossible to discover or disprove!!`
+` It's a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}! The existence of a hidden door is impossible to discover or disprove!!`
 ` Therefore, no one can eliminate the possibility that Kinzo escaped from this study through a hidden door}!!"`
 `"{p:1:I will not allow a hidden door to exist in this {f:5:room}}."`
 `Beato's blue wedge, which had been fired off as a farewell gift,`
 ` was crushed with a flash of Dlanor's longsword, ......and the pitch‐black gate was crushed as well...!`
 `And it wasn't just crushed visibly and physically.`
 `From that moment onwards, the warp portal which conceptualized hidden doors had been destroyed forever.`
-`"H‐how can someone like you, who is neither the owner of the study nor the Game Master,`
-` ......use the red truth......?!`
+`"H‐how can someone like you, who is neither the owner of the study nor the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
+` ......use the {ruby:çeviri > kırmızı gerçek:red truth}......?!`
 ` And what was that?! What do you mean you "will not allow" hidden doors to exist?!"`
 `"It's because that's what defines a mystery.`
 ` {p:1:Knox's 3rd: It is forbidden for hidden passages to exist}.`
@@ -1012,7 +1012,7 @@
 ` Here it comes, the ten wedges to pierce witches...!!`
 ` Just like usual, it's the kind of irrational argument that I just love to hear...!"`
 `"What a fool.`
-` The Devil's Proof might have been vague enough to let you escape from everything until now,`
+` The {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof} might have been vague enough to let you escape from everything until now,`
 ` but now that you're up against Dlanor, that move won't work anymore, {f:5:Beatrice}!"`
 `"......As I thought, you're no different from any ordinary {f:5:witch}.`
 ` I am {f:5:disappointed}."`
@@ -1022,10 +1022,10 @@
 ` ......You should at least serve some tea for your guests.`
 ` It doesn't even matter if it's third‐rate!"`
 `"How did Kinzo‐san escape from this locked‐room study?`
-` Educate me with your blue truth...!!"`
+` Educate me with your {ruby:çeviri > mavi gerçek:blue truth}...!!"`
 `"......Very well.`
 ` Make sure you don't regret it!!"`
-`"{p:2:It's possible that, after slipping out the door, Kinzo noticed the trick with the receipt and correctly returned it to its original place}."`
+`"{p:2:It's possible that, after slipping out the door, Kinzo noticed the {ruby:çeviri > numara:trick} with the receipt and correctly returned it to its original place}."`
 `"{p:1:That possibility has already been eliminated in {f:5:red}.`
 ` After 23:00, the door to the study was not opened even {f:5:once}}."`
 `"{p:2:Kinzo might have been a marvelous mage and inventor!`
@@ -1033,12 +1033,12 @@
 `"{p:1:No such substance {f:5:exists}.`
 ` It must not {f:5:exist}}."`
 `"{p:2:Maybe he invented a teleportation device!`
-` That possibility is impossible to eliminate because of the Devil's Proof}!!"`
+` That possibility is impossible to eliminate because of the {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}}!!"`
 `"{p:1:Such a machine does not {f:5:exist}.`
 ` I will not permit it to {f:5:exist}}."`
 `"{p:2:Oh, so you can examine every chemical substance in the world?`
 ` You can rule out the existence of unknown scientific devices?!`
-` There's no way you can, it's a Devil's Proof!`
+` There's no way you can, it's a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}!`
 ` You cannot rule out their existence}!"`
 `"{p:1:I will {f:5:repeat}.`
 ` In the name of God, I will not permit such chemicals or devices to {f:5:exist}.`
@@ -1109,12 +1109,12 @@
 ` ......Heheheheh, top of the foot, all mi~ne!"`
 `"{p:2:Natsuhi used the internal phone line in this study to speak with Kinzo, who was in another place!`
 ` There's nothing strange about Kinzo, who hates the relatives, predicting that they would enter his study and leaving to go elsewhere.`
-` He might have gone to the hidden mansion, Kuwadorian}!"`
-`The power of Beato's blue truth began to dwell in the Stake of Asmodeus piercing the top of Dlanor's foot, changing the stake into a blue wedge.`
+` He might have gone to the hidden {ruby:çeviri > malikane:mansion}, Kuwadorian}!"`
+`The power of Beato's {ruby:çeviri > mavi gerçek:blue truth} began to dwell in the Stake of Asmodeus piercing the top of Dlanor's foot, changing the stake into a blue wedge.`
 `"Not bad, that makes sense nyeh...!"`
-`"......Blue truth, valid!"`
+`"......{ruby:çeviri > Mavi gerçek:Blue truth}, valid!"`
 `A cyclone of gold butterflies swept up with Beato at its center.`
-`{n}......The magical power of the pitch‐black gate that had been smashed was once again refilled.`
+`{n}......The {ruby:çeviri > büyülü:magical} power of the pitch‐black gate that had been smashed was once again refilled.`
 `......If she could hold Dlanor off here somehow,`
 ` this time, she would be able to warp Kinzo out of the study, all the way to Kuwadorian...!`
 `Dlanor moved clumsily, trying to pull the blue wedge out of her foot,`
@@ -1142,7 +1142,7 @@
 ` In other words, it's possible that Natsuhi was also Kinzo}!"`
 `"{p:2:I've got plenty more!! At eleven o'clock last night, Kinzo escaped out the window!`
 ` Natsuhi watched him go, then locked the window!!`
-` This doesn't lead to any problems. In fact, it might be the most beautiful blue truth yet}!"`
+` This doesn't lead to any problems. In fact, it might be the most beautiful {ruby:çeviri > mavi gerçek:blue truth} yet}!"`
 `"How's that, Dlanor A. Knox?!`
 ` Hyah{0}ha{0}ha{0}ha{0}ha{0}a{0}a{0}a{0}a{0}aahh!! There are any number of ways to escape from this locked room!!"`
 `"Know your foolishness in trying to oppose my master!"`
@@ -1173,7 +1173,7 @@
 ` This ruthless woman even killed her father when he violated the Ten Commandments...!`
 ` Kinzo, now!"`
 `"Mm...!"`
-`Now that Dlanor had been pinned down, this was their last chance to recover their magical power and escape.`
+`Now that Dlanor had been pinned down, this was their last chance to recover their {ruby:çeviri > büyülü:magical} power and escape.`
 `Once again, a pitch‐black gate began to rise slowly in front of Beato and Kinzo......`
 `Though the gate had once been opened by simply drawing in the air,`
 ` it wasn't so easy in the study now, filled as it was with the power of denial.`
@@ -1204,7 +1204,7 @@
 ` Father is Father!!`
 ` He is in good health!`
 ` And I most certainly gave him a report and said good night to him in this room last night...!!`
-` I'm not trying to trick you or talk my way out of anything!"`
+` I'm not trying to {ruby:çeviri > numara:trick} you or talk my way out of anything!"`
 `"I see.`
 ` In that case, can you repeat what I tell you to?`
 ` If you aren't tricking or deceiving us in any way, you should be able to repeat my words."`
@@ -1235,11 +1235,11 @@
 `The blue wedge to the thigh representing Natsuhi letting Kinzo escape out of the window and locking it afterwards.`
 `The four of them shattered with the sound of thin glass...!`
 `Because Natsuhi, {i:the one who knew the truth,} had denied them,`
-` those denials had gained the power of the red truth...!`
+` those denials had gained the power of the {ruby:çeviri > kırmızı gerçek:red truth}...!`
 `Despite Kinzo's absence from this locked room, Beato had introduced five ways that Kinzo could still exist.`
 `Natsuhi had carelessly destroyed the premises behind four of those herself...!!`
 `Only one wedge remained.`
-`In other words, this was the last blue truth which could bury the contradiction of Kinzo existing in the study at eleven o'clock but not existing there later after it had become a locked room.`
+`In other words, this was the last {ruby:çeviri > mavi gerçek:blue truth} which could bury the contradiction of Kinzo existing in the study at eleven o'clock but not existing there later after it had become a locked room.`
 `There was only the theory that pierced Dlanor's chest: "Kinzo is hiding somewhere in this room".`
 `With this theory, even if Kinzo wasn't present in this locked room of a study, he could "exist" here...!`
 `If this wedge of Satan's were to be crushed, their chances of escaping this room would become hopelessly dim......!`
@@ -1293,7 +1293,7 @@
 `No longer is there any place in this study for Kinzo to escape to...!!`
 `Beato was blown back like a leaf dancing in the wind,`
 ` knocked around over and over again like an empty can lying on a road.`
-`By now, no matter how many times Beato used the blue truth, it wouldn't be able to defeat Dlanor's red truth...`
+`By now, no matter how many times Beato used the {ruby:çeviri > mavi gerçek:blue truth}, it wouldn't be able to defeat Dlanor's {ruby:çeviri > kırmızı gerçek:red truth}...`
 `"Hahahahaha, ahhaha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
 ` .........You witches are truly pitiful beings.`
 ` ......You just try to talk your way out of things endlessly in an attempt to cover up the truth.`
@@ -1375,7 +1375,7 @@
 `"Your lie has already been exposed, Natsuhi‐san.`
 ` We already know that you were alone in this room last night."`
 `"Would you please give this up now and launch into your confession?`
-` The culprit's refusal to capitulate is proportional to the poor quality of a mystery.`
+` The {ruby:çeviri > suçlu:culprit}'s refusal to capitulate is proportional to the poor quality of a mystery.`
 ` At least show me that this third‐rate mystery had some redeeming qualities in the end."`
 `".........Yeah, this is no good.`
 ` No goddamn good at all."`
@@ -1481,7 +1481,7 @@
 ` ......Making sure there was no dust piling up.`
 ` Making sure that he hadn't run out of any consumables."`
 `"Y‐yes.`
-` This is the family head's treasured room, so I check everything carefully myself instead of relying entirely on the servants.`
+` This is the family head's treasured room, so I check everything carefully myself instead of relying entirely on the {ruby:çeviri > hizmetkarlar:servants}.`
 ` I do this every single time."`
 `".........Th‐that's true.`
 ` Madam always checks things very carefully."`
@@ -1497,7 +1497,7 @@
 ` Isn't putting on airs the detective's right?"`
 `"Nn, gah, ......{i:I}...am the...d‐detective........."`
 `"Since we're inside the study, you can probably tell, but even though we call it a study,`
-` it wouldn't be wrong to call it a second house inside the mansion."`
+` it wouldn't be wrong to call it a second house inside the {ruby:çeviri > malikane:mansion}."`
 `"It has a sleeping room, a study, a washroom, and even a toilet and bath.`
 ` So it's not so much a "room"...`
 `as it is a "house"."`
@@ -1601,7 +1601,7 @@
 `It was all far too quick.`
 `It looked almost as though she'd gotten out of the way herself in fear of Battler.`
 `"E‐...{ruby:99.9999999...:endless nine}...!!`
-` Magic resistance, {ruby:99.9999999...:endless nine}!!"`
+` {ruby:çeviri > Büyü:Magic} resistance, {ruby:99.9999999...:endless nine}!!"`
 `"Cornelia‐sama, you can't block it, retreat...!"`
 `At the same time the barrier shattered, the window behind Cornelia's back was flung open.`
 `The curtains fluttered for just an instant.`
@@ -1626,7 +1626,7 @@
 `"{p:2:Yeah!!`
 ` So it's only natural that Aunt Natsuhi thought Grandfather was sleeping in bed}!!"`
 `Now that Battler had found the answer, the red barrier was more fragile than thin glass.`
-`The red magical wall of certainty had been smashed again, so easily that it disgraced the name of certainty itself!`
+`The red {ruby:çeviri > büyülü:magical} wall of certainty had been smashed again, so easily that it disgraced the name of certainty itself!`
 `Could it be believed?`
 `That barrier was more firm than any shield Ronove had ever used against Jessica.`
 `And yet it had been......destroyed so easily...!`
@@ -1647,14 +1647,14 @@
 `The fragments of the blue barrier scattered, leaving blue dust in their wake, coloring the air beautifully.`
 `The locked room...`
 `...had been smashed open......!!`
-`Battler......had jumped from the mansion.`
+`Battler......had jumped from the {ruby:çeviri > malikane:mansion}.`
 `He was in the sky above the rainy courtyard.`
 `......All of the raindrops had become small round gems that were scattered through the air.`
 `Battler was floating through the jewelry‐box world of this beautiful stormy sky filled with countless raindrop gems.`
 `In the sky of a world frozen in time, Dlanor and Battler faced each other.`
 `If Battler, who had smashed and flown out the window, was like a knight leaping off a white horse,`
 ` ......then Dlanor, who floated in the air waiting for him, was also a knight.`
-`In the air above the courtyard surrounded by the Ushiromiya mansion and frozen in time,`
+`In the air above the courtyard surrounded by the Ushiromiya {ruby:çeviri > malikane:mansion} and frozen in time,`
 ` ......the true new head of the Ushiromiya family and the disciple of heaven who would test him crossed paths......`
 `"......Brilliantly {f:5:done}.`
 ` Whether you live or die when you fall into the courtyard, it does not change the fact that Kinzo could have broken out of this locked {f:5:room}...!!`
@@ -1693,8 +1693,8 @@
 `"......Don't hold this against me. I hope you're ready."`
 `"Yes, {f:5:come}."`
 `In Battler's hand......was a blade that shone red.`
-`{n}That blade etched out the red truth......`
-`{p:1:― It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the mansion.}`
+`{n}That blade etched out the {ruby:çeviri > kırmızı gerçek:red truth}......`
+`{p:1:― It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the {ruby:çeviri > malikane:mansion}.}`
 `{p:1:― A study.`
 ` A book archive.`
 ` A place to sleep.`
@@ -1703,7 +1703,7 @@
 `That was already presented.`
 `And it suggests that room‐sized blind spots can exist within the study...`
 `Without any mercy, ...no, without any reluctance that would have been dishonorable,`
-` ......the sword of red truth cut into Dlanor.`
+` ......the sword of {ruby:çeviri > kırmızı gerçek:red truth} cut into Dlanor.`
 `Its sharp trail cut the countless gemdrops filling the sky into beautiful hemispheres......`
 `"Brilliant.........{f:5:work}......"`
 `"........................"`
@@ -1733,7 +1733,7 @@
 `"Go.`
 ` From the moment Battler showed his answer, my spirit had already escaped from this room."`
 `Kinzo's form became a group of gold butterflies and disappeared.`
-`{n}The locked‐room barrier had dissolved, and the power which denies magic had scattered.`
+`{n}The locked‐room barrier had dissolved, and the power which denies {ruby:çeviri > büyü:magic} had scattered.`
 `Beato ran towards the window.`
 `{n}......That was the only exit from the locked room of this witch hunt.`
 `After glancing at the Inquisitors and the Chiester Sisters,`
@@ -1747,7 +1747,7 @@
 `"Chiester Troops, shoot the witch! Shoot her dead!!"`
 `"Alignment conflict. Unable to fire."`
 `"For your attention:`
-` we have no barrier prepared which can block Battler's blue truth."`
+` we have no barrier prepared which can block Battler's {ruby:çeviri > mavi gerçek:blue truth}."`
 `Both Chiester00 and Gertrude spoke with unbelievably calm voices.`
 `"N‐no one can stop any of them?`
 ` Not Battler? Or Kinzo?`
@@ -1831,7 +1831,7 @@
 ` I‐...is there something wrong in your heads, in your minds, people?!?!"`
 `"At any rate, ......it looks like your locked‐room argument wasn't perfect."`
 `"Ah......gggrrrrrrrrggh...!!"`
-`Not only the servants, but the family members also agreed.`
+`Not only the {ruby:çeviri > hizmetkarlar:servants}, but the family members also agreed.`
 `They all agreed that there would be nothing strange about Kinzo jumping down from a third‐floor window.`
 `J‐just who in the world...is this Ushiromiya Kinzo person...?!!`
 `"Well, I'll give you 60 points...`
@@ -1852,7 +1852,7 @@
 `"I‐it looks like he's alright...! Thank goodness!"`
 `"......I am {f:5:defeated}...`
 ` ......In that case, for the benefit of the people in the study, ......deliver me the final {f:5:blow}.`
-` Use your final blue truth to show how Kinzo escaped from the locked room of that {f:5:study}."`
+` Use your final {ruby:çeviri > mavi gerçek:blue truth} to show how Kinzo escaped from the locked room of that {f:5:study}."`
 `There was no pain in Dlanor's expression.`
 `{n}...Pleasure and pain never showed up on her face in the first place.`
 `However, she used her longsword as a crutch as she struggled to her feet, so it was easy to tell that she had taken heavy damage.`
@@ -1862,10 +1862,10 @@
 `"Yes, {f:5:come}.`
 ` ....................."`
 `As though readying herself, Dlanor quietly closed her eyes, but she still stood tall and maintained her air of dignity.`
-`"This is my blue truth."`
+`"This is my {ruby:çeviri > mavi gerçek:blue truth}."`
 `The blue power gathered.`
 `{n}......Battler slowly approached Dlanor.`
-`Then, he faced the rainy sky and yelled out the blue truth.`
+`Then, he faced the rainy sky and yelled out the {ruby:çeviri > mavi gerçek:blue truth}.`
 `"{p:2:Ushiromiya Kinzo escaped from the study through the window when Aunt Natsuhi couldn't see him.`
 ` Aunt Natsuhi didn't notice and locked the window.`
 ` This way, Aunt Natsuhi can see Grandfather go to bed at eleven o'clock and Grandfather can escape from the study without contradicting the lock of the window or the door sealed by the receipt.`

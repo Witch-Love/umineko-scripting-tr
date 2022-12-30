@@ -4,7 +4,7 @@
 ` Kuhyahahahahahahaha!!"`
 `"Look, look, don't turn your eyes away, look at it.`
 ` Look look, look look!`
-` It's magic, it's furniture, no matter how much you try to deny me and magic, look look, look look look look!`
+` It's {ruby:çeviri > büyü:magic}, it's {ruby:çeviri > mobilya:furniture}, no matter how much you try to deny me and {ruby:çeviri > büyü:magic}, look look, look look look look!`
 ` Gyahhahhahahaha!!"`
 `"......Sorry, Battleer.`
 ` It was pretty interesting.`
@@ -13,15 +13,15 @@
 ` Kyahahahahahaah!!"`
 `That lonely tone was the sound of the desolate wind blowing by.`
 `{n}The color of the glittering flower petals on the rose bushes was...that of gold.`
-`The group of gold butterflies which had once danced through this golden rose garden like fluttering rose petals...`
+`The group of gold butterflies which had once danced through this golden {ruby:çeviri > gül bahçesi:rose garden} like fluttering rose petals...`
 `could no longer be seen anywhere...`
-`The master of the Golden Land is the Golden Witch, {f:5:Beatrice}.`
+`The master of the {ruby:çeviri > Altın Diyar:Golden Land} is the Golden Witch, {f:5:Beatrice}.`
 `{n}She could be called inhumane and cruel.`
 ` Arrogant and outrageous.`
 `{n} And also, naive and simple.`
 `That laugh of hers, which lost its grace more and more the longer it continued, ......could no longer be heard.`
 `The Golden Witch {f:5:Beatrice}...`
-`sat like a doll, resting in a deck chair adorned as beautifully as the golden rose garden.`
+`sat like a doll, resting in a deck chair adorned as beautifully as the golden {ruby:çeviri > gül bahçesi:rose garden}.`
 `......She wasn't relaxing there.`
 `Empty‐eyed,`
 ` never responding to any questions,`
@@ -97,7 +97,7 @@
 `"Yep.`
 ` I don't have a clue.`
 ` ......The more I try standing in Beato's shoes and moving the pieces like this, the less I understand."`
-`The successful execution of a serial murder following an epitaph.`
+`The successful execution of a serial murder following an {ruby:çeviri > kitabe:epitaph}.`
 ` He was stepping through the games from the witch side with that as the victory condition,`
 ` ......but he just couldn't make it fit with Beato's moves.`
 `He could see several incomprehensible moves in the records of their past games that clearly conflicted with that victory condition...`
@@ -130,7 +130,7 @@
 `Why should I take part in any game without Beato as an opponent...?`
 `{n}If that's the only alternative,`
 ` then stepping through past games on a journey in search of Beato's thought process is a much better use of my time......`
-`"I'll be the next Game Master.`
+`"I'll be the next {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
 ` Any objections?`
 ` You have none, right?"`
 `"......I have tons.`
@@ -146,7 +146,7 @@
 `She was nothing more than a living doll who had given up on victory, asked Battler to perform her last rites,`
 ` and entrusted everything to him...`
 `Of course, no fifth game would ever be prepared if everyone just sat around.`
-`So, {f:5:Lambdadelta} had succeeded Beato as the Game Master,`
+`So, {f:5:Lambdadelta} had succeeded Beato as the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
 ` and proclaimed that she would prepare the next game.`
 `"Quit messing around.`
 ` This game is between me and Beato.`
@@ -193,7 +193,7 @@
 `"We really don't care whether you get bored or not."`
 `"Come on now.`
 ` Leave everything to <perfect> {f:5:Lambdadelta}‐sama, okay?`
-` I'll take over as the Game Master."`
+` I'll take over as the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
 `"{f:5:Don't worry}, I won't play with too much "certain perfection".`
 ` I'll {i:act all Beato‐like} and prepare plenty of clues, bonus hints, and fakes that make no sense.`
 ` I'll make it into one big hint to help you understand Beato's world even more, okay?"`
@@ -357,7 +357,7 @@
 `".........If you wouldn't mind."`
 `"Certainly.`
 ` ......So,`
-` how has this journey of yours in search of Milady's thoughts been?"`
+` how has this journey of yours in search of {ruby:çeviri > Leydim:Milady}'s thoughts been?"`
 `"I'm as clueless as ever, but I'm enjoying it."`
 `"On a different topic, ......are you certain about this?`
 ` Relaxing here, I mean."`
@@ -382,11 +382,11 @@
 ` ......perhaps one could say it was dishonorable."`
 `I understood what those words meant.`
 `When I met {f:5:Virgilia}'s eyes, she shook her head slightly and stared at the floor...`
-`".........At a glance, I believe it resembles Milady's games greatly.`
+`".........At a glance, I believe it resembles {ruby:çeviri > Leydim:Milady}'s games greatly.`
 ` However, the foundation is very different."`
 `"Does it go against the rules of Beato's game?"`
 `"No, it does not.`
-` {f:5:Lambdadelta}‐sama understands the rules of Milady's game very well indeed.`
+` {f:5:Lambdadelta}‐sama understands the rules of {ruby:çeviri > Leydim:Milady}'s game very well indeed.`
 ` ......However..."`
 `".................."`
 `Battler stood up.`
@@ -406,7 +406,7 @@
 `"......Thank you.`
 ` I wanted to let this child hear those words."`
 `"I'm sure she hears them.`
-` ......Milady is simply unable to answer."`
+` ......{ruby:çeviri > Leydim:Milady} is simply unable to answer."`
 `Beato lay there silently, like a living doll with dull eyes...`
 `The game board that she had created herself had been hijacked by incomprehensible people and was being turned into a mess...`
 `Beato had called on me to be her opponent.`
@@ -462,12 +462,12 @@
 `"Episode 5:`
 ` End of the`
 ` Golden Witch!"`
-`Right now, no humans exist on this island except for those in this parlor.`
+`Right now, no humans exist on this island except for those in this {ruby:çeviri > salon:parlor}.`
 `And with one exception, it has been shown that none of them have committed murder.`
-`And the culprit is among these people.`
+`And the {ruby:çeviri > suçlu:culprit} is among these people.`
 `"......Whoa, whoa.`
 ` ...In that case, ...it's conclusive, isn't it...?"`
-`"Unless the culprit is a witch who committed murder with magic, that is..."`
+`"Unless the {ruby:çeviri > suçlu:culprit} is a witch who committed murder with {ruby:çeviri > büyü:magic}, that is..."`
 `"............It was you?!`
 ` You killed George, killed my husband?!`
 ` Why?!!`
@@ -479,5 +479,5 @@
 ` ......in a manner that was, to put it coldly, unsightly...Aunt Natsuhi denied the suspicion placed upon her...`
 `However, ......there was no longer any way around it...`
 `{i:The girl} stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.`
-`"......You are the culprit.`
+`"......You are the {ruby:çeviri > suçlu:culprit}.`
 ` Ushiromiya Natsuhi‐san."`

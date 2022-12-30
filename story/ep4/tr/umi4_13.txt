@@ -1,20 +1,20 @@
 `......It was......a pitch‐black room.`
 `There were no windows, and by the light from the weak bulb, one could only just barely make out the state of things around them.`
-`It appeared to be an old, forgotten, dusty underground storehouse, with some kind of furniture haphazardly thrown into it......`
-`However, even with just a little light, one could at least tell that it probably wasn't a storehouse.`
+`It appeared to be an old, forgotten, dusty underground {ruby:çeviri > ambar:storehouse}, with some kind of {ruby:çeviri > mobilya:furniture} haphazardly thrown into it......`
+`However, even with just a little light, one could at least tell that it probably wasn't a {ruby:çeviri > ambar:storehouse}.`
 `......Because that room was sealed off with iron bars.`
 `"......Where...is this.........?"`
 `"Not a clue...`
-` ......Is this place underneath the mansion......?`
-` Was there this kind of room......directly underneath the dining hall......?"`
+` ......Is this place underneath the {ruby:çeviri > malikane:mansion}......?`
+` Was there this kind of room......directly underneath the {ruby:çeviri > yemek salonu:dining hall}......?"`
 `They had been dropped into what had appeared to be a pit, and {i:fallen} into this room.`
-`Therefore, it would be appropriate to think that this room was directly below the dining hall.`
-`......However, not even Krauss could bring himself to believe that there were pitfalls rigged in the beloved dining hall, where he had enjoyed his meals for years,`
+`Therefore, it would be appropriate to think that this room was directly below the {ruby:çeviri > yemek salonu:dining hall}.`
+`......However, not even Krauss could bring himself to believe that there were pitfalls rigged in the beloved {ruby:çeviri > yemek salonu:dining hall}, where he had enjoyed his meals for years,`
 ` ...and that directly below it was this dungeon‐like room.`
 `But the ceiling, when they looked up, was made of rugged stone, ......and they could not understand from where in that ceiling they could have fallen.`
 `No, all five people who had been dropped here thought the same thing.`
 `Although they had felt a sensation of being dropped into a pit,`
-` ......there was no way there could be pitfalls in the dining hall, nor could this dungeon‐like place be directly underneath it.`
+` ......there was no way there could be pitfalls in the {ruby:çeviri > yemek salonu:dining hall}, nor could this dungeon‐like place be directly underneath it.`
 `......But, in point of fact, they {i:had} fallen into this place, and were locked in.`
 `{n}......And so, ...they were confused.`
 `"......It is lucky that no one was hurt after falling from such a height..."`
@@ -26,7 +26,7 @@
 `"R‐really......`
 ` We really......don't know any room like this......"`
 `It seemed that Kyrie thought that there was a good chance that, despite their age,`
-` they might know of the mansion's secret tricks as servants permitted the One‐winged Eagle.`
+` they might know of the {ruby:çeviri > malikane:mansion}'s secret {ruby:çeviri > numaralar:tricks} as {ruby:çeviri > hizmetkarlar:servants} permitted the One‐winged Eagle.`
 `There was a long silence, as if evaluating their answer...`
 `"......No, it's probably true that they don't know.`
 ` Shannon is a very tidy person, after all."`
@@ -37,7 +37,7 @@
 ` We need to call the police...o‐or rather, call for medical assistance as soon as possible......"`
 `Nanjo's words rang hollow.`
 `...Obviously.`
-`Six people had been killed in the dining hall.`
+`Six people had been killed in the {ruby:çeviri > yemek salonu:dining hall}.`
 `{n}They had all witnessed the exact moments when the six had been killed.`
 `And what's more, it had been done by half‐destroying their heads—`
 `anyone could tell with just a single glance that they had been dealt a fatal injury.`
@@ -62,7 +62,7 @@
 ` they too would probably become the ritual's next sacrifices before long.`
 `Around this time, their eyes were becoming used to the darkness,`
 ` and, bit by bit, they were starting to be able to make out the dungeon's interior.`
-`......What they thought was furniture haphazardly left in the dungeon turned out not to be furniture at all.`
+`......What they thought was {ruby:çeviri > mobilya:furniture} haphazardly left in the dungeon turned out not to be {ruby:çeviri > mobilya:furniture} at all.`
 `They were......small cages that could be used to imprison a single person, restraining tables, ......or were those torture racks?`
 `.....At any rate, it was obviously more ghastly than a mere jail cell.`
 `Since those objects were rusted and covered in thick layers of dust, there was no doubt that they had been long‐forgotten.`
@@ -88,11 +88,11 @@
 `".........We can't be too optimistic, Nee‐san.`
 ` There's a chance that they have already been attacked, after we were."`
 `"I agree.`
-` What Father carried out in the dining hall was...`
-`...the six murders of the first twilight from the witch's epitaph, right?`
+` What Father carried out in the {ruby:çeviri > yemek salonu:dining hall} was...`
+`...the six murders of the first twilight from the witch's {ruby:çeviri > kitabe:epitaph}, right?`
 ` Then, the second twilight is to "tear apart the two who are close"."`
 `"......We can't deny the possibility that Gohda‐san and Kumasawa‐san may have already been killed, having run away to hide together in close company.`
-` .........We can't cling to the optimistic idea that they definitely got to the guesthouse and are protecting the children."`
+` .........We can't cling to the optimistic idea that they definitely got to the {ruby:çeviri > konukevi:guesthouse} and are protecting the children."`
 `Kyrie coldly analyzed the worst‐case scenario.`
 `Even for her, it was heartbreaking to have lost her beloved husband.`
 `{n}......But right now, the most important thing was protecting that husband's son,`
@@ -128,20 +128,20 @@
 `"We believe we fell through a pit, and landed in this dungeon.`
 ` ......In that panic‐stricken place, that's what we believed happened."`
 `"......But looking at how large this room is, I came to a realization.`
-` This dungeon cannot be underneath the dining hall."`
+` This dungeon cannot be underneath the {ruby:çeviri > yemek salonu:dining hall}."`
 `"How can you tell that it can't...?"`
 `"............You're an idiot, Nee‐san.`
-` This dungeon is too narrow compared to the dining hall."`
+` This dungeon is too narrow compared to the {ruby:çeviri > yemek salonu:dining hall}."`
 `"Exactly.`
 ` The first person to fall was Krauss nii‐san.`
 ` The second was myself.`
 ` When you fell into this room, did you move from that spot, Krauss nii‐san?"`
 `"......It's embarrassing to say, but I lay there groaning in pain from the landing.`
 ` Immediately after that, you came crashing down next to me."`
-`"The distance between us as we stood in the dining hall, compared to where we landed, is clearly strange."`
+`"The distance between us as we stood in the {ruby:çeviri > yemek salonu:dining hall}, compared to where we landed, is clearly strange."`
 `"C‐...certainly, when you put it that way.`
 ` ......I was the next to fall, so I remember fairly well where you two were standing.`
-` ......The distance between you two in the dining hall might have been greater than this entire room."`
+` ......The distance between you two in the {ruby:çeviri > yemek salonu:dining hall} might have been greater than this entire room."`
 `"We fell into a pit, and directly dropped down here.`
 ` ......It's not like we fell into multiple intersecting pipes, and were all collected together before falling down here."`
 `"The fall was instant, wasn't it?`
@@ -150,7 +150,7 @@
 ` ...How strange."`
 `"What does that have to do with......the drug that makes people instantly faint that Kyrie‐sama was talking about...?"`
 `"...........................`
-` ......Kyrie‐sama is probably thinking that there were no pitfalls in the dining hall, I would guess."`
+` ......Kyrie‐sama is probably thinking that there were no pitfalls in the {ruby:çeviri > yemek salonu:dining hall}, I would guess."`
 `"But we did actually fall."`
 `"To put it accurately, we had the feeling that we fell into a pit.`
 ` ......It's only natural.`
@@ -161,7 +161,7 @@
 ` ......but shot, for example, with something like a blowdart, lost consciousness instantly, and the instant we fell to the floor,`
 ` it could be that we just remember that as though we fell into a pit......"`
 `"............I see.`
-` That's a much more persuasive explanation than there being numerous pitfall traps in the dining hall that we've never noticed, even after decades eating there."`
+` That's a much more persuasive explanation than there being numerous pitfall traps in the {ruby:çeviri > yemek salonu:dining hall} that we've never noticed, even after decades eating there."`
 `"......Nee‐san.`
 ` Do you have a watch?"`
 `"Huh?`
@@ -170,10 +170,10 @@
 ` .........Umm, it's about twenty to eleven."`
 `".........Yes.`
 ` My watch says the same.`
-` ...In short, it hasn't been more than ten minutes since that chaos in the dining hall."`
+` ...In short, it hasn't been more than ten minutes since that chaos in the {ruby:çeviri > yemek salonu:dining hall}."`
 `"My watch likewise.`
 ` ............That's much too short a time to knock us out and carry us somewhere.`
-` .........Judging only from the time, it's reasonable to think that we did fall through a hole leading directly underneath the dining hall."`
+` .........Judging only from the time, it's reasonable to think that we did fall through a hole leading directly underneath the {ruby:çeviri > yemek salonu:dining hall}."`
 `"Watch hands are easily tampered with.`
 ` ......While we were passed out, they may have wound everyone's watch back.`
 ` We are incapable of proving that this possibility doesn't exist."`
@@ -187,9 +187,9 @@
 ` ...I cannot prove that there is not a drug with that effect of which I do not know."`
 `"......As they say, you can never be too careful.`
 ` ...Sorry, it was a pointless question.`
-` Except, I think that with my hypothesis, I was able to suggest that this dungeon is not necessarily directly underneath the dining hall."`
+` Except, I think that with my hypothesis, I was able to suggest that this dungeon is not necessarily directly underneath the {ruby:çeviri > yemek salonu:dining hall}."`
 `"I see...`
-` .......There's always the possibility that we were carried off to a dungeon in Father's hidden mansion,`
+` .......There's always the possibility that we were carried off to a dungeon in Father's hidden {ruby:çeviri > malikane:mansion},`
 ` which is rumored to be hidden somewhere in the middle of the vast forest.`
 ` ......If we can escape from here and get outside, then we'll know.`
 ` We can save worrying about that until after we get out."`
@@ -262,7 +262,7 @@
 `"Hold on...!`
 ` This is too good to be true.`
 ` Should we not suspect that it's bugged...?!"`
-`"If they were planning a trick like that, normally they would cut the telephone line.`
+`"If they were planning a {ruby:çeviri > numara:trick} like that, normally they would cut the telephone line.`
 ` ......There's a good possibility that they actually overlooked this."`
 `"If they notice, the line might actually be cut for real.`
 ` There's nothing that we could tell the police that would be problematic for us if they overheard."`
@@ -301,21 +301,21 @@
 `Ushiromiya Kinzo had killed six members of his family.`
 `He had summoned strange, witch‐like, demon‐like people,`
 ` ......right out of thin air, ......`
-`.........and with something like magic,`
+`.........and with something like {ruby:çeviri > büyü:magic},`
 ` ......he had begun to kill people one after another..........`
 `...........................`
 `Too much to handle.`
 ` ......Even though she definitely saw it, there was no way she could accept that spectacle......`
 `".........There's no way that's what happened.`
 ` .........Those were obviously Grandfather's friends, or something.`
-` ......They were just hiding somewhere in the dining hall beforehand, and used some trick to appear suddenly and surprise us.`
+` ......They were just hiding somewhere in the {ruby:çeviri > yemek salonu:dining hall} beforehand, and used some {ruby:çeviri > numara:trick} to appear suddenly and surprise us.`
 ` .........There's no other way to explain something as screwed up as that."`
 `But when those six had had their heads blown apart, a golden arrow had flown around and around the room.`
 `......That had truly looked like...`
-`...magic.`
+`...{ruby:çeviri > büyü:magic}.`
 `Was that another thing we just saw wrong?`
-`{n}There's no way it was magic.`
-` There must be some kind of trick to it.`
+`{n}There's no way it was {ruby:çeviri > büyü:magic}.`
+` There must be some kind of {ruby:çeviri > numara:trick} to it.`
 `......Since it was capable of smashing heads, there's no doubt it was some explosive.`
 `For example, a styrene toy plane like they sell at candy stores, painted gold,`
 ` and with a powerful explosive loaded onto the end of it.`
@@ -323,7 +323,7 @@
 ` Kyrie couldn't imagine that such a thing could be fired six times, and each time perfectly hit the victim square in the head, one after the other.`
 `Surely its flight wasn't computer‐controlled to seek out and deliver precise hits on its targets,`
 ` which would make it a high‐tech styrene plane on the same level as a guided missile...?`
-`".........Would he invest such a large amount of money into developing some stupid trick like that?`
+`".........Would he invest such a large amount of money into developing some stupid {ruby:çeviri > numara:trick} like that?`
 ` ......For that insane entertainment......?`
 ` Does this come back to the old "I wouldn't put it past Father"......?"`
 `A number of mysterious people had appeared suddenly out of thin air,`
@@ -355,7 +355,7 @@
 ` It seems that he cut the external line in an effort to prevent us from contacting the police, but he missed out on severing the internal line...!"`
 `"Internal line?`
 ` Krauss‐san, where did you call...?!"`
-`"The guesthouse.`
+`"The {ruby:çeviri > konukevi:guesthouse}.`
 ` I'm calling the room where Jessica and the rest are staying...!"`
 `"......Ah?!`
 ` Hello!`
@@ -367,7 +367,7 @@
 `"K‐Krauss‐sama......!!`
 ` I'm so glad you're safe...!!`
 ` Yes!`
-` Milady Jessica and the other children are here as well, safe and unharmed...!"`
+` {ruby:çeviri > Leydim:Milady} Jessica and the other children are here as well, safe and unharmed...!"`
 `"Dad!!`
 ` Is that you, Dad?!`
 ` I'm so glad you're okay......!!`
@@ -387,10 +387,10 @@
 ` .........I'm sorry for......asking."`
 `Jessica's voice was filled with tears...`
 ` ......There was no doubt for Krauss anymore.`
-`{n}Jessica and the others had been told everything, start to finish, by Gohda and Kumasawa when they had met up at the guesthouse...`
+`{n}Jessica and the others had been told everything, start to finish, by Gohda and Kumasawa when they had met up at the {ruby:çeviri > konukevi:guesthouse}...`
 `After they learned that six whole people had been killed,`
-` Jessica and the others must have been in a frenzy about wanting to go to the dining hall.`
-`.........Luckily he had been able to call before they stormed off towards the mansion.`
+` Jessica and the others must have been in a frenzy about wanting to go to the {ruby:çeviri > yemek salonu:dining hall}.`
+`.........Luckily he had been able to call before they stormed off towards the {ruby:çeviri > malikane:mansion}.`
 `{n}Krauss was relieved at his good timing during such tragedy...`
 `"We have Kyrie‐san and Doctor Nanjo, as well as Shannon and Kanon here.`
 ` We're locked in a place that's like a dungeon, but don't worry.`
@@ -399,7 +399,7 @@
 ` Where?!`
 ` We'll come save you...!!"`
 `"Unfortunately, we haven't the slightest idea where this is either.`
-` We think it might be under the dining hall, but that might not be true.`
+` We think it might be under the {ruby:çeviri > yemek salonu:dining hall}, but that might not be true.`
 ` .........But anyway, Jessica.`
 ` You must not leave there.`
 ` You've heard from Gohda what happened?"`
@@ -419,7 +419,7 @@
 ` A lady doesn't use those kinds of words."`
 `"Uuuuughhu......uuuuuhughhu......!!"`
 `"Anyway, you all put your own safety first.`
-` Lock up the guesthouse.`
+` Lock up the {ruby:çeviri > konukevi:guesthouse}.`
 ` ......But you mustn't get complacent.`
 ` The large window in the downstairs lounge might get broken."`
 `"Stay in the room you're in, and use a bed to make a barricade.`
@@ -439,7 +439,7 @@
 ` each encouraging the other and confirming that they were at least safe for now, even if their location was unknown,`
 ` and coming to a complete understanding of the current situation for both sides.`
 `They wanted to talk forever, but now was not the time to chat.`
-`Krauss told them that they would be hanging up for now, and those in the guesthouse agreed.`
+`Krauss told them that they would be hanging up for now, and those in the {ruby:çeviri > konukevi:guesthouse} agreed.`
 `"If anything else happens, we'll call.`
 ` Wait by the phone so you can pick it up quickly.`
 ` Again, be careful.`
@@ -522,16 +522,16 @@
 ` .........And they're probably...`
 `yes, all armed......"`
 `Gohda had been able to say that Kinzo had others on his side,`
-` ......but he had not been able to mention that they were mostly all young women, like witches, ......and committed their murders using strange magic.`
+` ......but he had not been able to mention that they were mostly all young women, like witches, ......and committed their murders using strange {ruby:çeviri > büyü:magic}.`
 `If he had said that, it would only have caused the others to doubt his sanity.`
 `...No, in fact, he himself still couldn't understand what he had seen, and was doubting his own sanity.`
-`......But, regardless of sex or appearance, ......regardless of whether it was done with magic or a gun.`
+`......But, regardless of sex or appearance, ......regardless of whether it was done with {ruby:çeviri > büyü:magic} or a gun.`
 `The fact that those girls had followed Kinzo's orders,`
 ` and killed six people in an instant...was an unshakable truth......`
-`If those people came to attack the guesthouse as well, ......what would happen?`
+`If those people came to attack the {ruby:çeviri > konukevi:guesthouse} as well, ......what would happen?`
 `Just closing the doors and windows like this was surely meaningless......`
 `Gohda, ......as well as Kumasawa.`
-`The only thing left for those two, who had witnessed that massacre in the dining hall,`
+`The only thing left for those two, who had witnessed that massacre in the {ruby:çeviri > yemek salonu:dining hall},`
 ` was to cradle their heads, not even knowing how to interpret what they had seen...`
 `".........Kumasawa‐san, are you okay......?`
 ` Want some tea......?"`
@@ -560,23 +560,23 @@
 ` ......Well, yeah...`
 ` ......If the head gets smashed,`
 ` ......there's normally no need for treatment, is there......"`
-`When Gohda had come flying into the guesthouse, overcome with agitation,`
-` he had told about the massacre in the dining hall without concealing anything.`
-`......Except for the part about the witches and magic, which they themselves still could not believe.`
+`When Gohda had come flying into the {ruby:çeviri > konukevi:guesthouse}, overcome with agitation,`
+` he had told about the massacre in the {ruby:çeviri > yemek salonu:dining hall} without concealing anything.`
+`......Except for the part about the witches and {ruby:çeviri > büyü:magic}, which they themselves still could not believe.`
 `In other words, they hadn't even sugarcoated the cold‐blooded way in which Natsuhi and the others had died.`
 `......It was too late now, but Kumasawa regretted having obviously said too much......`
 `However, while lightly shaking her head and with a slightly painful laugh, Jessica spoke.`
 `"......No, if anything, I was able to stay level‐headed thanks to what you told us."`
 `".........If you'd avoided mentioning the part about her head being smashed,`
 ` ...maybe I'd have said that she could still be alive,`
-` then ran off towards the mansion, straight into Grandfather, ......and I might have been killed."`
+` then ran off towards the {ruby:çeviri > malikane:mansion}, straight into Grandfather, ......and I might have been killed."`
 `"......There's a chance that sliver of hope would've been fatal.`
 ` .........With that in mind, I'm grateful."`
 `"......I am deeply sorry.....`
 ` I apologize for not choosing my words carefully..."`
 `"Don't worry about it now.`
 ` There's nothing we can do about Mom now......but Dad's still alive.`
-` Kanon‐kun and Shannon, and Auntie Kyrie and Doctor Nanjo too."`
+` Kanon‐kun and Shannon, and {ruby:çeviri > Hala:Auntie} Kyrie and Doctor Nanjo too."`
 `"......I want to save them somehow, so we shouldn't do anything unnecessary that might be a burden to them.`
 ` ......The most helpful thing we can do right now might be to wait by the phone."`
 `There could be a phone call asking them to create a diversion to facilitate their escape.`
@@ -652,7 +652,7 @@
 ` .........But, if we can pinpoint where this is and contact Gohda‐san, we might be able to get him to come and save us."`
 `"I see...`
 ` But that would mean forcing danger on Gohda‐san......`
-` And I would also be worried for the children in the guesthouse, without a full‐grown adult male..."`
+` And I would also be worried for the children in the {ruby:çeviri > konukevi:guesthouse}, without a full‐grown adult male..."`
 `"If you're risk‐averse, biding your time until the situation improves again is not a bad idea.`
 ` ......However, if you don't know when to cut your losses, what you have might become worthless scraps of paper.`
 ` ......And what we have is our lives."`
@@ -663,8 +663,8 @@
 `"At this point, pride is already worth less than nothing.`
 ` .........Why don't we put our heads together?`
 ` Where is this?`
-` Is it really underneath the dining hall?`
-` Or else, is it a different place, separate from the mansion...?"`
+` Is it really underneath the {ruby:çeviri > yemek salonu:dining hall}?`
+` Or else, is it a different place, separate from the {ruby:çeviri > malikane:mansion}...?"`
 `Krauss, Kyrie, and Nanjo began to discuss their plans.`
 `Kanon was squatting by the bars, silently trying to sense anyone's presence.`
 ` ......Just as he had been ordered.`
@@ -688,7 +688,7 @@
 `"I do.`
 ` .........Whatever happens or changes, it's all for that witch's fickle entertainment.`
 ` The result will be no different."`
-`"I wonder if this time we'll be able to.........go to the Golden Land."`
+`"I wonder if this time we'll be able to.........go to the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"Who knows.`
 ` We have a high rate of losing."`
 `"............Come to think of it, it's a rare thing that both of us survived the first twilight, isn't it?`
@@ -696,7 +696,7 @@
 `"Maybe.`
 ` ......But that's still just for the witch's entertainment.`
 ` I'm not thinking of it as anything other than her letting us live just a little longer to ridicule us, since we usually drop out right in the beginning."`
-`"I wonder if........we'll be unable to reach the Golden Land again."`
+`"I wonder if........we'll be unable to reach the {ruby:çeviri > Altın Diyar:Golden Land} again."`
 `"I'm sure we won't.`
 ` ......If we hold onto any foolish hope, we'll get taken advantage of again."`
 `"*giggle*.`
@@ -705,27 +705,27 @@
 `"......I'm an idiot."`
 `Kanon made a sour look, and turned his head.`
 `Shannon laughed softly, and apologetically leaned towards his shoulder.`
-`"But......it's nice to hear that Milady is safe, isn't it?"`
+`"But......it's nice to hear that {ruby:çeviri > Leydim:Milady} is safe, isn't it?"`
 `"......She's escaped the first twilight, that's all.`
 ` ......She might just be being made to wait for an even crueler death in a later twilight."`
 `"What about you, Nee‐san?`
 ` ......Aren't you glad George‐sama's safe?`
-` It'd be nice if you two could reach the Golden Land together."`
+` It'd be nice if you two could reach the {ruby:çeviri > Altın Diyar:Golden Land} together."`
 `".........Thanks.`
-` I wish the same for you and Milady as well."`
+` I wish the same for you and {ruby:çeviri > Leydim:Milady} as well."`
 `"I, I don't have my hopes up.`
 ` .........It's just as you say.`
 ` All that witch is doing is having fun dangling prizes in front of people, and watching them flounder."`
-`".........I'm sure no one will be able to go to the Golden Land.`
-` ......If I was foolish enough to wish to reach the Golden Land with Milady,`
+`".........I'm sure no one will be able to go to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` ......If I was foolish enough to wish to reach the {ruby:çeviri > Altın Diyar:Golden Land} with {ruby:çeviri > Leydim:Milady},`
 ` .........that witch would find that very fun to toy with, and would certainly never let us reach there."`
 `"......You're right.`
 ` .........{f:5:Beatrice}‐sama is thinking about which order of sacrifices will be the most interesting."`
 `"The whole thing about them being chosen at random is just a blatant lie.`
 ` That swindling witch...`
-` ......All that about having any wish you want granted in the Golden Land is probably just a lie."`
+` ......All that about having any wish you want granted in the {ruby:çeviri > Altın Diyar:Golden Land} is probably just a lie."`
 `"..................That's not true.`
-` The Golden Land is......a wonderful place."`
+` The {ruby:çeviri > Altın Diyar:Golden Land} is......a wonderful place."`
 `"Have you been there?"`
 `".........Only for a little bit.`
 ` Though, even that was probably just {f:5:Beatrice}‐sama's joke."`
@@ -750,7 +750,7 @@
 `"It's a lot like when you can't remember a dream you were just having.`
 ` ......But I still remember that it was a very calm and quiet world."`
 `".........That's it?`
-` Wow, that Golden Land she's always bragging about isn't much special at all.`
+` Wow, that {ruby:çeviri > Altın Diyar:Golden Land} she's always bragging about isn't much special at all.`
 ` ......I thought it was a place where all your wishes come true."`
 `"It is.`
 ` It's a place where all your wishes will be granted.`
@@ -758,7 +758,7 @@
 ` It might be better to say it's a place where you don't have to wish for anything."`
 `"......For example, if you were cold, Kanon‐kun, and wished you had a jacket, you'd be happy to be given one,`
 ` but if you were in a warm room to begin with, there wouldn't even be a reason to want a jacket, right?"`
-`"......That's what the Golden Land is like.`
+`"......That's what the {ruby:çeviri > Altın Diyar:Golden Land} is like.`
 ` There's no need to even wish for most wishes.`
 ` It's a world released from everything, where everything is calm."`
 `"You could even say it's a place that transcends the concept that having your wishes granted will bring happiness...a world released from everything."`
@@ -766,19 +766,19 @@
 ` ......It sounds kind of religious."`
 `"And there, everything is equal.`
 ` All things with minds are equal.`
-` ......There are no {y:0:Human}{n:0:human}s, nor furniture, nor witches.`
+` ......There are no {y:0:Human}{n:0:human}s, nor {ruby:çeviri > mobilya:furniture}, nor witches.`
 ` ......There, I was equal to everyone.`
-` There was no longer any need to feel ashamed of myself because I was furniture."`
+` There was no longer any need to feel ashamed of myself because I was {ruby:çeviri > mobilya:furniture}."`
 `".........It was honestly a happy world where I was equal to all {y:0:Human}{n:0:human}s, and even witches.`
 ` I can't really remember it well,`
 ` but I have the feeling that when I was there, I was equal even to {f:5:Beatrice}‐sama, and we were good friends."`
 `"............If that witch is there, then it's not a much of a paradise."`
-`".........So, you want to go to that blissful Golden Land with George‐sama.`
+`".........So, you want to go to that blissful {ruby:çeviri > Altın Diyar:Golden Land} with George‐sama.`
 ` That's strange.`
-` The Golden Land is a utopia where you want for nothing, right?`
+` The {ruby:çeviri > Altın Diyar:Golden Land} is a utopia where you want for nothing, right?`
 ` Wouldn't you be content even if George‐sama wasn't there?"`
 `".....................`
-` ...The Golden Land is very calm, peaceful, and everything is fair and equal.`
+` ...The {ruby:çeviri > Altın Diyar:Golden Land} is very calm, peaceful, and everything is fair and equal.`
 ` ......But actually, happiness alone is left out."`
 `"It isn't a happy world?"`
 `"Of course, just by being peaceful, calm, and fair, it's an incredibly happy world.`
@@ -792,11 +792,11 @@
 `"......So,`
 ` to you, the greatest happiness would be reaching that world together with George‐sama."`
 `"Yes.`
-` And I'm sure that for you, it would be reaching that world together with Milady."`
+` And I'm sure that for you, it would be reaching that world together with {ruby:çeviri > Leydim:Milady}."`
 `"The two will be released from their worries in a fair world...?`
 ` .........It feels like I'm being indoctrinated into some kind of strange religion.`
 ` I imagined something more...worldly.`
-` A world where we would be given magic medicine, and that would make us be born again as {y:0:Human}{n:0:human}s, or something more like that."`
+` A world where we would be given {ruby:çeviri > büyü:magic} medicine, and that would make us be born again as {y:0:Human}{n:0:human}s, or something more like that."`
 `".........If you go, you'll understand.`
 ` If {f:5:Beatrice}‐sama really is a fickle person, then surely some day, she'll let you get a glimpse of it too.`
 ` ......Then you'll be able to understand my example."`
@@ -810,7 +810,7 @@
 `".........We just need to be simple chess pieces.`
 ` ......No matter what we think or don't think, we can't escape from the witch's chessboard.`
 ` Our role is now just to wait and see how we'll be tortured to death.`
-` ......For us, the dream of the Golden Land is too unavailing."`
+` ......For us, the dream of the {ruby:çeviri > Altın Diyar:Golden Land} is too unavailing."`
 `"..................You're...right.`
 ` ......Sorry......"`
 `Kanon shrugged his shoulders, then told Shannon to leave him alone because she was interfering with his duty, distancing himself from her.`
@@ -834,18 +834,18 @@
 ` ...I will try to find out where this place is somehow."`
 `"We're counting on you.`
 ` ..........................."`
-`During the last phone call, Kyrie had asked what the time over at the guesthouse was.`
+`During the last phone call, Kyrie had asked what the time over at the {ruby:çeviri > konukevi:guesthouse} was.`
 `......It had been the same as her watch, and by this she had learned that their watches hadn't been set back.`
-`It wasn't just the clocks on the walls in the guesthouse.`
+`It wasn't just the clocks on the walls in the {ruby:çeviri > konukevi:guesthouse}.`
 `{n}Several people's watches, including George's and Gohda's, had matched.`
 `......If that was the case,`
-` then after the massacre in the dining hall, they had been transported to the dungeon in only a few minutes.`
+` then after the massacre in the {ruby:çeviri > yemek salonu:dining hall}, they had been transported to the dungeon in only a few minutes.`
 `Not enough time had passed for them to be knocked out and carried away.`
-`Then were those really pitfalls, meaning that this was the area directly under the dining hall......?`
+`Then were those really pitfalls, meaning that this was the area directly under the {ruby:çeviri > yemek salonu:dining hall}......?`
 `All they could do was pray that Nanjo could find out where this was...`
 `"......They're coming.`
 ` There's probably...four people.`
-` ......The Master, and three of those who appeared in the dining hall."`
+` ......The Master, and three of those who appeared in the {ruby:çeviri > yemek salonu:dining hall}."`
 `"OK, good.`
 ` You come back here as well now.`
 ` We'll deal with the rest."`
@@ -886,8 +886,8 @@
 ` ......Not only is the distance too great, that's physically impossible......"`
 `"For a {y:0:Human}{n:0:human}, right?`
 ` *giggle*."`
-`"Father... Is this the mansion?`
-` To think that the mansion had an underground area like this......"`
+`"Father... Is this the {ruby:çeviri > malikane:mansion}?`
+` To think that the {ruby:çeviri > malikane:mansion} had an underground area like this......"`
 `"Kraussss.`
 ` Wasn't there a place whose existence you all whispered of, and which you followed after me on numerous occasions trying to find?`
 ` .........This is that place.`
@@ -898,17 +898,17 @@
 `"......It is as you surmise.`
 ` This is the basement of Kuwadorian."`
 `"Kuwadorian......`
-` ......You don't mean...Father's rumored hidden mansion......?`
+` ......You don't mean...Father's rumored hidden {ruby:çeviri > malikane:mansion}......?`
 ` It really exists......?"`
-`"This mansion was constructed for the sole use of my beloved witch, {f:5:Beatrice}.`
-` It is truly a shame that I cannot show you around the above‐ground section, as it is such a beautiful and elegant mansion."`
-`".........How lovely, just the two of you alone in a mansion with this kind of room.`
+`"This {ruby:çeviri > malikane:mansion} was constructed for the sole use of my beloved witch, {f:5:Beatrice}.`
+` It is truly a shame that I cannot show you around the above‐ground section, as it is such a beautiful and elegant {ruby:çeviri > malikane:mansion}."`
+`".........How lovely, just the two of you alone in a {ruby:çeviri > malikane:mansion} with this kind of room.`
 ` It seems that you and I are differently inclined."`
 `"......Kyrie‐san.`
 ` ......It would be wise to refrain from such rude comments."`
 `"*giggle*.`
 ` But I agree.`
-` ......If a mansion I was given had this kind of dungeon in it,`
+` ......If a {ruby:çeviri > malikane:mansion} I was given had this kind of dungeon in it,`
 ` even a hundred‐year love would turn cold, and I'd take anything of value and run for the hills."`
 `"Pu ku ku.`
 ` Oh? You have no interest in this sort of thing?`
@@ -948,7 +948,7 @@
 `"Y‐yes......`
 ` ......If that corridor is the underground passage beneath Kuwadorian,`
 ` .........then if we go straight there, it will become a long tunnel,`
-` ......and if we stay on that, we should be able to return to the mansion."`
+` ......and if we stay on that, we should be able to return to the {ruby:çeviri > malikane:mansion}."`
 `"......Then if we could just do something about these bars, we could go home."`
 `"Father...`
 ` What are you planning to do with us?"`
@@ -1010,7 +1010,7 @@
 `"........................"`
 `Shannon quickly withdrew, and the telephone was revealed...`
 `"Krauss.`
-` Call the grandchildren in the guesthouse.`
+` Call the grandchildren in the {ruby:çeviri > konukevi:guesthouse}.`
 ` And tell them of the test—of the start of my trial."`
 `With a gesture that seemed to be saying "go ahead", Ronove urged Krauss to pick up the receiver.`
 `"...............And if I say no?"`

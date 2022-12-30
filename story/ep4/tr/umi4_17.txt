@@ -8,7 +8,7 @@
 `"Yeah, that's perfect!!`
 ` I'll take {f:5:Beatrice} too and kill them both!!"`
 `"............We survived the ritual.`
-` So we'll receive an invitation to the Golden Land from {f:5:Beatrice}, you see......?"`
+` So we'll receive an invitation to the {ruby:çeviri > Altın Diyar:Golden Land} from {f:5:Beatrice}, you see......?"`
 `"All wishes are granted there.`
 ` If you're suffering because your family was killed, then you just have to bring them back to life.`
 ` ......That's what I plan to do.`
@@ -19,7 +19,7 @@
 ` Kihhihi{0}hi{0}hihihi...!"`
 `"......There's something wrong with you.`
 ` ......How can you sit there saying such incomprehensible crap in a situation like this...?!"`
-`"............Didn't Auntie Kyrie just tell you, Battler...?`
+`"............Didn't {ruby:çeviri > Hala:Auntie} Kyrie just tell you, Battler...?`
 ` ......Didn't she tell you...`
 `to believe...`
 `...in the witch?"`
@@ -42,14 +42,14 @@
 ` Hello.`
 ` ......Uu?`
 ` Uu!!!"`
-`Of course, the sound of the phone also reached Battler's ears as he was about to dash out of the guesthouse.`
+`Of course, the sound of the phone also reached Battler's ears as he was about to dash out of the {ruby:çeviri > konukevi:guesthouse}.`
 `With a violent forcefulness, he turned around and dashed into the cousins' room...`
 `"M‐Maria......!`
 ` The phone call, ......who's it from...?!"`
 `With a terrifying look on his face, Battler yelled at Maria, who was on the phone.`
 `You couldn't blame him......`
 ` Right now, the only humans left alive on the island were himself, Maria, Gohda, and Kumasawa.`
-`But there was no way those two could call when they were locked up in the gardening storehouse.`
+`But there was no way those two could call when they were locked up in the gardening {ruby:çeviri > ambar:storehouse}.`
 `......Which meant.........there was only one person.`
 `{n}It had to be Kinzo.`
 `As she happily chatted with the person on the other end of the phone, Maria slowly turned to face Battler.`
@@ -99,7 +99,7 @@
 `"No I won't.`
 ` The ritual's already over.`
 ` ...And even if I am, I'll be revived.`
-` ......Whether one of us becomes the head or not, we're already invited to the Golden Land.`
+` ......Whether one of us becomes the head or not, we're already invited to the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` See you."`
 `"Wait!!`
 ` Maria...!!!"`
@@ -219,14 +219,14 @@
 `"So there you have it, Battlerr!`
 ` I, the Golden Witch {f:5:Beatrice}, will be running your test myself!`
 ` As for the place...let me see.`
-` At the front entrance to this mansion!"`
+` At the front entrance to this {ruby:çeviri > malikane:mansion}!"`
 `"Battlerr, this headship test, you've seriously gotta full‐ass this one, okaay?`
 ` ......I mean, Kinzo's practically dead on his feet.`
 ` If you become the next head, you'll be the new owner of everything on this island."`
 `"......I wouldn't mind letting you have me all to yourself, you know......?`
 ` Just like Kinzo did, ......control me, okay......?`
 ` Kuhhihi{0}hi{0}hi{0}hi{0}hi{0}hihi, uhhya{0}hha{0}hha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
-`"Th‐the front entrance of the mansion......`
+`"Th‐the front entrance of the {ruby:çeviri > malikane:mansion}......`
 ` Perfect...!!`
 ` Listen to me, you stinking drunk!!`
 ` I'll sober you up.`
@@ -242,11 +242,11 @@
 `Going alone would be too reckless...`
 `"Gohda‐san, Kumasawa‐san...!`
 ` It's me, it's Battler...!"`
-`I headed for the gardening storehouse first.`
+`I headed for the gardening {ruby:çeviri > ambar:storehouse} first.`
 `{n}I need all the help I can get.`
 `Gohda‐san's a burly man, so I can probably count on him to add some extra brawn.`
-`{n}Kumasawa‐san's knowledge and familiarity with the area as a senior servant might prove to be a huge weapon.`
-`Both of them have master keys, and they know more about the mansion than I do.`
+`{n}Kumasawa‐san's knowledge and familiarity with the area as a senior {ruby:çeviri > hizmetkar:servant} might prove to be a huge weapon.`
+`Both of them have master keys, and they know more about the {ruby:çeviri > malikane:mansion} than I do.`
 ` ......They're pretty reliable allies.`
 `As I banged on the shutter and called out for them to open it, I remembered that there was nothing they could do from the inside.`
 `I would have to get the key back from them and open the shutter myself.`
@@ -271,7 +271,7 @@
 ` ......Why........."`
 `The shutter is still closed.`
 `......And there's only a single key, which I'm sure Gohda‐san took possession of.`
-`So how did the culprit......open the shutter and kill the two of them inside......?`
+`So how did the {ruby:çeviri > suçlu:culprit}......open the shutter and kill the two of them inside......?`
 `No wait, they weren't necessarily killed...`
 `{n}If this is a suicide......`
 `......That way, this locked room makes sense, but I don't know why the two of them would hang themselves...!!`
@@ -293,11 +293,11 @@
 ` Damn iiiiiiiiiiiiitt........."`
 `I got the crying out of the way while I could...`
 ` So that all my weak emotions would be squeezed out with my tears...`
-`Then, ......I straightened up, and gazed into the darkness in the direction of the mansion.`
-`.........At the entrance to the mansion, the witch is waiting.`
+`Then, ......I straightened up, and gazed into the darkness in the direction of the {ruby:çeviri > malikane:mansion}.`
+`.........At the entrance to the {ruby:çeviri > malikane:mansion}, the witch is waiting.`
 `I'll go, ......and settle this.`
 `I'll find the source of this weird, blood‐soaked night, ......and crush her with my own hands...!`
-`Amidst the pouring rain, ......I walked through the rose garden without an umbrella, letting myself get soaked.`
+`Amidst the pouring rain, ......I walked through the {ruby:çeviri > gül bahçesi:rose garden} without an umbrella, letting myself get soaked.`
 `......I could see the arbor in the distance.`
 `According to Jessica, it seemed that George‐aniki had also been killed...`
 `Well, by this point, there's no need to worry about the lives of any hostages.`
@@ -332,8 +332,8 @@
 ` .........it's alright if I kill all of you like it's a game as well, right......?"`
 `"............Just you wait......`
 ` ......{f:5:Beatrice}........."`
-`The lightning caused the mansion's vast shadow to emerge.`
-`......Finally, ......the mansion.`
+`The lightning caused the {ruby:çeviri > malikane:mansion}'s vast shadow to emerge.`
+`......Finally, ......the {ruby:çeviri > malikane:mansion}.`
 `As the massive shape came into view, there was no silhouette of any person.`
 `{n}It seemed that there weren't any underlings waiting for me in a pack, or anything like that.`
 `.........According to Kyrie‐san, there were a large number of attendants with goat heads.`
@@ -363,19 +363,19 @@
 `......And there.........was a woman I had never seen before.`
 `{n}No, it's not true that I've never seen her before.`
 `{n}......I saw her once today.`
-`Yes, in the portrait inside the mansion......`
-`The clothes were different, ......but that face was just like the witch of the portrait......`
+`Yes, in the {ruby:çeviri > portre:portrait} inside the {ruby:çeviri > malikane:mansion}......`
+`The clothes were different, ......but that face was just like the witch of the {ruby:çeviri > portre:portrait}......`
 `Aaah, who am I kidding... I already know who this person is...!!`
 `"......S‐......so you are {f:5:Beatrice}!!!"`
 `"Yooohooooooooo, Battleeeeeeeeeeeeer...!!"`
 `Leaning over the second floor balcony, ......and waving cheerily from under her umbrella,`
-` ......was, without a doubt, ......the witch of the portrait, ...{f:5:Beatrice}.........!!`
+` ......was, without a doubt, ......the witch of the {ruby:çeviri > portre:portrait}, ...{f:5:Beatrice}.........!!`
 `Was the plan for the boss to watch on from above as her goat underlings torture me to death...?!`
 `I adjusted my grip on the spear,`
 ` and, imagining goats creeping out of the surrounding shadows and the entrance and surrounding me, I raised my guard in all directions...`
 `"Ahhaha, be at ease, there's no one here but you and me, see?`
-` There is no goat furniture, there are no demon butlers; Master is not here, nor my close demon friend."`
-`"And there are none of the gold butterflies that help compose my physical form, there are no magic circles, and no summoners in attendance!!`
+` There is no goat {ruby:çeviri > mobilya:furniture}, there are no demon {ruby:çeviri > uşaklar:butlers}; Master is not here, nor my close demon friend."`
+`"And there are none of the gold butterflies that help compose my physical form, there are no {ruby:çeviri > büyü:magic} circles, and no summoners in attendance!!`
 ` ......Do you know what this means?"`
 `"Not a clue.`
 ` Quit babbling..."`
@@ -404,7 +404,7 @@
 ` *cackle*cackle*, I am well aware......!!"`
 `"For that very reason, I have at last descended thus upon the squares of white!!`
 ` Worry not, I'll call plenty of gold butterflies, goats, demons, and witches later on!`
-` If you wish, I will invite you to my Golden Land!!"`
+` If you wish, I will invite you to my {ruby:çeviri > Altın Diyar:Golden Land}!!"`
 `"There, I will grant you any wish that you desire...!!`
 ` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
 `"......It's starting to look like someone knocked an ink bottle over the chessboard of this island."`
@@ -417,7 +417,7 @@
 ` ......but there's still a white square left."`
 `"Hoh, and where...?!!"`
 `"Right under my feet.`
-` .........Your magic ink may try to cover the entire island, but it can't cover the ground my feet are standing on.`
+` .........Your {ruby:çeviri > büyü:magic} ink may try to cover the entire island, but it can't cover the ground my feet are standing on.`
 ` ...Even if this island seems to be stained pitch‐black at a glance, I am me.`
 ` I am here, with my feet firmly planted on a white square!!"`
 `It's strange...`
@@ -428,7 +428,7 @@
 `When you can see them, and they have a face you can plant your fist into, there's nothing scary about it...!!`
 `......However, she is definitely not a funny or a friendly person.`
 `......She can kill me instantly while rolling around giggling, just by snapping a finger.`
-`Whether we interpret the result of her snapping her fingers as magic flying at me or underlings showing up to shoot me, it doesn't matter.`
+`Whether we interpret the result of her snapping her fingers as {ruby:çeviri > büyü:magic} flying at me or underlings showing up to shoot me, it doesn't matter.`
 `......In any case, whether this is fantasy or mystery,`
 ` that queen is in a position where she can kill me just by snapping her fingers......!`
 `...I see, ......so this is the meaning...`
@@ -457,7 +457,7 @@
 `"......Tch.`
 ` Looks like you prepare for everything.`
 ` ......Where's the key?!"`
-`Gohda‐san and Kumasawa‐san probably have master keys, but they're in the locked room of the gardening storehouse.`
+`Gohda‐san and Kumasawa‐san probably have master keys, but they're in the locked room of the gardening {ruby:çeviri > ambar:storehouse}.`
 `......I can only give up for now...!`
 `"Damn......`
 ` ......Guess she's no fool herself."`
@@ -465,7 +465,7 @@
 ` Alright, if you pass your test with flying colors, why don't I grant you an audience?`
 ` If you pass, then you will be the successor, and my new master after Kinzo."`
 `"......My body and soul will be yours to do with as you will.`
-` Because I am ultimately the Ushiromiya family's furniture!`
+` Because I am ultimately the Ushiromiya family's {ruby:çeviri > mobilya:furniture}!`
 ` Ah‐hah‐hah‐hah‐hah‐hah!!"`
 `"............Well,`
 ` it looks like you want to make me take this test no matter what.`
@@ -542,7 +542,7 @@
 ` I will question you to see whether you are qualified to be the next Ushiromiya family head.`
 ` Answer with care."`
 `The witch, who had been joking around like she was drunk until a second ago, suddenly regained her gravitas.`
-`......She looked as though she truly had stepped out of that imposing portrait...`
+`......She looked as though she truly had stepped out of that imposing {ruby:çeviri > portre:portrait}...`
 `".........I am the Ushiromiya family alchemist, the Golden Witch and the Endless Witch, {f:5:Beatrice}."`
 `"......Do you have the qualifications to inherit the Ushiromiya family headship and all of my gold—`
 `that is what I will test.`
@@ -679,7 +679,7 @@
 ` I have no interest in the home affairs of your immediate family.`
 ` Where are we?`
 ` Rokkenjima.`
-` The main residence of the Ushiromiya head family.`
+` The main residence of the Ushiromiya {ruby:çeviri > baş aile:head family}.`
 ` ......Isn't there a sin you should remember, fitting for this place......?"`
 `"............Are you......saying that I have...another sin......?"`
 `"......Remember, Ushiromiya Battler.`
@@ -774,12 +774,12 @@
 ` You're saying that if I hadn't come back, no one would've had to die?!"`
 `"Say it in red!!`
 ` Can you say in red that if I hadn't come back, this screwed‐up murder case wouldn't have occurred?!`
-` ......There's no way you can, because you're the culprit behind everything!!"`
+` ......There's no way you can, because you're the {ruby:çeviri > suçlu:culprit} behind everything!!"`
 `"Repetition requested!!`
 ` "If Ushiromiya Battler hadn't returned to Rokkenjima, the crime wouldn't have occurred".`
 ` Go on, say it if you think you can...!!"`
 `"......Can't do it, can you?`
-` There's no way in hell you can, the culprit is you, not me!!`
+` There's no way in hell you can, the {ruby:çeviri > suçlu:culprit} is you, not me!!`
 ` Don't you dare try to push the blame for this onto meeeeeeee!!!"`
 `"......................................."`
 `"......Answer, in red!!`
@@ -889,7 +889,7 @@
 `However, the eyes of the demons watching over it were indifferent......`
 `When Kinzo finally stopped moving, the fire disappeared, leaving a pitch‐black corpse.`
 `The inside of the room was commanded by the stillness of the sound of the rain......`
-`"......What has happened, Milady?"`
+`"......What has happened, {ruby:çeviri > Leydim:Milady}?"`
 `"It has lost its thrill.`
 ` .........Clean up those bothersome cinders."`
 `{f:5:Beatrice}'s expression......was unbelievably apathetic.`
@@ -948,7 +948,7 @@
 ` My apologies."`
 `"............Even though you were having such a good time drinking with that damn old fart, you suddenly burned him up,`
 ` and your demoness friend is a glass sculpture.`
-` ......Even your demon butler and your master got a "disappear and get the hell out".`
+` ......Even your demon {ruby:çeviri > uşak:butler} and your master got a "disappear and get the hell out".`
 ` ......Just how fickle and selfish are you?"`
 `"Battler. I'm done."`
 `"With what?"`
@@ -1166,7 +1166,7 @@
 ` I shall have you repeat in red."`
 `"Y‐you're giving me a repetition request?`
 ` Heheh... Damn you, stealing my signature move.`
-` ...But can I do the red truth too?`
+` ...But can I do the {ruby:çeviri > kırmızı gerçek:red truth} too?`
 ` How...?"`
 `"............Ju‐just will it to be so and you can do it.`
 ` It's easy."`
@@ -1392,7 +1392,7 @@
 `{n}......No one was here in the first place.`
 `The silent study told of that wordlessly, and the sound of the wind and rain began to fill the room bit by bit......`
 `In a world where everything had sunk into darkness, Beato questioned herself.`
-`"......The fact is............from the very beginning, magic should only have been used within Mariage Sorcière."`
+`"......The fact is............from the very beginning, {ruby:çeviri > büyü:magic} should only have been used within Mariage Sorcière."`
 `"............Yes.`
 ` ...I thought that too,`
 ` ......when Ange happened."`
@@ -1402,8 +1402,8 @@
 `".........It was just so much fun.`
 ` ...That's why we wanted to add other people close to us into that circle.`
 ` And in that way, we wished for the witches' alliance to grow forever larger,`
-` so everyone could have fun using magic together, and all become happy."`
-`"But.........in the end, you and I were the only ones able to understand magic."`
+` so everyone could have fun using {ruby:çeviri > büyü:magic} together, and all become happy."`
+`"But.........in the end, you and I were the only ones able to understand {ruby:çeviri > büyü:magic}."`
 `"We're......the only two witches in this world, brought together by a miracle.`
 ` .........As long as I have you, Beato, I don't need anyone else anymore."`
 `"............Nor I.`
@@ -1412,7 +1412,7 @@
 ` ......it was already complete."`
 `"...............That is...so.`
 ` That is truly so......"`
-`It was a witches' alliance to make everyone happy together, with magic.`
+`It was a witches' alliance to make everyone happy together, with {ruby:çeviri > büyü:magic}.`
 `{n}......I wonder when it got this screwed up?`
 `What was I trying to do when I started this game?`
 `{n}......I can't really remember even that.`

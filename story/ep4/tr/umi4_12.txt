@@ -667,7 +667,7 @@
 ` I believe they should not be of anger or sadness or pain...!"`
 `"Yeah, you're right, I can feel it, {f:5:Beatrice}...!!`
 ` I'm having so much fun now... I'm playing with Mama, so it's tons of fun!!"`
-`"And even though I'm killing Mama over and over again, I can bring her back to life with just a single bit of magic!!`
+`"And even though I'm killing Mama over and over again, I can bring her back to life with just a single bit of {ruby:çeviri > büyü:magic}!!`
 ` I took care of my toys because I couldn't fix them if they broke...!!`
 ` But if the toys could be fixed, I'd want to break them over and over again!!`
 ` Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!`
@@ -815,7 +815,7 @@
 `"It's Kumasawa, is everyone alright?!`
 ` Aaaaaaah, what shall I do, what shall I do...!"`
 `When George opened the door, the two of them tumbled in, sopping wet.`
-`It looked like they had dashed here from the mansion without an umbrella.`
+`It looked like they had dashed here from the {ruby:çeviri > malikane:mansion} without an umbrella.`
 `"Wh‐what's gotten into you two......`
 ` What's happened......?!"`
 `"I‐it was, it was...!!`

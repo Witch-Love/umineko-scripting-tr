@@ -31,7 +31,7 @@
 `Picking up that Natsuhi was in a bad mood and didn't want to talk about this anymore,`
 ` Lion brought an end to that conversation before Will could say something rude again.`
 `"Will.`
-` This chapel is the property of our family."`
+` This {ruby:çeviri > kilise:chapel} is the property of our family."`
 `"So you're telling me to follow the family's rules?"`
 `"You'll speak in a manner appropriate for a guest of the family.`
 ` And you'll conduct all of your conversations through me.`
@@ -64,7 +64,7 @@
 ` Aunt Kyrie."`
 `"And over there is—"`
 `"Ushiromiya Rosa.`
-` ......When she was a girl, she once got lost in the forest and bumped into a woman calling herself Beatrice in a hidden mansion."`
+` ......When she was a girl, she once got lost in the forest and bumped into a woman calling herself Beatrice in a hidden {ruby:çeviri > malikane:mansion}."`
 `"......I know I shouldn't be surprised anymore,`
 ` but you really do know everything, don't you?"`
 `"So, you know about that story too?"`
@@ -115,11 +115,11 @@
 ` Kyrie and Hideyoshi tried to console her......`
 `"Rokkenjima is covered by a dense forest.`
 ` We only know about one tiny portion of it.`
-` Just the mansion, the rose garden,`
+` Just the {ruby:çeviri > malikane:mansion}, the {ruby:çeviri > gül bahçesi:rose garden},`
 ` and the little path that leads to the harbor."`
-`"Since ages ago, there've been stories about how Dad built a hidden mansion somewhere in the vast forest that no one knew about,`
+`"Since ages ago, there've been stories about how Dad built a hidden {ruby:çeviri > malikane:mansion} somewhere in the vast forest that no one knew about,`
 ` and that he had his mistress living there."`
-`"Rosa‐san probably came upon that hidden mansion by chance......"`
+`"Rosa‐san probably came upon that hidden {ruby:çeviri > malikane:mansion} by chance......"`
 `"But Aunt Rosa, why would you say you killed Beatrice...?"`
 `"If I hadn't taken her out, she never would have died...!`
 ` She was so innocent, like a chick.`
@@ -202,7 +202,7 @@
 ` .........I'm sorry.`
 ` I've tried to force myself to forget it for so long that I've nearly forgotten that part completely."`
 `"It should have been 1967."`
-`Ronove had guaranteed that with the red truth in the third game.`
+`Ronove had guaranteed that with the {ruby:çeviri > kırmızı gerçek:red truth} in the third game.`
 `"Th‐that's right......`
 ` It was probably about 1967.`
 ` I can remember what happened as clearly as a picture......`
@@ -216,27 +216,27 @@
 ` I lost control of myself and ran deep into the forest."`
 `This tale had also been told in a previous fragment.`
 `Back when Rosa was just a kid, she had gone deep into the forest,`
-` ......found a hidden mansion, and met with a mysterious woman who called herself Beatrice......`
+` ......found a hidden {ruby:çeviri > malikane:mansion}, and met with a mysterious woman who called herself Beatrice......`
 `"......But that forest is so thick it's hard just to move around in it."`
 `"I even surprised myself......`
 ` To think that I made it so far into such a dense forest.`
 ` ......I was tormented by twigs and sharp leaves over and over again."`
 `"However, that wasn't enough to bother me on that day.`
 ` ......After all, I wanted to disappear into the forest and vanish forever.`
-` ......If, by some chance, there really was a witch's mansion in the depths of the forest,`
+` ......If, by some chance, there really was a witch's {ruby:çeviri > malikane:mansion} in the depths of the forest,`
 ` ......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest."`
-`"So, you then reached the hidden mansion, Kuwadorian,`
+`"So, you then reached the hidden {ruby:çeviri > malikane:mansion}, Kuwadorian,`
 ` and met a woman who called herself Beatrice."`
 `".........Yes.`
 ` I did."`
-`"Was that Beatrice the same as the one in the portrait?"`
+`"Was that Beatrice the same as the one in the {ruby:çeviri > portre:portrait}?"`
 `"........................`
 ` ......Yes.`
 ` They were the same person."`
 `"Beautiful blue eyes.`
 ` Golden hair.`
 ` A black dress.`
-` It truly was the subject of that portrait.`
+` It truly was the subject of that {ruby:çeviri > portre:portrait}.`
 ` ......When Father first had it hung,`
 ` ......I realized that the twenty years I had spent trying to forget must have seemed just as long for Father,`
 ` if not even longer, and I was wracked by even greater guilt..."`
@@ -256,7 +256,7 @@
 ` about how old did the Beatrice you met look?"`
 `"......She looked older than I was at the time,`
 ` ......but even so, it looked as though she might just be on the cusp of adulthood.`
-` Yes, exactly the sort of age of the Beatrice in the portrait."`
+` Yes, exactly the sort of age of the Beatrice in the {ruby:çeviri > portre:portrait}."`
 `"Did she look middle‐aged or past her prime?"`
 `"If I had to call her an adult or a child, she was clearly closer to being a child.`
 ` There's no way she was middle‐aged."`
@@ -275,7 +275,7 @@
 `"................................."`
 `"I see......`
 ` In other words, there are two people called Beatrice."`
-`Kinzo secretly raised his mistress's child in a hidden mansion.`
+`Kinzo secretly raised his mistress's child in a hidden {ruby:çeviri > malikane:mansion}.`
 `That would make logical sense.`
 ` Everyone nodded, agreeing.`
 `......However, Will's expression was slightly unsatisfied, and he scratched at his head...`
@@ -304,9 +304,9 @@
 `".........I wanted to escape from that place as fast as I could.`
 ` Half‐crazed, sobbing, and out of breath, I kept on running about at random.`
 ` ......Eventually, I came across a familiar lion statue."`
-`"Oh, the one in front of the chapel?"`
+`"Oh, the one in front of the {ruby:çeviri > kilise:chapel}?"`
 `"No, the one behind it.`
-` ......Anyway, I made it back to the mansion.`
+` ......Anyway, I made it back to the {ruby:çeviri > malikane:mansion}.`
 ` I couldn't tell anyone, and I didn't want to.`
 ` I stayed quiet until nightfall.`
 ` It was so horrible of me.`
@@ -350,7 +350,7 @@
 `"That's enough.`
 ` It was a nice review."`
 `To Will, Rosa's memories gave only information that was already known.`
-`This was the first time he'd heard all that about her running back to the mansion after Beatrice fell to her death,`
+`This was the first time he'd heard all that about her running back to the {ruby:çeviri > malikane:mansion} after Beatrice fell to her death,`
 ` but none of it was particularly surprising.`
 `Apparently, Rosa really didn't know any more than this......`
 `If he wanted to learn something beyond the fragments given to him by {f:5:Bernkastel}, he would need to find new testimony.`
@@ -364,7 +364,7 @@
 ` Please take your time."`
 `After giving an elegant bow, Lion made a face, tongue sticking out.`
 `Unless Will had eyes on the back of his head, he couldn't have seen this last bit......`
-`Will returned to the chapel by himself.`
+`Will returned to the {ruby:çeviri > kilise:chapel} by himself.`
 `{n}The cold air and the monotonous sound of the rain were comforting.`
 `{a:c:`
 `"......So, how's the game?"}`
@@ -399,7 +399,7 @@
 `"......I won't torture.`
 ` It's not my style."`
 `"I know that.`
-` As the Game Master, I will grant you power.`
+` As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, I will grant you power.`
 ` So that you can get the truth from Kinzo, of course."`
 `Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,`
 ` ......and blew hard, as though scattering fluff from a dandelion.`
@@ -451,10 +451,10 @@
 `Apparently, she was a bit relieved to find that she wasn't going crazy by herself.`
 `......However, her expression quickly grew uncertain once more.`
 `"Wh‐where......is this place...?`
-` I think it's the Ushiromiya family chapel.`
+` I think it's the Ushiromiya family {ruby:çeviri > kilise:chapel}.`
 ` ......However, something feels different about it."`
 `"Also, I never knew that someone named L‐......Lion‐sama existed.`
-` ......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all the relatives all talk as though it's perfectly natural......`
+` ......And yet, Madam, Krauss‐sama, ......the Master, {ruby:çeviri > Leydim:Milady}, and all the relatives all talk as though it's perfectly natural......`
 ` I just......don't understand what's happening......"`
 `"......Lion is a piece placed by {f:5:Bernkastel}.`
 ` She also said that she'd switched to a larger cat box to place that piece.`
@@ -465,7 +465,7 @@
 `"T‐......ten years."`
 `I see.`
 ` So it really is a special stage.`
-`After all, right when I entered the chapel, I spotted Kinzo.`
+`After all, right when I entered the {ruby:çeviri > kilise:chapel}, I spotted Kinzo.`
 `If Shannon has worked here for ten years, then this is 1986, the stage of Beato's game.`
 `In that case, Kinzo shouldn't exist.`
 `{n}However, he definitely was here a few minutes ago.`
@@ -480,15 +480,15 @@
 ` .........they say that she's the master of Rokkenjima's night...`
 `...umm..."`
 `"That's right.`
-` The name of the ghost rumored to wander the mansion night after night is also {f:5:Beatrice}."`
+` The name of the ghost rumored to wander the {ruby:çeviri > malikane:mansion} night after night is also {f:5:Beatrice}."`
 `That brings the number of Beatrices to three.`
 `The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.`
 `The second is the "Beatrice" from twenty years ago, who met Rosa.`
 `The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.`
 `"......Furudo Erika's reasoning was probably correct.`
 ` It started out as the legend of the evil spirits on Rokkenjima.`
-` Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman "Beatrice",`
-` and the epitaph got mixed in, and it all fused into the legend of the Golden Witch."`
+` Later on, elements such as Kinzo's occult hobbies, the name and {ruby:çeviri > portre:portrait} of the mysterious woman "Beatrice",`
+` and the {ruby:çeviri > kitabe:epitaph} got mixed in, and it all fused into the legend of the Golden Witch."`
 `"......And so the darkness of the night gained the personality of a witch.`
 ` That's the third {f:5:Beatrice}.`
 ` This is the veil the serial killer hides behind."`

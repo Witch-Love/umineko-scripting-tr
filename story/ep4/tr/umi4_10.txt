@@ -131,7 +131,7 @@
 ` They live so that they can have a better death.`
 ` They live to die."`
 `............Wow, that's a hell of a thing to say.`
-`{n}...Yes, I should have expected that from a demon stake.`
+`{n}...Yes, I should have expected that from a {ruby:çeviri > iblis kazığı:demon stake}.`
 `However, her words might be the truth.`
 ` Humans suffer because they aren't whole, and live only to be made whole.`
 `That might be the same, in other words, as a desire to die—to die while whole.`
@@ -226,13 +226,13 @@
 ` ......I did something horrible to Maria onee‐chan.`
 ` .........And to all of you, and Sakutarou as well, on that day."`
 `"................................."`
-`"The question of whether magic exists, or not.`
+`"The question of whether {ruby:çeviri > büyü:magic} exists, or not.`
 ` ......That's not up to other people to decide."`
 `"It's up to you yourself.`
-` Whether magic exists to Maria onee‐chan is a problem for Maria onee‐chan to decide, and not for me."`
+` Whether {ruby:çeviri > büyü:magic} exists to Maria onee‐chan is a problem for Maria onee‐chan to decide, and not for me."`
 `"......And yet, when I was young, I said it, that day.`
-` I told her there's no way magic exists, ......and I hurt her."`
-`To me, magic doesn't exist—but that's {i:my} world.`
+` I told her there's no way {ruby:çeviri > büyü:magic} exists, ......and I hurt her."`
+`To me, {ruby:çeviri > büyü:magic} doesn't exist—but that's {i:my} world.`
 `{n}Denying Onee‐chan's world as well just because of that was totally barking up the wrong tree.`
 `"Mariage Sorcière is the witches' alliance Maria onee‐chan created.`
 ` I was invited into that, and invited to become a witch with her."`
@@ -242,13 +242,13 @@
 ` And then......with sharp words, I tore her pure and innocent heart apart."`
 `"......At that time, we must have gotten into a huge fight.`
 ` I forgot about it right away, but it was unforgettable for her.`
-` ......After all, to her, magic was a natural power that emphatically existed,`
+` ......After all, to her, {ruby:çeviri > büyü:magic} was a natural power that emphatically existed,`
 ` and she believed that she'd be able to share that with me."`
 `"......Magic, to Maria onee‐chan,`
-` was a power by which she could give the world a happy interpretation, ......no, which could {i:make} everything happy—it truly was a magical power.`
+` was a power by which she could give the world a happy interpretation, ......no, which could {i:make} everything happy—it truly was a {ruby:çeviri > büyülü:magical} power.`
 ` She just wanted to share that with me too."`
 `"The young me tore those feelings apart.`
-` ......So she closed herself up in a shell, believing that no one could understand magic with her."`
+` ......So she closed herself up in a shell, believing that no one could understand {ruby:çeviri > büyü:magic} with her."`
 `".........If so, then Lady {f:5:Maria}'s life‐journey wasn't over after all.`
 ` If she had accepted herself, there would be no need for her to feel down just because you denied her."`
 `"Onee‐chan was young.`
@@ -259,7 +259,7 @@
 `"...That's right—I'm pretty sure that was the first article in the agreement of Mariage Sorcière.`
 ` ......Witches of the alliance must accept each other and respect each other.`
 ` That is the deepest and the only meaning of the witches' alliance......"`
-`Maria onee‐chan wanted to share with me the secret laws for making the world happy, called magic.`
+`Maria onee‐chan wanted to share with me the secret laws for making the world happy, called {ruby:çeviri > büyü:magic}.`
 `But I was young.`
 ` And she was too.`
 `......I hurt her with innocent cruelty.`
@@ -270,18 +270,18 @@
 ` We accept that we exist ourselves.`
 ` We're not like {y:0:Human}{n:0:human}s, with their souls half‐asleep.`
 ` ......‘I think, therefore I am’."`
-`"Whether you accept or deny magic, the existence of the magic called the Seven Stakes of Purgatory...is therefore a fact.`
+`"Whether you accept or deny {ruby:çeviri > büyü:magic}, the existence of the {ruby:çeviri > büyü:magic} called the {ruby:çeviri > Araf'ın Yedi Kazığı:Seven Stakes of Purgatory}...is therefore a fact.`
 ` ......As long as we accept ourselves, to borrow your words."`
 `"It truly would be violence for another person like me to deny that.`
 ` .........I'm sure that would be like having your true mother yell "I wish you had never been born",`
 ` no, "get out of my life"."`
 `......Even after being slammed by all those words,`
-` ......Maria onee‐chan's magic...`
+` ......Maria onee‐chan's {ruby:çeviri > büyü:magic}...`
 `......made her believe in her mother's love.`
-`Sakutarou, her magic friend, always encouraged her.`
+`Sakutarou, her {ruby:çeviri > büyü:magic} friend, always encouraged her.`
 `......He kept saying that her mother loved her, that she was coming home late because of her work,`
 ` and that she would definitely bring back a present.`
-`Even after Maria learned the fact that it really wasn't because of work, magic still kept her believing that.`
+`Even after Maria learned the fact that it really wasn't because of work, {ruby:çeviri > büyü:magic} still kept her believing that.`
 `So by believing that her mother loved her, by accepting herself,`
 ` she filled her world with love and peace and serenity, ......and established it perfectly.`
 `"What happened twelve years ago, ...what happened to my family.`
@@ -297,12 +297,12 @@
 ` I don't have a clue how hurting Onee‐chan would be connected to that mysterious incident several years later.`
 `But for some reason, I can't imagine that there is no connection.`
 `A witch caused that incident.`
-`And the culprit is the Golden Witch, {f:5:Beatrice}.`
+`And the {ruby:çeviri > suçlu:culprit} is the Golden Witch, {f:5:Beatrice}.`
 `And {f:5:Beatrice} was part of the Mariage Sorcière Alliance of Witches.`
 `I had horribly hurt the other witch of that alliance.`
-`I had hurt her by saying that magic doesn't exist.`
+`I had hurt her by saying that {ruby:çeviri > büyü:magic} doesn't exist.`
 `.........And that's why, several years later, an inexplicable crime by a witch occurred,`
-` and that two‐day period which can't be explained with anything but magic was thrust in my face via a message bottle.`
+` and that two‐day period which can't be explained with anything but {ruby:çeviri > büyü:magic} was thrust in my face via a message bottle.`
 `"......I'm sure that I'm not unrelated.`
 ` .........I don't know.`
 ` It could be chance, it could be fate.`
@@ -329,7 +329,7 @@
 ` ........................"`
 `"......Come, arise.`
 ` ......I am the witch apprentice, {f:5:Ange Beatrice}.`
-` ......Though I was excommunicated, I was once a member of the same alliance, and you are dearly missed furniture who played with me.`
+` ......Though I was excommunicated, I was once a member of the same alliance, and you are dearly missed {ruby:çeviri > mobilya:furniture} who played with me.`
 ` Answer to my call........."`
 `It was hard to tell in the middle of the day, but a faint blue light gathered around the palms of my hands.`
 `.........Then,`
@@ -381,40 +381,40 @@
 `"......Is that alright?`
 ` Ange‐sama, you are one who is challenging {f:5:Beatrice}‐sama.`
 ` ...Is it alright for one in a position of denying witches to accept us?"`
-`"About whether magic exists or not in my world, sorry, but let me put that question on hold.`
-` It's not like I myself have accepted the existence of magic."`
+`"About whether {ruby:çeviri > büyü:magic} exists or not in my world, sorry, but let me put that question on hold.`
+` It's not like I myself have accepted the existence of {ruby:çeviri > büyü:magic}."`
 `"......Yet you accept us? How do you explain that contradiction?"`
-`"Because magic exists for people who believe.`
+`"Because {ruby:çeviri > büyü:magic} exists for people who believe.`
 ` Even if I don't.`
-` If someone believes, then magic will exist in that person's world."`
-`"That will not be interfered with in any way, whether I believe in magic or not.`
+` If someone believes, then {ruby:çeviri > büyü:magic} will exist in that person's world."`
+`"That will not be interfered with in any way, whether I believe in {ruby:çeviri > büyü:magic} or not.`
 ` No, it must not be interfered with."`
-`"That person just needs to hold their head up high and believe in their own magic.`
+`"That person just needs to hold their head up high and believe in their own {ruby:çeviri > büyü:magic}.`
 ` And I will accept that.`
 ` So it isn't strange at all for you guys to exist."`
 `".........That's quite the rationalization...but, an interesting interpretation, I would say."`
-`"What you're saying, Ange‐sama, is probably a Devil's Proof."`
-`"A Devil's Proof......?"`
+`"What you're saying, Ange‐sama, is probably a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}."`
+`"A {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}......?"`
 `"After all!`
 ` To prove the existence of demons, you just need to bring one with you..."`
 `"But denying the existence of demons is impossible!"`
 `"Kyahha!`
 ` And we are here.`
-` That means that whether Ange‐sama believes in magic or not, our existence is unshakable."`
+` That means that whether Ange‐sama believes in {ruby:çeviri > büyü:magic} or not, our existence is unshakable."`
 `‘......Uryu?`
 ` The anti‐magic toxin...`
 `.........is disappearing...`
 `...from Ange......’`
 `"Y‐you're right......`
-` ......But she's in a position of denying magic......so why......?"`
+` ......But she's in a position of denying {ruby:çeviri > büyü:magic}......so why......?"`
 `"That's probably......`
 `......because I learned respect and acceptance.`
 ` Now, ......I might be able to understand...`
-`...the depths of Maria onee‐chan's magic......and {f:5:Beatrice}'s."`
-`In the past, I insisted that I didn't believe in things like magic,`
+`...the depths of Maria onee‐chan's {ruby:çeviri > büyü:magic}......and {f:5:Beatrice}'s."`
+`In the past, I insisted that I didn't believe in things like {ruby:çeviri > büyü:magic},`
 ` that something like that couldn't exist—I acted like I had my eyes tightly shut and couldn't see anything.`
 `But now I'm different.`
-` I get the feeling I can look right at the thing called magic, and close in on its true nature......`
+` I get the feeling I can look right at the thing called {ruby:çeviri > büyü:magic}, and close in on its true nature......`
 `"......How frustrating.`
 ` It's truly rare to find a {y:0:Human}{n:0:human} so free of the anti‐magic toxin in this day and age.`
 ` And she has such an uncommon genius for being a witch..."`
@@ -425,36 +425,36 @@
 ` ......Most likely, Ange‐sama will be our final master.`
 ` Let us think of this as our final service, and apply ourselves to the fullest."`
 `"......Bleghh.`
-` I just can't sta~nd that Ange‐sama still doesn't believe in magic herself."`
-`"......Ange‐samaaa, please believe in magic too~.`
+` I just can't sta~nd that Ange‐sama still doesn't believe in {ruby:çeviri > büyü:magic} herself."`
+`"......Ange‐samaaa, please believe in {ruby:çeviri > büyü:magic} too~.`
 ` Feels like a waste to finally have a master and have it not be a wi~tch."`
 `"Even though you have outstanding talent which could make you one of the greatest of witches, your goal is to slay them.`
 ` It's such a shame."`
 `"......Well, that's her life, her way of living,`
 ` and if that's the way she's decided her world is going to be, there's nothing we can achieve by complaining."`
 `"Thanks for understanding me.`
-` Yeah, whether magic exists {i:to me} or not,`
+` Yeah, whether {ruby:çeviri > büyü:magic} exists {i:to me} or not,`
 ` that's up to me to decide.`
-` Whether magic actually does exist somewhere in the world or not, you see?"`
+` Whether {ruby:çeviri > büyü:magic} actually does exist somewhere in the world or not, you see?"`
 `When I think about it, the world is so vast, ......and yet so small.`
 `Billions of people live on the Earth.`
 `{n}But I probably won't meet even one percent of those people.`
 `Even so, I will speak of the world.`
 `{n}Without knowing even one percent of the world—I will speak of "my world".`
 `"I'm not qualified to deny the laws of a world I don't know.`
-` ......So just because magic doesn't exist in my world, I can't deny that magic exists in a world I don't know."`
-`"That makes it a true Devil's Proof.`
+` ......So just because {ruby:çeviri > büyü:magic} doesn't exist in my world, I can't deny that {ruby:çeviri > büyü:magic} exists in a world I don't know."`
+`"That makes it a true {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}.`
 ` No, maybe it's more like "when in Rome, do as the Romans do"."`
 `I can be confident in the world I know.`
 ` So even if my world {i:is} denied by a complete stranger who doesn't know a thing about it, that's nothing to worry about.`
 `And in the same way, just because I don't know another world,`
 ` that doesn't make me qualified to deny it.`
 `"Which is why,`
-` regardless of whether there is magic in my world or not,`
-` ......I cannot deny the magic Maria onee‐chan taught me."`
+` regardless of whether there is {ruby:çeviri > büyü:magic} in my world or not,`
+` ......I cannot deny the {ruby:çeviri > büyü:magic} Maria onee‐chan taught me."`
 `‘Uryu!`
 ` After all, even if you've never seen it,`
-` ......magic exists!’`
+` ......{ruby:çeviri > büyü:magic} exists!’`
 `"Yes.`
 ` That's why, as I've already said,`
 ` ......your existence, as friends of the Mariage Sorcière Alliance of Witches,`
@@ -463,7 +463,7 @@
 `............Even though the sea breeze and the crashing of the waves were noisy, it was a time of silence.`
 `Both Sakutarou and the Seven Sisters of Purgatory......reflected upon my words.`
 `And, probably, I did too.`
-`Does magic exist or not—`
+`Does {ruby:çeviri > büyü:magic} exist or not—`
 `{n}Do witches exist or not—`
 `I reflected on the fact that, while ignoring what the answer was within my world, ......I had declared openly that I would accept their existence, despite it being a contradiction.`
 `‘Thank you, ......Ange.’`
@@ -473,7 +473,7 @@
 `"Sorry.`
 ` I do accept that witches might exist somewhere in this world.`
 ` But {i:my} world will not waver."`
-`"......You won't accept witches or magic.`
+`"......You won't accept witches or {ruby:çeviri > büyü:magic}.`
 ` You'll definitely expose the truth of Rokkenjima.`
 ` ......Right?"`
 `"Yes.`
@@ -482,10 +482,10 @@
 ` No matter how much that witch tries to court me."`
 `"Your position is to slay witches.`
 ` ......And I now understand well that you have not the slightest wavering in that feeling!"`
-`"We are your furniture, the Seven Sisters of Purgatory...!`
+`"We are your {ruby:çeviri > mobilya:furniture}, the Seven Sisters of Purgatory...!`
 ` We will always be by your side.`
 ` We will always be waiting for the day that we can be useful...!"`
-`"Although, since you don't believe in magic, we can never be anything more than someone to talk to."`
+`"Although, since you don't believe in {ruby:çeviri > büyü:magic}, we can never be anything more than someone to talk to."`
 `"That's enough for now.`
 ` We've been left room to exist.`
 ` For that alone, we should thank and accept Ange‐sama."`
@@ -504,7 +504,7 @@
 `As I watched over that scene, .........I reflected on the meaning of this journey of mine.`
 `".........I wonder if everyone will forgive me this way."`
 `"You've done enough.`
-` We are furniture.`
+` We are {ruby:çeviri > mobilya:furniture}.`
 ` Just being summoned,`
 ` just being allowed to be by your side makes us happy."`
 `‘Uryu...!`
@@ -527,7 +527,7 @@
 `at that time, Maria saw my stuffed animal get torn,`
 ` and she {i:decided}`
 ` that I had died.’`
-`"It's the same as the existence of magic.`
+`"It's the same as the existence of {ruby:çeviri > büyü:magic}.`
 ` ......If, in Lady {f:5:Maria}'s world, it becomes a fact that Sakutarou died,`
 ` then Sakutarou cannot exist in her world."`
 `‘............Uryu......’`
@@ -564,14 +564,14 @@
 `‘But......`
 ` ......Mama Rosa made my stuffed animal herself, so only Mama Rosa can make it......’`
 `Even inside the diary, Maria onee‐chan had asked this of {f:5:Beatrice}, and had been refused for the same reason.`
-`The magical significance of a stuffed animal being unique and handmade is very large.`
+`The {ruby:çeviri > büyülü:magical} significance of a stuffed animal being unique and handmade is very large.`
 `Then, if we could make the same thing once more......`
 `But Aunt Rosa is already gone from this world.`
 `{n}We can never make the same thing again.`
 `"......Was there ever another identical stuffed animal made, or anything like that?"`
 `"He is a stuffed animal made for Lady {f:5:Maria}'s birthday present, and is the only one in the world.`
 ` ......A handmade and unique vessel.`
-` That's why it conceals a great magical power."`
+` That's why it conceals a great {ruby:çeviri > büyülü:magical} power."`
 `"And......if lost, it will never be obtained again.`
 ` It will not revive..."`
 `‘.........Uryu.........’`
@@ -606,7 +606,7 @@
 ` ......Although maybe nothing will happen at all."`
 `‘........................’`
 `"That island, which was the beginning of everything, will be the final destination of this journey.`
-` .........As your master, I must bring all of you witch's furniture with me...`
+` .........As your master, I must bring all of you witch's {ruby:çeviri > mobilya:furniture} with me...`
 `...and {i:I must return} to the witch's island—to Rokkenjima."`
 `Even though the rays of the sun had been so strong, at some point clouds had started to hang over us.`
 `The spray hitting my cheek might not all be coming from the crashing waves.`

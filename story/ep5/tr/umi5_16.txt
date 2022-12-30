@@ -21,12 +21,12 @@
 ` I'll start compiling it together at once and present you a first‐rate tale."`
 `"*giggle*......`
 ` You mustn't leave even a single fragment of Beato's Legend of the Witch behind.`
-` The rumors among the servants, the way people talked about unexplained events as though a witch was the cause,`
+` The rumors among the {ruby:çeviri > hizmetkarlar:servants}, the way people talked about unexplained events as though a witch was the cause,`
 ` the witch illusions used alongside the illusion of Kinzo.`
 ` ......Deal with all of them completely."`
 `"Of course.`
 ` I'll get to it right away.`
-` ......We currently have the furniture in custody.`
+` ......We currently have the {ruby:çeviri > mobilya:furniture} in custody.`
 ` We're hurrying to identify their vessels."`
 `The Seven Sisters of Purgatory had already been taken into custody.`
 `Those noisy sisters who had served Beato now faced nothing but denial.`
@@ -38,7 +38,7 @@
 ` An aide has already been sent to the {f:5:location}."`
 `"The 1960's? The Seven Sisters of Purgatory are <Made in USA>?`
 ` Pfft, *giggle*giggle*giggle*......`
-` Even though they bragged about being furniture connected with King Solomon and serving a thousand year old witch, they're a total sham.`
+` Even though they bragged about being {ruby:çeviri > mobilya:furniture} connected with King Solomon and serving a thousand year old witch, they're a total sham.`
 ` So what are they...?"`
 `"According to the report, there's this group of big‐time swindlers...`
 `...who make money by selling high‐priced imitation goods to rich fans of the occult."`
@@ -94,7 +94,7 @@
 ` You've got to enjoy it slowly, one spoonful at a time."`
 `"*giggle*giggle*! Exactly.`
 ` Let's hold their executions on consecutive days.`
-` One for each witch and piece of furniture.`
+` One for each witch and piece of {ruby:çeviri > mobilya:furniture}.`
 ` I'll present you with a new execution show every day."`
 `"Wonderful.`
 ` .........After all, there really are a lot of them.`
@@ -115,7 +115,7 @@
 ` ......*giggle*. I'll come up with an idea and send you a letter soon."`
 `"Certainly, my master.`
 ` Then we'll use the {f:5:Bernkastel}‐style execution for the grand finale.`
-` ......At the very, very end, when all of the illusions have been broken and Beato's system of magic has been completely crushed,`
+` ......At the very, very end, when all of the illusions have been broken and Beato's system of {ruby:çeviri > büyü:magic} has been completely crushed,`
 ` ...I shall present you with the finest execution you desire...at the execution of {f:5:Beatrice}...!"`
 `"Thank you, Erika.`
 ` ......Thanks to you, it seems I'll be able to forget the pain of my illness for a little while......`
@@ -125,9 +125,9 @@
 ` ......and my precious daughter."`
 `"Y‐......your words are too good for me...! My master...!!"`
 `"Erika, I will give you honor and a reward.`
-` ......Beato's greatest symbol, the portrait in the reception hall.`
+` ......Beato's greatest symbol, the {ruby:çeviri > portre:portrait} in the reception hall.`
 ` Take it down, smash it to make firewood, bake a cake over that fire and eat it.`
-` Then you have my permission to put your own portrait up in the empty frame."`
+` Then you have my permission to put your own {ruby:çeviri > portre:portrait} up in the empty frame."`
 `"...Th‐......thank you very much...!`
 ` It is the greatest of honors...!"`
 `".........You will eradicate and erase {f:5:Beatrice}'s name and all traces of her.`
@@ -155,7 +155,7 @@
 ` ...You could have been so much more interesting...... Such a shame."`
 `"I think it was a wonderful way to die.`
 ` .........{f:5:Erika}!`
-` You can hang Battler's corpse in the mansion's reception hall.`
+` You can hang Battler's corpse in the {ruby:çeviri > malikane:mansion}'s reception hall.`
 ` ......The next time I come to visit this fragment, welcome me in front of it."`
 `"Certainly, my master.`
 ` I'll make that foolish man an eternal monument to your victory!"`
@@ -197,7 +197,7 @@
 ` you could escape the poison of just a single evening's worth of boredom,`
 ` even you would want to count the stars in the sky."`
 `"Ooh, not bad...pfft, *giggle*giggle*...!"`
-`The witches known as Voyagers travel across the countless glittering futures of possibility,`
+`The witches known as {ruby:çeviri > Gezginler:Voyagers} travel across the countless glittering futures of possibility,`
 ` ......and gobble them up, trying to escape their illness called boredom for as long as they can.`
 `The tiny, tiny fragment created by the {y:0:Human}{n:0:human} known as {f:5:Beatrice}...`
 `...had now been gobbled up by the two witches...`

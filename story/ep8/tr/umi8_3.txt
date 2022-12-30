@@ -22,7 +22,7 @@
 `Kinzo laughed cheerily.`
 `{n}Beato, who sat next to Battler, was also laughing merrily.`
 `Ange stood all alone by the window,`
-` ......staring at the others and trying to figure out what sort of relationship the witch of the portrait had with her grandfather.`
+` ......staring at the others and trying to figure out what sort of relationship the witch of the {ruby:çeviri > portre:portrait} had with her grandfather.`
 `There was a knock on the door.`
 `"Is that you, Genji?`
 ` Come in!"`
@@ -86,7 +86,7 @@
 `"Precisely.`
 ` I've been borrowing it for several decades, always promising to return it someday.`
 ` The debt of gratitude I owe for that favor is now far beyond my ability to repay."`
-`"The head family has never forgotten its gratitude.`
+`"The {ruby:çeviri > baş aile:head family} has never forgotten its gratitude.`
 ` Isn't that right, dear?"`
 `"Of course.`
 ` If the {f:5:Beatrice}s hadn't so generously lent it to us for three generations,`
@@ -149,7 +149,7 @@
 ` That's the spirit."`
 `"......So, you have no regrets in leaving behind ten tons of gold.`
 ` I must say, that is quite impressive.`
-` What can a witch do against an opponent who cannot be swayed by the golden magic?"`
+` What can a witch do against an opponent who cannot be swayed by the golden {ruby:çeviri > büyü:magic}?"`
 `"I will return the gold to you.`
 ` However, that will not change the fact that the Ushiromiya family will always be supremely indebted to {f:5:Beatrice}, the Golden Witch."`
 `"......................................."`
@@ -160,7 +160,7 @@
 `".........I can hardly refuse what is being returned to me.`
 ` Ah, well."`
 `Beato rose from the sofa.`
-`Then, she walked up to the window and looked down at the rose garden waving in the wind.`
+`Then, she walked up to the window and looked down at the {ruby:çeviri > gül bahçesi:rose garden} waving in the wind.`
 `"Krauss.`
 ` I have also decided to present you and the others with my inheritance while I still live."`
 `"F‐Father......"`
@@ -180,16 +180,16 @@
 `"So, this day has finally come.`
 ` .........I do feel a bit lonely."`
 `".........You do?"`
-`"My magic revived the Ushiromiya family and created Rokkenjima.`
+`"My {ruby:çeviri > büyü:magic} revived the Ushiromiya family and created Rokkenjima.`
 ` ......And now, it seems the Ushiromiya family no longer has any need for the power of my gold.`
-` It has taken flight, leaving the nest of my magic behind."`
+` It has taken flight, leaving the nest of my {ruby:çeviri > büyü:magic} behind."`
 `"Yeah.`
 ` ......That's pretty much it."`
 `"I have called Rokkenjima the witch's island—`
 `my island."`
 `".........Yeah."`
 `"And now, Rokkenjima is returning the gold to me.`
-` .........The day has come...for Rokkenjima to awaken from my magic."`
+` .........The day has come...for Rokkenjima to awaken from my {ruby:çeviri > büyü:magic}."`
 `"...........................`
 ` ......I guess it has."`
 `"I...knew that this would be the last game.`
@@ -225,7 +225,7 @@
 `"............What do you mean......cat box...?"`
 `"He means this day."`
 `"You wanted to reach this day so much.`
-` Using the miracle of magic, I've brought you here.`
+` Using the miracle of {ruby:çeviri > büyü:magic}, I've brought you here.`
 ` .........You must continue telling the story of this day, as the final witch."`
 `"Does that mean............that I mustn't remain here...?"`
 `Ange's tone was slightly tense.`
@@ -315,7 +315,7 @@
 ` Forgive me, Battler.`
 ` It seems I cannot go with you.`
 ` ......Genji.`
-` Would you mind taking these two to the guesthouse?"`
+` Would you mind taking these two to the {ruby:çeviri > konukevi:guesthouse}?"`
 `"As you wish.`
 ` ......Battler‐sama, Ange‐sama, please follow me."`
 `"Thanks.`
@@ -329,8 +329,8 @@
 ` Ihihi...!"`
 `Because Ange had gotten so bored, she had grown very sleepy.`
 `It would probably be best for her to take a quick nap.`
-`Battler walked through the windy rose garden, pulling her by the hand.`
-`When he questioned their guide, Genji, ......he learned that the old servant had known beforehand of Kinzo's desire to return the gold to Beato...`
+`Battler walked through the windy {ruby:çeviri > gül bahçesi:rose garden}, pulling her by the hand.`
+`When he questioned their guide, Genji, ......he learned that the old {ruby:çeviri > hizmetkar:servant} had known beforehand of Kinzo's desire to return the gold to Beato...`
 `and settle the inheritance problem early.`
 `"......The Master decided to start preparations early for his final task in this world, the ending of his life."`
 `"Most people don't think much about what happens after they die...`
@@ -368,7 +368,7 @@
 `"Sounds pretty depressing, having a funeral while you're still alive.`
 ` I'll admit that calling it a day of a new journey and leaving the nest fits the Ushiromiya family much better."`
 `"...............Onii‐chan, ......I'm sleepy......"`
-`"Look, we're almost to the guesthouse.`
+`"Look, we're almost to the {ruby:çeviri > konukevi:guesthouse}.`
 ` Do you want to go to Mom's room?`
 ` Or to the cousins' room?"`
 `"I don't care......`
@@ -442,7 +442,7 @@
 `As for {i:who} did the crime—the whodunit—`
 `that is already clear.`
 `Ushiromiya Eva.`
-` She's the culprit.`
+` She's the {ruby:çeviri > suçlu:culprit}.`
 `That has never changed since the beginning.`
 `Yes.`
 ` I'm not trying to find out what happened that day.`
@@ -579,7 +579,7 @@
 ` There aren't even any traces left.`
 ` ......Exposing the truth might not be a picnic."`
 `......I know what Amakusa's trying to say.`
-`The police searched the scene so thoroughly just after the crime, and even they weren't able to find any physical evidence proving that Ushiromiya Eva was the culprit.`
+`The police searched the scene so thoroughly just after the crime, and even they weren't able to find any physical evidence proving that Ushiromiya Eva was the {ruby:çeviri > suçlu:culprit}.`
 `And a full twelve years have passed since then.`
 `......If the truth could be discovered by a girl like me, waving wads of cash around to pick up a bit of info from those who were somehow related to the incident,`
 ` then someone would have exposed the truth long ago.`

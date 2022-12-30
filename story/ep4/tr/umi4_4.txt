@@ -219,16 +219,16 @@
 ` ......There was a single illusion in there."`
 `It was never guaranteed that {i:the 18 names = the 18 people on the island}.`
 `"When she named off all 18 people and announced who was alive and who was dead,`
-` she kept the name of the culprit X hidden, and instead mixed in someone who isn't on this island...!"`
-`"By doing that, even though the culprit is on the island, she was able to leave him or her out of the list of the 18 alive or dead people!`
+` she kept the name of the {ruby:çeviri > suçlu:culprit} X hidden, and instead mixed in someone who isn't on this island...!"`
+`"By doing that, even though the {ruby:çeviri > suçlu:culprit} is on the island, she was able to leave him or her out of the list of the 18 alive or dead people!`
 ` The person who was mixed in isn't on the island, so he doesn't count towards the total number of people on the island."`
-`"Therefore, even though the culprit counts towards the total of 18 people on the island, it was possible for his or her name to not be listed!`
+`"Therefore, even though the {ruby:çeviri > suçlu:culprit} counts towards the total of 18 people on the island, it was possible for his or her name to not be listed!`
 ` The two statements in red are completely independent, so this theory has no contradictions......!"`
-`"The name which is used to hide the name of the culprit has several conditions to fulfill.`
+`"The name which is used to hide the name of the {ruby:çeviri > suçlu:culprit} has several conditions to fulfill.`
 ` ......First of all, it has to be someone who isn't on the island, and yet whom we believe to be on the island.`
-` ......Otherwise, she wouldn't be able to trick us."`
+` ......Otherwise, she wouldn't be able to {ruby:çeviri > numara:trick} us."`
 `"And it would be preferable for that person to be dead.`
-` ......After all, no alibi exists that is more perfect than death.`
+` ......After all, no {ruby:çeviri > mazeret:alibi} exists that is more perfect than death.`
 ` Because the mystery at that point was based on the crime being impossible for all 18 people.`
 ` ............Something like that?"`
 `"Yeah, that's it...!`
@@ -241,7 +241,7 @@
 `That's right.`
 ` Grandfather has been closed up in his room this whole time, and no one's seen his face!`
 `Maybe he's already dead,`
-` and Uncle Krauss and the rest are conspiring together to trick everyone into believing he's alive...!!`
+` and Uncle Krauss and the rest are conspiring together to {ruby:çeviri > numara:trick} everyone into believing he's alive...!!`
 `"............If Kinzo dies, the distribution of the inheritance occurs.`
 ` ...However, if Kinzo doesn't die,`
 ` ......no,`
@@ -273,7 +273,7 @@
 ` This is the end of your deceptiooooooooooon!!"`
 `"*cackle*cackle*cackle*cackle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
 ` Well now, what to do here.`
-` .........Shall I slice that in twain with the red truth?"`
+` .........Shall I slice that in twain with the {ruby:çeviri > kırmızı gerçek:red truth}?"`
 `"No, no, it might also be good to hold back for now and let you get all excited.`
 ` If I'm going to push you off a cliff anyway, it would be much more interesting to lure you to a higher place first.`
 ` *cackle*!"`
@@ -294,25 +294,25 @@
 ` ......As long as she doesn't think it will benefit her."`
 `"What?!`
 ` What do you mean......?"`
-`"Because you've been at the mercy of this "red truth" in the games so far, the witch has used it over and over again."`
+`"Because you've been at the mercy of this "{ruby:çeviri > kırmızı gerçek:red truth}" in the games so far, the witch has used it over and over again."`
 `"But now, the situation is different.`
-` You are luring the red truth out, and are instead using it as your weapon.`
+` You are luring the {ruby:çeviri > kırmızı gerçek:red truth} out, and are instead using it as your weapon.`
 ` In a situation like that, there's no way the witch will keep firing off the red without reason.`
 ` .........Right?"`
 `"Gretel, or whoever you are.`
 ` ...It seems that you are quite sharp, unlike Battler.`
 ` I have welcomed in a fearsome enemy."`
 `"That is correct!`
-` When Battler is expecting me to use the red truth, why do I have a responsibility to answer to his expectations?!"`
+` When Battler is expecting me to use the {ruby:çeviri > kırmızı gerçek:red truth}, why do I have a responsibility to answer to his expectations?!"`
 `"I have no such thing!`
 ` I don't even have a crumb from that croissant you ate this morning's worth of responsibility to please yooooou!!"`
 `"Y‐you bitch.........!!"`
 `"Yes, yes, oh yes, that's the faaaaace!`
-` I started playing with the red truth just because I wanted to see that face!`
+` I started playing with the {ruby:çeviri > kırmızı gerçek:red truth} just because I wanted to see that face!`
 ` If I cannot witness that expression of yours, then I have no reason whatsoever to play around...!"`
 `"......Heheh.`
 ` You're just being a sore loser, aren't you?`
-` If you think you can just say a bunch of crap to trick me because you can't respond to my repetition request, it's not gonna work!!"`
+` If you think you can just say a bunch of crap to {ruby:çeviri > numara:trick} me because you can't respond to my repetition request, it's not gonna work!!"`
 `"Don't be so full of yourself!!`
 ` An answer like that, I could cut into pieces with no trouble at all!!`
 ` But I will deliberately refuse to speak in red.`
@@ -325,9 +325,9 @@
 `"*cackle*cackle*!`
 ` Exactly, exactly!`
 ` Unlike Battler, everything goes quickly with this woman, there's never a need to explain!`
-` I will speak as I like with the red truth, at the time that I desire!"`
+` I will speak as I like with the {ruby:çeviri > kırmızı gerçek:red truth}, at the time that I desire!"`
 `"Yes.`
-` The use of the red truth is basically a {i:right} the witch has, to exercise as she pleases.`
+` The use of the {ruby:çeviri > kırmızı gerçek:red truth} is basically a {i:right} the witch has, to exercise as she pleases.`
 ` It's not a responsibility that she has to fulfill at whatever time the human side desires.`
 ` ...............But that depends on the details."`
 `"......The details......?`
@@ -338,7 +338,7 @@
 `"......In just the same way that whenever you've stopped thinking,`
 ` and been unable to make a counterargument against the witch theory asserted by the witch, it has immediately become truth."`
 `"Then, ...since she doesn't have a counterargument to my reasoning, that means it's right?!`
-` I'm correct in my deduction that the culprit is the mysterious 18th person X, and Grandfather is already dead?!"`
+` I'm correct in my deduction that the {ruby:çeviri > suçlu:culprit} is the mysterious 18th person X, and Grandfather is already dead?!"`
 `"......At least, until the witch argues back.`
 ` Truth loses to new truths farther in the future.`
 ` ......The tricky part is that even the timing of the counterargument is up to the witch."`
@@ -368,13 +368,13 @@
 ` Kuhhi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
 `"......But that doesn't change the fact that repetition requests are one of Battler's methods for fighting back.`
 ` As I already said, as long as it's something fatal that would destroy the witch theory,`
-` the witch is obligated to argue back, and therefore, to speak with the red truth."`
+` the witch is obligated to argue back, and therefore, to speak with the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `"......While the timing of that counterargument is up to the witch, it must be performed eventually.`
 ` .........Right?"`
 `"Hmm, that would seem to follow.`
-` If I cannot deny the "tricks done by humans" theory Battler lays out by the time the game ends,`
+` If I cannot deny the "{ruby:çeviri > numaralar:tricks} done by humans" theory Battler lays out by the time the game ends,`
 ` Battler will use that as a reason to deny me, and it will be possible for him to proclaim his victory."`
-`".........So, then, the "trick theory" laid out by the human side,`
+`".........So, then, the "{ruby:çeviri > numara:trick} theory" laid out by the human side,`
 ` in other words, his repetition requests, must be countered during the game, i.e., during the episode—we can view this as a restriction on the witch side to that effect?"`
 `"That is so.`
 ` ......Battler's goal is to show that he can explain with humans the entire pleasant game I have laid out on this island and deny me.`
@@ -382,7 +382,7 @@
 `"Let me confirm the rules.`
 ` ......Am I OK to interpret "the time the game ends" as referring to 24:00 on October 5th, 1986, going by the time of the Rokkenjima in the game?"`
 `"There are no problems with that."`
-`"If, at the time the game ends, the human side can assert a trick theory for all of the mysteries,`
+`"If, at the time the game ends, the human side can assert a {ruby:çeviri > numara:trick} theory for all of the mysteries,`
 ` {i:and} there is no counterargument from the witch side, then the human side can declare victory.`
 ` ......Any problems?"`
 `".........Let us be a little more rigorous.`
@@ -405,7 +405,7 @@
 ` You can't declare victory unless you can solve all of the mysteries."`
 `"Just as I can use the red,`
 ` Battler, from now on, I will permit you to use the blue."`
-`"When explaining my magical murders with human tricks, you can make declarations in blue.`
+`"When explaining my {ruby:çeviri > büyülü:magical} murders with human {ruby:çeviri > numaralar:tricks}, you can make declarations in blue.`
 ` I will be under obligation to counter your blue with the red by the end of the game."`
 `"Blue......`
 ` ......So basically, I'll speak my repetition requests in blue...?"`
@@ -421,8 +421,8 @@
 `But since that by itself doesn't deny the witch, I can't say it in blue.`
 ` So, in order to speak in blue, I would need to say something like this.`
 `{i:"The actual number of master keys was greater than five.`
-` The culprit used one of those extra keys to get in and out of the room!"}`
-`......And only then would the witch, who claims that it was a locked‐room murder with magic, be responsible for making a counterargument.`
+` The {ruby:çeviri > suçlu:culprit} used one of those extra keys to get in and out of the room!"}`
+`......And only then would the witch, who claims that it was a locked‐room murder with {ruby:çeviri > büyü:magic}, be responsible for making a counterargument.`
 ` In other words, I can't use it to demand that she repeats things in order to check the premises of my reasoning.`
 `.........That will probably put me at a significant disadvantage.`
 `Crap...`
@@ -466,7 +466,7 @@
 `Blast away with a massive number of bullets, of pieces of reasoning, and make them impact like a wall, so you only need just one of them to find its mark.`
 `"............Blue, huh...`
 ` ......I get it.`
-` If your red truth is a razor‐sharp katana, then it looks like my blue is a shotgun.`
+` If your {ruby:çeviri > kırmızı gerçek:red truth} is a razor‐sharp katana, then it looks like my blue is a shotgun.`
 ` No, ......a machine‐gun with firepower enough to honeycomb witches."`
 `"He that is always shooting must something something.`
 ` *cackle*cackle*!`
@@ -489,7 +489,7 @@
 ` Suspension of thought is a clogged barrel...!`
 `{n}The pathetic way I've been reasoning up until now is like a peashooter.`
 `Incredibly awkward, like I've been weakly firing off a shot, getting it denied in red, and then receiving the next bullet and reloading.`
-`My "blue truth" that claims that human tricks are the truth...`
+`My "{ruby:çeviri > mavi gerçek:blue truth}" that claims that human {ruby:çeviri > numaralar:tricks} are the truth...`
 `...will overwhelm its target, the fantasy told by the witch, with all the firepower of my imagination...!`
 `This is my...`
 `Ushiromiya Battler‐style way of fighting...!`
@@ -505,14 +505,14 @@
 ` And I'll show it to you!!"`
 `"*cackle*cackle*cackle*cackle*!!`
 ` Excellent spirit, I like it!`
-` Then try using it right away, this blue truth of yours...!!"`
+` Then try using it right away, this {ruby:çeviri > mavi gerçek:blue truth} of yours...!!"`
 `"......I'll use it, all right.`
-` With this blue truth, I can break apart your witch theory, which states that only a witch culprit was possible because everyone had alibis!!"`
+` With this {ruby:çeviri > mavi gerçek:blue truth}, I can break apart your witch theory, which states that only a witch {ruby:çeviri > suçlu:culprit} was possible because everyone had {ruby:çeviri > mazeretler:alibis}!!"`
 `"This is my truth!`
 ` {p:2:Ushiromiya Kinzo is already dead}.`
 ` {p:2:Therefore, the true number of people on the island is 17}!`
 ` {p:2:By adding an unknown person X to that, it becomes 18 people}.`
-` {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!"`
+` {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have {ruby:çeviri > mazeretler:alibis}}!!"`
 `"......In short, if you keep preventing us from meeting with Father, we will have to form the following theory.`
 ` Simply: Father is already dead.`
 ` But you are hiding that because you don't want the inheritance to be distributed. See?"`
@@ -555,7 +555,7 @@
 `"............I'm sorry, please don't take it badly, alright?`
 ` I'm just playing detective here."`
 `"H‐......how rude can one be!!`
-` You have no right to stay in this mansion!!`
+` You have no right to stay in this {ruby:çeviri > malikane:mansion}!!`
 ` Leave immediately!!`
 ` I will never again permit you to cross the threshold of this house!!"`
 `"It worked last year, but you've used up your luck if you thought it would work this year too.`
@@ -662,7 +662,7 @@
 ` ......Come on, Natsuhi.`
 ` We shall ask him to at least be with us for dinner."`
 `"Y‐yes...!"`
-`Krauss left the parlor accompanied by Natsuhi.`
+`Krauss left the {ruby:çeviri > salon:parlor} accompanied by Natsuhi.`
 `Once their footsteps disappeared,`
 ` Hideyoshi breathed out heavily, and flopped onto a sofa, smirking...`
 `"............Kyrie‐san.`

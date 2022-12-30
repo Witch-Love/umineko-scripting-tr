@@ -68,7 +68,7 @@
 ` ......Th‐thank you very much.`
 ` I'll make sure you regret it."`
 `"Come to think about it, when Battler played for the {y:0:Human}{n:0:human} side, he never had anything as convenient as the detective's authority.`
-` He was only allowed blue truth and repetition requests."`
+` He was only allowed {ruby:çeviri > mavi gerçek:blue truth} and repetition requests."`
 `"Exactly.`
 ` In a way, it was the previous game that was truly unfair.`
 ` .........We failed to win despite that, which is why it was no different from a loss."`
@@ -89,31 +89,31 @@
 `"A good while ago, they went downstairs, saying they wanted to get something to drink.`
 ` We thought they might have come to your room..."`
 `"Of course they didn't.`
-` ......Are you sure they didn't go to the mansion?"`
-`"We called the servant room and dining hall of the mansion, but no one picked up..."`
+` ......Are you sure they didn't go to the {ruby:çeviri > malikane:mansion}?"`
+`"We called the {ruby:çeviri > hizmetkar:servant} room and {ruby:çeviri > yemek salonu:dining hall} of the {ruby:çeviri > malikane:mansion}, but no one picked up..."`
 `"......Please stay here, you two.`
-` I'm going to go check the mansion."`
+` I'm going to go check the {ruby:çeviri > malikane:mansion}."`
 `"H‐hey, it's dangerous to go out this late."`
 `"How could a stranger sneak onto this sealed‐off island?`
 ` Stay in that cousins' room of yours.`
 ` I'll contact you if anything happens.`
-` Also, tell the servants in the guesthouse servant room not to leave the building.`
+` Also, tell the {ruby:çeviri > hizmetkarlar:servants} in the {ruby:çeviri > konukevi:guesthouse} {ruby:çeviri > hizmetkar:servant} room not to leave the building.`
 ` Bye."`
 `"W‐wait a second, Erika‐san...?!!"`
 `"............She is a strange kid."`
 `After speaking her mind and not listening to anything else, Erika dashed down the stairs and rushed outside.`
 `"......The first twilight usually starts in the morning, but it looks like we've got an early fight this time.`
-` ......No crime has occurred in the guesthouse.`
-` So, that means the stage of the tragedy is in the mansion..."`
+` ......No crime has occurred in the {ruby:çeviri > konukevi:guesthouse}.`
+` So, that means the stage of the tragedy is in the {ruby:çeviri > malikane:mansion}..."`
 `Though she had an umbrella up, Erika got drenched as she sprinted.`
 `She brashly licked the raindrops that dripped down her face......`
 `......Erika was now at her most energetic...`
-`According to her memory of the previous game, the entrance to the mansion would be locked at the same time the family conference started.`
+`According to her memory of the previous game, the entrance to the {ruby:çeviri > malikane:mansion} would be locked at the same time the family conference started.`
 `However, the lock was undone this time.`
 `......Had someone unlocked it, or had the lock not been set, or had it not been possible to set the lock?`
 `"Well, no point thinking about it now.`
-` After all, that might just be a whim of the Game Master's."`
-`As soon as she entered the entrance hall, the door to the parlor opened violently.`
+` After all, that might just be a whim of the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s."`
+`As soon as she entered the entrance hall, the door to the {ruby:çeviri > salon:parlor} opened violently.`
 `{n}Out of it flew Gohda's large body.`
 `"Ah, good evening, Gohda‐san.`
 ` Is something the matter?"`
@@ -125,27 +125,27 @@
 `"Please calm down.`
 ` How could the police or an ambulance get to an isolated island in the middle of a typhoon?`
 ` I'm sure the phones are out anyway, so please calm yourself."`
-`Krauss and Rudolf's yells could be heard from the parlor.`
+`Krauss and Rudolf's yells could be heard from the {ruby:çeviri > salon:parlor}.`
 `Their shaken appearance perfectly signified the arrival of the first twilight......`
 `"Well then, give me the victims, the locations, and a reconstruction of the situation."`
-`"......Those who left to take a break didn't come back, so the adults went to the parlor.`
+`"......Those who left to take a break didn't come back, so the adults went to the {ruby:çeviri > salon:parlor}.`
 ` When they did, the door was sealed from the inside, and they couldn't open it.`
-` As they would learn later, the hat stand in the parlor had been used to bar the double doors from the inside."`
+` As they would learn later, the hat stand in the {ruby:çeviri > salon:parlor} had been used to bar the double doors from the inside."`
 `"So you're trying to say that the door was blocked from the inside, and the windows were also locked from the inside...?"`
 `"That's it.`
-` ......When they went around and looked into the parlor through the window, they saw Rosa lying on the sofa in an unnatural position, with blood pouring from her forehead.`
-` ......They then smashed the glass, entered the parlor, and discovered that Maria was also there, lying by the wall and covered in blood."`
+` ......When they went around and looked into the {ruby:çeviri > salon:parlor} through the window, they saw Rosa lying on the sofa in an unnatural position, with blood pouring from her forehead.`
+` ......They then smashed the glass, entered the {ruby:çeviri > salon:parlor}, and discovered that Maria was also there, lying by the wall and covered in blood."`
 `"......I see.`
 ` I'm sure there was quite an uproar.`
 ` And the other crime scenes?"`
-`"The entrance wasn't locked when you came into the mansion...because they had gone out through it to check the parlor from the outside.`
-` ......Since the entrance was locked before the adults went through it, they thought that the other people who had gone missing might be somewhere within the mansion in a similar condition,`
+`"The entrance wasn't locked when you came into the {ruby:çeviri > malikane:mansion}...because they had gone out through it to check the {ruby:çeviri > salon:parlor} from the outside.`
+` ......Since the entrance was locked before the adults went through it, they thought that the other people who had gone missing might be somewhere within the {ruby:çeviri > malikane:mansion} in a similar condition,`
 ` so they're now searching the entire building..."`
 `"Are the locations of the dead the same as in that long‐winded, putrid delusion of yours that you showed earlier?"`
 `"......They're the same."`
-`"Rosa and Maria were in the parlor.`
+`"Rosa and Maria were in the {ruby:çeviri > salon:parlor}.`
 ` As for the others, ......Natsuhi was in her own room, and Kyrie was in Krauss's study.`
-` Eva was in the rose garden......no, wait, she was moved to the VIP room, wasn't she?"`
+` Eva was in the {ruby:çeviri > gül bahçesi:rose garden}......no, wait, she was moved to the VIP room, wasn't she?"`
 `"Yes.`
 ` They discover Eva's body in the VIP room."`
 `"That makes five victims.`
@@ -154,22 +154,22 @@
 `"......?!`
 ` Krauss‐sama! The chain on this room is also set...!"`
 `"Cut it!!`
-` The culprit might be hiding in there!!"`
+` The {ruby:çeviri > suçlu:culprit} might be hiding in there!!"`
 `"Gohda, do it!"`
 `Rudolf and Krauss had brought rifles from Kinzo's prized collection.`
 `They yelled at Gohda, who was carrying the bolt cutter, to cut the chain.`
-`Victims had been found one after another at several locations inside the mansion.`
-`The men who had lost their wives searched through the mansion in a rage, looking for the culprit.`
-`This was...a guest room.`
+`Victims had been found one after another at several locations inside the {ruby:çeviri > malikane:mansion}.`
+`The men who had lost their wives searched through the {ruby:çeviri > malikane:mansion} in a rage, looking for the {ruby:çeviri > suçlu:culprit}.`
+`This was...a {ruby:çeviri > misafir odası:guest room}.`
 `It had previously been a room where the relatives would stay,`
-` but it hadn't been used much since the construction of the guesthouse.`
+` but it hadn't been used much since the construction of the {ruby:çeviri > konukevi:guesthouse}.`
 `This forgotten room was locked from the inside by the chain...`
 `"......Nnnnn, .........hyaahh!!"`
 `As soon as the chain was cut, Rudolf pushed Gohda aside and flew into the room.`
 `"Who's in there?! Show yourself...!!"`
 `"There's someone on the bed...!"`
 `"Let's get some light, Aniki...!"`
-`Krauss pushed the switch on the wall, ......the guest room lit up,`
+`Krauss pushed the switch on the wall, ......the {ruby:çeviri > misafir odası:guest room} lit up,`
 ` and the figure lying on the bed came into view...`
 `"B‐......Battler......!!`
 ` D‐......dammit, ......what are you even......doing in here......?!"`
@@ -182,8 +182,8 @@
 `"......It's hard to believe, ......but just like the others, ......this is a locked room."`
 `"Wh‐......what, again...?!"`
 `"Yes......`
-` My study where Kyrie‐san was, Natsuhi's room, the VIP room with Eva, the parlor with Rosa and her daughter...`
-` ...And now Battler‐kun in this guest room.`
+` My study where Kyrie‐san was, Natsuhi's room, the VIP room with Eva, the {ruby:çeviri > salon:parlor} with Rosa and her daughter...`
+` ...And now Battler‐kun in this {ruby:çeviri > misafir odası:guest room}.`
 ` ......They're all locked rooms...`
 ` ...I don't......understand...`
 ` Are we to believe this is suicide...?!"`
@@ -195,26 +195,26 @@
 ` To think that you yourself would be the sixth person."`
 `"It's more interesting to kill yourself off every now and then."`
 `"And all of the crime scenes are locked rooms.`
-` ......They're murders that couldn't have been performed without magic."`
+` ......They're murders that couldn't have been performed without {ruby:çeviri > büyü:magic}."`
 `"Hmph, isn't seeing through that the point of this game?`
-` ...By which I mean, the murders {i:must} be possible to commit without magic.`
-` ......After all, if they really could be done only with magic, this wouldn't be a game."`
+` ...By which I mean, the murders {i:must} be possible to commit without {ruby:çeviri > büyü:magic}.`
+` ......After all, if they really could be done only with {ruby:çeviri > büyü:magic}, this wouldn't be a game."`
 `"......That's an interesting way of thinking about it.`
 ` ......Yeah, that is the sort of game we've been playing."`
 `This game is fair.`
-`The goal is to explain, without magic, the strange crimes that the opposing side claims to have carried out using magic.`
+`The goal is to explain, without {ruby:çeviri > büyü:magic}, the strange crimes that the opposing side claims to have carried out using {ruby:çeviri > büyü:magic}.`
 `{i:If that couldn't be done}, it wouldn't be a game.`
-`In other words, just as Erika said, it has to be possible to perform the murders without magic...`
+`In other words, just as Erika said, it has to be possible to perform the murders without {ruby:çeviri > büyü:magic}...`
 `......To view it from the opposite angle, the witch side has a certain responsibility.`
-`They have to make a crime that can be {i:reproduced with tricks and not magic}.`
-`As long as the {y:0:Human}{n:0:human} side can't figure out those tricks, the witch side can use all kinds of magic and illusions.`
-`......In other words, in order to carry out a locked‐room murder with magic,`
+`They have to make a crime that can be {i:reproduced with {ruby:çeviri > numaralar:tricks} and not {ruby:çeviri > büyü:magic}}.`
+`As long as the {y:0:Human}{n:0:human} side can't figure out those {ruby:çeviri > numaralar:tricks}, the witch side can use all kinds of {ruby:çeviri > büyü:magic} and illusions.`
+`......In other words, in order to carry out a locked‐room murder with {ruby:çeviri > büyü:magic},`
 ` it is necessary to create a crime that is possible to carry out by {y:0:Human}{n:0:human} hands.`
 `".........By now, I understand.`
 ` I see why, when I ordered the Seven Sisters to kill my classmates back at Saint Lucia,`
 ` ......they couldn't do what I told them.`
 ` ......And I understand the meaning of Mammon's words."`
-`"Do you mean that "magic is only capable of that which you can accomplish by your own hands"...?"`
+`"Do you mean that "{ruby:çeviri > büyü:magic} is only capable of that which you can accomplish by your own hands"...?"`
 `At that time,`
 ` if I had possessed the determination to kill my classmates,`
 ` ......no, that's not it.`
@@ -224,18 +224,18 @@
 `......then the Seven Sisters of Purgatory would probably have pulled it off for me.`
 `They could only accomplish what I could do myself.`
 `......No, that's not it either.`
-`{n}They could take what {i:I} had accomplished and turn it into "magic".`
+`{n}They could take what {i:I} had accomplished and turn it into "{ruby:çeviri > büyü:magic}".`
 `Of course, there were a great number of witnesses in that classroom, so that would probably have been impossible.`
 ` ......Maria onee‐chan would call it "being burned by the anti‐magic toxin".`
 `However, ......if I had called those classmates out somewhere without witnesses, ......and carried out murder myself...`
-`...that would be when "the Seven Sisters of Purgatory" could "carry out a magical murder".`
-`"......Even with magic, witches cannot do things that they cannot accomplish by themselves.`
-` ......They can only use magic to "embellish" the things that are possible for them."`
+`...that would be when "the Seven Sisters of Purgatory" could "carry out a {ruby:çeviri > büyülü:magical} murder".`
+`"......Even with {ruby:çeviri > büyü:magic}, witches cannot do things that they cannot accomplish by themselves.`
+` ......They can only use {ruby:çeviri > büyü:magic} to "embellish" the things that are possible for them."`
 `"......How interesting it is.`
-` ......That those who accomplish something without using magic nevertheless speak of magic and call themselves witches."`
+` ......That those who accomplish something without using {ruby:çeviri > büyü:magic} nevertheless speak of {ruby:çeviri > büyü:magic} and call themselves witches."`
 `"This Erika person has understood that since the beginning.`
 ` ......That's why she will never surrender to witches.`
-` ...She is confident that it must be explainable with tricks.`
+` ...She is confident that it must be explainable with {ruby:çeviri > numaralar:tricks}.`
 ` The old Battler was toyed with so frequently because he did not possess that confidence..."`
 `"......Once this rule is seen through, the witch loses any chance of victory.`
 ` ......That's why they have to make their opponent surrender before they see the truth of this rule.`
@@ -243,20 +243,20 @@
 `Once again, my thoughts are spinning in circles.`
 `......Why did Beato prolong this game until she lost?`
 `....................................`
-`Many victims had been found, and the mansion was still wrapped in chaos.`
-`Hideyoshi's group seemed to have gone to the guesthouse, worrying about the safety of the kids there.`
+`Many victims had been found, and the {ruby:çeviri > malikane:mansion} was still wrapped in chaos.`
+`Hideyoshi's group seemed to have gone to the {ruby:çeviri > konukevi:guesthouse}, worrying about the safety of the kids there.`
 `Krauss and Rudolf were in the hall, talking about what should be done next...`
 `During a short gap in this chaos,`
-` .........Erika dashed all about the mansion.`
+` .........Erika dashed all about the {ruby:çeviri > malikane:mansion}.`
 `She was checking the crime scenes.`
 `Normally, with the detective's authority, Erika had the right to openly investigate the crime scenes to her heart's content.`
 `However, this time, she hadn't yet invoked that authority.`
 ` ......Because of that, and with her being a guest and an outsider, there was little to no chance that she would be allowed to investigate.`
 `So, she was forced to quickly check all of the crime scenes now,`
 ` while she could still run about as she pleased.`
-`In the servant room, there had been a clear folder containing a plan of the mansion's interior.`
-`Because she had borrowed that, she knew the location of every room in the mansion...`
-`Erika efficiently made her way through the mansion, dashing into each crime scene in turn...`
+`In the {ruby:çeviri > hizmetkar:servant} room, there had been a clear folder containing a plan of the {ruby:çeviri > malikane:mansion}'s interior.`
+`Because she had borrowed that, she knew the location of every room in the {ruby:çeviri > malikane:mansion}...`
+`Erika efficiently made her way through the {ruby:çeviri > malikane:mansion}, dashing into each crime scene in turn...`
 `"Lady {f:5:Erika}, ......I believe you know, but allow me to warn you just in {f:5:case}."`
 `"Yes? What is it?"`
 `"It is true that you have an incredible photographic {f:5:memory}.`
@@ -269,7 +269,7 @@
 `"To take an extreme case, no matter how well you examine a person's corpse right now,`
 ` the possibility will always remain that they were faking their {f:5:death}.`
 ` It will probably be necessary to give Battler repetition requests to confirm the details of each situation {f:5:individually}."`
-`"And I'll need to use the blue truth liberally in order to draw those out of him.`
+`"And I'll need to use the {ruby:çeviri > mavi gerçek:blue truth} liberally in order to draw those out of him.`
 ` ......I know that.`
 ` Let's start with the basics.`
 ` ......The lack of the detective's authority is no handicap.`
@@ -282,12 +282,12 @@
 ` it may be true that I was in a very blessed, unfair position last game, just as my master said...`
 `It may be difficult without the detective's authority, which also holds my honor as a detective.`
 `But I won't let that be a handicap.`
-`I know what magic is, and I'm fully aware of how to fight with the red and blue truths.`
+`I know what {ruby:çeviri > büyü:magic} is, and I'm fully aware of how to fight with the red and {ruby:çeviri > mavi gerçekler:blue truths}.`
 `I know the way to fight in this game many times better than the old Battler did......`
-`I quickly visited the VIP room, Krauss's study, and Natsuhi's room on the second floor, as well as the parlor and the guest room on the first floor,`
+`I quickly visited the VIP room, Krauss's study, and Natsuhi's room on the second floor, as well as the {ruby:çeviri > salon:parlor} and the {ruby:çeviri > misafir odası:guest room} on the first floor,`
 ` this time checking with my own eyes, as I had neglected to do in the last game...`
 `First off, all of the scenes were made to look like locked rooms.`
-`Probably of special note is the fact that the master keys have no relation to the tricks this time.`
+`Probably of special note is the fact that the master keys have no relation to the {ruby:çeviri > numaralar:tricks} this time.`
 `The locked rooms were all constructed...`
 `...without relying on any elements that could be locked or unlocked from the outside by a master key or something else.`
 `The windows were locked from the inside, and the doors were all locked and chained.`
@@ -297,7 +297,7 @@
 `"......I understand.`
 ` Right now, I am a mere {y:0:Human}{n:0:human}.`
 ` ......I can't even properly confirm the deaths of the corpses."`
-`......Last time I neglected to check the bodies, ......and let a massive piece of "magic" get by me.`
+`......Last time I neglected to check the bodies, ......and let a massive piece of "{ruby:çeviri > büyü:magic}" get by me.`
 `I won't fail like that again......`
 `If I let that happen even once more,`
 ` ......I won't be able to face the master I'm so indebted to......`
@@ -306,17 +306,17 @@
 `"Go ahead."`
 `"First, all of the rooms employ window locks and chain locks...`
 `to form locked rooms in a way that would be "difficult to interfere with from the {f:5:outside}".`
-` The only exception is the parlor, where Rosa and Maria lay {f:5:dead}."`
+` The only exception is the {ruby:çeviri > salon:parlor}, where Rosa and Maria lay {f:5:dead}."`
 `"For your attention: I beg to inform you of the following.`
 ` Let it be known that the door was barred with a hat stand."`
 `"It is thought to be substantially the same as a chain lock, in that it can only be set from the inside."`
 `"It is probably his goal to construct locked rooms where explanations using master keys are made completely {f:5:ineffective}.`
-` The parlor has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."`
+` The {ruby:çeviri > salon:parlor} has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."`
 `"......In that case, the interesting question becomes why he didn't choose one of the other rooms that do have a chain lock.`
-` There are several other guest rooms besides the one Battler lay dead in, all with a similar construction, correct?"`
+` There are several other {ruby:çeviri > misafir odaları:guest rooms} besides the one Battler lay dead in, all with a similar construction, correct?"`
 `"Yes, that is {f:5:correct}."`
 `"In that case, it would have been more aesthetically pleasing to lock them in there, so that everyone would be inside a room locked by a chain, yet he did not do that.`
-` ......This hat stand door bar in the parlor seems very suspicious.`
+` ......This hat stand door bar in the {ruby:çeviri > salon:parlor} seems very suspicious.`
 ` I should probably investigate it thoroughly with repetition requests.`
 ` Also, regarding the bodies, ......in the last game, their throats were sliced wide open...`
 `to the point that the deaths could be confirmed with certainty even without the detective's authority, but was there anything like that this time around?"`
@@ -352,7 +352,7 @@
 ` They can only be constructed from the inside, and there's no way to construct, deconstruct, or interfere with them from the outside."`
 `"Can you say that in red?"`
 `"That'd be a little too rude to Battler, so no.`
-` If you do love me, you must see my words as red truth, right...?"`
+` If you do love me, you must see my words as {ruby:çeviri > kırmızı gerçek:red truth}, right...?"`
 `".........Then the locked rooms are perfect.`
 ` In other words, this is an illusion of a crime."`
 `"It does seem that way.`
@@ -366,7 +366,7 @@
 `"Huh?!`
 ` And you're not talking about "at midnight on the second day"?"`
 `"No detective proclamation has been made, but she is very accurate when examining corpses.`
-` I could almost even give her examinations the red truth."`
+` I could almost even give her examinations the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `"So what does that mean?`
 ` That they were definitely dead when Erika examined their corpses?"`
 `"Yes, that's right.`
@@ -409,7 +409,7 @@
 `A perfect`
 ` "locked‐room"`
 ` "murder".`
-`The witches hated to be a killjoy, so they wouldn't yet say anything with the red truth.`
+`The witches hated to be a killjoy, so they wouldn't yet say anything with the {ruby:çeviri > kırmızı gerçek:red truth}.`
 `......Pursuing that would be the role of Battler and Erika......`
 `"It seems like you had a pretty mad dash around the crime scenes.`
 ` ......Satisfied? Is your inspection complete?"`
@@ -453,16 +453,16 @@
 `"{p:1:Acknowledged}."`
 `This was to check that the murderer hadn't been hiding inside a locked room.`
 `Because if the discoverers departed the scene after becoming aware of the locked‐room murder,`
-` and then the culprit slipped out of the room after that, it would have been possible to construct an illusion of a locked room.`
-`Because Battler had acknowledged their statement with the red truth,`
-` this possibility—that the culprit and the victim had both been inside the locked room at the time of the crime, following which the culprit had hid under the bed and snuck out after the discovery of the crime—`
+` and then the {ruby:çeviri > suçlu:culprit} slipped out of the room after that, it would have been possible to construct an illusion of a locked room.`
+`Because Battler had acknowledged their statement with the {ruby:çeviri > kırmızı gerçek:red truth},`
+` this possibility—that the {ruby:çeviri > suçlu:culprit} and the victim had both been inside the locked room at the time of the crime, following which the {ruby:çeviri > suçlu:culprit} had hid under the bed and snuck out after the discovery of the crime—`
 `had now been eliminated.`
 `"Fifth.`
 ` "No murder was committed after the breaking of the locked {f:5:rooms}"."`
 `"I decline."`
 `"......Why?`
 ` Because the victims really were alive at the point when the locked rooms were destroyed?`
-` And the culprits were actually Krauss and the others who crowded in, who committed the murders then and there.`
+` And the {ruby:çeviri > suçlular:culprits} were actually Krauss and the others who crowded in, who committed the murders then and there.`
 ` In other words, because it was a murder after the locked room was destroyed. Is that the truth behind this...?!"`
 `"No, that's not it.`
 ` The murders will continue to occur, so he can't declare in red that no murders will happen after this."`
@@ -485,13 +485,13 @@
 ` However, this only applies to the current point in time.`
 ` It's possible that some later development in the game will cause more people to enter."`
 `"Repetition requested.`
-` "Krauss, Rudolf, Hideyoshi, and Gohda are not culprits"."`
+` "Krauss, Rudolf, Hideyoshi, and Gohda are not {ruby:çeviri > suçlular:culprits}"."`
 `"........................"`
 `Battler put his finger on his chin, deep in thought.`
-`This word "culprit" was fairly broad.`
+`This word "{ruby:çeviri > suçlu:culprit}" was fairly broad.`
 ` And it might serve to greatly restrict the darkness of the witch.`
 `".........Why not answer?`
-` If we decline, they'll leave behind a blue truth saying that Krauss and the others were the culprits."`
+` If we decline, they'll leave behind a {ruby:çeviri > mavi gerçek:blue truth} saying that Krauss and the others were the {ruby:çeviri > suçlular:culprits}."`
 `"........................`
 ` ......You're right.`
 ` ......I'll acknowledge it, but I'll make the language more strict.`
@@ -500,21 +500,21 @@
 `"And that means it was also impossible for any of the other humans, who didn't even enter the locked room,`
 ` to have been involved in those murders either, doesn't it?"`
 `"Who knows. Think about it yourself.`
-` If you think you can build up some blue truth for how a locked‐room murder can be committed without entering the room, then I'll respond with the red truth."`
-`"......However, I only need to destroy one of the blue truths you'll be presenting from here on out.`
-` In other words, even if you do manage to use the blue truth and explain this away with some long‐distance locked‐room murder trick X,`
-` I don't necessarily have to counter that with the red truth."`
+` If you think you can build up some {ruby:çeviri > mavi gerçek:blue truth} for how a locked‐room murder can be committed without entering the room, then I'll respond with the {ruby:çeviri > kırmızı gerçek:red truth}."`
+`"......However, I only need to destroy one of the {ruby:çeviri > mavi gerçekler:blue truths} you'll be presenting from here on out.`
+` In other words, even if you do manage to use the {ruby:çeviri > mavi gerçek:blue truth} and explain this away with some long‐distance locked‐room murder {ruby:çeviri > numara:trick} X,`
+` I don't necessarily have to counter that with the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `These are the rules of the witch's game.`
 `Ange checked these details with Beato in the fourth game.`
-`The witch side lays out mystery after mystery and claims them all to be impossible to carry out except by magic.`
-`The human side must use the blue truth to argue that they are explainable with tricks.`
-`And if they cannot make a counterargument with the blue truth for even one of these mysteries,`
-` that mystery will be considered to have been "done by magic",`
+`The witch side lays out mystery after mystery and claims them all to be impossible to carry out except by {ruby:çeviri > büyü:magic}.`
+`The human side must use the {ruby:çeviri > mavi gerçek:blue truth} to argue that they are explainable with {ruby:çeviri > numaralar:tricks}.`
+`And if they cannot make a counterargument with the {ruby:çeviri > mavi gerçek:blue truth} for even one of these mysteries,`
+` that mystery will be considered to have been "done by {ruby:çeviri > büyü:magic}",`
 ` and it will be impossible to deny the existence of a witch...`
 `In other words, the witch side only needs to protect any one of its mysteries.`
-`In contrast, the human side has to fully explain all mysteries with the blue truth.`
-`And even if the human side manages to explain all of the mysteries with the blue truth,`
-` if any one of those is successfully countered by the red truth, the witch will win.`
+`In contrast, the human side has to fully explain all mysteries with the {ruby:çeviri > mavi gerçek:blue truth}.`
+`And even if the human side manages to explain all of the mysteries with the {ruby:çeviri > mavi gerçek:blue truth},`
+` if any one of those is successfully countered by the {ruby:çeviri > kırmızı gerçek:red truth}, the witch will win.`
 `Therefore, just like the strategy that the old Beato adopted in her final game,`
 ` it is sufficient for the witch side to put off their red text counterarguments until the very last moment,`
 ` then make a single strike at their opponent's most fragile spot......`
@@ -537,7 +537,7 @@
 ` There are still items..."`
 `"Yes, that will do fine.`
 ` I've confirmed the status of the crime scenes.`
-` From here on, it's time for me to argue back with the blue truth."`
+` From here on, it's time for me to argue back with the {ruby:çeviri > mavi gerçek:blue truth}."`
 `"Fine by me.`
 ` Let me hear your masterful theories."`
 `Though Battler and Erika were enemies,`
@@ -558,58 +558,58 @@
 `"Who gives a damn about that?!`
 ` I don't care how they killed them, I just want to know who!!"`
 `"Hey, Genji‐san, Gohda‐san.`
-` Were the doors and windows to the mansion all locked during the family conference...?"`
+` Were the doors and windows to the {ruby:çeviri > malikane:mansion} all locked during the family conference...?"`
 `"Y‐yes.`
 ` There can be no doubt...!"`
 `"......In accordance with Madam's instructions, everything is always locked at the time of the night patrol.`
-` Tonight was a special case, but everything was locked up shortly after seeing the children off to the guesthouse..."`
+` Tonight was a special case, but everything was locked up shortly after seeing the children off to the {ruby:çeviri > konukevi:guesthouse}..."`
 `"That doesn't make any sense...!`
-` If that's true, how were Battler and Maria‐chan inside the mansion?!`
+` If that's true, how were Battler and Maria‐chan inside the {ruby:çeviri > malikane:mansion}?!`
 ` They shouldn't have been able to get in, right?!"`
 `"If everythin' really was locked up properly, that couldn't have happened...!`
-` Doesn't the two of them bein' inside the mansion prove that the building wasn't completely locked up...? Right? Right?!"`
+` Doesn't the two of them bein' inside the {ruby:çeviri > malikane:mansion} prove that the building wasn't completely locked up...? Right? Right?!"`
 `He was arguing that Gohda's failure to lock up properly might have allowed a stranger to sneak in.`
-`At the very least, none of them had known that Battler and Maria had visited the mansion.`
+`At the very least, none of them had known that Battler and Maria had visited the {ruby:çeviri > malikane:mansion}.`
 `If those two had come and found everything locked tight, they wouldn't have been able to get inside.`
-`If they had rung the doorbell, Gohda would probably have heard them from the servant room, but Gohda said that nothing of the sort had happened.`
-` How they had entered the locked mansion was a complete mystery...`
+`If they had rung the doorbell, Gohda would probably have heard them from the {ruby:çeviri > hizmetkar:servant} room, but Gohda said that nothing of the sort had happened.`
+` How they had entered the locked {ruby:çeviri > malikane:mansion} was a complete mystery...`
 `"Y‐you don't think......`
 ` For example, what if Madam or someone happened to be close by the entrance...`
 `and noticed Battler‐sama and Maria‐sama knocking or heard the bell......?"`
 `"That couldn't have happened!`
-` You were in the servant room then, right, Gohda‐san?!`
-` There's a chime that goes off in the servant room when the front door opens!`
+` You were in the {ruby:çeviri > hizmetkar:servant} room then, right, Gohda‐san?!`
+` There's a chime that goes off in the {ruby:çeviri > hizmetkar:servant} room when the front door opens!`
 ` There's no way you'd have missed anyone!"`
 `"Y‐yes, but, you see......"`
 `"......At that time, Gohda was serving drinks as you requested,`
-` so he was not in the servant room."`
-`"Why was there only one servant in the mansion on such an important day?!`
-` Why was someone as important as Genji‐san on duty in the guesthouse?!`
+` so he was not in the {ruby:çeviri > hizmetkar:servant} room."`
+`"Why was there only one {ruby:çeviri > hizmetkar:servant} in the {ruby:çeviri > malikane:mansion} on such an important day?!`
+` Why was someone as important as Genji‐san on duty in the {ruby:çeviri > konukevi:guesthouse}?!`
 ` Does that make any sense?!`
-` Why was the servant room left empty...?!!"`
+` Why was the {ruby:çeviri > hizmetkar:servant} room left empty...?!!"`
 `"......My wife was the one who put those shifts together.`
 ` ......She probably hoped that Gohda would serve some fashionable drinks during the family conference as well, since he often thinks to do such things..."`
 `"But Krauss nii‐san...!`
 ` This is the family conference, right?!`
 ` The most important day of the year, right?!`
-` Why was Gohda‐san left as the only person on shift in the mansion...?!`
+` Why was Gohda‐san left as the only person on shift in the {ruby:çeviri > malikane:mansion}...?!`
 ` If there'd been just one more person, everythin' would be different, don'tcha think?!`
 ` Well? Well?!"`
 `With a half‐crying, half‐enraged jumbled up expression,`
 ` Hideyoshi yelled at Gohda.`
-`Of course, the culprit who killed everyone was the most to blame and the most despicable.`
+`Of course, the {ruby:çeviri > suçlu:culprit} who killed everyone was the most to blame and the most despicable.`
 `......However, even if he understood that,`
 ` he needed to let off some of his emotions by hating someone he could see.`
 `"............I understand how distressing this must be for all of you.`
 ` ......However, please calm down."`
 `"......I don't know whether Gohda‐san wasn't thorough enough when locking up,`
-` ......or whether someone let Battler‐san and Maria‐san in after they came back from the guesthouse, and then forgot to lock up afterwards.`
-` ......But whatever the case, it doesn't necessarily have anything to do with how the mysterious culprit snuck in."`
-`"......After all, the mansion is massive.`
+` ......or whether someone let Battler‐san and Maria‐san in after they came back from the {ruby:çeviri > konukevi:guesthouse}, and then forgot to lock up afterwards.`
+` ......But whatever the case, it doesn't necessarily have anything to do with how the mysterious {ruby:çeviri > suçlu:culprit} snuck in."`
+`"......After all, the {ruby:çeviri > malikane:mansion} is massive.`
 ` They might have come in much earlier and hid until late at night for all we know.`
 ` ......I can understand the desire to suspect someone, but please calm down."`
 `"......Our guest is right.`
-` ......The culprit is the one we should hate, ......not Gohda, who just happened to be on duty...`
+` ......The {ruby:çeviri > suçlu:culprit} is the one we should hate, ......not Gohda, who just happened to be on duty...`
 ` ......At any rate, let's calm down.`
 ` ......I feel as terrible as the rest of you.`
 ` However, we must take the initiative now and regain our composure."`
@@ -622,16 +622,16 @@
 ` Krauss nii‐san still has Jessica‐chan.`
 ` And Rudolf‐kun, ...you still have Ange‐chan waitin' for you to return, right?`
 ` It's still......too soon...to go riskin' everything to take down the killer......"`
-`"......The culprit is still on this island.`
+`"......The {ruby:çeviri > suçlu:culprit} is still on this island.`
 ` And we can't be sure that this tragic crime is over.`
 ` We need to stay calm and prevent any further tragedies."`
 `Erika's words softly consoled them...and gently admonished them.`
-`......If a servant had said the same thing, Rudolf would probably have jumped on him.`
+`......If a {ruby:çeviri > hizmetkar:servant} had said the same thing, Rudolf would probably have jumped on him.`
 `However, since it had come from the lips of the guest, a neutral party, ......it seemed to reach their ears.`
 `"Let's stay cool.`
 ` ......We have three grown men with us, and guns as well.`
-` Judging by the pattern of the murders, the chances that the culprit has a gun are low.`
-` ......In other words, as long as we keep our heads, the culprit will no longer have any way to touch us."`
+` Judging by the pattern of the murders, the chances that the {ruby:çeviri > suçlu:culprit} has a gun are low.`
+` ......In other words, as long as we keep our heads, the {ruby:çeviri > suçlu:culprit} will no longer have any way to touch us."`
 `"......She's right.`
 ` We can't let that murderer have his way on our island any longer."`
 `"Let's find the killer!`
@@ -639,8 +639,8 @@
 ` They can't escape from the island, and there's only so many places where they can take shelter from the rain...!"`
 `"This island is larger than you'd think.`
 ` Unfortunately, it would be difficult to search the island with so few people.`
-` ......After all, you all look ready to shoot the culprit dead on the spot if you were to find them now.`
-` If the culprit has fled into that dense forest fearing for their life, you won't find them easily."`
+` ......After all, you all look ready to shoot the {ruby:çeviri > suçlu:culprit} dead on the spot if you were to find them now.`
+` If the {ruby:çeviri > suçlu:culprit} has fled into that dense forest fearing for their life, you won't find them easily."`
 `"...........................`
 ` ......Right.`
 ` ...We should just wait patiently for the typhoon to pass,`
@@ -678,7 +678,7 @@
 `Krauss nodded to Erika, then headed upstairs with Genji and Gohda.`
 `.........When only men are around in a time of confusion, it is easy for a composed member of the opposite sex to control the initiative.`
 `Even without the detective's authority, she was able to control them quite naturally.`
-`Erika had wanted to get rid of the servants for the time being......`
+`Erika had wanted to get rid of the {ruby:çeviri > hizmetkarlar:servants} for the time being......`
 `"Okay.`
 ` In that case, let's get to checking the locks."`
 `"The problem is the big window in the lounge.`
@@ -694,18 +694,18 @@
 `"Are you ready?`
 ` This crime happened during a short break in the family conference.`
 ` ......In that tiny span of time, six people were killed without anyone noticing—I can't imagine that was the result of any haphazard crime.`
-` This crime was committed by someone who knew the layout of this mansion well, inside and out."`
+` This crime was committed by someone who knew the layout of this {ruby:çeviri > malikane:mansion} well, inside and out."`
 `"......W‐......well..............."`
 `".........S‐sure, if they didn't know the inside well, then......`
 ` B‐but still......"`
-`A short while ago, they had lambasted Gohda, suspecting the servants of having made a blunder.`
-`However, they had only thought that he had forgotten to lock up, and were attacking him for letting the mysterious culprit sneak in.`
-` .........They hadn't considered that one of the servants they knew so well might have taken those lives with their own hands.`
+`A short while ago, they had lambasted Gohda, suspecting the {ruby:çeviri > hizmetkarlar:servants} of having made a blunder.`
+`However, they had only thought that he had forgotten to lock up, and were attacking him for letting the mysterious {ruby:çeviri > suçlu:culprit} sneak in.`
+` .........They hadn't considered that one of the {ruby:çeviri > hizmetkarlar:servants} they knew so well might have taken those lives with their own hands.`
 `...No, they hadn't wanted to think that.`
 `People can't easily suspect someone they know well...`
 `...of being a killer......`
 `"At the time of the crime,`
-` the mansion was locked from the inside, and only those involved with the family conference existed there."`
+` the {ruby:çeviri > malikane:mansion} was locked from the inside, and only those involved with the family conference existed there."`
 `"So, what, you're saying {i:Aniki} killed Kyrie and the others?!`
 ` Or am I supposed to suspect Hideyoshi nii‐san?!`
 ` It's impossible, unthinkable!!"`
@@ -715,47 +715,47 @@
 ` But that doesn't mean we treasure our own families less than any other family would...!"`
 `"Yes, of course I believe that.`
 ` I wouldn't dream that any of you would kill your own wives."`
-`Erika had already received red truth proof from Battler that they were not the murderers.`
+`Erika had already received {ruby:çeviri > kırmızı gerçek:red truth} proof from Battler that they were not the murderers.`
 ` So, there was no need to argue that point...`
 `Krauss, Rudolf, Hideyoshi...and Gohda.`
 ` .........None of those four was the killer.`
 `.........And yet, .........Erika said this......`
 `"However, ......what about Gohda‐san?`
-` He was in the servants' quarters the whole time during the family conference, in a position to act without anyone else's knowledge."`
+` He was in the {ruby:çeviri > hizmetkarlar:servants}' quarters the whole time during the family conference, in a position to act without anyone else's knowledge."`
 `"Hold up, let's not jump the gun on suspectin' Gohda‐san!`
-` He came to bring us drinks in the dining hall during the break.`
+` He came to bring us drinks in the {ruby:çeviri > yemek salonu:dining hall} during the break.`
 ` ......He was with us for a good long while.`
 ` I can't imagine he had the time to kill six people...!"`
-`"......But he might have been able to let the actual killer into the mansion."`
+`"......But he might have been able to let the actual killer into the {ruby:çeviri > malikane:mansion}."`
 `"Precisely.`
 ` ......Gohda‐san probably didn't kill them himself.`
-` However, it's very possible that he secretly welcomed the actual murderer into the mansion."`
+` However, it's very possible that he secretly welcomed the actual murderer into the {ruby:çeviri > malikane:mansion}."`
 `Rudolf and Hideyoshi, stunned, looked at each other.`
 `They were all family.`
 ` Even the wife of a sibling was still family.`
 ` ......The siblings may have harbored hatred for each other, but they could never have hated each other's {i:wives} enough to kill them.`
 `Although Eva and Rosa were part of the sibling circle of hate,`
 ` there could be no reason for a sibling to kill any of the others who had died—Natsuhi, Kyrie, Battler, or the young Maria...`
-`But......to a servant like Gohda......perhaps everyone was little more than a complete stranger.........`
-`"I suspect the servants on two counts.`
+`But......to a {ruby:çeviri > hizmetkar:servant} like Gohda......perhaps everyone was little more than a complete stranger.........`
+`"I suspect the {ruby:çeviri > hizmetkarlar:servants} on two counts.`
 ` First, the victims are familiar with them, and there were no signs of a struggle at any of the crime scenes.`
 ` I'm sure you're all well aware that none of the rooms were the least bit disturbed."`
 `"......I thought that too.`
 ` ......Kyrie's used to fighting, like hell she'd get killed that easily without resisting.`
 ` That woman wouldn't hesitate to bite your finger off...`
-` It does make more sense if the culprit was someone she knew, who suddenly attacked when her guard was down..."`
+` It does make more sense if the {ruby:çeviri > suçlu:culprit} was someone she knew, who suddenly attacked when her guard was down..."`
 `"C‐come to think of it, same goes for my Eva...`
 ` She knows a dozen kinds of martial arts.`
 ` She spends every day practically wishin' for some ruffian to attack her.`
 ` She wouldn't have been killed off in a snap like that...!"`
-`".........Then what about Rosa‐san, in the parlor?`
+`".........Then what about Rosa‐san, in the {ruby:çeviri > salon:parlor}?`
 ` Do you think she would allow herself to be easily killed by a stranger, without resisting, while she had her only daughter with her?`
 ` And this tells us something else that's important."`
 `"Somethin' important...?"`
-`".........There's more than one culprit..."`
+`".........There's more than one {ruby:çeviri > suçlu:culprit}..."`
 `"Y‐......you're right...`
-` Both Rosa‐san and Maria‐chan were in the parlor.`
-` The culprit must have killed them both at the same time, or they'd have made a hell of a racket.`
+` Both Rosa‐san and Maria‐chan were in the {ruby:çeviri > salon:parlor}.`
+` The {ruby:çeviri > suçlu:culprit} must have killed them both at the same time, or they'd have made a hell of a racket.`
 ` And if they were able to do that, there can't have been just one of them..."`
 `"When it came to Maria‐chan, Rosa was like a quick‐to‐anger mother bear.`
 ` ......She wouldn't cower in fear, not even if someone pointed a gun at her.`
@@ -763,9 +763,9 @@
 `"......I believe you can see already that the idea of an unknown outsider sneaking onto the island is actually the less realistic.`
 ` Whoever they are, they're familiar with this island.`
 ` And there's more than one of them."`
-`There is more than one culprit...and they know the island.`
+`There is more than one {ruby:çeviri > suçlu:culprit}...and they know the island.`
 `Erika's reasoning......pointed clearly at the ones they should suspect and guard themselves against.`
-`".........So, ......you suspect the servants......"`
+`".........So, ......you suspect the {ruby:çeviri > hizmetkarlar:servants}......"`
 `"Yes.`
 ` Under the current circumstances, they are the most suspicious.`
 ` ......The second reason I have for suspecting them is the fact that the locked rooms were formed with chain locks."`
@@ -774,11 +774,11 @@
 `"That's not much of a locked room.`
 ` Anyone could make a room like that with nothin' more than a master key."`
 `"......Yes, ...I see...`
-` .........The servants had to seal them with the chains so that they wouldn't be suspected..."`
+` .........The {ruby:çeviri > hizmetkarlar:servants} had to seal them with the chains so that they wouldn't be suspected..."`
 `"Exactly.`
 ` ......By setting the chain, they don't have to worry about being suspected.`
 ` ...To turn it around, if the chains weren't set, they wouldn't be able to avoid suspicion since they hold the master keys."`
-`"So, ......the only ones with somethin' to gain from settin' the chains......are the servants......"`
+`"So, ......the only ones with somethin' to gain from settin' the chains......are the {ruby:çeviri > hizmetkarlar:servants}......"`
 `"I'm not trying to protect them or anything, ......but if so, how did they actually set the chains?!`
 ` Is it possible to set them from the outside?!"`
 `"Considering how they are built, I don't think that would be impossible.`
@@ -800,7 +800,7 @@
 ` so to get them out of there, they stick a thin, metal tool through the crack in the door and undo the latch..."`
 `"Exactly.`
 ` All industries have little tools that can easily open things that normally can't be opened.`
-` .........It wouldn't be particularly surprising if the servants of a mansion had something of the sort."`
+` .........It wouldn't be particularly surprising if the {ruby:çeviri > hizmetkarlar:servants} of a {ruby:çeviri > malikane:mansion} had something of the sort."`
 `"...........................G‐......good point..."`
 `"......Once you figured out the knack of it,`
 ` you could probably {i:set} the chain from the outside by using a wire as well.`
@@ -811,17 +811,17 @@
 `If a person were to stick something through that crack, ......they should be able to manage it easily...`
 ` ......It was very natural for Rudolf and Hideyoshi to think that way.`
 `However, Erika knew better.`
-`Though it might be possible in reality, ......it had already been declared with the red truth that these locked rooms could not have been constructed from the outside.`
+`Though it might be possible in reality, ......it had already been declared with the {ruby:çeviri > kırmızı gerçek:red truth} that these locked rooms could not have been constructed from the outside.`
 ` In other words, it was impossible to manipulate the chain lock from the outside.`
 `And yet.`
-` ......Erika was guiding their thoughts to put them under the illusion that only the servants could have constructed the locked rooms...`
+` ......Erika was guiding their thoughts to put them under the illusion that only the {ruby:çeviri > hizmetkarlar:servants} could have constructed the locked rooms...`
 `With an air of solemnly revealing some vital point,`
 ` ......she steadily steered the situation in the direction she wanted.`
 `Everything about her serious face for the last few minutes......was an act.`
 ` No, to put it in her words, it was a detective technique for tricking suspects......`
 `"I plan to tell Krauss‐san what I've told you.`
-` ......I'm not saying that all the servants are culprits.`
-` However, it is very likely that one of them is a culprit or has been assisting the culprit.`
+` ......I'm not saying that all the {ruby:çeviri > hizmetkarlar:servants} are {ruby:çeviri > suçlular:culprits}.`
+` However, it is very likely that one of them is a {ruby:çeviri > suçlu:culprit} or has been assisting the {ruby:çeviri > suçlu:culprit}.`
 ` ......We should split them apart and have people with guns keep an eye on them."`
 `Rudolf and Hideyoshi looked at each other again.`
 `......What she was saying made sense, and it sounded as though she was calmly smoking out the most suspicious people at this point in time.`

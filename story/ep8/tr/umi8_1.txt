@@ -61,12 +61,12 @@
 `And so...`
 `For the first time ever, all five cousins were gathered together.`
 `{n}October 4th, 1986, became a day like no other.`
-`The kids dashed up the path leading from the harbor to the rose garden.`
+`The kids dashed up the path leading from the harbor to the {ruby:çeviri > gül bahçesi:rose garden}.`
 `They were probably so charged up that even walking was too boring for them.`
 `"Wahhahahaha!`
 ` See that?!`
 ` First pla~ce!"`
-`Battler was the first to leap across the finish line that was the entrance to the rose garden.`
+`Battler was the first to leap across the finish line that was the entrance to the {ruby:çeviri > gül bahçesi:rose garden}.`
 `Apparently, he was trying to make up for the dishonor he had suffered on the boat by proving his superiority on land.`
 `A short while later, Ange and Maria reached him in a dead heat.`
 `"I'm second!!`
@@ -105,7 +105,7 @@
 ` The family members have arrived."`
 `"They made it here safely, then?`
 ` I must let Father know."`
-`"Are they all in the guesthouse now?"`
+`"Are they all in the {ruby:çeviri > konukevi:guesthouse} now?"`
 `"Yes.`
 ` They will come here to meet you after they have set down their luggage."`
 `"Understood.`
@@ -153,7 +153,7 @@
 `"I've never had pumpkin tea before...`
 ` That little touch of sweetness makes it delicious."`
 `Before serving the tea to the guests, Gohda served some to Shannon.`
-`Until then, Shannon had thought it would be outrageous for a servant such as herself to drink the same thing as the family and their guests.`
+`Until then, Shannon had thought it would be outrageous for a {ruby:çeviri > hizmetkar:servant} such as herself to drink the same thing as the family and their guests.`
 `However, according to Gohda, that kind of thinking was a mistake.`
 `"One must not serve something if one does not know the taste beforehand.`
 ` ......For example, when you visit a restaurant,`
@@ -168,7 +168,7 @@
 `"That's right.`
 ` After tasting tea this delicious, I can't wait to let everyone else try it."`
 `"And because of that!`
-` We servants must be very familiar with the tastes of all sorts of foods.`
+` We {ruby:çeviri > hizmetkarlar:servants} must be very familiar with the tastes of all sorts of foods.`
 ` So if you ever catch me stealing a little nibble, that's all part of my job description... Hoh‐hoh‐ho."`
 `"It's both a perk and a part of the job.`
 ` Do you understand?"`
@@ -178,7 +178,7 @@
 `"Oh, Genji‐san, you must try some as well.`
 ` Seeing as it's almost Halloween, I decided to make some pumpkin tea."`
 `"Later, perhaps.`
-` The family will be arriving at the mansion very soon.`
+` The family will be arriving at the {ruby:çeviri > malikane:mansion} very soon.`
 ` ......It looks as though the children will be with them."`
 `"Yes sir.`
 ` The cups are ready to go as well."`
@@ -194,7 +194,7 @@
 ` Shannon, Kumasawa, go to serve them.`
 ` Gohda, hurry up with that tea."`
 `"""Right away!"""`
-`The family conference—the largest event of the year for the servants.`
+`The family conference—the largest event of the year for the {ruby:çeviri > hizmetkarlar:servants}.`
 ` Their morale was high, and they were all full of determination to make it through another year by banding together.`
 `"Pardon the interruption.`
 ` The relatives are here."`
@@ -212,7 +212,7 @@
 `"My tummy ache went away!`
 ` I rubbed my tummy clockwise!"`
 `"Uu‐uu!`
-` That's a magic charm to heal tummy aches!"`
+` That's a {ruby:çeviri > büyü:magic} charm to heal tummy aches!"`
 `"Now, Maria, quiet down..."`
 `"Oh, is that Battler‐kun...?!`
 ` You've grown so big!"`
@@ -258,7 +258,7 @@
 ` Staying stylish is a good thing."`
 `"And yet, he always shows up wearing the same tie in the end."`
 `The family members burst out laughing.`
-`The sweet scent of Gohda's specially made pumpkin tea spread throughout the parlor, and the calm atmosphere grew more cheery and excited.`
+`The sweet scent of Gohda's specially made pumpkin tea spread throughout the {ruby:çeviri > salon:parlor}, and the calm atmosphere grew more cheery and excited.`
 `"Look, Mama! Look, Mama!`
 ` It's a pumpkin cookie! For Halloween!!"`
 `"Oh, that's right.`
@@ -286,11 +286,11 @@
 `Just when it looked like she was about to get in a bad mood and start grumbling, Maria started teaching her a "cookie game", and Ange immediately became engrossed with that distraction.`
 `Then, the clomping sound of approaching heavy footsteps could be heard from the hallway.`
 `Having a pretty good idea of whose footsteps they were, the relatives straightened their backs.`
-`Those quick footsteps stopped for a moment just outside the parlor door.`
+`Those quick footsteps stopped for a moment just outside the {ruby:çeviri > salon:parlor} door.`
 `......As though someone was taking a deep breath and setting up a dramatic pause.`
 `Then, as the door exploded open, Kinzo—with Genji and Nanjo standing behind him—yelled out loud.`
 `"<Hhhhhhappy Halloween!!`
-` And trick or tree{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}a{-}a{-}a{-}a{-}aat!!>"`
+` And {ruby:çeviri > numara:trick} or tree{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}a{-}a{-}a{-}a{-}aat!!>"`
 `"""<Trick‐or‐treeeeat>!!"""`
 `The cousins shouted it back.`
 `{n}The adults returned the greeting too, looking a little embarrassed.`
@@ -428,12 +428,12 @@
 `"So, it is ready...!`
 ` Come, ladies and gentlemen!`
 ` Let us enjoy the splendid lunch that Gohda has prepared for us.`
-` Quickly, to the dining hall!"`
+` Quickly, to the {ruby:çeviri > yemek salonu:dining hall}!"`
 `"This way, everyone.`
 ` Follow me."`
-`"We will carry your presents to your rooms in the guesthouse."`
+`"We will carry your presents to your rooms in the {ruby:çeviri > konukevi:guesthouse}."`
 `"Please, feel free to leave them here as you leave for lunch."`
-`The relatives stood up, leaving their presents where they lay on tables and sofas, and followed Kinzo out of the parlor.`
+`The relatives stood up, leaving their presents where they lay on tables and sofas, and followed Kinzo out of the {ruby:çeviri > salon:parlor}.`
 `......Only Ange remained standing there, stunned,`
 ` ......as she clutched the gift box Kinzo had given her...`
 `Never once had Gohda's lunches betrayed expectations.`
@@ -446,7 +446,7 @@
 `The Ushiromiya family sat at meals in a specific ranked seating order,`
 ` so the adult siblings, the cousins, and the spouses all sat in groups.`
 `That made it even easier for conversation to flow smoothly.`
-`Ange had withdrawn slightly from the cousins' chat and was looking around the dining hall.`
+`Ange had withdrawn slightly from the cousins' chat and was looking around the {ruby:çeviri > yemek salonu:dining hall}.`
 `......What are Kinzo and the adult siblings doing?`
 `Their conversation seemed to be peaceful and fun.`
 `Most of the time, the siblings were mothers or fathers of their own households.`
@@ -524,6 +524,6 @@
 `"Then I guess we'll be heading down to the beach."`
 `"Mm.`
 ` Take it easy and enjoy your time together, grandchildren."`
-`The cousins rose from their seats and noisily left the dining hall.`
+`The cousins rose from their seats and noisily left the {ruby:çeviri > yemek salonu:dining hall}.`
 `Maria grabbed Ange's hand and dragged her along.`
 `However, Ange's expression was vague and absentminded, the opposite of Maria's full smile......`

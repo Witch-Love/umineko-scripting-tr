@@ -1,4 +1,4 @@
-`Every year, the relatives who visit Rokkenjima let out a sigh of admiration at the rose garden which first greets them...`
+`Every year, the relatives who visit Rokkenjima let out a sigh of admiration at the {ruby:çeviri > gül bahçesi:rose garden} which first greets them...`
 `They stood there talking with each other about the roses' beauty and the state of their blooming this year.`
 `There was a single unhealthy rose among them, and Maria became overwhelmed with dejection at its state.`
 `But George used his quick wits,`
@@ -61,10 +61,10 @@
 ` ...Maria's really knowledgeable!"`
 `"......Ain't it the truth.`
 ` Even I never knew Halloween had such a history."`
-`"But where did the whole "trick or treat" thing come from?"`
+`"But where did the whole "{ruby:çeviri > numara:trick} or treat" thing come from?"`
 `Her knowledge was so extensive that the adults had started listening in too at some point.`
 ` Maria, who was normally always treated like the youngest, puffed out her chest in pride.`
-`Rosa tried to say this was just a kid's story, and that she wanted to quickly break up the circle and set the luggage down in the guesthouse,`
+`Rosa tried to say this was just a kid's story, and that she wanted to quickly break up the circle and set the luggage down in the {ruby:çeviri > konukevi:guesthouse},`
 ` but nobody else agreed, and she let out a heavy sigh.`
 `"Uu.`
 ` Trick or treat is just for fun.`
@@ -96,8 +96,8 @@
 ` You know what?!`
 ` October is the time when the power of witches and demons is at its most vigorous and prosperous!`
 ` Kihihihihihihihi, I'm sure {f:5:Beatrice} will come too!"`
-`"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her!`
-` We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!`
+`"And then, we'll eat the marshmallow candies together, and she'll take me to the {ruby:çeviri > Altın Diyar:Golden Land} with her!`
+` We'll sing {ruby:çeviri > büyülü:magical} songs together, learn {ruby:çeviri > büyü:magic} spells together, learn how to draw {ruby:çeviri > büyü:magic} circles together!`
 ` And then I'm going to learn the secrets of runes, and become a great witch really, really quickly!"`
 `"My, my, isn't that wonderful.`
 ` It's best for kids to have dreams.`
@@ -110,7 +110,7 @@
 `"Tha‐thank you very much.`
 ` ...But Maria has already outgrown that age.`
 ` ...Hey, I'm telling you to stop!"`
-`Rosa scolded Maria, trying to shut her up before her cheery discussion about black magic earned her the snickers of the relatives.`
+`Rosa scolded Maria, trying to shut her up before her cheery discussion about black {ruby:çeviri > büyü:magic} earned her the snickers of the relatives.`
 `"Wow...`
 ` That's a pretty large‐scale dream.`
 ` ......By the way, who was {f:5:Beatrice} again?`
@@ -124,13 +124,13 @@
 `"...Kanon‐kun, don't you have work to do?`
 ` Please leave now.`
 ` Gohda‐san, I think everyone wants to set down their bags for the time being.`
-` Sorry, but could you guide everyone to the guesthouse?"`
+` Sorry, but could you guide everyone to the {ruby:çeviri > konukevi:guesthouse}?"`
 `"Certainly.`
-` ...Well then, everyone, I will guide you to the guesthouse."`
+` ...Well then, everyone, I will guide you to the {ruby:çeviri > konukevi:guesthouse}."`
 `"......Then if you will excuse me."`
-`Led by Gohda, the relatives headed off in the direction of the guesthouse.`
+`Led by Gohda, the relatives headed off in the direction of the {ruby:çeviri > konukevi:guesthouse}.`
 `Their minds on setting down their luggage and taking a quick rest, they didn't notice that Rosa and Maria had stayed in the same spot.`
-`After watching them leave towards the guesthouse, Rosa's features changed suddenly.`
+`After watching them leave towards the {ruby:çeviri > konukevi:guesthouse}, Rosa's features changed suddenly.`
 `She let go with the hand that had been gripping Maria's arm the whole time.`
 `...There was a bright red mark there, making it clear how much excessive force she had been gripping Maria's slender arm with.`
 `That hand then smacked Maria over the head, and pulled her left ear up into the air, pinching it sharply...`
@@ -139,7 +139,7 @@
 `"Mama, it hurts, Mama, it hurts... It hurts it hurts it hurts......"`
 `"Halloween, Halloween, do you ever stop...?`
 ` A witch festival...?`
-` Who cares about the Celts, who cares about black magic, are you an {i:idiot}......?`
+` Who cares about the Celts, who cares about black {ruby:çeviri > büyü:magic}, are you an {i:idiot}......?`
 ` You are nine years old, nine..."`
 `"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...`
 ` We were even late because I bought them for you.`
@@ -178,7 +178,7 @@
 ` Finish off the bad witch......"`
 `"Why don't you, ...why don't you just stay there doing that forever!!`
 ` And then you can just stand there, mumbling about witches and Halloween forever!!"`
-`After throwing those words at Maria, Rosa went off towards the guesthouse, leaving Maria behind.`
+`After throwing those words at Maria, Rosa went off towards the {ruby:çeviri > konukevi:guesthouse}, leaving Maria behind.`
 `...Maria, unable even to remember that it was alright to cry,`
 ` kept staring down at the trampled, unrecognizable jack‐o'‐lantern candy...`
 `"Oh, Rosa.`
@@ -275,7 +275,7 @@
 `"Pla‐...play?"`
 `"...Yep.`
 ` Play.`
-` We're going to study magic together.`
+` We're going to study {ruby:çeviri > büyü:magic} together.`
 ` Kihihihihihihihi..."`
 `......The face of the witch, who Kanon had tried to pretend was a bad dream,`
 ` ......began to slowly creep into the back of his mind......`
@@ -336,16 +336,16 @@
 ` We've gotta value this precious time we've got, and talk together frankly."`
 `Even though the tea hadn't even come yet, ...they were very strong‐minded.`
 `"But before that, I wonder if we have enough leeway to enjoy some black tea at our leisure,`
-` surrounded by the wonderful furnishings of the mansion's parlor..."`
+` surrounded by the wonderful furnishings of the {ruby:çeviri > malikane:mansion}'s {ruby:çeviri > salon:parlor}..."`
 `Kyrie's words seemed to hold some slight admonishment towards all of the people gathered in that place.`
 `They all understood, and as they cleared their throats and straightened their neckties, the atmosphere in the room returned to normal for a moment.`
 `"......Excuse me.`
 ` I have brought some tea."`
 `"Hey, Shannon‐chan.`
 ` You just keep gettin' prettier and prettier!"`
-`Shannon entered the parlor, pushing the serving cart.`
+`Shannon entered the {ruby:çeviri > salon:parlor}, pushing the serving cart.`
 `Everyone decided to slowly enjoy some black tea for the time being...`
-`A wonderful aroma began to spread throughout the parlor.`
+`A wonderful aroma began to spread throughout the {ruby:çeviri > salon:parlor}.`
 `Looking at that scene, it would have been impossible to guess the strained atmosphere which had been there until right before Shannon had entered.`
 `...Of course, Shannon, who was setting out the tea, probably didn't even notice.`
 `......Kyrie made a gesture that seemed to laugh at everyone's adult appearance.`
@@ -411,7 +411,7 @@
 ` ...I'm the one who should be apologizing.`
 ` We're both mothers with daughters, so really, we should have more of these conversations.`
 ` But every time we meet, we talk about something strange..."`
-`"......That's the fault of the atmosphere in this mansion.`
+`"......That's the fault of the atmosphere in this {ruby:çeviri > malikane:mansion}.`
 ` Once we breathe in this air, everyone gets so strained.`
 ` ......Just once, I want to drink a nice, long cup of tea with you, Rosa‐san, when we aren't attending a family conference.`
 ` There's a wonderful coffee shop in Ginza which is a favorite of mine.`
@@ -425,9 +425,9 @@
 `"Oh?`
 ` Do I see the first signs of rain...?"`
 `"...Huh?"`
-`There really were small splashes of rain on the glass of the parlor window.`
+`There really were small splashes of rain on the glass of the {ruby:çeviri > salon:parlor} window.`
 `{n}...It seemed that the weather had gotten worse faster than they had expected.`
-`......Just then, a silent thunderbolt struck inside Rosa's head, and she remembered that her beloved child was in the rose garden.`
+`......Just then, a silent thunderbolt struck inside Rosa's head, and she remembered that her beloved child was in the {ruby:çeviri > gül bahçesi:rose garden}.`
 `A normal girl would think about going into the house if the weather got bad.`
 `{n}......But Maria was different.`
 ` She would sometimes become stubborn, and wouldn't move no matter whether rain or even spears fell from the sky.`
@@ -447,17 +447,17 @@
 ` We can move that on even without Rosa.`
 ` Let's return to the matter at hand."`
 `".................."`
-`Rosa dashed from the entrance hall into the rose garden.`
+`Rosa dashed from the entrance hall into the {ruby:çeviri > gül bahçesi:rose garden}.`
 `When she opened the door, the wind that hit her was too strong to be called a breeze, and told her that the typhoon was approaching faster than she had thought.`
 `Just as Kyrie had said, small droplets of rain were mixed in with the wind.`
 ` There was also the low rumble of thunder.`
 `......It could start raining anytime.`
-`Rosa headed for the rose garden.`
+`Rosa headed for the {ruby:çeviri > gül bahçesi:rose garden}.`
 `{n}She headed for the place where she had scolded Maria a short while ago.`
 `...It was almost lunchtime.`
-`The children had been told that they could just come to the mansion at lunchtime,`
-` so they were probably in the guesthouse, waiting to be called.`
-`...Even if Maria didn't come, they would surely think that I had taken her to the mansion with me, and wouldn't worry much.`
+`The children had been told that they could just come to the {ruby:çeviri > malikane:mansion} at lunchtime,`
+` so they were probably in the {ruby:çeviri > konukevi:guesthouse}, waiting to be called.`
+`...Even if Maria didn't come, they would surely think that I had taken her to the {ruby:çeviri > malikane:mansion} with me, and wouldn't worry much.`
 `......After all, she was with her mother, so there shouldn't have been anything to worry about.`
 `Except I was here, and had thrown my daughter into the worsening weather outside, all alone...!`
 `"Mariaaa!!`
@@ -496,13 +496,13 @@
 `{n}...If she stood exposed to the wind for too long, she would probably catch a cold.`
 `"......So, Maria.`
 ` It will be lunch very soon.`
-` Come back to the mansion with Mama."`
+` Come back to the {ruby:çeviri > malikane:mansion} with Mama."`
 `"Uu.`
 ` I'm not coming."`
 `"Wh‐...why...?"`
 `Rosa thought that Maria had already forgiven her, so she never imagined she would refuse.`
 `But that expression on Maria's face didn't look like that of a child resisting her mother.`
-` ...So Rosa wasn't able to understand why Maria wanted to stand still in the rose garden, pointlessly, as the weather grew even worse.`
+` ...So Rosa wasn't able to understand why Maria wanted to stand still in the {ruby:çeviri > gül bahçesi:rose garden}, pointlessly, as the weather grew even worse.`
 `Maria answered that question...`
 `"It's {f:5:Beatrice}.`
 ` She'll come really soon.`
@@ -510,12 +510,12 @@
 `".........Maria..."`
 `Rosa started to say something, faltered, and then fell silent.`
 `...They had just gone to great lengths to make up with each other.`
-`{n}She chose her words carefully, trying to get Maria to come with her to the mansion without denying the witch outright.`
+`{n}She chose her words carefully, trying to get Maria to come with her to the {ruby:çeviri > malikane:mansion} without denying the witch outright.`
 `"......{f:5:Beatrice} is...`
 `coming?"`
 `"Uu!"`
 `"Really...`
-` Then instead of waiting here, why don't we wait in the mansion?`
+` Then instead of waiting here, why don't we wait in the {ruby:çeviri > malikane:mansion}?`
 ` If you stay in this wind too long, you'll catch a cold..."`
 `"She'll come!`
 ` {f:5:Beatrice} will come!!!"`
@@ -580,7 +580,7 @@
 `......Rosa could do nothing but watch this unfold, stunned.`
 `{n}...How could this person gloss over the fact that the candy was pitifully trampled, in a way that could satisfy Maria...?`
 `Maria looked as though she believed that it could be fixed as good as new.`
-`...There was no way that could be done without real "magic"...!`
+`...There was no way that could be done without real "{ruby:çeviri > büyü:magic}"...!`
 `"My, my, it is quite crushed, isn't it.`
 ` ......Come, Maria.`
 ` Close your eyes and try to remember."`
@@ -612,7 +612,7 @@
 `"Huh, ......ah, I, I'm sorry...!"`
 `At those words, it hit Rosa strongly.`
 `......Rosa knew her face.`
-`{n}......She knew it from the portrait of the witch.`
+`{n}......She knew it from the {ruby:çeviri > portre:portrait} of the witch.`
 `But, no, wait, ......was this mystery woman really......?!`
 `"......Maria.`
 ` I will give this to you in exchange for that sweet."`
@@ -623,8 +623,8 @@
 `"You must not.`
 ` The time will come soon to open it, but until then, you must not open it under any circumstances.`
 ` Take good care of it.`
-` It will become an invitation calling you to the Golden Land."`
-`"The Golden Land!!`
+` It will become an invitation calling you to the {ruby:çeviri > Altın Diyar:Golden Land}."`
+`"The {ruby:çeviri > Altın Diyar:Golden Land}!!`
 ` You're finally going to take me there!!`
 ` *giggle*!`
 ` *giggle*!!"`
@@ -660,15 +660,15 @@
 `With a personal envelope that no one but the Ushiromiya head can use...!`
 `"......Maria,`
 ` the weather is getting worse.`
-` Return to the guesthouse and wait for lunchtime."`
+` Return to the {ruby:çeviri > konukevi:guesthouse} and wait for lunchtime."`
 `".........Well then, Rosa, let us meet later.`
 ` Allow me to name myself there.`
 ` ...*cackle*cackle*cackle*."`
 `The witch turned her back to her, laughing.`
-`{n}...And headed off towards the mansion with an air of composure.`
-`Maria saw her off with an energetic reply, and then dashed off towards the guesthouse, leaving Rosa where she was.`
+`{n}...And headed off towards the {ruby:çeviri > malikane:mansion} with an air of composure.`
+`Maria saw her off with an energetic reply, and then dashed off towards the {ruby:çeviri > konukevi:guesthouse}, leaving Rosa where she was.`
 `......As though she didn't want to waste a second in informing the other cousins of her good fortune at meeting the witch.`
-`Ultimately, Rosa was left alone in the rose garden as the winds grew stronger,`
+`Ultimately, Rosa was left alone in the {ruby:çeviri > gül bahçesi:rose garden} as the winds grew stronger,`
 ` ......unable to do anything except pray that what had happened was just a daydream...`
 `When the witch entered the entrance hall, ......Genji was there.`
 `{n}With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...`
@@ -677,7 +677,7 @@
 `"...It's been a while, Genji.`
 ` .........Hmph.`
 ` You've gotten old."`
-`"......No matter how old it is, furniture will only carry out its work like furniture, until the end."`
+`"......No matter how old it is, {ruby:çeviri > mobilya:furniture} will only carry out its work like {ruby:çeviri > mobilya:furniture}, until the end."`
 `".........I remember how his wife used to be jealous of you.`
 ` ...Is Kinzo well?"`
 `"He is full of life."`
@@ -690,9 +690,9 @@
 `"Then let us greet him.`
 ` It will be good to hurl curses at each other after thirty years."`
 `As the witch grinned, she started walking, leaving Genji behind.`
-`{n}......Her gait was like that of a family member who knew the inside of the mansion well.`
+`{n}......Her gait was like that of a family member who knew the inside of the {ruby:çeviri > malikane:mansion} well.`
 `Genji followed her, as though he served her.`
-`At that very moment, Kyrie came out of the parlor.`
+`At that very moment, Kyrie came out of the {ruby:çeviri > salon:parlor}.`
 `{n}...She had probably come out to fix her makeup or something.`
 `And when she saw Genji following the witch, she was surprised, although her expression did not change.`
 `There was a visitor for Kinzo, whose remaining life was not long, on the day of the family conference when the fate of the inheritance was to be decided,`
@@ -706,7 +706,7 @@
 ` This is Kyrie‐sama, Rudolf‐sama's current wife."`
 `From this exchange, Kyrie realized that this woman was a guest of considerably high rank within the Ushiromiya family.`
 `.........And, the fact she was a guest of that level,`
-` ......coupled with the face of the entrance hall portrait behind her, ......made Kyrie's eyes open wide in an instant...`
+` ......coupled with the face of the entrance hall {ruby:çeviri > portre:portrait} behind her, ......made Kyrie's eyes open wide in an instant...`
 `"......Pleased to meet you.`
 ` My name is Kyrie.`
 ` I wonder if this is our first meeting.`
@@ -725,7 +725,7 @@
 ` Standing still in a place like this,`
 ` is something the matter...?"`
 `"I, I'm sorry.`
-` ......I was just a little fascinated by the portrait of the witch."`
+` ......I was just a little fascinated by the {ruby:çeviri > portre:portrait} of the witch."`
 `"......The Golden Witch, {f:5:Beatrice}, was it?`
 ` Something like—the revival of the Ushiromiya family to what it is today would never have been possible without the gold she gave...`
 ` ......A fantastical story, very much like Father."`
@@ -753,14 +753,14 @@
 ` ......What a pitiful man to not recognize that."`
 `"......He would probably continue his research until the day he could meet you again, even if he literally became a ghost."`
 `"Is it love or madness or obsession?`
-` ...I suppose they too will become magic if well enough developed.`
+` ...I suppose they too will become {ruby:çeviri > büyü:magic} if well enough developed.`
 ` ......You sad mage."`
 `The witch grasped the doorknob to the study.`
 `......When she did, there was a sound like that of flesh burning and splitting open.`
 `...It was the sound of the doorknob literally burning the witch's hand.`
 `"......{f:5:Beatrice}‐sama..."`
 `"What is this?`
-` .........A magic ward!`
+` .........A {ruby:çeviri > büyü:magic} ward!`
 ` ...That fool, is he unable to get by without relying on something like this...?"`
 `"...I have heard that this door is painful for you, {f:5:Beatrice}‐sama.`
 ` Shall I open it...?"`

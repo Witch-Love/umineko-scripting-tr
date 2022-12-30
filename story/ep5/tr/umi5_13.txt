@@ -1,18 +1,18 @@
-`"Battler‐san returned to the guesthouse at {nobr:3 a.m.}`
+`"Battler‐san returned to the {ruby:çeviri > konukevi:guesthouse} at {nobr:3 a.m.}`
 ` Then, the rest of you split up about thirty minutes later, is that correct?"`
 `"Yes, that's right.`
 ` We were getting pretty tired by that point.`
 ` We decided to take a short rest before starting up again."`
 `To smoke out the murderer of the first twilight,`
-` Erika closely questioned everyone involved to check their alibis and evidence.`
-`To confirm these, she went around the mansion with them,`
-` and when needed, took several trips out to the guesthouse through all the rain.`
+` Erika closely questioned everyone involved to check their {ruby:çeviri > mazeretler:alibis} and evidence.`
+`To confirm these, she went around the {ruby:çeviri > malikane:mansion} with them,`
+` and when needed, took several trips out to the {ruby:çeviri > konukevi:guesthouse} through all the rain.`
 `......Her vitality was admirable.`
 `......Though she was an uninvited guest,`
 ` everyone had long since stopped feeling anything strange about the way she imitated a detective...`
 `"......It seems Erika is also steadily building her foundation."`
 `"It's useless.`
-` Whether alibis exist or not, she can't deny our existence.`
+` Whether {ruby:çeviri > mazeretler:alibis} exist or not, she can't deny our existence.`
 ` ......Kinzo escaped through the window and is now one with the mists of Rokkenjima.`
 ` She can never capture or deny him."`
 `"When all's said and done, perhaps you could say he's escaped to the underside of the chessboard."`
@@ -64,7 +64,7 @@
 `Though Beato was taken aback at such granny‐like words coming out of {f:5:Virgilia}'s mouth all of a sudden,`
 ` she answered while bumping a fist against her chest.`
 `{f:5:Virgilia} had been absent often during this game.`
-`She might even have been away from her seat when Battler solved the epitaph and during the uproar that followed.`
+`She might even have been away from her seat when Battler solved the {ruby:çeviri > kitabe:epitaph} and during the uproar that followed.`
 `Apparently, she had been absent for so many critical points...`
 `that she didn't have a very good grasp of what had happened so far in this game...`
 `"For now, we've got five corpses.`
@@ -82,8 +82,8 @@
 ` {p:1:at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead}."`
 `"Why did Lia use the red......?"`
 `"Who knows.`
-` ......However, she is always thinking of Milady.`
-` She must have something in mind that will benefit Milady."`
+` ......However, she is always thinking of {ruby:çeviri > Leydim:Milady}.`
+` She must have something in mind that will benefit {ruby:çeviri > Leydim:Milady}."`
 `"......Hmmm."`
 `But they had hidden the corpses here so that no one could use the red...`
 `Despite that, however, Ronove was right—{f:5:Virgilia} always thought of {f:5:Beatrice} first.`
@@ -91,15 +91,15 @@
 `However, in the end she remembered that she was only a guest and shrugged.`
 `"Why did you have Gaap hide the corpses?"`
 `"Well,`
-` since the epitaph has already been solved, this game of mine is different from usual.`
+` since the {ruby:çeviri > kitabe:epitaph} has already been solved, this game of mine is different from usual.`
 ` I now have serving and protecting Natsuhi as my goal."`
 `"...........................`
 ` How would concealing their corpses protect Natsuhi?"`
 `"......We've more or less figured out what our opponents' moves will be.`
 ` This is probably a trap made to corner Natsuhi.`
-` Most likely, they'll sort through alibis for the first twilight and find them for everyone except Natsuhi."`
+` Most likely, they'll sort through {ruby:çeviri > mazeretler:alibis} for the first twilight and find them for everyone except Natsuhi."`
 `"Last night, Natsuhi‐sama was the first to leave the family conference, and then rested alone in her room.`
-` ......Unfortunately, she has no alibi whatsoever until the next morning."`
+` ......Unfortunately, she has no {ruby:çeviri > mazeret:alibi} whatsoever until the next morning."`
 `"We have already ensured that Kinzo's existence is impossible to disprove.`
 ` ......However, the enemy has one remaining method of breaking through that roadblock."`
 `"I see.`
@@ -109,18 +109,18 @@
 ` By watching the movements of the pieces involved with the family conference, we quickly realized that Natsuhi was isolated,`
 ` noticed that trap of theirs, and countered with this move."`
 `"The corpses disappear!`
-` Everyone has alibis, and no one exists who could have moved them.`
+` Everyone has {ruby:çeviri > mazeretler:alibis}, and no one exists who could have moved them.`
 ` Not only does this support the claim that a witch exists, it also throws doubt on whether they were actually dead in the first place,`
 ` making it just about possible for Natsuhi to avoid being a suspect."`
 `"In other words, it's possible for Natsuhi‐sama to claim...`
 `that the sacrifices of the first twilight were only playing dead."`
 `"Even though many people confirmed their deaths for certain in the cousins' room...?"`
-`"‘Confirmation’ is nowhere near red truth...!`
-` No matter how strongly they claim to have seen unmistakeable corpses, the red truth doesn't exist in the human world!`
+`"‘Confirmation’ is nowhere near {ruby:çeviri > kırmızı gerçek:red truth}...!`
+` No matter how strongly they claim to have seen unmistakeable corpses, the {ruby:çeviri > kırmızı gerçek:red truth} doesn't exist in the human world!`
 ` Because the corpses don't exist, Natsuhi can discount their words as a mistake,`
-` a trick, or by saying that all of them were lying,`
+` a {ruby:çeviri > numara:trick}, or by saying that all of them were lying,`
 ` and it's possible for her to do this over and over to buy time for herself."`
-`"In the human world, which lacks the red truth, perpetual check is an effective move."`
+`"In the human world, which lacks the {ruby:çeviri > kırmızı gerçek:red truth}, perpetual check is an effective move."`
 `"An endless argument with both sides denying the other's claims.`
 ` ......Not pretty."`
 `"True.`
@@ -129,7 +129,7 @@
 `"They do say that might makes right.`
 ` Wahahahahaha."`
 `"And even if I don't think it's beautiful,`
-` those Voyager witches will probably like it and say it isn't boring..."`
+` those {ruby:çeviri > Gezgin:Voyager} witches will probably like it and say it isn't boring..."`
 `"............I see.`
 ` I've managed to grasp the flow of this game.`
 ` ...It seems that it will get quite nasty."`
@@ -138,13 +138,13 @@
 `"A trap?"`
 `"Mm.`
 ` Someone Lady {f:5:Lambdadelta} created, who calls himself a man from 19 years ago, has already threatened Natsuhi.`
-` She was ordered to go into a closet in a certain guest room at {nobr:1 p.m.}, which is only a few minutes away, and hide there.`
+` She was ordered to go into a closet in a certain {ruby:çeviri > misafir odası:guest room} at {nobr:1 p.m.}, which is only a few minutes away, and hide there.`
 ` ......Krauss was taken as a hostage, so Natsuhi can't resist."`
 `".........I see.`
 ` How relentless.`
 ` ...Can you protect her?"`
 `"Of course.`
-` After all, Natsuhi isn't the culprit.`
+` After all, Natsuhi isn't the {ruby:çeviri > suçlu:culprit}.`
 ` No matter how much they treat her as one, both truth and illusions are on our side.`
 ` There's no way we can lose.`
 ` *cackle*cackle*cackle*cackle*!!"`
@@ -152,40 +152,40 @@
 `"......Wh‐what do you mean by that...?!!`
 ` A‐are you......saying that you suspect me?!!"`
 `"I hear what you're saying: you left before anyone else, returned to your room, and didn't leave that room until morning.`
-` I am simply explaining that I need you to prove that, otherwise it won't count as an alibi."`
+` I am simply explaining that I need you to prove that, otherwise it won't count as an {ruby:çeviri > mazeret:alibi}."`
 `"Prove it...?!`
 ` How...?!!"`
 `"Any way you like.`
 ` All you have to do is prove objectively that it was impossible for you to commit the crime.`
 ` .........Everyone else is cooperating.`
-` I would very much appreciate it if you could also be a little less harsh with me and please give me your alibi and evidence."`
+` I would very much appreciate it if you could also be a little less harsh with me and please give me your {ruby:çeviri > mazeret:alibi} and evidence."`
 `"......That's right.`
 ` The whole night is a blank space in time for Natsuhi nee‐san.`
-` ......After she left the conference saying she was going to bed, she might have gone to the guesthouse and attacked George and the others..."`
+` ......After she left the conference saying she was going to bed, she might have gone to the {ruby:çeviri > konukevi:guesthouse} and attacked George and the others..."`
 `"Don't be so ridiculous!!`
 ` Why would I kill George‐kun, and most of all, whyever would I kill my own daughter?!!"`
 `"Calm down.`
 ` ......We're all equally suspicious.`
 ` It's sad, but we all have to prove our innocence."`
 `"Yeah.`
-` We've all been thinking frantically about how to prove our alibis for last night so we can clear up the suspicion against us."`
+` We've all been thinking frantically about how to prove our {ruby:çeviri > mazeretler:alibis} for last night so we can clear up the suspicion against us."`
 `"I know you can't like being suspected, Natsuhi‐san.`
 ` If it frustrates you, shouldn't your first priority be searchin' for some way to prove your own innocence...?"`
 `The relatives spoke as though they were all under equal suspicion,`
 ` but the mood about the place didn't feel so peaceful.`
 `Erika was still in the middle of confirming everything,`
-` but other than Natsuhi, who was unwilling to prove her alibi,`
-` everyone else had an alibi which was reasonably credible.`
+` but other than Natsuhi, who was unwilling to prove her {ruby:çeviri > mazeret:alibi},`
+` everyone else had an {ruby:çeviri > mazeret:alibi} which was reasonably credible.`
 `Only Natsuhi, who claimed that just being suspected was an insult, was uncooperative with Erika,`
 ` and her position began to grow more and more perilous......`
-`This parlor was no longer a place of comfort for Natsuhi.`
+`This {ruby:çeviri > salon:parlor} was no longer a place of comfort for Natsuhi.`
 `{n}And the sound of the cup smashing had made that decisive.`
 `"Th‐......this is ridiculous!`
 ` Why must I be suspected when I've lost a daughter...?!!`
-` You're maliciously trying to make me look like the culprit just because I went to bed early last night!`
+` You're maliciously trying to make me look like the {ruby:çeviri > suçlu:culprit} just because I went to bed early last night!`
 ` I cannot stand this humiliation any further...!!"`
 `"Oh, so what are you going to do about it?`
-` Show us some kind of alibi that proves your innocence.`
+` Show us some kind of {ruby:çeviri > mazeret:alibi} that proves your innocence.`
 ` As if you could!!`
 ` Give me back my George, you murderer!!"`
 `"Give it a rest, Eva...!`
@@ -196,7 +196,7 @@
 ` We're a little too high‐strung."`
 `"Aunt Natsuhi......`
 ` Where are you going...?"`
-`"This search for alibis and culprits is truly ludicrous...!`
+`"This search for {ruby:çeviri > mazeretler:alibis} and {ruby:çeviri > suçlular:culprits} is truly ludicrous...!`
 ` When the typhoon passes and the police arrive, everything will be exposed to the light of day.`
 ` There's no reason whatsoever for us to play detectives.`
 ` Am I wrong, Erika‐san?"`
@@ -236,19 +236,19 @@
 ` I know this is a horrible situation, but make sure that the guests at least have everything they need."`
 `"Y‐yes, Madam......`
 ` I shall do so......"`
-`With everyone watching her, Natsuhi left the parlor.`
+`With everyone watching her, Natsuhi left the {ruby:çeviri > salon:parlor}.`
 `From their faces, she could tell that they were expecting the classic mystery pattern...`
 `that the first person to quarrel and leave the circle would become the next victim.`
 `............Natsuhi......couldn't disobey because of the threat against Krauss, who had been taken as a hostage.`
 `Very soon, it would be {nobr:1 p.m.}, the time that had been arranged.`
-`She was to hide for an hour in the closet of a specific guest room.`
+`She was to hide for an hour in the closet of a specific {ruby:çeviri > misafir odası:guest room}.`
 `It was easy to suspect that this bizarre order was a trap to select her as the next sacrifice.`
 `She thought of various ways to resist,`
-` but all methods would be useless against a culprit who had a hostage and was observing her from close by...`
+` but all methods would be useless against a {ruby:çeviri > suçlu:culprit} who had a hostage and was observing her from close by...`
 `So Natsuhi could do nothing but obediently follow his orders,`
 ` and then claim that she had been forced to do this for her husband's safety...`
 `As the arranged time had drawn near,`
-` Natsuhi had intentionally acted annoyed and smashed the cup on the ground to give her an excuse for slipping out of the parlor.`
+` Natsuhi had intentionally acted annoyed and smashed the cup on the ground to give her an excuse for slipping out of the {ruby:çeviri > salon:parlor}.`
 `.........At any rate, no matter how cowardly a trap it may be, ......I cannot disobey now.`
 `I am now the one who carries the burden of the One‐winged Eagle.`
 `......Now that my husband, Krauss, has been captured,`
@@ -261,12 +261,12 @@
 `".............................."`
 `......I think dashing away in a rage got me here without raising too much suspicion.`
 `So far......everything has gone well.`
-`Before my eyes was the doorknob of the specified guest room.`
+`Before my eyes was the doorknob of the specified {ruby:çeviri > misafir odası:guest room}.`
 `{n}......However, ...I wondered about the lock.`
-`The servants are under orders to always lock any unused rooms.`
+`The {ruby:çeviri > hizmetkarlar:servants} are under orders to always lock any unused rooms.`
 `......What will I do if it's locked...?`
-`I dashed out of the parlor pretending that I was returning to my room.`
-`Going back and asking a servant to unlock this guest room would be obviously suspicious...`
+`I dashed out of the {ruby:çeviri > salon:parlor} pretending that I was returning to my room.`
+`Going back and asking a {ruby:çeviri > hizmetkar:servant} to unlock this {ruby:çeviri > misafir odası:guest room} would be obviously suspicious...`
 `If possible, ......I'd like to get this eerie hide‐and‐seek over with without anyone noticing.`
 `In that phone call from the one who claimed to be a man from 19 years ago,`
 ` he said that I would win if no one found me, but lose if anyone did find me.`
@@ -286,14 +286,14 @@
 `If I were to be killed in this situation, in this room,`
 ` ......it might create a new baffling murder case, like an extension of the one which occurred this morning.`
 `".........I‐...if that's what he's up to, so much the better.`
-` ...It will be a good chance to confront the culprit directly..."`
+` ...It will be a good chance to confront the {ruby:çeviri > suçlu:culprit} directly..."`
 `Natsuhi had some experience with using a {ruby:Japanese polearm:naginata}, but only from casual lessons.`
 `Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.`
 `As she was now, she had no realistic chance of prevailing over a man with malicious intent on her own, and no weapons that could make that possible.`
 `".............................."`
 `She readied herself......and slowly opened the door.`
 `She couldn't afford to stand around in the corridor and risk being seen by someone...`
-`The atmosphere inside the guest room......was ice‐cold,`
+`The atmosphere inside the {ruby:çeviri > misafir odası:guest room}......was ice‐cold,`
 ` and she could sense no trace of a person waiting impatiently for her.`
 `All she could hear were the unsettling sounds of the wind and rain.`
 `At first, that seemed to be proof that no one existed to threaten her,`
@@ -310,11 +310,11 @@
 ` or that a strange letter would be lying in the closet.`
 `......She had even imagined the worst, that her husband's corpse might be inside.`
 `However, none of these things she imagined turned out to be true.`
-`All that was here was a cold guest room...`
+`All that was here was a cold {ruby:çeviri > misafir odası:guest room}...`
 `and a lifeless closet which silently urged her to go inside......`
 `"............And he told me...to hide in here for an hour...`
 ` ......He's making fun of me."`
-`Natsuhi shrugged, turned around, then locked and chained the guest room door.`
+`Natsuhi shrugged, turned around, then locked and chained the {ruby:çeviri > misafir odası:guest room} door.`
 `"This way, no one will be able to get into this room.`
 ` ......In other words, no one will be able to find me for the next hour.`
 ` I win.`
@@ -322,10 +322,10 @@
 `This would certainly result in a total victory in the hide‐and‐seek game against that mystery man.`
 `......However, it was such an easy victory, it made her feel uneasy.`
 `This is normally against the rules of hide‐and‐seek...`
-`......Even if I win, won't this displease the culprit?`
+`......Even if I win, won't this displease the {ruby:çeviri > suçlu:culprit}?`
 `And everyone thinks I'm in my room right now.`
 `If they find a room with a chain set, that will be an impossible locked room to them.`
-`Erika was dashing around the mansion to confirm everyone's alibi.`
+`Erika was dashing around the {ruby:çeviri > malikane:mansion} to confirm everyone's {ruby:çeviri > mazeret:alibi}.`
 `If she notices that the chain is set on this room, there will probably be an uproar which will end in them cutting the chain and searching the room.`
 `......If that happens, I'll be found hiding in the closet right away.`
 `It would be easy for me to honestly confess why I was hiding.`
@@ -370,14 +370,14 @@
 `Will someone suddenly come to this room, open this closet,`
 ` ......and do something horrible to me now that I've come here in total secrecy as promised?`
 `......That's what I should be worrying about.`
-`The culprit, ......or one of his accomplices, is very close by.`
+`The {ruby:çeviri > suçlu:culprit}, ......or one of his accomplices, is very close by.`
 `{n}If they weren't, they wouldn't be able to observe me so thoroughly.`
-`I don't want to think it, but it's highly likely that the culprit bought off one of the servants.`
-`The culprit was able to hide an eerie card with "autumn" written on it in my room.`
+`I don't want to think it, but it's highly likely that the {ruby:çeviri > suçlu:culprit} bought off one of the {ruby:çeviri > hizmetkarlar:servants}.`
+`The {ruby:çeviri > suçlu:culprit} was able to hide an eerie card with "autumn" written on it in my room.`
 `My personal room is always locked.`
-`{n}That trick wouldn't have been possible without a key.`
-`Instead of believing that they obtained the key when the servants weren't looking,`
-` it's much more realistic to assume that one of the servants lent the culprit a hand...`
+`{n}That {ruby:çeviri > numara:trick} wouldn't have been possible without a key.`
+`Instead of believing that they obtained the key when the {ruby:çeviri > hizmetkarlar:servants} weren't looking,`
+` it's much more realistic to assume that one of the {ruby:çeviri > hizmetkarlar:servants} lent the {ruby:çeviri > suçlu:culprit} a hand...`
 `"Still,`
 ` .........h‐how...`
 `......did they know that autumn is my favorite season.........?`
@@ -392,7 +392,7 @@
 ` ...............Shannon...`
 `On an autumn day long ago, I happened to be in a good mood,`
 ` and I mentioned that autumn was my favorite of the four seasons.`
-`......I can't believe it... Then the culprit, or one of their accomplices, has to be Shannon...!`
+`......I can't believe it... Then the {ruby:çeviri > suçlu:culprit}, or one of their accomplices, has to be Shannon...!`
 `"Only Shannon could know that I like autumn...`
 ` ......In that case, ......this is clear proof that Shannon is involved...!`
 ` That card with "autumn" on it is proof...!`
@@ -407,22 +407,22 @@
 `So I realized that this anger was a sign that I was actually frightened,`
 ` and I tried my best to remain calm...`
 `......However, this is a fascinating clue that I can use to turn things around.`
-`Shannon may not be reliable as a servant,`
+`Shannon may not be reliable as a {ruby:çeviri > hizmetkar:servant},`
 ` but if she's the accomplice used by that mystery man, this might actually be convenient.`
 `She's a timid girl.`
 ` If I threaten her, she'll probably spill the name of the mastermind in an instant.`
 `I'll tell the police about this in secret.`
-`{n}I'm certain it will be a big clue that will help in arresting the culprit.`
+`{n}I'm certain it will be a big clue that will help in arresting the {ruby:çeviri > suçlu:culprit}.`
 `"......That card was probably meant to surprise me and control me,`
 ` ......but he's actually dug his own grave."`
 `{a:c:`
 `{p:1:I never told anyone except Shannon that I like autumn}.}`
-`This is unshakable proof that she's working with the culprit......`
+`This is unshakable proof that she's working with the {ruby:çeviri > suçlu:culprit}......`
 `Though I'd thought this time in the closet would crush me with uncertainty and uneasiness, it had actually given me the start of a counterattack.`
 `If I hadn't been given this time in the darkness, I probably wouldn't have noticed this.`
-`I felt almost grateful to the culprit for making up this foolish game.`
+`I felt almost grateful to the {ruby:çeviri > suçlu:culprit} for making up this foolish game.`
 `......My mood brightened.`
-`...I still couldn't guarantee that my husband was safe, but I was determined to take him back and force the culprit to face judgment...`
+`...I still couldn't guarantee that my husband was safe, but I was determined to take him back and force the {ruby:çeviri > suçlu:culprit} to face judgment...`
 `I gripped my fists tightly, and further strengthened my resolve to avoid losing this fight at any cost...`
 `Rattle, rattle!!`
 `At that moment, I heard the sudden sound of someone trying to force a locked door open,`
@@ -463,10 +463,10 @@
 `{n}In case I try to escape out the window...?`
 `No, ......that can't be it.`
 `That's right.`
-`When I left the parlor, everyone was talking about possibly taking a break.`
+`When I left the {ruby:çeviri > salon:parlor}, everyone was talking about possibly taking a break.`
 `After all, several murders had occurred.`
 ` And the weather was bad.`
-`{n}......There would be nothing abnormal about resting in a guest room here instead of returning to the guesthouse.`
+`{n}......There would be nothing abnormal about resting in a {ruby:çeviri > misafir odası:guest room} here instead of returning to the {ruby:çeviri > konukevi:guesthouse}.`
 `In that case, locking up and closing the shutters to guarantee safety was the proper course of action to take.`
 `When he finished closing the shutters,`
 ` ......there was a thunk`
@@ -506,7 +506,7 @@
 `............I've...`
 `...lost my daughter too.`
 `...I haven't seen her body with my own eyes, ......so it still doesn't really feel like she's dead.`
-`But if the one who carried her off was the culprit...`
+`But if the one who carried her off was the {ruby:çeviri > suçlu:culprit}...`
 `and he had some repulsive motive for doing it, ......just thinking about it makes me feel as though my chest will tear itself apart...`
 `The reason I'm hiding in here now is that I'm thinking more about my still living husband than my dead daughter.`
 `......But if I were given the chance, ...I'd be wailing at the top of my lungs too.`
@@ -540,7 +540,7 @@
 `He was clearly in a struggle with someone.`
 `......Who could it be?!`
 ` No, it doesn't matter who it is.`
-`It's probably the culprit, and they're probably trying to take Hideyoshi‐san's life at this very moment...!`
+`It's probably the {ruby:çeviri > suçlu:culprit}, and they're probably trying to take Hideyoshi‐san's life at this very moment...!`
 `Shouldn't I jump out of here and help him...?`
 `{n}Even if I couldn't help him, I could at least call for help......`
 `...No, but...if I do something like that, I'll be questioned about why I was hiding here...!`
@@ -572,12 +572,12 @@
 ` ......and that earlier feeling of Hideyoshi being in a noisy struggle had disappeared completely.`
 `What's.........going on here......?!`
 `So, right now, ......I'm in the same room as the murderer who killed Hideyoshi‐san......?!`
-`In that case, the culprit should try to escape from the room as soon as possible, ......so why are they staying so quiet in here...?!`
+`In that case, the {ruby:çeviri > suçlu:culprit} should try to escape from the room as soon as possible, ......so why are they staying so quiet in here...?!`
 `I haven't heard anything,`
-` ......nothing that might have been the culprit who attacked Hideyoshi‐san rushing away.`
+` ......nothing that might have been the {ruby:çeviri > suçlu:culprit} who attacked Hideyoshi‐san rushing away.`
 `......No matter how much I strain my ears, I can't sense anyone in the room.`
 `In fact, ......it's so silent that it makes what happened just a second ago feel like an illusion.`
-`In other words, .........does this mean......that the culprit is holding his breath,`
+`In other words, .........does this mean......that the {ruby:çeviri > suçlu:culprit} is holding his breath,`
 ` standing right in front of this closet...`
 `waiting for me to shamelessly come out......?`
 `I don't even know what to be scared of anymore.`
@@ -632,10 +632,10 @@
 ` Stupid, stupid,`
 ` stupiii{-}i{-}i{-}i{-}iiid!!`
 ` Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
-`"......The culprit probably waited for us to get careless and split up......"`
+`"......The {ruby:çeviri > suçlu:culprit} probably waited for us to get careless and split up......"`
 `"That bastard......`
 ` So he still hasn't had enough blood...?!"`
-`"So he really is......hiding somewhere in this mansion...`
+`"So he really is......hiding somewhere in this {ruby:çeviri > malikane:mansion}...`
 `...and coming after us......?"`
 `"But there's something strange here.`
 ` ......The doors and windows to this room are completely sealed."`
@@ -644,7 +644,7 @@
 ` The shutters are all shut, and the chain was on the door until a second ago......"`
 `"Huh?!`
 ` Isn't that bizarre...?!`
-` In that case, how did the culprit attack Hideyoshi‐san in this room...?!"`
+` In that case, how did the {ruby:çeviri > suçlu:culprit} attack Hideyoshi‐san in this room...?!"`
 `"Perhaps they threw this stake through the crack in the door......!"`
 `"Hideyoshi‐san's bed is in a total blind spot from this crack.`
 ` You couldn't even kill him with a gun.`
@@ -652,7 +652,7 @@
 ` It's a locked‐room murder."`
 `"A, ......a locked‐room murder......"`
 `"......It's a bit too early to be sure about that.`
-` Maybe the culprit removed the ceiling in the bathroom and escaped to the space above it, or maybe you can close the shutters from outside."`
+` Maybe the {ruby:çeviri > suçlu:culprit} removed the ceiling in the bathroom and escaped to the space above it, or maybe you can close the shutters from outside."`
 `"The shutters.`
 ` ............They didn't budge an inch from the outside.`
 ` I just went and checked."`
@@ -674,11 +674,11 @@
 ` They're locked tight from the inside."`
 `"......What are they bickering about in there?"`
 `Eva was arguing with Nanjo about something.`
-`Apparently, she wanted to carry the body to the parlor.`
+`Apparently, she wanted to carry the body to the {ruby:çeviri > salon:parlor}.`
 `Nanjo tried to calm her, saying that they should leave the crime scene as untouched as possible until the police came.`
 `"What happened to the other corpses when we did that?!`
-` The culprit carried them off somewhere!`
-` It may be that the culprit isn't satisfied with just killing, but intends to do something with the bodies as well...!!`
+` The {ruby:çeviri > suçlu:culprit} carried them off somewhere!`
+` It may be that the {ruby:çeviri > suçlu:culprit} isn't satisfied with just killing, but intends to do something with the bodies as well...!!`
 ` So no way!`
 ` No way we're leaving my husband all alone here!!"`
 `Eva did have a point.`
@@ -703,13 +703,13 @@
 `It was so painful to see that Shannon and Kumasawa stripped the blanket off the bed to further cover the body...`
 `"......Hey, out of the way."`
 `"Yes, I am out of the way."`
-`"Let's carry him to the parlor."`
+`"Let's carry him to the {ruby:çeviri > salon:parlor}."`
 `"Y‐yes...!"`
 `"Honey, honeyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y, awaa{0}a{0}a{0}a{0}a{0}a{0}ahhhhh...!!"`
 `"......Listen up, everyone.`
 ` From now on, we'll always move as a group.`
 ` You must not let yourself be isolated."`
-`"The culprit probably got a master key when he attacked Genji‐san.`
+`"The {ruby:çeviri > suçlu:culprit} probably got a master key when he attacked Genji‐san.`
 ` It's clear that locking up will no longer keep us safe."`
 `"B‐but...even the chain was set. How did they do it......?!"`
 `"......It's impossible...`
@@ -717,7 +717,7 @@
 ` ......Even with a master key, it's impossible to force your way into that room......!"`
 `"It must have been {f:5:Beatrice}‐sama's doing.........oooohhhhh......"`
 `"......Th‐there's no way {f:5:Beatrice}‐sama did this...`
-` ......The epitaph has been solved, so there shouldn't be any more reason to hold the ritual..."`
+` ......The {ruby:çeviri > kitabe:epitaph} has been solved, so there shouldn't be any more reason to hold the ritual..."`
 `"As if we could understand her reasons...`
 ` This is impossible for anyone except a witch...!"`
 `"......Impossible for anyone except a witch...you say?`
@@ -725,15 +725,15 @@
 ` That has a nice ring to it."`
 `"Erika‐chan, are you listening?`
 ` We've decided to stick together from now on.`
-` First, we're carrying Hideyoshi‐san's body to the parlor.`
+` First, we're carrying Hideyoshi‐san's body to the {ruby:çeviri > salon:parlor}.`
 ` Can you hold off playing detective until we get there?"`
 `"........................"`
 `When she heard the words "playing detective", Erika grimaced visibly.`
-`Then, after everyone had filed out, she took a single step into the now empty guest room,`
+`Then, after everyone had filed out, she took a single step into the now empty {ruby:çeviri > misafir odası:guest room},`
 ` .........looked around, and burned the scene into her eyes.`
 `......Erika claimed to have a photographic memory.`
 `If that was true, those few seconds were more than enough for her.`
-`Later on, she could sip black tea in the parlor while perusing her mental photographs of the crime scene,`
+`Later on, she could sip black tea in the {ruby:çeviri > salon:parlor} while perusing her mental photographs of the crime scene,`
 ` and enjoy playing the part of the armchair detective...`
 `Then, suddenly, her eyes stopped on the closet off to the side.`
 `......A closet for hanging overcoats.`
@@ -749,7 +749,7 @@
 `"Hey, what do you think you're doing, brats?!`
 ` Move it...!!"`
 `Rudolf told them to hurry.`
-`After clicking her tongue and glaring at the closet, Erika followed Battler back to the parlor for the time being...`
+`After clicking her tongue and glaring at the closet, Erika followed Battler back to the {ruby:çeviri > salon:parlor} for the time being...`
 `.........The sound of their footsteps finally faded.`
 `That time of terror,`
 ` when I feared that even the dripping of the cold sweat that covered my cheeks might be noticed, was finally......over.`
@@ -762,12 +762,12 @@
 `That's right, I have to get back quickly...`
 `A new murder has occurred.`
 `{n}They'll probably try to tell me about it.`
-`And they'll probably do it immediately after they carry Hideyoshi‐san's body back to the parlor.`
+`And they'll probably do it immediately after they carry Hideyoshi‐san's body back to the {ruby:çeviri > salon:parlor}.`
 `I can get around a phone call by saying I was asleep and didn't notice, but if they come knocking directly, that'll be bad...`
 `I have to get back quickly, before they try to force their way in......`
 `I don't even know whether I should sprint back noisily to save every second I can, sneak back with hushed footsteps,`
 ` or walk around normally as though I don't know anything has happened......!`
-`The one thing I'm certain of is that I have to avoid bumping into them on their way back to the parlor.`
+`The one thing I'm certain of is that I have to avoid bumping into them on their way back to the {ruby:çeviri > salon:parlor}.`
 `I have to get to my room......at a quick pace, without being noticed by anyone......!`
 `I passed through the hall...`
 `...to the lobby.`
@@ -785,7 +785,7 @@
 ` Your room {i:is} upstairs, isn't it......?"`
 `Erika coldly pointed out this strange fact.`
 `{n}......Natsuhi cursed her bad luck.`
-`"I, ...I couldn't sleep, so I was going to return to the parlor,`
+`"I, ...I couldn't sleep, so I was going to return to the {ruby:çeviri > salon:parlor},`
 ` ......b‐but I wasn't sure whether I had locked my room or not, so I was about to head back.`
 ` ......I'm a worrier, so this sort of thing happens a lot.`
 ` Don't worry about it..."`
@@ -795,7 +795,7 @@
 `However, right now,`
 ` Natsuhi was extremely relieved to hear Erika admit that this was nothing out of the ordinary...`
 `"Why are you by yourself, Erika‐san......?"`
-`"I thought I might examine that guest room."`
+`"I thought I might examine that {ruby:çeviri > misafir odası:guest room}."`
 `"Guest room......?"`
 `"Yes.`
 ` Things have gotten pretty serious, haven't they?`
@@ -813,7 +813,7 @@
 ` ......This is a repeat of the first crime, isn't it?"`
 `"What do you mean...?"`
 `"Again, you were in your room.`
-` And again, you can't prove your alibi, can you?"`
+` And again, you can't prove your {ruby:çeviri > mazeret:alibi}, can you?"`
 `"......I don't know what you mean.`
 ` To turn it around, how can you prove that I wasn't in my room...?"`
 `"Oh, an interesting response.`
@@ -831,8 +831,8 @@
 ` it would be clearly suspicious to say that could wait and escape to her room.`
 `......She was already under suspicion after being seen heading up the stairs to the second floor.`
 `She couldn't afford to do anything else suspicious......`
-`Natsuhi gave up and headed for the parlor as Erika had urged her to do...`
-`When she opened the door to the parlor, Eva's sobs poured out.`
+`Natsuhi gave up and headed for the {ruby:çeviri > salon:parlor} as Erika had urged her to do...`
+`When she opened the door to the {ruby:çeviri > salon:parlor}, Eva's sobs poured out.`
 `And everyone stared at Natsuhi with grave faces.`
 `Those gazes almost made it look......as though they suspected her.`
 `It was now painfully apparent to Natsuhi.`
@@ -842,13 +842,13 @@
 ` I couldn't sacrifice my husband's life...!`
 `And while it's true that I was hiding in the closet, that was all.`
 `I haven't committed murder!`
-`I might fall under enormous suspicion, but I'm still not the culprit.`
+`I might fall under enormous suspicion, but I'm still not the {ruby:çeviri > suçlu:culprit}.`
 `And most importantly, I'm not under suspicion yet.`
 `......I'll tell the police everything.`
 ` I'll have to endure until then.`
-`I'm sure one of the servants is feeding information to the culprit.`
+`I'm sure one of the {ruby:çeviri > hizmetkarlar:servants} is feeding information to the {ruby:çeviri > suçlu:culprit}.`
 `Even in a situation like this, if I talk about my husband being a hostage,`
-` the culprit will hear, and it might be used as an excuse to kill him......`
+` the {ruby:çeviri > suçlu:culprit} will hear, and it might be used as an excuse to kill him......`
 `"Natsuhi‐san has just come back.`
 ` Now that we're all here, I have something very important to discuss with you all."`
 `"......Something very important......?"`
@@ -877,7 +877,7 @@
 `Erika said that suddenly.`
 `{f:5:Bernkastel} said that suddenly.`
 `"Oh, fast!`
-` Wow, so you've figured out the culprit already?`
+` Wow, so you've figured out the {ruby:çeviri > suçlu:culprit} already?`
 ` We've barely gotten to any of the crimes, you know?`
 ` You could've let me kill a few more and gathered all kinds of clu~es."`
 `".........Alright, Lambda, gather all of the pieces.`
@@ -897,19 +897,19 @@
 ` I won't let them do as they please with my golden island any more...!!`
 ` I shall meet your challenge, Lady {f:5:Bernkastel}!`
 ` Furudo Erika!"`
-`......In the Golden Land, the endless rain continued to fall.`
+`......In the {ruby:çeviri > Altın Diyar:Golden Land}, the endless rain continued to fall.`
 `Battler was nowhere to be seen.`
 `It would very soon reach the time when Battler had joined in on the fifth game,`
 ` and control of his piece would be passed on to him.`
-`In other words, only now, in this final stage of the game when {f:5:Bernkastel} had pinpointed the culprit,`
+`In other words, only now, in this final stage of the game when {f:5:Bernkastel} had pinpointed the {ruby:çeviri > suçlu:culprit},`
 ` was Battler finally going to be allowed to participate.`
 `He had left the arbor a short while ago for that reason.`
 `Now, the only ones in sight were {f:5:Virgilia}, who continued to knit silently,`
 ` ......and Beato, ...who just sat there blankly amidst the smell of her black tea,`
 ` not even putting the cup to her lips......`
 `{f:5:Virgilia} stopped knitting for a moment...`
-`...and looked out across the vast golden rose garden that extended as far as the eye could see.`
-`"......At least in terms of mere culprit‐guessing games,`
+`...and looked out across the vast golden {ruby:çeviri > gül bahçesi:rose garden} that extended as far as the eye could see.`
+`"......At least in terms of mere {ruby:çeviri > suçlu:culprit}‐guessing games,`
 ` ......I think we can say that Battler‐kun has gained the strength to never again surrender."`
 `"......................................."`
 `"You gave him every message he needs by the end of the fourth game.`

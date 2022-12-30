@@ -124,8 +124,8 @@
 `But please, don't lose heart.`
 `Please don't submit to Beato, no matter what.`
 `Certainly, that child's game is quite unfair.`
-`I took a glimpse of the game board, and the tricks are so mean and cunning,`
-` and the scenic tricks are filthy to a degree that probably far surpasses that of {f:5:Lambdadelta}'s game board.`
+`I took a glimpse of the game board, and the {ruby:çeviri > numaralar:tricks} are so mean and cunning,`
+` and the scenic {ruby:çeviri > numaralar:tricks} are filthy to a degree that probably far surpasses that of {f:5:Lambdadelta}'s game board.`
 `And what's even more frightening is that when that child moves a piece, it's not like she always makes the best possible move.`
 `This is where she is very different from Lambda.`
 `Lambda always uses an overpowering number of pieces and makes the best possible move, in order to win.`

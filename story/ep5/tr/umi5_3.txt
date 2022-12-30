@@ -9,7 +9,7 @@
 ` Cram it, you jackass! Ahha{0}ha{0}ha{0}ha{0}ha{0}haha!`
 ` So you'll be coming to this year's family conference?`
 ` It's been six years!"`
-`Five businessmen in expensive suits were visiting in the parlor,`
+`Five businessmen in expensive suits were visiting in the {ruby:çeviri > salon:parlor},`
 ` giving Krauss and Natsuhi a progress report on their business.`
 `Spread out on the table were the blueprints and designs for a building, as well as documents related to expenditures and the like...`
 `so packed that even a tea cup would have gotten in the way.`
@@ -70,8 +70,8 @@
 ` ......I've taken a look at Krauss's charts, and they aren't bad at all."`
 `"Even from your perspective, Father?"`
 `"......Hmmm. They're pretty good even from my perspective.`
-` Everyone is confident in his victory and concentrating a significant quantity of magical power.`
-` As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold.`
+` Everyone is confident in his victory and concentrating a significant quantity of {ruby:çeviri > büyülü:magical} power.`
+` As a result, that victory is growing ever deeper, gathering more and more people and {ruby:çeviri > büyülü:magical} power, and beginning to create gold.`
 ` A perfect embodiment of the classic method of alchemy."`
 `"Hoh.`
 ` If you've earned even the Golden Witch's approval, that is very reassuring.`
@@ -88,7 +88,7 @@
 ` you were correct to predict that the same thing might have to happen again."`
 `"......Even for those who aren't witches, preparing for the worst case scenario is one of the basics for getting on in this world.`
 ` ......So, what will you do this year?"`
-`"Just like last year, I will see to it that a high concentration of the servants who know Father's secret are there on the day of the conference.`
+`"Just like last year, I will see to it that a high concentration of the {ruby:çeviri > hizmetkarlar:servants} who know Father's secret are there on the day of the conference.`
 ` ......Some of the relatives may already suspect that Father isn't around.`
 ` A careless act might actually put us in more danger of exposure."`
 `"Hmmm.`
@@ -97,7 +97,7 @@
 `"Unlike last year, I think we'll go with a plan that has you staying inside your study until the end."`
 `"That would be suitable.`
 ` A barricade is simple, and a final trump card."`
-`"No matter how much the mansion is filled with the toxin,`
+`"No matter how much the {ruby:çeviri > malikane:mansion} is filled with the toxin,`
 ` it will be impossible to deny Kinzo's existence as long as the locked‐room barrier remains around this room.`
 ` I shall guarantee that myself.`
 ` ......However, if you choose to make a barricade, it is inevitable that you will be surrounded."`
@@ -113,7 +113,7 @@
 ` You are the family alchemist.`
 ` So, I won't ask you to help.`
 ` I order you to help.`
-` ......We are relying on your magic alone.`
+` ......We are relying on your {ruby:çeviri > büyü:magic} alone.`
 ` Use that power to create an illusion of Father just one more time."`
 `"Very well.`
 ` I hear and obey.`
@@ -182,7 +182,7 @@
 `{n}......The fifth game will finally begin.`
 `And this time, I'll reach the end.`
 ` The end of that journey.`
-`"......I'm not worried about the obvious stuff, like murders and tricks.`
+`"......I'm not worried about the obvious stuff, like murders and {ruby:çeviri > numaralar:tricks}.`
 ` ...What did you, ...the Golden Witch {f:5:Beatrice}, think, and why did you do what you did?`
 ` What were you hoping for?`
 ` ............That's what I'm gonna find out."`
@@ -201,20 +201,20 @@
 `".....................nn..."`
 `Beato looked up at me again......and gave a small nod.`
 ` ......That's right.`
-`The position of the Game Master might have been snatched up by {f:5:Lambdadelta}.`
+`The position of the {ruby:çeviri > Oyun Yöneticisi:Game Master} might have been snatched up by {f:5:Lambdadelta}.`
 `However, ......as long as I continue this contest with the intent of fighting against Beato,`
 ` ......our fight will continue no matter who controls the game board.`
 `......Very soon, the curtain will rise on our game......`
 `"During this year's family conference, we must conceal the Master's secret once again."`
 `"Y‐yes.`
 ` ......I understand."`
-`"............I'm a little doubtful that the same trick will work twice."`
+`"............I'm a little doubtful that the same {ruby:çeviri > numara:trick} will work twice."`
 `"Madam shares your concerns.`
 ` Because of that, it was decided that this year, he will not leave the study even once."`
 `"In other words, we'll make it seem like he's shut away in the study the whole time...?"`
 `"......Yes.`
 ` And the only ones allowed to enter the study...`
-`will be the three of us, the servants permitted to wear the One‐winged Eagle."`
+`will be the three of us, the {ruby:çeviri > hizmetkarlar:servants} permitted to wear the One‐winged Eagle."`
 `".........Which means that the three of us will have to perpetuate the lie about the Master..."`
 `"Correct.`
 ` ......The relatives will probably question you about the Master's health and mood.`
@@ -267,7 +267,7 @@
 ` something's not been feelin' right to me about what happened."`
 `"You mean the time when Rudolf and I were talking about the inheritance and Father overheard us from the hall..."`
 `"That's just it.`
-` ......Natsuhi‐san and the servants kept saying Father was here or there and that he seemed to be in a bad mood,`
+` ......Natsuhi‐san and the {ruby:çeviri > hizmetkarlar:servants} kept saying Father was here or there and that he seemed to be in a bad mood,`
 ` but not a single one of us relatives saw Father, right?"`
 `"If what you're thinking is right......`
 `......what does that mean?!`
@@ -542,7 +542,7 @@
 `".........Declining to repeat?"`
 `"I dunno, lemme see...`
 ` Should I decline or should I respond...`
-` As the Game Master, that's up to me to decide, and I get to make that decision any time I want."`
+` As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, that's up to me to decide, and I get to make that decision any time I want."`
 `".........Unless I state it in the blue text, you aren't obligated to respond."`
 `"Exactly!`
 ` *giggle*giggle*.`
@@ -553,8 +553,8 @@
 `occurs before October 4th, 1986.`
 `This is still before the start time of the game.`
 `{n}So it's not necessary to question whether it's true or false in the first place.`
-`".........Since you, the Game Master, went out of your way to show me this, I'm just going to assume you're setting up something for later.`
-` ......It might be a trick, but I'll at least keep this move of yours in my memory."`
+`".........Since you, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, went out of your way to show me this, I'm just going to assume you're setting up something for later.`
+` ......It might be a {ruby:çeviri > numara:trick}, but I'll at least keep this move of yours in my memory."`
 `"Ehheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.........`
 ` I place this card face‐down onto the field, hehe~.`
 ` Ouch, wh‐what?!"`

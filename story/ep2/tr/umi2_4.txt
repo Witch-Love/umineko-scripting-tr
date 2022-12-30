@@ -4,7 +4,7 @@
 `Ever since, she had been making a fuss inside the train about wanting to have a Halloween festival, without caring that she was attracting the attention of others.`
 `Halloween is popular in Europe and America, but people are hardly familiar with it at all in Japan.`
 `The shopping district was colorfully decorated with orange pumpkins,`
-` but the costume parades of children demanding sweets and saying "trick or treat" were nowhere in sight.`
+` but the costume parades of children demanding sweets and saying "{ruby:çeviri > numara:trick} or treat" were nowhere in sight.`
 `"Uu!`
 ` I want a Halloween festivaaal!`
 ` I don't want to wear these clothes, I want to look like a wiiiitch!`
@@ -260,15 +260,15 @@
 `To Gohda, who was originally a chef, this was surely the greatest gala occasion of the whole year.`
 `"Yes, dinner will be an excellent calf steak...!`
 ` A wonderful cut of meat is already in the refrigerator anxiously waiting for tonight.`
-` Please, let the other servants know to look forward to tonight—I will not disappoint them either."`
-`It was rare for Gohda to be in this good of a mood towards his fellow servants.`
+` Please, let the other {ruby:çeviri > hizmetkarlar:servants} know to look forward to tonight—I will not disappoint them either."`
+`It was rare for Gohda to be in this good of a mood towards his fellow {ruby:çeviri > hizmetkarlar:servants}.`
 `To Gohda, who boasted about being a chef who worked exclusively for the Ushiromiya family, being given the right to show off his cooking at the family conference was the greatest honor.`
 `"......OK.`
 ` I'm leaving it in your hands.`
 ` ...Also, is Kumasawa there?"`
 `"Kumasawa‐san?`
 ` I happened to see her earlier, but she is not here.`
-` I wonder if she went to make preparations at the guesthouse."`
+` I wonder if she went to make preparations at the {ruby:çeviri > konukevi:guesthouse}."`
 `"......So she's loafing around again.`
 ` ......No, that's fine.`
 ` Alright then, I'm counting on you."`
@@ -277,10 +277,10 @@
 `Thinking of Kumasawa, who was no doubt hiding and slacking off even though things were this busy,`
 ` and the ostentatious Gohda, who only felt like doing anything on a day when he could show off, Genji sighed once again.`
 `"Excuse me.`
-` All the rooms in the guesthouse have been prepared."`
-`"......We received instructions from Milady to make preparations for four people so that the children can stay there—what shall we do?"`
+` All the rooms in the {ruby:çeviri > konukevi:guesthouse} have been prepared."`
+`"......We received instructions from {ruby:çeviri > Leydim:Milady} to make preparations for four people so that the children can stay there—what shall we do?"`
 `"...I hear Battler‐sama is coming this year for the first time in six years.`
-` I guess Milady wants to stay up late with the other three cousins.`
+` I guess {ruby:çeviri > Leydim:Milady} wants to stay up late with the other three cousins.`
 ` ......Get them ready.`
 ` No need to tell Madam."`
 `"I see.`
@@ -416,7 +416,7 @@
 `Then, he noticed the sweet she had in her hand.`
 `It was the jack‐o'‐lantern sweet that Rosa had bought for her.`
 `"Oh, right, it's October, so that must be for Halloween.`
-` Ihihihi, trick or treee~at!"`
+` Ihihihi, {ruby:çeviri > numara:trick} or treee~at!"`
 `If you try to take a treat away from a small child, normally, you'd expect them to cry and start a fuss.`
 `The adults thought that method wasn't good, but surprisingly, Maria looked pleased, her face splitting into a wide grin.`
 `"Halloween, Halloween!!`
@@ -434,18 +434,18 @@
 `It seemed that Battler accepting it was enough to confirm their friendship.`
 `The adults felt admiration at how children have their own ways of communicating.`
 `To Maria, who had been complaining that she wanted to have a Halloween festival,`
-` it must have felt like Battler was a friend, since he knew about trick or treat.`
+` it must have felt like Battler was a friend, since he knew about {ruby:çeviri > numara:trick} or treat.`
 `Her defensive posture from before was completely gone.`
 `{n}Now, she was all merry, as though they had been friends for decades.`
 `"Yeah, Halloween's a minor event in Japan, isn't it...`
 ` You often see people parading around in costume on the news over there, but I've never seen it in Japan."`
 `"I wanted to wear a costume too.`
-` Wanted to do trick or treat with all the cousins wearing costumes..."`
+` Wanted to do {ruby:çeviri > numara:trick} or treat with all the cousins wearing costumes..."`
 `"Yeah, I bet you did. Let's us two do it together sometime!`
 ` What would you want to go around as?"`
 `"A witch!!`
 ` {f:5:Beatrice}!"`
-`"Oh, Milady, what are you doing in such a place?`
+`"Oh, {ruby:çeviri > Leydim:Milady}, what are you doing in such a place?`
 ` Madam was looking for you."`
 `"I'm here 'cause I don't {i:want} to be found.`
 ` ...I bet she only wants to nag at me anyway, all that crap like "is your appearance alright?" and "mind how you speak"."`
@@ -643,7 +643,7 @@
 ` ...It won't surprise me a bit if he doesn't want to see me......"`
 `"......Could it be that you don't plan on appearing at the family conference this year either?"`
 `Nanjo looked at Kinzo's face, sighing.`
-`{n}...Kinzo's eyes remained rooted to those strange magic books.`
+`{n}...Kinzo's eyes remained rooted to those strange {ruby:çeviri > büyü:magic} books.`
 `"I have no intention of joining those vultures in their discussion.`
 ` They can discuss how they will suck my bones as they wish.`
 ` ......They are not worth a moment of my time."`
@@ -656,25 +656,25 @@
 `He found Kinzo's words to be a very sad thing.`
 `"If the time comes when I must leave this room, I will show myself then.`
 ` ......Just as that one does not show itself."`
-`Kinzo raised his face, and in the direction of his gaze was the portrait of the witch, respectfully displayed on the wall...`
+`Kinzo raised his face, and in the direction of his gaze was the {ruby:çeviri > portre:portrait} of the witch, respectfully displayed on the wall...`
 `".................."`
 `Inside Kinzo's head, there was no conception of today being the day of the family conference, the day when all his dear family would gather together.`
-`......There was only the face of the witch in the oil painting, who never smiled outside her portrait...`
+`......There was only the face of the witch in the oil painting, who never smiled outside her {ruby:çeviri > portre:portrait}...`
 `Everybody knew that when Kinzo talked about {f:5:Beatrice}, unnecessarily cutting in would instigate his wrath...`
 `"Today, I will...perform a certain ritual."`
 `"Hoh.`
 ` ...And what would that be?"`
 `"......It would be more accurate to call it a gamble.`
-` ...After all, no miracles dwell in magic without risk."`
+` ...After all, no miracles dwell in {ruby:çeviri > büyü:magic} without risk."`
 `Nanjo had already heard this countless times.`
 `{n}You could call it Kinzo's favorite phrase.`
-`......It seemed that Kinzo believed in magic and miracles arising through betting his own fate with a certain kind of risky probability and beating the odds...`
+`......It seemed that Kinzo believed in {ruby:çeviri > büyü:magic} and miracles arising through betting his own fate with a certain kind of risky probability and beating the odds...`
 `"Kinzo‐san, you may once have been called the Golden Gambler,`
 ` but I cannot imagine what kind of gamble you will take on with that aged body, when you could go to the other world at any time...`
 ` I guess this will be worth seeing..."`
 `"Hmph...`
 ` ......I see.`
-` So, if it were up to you, unversed in magic, even this secret ritual I have thoroughly researched would be branded as a gamble.`
+` So, if it were up to you, unversed in {ruby:çeviri > büyü:magic}, even this secret ritual I have thoroughly researched would be branded as a gamble.`
 ` So be it."`
 `"...............If it is I, a believer in miracles, who wins...`
 `you will be able to understand clearly that all my research, which probably only appears as vagary in your eyes, did bear fruit on this day.`
@@ -721,7 +721,7 @@
 `As he was now, Kinzo would probably show no interest in any kind of guest.`
 `...Was there any guest who could make Kinzo agree to come out when he should?`
 `He had one person in mind, but that guest was one who could not possibly appear...`
-`After a glance at the witch of the portrait, and her candid expression which he could not place as happy or sad, Nanjo gazed up at the leaden sky......`
+`After a glance at the witch of the {ruby:çeviri > portre:portrait}, and her candid expression which he could not place as happy or sad, Nanjo gazed up at the leaden sky......`
 `Now then, are the pieces all lined up......?`
 `{n}Let us start a new game, with the pieces all lined up once more.`
 `"Are there any problems...?"`
@@ -769,7 +769,7 @@
 ` that is always`
 ` for me`
 ` to decide...!"`
-`"No matter how great your magic is!`
+`"No matter how great your {ruby:çeviri > büyü:magic} is!`
 ` My soul won't yield to you.`
 ` You think this will be torture for me?`
 ` You're wrong!!"`

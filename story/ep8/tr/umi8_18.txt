@@ -9,7 +9,7 @@
 `The projector in front of the audience showed a brief summary of the series.`
 `It was...a lengthy fantasy adventure novel that was already more than eight installments long.`
 `The thrilling fantasy story told of the adventures of Sakutarou, a cowardly vegeta‐lion who makes friends, learns through his experiences,`
-` and grows in his search for the One Fragment.`
+` and grows in his search for the One {ruby:çeviri > Kakera:Fragment}.`
 `The main character's catch phrase, "I'll become the King of the Beasts", was even one of the candidates for the Best Phrase to Come Into Modern Slang Award.`
 `In addition to being a thrill to read, the books also contained many messages for children to learn from,`
 ` earning it high praise as an adventure novel that parents and kids could enjoy reading together.`
@@ -270,7 +270,7 @@
 ` ......How did you escape the accident, Onii‐cha—......nii‐san?"`
 `"On that day, ......I escaped through the underground passage."`
 `"The one that goes to Kuwadorian?"`
-`"I was told that an underground passage led to a hidden mansion on the opposite side of the island.`
+`"I was told that an underground passage led to a hidden {ruby:çeviri > malikane:mansion} on the opposite side of the island.`
 ` ......However, the place we escaped to was a submarine base, not Kuwadorian."`
 `I don't know under what circumstances my brother entered the underground passage on that day.`
 `At any rate, he went into the underground passage, split up with Aunt Eva there, and escaped to the submarine base.`
@@ -387,7 +387,7 @@
 ` ......I still keep them with me in my handbag..."`
 `"I remember a lot more besides that.`
 ` ......I remember you giving Mother trouble because you hated eating seaweed.`
-` I remember that you tried to move it to my plate and trick her.`
+` I remember that you tried to move it to my plate and {ruby:çeviri > numara:trick} her.`
 ` ......And when—"`
 `"If you remember that much, .........then why can't you think of those memories as your own...?"`
 `"...............That is......the condition I live with.`
@@ -444,7 +444,7 @@
 `......I was already......beginning to understand.`
 `It really......{i:was} true.`
 `{n}Ushiromiya Battler............did die that day.`
-`After all, .........didn't the witches say that he was dead so often with the red truth...?`
+`After all, .........didn't the witches say that he was dead so often with the {ruby:çeviri > kırmızı gerçek:red truth}...?`
 `.........How pathetic for the Witch of the Future......the Witch of Resurrection......who swore that everyone would be together always......`
 `..........................................`
 `"......Tohya‐san.`
@@ -537,8 +537,8 @@
 `The yells and laughter of kids running around drifted in from the distance.`
 `".........I imagine that many children first come here hanging their heads in sorrow.`
 ` To think that they could be here laughing like that......... You really have done something great."`
-`"All people can use magic to create their future and find a fragment of happiness.`
-` ......This is a witch's school for teaching that magic."`
+`"All people can use {ruby:çeviri > büyü:magic} to create their future and find a fragment of happiness.`
+` ......This is a witch's school for teaching that {ruby:çeviri > büyü:magic}."`
 `"The "Witch's Dormitory" from "Sakutarou's Great Adventure"?"`
 `"......Oh, how embarrassing.`
 ` ......So you've read it too..."`
@@ -570,22 +570,22 @@
 `Ange opened the large double doors......`
 `"This......place..........................."`
 `At the sight of the hall......Tohya opened his mouth in wide‐eyed shock.`
-`This was...the great hall of the Ushiromiya mansion.`
+`This was...the great hall of the Ushiromiya {ruby:çeviri > malikane:mansion}.`
 `No, that would be impossible......`
 `They were clearly in the Gospel House.`
-`This hall.........was an exact look‐alike of the one in the Rokkenjima mansion...............`
+`This hall.........was an exact look‐alike of the one in the Rokkenjima {ruby:çeviri > malikane:mansion}...............`
 `"......What a splendid hall."`
-`"This is......a replica......of the hall in the Ushiromiya mansion.........on Rokkenjima......"`
+`"This is......a replica......of the hall in the Ushiromiya {ruby:çeviri > malikane:mansion}.........on Rokkenjima......"`
 `"Yes.`
 ` ......I've reproduced it as well as my memory would let me.`
 ` The details might be wrong though."`
 `"......No.`
-` .........This really is.........the hall of the Ushiromiya family mansion......on that day......"`
+` .........This really is.........the hall of the Ushiromiya family {ruby:çeviri > malikane:mansion}......on that day......"`
 `And then, Tohya's eyes fixed......on something at the other side of the room.`
-`It was.........a portrait.`
-`{n}A portrait of Rokkenjima's other master.`
+`It was.........a {ruby:çeviri > portre:portrait}.`
+`{n}A {ruby:çeviri > portre:portrait} of Rokkenjima's other master.`
 `"......It's.........exactly the same as my memories........."`
-`"The artist hired by Ushiromiya Kinzo to paint the portrait had a photo.`
+`"The artist hired by Ushiromiya Kinzo to paint the {ruby:çeviri > portre:portrait} had a photo.`
 ` ......I had him draw it again based on that."`
 `".........................................."`
 `I was simply frozen in shock.`

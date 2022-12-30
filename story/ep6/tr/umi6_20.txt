@@ -154,10 +154,10 @@
 `"I have observed all of Beato's games.`
 ` ......I also watched {f:5:Lambdadelta}'s game and Battler's game with great interest.`
 ` ......I believe I have fashioned my own particular answers to all the mysteries.`
-` .........The culprit.`
+` .........The {ruby:çeviri > suçlu:culprit}.`
 ` The motive.`
-` The individual tricks.`
-` ......I am not yet clear about the very last part of the epitaph's riddle,`
+` The individual {ruby:çeviri > numaralar:tricks}.`
+` ......I am not yet clear about the very last part of the {ruby:çeviri > kitabe:epitaph}'s riddle,`
 ` but I have enough of a theory that if I actually went to Rokkenjima and investigated, I should be able to resolve that part as well."`
 `"...............And...?"`
 `"Of course, since there is no single truth, my theory is probably only one of many possibilities.`
@@ -225,20 +225,20 @@
 `Wait, I've seen this before.`
 ` .........This is—`
 `"I acknowledge it. You may sit.`
-` You are the Game Master."`
+` You are the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
 `".........Are you sure?`
 ` ......Are you {i:really} sure...?"`
 `"You may create whatever sort of tale you like to ease your inner hatred.`
 ` I am not interested.`
 ` However, I have one condition as well.`
 ` ......Provide all of the answers I seek.`
-` No hiding, concealment, or tricks."`
+` No hiding, concealment, or {ruby:çeviri > numaralar:tricks}."`
 `"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!`
 ` Leave it to me.`
 ` Tearing apart the chest and ripping out the guts is my specialty.`
 ` .........After all, you trained me."`
 `"I shall make you some black tea.`
-` ......With my own hands, not magic.`
+` ......With my own hands, not {ruby:çeviri > büyü:magic}.`
 ` ......Let the master treat her miko to some tea..."`
 `"Beato once told me that tea is best drunk in the company of a witch."`
 `"It seems we differ in that regard......`

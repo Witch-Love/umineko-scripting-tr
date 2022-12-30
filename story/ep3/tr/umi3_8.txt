@@ -12,7 +12,7 @@
 ` Isn't this enough?`
 ` Can't do much else until the mystery 19th person, {f:5:Beatrice}, takes action."`
 `"That is correct.`
-` ......However, I believe we have thought of almost every trick they could use against us."`
+` ......However, I believe we have thought of almost every {ruby:çeviri > numara:trick} they could use against us."`
 `"Yes.`
 ` As long as a traitor doesn't appear among us siblings, we should be able to deal with most situations."`
 `"......Haven't we talked about this enough?`
@@ -38,72 +38,72 @@
 `Each of them went into the corridor, relying on their own sense of smell to tell them where this strange odor was coming from...`
 `"What in the world could it be?`
 ` Let us have Genji deal with it.`
-` I believe he should already have arrived in the servant room to begin the morning preparations."`
+` I believe he should already have arrived in the {ruby:çeviri > hizmetkar:servant} room to begin the morning preparations."`
 `"Mmhm, please.`
 ` It is difficult to imagine that Gohda, of all people,`
 ` could be making a breakfast that would cause this kind of stench..."`
 `Rudolf's group searched for the source of the smell, and determined that it was coming from underground,`
-` from the boiler room.`
+` from the {ruby:çeviri > kazan dairesi:boiler room}.`
 `But the door was locked, and they couldn't check inside.`
-`Meanwhile, Natsuhi's group were on their way to search for someone in the servant room, when they noticed something strange about the parlor.`
+`Meanwhile, Natsuhi's group were on their way to search for someone in the {ruby:çeviri > hizmetkar:servant} room, when they noticed something strange about the {ruby:çeviri > salon:parlor}.`
 `"......What is this...?!"`
 `"Wh‐what a horrible prank...`
 ` Who would do something like..."`
-`Drawn on the door to the parlor, in a paint that reminded one of blood, there was a strange...`
+`Drawn on the door to the {ruby:çeviri > salon:parlor}, in a paint that reminded one of blood, there was a strange...`
 `magic‐circle‐like thing.`
 `"No one has come to the kitchen yet.`
 ` ......Wh‐what is...that?"`
 `Eva's group, who had thought the smell had been coming from the kitchen,`
 ` had returned, having observed that no one was there and that preparations for breakfast had not yet begun.`
-`......And they noticed the unusual state of the parlor.`
-`"It's no good, the boiler room is locked.`
-` Wouldn't it be bad if something's broken down in the boiler room?`
-` Was there a servant anywhere around?"`
+`......And they noticed the unusual state of the {ruby:çeviri > salon:parlor}.`
+`"It's no good, the {ruby:çeviri > kazan dairesi:boiler room} is locked.`
+` Wouldn't it be bad if something's broken down in the {ruby:çeviri > kazan dairesi:boiler room}?`
+` Was there a {ruby:çeviri > hizmetkar:servant} anywhere around?"`
 `".........!`
 ` Is that vulgar graffiti here too?`
-` There was also one on the door to the boiler room."`
+` There was also one on the door to the {ruby:çeviri > kazan dairesi:boiler room}."`
 `"What's that?!`
 ` This creepy graffiti isn't just here, it's in other places as well?!`
 ` Haha, you don't think that this is the witch of the forest {f:5:Beatrice}'s declaration of war, right?"`
-`Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like it was a message from a witch.`
+`Hideyoshi tried to make fun of it, but staring at this creepy {ruby:çeviri > büyü:magic} circle while listening to the wind and rain really made it seem like it was a message from a witch.`
 `...The dripping bright‐red paint made one think of blood, and it made things even more eerie.`
 `Hideyoshi tried to open the door, but it was locked.`
-`...As a general rule, the parlor was never locked.`
+`...As a general rule, the {ruby:çeviri > salon:parlor} was never locked.`
 `{n}Someone had gone out of their way to lock it.`
 `"......What does this mean...?`
-` Did someone secretly leave this graffiti while we were talking in the dining hall?`
-` On the doors to the parlor and the boiler room?"`
-`"...I'm sure the servants are behind this.`
+` Did someone secretly leave this graffiti while we were talking in the {ruby:çeviri > yemek salonu:dining hall}?`
+` On the doors to the {ruby:çeviri > salon:parlor} and the {ruby:çeviri > kazan dairesi:boiler room}?"`
+`"...I'm sure the {ruby:çeviri > hizmetkarlar:servants} are behind this.`
 ` We were together the whole time.`
-` We all have alibis.`
+` We all have {ruby:çeviri > mazeretler:alibis}.`
 ` ......They probably did this prank on some strange orders from Father."`
 `".........Considering the incident yesterday with Maria‐chan's letter,`
-` it's more than possible to suspect that the servants are acting on Dad's orders and planning something.`
+` it's more than possible to suspect that the {ruby:çeviri > hizmetkarlar:servants} are acting on Dad's orders and planning something.`
 ` ......Where the hell is everyone, anyway?`
 ` They can't be playing hide and seek.`
 ` Let's look for them."`
 `"B‐...before that, I'm worried about the children.`
 ` They're alright, aren't they?`
-` I'll go and check, and while I'm there, I'll see if there aren't any servants there."`
+` I'll go and check, and while I'm there, I'll see if there aren't any {ruby:çeviri > hizmetkarlar:servants} there."`
 `"Then let's split up.`
-` While you go to the guesthouse to see how the brats are doing, we'll check around inside the mansion.`
+` While you go to the {ruby:çeviri > konukevi:guesthouse} to see how the brats are doing, we'll check around inside the {ruby:çeviri > malikane:mansion}.`
 ` .........I don't want to think about it,`
-` but maybe these creepy magic circles aren't just where we've found them."`
+` but maybe these creepy {ruby:çeviri > büyü:magic} circles aren't just where we've found them."`
 `"......We might have become involved in a bizarre game of Father's.`
 ` ...I will go to him and ask about the situation.`
 ` ......Though I doubt he'll be good‐natured enough to listen to me."`
 `The adults split up.`
-`As a result, they confirmed that the four children were safe in the so‐called cousins' room, on the second floor of the guesthouse.`
+`As a result, they confirmed that the four children were safe in the so‐called cousins' room, on the second floor of the {ruby:çeviri > konukevi:guesthouse}.`
 `It appeared that they had stayed up late last night playing.`
 `{n}All of them were snoring loudly, so Rosa decided not to wake them.`
 `Furthermore, Nanjo, who had returned early the previous night to rest, was also alright.`
 `{n}It seemed he believed in the phrase "early to bed, early to rise", and had awoken refreshed.`
-`During that time, Kyrie and Hideyoshi searched for the servants.`
+`During that time, Kyrie and Hideyoshi searched for the {ruby:çeviri > hizmetkarlar:servants}.`
 `{n}But they didn't find them.`
-`...The servant room in the guesthouse was also empty.`
+`...The {ruby:çeviri > hizmetkar:servant} room in the {ruby:çeviri > konukevi:guesthouse} was also empty.`
 `"......The children are alright.`
 ` All of them stayed up too late last night."`
-`"The servant room is empty.`
+`"The {ruby:çeviri > hizmetkar:servant} room is empty.`
 ` ...I looked at the shift chart, and the mornin' shift was supposed to begin at six.`
 ` They should have started workin' by now..."`
 `"The nap room was also empty.`
@@ -116,18 +116,18 @@
 ` ...Isn't that a bit..."`
 `"No...`
 ` ...It might not be strange if Father was behind something like that."`
-`"After all, Father loves big tricks.`
-` ......He might have had this plan brewing ever since that epitaph was hung in the hall."`
+`"After all, Father loves big {ruby:çeviri > numaralar:tricks}.`
+` ......He might have had this plan brewing ever since that {ruby:çeviri > kitabe:epitaph} was hung in the hall."`
 `"...In that case, I wonder whether he will make an announcement of the game or an explanation of it.`
 ` ......It also seems possible that another envelope with the crest might appear, like the one handed to Maria‐chan."`
 `"............You're right.`
-` Maybe Nii‐san and the rest have found that in the mansion."`
+` Maybe Nii‐san and the rest have found that in the {ruby:çeviri > malikane:mansion}."`
 `"Doctor Nanjo.`
 ` Have you heard anythin'?"`
 `"......M‐my apologies, I do not have any idea what is going on.`
 ` And yet, ......yes, I see,`
 ` I could easily imagine that Kinzo‐san is planning something big."`
-`"...Why don't we go back to the mansion for now?`
+`"...Why don't we go back to the {ruby:çeviri > malikane:mansion} for now?`
 ` Maybe they found somethin' over there."`
 `"If I will not be in the way, I will come too."`
 `"I, I'll stay here.`
@@ -137,49 +137,49 @@
 `"......Yes, you're right.`
 ` I'll stay with Rosa‐san and watch over the place.`
 ` Would you tell that to my husband?"`
-`Rosa and Kyrie remained in the guesthouse.`
-`{n}Hideyoshi went with Nanjo, and returned again to the mansion.`
-`Meanwhile, in the mansion...`
+`Rosa and Kyrie remained in the {ruby:çeviri > konukevi:guesthouse}.`
+`{n}Hideyoshi went with Nanjo, and returned again to the {ruby:çeviri > malikane:mansion}.`
+`Meanwhile, in the {ruby:çeviri > malikane:mansion}...`
 `Unbelievably, ...or maybe we should say that bad feelings have a tendency to be right...`
 `Rudolf's prediction was right on.`
-`...Because the same magic circle graffiti that had been drawn on the doors to the boiler room and the parlor had been found in multiple other places throughout the mansion.`
+`...Because the same {ruby:çeviri > büyü:magic} circle graffiti that had been drawn on the doors to the {ruby:çeviri > kazan dairesi:boiler room} and the {ruby:çeviri > salon:parlor} had been found in multiple other places throughout the {ruby:çeviri > malikane:mansion}.`
 `"Aniki...!`
 ` How's Dad?"`
 `"No, no good.`
 ` There was no response at all.`
 ` I did try putting my ear against the door, but I couldn't sense anyone."`
-`"...I cannot find the servants anywhere.`
+`"...I cannot find the {ruby:çeviri > hizmetkarlar:servants} anywhere.`
 ` ...Where in the world did they disappear off to..."`
 `"This isn't funny.`
-` Father and the servants are hiding, and there are strange magic circles all over the mansion.`
+` Father and the {ruby:çeviri > hizmetkarlar:servants} are hiding, and there are strange {ruby:çeviri > büyü:magic} circles all over the {ruby:çeviri > malikane:mansion}.`
 ` ......What in the world is happening...?!"`
-`There weren't only magic circles on the door to the boiler room and the door to the parlor.`
+`There weren't only {ruby:çeviri > büyü:magic} circles on the door to the {ruby:çeviri > kazan dairesi:boiler room} and the door to the {ruby:çeviri > salon:parlor}.`
 `{n}There were also two on the second floor,`
 ` and one on the third floor, for a total of five.`
-`They were all the same magic circle, and all of the doors were locked, so they couldn't check inside.`
-`"...Anyway, let's do something about the boiler room first.`
+`They were all the same {ruby:çeviri > büyü:magic} circle, and all of the doors were locked, so they couldn't check inside.`
+`"...Anyway, let's do something about the {ruby:çeviri > kazan dairesi:boiler room} first.`
 ` It would be bad if some kind of breakdown caused a fire or an explosion.`
 ` ...So we need the key."`
-`"I believe there was a key box in the servant room."`
-`They fished through the key box in the servant room.`
-`Because each servant individually carried their own master key around, those weren't kept here.`
+`"I believe there was a key box in the {ruby:çeviri > hizmetkar:servant} room."`
+`They fished through the key box in the {ruby:çeviri > hizmetkar:servant} room.`
+`Because each {ruby:çeviri > hizmetkar:servant} individually carried their own master key around, those weren't kept here.`
 `However, all of the individual room keys should have been here.`
 `"............It's so packed with keys."`
 `"...It isn't here.`
-` I've looked and looked, but I can't find the key to the boiler room."`
+` I've looked and looked, but I can't find the key to the {ruby:çeviri > kazan dairesi:boiler room}."`
 `"Look, Aneki.`
-` ......Only the keys to the rooms with those magic circles drawn on them...`
+` ......Only the keys to the rooms with those {ruby:çeviri > büyü:magic} circles drawn on them...`
 `are just neatly missing."`
 `"......It's true.`
 ` ...How troublesome......"`
-`"It's as though someone doesn't want us to go in the rooms with the magic circles.`
-` ......No, they went to all the trouble of making them obvious using the magic circles, so perhaps they do want us to enter...?"`
+`"It's as though someone doesn't want us to go in the rooms with the {ruby:çeviri > büyü:magic} circles.`
+` ......No, they went to all the trouble of making them obvious using the {ruby:çeviri > büyü:magic} circles, so perhaps they do want us to enter...?"`
 `"I think it's the latter.`
 ` ...Breaking down the door is probably impossible, I mean, this isn't a movie.`
 ` Smashing a window might work."`
 `Krauss had a little trouble deciding whether this was a situation that called for smashing a window.`
 `At that time, Hideyoshi and Nanjo returned.`
-`{n}There was nothing strange in the guesthouse, and the children were safe.`
+`{n}There was nothing strange in the {ruby:çeviri > konukevi:guesthouse}, and the children were safe.`
 `{n}They told the others that Rosa and Kyrie had stayed to watch over the place.`
 `"Good morning.`
 ` ...I hear that something strange has happened."`
@@ -193,16 +193,16 @@
 ` But if that was the case, there should be some letter telling us about that.`
 ` Like the letter that was given to Maria‐chan."`
 `"What if the announcement of the game actually was Maria‐chan's letter?`
-` The details of the game—‘try to solve the riddle of the epitaph’—have already been shown."`
-`"Then, what could the five magic circles we found in the mansion mean?`
-` ...And the missing servants."`
+` The details of the game—‘try to solve the riddle of the {ruby:çeviri > kitabe:epitaph}’—have already been shown."`
+`"Then, what could the five {ruby:çeviri > büyü:magic} circles we found in the {ruby:çeviri > malikane:mansion} mean?`
+` ...And the missing {ruby:çeviri > hizmetkarlar:servants}."`
 `"......Natsuhi nee‐san.`
-` How many servants were there total today...?"`
+` How many {ruby:çeviri > hizmetkarlar:servants} were there total today...?"`
 `"Huh?`
 ` .........Genji, Gohda,`
 ` ......five of them, why?"`
-`"......Five servants.`
-` And five magic circles.`
+`"......Five {ruby:çeviri > hizmetkarlar:servants}.`
+` And five {ruby:çeviri > büyü:magic} circles.`
 ` ......It may be a coincidence, but it worries me."`
 `"...Nii‐san.`
 ` Let's break a window.`
@@ -210,7 +210,7 @@
 `"............We have no choice.`
 ` Do it neatly."`
 `Krauss made his decision, and gave permission to smash a window.`
-`And they decided that the first room they would break into would be the parlor on the first floor, where the windows would be easiest to reach.`
+`And they decided that the first room they would break into would be the {ruby:çeviri > salon:parlor} on the first floor, where the windows would be easiest to reach.`
 `They had hoped to peek in through the window,`
 ` but the curtains were drawn, so they couldn't see inside.`
 `Rudolf wandered around the garden, trying to find something that would be good for smashing the glass.`
@@ -225,12 +225,12 @@
 ` The rain'll get blown in."`
 `When he threw the window open, the wind and rain made the curtains dance around violently.`
 ` He swiped the curtain to the side.`
-`...They could see the parlor they knew well.`
+`...They could see the {ruby:çeviri > salon:parlor} they knew well.`
 `They were a little relieved.`
-` ......Because they had thought that maybe, the room would be filled with more bizarre magic circles,`
+` ......Because they had thought that maybe, the room would be filled with more bizarre {ruby:çeviri > büyü:magic} circles,`
 ` or possibly the traces of some creepy ritual.`
 `In any event, they didn't want to hang around out in the rain,`
-` so the six of them—Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo—entered the parlor as a group.`
+` so the six of them—Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo—entered the {ruby:çeviri > salon:parlor} as a group.`
 `"......It seems...that nothing in particular is out of the ordinary..."`
 `".........mmh—"`
 `"Wh‐what has happened, Shannon...?!"`
@@ -259,7 +259,7 @@
 `...Could he not hear, or was he pretending that he couldn't hear?`
 ` In any event, it was clear that he had closed up his heart like a shell...`
 `"Pu ku ku ku...`
-` ......I wonder if you have tormented him too much, Milady.`
+` ......I wonder if you have tormented him too much, {ruby:çeviri > Leydim:Milady}.`
 ` After showing him that much and demanding a counterargument,`
 ` I can understand why he wants to mope around."`
 `"Hey, Battleerr.`
@@ -288,23 +288,23 @@
 ` I can't take this bullshiiiiit!!`
 ` If your turn won't come until mine is finished, then you can just wait for all stinking eternity, can't you!!"`
 `"Aaaah, I don't care I don't care I don't get it!!`
-` I won't accept witches or magic, I won't accept something that fucked up!!`
+` I won't accept witches or {ruby:çeviri > büyü:magic}, I won't accept something that fucked up!!`
 ` Uuooooooooooohhh, I said DON'T TALK TO MEEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEE!!!"`
 `......I don't know what's what anymore.`
 `{n}After being shown something that screwed up, how could I continue to resist...`
-`I wandered aimlessly through the rose garden.`
+`I wandered aimlessly through the {ruby:çeviri > gül bahçesi:rose garden}.`
 `......It was raining and windy, but that didn't mean my body got wet.`
 ` ...There was just a feeling of isolation as I wandered amidst the wind and rain without an umbrella.`
 `"..................Maybe I...`
 `lost to her game a long time ago."`
 `...Actually, I wonder whether we hadn't reached a clear resolution in the previous game.`
 `After all, I had submitted to her for a time.`
-`{n}So the world had been tinted with witches and magic.`
-`......Right now, Rokkenjima is a different world, where witches stride around openly and fire off strange magic.`
+`{n}So the world had been tinted with witches and {ruby:çeviri > büyü:magic}.`
+`......Right now, Rokkenjima is a different world, where witches stride around openly and fire off strange {ruby:çeviri > büyü:magic}.`
 `...It isn't a matter of accepting it or denying it.`
 `Maybe I had mistakenly assumed that I was playing a game on an even footing with Beato.`
 `I had already been defeated in the last game, ...and this may just be the signing ceremony of my surrender.`
-`Just now, a mighty battle had unfolded in this rose garden.`
+`Just now, a mighty battle had unfolded in this {ruby:çeviri > gül bahçesi:rose garden}.`
 `{n}I had seen it with my own eyes.`
 `I kicked the ground.`
 ` ......Obviously, the ground was hard.`
@@ -312,7 +312,7 @@
 `Several towers had split this ground, sprouting like high‐rise buildings.`
 `......The more I kicked this ground,`
 ` .........the more it felt like that really couldn't be possible.`
-`But, because of that, I couldn't explain it with anything other than magic anymore......`
+`But, because of that, I couldn't explain it with anything other than {ruby:çeviri > büyü:magic} anymore......`
 `"......I get the locked rooms with the key shut up inside,`
 ` they're probably just an extension of what you always see in detective novels.`
 ` ......But, ......that stuff, though...`
@@ -322,7 +322,7 @@
 `"...Huh?`
 ` .........It's you..."`
 `I was suddenly spoken to, so I turned around,`
-` ...and in the rose garden arbor,`
+` ...and in the {ruby:çeviri > gül bahçesi:rose garden} arbor,`
 ` ......was the Predecessor {f:5:Beatrice}, who {f:5:Beatrice} had supposedly defeated a short while ago.`
 `".........I was sure you'd died.`
 ` So, you were alive."`
@@ -335,7 +335,7 @@
 ` So, in other words,`
 ` ......that means witches really do exist?`
 ` And I'm not the one who can defeat her.`
-` That'd be you, since you can use awesome magic, wouldn't it?`
+` That'd be you, since you can use awesome {ruby:çeviri > büyü:magic}, wouldn't it?`
 ` ...I'm just useless now.`
 ` There's nothing I can do anymore..."`
 `"............Oh, my.`
@@ -345,7 +345,7 @@
 ` Towers sprouting and falling!!`
 ` Huge giants holding shields and throwing spears!"`
 `"Aaah, just remembering it makes me feel like I'm going insane, reasoning isn't worth a damn anymore, is it?!!`
-` We've left the level of tricks and explanations with human culprits!!`
+` We've left the level of {ruby:çeviri > numaralar:tricks} and explanations with human {ruby:çeviri > suçlular:culprits}!!`
 ` Aaaaaaaaaaahh, shit shit shit shit!!"`
 `"Calm yourself.`
 ` ......I am nothing more than a piece on that child's game board.`
@@ -355,22 +355,22 @@
 `"Shut up!`
 ` Weren't you also reciting strange spells and summoning towers and spears?!!"`
 `"What do you mean, strike back?!`
-` Are you saying you'll teach me magic too, telling me to fight her in one of those massive magic battles?!!"`
+` Are you saying you'll teach me {ruby:çeviri > büyü:magic} too, telling me to fight her in one of those massive {ruby:çeviri > büyü:magic} battles?!!"`
 `"......If you wish,`
-` I could teach you a bit about magic."`
+` I could teach you a bit about {ruby:çeviri > büyü:magic}."`
 `"Oh, just what I wanted!`
-` Please, give me some awesome magic to smash her chest in one blow...!!`
+` Please, give me some awesome {ruby:çeviri > büyü:magic} to smash her chest in one blow...!!`
 ` Hah, don't screw with me!"`
-`"I hear that in Japanese magic, there is a ceremony to pray for rain.`
+`"I hear that in Japanese {ruby:çeviri > büyü:magic}, there is a ceremony to pray for rain.`
 ` Do you know of it?"`
 `"Rain ceremony?`
 ` That thing where you throw stuff into the fire and offer a dance?`
-` ......That's not magic.`
+` ......That's not {ruby:çeviri > büyü:magic}.`
 ` The fire causes a thermal, and as a result, rain clouds gather.`
 ` I'm pretty sure that's an accepted scientific phenomenon."`
 `"Oh?`
-` ...I had believed that it was a form of eastern magic,`
-` but it isn't magic?`
+` ...I had believed that it was a form of eastern {ruby:çeviri > büyü:magic},`
+` but it isn't {ruby:çeviri > büyü:magic}?`
 ` I had believed that people offered sacred fire to the heavens, as well as a dance of respect,`
 ` so that your entreaty for rain would reach the hearts of the gods."`
 `"Maybe people did that long ago.`
@@ -394,7 +394,7 @@
 ` ...Well, that's probably a leftover from a period when religion rather than science was used to explain everything."`
 `"That is correct.`
 ` In the past, humans called the limits of their knowledge...`
-`...no, ignorance itself, "magic".`
+`...no, ignorance itself, "{ruby:çeviri > büyü:magic}".`
 ` ...Just like the rain ceremony we were just talking about."`
 `"Did the people of ancient times...`
 `understand the science of fire giving rise to heat to cause a thermal which calls forth clouds?`
@@ -402,23 +402,23 @@
 `"......That probably happened a lot.`
 ` The wisdom of ancestors.`
 ` Even without understanding the reason, through long experience, they knew that they would obtain that result.`
-` ...Phenomena whose principles they didn't understand were probably the same as magic to them."`
+` ...Phenomena whose principles they didn't understand were probably the same as {ruby:çeviri > büyü:magic} to them."`
 `Just like this person had just said, ancient people who didn't understand the principles had probably believed that,`
 ` through the rain ceremony, their wish had reached the heavens and made the rain fall.`
-`To them, that was certainly magic.`
+`To them, that was certainly {ruby:çeviri > büyü:magic}.`
 `{n}As long as they didn't understand thermals...`
 `"If you press a light switch, the light turns on.`
 ` ......Children do not know the scientific principles behind why the lightbulb lights up;`
 ` they press the switch knowing only the result.`
-` If they can obtain a result without knowing the principles, isn't that "magic" to them?"`
+` If they can obtain a result without knowing the principles, isn't that "{ruby:çeviri > büyü:magic}" to them?"`
 `"...............That's pretty interesting.`
 ` ...Well, logically, that's true.`
 ` ...For example, I don't have a clue why the Braun tubes in a TV show a picture."`
 `"However, I think it's completely normal for things to be displayed on the TV.`
 ` Even if I don't understand the principles behind Braun tubes, I at least know that "if I push the switch I can watch TV"."`
 `"...It's exactly the same as having a rain ceremony without understanding thermals.`
-` ......In other words, if I don't know the principles, even TV is the same as "magic",`
-` no, could you say it is magic?"`
+` ......In other words, if I don't know the principles, even TV is the same as "{ruby:çeviri > büyü:magic}",`
+` no, could you say it is {ruby:çeviri > büyü:magic}?"`
 `"Do you know how Braun tubes are constructed?`
 ` Have you ever taken one apart and looked inside?"`
 `"......Nope.`
@@ -426,7 +426,7 @@
 ` I think that when electrons hit a fluorescent material, it creates luminescence or something like that..."`
 `"That book was a fake.`
 ` Actually, there are small people called gremlins shut up inside the Braun tubes,`
-` and they do their job with magic."`
+` and they do their job with {ruby:çeviri > büyü:magic}."`
 `"Huh?!`
 ` That's stupid, there's no way...!"`
 `"How can you deny it if you have never looked inside a Braun tube?"`
@@ -435,18 +435,18 @@
 `"Y‐yeah, it is impossible to prove right this very moment,`
 ` ...but later I can take apart a TV somewhere and show you, and instantly win the argument!"`
 `"So, in other words,`
-` my "magic theory", that gremlins are shut up inside the Braun tubes and display the picture with magic,`
+` my "{ruby:çeviri > büyü:magic} theory", that gremlins are shut up inside the Braun tubes and display the picture with {ruby:çeviri > büyü:magic},`
 ` is impossible to disprove until we can verify the contents of a Braun tube, correct?"`
 `".........Hmm,`
 ` .........what the hell, one of those?`
-` Are you trying to say it's a "Devil's Proof"?`
-` That's your favorite trick, you witches."`
-`"The "Devil's Proof" is sophistry exploiting the impossibility of proving a negative fact.`
+` Are you trying to say it's a "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}"?`
+` That's your favorite {ruby:çeviri > numara:trick}, you witches."`
+`"The "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}" is sophistry exploiting the impossibility of proving a negative fact.`
 ` However, it is different from what I am talking about with Braun tubes.`
 ` That could be resolved just by taking apart a single television."`
 `"......You're right.`
-` It really isn't a "Devil's Proof"."`
-`"The scientific theory you propose, and the magical theory I propose.`
+` It really isn't a "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}"."`
+`"The scientific theory you propose, and the {ruby:çeviri > büyülü:magical} theory I propose.`
 ` ...One of those is the truth.`
 ` And which one it is can be ascertained as soon as you look inside the Braun tube.`
 ` However, until the instant that happens, we cannot deny each other's theories."`
@@ -463,15 +463,15 @@
 `Even though there can only be one cat in the box,`
 ` it is packed with a living cat and a dead cat, in a strange parallel world.`
 `That is what Rokkenjima is now.`
-`......This island is now a different world where a science theory and a magic theory exist at the same time.`
+`......This island is now a different world where a science theory and a {ruby:çeviri > büyü:magic} theory exist at the same time.`
 `...To a resident of the world of science such as yourself,`
-` at a glance, it may feel as though this island has been sucked into a world of magic.`
+` at a glance, it may feel as though this island has been sucked into a world of {ruby:çeviri > büyü:magic}.`
 `While that may be correct, it is not accurate.`
-`Strictly speaking, it has moved from the world of science, to the midway point between that world and the world of magic.`
-`So at a glance, it appears to you as though the world is tilted towards the magic side.`
+`Strictly speaking, it has moved from the world of science, to the midway point between that world and the world of {ruby:çeviri > büyü:magic}.`
+`So at a glance, it appears to you as though the world is tilted towards the {ruby:çeviri > büyü:magic} side.`
 `......But actually, this island is now in a perfectly impartial position with relation to the two opposing worlds.`
 `"......I don't really get it...`
-` Midway between reality and magic?`
+` Midway between reality and {ruby:çeviri > büyü:magic}?`
 ` A perfectly impartial world?`
 ` How's that?`
 ` Hasn't everything been going really bad for me the whole time...?!"`
@@ -481,7 +481,7 @@
 ` We could describe it as a Braun tube trial."`
 `"That child claims that there are tiny people inside the Braun tubes.`
 ` And she explains about the lives of the tiny people, what they look like,`
-` what type of magical power they have, on and on.`
+` what type of {ruby:çeviri > büyülü:magical} power they have, on and on.`
 ` ......And you?"`
 `"......Well, I study in a library, and argue back by explaining how Braun tubes are constructed, I guess."`
 `"At that moment, both your claim and that child's claim exist in the court at the same time.`
@@ -489,7 +489,7 @@
 ` you may hear it as though it were the truth. See it as though it were the truth.`
 ` {i:That is precisely what you were shown}."`
 `"..........................."`
-`"At this moment, on Rokkenjima, witches and magic certainly might exist as truth.`
+`"At this moment, on Rokkenjima, witches and {ruby:çeviri > büyü:magic} certainly might exist as truth.`
 ` ...However, that world is an uncertain wavefunction, existing only until the moment that the cat's box is opened.`
 ` All states can be justified simultaneously.`
 ` However, there is one truth."`
@@ -501,22 +501,22 @@
 `collapse by the judgment, and become one."`
 `".........So to say it in your words,`
 ` ......this island right now is the world right before looking into the Braun tube, right...?`
-` Therefore, neither the science theory nor the magic theory can be denied.`
+` Therefore, neither the science theory nor the {ruby:çeviri > büyü:magic} theory can be denied.`
 ` ...And since they cannot be denied—"`
 `"Both can exist as truth.`
-` That is why both witches and magic can exist.`
+` That is why both witches and {ruby:çeviri > büyü:magic} can exist.`
 ` ...However, at the same time, your opinion which denies them can also exist simultaneously as truth."`
 `".........It is a world where two conflicting things can exist at the same time.`
 ` And, it is a world where the conflicting truths cannot disprove each other.`
 ` .........Is it starting to make sense to you...?"`
 `"..................In other words...`
-`...no matter how much awesome magic Beato shows me...`
-`...that is only a claim from the "magic theory", and it doesn't disprove mine."`
-`"So, it's like, "no matter what kind of magic Beato shows me,`
-` in this world, that cannot become proof that magic exists"."`
+`...no matter how much awesome {ruby:çeviri > büyü:magic} Beato shows me...`
+`...that is only a claim from the "{ruby:çeviri > büyü:magic} theory", and it doesn't disprove mine."`
+`"So, it's like, "no matter what kind of {ruby:çeviri > büyü:magic} Beato shows me,`
+` in this world, that cannot become proof that {ruby:çeviri > büyü:magic} exists"."`
 `"That's right.`
-` That child will probably even try to explain an apple falling from a tree with magic.`
-` That child might shake her staff and pluck the apple with magic,`
+` That child will probably even try to explain an apple falling from a tree with {ruby:çeviri > büyü:magic}.`
+` That child might shake her staff and pluck the apple with {ruby:çeviri > büyü:magic},`
 ` and {i:claim} that she dropped it to the earth."`
 `"However, that would be nothing more than another one of her claims.`
 ` None of her claims can block your opportunity to make a claim.`
@@ -524,7 +524,7 @@
 `".........I...get it...`
 ` ......Still.`
 ` By that argument, even if I show a sound argument with my "science theory",`
-` all it will do is collide head‐on with her "magic theory", and I can't win against her either.`
+` all it will do is collide head‐on with her "{ruby:çeviri > büyü:magic} theory", and I can't win against her either.`
 ` Furthermore, there won't be any final judgment unless we peek into the Braun tube."`
 `".........Where is the Braun tube in this world?`
 ` ...It means there's no reason for us to argue.`
@@ -585,7 +585,7 @@
 ` Did you think of a response to that pleasant, thrilling, refreshing, highly acclaimed, wonderful fantasy battle between Master and meeeeeeee?`
 ` Isn't that impossible to explain without fantasy?`
 ` Hihhyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaah?!"`
-`"...Milady.`
+`"...{ruby:çeviri > Leydim:Milady}.`
 ` You have only just promised to be kind and act refined, remember?"`
 `"Ahhyahahahahaha, oops, my mistake.`
 ` I just get in such a good mood when I see Battler's face, you see?`
@@ -595,7 +595,7 @@
 ` ...Battle?`
 ` Did something happen?"`
 `"......Whaat?"`
-`"Where in this rose garden.`
+`"Where in this {ruby:çeviri > gül bahçesi:rose garden}.`
 ` Where are all those spears and towers that you grew?`
 ` Where have they all fallen to?`
 ` ............They're not here, are they?`
@@ -603,43 +603,43 @@
 `"......Inside the Braun tube, you say??`
 ` *cackle*, what in the world are you talking about now...?"`
 `"In this very moment,`
-` there is nothing at all in the rose garden.`
-` ...Sure, towers may have been sprouting with magic a short while ago.`
+` there is nothing at all in the {ruby:çeviri > gül bahçesi:rose garden}.`
+` ...Sure, towers may have been sprouting with {ruby:çeviri > büyü:magic} a short while ago.`
 ` But that's only until we learn what's inside the Braun tube.`
-` ......It is your interpretation that it was a magical battle, and that's nothing more than a claim.`
+` ......It is your interpretation that it was a {ruby:çeviri > büyülü:magical} battle, and that's nothing more than a claim.`
 ` And the fact that there's nothing at all here right now is the proof of that."`
 `"This is how I argue back about that witch's battle just now:`
 ` Right now, there isn't anything here, and that proves that nothing happened...!"`
 `"..................`
 ` ......Hahaha, hah‐hah‐hah‐hah‐ha!`
-` You know, obviously I can't make a huge mess right on the first twilight, and I do like that rose garden, you see?`
+` You know, obviously I can't make a huge mess right on the first twilight, and I do like that {ruby:çeviri > gül bahçesi:rose garden}, you see?`
 ` To prevent any damage, I fought inside a barrier.`
 ` So it's only natural that it wouldn't have any influence on reality."`
 `"......That is your "claim"?`
 ` Well, I guess that works."`
 `"However!`
-` My claim that, at this point in time, there is nothing in the rose garden,`
-` and therefore there was no magic, has not been obstructed in any way!!"`
-`"W‐wait, wait, can you deny my magic with that mess?!`
-` It is impossible to prove that magic "does not exist"!`
-` It's a "Devil's Proof"!!"`
+` My claim that, at this point in time, there is nothing in the {ruby:çeviri > gül bahçesi:rose garden},`
+` and therefore there was no {ruby:çeviri > büyü:magic}, has not been obstructed in any way!!"`
+`"W‐wait, wait, can you deny my {ruby:çeviri > büyü:magic} with that mess?!`
+` It is impossible to prove that {ruby:çeviri > büyü:magic} "does not exist"!`
+` It's a "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}"!!"`
 `"The truth is this garden at this very moment!`
 ` The instant you look inside, the tiny people inside the Braun tube will vanish.`
-` And there are no traces of magic here at all!`
+` And there are no traces of {ruby:çeviri > büyü:magic} here at all!`
 ` So that battle between you witches {i:did not take place}!!"`
 `"Wh‐`
 `......what the,`
 ` th‐that counter......?!`
 ` That power,`
 ` ...c‐could it be...?!"`
-`"...Have you forgotten, Milady?`
+`"...Have you forgotten, {ruby:çeviri > Leydim:Milady}?`
 ` It is the Multiplanar World Collapsation Technique.`
 ` The power of a Finite Witch, which is the pair to the power of an Endless Witch.`
 ` Only an Endless Witch would be able to understand it, and it causes the strongest effect for an Endless Witch."`
 `"Sch‐‘Schrödinger's cat box’?!`
 ` .........Th‐......that old hag of a witch...what an uncalled‐for hint!!"`
 `"We've lost time.`
-` With the five servants and Grandfather, there are six corpses!`
+` With the five {ruby:çeviri > hizmetkarlar:servants} and Grandfather, there are six corpses!`
 ` Let me check the scene.`
 ` I've been trudging along wasting time.`
 ` From now on, I'll speed things up, okay?"`

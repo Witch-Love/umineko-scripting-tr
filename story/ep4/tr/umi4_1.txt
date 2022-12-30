@@ -1,4 +1,4 @@
-`"Good morning, Milady.`
+`"Good morning, {ruby:çeviri > Leydim:Milady}.`
 ` My, my, you do appear to be in a good mood.`
 ` What a pleasant awakening you seem to have had."`
 `"‘Pleasant awakening’...!`
@@ -24,7 +24,7 @@
 `"Oh, yes, completely and splendidly.`
 ` ...His pure, rosebud‐like innocence, arising from never once having been tricked by another since birth, you unreservedly violated."`
 `"............Even the joy of running around a field covered with beautiful new snow on a winter morning and trampling it utterly wouldn't even begin to compare."`
-`"You took Battler‐sama's innocent heart, Milady,`
+`"You took Battler‐sama's innocent heart, {ruby:çeviri > Leydim:Milady},`
 ` and thrillingly, splendidly, atrociously, mercilessly, and in quite the uncultured manner, enough to make one think "maybe I went a teensy little bit overboard...?",`
 ` you most assuredly perpetrated the very worst of atrocities against it."`
 `"I am quite sure most people {i:would} start to feel down.`
@@ -51,7 +51,7 @@
 ` {nobreak:com‐`
 `pre‐`
 `hensively}`
-` destroyed him, Milady.`
+` destroyed him, {ruby:çeviri > Leydim:Milady}.`
 ` That would turn most anyone into a misanthrope."`
 `"Hoh, distrust of {y:0:Human}{n:0:human}s? How convenient!`
 ` Let him give up on {y:0:Human}{n:0:human}s and trust witches, wahahaha...`
@@ -63,7 +63,7 @@
 ` Sh‐should we wait just a little longer before beginning the fourth game...?"`
 `"Because Lady {f:5:Bernkastel}'s guest will be coming,`
 ` it may be more appropriate to open the fourth game quickly.`
-` However, it might be useful if you were to show him a little consideration, Milady."`
+` However, it might be useful if you were to show him a little consideration, {ruby:çeviri > Leydim:Milady}."`
 `"Consideration!`
 ` Consideration, you say?!`
 ` How should I show that...?!`
@@ -134,7 +134,7 @@
 `.........gwaaaaaaaaaaaaaaahhh...!!!`
 ` You tricked meeeeeeeeeee...!!"`
 `"Heh, you should talk.`
-` Weren't you the one who played that massive trick on me last time?`
+` Weren't you the one who played that massive {ruby:çeviri > numara:trick} on me last time?`
 ` I don't have a clue what's going on, but I'm glad to see you started your morning with a helping of just deserts.`
 ` ...Well, anyway, nice one, Ronove."`
 `"Pukkukuku, I am much obliged, Battler‐sama."`
@@ -197,12 +197,12 @@
 ` Come, take your seat."`
 `"...Sure.`
 ` Bring it on.`
-` ......Clever little tricks aren't gonna work anymore."`
+` ......Clever little {ruby:çeviri > numaralar:tricks} aren't gonna work anymore."`
 `"Stop acting so tough.`
 ` You remain in a state of surrender for the last mystery in the previous game, the mystery of Nanjo's murder...!"`
 `".........I'm still holding off on an answer for that one.`
 ` But that doesn't mean I've lost heart.`
-` I will break your "red truth" and deny witches—I guarantee it...!"`
+` I will break your "{ruby:çeviri > kırmızı gerçek:red truth}" and deny witches—I guarantee it...!"`
 `"Hmph.`
 ` A good disposition.`
 ` You truly are a man like a phoenix.`
@@ -361,7 +361,7 @@
 ` Get it...?"`
 `"Yeah... I get it.`
 ` ......You're telling me not to swallow information given to me by others, but to think for myself.`
-` .........I've just been swallowing the magic that Beato showed me."`
+` .........I've just been swallowing the {ruby:çeviri > büyü:magic} that Beato showed me."`
 `"{i:I'd stopped thinking}.`
 ` That's why it was no good."`
 `Battler grimaced as he remembered his many painful losses.`
@@ -409,7 +409,7 @@
 `"*cackle*cackle*cackle*!!`
 ` Impressive confidence, Ushiromiya Battleerr!`
 ` After you've said so much, it makes me want to...`
-`trick you all over again, you see...?`
+`{ruby:çeviri > numara:trick} you all over again, you see...?`
 ` And I want to see what kind of face you'll make when you realize that you've been tricked yet again!`
 ` I like it, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"......So, it looks like you know my name, but I don't know yours.`
@@ -463,7 +463,7 @@
 `"Uu‐uu‐uu!!`
 ` Gonna faaall gonna faaall, gonna siiink gonna siiink, *giggle*!"`
 `...All my fondly remembered cousins I had loved so much dashed away through the beach,`
-` ......disappearing as they were sucked into the forest path leading to the mansion.`
+` ......disappearing as they were sucked into the forest path leading to the {ruby:çeviri > malikane:mansion}.`
 `And of course, Onii‐chan could be seen among them too.`
 `"......Dammii~it!!`
 ` Hold it, hold it, Mariaaaa!!`

@@ -345,13 +345,13 @@
 `"...It really makes me mad hearing that from myself.`
 ` You have no right to speak of me like that."`
 `"Then let's use that anger and learn from it.`
-` ......Changing anger into power is my magic.`
+` ......Changing anger into power is my {ruby:çeviri > büyü:magic}.`
 ` I've saved you from several predicaments with that power, and allowed you to achieve things that should have been impossible for you.`
-` As long as you have my magic, there's nothing you can't do."`
+` As long as you have my {ruby:çeviri > büyü:magic}, there's nothing you can't do."`
 `"......That's right.`
 ` Anger has always been my driving force.`
 ` I wonder when it was that I forgot that..."`
-`"If you have remembered me again, that magic is ours once more.`
+`"If you have remembered me again, that {ruby:çeviri > büyü:magic} is ours once more.`
 ` Come on, let's turn that anger into power, and endeavor in our studies even more, alright?`
 ` I'm sure that we still have a lot more studying that we need to do."`
 `"Let's go to college, study more and more, get excellent grades, and drive Krauss into a corner."`
@@ -394,12 +394,12 @@
 `"...At that time, the ridiculous wall that separates man from woman will be demolished by Father, who set it up in the first place.`
 ` That day will surely come."`
 `"......How can you say surely?"`
-`"Because that is my...magic."`
+`"Because that is my...{ruby:çeviri > büyü:magic}."`
 `"....................."`
-`"If you'll just believe, this magic will surely create a miracle.`
-` ......The basis of my magic is nothing more than your believing heart."`
+`"If you'll just believe, this {ruby:çeviri > büyü:magic} will surely create a miracle.`
+` ......The basis of my {ruby:çeviri > büyü:magic} is nothing more than your believing heart."`
 `"..........................."`
-`If I can use that magic, ......then surely, until the day I die, I'll never have to doubt that someday I will become the head.`
+`If I can use that {ruby:çeviri > büyü:magic}, ......then surely, until the day I die, I'll never have to doubt that someday I will become the head.`
 `...But I don't know if that is the right thing for Ushiromiya Eva...`
 `Shouldn't I aim to become the kind of lady that Father hoped for, someone he can take out into society and boast about?`
 `Father might take a better view of me if I were reborn.`
@@ -425,9 +425,9 @@
 ` ......It's just that I've become an adult, and the time has come for us to go our separate ways."`
 `"That's right.`
 ` You've already become an adult.`
-` You've even forgotten how to use magic.`
+` You've even forgotten how to use {ruby:çeviri > büyü:magic}.`
 ` ......You are now the mother of a child.`
-` You've forgotten the magic that can grant your own dreams, and are now pushing those dreams onto your son."`
+` You've forgotten the {ruby:çeviri > büyü:magic} that can grant your own dreams, and are now pushing those dreams onto your son."`
 `"...Even though you had your own life messed with so much by Father and Krauss, you're trying to push your dreams onto your son, and mess with his life too.`
 ` ......Is that what being an adult is all about?"`
 `"G‐George is my pride and joy, who won't embarrass me no matter where he goes...!`
@@ -453,21 +453,21 @@
 `"We will become the head of the Ushiromiya family.`
 ` ......Don't try to confuse that dream.`
 ` So believe me that you can definitely achieve it.`
-` Believe in my magic."`
-`"...If I believe, will the magic have power, I wonder."`
+` Believe in my {ruby:çeviri > büyü:magic}."`
+`"...If I believe, will the {ruby:çeviri > büyü:magic} have power, I wonder."`
 `"Yes.`
-` My magic can grant any wish without fail."`
+` My {ruby:çeviri > büyü:magic} can grant any wish without fail."`
 `"..................`
 ` ......I'll believe.`
-` ......I'll believe, ...so create a miracle with that magic...`
+` ......I'll believe, ...so create a miracle with that {ruby:çeviri > büyü:magic}...`
 ` ......If you don't, ......the hole in my heart will never heal......"`
 `"Yes.`
 ` ......Then, listen well.`
-` To my magic words.`
+` To my {ruby:çeviri > büyü:magic} words.`
 ` ......And understand them. If we can solve the riddle, we can become the Ushiromiya family head.`
 ` ......So lend me your ears and listen carefully..."`
 `Behold the sweetfish river, running through my beloved home of old.`
-`{n}You who seek the Golden Land, follow its path downstream in search of the key......`
+`{n}You who seek the {ruby:çeviri > Altın Diyar:Golden Land}, follow its path downstream in search of the key......`
 `"Eva nee‐san.`
 ` It looks like we're about to arrive."`
 `As her shoulder was tapped by Kyrie, Eva jumped and awoke from her doze.`
@@ -476,7 +476,7 @@
 ` ......I'm sorry.`
 ` I was half asleep."`
 `"Sorry for surprising you."`
-`"Auntie Eva, you were out cold.`
+`"{ruby:çeviri > Hala:Auntie} Eva, you were out cold.`
 ` Did you get up early this morning?"`
 `"......I suppose.`
 ` How embarrassing, I must have looked quite disgraceful.`

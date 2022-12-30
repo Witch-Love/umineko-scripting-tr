@@ -4,7 +4,7 @@
 `So no one was mentioning it, at least out loud.`
 `......However, those thoughts were what filled our minds.`
 `{n}All that we couldn't say aloud made our heads feel like they were going to explode...`
-`So, at least on the outside, the parlor had once again regained its calm mood.`
+`So, at least on the outside, the {ruby:çeviri > salon:parlor} had once again regained its calm mood.`
 `Though everything was left unsettled.`
 `"......It feels like the rain's gotten a little lighter."`
 `"Uu...?`
@@ -12,7 +12,7 @@
 ` Uu..."`
 `"Even if it did stop, there's no boat on this island.`
 ` ...But it'd be nice if the boat came quickly tomorrow.`
-` I've had enough of this Western mansion vacation, ihihi."`
+` I've had enough of this Western {ruby:çeviri > malikane:mansion} vacation, ihihi."`
 `"Mom, when will the boat come tomorrow?"`
 `"Originally, the boat to take them back would have arrived at three o'clock today.`
 ` They probably would have telephoned to say that they would come after the typhoon passed, but unfortunately, the telephones aren't working..."`
@@ -42,7 +42,7 @@
 `......And as he remembered Shannon's face, and her brutal end, he grimaced...`
 `"............Forget it for now..."`
 `Genji spoke kindly to Kanon as he advanced a pawn.`
-`...Nanjo had escaped from the parlor once the mood had become sour, and Genji had become his opponent in a game of chess upon Nanjo's request.`
+`...Nanjo had escaped from the {ruby:çeviri > salon:parlor} once the mood had become sour, and Genji had become his opponent in a game of chess upon Nanjo's request.`
 `".........Yes.`
 ` ......I will forget it for now."`
 `"...Good.`
@@ -54,7 +54,7 @@
 ` ......I hope that he is safe, but..."`
 `".........I do not know.`
 ` ...Only, I think everything is as the Master hoped—as he has arranged.`
-` ......To distrust that would exceed my role as furniture working for the Master."`
+` ......To distrust that would exceed my role as {ruby:çeviri > mobilya:furniture} working for the Master."`
 `"...Aren't you scared, Genji‐san...?`
 ` I am frightened something bad will occur again tonight..."`
 `"............I have nothing to be afraid of.`
@@ -62,7 +62,7 @@
 `Nanjo sighed through his nose, and made a carefully considered move.`
 `...Nanjo was very slightly dubious.`
 ` ......Could Genji possibly think that he would be left out of this?`
-`He couldn't begin to imagine what was happening inside this mansion.`
+`He couldn't begin to imagine what was happening inside this {ruby:çeviri > malikane:mansion}.`
 `...But he definitely couldn't deny the possibility that it was something of Kinzo's design.`
 `...If you liken this island to chess, Kinzo had opened the game, and as a result, six pieces had fallen.`
 `......Could it be that Genji was calm because he believed that he alone was outside the chessboard, and safe?`
@@ -74,13 +74,13 @@
 `".........Genji‐san.`
 ` ...I am really frightened about tonight.`
 ` ......I'm hoping with all my heart that we will be still be safe when tomorrow morning comes..."`
-`The guest room that Eva and Hideyoshi had moved into was used to house guests before the guesthouse had been constructed.`
+`The {ruby:çeviri > misafir odası:guest room} that Eva and Hideyoshi had moved into was used to house guests before the {ruby:çeviri > konukevi:guesthouse} had been constructed.`
 `So until a few years ago, they had stayed in this room every family conference and were very familiar with it.`
 `This room, just like a room at a hotel, had a bedroom and a bathroom,`
-` so even though they were still shut in, it was far more comfortable than the parlor.`
+` so even though they were still shut in, it was far more comfortable than the {ruby:çeviri > salon:parlor}.`
 `"Guess it's true you can relax more when you're alone with your immediate family.`
-` ......They should all just do this, shut themselves in guest rooms and lock the doors."`
-`"But Natsuhi nee‐san's throwing her weight around, saying no one can leave the parlor.`
+` ......They should all just do this, shut themselves in {ruby:çeviri > misafir odaları:guest rooms} and lock the doors."`
+`"But Natsuhi nee‐san's throwing her weight around, saying no one can leave the {ruby:çeviri > salon:parlor}.`
 ` How can any of them talk back?"`
 `"She always felt she was being left out in the cold, so now that Nii‐san's dead, she's in high spirits, thinking her time has finally come.`
 ` ...Seriously, how shameless can she be."`
@@ -121,10 +121,10 @@
 `George would eventually become the successor to the Ushiromiya family.`
 `{n}They had raised him strictly with that purpose in mind.`
 `George had been worth their while, and had grown into a fabulous young man who wouldn't disappoint no matter where he went.`
-`...That was why she couldn't stand that he was in love with a servant like Shannon.`
+`...That was why she couldn't stand that he was in love with a {ruby:çeviri > hizmetkar:servant} like Shannon.`
 `......So when she had learned that Shannon had died and the engagement had been invalidated,`
 ` ......while part of her had been shocked at the gruesome crime,`
-` another part of her had been relieved that her precious George wouldn't be stolen by some servant girl...`
+` another part of her had been relieved that her precious George wouldn't be stolen by some {ruby:çeviri > hizmetkar:servant} girl...`
 `"..................`
 ` .........I...`
 `......always did hate Krauss nii‐san.`
@@ -149,7 +149,7 @@
 `"......Thank you,`
 ` ......honey."`
 `Eva hung her head, burying her face in Hideyoshi's chest...`
-`{n}......Probably, no one in the parlor could even imagine that this side of Eva existed.`
+`{n}......Probably, no one in the {ruby:çeviri > salon:parlor} could even imagine that this side of Eva existed.`
 `"I'm the one who should be thankin' you.`
 ` To this day, there hasn't been a single day that I've regretted being with you!"`
 `"...............Me too.`
@@ -190,7 +190,7 @@
 ` Is Doctor Nanjo still in the kitchen?"`
 `"............Yes.`
 ` He has said that he wishes to carefully deliberate over his next move.`
-` ...Do not worry, he is with the other servants."`
+` ...Do not worry, he is with the other {ruby:çeviri > hizmetkarlar:servants}."`
 `"Genji‐san's good enough at chess to be Grandfather's opponent.`
 ` I hear he's even better than Doctor Nanjo, you know?"`
 `"...Is that right.`
@@ -213,10 +213,10 @@
 `"First Father, now Eva‐san...`
 ` We seem incapable of managing a full showing at the Ushiromiya dinner table."`
 `Natsuhi felt her headache start throbbing again, and lightly held her temples...`
-`The distance from the kitchen to the parlor wasn't that large, so Genji had gone there and back by himself, but the guest room was a little farther away.`
+`The distance from the kitchen to the {ruby:çeviri > salon:parlor} wasn't that large, so Genji had gone there and back by himself, but the {ruby:çeviri > misafir odası:guest room} was a little farther away.`
 `Natsuhi had warned him not to be alone without good reason,`
 ` and just now, Nanjo had also admonished him, saying that it would be better if he held a little more concern for his safety.`
-`...Genji took Kanon with him, and the two of them went to visit Eva and Hideyoshi in their guest room.`
+`...Genji took Kanon with him, and the two of them went to visit Eva and Hideyoshi in their {ruby:çeviri > misafir odası:guest room}.`
 `Genji knocked on the door.`
 `"......Eva‐sama, Hideyoshi‐sama.`
 ` Dinner has been prepared."`
@@ -241,8 +241,8 @@
 ` Are you there?!`
 ` Please answer, Eva‐sama...!!"`
 `But there was no response from inside.`
-`Sometimes, when the servants went to call some guests for a meal, the guests would be sleeping so deeply that they wouldn't wake up.`
-`...In times like that, the servants would stick a letter in the door to show that they had called by, and then leave the guest be.`
+`Sometimes, when the {ruby:çeviri > hizmetkarlar:servants} went to call some guests for a meal, the guests would be sleeping so deeply that they wouldn't wake up.`
+`...In times like that, the {ruby:çeviri > hizmetkarlar:servants} would stick a letter in the door to show that they had called by, and then leave the guest be.`
 `......However, despite that, Genji beat even harder on the door and called out Eva's name.`
 `But there was no answer.`
 `Kanon stuck his ear up to the door, and holding his breath, listened for any sounds coming from inside...`
@@ -258,14 +258,14 @@
 ` Please answer!!`
 ` Are you still in your room?!"`
 `Even so, there was still no answer...`
-`There was a chance that the two were aimlessly walking around the mansion.`
+`There was a chance that the two were aimlessly walking around the {ruby:çeviri > malikane:mansion}.`
 `...This was the home Eva had grown up in.`
 `{n}There was plenty of reason to think that she had gone out on a casual stroll...`
-`Genji groped around in his pocket, and pulled out a bundle of keys including the one that would open the guest room.`
+`Genji groped around in his pocket, and pulled out a bundle of keys including the one that would open the {ruby:çeviri > misafir odası:guest room}.`
 `"......Genji‐sama...?!"`
 `Kanon also understood what this meant.`
 `......They would sometimes unlock a guest's door so they could go in and do things like make the beds, but only after they had made sure the guest was out.`
-`To unlock the door for a separate reason, and especially to do so when there was a chance the guests were still in there and without their permission, was an action unbecoming of a servant.`
+`To unlock the door for a separate reason, and especially to do so when there was a chance the guests were still in there and without their permission, was an action unbecoming of a {ruby:çeviri > hizmetkar:servant}.`
 `...However, Genji had decided.`
 ` .........If the only problem had been that his knock hadn't received a reply, he wouldn't have gone this far.`
 `But the envelope under the door was doubtlessly Kinzo's.`
@@ -294,10 +294,10 @@
 `{n}But there was no answer.`
 `".....................Genji‐sama...`
 ` ............What should we do...?"`
-`As part of their job, the servants were able to unlock almost any lock in the mansion.`
+`As part of their job, the {ruby:çeviri > hizmetkarlar:servants} were able to unlock almost any lock in the {ruby:çeviri > malikane:mansion}.`
 `But they had no way to open a door with a chain.`
 `......The only way to get by the chain was to cut it.`
-`{n}...That was certainly not permitted as part of a servant's usual work.`
+`{n}...That was certainly not permitted as part of a {ruby:çeviri > hizmetkar:servant}'s usual work.`
 `......A creepy chill was already rushing up their backs...`
 `Kanon held his breath again and tried to sense someone through the door, but even so, he was not able to sense anyone.`
 `"...............I'll go call Madam.`
@@ -328,7 +328,7 @@
 ` My apologies, but please come with me."`
 `"Wh‐...what happened, Kanon‐san......?"`
 `Unable to take in the situation, Kumasawa said almost exactly the same thing as Nanjo, and chased after Kanon, who had flown out into the hallway...`
-`Accompanied by Kumasawa, Kanon went to the storehouse,`
+`Accompanied by Kumasawa, Kanon went to the {ruby:çeviri > ambar:storehouse},`
 ` and from amongst the tools packed in toolboxes and hanging on the walls, he looked for a tool that could be used to cut the chain.`
 `"What are you looking for...?`
 ` ...I will help......"`
@@ -358,16 +358,16 @@
 ` .........hiiiiiiiii......"`
 `Kumasawa screamed weakly, her face pallid...`
 `That was no surprise...`
-` Because, right there, .........on the door, ......just like the magic circle that had been drawn on the shutter of the rose garden storehouse,`
+` Because, right there, .........on the door, ......just like the {ruby:çeviri > büyü:magic} circle that had been drawn on the shutter of the {ruby:çeviri > gül bahçesi:rose garden} {ruby:çeviri > ambar:storehouse},`
 ` there was another eerie shape drawn with paint that looked like blood.`
-`However, it was dubious whether this one could be called a "magic circle".`
-`...Because, unlike what most people would think of as a magic circle, it wasn't a circle with shapes drawn inside it,`
+`However, it was dubious whether this one could be called a "{ruby:çeviri > büyü:magic} circle".`
+`...Because, unlike what most people would think of as a {ruby:çeviri > büyü:magic} circle, it wasn't a circle with shapes drawn inside it,`
 ` but a slightly more geometrical shape.`
-`......However, the strange non‐alphabetical characters written in the gaps of the figure were without doubt the same as the magic circle on the shutter...`
-`But the thing that had Kanon struck speechless was not how eerie the magic circle was.`
+`......However, the strange non‐alphabetical characters written in the gaps of the figure were without doubt the same as the {ruby:çeviri > büyü:magic} circle on the shutter...`
+`But the thing that had Kanon struck speechless was not how eerie the {ruby:çeviri > büyü:magic} circle was.`
 `......Only moments ago, this hadn't been here...!!`
 `He had returned to the kitchen for a short while.`
-` He had then gone to the storehouse to grab a tool, and headed right back.`
+` He had then gone to the {ruby:çeviri > ambar:storehouse} to grab a tool, and headed right back.`
 `Put those together and it couldn't have been more than five minutes.`
 `...How could someone add something this creepy during that period of time...?!`
 `And as though it had just been drawn,`
@@ -380,7 +380,7 @@
 ` It's the work of {f:5:Beatrice}‐sama, how horrid, how horrid...!!"`
 `"...........................hh."`
 `Kanon gulped, then readied the bolt cutter and approached the door.`
-`...He didn't want to get close to this disturbing magic circle, and he really didn't want to touch the steadily dripping substance that looked like blood.`
+`...He didn't want to get close to this disturbing {ruby:çeviri > büyü:magic} circle, and he really didn't want to touch the steadily dripping substance that looked like blood.`
 `......But if he didn't get close, he couldn't cut the chain.`
 `Fighting this cold feeling, he gulped again, and after gathering his courage, went even closer, putting the bolt cutter up against the chain.`
 `......He then pressed with all of his strength, and cut through the chain far more easily than he had imagined.`
@@ -443,7 +443,7 @@
 ` What does it say inside?"`
 `"...I have not yet read it."`
 `".........We shouldn't touch it carelessly...`
-` The culprit's fingerprints might be left on it...`
+` The {ruby:çeviri > suçlu:culprit}'s fingerprints might be left on it...`
 ` We should hand it over to the police..."`
 `"......They went out of their way to leave it here.`
 ` I'm sure they wouldn't have left fingerprints."`
@@ -482,24 +482,24 @@
 ` covered her mouth with a handkerchief and dashed from the room...`
 `Just viewing their gruesome bodies for an instant had been enough to burn the image into her eyes.`
 ` If she looked any longer, that image would surely remain in her vision for all eternity...`
-`The rising urge to vomit was exactly the same feeling she'd had that morning at the gardening storehouse...`
-`For a while, Natsuhi couldn't help but stand with her back facing the guest room, fighting that sickness in her stomach...`
+`The rising urge to vomit was exactly the same feeling she'd had that morning at the gardening {ruby:çeviri > ambar:storehouse}...`
+`For a while, Natsuhi couldn't help but stand with her back facing the {ruby:çeviri > misafir odası:guest room}, fighting that sickness in her stomach...`
 `"......A‐.........anyway, we can't let the kids,`
 ` ...we can't let George‐kun see this room.`
 ` Quickly, close this room up...!"`
 `".........Gra‐...gracious, no, it shouldn't be shown to them...`
 ` If George‐san saw his parents in this brutal state......"`
 `But the recklessly approaching footsteps were obviously George's even before he came flying into the room.`
-`George and the other children had been waiting in the parlor.`
+`George and the other children had been waiting in the {ruby:çeviri > salon:parlor}.`
 `But when they had seen Genji call Natsuhi out, and had noticed her turn pale and fly out of the room, they had felt that he might have been the bearer of bad news.`
-`And when they saw a large group of people gathered around the guest room, they were sure of it...`
+`And when they saw a large group of people gathered around the {ruby:çeviri > misafir odası:guest room}, they were sure of it...`
 `"Father!!!`
 ` Mother!!!"`
 `".........Aaahh,`
 ` wha‐......what is this,`
-` another......magic circle?!"`
+` another......{ruby:çeviri > büyü:magic} circle?!"`
 `"...................................."`
-`"Auntie Eva and Uncle Hideyoshi are safe, right?!`
+`"{ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi are safe, right?!`
 ` Hey, Kanon‐kun!`
 ` What's this all about?!"`
 `"...Battler‐sama...`

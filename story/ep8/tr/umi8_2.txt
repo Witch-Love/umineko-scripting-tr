@@ -16,7 +16,7 @@
 `"You're right.`
 ` I think the sky's getting cloudier too.`
 ` .........Battler‐kun, Maria‐chan!`
-` I think we should call it a day soon and head back to the guesthouse for the time being."`
+` I think we should call it a day soon and head back to the {ruby:çeviri > konukevi:guesthouse} for the time being."`
 `"Uu? No way!`
 ` I wanna play more!!"`
 `"Hey, don't ignore your cousin.`
@@ -58,17 +58,17 @@
 ` Uu‐uu‐uu!!"`
 `Ange walked distractedly, pulled along by her brother.`
 `George and the others thought that she had probably woken up too early and was tired, so they didn't try to talk to her much.`
-`As they reached the end of the forested path, the rose garden lay before them.`
+`As they reached the end of the forested path, the {ruby:çeviri > gül bahçesi:rose garden} lay before them.`
 `{n}They could see the strong winds making the rose bushes wave.`
 `"Mama!! Look!!`
 ` I won!!"`
 `Waving a hand about and yelling, Maria ran.`
-`{n}Rosa was waving to her from the front of the guesthouse.`
+`{n}Rosa was waving to her from the front of the {ruby:çeviri > konukevi:guesthouse}.`
 `"I'm gonna head back to my room for a sec.`
 ` I'll meet you in the cousins' room right after."`
 `"Okay, got it.`
 ` See you later, then."`
-`Jessica ran off in the direction of the mansion.`
+`Jessica ran off in the direction of the {ruby:çeviri > malikane:mansion}.`
 `George turned around, as though suggesting that they had better get going too.`
 `However, when he saw Ange standing still with a crabby look on her face,`
 ` he realized that she might have been put into a bad mood by something.`
@@ -77,13 +77,13 @@
 ` Sorry, but would you mind going on ahead of us?"`
 `"Sure, got it.`
 ` See you later."`
-`George headed for the guesthouse.`
-`The only ones left in the rose garden were Battler, who was waving at George, ......and Ange, who was still staring at the ground and holding Battler's hand.`
+`George headed for the {ruby:çeviri > konukevi:guesthouse}.`
+`The only ones left in the {ruby:çeviri > gül bahçesi:rose garden} were Battler, who was waving at George, ......and Ange, who was still staring at the ground and holding Battler's hand.`
 `For the past few minutes, he had repeatedly asked Ange what was wrong.`
 `He realized that this wasn't anything like a stomachache, or something obvious that had put her into a bad mood.`
 `However, young girls sometimes get upset for reasons that only they can understand.`
 `Battler knew this, so he didn't rush her in any way,`
-` and continued to gaze around the beautiful rose garden, holding her hand.`
+` and continued to gaze around the beautiful {ruby:çeviri > gül bahçesi:rose garden}, holding her hand.`
 `"............Onii‐chan."`
 `"......What is it?"`
 `"Where...`
@@ -201,7 +201,7 @@
 `Ange bit her lower lip and stared at the ground.`
 `She said she didn't understand,`
 ` ......but in truth, she understood perfectly, and was refusing to accept it.`
-`"Remember how we traded Halloween presents in the parlor just now?"`
+`"Remember how we traded Halloween presents in the {ruby:çeviri > salon:parlor} just now?"`
 `"......What was that all about?`
 ` The Ushiromiya family never did anything that sentimental...!"`
 `"You......don't remember anything, huh..."`
@@ -216,7 +216,7 @@
 `"Are you saying that I was just too young to remember,`
 ` ......and that......and {i:that}......was the truth of October 4th?!"`
 `That day, just like six years before,`
-` Grandfather entered the parlor with a cry of "Happy Halloween".`
+` Grandfather entered the {ruby:çeviri > salon:parlor} with a cry of "Happy Halloween".`
 `Then, he and I traded presents, ......as he shed tears over our long‐awaited reunion after a six‐year gap.`
 `......Grandfather was very sad that you weren't able to come.`
 `So, he gave your present to Kyrie‐san, telling her to make sure that you got it...`
@@ -235,7 +235,7 @@
 ` It's the truth, isn't it?!"`
 `"Do you think Dad would talk to you about financial difficulties with his company when you were that age...?`
 ` And not just Dad.`
-` Even if Uncle Krauss, Auntie Eva, and Auntie Rosa talked about how they were in money trouble and wanted Kinzo's inheritance money,`
+` Even if Uncle Krauss, {ruby:çeviri > Hala:Auntie} Eva, and {ruby:çeviri > Hala:Auntie} Rosa talked about how they were in money trouble and wanted Kinzo's inheritance money,`
 ` ......do you really think they'd talk about it in front of you...?"`
 `"B‐but...`
 ` ......But it's true, isn't it?!?!"`
@@ -309,7 +309,7 @@
 ` And now, you're showing me this strange illusion, trying to make me believe that it's the truth!`
 ` ......Well, too bad.`
 ` I'm already used to dealing with witches.`
-` I'm fully aware that you're trying to use that kind face of yours to trick me...!!"`
+` I'm fully aware that you're trying to use that kind face of yours to {ruby:çeviri > numara:trick} me...!!"`
 `".............................."`
 `The big brother knew that no words of his would have any effect on his enraged little sister.`
 `So, he just quietly listened to Ange's words.`
@@ -324,7 +324,7 @@
 `"Sorry,`
 ` but I won't let you leave this game."`
 `"......Ah, that's right.`
-` Unless the Game Master admits defeat, the game never ends, right?"`
+` Unless the {ruby:çeviri > Oyun Yöneticisi:Game Master} admits defeat, the game never ends, right?"`
 `"That's not what this is.`
 ` ......I just want you to stay quiet and listen to what I have to say."`
 `"......Oh, okay.`
@@ -364,13 +364,13 @@
 ` ......Onii‐chan...?"`
 `"What is it?"`
 `"......How long are we gonna stand here...? The weather's all weird.`
-` ......Let's go back to the guesthouse."`
+` ......Let's go back to the {ruby:çeviri > konukevi:guesthouse}."`
 `Ange's eyes weren't cloudy anymore.`
 `However, the tone and atmosphere about those eyes seemed somehow different from before...`
 `In a manner typical of young girls, Ange signaled that she was too bored and wanted to go do something.`
 `This Ange was clearly a six‐year‐old Ange.`
 `"Good point.`
-` ......Then, why don't you head back to the guesthouse now?`
+` ......Then, why don't you head back to the {ruby:çeviri > konukevi:guesthouse} now?`
 ` I'm going to stay here."`
 `"Why...? It'll start raining soon."`
 `"She should be here in a moment.`
@@ -383,13 +383,13 @@
 `"There you are.`
 ` ......I've been waiting a while now."`
 `It was as though he was talking to the wind.`
-` ......Battler spoke to the empty rose garden.`
+` ......Battler spoke to the empty {ruby:çeviri > gül bahçesi:rose garden}.`
 `That can't be right.`
 ` After all, it was clear from his words that he was talking to someone right in front of him.`
 `So, Ange thought it must be someone that she alone couldn't see, and she rubbed her eyes.`
 `Then, when she opened her eyes wide, another large gust of wind blew past her.`
 `She shut her eyes immediately, .........and when she timidly opened them...`
-`From the other end of the rose garden—`
+`From the other end of the {ruby:çeviri > gül bahçesi:rose garden}—`
 `yes, from the path that led up from the harbor,`
 ` ......a person appeared.`
 `To Ange, it looked as though she had appeared along with a cloud of gold flakes carried by the wind......`
@@ -455,7 +455,7 @@
 `......She looked like a very emotional person,`
 ` ......but she wasn't at all what Ange had expected the creepy Golden Witch would be like.`
 `She was very loud, overreacting to everything.`
-` ......Nothing at all like the witch Maria onee‐chan had talked about, who had lived for a thousand years and had various servants from the demon world.`
+` ......Nothing at all like the witch Maria onee‐chan had talked about, who had lived for a thousand years and had various {ruby:çeviri > hizmetkarlar:servants} from the demon world.`
 `She looked, well, like an energetic young woman whom Ange's mom might have been good friends with.`
 `Her brother and the witch talked together happily like a pair of close friends.`
 `Dogs often don't trust people when meeting them for the first time.`
@@ -506,39 +506,39 @@
 `"Fear not.`
 ` It is impossible for anyone to steal that key from you."`
 `"......No one can steal it...?"`
-`"You might say that it has been imbued with magic to make it so.`
+`"You might say that it has been imbued with {ruby:çeviri > büyü:magic} to make it so.`
 ` At any rate, fear not.`
 ` Neither I, nor Battler, nor anyone else on this island can steal that key from you."`
 `"Really......?"`
 `"Yeah, really.`
-` The magic won't let them."`
+` The {ruby:çeviri > büyü:magic} won't let them."`
 `The key was hanging around her neck like an ordinary necklace.`
 `Ange could take it off right now if she wanted, and if an adult tried to use force, it seemed like it would be easy for them to take it away.`
-`However, both her brother and the witch said that it was protected by a magic that would stop anyone from stealing it...`
-`".........Does magic...`
+`However, both her brother and the witch said that it was protected by a {ruby:çeviri > büyü:magic} that would stop anyone from stealing it...`
+`".........Does {ruby:çeviri > büyü:magic}...`
 `.........really...exist...?"`
-`Even the six‐year‐old Ange knew about the word "magic".`
-`However, she also realized that real magic didn't exist,`
-` ......and that certain kinds of magic tricks were sometimes called magic.`
-`However, her brother and the witch were talking about magic itself.`
+`Even the six‐year‐old Ange knew about the word "{ruby:çeviri > büyü:magic}".`
+`However, she also realized that real {ruby:çeviri > büyü:magic} didn't exist,`
+` ......and that certain kinds of {ruby:çeviri > büyü:magic} {ruby:çeviri > numaralar:tricks} were sometimes called {ruby:çeviri > büyü:magic}.`
+`However, her brother and the witch were talking about {ruby:çeviri > büyü:magic} itself.`
 `"Yeah.`
-` Magic exists."`
+` {ruby:çeviri > Büyü:Magic} exists."`
 `"......Really...?"`
 `"Maria speaks of me often, does she not?`
 ` Witches exist,`
-` magic exists—she must have told you these things on many an occasion."`
+` {ruby:çeviri > büyü:magic} exists—she must have told you these things on many an occasion."`
 `True, Maria had talked about that many times.`
 `{n}When it was part of a game, Ange had believed her, more or less.`
 `However, Ange was, in some ways, sharp for her age,`
-` ......and when she heard Maria talking happily about magic, she sometimes thought that such a thing couldn't really exist.`
+` ......and when she heard Maria talking happily about {ruby:çeviri > büyü:magic}, she sometimes thought that such a thing couldn't really exist.`
 `"Then, ...show me."`
 `"Hmm?"`
-`"Show me magic!`
+`"Show me {ruby:çeviri > büyü:magic}!`
 ` Or I won't believe you...!"`
 `"Hold up a sec...`
-` Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the mansion yet..."`
+` Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the {ruby:çeviri > malikane:mansion} yet..."`
 `Battler spoke as though he was trying to smooth something over.`
-`When she heard that, Ange became sure that magic didn't exist after all.`
+`When she heard that, Ange became sure that {ruby:çeviri > büyü:magic} didn't exist after all.`
 `"Witches are all a big fat lie...!`
 ` I know!"`
 `"Hey, stop that.`
@@ -561,7 +561,7 @@
 `So, as her fear turned to irritation, she began to argue.`
 `"Nothing's happening."`
 `"Don't jump to conclusions so quickly.`
-` I haven't used magic yet.`
+` I haven't used {ruby:çeviri > büyü:magic} yet.`
 ` See, look carefully at my palm.`
 ` I'm not hiding anything, correct?"`
 `Oh, so that's what she was doing......`
@@ -598,22 +598,22 @@
 ` .........How?!`
 ` How, Onii‐chan?!"`
 `The witch gave the cutely wrapped candy to Ange as a present.`
-`Ange took it and desperately searched for some kind of trick on it, but it was just an everyday, ordinary candy......`
+`Ange took it and desperately searched for some kind of {ruby:çeviri > numara:trick} on it, but it was just an everyday, ordinary candy......`
 `"How?!`
-` That was a trick, wasn't it, Onii‐chan?!`
+` That was a {ruby:çeviri > numara:trick}, wasn't it, Onii‐chan?!`
 ` Onii‐chan?!!"`
-`"Nope. That was magic.`
+`"Nope. That was {ruby:çeviri > büyü:magic}.`
 ` You were watching the whole time, weren't you?"`
 `"Nn, .........nnnnnnnn............!"`
 `I was watching the whole time, ......so how......?`
-`{n}She didn't like it, but she was unable to see how that could have been anything other than magic.`
-`As the little sister furrowed her brow and bit her lower lip, her brother gently told her once more that it was magic.`
-`"It's about time for me to head to the mansion to pay my respects.`
+`{n}She didn't like it, but she was unable to see how that could have been anything other than {ruby:çeviri > büyü:magic}.`
+`As the little sister furrowed her brow and bit her lower lip, her brother gently told her once more that it was {ruby:çeviri > büyü:magic}.`
+`"It's about time for me to head to the {ruby:çeviri > malikane:mansion} to pay my respects.`
 ` You should come along, Battler.`
 ` I'll suffocate if I have to go alone."`
 `"You sure? Then I'll join you.`
 ` ......What about you, Ange?`
-` Will you go back to the guesthouse?"`
+` Will you go back to the {ruby:çeviri > konukevi:guesthouse}?"`
 `"............I, I wanna stay with you, Onii‐chan."`
 `She still couldn't accept it.`
 ` But maybe, ......just maybe......`
@@ -624,5 +624,5 @@
 `"The Golden Witch's...grandchild returns, you mean."`
 `"We really need to do something about that name...!"`
 `The big brother and the witch really did seem close.`
-`{n}Playing off each other like a pair of comedians, they started heading for the mansion.`
+`{n}Playing off each other like a pair of comedians, they started heading for the {ruby:çeviri > malikane:mansion}.`
 `All the while, Ange held onto the corner of her brother's sleeve, trying to make sure he didn't forget about her...`

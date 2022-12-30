@@ -1,7 +1,7 @@
 `".........A test......?"`
 `"......M‐mm.`
 ` Listen well..."`
-`Once again, there was a call from Krauss to the guesthouse.`
+`Once again, there was a call from Krauss to the {ruby:çeviri > konukevi:guesthouse}.`
 `......And the message was......that Kinzo wanted to hold a test to see if the grandchildren had the qualifications to be the next head.`
 `".........The head has said that his successor will not be one of us siblings,`
 ` that he wants to......pick from you grandchildren..."`
@@ -17,9 +17,9 @@
 `"Before the test, those unrelated must be removed.`
 ` .........Gohda and Kumasawa are there, I believe?`
 ` It will be a problem if they interfere with the test.`
-` Banish them from the guesthouse."`
+` Banish them from the {ruby:çeviri > konukevi:guesthouse}."`
 `".........Banish, ...you say......?"`
-`"There should be a gardening storehouse in the rose garden.`
+`"There should be a gardening {ruby:çeviri > ambar:storehouse} in the {ruby:çeviri > gül bahçesi:rose garden}.`
 ` Lock Gohda and Kumasawa in there.`
 ` Hmm, we'll begin from there.`
 ` Tell them to do it immediately."`
@@ -51,7 +51,7 @@
 ` Let us be patient......"`
 `"I know.`
 ` ......It's unfortunate, but all we can do right now is wait.`
-` If we can just do something about these bars, we'll be able to get back to the mansion......"`
+` If we can just do something about these bars, we'll be able to get back to the {ruby:çeviri > malikane:mansion}......"`
 `"......If only we could somehow get out of here...`
 ` ......I‐I'll try something.`
 ` ...............Kinzo‐san, I have a request."`
@@ -90,17 +90,17 @@
 `"......Even if we break these, nothing will come of it."`
 `"True.`
 ` ......If you were to break these, it would mean the end of {f:5:Goldsmith}'s game.`
-` ......All of you, as well as those humans in the guesthouse, would immediately become sacrifices for Kinzo's ritual."`
+` ......All of you, as well as those humans in the {ruby:çeviri > konukevi:guesthouse}, would immediately become sacrifices for Kinzo's ritual."`
 `"......But, you know, you two might be the only ones.`
 ` Who hold the power to break through this situation......right?"`
-`".........You want to reach the Golden Land, don't you?`
+`".........You want to reach the {ruby:çeviri > Altın Diyar:Golden Land}, don't you?`
 ` You must have many dreams you want granted, right...?`
 ` *chuckle*......"`
 `".............................."`
 `"Gaap.`
 ` You mustn't provoke them.`
 ` ......This is not your game.`
-` It is the Master's game, and Milady's."`
+` It is the Master's game, and {ruby:çeviri > Leydim:Milady}'s."`
 `".........What is it, Ronove?"`
 `"Oh, no, nothing.`
 ` ......We were chatting with the prisoners.`
@@ -112,16 +112,16 @@
 `"......Well done......`
 ` Good job holding it in......"`
 `"We're powerless......`
-` Because we're furniture......"`
+` Because we're {ruby:çeviri > mobilya:furniture}......"`
 `"That's right, ......we're powerless.`
-` ......But there are times when furniture is needed, and even loved."`
+` ......But there are times when {ruby:çeviri > mobilya:furniture} is needed, and even loved."`
 `"......We're stored away in the basement right now, that's all.`
 ` ......I'm sure that one day, somebody will love us.`
 ` Need us.`
 ` ......So, for now, let's ignore their provocations and bear with it...`
 ` ......Okay?"`
 `"......Father.`
-` I've ordered them to lock up Gohda and Kumasawa in the storehouse."`
+` I've ordered them to lock up Gohda and Kumasawa in the {ruby:çeviri > ambar:storehouse}."`
 `"Good.`
 ` You may hang up now.`
 ` ......Chiester Sisters.`
@@ -153,7 +153,7 @@
 ` Ronove, Gaap.`
 ` I'm asking you to be the examiners.`
 ` {f:5:Virgilia}, you watch these rats.`
-` .........After all, two of my furniture are here.`
+` .........After all, two of my {ruby:çeviri > mobilya:furniture} are here.`
 ` Just in case, be on your guard."`
 `He glanced sharply at Shannon and Kanon.`
 ` Tightly closing her eyes, Shannon gave a silent bow, answering wordlessly that she would not cause any trouble......`
@@ -166,7 +166,7 @@
 ` Gap."`
 `"Pu ku ku ku...!`
 ` Well, well, tests and examiners, what a strange experience we have this game.`
-` .........I do hope this development entertains Milady."`
+` .........I do hope this development entertains {ruby:çeviri > Leydim:Milady}."`
 `"......Come, arise, goat attendants."`
 `{f:5:Virgilia} called out into the dark, and from that spot, three massive goat‐headed attendants slowly melted into vision.`
 `"Ah, Riiche's minions.`
@@ -193,8 +193,8 @@
 `{f:5:Virgilia} had spoken coldly, but Kyrie could see right through that, and for a little while, she couldn't restrain her muffled laughter.`
 `However, on the inside, Kyrie was surprised at the number of people Kinzo had with him.`
 `Because, including Kinzo himself, at least ten enemies had already been spotted...`
-`......The dungeon they were currently locked in was supposedly underneath the hidden mansion called Kuwadorian.`
-`Although this mansion's existence had been whispered of, not even Krauss had known it for a fact until today.`
+`......The dungeon they were currently locked in was supposedly underneath the hidden {ruby:çeviri > malikane:mansion} called Kuwadorian.`
+`Although this {ruby:çeviri > malikane:mansion}'s existence had been whispered of, not even Krauss had known it for a fact until today.`
 `Were there actually several facilities like this on Rokkenjima, unknown to all but Kinzo,`
 ` hiding untold numbers of henchmen that only Kinzo knew of...?`
 `Just how many humans are on Rokkenjima, locked away by the typhoon...?`
@@ -209,16 +209,16 @@
 ` ......Am I supposed to believe in those?`
 ` Are my eyes screwed up? Or is my head?`
 ` ...I think I'm losing it........."`
-`A mass murder by magic.`
+`A mass murder by {ruby:çeviri > büyü:magic}.`
 `{n}Demons forming and disappearing in thin air.`
 `More importantly than the enemy's numbers,`
 ` how should we interpret the various things thrust before our eyes that cannot be explained with the common sense of this world?`
 `......Kyrie started to feel like she didn't know what was going on anymore,`
 ` and while desperately battling the urge to abandon everything and give up, she clenched her teeth in an attempt to hold onto her sanity...`
-`Obviously, Gohda and Kumasawa were quite unwilling to be locked in the rose garden shed.`
+`Obviously, Gohda and Kumasawa were quite unwilling to be locked in the {ruby:çeviri > gül bahçesi:rose garden} shed.`
 `......But they had been threatened that, if they resisted, the hostages' safety could not be guaranteed...`
 `It was fairly hard to get them to agree,`
-` but once the idea was raised that their safety might actually be guaranteed if the key to the gardening storehouse was to be handed to them through a cracked‐open window after they were shut inside,`
+` but once the idea was raised that their safety might actually be guaranteed if the key to the gardening {ruby:çeviri > ambar:storehouse} was to be handed to them through a cracked‐open window after they were shut inside,`
 ` ......and it was suggested that blankets and food could be carried in for them, they were finally convinced.`
 `".........This place is pretty chilly...`
 ` I wonder how long we'll have to stay locked in here......"`
@@ -242,7 +242,7 @@
 ` ......Please, be careful, everyone.`
 ` Right now, the Master is......taking human lives like they're pieces on a chessboard.`
 ` ...Please be careful."`
-`Gohda stared at the floor, remembering that atrocity in the dining hall, even now unable to believe what had happened,`
+`Gohda stared at the floor, remembering that atrocity in the {ruby:çeviri > yemek salonu:dining hall}, even now unable to believe what had happened,`
 ` and he hung his head in shame at his inability to fully describe that terror.`
 `"Thank you.`
 ` .........Please make sure you stay on your guard.`
@@ -257,7 +257,7 @@
 `But we can't disobey.`
 `{n}......We're being watched.`
 `We brought the shutter down and locked it.`
-`{n}Then George headed to the small window on the side of the storehouse.`
+`{n}Then George headed to the small window on the side of the {ruby:çeviri > ambar:storehouse}.`
 `It was a small latticed window which could only be used for light and ventilation.`
 `It looked like something from a jail, making the two of them seem even more pitiable,`
 ` ......but on the other hand, it would protect them from Kinzo and his subordinates, or so one would hope...`
@@ -289,14 +289,14 @@
 `However, there was now no longer any way to open the shed from the outside either.`
 ` This would protect them.`
 `Kinzo had ordered that they be confined, ......and we could do nothing but trust that this cold locked room would protect them.`
-`Holding Maria's hand, Jessica watched George hand over the key, then looked over the thickets in the pitch‐black rose garden.`
+`Holding Maria's hand, Jessica watched George hand over the key, then looked over the thickets in the pitch‐black {ruby:çeviri > gül bahçesi:rose garden}.`
 `......Somewhere in this darkness, somebody was hiding, watching to see whether they obeyed orders or not.`
 `Of course, merely pointing their flashlights out there did nothing to make any suspicious silhouettes appear.`
 `But somebody was surely out there...hiding and watching.`
 `They were hit many times with an urge to scream at them.`
 `{n}......But they held that back through reason.`
 `The four children left the area behind, repeatedly looking back over their shoulders.`
-`The feeble light from the lightbulb in the gardening storehouse was seeping out slightly.`
+`The feeble light from the lightbulb in the gardening {ruby:çeviri > ambar:storehouse} was seeping out slightly.`
 `......Was it at all possible that this insane incident would somehow come to an end, ......so that they could see those two again?`
 `......To George, who had closed the shutter himself,`
 ` ...the resistance of the lock made it feel as though he had killed them with his own hands.`
@@ -309,7 +309,7 @@
 ` There's nothing to be sad about......"`
 `".........Maria......"`
 `"The witch will be revived very soon.`
-` .........It won't be long before you can see her in the Golden Land.`
+` .........It won't be long before you can see her in the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` ...Kihi{0}hi{0}hi{0}hi{0}hi{0}hihihi............`
 ` Ouch."`
 `"Don't laugh at inappropriate times.`
@@ -317,17 +317,17 @@
 ` He should just keep his fantasies to the inside of his head.`
 ` Getting all these people involved...`
 ` ........That's gonna cost you, ...bastard..."`
-`".........Let's return to the guesthouse.`
+`".........Let's return to the {ruby:çeviri > konukevi:guesthouse}.`
 ` ...It'll be bad if we aren't there when Grandfather calls."`
-`Urged on by George, everyone began walking towards the guesthouse......`
-`At that moment, Jessica spun around, and roared towards the darkness of the rose garden.`
+`Urged on by George, everyone began walking towards the {ruby:çeviri > konukevi:guesthouse}......`
+`At that moment, Jessica spun around, and roared towards the darkness of the {ruby:çeviri > gül bahçesi:rose garden}.`
 `"..................HEY!!`
 ` Someone's watching, right?!`
 ` Tell the old man...!!`
 ` Tell him I'm gonna friggin' kill him!!`
 ` Let's go...!!"`
 `Of course, there was no reply, only the howl of the wind and rain......`
-`The children returned to the guesthouse...`
+`The children returned to the {ruby:çeviri > konukevi:guesthouse}...`
 `{n}...In fear of what would be waiting for them when they got back.`
 `After they departed,`
 ` .........from the exact point in the darkness that Jessica had yelled at,`
@@ -427,7 +427,7 @@
 `"Well then, ......here are the instructions for the first test, Jessica‐chan's.`
 ` ......Head to your own room, he says."`
 `"Own room?"`
-`"It seems he means Jessica's personal room in the mansion."`
+`"It seems he means Jessica's personal room in the {ruby:çeviri > malikane:mansion}."`
 `".........I'll hand it over to Jessica.`
 ` Tell her directly.`
 ` ......Jessica."`
@@ -442,7 +442,7 @@
 `"......We're being watched, right?`
 ` We can't do anything.`
 ` All we can do is exactly as we're told."`
-`".........They say that old geezer killed those six in the dining hall in an instant, with no hesitation.`
+`".........They say that old geezer killed those six in the {ruby:çeviri > yemek salonu:dining hall} in an instant, with no hesitation.`
 ` ......It might be the same for us."`
 `"I get it.`
 ` ............I'll pay him back."`
@@ -462,7 +462,7 @@
 ` ......Their lives rest on our shoulders.`
 ` The hostages can't do anything while locked up.`
 ` So it's up to us to do something about it."`
-`".........If anything happens, run back to the guesthouse.`
+`".........If anything happens, run back to the {ruby:çeviri > konukevi:guesthouse}.`
 ` At that time, we'll be done playing along with Grandfather's game."`
 `"Aniki........."`
 `"At that time, we will declare war.`
@@ -479,7 +479,7 @@
 ` ......The first one to bury a fist into that old geezer's face is the successor."`
 `George, Battler, and Jessica each forcefully nodded their heads and put their fists together.`
 `Then Jessica headed off to her own room, as designated......`
-`Her form disappeared into the darkness of the rose garden, which was shaking in the violent winds.`
+`Her form disappeared into the darkness of the {ruby:çeviri > gül bahçesi:rose garden}, which was shaking in the violent winds.`
 `......As they saw her off, George and Battler hardened their trembling fists.....`
 `Jessica's back was watched through the window by Maria, who had remained upstairs.`
 `Her expression was blank......`

@@ -32,7 +32,7 @@
 ` I'll defeat him no matter what it takes...!`
 ` And you in particular! Make sure you don't screw up again...!"`
 `"......I will meet the challenge with all of my strength."`
-`The previous Game Master, {f:5:Lambdadelta},`
+`The previous {ruby:çeviri > Oyun Yöneticisi:Game Master}, {f:5:Lambdadelta},`
 ` had confirmed that Battler understood everything about Beato's game.`
 `However, in order to prove it,`
 ` Battler would have to run this game by himself and carry it through to completion.`
@@ -69,7 +69,7 @@
 ` He really is clever."`
 `"...............`
 ` You're pretty lucky, aren't you?`
-` If Battler hadn't become the Game Master, you would never have revived again.`
+` If Battler hadn't become the {ruby:çeviri > Oyun Yöneticisi:Game Master}, you would never have revived again.`
 ` You certainly have the luck of the devil."`
 `"......The devil?"`
 `"In any case,`
@@ -129,13 +129,13 @@
 `"...Y‐`
 `.........yes."`
 `Beato melted into a swarm of butterflies and disappeared.`
-`This was the first part of the tale with Battler as the Game Master.`
+`This was the first part of the tale with Battler as the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
 `The witches had all expected him to come forward with some flashy, big developments, ...so they were all fairly confused.`
 `......Their mouths were still hanging open.`
 `"......This is an unusual approach."`
 `"Pardon me.`
 ` ......Please forget what you saw just now."`
-`"Hmph, so, are you trying to trick us with this?`
+`"Hmph, so, are you trying to {ruby:çeviri > numara:trick} us with this?`
 ` You're scheming to give us the wrong impression, like another North Wind and the Sun strategy, aren't you?"`
 `"......Is there something {f:5:wrong}?"`
 `"Don't worry about it.`
@@ -149,7 +149,7 @@
 ` ......Erika, and you too, {f:5:Bernkastel}.`
 ` This will be my tale, proof that I've reached the truth about Beato.`
 ` ...{f:5:Lambdadelta}.`
-` Please oversee this game, as a former Game Master."`
+` Please oversee this game, as a former {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
 `"Sure, looking forward to it. What's the title?"`
 `"......‘Dawn’.`
 ` ...As in, the Dawn of the Golden Witch."`
@@ -243,7 +243,7 @@
 `...must have been her corpse.`
 `She had managed to remain on the game board despite it all,`
 ` ......but then even that corpse was wiped away...`
-`If Beato had been the Game Master at that time instead of {f:5:Lambdadelta},`
+`If Beato had been the {ruby:çeviri > Oyun Yöneticisi:Game Master} at that time instead of {f:5:Lambdadelta},`
 ` the game board itself would have vanished at that moment, and everything would have ended.`
 `Come to think of it, Beato started to lose the will to fight back near the end of the fourth game.`
 `When Beato loses her will to fight, ......the world of this game disappears.`
@@ -254,7 +254,7 @@
 `In chess, this would be the equivalent of removing the set time limit for each turn,`
 ` making it endless.`
 `However, simply having the game endlessly paused on Beato's turn would cause the witches to die from their illness of boredom.`
-`That's why {f:5:Lambdadelta} took the position of Game Master.`
+`That's why {f:5:Lambdadelta} took the position of {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
 `......Starting then, Beato's existence was no longer one of the conditions necessary for the game to exist.`
 `That's probably why the shackles binding her to the game board were released.`
 `And that explains why she disappeared in the fifth game...`
@@ -362,23 +362,23 @@
 `Therefore, it was understandable that one might mistake the imposing, robe‐clad man in the center of the study for Kinzo,`
 ` if only for a second.`
 `It wasn't Kinzo.`
-`......It was Battler, the one who had taken up the position of Game Master,`
+`......It was Battler, the one who had taken up the position of {ruby:çeviri > Oyun Yöneticisi:Game Master},`
 ` and who had become the new territory lord of this world.`
 `"................................."`
 `Around Battler was a swirl of glowing fragments, sparkling like the night sky,`
-` ......and on the floor was what appeared to be a red magic circle.`
+` ......and on the floor was what appeared to be a red {ruby:çeviri > büyü:magic} circle.`
 `To an outsider, it would have appeared to be nothing more than an incomprehensible geometric shape.`
 `But to Battler, who stood at its center,`
 ` it was the outline for a new tale...`
-`A new line grew across the magic circle, following Battler's gaze.`
-`Then, at the instant it connected with a complicated symbol, the entire magic circle flashed brightly.`
+`A new line grew across the {ruby:çeviri > büyü:magic} circle, following Battler's gaze.`
+`Then, at the instant it connected with a complicated symbol, the entire {ruby:çeviri > büyü:magic} circle flashed brightly.`
 `"......So,`
 ` ......how does it look?"`
 `"It is splendid, my lord.`
 ` ......The sixth game is complete."`
 `As Battler wiped his forehead and finally relaxed,`
 ` Genji, who was standing behind him and watching over his every move, nodded deeply in response.`
-`"......I always thought being a Game Master meant you could make the tale however you want,`
+`"......I always thought being a {ruby:çeviri > Oyun Yöneticisi:Game Master} meant you could make the tale however you want,`
 ` ......but this is seriously harder than I thought it'd be."`
 `"You must write up multiple tales and make the inner and outer sides of the story match.`
 ` ......And yet, you have displayed such skill, it is hard to believe that this is your first time.`
@@ -427,7 +427,7 @@
 ` and that he forgot all about it...?"`
 `However, Battler suspected this in the fourth game and asked Beato about it.`
 `And within the story,`
-` this was denied by the red truth:`
+` this was denied by the {ruby:çeviri > kırmızı gerçek:red truth}:`
 ` "Six years ago, no person called {f:5:Beatrice} existed for Battler"...`
 `"......We can read this as saying that Beato did not exist six years before,`
 ` or it could simply mean that she had no connection to Battler at that time.`
@@ -508,22 +508,22 @@
 `Battler had quickly succeeded in reviving Beato's body, but he had had trouble summoning her soul back.`
 `However, during the time he had spent immersed in the creation of the sixth game, she had woken up.`
 ` And this had happened three days ago.`
-`Battler let himself be led into the dining hall.`
-`The dining hall had been set up for his and Beato's use.`
+`Battler let himself be led into the {ruby:çeviri > yemek salonu:dining hall}.`
+`The {ruby:çeviri > yemek salonu:dining hall} had been set up for his and Beato's use.`
 `......It existed so that they could enjoy some black tea while discussing the truth, now that he had finally reached it in its entirety.`
 `I want to tell her.`
 `I want to tell Beato that I've found the truth.`
-`Battler couldn't hold back his excitement over this miracle he had been granted, that Beato was waiting for him in the dining hall to hear what he had to say...`
+`Battler couldn't hold back his excitement over this miracle he had been granted, that Beato was waiting for him in the {ruby:çeviri > yemek salonu:dining hall} to hear what he had to say...`
 `"How is {f:5:Beatrice}?`
 ` Same as usual?`
 ` Is she in high spirits?"`
 `"Oh yes, she is in very high spirits now.`
 ` She has been waiting for you all this time, my lord. Oh yes."`
-`"Is she in the dining hall? Is she eating or something?`
+`"Is she in the {ruby:çeviri > yemek salonu:dining hall}? Is she eating or something?`
 ` Ah, that's alright, it doesn't matter either way...!"`
 `"Hoh‐hoh‐ho, you'll be surprised..."`
 `"{f:5:Beatrice}...!!"`
-`When he swung open the doors to the dining hall,`
+`When he swung open the doors to the {ruby:çeviri > yemek salonu:dining hall},`
 ` ......Battler was greeted by a wonderful sight.`
 `Though the food laid out on the table wasn't particularly sensational,`
 ` it was arranged beautifully, and a champagne bottle stood there waiting.`
@@ -628,7 +628,7 @@
 ` This person is most certainly {f:5:Beatrice}‐sama herself.`
 ` However, she is not the {f:5:Beatrice}‐sama you know so well."`
 `"What are you talking about...?!`
-` I'm the Game Master, right?!`
+` I'm the {ruby:çeviri > Oyun Yöneticisi:Game Master}, right?!`
 ` Why can't I revive Beato...?!"`
 `"Oh yes, she most certainly has revived.`
 ` However, the old {f:5:Beatrice}‐sama had lived for a thousand years.`
@@ -726,7 +726,7 @@
 `"*cackle*cackle*.`
 ` Not bad for an incompetent fool like you."`
 `"Heh.`
-` Now that I've seen what it's like to be a Game Master, I understand everything.`
+` Now that I've seen what it's like to be a {ruby:çeviri > Oyun Yöneticisi:Game Master}, I understand everything.`
 ` ......You really had to work hard during each and every game."`
 `"........................"`
 `"‘Creating a game is not such an easy thing.`
@@ -744,13 +744,13 @@
 `......Having a conversation with it...`
 `...was no different...`
 `...from talking to himself......`
-`The Game Master could summon any kind of piece.`
+`The {ruby:çeviri > Oyun Yöneticisi:Game Master} could summon any kind of piece.`
 `{n}He could move those pieces in any way he wanted, reigning as an absolute god.`
 `......However, for that very reason,`
 ` ......they were just pieces.`
 `That made it unbelievably lonely...`
 `...and sad.`
-`"......You created many kinds of furniture, as well as several tales in the past.`
+`"......You created many kinds of {ruby:çeviri > mobilya:furniture}, as well as several tales in the past.`
 ` ......When I saw that, ......I was sure you were having a great time doing it."`
 `""‘But that's wrong.’""`
 `"You were......unbelievably lonely."`
@@ -780,7 +780,7 @@
 `This was a very similar but separate person, and definitely not Beato herself.`
 `......Then, .........in the previous game,`
 ` ......Beato really did disappear for all eternity...`
-`Even after becoming the Game Master,`
+`Even after becoming the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
 ` .........there was no way to revive her.........`
 `"......Laugh.`
 ` Laugh at how pathetic I am."`

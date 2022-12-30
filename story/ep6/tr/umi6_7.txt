@@ -241,7 +241,7 @@
 `...a message directly from the witch to me.`
 `No matter the method,`
 ` it is impossible to set or unset the chain lock from the outside.`
-`All tricks done from the corridor......had been sealed by the red letters.`
+`All {ruby:çeviri > numaralar:tricks} done from the corridor......had been sealed by the red letters.`
 `"N‐.........no way..............."`
 `""Hihihihihihihi.`
 ` ......Hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!""`
@@ -321,10 +321,10 @@
 `"......Very true.`
 ` ...I was a coward, so I could never learn anything.`
 ` ...So even now, I am yet to mature."`
-`I am furniture, so it is useless to dream.`
+`I am {ruby:çeviri > mobilya:furniture}, so it is useless to dream.`
 `{n}Because he had rigidly believed that, he had distanced himself from everything and shut himself away.`
 `However, during that time, Shannon had undergone many life adventures.`
-`And now, her hand rested on the door separating furniture and {y:0:Human}{n:0:human}s......`
+`And now, her hand rested on the door separating {ruby:çeviri > mobilya:furniture} and {y:0:Human}{n:0:human}s......`
 `The old Kanon would only have seen this card game as a way to pass the time.`
 `However, ......the new Kanon was now capable of gaining something new from this experience.`
 `That could probably be called...growth.`
@@ -361,7 +361,7 @@
 ` But I slowly got the knack of it, and it started to feel more and more natural...!"`
 `"........................`
 ` ......I'd like to reach that level too.`
-` If one path to that goal is playing music with you, Milady, ......I would love to do that with you."`
+` If one path to that goal is playing music with you, {ruby:çeviri > Leydim:Milady}, ......I would love to do that with you."`
 `"R‐really...?!"`
 `"Yes.`
 ` ......I'm sure I'll be horrible when I start, and I might even make you lose hope in me at times.`
@@ -369,7 +369,7 @@
 ` ......That's what I learned from you all just now."`
 `"......Hahahahahahaha,`
 ` you're embarrassing me..."`
-`"Now, .........I love you even more, Milady.`
+`"Now, .........I love you even more, {ruby:çeviri > Leydim:Milady}.`
 ` Because I averted my eyes for so long, even though you shone like the sun,`
 ` I never noticed you when you were right there next to me..."`
 `"Eheheheh.`
@@ -377,7 +377,7 @@
 ` Ehehihi, hahyahyahya..."`
 `Kanon's serious and competitive words were more than enough to make Jessica shy.`
 `However, Kanon's expression unexpectedly clouded......`
-`".........Milady, the reason I love you is so clear.`
+`".........{ruby:çeviri > Leydim:Milady}, the reason I love you is so clear.`
 ` ......That's why...I can't bear not knowing."`
 `"N‐not knowing what......?"`
 `"......Why you would start to like me.`
@@ -387,7 +387,7 @@
 `"Th‐......that's not true, okay?!`
 ` There are all kinds of good things about you, Kanon‐kun..."`
 `"......Let me swallow my pride and ask.`
-` ......What about me made you like me, Milady?"`
+` ......What about me made you like me, {ruby:çeviri > Leydim:Milady}?"`
 `Kanon hung his head.`
 `......He had never learned anything, so he had never been able to take the lead with her.`
 `It made him sad and frustrated that he had always been the one‐sided recipient of her affection...`
@@ -437,43 +437,43 @@
 `"..............................`
 ` ......Unfortunately, there isn't that much time left."`
 `"......What about time?"`
-`"When I talk about furniture......it usually saddens you.`
+`"When I talk about {ruby:çeviri > mobilya:furniture}......it usually saddens you.`
 ` ......But this is something I must talk to you about.`
 ` And it is also something I must fight for with all my soul."`
 `"What are you talking about...?`
-` I don't want to hear any more of that "I'm furniture so I can't fall in love" talk.`
-` You're a {y:0:Human}{n:0:human}, not furniture...!"`
+` I don't want to hear any more of that "I'm {ruby:çeviri > mobilya:furniture} so I can't fall in love" talk.`
+` You're a {y:0:Human}{n:0:human}, not {ruby:çeviri > mobilya:furniture}...!"`
 `"I understand.`
 ` That's why I intend to become {y:0:Human}{n:0:human}.`
-` But at the moment, I am furniture."`
+` But at the moment, I am {ruby:çeviri > mobilya:furniture}."`
 `"Just do it, then! Become {y:0:Human}{n:0:human}...!"`
 `"The witch taught me once.`
 ` ......The single element of this world.`
 ` She said it was love.`
 ` ......It's something that {y:0:Human}{n:0:human}s born into this world can take for granted."`
-`"......However, it is not something that those not from this world, who were born as furniture, can take for granted.`
-` .........In order to gain it for themselves, they must have magic or a miracle."`
+`"......However, it is not something that those not from this world, who were born as {ruby:çeviri > mobilya:furniture}, can take for granted.`
+` .........In order to gain it for themselves, they must have {ruby:çeviri > büyü:magic} or a miracle."`
 `......In the same way that Nee‐san and George‐sama...`
 `...would never have ended up as they have without borrowing the power of that golden butterfly brooch.`
 `"I don't really get this last part."`
 `"......What is it that you do not understand?`
 ` ......Let me hear it."`
 `"Since this game began, ......a large portion of the time has been spent on Shannon and Kanon's determination to fall in love.`
-` ......I have no problem with interpreting that as a story of growth and teenage determination for a girl and boy who call themselves furniture.`
+` ......I have no problem with interpreting that as a story of growth and teenage determination for a girl and boy who call themselves {ruby:çeviri > mobilya:furniture}.`
 ` However, one of the assumptions they make feels really out of place to me."`
-`"...............‘Why is magic necessary?’`
+`"...............‘Why is {ruby:çeviri > büyü:magic} necessary?’`
 ` ......Is that it...?"`
-`"Both Shannon and Kanon—no, I'll purposefully refer to them as "furniture".`
-` ......The {i:furniture} has always claimed that there cannot be love between furniture and {y:0:Human}{n:0:human}s.`
-` That's where the magic of the golden butterfly brooch came into play—it was the miraculous result of that magic that love was established between Shannon and George onii‐chan.`
+`"Both Shannon and Kanon—no, I'll purposefully refer to them as "{ruby:çeviri > mobilya:furniture}".`
+` ......The {i:furniture} has always claimed that there cannot be love between {ruby:çeviri > mobilya:furniture} and {y:0:Human}{n:0:human}s.`
+` That's where the {ruby:çeviri > büyü:magic} of the golden butterfly brooch came into play—it was the miraculous result of that {ruby:çeviri > büyü:magic} that love was established between Shannon and George onii‐chan.`
 ` That's what they claim."`
 `"Surely it would not be a stretch if they thought that forbidden love across class boundaries...`
-`...could never bear fruit without a miracle of magic......?"`
+`...could never bear fruit without a miracle of {ruby:çeviri > büyü:magic}......?"`
 `"Oh, I agree.`
-` Shannon and Kanon are both servants in love with members of the Ushiromiya family,`
-` so it makes perfect sense to me that they might disparage themselves as furniture while suffering from their forbidden love."`
+` Shannon and Kanon are both {ruby:çeviri > hizmetkarlar:servants} in love with members of the Ushiromiya family,`
+` so it makes perfect sense to me that they might disparage themselves as {ruby:çeviri > mobilya:furniture} while suffering from their forbidden love."`
 `"......Then what is it that does not make sense to you...?"`
-`"‘Without the power of magic once more, marriage will be impossible’.`
+`"‘Without the power of {ruby:çeviri > büyü:magic} once more, marriage will be impossible’.`
 ` ......Shannon and Kanon both seem to share that view.`
 ` ......That's the part that I just can't understand."`
 `After meeting in secret for quite some time, George and Shannon had finally gotten engaged.`
@@ -490,27 +490,27 @@
 ` Trying to break apart lovers is a foolhardy venture..."`
 `"Yeah.`
 ` And that's what's strange.`
-` There's no need for magic."`
+` There's no need for {ruby:çeviri > büyü:magic}."`
 `If George and Shannon...`
 `...had wanted Eva's approval for their engagement...`
-`.........then magic really might have been necessary.`
+`.........then {ruby:çeviri > büyü:magic} really might have been necessary.`
 `After all, Eva had forbidden his relationship with her.`
 `No matter how much George spoke on Shannon's behalf, the chances of Eva being convinced were virtually zero.`
-`If that were the case, it would be understandable if they wanted a magical miracle to make Eva acknowledge their engagement.`
+`If that were the case, it would be understandable if they wanted a {ruby:çeviri > büyülü:magical} miracle to make Eva acknowledge their engagement.`
 `"But George onii‐chan has already sworn to it.`
 ` He doesn't care whether his parents approve of the engagement or not.`
 ` ......Yeah.`
 ` There's nothing standing in the way of their engagement.`
 ` And Shannon should know that well herself.`
-` So why is it that now, on this night where the proposal went so smoothly, she's still praying for a miracle of magic?"`
+` So why is it that now, on this night where the proposal went so smoothly, she's still praying for a miracle of {ruby:çeviri > büyü:magic}?"`
 `"......Without such a miracle, she will not have the right to marry,`
-` is what the furniture claim..."`
+` is what the {ruby:çeviri > mobilya:furniture} claim..."`
 `"And there you go.`
 ` It means that Shannon has accepted George's proposal,`
-` ......but she knows that there's still some kind of obstacle remaining that can't be overcome without a magical miracle.`
+` ......but she knows that there's still some kind of obstacle remaining that can't be overcome without a {ruby:çeviri > büyülü:magical} miracle.`
 ` And that obstacle isn't something that they can overcome by their own efforts.`
-` That's why they need this miracle called magic."`
-`"Why do they need magic?`
+` That's why they need this miracle called {ruby:çeviri > büyü:magic}."`
+`"Why do they need {ruby:çeviri > büyü:magic}?`
 ` If two people love each other, what other miracle could they possibly need to be together?!"`
 `"............Hmm, I see..."`
 `{f:5:Featherine} listened to Ange's interpretation, smiling in a satisfied way.`
@@ -521,64 +521,64 @@
 `"They're already in a loving relationship even without the golden butterfly brooch.`
 ` ......It'd be no surprise if the relationship they've started lasts for years and eventually results in marriage.`
 ` There's nothing standing in their way either."`
-`"......As long as they do not seek approval from Krauss and Natsuhi, it seems that they will not need a magical miracle either..."`
+`"......As long as they do not seek approval from Krauss and Natsuhi, it seems that they will not need a {ruby:çeviri > büyülü:magical} miracle either..."`
 `"Exactly.`
 ` ......Kanon watched how Shannon lived, and changed his own way of life.`
 ` Then, he let his true feelings be known and started a relationship with Jessica onee‐chan.`
-` ......There's no need for magic anymore."`
+` ......There's no need for {ruby:çeviri > büyü:magic} anymore."`
 `"......If it were a one‐sided love, then he might need a love charm or something.`
 ` But their feelings are already mutual.`
 ` They've already communicated their intentions to one another.`
 ` ......So why do they need a miracle on top of that?"`
-`Both pieces of furniture are in relationships of mutual love.`
+`Both pieces of {ruby:çeviri > mobilya:furniture} are in relationships of mutual love.`
 `{n}There shouldn't be any need for a miracle any longer.`
 `So why...`
-`...do they still desire a miracle of magic?`
+`...do they still desire a miracle of {ruby:çeviri > büyü:magic}?`
 `And on top of that, the single brooch is portrayed as bestowing only a single miracle.`
 `It feels almost as though Shannon is hesitating because, if she uses up that miracle for herself,`
 ` Kanon's chances at love will be automatically sealed away for eternity...`
 `"So the question is this:`
-` ‘Why is furniture not allowed to love?’"`
-`"......So, you ask why love is not permitted without the miracle known as magic."`
+` ‘Why is {ruby:çeviri > mobilya:furniture} not allowed to love?’"`
+`"......So, you ask why love is not permitted without the miracle known as {ruby:çeviri > büyü:magic}."`
 `"And also,`
-` ......there's that golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of.`
+` ......there's that golden butterfly brooch that can allow the lamenting {ruby:çeviri > mobilya:furniture} to have the love they insisted they were incapable of.`
 ` Just what on Earth is that?"`
-`"Of course, it is a crystallization of magic.`
-` However, like most magics, it can be burnt by the anti‐magic toxin."`
-`"......So, it can only have an effect for those who believe in magic and witches."`
+`"Of course, it is a crystallization of {ruby:çeviri > büyü:magic}.`
+` However, like most {ruby:çeviri > büyü:magic}s, it can be burnt by the anti‐magic toxin."`
+`"......So, it can only have an effect for those who believe in {ruby:çeviri > büyü:magic} and witches."`
 `"Correct.`
 ` So, Shannon, who was capable of interacting with me, was able to make use of its benefits.`
 ` However, if Shannon had dropped it in a sandy beach and someone who knew nothing picked it up..."`
-`"......If that person was shrouded in the anti‐magic toxin, they wouldn't be able to make use of the brooch's magic power..."`
+`"......If that person was shrouded in the anti‐magic toxin, they wouldn't be able to make use of the brooch's {ruby:çeviri > büyü:magic} power..."`
 `"Precisely.`
-` A witch's magical items often lose their power if they are not handed over directly."`
+` A witch's {ruby:çeviri > büyülü:magical} items often lose their power if they are not handed over directly."`
 `"However, in just the same way that a witch can manifest herself if her existence is acknowledged by a great many {y:0:Human}{n:0:human}s and the anti‐magic toxin disappears,`
-` the power of that magical item can also be preserved if it is believed in by a great many people."`
+` the power of that {ruby:çeviri > büyülü:magical} item can also be preserved if it is believed in by a great many people."`
 `"That's ironic.`
-` ......No matter what kind of magic we witches give out, everything depends on whether the {y:0:Human}{n:0:human} we give it to can accept it."`
+` ......No matter what kind of {ruby:çeviri > büyü:magic} we witches give out, everything depends on whether the {y:0:Human}{n:0:human} we give it to can accept it."`
 `"I have heard that the same goes for medicine.`
 ` Even with the exact same medicine, {y:0:Human}{n:0:human}s who know of the medicine's effect experience it to a greater degree."`
 `"......Oh, I think I understand.`
 ` When taking cold medicine, I've gotten the feeling that it's more effective when you read the description on the bottle."`
-`As she listened, Beato thought that magic sounded a bit like a charm.`
-`When most {y:0:Human}{n:0:human}s think of magic,`
+`As she listened, Beato thought that {ruby:çeviri > büyü:magic} sounded a bit like a charm.`
+`When most {y:0:Human}{n:0:human}s think of {ruby:çeviri > büyü:magic},`
 ` they think of incredible miracles being performed one after another in front of a crowd.`
-`However, this true magic that the older sister spoke of sounded almost like a charm,`
+`However, this true {ruby:çeviri > büyü:magic} that the older sister spoke of sounded almost like a charm,`
 ` something that had no effect if the person using it didn't believe.`
 `......Shannon's heart was captured by George bit by bit as he grew by leaps and bounds.`
 `However, she had given up, thinking that one of lower status such as herself would never find love with him.`
 `That was when {f:5:Beatrice} had given her the golden butterfly brooch and encouraged her.`
 `Giving up means that you have zero chance of success.`
-`But if, with the power of magic, you think there just might be some chance of your wish coming true,`
+`But if, with the power of {ruby:çeviri > büyü:magic}, you think there just might be some chance of your wish coming true,`
 ` the probability then rises to something greater than zero at the very least.`
 `Zero remains zero forever, but if even a faint probability were to exist,`
 ` ......it would be no exaggeration to say that an impossible miracle had occurred, compared to the time when the probability was zero.`
-`Humans can use magic to take "resignation", by which they themselves make the probability of success zero, and cancel it out.`
+`Humans can use {ruby:çeviri > büyü:magic} to take "resignation", by which they themselves make the probability of success zero, and cancel it out.`
 `When a {y:0:Human}{n:0:human} does not give up, though their chances of success may be small, those chances do exist.`
 `And the stronger their belief, the more those odds rise.`
 `It was easy to imagine that Shannon had made earnest wishes upon the brooch, believed in its effect,`
 ` ......and made many little efforts to get George to like her.`
-`"The power of belief becomes magic......"`
+`"The power of belief becomes {ruby:çeviri > büyü:magic}......"`
 `"And those who make others believe are witches."`
 `Those who make others believe...`
 `...are witches.`
@@ -587,19 +587,19 @@
 `Let's say a witch steps out into a spotlight, waves her staff in front of a crowd of onlookers,`
 ` and makes a rabbit appear out of thin air.`
 `The many people who see it will surely think that it was a sleight of hand.`
-`They might wonder at how it was accomplished, but they would be sure that it wasn't magic,`
-` and they would applaud the splendid trick that had appeared to be magic.`
+`They might wonder at how it was accomplished, but they would be sure that it wasn't {ruby:çeviri > büyü:magic},`
+` and they would applaud the splendid {ruby:çeviri > numara:trick} that had appeared to be {ruby:çeviri > büyü:magic}.`
 `But what if...`
 `What if they conducted a sacred ceremony inside a great ancient temple in front of a crowd of believers...`
 `culminating in the exact same thing?`
 `......Would any of the people there think that was a sleight of hand?`
-`In fact, in the ancient past, when magic tricks as a form of entertainment didn't even exist and divine spirits were worshiped,`
-` this would doubtlessly have been a miracle of magic...`
+`In fact, in the ancient past, when {ruby:çeviri > büyü:magic} {ruby:çeviri > numaralar:tricks} as a form of entertainment didn't even exist and divine spirits were worshiped,`
+` this would doubtlessly have been a miracle of {ruby:çeviri > büyü:magic}...`
 `"I‐in that case,`
 ` ......would this...`
-`...count as magic?"`
+`...count as {ruby:çeviri > büyü:magic}?"`
 `"Oh?`
-` Will the witch who cannot use magic now perform it for the first time?"`
+` Will the witch who cannot use {ruby:çeviri > büyü:magic} now perform it for the first time?"`
 `"H‐......here I have an empty tea cup.`
 ` There is nothing inside it."`
 `"Mhm, it is empty.`
@@ -611,7 +611,7 @@
 ` And then? What next?"`
 `"Umm,`
 ` ......le‐let's both close our eyes and chant the incantation."`
-`It was......the same magic that had been used to give Maria candies.`
+`It was......the same {ruby:çeviri > büyü:magic} that had been used to give Maria candies.`
 `Beato the Elder grinned and closed her eyes.`
 `When she saw this, ......Beato slowly chanted the incantation.`
 `"C‐come, try to remember.`
@@ -627,39 +627,39 @@
 `".........Y‐yes.`
 ` Please open your eyes and inspect the contents of the cup."`
 `"Well now.`
-` ......Let us see how well your first bit of magic has worked."`
+` ......Let us see how well your first bit of {ruby:çeviri > büyü:magic} has worked."`
 `Taking her time and dragging out the suspense a little, the older sister......lifted up the cup.`
 `".........Aha."`
 `"H‐how is it......?"`
 `When the cup was lifted up,`
 ` .........there lay......a single golden rose petal.`
-`"D‐...does this count as...magic......?"`
+`"D‐...does this count as...{ruby:çeviri > büyü:magic}......?"`
 `"*cackle*cackle*cackle*......`
 ` Yes, it most certainly does.`
-` {p:41:You used magic to create a golden flower petal inside an overturned cup.`
-` It was a splendid bit of magic}."`
+` {p:41:You used {ruby:çeviri > büyü:magic} to create a golden flower petal inside an overturned cup.`
+` It was a splendid bit of {ruby:çeviri > büyü:magic}}."`
 `"‘Without love, it cannot be {y:1:‘seen’}{n:1:seen}’.`
 ` That much I understand."`
-`"It may be viewed as a trick.`
-` It may also be believed to be magic.`
+`"It may be viewed as a {ruby:çeviri > numara:trick}.`
+` It may also be believed to be {ruby:çeviri > büyü:magic}.`
 ` ......It all depends upon the toxin of the individual..."`
-`"Then again, ......while this can explain some of the magic that's been used in the past, it can't explain everything."`
-`"To get back to the point, none of this stuff about believing in magic and charms can answer the question:`
-` "What is the golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of?"`
+`"Then again, ......while this can explain some of the {ruby:çeviri > büyü:magic} that's been used in the past, it can't explain everything."`
+`"To get back to the point, none of this stuff about believing in {ruby:çeviri > büyü:magic} and charms can answer the question:`
+` "What is the golden butterfly brooch that can allow the lamenting {ruby:çeviri > mobilya:furniture} to have the love they insisted they were incapable of?"`
 ` It's not enough for an answer."`
 `"......To take what we heard from the two Beatos at face value,`
-` ......would it not make sense to consider that magic has the power to cancel out the furniture's "resignation"?"`
-`"‘Why mustn't furniture fall in love?’`
-` "Why is the power of the magic brooch necessary?"`
+` ......would it not make sense to consider that {ruby:çeviri > büyü:magic} has the power to cancel out the {ruby:çeviri > mobilya:furniture}'s "resignation"?"`
+`"‘Why mustn't {ruby:çeviri > mobilya:furniture} fall in love?’`
+` "Why is the power of the {ruby:çeviri > büyü:magic} brooch necessary?"`
 ` ......Yes, it does seem at a glance as though what you and the Beatos are saying provides an answer, though a vague one.`
 ` However, let me say this as a Reader.`
 ` ......I can't accept this as you've presented it."`
 `"You cannot accept it, you say...?"`
-`"......The fate that those pieces of furniture were fighting to overturn was something much more immense than this would allow for.`
+`"......The fate that those pieces of {ruby:çeviri > mobilya:furniture} were fighting to overturn was something much more immense than this would allow for.`
 ` I doubt they could reform their way of thinking just because they were given a charm for making relationships."`
 `"It's true that the brooch gave Shannon the chance she needed to get together with George onii‐chan,`
-` but after that, she said she wanted to deepen their relationship without borrowing the power of magic, and she even tried to give the brooch back to Beato.`
-` She put the miracle of magic behind her at that point.`
+` but after that, she said she wanted to deepen their relationship without borrowing the power of {ruby:çeviri > büyü:magic}, and she even tried to give the brooch back to Beato.`
+` She put the miracle of {ruby:çeviri > büyü:magic} behind her at that point.`
 ` ......In that case, why is she once again in need of its power?"`
 `"Well now.`
 ` ......Perhaps there is no way to say it except that love and marriage are very different things."`
@@ -676,65 +676,65 @@
 ` ......If you wish to laugh at my bad taste, please do not hold back, my miko."`
 `"‘Wa‐ha‐ha‐ha.’"`
 `"Pft, ......*giggle*giggle*, haha{0}ha{0}ha{0}ha{0}haha..."`
-`I understand that a part of magic is created by a believing heart.`
-`And that magic probably permeates deep into the world of us {y:0:Human}{n:0:human}s as well.`
-`However, though it does permeate so far, the power that dwells within magic is small.`
+`I understand that a part of {ruby:çeviri > büyü:magic} is created by a believing heart.`
+`And that {ruby:çeviri > büyü:magic} probably permeates deep into the world of us {y:0:Human}{n:0:human}s as well.`
+`However, though it does permeate so far, the power that dwells within {ruby:çeviri > büyü:magic} is small.`
 `Visiting a shrine before an important exam to pray that you'll pass is something that many people do.`
 `However, not many people will actually credit that visit as the reason for their success.`
 `Praying like this contains no power except as a calming influence.`
 `In love, where even a small chance and a little bit of courage can cause a major change,`
 ` this power might cause a massive upheaval...`
-`However, .........would the insurmountable fate that those pieces of furniture claim to be in the middle of...`
+`However, .........would the insurmountable fate that those pieces of {ruby:çeviri > mobilya:furniture} claim to be in the middle of...`
 `really change because of something like that......?`
-`I think that in the past, the magical power of the brooch as it joined Shannon and George was little more than a good‐luck charm.`
+`I think that in the past, the {ruby:çeviri > büyülü:magical} power of the brooch as it joined Shannon and George was little more than a good‐luck charm.`
 `However, at this point,`
-` the magical power that the pieces of furniture are seeking from the brooch, praying for their love to succeed...`
+` the {ruby:çeviri > büyülü:magical} power that the pieces of {ruby:çeviri > mobilya:furniture} are seeking from the brooch, praying for their love to succeed...`
 `......It's not something as vague as a charm.`
-`It feels much stronger, like {i:a whole different interpretation of magic}.`
-`If you believe in a sleight of hand, it becomes magic.`
-`......But that's no more than a child's trick.`
-`{n}And that only explains one part of magic.`
+`It feels much stronger, like {i:a whole different interpretation of {ruby:çeviri > büyü:magic}}.`
+`If you believe in a sleight of hand, it becomes {ruby:çeviri > büyü:magic}.`
+`......But that's no more than a child's {ruby:çeviri > numara:trick}.`
+`{n}And that only explains one part of {ruby:çeviri > büyü:magic}.`
 `They...are hoping for something.`
 `They're hoping for something with much, much more power...`
-`...for true magic, not a sleight of hand.`
-`"......So then, just what kind of magic...`
-`......are the pieces of furniture expecting from that brooch......?"`
+`...for true {ruby:çeviri > büyü:magic}, not a sleight of hand.`
+`"......So then, just what kind of {ruby:çeviri > büyü:magic}...`
+`......are the pieces of {ruby:çeviri > mobilya:furniture} expecting from that brooch......?"`
 `".........A golden butterfly...brooch...?"`
 `"The Golden Witch {f:5:Beatrice}...`
-`......gave a magic charm to Shannon in exchange for smashing a mirror—a charm that makes love succeed.`
+`......gave a {ruby:çeviri > büyü:magic} charm to Shannon in exchange for smashing a mirror—a charm that makes love succeed.`
 ` ......That's what this is."`
 `From his pocket, ......`
 `Kanon pulled a wing of a gold butterfly.`
 `Though it was just a single wing, it was easy to tell from its distinctive shape that it had originally been part of something with a butterfly motif.`
-`"The magic of this brooch gave Shannon the chance she needed to start her relationship with George‐sama.`
-` ......However, before that magic was fully realized, she left it to me.`
+`"The {ruby:çeviri > büyü:magic} of this brooch gave Shannon the chance she needed to start her relationship with George‐sama.`
+` ......However, before that {ruby:çeviri > büyü:magic} was fully realized, she left it to me.`
 ` ......So, thanks to the power of this brooch,`
-` .........I gained your affection, Milady."`
+` .........I gained your affection, {ruby:çeviri > Leydim:Milady}."`
 `"That's not true...`
 ` I started liking you because of my own honest feelings..."`
 `"......Thank you very much.`
-` ...You are {y:0:Human}{n:0:human}, so you do not believe in witches or magic.`
+` ...You are {y:0:Human}{n:0:human}, so you do not believe in witches or {ruby:çeviri > büyü:magic}.`
 ` It's only natural.`
-` ......However, as furniture created by magic, my very existence here...`
-`...is proof that the miracle of magic exists."`
+` ......However, as {ruby:çeviri > mobilya:furniture} created by {ruby:çeviri > büyü:magic}, my very existence here...`
+`...is proof that the miracle of {ruby:çeviri > büyü:magic} exists."`
 `"S‐sorry,`
 ` what are you talking about...?"`
 `Jessica tried her hardest to grasp what Kanon was trying to say.`
 `However, she couldn't understand it, and had to ask him to repeat it with a bitter smile...`
 `"...........................`
 ` ......Both Shannon and I...`
-`...need magic to succeed in love.`
+`...need {ruby:çeviri > büyü:magic} to succeed in love.`
 ` The key for that is this brooch.`
 ` ......I stepped on it and crushed it, so we each have one part."`
 `The brooch had lost its power when it was split in half.`
-`{n}However, if it was ever joined together again, ......its magic would be revived.`
-`It would revive the miraculous power that could join furniture and a {y:0:Human}{n:0:human} together...`
+`{n}However, if it was ever joined together again, ......its {ruby:çeviri > büyü:magic} would be revived.`
+`It would revive the miraculous power that could join {ruby:çeviri > mobilya:furniture} and a {y:0:Human}{n:0:human} together...`
 `"However, a single brooch can only grant one person's wish.`
-` ......Only one of us furniture can be joined by this single brooch."`
+` ......Only one of us {ruby:çeviri > mobilya:furniture} can be joined by this single brooch."`
 `It was the single spark of love that the old {f:5:Beatrice} with her shrill laugh had sown on a day long ago.`
 `That {f:5:Beatrice} had likened humans who were tormented by this spark to ripe fruit and taken evil pleasure in their suffering.`
-`However, the magic infused within this spark...was real.`
-`It was the only crystallization of magic that the Golden Witch {f:5:Beatrice} ever left in this world......`
+`However, the {ruby:çeviri > büyü:magic} infused within this spark...was real.`
+`It was the only crystallization of {ruby:çeviri > büyü:magic} that the Golden Witch {f:5:Beatrice} ever left in this world......`
 `Its shine......grew brighter.`
 `"Huh? ......Wh‐...what the...?!"`
 `"It's okay.`

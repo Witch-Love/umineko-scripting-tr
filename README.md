@@ -36,7 +36,11 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Kyrie-san, George-aniki gibi saygı ekleri
    * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
    * "Madam"
-3. Bunlar bu şekilde:
+3. Adım 4'te bulunan çoğu kelimenin karşılığı çevirmekte olduğumuz dosyalara rehber şeklinde eklenmiştir.  
+   Çeviri sırasında bu kelimelerle karşılaşınca yapmanız gereken:  
+   `{ruby:çeviri > Hala:Aunt}` -> `Hala` şeklinde çevirmek.  
+   Bu kelimeler regex ile eklendiği için hatalı olabilirler. Gözden kaçırmadan aynı kelime karşılıklarını tüm çevirenler kullanabilsin diye böyle bir şey ekledik.
+4. Bunlar bu şekilde:
    * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
    * Blue Truth `->` Mavi Gerçek
@@ -48,6 +52,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız benimle iletişime geçerek
    * Demons' Roulette `->` İblislerin Ruleti
    * Demon Stake `->` İblis Kazığı
    * Devil `->` Şeytan
+   * Devil's Proof `->` Şeytan'ın İspatı
    * Dining Hall `->` Yemek Salonu
    * Epitaph `->` Kitabe
    * Family Head `->` Aile Reisi

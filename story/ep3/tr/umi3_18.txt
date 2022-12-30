@@ -23,11 +23,11 @@
 `"...............Huh......?"`
 `"...I...was watching.`
 ` .........When you took that evil witch,`
-` ......and blew her away with that awesome magic, exposing her true form,`
+` ......and blew her away with that awesome {ruby:çeviri > büyü:magic}, exposing her true form,`
 ` ...I was watching with my own eyes..."`
-`"Th‐...that wasn't magic,`
+`"Th‐...that wasn't {ruby:çeviri > büyü:magic},`
 ` ......but the red—"`
-`"No, it was magic.`
+`"No, it was {ruby:çeviri > büyü:magic}.`
 ` .........You were definitely...the Golden Witch.`
 ` .........Even if you deny it yourself,`
 ` .........I'll accept it.`
@@ -55,35 +55,35 @@
 `......the world became wrapped in a deep blue sky, and then a deep blue ocean spread out below them.`
 `An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.`
 `And it became adorned with more and more things,`
-` ......until we realized that this was the hall in the Ushiromiya mansion.`
+` ......until we realized that this was the hall in the Ushiromiya {ruby:çeviri > malikane:mansion}.`
 `In that fantastical hall where many gold butterflies beat their wings,`
 ` ...many tables were set up with white tablecloths, like it was a party,`
 ` and beautiful cooking and fruits were set out.`
 `...And over there......were a great many figures.`
 `{n}Everyone was there, talking together and smiling.`
 `"G‐............guys........."`
-`There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and Auntie Rosa, and of course, even Auntie Eva and Uncle Hideyoshi.`
+`There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and {ruby:çeviri > Hala:Auntie} Rosa, and of course, even {ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi.`
 `......George‐aniki, Jessica, Maria, ...wait, wait, even Shannon‐chan, Kanon‐kun, Gohda‐san and Kumasawa‐san are here.`
 `Everyone, everyone was at the party, clapping their hands and celebrating our return...`
 `"Wh‐...why...?`
 ` Everyone was dead...!`
 ` Why are they alive...?!"`
-`"......In the Golden Land, all the dead people's souls can be revived.`
+`"......In the {ruby:çeviri > Altın Diyar:Golden Land}, all the dead people's souls can be revived.`
 ` ......Welcome back, {f:5:Beatrice}.`
 ` And welcome, Battler‐kun.`
-` Welcome to the Golden Land."`
+` Welcome to the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"............I...made it?`
 ` ...I made it...`
-`to the door of the Golden Land?"`
+`to the door of the {ruby:çeviri > Altın Diyar:Golden Land}?"`
 `"Yes.`
-` ......Milady, you have finally been able to invite everyone to the Golden Land.`
-` ...Welcome, Battler‐sama, to the Golden Land."`
+` ......{ruby:çeviri > Leydim:Milady}, you have finally been able to invite everyone to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` ...Welcome, Battler‐sama, to the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"Battler.`
 ` .........So, you have finally made it this far."`
 `"G‐Grandfather...`
 ` .........Where in the world...am I..."`
-`"...My blood, which is...incompatible with magic, runs more deeply in your veins than any other.`
-` ...Therefore, you were the only one who could not reach the Golden Land, and {f:5:Beatrice} has been searching for you ever since.`
+`"...My blood, which is...incompatible with {ruby:çeviri > büyü:magic}, runs more deeply in your veins than any other.`
+` ...Therefore, you were the only one who could not reach the {ruby:çeviri > Altın Diyar:Golden Land}, and {f:5:Beatrice} has been searching for you ever since.`
 ` ...She tried everything to bring you here."`
 `"............What did you say......?"`
 `"It seems that we are all here at last."`
@@ -93,11 +93,11 @@
 `"You should be honored!!`
 ` Normally, I would have eaten all of it, but I left you guys some out of pity!"`
 `"......The seven stake babes..."`
-`"In the Golden Land, all of those with minds are equal.`
-` ......Here, there is no distinction between us furniture, {y:0:Human}{n:0:human}s, or witches."`
+`"In the {ruby:çeviri > Altın Diyar:Golden Land}, all of those with minds are equal.`
+` ......Here, there is no distinction between us {ruby:çeviri > mobilya:furniture}, {y:0:Human}{n:0:human}s, or witches."`
 `"...Battler‐sama.`
 ` We were waiting for you.`
-` And welcome to the Golden Land..."`
+` And welcome to the {ruby:çeviri > Altın Diyar:Golden Land}..."`
 `"Shannon‐chan, ......George‐aniki...!!"`
 `"......I'm still suspecting that this might be a dream...`
 ` I'm sure that we died.`
@@ -109,7 +109,7 @@
 ` Waaaaaah!"`
 `"Give it a rest, Eva.`
 ` For now, you gotta stay quiet and bless the two young 'uns.`
-` The Golden Land is a capital of bliss.`
+` The {ruby:çeviri > Altın Diyar:Golden Land} is a capital of bliss.`
 ` We should never quarrel here...!"`
 `"Here, any people are free to love each other.`
 ` ...No one needs to hesitate over it."`
@@ -120,15 +120,15 @@
 `"Battler‐sama, welcome.`
 ` And welcome home..."`
 `Jessica was probably embarrassed because she was holding hands with Kanon‐kun.`
-`And Kanon‐kun wanted to act humbly like a servant and bow,`
+`And Kanon‐kun wanted to act humbly like a {ruby:çeviri > hizmetkar:servant} and bow,`
 ` but since neither of them could let go of the other's hand, he couldn't do it so well, and the whole scene looked fairly comical.`
-`"With a servant child...?!!`
+`"With a {ruby:çeviri > hizmetkar:servant} child...?!!`
 ` I forbid it, I couldn't possibly give away our Jessica to such a person...!!"`
 `"Why not allow it?`
 ` Let her at least choose the person she likes."`
 `"I forbid it, I forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!"`
 `"Mine has gone awry toooooo, ohhhhh, Geooooooooorge!"`
-`...As Aunt Natsuhi and Auntie Eva hugged each other, they cried tears of regret for their darling children.`
+`...As Aunt Natsuhi and {ruby:çeviri > Hala:Auntie} Eva hugged each other, they cried tears of regret for their darling children.`
 `......Even though they had always been at odds.`
 ` ...It was a very bizarre scene.`
 `"......It isn't really a problem, right?`
@@ -168,7 +168,7 @@
 `"Yes, I have finished preparing my excellent mackerel cooking.`
 ` I can serve it at any time."`
 `"Hey!! Ladies!`
-` Work a little more like furniture!!"`
+` Work a little more like {ruby:çeviri > mobilya:furniture}!!"`
 `"Nooooo!!`
 ` I wanna stuff myself some mooore!`
 ` Wahhhhhhh!"`
@@ -185,19 +185,19 @@
 `Beato and I looked at each other quizzically, then climbed the stairs together.`
 `From the hall, it looked like a very high stage.`
 `A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.`
-`I saw that strange magical characters and Japanese were written side by side.`
+`I saw that strange {ruby:çeviri > büyülü:magical} characters and Japanese were written side by side.`
 `{n}...And below it, many names were written.`
 `There were 17 of them.`
 ` ......Grandfather was the first, and everyone else's names had been signed below in one long column.`
-`The people who arrived at the Golden Land probably signed this one after another.`
+`The people who arrived at the {ruby:çeviri > Altın Diyar:Golden Land} probably signed this one after another.`
 `"Battler.`
 ` Now that you are here, everyone is gathered.`
 ` Listen carefully."`
-`"The Golden Land is not a world supported by the power of magic alone.`
+`"The {ruby:çeviri > Altın Diyar:Golden Land} is not a world supported by the power of {ruby:çeviri > büyü:magic} alone.`
 ` The cooperation and approval of all humans who receive happiness here is required.`
 ` For that sake, we must gather the signatures of everyone here."`
 `"Last time,`
-` the door to the Golden Land was finally opened, but you refused to sign.`
+` the door to the {ruby:çeviri > Altın Diyar:Golden Land} was finally opened, but you refused to sign.`
 ` ......Although you probably don't remember it.`
 ` Because you refused to sign, this world was once again sealed in darkness."`
 `"......Just hearing it like that, ...it kinda sounds like I've been the only stubborn one,`
@@ -206,9 +206,9 @@
 ` It seems that you inherited more than just blood from Kinzo."`
 `Beato laughed amiably.`
 ` I knew I was being made fun of, but that smile led me to go along with her, and I laughed without thinking.`
-`"Magic is a miracle.`
+`"{ruby:çeviri > Büyü:Magic} is a miracle.`
 ` ......Miracles cannot be completed unless everyone believes.`
-` ......And when you do, as the last to do so, this miracle—the Golden Land—will be completed."`
+` ......And when you do, as the last to do so, this miracle—the {ruby:çeviri > Altın Diyar:Golden Land}—will be completed."`
 `"..................It looks like I've been a real pain.`
 ` ...So, what should I do...?"`
 `"First, sign here.`
@@ -242,21 +242,21 @@
 ` Battler is next."`
 `"In the same way, Battler‐kun.`
 ` Put your hand on the covenant, and take the oath.`
-` ......‘I, Ushiromiya Battler, as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor’."`
+` ......‘I, Ushiromiya Battler, as a member of the {ruby:çeviri > Altın Diyar:Golden Land}, swear to serve for the sake of bringing happiness to myself and my neighbor’."`
 `"Ah,`
 ` ...I, Ushiromiya Battler,`
-` as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor.`
+` as a member of the {ruby:çeviri > Altın Diyar:Golden Land}, swear to serve for the sake of bringing happiness to myself and my neighbor.`
 ` ......I'm embarrassed too..."`
 `"Hear me, one and all...!!`
-` Here and now, we have gathered the oaths of all 18 humans accepting the Golden Land...!!"`
+` Here and now, we have gathered the oaths of all 18 humans accepting the {ruby:çeviri > Altın Diyar:Golden Land}...!!"`
 `When Kinzo proclaimed that, everyone applauded at once, praising us.`
 `......Since I'd been the only stubborn one and had just been a nuisance, I felt a little bad about being the most celebrated one.`
-`"And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the Golden Land.`
-` ......This is something that invites the Golden Witch, {f:5:Beatrice}, to the Golden Land.`
-` The Golden Land invites the Golden Witch through a consensus of those who have accepted it, and becomes complete."`
+`"And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` ......This is something that invites the Golden Witch, {f:5:Beatrice}, to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` The {ruby:çeviri > Altın Diyar:Golden Land} invites the Golden Witch through a consensus of those who have accepted it, and becomes complete."`
 `"Battler, I will read it out loud.`
 ` Listen carefully.`
-` ............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the Golden Land’."`
+` ............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the {ruby:çeviri > Altın Diyar:Golden Land}’."`
 `"What's going on with you? You won't be invited unless I send an invitation?"`
 `"It seems that is the ceremony.`
 ` It makes me uncomfortable also.`
@@ -293,8 +293,8 @@
 ` Servants, throw her out!!"`
 `"As you command!!`
 ` Surround her!!"`
-`The Seven Sisters of Purgatory surrounded her from seven directions, taking out magic blades that drew purple trails and blocking her.`
-`And from out of nowhere, shuffling goat‐head servants appeared in great numbers, surrounding that woman.`
+`The Seven Sisters of Purgatory surrounded her from seven directions, taking out {ruby:çeviri > büyü:magic} blades that drew purple trails and blocking her.`
+`And from out of nowhere, shuffling goat‐head {ruby:çeviri > hizmetkarlar:servants} appeared in great numbers, surrounding that woman.`
 `On top of that, the Chiester Sisters stood in front of Beato like a wall, readying a golden bow and pulling back the bowstring...`
 `"......................................."`
 `But the woman didn't move at all.`

@@ -52,7 +52,7 @@
 `"This is just too much......`
 ` How...could anyone get away with something like this...?!!"`
 `As they clung to Aniki's corpse, knowing that he would never wake up again,`
-` ......Auntie Eva and Uncle Hideyoshi cried.`
+` ......{ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi cried.`
 `"......Please, let him go now.`
 ` Do you think George‐kun would like the two of you to see him this way...?`
 ` Of course not...!"`
@@ -66,7 +66,7 @@
 ` We mustn't keep looking at George like this...`
 ` ......This is for his sake!`
 ` We've gotta hold back for now...!"`
-`When Auntie Eva tried even harder to cling to that corpse,`
+`When {ruby:çeviri > Hala:Auntie} Eva tried even harder to cling to that corpse,`
 ` Dad and Uncle Hideyoshi dragged her away and had a heated debate with her beside the wall...`
 `"No, nooooooooooooo!! Geo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!`
 ` Doctor Nanjo! Help him!!`
@@ -106,8 +106,8 @@
 `......Not only Maria.`
 `There was one more victim.`
 `Lying on the same bed, sleeping alongside her,`
-` ......was Auntie Rosa.`
-`George‐aniki, Jessica, Maria, ...and Auntie Rosa.`
+` ......was {ruby:çeviri > Hala:Auntie} Rosa.`
+`George‐aniki, Jessica, Maria, ...and {ruby:çeviri > Hala:Auntie} Rosa.`
 `......In this room were four people who had been killed, their throats sliced open.`
 `They'd probably been like that since last night.`
 `......And I came back to the room completely ignorant, snuggled under the covers, and fell asleep right next to them.........`
@@ -129,7 +129,7 @@
 `...brutal...............`
 `And...there was one more thing which adorned these brutal murders to make them even more unsettling.`
 `Drawn very large on the wall...`
-`......was something like an eerie magic circle.`
+`......was something like an eerie {ruby:çeviri > büyü:magic} circle.`
 `It was drawn in a bright red paint which looked like blood,`
 ` making it look as though some disturbing ritual had taken place in this room,`
 ` with the four of them offered as human sacrifices...`
@@ -137,10 +137,10 @@
 `......No one has a heart so cold that they could witness the deaths of those close to them...`
 `...and still worry about some graffiti on the wall...`
 `".........Good morning, everyone.`
-` .........Oh, ......what a wonderful magic circle."`
+` .........Oh, ......what a wonderful {ruby:çeviri > büyü:magic} circle."`
 `The girl who bragged that she drew more pleasure from the process of exposing the truth than from the truth itself,`
 ` ......and who went so far as to call herself an intellectual rapist, ......appeared in the hall.`
-`When she saw the extraordinarily creepy magic circle in this gruesome room,`
+`When she saw the extraordinarily creepy {ruby:çeviri > büyü:magic} circle in this gruesome room,`
 ` I heard what was unmistakably a sigh of admiration escape her lips...`
 `"You...............don't come in here......"`
 `"............I overheard the details from the corridor.`
@@ -164,7 +164,7 @@
 ` It's the detective's right to investigate the scene."`
 `"We said we don't want you here...!`
 ` You're not one of the family, so have the respect to back off!!"`
-`".........It is a disappointing, third‐rate mystery in which the suspect blocking access to the murder scene turns out to be the culprit.`
+`".........It is a disappointing, third‐rate mystery in which the suspect blocking access to the murder scene turns out to be the {ruby:çeviri > suçlu:culprit}.`
 ` ......At least, in my humble opinion...?"`
 `"Who gives a damn about what you want?!!`
 ` Get out!!`
@@ -208,16 +208,16 @@
 ` That's two corpses short.`
 ` ......Well, she doesn't necessarily have to see to it that six people are killed, but that's how we've been playing.`
 ` That girl isn't completely clueless, so she must have killed two more people somewhere."`
-`There's a magic circle on the wall representing the first twilight, similar to the ones in Beato's games.`
+`There's a {ruby:çeviri > büyü:magic} circle on the wall representing the first twilight, similar to the ones in Beato's games.`
 `*giggle*, that girl talks big, but I wonder just how closely she can imitate Beato.`
 `*giggle*giggle*, ahha{0}ha{0}ha{0}ha{0}haha...!`
 `Your Hebrew sure is crappy, Lambda.`
 ` You've got this part slightly wrong.`
 `"......What the heck...`
 ` What's going on?`
-` Why's there a magic circle?"`
+` Why's there a {ruby:çeviri > büyü:magic} circle?"`
 `"I'll bet someone wanted to try imitating {f:5:Beatrice}‐sama.`
-` Aha, what a crappy magic circle...!"`
+` Aha, what a crappy {ruby:çeviri > büyü:magic} circle...!"`
 `"This isn't some funny imitation!`
 ` Some {y:0:Human}{n:0:human} deliberately drew this to make it look like {f:5:Beatrice}‐sama's own work...!`
 ` Anyway, let's report to {f:5:Beatrice}‐sama about this!"`
@@ -228,14 +228,14 @@
 `"...Furudo Erika...`
 ` ......An unexpected woman for an unexpected crime.`
 ` ......And there's that unexpected man from 19 years ago.`
-` .........And if you add on the fact that Battler's already solved the epitaph, this game is completely different than normal.`
+` .........And if you add on the fact that Battler's already solved the {ruby:çeviri > kitabe:epitaph}, this game is completely different than normal.`
 ` ...What the heck's going on...?!`
 ` Let's go!!"`
 `""Yes, Onee‐sama!!""`
 `In the kitchen, Gohda was preparing a wonderful breakfast at a brisk pace.`
 `The main dish would be herb omelet.`
 `Even simple foods could become an invigorating feast under Gohda's skillful hands.`
-`He was planning to complete all the other preparations for the meal here beforehand, and then cook their individual omelets fresh before their eyes in the dining hall, serving them up one by one.`
+`He was planning to complete all the other preparations for the meal here beforehand, and then cook their individual omelets fresh before their eyes in the {ruby:çeviri > yemek salonu:dining hall}, serving them up one by one.`
 `"Hmm hmm hmm hmm{p:0:♪} Pan pan pan pa~n{p:0:♪}"`
 `Gohda hummed as he continued his preparations in high spirits.`
 `When Shannon, who was helping out, saw Gohda like this, her mood also brightened.`
@@ -250,7 +250,7 @@
 `Shannon didn't like Gohda when he was sneaky, but she had no problems at all with him when he was cooking happily.`
 `She sometimes even thought it would have been nice if his contract hadn't included any jobs besides cooking.`
 `If that had been the case, he wouldn't have had to get in a bad mood doing unnecessary jobs.`
-`"The dining hall is ready.`
+`"The {ruby:çeviri > yemek salonu:dining hall} is ready.`
 ` You can carry it in whenever you want."`
 `"We're almost good to go, so please get the serving cart ready.`
 ` Hmm hmm hmmmmm!"`
@@ -275,14 +275,14 @@
 `Even though Gohda had asked her to get the serving cart ready,`
 ` Kumasawa followed nimbly after Kanon, skillfully skipping work.`
 `As Kanon muttered about how Gohda was the one who slept in all the time,`
-` he headed for the servants' sleeping quarters.`
+` he headed for the {ruby:çeviri > hizmetkarlar:servants}' sleeping quarters.`
 `"So you didn't wake him up this morning, Kanon‐san?"`
-`"......Last night, I fell asleep while still in the servant room, so I didn't return to the servants' quarters."`
+`"......Last night, I fell asleep while still in the {ruby:çeviri > hizmetkar:servant} room, so I didn't return to the {ruby:çeviri > hizmetkarlar:servants}' quarters."`
 `Last night, Kanon had dozed off while in the middle of his late night shift,`
-` falling asleep in the servant room.`
+` falling asleep in the {ruby:çeviri > hizmetkar:servant} room.`
 `Shannon had been kind enough to put a blanket on him,`
 ` but that had just made it so warm that he fell into an even deeper sleep...`
-`So he hadn't returned to his bed in the servants' quarters last night.`
+`So he hadn't returned to his bed in the {ruby:çeviri > hizmetkarlar:servants}' quarters last night.`
 `Because of that, he hadn't met Genji even once this morning.`
 `He knocked on the door.`
 `"......Genji‐sama.`
@@ -317,7 +317,7 @@
 ` G‐Genji‐sama......!"`
 `"Eek, ......wh‐what is this, what is this...?!"`
 `There was a large, dark red stain on the blanket.`
-`......Though this was one of the servants' blankets, even those were always kept clean.`
+`......Though this was one of the {ruby:çeviri > hizmetkarlar:servants}' blankets, even those were always kept clean.`
 `{n}There was no way they would have a stain like this.`
 `Kanon hesitantly peeled back Genji's blanket,`
 ` .........saw what was left of him,`
@@ -327,7 +327,7 @@
 `".........It's a sharp cut.`
 ` ...You couldn't cut through flesh like that without a blade of considerable length."`
 `"Wh‐what's going on?`
-` Battler solved the riddle of the epitaph, right?`
+` Battler solved the riddle of the {ruby:çeviri > kitabe:epitaph}, right?`
 ` Why are murders happening?!"`
 `"I don't know.`
 ` ......In any event, this isn't good.`
@@ -342,7 +342,7 @@
 ` ......There's no chance they'll be having a quiet and peaceful breakfast on the second day.`
 ` ......I have a bad feeling about this.`
 ` Genji might not be the only one.`
-` ......Let's check the entire mansion. Something else might have happened...!"`
+` ......Let's check the entire {ruby:çeviri > malikane:mansion}. Something else might have happened...!"`
 `"Yes, Onee‐sama!!"`
 `Natsuhi sprang awake at the sudden sound of the phone.`
 `To Natsuhi, the fact that she'd woken up was surprising in itself.`
@@ -418,15 +418,15 @@
 ` If you'll keep two promises, that is."`
 `"What are they...?!"`
 `"One is that you keep it a secret that I'm taking care of your husband.`
-` ......Sooner or later, the others in the mansion will probably raise a fuss that they're unable to find Krauss.`
+` ......Sooner or later, the others in the {ruby:çeviri > malikane:mansion} will probably raise a fuss that they're unable to find Krauss.`
 ` But you know nothing, so you will say nothing.`
 ` ......Understand?"`
 `"I, I understand...!`
 ` What's your other condition?!"`
 `"......It's just a little game.`
 ` At one in the afternoon,`
-` you will go into the foremost guest room on the first floor of the mansion and hide in the closet."`
-`"A guest room......?`
+` you will go into the foremost {ruby:çeviri > misafir odası:guest room} on the first floor of the {ruby:çeviri > malikane:mansion} and hide in the closet."`
+`"A {ruby:çeviri > misafir odası:guest room}......?`
 ` Why should I go into a closet......?!"`
 `"It's just a little game of hide‐and‐seek.`
 ` If you can hide there for an hour without anyone finding you, you win.`
@@ -454,7 +454,7 @@
 `".........What is it?`
 ` Did something happen?"`
 `"I‐it's nothing.`
-` It looks like the servants have arrived.`
+` It looks like the {ruby:çeviri > hizmetkarlar:servants} have arrived.`
 ` I'm hanging up."`
 `"Sure.`
 ` I've said everything I wanted to.`
@@ -492,7 +492,7 @@
 ` F‐five people have been killed?!"`
 `"Y‐yes.`
 ` ......It was so......horrible......!"`
-`"It was exactly the same as the four in the guesthouse...`
+`"It was exactly the same as the four in the {ruby:çeviri > konukevi:guesthouse}...`
 ` ......His throat......was sliced open...with a terribly sharp blade..."`
 `"......I...I can't believe that even though I had the midnight shift, ......I didn't notice anyone suspicious......"`
 `"Don't blame yourself.`
@@ -524,7 +524,7 @@
 `"Wh‐what does it mean......?`
 ` You don't think......Uncle Krauss too......?!"`
 `"............I thought this would happen.`
-` .........I hate to say it at a time like this, ......but there were four in the guesthouse plus Genji to make five.`
+` .........I hate to say it at a time like this, ......but there were four in the {ruby:çeviri > konukevi:guesthouse} plus Genji to make five.`
 ` ......I figured there would be one more."`
 `"Why?!`
 ` How could you know that?!`
@@ -536,7 +536,7 @@
 `Nanjo stepped in between them, and it grew into a bit of a scuffle......`
 `Watching this, Erika smiled condescendingly and shrugged.`
 `"But of course.`
-` Anyone could have predicted six victims from the moment they witnessed the crime scene in the guesthouse.`
+` Anyone could have predicted six victims from the moment they witnessed the crime scene in the {ruby:çeviri > konukevi:guesthouse}.`
 ` In fact, I've been wondering who the other two would be ever since I saw there were only four corpses."`
 `"How could you know such a thing?!!`
 ` You killed them?!`
@@ -546,9 +546,9 @@
 ` How can you know that?!`
 ` Can't you think before you talk...?!"`
 `".........It's a simple connection to make.`
-` The graffiti drawn at the scene of the crime in the guesthouse was a magic circle.`
-` I just thought of things that are connected to both magic and murders."`
-`"I see... ......The epitaph..."`
+` The graffiti drawn at the scene of the crime in the {ruby:çeviri > konukevi:guesthouse} was a {ruby:çeviri > büyü:magic} circle.`
+` I just thought of things that are connected to both {ruby:çeviri > büyü:magic} and murders."`
+`"I see... ......The {ruby:çeviri > kitabe:epitaph}..."`
 `"......I see...`
 ` .........It's.........the first twilight."`
 `"Huh? ...Huh?`
@@ -563,9 +563,9 @@
 `"Eva, please...! Calm down a bit...!!"`
 `".............................."`
 `"......That's all there is to it.`
-` From the moment I saw the magic circle at that crime scene,`
-` I had a hypothesis that this was a murder following the epitaph's first twilight, and that there would be six victims."`
-`"......All it takes is the presence of that magic circle,`
+` From the moment I saw the {ruby:çeviri > büyü:magic} circle at that crime scene,`
+` I had a hypothesis that this was a murder following the {ruby:çeviri > kitabe:epitaph}'s first twilight, and that there would be six victims."`
+`"......All it takes is the presence of that {ruby:çeviri > büyü:magic} circle,`
 ` and a deduction like this becomes trivial for Furudo Erika.`
 ` ......Your thoughts, ladies and gentlemen?"`
 `".........Then, ...you're saying Uncle Krauss was...killed as well...?"`
@@ -595,7 +595,7 @@
 `Oh, but in third‐rate disaster and action movies, it's the ones who act alone who survive, isn't it?`
 `Weird.`
 ` *giggle*giggle*!`
-`"......Even though the epitaph has already been solved...`
+`"......Even though the {ruby:çeviri > kitabe:epitaph} has already been solved...`
 ` ...Who's behind this farce......?"`
 `"It might be the work of this man from 19 years ago, who is thought to be Lady {f:5:Lambdadelta}'s piece.`
 ` ......Ah yes, that can't be true."`
@@ -642,7 +642,7 @@
 ` If we slip up here, Natsuhi will be cornered...!`
 ` Gaap, can I count on you?!"`
 `"Of course!`
-` ......I'll blow a hole through locked‐room tricks, alibis, and mysteries alike.`
+` ......I'll blow a hole through locked‐room {ruby:çeviri > numaralar:tricks}, {ruby:çeviri > mazeretler:alibis}, and mysteries alike.`
 ` .........Leave it to me. I'll deal with it."`
 `A pitch‐black hole opened up in the floor and swallowed up Gaap along with the chair she sat in.`
 `Then, a hole opened in the ceiling and spat just the chair back out, dropping it back into its original spot...`
@@ -665,7 +665,7 @@
 `"......What's going on?!`
 ` Where is Nii‐san?!"`
 `"Judging by this blood‐stained bed......`
-`I don't like to think about it, but we should probably assume that he was killed and had his neck cut open, just like the people in the guesthouse..."`
+`I don't like to think about it, but we should probably assume that he was killed and had his neck cut open, just like the people in the {ruby:çeviri > konukevi:guesthouse}..."`
 `".........Probably...`
 ` Judging by the amount of blood lost, ...it's hard to imagine that he's alright..."`
 `"B‐but......`
@@ -692,9 +692,9 @@
 `"Oh, don't bother with the lock and key nonsense, it's completely pointless.`
 ` ......Have you forgotten that Genji‐san has already turned up dead?`
 ` His master key is missing.`
-` Which means that all of the locks in this mansion are now meaningless."`
+` Which means that all of the locks in this {ruby:çeviri > malikane:mansion} are now meaningless."`
 `".........How dull.`
-` In short, there are no locked‐room murders inside this mansion and there never will be.`
+` In short, there are no locked‐room murders inside this {ruby:çeviri > malikane:mansion} and there never will be.`
 ` ......Good grief.`
 ` What a bore of a mystery this is becoming."`
 `Erika laughed off this murder in disappointment, as though it was something she was watching on TV.`
@@ -711,9 +711,9 @@
 ` I haven't even seen her face yet...!`
 ` .........Jessica, ...Jessicaa{-}a{-}a{-}a{-}aaa!!"`
 `"W‐wait up, Natsuhi‐san......!!"`
-`"The culprit might still be hiding nearby!`
+`"The {ruby:çeviri > suçlu:culprit} might still be hiding nearby!`
 ` It would be dangerous to let her be alone..."`
-`Natsuhi flew out of the room and dashed towards the guesthouse this time.`
+`Natsuhi flew out of the room and dashed towards the {ruby:çeviri > konukevi:guesthouse} this time.`
 `...It was only natural.`
 ` After all, she still hadn't even seen Jessica's last face.`
 `Everyone probably thought that was the reason.`
@@ -727,7 +727,7 @@
 `{n}......Let it burst this very moment, burst open like a balsam flower.`
 `Then I won't have to suffer any longer.........`
 `"So, everyone.`
-` For Natsuhi‐san's sake, let's return to the guesthouse for the time being.`
+` For Natsuhi‐san's sake, let's return to the {ruby:çeviri > konukevi:guesthouse} for the time being.`
 ` ......Not that seeing her daughter's face is going to advance the story in any way."`
 `".........Do you even have a heart?"`
 `"A heart?`
@@ -741,8 +741,8 @@
 ` *cackle*cackle*cackle*.`
 ` Beato's pieces have brought about an interesting change. *giggle*giggle*!"`
 `"Wh‐...what in the..............."`
-`Natsuhi flew into the cousins' room on the upper floor of the guesthouse,`
-` ......and was struck dumb by the blood‐stained beds and the eerie magic circle which looked like it might have been drawn with the victims' blood...`
+`Natsuhi flew into the cousins' room on the upper floor of the {ruby:çeviri > konukevi:guesthouse},`
+` ......and was struck dumb by the blood‐stained beds and the eerie {ruby:çeviri > büyü:magic} circle which looked like it might have been drawn with the victims' blood...`
 `"......Where is Jessica......?`
 ` Where is Jessica...?! Jessicaaa!!"`
 `"In that...`
@@ -756,17 +756,17 @@
 ` ......what the hell...`
 `...is going on here......?"`
 `".........This room was locked tight when we left.`
-` We can now be certain that the culprit has a master key.`
+` We can now be certain that the {ruby:çeviri > suçlu:culprit} has a master key.`
 ` Once again, my reasoning was correct."`
 `"Who cares about that...?!`
 ` Where did they go...?`
 ` Wh‐where did all their bodies go...?!"`
 `"............Heheh.`
-` Nice trick."`
+` Nice {ruby:çeviri > numara:trick}."`
 `"See, look, look, it's magi~c!`
-` That Gaap who's with Beato hid the corpses somewhere with magic...!"`
+` That Gaap who's with Beato hid the corpses somewhere with {ruby:çeviri > büyü:magic}...!"`
 `"......All of us moved together.`
-` You're trying to say that this gives everyone an alibi?"`
+` You're trying to say that this gives everyone an {ruby:çeviri > mazeret:alibi}?"`
 `"Your reasoning goes like this, right?`
 ` The four of them weren't actually dead, they were just playing dead.`
 ` Then, when no one else was around, they hid somewhere.`
@@ -774,33 +774,33 @@
 `"You don't intend to declare any of their deaths in red now, do you?"`
 `"Of course I won't.`
 ` Unlike that dolt Beato, I don't give red out for free!"`
-`"In that case, I'll gladly use the blue truth.`
+`"In that case, I'll gladly use the {ruby:çeviri > mavi gerçek:blue truth}.`
 ` I can think of any number of ways to work around something of this level."`
 `"*giggle*.`
 ` Sure, go ahe~ad!`
-` Blue truth time!"`
+` {ruby:çeviri > Mavi gerçek:Blue truth} time!"`
 `"Here's the first one I can think of.`
 ` {p:2:The victims aren't actually dead.`
 ` They pretended to be dead, then secretly hid themselves somewhere.`
-` After all, you haven't declared anyone's death with the red truth}."`
+` After all, you haven't declared anyone's death with the {ruby:çeviri > kırmızı gerçek:red truth}}."`
 `"Ahhaha!`
 ` Even if I showed you their gaping wounds, you've still gotta try that one if it wasn't in red, right?! That's like the basics of the basics!`
 ` But don't get your hopes up.`
-` I'm not giving you a freebie red truth!`
+` I'm not giving you a freebie {ruby:çeviri > kırmızı gerçek:red truth}!`
 ` 'Cause all I need to do is refute one teensy little part of that theory at the end of the game, at midnight on October 5th!"`
 `"Ah, the witch side has such a big advantage!`
-` If that stupid Battler was my opponent, he'd be done after that blue truth, but you aren't like that, right, Bern?!"`
+` If that stupid Battler was my opponent, he'd be done after that {ruby:çeviri > mavi gerçek:blue truth}, but you aren't like that, right, Bern?!"`
 `"Of course.`
 ` Anyone could have thought of that ridiculous move.`
 ` I have more.`
 ` Second one.`
 ` {p:2:Krauss carried the bodies off and hid them.`
 ` You're making it look like you've kidnapped Krauss and locked him up somewhere, but he might actually be free.`
-` Krauss has no alibi.`
+` Krauss has no {ruby:çeviri > mazeret:alibi}.`
 ` Krauss hid their corpses}."`
 `"Right, of course you'd say that.`
-` It's not like I declared with the red truth that Krauss was being confined. *giggle*giggle*!`
-` They do say you've got to trick your friends before you can trick your enemies!`
+` It's not like I declared with the {ruby:çeviri > kırmızı gerçek:red truth} that Krauss was being confined. *giggle*giggle*!`
+` They do say you've got to {ruby:çeviri > numara:trick} your friends before you can {ruby:çeviri > numara:trick} your enemies!`
 ` So you're saying he lied to Natsuhi, making it seem like he'd been captured!`
 ` Eheh{0}eh{0}eh{0}eh{0}eheh!!`
 ` Any others?!"`
@@ -812,19 +812,19 @@
 `"Ahhah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
 ` What is that, that's hilarious!!`
 ` So all those people gathered around and looked at their dead faces, and not a single one of them realized that they were fakes?"`
-`"Since you haven't used the red truth, there's a possibility that everyone misidentified all of the bodies.`
+`"Since you haven't used the {ruby:çeviri > kırmızı gerçek:red truth}, there's a possibility that everyone misidentified all of the bodies.`
 ` Of course, if you feel like responding to a repetition request for "no one would misidentify a person", I'll withdraw that claim immediately..."`
 `"How about no~{p:0:♪} You can't bait me like that!`
-` The red truth is only useful if I make you wait for it, you know?"`
-`"I'll pick a single blue truth from all the ones you give me throughout this game and I'll smash it with the red!`
-` Then the rest of the blue truths will be swallowed up by darkness before you can even find out whether they were right or wrong!"`
+` The {ruby:çeviri > kırmızı gerçek:red truth} is only useful if I make you wait for it, you know?"`
+`"I'll pick a single {ruby:çeviri > mavi gerçek:blue truth} from all the ones you give me throughout this game and I'll smash it with the red!`
+` Then the rest of the {ruby:çeviri > mavi gerçekler:blue truths} will be swallowed up by darkness before you can even find out whether they were right or wrong!"`
 `"That darkness is the world of witches!`
 ` You won't be given any truth at all!`
 ` Ehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"`
 `.........Heheh.`
 `...This girl acts like she's stupid, but she's not bad at all.`
 `She'll never rise to provocation.`
-`Looks like she understands the thing called "the darkness of witches" even better than the true Game Master, Beato.`
+`Looks like she understands the thing called "the darkness of witches" even better than the true {ruby:çeviri > Oyun Yöneticisi:Game Master}, Beato.`
 `And apparently, Gaap has a good understanding of it as well.`
 `......That move of hiding the corpses.`
 `It worked out pretty well for both Lambda and Beato.`
@@ -842,11 +842,11 @@
 `Real assassins will empty out an entire clip of bullets.`
 `............That's what you'd do too, isn't it?`
 ` So would I, of course.`
-`But my blue truths were nothing special, so knowing her, she'll probably slice all of them in two with a single swipe of the red.`
+`But my {ruby:çeviri > mavi gerçekler:blue truths} were nothing special, so knowing her, she'll probably slice all of them in two with a single swipe of the red.`
 `A confirmation of their deaths and Krauss's innocence.`
 ` By simply firing off those couple of reds, she can remove all three of my wedges.`
 `Well, that's okay.`
-`When the red truth does come out, I just need to follow along with it and stab her full of blue wedges again.`
+`When the {ruby:çeviri > kırmızı gerçek:red truth} does come out, I just need to follow along with it and stab her full of blue wedges again.`
 `.........*giggle*giggle*.`
 ` This is how a witch's game is played.`
 `*giggle*, ah, it's so much fun...!`
@@ -857,7 +857,7 @@
 `*giggle*...... ...Wouldn't have it any other way...`
 `.........Because when I crush you ragged, make you cry out in frustration as you crawl and scratch at the floor...`
 `...grab that cute hair of yours and drag you along the ground as I roll around laughing......this way will make it all the more enjoyable!!`
-`The servants' quarters in the mansion had once again gone silent......`
+`The {ruby:çeviri > hizmetkarlar:servants}' quarters in the {ruby:çeviri > malikane:mansion} had once again gone silent......`
 `{n}There lay Genji's body, which had been covered completely with a blanket......`
 `In the ceiling of this cramped room, a pitch‐black hole appeared,`
 ` ......captivating legs sprouted out,`
@@ -876,14 +876,14 @@
 `The great Lady {f:5:Lambdadelta} called that being here as a trump card 19th person.`
 `......Even optimistically speaking, this is on par with Ronove and me...`
 `A pitch‐black hole opened in the bed, and Genji disappeared as though the bed had swallowed him up.`
-`Just like the four in the guesthouse, Genji's corpse was hidden in some unknown place...`
+`Just like the four in the {ruby:çeviri > konukevi:guesthouse}, Genji's corpse was hidden in some unknown place...`
 `It was a place that no one could find, located neither within this world nor the next......`
 `No longer would anyone be able to find their bodies.`
 `{n}No longer would anyone be able to confirm their deaths.`
 `Genji's body was carried to that place of endless silence,`
 ` where it would never be disturbed......`
 `"Without a corpse, he will be treated as missing.`
-` ......To be treated as missing is to be treated as both culprit and victim, truly like the inside of a cat box.`
+` ......To be treated as missing is to be treated as both {ruby:çeviri > suçlu:culprit} and victim, truly like the inside of a cat box.`
 ` ......The darkness within cat boxes that will never be opened is the haunt of witches and demons like us...!`
 ` You're one move too late, Miss Great Detective. ......Heheheheh..."`
 `Gaap licked her lips and swallowed......`
@@ -892,7 +892,7 @@
 ` But Gaap‐sama is pretty cool.`
 ` She's just so......awesome."`
 `"Stop talking nonsense, what happened to standing guard?!`
-` The {y:0:Human}{n:0:human}s are returning from the guesthouse!!`
+` The {y:0:Human}{n:0:human}s are returning from the {ruby:çeviri > konukevi:guesthouse}!!`
 ` Gaap‐sama...!"`
 `"Yes, let's disperse.`
 ` .........This should be enough to give Natsuhi a way out..."`
@@ -941,7 +941,7 @@
 ` ......That Lady {f:5:Lambdadelta}......!`
 ` *cackle*cackle*cackle*cackle*cackle*!!"`
 `"Excuse me!`
-` ......The {y:0:Human}{n:0:human}s have confirmed the disappearance of Genji's corpse in the servants' quarters.`
+` ......The {y:0:Human}{n:0:human}s have confirmed the disappearance of Genji's corpse in the {ruby:çeviri > hizmetkarlar:servants}' quarters.`
 ` ......They have started moving towards Lord {f:5:Goldsmith}'s study!"`
 `"Riiche.`
 ` ......They're coming."`

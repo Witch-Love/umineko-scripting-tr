@@ -1,13 +1,13 @@
-`Battler could be found in the dining hall.`
-`Unable to summon the will to return to the guesthouse in the middle of this rain,`
-` he had wandered halfheartedly around the mansion in search of a random place to sit, ...and had stationed himself in the dining hall.`
+`Battler could be found in the {ruby:çeviri > yemek salonu:dining hall}.`
+`Unable to summon the will to return to the {ruby:çeviri > konukevi:guesthouse} in the middle of this rain,`
+` he had wandered halfheartedly around the {ruby:çeviri > malikane:mansion} in search of a random place to sit, ...and had stationed himself in the {ruby:çeviri > yemek salonu:dining hall}.`
 `He hadn't bothered to lock it.`
 `He did think that maybe the shapeless murderer, or the Golden Witch, might come to kill him now that he was isolated,`
 ` but he no longer thought about resisting that.`
-`On the contrary, he had no intention of blocking the culprit with a lock.`
+`On the contrary, he had no intention of blocking the {ruby:çeviri > suçlu:culprit} with a lock.`
 `{n}He wanted that person to come at him openly, from the front.`
-`...If it was a murderer, he thought he'd ask them to tell about some of those wonderful locked room tricks as a parting souvenir.`
-`And if it was a witch, he thought he'd ask her to at least take his life with some wonderful magic.`
+`...If it was a murderer, he thought he'd ask them to tell about some of those wonderful locked room {ruby:çeviri > numaralar:tricks} as a parting souvenir.`
+`And if it was a witch, he thought he'd ask her to at least take his life with some wonderful {ruby:çeviri > büyü:magic}.`
 `......However, ironically, neither of these two came to meet Battler...`
 `Battler opened the liquor cabinet on his own and enjoyed the liquor to his heart's content.`
 `{n}No longer was there anybody anywhere who would have a problem with him drinking alcohol.`
@@ -26,8 +26,8 @@
 ` Please, come in. It's open."`
 `".........Excuse me."`
 `Genji‐san opened the door and bowed.`
-`.........So Genji‐san was the culprit after all, ...or maybe an accomplice?`
-` ......That theory would probably explain most of the tricks...`
+`.........So Genji‐san was the {ruby:çeviri > suçlu:culprit} after all, ...or maybe an accomplice?`
+` ......That theory would probably explain most of the {ruby:çeviri > numaralar:tricks}...`
 `"Did you come to give me my last rites?"`
 `".........Nothing of the sort.`
 ` ......I shall excuse myself if I am disturbing you."`
@@ -99,7 +99,7 @@
 `Genji‐san's silence forced me to consider that resignation of mine more deeply...`
 `And, .........we could see the door of Grandfather's study, impregnated with a sweet smell.`
 `From his pocket, Genji‐san withdrew a gold key with an elegant design.`
-`The master keys had been confiscated by Auntie Rosa, but the key to this study alone, he had kept with him.`
+`The master keys had been confiscated by {ruby:çeviri > Hala:Auntie} Rosa, but the key to this study alone, he had kept with him.`
 `He put it in the keyhole, .........and it made a heavy clunking sound.`
 `".........My lord.`
 ` It is Genji.`
@@ -153,7 +153,7 @@
 `However, ...I knew this witch.`
 `{n}Even though it was our first meeting,`
 ` ...I knew her,`
-` ......from the portrait......!`
+` ......from the {ruby:çeviri > portre:portrait}......!`
 `"Genji.`
 ` Serve something for Battler.`
 ` What would be the most appropriate for this man...?"`
@@ -165,18 +165,18 @@
 ` In deference to that, I allowed you to meet me.`
 ` ...So, what will you ask me?`
 ` What will you inquire?"`
-`"......The door to the Golden Land will soon be opened.`
+`"......The door to the {ruby:çeviri > Altın Diyar:Golden Land} will soon be opened.`
 ` Soon, we will have a banquet to celebrate my revival, to which I will be welcoming the witches.`
 ` ...In the meantime, I'll be answering your questions, as many as you like."`
 `"I, ......I have a bunch of things I want to ask about!!`
 ` What happened on this island?!`
 ` And why did these incidents happen?!"`
 `"I want to ask about the locked rooms too!!`
-` What about the chapel?!`
+` What about the {ruby:çeviri > kilise:chapel}?!`
 ` What about Jessica's room?!`
-` And the servant room?!`
+` And the {ruby:çeviri > hizmetkar:servant} room?!`
 ` And Aunt Natsuhi's room?!`
-` And the parlor?!"`
+` And the {ruby:çeviri > salon:parlor}?!"`
 `"There's more still I want to ask about!!`
 ` About the witch's true nature!!`
 ` Are you really a witch?!!`
@@ -200,7 +200,7 @@
 `"...D‐............Damn you, talking so tough!!`
 ` Yeah, alright.`
 ` Try to make me admit it.`
-` ...Try to make me admit that you're a witch and that you can use weird, awesome, and great magic!!"`
+` ...Try to make me admit that you're a witch and that you can use weird, awesome, and great {ruby:çeviri > büyü:magic}!!"`
 `"If I submit, I'll kiss your shoes or do whatever else you want!!!"`
 `The witch cackled gloatingly.`
 `{n}Then, she glared at him unpleasantly with eyes that said a man can't go back on his word...`

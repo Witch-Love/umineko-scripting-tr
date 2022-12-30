@@ -89,12 +89,12 @@
 `Their love is already the real thing.`
 ` There's no need to test it.`
 `But if so, ......then why must they fight...?`
-`The victorious couple will be bound together by the magical miracle, ......and the defeated couple will fall apart.`
-`Why have the demons promised us that we will fall apart without a magical miracle...?`
+`The victorious couple will be bound together by the {ruby:çeviri > büyülü:magical} miracle, ......and the defeated couple will fall apart.`
+`Why have the demons promised us that we will fall apart without a {ruby:çeviri > büyülü:magical} miracle...?`
 `.........Why is a demon's game like this necessary?`
 ` ......I don't understand.`
 `No, they aren't important right now...`
-`I have to think of an escape trick as soon as possible,`
+`I have to think of an escape {ruby:çeviri > numara:trick} as soon as possible,`
 ` ......so that I can save Battler‐san from that locked room......`
 `"............I heard about Battler.`
 ` It seems things have gotten quite troublesome."`
@@ -103,7 +103,7 @@
 ` ......I am tackling Battler's locked room in my own way, .........but it is difficult.`
 ` It feels almost as though an ordinary chain has been made to look like a wire puzzle..."`
 `"I heard from {f:5:Lambdadelta}‐san.`
-` ......She said that the old {f:5:Beatrice} could definitely solve this trick.`
+` ......She said that the old {f:5:Beatrice} could definitely solve this {ruby:çeviri > numara:trick}.`
 ` ......Don't you have any idea?"`
 `"That old {f:5:Beatrice} is our completed form after we become one.`
 ` ......Even I am naught but a part of her.`
@@ -143,10 +143,10 @@
 `They were the demons of love.`
 `{n}Love is the single element.`
 ` The source of all miracles.`
-`......Could the miracle of love...provide an answer for a locked‐room trick......?`
+`......Could the miracle of love...provide an answer for a locked‐room {ruby:çeviri > numara:trick}......?`
 `"There it is again. "Without love, it cannot be {y:1:‘seen’}{n:1:seen}".`
 ` ......I understand how that catchphrase can describe a certain concept.`
-` But locked‐room tricks are pure, unfeeling mathematical puzzles, without a fragment of affection within them.`
+` But locked‐room {ruby:çeviri > numaralar:tricks} are pure, unfeeling mathematical puzzles, without a fragment of affection within them.`
 ` .........Just what kind of hint could these demons be talking about...?"`
 `"......I already have a certain answer.`
 ` ......What these demons have said supports that even further..."`
@@ -200,7 +200,7 @@
 `"Come on now, missy, calm down.`
 ` I want to read on too, so please just chill a bit."`
 `"......About the rest of the manuscript, Hachijo.`
-` ......It contains the answer to the locked‐room trick......and the truths behind a bunch of mysteries, right?"`
+` ......It contains the answer to the locked‐room {ruby:çeviri > numara:trick}......and the truths behind a bunch of mysteries, right?"`
 `"Of course.`
 ` .........However, I haven't written it in a way that will be understandable to those who fail to think or consider..."`
 `"......One of these days, you're going to get stabbed by an obsessive reader of yours who's very upset with you."`
@@ -215,7 +215,7 @@
 `"Amakusa, ......you're really enjoying this, aren't you?`
 ` ......Yeah, come to think of it, you always take those TV quiz shows totally seriously.`
 ` ......It looks like you enjoy life much more than I do."`
-`"So, ......what miraculous trick could get Battler out of the locked room?`
+`"So, ......what miraculous {ruby:çeviri > numara:trick} could get Battler out of the locked room?`
 ` ......Please give it some thought yourself.`
 ` I want to give the rest of the story especially to those—`
 `no, {i:only} to those who have thought..."`
@@ -252,10 +252,10 @@
 `......that my master also fell into the hell of a logic error at some point...?"`
 `"She did.`
 ` Though she wasn't the one responsible for that logic error."`
-`"......Because she wasn't the Game Master...?"`
+`"......Because she wasn't the {ruby:çeviri > Oyun Yöneticisi:Game Master}...?"`
 `"That's right.`
 ` ......At that time, she was still a small piece that wasn't even self‐aware yet.`
-` It was her master, the Game Master, who committed the logic error."`
+` It was her master, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, who committed the logic error."`
 `"......My master was also...`
 `...a witch's piece?"`
 `"Yep.`
@@ -276,7 +276,7 @@
 ` ......I'd rather call it an absurdity than a theorem."`
 `".........Wouldn't that be a horrible hell?`
 ` .........Bern was forced to type randomly on that typewriter for an eternal period of time, without even knowing the meaning of what she was doing.`
-` .........The goal eluded even the Game Master herself,`
+` .........The goal eluded even the {ruby:çeviri > Oyun Yöneticisi:Game Master} herself,`
 ` so she tried to get Bern to create it for her."`
 `......Could Erika even imagine...`
 `...how horrible a hell that had been?`
@@ -491,7 +491,7 @@
 `In short,`
 ` her cruelty was very similar to that of a predator......`
 `"You won't be able to get out of that locked room.`
-` After all, you used all that red truth to show that it was a locked room.`
+` After all, you used all that {ruby:çeviri > kırmızı gerçek:red truth} to show that it was a locked room.`
 ` So stop worrying, and just let yourself be trapped in there forever."`
 `"......While you're spending time in there,`
 ` ......I'll take my time defiling your body.`
@@ -526,7 +526,7 @@
 `......I know what's going on.`
 `They're planning to take advantage of the fact that Battler's heart is sealed away and use marriage to lock up his body as well,`
 ` so that they can steal everything from him...`
-`At this rate, ......Battler will have his position as Game Master...`
+`At this rate, ......Battler will have his position as {ruby:çeviri > Oyun Yöneticisi:Game Master}...`
 `...and his territory lord's ring......stolen away...`
 `"That damn homewrecker, she thinks she can do whatever she wants...!!`
 ` Let's steal him back!`
@@ -551,7 +551,7 @@
 `Though Beato looked as though she was about to burst into tears, ......she clenched her fists tightly.`
 `She was so frustrated with her inability to think up any brilliant plan...that her heart felt as though it would burst...`
 `"......Zepar and Furfur, you two are known as being among the most powerful of demons.`
-` They say your magic can make the impossible possible.`
+` They say your {ruby:çeviri > büyü:magic} can make the impossible possible.`
 ` ......Could you not use your power and knowledge to work out a plan for crushing this impossible locked room...?!"`
 `"Yes, love can accomplish any impossible thing!"`
 `"If you can't accomplish something, it means you lack enough love!"`
@@ -685,9 +685,9 @@
 `Yes, this was a dueling pistol case,`
 ` ......which was only permitted to be opened by those who wished for a fight to the death.`
 `"They have one bullet each.`
-` In accordance with your request, we have imbued the bullets with magic."`
+` In accordance with your request, we have imbued the bullets with {ruby:çeviri > büyü:magic}."`
 `"No matter where on your body they hit you,`
-` these magic bullets will bring certain and painless death."`
+` these {ruby:çeviri > büyü:magic} bullets will bring certain and painless death."`
 `"......Thank you very much.`
 ` You are...most merciful."`
 `"And what if we both miss?"`
@@ -708,7 +708,7 @@
 ` It is our responsibility to see that this duel reaches a decision no matter what!!""`
 `When Zepar and Furfur cried these words out,`
 ` ......the whole area was blanketed in a gold‐colored light, ......and when it cleared,`
-` ......it had become the rose garden where golden roses bloomed......`
+` ......it had become the {ruby:çeviri > gül bahçesi:rose garden} where golden roses bloomed......`
 `"A duel over love, is it......`
 ` How old‐fashioned they are.`
 ` ......I have seen many duels with pistols during my thousand years, ......but I have never seen one like this."`
@@ -717,7 +717,7 @@
 ` ......A duel over love is usually a fight between two people both in love with the same single person.`
 ` However, here we have a pair of lovers fighting another pair of lovers.`
 ` ......This is quite odd."`
-`"I'm sure......that's because they want the miracle of magic.`
+`"I'm sure......that's because they want the miracle of {ruby:çeviri > büyü:magic}.`
 ` ......It seems we cannot succeed in love without that miracle..."`
 `"........................`
 ` ......Do you know the minimum number of people needed to create a universe?"`
@@ -822,21 +822,21 @@
 ` ......However, ......that is why they are capable of granting a miraculous power."`
 `".........At any rate, if we can just free Battler‐kun's heart from that locked room, we should be able to manage something here.`
 ` ......Locked rooms are your favorite, aren't they, Gaap?`
-` Can't you think of any tricks...?!"`
+` Can't you think of any {ruby:çeviri > numaralar:tricks}...?!"`
 `"This is a nasty one.`
-` Battler and Erika have locked it up tight with all kinds of red truths.`
+` Battler and Erika have locked it up tight with all kinds of {ruby:çeviri > kırmızı gerçekler:red truths}.`
 ` ......I can say for certain that a solo escape from the inside is impossible."`
 `"So, after all, the only way is to have someone else trade places with him and set the chain..."`
 `"......If that "someone" does appear, it should be easy to save Battler.`
 ` There are eleven people, right?"`
-`"Those eleven are sealed on the second floor of the guesthouse...`
+`"Those eleven are sealed on the second floor of the {ruby:çeviri > konukevi:guesthouse}...`
 ` If we could somehow slip them out of there...!"`
 `"......I see.`
-` ......Solving the problem of Battler‐sama's locked room is equivalent to solving the problem of either locked room on the guesthouse's second floor."`
+` ......Solving the problem of Battler‐sama's locked room is equivalent to solving the problem of either locked room on the {ruby:çeviri > konukevi:guesthouse}'s second floor."`
 `"Exactly.`
-` Limiting your thoughts to just Battler's guest room is like being trapped in a mental locked room.`
-` ......The locked room we need to break open to save Battler isn't the guest room.`
-` It's the locked rooms in the guesthouse...!"`
+` Limiting your thoughts to just Battler's {ruby:çeviri > misafir odası:guest room} is like being trapped in a mental locked room.`
+` ......The locked room we need to break open to save Battler isn't the {ruby:çeviri > misafir odası:guest room}.`
+` It's the locked rooms in the {ruby:çeviri > konukevi:guesthouse}...!"`
 `".........Most unfortunately,`
 ` we of Eiserne Jungfrau have been placed in charge of those two {f:5:rooms}."`
 `"Tch.`
@@ -900,7 +900,7 @@
 ` Why is it that we can break the locked room by the windows?!"`
 `"It's simple.`
 ` We just tear the duct tape apart and jump out.`
-` ......I don't know what the outside wall of the guesthouse is like,`
+` ......I don't know what the outside wall of the {ruby:çeviri > konukevi:guesthouse} is like,`
 ` but that girl crawled up it and stuck duct tape on the outside without anyone noticing, so it must have at least enough footholds for that."`
 `".........If you break the duct tape, we will immediately know that the seal has been {f:5:broken}.`
 ` And we have already proven that the seals were intact at the time of Battler's logic {f:5:error}."`
@@ -942,7 +942,7 @@
 `"That's correct.`
 ` .........It's probably true that the seals on the doors and windows were perfect at first.`
 ` ......However, at the time of the logic error, only the status of the seals on the doors was confirmed.`
-` In other words, since the time Erika left the guesthouse,`
+` In other words, since the time Erika left the {ruby:çeviri > konukevi:guesthouse},`
 ` it was not forbidden for them to break through the windows and leave whenever they wished!"`
 `".............................."`
 `"Well?`
@@ -971,7 +971,7 @@
 ` That is {f:5:impossible}."`
 `"Impossible?`
 ` Come now, we can't trust what you say with normal words.`
-` ......Use the red truth.`
+` ......Use the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` Swear upon that red longsword of yours."`
 `"......Miss Gaap.`
 ` A sacred ceremony is about to begin {f:5:here}.`
@@ -980,7 +980,7 @@
 ` Let us do this some other {f:5:time}.`
 ` ......If you would excuse {f:5:me}."`
 `"......{p:2:It is possible for Kanon to save Battler.`
-` After Erika sealed the room, he left by the window, switched places with Battler‐kun in the guest room, set the chain lock, and hid in the closet}."`
+` After Erika sealed the room, he left by the window, switched places with Battler‐kun in the {ruby:çeviri > misafir odası:guest room}, set the chain lock, and hid in the closet}."`
 `"......`
 `{p:1:That is {f:5:impossible}.`
 ` The seals on the windows were also {f:5:intact}.`
@@ -1026,7 +1026,7 @@
 ` My apologies, but we'll have to ask you to come with us to a different room."`
 `Dlanor watched, shrugged, and turned away...`
 `"Wait there, Dlanor!!`
-` Respond to my blue truth!!"`
+` Respond to my {ruby:çeviri > mavi gerçek:blue truth}!!"`
 `"If you want the opinion of the Great Court of Heaven, please fill out an application in accordance with court {f:5:procedures}."`
 `"For your attention:`
 ` know that the ticket window is open from 10:00 to 5:00 on weekdays.`
@@ -1036,17 +1036,17 @@
 `"There's a rumor that a certain event I won't name refuses applications for the same thing nyeh."`
 `"Th‐that's an urban legend.`
 ` .........Probably."`
-`"I will provisionally accept that blue truth {f:5:verbally}.`
+`"I will provisionally accept that {ruby:çeviri > mavi gerçek:blue truth} {f:5:verbally}.`
 ` ......It will be put on hold until the proper forms are received, and multiple submissions are not {f:5:allowed}."`
 `"I don't understand!!`
-` Can you respond to my blue truth?! Or can't you?!"`
+` Can you respond to my {ruby:çeviri > mavi gerçek:blue truth}?! Or can't you?!"`
 `"......If you fill out the application on Monday, we should be able to have an answer for you by the end of next {f:5:month}.`
-` Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding {f:5:ceremony}.`
+` Multiple submissions are forbidden, so the {ruby:çeviri > mavi gerçek:blue truth} you just spoke will be unusable during this wedding {f:5:ceremony}.`
 ` ......This is in accordance with the official Great Court Regulations, Article {nobr:214‐15}, "Prohibition of Multiple {f:5:Submissions}"!"`
 `"For your attention: I beg to inform you of the following.`
-` {p:1:Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."`
+` {p:1:Know that it is forbidden for {ruby:çeviri > mavi gerçek:blue truth} to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."`
 `"For your attention: I beg to inform you of the following.`
-` {p:1:Be advised that there can be no obligation to provide an answer to said blue truth}...!"`
+` {p:1:Be advised that there can be no obligation to provide an answer to said {ruby:çeviri > mavi gerçek:blue truth}}...!"`
 `"C‐cowards!!`
 ` Hey, let go of me, rabbit band!!"`
 `The Chiester Sisters led Gaap away...`
@@ -1055,13 +1055,13 @@
 ` There was a chance that the window seals on the next room over had been broken...!`
 `In other words, it might be possible for Hideyoshi, George, Kumasawa, Shannon, or Nanjo to save Battler.`
 `And yet, just now, that option had been sealed away...!`
-`The use of any blue truth based on "the window seals on the next room over might have been broken"...`
+`The use of any {ruby:çeviri > mavi gerçek:blue truth} based on "the window seals on the next room over might have been broken"...`
 `had been prevented...`
 `It was now impossible......to claim that the five who could have saved Battler were the ones who did it...!`
 `"Wh‐what the hell...?!`
 ` That's low! Isn't that the answer?!`
 ` I also noticed that they hadn't proven that the windows' seals were intact.`
-` But if that can't be used for blue truth, what are they supposed to do?!`
+` But if that can't be used for {ruby:çeviri > mavi gerçek:blue truth}, what are they supposed to do?!`
 ` Yeah, I know.`
 ` You're gloating again because you alone have discovered the answer...!"`
 `".........My apologies, child of man.`
@@ -1110,7 +1110,7 @@
 `...means finally...`
 `......killing Beato.`
 `.........Battler......is probably the only one qualified to do that.`
-`If he weaves that tale as the Game Master,`
+`If he weaves that tale as the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
 ` .........no one will be able to stop it now...`
 `Very soon,`
 ` .........the greatest mystery of this tale...`
@@ -1216,13 +1216,13 @@
 `The Witch of Certainty and the Witch of Miracles were both sure that Beato would come.`
 `However, they were very interested in exactly how she would break the locked room and take Battler back...`
 `".........You had a look behind the scenes, so you already know, don't you?`
-` The trick."`
+` The {ruby:çeviri > numara:trick}."`
 `"More or less.`
 ` ......But Erika's done a hell of a job, so now even I'm stumped."`
 `"......Liar."`
 `"Oh...?"`
 `"I'm sure you've found the answer already.`
-` .........There is one, isn't there? A trick that can save Battler."`
+` .........There is one, isn't there? A {ruby:çeviri > numara:trick} that can save Battler."`
 `"...........................`
 ` ......There is.`
 ` ......But it's tough."`
@@ -1236,8 +1236,8 @@
 `".........You're on."`
 `"Oh? You're betting on Erika?`
 ` What makes you think you can win?"`
-`".........If this trick is a part of Beato's heart,`
-` .........then Battler, the Game Master, will hesitate to expose it.`
+`".........If this {ruby:çeviri > numara:trick} is a part of Beato's heart,`
+` .........then Battler, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, will hesitate to expose it.`
 ` And so, they cannot win.`
 ` It will probably be a draw.`
 ` I'm sure they'll confuse matters and run away."`
@@ -1258,8 +1258,8 @@
 ` ......Unless someone comes to save him, he cannot get out."`
 `"Unless that child comes to save him, ......Battler‐kun will be trapped..."`
 `"If there is a key to that locked room,`
-` ......I am certain...Milady will find it......"`
-`.........Milady.`
+` ......I am certain...{ruby:çeviri > Leydim:Milady} will find it......"`
+`.........{ruby:çeviri > Leydim:Milady}.`
 ` ......I am sure you have gone through many trials in your life.`
 `But please, this is one trial that you must overcome...`
 `......I am certain that you can do it.`

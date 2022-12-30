@@ -6,14 +6,14 @@
 `The only thing on Natsuhi's mind was the plan to cover up Kinzo's absence this year as well.`
 `Krauss appeared to have suffered a stomachache from the stress and was resting in his room.`
 `Jessica and Kumasawa had left in a boat to go shopping and greet the incoming relatives on Niijima.`
-`The servants had been busy since the early morning in preparation for the family conference, the greatest event of the year...`
-`Shannon and Kanon were getting the guesthouse ready.`
-`"......Shouldn't the guest rooms in the mansion be more than enough to hold the relatives?"`
+`The {ruby:çeviri > hizmetkarlar:servants} had been busy since the early morning in preparation for the family conference, the greatest event of the year...`
+`Shannon and Kanon were getting the {ruby:çeviri > konukevi:guesthouse} ready.`
+`"......Shouldn't the {ruby:çeviri > misafir odaları:guest rooms} in the {ruby:çeviri > malikane:mansion} be more than enough to hold the relatives?"`
 `"Good point.`
 ` It is a pain to clean up here as well.`
-` ......Even so, I like cleaning the guesthouse."`
-`"Yeah, it's nice and quiet without Madam and all the annoying servants."`
-`Shannon gave a non‐committal smile as she performed a detailed examination of the guest room.`
+` ......Even so, I like cleaning the {ruby:çeviri > konukevi:guesthouse}."`
+`"Yeah, it's nice and quiet without Madam and all the annoying {ruby:çeviri > hizmetkarlar:servants}."`
+`Shannon gave a non‐committal smile as she performed a detailed examination of the {ruby:çeviri > misafir odası:guest room}.`
 `Did we forget to clean anything? Do we need to restock anything?`
 `{n}She diligently gave the room one final check over......`
 `"You checked everything thoroughly last night too, didn't you?`
@@ -44,7 +44,7 @@
 `......wah—"`
 `Kanon was—very obviously—trying to change the subject.`
 `{n}So Shannon snuck up behind him and pushed him down onto the bed.`
-`"Why did you turn down Milady when she asked you to go with her to welcome the relatives?"`
+`"Why did you turn down {ruby:çeviri > Leydim:Milady} when she asked you to go with her to welcome the relatives?"`
 `".........Because I have work to do..."`
 `"Liar.`
 ` ......You don't actually have any work at all."`
@@ -54,17 +54,17 @@
 `However, Kanon had suddenly claimed that he had work to do, so Kumasawa had gone instead.`
 `Kanon...didn't have any work to do.`
 ` Shannon knew this...`
-`"Milady told me.`
+`"{ruby:çeviri > Leydim:Milady} told me.`
 ` ......Despite everything that happened after the cultural festival, her feelings for you haven't changed."`
-`"............Even though I'm...furniture..."`
+`"............Even though I'm...{ruby:çeviri > mobilya:furniture}..."`
 `"That's right.`
-` And I'm furniture too."`
+` And I'm {ruby:çeviri > mobilya:furniture} too."`
 `"......And yet you're in love with a {y:0:Human}{n:0:human}.`
 ` ......Even though that's never going to be possible."`
 `"You think so...?`
 ` ......Maybe thinking that way...`
-`...is what makes us furniture."`
-`"I don't have any special feelings for Milady Jessica.`
+`...is what makes us {ruby:çeviri > mobilya:furniture}."`
+`"I don't have any special feelings for {ruby:çeviri > Leydim:Milady} Jessica.`
 ` ......I only think of her as the daughter of the family we serve."`
 `"Really...?"`
 `"Really."`
@@ -76,21 +76,21 @@
 `"...............!"`
 `Shannon wore an incredibly peaceful smile on her face,`
 ` ......but Kanon could tell that there was no way she'd let him change the subject.`
-`Kanon realized that she must have made him help out here in the guesthouse in order to talk to him about this, and he clicked his tongue softly...`
-`"......You really think you can marry a {y:0:Human}{n:0:human} even though you're furniture?"`
+`Kanon realized that she must have made him help out here in the {ruby:çeviri > konukevi:guesthouse} in order to talk to him about this, and he clicked his tongue softly...`
+`"......You really think you can marry a {y:0:Human}{n:0:human} even though you're {ruby:çeviri > mobilya:furniture}?"`
 `"I think I can."`
 `"That's impossible."`
 `"Why?"`
 `"That dream future that George‐sama has imagined for you two...is something you can never give him."`
 `"W‐......well......"`
 `"......We aren't {y:0:Humans}{n:0:humans}.`
-` We're furniture, inferior to them.`
+` We're {ruby:çeviri > mobilya:furniture}, inferior to them.`
 ` George‐sama only thinks that you're {y:0:Human}{n:0:human}."`
 `"...W‐......well, that is true, but......"`
-`"I'm impressed that you've managed to trick him for this long.`
+`"I'm impressed that you've managed to {ruby:çeviri > numara:trick} him for this long.`
 ` Do you really think you can keep tricking him like that forever?`
-` Even though you still haven't been able to tell him that you're furniture."`
-`"......Being furniture or being {y:0:Human}{n:0:human}...has nothing to do with this.`
+` Even though you still haven't been able to tell him that you're {ruby:çeviri > mobilya:furniture}."`
+`"......Being {ruby:çeviri > mobilya:furniture} or being {y:0:Human}{n:0:human}...has nothing to do with this.`
 ` ......I believe that George‐sama will accept all of me."`
 `"And yet you don't have the courage to check and make sure."`
 `"........................`
@@ -108,10 +108,10 @@
 `"Yep.`
 ` ......I want to live life my own way.`
 ` ......I've decided to stop worrying...`
-`about who's furniture and who's a {y:0:Human}{n:0:human}."`
+`about who's {ruby:çeviri > mobilya:furniture} and who's a {y:0:Human}{n:0:human}."`
 `"........................"`
 `Kanon walked over to the window silently.`
-`......He saw the rose garden filled with boring, gray flowers in bloom...`
+`......He saw the {ruby:çeviri > gül bahçesi:rose garden} filled with boring, gray flowers in bloom...`
 `He understood that Shannon was acting above her place.`
 `And he knew that her tale had no chance of a happy ending.`
 `......However, he also knew that now Shannon had made her decision,`
@@ -123,11 +123,11 @@
 ` ......Why are you talking to me about this?`
 ` It's not like you care what my response is."`
 `"What I want to know...`
-`...is how you feel about Milady."`
+`...is how you feel about {ruby:çeviri > Leydim:Milady}."`
 `"......I have nothing to do with the two of you."`
 `"Do you really...`
 `...feel absolutely nothing...`
-`for Milady?"`
+`for {ruby:çeviri > Leydim:Milady}?"`
 `"......No, I don't, as I keep telling you."`
 `"Liar."`
 `"Why do you think that's a lie?"`
@@ -144,7 +144,7 @@
 ` Otherwise, ......even I...!!"`
 `"Even I?"`
 `"Even I...`
-`.........would have loved to fall for Milady...!!!"`
+`.........would have loved to fall for {ruby:çeviri > Leydim:Milady}...!!!"`
 `Kanon finally turned to face her, honestly and openly telling her his real emotions.`
 `That was what Shannon had wanted to hear.`
 `{n}And having heard it, she closed in even further on Kanon's true feelings.`
@@ -154,37 +154,37 @@
 ` What am I supposed to say?!!"`
 `"Don't try to dodge by saying "I would have loved to fall for her".`
 ` All you need to do is honestly tell me what you really feel."`
-`"Milady is......too dazzling for me!!`
+`"{ruby:çeviri > Leydim:Milady} is......too dazzling for me!!`
 ` The way she lives is blinding like the sun!!`
 ` That's what I love about her...!`
-` I was so happy when Milady stretched out her hand and asked me to walk with her!!`
+` I was so happy when {ruby:çeviri > Leydim:Milady} stretched out her hand and asked me to walk with her!!`
 ` No, I still am happy!!"`
 `"You love her, don't you?"`
 `"Yes, I do!!`
-` I love Milady!!"`
+` I love {ruby:çeviri > Leydim:Milady}!!"`
 `Finally,`
 ` ......Kanon confessed his feelings in their entirety.`
 `In fact, by saying it aloud, he finally understood how he truly felt.`
 `As passionate tears welled up in his eyes,`
 ` ......Kanon finally accepted it...`
 `He couldn't stop the tears from dripping down his face.`
-`"Milady was exactly like me, locked up on Rokkenjima and living without any hope at all...!`
+`"{ruby:çeviri > Leydim:Milady} was exactly like me, locked up on Rokkenjima and living without any hope at all...!`
 ` And yet, she was able to light her own path and create her own fate...!`
 ` She was so dazzling that I envied her!!`
 ` I felt as though, if I could be with her, ......I could find my true self, instead of the pitiful person I am now...!!"`
-`"When you turned down Milady's confession,`
+`"When you turned down {ruby:çeviri > Leydim:Milady}'s confession,`
 ` ......were you sad?"`
 `"I was!!`
 ` I never realized that lying to yourself could be so sad, so painful, so excruciating!!`
-` And I just couldn't forgive myself for hurting Milady with that lie!!`
+` And I just couldn't forgive myself for hurting {ruby:çeviri > Leydim:Milady} with that lie!!`
 ` I believed that I didn't have any right to fall in love ever again!!"`
 `"But you do.`
 ` The right to love...`
 `is something only you can give yourself.`
-` Being furniture or not has nothing to do with it.`
+` Being {ruby:çeviri > mobilya:furniture} or not has nothing to do with it.`
 ` If you tell yourself "no", then it'll never happen.`
 ` You mustn't think that way.`
-` That's why I gave myself, impudent furniture that I am, the right to fall in love.`
+` That's why I gave myself, impudent {ruby:çeviri > mobilya:furniture} that I am, the right to fall in love.`
 ` And you have it too."`
 `"The right to fall in love?"`
 `"Yes.`
@@ -208,7 +208,7 @@
 ` ......You're right.`
 ` ......We won't......see each other again, will we?"`
 `"If...`
-`...if you do love Milady from the bottom of your heart, and if you can honestly say that your feelings are at least as strong as the ones I have for George‐san,`
+`...if you do love {ruby:çeviri > Leydim:Milady} from the bottom of your heart, and if you can honestly say that your feelings are at least as strong as the ones I have for George‐san,`
 ` .........then you and I need to settle this."`
 `"......N‐.........nee‐san......"`
 `"This way is best for both of us.`
@@ -227,7 +227,7 @@
 ` I wouldn't have lasted this long without you.`
 ` ......And that's why I was able to meet George‐san."`
 `"Yeah.`
-` And I wouldn't have realized how dazzling Milady is......if it weren't for you."`
+` And I wouldn't have realized how dazzling {ruby:çeviri > Leydim:Milady} is......if it weren't for you."`
 `"I won't abandon my emotions.`
 ` ......I'll focus only on my feelings and ignore everything else, and I won't look away when I trample over your heart."`
 `"......Me too. I won't use you as an excuse...`
@@ -238,7 +238,7 @@
 `"Yes.`
 ` ......I promise.`
 ` And if I win,`
-` ......I will love Milady......and treasure you."`
+` ......I will love {ruby:çeviri > Leydim:Milady}......and treasure you."`
 `"Thank you.`
 ` But if I win,`
 ` ......I'll forget you and this island and leave this place forever."`
@@ -249,7 +249,7 @@
 `"Yes.`
 ` After all..."`
 `{a:c:`
-`""We are furniture...no more.""}`
+`""We are {ruby:çeviri > mobilya:furniture}...no more.""}`
 `The boat carrying the relatives docked at Rokkenjima's harbor.`
 `They left the boat one by one, making fun of Battler...`
 `Gohda wasn't the only one to greet them. Kanon was there too.`
@@ -291,7 +291,7 @@
 `that people had apparently noticed as soon as he opened his mouth.`
 `No,`
 ` ......maybe the real surprise should have been that his normal expression looked so incredibly sullen in comparison.`
-`Gohda led the way up to the guesthouse.`
+`Gohda led the way up to the {ruby:çeviri > konukevi:guesthouse}.`
 `{n}Kanon brought up the rear, helping to carry some of Kumasawa's shopping.`
 `"......Does my...face really look that bright today?"`
 `"Hoh‐hoh‐ho...`
@@ -300,9 +300,9 @@
 ` *giggle*giggle*."`
 `Even Kumasawa was saying it.`
 `......Kanon, unable to see what his own face looked like, hung his head in embarrassment.`
-`......When they reached the rose garden, they could see the others entering the guesthouse.`
+`......When they reached the {ruby:çeviri > gül bahçesi:rose garden}, they could see the others entering the {ruby:çeviri > konukevi:guesthouse}.`
 `Then, he saw Jessica running towards him from there.`
-`......Is even Milady Jessica going to say that I'm in a good mood today?`
+`......Is even {ruby:çeviri > Leydim:Milady} Jessica going to say that I'm in a good mood today?`
 `Kanon hung his head even deeper.`
 `And so, almost as though he couldn't control himself, Kanon spoke first.`
 `"......Do I really look that different?"`
@@ -312,7 +312,7 @@
 ` You aren't usually the type to come out and say hello of your own accord.`
 ` That's probably why everyone was surprised..."`
 `".....................`
-` ......I apologize for not going with you earlier, Milady."`
+` ......I apologize for not going with you earlier, {ruby:çeviri > Leydim:Milady}."`
 `"Huh?`
 ` Oh, don't worry about that...`
 ` I'm the one who's sorry for asking you to come all the way out to Niijima with me just to meet everyone...`
@@ -341,13 +341,13 @@
 `Jessica was stunned, unable to understand what he was saying.`
 `......However, she did realize that he was trying to tell her something important.`
 `And so, she was able to accept that his next words were neither a lie nor a joke...`
-`"Milady Jessica, I...love you."`
+`"{ruby:çeviri > Leydim:Milady} Jessica, I...love you."`
 `".........I,`
 ` .........I love you too...!"`
 `"You live your life like the sun...and I want to try walking that path alongside you.`
-` I have the feeling that, with you, I'd be able to get away from the part of myself that regarded me with contempt and called me furniture."`
-`"You aren't furniture, Kanon‐kun.`
-` And you weren't born just so you could become a servant!`
+` I have the feeling that, with you, I'd be able to get away from the part of myself that regarded me with contempt and called me {ruby:çeviri > mobilya:furniture}."`
+`"You aren't {ruby:çeviri > mobilya:furniture}, Kanon‐kun.`
+` And you weren't born just so you could become a {ruby:çeviri > hizmetkar:servant}!`
 ` A boy your age should have the right to enjoy life much, much more...!`
 ` Ha...hahahaha.`
 ` I'm the one who's dazzled.`
@@ -359,7 +359,7 @@
 ` Just hearing you say that......makes me happy."`
 `"So,`
 ` ......in order that I can continue to be with you,`
-` ......I plan to stop being furniture.`
+` ......I plan to stop being {ruby:çeviri > mobilya:furniture}.`
 ` I ask that you give me some time to do that.`
 ` ......Please forgive this last bit of weakness."`
 `"Th‐there's nothing weak about you...!`
@@ -371,7 +371,7 @@
 ` Without you, I'd never have become like the sun.`
 ` ......So, I'll wait.`
 ` As long as needed."`
-`"Thank you, Milady."`
+`"Thank you, {ruby:çeviri > Leydim:Milady}."`
 `"......I...don't want to be ‘Milady’ to you anymore."`
 `"May I......call you by your name?"`
 `"Sure.`
@@ -424,8 +424,8 @@
 ` It's nothing.`
 ` Thanks.`
 ` ...Yoshiya...kun."`
-`The red, red flowers of the rose garden seemed to celebrate the two lovers whose feelings had finally connected...`
-`......The scene was watched by one not human, who gazed out quietly from beneath the rose garden arbor...`
+`The red, red flowers of the {ruby:çeviri > gül bahçesi:rose garden} seemed to celebrate the two lovers whose feelings had finally connected...`
+`......The scene was watched by one not human, who gazed out quietly from beneath the {ruby:çeviri > gül bahçesi:rose garden} arbor...`
 `".............................."`
 `Come to think of it, those two had never called each other by their names until now.`
 `Jessica hadn't known Kanon's true name.`
@@ -449,7 +449,7 @@
 `How can I be useful to him?`
 `That's the only reason I was born......`
 `Hanging her head,`
-` {f:5:Beatrice} sat all alone in the Golden Land's arbor that was next to the rose garden...`
+` {f:5:Beatrice} sat all alone in the {ruby:çeviri > Altın Diyar:Golden Land}'s arbor that was next to the {ruby:çeviri > gül bahçesi:rose garden}...`
 `This scene was watched by the Witch of Theatergoing and her miko as they sat across from each other...`
 `".........Poor kid."`
 `"I never thought I'd see you feel compassion for Beato..."`
@@ -503,7 +503,7 @@
 `".........My name is {f:5:Beatrice}...`
 `...isn't it?"`
 `"Yes, that is correct.`
-` You are {f:5:Beatrice}‐sama, Milady."`
+` You are {f:5:Beatrice}‐sama, {ruby:çeviri > Leydim:Milady}."`
 `"However, ......the {f:5:Beatrice} that Father talks about...isn't me."`
 `"......Well........."`
 `"I think Father wanted me to be that person.`
@@ -525,7 +525,7 @@
 `"{p:1:I was born for Father's sake}.`
 ` So, I want to become the Golden Witch {f:5:Beatrice} that Father desires."`
 `"......B‐......{f:5:Beatrice}‐sama......"`
-`"I can't use magic.`
+`"I can't use {ruby:çeviri > büyü:magic}.`
 ` ......But if the witch Father desires could use it, then I will learn.`
 ` I want to become the witch he desires.`
 ` That's the only way I can repay Father for creating me."`
@@ -602,7 +602,7 @@
 `"......In this archive, the fragments showing the tales of all your games up until now are stored as books.`
 ` By reading them, you should be able to learn everything that has happened before now..."`
 `"By reading them, can I become the Golden Witch......?"`
-`"......To become the Golden Witch, one must solve the epitaph of the gold.`
+`"......To become the Golden Witch, one must solve the {ruby:çeviri > kitabe:epitaph} of the gold.`
 ` ......And this trial cannot be skipped, not even by {f:5:Beatrice} herself......"`
 `"I, I'll do my best.`
 ` So please, let me read the books in this archive...!"`

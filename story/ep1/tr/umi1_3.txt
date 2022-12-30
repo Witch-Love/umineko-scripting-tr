@@ -53,7 +53,7 @@
 `"Shannon, come in!`
 ` You remember Battler, don'tcha?!"`
 `Jessica stood up from the bed and opened the door.`
-`There stood a servant girl who was definitely about our age.`
+`There stood a {ruby:çeviri > hizmetkar:servant} girl who was definitely about our age.`
 `"I‐it's been quite some time since we last met, Battler‐sama.`
 ` It's nice to see you after six years... I'm Shannon."`
 `Noting my presence and trembling a little, she bowed deeply.`
@@ -91,7 +91,7 @@
 ` Ten centimeters around a girl's chest is like an Air Defense Identification Range.`
 ` If someone trespasses within two centimeters, that's already an invasion of airspace and you launch a slap to the face on high‐alert!"`
 `"............I, I couldn't do such a thing...!`
-` We are.........that is, furniture, and..."`
+` We are.........that is, {ruby:çeviri > mobilya:furniture}, and..."`
 `Of course she didn't want her breasts touched, but...if a guest so desired, she intended to sacrifice her own needs in an effort to accommodate them.`
 `...A girl like this needs some urgent protection...!`
 `"...I‐in these days, to think that there's a dedicated and virtuous girl like this...`
@@ -105,7 +105,7 @@
 ` Like this, smack!`
 ` Smaaa~ck!!"`
 `"I............I cannot comply with polite requests.`
-` Because I'm furniture.`
+` Because I'm {ruby:çeviri > mobilya:furniture}.`
 ` ......But,`
 ` ............I will comply with it if it's an order.`
 ` ...Because that is my duty."`
@@ -119,8 +119,8 @@
 `So Shannon‐chan declared, while bowing elegantly to me.`
 `Her facial expression was radiant.`
 `{n}I gave her a thumbs‐up to signal "you got it".`
-`"Six years ago, you might've been mistaken for a servant's daughter who just came in to lend a hand sometimes,`
-` ......but now you're a full‐fledged adult servant.`
+`"Six years ago, you might've been mistaken for a {ruby:çeviri > hizmetkar:servant}'s daughter who just came in to lend a hand sometimes,`
+` ......but now you're a full‐fledged adult {ruby:çeviri > hizmetkar:servant}.`
 ` How many years has it been?"`
 `"Well,`
 ` I've had the pleasure of serving this household for about ten years."`
@@ -129,9 +129,9 @@
 `{n}This is another far‐from‐typical name for a Japanese person.`
 `Being a kid back in those days, I had taken in her name without paying it much attention,`
 ` but for her to be called something like that is pretty unusual given that she isn't even a member of the Ushiromiya family.`
-`...Maybe it's like a servant's "professional name" or something.`
+`...Maybe it's like a {ruby:çeviri > hizmetkar:servant}'s "professional name" or something.`
 `...If so, I can kind of understand why that Kanon‐kun's name sounds the way it does, too.`
-`She's a long‐term servant who's served here since she was six.`
+`She's a long‐term {ruby:çeviri > hizmetkar:servant} who's served here since she was six.`
 `Since her body had changed radically, she didn't match my memories, but we used to know each other six years ago.`
 `It looked like she was just as shy as she had been in the past, but I got the sense that she had become imbued with the charm befitting a girl her age.`
 `Especially her breasts, her breasts.`
@@ -158,11 +158,11 @@
 `"Umm, you said the meal was ready, right?"`
 `"Ah, ......yes!`
 ` My apologies!`
-` ...The preparations for your meal have been carried out, so I shall be guiding you all to the mansion."`
+` ...The preparations for your meal have been carried out, so I shall be guiding you all to the {ruby:çeviri > malikane:mansion}."`
 `Shannon bowed again formally and returned to her "duty mode".`
 `We realized that if we made her stick around for any more light conversation,`
 ` it would actually make it harder for her to do her job, so we got up off our butts to avoid interfering with her work any further.`
-`"Shall we go to the mansion, then?`
+`"Shall we go to the {ruby:çeviri > malikane:mansion}, then?`
 ` You're all probably starting to get hungry as well, right?"`
 `"Sure am.`
 ` I always look forward to meals when Gohda‐san's here cooking.`
@@ -177,15 +177,15 @@
 ` You can't just take everything Battler‐kun says seriously, OK?`
 ` Because it's all jokes.`
 ` Come on, let's go."`
-`Under Shannon‐chan's guidance, we headed towards the mansion.`
-`Met once again by the magnificent rose garden, we continued onward as it came into view: .........the imposing mansion of the Ushiromiya main family.`
+`Under Shannon‐chan's guidance, we headed towards the {ruby:çeviri > malikane:mansion}.`
+`Met once again by the magnificent {ruby:çeviri > gül bahçesi:rose garden}, we continued onward as it came into view: .........the imposing {ruby:çeviri > malikane:mansion} of the Ushiromiya main family.`
 `It had apparently been built shortly after the war, so you could feel the dignity of almost a half‐century hanging about it.`
 `On the surface, the building was gorgeous, but being as old as it was, it was seemingly lacking in modern amenities like air conditioning.`
 `According to Jessica, midwinter was especially tough, what with all the drafts.`
 `...Well, it's not like they couldn't just take the {c:86ef9c:kotatsu} out.`
-`As we entered the entrance hall, an aged servant greeted us.`
+`As we entered the entrance hall, an aged {ruby:çeviri > hizmetkar:servant} greeted us.`
 `{n}Now him I remembered.`
-`As the most senior member of the staff, Genji‐san ({p:0:源次}) served as the head of the servants.`
+`As the most senior member of the staff, Genji‐san ({p:0:源次}) served as the head of the {ruby:çeviri > hizmetkarlar:servants}.`
 `"............Battler‐sama, we have not met in a long while."`
 `As our eyes met, he saluted us with a composed voice.`
 `He didn't give quite as refined a bow as Gohda's,`
@@ -200,7 +200,7 @@
 `".........From here on, I shall take Shannon's place and accompany you.`
 ` Please, come this way."`
 `Shannon‐chan bowed deeply and saw us off.`
-`Leaving the entrance hall, we headed to the dining hall under Genji‐san's guidance.`
+`Leaving the entrance hall, we headed to the {ruby:çeviri > yemek salonu:dining hall} under Genji‐san's guidance.`
 `Genji‐san, just like Kumasawa‐san, stood in stark contrast to us young people who had grown beyond recognition over the last six years.`
 `His figure was exactly the same as in my memories of six years ago.`
 `{n}It seemed like time had stopped since the last we met.`
@@ -210,19 +210,19 @@
 `Actually, it seems that he was by Grandfather's side more than my late Grandmother was.`
 `According to Jessica, Grandfather trusts him more than any of his blood relatives.`
 `But I wonder how long he's served.`
-`{n}I've never asked for details, but I think I heard he's been here since the beginning, when this mansion was constructed.`
+`{n}I've never asked for details, but I think I heard he's been here since the beginning, when this {ruby:çeviri > malikane:mansion} was constructed.`
 `...That is to say, he's dedicated half of his life to serving here.`
 ` ...No wonder Grandfather trusts him.`
 `As we cut through the open‐ceilinged hall behind Genji‐san,`
 `......I found something I had no memory of from six years ago.`
-`It was an awfully big portrait hung right in front of the stairs that rose to the second floor.`
+`It was an awfully big {ruby:çeviri > portre:portrait} hung right in front of the stairs that rose to the second floor.`
 `Without thinking, I stopped walking, under its spell...`
 `{n}Since I'd suddenly stopped, Maria, who was following behind me, ran into my back.`
 `"Uu?"`
 `"......Aah, sorry.`
 ` ...Hey, Jessica.`
 ` Did that picture use to be there?"`
-`I pointed at the large and conspicuous portrait hanging in the hall.`
+`I pointed at the large and conspicuous {ruby:çeviri > portre:portrait} hanging in the hall.`
 `{n}Everyone else stopped too.`
 `"...Ahh...right.`
 ` When you last came here, that hadn't been hung yet, had it?`
@@ -233,11 +233,11 @@
 ` In April of the year before last, the Master had this painting put on display, which he had instructed an artist to paint for him some time prior."`
 `"Grandfather did that?`
 ` So, he went out of his way to have it drawn..."`
-`The portrait depicted a woman in an elegant dress, who gave off a sense of refinement, and who seemed to suit the Western style of this mansion.`
+`The {ruby:çeviri > portre:portrait} depicted a woman in an elegant dress, who gave off a sense of refinement, and who seemed to suit the Western style of this {ruby:çeviri > malikane:mansion}.`
 `.........I couldn't have guessed her age, but the sharpness and obvious strength of will in her eyes gave me the impression of youth.`
 `It was a different feeling than the composed mood of middle‐aged women that are often in famous pictures.`
-`If this woman had normal black hair, I might have thought it was a portrait of my long‐deceased grandmother in her prime.`
-`However, the woman in the portrait had beautiful golden hair, and didn't look Japanese at all.`
+`If this woman had normal black hair, I might have thought it was a {ruby:çeviri > portre:portrait} of my long‐deceased grandmother in her prime.`
+`However, the woman in the {ruby:çeviri > portre:portrait} had beautiful golden hair, and didn't look Japanese at all.`
 `"So.`
 ` ......Who is she then, this woman?"`
 `As though trying to show off her knowledge, Maria answered that simple question with authority.`
@@ -253,7 +253,7 @@
 `.........of this island?"`
 `...I think I already said this, but Rokkenjima is a small island that's only about ten kilometers around.`
 `However, considering that only the Ushiromiya family lives here, that's quite large.`
-`So, only a harbor and the site around the mansion were set up to be lived in;`
+`So, only a harbor and the site around the {ruby:çeviri > malikane:mansion} were set up to be lived in;`
 ` beyond that, the island remained as untouched as it was when it was still uninhabited.`
 `To understand just how dangerous a vast and empty forest with no lamplight, phones or people passing through it at all actually is,`
 ` you need to shift your urban assumptions a little.`
@@ -274,7 +274,7 @@
 `Thus, Rokkenjima's ghost story was born.`
 `{n}That is the legend of the witch of Rokkenjima.`
 `So, when we say "witch" on this island, we're referring to the master of the vast and savage forest.`
-`Which reminds me, when I was little and stayed at this mansion, during the eerie nights where the wind and rain struck the windows,`
+`Which reminds me, when I was little and stayed at this {ruby:çeviri > malikane:mansion}, during the eerie nights where the wind and rain struck the windows,`
 ` stories like "the witch of the forest is roaming around in search of a sacrifice" would scare the heck out of me...`
 `{f:5:Beatrice},`
 ` ...huh.`
@@ -288,14 +288,14 @@
 ` ......‘Exists’.`
 ` That's why he says he had that picture painted—so that we'd understand."`
 `".........Hmpf, creeps the hell outta me."`
-`"........................Milady.`
-` ...To the Master, this is an important portrait.`
+`"........................{ruby:çeviri > Leydim:Milady}.`
+` ...To the Master, this is an important {ruby:çeviri > portre:portrait}.`
 ` ......I must request strongly that you not say such a thing in front of him."`
 `".........I know that.`
 ` You couldn't get me to say it even if you begged me."`
-`Jessica turned away, after glaring a second at the portrait.`
+`Jessica turned away, after glaring a second at the {ruby:çeviri > portre:portrait}.`
 `"...Let's go.`
-` We're making everyone wait in the dining hall."`
+` We're making everyone wait in the {ruby:çeviri > yemek salonu:dining hall}."`
 `"Uu!`
 ` Hungry!"`
 `......Only a small portion of this island is controlled by the Ushiromiya family.`
@@ -311,14 +311,14 @@
 ` ......Because this was the witch's island.`
 `"Battlerrr!`
 ` Uu, slooww!"`
-`When I looked around, everyone was already heading towards the dining hall.`
+`When I looked around, everyone was already heading towards the {ruby:çeviri > yemek salonu:dining hall}.`
 `{n}I hurriedly chased after them...`
-`We walked up to the huge double doors that led to the dining hall.`
+`We walked up to the huge double doors that led to the {ruby:çeviri > yemek salonu:dining hall}.`
 `Genji‐san knocked.`
 `"......I have brought the children.`
 ` If you will excuse me..."`
 `The door was opened and we were invited inside.`
-`The dining hall, which screamed "filthy rich", featured a super‐long table which was obviously designed with no other purpose than to make the guests conscious of their rank,`
+`The {ruby:çeviri > yemek salonu:dining hall}, which screamed "filthy rich", featured a super‐long table which was obviously designed with no other purpose than to make the guests conscious of their rank,`
 ` and our parents were already seated at it in accordance with that ordering.`
 `"You're late, brats.`
 ` Hurry up and take your seats."`
@@ -330,10 +330,10 @@
 `The seating order, as you faced the seat of honor, went from left to right in rows of two, with the ranking being lower the further you were from it.`
 `So, on the left‐hand side of the row closest to the seat of honor was the second‐ranked seat, belonging to the eldest of the adult siblings—Uncle Krauss.`
 `.........It looked like he hadn't arrived yet either, so that seat was empty.`
-`And then opposite him, on the right‐hand side of the first row, sat the eldest daughter of the family, Auntie Eva, ranked at number three.`
+`And then opposite him, on the right‐hand side of the first row, sat the eldest daughter of the family, {ruby:çeviri > Hala:Auntie} Eva, ranked at number three.`
 `The left‐hand side of the second row was for number four.`
 `{n}There sat the old bastard, Rudolf, as the third of the siblings.`
-`Opposite him sat number five, the youngest sibling, Auntie Rosa.`
+`Opposite him sat number five, the youngest sibling, {ruby:çeviri > Hala:Auntie} Rosa.`
 `Going like this, you might think that the next ones to come would be their husbands and wives, but...`
 `guess again, because the left‐hand seat in the following third row, meaning rank number six, was actually Jessica's seat.`
 `Opposite her was George‐aniki.`
@@ -343,7 +343,7 @@
 `...Opposite her was Uncle Hideyoshi,`
 ` and next to Aunt Natsuhi, in the sixth and final row on the left‐hand side, was Kyrie‐san.`
 `The seat opposite to Kyrie‐san had been laid out like the others, but was empty.`
-`According to this ranking system, that spot was the seat where Auntie Rosa's husband should be sitting.`
+`According to this ranking system, that spot was the seat where {ruby:çeviri > Hala:Auntie} Rosa's husband should be sitting.`
 `......He hasn't come, as far as I know, yet the table had been laid for his seat.`
 `These kind of ranking orders usually permit the spouse a corresponding status, but the Ushiromiya family had an original kind of ranking.`
 `......Maybe it's a leftover of male chauvinism.`
@@ -382,7 +382,7 @@
 `As a rule, the meal doesn't start until the man at the head of the table has taken his seat.`
 `{n}So, as long as Grandfather—the highest ranked—didn't come, lunch would be indefinitely on hold.`
 ` Not even the appetizers would come.`
-`In other words, this silence in the dining hall was the sound of our parents as they withstood their hunger and waited, on tenterhooks, for Grandfather to come.`
+`In other words, this silence in the {ruby:çeviri > yemek salonu:dining hall} was the sound of our parents as they withstood their hunger and waited, on tenterhooks, for Grandfather to come.`
 `Except—the Grandfather I remembered always showed up at the right time when we ate together like this.`
 `...He wouldn't ever have been so late as to have everyone else waiting on him.`
 `"Grandfather's pretty late.`
@@ -522,7 +522,7 @@
 `And most of the time, they wouldn't even get a real conversation.`
 `However, that didn't pose any particular problem for the family.`
 `That was because they had no reason to go out of their way to interfere with the retirement of the cantankerous and aged head; the fact that he was completely immersed in his odd research and always locked up in his hideaway was something of a benefit.`
-`......They made the most of his refusal to leave the study, entrusting him to the hands of the servants, while they themselves kept their distance.`
+`......They made the most of his refusal to leave the study, entrusting him to the hands of the {ruby:çeviri > hizmetkarlar:servants}, while they themselves kept their distance.`
 `"Genji, my usual.`
 ` I'm busy."`
 `"......Yes."`
@@ -534,10 +534,10 @@
 `Of course, if one were to actually call them old books, Kinzo would fly into a rage and say something like this:`
 `{i:"Call them...}`
 `{i:grimoires!"}`
-`There were candles which had melted in a suspicious‐looking fashion and taken on peculiar forms, and all manner of other strange objects, probably having something to do with black magic.`
+`There were candles which had melted in a suspicious‐looking fashion and taken on peculiar forms, and all manner of other strange objects, probably having something to do with black {ruby:çeviri > büyü:magic}.`
 `The constellations covering the celestial globe would have caused anyone who knew the night sky well to raise an eyebrow.`
 `The illustrations inscribed in old books, haphazardly left open, ranged from the religious and mystical...`
-`to the demonic and grotesque, as well as bizarre diagrams of various magic circles.`
+`to the demonic and grotesque, as well as bizarre diagrams of various {ruby:çeviri > büyü:magic} circles.`
 `And above all, the sweet, poisonous smell that filled the room,`
 ` which to those entering for the first time would surely be a profound assault on their sense of sight, smell, and all their other senses, making them lose their grip on reality...`
 `Inside that study, Genji, with his well trained hand, prepared Kinzo's usual drink.`
@@ -582,7 +582,7 @@
 `Kinzo gave a thin smile, as if to say he didn't need compliments.`
 `".........You have served me exceedingly well these years.`
 ` ......My sons call me eccentric.`
-` The servants that were once many, all of them, retired in their growing fear of me.`
+` The {ruby:çeviri > hizmetkarlar:servants} that were once many, all of them, retired in their growing fear of me.`
 ` ......Only you, even now, serve me."`
 `"...That is more than I deserve."`
 `".........I doubt I have much time left to live.`
@@ -627,21 +627,21 @@
 `"And so,`
 ` ......I have decided.`
 ` .....................I cannot stand spending the insipid remainder of my life procrastinating like this.`
-` If I have any final coins left to gamble, then I choose to abandon them all to the whims of the Demons' Roulette."`
-`"......The power of magic is always determined by the risk staked upon it.`
+` If I have any final coins left to gamble, then I choose to abandon them all to the whims of the {ruby:çeviri > İblislerin Ruleti:Demons' Roulette}."`
+`"......The power of {ruby:çeviri > büyü:magic} is always determined by the risk staked upon it.`
 ` Like visiting a shrine at the Hour of the Ox in ancient Japanese sorcery, to nail a curse doll to a tree.`
-` The magic power dwells in incurring the risk that it will be seen before seven days pass.`
-` The more dangerous the risk, the stronger the magic power will be."`
-`"All the various miracles that appear in myth can be called crystals of astonishing magic power, obtained through miraculously low probabilities and astronomical risks!"`
+` The {ruby:çeviri > büyü:magic} power dwells in incurring the risk that it will be seen before seven days pass.`
+` The more dangerous the risk, the stronger the {ruby:çeviri > büyü:magic} power will be."`
+`"All the various miracles that appear in myth can be called crystals of astonishing {ruby:çeviri > büyü:magic} power, obtained through miraculously low probabilities and astronomical risks!"`
 `"That Moses parted the sea was no miracle of God's—`
-`it was that utterly desperate risk, weighed upon the scales of oppression, of being cornered by soldiers on the Red Sea's shores, which gave birth to miraculous magic power!`
+`it was that utterly desperate risk, weighed upon the scales of oppression, of being cornered by soldiers on the Red Sea's shores, which gave birth to miraculous {ruby:çeviri > büyü:magic} power!`
 ` Even if the same thing occurs again, on the same scope, the sea will no doubt not part."`
 `"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than {c:86EF9C:asougi (10⁵⁶) and nayuta (10⁶⁰)} multiplied together."`
 `"The power to triumph over astronomical odds!!`
-` Yes, magical power is, in other words, having the luck to grasp miracles!!`
-` To obtain great magical power, one must bear a risk that is hopelessly great!!`
-` Those who possess no magic would call this not a bet, but pure desperation!"`
-`"However, those who truly do possess magical power can grasp hold of that miracle and make the enigma come into being!!`
+` Yes, {ruby:çeviri > büyülü:magical} power is, in other words, having the luck to grasp miracles!!`
+` To obtain great {ruby:çeviri > büyülü:magical} power, one must bear a risk that is hopelessly great!!`
+` Those who possess no {ruby:çeviri > büyü:magic} would call this not a bet, but pure desperation!"`
+`"However, those who truly do possess {ruby:çeviri > büyülü:magical} power can grasp hold of that miracle and make the enigma come into being!!`
 ` And if that power exists within me!`
 ` I will seize that miracle, I will be able to make the wish I devoted my life towards come true!!"`
 `Kinzo looked up to the sky outside the window.`
@@ -688,7 +688,7 @@
 ` You can try to ask Father directly.`
 ` ...Although, I think his mood will improve faster if we don't bother him."`
 `"The only one who can bring Grandfather's temper under control is Genji‐san.`
-` Pretty damn pathetic when you have to have a servant to deal with your own parent's bad mood."`
+` Pretty damn pathetic when you have to have a {ruby:çeviri > hizmetkar:servant} to deal with your own parent's bad mood."`
 `"Jessica.`
 ` Don't speak out of turn."`
 `She'd planned for her complaint to be heard only by her cousins, but it had reached even Krauss's ears.`
