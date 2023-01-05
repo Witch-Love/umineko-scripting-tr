@@ -421,7 +421,7 @@
 `"Anyway, you all put your own safety first.`
 ` Lock up the {ruby:çeviri > konukevi:guesthouse}.`
 ` ......But you mustn't get complacent.`
-` The large window in the downstairs lounge might get broken."`
+` The large window in the downstairs {ruby:çeviri > bekleme salonu:lounge} might get broken."`
 `"Stay in the room you're in, and use a bed to make a barricade.`
 ` There's a toilet and fridge in there too, right?`
 ` You should be able to stay holed up until tomorrow morning."`
@@ -453,7 +453,7 @@
 ` Be on your guard."`
 `With that, the phone call ended.`
 `Gohda and the rest of the men quickly descended the stairs, closed the shutters, and secured the strong locks on the doors.`
-`However, just as Krauss had worried, there was nothing that could be done about the beautiful wide window in the downstairs lounge.`
+`However, just as Krauss had worried, there was nothing that could be done about the beautiful wide window in the downstairs {ruby:çeviri > bekleme salonu:lounge}.`
 `If this were to be broken, it would be easy for them to get inside.`
 `It wouldn't be hard for someone like Kinzo, who hadn't hesitated at committing murder, to invade the first floor.`
 `"......It's likely that Grandfather and his followers will be armed.`
@@ -584,7 +584,7 @@
 `......Jessica understood that in order to act promptly when that time came, the only thing they could do for the time being was to wait in this room...`
 `George, Battler, and Gohda returned, having finished checking all of the locks downstairs.`
 `Each of the three was holding a bunch of different objects.`
-`George had things like drinks, canned food, crackers, and other types of snacks that he had found in the lounge and pantry, as well as a first‐aid kit.`
+`George had things like drinks, canned food, crackers, and other types of snacks that he had found in the {ruby:çeviri > bekleme salonu:lounge} and pantry, as well as a first‐aid kit.`
 `All consumables that would be indispensable while they were locked down.`
 `Gohda had a large folding ladder and carpentry tools.`
 `Those were so that, in the case of an emergency, they could nail over the door from the inside to seal it.`

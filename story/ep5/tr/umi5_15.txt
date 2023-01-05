@@ -36,13 +36,13 @@
 `{e:070:Afterwards, she went to the "cousins' room" on the upper floor of the {ruby:çeviri > konukevi:guesthouse},`
 ` waited for Rosa to join the rest, and killed George, Jessica, Maria, and Rosa.}`
 `{e:070:She mutilated the necks of the bodies.}`
-`{e:070:Afterwards, because there were people in the downstairs lounge, she waited in an empty room upstairs.}`
-`{e:070:She hid in this empty room until the people in the lounge dispersed and went to bed.`
+`{e:070:Afterwards, because there were people in the downstairs {ruby:çeviri > bekleme salonu:lounge}, she waited in an empty room upstairs.}`
+`{e:070:She hid in this empty room until the people in the {ruby:çeviri > bekleme salonu:lounge} dispersed and went to bed.`
 `{n}(*Trial Summary, p.41)`
 `{n}(*Supplemental Materials S, p.10)`
 `{n}(*{f:5:Bernkastel} Documents, p.1131)`
 `{n}(*Great Court Internal Documents: Library of Law A09 #9974)}`
-`{e:070:The people in the lounge dispersed just after {nobr:3 a.m.}}`
+`{e:070:The people in the {ruby:çeviri > bekleme salonu:lounge} dispersed just after {nobr:3 a.m.}}`
 `{e:070:Natsuhi left the empty room and escaped from the {ruby:çeviri > konukevi:guesthouse}.}`
 `{e:070:She returned to her room, where she met up with Kinzo, who had been hiding there.`
 `{n}They spent the rest of the night there together.}`

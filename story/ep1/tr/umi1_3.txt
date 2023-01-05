@@ -183,7 +183,7 @@
 `On the surface, the building was gorgeous, but being as old as it was, it was seemingly lacking in modern amenities like air conditioning.`
 `According to Jessica, midwinter was especially tough, what with all the drafts.`
 `...Well, it's not like they couldn't just take the {c:86ef9c:kotatsu} out.`
-`As we entered the entrance hall, an aged {ruby:çeviri > hizmetkar:servant} greeted us.`
+`As we entered the {ruby:çeviri > giriş:entrance hall}, an aged {ruby:çeviri > hizmetkar:servant} greeted us.`
 `{n}Now him I remembered.`
 `As the most senior member of the staff, Genji‐san ({p:0:源次}) served as the head of the {ruby:çeviri > hizmetkarlar:servants}.`
 `"............Battler‐sama, we have not met in a long while."`
@@ -200,7 +200,7 @@
 `".........From here on, I shall take Shannon's place and accompany you.`
 ` Please, come this way."`
 `Shannon‐chan bowed deeply and saw us off.`
-`Leaving the entrance hall, we headed to the {ruby:çeviri > yemek salonu:dining hall} under Genji‐san's guidance.`
+`Leaving the {ruby:çeviri > giriş:entrance hall}, we headed to the {ruby:çeviri > yemek salonu:dining hall} under Genji‐san's guidance.`
 `Genji‐san, just like Kumasawa‐san, stood in stark contrast to us young people who had grown beyond recognition over the last six years.`
 `His figure was exactly the same as in my memories of six years ago.`
 `{n}It seemed like time had stopped since the last we met.`

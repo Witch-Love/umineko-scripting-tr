@@ -138,7 +138,7 @@
 ` Please let me join you after I've had a short rest."`
 `"Uu‐uu‐uu!! Hooray!!"`
 `"..................Who is that?"`
-`As she passed through the lobby of the entrance hall, Erika stopped walking......`
+`As she passed through the lobby of the {ruby:çeviri > giriş:entrance hall}, Erika stopped walking......`
 `{n}When we saw what she was looking at, ......the rest of us also stopped.`
 `"......Oh, that is the Golden Witch, {f:5:Beatrice}‐sama."`
 `"............The Golden...`

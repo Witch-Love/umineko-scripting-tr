@@ -447,7 +447,7 @@
 ` We can move that on even without Rosa.`
 ` Let's return to the matter at hand."`
 `".................."`
-`Rosa dashed from the entrance hall into the {ruby:çeviri > gül bahçesi:rose garden}.`
+`Rosa dashed from the {ruby:çeviri > giriş:entrance hall} into the {ruby:çeviri > gül bahçesi:rose garden}.`
 `When she opened the door, the wind that hit her was too strong to be called a breeze, and told her that the typhoon was approaching faster than she had thought.`
 `Just as Kyrie had said, small droplets of rain were mixed in with the wind.`
 ` There was also the low rumble of thunder.`
@@ -670,8 +670,8 @@
 `......As though she didn't want to waste a second in informing the other cousins of her good fortune at meeting the witch.`
 `Ultimately, Rosa was left alone in the {ruby:çeviri > gül bahçesi:rose garden} as the winds grew stronger,`
 ` ......unable to do anything except pray that what had happened was just a daydream...`
-`When the witch entered the entrance hall, ......Genji was there.`
-`{n}With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...`
+`When the witch entered the {ruby:çeviri > giriş:entrance hall}, ......Genji was there.`
+`{n}With a respectful bow, Genji welcomed the "guest" who approached from the {ruby:çeviri > giriş:entrance hall}...`
 `"We have been awaiting you.`
 ` .........{f:5:Beatrice}‐sama."`
 `"...It's been a while, Genji.`
@@ -706,7 +706,7 @@
 ` This is Kyrie‐sama, Rudolf‐sama's current wife."`
 `From this exchange, Kyrie realized that this woman was a guest of considerably high rank within the Ushiromiya family.`
 `.........And, the fact she was a guest of that level,`
-` ......coupled with the face of the entrance hall {ruby:çeviri > portre:portrait} behind her, ......made Kyrie's eyes open wide in an instant...`
+` ......coupled with the face of the {ruby:çeviri > giriş:entrance hall} {ruby:çeviri > portre:portrait} behind her, ......made Kyrie's eyes open wide in an instant...`
 `"......Pleased to meet you.`
 ` My name is Kyrie.`
 ` I wonder if this is our first meeting.`
@@ -732,7 +732,7 @@
 `Natsuhi spoke of her in her usual way.`
 `{n}...She spoke from the position that the idea of a witch was just foolish, and that in the end, it was nothing more than Kinzo's ramblings.`
 `...However, for some reason, that no longer felt right to Kyrie.`
-`Just now, she herself had seen the Golden Witch come in from the entrance hall and climb up the stairs.`
+`Just now, she herself had seen the Golden Witch come in from the {ruby:çeviri > giriş:entrance hall} and climb up the stairs.`
 `So Natsuhi's choice of words seemed almost like a refusal to accept her existence,`
 ` or as if she was leading her to think that she did not exist...`
 `"...I'm sorry.`

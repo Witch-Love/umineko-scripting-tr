@@ -28,7 +28,7 @@
 `"Yes, we shall.`
 ` Dlanooooooooooor!!"`
 `"{p:1:I will not allow a hidden door to exist in this {f:5:room}.}"`
-`"{p:2:Suppose there existed a method X that could lead someone to the second floor of the {ruby:çeviri > konukevi:guesthouse} without passing through the lounge!}`
+`"{p:2:Suppose there existed a method X that could lead someone to the second floor of the {ruby:çeviri > konukevi:guesthouse} without passing through the {ruby:çeviri > bekleme salonu:lounge}!}`
 `"It's because this is the mystery genre.`
 ` {p:1:Knox's 3rd: It is forbidden for hidden passages to exist.}`
 `"{p:1:It's useless.}`

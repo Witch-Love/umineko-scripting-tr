@@ -113,7 +113,7 @@
 `......Had someone unlocked it, or had the lock not been set, or had it not been possible to set the lock?`
 `"Well, no point thinking about it now.`
 ` After all, that might just be a whim of the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s."`
-`As soon as she entered the entrance hall, the door to the {ruby:çeviri > salon:parlor} opened violently.`
+`As soon as she entered the {ruby:çeviri > giriş:entrance hall}, the door to the {ruby:çeviri > salon:parlor} opened violently.`
 `{n}Out of it flew Gohda's large body.`
 `"Ah, good evening, Gohda‐san.`
 ` Is something the matter?"`
@@ -681,7 +681,7 @@
 `Erika had wanted to get rid of the {ruby:çeviri > hizmetkarlar:servants} for the time being......`
 `"Okay.`
 ` In that case, let's get to checking the locks."`
-`"The problem is the big window in the lounge.`
+`"The problem is the big window in the {ruby:çeviri > bekleme salonu:lounge}.`
 ` It looks like it doesn't even have shutters.`
 ` If they smash this, we won't be able to stop them from comin' in."`
 `"Don't worry, the sound of the glass smashing will be more than enough warning.`

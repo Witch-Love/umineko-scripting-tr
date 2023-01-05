@@ -55,6 +55,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Devil `->` Şeytan
    * Devil's Proof `->` Şeytan'ın İspatı
    * Dining Hall `->` Yemek Salonu
+   * Entrance Hall `->` Giriş
    * Epitaph `->` Kitabe
    * Family Head `->` Aile Reisi
    * Fragment (Kakera olan) `->` Kakera
@@ -68,6 +69,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Guesthouse `->` Konukevi
    * Guest room `->` Misafir odası
    * Incinerator `->` Çöp Fırını
+   * Lounge `->` Bekleme Salonu
    * Magic `->` Büyü
    * Mansion `->` Malikane
    * Milady `->` Leydim

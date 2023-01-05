@@ -232,7 +232,7 @@
 `Now, no one could break into this locked room {ruby:çeviri > konukevi:guesthouse}.`
 `At least, that should have been true......`
 `This time, Doctor Nanjo was the one who was killed.`
-`He was killed in the entrance hall of the {ruby:çeviri > konukevi:guesthouse}.`
+`He was killed in the {ruby:çeviri > giriş:entrance hall} of the {ruby:çeviri > konukevi:guesthouse}.`
 `It was far too foolish of him to come here alone to check that everything was locked.`
 `"{p:42:H‐he's dead...`
 ` He's been killed......}!"`

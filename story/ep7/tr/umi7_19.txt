@@ -2425,7 +2425,7 @@
 `There wasn't anything to be heard anymore......`
 `If there was a sound...`
 `{n}Then that would be only the sound of a murderer's feet stepping across the floor......`
-`Kyrie slowly passed through the lounge.`
+`Kyrie slowly passed through the {ruby:çeviri > bekleme salonu:lounge}.`
 `In her right hand...was a gun.`
 `{n}In her left hand...was a knife.`
 `The knife was stained with blood, and some was still dripping from the tip,`

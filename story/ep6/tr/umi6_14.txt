@@ -83,7 +83,7 @@
 `......When that happens, the ferryboat takes the day off.`
 `{n}So, it would probably be two days before the boat came.`
 `In other words, they were going to have to spend a full two nights holed up in here...`
-`While Erika and the others held their planning meeting in the lounge, food and blankets had been brought in to prepare for the long road ahead.`
+`While Erika and the others held their planning meeting in the {ruby:çeviri > bekleme salonu:lounge}, food and blankets had been brought in to prepare for the long road ahead.`
 `The sudden tragedy had everyone on edge, but it was already well after {nobr:2 a.m}.`
 `If they really suspected the {ruby:çeviri > hizmetkarlar:servants}, then the observers couldn't afford to fall asleep at the same time.`
 `Either Krauss or Rudolf should probably take a nap right away...`
