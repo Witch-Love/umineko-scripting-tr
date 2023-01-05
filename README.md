@@ -61,9 +61,9 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
    * Game Master `->` Oyun Yöneticisi
-   * \*giggle\* ve \*cackle\*
-      * Bir taneyse `->` \*kıkırdar\*
-      * Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*
+   * ~~\*giggle\* ve \*cackle\*~~
+      * ~~Bir taneyse `->` \*kıkırdar\*~~
+      * ~~Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*~~
    * Golden Land `->` Altın Diyar
    * Great Demon `->` Yüce İblis
    * Guesthouse `->` Konukevi
@@ -93,10 +93,10 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Story
       * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
       * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) `<- Burdayız`
-      * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ❌
-      * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ❌
-      * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅
+      * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅
+      * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅
+      * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) `<- Burdayız`
       * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ❌
       * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ❌
       * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ❌
