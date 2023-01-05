@@ -454,12 +454,13 @@ function main($argc, $argv) {
 
 	switch ($argv[1]) {
 		case 'script-check':
+			if ($argc < 3) err(getUsage());
 			$path = dirname(__FILE__, 2);
 			$story_tr = [];
 			$story_en = [];
 			$exit = false;
 			for ($i = 1; $i <= 8; $i++) {
-				$story_tr[$i] = readDirs("$path/story/ep$i/tr");
+				$story_tr[$i] = readDirs("$path/story/ep$i/{$argv[2]}");
 				$story_en[$i] = readDirs("$path/story/ep$i/en");
 			}
 			for ($i = 1; $i <= count($story_tr); $i++) {
@@ -572,24 +573,24 @@ function main($argc, $argv) {
 			if ($argc < 5) err(getUsage());
 			$ver    = '8.2b' . ($argc > 5 ? ' r' . $argv[5] : '');
 			$locale = $argv[4];
-			$gameid = 'UminekoPS3fication'.ucfirst($locale);
+			$gameid = 'UminekoPS3fication'.ucfirst($locale == "mt" ? "tr" : $locale);
 			$scripting = $argv[3];
 
 			$script = file_get_contents($scripting.'/script/umi_hdr.txt').LF;
 			$script = str_replace(CRLF, LF, $script);
 			$script = str_replace('builder_id', $gameid, $script);
 			$script = str_replace('builder_date', time(), $script);
-			$script = str_replace('builder_localisation', $locale, $script);
+			$script = str_replace('builder_localisation', $locale == "mt" ? "tr" : $locale, $script);
 			$script = str_replace('builder_version', $ver, $script);
 			
 			for ($i = 1; $i <= 8; $i++) {
 				$tldir = $scripting.'/story/ep'.$i.'/'.$locale.'/';
 				if (!is_dir($tldir))
 					$tldir = $scripting.'/story/ep'.$i.'/en/';
-				$script .= inplaceLines($scripting.'/game/main/', $scripting.'/story/ep'.$i.'/jp/', $tldir, in_array($locale, REPLACE_GRIM_WITH_LOCALIZE));
+				$script .= inplaceLines($scripting.'/game/main/', $scripting.'/story/ep'.$i.'/jp/', $tldir, in_array(($locale == "mt" ? "tr" : $locale), REPLACE_GRIM_WITH_LOCALIZE));
 			}
 			$script .= inplaceLines($scripting.'/game/omake/', $scripting.'/story/omake/jp/',
-				$scripting.'/story/omake/'.$locale.'/');
+				$scripting.'/story/omake/'.($locale == "mt" ? "tr" : $locale).'/');
 
 			$footer = file_get_contents($scripting.'/script/umi_ftr.txt');
 			if ($locale == 'cn')
@@ -598,7 +599,7 @@ function main($argc, $argv) {
 				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');				
 			$script .= str_replace(CRLF, LF, $footer);
 
-			localiseScript($script, $scripting.'/script/'.$locale.'/');
+			localiseScript($script, $scripting.'/script/'.($locale == "mt" ? "tr" : $locale).'/');
 
 			file_put_contents($argv[2], $script);
 			break;
