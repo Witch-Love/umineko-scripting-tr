@@ -101,8 +101,8 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
       * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅
       * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ✅
       * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ✅
-      * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) `<- Burdayız`
-      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ✅
+      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) `<- Burdayız`
       * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ❌
       * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) ❌
       * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ❌
