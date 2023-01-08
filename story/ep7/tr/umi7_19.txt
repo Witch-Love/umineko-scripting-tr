@@ -68,7 +68,7 @@
 `"What?!`
 ` A‐......Ange‐chan......?!`
 ` But you're supposed to be six years old......"`
-`"............I was six during the year of the final family conference on Rokkenjima.`
+`"............I was six during the year of the final family {ruby:çeviri > konferans:conference} on Rokkenjima.`
 ` ......Now I get it.`
 ` So, you're from the year 1986.`
 ` I'm eighteen.`
@@ -160,10 +160,10 @@
 ` It was Aunt Eva's voice."`
 `"What does she mean by "what happened on that day"?"`
 `"......She's talking about the 4th and 5th of October in the year 1986.`
-` ......The day of the final family conference on Rokkenjima."`
+` ......The day of the final family {ruby:çeviri > konferans:conference} on Rokkenjima."`
 `"In other words, ......today."`
 `Today is October 4th, 1986.`
-`As a prelude to the family conference, Beatrice's funeral was held...`
+`As a prelude to the family {ruby:çeviri > konferans:conference}, Beatrice's funeral was held...`
 `"That's a surprise.`
 ` So, you've come here from October 4th, 1986?`
 ` Tell me.`
@@ -223,7 +223,7 @@
 `October 4th, 1986.`
 `Rokkenjima.`
 ` A world without Lion.`
-`{n}......The day of the Ushiromiya family's family conference.`
+`{n}......The day of the Ushiromiya family's family {ruby:çeviri > konferans:conference}.`
 `The mysterious letter that Maria read aloud after dinner, just as she had been told to.`
 `The writer of the letter claimed to be the Golden Witch {f:5:Beatrice} and challenged the family.`
 `Solve the riddle of the {ruby:çeviri > kitabe:epitaph}.`
@@ -239,7 +239,7 @@
 ` My apologies."`
 `"......Shannon.`
 ` Take the children to the {ruby:çeviri > konukevi:guesthouse}.`
-` We will move straight on to the family conference."`
+` We will move straight on to the family {ruby:çeviri > konferans:conference}."`
 `"Y‐yes.`
 ` As you wish..."`
 `"{f:5:Beatrice}, the Golden Witch......`
@@ -256,7 +256,7 @@
 ` Sounds like things are going to get complicated."`
 `"Come on, Maria...`
 ` Let's go......"`
-`"Beato's ritual has begun......`
+`"Beato's {ruby:çeviri > ritüel:ritual} has begun......`
 ` Kihi{0}hi{0}hi{0}hi{0}hihi......"`
 `"Okay, everyone, ...I shall guide you to the {ruby:çeviri > konukevi:guesthouse}......"`
 `".........What's......all this about......?"`
@@ -266,7 +266,7 @@
 ` You mean, a tale that hasn't appeared in any of the fragments so far?"`
 `"There's no way they'd go to the trouble of chaining us down if they just wanted to show us a game we already know.`
 ` ......We should probably assume it's a new game.`
-` That means there should be a {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` That means there should be a {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` ......Who is it?`
 ` .........That witch?`
 ` {f:5:Bernkastel}......?"`
@@ -822,7 +822,7 @@
 ` ......Her roulette has already made its decision.`
 ` This is the end of her game."`
 `"If it's the end, what happens next?`
-` They all become happy rich people and leave the family conference unharmed?`
+` They all become happy rich people and leave the family {ruby:çeviri > konferans:conference} unharmed?`
 ` My family comes back to me with a souvenir of an ingot that isn't made of chocolate?`
 ` And everything ends happily?`
 ` You think those witches would chain us to chairs to show us a naive dream like that?!"`
@@ -1067,7 +1067,7 @@
 `.........I am one yet many.`
 `I entrusted myself to the {ruby:çeviri > büyülü:magical} roulette of endless possibilities.`
 `{n}The result, the answer, is this.`
-`{n}This is what the tarot cards known as the ritual of the {ruby:çeviri > kitabe:epitaph} have shown me.`
+`{n}This is what the tarot cards known as the {ruby:çeviri > ritüel:ritual} of the {ruby:çeviri > kitabe:epitaph} have shown me.`
 `......{f:5:Beatrice} is now dead.`
 `They did not kill her.`
 `{n}I killed her myself......in accordance with fate's command.`
@@ -1368,7 +1368,7 @@
 ` If we all play dumb, it'll work!"`
 `"It won't......`
 ` There's no way you can fool the police.`
-` If the two of them disappear during a family conference where we were arguing over the inheritance problem,`
+` If the two of them disappear during a family {ruby:çeviri > konferans:conference} where we were arguing over the inheritance problem,`
 ` ......the police won't just put it down as a case of missing persons."`
 `".....................`
 ` .........I, I just thought of something..."`
@@ -1971,7 +1971,7 @@
 `"{f:5:Bernkastel}‐san......`
 ` You showed me how wonderful my world was...`
 ` ......I don't want to believe that you created this tale just to hurt Ange......"`
-`"......By now, even I realize that you're the {ruby:çeviri > Oyun Yöneticisi:Game Master} here.`
+`"......By now, even I realize that you're the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} here.`
 ` ......Please, tell me.`
 ` ...Why are you showing us this game...?"`
 `Of course, no one answered Lion's muttered question.`
@@ -2030,7 +2030,7 @@
 ` ......how could he have guessed that something was wrong...?`
 `After all,`
 ` ......his own uncle...`
-`had told him that his grandfather was calling for him from the family conference.`
+`had told him that his grandfather was calling for him from the family {ruby:çeviri > konferans:conference}.`
 ` ......How could he have gotten suspicious......?`
 `"......Sorry 'bout this, George‐kun.`
 ` It hurts, doesn't it?`
@@ -2404,7 +2404,7 @@
 `".........There is a point.`
 ` If you just watch, you'll see it.`
 ` ......*giggle*giggle*."`
-`"Are you the {ruby:çeviri > Oyun Yöneticisi:Game Master}...?!"`
+`"Are you the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?!"`
 `"......Not at all."`
 `"Then who is it?!`
 ` Could it be.........Clair...?"`
@@ -2414,7 +2414,7 @@
 `"The tragedy is already reaching its climax.`
 ` Who'll survive, I wonder?`
 ` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......"`
-`{f:5:Bernkastel} isn't the {ruby:çeviri > Oyun Yöneticisi:Game Master}...?`
+`{f:5:Bernkastel} isn't the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?`
 `Then who is?`
 `{n}Could Clair have created this cruel tale......?`
 `Or are there even more witches playing around with this cat box......?`
@@ -2627,7 +2627,7 @@
 `"Ange, ...please, calm down...!`
 ` This is just a game...!`
 ` That couldn't possibly be what your mother truly feels...!`
-` It's just something that the {ruby:çeviri > Oyun Yöneticisi:Game Master} made Aunt Kyrie's piece say...!!"`
+` It's just something that the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} made Aunt Kyrie's piece say...!!"`
 `But saying that did nothing to calm Ange's sobs.`
 `I don't blame her.`
 ` Even if she knows it's just a game, ......she's been forced to see not only her mother's death,`
@@ -2635,7 +2635,7 @@
 ` Anyone would sob after hearing that...`
 `"{f:5:Bernkastel}‐san!!`
 ` Enough of this!!`
-` I don't care who the {ruby:çeviri > Oyun Yöneticisi:Game Master} is!!`
+` I don't care who the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} is!!`
 ` Stop this pointless game right now!!"`
 `When Lion yelled this, the theater suddenly went pitch‐black, swallowed in darkness.`
 `However, that wasn't enough to shock Lion.`
@@ -2643,7 +2643,7 @@
 `Then, a single beam of light shone down upon the stage.`
 `There......was Clair, the one who had appeared for just a second right before this cruel game began.`
 `"Clair...!!`
-` So, ......you were the {ruby:çeviri > Oyun Yöneticisi:Game Master} after all?!`
+` So, ......you were the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} after all?!`
 ` ......I don't understand! Why?!"`
 `Clair didn't answer.`
 `......In fact, ......it looked as though she hadn't even heard.`
@@ -2657,9 +2657,9 @@
 `{f:5:Bernkastel} raised her right hand in response to the applause.`
 `{n}She kept doing so until the applause died down......`
 `"{f:5:Bernkastel}‐san!!`
-` So, ......you were the Master of this game after all...!!"`
+` So, ......you were the {ruby:çeviri > Efendi:Master} of this game after all...!!"`
 `"......Lion.`
-` How many times do I have to tell you that I'm not the {ruby:çeviri > Oyun Yöneticisi:Game Master}?"`
+` How many times do I have to tell you that I'm not the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?"`
 `"Then are you saying it's Clair?!`
 ` That's impossible...!!"`
 `"Yep.`
@@ -2698,12 +2698,12 @@
 ` You think......I'll sit around crying any longer because of this disgusting game of yours?!!"`
 `"......Both you and Lion...`
 `seem to have the wrong idea.`
-` I'm not the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` I'm not the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` This tale is not one that I created."`
-`"Then that woman in the dress is the {ruby:çeviri > Oyun Yöneticisi:Game Master}?!"`
+`"Then that woman in the dress is the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?!"`
 `"No, she isn't...!`
 ` That can't be!`
-` Then who's the {ruby:çeviri > Oyun Yöneticisi:Game Master}?!`
+` Then who's the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?!`
 ` Who created this disgusting tale?!!"`
 `"You still don't understand?"`
 `"What don't we understand?!!"`
@@ -2745,10 +2745,10 @@
 `"......You don't............mean......"`
 `Lion realized what {f:5:Bernkastel} was getting at.`
 `And because of that, ......Lion was too shocked to speak......`
-`The {ruby:çeviri > Oyun Yöneticisi:Game Master} isn't {f:5:Bernkastel} or Clair.`
+`The {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} isn't {f:5:Bernkastel} or Clair.`
 `Then who is it......?`
 `That's the wrong question.`
-` There is.........no {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` There is.........no {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 `That could mean only one thing......`
 `"Ange.`
 ` You still don't understand?"`
@@ -2920,13 +2920,13 @@
 ` Why would I be dead here?!!"`
 `"In your world,`
 ` on October 4th, 1986,`
-` Beatrice's funeral was held just before the family conference."`
+` Beatrice's funeral was held just before the family {ruby:çeviri > konferans:conference}."`
 `"Yes, I know that.`
 ` And for me, that happened today, a short while ago!"`
 `"From that time until late that night, do you know what happened...?"`
 `"Nothing at all!!`
 ` The cousins are all going to play together, and the whole family will have dinner together!"`
-`"Then, that night, the family conference took place.`
+`"Then, that night, the family {ruby:çeviri > konferans:conference} took place.`
 ` .........You were going to succeed the headship when you turned twenty, right?`
 ` Was the entire family satisfied with that, I wonder...?"`
 `".........I don't know if they're satisfied, but the decision has been made.`
@@ -2937,13 +2937,13 @@
 ` Of course, his children wouldn't have been happy with that."`
 `The siblings objected to having Lion succeed the headship.`
 `Even Krauss joined in, saying that Lion was still too young.`
-`Then, on the night of the family conference, Kinzo tried proposing a difficult riddle......`
+`Then, on the night of the family {ruby:çeviri > konferans:conference}, Kinzo tried proposing a difficult riddle......`
 `"You.........don't mean..............."`
 `"That's right.`
 ` The riddle of the {ruby:çeviri > kitabe:epitaph}.`
 ` .........As you can tell by the mechanism set into the {ruby:çeviri > kilise:chapel}, Kinzo thought up the {ruby:çeviri > kitabe:epitaph} {ruby:çeviri > numara:trick} near the beginning, when the {ruby:çeviri > malikane:mansion} on Rokkenjima was being built.`
 ` ......He had the romantic idea of someday using it as a test to select the next head."`
-`Kinzo decided to present that riddle at the family conference.`
+`Kinzo decided to present that riddle at the family {ruby:çeviri > konferans:conference}.`
 `Did he plan to give the position of successor to the person who solved it?`
 ` Or did he promise to reconsider Lion's position as the head if it was solved?`
 `Either way, Kinzo was confident.`

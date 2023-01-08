@@ -475,7 +475,7 @@
 ` Think about what it means by yourself, alright?"`
 `"Yeah, yeah!`
 ` I'll think about it myself, so please!`
-` Please, give me one that'll leave Battler down in the dumps, Masterrrr."`
+` Please, give me one that'll leave Battler down in the dumps, {ruby:çeviri > Efendi:Master}rrr."`
 `It was truly shameful how she behaved when Battler wasn't around, even though she acted utterly like a Great Witch in front of him.`
 `{f:5:Virgilia} sighed, lamenting under her breath that Beato never seemed to grow up.`
 `"Then just a hint.`
@@ -510,7 +510,7 @@
 `"...I know that even without you telling me.`
 ` ......I don't have a clue what you mean by the North Wind and the Sun,`
 ` but anyway, I understand that I will have to change my direction.`
-` ......I'll showcase a clever scheme that will surprise even you, Master...!"`
+` ......I'll showcase a clever scheme that will surprise even you, {ruby:çeviri > Efendi:Master}...!"`
 `"Hoh‐hoh‐ho...`
 ` I look forward to it.`
 ` I wonder how Battler‐kun will tackle that.`

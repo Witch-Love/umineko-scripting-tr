@@ -678,8 +678,8 @@
 `"Your greatest sword, this 18th person X, is based on the theory that Kinzo was already dead.`
 ` I knew that you would make that claim.`
 ` That is why I took Kinzo out of his study."`
-`"Everyone at the family conference welcomed that Kinzo, did they not?`
-` {p:1:All of those present at the family conference acknowledged the existence of Kinzo}!"`
+`"Everyone at the family {ruby:çeviri > konferans:conference} welcomed that Kinzo, did they not?`
+` {p:1:All of those present at the family {ruby:çeviri > konferans:conference} acknowledged the existence of Kinzo}!"`
 `"Uh‐huh.`
 ` But Grandfather's supposedly been seriously ill, confined to his bed, hovering on the verge of death for ages, right?`
 ` Even if he was so worn out that he looked like a different person, maybe no one would have paid that any notice, what about that?"`
@@ -737,7 +737,7 @@
 `"{p:2:Ushiromiya Kinzo was already dead}.`
 ` {p:2:And he passed {i:his name} on to someone else}!`
 ` {p:2:Everyone acknowledged it}!!`
-` {p:2:And, therefore, ‘all of those present at the family conference acknowledged the existence of Kinzo’}!!"`
+` {p:2:And, therefore, ‘all of those present at the family {ruby:çeviri > konferans:conference} acknowledged the existence of Kinzo’}!!"`
 `"{p:2:There wasn't even any need for this person to disguise themselves as Grandfather}.`
 ` {p:2:Because everyone recognized a new ‘Kinzo’}!`
 ` {p:2:Therefore, they didn't actually ‘mistake Kinzo by sight’}!!`
@@ -754,7 +754,7 @@
 ` {p:2:Yeah, poor old you—whenever we find your corpse, it's always completely burnt}.`
 ` {p:2:That was a gimmick to prevent discovery of the fact that time had passed since your death}!!"`
 `"{p:2:And you passed your name onto someone else}!!`
-` {p:2:With this theory, even though {i:you} are dead, {i:"Kinzo"} can still appear at the family conference}!!!"`
+` {p:2:With this theory, even though {i:you} are dead, {i:"Kinzo"} can still appear at the family {ruby:çeviri > konferans:conference}}!!!"`
 `"{p:2:How's that? This is checkmaaaaaaaaaaaate}!!"`
 `Several dozen blue stakes bored into Kinzo's ghost.`
 ` Their terrible destructive power would never permit the ghost to recover......!!`
@@ -1249,7 +1249,7 @@
 ` However—`
 `"There's no problem!`
 ` {p:2:There are plenty of people who could have committed the crime besides Gramps}!`
-` {p:2:You could even claim that the adults who were in the middle of a family conference at the time were all in on it and committed the crime together}!"`
+` {p:2:You could even claim that the adults who were in the middle of a family {ruby:çeviri > konferans:conference} at the time were all in on it and committed the crime together}!"`
 `"{p:1:All five master keys were discovered, each in the pocket of one of the {ruby:çeviri > hizmetkarlar:servants}}!`
 ` {p:1:The individual room keys were found inside envelopes alongside the corpses}!"`
 `"{p:1:In short, all keys related to the linked locked rooms were locked {i:inside} the linked locked rooms}!!`

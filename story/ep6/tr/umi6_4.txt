@@ -504,7 +504,7 @@
 ` Right?"`
 `"A‐...allow me to guide you all to the {ruby:çeviri > konukevi:guesthouse}..."`
 `The adults were apparently about to begin a conversation that they didn't want the kids to hear.`
-`{n}......The real family conference was about to start.`
+`{n}......The real family {ruby:çeviri > konferans:conference} was about to start.`
 `As the kids and Erika followed Shannon on their way to the {ruby:çeviri > konukevi:guesthouse}, they passed through the {ruby:çeviri > giriş:entrance hall}...`
 `"Looks like it's pouring down at its hardest right now."`
 `"......Wouldn't it be better to watch TV or something in the {ruby:çeviri > salon:parlor} until it dies down a bit?"`
@@ -525,7 +525,7 @@
 ` I already know that it's Beato's {ruby:çeviri > portre:portrait}.`
 `......Still, we simply walked past it in the last game, which is no fun at all.`
 `Erika whispered to herself, but of course no one heard her.`
-`"......This is the Master's benefactor,`
+`"......This is the {ruby:çeviri > Efendi:Master}'s benefactor,`
 ` {f:5:Beatrice}‐sama."`
 `"I've heard that she gave Grandfather a vast quantity of gold, meaning that she's to thank for the Ushiromiya family's revival."`
 `".........She's just a witch of Grandfather's delusions.`

@@ -31,7 +31,7 @@
 `Because of the fragments provided by {f:5:Bernkastel}, Lion knew.`
 `This was a different world, where the same person lived as the Golden Witch {f:5:Beatrice}.`
 `And, in this world, .........eventually,`
-` ............on the day of the October 1986 family conference,`
+` ............on the day of the October 1986 family {ruby:çeviri > konferans:conference},`
 ` .........this person would be the ringleader of a terrible crime.`
 `"......Even if it is a different world,`
 ` ......you're saying that I get my immediate and extended family and all of the {ruby:çeviri > hizmetkarlar:servants} involved in a terrible crime that I'm the mastermind of!`
@@ -249,8 +249,8 @@
 ` We {ruby:çeviri > hizmetkarlar:servants} have nothing to do with it.`
 ` Instead, we should focus on memorizing the face of the newest member of the Ushiromiya family, Kyrie‐sama."`
 `"Yes, that's true.`
-` She will be coming to the family conference this year......"`
-`If the person new to the Ushiromiya family would be coming to the conference...`
+` She will be coming to the family {ruby:çeviri > konferans:conference} this year......"`
+`If the person new to the Ushiromiya family would be coming to the {ruby:çeviri > konferans:conference}...`
 `......Then what about the person who just left...?`
 `"That means Battler isn't coming, right?"`
 `"That seems the most probable outcome.`
@@ -334,14 +334,14 @@
 `"Just because Battler didn't come today doesn't mean we can be sure he'll never come.`
 ` All this means is that Rudolf came alone today."`
 `"Very true.`
-` Of course he will appear at the next family conference, as energetic as ever!`
+` Of course he will appear at the next family {ruby:çeviri > konferans:conference}, as energetic as ever!`
 ` By then, Rudolf will probably bring that Kyrie here too.`
 ` Battler may be sulky about it, but I am certain that he will come too!"`
 `"......You're right.`
 ` ......Yeah.`
 ` .........I'm sure...you're right."`
 `How nice would it be if they were right...`
-`In fact, if I could, I'd like to flip through the calendar until autumn right now and check to see whether he does come to the next conference.`
+`In fact, if I could, I'd like to flip through the calendar until autumn right now and check to see whether he does come to the next {ruby:çeviri > konferans:conference}.`
 `If he does, then all of my fears are groundless.`
 `It would mean the rumor‐mongering family members and {ruby:çeviri > hizmetkarlar:servants} just blew things out of proportion......`
 `If Battler‐san were right here, I'd like to question him right away...`
@@ -358,7 +358,7 @@
 ` I can't do that...`
 `Will it be next month?`
 ` Or the month after?`
-`{n}......In the worst case, I might have to wait until the next family conference.`
+`{n}......In the worst case, I might have to wait until the next family {ruby:çeviri > konferans:conference}.`
 `And I have to wait that long......while holding back this suffocating feeling......`
 `......I can't bear it.........`
 `"Hey, Shannon.`
@@ -383,7 +383,7 @@
 ` It is not something that will be created automatically upon Battler's visit."`
 `"......Shannon.`
 ` Are you already resolved to spend the rest of your life with him?`
-` You decided to put it off until the next family conference because you didn't have that resolve the last time, right?"`
+` You decided to put it off until the next family {ruby:çeviri > konferans:conference} because you didn't have that resolve the last time, right?"`
 `"What does it mean to live life with Battler?`
 ` Have you ever thought seriously about it in detail?"`
 `"Well, .........uh............"`
@@ -429,7 +429,7 @@
 `I felt an indescribable feeling of refreshment and awakening,`
 ` ......like the gentle breeze that washes over you when you go outside during a brief spot of sunshine on a rainy day.`
 `Certainly, I hadn't yet reached that level of resolve.`
-`I need to create that resolve by the time the next family conference comes around.`
+`I need to create that resolve by the time the next family {ruby:çeviri > konferans:conference} comes around.`
 `If I can't do that, then sticking around as a {ruby:çeviri > hizmetkar:servant} on this island is no more than I deserve.`
 `"And at the same time, this is also a trial."`
 `"True.`
@@ -437,7 +437,7 @@
 `"......A trial...?`
 ` Why is that...?"`
 `"Fool.`
-` Battler promised that he would come for you at the next family conference, did he not?"`
+` Battler promised that he would come for you at the next family {ruby:çeviri > konferans:conference}, did he not?"`
 `"He said he'd come on a white horse, right?"`
 `"Y‐......yes......"`
 `"You are thinking that Battler will not come anymore.`
@@ -476,7 +476,7 @@
 `However, they had made all of those ridiculous theories to cheer me up.`
 `......The witches are right when they say that I must trust Battler‐san...`
 `and that there's no point moping about just because I've heard a few rumors.`
-`By the date of the next family conference, I intend to have a firm resolve to live my life with him.`
+`By the date of the next family {ruby:çeviri > konferans:conference}, I intend to have a firm resolve to live my life with him.`
 `And......I believe that he'll accept my feelings and come for me.`
 `The idea that Battler left the family so that he could be married to me some day...`
 `......is laughable, of course.`
@@ -495,7 +495,7 @@
 ` ......I'll believe in him...and wait.`
 ` ......So, I won't listen to every little rumor."`
 `"Very good.`
-` Wait until the next conference while improving yourself.`
+` Wait until the next {ruby:çeviri > konferans:conference} while improving yourself.`
 ` If you think of it as training to become a wife, all of your everyday chores will grow more meaningful!"`
 `"*giggle*.`
 ` ......Thanks a lot."`
@@ -507,7 +507,7 @@
 ` but I will always be by your side, watching over you......"`
 `"Thank you......`
 ` ......Thank you..."`
-`"......The next family conference will be here in a flash.`
+`"......The next family {ruby:çeviri > konferans:conference} will be here in a flash.`
 ` ......Wait for it at your leisure......`
 ` Battler will certainly keep his promise........."`
 `"Pleased to meet you.`

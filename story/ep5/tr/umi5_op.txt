@@ -8,7 +8,7 @@
 ` Gyahhahhahahaha!!"`
 `"......Sorry, Battleer.`
 ` It was pretty interesting.`
-` ...Still, I was just trying to do what Master told me, but it really did work very well!`
+` ...Still, I was just trying to do what {ruby:çeviri > Efendi:Master} told me, but it really did work very well!`
 ` I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?`
 ` Kyahahahahahaah!!"`
 `That lonely tone was the sound of the desolate wind blowing by.`
@@ -130,7 +130,7 @@
 `Why should I take part in any game without Beato as an opponent...?`
 `{n}If that's the only alternative,`
 ` then stepping through past games on a journey in search of Beato's thought process is a much better use of my time......`
-`"I'll be the next {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`"I'll be the next {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` Any objections?`
 ` You have none, right?"`
 `"......I have tons.`
@@ -146,7 +146,7 @@
 `She was nothing more than a living doll who had given up on victory, asked Battler to perform her last rites,`
 ` and entrusted everything to him...`
 `Of course, no fifth game would ever be prepared if everyone just sat around.`
-`So, {f:5:Lambdadelta} had succeeded Beato as the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
+`So, {f:5:Lambdadelta} had succeeded Beato as the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}},`
 ` and proclaimed that she would prepare the next game.`
 `"Quit messing around.`
 ` This game is between me and Beato.`
@@ -193,7 +193,7 @@
 `"We really don't care whether you get bored or not."`
 `"Come on now.`
 ` Leave everything to <perfect> {f:5:Lambdadelta}‐sama, okay?`
-` I'll take over as the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+` I'll take over as the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `"{f:5:Don't worry}, I won't play with too much "certain perfection".`
 ` I'll {i:act all Beato‐like} and prepare plenty of clues, bonus hints, and fakes that make no sense.`
 ` I'll make it into one big hint to help you understand Beato's world even more, okay?"`

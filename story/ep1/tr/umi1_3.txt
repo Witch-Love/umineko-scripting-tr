@@ -194,7 +194,7 @@
 ` You look well."`
 `"Thank you, I have been quite well...`
 ` ......And you, Battler‐sama, I see have become a splendid young man yourself.`
-` .........I would even say you have grown to somewhat resemble the Master during his youth."`
+` .........I would even say you have grown to somewhat resemble the {ruby:çeviri > Efendi:Master} during his youth."`
 `"I'm looking like Grandfather?`
 ` I guess that means Grandfather was pretty popular when he was young, ihihi!"`
 `".........From here on, I shall take Shannon's place and accompany you.`
@@ -230,7 +230,7 @@
 `"I think,`
 ` ......if my memory doesn't fail me, it was around the year before last."`
 `"............You are correct.`
-` In April of the year before last, the Master had this painting put on display, which he had instructed an artist to paint for him some time prior."`
+` In April of the year before last, the {ruby:çeviri > Efendi:Master} had this painting put on display, which he had instructed an artist to paint for him some time prior."`
 `"Grandfather did that?`
 ` So, he went out of his way to have it drawn..."`
 `The {ruby:çeviri > portre:portrait} depicted a woman in an elegant dress, who gave off a sense of refinement, and who seemed to suit the Western style of this {ruby:çeviri > malikane:mansion}.`
@@ -289,7 +289,7 @@
 ` That's why he says he had that picture painted—so that we'd understand."`
 `".........Hmpf, creeps the hell outta me."`
 `"........................{ruby:çeviri > Leydim:Milady}.`
-` ...To the Master, this is an important {ruby:çeviri > portre:portrait}.`
+` ...To the {ruby:çeviri > Efendi:Master}, this is an important {ruby:çeviri > portre:portrait}.`
 ` ......I must request strongly that you not say such a thing in front of him."`
 `".........I know that.`
 ` You couldn't get me to say it even if you begged me."`
@@ -415,7 +415,7 @@
 ` They crucified that imbecile!!`
 ` Do you wish the same upon yourself?!!"`
 `"......Father.`
-` Today is the day of the family conference—it comes just once a year.`
+` Today is the day of the family {ruby:çeviri > konferans:conference}—it comes just once a year.`
 ` Everyone has gathered downstairs.`
 ` Please come out."`
 `Krauss called out to his father through the door.`

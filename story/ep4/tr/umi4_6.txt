@@ -101,7 +101,7 @@
 `And it was these that prompted the beginning of the "{ruby:çeviri > Cadı'nın Seri Cinayet Efsanesi:Witch Legend Serial Murder Case}",`
 ` and "the mystery of the Golden Witch {f:5:Beatrice}".`
 `"These bizarre diary‐style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,`
-` becoming caught up in a ritual for the resurrection of a witch, and being killed one after another in inexplicable ways."`
+` becoming caught up in a {ruby:çeviri > ritüel:ritual} for the resurrection of a witch, and being killed one after another in inexplicable ways."`
 `"And at the end, the Golden Witch {f:5:Beatrice} revives, and swallows everything up into the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` ......They were written almost as though {i:this} was the complete picture of the events of that day."`
 `"Additionally, the state of things on the island at the time is also depicted in immense detail,`
@@ -472,7 +472,7 @@
 ` Be careful."`
 `"Yeah.`
 ` ...I think I'll wear it."`
-`The {ruby:çeviri > Araf'ın Yedi Kazığı:Seven Stakes of Purgatory}, as {ruby:çeviri > mobilya:furniture} for sacrificial rituals, are treated as beings inferior even to weapons.`
+`The {ruby:çeviri > Araf'ın Yedi Kazığı:Seven Stakes of Purgatory}, as {ruby:çeviri > mobilya:furniture} for sacrificial {ruby:çeviri > ritüel:ritual}s, are treated as beings inferior even to weapons.`
 `But that is only when it comes to demons.`
 `{n}To {y:0:Human}{n:0:human}s, even {ruby:çeviri > mobilya:furniture} is something to be feared.`
 `I fished through the knapsack again,`
@@ -554,7 +554,7 @@
 `".....................`
 ` ......If I am told by Lady {f:5:Maria} that Ange‐sama is my master, I can hardly refuse.`
 ` .........Ange‐sama, I am yours to command.`
-` Given that my assistance is required...is it a new ritual?`
+` Given that my assistance is required...is it a new {ruby:çeviri > ritüel:ritual}?`
 ` New sacrifices...?"`
 `"Of course, that's only if you're willing to handle me yourself and get your own hands dirty."`
 `".........That role isn't one I'm looking for anymore.`

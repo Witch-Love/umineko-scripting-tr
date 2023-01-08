@@ -344,7 +344,7 @@
 ` ......‘Which do you think I look like?’"`
 `".........In the fifth game, you're treated as a man.`
 ` But in countless other games, you're thought of as a woman."`
-`"......In the sixth game, when Ushiromiya Battler was the Master, two demons of different sexes appeared, but we didn't know which was which, referencing this again.`
+`"......In the sixth game, when Ushiromiya Battler was the {ruby:çeviri > Efendi:Master}, two demons of different sexes appeared, but we didn't know which was which, referencing this again.`
 ` ......In fact, strictly speaking, it started all the way back in the very first game.`
 ` .........Your gender is one of the hidden mysteries that exists outside the games themselves."`
 `"Having to say it straight out frustrates me, so I won't give you an answer.`
@@ -425,7 +425,7 @@
 `"...................................."`
 `The two of them nodded to each other once more.`
 `"I found the message you put into your four games.`
-` ......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.`
+` ......And through three games with different {ruby:çeviri > Efendi:Master}s, I pictured the strange sort of fate that must have toyed with your life.`
 ` ......I was left speechless.`
 ` ......In every game, you die without revealing that truth to anyone."`
 `Having you confess in this empty {ruby:çeviri > kilise:chapel} might be pointless.`
@@ -442,7 +442,7 @@
 ` ......He won't make it in time.`
 `"......This is {f:5:Beatrice}'s funeral.`
 ` You will confess,`
-` ......the divine Master will hear,`
+` ......the divine {ruby:çeviri > Efendi:Master} will hear,`
 ` .........and I will forgive you.`
 ` .........That's supposed to be Battler's job, but he didn't make it in time.`
 ` So, you'll have to settle for me."`

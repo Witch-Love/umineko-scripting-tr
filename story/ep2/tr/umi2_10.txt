@@ -1,6 +1,6 @@
 `"{ruby:çeviri > Leydim:Milady}, please, calm yourself...!"`
 `"We still don't know who the {ruby:çeviri > suçlu:culprit} is!`
-` And {f:5:Beatrice}‐sama is an important honored guest to the Master...!"`
+` And {f:5:Beatrice}‐sama is an important honored guest to the {ruby:çeviri > Efendi:Master}...!"`
 `"So what?!!`
 ` If we grab her by the collar, she'll definitely confess!!`
 ` If we can look her in the eye, we'll know!!`
@@ -344,7 +344,7 @@
 `"You idiot!!`
 ` Isn't it obvious?!!"`
 `"{i:It'll be fun to kill her and see the pained look on your face, why else}?!!"`
-`"Following the rules of the ritual, I will arbitrarily select thirteen people as sacrifices.`
+`"Following the rules of the {ruby:çeviri > ritüel:ritual}, I will arbitrarily select thirteen people as sacrifices.`
 ` However, there's no rule saying that I can't kill any more."`
 `"...If I think it's fun, I can kill any number of people!!`
 ` So I will kill!!`

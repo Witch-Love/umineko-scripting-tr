@@ -48,6 +48,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Boiler Room `->` Kazan Dairesi
    * Butler `->` Uşak
    * Chapel `->` Kilise
+   * Conference `->` Konferans
    * Culprit `->` Suçlu
    * Demon `->` İblis
    * Demons' Roulette `->` İblislerin Ruleti
@@ -72,10 +73,12 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Lounge `->` Bekleme Salonu
    * Magic `->` Büyü
    * Mansion `->` Malikane
+   * Master `->` Efendi
    * Milady `->` Leydim
    * Parlor `->` Salon
    * Portrait `->` Portre
    * Red Truth `->` Kırmızı Gerçek
+   * Ritual `->` Ritüel
    * Rose Garden `->` Gül Bahçesi
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı

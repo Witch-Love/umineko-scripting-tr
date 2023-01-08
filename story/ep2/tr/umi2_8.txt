@@ -30,7 +30,7 @@
 ` I thought it was a pretty typical fairy tale for people of that imaginative age."`
 `"Exiiists!!`
 ` {f:5:Beatrice} "exiiists"!`
-` Every year when we come to the family conference, I see her and we play together!"`
+` Every year when we come to the family {ruby:çeviri > konferans:conference}, I see her and we play together!"`
 `"That's right.`
 ` Although {f:5:Beatrice}‐sama doesn't usually show herself,`
 ` I hear that she sometimes unexpectedly appears before honest people with clean hearts, to play pranks.`
@@ -94,7 +94,7 @@
 `"...But that doesn't mean we can deny the possibility that {f:5:Beatrice} exists."`
 `"......Doctor Nanjo, you've been friends with Grandfather for a long time, right?"`
 `".....................`
-` ...There was a period when I was questioned quite a lot on this topic at the family conferences, by Krauss‐san and the others.`
+` ...There was a period when I was questioned quite a lot on this topic at the family {ruby:çeviri > konferans:conference}s, by Krauss‐san and the others.`
 ` ......The topic of whether Kinzo‐san may have had a mistress long ago, and even a hidden child with her."`
 `"I see.`
 ` Our parents' heads are full with the distribution of the inheritance.`
@@ -136,7 +136,7 @@
 ` Ihihihi!"`
 `Normally, that would have been a light joke.`
 `......But it had come when a mystery guest calling herself {f:5:Beatrice}, who no one had invited,`
-` had marched in on the day of the family conference, the day of the inheritance distribution discussion, which even without the witch was threatening to become a bloodbath.`
+` had marched in on the day of the family {ruby:çeviri > konferans:conference}, the day of the inheritance distribution discussion, which even without the witch was threatening to become a bloodbath.`
 `.........There was no way that Battler's joke would be welcomed with laughter.`
 `So it was a really big help when Nanjo laughed energetically to calm everyone down.`
 `"Hahahahaha...`
@@ -275,7 +275,7 @@
 `That was a slightly odd way to say it.`
 `{n}I thought it didn't sound like she meant her memory was vague.`
 `"......For us {ruby:çeviri > hizmetkarlar:servants}, {f:5:Beatrice}‐sama is another master of this {ruby:çeviri > malikane:mansion}.`
-` ......Some speak as if we spread that rumor due to having been influenced by the Master, but..."`
+` ......Some speak as if we spread that rumor due to having been influenced by the {ruby:çeviri > Efendi:Master}, but..."`
 `"......Since the time I started working here, the story of {f:5:Beatrice}‐sama was already whispered about."`
 `"I heard about it before.`
 ` ...How you'll get cursed if you don't respect her, and how there was a {ruby:çeviri > hizmetkar:servant} who actually had an accident this way."`
@@ -457,7 +457,7 @@
 `"Oh yeah.`
 ` By accepting the ring, ......that promise with {f:5:Beatrice}‐sama comes to nothing, doesn't it?`
 ` ......*giggle*, sorry."`
-`"............Now, me, you, George‐sama, the Master, each and every one of us has the same conditions.`
+`"............Now, me, you, George‐sama, the {ruby:çeviri > Efendi:Master}, each and every one of us has the same conditions.`
 ` Thirteen people will be made sacrifices.`
 ` Only five will be invited to the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` ......And you......rejected one of those places,`
@@ -520,7 +520,7 @@
 `There are eighteen pieces! Thirteen will be sacrificed!`
 `Who will the five survivors be?`
 `............Or.`
-`Will someone destroy this ritual?`
+`Will someone destroy this {ruby:çeviri > ritüel:ritual}?`
 `Who?!! How?!`
 `Fuhahahahahahahahahahahahahahahahahaha!!`
 `This isn't a chess problem.`
@@ -536,9 +536,9 @@
 `There's nothing so boring as a game you can't lose, you see.`
 `The way to defeat me.`
 `That is...the {ruby:çeviri > kitabe:epitaph} offered to my {ruby:çeviri > portre:portrait}.`
-`That is both the way to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} and the key to destroying my ritual.`
-`I complete the ritual according to the {ruby:çeviri > kitabe:epitaph}.`
-`You solve the {ruby:çeviri > kitabe:epitaph}'s riddle, destroy the ritual and overthrow me...!`
+`That is both the way to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} and the key to destroying my {ruby:çeviri > ritüel:ritual}.`
+`I complete the {ruby:çeviri > ritüel:ritual} according to the {ruby:çeviri > kitabe:epitaph}.`
+`You solve the {ruby:çeviri > kitabe:epitaph}'s riddle, destroy the {ruby:çeviri > ritüel:ritual} and overthrow me...!`
 `Solve the riddle hidden in the {ruby:çeviri > kitabe:epitaph}, and expose the location of the vast gold I gave to Kinzo!!`
 `What result will this game show us?!`
 `I'm expecting a good fight from you.`

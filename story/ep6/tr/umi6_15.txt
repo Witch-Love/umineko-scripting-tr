@@ -8,7 +8,7 @@
 `Grinning, Erika cut across the {ruby:çeviri > giriş:entrance hall}, passed by the {ruby:çeviri > yemek salonu:dining hall}, and headed deeper and deeper into the {ruby:çeviri > malikane:mansion}.`
 `......She headed for the {ruby:çeviri > misafir odası:guest room} Battler had lain dead in.`
 `Battler could put off deciding whether the seals would remain intact or not until the moment right before Erika witnessed them.`
-`However, once she did witness them, ......the {ruby:çeviri > Oyun Yöneticisi:Game Master} would have to show what had happened to them.`
+`However, once she did witness them, ......the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} would have to show what had happened to them.`
 `In the witch's game they were in now, ......the simple act of going to check the seals around the {ruby:çeviri > misafir odası:guest room} was an attack.`
 `".........Are you ready, Lord {f:5:Battler}?"`
 `"Yeah.`
@@ -130,10 +130,10 @@
 ` ......What is this proposal of yours?"`
 `"An endgame fought over a logic error should be a bit more precise.`
 ` ......Once again, we will fight with the red and {ruby:çeviri > mavi gerçekler:blue truths},`
-` but we need a judge on the same level as the {ruby:çeviri > Oyun Yöneticisi:Game Master} to observe and see that he doesn't create any logic errors with the {ruby:çeviri > kırmızı gerçek:red truth}."`
+` but we need a judge on the same level as the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} to observe and see that he doesn't create any logic errors with the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `"......Th‐that seems reasonable."`
 `"There's nothing special about this.`
-` ......Back when the old you was the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
+` ......Back when the old you was the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}},`
 ` you were under the observation of your guardian, Lady {f:5:Lambdadelta}.`
 ` She judged all your {ruby:çeviri > kırmızı gerçekler:red truths} to be valid."`
 `".........So, you're telling us to show {f:5:Lambdadelta} our cards?"`
@@ -1344,7 +1344,7 @@
 ` But no, I've already decided to use it as a back scratcher.`
 ` When the time comes, I'll scratch your back with it. What do you say?"`
 `"Y‐yeees, my master...`
-` ...Master's going to scratch my back...`
+` ...{ruby:çeviri > Efendi:Master}'s going to scratch my back...`
 `with Battler's handhaha{0}ha{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aha{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
 `"........Finding them annoying?`
 ` Irritating? Obnoxious?`

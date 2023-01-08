@@ -131,7 +131,7 @@
 `Drawn very large on the wall...`
 `......was something like an eerie {ruby:çeviri > büyü:magic} circle.`
 `It was drawn in a bright red paint which looked like blood,`
-` making it look as though some disturbing ritual had taken place in this room,`
+` making it look as though some disturbing {ruby:çeviri > ritüel:ritual} had taken place in this room,`
 ` with the four of them offered as human sacrifices...`
 `However, none of us were paying it any attention.`
 `......No one has a heart so cold that they could witness the deaths of those close to them...`
@@ -266,7 +266,7 @@
 ` I've never known him to sleep in."`
 `"Hoh‐hoh‐ho.`
 ` I guess even Genji‐san sleeps in sometimes."`
-`"That's rather careless of him, considering that this is the middle of the family conference.`
+`"That's rather careless of him, considering that this is the middle of the family {ruby:çeviri > konferans:conference}.`
 ` Kanon‐san.`
 ` Could you wake him up for us?"`
 `"............Yes."`
@@ -824,7 +824,7 @@
 `.........Heheh.`
 `...This girl acts like she's stupid, but she's not bad at all.`
 `She'll never rise to provocation.`
-`Looks like she understands the thing called "the darkness of witches" even better than the true {ruby:çeviri > Oyun Yöneticisi:Game Master}, Beato.`
+`Looks like she understands the thing called "the darkness of witches" even better than the true {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Beato.`
 `And apparently, Gaap has a good understanding of it as well.`
 `......That move of hiding the corpses.`
 `It worked out pretty well for both Lambda and Beato.`

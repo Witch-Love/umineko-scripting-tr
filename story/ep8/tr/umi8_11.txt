@@ -110,9 +110,9 @@
 `"It is.`
 ` After all, this game is between me and you, right?`
 ` I'm the player.`
-` You're the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` You're the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` ......No matter how many pieces get between us, in the end, it's still a direct battle between you and me."`
-`"......Well, it's true that I'm the {ruby:çeviri > Oyun Yöneticisi:Game Master}, but it's not like I'm fighting against you or anything.`
+`"......Well, it's true that I'm the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, but it's not like I'm fighting against you or anything.`
 ` This final game was held so you could be invited to the Rokkenjima of 1986."`
 `"Games are played to decide who wins and who loses.`
 ` It's not called a game unless you have foes and allies.`
@@ -154,7 +154,7 @@
 `"Yes, this is an illusion.`
 ` However, I wanted you to remember this fun atmosphere, ......the harmony within your family.`
 ` .........It's not about what happened on that island that day.`
-` I wanted you to remember the warmth of these family conferences, a warmth you forgot about."`
+` I wanted you to remember the warmth of these family {ruby:çeviri > konferans:conference}s, a warmth you forgot about."`
 `"That's just an illusion you're trying to impose on me!`
 ` I reject that and deny it completely!!"`
 `"The truth of 1986 doesn't exist.`
@@ -176,7 +176,7 @@
 ` Your diary has the truth of that day written in it!`
 ` It's already been proven with the {ruby:çeviri > kırmızı gerçek:red truth}!"`
 `"......A‐absurd.`
-` Who could possibly use the {ruby:çeviri > kırmızı gerçek:red truth} besides Battler, the {ruby:çeviri > Oyun Yöneticisi:Game Master}...?!"`
+` Who could possibly use the {ruby:çeviri > kırmızı gerçek:red truth} besides Battler, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?!"`
 `"..............................`
 ` ......It's Auaurora, isn't it?"`
 `"That's right.`
@@ -948,7 +948,7 @@
 `The horizon was gone, ......and the chewed up island was now floating on an eerie emptiness like space.`
 `The goats that flooded the edges of Rokkenjima seemed to be spilling off the sides.`
 `"Looks like that's it for this game board......"`
-`"As long as there's a {ruby:çeviri > Oyun Yöneticisi:Game Master} and pieces,`
+`"As long as there's a {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} and pieces,`
 ` the game board can always be laid out again.`
 ` As long as you have two people together, you can create any sort of game."`
 `"......True. ........................ Where on Earth is Ange...?"`
@@ -978,15 +978,15 @@
 `This time, I have the key.`
 `I gripped the gold key that sat in my pocket, ......the key Onii‐chan gave me.`
 `As I approached the altar, I saw that the Book of the Single Truth was wrapped in a strange bending of the light.`
-`".........So, this is that seal of the {ruby:çeviri > Oyun Yöneticisi:Game Master} that {f:5:Bernkastel} talked about."`
+`".........So, this is that seal of the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} that {f:5:Bernkastel} talked about."`
 `The Book of the Single Truth was sealed in something like a crystal.`
-`{n}It was a seal made by the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s authority.`
+`{n}It was a seal made by the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}'s authority.`
 `This was on a different level than the breakable {ruby:çeviri > büyü:magic} seal on the {ruby:çeviri > kilise:chapel} door.`
-`No matter how Ange used her power as a Witch of Truth, this couldn't be broken by anyone except the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
-`......However, this time, Battler wasn't the only {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`No matter how Ange used her power as a Witch of Truth, this couldn't be broken by anyone except the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
+`......However, this time, Battler wasn't the only {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 `"Hmph.`
 ` ......So sorry, Onii‐chan.`
-` {f:5:Bernkastel} is also a {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` {f:5:Bernkastel} is also a {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` ......I just need to take it with me and have her break the seal."`
 `Ange slowly approached the altar......`
 `"......Will Ange really do as you say?"`

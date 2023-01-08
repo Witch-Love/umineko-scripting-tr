@@ -442,13 +442,13 @@
 `"...Do you plan to continue these murders according to the witch's {ruby:çeviri > kitabe:epitaph}...?`
 ` Do you actually plan to kill five more people...?"`
 `"Yes.`
-` If I don't finish that annoying ritual, it seems that my power as a witch won't become complete.`
+` If I don't finish that annoying {ruby:çeviri > ritüel:ritual}, it seems that my power as a witch won't become complete.`
 ` ......Hey, "me"..."`
 `"...The power of the witch is really awesome.`
 ` It really can make all of our fantasies become reality.`
 ` The power to make dreams more than just dreams...!"`
 `"Now that I've learned of this power, I can no longer stop being a witch.`
-` If I can complete the ritual and make my power whole, I'm sure I'll be able to teach you that feeling too.`
+` If I can complete the {ruby:çeviri > ritüel:ritual} and make my power whole, I'm sure I'll be able to teach you that feeling too.`
 ` *giggle*giggle*giggle*, *cackle*cackle*cackle*cackle*cackle*!"`
 `"Stop acting like an idiot...!`
 ` Haven't you played witch enough?`
@@ -493,7 +493,7 @@
 ` ......the fever...`
 `is making my mind cloudy......"`
 `"My inexperience with my {ruby:çeviri > büyü:magic} power is making me support it with your vitality.`
-` Until I finish the ritual and become a full witch, you might have to bear the burden.`
+` Until I finish the {ruby:çeviri > ritüel:ritual} and become a full witch, you might have to bear the burden.`
 ` I'll take that in exchange for making two of your dreams come true."`
 `"......It's alright, don't worry, okay?`
 ` For the remaining five sacrifices, I'll avoid your family."`
@@ -534,7 +534,7 @@
 `"......Everything has gone as planned so far, but from here on out, it will become difficult, you see?"`
 `"Difficult, you say...?"`
 `"Mm.`
-` In most cases, as the ritual progresses and the victims increase, they begin to tighten their guard,`
+` In most cases, as the {ruby:çeviri > ritüel:ritual} progresses and the victims increase, they begin to tighten their guard,`
 ` and often, they hole up in one place and stop moving.`
 ` That is extremely inconvenient for us."`
 `"...Are you saying that we witches are inferior to a bunch of {y:0:Human}{n:0:human}s in a group...?"`

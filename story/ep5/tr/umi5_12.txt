@@ -271,7 +271,7 @@
 `"I am not {f:5:sure}.`
 ` In that instant, use of that trump card suddenly became {f:5:forbidden}.`
 ` Once we lost that, your victory was {f:5:guaranteed}."`
-`".........The {ruby:çeviri > Oyun Yöneticisi:Game Master}, Lady {f:5:Lambdadelta}, probably interfered."`
+`".........The {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Lady {f:5:Lambdadelta}, probably interfered."`
 `"That bastard...`
 ` .........So in the end, that whole fight was a farce in the palm of {f:5:Lambdadelta}'s hand.`
 ` She made "us" play out that entire act according to her script."`
@@ -490,18 +490,18 @@
 ` We'll first check the situation in the {ruby:çeviri > yemek salonu:dining hall} last night when the letter was delivered."`
 `"{f:5:Understood}.`
 ` Gertrude, Cornelia.`
-` Reconstruct last night's family conference in the dining {f:5:hall}."`
+` Reconstruct last night's family {ruby:çeviri > konferans:conference} in the dining {f:5:hall}."`
 `""As you wish.""`
-`The family conference last night was conducted with the adult relatives and Battler present.`
+`The family {ruby:çeviri > konferans:conference} last night was conducted with the adult relatives and Battler present.`
 `And partway through, the {ruby:çeviri > hizmetkarlar:servants} arrived to serve tea.`
 `"Let's review everyone's whereabouts at the exact moment the letter appeared.`
 ` How did that go again?"`
 `"For your attention: I beg to inform you of the following.`
-` {p:1:Before the family conference, Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa left the {ruby:çeviri > malikane:mansion} and moved to the {ruby:çeviri > konukevi:guesthouse}}."`
+` {p:1:Before the family {ruby:çeviri > konferans:conference}, Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa left the {ruby:çeviri > malikane:mansion} and moved to the {ruby:çeviri > konukevi:guesthouse}}."`
 `"For your attention: I beg to inform you of the following.`
 ` {p:1:Of those who remain, only Krauss, Natsuhi, and Genji were in the second floor corridor,`
 ` while all others were in the {ruby:çeviri > yemek salonu:dining hall}}."`
-`"Because the {ruby:çeviri > malikane:mansion} had been entirely locked in advance of the family conference,`
+`"Because the {ruby:çeviri > malikane:mansion} had been entirely locked in advance of the family {ruby:çeviri > konferans:conference},`
 ` everyone else was unable to enter the {f:5:mansion}."`
 `"Aha.`
 ` That would mean that no one inside the {ruby:çeviri > malikane:mansion} could have knocked and placed the letter there, right?`
@@ -670,8 +670,8 @@
 ` The point is, some{y:0: Human}{n:0:one} outside the {ruby:çeviri > malikane:mansion} used some kind of {ruby:çeviri > numara:trick} to place the letter there!!`
 ` I know what you're trying to do, use that letter and knock to argue that {f:5:Beatrice} exists! Well, it definitely won't work on Furudo Erika!"`
 `"For your attention: I beg to inform you of the following.`
-` {p:1:It was impossible for anyone outside the {ruby:çeviri > malikane:mansion} to influence anything inside the {ruby:çeviri > malikane:mansion} after the start of the family conference}."`
-`"Then someone outside the {ruby:çeviri > malikane:mansion} set up some kind of gimmick before the family conference.`
+` {p:1:It was impossible for anyone outside the {ruby:çeviri > malikane:mansion} to influence anything inside the {ruby:çeviri > malikane:mansion} after the start of the family {ruby:çeviri > konferans:conference}}."`
+`"Then someone outside the {ruby:çeviri > malikane:mansion} set up some kind of gimmick before the family {ruby:çeviri > konferans:conference}.`
 ` Something other than the ceiling or the serving cart!"`
 `"For your attention: {ruby:çeviri > mavi gerçek:blue truth}, invalid."`
 `"Why...?!!`

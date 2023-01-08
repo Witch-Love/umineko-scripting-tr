@@ -400,7 +400,7 @@
 `Genji and Nanjo were facing each other across a crude chess set which had seen many years.`
 `...It had still only just begun.`
 `And because the opening game of the experienced players had been endlessly refined,`
-` it looked like a ritual where they just moved specified pieces in a specified order.`
+` it looked like a {ruby:çeviri > ritüel:ritual} where they just moved specified pieces in a specified order.`
 `"That's a nice aroma...`
 ` You wouldn't get this from canned food."`
 `"It was made only from sealed ingredients, so there won't be any poison mixed in."`
@@ -626,7 +626,7 @@
 `{n}......No, on the other hand, the fact that he is alive is fortunate...`
 `......But Kanon had spoken clearly.`
 `{n}...He had hatefully said that the one named Rosa had created this wound, and was repeating curses and enraged words.`
-`"...She wants to kill everyone by any means necessary before the typhoon passes, so that she can have the Master's wealth all to herself.`
+`"...She wants to kill everyone by any means necessary before the typhoon passes, so that she can have the {ruby:çeviri > Efendi:Master}'s wealth all to herself.`
 ` She told me that clearly."`
 `".........Damn...!`
 ` What a person...`

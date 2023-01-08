@@ -124,7 +124,7 @@
 ` I mean, the first line did go on about his beloved home of old."`
 `"...Shannon, Grandfather has you pouring drinks and stuff for him a lot, right?`
 ` Haven't you ever been made to listen to stories from his past?"`
-`"......The Master almost never speaks of his past.`
+`"......The {ruby:çeviri > Efendi:Master} almost never speaks of his past.`
 ` ...However, I've heard him speak of the Great Kanto Earthquake that almost destroyed the Ushiromiya family as though it had nothing to do with him,`
 ` so he may have been living far away from the Kanto area."`
 `"The Ushiromiya main family may have been living in Odawara, but the branch families probably weren't limited to that.`
@@ -285,7 +285,7 @@
 ` That's scary..."`
 `"Ah, ...but,`
 ` there's nothing to be afraid of, you know?`
-` {f:5:Beatrice}‐sama is another ruler of this {ruby:çeviri > malikane:mansion} separate from the Master.`
+` {f:5:Beatrice}‐sama is another ruler of this {ruby:çeviri > malikane:mansion} separate from the {ruby:çeviri > Efendi:Master}.`
 ` So, she won't do anything bad, as long as you respect her and don't act oddly afraid."`
 `"However, she's fearsome if you don't respect her, right?"`
 `"...Yes.`
@@ -717,7 +717,7 @@
 `"......So, shall we begin?`
 ` Our banquet of miracles.`
 ` ......In this very moment, this island has been cut off from the world.`
-` Now there are none who can interrupt my ritual."`
+` Now there are none who can interrupt my {ruby:çeviri > ritüel:ritual}."`
 `"There are many fitting sacrifices for you.`
 ` Four of my children.`
 ` Three of their companions.`

@@ -103,7 +103,7 @@
 `"{f:5:Beatrice}.`
 ` I do not have many years ahead of me.`
 ` In fact,`
-` ......this may be the last family conference that we will attend together."`
+` ......this may be the last family {ruby:çeviri > konferans:conference} that we will attend together."`
 `"How fainthearted you sound.`
 ` You must be joking."`
 `Beato alone laughed.`
@@ -242,7 +242,7 @@
 `"She is a moody kid, be it twelve years in the future or twelve years in the past."`
 `"Shut up. I didn't ask you...!`
 ` And what the hell do you think you're doing...?!`
-` Didn't the Golden Witch come here to perform her resurrection ritual?!"`
+` Didn't the Golden Witch come here to perform her resurrection {ruby:çeviri > ritüel:ritual}?!"`
 `"Didn't you appear on the island with a crash of thunder and try to offer up thirteen people as sacrifices?!`
 ` Why are you acting so happy and casual?!`
 ` It doesn't make sense!"`
@@ -332,7 +332,7 @@
 `Battler walked through the windy {ruby:çeviri > gül bahçesi:rose garden}, pulling her by the hand.`
 `When he questioned their guide, Genji, ......he learned that the old {ruby:çeviri > hizmetkar:servant} had known beforehand of Kinzo's desire to return the gold to Beato...`
 `and settle the inheritance problem early.`
-`"......The Master decided to start preparations early for his final task in this world, the ending of his life."`
+`"......The {ruby:çeviri > Efendi:Master} decided to start preparations early for his final task in this world, the ending of his life."`
 `"Most people don't think much about what happens after they die...`
 ` ......Haah.`
 ` Guess Grandfather's just on a whole different scale."`
@@ -348,7 +348,7 @@
 `Apparently, this was what he had planned.`
 `"Is this still being kept secret from Dad and the others?"`
 `"Technically, it is a secret.`
-` ......However, the Master did not suddenly begin thinking in this way today.`
+` ......However, the {ruby:çeviri > Efendi:Master} did not suddenly begin thinking in this way today.`
 ` He has often considered this day for many years, and has even discussed certain matters with his children.`
 ` I doubt that any will be surprised to hear this night's announcement."`
 `"Well, as for my old bastard,`
@@ -356,14 +356,14 @@
 ` I guess he'll be dancing with joy when he hears that he's gonna get to unwrap Grandfather's inheritance present early."`
 `"I rather think that Rudolf‐sama will be galvanized by a sense of great responsibility.`
 ` ......He has succeeded splendidly since he left the island.`
-` However, his success so far has been supported by the Master's wealth."`
+` However, his success so far has been supported by the {ruby:çeviri > Efendi:Master}'s wealth."`
 `"......And now that he's suddenly getting his inheritance money, he'll have to keep going by his own strength alone in the future.`
 ` .........Heheh, in fact, it might actually put pressure on him."`
 `"The siblings must have suffered for decades because of their father's excess of success and ability.`
 ` ......Simply having a parent who is too successful can be a great burden to a child."`
 `"And tonight,`
 ` ......they'll be leaving the nest, truly becoming adults for the first time."`
-`"It seems the Master plans to call this night a ceremony to return the gold.`
+`"It seems the {ruby:çeviri > Efendi:Master} plans to call this night a ceremony to return the gold.`
 ` ......However, he first intended to call it a living funeral."`
 `"Sounds pretty depressing, having a funeral while you're still alive.`
 ` I'll admit that calling it a day of a new journey and leaving the nest fits the Ushiromiya family much better."`

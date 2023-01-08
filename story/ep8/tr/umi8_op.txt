@@ -64,7 +64,7 @@
 ` .........I want to go......to where everyone is......"`
 `"That's why......I've decided to invite you there."`
 `".........Huh...?"`
-`"I'm the {ruby:çeviri > Oyun Yöneticisi:Game Master} now.`
+`"I'm the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} now.`
 ` Only those who know everything about the game board can open it up and invite pieces in.`
 ` ......So, I'll invite you to come to the game board."`
 `"You'll......take me to Rokkenjima......on that day......"`
@@ -85,7 +85,7 @@
 `"Ange, listen to me carefully."`
 `But Battler spoke in an admonishing tone.`
 `{n}As though warning me that this dream would not be granted...`
-`"The Rokkenjima family conference only lasts one night.`
+`"The Rokkenjima family {ruby:çeviri > konferans:conference} only lasts one night.`
 ` Although, the typhoon stopped the boat from coming that day, so it went on for one night more."`
 `"So, when the typhoon passes, ......I'll have to leave the island again...?"`
 `"......Not exactly.`

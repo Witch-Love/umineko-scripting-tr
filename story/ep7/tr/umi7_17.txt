@@ -24,8 +24,8 @@
 `This {ruby:çeviri > kilise:chapel} was built long ago.`
 `If there is a mechanism like the one I imagine,`
 ` ......Kinzo must have prepared that {ruby:çeviri > kitabe:epitaph} riddle many decades ago.`
-`He must have been planning to use it as a ritual for choosing a fitting successor all this time.`
-`......However, that ritual is now a ritual to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} and to my resurrection.`
+`He must have been planning to use it as a {ruby:çeviri > ritüel:ritual} for choosing a fitting successor all this time.`
+`......However, that {ruby:çeviri > ritüel:ritual} is now a {ruby:çeviri > ritüel:ritual} to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} and to my resurrection.`
 `When I snapped my fingers,`
 ` the ground bulged, and several dead trees sprouted out of it, curving and twisting like snakes.`
 `They twisted around each other to form a ladder, which leaned itself against the door.`
@@ -37,7 +37,7 @@
 ` ......this relief was the only thing that Genji always made sure he polished himself.`
 ` ......I always wondered why he didn't leave something so trivial to the younger {ruby:çeviri > hizmetkarlar:servants}."`
 `I thought it strange, but nothing more.`
-`The Master treasured this relief, so the head {ruby:çeviri > hizmetkar:servant} cared for it himself.`
+`The {ruby:çeviri > Efendi:Master} treasured this relief, so the head {ruby:çeviri > hizmetkar:servant} cared for it himself.`
 ` ......I always accepted that excuse.`
 `But now, I understand.`
 `{n}There must be a {ruby:çeviri > numara:trick} to this relief.`
@@ -246,7 +246,7 @@
 `Then, he slowly clapped his hands together.`
 ` ......He did it again, over and over.`
 `It took quite a long time before I realized that he was applauding me...`
-`"The Master has said that he will hand over the gold and the headship to the first person who solves the {ruby:çeviri > kitabe:epitaph}.`
+`"The {ruby:çeviri > Efendi:Master} has said that he will hand over the gold and the headship to the first person who solves the {ruby:çeviri > kitabe:epitaph}.`
 ` ......And, he believed that this person would be {f:5:Beatrice}..."`
 `"......{f:5:Beatrice}......`
 ` .........Me......?"`
@@ -279,12 +279,12 @@
 `And now, ......I have become the real {f:5:Beatrice}......`
 `By solving the {ruby:çeviri > kitabe:epitaph}'s riddle, I would achieve my resurrection.`
 `{n}......I was the one who decided on that rule, or so I thought...`
-`But as it turns out, ......this really {i:was}.........a ritual to resurrect {f:5:Beatrice}...`
+`But as it turns out, ......this really {i:was}.........a {ruby:çeviri > ritüel:ritual} to resurrect {f:5:Beatrice}...`
 `I believed that I could create my own fate with {ruby:çeviri > büyü:magic}.`
 `{n}I was a master of that {ruby:çeviri > büyü:magic}, ......yet fate had led me here by the hand...`
 `At this moment, I was forced to truly accept and believe in this word called "fate"...`
 `"And after I put this on.........?"`
-`"......You will go to the Master.`
+`"......You will go to the {ruby:çeviri > Efendi:Master}.`
 ` Ready yourself."`
 `".........Wait here."`
 `"......O‐...okay."`
@@ -380,11 +380,11 @@
 `Who......are they saying I look like......?`
 `"......{f:5:Beatrice}‐sama,`
 ` please forgive me for keeping what I am about to tell you a secret for all this time.`
-` You are the child of {f:5:Beatrice}‐sama and the Master."`
+` You are the child of {f:5:Beatrice}‐sama and the {ruby:çeviri > Efendi:Master}."`
 `"........................What......?"`
 `"It's true.`
 ` ......You have been raised as a child without parents.`
-` However, your true father is the Master.`
+` However, your true father is the {ruby:çeviri > Efendi:Master}.`
 ` And your true mother......is {f:5:Beatrice}‐sama."`
 `"......Is that, ......umm, ......really............?"`
 `"Yes.`
@@ -394,7 +394,7 @@
 ` Dreamed about what it'd be like to be the Golden Witch, {f:5:Beatrice}.`
 `But that dream was for me alone.`
 `So, I'd dreamed that if I solved the {ruby:çeviri > kitabe:epitaph},`
-` ......and carried out its ritual, I would revive as the true {f:5:Beatrice}.`
+` ......and carried out its {ruby:çeviri > ritüel:ritual}, I would revive as the true {f:5:Beatrice}.`
 `......Is it really conceivable...`
 `...that after I solved it...`
 `...{f:5:Beatrice} actually did revive......?`
@@ -497,7 +497,7 @@
 `After checking Kinzo's pulse, Nanjo shook his head and stood back up.`
 `"............It was a peaceful death.`
 ` ......I don't think he had any regrets at all."`
-`"It may be......that the Master died long before now.`
+`"It may be......that the {ruby:çeviri > Efendi:Master} died long before now.`
 ` ......It was only his {ruby:çeviri > büyü:magic} and tenacity that kept him here so long.`
 ` ......And.........once he finally had a chance to apologize to {f:5:Beatrice}‐sama for everything, .........he finished everything he had to do..."`
 `".........Please, ......rest in peace.`
@@ -536,9 +536,9 @@
 ` ......One is the {ruby:çeviri > malikane:mansion} we know well.`
 ` The other is a hidden {ruby:çeviri > malikane:mansion} known as Kuwadorian."`
 `"Below this island are the remains of a military base built during the war.`
-` The Master used that to travel between the two ends of the island..."`
+` The {ruby:çeviri > Efendi:Master} used that to travel between the two ends of the island..."`
 `"There is an underground path in the back of this room, and if you follow it, you will reach the basement of Kuwadorian on the other end of this island.`
-` ......That is a secret {ruby:çeviri > malikane:mansion}, which only the Master knew of.`
+` ......That is a secret {ruby:çeviri > malikane:mansion}, which only the {ruby:çeviri > Efendi:Master} knew of.`
 ` Of course, that {ruby:çeviri > malikane:mansion}, like everything else, now belongs to the new head."`
 `"......It's the {ruby:çeviri > malikane:mansion} your mother lived in.`
 ` It's probably worth taking a trip over there sometime."`
@@ -571,7 +571,7 @@
 ` And isn't Krauss‐sama the successor......?"`
 `"The one who solves the {ruby:çeviri > kitabe:epitaph}'s riddle is the successor.`
 ` .........There exists a will specifying this.`
-` .........The Master's final order was that you were to inherit everything."`
+` .........The {ruby:çeviri > Efendi:Master}'s final order was that you were to inherit everything."`
 `"P‐please wait...!`
 ` I appreciate the sentiment, ......but I can't do the job of being the successor,`
 ` ......and I can't accept such a big responsibility.`
@@ -597,7 +597,7 @@
 `"Is that your order, as the Ushiromiya family head?"`
 `".........Yes."`
 `".....................`
-` ......As you wish, Master.`
+` ......As you wish, {ruby:çeviri > Efendi:Master}.`
 ` Then I will make it so."`
 `"And please, don't tell anyone about what happened tonight.`
 ` .........I want to stay me.`
@@ -607,7 +607,7 @@
 ` I want everything to be exactly the same as it was.`
 ` .........That's my only wish."`
 `"...........................`
-` As you wish, Master.`
+` As you wish, {ruby:çeviri > Efendi:Master}.`
 ` ......Everything that has happened tonight will not go beyond those present here.`
 ` ......Kumasawa.`
 ` Doctor Nanjo.`

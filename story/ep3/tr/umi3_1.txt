@@ -30,11 +30,11 @@
 ` ...But, that's different from the Eva who's with me."`
 `"..................`
 ` Well, I can understand why she's grumpy.`
-` ...This family conference is going to be a pain."`
+` ...This family {ruby:çeviri > konferans:conference} is going to be a pain."`
 `"......Sure is.`
 ` ...That plan to threaten money out of Krauss nii‐san.`
-` It's a family conference only in name, really it's just a fight between siblings."`
-`With the family conference ahead of them, the three siblings excluding Krauss had made a secret contract.`
+` It's a family {ruby:çeviri > konferans:conference} only in name, really it's just a fight between siblings."`
+`With the family {ruby:çeviri > konferans:conference} ahead of them, the three siblings excluding Krauss had made a secret contract.`
 `Each of them had a pressing situation to deal with, and urgently needed a lot of money.`
 `And the only one who could help them was Krauss, who spoke for the Ushiromiya head, since Kinzo was shut up in his study.`
 `They had long felt that Krauss had started taking advantage of Kinzo's loss of interest in his own wealth,`
@@ -265,7 +265,7 @@
 `...However, I fearlessly tried to approach Father's back.`
 `Genji blocked me...`
 `"......Eva‐sama, it would probably be better if you stepped outside for now.`
-` The Master is not in a good mood today."`
+` The {ruby:çeviri > Efendi:Master} is not in a good mood today."`
 `"B‐but......"`
 `"*cough*cough*!!"`
 `"Why are my children so incompetent?!`
@@ -496,7 +496,7 @@
 `"That's it.`
 ` ...Let's tense up our assholes and do this thing."`
 `Rudolf said these strict words in a small voice that only Eva could hear.`
-`Failure would not be tolerated in this year's family conference.`
+`Failure would not be tolerated in this year's family {ruby:çeviri > konferans:conference}.`
 `{n}......All of their companies were hanging in the balance.`
 `Even Rudolf's face looked a little tense.`
 `{n}Eva's expression probably looked tense as well.`
@@ -571,7 +571,7 @@
 `"..................`
 `Yes."`
 `Hideyoshi knew that it wasn't rare for Eva to be tormented by nightmares.`
-`And they would always become more striking on the days leading up to the family conference...`
+`And they would always become more striking on the days leading up to the family {ruby:çeviri > konferans:conference}...`
 `Hideyoshi knew that Eva's relationship with Krauss was still so full of antagonism that it could even be called trauma,`
 ` and that she still couldn't separate herself from how she'd felt as a child.`
 `"That was a dream.`

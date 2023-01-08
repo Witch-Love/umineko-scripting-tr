@@ -188,16 +188,16 @@
 ` There is one place that cannot be entered even with the {ruby:çeviri > hizmetkarlar:servants}' keys."`
 `"Where is that?"`
 `"......Very well.`
-` It is the Master's study."`
+` It is the {ruby:çeviri > Efendi:Master}'s study."`
 `"I, ...I'm against this!!`
 ` I don't even wanna think about going in Grandfather's creepy room!"`
 `"How many keys can gain access to that room?"`
 `"......There are two.`
 ` I always have one of them.`
-` The other was held by the Master himself, but just now, from the body in the {ruby:çeviri > kazan dairesi:boiler room}..."`
+` The other was held by the {ruby:çeviri > Efendi:Master} himself, but just now, from the body in the {ruby:çeviri > kazan dairesi:boiler room}..."`
 `Genji‐san took a handkerchief out of his pocket and opened it, showing us the burnt and filthy key to the study.`
 `Then, he showed it alongside his own key, which he had once lent to Aunt Natsuhi.`
-`"...Normally, I should have left the Master's key for the police,`
+`"...Normally, I should have left the {ruby:çeviri > Efendi:Master}'s key for the police,`
 ` ......but he had ordered me to always protect the safety of the study, so I borrowed it for the time being."`
 `".........I see...`
 ` Which means that Kinzo's study is the only safe location right now..."`
@@ -506,7 +506,7 @@
 `"That seems reasonable.`
 ` ......With this letter, we now know that the author of last night's letter is the {ruby:çeviri > suçlu:culprit}.`
 ` ......I think the identical envelope is more significant than what is written here."`
-`"...............Without a doubt, this is the type of envelope and sealing wax that the Master used."`
+`"...............Without a doubt, this is the type of envelope and sealing wax that the {ruby:çeviri > Efendi:Master} used."`
 `"...Ooooohh...`
 ` I don't know what's going on anymore......`
 ` This is the first time I've seen anything like this since I started working for the Ushiromiya family..."`
@@ -556,7 +556,7 @@
 `"............It's a filthy topic, but the easiest line of reasoning to accept.`
 ` ...Well, Genji?"`
 `"..............................`
-` ...............The Master surely had feelings of deep love for her.`
+` ...............The {ruby:çeviri > Efendi:Master} surely had feelings of deep love for her.`
 ` There can be no mistake that he cared for her more than his late wife."`
 `"......Who is this person called {f:5:Beatrice}?!`
 ` And what is she doing now?!"`
@@ -564,9 +564,9 @@
 ` ......I have heard that she passed away before the {ruby:çeviri > malikane:mansion} was completed."`
 `"She's already dead...?"`
 `"......Yes.`
-` ......The Master mourned for her most grievously,`
+` ......The {ruby:çeviri > Efendi:Master} mourned for her most grievously,`
 ` .........and he devoted himself to the art of black {ruby:çeviri > büyü:magic} as a means to revive {f:5:Beatrice}‐sama."`
-`"......The Master loved {f:5:Beatrice}‐sama from the bottom of his heart.`
+`"......The {ruby:çeviri > Efendi:Master} loved {f:5:Beatrice}‐sama from the bottom of his heart.`
 ` ...It was that madness which drove him to do all that you see here."`
 `As Genji‐san said this, he spread his arms, ......as though asking us to look at this room, filled with the signs of Grandfather's madness.`
 `...We were all at a loss for words.`
@@ -581,7 +581,7 @@
 ` the medicine,`
 ` ...all of it.`
 `......All just because he wanted to revive once more the visage of a single woman, who had left this world thirty long years ago...`
-`"............The Master only told me about {f:5:Beatrice}‐sama's story once, when he was very drunk.`
+`"............The {ruby:çeviri > Efendi:Master} only told me about {f:5:Beatrice}‐sama's story once, when he was very drunk.`
 ` .........Although I have forgotten the details.`
 ` ......It was...`
 `a deep, deep love, enough to make a woman like me jealous."`
@@ -682,9 +682,9 @@
 ` Father heavily supported that institute, and opened up {ruby:çeviri > hizmetkar:servant} employment positions for them within this house as part of their social studies.`
 ` ...Some foolish people started spreading rumors that Father had foul motivations—that is all."`
 `"At one point, there was a rumor that he was collecting sacrifices for his black {ruby:çeviri > büyü:magic}...`
-` And since he was actually doing weird experiments and rituals in this room all the time, I half believed it myself..."`
+` And since he was actually doing weird experiments and {ruby:çeviri > ritüel:ritual}s in this room all the time, I half believed it myself..."`
 `"......And who are these {ruby:çeviri > hizmetkarlar:servants} who came from the Gospel House?"`
-`"............There are several, but during the family conference, only Shannon and Kanon were scheduled to be here."`
+`"............There are several, but during the family {ruby:çeviri > konferans:conference}, only Shannon and Kanon were scheduled to be here."`
 `To resurrect {f:5:Beatrice}, he had summoned {ruby:çeviri > hizmetkarlar:servants} from a welfare institute......as sacrifices...?`
 `"After all, everyone that Grandfather selected as a {ruby:çeviri > hizmetkar:servant} was young, always about the same age as Shannon or Kanon‐kun.`
 ` ...I was sure that Grandfather had some weird inclinations."`
@@ -733,7 +733,7 @@
 ` Killer's not human.`
 ` {i:Just the sacrifices chosen by the key.}`
 `"This has nothing to do with the location of the hidden gold!!`
-` It's black {ruby:çeviri > büyü:magic} or something, the instructions for a resurrection ritual!`
+` It's black {ruby:çeviri > büyü:magic} or something, the instructions for a resurrection {ruby:çeviri > ritüel:ritual}!`
 ` If I remember right, this {ruby:çeviri > kitabe:epitaph} requires a large number of "deaths"!"`
 `"...It, it sure does.`
 ` Even reading through it quickly, there'd be 6+2+5...`
@@ -743,12 +743,12 @@
 ` And two or three {ruby:çeviri > hizmetkarlar:servants}.`
 ` ...Today and yesterday, there were five of them, but there aren't normally that many."`
 `"Which means that normally,`
-` ......there wouldn't be enough sacrifices to carry out this "ritual".`
+` ......there wouldn't be enough sacrifices to carry out this "{ruby:çeviri > ritüel:ritual}".`
 ` ......No, wait.`
-` ......There's that rumor that Grandfather was collecting {ruby:çeviri > hizmetkarlar:servants} from the Gospel House to be used as sacrifices in some creepy ritual..."`
+` ......There's that rumor that Grandfather was collecting {ruby:çeviri > hizmetkarlar:servants} from the Gospel House to be used as sacrifices in some creepy {ruby:çeviri > ritüel:ritual}..."`
 `"So, what?!`
-` He increased the number of {ruby:çeviri > hizmetkarlar:servants} to increase the number of sacrifices, ......and waited for the annual family conference when even more people would gather...`
-` ...Isn't now the only time of the year that this ritual could be held?!"`
+` He increased the number of {ruby:çeviri > hizmetkarlar:servants} to increase the number of sacrifices, ......and waited for the annual family {ruby:çeviri > konferans:conference} when even more people would gather...`
+` ...Isn't now the only time of the year that this {ruby:çeviri > ritüel:ritual} could be held?!"`
 `When Jessica screamed this, Maria broke out in that creepy laugh, looking truly pleased.`
 `"...............Kihihihihihihihihihihihihihihi.`
 ` ...Aren't there some people who make bets to test their fate?"`
@@ -764,9 +764,9 @@
 ` ......Then, when that impossible result shows itself, the feelings from all those stored up prayers are made incarnate through {ruby:çeviri > büyü:magic}."`
 `"............The sorcery that Grandfather was trying to perform was probably like that.`
 ` The key randomly selected sacrifices in a lottery.`
-` So to reduce the chance that he himself was selected, he chose the day with the greatest number of people on the island to carry out the ritual..."`
+` So to reduce the chance that he himself was selected, he chose the day with the greatest number of people on the island to carry out the {ruby:çeviri > ritüel:ritual}..."`
 `"How ridiculous!!`
-` Are you saying that all these incidents were part of the process of some questionable {ruby:çeviri > büyü:magic} ritual?!"`
+` Are you saying that all these incidents were part of the process of some questionable {ruby:çeviri > büyü:magic} {ruby:çeviri > ritüel:ritual}?!"`
 `Natsuhi yelled.`
 `......She couldn't stop thinking fearfully about how she might have been protected just because of the scorpion charm.`
 `.........If I hadn't received that charm from Jessica and hung it from my doorknob,`
@@ -817,7 +817,7 @@
 `".........I don't get it.`
 ` Doesn't that mean that everyone will die no matter how many people there are?`
 ` ......What was Grandfather's goal?`
-` Doesn't this mean that this ritual would kill Grandfather himself no matter what...?!"`
+` Doesn't this mean that this {ruby:çeviri > ritüel:ritual} would kill Grandfather himself no matter what...?!"`
 `"...............It doesn't matter that no one's left alive.`
 ` ......On the tenth twilight, we finally arrive at the {ruby:çeviri > Altın Diyar:Golden Land}."`
 `"On the tenth twilight, the journey ends, and you shall reach the Home of the Gold."`
@@ -826,7 +826,7 @@
 ` .........Look at the second and third of the four treasures."`
 `"............‘One resurrects all the dead people's souls.`
 ` One even revives all the love they possessed.’`
-` ......So Grandfather believed that he would eventually be revived, even if he died partway through this ritual...?"`
+` ......So Grandfather believed that he would eventually be revived, even if he died partway through this {ruby:çeviri > ritüel:ritual}...?"`
 `"Ridiculous, that's insane!!`
 ` When you die, it's over, right?!`
 ` The dead don't come back to life.`
@@ -840,7 +840,7 @@
 `"......Genji.`
 ` ...Can that possibility be considered...?!"`
 `"............I do not know.`
-` ...The Master is a man who sometimes has the wisdom to see a thousand years into the future.`
+` ...The {ruby:çeviri > Efendi:Master} is a man who sometimes has the wisdom to see a thousand years into the future.`
 ` However, there are times when that appears to be nothing more than madness to commoners such as myself..."`
 `"What, does that mean "yes"?!`
 ` What do you say, Kumasawa‐san?!"`
@@ -974,7 +974,7 @@
 `"............Genji.`
 ` You were Father's number one subordinate.`
 ` ...Was {f:5:Beatrice} a fantasy you showed to Father, with you as the performer?!"`
-`".........If by suspecting me, you recognize me as the Master's greatest {ruby:çeviri > hizmetkar:servant},`
+`".........If by suspecting me, you recognize me as the {ruby:çeviri > Efendi:Master}'s greatest {ruby:çeviri > hizmetkar:servant},`
 ` ......then it is a great honor to me, regardless of the circumstances.`
 ` .........However, I am not the one who put the letter there."`
 `"Do you expect me to just accept that?!!`
@@ -1139,7 +1139,7 @@
 ` ......I had planned that, after Father passed away, I would reward you for your many years of hard work and allow you to retire.`
 ` .........And yet, I am treating you like this...`
 ` ...It makes me feel ashamed from the bottom of my heart............"`
-`"I have already received the Master's favor.`
+`"I have already received the {ruby:çeviri > Efendi:Master}'s favor.`
 ` ......Everything I have done until today has been in repayment for that.`
 ` .........Please, do not worry over it."`
 `"......Well, then, ...shall we, everyone?`

@@ -77,7 +77,7 @@
 ` Main family dinners were always fancy as hell, every time!`
 ` And didn't Gohda‐san say it was calf steak or something?`
 ` Oohh, I can't wai~t!!"`
-`"They get even more fabulous on the day of the family conference.`
+`"They get even more fabulous on the day of the family {ruby:çeviri > konferans:conference}.`
 ` Even I'm looking forward to it!`
 ` Let's go, let's go."`
 `As we left the room, Kanon‐kun bowed silently and respectfully.`
@@ -265,7 +265,7 @@
 `{n}It looked like it would be faster to ask the person who had lent Maria the umbrella during dinner rather than ask Maria herself...`
 `"Father.`
 ` Please at least join us for dinner.`
-` It won't be a family conference like this."`
+` It won't be a family {ruby:çeviri > konferans:conference} like this."`
 `Along with a dull pounding on the door, the sound of Krauss's entreaty could be heard.`
 `However, that voice seemed to harbor a sense of resignation, that its sound would not reach its intended ears.`
 `".........Kinzo‐san.`
@@ -324,7 +324,7 @@
 ` Gohda, get it started."`
 `"Certainly.`
 ` Well then, ladies and gentlemen, we shall begin."`
-`Upon finally being told to begin the family conference dinner, his highlight scene for the whole year, Gohda nodded, grinning broadly.`
+`Upon finally being told to begin the family {ruby:çeviri > konferans:conference} dinner, his highlight scene for the whole year, Gohda nodded, grinning broadly.`
 `"......Umm, I was wondering, who was it that lent Maria an umbrella?"`
 `When Rosa timidly cut through the silence of the {ruby:çeviri > yemek salonu:dining hall}, everyone there turned their attention to her at once.`
 `"...Umbrella?`
@@ -486,12 +486,12 @@
 ` When Battler‐sama first found her, she was already holding a white umbrella."`
 `"My apologies, but it was not me either..."`
 `".........Then, you don't think it was...`
-`...the Master,`
+`...the {ruby:çeviri > Efendi:Master},`
 ` possibly?"`
 `Everyone in both the {ruby:çeviri > yemek salonu:dining hall} and the place where they were standing now had stated that it wasn't them.`
 `...Which meant that only Kinzo was left, but...`
 `"Maybe he went walking down the corridor for some reason, when, by coincidence, he saw Maria‐sama in the {ruby:çeviri > gül bahçesi:rose garden} without even an umbrella..."`
-`"...............The Master...`
+`"...............The {ruby:çeviri > Efendi:Master}...`
 `does not particularly like Maria‐sama."`
 `"I agree.`
 ` ............I can't imagine that, just for Maria‐sama, he would trouble himself to go all the way down the stairs to carry an umbrella to her directly."`
@@ -526,15 +526,15 @@
 ` Has {f:5:Beatrice}‐sama really...`
 `......returned?"`
 `"...........................I don't know."`
-`"......Should we inform the Master?"`
+`"......Should we inform the {ruby:çeviri > Efendi:Master}?"`
 `"There's no need.`
-` .........If she has truly returned, she will eventually appear before the Master of her own accord.`
+` .........If she has truly returned, she will eventually appear before the {ruby:çeviri > Efendi:Master} of her own accord.`
 ` .........Furthermore, she is a fickle person.`
-` It would be pointless to report to the Master only to find that she does not appear..."`
-`"..................I wonder if this means that the Master's ritual has already begun."`
+` It would be pointless to report to the {ruby:çeviri > Efendi:Master} only to find that she does not appear..."`
+`"..................I wonder if this means that the {ruby:çeviri > Efendi:Master}'s {ruby:çeviri > ritüel:ritual} has already begun."`
 `"...Probably.`
 ` However, that has nothing to do with {ruby:çeviri > mobilya:furniture} like us.`
-` ......We must return the favor that we received from the Master...until our final moments."`
+` ......We must return the favor that we received from the {ruby:çeviri > Efendi:Master}...until our final moments."`
 `".........Yes.`
 ` ...As {ruby:çeviri > mobilya:furniture}, that is our...`
 `............duty."`
@@ -586,7 +586,7 @@
 `On top of that, even Aunt Natsuhi and Kyrie‐san, the people he had directed his comment to, ignored him as though they hadn't heard anything.`
 `...I didn't know what kind of conversation they had been having while we kids were away,`
 ` but it reminded me of how Dad had said he had stomach cramps when we had arrived at the {ruby:çeviri > malikane:mansion}.`
-`The family conference might have been a playful reunion to us kids, but it was definitely different for the adults...`
+`The family {ruby:çeviri > konferans:conference} might have been a playful reunion to us kids, but it was definitely different for the adults...`
 `After Uncle Hideyoshi was ignored by the other adults, an awkward silence fell over the room; Kyrie‐san spoke up.`
 `"......We were talking about how the kids' careers would turn out.`
 ` What will you do in the future, Battler‐kun?`

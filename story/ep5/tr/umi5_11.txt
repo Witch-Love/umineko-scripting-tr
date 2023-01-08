@@ -20,7 +20,7 @@
 `"......Yes.`
 ` ......It's not uncommon for him to stay in his study for over a month at a time..."`
 `"......Privately speaking, ......even though I work here,`
-` I sometimes forget that the Master even lives here..."`
+` I sometimes forget that the {ruby:çeviri > Efendi:Master} even lives here..."`
 `"Gohda.`
 ` That is not the sort of statement I expect to hear from a {ruby:çeviri > hizmetkar:servant}!!"`
 `"M‐my apologies, Madam... I am truly sorry......"`
@@ -46,7 +46,7 @@
 ` As this is an emergency, I am opening this door.`
 ` You have a key, right? Open it."`
 `"I, ......I believe you know this, but the study door cannot be opened with the master keys."`
-`"Umm, ......the Master recently took away Genji‐sama's key as well.`
+`"Umm, ......the {ruby:çeviri > Efendi:Master} recently took away Genji‐sama's key as well.`
 ` He has both keys on his person now.`
 ` ......So, umm......"`
 `".........So, both of the keys that can open this door are inside the study."`
@@ -231,7 +231,7 @@
 ` Isn't it standard practice to lower the shutters to Father's study at night?"`
 `"I‐it is.`
 ` When we're permitted to enter, we open the shutters in the morning and close them at night."`
-`"......However, the Master told us that there was no need for the time being, so I think they were left open."`
+`"......However, the {ruby:çeviri > Efendi:Master} told us that there was no need for the time being, so I think they were left open."`
 `"I see.`
 ` ...............Father will be pretty mad, won't he?`
 ` ...If his son smashes his window and comes in while he's sleeping."`
@@ -250,7 +250,7 @@
 `What would happen after this?`
 `To the two of them.`
 ` To Madam.`
-` ......To the Master.`
+` ......To the {ruby:çeviri > Efendi:Master}.`
 `......Very soon, Rudolf would reach the window.`
 `"......So, the barrier around this room is giving way at last."`
 `"Hahah.`
@@ -362,7 +362,7 @@
 ` ......he's really going to...`
 `sm‐`
 `......smash it?`
-` Umm, the Master...will be very angry..."`
+` Umm, the {ruby:çeviri > Efendi:Master}...will be very angry..."`
 `"There's one person who's been kind enough to brag about how accepting that anger is her duty, so there's no need to worry.`
 ` ......Rudolf‐san!`
 ` That's enough. Do it...!"`
@@ -477,7 +477,7 @@
 ` ......That's enough.`
 ` I ask you all not to disturb Father's precious study any further."`
 `"Yes, yes...`
-` There's nothing the Master hates more than having things moved around without his permission..."`
+` There's nothing the {ruby:çeviri > Efendi:Master} hates more than having things moved around without his permission..."`
 `"Father's nowhere to be found.`
 ` .........Maybe he really was caught up in the crime...?"`
 `".........Th‐though we can't be sure of that..."`
@@ -597,7 +597,7 @@
 `"Yes.`
 ` Thank you, Kyrie‐san.`
 ` Actually, I was planning to say the same thing, if you hadn't done it first."`
-`"......W‐...was the question of who saw the Master last...`
+`"......W‐...was the question of who saw the {ruby:çeviri > Efendi:Master} last...`
 `really that important...?"`
 `"Yes.`
 ` If we take the circumstances into account, then in response to the question "Who saw him last?",`
@@ -630,9 +630,9 @@
 ` It's nothing to make such a fuss of and focus on..."`
 `"Yes, yes, that's nothing more than nitpicking...`
 ` Aren't you jumping the gun a little, suspecting Natsuhi‐san because of a little slip of the tongue like that......?"`
-`"And you mentioned that Madam must have a reason to be sure that no one else could have seen the Master,`
+`"And you mentioned that Madam must have a reason to be sure that no one else could have seen the {ruby:çeviri > Efendi:Master},`
 ` but, of course, Madam has one...!`
-` She left the room after seeing the Master go to bed!`
+` She left the room after seeing the {ruby:çeviri > Efendi:Master} go to bed!`
 ` Following common sense, it's perfectly natural to assume that he probably wouldn't meet anyone else until the next morning...!"`
 `"......No.`
 ` That isn't natural whatsoever.`
@@ -710,7 +710,7 @@
 `"How long has Kinzo‐san been gone......?"`
 `Erika's words, spoken almost casually,`
 ` tore that atmosphere to pieces like shattering glass......`
-`"......Simply put, we haven't seen him once at the family conferences this year or last."`
+`"......Simply put, we haven't seen him once at the family {ruby:çeviri > konferans:conference}s this year or last."`
 `"That's right...`
 ` We've suspected it since last year.`
 ` ...Seeing as how my son and the others have just been killed, this may not be the time or place to pursue this.`
@@ -727,7 +727,7 @@
 ` You accuse me of hiding the death of the head?!`
 ` Slander of this nature is...absolutely unforgivable!!"`
 `"That's right...!!`
-` In addition to Madam, the other {ruby:çeviri > hizmetkarlar:servants} take care of the Master on a daily basis, and they see him all the time...!!`
+` In addition to Madam, the other {ruby:çeviri > hizmetkarlar:servants} take care of the {ruby:çeviri > Efendi:Master} on a daily basis, and they see him all the time...!!`
 ` Genji‐san, Shannon‐san, and Kanon‐kun...!`
 ` Even Doctor Nanjo and Kumasawa‐san meet with him often...!"`
 `"......P‐perhaps because he doesn't trust me, I haven't seen him even once since last year, but..."`
@@ -971,14 +971,14 @@
 ` And it is also a room that Father had a direct hand in designing.`
 ` ......Don't you agree that there would be nothing strange about him having some mechanism for getting outside without using the door...?"`
 `"...Y‐yes, of course...!`
-` There would be nothing at all strange about the Master having a hidden door...!"`
+` There would be nothing at all strange about the {ruby:çeviri > Efendi:Master} having a hidden door...!"`
 `"A hidden door?!`
 ` Really, and where would we find one of those...?!"`
 `"It's a hidden door, so nobody knows.`
 ` ......There are several mechanisms and hidden doors in this {ruby:çeviri > malikane:mansion} that only Father knows of.`
 ` ......No one has seen them first‐hand, but all the people of this {ruby:çeviri > malikane:mansion} know of them in concept. Correct...?"`
 `"Uh, ...ah, ......yes...!"`
-`"......It's true that there have been always been rumors about hidden passages only the Master knows of..."`
+`"......It's true that there have been always been rumors about hidden passages only the {ruby:çeviri > Efendi:Master} knows of..."`
 `"Th‐that is the sort of {ruby:çeviri > numara:trick} that Kinzo‐san would love..."`
 `"Hohohoho......`
 ` And they are hidden doors, after all...`
@@ -997,7 +997,7 @@
 ` was crushed with a flash of Dlanor's longsword, ......and the pitch‐black gate was crushed as well...!`
 `And it wasn't just crushed visibly and physically.`
 `From that moment onwards, the warp portal which conceptualized hidden doors had been destroyed forever.`
-`"H‐how can someone like you, who is neither the owner of the study nor the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
+`"H‐how can someone like you, who is neither the owner of the study nor the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}},`
 ` ......use the {ruby:çeviri > kırmızı gerçek:red truth}......?!`
 ` And what was that?! What do you mean you "will not allow" hidden doors to exist?!"`
 `"It's because that's what defines a mystery.`

@@ -53,8 +53,8 @@
 `"......I wonder where Kinzo‐san has gone...`
 ` ......I hope that he is safe, but..."`
 `".........I do not know.`
-` ...Only, I think everything is as the Master hoped—as he has arranged.`
-` ......To distrust that would exceed my role as {ruby:çeviri > mobilya:furniture} working for the Master."`
+` ...Only, I think everything is as the {ruby:çeviri > Efendi:Master} hoped—as he has arranged.`
+` ......To distrust that would exceed my role as {ruby:çeviri > mobilya:furniture} working for the {ruby:çeviri > Efendi:Master}."`
 `"...Aren't you scared, Genji‐san...?`
 ` I am frightened something bad will occur again tonight..."`
 `"............I have nothing to be afraid of.`
@@ -75,7 +75,7 @@
 ` ...I am really frightened about tonight.`
 ` ......I'm hoping with all my heart that we will be still be safe when tomorrow morning comes..."`
 `The {ruby:çeviri > misafir odası:guest room} that Eva and Hideyoshi had moved into was used to house guests before the {ruby:çeviri > konukevi:guesthouse} had been constructed.`
-`So until a few years ago, they had stayed in this room every family conference and were very familiar with it.`
+`So until a few years ago, they had stayed in this room every family {ruby:çeviri > konferans:conference} and were very familiar with it.`
 `This room, just like a room at a hotel, had a bedroom and a bathroom,`
 ` so even though they were still shut in, it was far more comfortable than the {ruby:çeviri > salon:parlor}.`
 `"Guess it's true you can relax more when you're alone with your immediate family.`
@@ -230,7 +230,7 @@
 `...was Kinzo's envelope, the same as the one Maria had taken out last night and surprised everyone with.`
 `".....................`
 ` ...There's no mistake.`
-` It's the Master's envelope."`
+` It's the {ruby:çeviri > Efendi:Master}'s envelope."`
 `"......Or...`
 `........."`
 `Although it had been Kinzo's envelope, ......the author of the letter Maria had read aloud last night had not been Kinzo......`
@@ -387,7 +387,7 @@
 `The cut chain fell into two separate parts, which continued to clang as they swayed back and forth...`
 `".........Kanon‐san,`
 ` .........by your feet, an envelope......`
-` ...And isn't that...the Master's......"`
+` ...And isn't that...the {ruby:çeviri > Efendi:Master}'s......"`
 `It looked like Kumasawa had also noticed the Western‐style envelope at the bottom of the door.`
 `{n}And that the sealing wax had been sealed with the Head's Ring.`
 `Kanon was lost for a just a second over whether he should open the letter first or check inside the room,`

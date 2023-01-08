@@ -399,7 +399,7 @@
 `"......I won't torture.`
 ` It's not my style."`
 `"I know that.`
-` As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, I will grant you power.`
+` As the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, I will grant you power.`
 ` So that you can get the truth from Kinzo, of course."`
 `Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,`
 ` ......and blew hard, as though scattering fluff from a dandelion.`
@@ -454,7 +454,7 @@
 ` I think it's the Ushiromiya family {ruby:çeviri > kilise:chapel}.`
 ` ......However, something feels different about it."`
 `"Also, I never knew that someone named L‐......Lion‐sama existed.`
-` ......And yet, Madam, Krauss‐sama, ......the Master, {ruby:çeviri > Leydim:Milady}, and all the relatives all talk as though it's perfectly natural......`
+` ......And yet, Madam, Krauss‐sama, ......the {ruby:çeviri > Efendi:Master}, {ruby:çeviri > Leydim:Milady}, and all the relatives all talk as though it's perfectly natural......`
 ` I just......don't understand what's happening......"`
 `"......Lion is a piece placed by {f:5:Bernkastel}.`
 ` She also said that she'd switched to a larger cat box to place that piece.`
@@ -474,7 +474,7 @@
 `I see, so it really is a special stage.`
 `"You have served the Ushiromiya family for many years.`
 ` So, just how much do you know about Beatrice?"`
-`"......I know the Master loved her deeply, but other than that..."`
+`"......I know the {ruby:çeviri > Efendi:Master} loved her deeply, but other than that..."`
 `"Is that all?"`
 `"A‐and, umm,`
 ` .........they say that she's the master of Rokkenjima's night...`

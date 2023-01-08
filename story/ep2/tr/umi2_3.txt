@@ -1,4 +1,4 @@
-`The biggest event for the Ushiromiya family in fall was the family conference in October,`
+`The biggest event for the Ushiromiya family in fall was the family {ruby:çeviri > konferans:conference} in October,`
 ` but for Jessica, there was another one before that: the school cultural festival.`
 `Jessica liked school; to her, it was a place where she could let out the stress she'd built up during the rigid lifestyle she was forced to lead at home.`
 `For the cultural festival today, she had formed a group with her friends,`
@@ -258,10 +258,10 @@
 `......Honestly, she was in such high spirits that alcohol might have been involved.`
 `To him, the greatest virtue for a person was to always be composed and intellectual.`
 `In that sense, it was very hard for him to get used to the atmosphere in a school cultural festival.`
-`...He had the responsibility of reporting everything he saw or heard to the Master.`
+`...He had the responsibility of reporting everything he saw or heard to the {ruby:çeviri > Efendi:Master}.`
 `...So he would also have to report about Jessica's unrestrained behavior earlier.`
 `......At the very least, it was not fitting for a daughter of the Ushiromiya main family.`
-`The Master, Krauss‐sama,`
+`The {ruby:çeviri > Efendi:Master}, Krauss‐sama,`
 ` ...and especially Natsuhi‐sama would probably be angry.`
 `If I were to report it in a way that protects {ruby:çeviri > Leydim:Milady}, should I blame it on inappropriate school friends...?`
 `".........What was all that?`
@@ -821,7 +821,7 @@
 `"That's right.`
 ` And {ruby:çeviri > mobilya:furniture} has to listen to what people say."`
 `"...I am currently having a ring made that's worthy to be a gift for you.`
-` I think I'll probably be able to bring it to the family conference coming up soon.`
+` I think I'll probably be able to bring it to the family {ruby:çeviri > konferans:conference} coming up soon.`
 ` I'll give it to you then, so please, I want you to let me hear your answer."`
 `"......If you accept my engagement proposal,`
 ` I will proclaim right there, to all of the relatives, including Grandfather, my engagement to you."`

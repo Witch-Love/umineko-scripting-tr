@@ -62,7 +62,7 @@
 `"Maria, over here.`
 ` Your collar's crooked."`
 `"Ah, I'm so hungry.`
-` The food is the best part of these family conferences.`
+` The food is the best part of these family {ruby:çeviri > konferans:conference}s.`
 ` Are you hungry too, Ange‐chan?"`
 `Eva smiled at Ange.`
 `".........Yeah.`
@@ -121,7 +121,7 @@
 ` Waha{0}ha{0}ha{0}haha!"`
 `"And this coming from a person who tells little kids not to eat candy before a meal..."`
 `"Pardon me.`
-` {f:5:Beatrice}‐sama, the Master is calling for you."`
+` {f:5:Beatrice}‐sama, the {ruby:çeviri > Efendi:Master} is calling for you."`
 `I saw Kinzo beckoning from over by the {ruby:çeviri > portre:portrait}.`
 `"Good grief.`
 ` When it comes to ceremony, that man is always so obsessed with form."`
@@ -280,7 +280,7 @@
 `"......I won't believe...`
 ` ......This is......just........."`
 `Ange looked at the floor and fell silent.`
-`As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, Battler was able to use the {ruby:çeviri > kırmızı gerçek:red truth}.`
+`As the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Battler was able to use the {ruby:çeviri > kırmızı gerçek:red truth}.`
 `However, that rule only exists on the witch's game board.`
 `In the world of {y:0:Human}{n:0:human}s, {ruby:çeviri > kırmızı gerçek:red truth}...doesn't exist.`
 `People see things, hear things,`
@@ -384,7 +384,7 @@
 ` .........Ange must think and choose by herself.`
 ` Even if she doesn't make the decision we view as the correct one, ......I think we should respect it."`
 `"......Hmmm.`
-` .........You are the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+` .........You are the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` It is no longer my place to argue.`
 ` I will simply watch on and enjoy this night."`
 `"This game is very significant for Ange.`
@@ -413,7 +413,7 @@
 `"Oh, no.`
 ` It's not just the cake.`
 ` Tonight's cake has a little secret.`
-` ......Master, I ask that you explain that secret to everyone!"`
+` ......{ruby:çeviri > Efendi:Master}, I ask that you explain that secret to everyone!"`
 `"Very well.`
 ` This is a bit of a game.`
 ` There's one, tiny thing in this cake that will make you a winner."`

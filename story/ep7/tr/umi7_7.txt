@@ -168,7 +168,7 @@
 `"I get that.`
 ` I'll bet it was different for the other relatives, who only came a few times a year."`
 `"Exactly.`
-` That's why every time the family came for a family conference, they'd always stand in front of that {ruby:çeviri > portre:portrait} and talk about {f:5:Beatrice}.`
+` That's why every time the family came for a family {ruby:çeviri > konferans:conference}, they'd always stand in front of that {ruby:çeviri > portre:portrait} and talk about {f:5:Beatrice}.`
 ` So, I was reminded of it every year."`
 `"Uu, {f:5:Beatrice}!!`
 ` I've come to play again...!`
@@ -207,7 +207,7 @@
 ` The head is quite busy with his noble research.`
 ` He wishes to eat lunch in his study today."`
 `Until a second ago, Kinzo's children were complaining that eating lunch with their father would give them indigestion.`
-`But now that they knew he wasn't coming, they started grumbling about how he should at least spare the time to come down during the annual family conferences.`
+`But now that they knew he wasn't coming, they started grumbling about how he should at least spare the time to come down during the annual family {ruby:çeviri > konferans:conference}s.`
 `"Then let us begin lunch, everyone.`
 ` I, Gohda, have made use of all my talent and experience to make sure that all of you,`
 ` who have come from so far away, will be entirely satisfied with your meal..."`
@@ -348,15 +348,15 @@
 ` "If she exists, then just let me see her".`
 ` ......Of course, once Maria started crying, I realized I'd gone too far."`
 `"And then?"`
-`"At the end of the family conference, I was the only one still upset.`
+`"At the end of the family {ruby:çeviri > konferans:conference}, I was the only one still upset.`
 ` ......Maria acted as though nothing had happened.`
 ` Instead, she went off somewhere on her own, and came back talking happily about how she had played with {f:5:Beatrice} again."`
 `"Everyone, me included, decided not to contradict her.`
 ` By that time, it was best to just accept it and ignore it."`
-`"Is that all you have to say about the family conference?"`
-`"About the conference, yes.`
-` What I wanted to talk about was what happened after the conference was over and everyone left."`
-`Even after the conference ended, I still felt a bit uncomfortable.`
+`"Is that all you have to say about the family {ruby:çeviri > konferans:conference}?"`
+`"About the {ruby:çeviri > konferans:conference}, yes.`
+` What I wanted to talk about was what happened after the {ruby:çeviri > konferans:conference} was over and everyone left."`
+`Even after the {ruby:çeviri > konferans:conference} ended, I still felt a bit uncomfortable.`
 `If Maria had just stayed mad,`
 ` we'd have made up with each other and I could've put it all behind me.`
 `But since Maria got over it, it felt like I was the only one unsatisfied...`
@@ -648,7 +648,7 @@
 ` which might be a ghost story made by the adults to stop the kids from going in there.`
 `The {ruby:çeviri > portre:portrait} Grandfather had hung in April was really striking.`
 `And there was also that weird {ruby:çeviri > kitabe:epitaph}.`
-` ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of {f:5:Beatrice} seem all the more unnerving.`
+` ......The creepy words on that, which sounded like some sort of {ruby:çeviri > ritüel:ritual} with human sacrifices, made the name of {f:5:Beatrice} seem all the more unnerving.`
 `At some point, those stories mixed together, and they now say that the witch {f:5:Beatrice} exists.`
 `......I don't believe in {f:5:Beatrice}...`
 `because I know she's just a fictional person made by the fusion of a few horror stories.`
@@ -840,7 +840,7 @@
 `"No.`
 ` About the {ruby:çeviri > yemek salonu:dining hall}."`
 `"The {ruby:çeviri > yemek salonu:dining hall}?"`
-`"On the day of the family conference, just before your ghost story, all of the relatives were gathered in the {ruby:çeviri > yemek salonu:dining hall}, right?"`
+`"On the day of the family {ruby:çeviri > konferans:conference}, just before your ghost story, all of the relatives were gathered in the {ruby:çeviri > yemek salonu:dining hall}, right?"`
 `"Yeah.`
 ` Except Battler hadn't come back to the family yet.`
 ` Everyone else was there.`
@@ -925,7 +925,7 @@
 `"I'm just talking to myself.`
 ` I have one more question."`
 `"Please, go ahead."`
-`"During the family conference, who sits to your right at the dining table?"`
+`"During the family {ruby:çeviri > konferans:conference}, who sits to your right at the dining table?"`
 `"My little sister, Jessica, sits across from me.`
 ` The next in rank is Aunt Eva's son.`
 ` So, George nii‐san is the one on my right... What's your point?"`

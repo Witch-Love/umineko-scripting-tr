@@ -217,7 +217,7 @@
 ` ......The room was empty."`
 `"What the...`
 ` Where could he have gone at a time like this...?!"`
-`"............Did you say that the Master has left his study...?"`
+`"............Did you say that the {ruby:çeviri > Efendi:Master} has left his study...?"`
 `"...That's right. I am as surprised as you...`
 ` I wonder when he left his room......`
 ` Do either of you have an idea?"`
@@ -226,7 +226,7 @@
 `.........However, it seemed to be the other way around.`
 `{n}...Their faces made it clear that those who knew Kinzo best realized even more than everyone else how impossible it was for him to leave his room.`
 `".........Even we have no idea."`
-`"...As you all know, the Master had everything set up within that study, from a place to sleep to a bathroom.`
+`"...As you all know, the {ruby:çeviri > Efendi:Master} had everything set up within that study, from a place to sleep to a bathroom.`
 ` I cannot imagine him leaving that room except under very exceptional circumstances."`
 `"............In that case, ...what?`
 ` Isn't it natural to think that one of those "very exceptional circumstances" came up...?!"`
@@ -952,7 +952,7 @@
 ` I remember that gun!!`
 ` That's the one the gunman goes firin' off with in that old movie I used to love!!`
 ` Father sure has good tastes...!"`
-`".........Long ago, the Master had that brought over specially from America.`
+`".........Long ago, the {ruby:çeviri > Efendi:Master} had that brought over specially from America.`
 ` ...As you can see, it is a real gun, so I would ask that you keep this a secret..."`
 `"He was quite tickled by it when he first got his hands on it.`
 ` It seems the workings that ejected the cartridges were more interesting to him than shooting it, and he played around with it back in the forest all the time.`

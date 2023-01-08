@@ -7,7 +7,7 @@
 `{n}Furniture is nothing more than a tool, and is not human.`
 `For a person less than human such as myself, just receiving my education was more than sufficient happiness.`
 `So even thinking about love was more than I deserved...`
-`The Ushiromiya family conference was a customary event held every October,`
+`The Ushiromiya family {ruby:çeviri > konferans:conference} was a customary event held every October,`
 ` but relatives would occasionally visit at other times as well.`
 `{n}...Of course, they didn't come just to drink tea.`
 `On this day, Eva's family had visited the {ruby:çeviri > baş aile:head family} on Rokkenjima.`
@@ -221,7 +221,7 @@
 `"You shouldn't speak that way.`
 ` ...However, I think Grandfather may think of us as such pestilent creatures.`
 ` After all, we came over here specifically to ask him for money for business."`
-`That's right—this wasn't the customary annual October family conference.`
+`That's right—this wasn't the customary annual October family {ruby:çeviri > konferans:conference}.`
 `Eva's family had visited to apply for a business loan from the main family.`
 `Kinzo had vast resources, and he lent those out to his children.`
 `Of course, this was not money to lend because they had gotten themselves into financial trouble.`
@@ -244,7 +244,7 @@
 `"......Really, I would have liked to watch alongside and learn.`
 ` But Mother chased me out.`
 ` I'm a little let down."`
-`"......It seems that the Master still scolds Krauss‐sama and Eva‐sama in just the same way he did when they were kids.`
+`"......It seems that the {ruby:çeviri > Efendi:Master} still scolds Krauss‐sama and Eva‐sama in just the same way he did when they were kids.`
 ` I'm sure she didn't want to show that to you, her son."`
 `As Shannon hung her head, she thought back on those scenes she had grown used to seeing while working in the {ruby:çeviri > malikane:mansion}.`
 `Even Krauss, who acted haughtily towards his siblings, was still treated like a child by Kinzo.`

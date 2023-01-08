@@ -108,11 +108,11 @@
 `Though she had an umbrella up, Erika got drenched as she sprinted.`
 `She brashly licked the raindrops that dripped down her face......`
 `......Erika was now at her most energetic...`
-`According to her memory of the previous game, the entrance to the {ruby:çeviri > malikane:mansion} would be locked at the same time the family conference started.`
+`According to her memory of the previous game, the entrance to the {ruby:çeviri > malikane:mansion} would be locked at the same time the family {ruby:çeviri > konferans:conference} started.`
 `However, the lock was undone this time.`
 `......Had someone unlocked it, or had the lock not been set, or had it not been possible to set the lock?`
 `"Well, no point thinking about it now.`
-` After all, that might just be a whim of the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s."`
+` After all, that might just be a whim of the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}'s."`
 `As soon as she entered the {ruby:çeviri > giriş:entrance hall}, the door to the {ruby:çeviri > salon:parlor} opened violently.`
 `{n}Out of it flew Gohda's large body.`
 `"Ah, good evening, Gohda‐san.`
@@ -545,7 +545,7 @@
 `......She was probably slightly jealous of Erika.`
 `Beato thought back on the books she had read in {f:5:Featherine}'s archives, in which the old her and Battler had fought.`
 ` ......That must have been fun as well.`
-`During a short break in the family conference, a horrible, brutal mass murder had occurred...`
+`During a short break in the family {ruby:çeviri > konferans:conference}, a horrible, brutal mass murder had occurred...`
 `Excluding Battler, the six people killed had all been women......`
 `The men who had been left behind went mad with rage at the cowardice of it, broke down sobbing at the sadness of losing their wives, ......and went back and forth between the two many times......`
 `"Why were they all girls......?`
@@ -558,7 +558,7 @@
 `"Who gives a damn about that?!`
 ` I don't care how they killed them, I just want to know who!!"`
 `"Hey, Genji‐san, Gohda‐san.`
-` Were the doors and windows to the {ruby:çeviri > malikane:mansion} all locked during the family conference...?"`
+` Were the doors and windows to the {ruby:çeviri > malikane:mansion} all locked during the family {ruby:çeviri > konferans:conference}...?"`
 `"Y‐yes.`
 ` There can be no doubt...!"`
 `"......In accordance with Madam's instructions, everything is always locked at the time of the night patrol.`
@@ -588,9 +588,9 @@
 ` Does that make any sense?!`
 ` Why was the {ruby:çeviri > hizmetkar:servant} room left empty...?!!"`
 `"......My wife was the one who put those shifts together.`
-` ......She probably hoped that Gohda would serve some fashionable drinks during the family conference as well, since he often thinks to do such things..."`
+` ......She probably hoped that Gohda would serve some fashionable drinks during the family {ruby:çeviri > konferans:conference} as well, since he often thinks to do such things..."`
 `"But Krauss nii‐san...!`
-` This is the family conference, right?!`
+` This is the family {ruby:çeviri > konferans:conference}, right?!`
 ` The most important day of the year, right?!`
 ` Why was Gohda‐san left as the only person on shift in the {ruby:çeviri > malikane:mansion}...?!`
 ` If there'd been just one more person, everythin' would be different, don'tcha think?!`
@@ -692,7 +692,7 @@
 `When Erika lowered her voice, Rudolf and Hideyoshi realized that she had something secret to talk about,`
 ` so they brought their ears closer as soon as they regained their composure...`
 `"Are you ready?`
-` This crime happened during a short break in the family conference.`
+` This crime happened during a short break in the family {ruby:çeviri > konferans:conference}.`
 ` ......In that tiny span of time, six people were killed without anyone noticing—I can't imagine that was the result of any haphazard crime.`
 ` This crime was committed by someone who knew the layout of this {ruby:çeviri > malikane:mansion} well, inside and out."`
 `"......W‐......well..............."`
@@ -705,7 +705,7 @@
 `People can't easily suspect someone they know well...`
 `...of being a killer......`
 `"At the time of the crime,`
-` the {ruby:çeviri > malikane:mansion} was locked from the inside, and only those involved with the family conference existed there."`
+` the {ruby:çeviri > malikane:mansion} was locked from the inside, and only those involved with the family {ruby:çeviri > konferans:conference} existed there."`
 `"So, what, you're saying {i:Aniki} killed Kyrie and the others?!`
 ` Or am I supposed to suspect Hideyoshi nii‐san?!`
 ` It's impossible, unthinkable!!"`
@@ -721,7 +721,7 @@
 ` .........None of those four was the killer.`
 `.........And yet, .........Erika said this......`
 `"However, ......what about Gohda‐san?`
-` He was in the {ruby:çeviri > hizmetkarlar:servants}' quarters the whole time during the family conference, in a position to act without anyone else's knowledge."`
+` He was in the {ruby:çeviri > hizmetkarlar:servants}' quarters the whole time during the family {ruby:çeviri > konferans:conference}, in a position to act without anyone else's knowledge."`
 `"Hold up, let's not jump the gun on suspectin' Gohda‐san!`
 ` He came to bring us drinks in the {ruby:çeviri > yemek salonu:dining hall} during the break.`
 ` ......He was with us for a good long while.`

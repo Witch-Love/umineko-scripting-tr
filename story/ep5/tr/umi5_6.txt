@@ -10,7 +10,7 @@
 `"I expect that the suspicion they have harbored since last year is not the only cause."`
 `".........That's right.`
 ` The toxin has grown too thick to be explained away by that alone.`
-` ......I have no doubt that after suspecting Kinzo‐sama's death last year, they have come with a strong determination to expose it at this year's conference."`
+` ......I have no doubt that after suspecting Kinzo‐sama's death last year, they have come with a strong determination to expose it at this year's {ruby:çeviri > konferans:conference}."`
 `"Even last year, ......we didn't succeed in fully deceiving them?"`
 `"...Unfortunately, it might be best to assume that in the current situation.`
 ` The typhoon will remain here tomorrow, and the boat will not come for them until the day after.`
@@ -46,9 +46,9 @@
 `"Ronove and I will prepare that.`
 ` Leave it to us, as creating illusions is what witches do.`
 ` ......All you have to do is give us your permission, Natsuhi‐sama."`
-`".........Master and Ronove are very reliable at times like these...!`
+`".........{ruby:çeviri > Efendi:Master} and Ronove are very reliable at times like these...!`
 ` Also, the {ruby:çeviri > hizmetkarlar:servants} of the One‐winged Eagle are excellent {ruby:çeviri > mobilya:furniture}.`
-` If Master and Ronove reconstruct the {ruby:çeviri > büyü:magic}, they will work to protect it.`
+` If {ruby:çeviri > Efendi:Master} and Ronove reconstruct the {ruby:çeviri > büyü:magic}, they will work to protect it.`
 ` ...It still isn't too late by any means.`
 ` Let's take Kinzo out of the study and have his illusion walk around...!"`
 `"Did you forget that we chose our current strategy because we considered those kinds of plans at length and couldn't find anything that would work?!`
@@ -63,8 +63,8 @@
 ` It's possible for them to eat into an airtight cat box and go inside like black ants swarming a box of cake.`
 ` ............And Lady {f:5:Bernkastel}'s piece also concerns me."`
 `".........It was fortunate that Erika‐sama stole the show at tonight's dinner.`
-` By doing that, she created an atmosphere where it was possible for tonight's family conference to come to a close.`
-` ......If you had gone straight back to the family conference afterwards like usual, the barrier might have broken tonight."`
+` By doing that, she created an atmosphere where it was possible for tonight's family {ruby:çeviri > konferans:conference} to come to a close.`
+` ......If you had gone straight back to the family {ruby:çeviri > konferans:conference} afterwards like usual, the barrier might have broken tonight."`
 `"But because of that, the toxin has grown even thicker.`
 ` ......After thickening all night, the toxin may be able to corrode the locked‐room barrier easily.`
 ` Whether we continue holding the fort or give up that plan,`
@@ -140,7 +140,7 @@
 ` ......Kinzo acknowledged that you were worthy of this responsibility...!"`
 `".........Father...`
 ` ...Father... Uuuhu...uhu...!!!"`
-`"Master and Ronove will think of a move.`
+`"{ruby:çeviri > Efendi:Master} and Ronove will think of a move.`
 ` Of course, I will think as well!`
 ` However, we cannot do even that without our master's permission...your permission!`
 ` So the least you can do is not abandon the will to fight...!`
@@ -186,7 +186,7 @@
 `"............It's the first thing you suggested to conceal {f:5:Goldsmith}'s death.`
 ` ......I'm trying to say that the time has come for us to use it..."`
 `"You mean...having him go missing......?!`
-` You mean to make that move right now, during the family conference?!`
+` You mean to make that move right now, during the family {ruby:çeviri > konferans:conference}?!`
 ` That's too dangerous!"`
 `After successfully resolving all of their problems, they would have to lay Kinzo to rest.`
 `And the way to do that......was to make him disappear.`
@@ -262,7 +262,7 @@
 ` ......You must make your own future."`
 `".............................."`
 `Having Kinzo...go missing.`
-` And doing it right in the middle of this family conference.`
+` And doing it right in the middle of this family {ruby:çeviri > konferans:conference}.`
 `{n}That was truly a last resort.`
 `Hiding this final trump card in her heart, ......Natsuhi decided that she would grope around for a different plan until the last second.`
 `After all, this long, long night had only just begun......`

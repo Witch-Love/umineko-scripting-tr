@@ -175,8 +175,8 @@
 ` ......However, the case with this particular child just didn't make sense."`
 `"I even asked the Gospel House about it.`
 ` They said to ask Genji‐san.`
-` I then asked Genji‐san, and he said to ask the Master."`
-`"And then you asked the Master, and he said "{f:5:Beatrice}~"!"`
+` I then asked Genji‐san, and he said to ask the {ruby:çeviri > Efendi:Master}."`
+`"And then you asked the {ruby:çeviri > Efendi:Master}, and he said "{f:5:Beatrice}~"!"`
 `"Ahahahaha!`
 ` No one knows the truth!"`
 `"Jessica was the only child on the island.`
@@ -342,7 +342,7 @@
 ` you'll be much more experienced than the new people who come later.`
 ` Even Genji‐sama will acknowledge your talents, and you'll become a leader who can teach the new kids who come from the Gospel House."`
 `"And then, I'm sure that everyone will respect you.`
-` By that time, even Madam, the Master, and Krauss‐sama will acknowledge your skills.`
+` By that time, even Madam, the {ruby:çeviri > Efendi:Master}, and Krauss‐sama will acknowledge your skills.`
 ` That's your future."`
 `"......You mean like the ugly duckling becoming a swan?"`
 `"That might be it.`

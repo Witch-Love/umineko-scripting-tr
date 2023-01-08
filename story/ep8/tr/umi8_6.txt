@@ -550,7 +550,7 @@
 `{n}A gold‐colored medal glittered in her wrinkly hand.`
 `Ange took it.`
 `"Well then, that's all for our puzzles."`
-`"Please keep up the pace, get more and more medals, and win that splendid prize from the Master!"`
+`"Please keep up the pace, get more and more medals, and win that splendid prize from the {ruby:çeviri > Efendi:Master}!"`
 `"Okay! Thank you.`
 ` I'm going to think even harder next time...!`
 ` We did it, {ruby:çeviri > Hala:Auntie} Eva!"`
@@ -560,7 +560,7 @@
 `{n}Okay, who should we take on next...?!`
 `"It seems that all of a sudden, the tiny girl who used to hide and tremble in Kyrie‐sama's shadow...`
 `has grown to be so bright and cheery..."`
-`"......With each passing family conference, one can feel the growth of those youngsters.`
+`"......With each passing family {ruby:çeviri > konferans:conference}, one can feel the growth of those youngsters.`
 ` After just a few years more, Ange‐sama will surely learn of love, of makeup,`
 ` and will eventually grow to become a true lady."`
 `"Very true......`
@@ -818,7 +818,7 @@
 `For just an instant, Kinzo glanced at Genji's face.`
 `Apparently, he didn't plan on touching on this subject if Genji had any objections.`
 `However, Genji began to answer the question himself, as though the matter was no longer deserving of secrecy.`
-`"......I knew the Master once...in Taiwan."`
+`"......I knew the {ruby:çeviri > Efendi:Master} once...in Taiwan."`
 `"Wahaha, "knew me", he says...!`
 ` We were partners in crime, you might say!`
 ` The two of us were both prodigal sons of rich families.`
@@ -834,7 +834,7 @@
 ` When we first met, we fought all the time.`
 ` Once we hit it off, we became the best of friends."`
 `"......There was a lot of disorder and conflict after the war.`
-` The Master is the one who saved me during that chaotic period.`
+` The {ruby:çeviri > Efendi:Master} is the one who saved me during that chaotic period.`
 ` ......If I spent the rest of my life trying to repay that debt, it would not be enough to pay it back in full."`
 `".........Don't say that, my friend.`
 ` ......If only I had been a little more persuasive, I might have saved your family as well...`

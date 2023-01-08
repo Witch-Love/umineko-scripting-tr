@@ -146,7 +146,7 @@
 `"No.`
 ` It's a true and proper piece of this game board.`
 ` One of the appearing characters."`
-`"You're the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`"You're the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` That means it's your piece."`
 `"*giggle*......`
 ` ......I've just enclosed Beato's cat box in a larger cat box.`
@@ -201,7 +201,7 @@
 `"We're wasting time, so let's move onwards.`
 ` ......Wright.`
 ` Try and beat this game.`
-` As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, {f:5:Bernkastel}, I invite you to join this game."`
+` As the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, {f:5:Bernkastel}, I invite you to join this game."`
 `"I refuse."`
 `"Why?"`
 `"I'm retired now.`

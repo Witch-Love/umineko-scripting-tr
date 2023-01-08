@@ -225,7 +225,7 @@
 `Wait, I've seen this before.`
 ` .........This is—`
 `"I acknowledge it. You may sit.`
-` You are the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+` You are the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `".........Are you sure?`
 ` ......Are you {i:really} sure...?"`
 `"You may create whatever sort of tale you like to ease your inner hatred.`

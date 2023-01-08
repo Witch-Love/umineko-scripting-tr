@@ -562,7 +562,7 @@
 ` ......Father is in a bad mood, so he can't meet with us?`
 ` That was plenty suspicious last year, and yet you do it again this year."`
 `"If you wanted to fake being Father's agent and grab up all his assets, you should have done it a little more speedily,`
-` and made him disappear without waiting for today's family conference.`
+` and made him disappear without waiting for today's family {ruby:çeviri > konferans:conference}.`
 ` You really are naive, Krauss onii‐sama......"`
 `"............I have no idea what you are—"`
 `"However!`
@@ -682,7 +682,7 @@
 `"Convince Father......?`
 ` There's no way he can."`
 `There's no way to convince someone who doesn't even exist...!`
-`"..................All my siblings have taken time out of their schedules to come here to this annual family conference."`
+`"..................All my siblings have taken time out of their schedules to come here to this annual family {ruby:çeviri > konferans:conference}."`
 `Krauss and Natsuhi could be seen in Kinzo's dimly lit study.`
 `Every once in a while, thunder could be heard, and the dimly lit room flickered with light.`
 ` ......It seemed that the island would be closed off by the storm very soon.`
@@ -762,7 +762,7 @@
 `".........F‐Father...`
 ` .........Then you'll......?"`
 `"I have no desire to have dinner with you cowards.`
-` However, I will attend the family conference afterwards!"`
+` However, I will attend the family {ruby:çeviri > konferans:conference} afterwards!"`
 `"F‐Father...`
 ` Thank you very much......!"`
 `"There, I shall make an important announcement regarding the succession of the headship.`

@@ -44,7 +44,7 @@
 ` no one can defile our story. What they say is of no consequence!`
 ` No matter how Krauss and the others misconstrue it, it matters nothing to me!"`
 `"......Willard‐sama.`
-` The Master does not like wills.`
+` The {ruby:çeviri > Efendi:Master} does not like wills.`
 ` He is not one to abandon anything while he still lives."`
 `"......Probably true.`
 ` I thought it sounded a bit unlike him."`
@@ -141,7 +141,7 @@
 `would have returned.`
 ` ......She was without a doubt Beatrice reborn.`
 ` ......Her memory was coming back bit by bit.`
-` My {ruby:çeviri > büyülü:magical} rituals were helping her regain her memories one little bit at a time......"`
+` My {ruby:çeviri > büyülü:magical} {ruby:çeviri > ritüel:ritual}s were helping her regain her memories one little bit at a time......"`
 `"G‐......Grandfather......"`
 `"There's no need to be surprised.`
 ` If you line up the information in all the games so far, this is the answer it leads you to.`
@@ -149,7 +149,7 @@
 ` She also said that her power and memory had been sealed.`
 ` If you match that interpretation of hers to this theory, it all makes sense."`
 `"............Willard‐sama.`
-` Thanks to a powerful {ruby:çeviri > büyülü:magical} ritual, the Master gained a reborn child of the late Beatrice‐sama.`
+` Thanks to a powerful {ruby:çeviri > büyülü:magical} {ruby:çeviri > ritüel:ritual}, the {ruby:çeviri > Efendi:Master} gained a reborn child of the late Beatrice‐sama.`
 ` That cannot be denied."`
 `"I won't contradict the stork.`
 ` And I don't intend to doubt the depths of Kinzo's love for this woman called Beatrice.`
@@ -242,7 +242,7 @@
 `Kinzo's children had also been aware of Kinzo's clandestine eccentricities at the time.`
 `It probably hadn't been easy to set up two lives.`
 `{n}Moreover, Kinzo's wife had been suspicious and had sniffed around all the time...`
-`"The Master stayed in Kuwadorian as much as time allowed.`
+`"The {ruby:çeviri > Efendi:Master} stayed in Kuwadorian as much as time allowed.`
 ` He would sometimes pretend to go on a business trip and stay there for several days,`
 ` treasuring the time he spent with Beatrice‐sama.`
 ` ......It was not simply a father‐daughter relationship.`

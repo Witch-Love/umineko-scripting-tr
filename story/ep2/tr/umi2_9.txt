@@ -39,19 +39,19 @@
 `The {ruby:çeviri > hizmetkarlar:servants} woke early.`
 ` They had to open the curtains, prepare breakfast, and complete various other tasks to welcome the guests to a new day.`
 `Gohda was the most enthusiastic.`
-`He had been told to concentrate his efforts in particular on his work as a chef for the duration of the family conference,`
+`He had been told to concentrate his efforts in particular on his work as a chef for the duration of the family {ruby:çeviri > konferans:conference},`
 ` and he had been specially exempted from several tasks that {ruby:çeviri > hizmetkarlar:servants} normally must do.`
 `...It seemed that Gohda, who was a show off, had a particular feeling of supremacy about that.`
 ` He left the preparations of the inside of the {ruby:çeviri > malikane:mansion} to Genji and the rest, and worked on preparing breakfast in the kitchen.`
 `Genji split the work with Shannon and Kanon, and they carried out various tasks.`
 `Shannon headed to the {ruby:çeviri > yemek salonu:dining hall} and knocked.`
-`...Last year, the family conference had continued into the small hours of the night.`
-` It wouldn't have been odd for this year's conference to continue all the way into the next morning.`
+`...Last year, the family {ruby:çeviri > konferans:conference} had continued into the small hours of the night.`
+` It wouldn't have been odd for this year's {ruby:çeviri > konferans:conference} to continue all the way into the next morning.`
 `So she had knocked out of consideration for the possibility that they were still having a discussion inside.`
 `But there was no response, so she opened the door and said good morning.`
 `"...Good morning.`
 ` ...............Is anyone there?"`
-`The room was cold, and it seemed that the conference had ended a long time before.`
+`The room was cold, and it seemed that the {ruby:çeviri > konferans:conference} had ended a long time before.`
 `On top of the table, there was a tea set, from which they had probably been drinking, arranged in a way that would make it easy to clean them up.`
 `Cleaning away the tea was a {ruby:çeviri > hizmetkar:servant}'s job.`
 ` So if the family was too caring and cleaned it up themselves, the {ruby:çeviri > hizmetkarlar:servants} would lose face.`
@@ -157,7 +157,7 @@
 ` Also, inform Krauss nii‐san and the rest.`
 ` Receive their instructions on how to proceed!"`
 `...After saying that much, Rosa finally noticed that something was out of place.`
-`Her own rank within this family conference was the lowest of the four siblings.`
+`Her own rank within this family {ruby:çeviri > konferans:conference} was the lowest of the four siblings.`
 `......In an abnormal situation like this, why had she been the only one called, when the other siblings hadn't?`
 `...Even if Maria's name had popped up.`
 `"Don't tell me......huh?`
@@ -399,7 +399,7 @@
 ` I wonder what was inside."`
 `"Who knows.`
 ` ...But that envelope was one with the Ushiromiya family crest on it, for Grandfather's personal use.`
-` ............It's hard to believe that what was in there doesn't have anything to do with the family conference."`
+` ............It's hard to believe that what was in there doesn't have anything to do with the family {ruby:çeviri > konferans:conference}."`
 `She hadn't let anyone touch it, but yesterday, Maria had bragged a lot about the envelope to Battler and the rest.`
 ` ...So they remembered it well.`
 `"Uu‐uu‐uu!!`
@@ -608,7 +608,7 @@
 `"...Come on, Maria.`
 ` ...What's so funny in a situation like this?!"`
 `"{f:5:Beatrice} is a witch.`
-` And the ritual to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} has finally begun.`
+` And the {ruby:çeviri > ritüel:ritual} to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} has finally begun.`
 ` These six people are sacrifices.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
 `"Now, the witch's banquet shall begin.`
@@ -687,7 +687,7 @@
 ` ......This is a gold bar from the legend of Grandfather's gold...!!"`
 `Gold ingots, ...three of them, weighing a full ten kilograms each, were piled up in the very center of the table!`
 ` It was where the cake would be placed if it was a birthday party.`
-`...In other words, this was without a doubt the birthday cake of the party known as the family conference!`
+`...In other words, this was without a doubt the birthday cake of the party known as the family {ruby:çeviri > konferans:conference}!`
 `"If these are really four‐nines‐purity ingots...`
 ` ...nn, *gulp*.`
 ` They, they're worth about 60 million yen!"`

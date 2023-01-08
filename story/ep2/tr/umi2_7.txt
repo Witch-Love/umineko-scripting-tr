@@ -134,15 +134,15 @@
 `Many plates were lined up on the counter in the kitchen, and preparations for dinner were proceeding steadily.`
 `......The number of plates that were lined up there...`
 `......was 19.`
-`{n}That number was one more than were lined up during the family conference every year.`
+`{n}That number was one more than were lined up during the family {ruby:çeviri > konferans:conference} every year.`
 `"I can't accept it...!`
 ` Why can't I deliver it directly?!"`
 `Gohda‐san was flaring up at Genji, paying no heed to the pot that was boiling over.`
-`The Master enjoys having his food alone in his study, so the food must be set out in the study.`
+`The {ruby:çeviri > Efendi:Master} enjoys having his food alone in his study, so the food must be set out in the study.`
 ` Of course, this is nothing new, you understand.`
-`Gohda‐san would really like to set the table for the Master with his own hands, as he puts his heart and soul into his cooking.`
-`......But the Master had imposed a strict rule that none but the {ruby:çeviri > hizmetkarlar:servants} bearing the crest of the Golden Eagle could enter his study.`
-`.........So while Gohda‐san could greet the Master from outside the study,`
+`Gohda‐san would really like to set the table for the {ruby:çeviri > Efendi:Master} with his own hands, as he puts his heart and soul into his cooking.`
+`......But the {ruby:çeviri > Efendi:Master} had imposed a strict rule that none but the {ruby:çeviri > hizmetkarlar:servants} bearing the crest of the Golden Eagle could enter his study.`
+`.........So while Gohda‐san could greet the {ruby:çeviri > Efendi:Master} from outside the study,`
 ` not once had he been granted the honor of carrying his cooking into the study.`
 `Gohda‐san was always unsatisfied with this.`
 `{n}...Of course he knows he is a newcomer in terms of years of service.`
@@ -150,11 +150,11 @@
 `And yet, just because he is not permitted the Golden Eagle, he still hasn't been blessed with this honor.`
 `......You can probably imagine what damage that has done to his pride.`
 ` You might think that tonight is a mere resurgence of that old argument, but it isn't.`
-`Because tonight, there is a person other than the Master who wants their food carried to their room.`
-`Apparently, this person is a very rare and honored guest, and there has been a strict order to treat this person in the same manner as the Master, the family head.`
+`Because tonight, there is a person other than the {ruby:çeviri > Efendi:Master} who wants their food carried to their room.`
+`Apparently, this person is a very rare and honored guest, and there has been a strict order to treat this person in the same manner as the {ruby:çeviri > Efendi:Master}, the family head.`
 `Gohda‐san must have wanted to earn some points by serving this honored guest with his own hands.`
 `Because he is a person of strong vanity.`
-` If he isn't qualified to serve the Master, then at least a guest of the same rank...`
+` If he isn't qualified to serve the {ruby:çeviri > Efendi:Master}, then at least a guest of the same rank...`
 `He simply couldn't make time during lunch, so Kanon‐san had gone for him.`
 ` ...Therefore, he truly desired to serve tonight's food personally—the best dinner of the year.`
 `But Genji‐san had had a problem with that.`
@@ -166,8 +166,8 @@
 ` Is the tablecloth ready?!"`
 `"Hoh‐hoh‐hoh‐ho... Oh my, my apologies..."`
 `When it became her turn to bear the brunt, Kumasawa softly disappeared into the hall.`
-`"{f:5:Beatrice}‐sama is of exactly the same rank as the Master.`
-` ......We must respect the same rules that we respect for the Master."`
+`"{f:5:Beatrice}‐sama is of exactly the same rank as the {ruby:çeviri > Efendi:Master}.`
+` ......We must respect the same rules that we respect for the {ruby:çeviri > Efendi:Master}."`
 `"......Gohda, you will devote your attention entirely towards the task you have been given, and attend to the family..."`
 `"I don't mind if it's you, Genji‐san, but is it really alright to let a child like this go to such a guest?!`
 ` If she made some blunder, it would be quite rude."`
@@ -215,11 +215,11 @@
 `She had said also.`
 ` .........She had said clearly that the day had finally come when the door to the {ruby:çeviri > Altın Diyar:Golden Land} would be opened.`
 `".........Shannon.`
-` ...She will perform some bizarre ritual with the Master, ...and will surely do something unimaginably horrible.`
+` ...She will perform some bizarre {ruby:çeviri > ritüel:ritual} with the {ruby:çeviri > Efendi:Master}, ...and will surely do something unimaginably horrible.`
 ` ......And no one can resist that."`
 `"What are you talking about......?"`
 `"She came here...`
-`as the Master requested, so that the door to the {ruby:çeviri > Altın Diyar:Golden Land} would open, and so that everything would be returned to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+`as the {ruby:çeviri > Efendi:Master} requested, so that the door to the {ruby:çeviri > Altın Diyar:Golden Land} would open, and so that everything would be returned to the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` She said that to me clearly!"`
 `"................................."`
 `In the past,`
@@ -248,7 +248,7 @@
 ` ......We would both be happy that this day has finally come!`
 ` You built up meaningless attachments!`
 ` Even though it was a world that you would definitely have to leave!!"`
-`"...............Will the ritual...begin tonight...?"`
+`"...............Will the {ruby:çeviri > ritüel:ritual}...begin tonight...?"`
 `"...Yes.`
 ` ...............Also, she said this to me.`
 ` ...Tonight, George‐sama will probably give you an engagement ring, Nee‐san."`
@@ -279,11 +279,11 @@
 ` .........If we go there, any wish will be granted.`
 ` .........We will be saved from this pain.`
 ` ............We believed that."`
-`However, in this ritual, only a few people, chosen by fate and chance, would be invited to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+`However, in this {ruby:çeviri > ritüel:ritual}, only a few people, chosen by fate and chance, would be invited to the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` ......Everyone else would lose their life as a sacrifice midway through the ceremony.`
 `But in the past, Shannon and Kanon had thought...`
 `that whether they reached the {ruby:çeviri > Altın Diyar:Golden Land} or were made sacrifices, it would be all the same, because they would be released from their duties as {ruby:çeviri > mobilya:furniture} either way.`
-`......So, in short, the ritual had been something that would definitely grant release to {ruby:çeviri > mobilya:furniture} like them.`
+`......So, in short, the {ruby:çeviri > ritüel:ritual} had been something that would definitely grant release to {ruby:çeviri > mobilya:furniture} like them.`
 `"I don't like it.`
 ` ......Together with you, I want to take back all the hard times we had.`
 ` I won't become a sacrifice.`
@@ -297,7 +297,7 @@
 ` ......Tonight's ring is very special.`
 ` ......My heart...won't permit me to not accept it."`
 `"Nee‐san...!`
-` The witch decides the ritual sacrifices arbitrarily!`
+` The witch decides the {ruby:çeviri > ritüel:ritual} sacrifices arbitrarily!`
 ` That witch has promised to overlook you at least, Nee‐san!!`
 ` You at least will definitely be able to go to the {ruby:çeviri > Altın Diyar:Golden Land}!"`
 `"......Me at least?`
@@ -363,7 +363,7 @@
 `Shannon loaded the witch's food onto the serving cart, and left the kitchen with a slow gait...`
 `The person knocking was Krauss.`
 `"Father.`
-` Today is our annual family conference.`
+` Today is our annual family {ruby:çeviri > konferans:conference}.`
 ` Haven't the siblings gathered here to get a glance of you, Father?"`
 `"Aaah, be silent!!`
 ` I have told you I won't leave!`
@@ -445,7 +445,7 @@
 `".................................`
 ` ...A good plan, but I will refrain.`
 ` ......I can no longer leave this room.`
-` ...Because the ritual has begun."`
+` ...Because the {ruby:çeviri > ritüel:ritual} has begun."`
 `"............Is that so?`
 ` Well, my stomach is growling.`
 ` ...I will go downstairs.`
@@ -549,7 +549,7 @@
 ` ...*cackle*cackle*cackle* hahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!`
 ` ......I'll take back what I said.`
 ` You really are interesting."`
-`"......If I hadn't sowed those seeds, you probably would have allowed the ritual to control your fate without any emotion at all.`
+`"......If I hadn't sowed those seeds, you probably would have allowed the {ruby:çeviri > ritüel:ritual} to control your fate without any emotion at all.`
 ` ......But now you have grown to be truly interesting, and you entertain me from the bottom of my heart.`
 ` That is fine.`
 ` Because I have no love for boredom.`
@@ -620,7 +620,7 @@
 ` If we cup our hands together, we can scoop out as many as we want."`
 `"......In the same way that the beef cattle I raise can babble what they will, and it won't change the fact that they will add splendor to my dinner table.`
 ` *cackle*cackle*...!"`
-`"......We are powerless, so we can't go against your ritual or our fates.`
+`"......We are powerless, so we can't go against your {ruby:çeviri > ritüel:ritual} or our fates.`
 ` ...But I can do something that will make you unhappy right now."`
 `"Hoh.`
 ` What would that be?"`
@@ -663,9 +663,9 @@
 ` ......*cackle*cackle*cackle*cackle*.`
 ` ...I suppose I'm not so old yet.`
 ` This is why I'm still not tired of living after one thousand years..."`
-`The most fabulous time in the family conference.`
+`The most fabulous time in the family {ruby:çeviri > konferans:conference}.`
 `{n}That was the dinner.`
-`Back when Kinzo had been serious about the family conference, he had placed extreme importance upon this dinner, for which everyone would gather just once a year.`
+`Back when Kinzo had been serious about the family {ruby:çeviri > konferans:conference}, he had placed extreme importance upon this dinner, for which everyone would gather just once a year.`
 `Should the dinner not meet standards, he would take it as the deepest shame for himself as the host,`
 ` and he had strongly ordered Natsuhi to make absolutely sure that it was one to be proud of.`
 `Because of that, she and Krauss had employed Gohda, who had confidence in his cooking abilities.`
@@ -681,7 +681,7 @@
 ` However, isn't Bordelaise sauce common to French cooking?`
 ` It almost seems like using alcohol from outside France with that is heresy."`
 `"Krauss‐sama.`
-` Today is the annual family conference."`
+` Today is the annual family {ruby:çeviri > konferans:conference}."`
 `"As a dinner for those who normally live far away, and have traveled far from across the world to gather together,`
 ` I realized that a sauce made from a blend of fine alcohols from across the world that would normally never meet would be most fitting,`
 ` so I had it specially prepared."`
@@ -716,7 +716,7 @@
 `In actuality, Eva, Rudolf, and Kyrie were on alert during dinner.`
 `If the mystery guest was to be introduced, this dinner table was the most appropriate place to do it.`
 ` ...However, no plates had been prepared at the table for the witch.`
-`The family conference would begin in earnest after the meal, and previous experiences told them that it could last until deep into the night.`
+`The family {ruby:çeviri > konferans:conference} would begin in earnest after the meal, and previous experiences told them that it could last until deep into the night.`
 `......But they couldn't understand what meaning there could be in keeping this person, who should be introduced, hidden until late at night.`
 `So Eva, Rudolf, and Kyrie had started to suspect something.`
 `......That the guest might actually be unknown to Krauss as well.`
@@ -743,7 +743,7 @@
 ` ......On the chessboard placed inside Kyrie's mind, she could feel the arrangement of the pieces changing, making loud clattering sounds...`
 `"A guessst?"`
 `It seemed that Battler, who was sitting next to Natsuhi, had heard Kyrie's words without misunderstanding them,`
-` and he let out a wild voice, questioning who else could have been invited to today's family conference.`
+` and he let out a wild voice, questioning who else could have been invited to today's family {ruby:çeviri > konferans:conference}.`
 `Thanks to that voice, the uncomfortable feeling in the siblings' chests suddenly exploded...`
 `Everyone looked at Gohda at the same time.`
 `......Judging by their appearances, it was obvious that at least no one here had invited that mystery woman.`
@@ -806,7 +806,7 @@
 ` We aren't at the stage where we can sound each other out anymore.`
 ` If you're sayin' that you don't know this mystery person either, this situation becomes ridiculous...!"`
 `"Hideyoshi‐san, won't you be a little more discreet with your words?`
-` My husband would not invite unnecessary people to the family conference."`
+` My husband would not invite unnecessary people to the family {ruby:çeviri > konferans:conference}."`
 `"Honestly.`
 ` What are you people talking about?`
 ` Are you saying that the witch of the {ruby:çeviri > portre:portrait} has broken out of her frame and appeared?!`
@@ -822,7 +822,7 @@
 `{n}...The room was by now chaotic.`
 `"I don't have a clue what's going on...`
 ` So what's going on?`
-` The witch who gave Grandfather the gold is appearing as a special guest in this year's family conference...?!"`
+` The witch who gave Grandfather the gold is appearing as a special guest in this year's family {ruby:çeviri > konferans:conference}...?!"`
 `"But... Really...?`
 ` {ruby:çeviri > Hala:Auntie} Rosa didn't see it wrong, did she...?"`
 `"I met her toooooo!!`
@@ -895,8 +895,8 @@
 ` I have no idea what you people have been talking about up until now."`
 `"Then there can be only one answer.`
 ` ......Father called her.`
-` For today's family conference!"`
-`"For the family conference?!`
+` For today's family {ruby:çeviri > konferans:conference}!"`
+`"For the family {ruby:çeviri > konferans:conference}?!`
 ` Then for what reason?!"`
 `"I don't know that!`
 ` I thought you knew, Nii‐san, that's why I thought I'd question you!"`
@@ -908,11 +908,11 @@
 `".........That's all we know for now!`
 ` If she has something to say to us, she could just quickly show herself!`
 ` So what I want to know is why in blazes she's shut herself up without greetin' us."`
-`"You think maybe Dad never had any interest in the family conference from the beginning, and just secretly called a new mistress here?`
+`"You think maybe Dad never had any interest in the family {ruby:çeviri > konferans:conference} from the beginning, and just secretly called a new mistress here?`
 ` And had her dress up as his ideal witch?`
 ` ............Nah, this day holds too much significance to come to that conclusion."`
 `"There can be only one reason.`
-` To join in on the family conference.`
+` To join in on the family {ruby:çeviri > konferans:conference}.`
 ` ...She wants to claim some right to Father's inheritance!"`
 `"Preposterous!!`
 ` The head would never have something as filthy as a mistress!"`

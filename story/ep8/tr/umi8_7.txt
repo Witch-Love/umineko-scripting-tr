@@ -522,7 +522,7 @@
 `"I hope Ange finds happiness."`
 `"I'm sure she will.`
 ` After all, look at all the people here wishing for her happiness.`
-` And now, Battler is the {ruby:çeviri > Oyun Yöneticisi:Game Master}, and he's set up this final game just for her.`
+` And now, Battler is the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, and he's set up this final game just for her.`
 ` ......After all this, there's no way she won't be happy."`
 `"......Still, even though everyone can bring a person happiness, only the person can grasp it for themselves."`
 `"That's right.`
@@ -1193,9 +1193,9 @@
 `"It goes without saying...`
 `...that this is an illusion.`
 ` You cannot come to Rokkenjima on October 4th, 1986.`
-` This whole party we shared was all a {ruby:çeviri > büyülü:magical} illusion, created by the {ruby:çeviri > Oyun Yöneticisi:Game Master}, Battler."`
+` This whole party we shared was all a {ruby:çeviri > büyülü:magical} illusion, created by the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Battler."`
 `"But you remember now, right...?`
-` How kind everyone was, and how much of a blast we all had at the family conferences.`
+` How kind everyone was, and how much of a blast we all had at the family {ruby:çeviri > konferans:conference}s.`
 ` ......Do you remember......the truth...?"`
 `Ange breathed softly in her sleep.`
 `Who knows......if those words truly reached her...`

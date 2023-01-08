@@ -701,7 +701,7 @@
 `"In short, nothing will change from the way things have been up until now.`
 ` .........Do you understand, Genji?"`
 `"...............Yes.`
-` ...The {ruby:çeviri > mobilya:furniture} of the One‐winged Eagle will continue to serve the Master."`
+` ...The {ruby:çeviri > mobilya:furniture} of the One‐winged Eagle will continue to serve the {ruby:çeviri > Efendi:Master}."`
 `"Kumasawa.`
 ` And you, Doctor Nanjo.`
 ` Do you understand what I'm saying?"`
@@ -733,7 +733,7 @@
 ` There won't be any problems this way!"`
 `"Y‐......yes, I can see the logic, but......"`
 `"...Are you sure about this, Madam...?`
-` Y‐yes, if all of us can keep quiet, then perhaps we could keep it a secret that the Master has passed away...!`
+` Y‐yes, if all of us can keep quiet, then perhaps we could keep it a secret that the {ruby:çeviri > Efendi:Master} has passed away...!`
 ` But there are so many ways that one of us could slip up and allow someone to find out...!!"`
 `"Kumasawa.`
 ` Keep your voice down.`

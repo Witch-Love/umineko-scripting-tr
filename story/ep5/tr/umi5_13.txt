@@ -49,7 +49,7 @@
 `"Oh my.`
 ` .........There are five sacrifices for the first twilight in this game?`
 ` Not six?"`
-`"Oh, it's you, Master.`
+`"Oh, it's you, {ruby:çeviri > Efendi:Master}.`
 ` I was worried about where you'd gone.`
 ` The game has already reached the first twilight, and as you can see, the first victims have emerged.`
 ` ......Now it's time for the real show. I'm getting all excited...!"`
@@ -98,7 +98,7 @@
 `"......We've more or less figured out what our opponents' moves will be.`
 ` This is probably a trap made to corner Natsuhi.`
 ` Most likely, they'll sort through {ruby:çeviri > mazeretler:alibis} for the first twilight and find them for everyone except Natsuhi."`
-`"Last night, Natsuhi‐sama was the first to leave the family conference, and then rested alone in her room.`
+`"Last night, Natsuhi‐sama was the first to leave the family {ruby:çeviri > konferans:conference}, and then rested alone in her room.`
 ` ......Unfortunately, she has no {ruby:çeviri > mazeret:alibi} whatsoever until the next morning."`
 `"We have already ensured that Kinzo's existence is impossible to disprove.`
 ` ......However, the enemy has one remaining method of breaking through that roadblock."`
@@ -106,7 +106,7 @@
 ` .........They can corner Natsuhi and make her confess that Kinzo doesn't exist."`
 `"Mm.`
 ` The enemy is probably after something like that.`
-` By watching the movements of the pieces involved with the family conference, we quickly realized that Natsuhi was isolated,`
+` By watching the movements of the pieces involved with the family {ruby:çeviri > konferans:conference}, we quickly realized that Natsuhi was isolated,`
 ` noticed that trap of theirs, and countered with this move."`
 `"The corpses disappear!`
 ` Everyone has {ruby:çeviri > mazeretler:alibis}, and no one exists who could have moved them.`
@@ -161,7 +161,7 @@
 ` I would very much appreciate it if you could also be a little less harsh with me and please give me your {ruby:çeviri > mazeret:alibi} and evidence."`
 `"......That's right.`
 ` The whole night is a blank space in time for Natsuhi nee‐san.`
-` ......After she left the conference saying she was going to bed, she might have gone to the {ruby:çeviri > konukevi:guesthouse} and attacked George and the others..."`
+` ......After she left the {ruby:çeviri > konferans:conference} saying she was going to bed, she might have gone to the {ruby:çeviri > konukevi:guesthouse} and attacked George and the others..."`
 `"Don't be so ridiculous!!`
 ` Why would I kill George‐kun, and most of all, whyever would I kill my own daughter?!!"`
 `"Calm down.`
@@ -717,7 +717,7 @@
 ` ......Even with a master key, it's impossible to force your way into that room......!"`
 `"It must have been {f:5:Beatrice}‐sama's doing.........oooohhhhh......"`
 `"......Th‐there's no way {f:5:Beatrice}‐sama did this...`
-` ......The {ruby:çeviri > kitabe:epitaph} has been solved, so there shouldn't be any more reason to hold the ritual..."`
+` ......The {ruby:çeviri > kitabe:epitaph} has been solved, so there shouldn't be any more reason to hold the {ruby:çeviri > ritüel:ritual}..."`
 `"As if we could understand her reasons...`
 ` This is impossible for anyone except a witch...!"`
 `"......Impossible for anyone except a witch...you say?`

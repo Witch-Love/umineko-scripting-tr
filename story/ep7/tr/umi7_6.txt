@@ -471,10 +471,10 @@
 ` ...Uu."`
 `"Next to you...?`
 ` By your family's ranking system, your seat shouldn't be next to Rosa's."`
-`"It wasn't a family conference.`
+`"It wasn't a family {ruby:çeviri > konferans:conference}.`
 ` It was when just Mama and I came to visit.`
 ` So, there was only Uncle Krauss's family, Mama, and me.`
-` And we didn't leave gaps, so we weren't sitting in the same spots as a family conference."`
+` And we didn't leave gaps, so we weren't sitting in the same spots as a family {ruby:çeviri > konferans:conference}."`
 `"...........................`
 ` .........And Rosa was sitting in the seat next to you?"`
 `"Yeah.`
@@ -618,7 +618,7 @@
 `......It was a very un‐Maria‐like thing to do.`
 `"................................."`
 `I see.`
-` So, the {ruby:çeviri > Oyun Yöneticisi:Game Master} has moved the piece.`
+` So, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} has moved the piece.`
 `......Apparently, she's telling me to ask about something different for now.`
 `At some point, Lion had started chatting with the other family members.`
 `Jessica seemed to be getting irritated at having her butt pinched so much, and George was trying to calm her down.`

@@ -6,7 +6,7 @@
 `This room was the farthest down the hall, a long ways away from the cousins' room......`
 `"Last time, my room was right next to theirs.`
 ` ......I see...so he's placed my room farther away this time."`
-`"The powers of authority given to the {ruby:çeviri > Oyun Yöneticisi:Game Master} permit this level of modification to the initial {f:5:arrangement}.`
+`"The powers of authority given to the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} permit this level of modification to the initial {f:5:arrangement}.`
 ` It is, perhaps, a quite reasonable first {f:5:move}."`
 `"Well, that suits me too.`
 ` I have no desire to listen to those brats' squeaky voices as they play cards."`
@@ -36,7 +36,7 @@
 `"It is possible to tear it off {f:5:cleanly}.`
 ` This cannot serve as proof of a {f:5:seal}."`
 `"......I guess Battler isn't as totally incompetent as I thought.`
-` He probably tampered with all the duct tape on the island using the authority of the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+` He probably tampered with all the duct tape on the island using the authority of the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `Letting Erika get her hands on duct tape gave her a fatal weapon to use against witches.`
 ` The previous game had proven this fact.`
 `And so, Battler had removed that weapon from the entire {ruby:çeviri > malikane:mansion}......`
@@ -532,7 +532,7 @@
 ` You were just terrible at subjects with memorization, weren't you?`
 ` You could apply your knowledge but were horrible at learning by rote, a classic "he can do it if he tries" kid!"`
 `".........That one stung.`
-` Those are the most annoying words a kid can hear at a parent‐teacher conference."`
+` Those are the most annoying words a kid can hear at a parent‐teacher {ruby:çeviri > konferans:conference}."`
 `"‘You can lead a horse to water, but you can't make it drink.’"`
 `"That's a British proverb, isn't it?"`
 `"Making you motivated and keeping you that way...`

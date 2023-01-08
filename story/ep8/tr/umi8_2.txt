@@ -127,7 +127,7 @@
 `"We did that every year, didn't we?"`
 `"Every year...? That?!"`
 `"Well, I guess it's no surprise.`
-` The last time you went to a family conference, you weren't even six years old.`
+` The last time you went to a family {ruby:çeviri > konferans:conference}, you weren't even six years old.`
 ` ......So, it's only natural that you wouldn't remember."`
 `"It's...only natural that...`
 `............"`
@@ -179,7 +179,7 @@
 `How many times did Ange see Kinzo in her life?`
 `{n}How old was she the last time she saw him?`
 `Ange, who got sick easily when under pressure, couldn't have gone to Rokkenjima often.`
-`And, since she was absent for the family conference when she was six, her last memories of him must have come from when she was just five years old.`
+`And, since she was absent for the family {ruby:çeviri > konferans:conference} when she was six, her last memories of him must have come from when she was just five years old.`
 `"B‐......but even you...`
 `haven't seen Ushiromiya Kinzo for six years."`
 `"That's right.`
@@ -192,7 +192,7 @@
 ` ......I'll admit that his hobby of collecting strange objects to spook his grandchildren with wasn't exactly praiseworthy."`
 `Even Battler had been pranked by Kinzo in the past.`
 `He showed me an attaché case with seven strange stakes in it...`
-`...and said something about how witches in the Middle Ages used them in sacrificial rituals to gouge out the heart.`
+`...and said something about how witches in the Middle Ages used them in sacrificial {ruby:çeviri > ritüel:ritual}s to gouge out the heart.`
 `When Kinzo first showed me those, I was pretty frightened, but looking back on it, it really was the kind of prank that could only fool a child.`
 `Grandfather only scared his grandchildren......because he wanted to joke around with them.`
 `"I'd be willing to bet......that Grandfather pulled a prank like that on you too.`
@@ -209,7 +209,7 @@
 ` I don't remember anything like that!!`
 ` That could never happen!"`
 `"......Do you really think that Grandfather, a man who loved the occult and Western traditions, wouldn't celebrate Halloween?`
-` ......Grandfather's "Happy Halloween" was pretty much the standard greeting at our family conferences.`
+` ......Grandfather's "Happy Halloween" was pretty much the standard greeting at our family {ruby:çeviri > konferans:conference}s.`
 ` ......You must have been given one."`
 `".........Youth can be so cruel.`
 ` Grandfather must have put all his heart into choosing that present for you, ......but it looks like your heart didn't remember."`
@@ -226,7 +226,7 @@
 ` ......She never...had the chance..."`
 `"I don't believe it!!`
 ` I won't believe that was Ushiromiya Kinzo!`
-` Then what about the family conference itself?!`
+` Then what about the family {ruby:çeviri > konferans:conference} itself?!`
 ` Wasn't that a tense argument over the distribution of the inheritance?!"`
 `"All of the adult siblings were in money trouble!`
 ` They all hungered for Kinzo's inheritance money...!"`
@@ -249,7 +249,7 @@
 `"But it's a fact, isn't it?`
 ` There's no difference between facts and truth!"`
 `"And does that prove that the inheritance created a strained atmosphere between the relatives on Rokkenjima?`
-` ............I guess that seemed to fit with your memory of your parents telling you repeatedly to be extra polite at the family conference..."`
+` ............I guess that seemed to fit with your memory of your parents telling you repeatedly to be extra polite at the family {ruby:çeviri > konferans:conference}..."`
 `"A‐......are you saying that what I know about Rokkenjima, ......what I know about the Ushiromiya family,`
 ` .........is wrong......?!"`
 `"...................................."`
@@ -324,7 +324,7 @@
 `"Sorry,`
 ` but I won't let you leave this game."`
 `"......Ah, that's right.`
-` Unless the {ruby:çeviri > Oyun Yöneticisi:Game Master} admits defeat, the game never ends, right?"`
+` Unless the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} admits defeat, the game never ends, right?"`
 `"That's not what this is.`
 ` ......I just want you to stay quiet and listen to what I have to say."`
 `"......Oh, okay.`
@@ -445,7 +445,7 @@
 ` ......Nnngh, can't I get a better title than that?"`
 `"......Is this person...a witch......?"`
 `"Yep, she is.`
-` She's a guest who's been invited to the family conference today."`
+` She's a guest who's been invited to the family {ruby:çeviri > konferans:conference} today."`
 `"......She isn't a scary witch?`
 ` She's not gonna take me away into the forest...?"`
 `"Damn Rudolf and Kyrie.`

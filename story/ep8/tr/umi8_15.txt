@@ -256,7 +256,7 @@
 `"Okay, okay.`
 ` Don't make such a scary face...`
 ` In that case, please wait here.`
-` ......This is a, um, confidential conference!`
+` ......This is a, um, confidential {ruby:çeviri > konferans:conference}!`
 ` So, you must, uh,`
 ` come no closer than this line...!"`
 `Beato drew a line in the ground with her foot.`

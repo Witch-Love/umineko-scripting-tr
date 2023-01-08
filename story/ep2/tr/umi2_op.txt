@@ -93,7 +93,7 @@
 ` I was just trying to look cool...`
 ` I just held back because I was with a girl..."`
 `"I thought so.`
-` Considering how much you eat during lunch at the family conferences, I thought that this wasn't nearly enough.`
+` Considering how much you eat during lunch at the family {ruby:çeviri > konferans:conference}s, I thought that this wasn't nearly enough.`
 ` Please, don't be so reserved, and feel free to go and choose another dish."`
 `"This isn't fair... All the embarrassment is on me.`
 ` What about you, then, Shannon?`

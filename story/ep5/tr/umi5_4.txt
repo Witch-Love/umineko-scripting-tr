@@ -36,7 +36,7 @@
 ` ......It isn't even lunchtime yet, ...and I'm already tired."`
 `The sparks had been flying between them and Eva's group only a few moments earlier.`
 `The others had pounded on Krauss and Natsuhi over and over to get Kinzo out of his study...`
-`Apparently, they hadn't been fully tricked at last year's family conference after all......`
+`Apparently, they hadn't been fully tricked at last year's family {ruby:çeviri > konferans:conference} after all......`
 `".........There are......no problems with Father, I assume...?"`
 `"Correct.`
 ` ......Leave it to me.`
@@ -57,11 +57,11 @@
 `"......Mm.`
 ` It seems that some considerable suspicions were aroused last year.`
 ` The terrible toxin has accumulated and is being spread all around."`
-`"......It seems this year's conference really will be crucial."`
+`"......It seems this year's {ruby:çeviri > konferans:conference} really will be crucial."`
 `"We might be able to overcome this year somehow, ......but there is such a thing as pushing our luck.`
 ` It's probably best to assume that next year won't be manageable."`
 `".........With this much of the anti‐magic toxin filling up the place,`
-` it will probably be difficult to preserve Lord {f:5:Goldsmith}'s {ruby:çeviri > büyü:magic} for yet another family conference."`
+` it will probably be difficult to preserve Lord {f:5:Goldsmith}'s {ruby:çeviri > büyü:magic} for yet another family {ruby:çeviri > konferans:conference}."`
 `"W‐......who are you?"`
 `"Oh,`
 ` no need to be surprised.`
@@ -162,7 +162,7 @@
 `"Sheesh...`
 ` I wish I could keep the downpour limited to the inside of my heart."`
 `The people in the {ruby:çeviri > salon:parlor} noticed that raindrops had started to drip down the window.`
-`"So now, we have nowhere to run until the family conference ends."`
+`"So now, we have nowhere to run until the family {ruby:çeviri > konferans:conference} ends."`
 `"......The same thing goes for Nii‐san and his accomplices.`
 ` ......I won't let them escape, you can be certain of that...`
 ` The cards we're holding aren't bad.`
@@ -311,7 +311,7 @@
 ` And they said they would get her some clothes afterwards."`
 `"In that case, they will probably arrive here soon.`
 ` ......Everyone.`
-` This may be the day of the family conference, but we have a guest brought here by an unfortunate accident.`
+` This may be the day of the family {ruby:çeviri > konferans:conference}, but we have a guest brought here by an unfortunate accident.`
 ` She wasn't invited, but I want you all to welcome her."`
 `"Who could disagree with that?`
 ` I'm all for it."`
@@ -483,7 +483,7 @@
 ` ......This is the middle of a typhoon.`
 ` There is no place on this island where it would be possible to land a boat."`
 `Genji had already figured it out.`
-`Natsuhi almost certainly suspected that this mysterious guest, who had arrived during the already high‐stress family conference,`
+`Natsuhi almost certainly suspected that this mysterious guest, who had arrived during the already high‐stress family {ruby:çeviri > konferans:conference},`
 ` might be a pawn in someone's plot.`
 `Therefore, Genji had already checked to make sure that the accident was real, that Furudo Erika was her real name,`
 ` and that there was nothing suspicious going on......`
@@ -492,7 +492,7 @@
 ` Make sure that there are no blunders.`
 ` ......However.........you understand, don't you?"`
 `"Yes.`
-` ......We will not allow her anywhere near the family conference.`
+` ......We will not allow her anywhere near the family {ruby:çeviri > konferans:conference}.`
 ` After dinner, I will see that she retires to the {ruby:çeviri > konukevi:guesthouse}."`
 `"Make sure that they don't start talking about letting her meet Father, or anything like that, either."`
 `"Of course.`

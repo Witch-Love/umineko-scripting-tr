@@ -74,7 +74,7 @@
 ` Following those orders is the duty of the head's representative.`
 ` Isn't that right, Genji‐san?"`
 `"............Yes.`
-` The Master's sleep must not be disturbed, no matter the circumstances."`
+` The {ruby:çeviri > Efendi:Master}'s sleep must not be disturbed, no matter the circumstances."`
 `"There's a time and place for everything, isn't there...?!!`
 ` I mean, the {ruby:çeviri > kitabe:epitaph} was solved!!`
 ` Father has a right to know straight away!"`
@@ -93,7 +93,7 @@
 `"Ouch, owowowowow...!!`
 ` Let go, let go of me!!"`
 `"Krauss‐sama, Eva‐sama.`
-` You have been told that the Master is sleeping.`
+` You have been told that the {ruby:çeviri > Efendi:Master} is sleeping.`
 ` Please refrain from disturbing him any further...!"`
 `When Genji spoke firmly, the two finally ceased their scuffle.`
 `It seemed that Genji, the one who had spoken for Kinzo since they were very young, still possessed an air of dignity strong enough to handle both Krauss and Eva...`
@@ -110,7 +110,7 @@
 `".........Fate can be truly interesting.`
 ` To think that Battler‐sama should be the one to reach that place..."`
 `"What will you do, Beato?`
-` ......You made a promise to stop the ritual if anyone solved the {ruby:çeviri > kitabe:epitaph}'s riddle."`
+` ......You made a promise to stop the {ruby:çeviri > ritüel:ritual} if anyone solved the {ruby:çeviri > kitabe:epitaph}'s riddle."`
 `"Mm.`
 ` ...That was the agreement."`
 `".........That is the agreement.`
@@ -133,9 +133,9 @@
 ` To let ourselves be relieved from duty just because Battler solved the {ruby:çeviri > kitabe:epitaph} would be quite irresponsible.`
 ` ......Witches aren't allowed to break contracts, but they also must not fail to show gratitude."`
 `"......True.`
-` We should serve her until the family conference ends."`
+` We should serve her until the family {ruby:çeviri > konferans:conference} ends."`
 `"In that case, you won't be relieved from duty for a while either, Lord {f:5:Goldsmith}.`
-` ......Perhaps you should wait until you've overcome this family conference safely, said goodbye to Natsuhi‐sama at the very least,`
+` ......Perhaps you should wait until you've overcome this family {ruby:çeviri > konferans:conference} safely, said goodbye to Natsuhi‐sama at the very least,`
 ` ......and if possible, rewarded her for all her efforts."`
 `"...............Hmm.`
 ` ......She has done well supporting my foolish son."`
@@ -190,7 +190,7 @@
 `"......I may be here, but please continue your discussion as though I am not.`
 ` Battler‐san called all of the adults here, making sure that none of his cousins would notice.`
 ` That can only mean one thing.`
-` ......He must wish for you all to conduct the true family conference."`
+` ......He must wish for you all to conduct the true family {ruby:çeviri > konferans:conference}."`
 `"......Erika.`
 ` Quit trying to run the show."`
 `"Oh, how rude of me.`
@@ -263,13 +263,13 @@
 `"Darn right!!`
 ` Bring Father down to us!!`
 ` We won't get anywhere with just you two!`
-` Let's get the real family conference started!!`
+` Let's get the real family {ruby:çeviri > konferans:conference} started!!`
 ` You think this looks like somethin' you can put off because he's {i:tired}?!`
 ` We don't do this properly, an' we'll have a massive problem on our hands...!"`
 `"Hey, ya listenin' to me?!!`
 ` I'm sayin' we're through with you two!!`
 ` Get off your asses and bring Father down right noooooow!!!"`
-`"...............Are family conferences always like this?"`
+`"...............Are family {ruby:çeviri > konferans:conference}s always like this?"`
 `"......How the hell'd I know?"`
 `"They're probably always feeling like this on the inside.`
 ` .........Heheheheh.`
@@ -287,13 +287,13 @@
 `...ugly than he had imagined...`
 `He was very glad that he'd called the adults out here without letting the cousins catch wind of anything......`
 `Perhaps because everyone was tired out from this seemingly endless argument, they took a short break.`
-`It was decided that this family conference inside the {ruby:çeviri > Altın Diyar:Golden Land} should be moved over to the {ruby:çeviri > malikane:mansion}...`
+`It was decided that this family {ruby:çeviri > konferans:conference} inside the {ruby:çeviri > Altın Diyar:Golden Land} should be moved over to the {ruby:çeviri > malikane:mansion}...`
 `This place may have been gorgeous, like a VIP room, but there was no ventilation, and it was a little cold.`
 `It wasn't well suited for a long conversation.`
 `They thought of the possibility that someone might carry the gold away while their backs were turned,`
 ` but it wasn't as if anyone could manage much with just human hands and a small amount of time when they had ten tons of gold to deal with.`
 `In fact, it even seemed as though having this mountain of gold in the background was robbing them of the ability to make sound decisions.`
-`So they agreed to return to the {ruby:çeviri > malikane:mansion}, in part so that they could regain their composure and continue the conference more ruthlessly......`
+`So they agreed to return to the {ruby:çeviri > malikane:mansion}, in part so that they could regain their composure and continue the {ruby:çeviri > konferans:conference} more ruthlessly......`
 `"......Well then, I will retire for the night.`
 ` ......I imagine I would just get in the way if I remained any longer."`
 `"Yeah, sorry about this.`
@@ -345,7 +345,7 @@
 `".........We solved the {ruby:çeviri > kitabe:epitaph}.`
 ` Just like you wanted."`
 `"................................."`
-`"When you were the {ruby:çeviri > Oyun Yöneticisi:Game Master}, we'd always get those letters.`
+`"When you were the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, we'd always get those letters.`
 ` ......‘Try and solve the {ruby:çeviri > kitabe:epitaph}.`
 ` If you don't, I'll kill you all’."`
 `"................................."`
@@ -379,7 +379,7 @@
 `No, to the contrary, she might get her own gold stolen away.`
 `"In that case, I'm understanding this less and less.`
 ` .........I understand the {ruby:çeviri > kitabe:epitaph} murders.`
-` It could be revenge against the Ushiromiya family, or else a ritual to revive her powers as a witch.`
+` It could be revenge against the Ushiromiya family, or else a {ruby:çeviri > ritüel:ritual} to revive her powers as a witch.`
 ` ...She's probably got some reason or goal of her own for it."`
 `"................................."`
 `"But what's the point of her telling us to solve the {ruby:çeviri > kitabe:epitaph}?`

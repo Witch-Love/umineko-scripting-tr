@@ -2,12 +2,12 @@
 `"You {i:should?!}`
 ` Everyone was killed, goddammit!!`
 ` By that goddamned old fart!`
-` Saying something incomprehensible about {f:5:Beatrice}'s resurrection ritual or something!!"`
+` Saying something incomprehensible about {f:5:Beatrice}'s resurrection {ruby:çeviri > ritüel:ritual} or something!!"`
 `"Then, that means, thirteen people have been offered as sacrifices,`
 ` ......and {f:5:Beatrice} will have revived already, you know?"`
 `"Yeah, that's perfect!!`
 ` I'll take {f:5:Beatrice} too and kill them both!!"`
-`"............We survived the ritual.`
+`"............We survived the {ruby:çeviri > ritüel:ritual}.`
 ` So we'll receive an invitation to the {ruby:çeviri > Altın Diyar:Golden Land} from {f:5:Beatrice}, you see......?"`
 `"All wishes are granted there.`
 ` If you're suffering because your family was killed, then you just have to bring them back to life.`
@@ -26,7 +26,7 @@
 `".....................Sh‐shit.`
 ` This isn't the time to get in an argument with you...!!`
 ` Forget "hostages", at this point, there's no one left alive at all!`
-` This dumb‐as‐hell, screwed‐up ritual game is done now...!!"`
+` This dumb‐as‐hell, screwed‐up {ruby:çeviri > ritüel:ritual} game is done now...!!"`
 `"From here on, I'm doing what {i:I} want.`
 ` Someone might still be alive.`
 ` Or someone might be hiding!`
@@ -97,7 +97,7 @@
 `".........D‐don't go!!`
 ` You'll be killed!!"`
 `"No I won't.`
-` The ritual's already over.`
+` The {ruby:çeviri > ritüel:ritual}'s already over.`
 ` ...And even if I am, I'll be revived.`
 ` ......Whether one of us becomes the head or not, we're already invited to the {ruby:çeviri > Altın Diyar:Golden Land}.`
 ` See you."`
@@ -177,7 +177,7 @@
 `"......What......are you going on about.........?`
 ` ...Are you saying that you're......B‐{f:5:Beatrice} or something...?"`
 `"<Ye~eeeeeeeeeeeeeeess, I aaaaaaaaaamm>!!`
-` Thanks to Kinzo's thirteen‐person murder ritual, I've finally been resurrected...!!`
+` Thanks to Kinzo's thirteen‐person murder {ruby:çeviri > ritüel:ritual}, I've finally been resurrected...!!`
 ` It's nice having a mouth, it's nice having a tongue!`
 ` How fun it is to be able to talk to you like this!"`
 `"Come to think of it, even though we've hurled insults at each other over and over again,`
@@ -374,7 +374,7 @@
 `I adjusted my grip on the spear,`
 ` and, imagining goats creeping out of the surrounding shadows and the entrance and surrounding me, I raised my guard in all directions...`
 `"Ahhaha, be at ease, there's no one here but you and me, see?`
-` There is no goat {ruby:çeviri > mobilya:furniture}, there are no demon {ruby:çeviri > uşaklar:butlers}; Master is not here, nor my close demon friend."`
+` There is no goat {ruby:çeviri > mobilya:furniture}, there are no demon {ruby:çeviri > uşaklar:butlers}; {ruby:çeviri > Efendi:Master} is not here, nor my close demon friend."`
 `"And there are none of the gold butterflies that help compose my physical form, there are no {ruby:çeviri > büyü:magic} circles, and no summoners in attendance!!`
 ` ......Do you know what this means?"`
 `"Not a clue.`
@@ -693,7 +693,7 @@
 `"...Sorry, Beato.`
 ` ......I have absolutely no memory of it."`
 `"......You make it seem like I caused you trouble six years ago or something,`
-` but unless I'm mistaken, this family conference is the first time we met.`
+` but unless I'm mistaken, this family {ruby:çeviri > konferans:conference} is the first time we met.`
 ` It's true that your legend did exist six years ago,`
 ` but I'm pretty confident that we didn't know each other back then."`
 `"......Naturally.`
@@ -765,7 +765,7 @@
 `"Give me a fucking break!!!`
 ` For these six years, I've been the man furthest from the Ushiromiya family!`
 ` What influence could {i:I} have had on {i:anything} and how?!"`
-`"It's not like I came to the family conference because I wanted to!`
+`"It's not like I came to the family {ruby:çeviri > konferans:conference} because I wanted to!`
 ` I'd patched things up with the family after six years, so to like, draw a line under that whole period,`
 ` I came to Rokkenjima reluctantly...!!`
 ` It's not like I had some duty to come here today!"`

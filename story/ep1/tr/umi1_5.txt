@@ -63,7 +63,7 @@
 `......It is said that, when asked that question, Grandfather answered like this:`
 `{i:One fateful day, I encountered the Golden Witch }{f:7:Beatrice}{i:.}`
 `He then went on and on about how he continued to research alchemy and techniques for summoning demons in order to become a great mage.`
-`...And the entity summoned as the result of the demon‐calling ritual was the Golden Witch {f:5:Beatrice}.`
+`...And the entity summoned as the result of the demon‐calling {ruby:çeviri > ritüel:ritual} was the Golden Witch {f:5:Beatrice}.`
 `He then said that he made a contract where, in exchange for his own soul, he would receive fortune and honor.`
 `The witch then granted Grandfather ten tons of gold.`
 `Grandfather used this gold as collateral to prepare a vast quantity of funds,`
@@ -271,7 +271,7 @@
 ` He was just fascinated by it."`
 `"Yes, she does that, doesn't she?`
 ` ...{f:5:Beatrice}‐sama is truly beautiful.`
-` I am sure that she captivated the Master."`
+` I am sure that she captivated the {ruby:çeviri > Efendi:Master}."`
 `"Ahahahaha.`
 ` In addition to the patron theory, there's also a theory that she was Grandfather's first love.`
 ` ...Either way, although it's been several decades since he met her, even now she holds a special place in his heart.`
@@ -910,12 +910,12 @@
 ` ...Why did Kinzo‐san have something so provocative written, I wonder."`
 `Nanjo looked at the {ruby:çeviri > portre:portrait} of {f:5:Beatrice}.`
 `{n}......No, he actually directed his gaze beneath the {ruby:çeviri > portre:portrait}, at the plate with the {ruby:çeviri > kitabe:epitaph}.`
-`"...............I fail to understand the Master's thoughts.`
+`"...............I fail to understand the {ruby:çeviri > Efendi:Master}'s thoughts.`
 ` I sense that they run very deep."`
 `"......For as long as I can remember, whenever Kinzo‐san played chess, he would always make moves based on some far‐sighted reading of the board.`
 ` Yes, sometimes even moves that were incomprehensible.`
 ` ......For an average person like me, it is impossible to see through to whatever it is he's planning..."`
-`"I personally suspect this may be some kind of will from the Master.`
+`"I personally suspect this may be some kind of will from the {ruby:çeviri > Efendi:Master}.`
 ` .........He most likely intends to entrust his assets and the family headship to whoever manages to comprehend it."`
 `"......Hoping that the danger of some outsider like myself solving it...`
 `would force the four siblings to work together to solve the riddle.`
@@ -926,7 +926,7 @@
 `...However, Nanjo and Genji both knew this was the one thing that could never be the case.`
 `Here were the two who held the longest relationship with Kinzo, more trusted than his blood relatives,`
 ` and even they could not guess at Kinzo's true motive...`
-`"......The Master is always saying that the right to challenge the riddle is granted to everyone, whether they are a member of the family or not.`
+`"......The {ruby:çeviri > Efendi:Master} is always saying that the right to challenge the riddle is granted to everyone, whether they are a member of the family or not.`
 ` ......How about you, Doctor Nanjo?"`
 `"No, no......It's a little too hard to understand for this senile old man."`
 `"......Actually, I wrote this {ruby:çeviri > kitabe:epitaph} down in my notebook at one point in time.`
@@ -934,7 +934,7 @@
 `...hahaha, it truly is hard.`
 ` I believe it shall continue providing me enjoyment for the rest of my days.`
 ` What about you, Genji‐san?"`
-`".........I am nothing more than {ruby:çeviri > mobilya:furniture} that serves the Master.`
+`".........I am nothing more than {ruby:çeviri > mobilya:furniture} that serves the {ruby:çeviri > Efendi:Master}.`
 ` Gold and assets are useless to me."`
 `"My, my, you are a humble person.`
 ` ...That's probably why Kinzo‐san trusts you so much."`

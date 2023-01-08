@@ -57,9 +57,9 @@
 `is long past."`
 `Nobody answered.`
 `......Without any kind of discussion or mercy, six people had been killed in an instant.`
-`And Kinzo had so boldly proclaimed for them to become sacrifices in a thirteen‐person murder ritual.`
+`And Kinzo had so boldly proclaimed for them to become sacrifices in a thirteen‐person murder {ruby:çeviri > ritüel:ritual}.`
 `......Since they had been locked up in this place,`
-` they too would probably become the ritual's next sacrifices before long.`
+` they too would probably become the {ruby:çeviri > ritüel:ritual}'s next sacrifices before long.`
 `Around this time, their eyes were becoming used to the darkness,`
 ` and, bit by bit, they were starting to be able to make out the dungeon's interior.`
 `......What they thought was {ruby:çeviri > mobilya:furniture} haphazardly left in the dungeon turned out not to be {ruby:çeviri > mobilya:furniture} at all.`
@@ -329,7 +329,7 @@
 `A number of mysterious people had appeared suddenly out of thin air,`
 ` ......six people had had their heads demolished by a mysterious golden flying object,`
 ` ......and the five of us were locked away in a mysterious dungeon by a mysterious set of pitfalls, or else put to sleep by some fainting poison dart......`
-`The family conference started a bit after 10 p.m.`
+`The family {ruby:çeviri > konferans:conference} started a bit after 10 p.m.`
 `{n}......It's only been about thirty minutes since then.`
 `Probably,`
 ` those events, which took place in such a short amount of time,`
@@ -459,7 +459,7 @@
 `"......It's likely that Grandfather and his followers will be armed.`
 ` Locking ourselves in this room is our best bet, and moreover our only method of staying locked down.`
 ` ......It's painful that we have no choice but to stuff ourselves in a locked room, but if our enemies are carrying guns, then that's the only method we have left to us."`
-`"Th‐the Master is said to have a collection of working guns.`
+`"Th‐the {ruby:çeviri > Efendi:Master} is said to have a collection of working guns.`
 ` .........That's right, guns, that was a gun...`
 ` If so, ......it's a horribly powerful gun...!`
 ` W‐we can't contend with that at all...!"`
@@ -473,7 +473,7 @@
 ` ...Goddamn him, knocking off my dad, and even capturing Kyrie‐san...`
 ` ......You're gonna pay for this, you old goat...!"`
 `"I‐i‐i‐impossible, there's no way we can go against them...!!`
-` Besides, it's not just the Master, he has several underlings too!`
+` Besides, it's not just the {ruby:çeviri > Efendi:Master}, he has several underlings too!`
 ` Th‐there might even be more of them...!`
 ` .........Just what......are they......?"`
 `Battler was filled to the brim with the urge to get revenge for Rudolf,`
@@ -496,7 +496,7 @@
 `"...........................`
 ` ......You're right...`
 ` You're damn right...`
-` ......That old bastard, fuck your stupid ritual...!`
+` ......That old bastard, fuck your stupid {ruby:çeviri > ritüel:ritual}...!`
 ` If you're saying we're gonna be sacrifices for that, then we'll run away just to spite you, and fuck up the whole goddamn thing......"`
 `"That's the way.`
 ` ......Besides, you still have Kyrie‐san, Battler‐kun.`
@@ -683,7 +683,7 @@
 ` ......It's unusual.`
 ` For us to be captured without being killed."`
 `"This time, {f:5:Beatrice}‐sama didn't make her appearance.`
-` And the Master left his study.`
+` And the {ruby:çeviri > Efendi:Master} left his study.`
 ` ......I don't have a clue what's going on..."`
 `"I do.`
 ` .........Whatever happens or changes, it's all for that witch's fickle entertainment.`
@@ -692,7 +692,7 @@
 `"Who knows.`
 ` We have a high rate of losing."`
 `"............Come to think of it, it's a rare thing that both of us survived the first twilight, isn't it?`
-` ......I get the feeling that it's incredibly unusual for us to be able to talk together like this even though the ritual has already begun."`
+` ......I get the feeling that it's incredibly unusual for us to be able to talk together like this even though the {ruby:çeviri > ritüel:ritual} has already begun."`
 `"Maybe.`
 ` ......But that's still just for the witch's entertainment.`
 ` I'm not thinking of it as anything other than her letting us live just a little longer to ridicule us, since we usually drop out right in the beginning."`
@@ -845,7 +845,7 @@
 `All they could do was pray that Nanjo could find out where this was...`
 `"......They're coming.`
 ` There's probably...four people.`
-` ......The Master, and three of those who appeared in the {ruby:çeviri > yemek salonu:dining hall}."`
+` ......The {ruby:çeviri > Efendi:Master}, and three of those who appeared in the {ruby:çeviri > yemek salonu:dining hall}."`
 `"OK, good.`
 ` You come back here as well now.`
 ` We'll deal with the rest."`
@@ -960,12 +960,12 @@
 `"Eventually.`
 ` That's not why I'm here this time, so relax.`
 ` Besides, I believe I said it already.`
-` ......If one of my grandchildren is deemed suitable to inherit everything from me, then the ritual will be called off.`
+` ......If one of my grandchildren is deemed suitable to inherit everything from me, then the {ruby:çeviri > ritüel:ritual} will be called off.`
 ` In other words, your lives will be spared."`
 `"......Wh‐what are you planning to do to the children?"`
 `"To see if they are suitable to be my successor or not,`
 ` I shall give them a test.`
-` If even one of them can impress me, I'll call the ritual off."`
+` If even one of them can impress me, I'll call the {ruby:çeviri > ritüel:ritual} off."`
 `".........And if there isn't anyone suitable,`
 ` ......what are you planning on doing with the children?"`
 `"*cackle*cackle*cackle*!`
@@ -1021,7 +1021,7 @@
 `"You'd be lucky to become sacrifices right away.`
 ` ......Don't you think it'd be more painful to watch the children be made into sacrifices first, before your very eyes...?"`
 `"......Ga...ap.`
-` The Master is the one who decides the order of the sacrifices.`
+` The {ruby:çeviri > Efendi:Master} is the one who decides the order of the sacrifices.`
 ` Keep your opinions to yourself."`
 `"Lia, you just tried to shorten my name and failed, didn't you?"`
 `"I, I did not!`

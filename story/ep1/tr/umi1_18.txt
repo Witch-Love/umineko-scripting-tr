@@ -59,7 +59,7 @@
 `"Maria did believe in {f:5:Beatrice} from the very beginning.`
 ` ...But then, so did Kanon‐kun and the others, so how do you explain why they were all killed?"`
 `"......{f:5:Beatrice}‐sama probably had her reasons."`
-`"If the {ruby:çeviri > kitabe:epitaph} poem represented {f:5:Beatrice}‐sama's resurrection ritual, then she needed many sacrifices.`
+`"If the {ruby:çeviri > kitabe:epitaph} poem represented {f:5:Beatrice}‐sama's resurrection {ruby:çeviri > ritüel:ritual}, then she needed many sacrifices.`
 ` ......He must simply have been designated to be one of those."`
 `"...Shannon‐chan, you met a horrible end...`
 ` At the very least, I wish your death could have been more peaceful and pretty."`

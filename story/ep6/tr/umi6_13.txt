@@ -201,7 +201,7 @@
 `"......When Battler reached the truth in the previous game,`
 ` ......this game was already finished.`
 ` This isn't really the sixth game.`
-` ......It's a finale game so that Battler can have a chance to serve as {ruby:çeviri > Oyun Yöneticisi:Game Master} at the end.`
+` ......It's a finale game so that Battler can have a chance to serve as {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} at the end.`
 ` Everything was already decided last game."`
 `"Yeah, pretty much.`
 ` The games won't continue forever, and I've lost my bet with Bern.`
@@ -239,7 +239,7 @@
 `"...M‐......my apologies, ...my master......`
 ` ......I will definitely...bring you a victory, ......so please forgive me......"`
 `"If you couldn't win with the detective's authority in the last game,`
-` how do you expect to defeat Battler now that he's the {ruby:çeviri > Oyun Yöneticisi:Game Master}...?`
+` how do you expect to defeat Battler now that he's the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?`
 ` You don't have a chance at winning even {i:with} the detective's authority.`
 ` ......So why bother with it?"`
 `"I......uh............"`
@@ -330,7 +330,7 @@
 `"Sorry for being an ill‐mannered patron.`
 ` ......You might not know it, but I've already paid a huge admission fee to watch this play.`
 ` Sorry, but I intend to enjoy it until I get my money's worth."`
-`"If you get in the way of the game's progression, I can use my authority as the {ruby:çeviri > Oyun Yöneticisi:Game Master} to boot you out of this game."`
+`"If you get in the way of the game's progression, I can use my authority as the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} to boot you out of this game."`
 `"If you want to, go ahead.`
 ` If you chase me out, then I'll head back with my piece, Erika.`
 ` This game will be cancelled, and you won't be able to prove that you've reached the truth.`
@@ -465,7 +465,7 @@
 `If he had just said "three seals", she would only be able to fully seal up one room at best.`
 `So, Battler was generous and measured them by room instead of by seal...`
 `"......Lord {f:5:Battler}......"`
-`"As the {ruby:çeviri > Oyun Yöneticisi:Game Master}, I will also acknowledge that these seals have the same effect as the {ruby:çeviri > kırmızı gerçek:red truth}.`
+`"As the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, I will also acknowledge that these seals have the same effect as the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` ......This way, you'll also be able to wield that red longsword in battles based around those seals.`
 ` Right...?"`
 `".........{f:5:Yes}...`
@@ -500,7 +500,7 @@
 `".........Letting you do it retroactively, even though you know which rooms the crime will occur in...`
 ` ...That gives you a pretty big advantage.`
 ` You won't have to waste tape on other rooms."`
-`"It seems you've grown quite arrogant since becoming {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`"It seems you've grown quite arrogant since becoming {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 ` You're having fun, aren't you?`
 ` Giving out charity to your pathetic opponent."`
 `"Quiet.`
@@ -555,10 +555,10 @@
 ` ......That's how vile her face contorted to be...`
 `The two witches were also cackling with ugly smiles...`
 `"I totally feel him.`
-` When you become {ruby:çeviri > Oyun Yöneticisi:Game Master}, it feels like you've become God and you get all sure of yourself, you kno~w?"`
+` When you become {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, it feels like you've become God and you get all sure of yourself, you kno~w?"`
 `".........It was the same for you, wasn't it, Lambda?`
 ` ......You lost because you made a bonehead mistake involving walking corpses.`
-` .........Bonehead {ruby:çeviri > Oyun Yöneticileri:Game Masters}, bonehead blunders, bonehead arrogance, bonehead beatings, bonehead Battler, billions of boneheads.`
+` .........Bonehead {ruby:çeviri > Oyun Yöneticileri:Game {ruby:çeviri > Efendi:Master}s}, bonehead blunders, bonehead arrogance, bonehead beatings, bonehead Battler, billions of boneheads.`
 ` *giggle*giggle*giggle*giggle*!!"`
 `"Bonehead beatings, bonehead Battler, billions of boneheads.`
 ` Ahahahahaha, I like the way it rolls off the tongue.`
@@ -688,12 +688,12 @@
 `"Or you can decide by a lottery of some sort."`
 `"Like hell we're gonna choose by drawing lots.`
 ` Let's have a duel, fair and square."`
-`"......Though if we do that, I imagine that Battler‐kun, who is the {ruby:çeviri > Oyun Yöneticisi:Game Master},`
+`"......Though if we do that, I imagine that Battler‐kun, who is the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}},`
 ` and {f:5:Beatrice}, who is still the Golden Witch despite having no memory, ......will have a substantial advantage."`
 `"Ah, ......w‐......well, I wonder about that..."`
 `"Don't worry!`
 ` For this trial, we have made everyone's powers completely equal."`
-`"Even the {ruby:çeviri > Oyun Yöneticisi:Game Master}, Lord {f:5:Battler}, is taking this trial on an even footing with everyone else."`
+`"Even the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Lord {f:5:Battler}, is taking this trial on an even footing with everyone else."`
 `"In that case, ......it's fair......"`
 `"Is it completely and purely even?"`
 `""Yes, perfectly even!`

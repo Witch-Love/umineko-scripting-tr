@@ -386,7 +386,7 @@
 `"............Would one night be enough?"`
 `"I can't promise you that it will take only one night...!"`
 `"Out of respect for you as the successor to the head, I will support you for one night.`
-` ......This year's family conference will end tomorrow morning, when the typhoon passes and a boat comes to get us.`
+` ......This year's family {ruby:çeviri > konferans:conference} will end tomorrow morning, when the typhoon passes and a boat comes to get us.`
 ` ...That's right, when the seagulls cry.`
 ` ......I will remain silent until then."`
 `"If you think that you need more time to think after that, ...let's talk about it again at that time, alright?`
@@ -604,8 +604,8 @@
 `{n}The eldest sister, Lucifer, took a step forward and kneeled.`
 `"These are {ruby:çeviri > mobilya:furniture} who serve me.`
 ` As a gift in celebration of your inheritance, I will send them to you."`
-`"......After you succeed the Golden Witch, you will need to perform the ritual for your own resurrection.`
-` The Seven Sisters of Purgatory perform an essential role in that ritual.`
+`"......After you succeed the Golden Witch, you will need to perform the {ruby:çeviri > ritüel:ritual} for your own resurrection.`
+` The Seven Sisters of Purgatory perform an essential role in that {ruby:çeviri > ritüel:ritual}.`
 ` ......They're a bunch of miscreants, but they serve their purpose.`
 ` Have them do whatever you wish."`
 `"We will always be by your side, {f:5:Beatrice}‐sama.`

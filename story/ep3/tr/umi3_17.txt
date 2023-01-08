@@ -364,7 +364,7 @@
 ` She was the only one on the first floor of the {ruby:çeviri > konukevi:guesthouse}!"`
 `"George nii‐san must have seen her kill Mom and Dad, and she killed him to keep him silent!!`
 ` It's the same with Grandfather and the {ruby:çeviri > hizmetkarlar:servants}.`
-` I'm sure she snuck out of the family conference last night and killed all of them...!!"`
+` I'm sure she snuck out of the family {ruby:çeviri > konferans:conference} last night and killed all of them...!!"`
 `"......I‐if that is the case, then we will know as soon as the police investigate."`
 `"The police are incredible, you know—there is nothing that cannot be understood by a forensic investigator.`
 ` ......There is no need for us to suspect or hate anyone.`
@@ -506,7 +506,7 @@
 ` Romantic love is even more pure, more sacred.`
 ` ...Though, for some reason, you hate it very much, {ruby:çeviri > Leydim:Milady}."`
 `".................................`
-` ......Master told me.`
+` ......{ruby:çeviri > Efendi:Master} told me.`
 ` ...{ruby:çeviri > Büyü:Magic} exists to bring people happiness.`
 ` ...I'm sure that I knew that once."`
 `"......And from the moment I forgot that, I was no longer a witch.`
@@ -1564,7 +1564,7 @@
 ` and said that she wanted to go and get food in order to disguise her real goal..."`
 `"......Y‐...yeah, if that's the case, it may still be possible to explain it.`
 ` ......But......how?!"`
-`"Master, reconstruct the scene where Kyrie died...!`
+`"{ruby:çeviri > Efendi:Master}, reconstruct the scene where Kyrie died...!`
 ` We cannot summon a ghost, but inspecting the corpse should be the human side's right..."`
 `"Yes, that poses no problems.`
 ` I will reconstruct the scene where Ushiromiya Kyrie died."`

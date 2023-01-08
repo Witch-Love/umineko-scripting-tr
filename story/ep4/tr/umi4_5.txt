@@ -887,7 +887,7 @@
 `"My, my.`
 ` I {i:thought} I heard some cheery voices.`
 ` What a fun tea party this seems to be..."`
-`"Oh, Master.`
+`"Oh, {ruby:çeviri > Efendi:Master}.`
 ` Perfect timing.`
 ` I want you to take a look at this lion cub.`
 ` I hear he's Maria's new friend."`
@@ -898,7 +898,7 @@
 `‘U‐uryuu!`
 ` I, I'm Sakutarou.’`
 `Sakutaro got back down onto Maria's lap, and greeted {f:5:Virgilia} with half of his face poking out over the edge of the table.`
-`...He seemed to be very nervous since this was a witch that even Beato called Master.`
+`...He seemed to be very nervous since this was a witch that even Beato called {ruby:çeviri > Efendi:Master}.`
 `"Hoh‐hoh‐ho.`
 ` What a lovely name.`
 ` ......As a reward for giving such a good greeting, here's a sweet for you."`
@@ -914,7 +914,7 @@
 ` Thank you very much for the candy.`
 ` ...*bow*.’`
 `Even though {f:5:Virgilia} was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.`
-`"Still, Master, cough drops? Are you someone's granny or something...?!`
+`"Still, {ruby:çeviri > Efendi:Master}, cough drops? Are you someone's granny or something...?!`
 ` Can't you at least pull out some strawberry‐milk candy~?"`
 `"How mean.`
 ` Perhaps I won't give you candy anymore?"`
@@ -926,7 +926,7 @@
 ` Okay, taking it out.`
 ` Are we writing something?"`
 `"......Oh? What's happening now?"`
-`"I will use a {ruby:çeviri > büyü:magic} I learned from you, Master.`
+`"I will use a {ruby:çeviri > büyü:magic} I learned from you, {ruby:çeviri > Efendi:Master}.`
 ` .........{ruby:çeviri > Büyü:Magic} to make a resident of another world manifest into a vessel."`
 `"I think that by applying that, I may be able to further strengthen the power manifesting this friend of Maria's.`
 ` ......I want to give that as a gift to Maria and her friend."`
@@ -934,7 +934,7 @@
 ` ...It shouldn't be that difficult for a being that has already manifested.`
 ` That seems like it will turn out to be a wonderful gift.`
 ` Well then, I shall offer what modest help I can."`
-`"If you shall be signing for this {ruby:çeviri > büyü:magic} personally as a witness, Master, that is greatly encouraging...!`
+`"If you shall be signing for this {ruby:çeviri > büyü:magic} personally as a witness, {ruby:çeviri > Efendi:Master}, that is greatly encouraging...!`
 ` Rejoice, Maria.`
 ` This shall be a wonderful gift...!"`
 `‘Uryu...?`
@@ -970,7 +970,7 @@
 ` So cuuute!!`
 ` Uu‐uu‐uu!!"`
 `"By the name of the Golden Witch {f:5:Beatrice}, I hereby acknowledge Sakutarou, {f:5:Maria}'s child.`
-` .........Master, if you would sign as a witness!"`
+` .........{ruby:çeviri > Efendi:Master}, if you would sign as a witness!"`
 `"Yes, yes.`
 ` ......By my name, I stand witness to and acknowledge this oath.`
 ` .........It is done."`

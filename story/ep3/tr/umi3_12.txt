@@ -142,7 +142,7 @@
 `Meanwhile, Eva was lying in bed, covered by the bedding.`
 `Hideyoshi returned from the washroom, folding a handkerchief soaked in water.`
 `"......My, this is one nasty fever...`
-` ......I'm sure it's the poisonous air at this family conference that got you...`
+` ......I'm sure it's the poisonous air at this family {ruby:çeviri > konferans:conference} that got you...`
 ` ......For now, you can forget all about the other relatives.`
 ` ...Alright?"`
 `As Hideyoshi spoke to her kindly, he set the soaked handkerchief gently on Eva's burning forehead.`
@@ -494,7 +494,7 @@
 `"......How pitiful, Nee‐san...!"`
 `.........That gold has caused you to lose the distinction between fantasy and reality......`
 `"I said I'm not your sister anymore.`
-` ......Well then, as the new {f:5:Beatrice}, I have been tasked with my own resurrection ritual.`
+` ......Well then, as the new {f:5:Beatrice}, I have been tasked with my own resurrection {ruby:çeviri > ritüel:ritual}.`
 ` .........Ronove!`
 ` What should I do?!"`
 `"That is up to you.`
@@ -817,7 +817,7 @@
 ` ...but this is nothing more than an innocent prank, right...?`
 ` No matter how she kills, that person will be brought back to life in the end, right?`
 ` ...Aren't {y:0:Human}{n:0:human}s creatures that are fine with anything as long as it ends well......?!"`
-`"R‐right, Master?`
+`"R‐right, {ruby:çeviri > Efendi:Master}?`
 ` It's not something to get so angry about...!"`
 `She was hoping for approval, but {f:5:Virgilia} simply faced her with an indifferent expression.`
 `{n}...To Beato, at that moment, even an exasperated face would probably have seemed better.`
@@ -1003,7 +1003,7 @@
 `"...........................`
 ` ...............Fiiine."`
 `"...Better, much better.`
-` ......Well, there is still much to do for the resurrection ritual.`
+` ......Well, there is still much to do for the resurrection {ruby:çeviri > ritüel:ritual}.`
 ` You still have to kill five people...`
 ` You should do it without toying with them too much, with beauty and dignity,`
 ` ...and with at least a little decorum, alright...?"`

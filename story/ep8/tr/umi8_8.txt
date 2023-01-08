@@ -222,7 +222,7 @@
 `When Battler stepped forward, everyone silently awaited his words.`
 `"Glad you could all make it!!`
 ` This marks the end of my long game with Beato...!`
-` I've invited everyone who has been a part of this game as a piece, a player, or a {ruby:çeviri > Oyun Yöneticisi:Game Master}!`
+` I've invited everyone who has been a part of this game as a piece, a player, or a {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}!`
 ` I hope you'll enjoy this unending night to the fullest!!"`
 `Cheers.`
 `""Cheeeeeeeeeeers!!""`
@@ -523,8 +523,8 @@
 `It was very hard to imagine any reason Ange could have for going outside in this weather.`
 `............I have a bad feeling about this.`
 `This shouldn't be happening.`
-`{n}I'm the {ruby:çeviri > Oyun Yöneticisi:Game Master} of this game board.`
-`So why are we in a situation that the {ruby:çeviri > Oyun Yöneticisi:Game Master} can't understand...?`
+`{n}I'm the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} of this game board.`
+`So why are we in a situation that the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} can't understand...?`
 `A large bolt of lightning lit up my surroundings for an instant, but I was unable to see any trace of Ange......`
 `"Okay, okay, now it's my turn to think of a question!`
 ` Umm, okay, so you have a third of a whole cake, a quarter of a cake, and a fifth of a cake all on a plate!`
@@ -568,22 +568,22 @@
 `"What are you talking about?`
 ` Did something happen...?"`
 `"Ange's gone.`
-` Even I, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, don't know where she went."`
+` Even I, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, don't know where she went."`
 `"That's insane...!`
 ` Isn't this your game?!`
 ` That doesn't make sense...!"`
 `".........If Ange disappearing isn't a scenario created by Battler,`
-` .........that means there must be another {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+` .........that means there must be another {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `"Is that even possible...?!"`
 `"Oh, yes,`
 ` I was surprised myself.`
 ` ......Just when I opened the game board to start a delightful game of my own,`
 ` I found that Battler had started up this bizarre game at the same time.`
-` ......Two {ruby:çeviri > Oyun Yöneticileri:Game Masters} at once... It's a crazy world we live in, don't you think...?"`
+` ......Two {ruby:çeviri > Oyun Yöneticileri:Game {ruby:çeviri > Efendi:Master}s} at once... It's a crazy world we live in, don't you think...?"`
 `"In other words, ......you're admitting that you hid Ange away somewhere."`
 `".....................`
 `......It would seem so.`
-` After all, no one could create a scenario not invented by the {ruby:çeviri > Oyun Yöneticisi:Game Master}...except for another {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+` After all, no one could create a scenario not invented by the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...except for another {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `"Would this be......those festivities to liven up the party that you mentioned?"`
 `"......All of you looked like you were having a blast with that quiz tournament.`
 ` So, I decided I wanted to join in."`
@@ -754,7 +754,7 @@
 `"......Do you have a game prepared?"`
 `"Of course.`
 ` ......I worked hard on this game, and I'm pretty proud of it."`
-`"So, Bern will be the {ruby:çeviri > Oyun Yöneticisi:Game Master}, and Battler and Beato will be the players?`
+`"So, Bern will be the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, and Battler and Beato will be the players?`
 ` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} {ruby:çeviri > numaralar:tricks}?"`
 `"I'm interested to see what sort of scenario Lady {f:5:Bernkastel} develops."`
 `"......We'll explain things with the {ruby:çeviri > mavi gerçek:blue truth}, and you'll knock those down with the {ruby:çeviri > kırmızı gerçek:red truth}.`
@@ -840,7 +840,7 @@
 `"......A Reader miko can use her own voice to embellish or distort the tale.`
 ` ......Even if there was no cheap trickery in my game, by having a Reader, any amount of trickery could be added."`
 `"Yes, that is true.`
-` ......That's another of the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s privileges."`
+` ......That's another of the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}'s privileges."`
 `"I want to have a straightforward duel with you.`
 ` .........So, I don't need a Reader.`
 ` You can read this tale with your own eyes and ears."`
@@ -871,7 +871,7 @@
 `"That is more like it!`
 ` We'll take your challenge, Lady {f:5:Bernkastel}, Witch of Miracles!"`
 `"Alright, time to start!!`
-` I, {ruby:çeviri > Oyun Yöneticisi:Game Master} Ushiromiya Battler,`
+` I, {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} Ushiromiya Battler,`
 ` and {f:5:Beatrice}, the Endless Witch, will be your opponents!`
 ` Don't start crying when we wipe the floor with you!!"`
 `"Take this! Behold a mystery from {f:5:Bernkastel}!!!"`

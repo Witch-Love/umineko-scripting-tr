@@ -580,7 +580,7 @@
 ` That's the fastest and most direct way I can show {f:5:Lambdadelta} my determination."`
 `"................................."`
 `"I shall go as well.`
-` Master, please find Lady {f:5:Lambdadelta} some more popcorn."`
+` {ruby:çeviri > Efendi:Master}, please find Lady {f:5:Lambdadelta} some more popcorn."`
 `"......Beato..."`
 `"I know Ange will return.`
 ` If we don't believe, even a possible miracle will not bear fruit.`
@@ -693,7 +693,7 @@
 ` In fact, it seemed that Itouikukuro and Hachijo Tohya, the up‐and‐coming mystery novelist, were the same person.`
 `Of course, this meant that Hachijo Tohya would also be appearing in public for the first time.`
 `The fact that she was actually an enigmatic female author, despite having been thought to be male, would have been enough to cause a stir on its own.`
-`Before the diary unveiling party, a press conference was held in one of the rooms of the hotel.`
+`Before the diary unveiling party, a press {ruby:çeviri > konferans:conference} was held in one of the rooms of the hotel.`
 `"......Indeed.`
 ` I am Hachijo Tohya."`
 `"We now know that in your previous book signings, you went to the lengths of using a double to avoid appearing in public.`
@@ -722,7 +722,7 @@
 `Camera flashes came from everywhere, making the Book of the Single Truth glint......`
 `"And that is all for now!`
 ` If you would all please move to the assembly hall...!"`
-`Still holding the diary, Hachijo left the press conference room, escorted by men from the hotel.`
+`Still holding the diary, Hachijo left the press {ruby:çeviri > konferans:conference} room, escorted by men from the hotel.`
 `Until she went through a door that said "No Entry Unless Authorized",`
 ` the journalists continued to surround her and ask questions, hoping to gather just one more comment.`
 `When the door slammed shut, .........the world twisted.`

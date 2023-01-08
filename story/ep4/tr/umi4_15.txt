@@ -60,12 +60,12 @@
 ` ......It is fine for you to do things as you desire."`
 `"Without your power, the Ushiromiya family might have collapsed long ago.`
 ` We truly understand why you want to carefully select the person who will take charge.`
-` Besides, that is what the family conference is about.`
+` Besides, that is what the family {ruby:çeviri > konferans:conference} is about.`
 ` We won't get in your way..."`
 `"Hmm.`
 ` I am glad to have your understanding.`
-` That's right, this is the family conference.`
-` The final family conference, where I will select and finalize the next head.`
+` That's right, this is the family {ruby:çeviri > konferans:conference}.`
+` The final family {ruby:çeviri > konferans:conference}, where I will select and finalize the next head.`
 ` Fuhaha{0}ha{0}hahaha...!"`
 `"So, the thing is, Kinzo‐san...`
 ` ......It is far too cold here.`
@@ -90,7 +90,7 @@
 `"......Even if we break these, nothing will come of it."`
 `"True.`
 ` ......If you were to break these, it would mean the end of {f:5:Goldsmith}'s game.`
-` ......All of you, as well as those humans in the {ruby:çeviri > konukevi:guesthouse}, would immediately become sacrifices for Kinzo's ritual."`
+` ......All of you, as well as those humans in the {ruby:çeviri > konukevi:guesthouse}, would immediately become sacrifices for Kinzo's {ruby:çeviri > ritüel:ritual}."`
 `"......But, you know, you two might be the only ones.`
 ` Who hold the power to break through this situation......right?"`
 `".........You want to reach the {ruby:çeviri > Altın Diyar:Golden Land}, don't you?`
@@ -100,7 +100,7 @@
 `"Gaap.`
 ` You mustn't provoke them.`
 ` ......This is not your game.`
-` It is the Master's game, and {ruby:çeviri > Leydim:Milady}'s."`
+` It is the {ruby:çeviri > Efendi:Master}'s game, and {ruby:çeviri > Leydim:Milady}'s."`
 `".........What is it, Ronove?"`
 `"Oh, no, nothing.`
 ` ......We were chatting with the prisoners.`
@@ -240,7 +240,7 @@
 ` And more than anything, I want you to be safe..."`
 `"...Yes, I understand.`
 ` ......Please, be careful, everyone.`
-` Right now, the Master is......taking human lives like they're pieces on a chessboard.`
+` Right now, the {ruby:çeviri > Efendi:Master} is......taking human lives like they're pieces on a chessboard.`
 ` ...Please be careful."`
 `Gohda stared at the floor, remembering that atrocity in the {ruby:çeviri > yemek salonu:dining hall}, even now unable to believe what had happened,`
 ` and he hung his head in shame at his inability to fully describe that terror.`
@@ -313,7 +313,7 @@
 ` ...Kihi{0}hi{0}hi{0}hi{0}hi{0}hihihi............`
 ` Ouch."`
 `"Don't laugh at inappropriate times.`
-` ......Seriously, a resurrection ritual for a witch?`
+` ......Seriously, a resurrection {ruby:çeviri > ritüel:ritual} for a witch?`
 ` He should just keep his fantasies to the inside of his head.`
 ` Getting all these people involved...`
 ` ........That's gonna cost you, ...bastard..."`

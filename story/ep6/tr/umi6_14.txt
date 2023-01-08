@@ -10,7 +10,7 @@
 `"I hear that Kinzo‐san is not long for this world, and the inheritance problem is still very shaky.`
 ` ......In addition, there's that story about ten tons of gold being hidden somewhere.`
 ` A possible payoff like that might be enough to convince certain people to commit a crime..."`
-`"I don't want to think about it, .........but there's also a chance that the old bastard is running some bizarre occult ritual.`
+`"I don't want to think about it, .........but there's also a chance that the old bastard is running some bizarre occult {ruby:çeviri > ritüel:ritual}.`
 ` The {ruby:çeviri > hizmetkarlar:servants} of the One Wing are his pawns, and they might have been the ones to carry out the murders.`
 ` ......How about Dad, anyway?`
 ` Have you been able to contact him yet?"`
@@ -22,7 +22,7 @@
 ` ......We can't contact him, but that study is well protected.`
 ` It's probably safer there, so it might be best to have him stay there..."`
 `Flustered, Krauss tried to explain away Kinzo's silence.`
-`Battler, the {ruby:çeviri > Oyun Yöneticisi:Game Master}, hadn't made "Kinzo's death" a major theme for this game, so the conversation didn't go any further.`
+`Battler, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, hadn't made "Kinzo's death" a major theme for this game, so the conversation didn't go any further.`
 `They stopped talking about Kinzo without Rudolf thinking anything was particularly suspicious.`
 `"Anyway, we can't let the {ruby:çeviri > hizmetkarlar:servants} out of our sights.`
 ` I just had a talk with Hideyoshi nii‐san about this, and we decided to split everyone into two rooms upstairs and hole up in there."`
@@ -380,7 +380,7 @@
 ` Dlanooooooooooor!!"`
 `"Yes, Lady {f:5:Erika}."`
 `"Let's get started right away.`
-` Let's use the privilege our merciful {ruby:çeviri > Oyun Yöneticisi:Game Master} has given us...!"`
+` Let's use the privilege our merciful {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} has given us...!"`
 `"Yes, {f:5:understood}.`
 ` ......Gertrude, Cornelia.`
 ` We will use two rooms' worth of the three sets of seals we were {f:5:given}...!"`
@@ -396,7 +396,7 @@
 ` thanks to the {ruby:çeviri > kırmızı gerçek:red truth} that she had finally gained.`
 `......When the fight concerned these two sealed rooms from now on,`
 ` Dlanor would be able to use that merciless blade, the Red Key...`
-`This overwhelming power could slice even the {ruby:çeviri > Oyun Yöneticisi:Game Master} in half.`
+`This overwhelming power could slice even the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} in half.`
 `For a while, Erika and Dlanor grinned at each other,`
 ` entranced by the ruthless red light that was burned into their eyes...`
 `"......Senior Aide,`
@@ -584,7 +584,7 @@
 `Beato tried not to let it show on her face,`
 ` but Erika didn't miss her eyebrows twitching slightly and her gaze flicking over to Battler.`
 `"Normally, I would have liked to seal all five of the locked rooms, but I didn't have enough duct tape.`
-` ......Out of respect for the {ruby:çeviri > Oyun Yöneticisi:Game Master}, I sealed only the room with Battler‐san's corpse."`
+` ......Out of respect for the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, I sealed only the room with Battler‐san's corpse."`
 `".........So you were kind enough to close the lid on my coffin."`
 `"I remembered a short while ago,`
 ` and I was planning to tell you when we reached the {ruby:çeviri > malikane:mansion} and investigated the {ruby:çeviri > misafir odası:guest room} with your corpse in it.`
@@ -709,11 +709,11 @@
 `......So, ......even if it really was a {ruby:çeviri > numara:trick} done while Onee‐chan's eyes were closed...`
 `...as long as the witch leaves herself a way out, she can even switch between truths (i.e., {ruby:çeviri > numara:trick}s).`
 `Rather than calling this an action allowed to witches,`
-` it would probably be better to say that it is only allowed for the {ruby:çeviri > Oyun Yöneticisi:Game Master}, the one who creates and writes.`
+` it would probably be better to say that it is only allowed for the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, the one who creates and writes.`
 `But even still,`
 ` the new {ruby:çeviri > numara:trick} must not contradict any of the previously stated {ruby:çeviri > kırmızı gerçekler:red truths}.`
 `If the {ruby:çeviri > kırmızı gerçek:red truth} makes it so that "the {ruby:çeviri > numara:trick} no longer makes logical sense",`
-` then there will be a mismatch between the two sides of the story: the illusory result that the {ruby:çeviri > Oyun Yöneticisi:Game Master} claims was done by {ruby:çeviri > büyü:magic}, and the true result that was brought about by a {ruby:çeviri > numara:trick}.`
+` then there will be a mismatch between the two sides of the story: the illusory result that the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} claims was done by {ruby:çeviri > büyü:magic}, and the true result that was brought about by a {ruby:çeviri > numara:trick}.`
 `There will be a contradiction, and things will no longer make logical sense.`
 `We call this a logic error...`
 `And that means......the destruction of the witch's game.`
@@ -738,7 +738,7 @@
 `"Exactly.`
 ` It is not yet the stage to get flustered.`
 ` ......He merely has to change his move so that Erika's seals and the placement of the letter don't contradict each other."`
-`".........And revising the plot without contradictions is one of the moves available to the {ruby:çeviri > Oyun Yöneticisi:Game Master}."`
+`".........And revising the plot without contradictions is one of the moves available to the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}."`
 `"However, ............taking a scenario one has imagined and revising it partway through can sometimes create flaws in the tale.`
 ` It would be a very painful move to make when the first twilight has only just ended."`
 `"......It would seem that Battler was the one with an enemy piece deep behind his lines...`

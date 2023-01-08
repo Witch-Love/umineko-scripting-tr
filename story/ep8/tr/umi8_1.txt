@@ -57,7 +57,7 @@
 ` Just watching them play together makes one feel charged with energy, doesn't it?"`
 `The adults smiled as they watched the children play around.`
 `Ange had gotten very sick. For a time, everyone had expected that she would be absent, but she had made a miraculous recovery.`
-`Thanks in part to her strong desire to join in, she had come along to the family conference with the others.`
+`Thanks in part to her strong desire to join in, she had come along to the family {ruby:çeviri > konferans:conference} with the others.`
 `And so...`
 `For the first time ever, all five cousins were gathered together.`
 `{n}October 4th, 1986, became a day like no other.`
@@ -134,7 +134,7 @@
 ` ......Father.`
 ` That necktie pin you have there looks splendid on you as well."`
 `"The necktie pin "I have there"?!! Is {i:that} your suggestion?!!`
-` The family conference is held but once a year!`
+` The family {ruby:çeviri > konferans:conference} is held but once a year!`
 ` Mgggh, there shall be no compromise! I must have that specific pin!!`
 ` Where is it, where, where?!!"`
 `"Kinzo‐san, you already looked in that drawer five seconds ago......`
@@ -194,7 +194,7 @@
 ` Shannon, Kumasawa, go to serve them.`
 ` Gohda, hurry up with that tea."`
 `"""Right away!"""`
-`The family conference—the largest event of the year for the {ruby:çeviri > hizmetkarlar:servants}.`
+`The family {ruby:çeviri > konferans:conference}—the largest event of the year for the {ruby:çeviri > hizmetkarlar:servants}.`
 ` Their morale was high, and they were all full of determination to make it through another year by banding together.`
 `"Pardon the interruption.`
 ` The relatives are here."`
@@ -309,7 +309,7 @@
 `"Ooooooh, Mariaa{-}a{-}a{-}a{-}a{-}aaa, you're always so thoughtfu{-}u{-}u{-}u{-}ul!!`
 ` Grandpa's so happyy{-}y{-}y{-}y{-}y{-}y{-}yyy!!"`
 `As Kinzo took Maria's present, a smile broke out across his face, and he rubbed his cheek up against it.`
-`".........Master.`
+`".........{ruby:çeviri > Efendi:Master}.`
 ` Your dignity."`
 `"Nngg...o‐oh, that's right.`
 ` ......You have pleased your grandfather greatly, Maria.`
@@ -325,7 +325,7 @@
 ` Here's a present from your grandpa!!`
 ` I'm warning yoooou, it's verr{-}r{-}r{-}r{-}rry cuu{-}u{-}u{-}ute!!`
 ` It's almost a waste to give it up to you{p:0:♪}"`
-`".........Master. Dignity."`
+`".........{ruby:çeviri > Efendi:Master}. Dignity."`
 `"Nnngggyyyyhhhh...`
 ` Th‐this is a present from the Ushiromiya family head to Maria...`
 ` It is a...cute......nnnggg, *cough*cough*...`
@@ -395,7 +395,7 @@
 ` I'm so glad to be blessed with such lovely grandchildren!!`
 ` I feel happyyyyyyy!!`
 ` So happy the tears just won't...just won't stooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oop!!"`
-`".........Master, your nose is running.`
+`".........{ruby:çeviri > Efendi:Master}, your nose is running.`
 ` ......That...and your dignity."`
 `"Oh, Genji, forgive me!!`
 ` I...alwa{0}n{0}t{0}h{0}f{0}n{0}h{0}h{0}h{0}hnnn...`
@@ -437,7 +437,7 @@
 `......Only Ange remained standing there, stunned,`
 ` ......as she clutched the gift box Kinzo had given her...`
 `Never once had Gohda's lunches betrayed expectations.`
-`When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded.`
+`When Hideyoshi said that the lunches were the only reason anyone ever came to these family {ruby:çeviri > konferans:conference}s, everyone laughed and nodded.`
 `Delicious food has a way of keeping conversation flowing.`
 `You've gotten so tall.`
 ` How have you been lately?`

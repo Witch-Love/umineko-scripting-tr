@@ -110,9 +110,9 @@
 `"If there's one thing I never want to be, it's one of those embarrassing girls who thinks a guy's heart is linked to hers for no reason."`
 `"Ahhahahahahahahahahahaha."`
 `Those demonic sneers tormented me and tried to lead me astray.`
-`{n}......I'm sure he'll come to the next family conference......`
-`But Battler‐san didn't come to the 1982 conference either......`
-`More and more things keep changing away from the way they were at the last family conference he came to.`
+`{n}......I'm sure he'll come to the next family {ruby:çeviri > konferans:conference}......`
+`But Battler‐san didn't come to the 1982 {ruby:çeviri > konferans:conference} either......`
+`More and more things keep changing away from the way they were at the last family {ruby:çeviri > konferans:conference} he came to.`
 `Kyrie‐sama, Rudolf‐sama's new wife, now blends in perfectly here,`
 ` ......coming down off the boat with a familiar stride.`
 `Her daughter, Ange‐sama, is growing well, and all of the family focus their attention on her.`
@@ -124,7 +124,7 @@
 `Maria‐sama was only three when she last saw Battler‐san.`
 `I doubt whether she even remembers him.`
 `......In just two short years...`
-`All trace of your existence......has been erased from the Ushiromiya family conference.`
+`All trace of your existence......has been erased from the Ushiromiya family {ruby:çeviri > konferans:conference}.`
 `That made me sad.`
 ` And so I said...`
 `"......It looks like Battler‐sama didn't come back this year either."`
@@ -214,7 +214,7 @@
 `{n}Battler‐san...makes it hurt.........`
 `Battler‐san.`
 `......Do you still remember me, now.........?`
-`And then......came the third family conference since Battler‐san left.`
+`And then......came the third family {ruby:çeviri > konferans:conference} since Battler‐san left.`
 `If the number of beds was going to increase, we would be told about that when setting up.`
 `The fact that nothing has changed in particular......means that he probably won't be here this year either.`
 `Clinging to a final bit of hope, I stood by the docks, watching the boat draw closer.`
@@ -601,7 +601,7 @@
 `{n}When you do, I'd like to talk about mystery novels again.`
 `......Oh, I almost forgot.`
 `{n}A new boy {ruby:çeviri > hizmetkar:servant} will be coming today, won't he?`
-`One of the rare {ruby:çeviri > hizmetkarlar:servants} who will serve the Master directly.`
+`One of the rare {ruby:çeviri > hizmetkarlar:servants} who will serve the {ruby:çeviri > Efendi:Master} directly.`
 `{n}What kind of kid will he be?`
 ` I hope we get along well......`
 `What was his name again?`

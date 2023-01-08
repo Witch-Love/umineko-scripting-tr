@@ -41,21 +41,21 @@
 `"...............................`
 ` What can I do at this point?`
 ` ......I'm ready to die at any time..."`
-`"......You are just like the Master.`
-` Indeed, you inherited the Master's blood strongly...."`
+`"......You are just like the {ruby:çeviri > Efendi:Master}.`
+` Indeed, you inherited the {ruby:çeviri > Efendi:Master}'s blood strongly...."`
 `"You mean to tell me that Grandfather, that larger‐than‐life man, was actually willing to die at any moment...?`
 ` First I've heard of that."`
-`".........The Master's life,`
+`".........The {ruby:çeviri > Efendi:Master}'s life,`
 ` ......after a number of sad incidents,`
 ` ......was completely reduced to atonement."`
 `"...What do you know?"`
-`"............{f:5:Beatrice}‐sama's ritual has been entirely completed up to the eighth twilight.`
+`"............{f:5:Beatrice}‐sama's {ruby:çeviri > ritüel:ritual} has been entirely completed up to the eighth twilight.`
 ` ...I believe...that I can now tell you everything."`
 `"Wha‐......what did you say...?"`
 `My drunkenness was completely blown away.`
 ` I lowered my feet from the table and listened carefully to hear what kind of words Genji‐san would say next...`
 `"Battler‐sama.`
-` ......I shall guide you to the Master's study.`
+` ......I shall guide you to the {ruby:çeviri > Efendi:Master}'s study.`
 ` ......It would probably be better to hear it directly from them."`
 `"From......them...?`
 ` H‐hey, what in the world do you mean by that...!!"`
@@ -90,7 +90,7 @@
 `{n}...It didn't matter how hard it might be to accept.`
 `"..................Yeah.`
 ` ......Even if a demon or a witch shows up, ...I'm prepared."`
-`".........You really are just like the Master in his youth.`
+`".........You really are just like the {ruby:çeviri > Efendi:Master} in his youth.`
 ` ......Battler‐sama, please be diligent in your studies.`
 ` In the future, you will surely have great aspirations.`
 ` And make sure that at that time, you are not forced into a lifetime of regret by a lack of academic knowledge."`
@@ -157,7 +157,7 @@
 `"Genji.`
 ` Serve something for Battler.`
 ` What would be the most appropriate for this man...?"`
-`"......The same which the Master has loved since the days of his youth."`
+`"......The same which the {ruby:çeviri > Efendi:Master} has loved since the days of his youth."`
 `"That is ideal; serve it to him.`
 ` ......You did well coming here, Ushiromiya Battler.`
 ` First, take a seat."`

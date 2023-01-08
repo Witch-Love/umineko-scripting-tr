@@ -9,7 +9,7 @@
 ` I want a Halloween festivaaal!`
 ` I don't want to wear these clothes, I want to look like a wiiiitch!`
 ` Uu‐uu!"`
-`"The family conference isn't for playing.`
+`"The family {ruby:çeviri > konferans:conference} isn't for playing.`
 ` We're going to meet Grandfather, so you have to dress up nice."`
 `While it wasn't completely full inside the train, there were enough people here that almost all of the seats were occupied.`
 `Among them, Maria was making a fuss, kicking her feet back and forth in her seat, while Rosa scowled at her.`
@@ -243,7 +243,7 @@
 `...Only Natsuhi knew.`
 `She knew of Krauss's anguish.`
 ` As the eldest son of the Ushiromiya family, who would have to shoulder a big responsibility, he couldn't open his pained heart to anyone, and would always be compared to his father's great enterprises...`
-`".........I have finished all the preparations, so you can devote yourself to the family conference.`
+`".........I have finished all the preparations, so you can devote yourself to the family {ruby:çeviri > konferans:conference}.`
 ` ...All of them."`
 `"............Sorry.`
 ` ......Will there be any problems...`
@@ -256,13 +256,13 @@
 ` I'm anxious to put my skills to work for the big annual job."`
 `Ingredients of varied colors had been gathered in the kitchen, and the preliminary arrangements had already been started.`
 `Even though it was still morning, the ingredients for dinner were already in saucepans and steaming.`
-`Normally, he had to deal with several assorted matters other than cooking, but on the day of the family conference, he could devote himself to it entirely.`
+`Normally, he had to deal with several assorted matters other than cooking, but on the day of the family {ruby:çeviri > konferans:conference}, he could devote himself to it entirely.`
 `To Gohda, who was originally a chef, this was surely the greatest gala occasion of the whole year.`
 `"Yes, dinner will be an excellent calf steak...!`
 ` A wonderful cut of meat is already in the refrigerator anxiously waiting for tonight.`
 ` Please, let the other {ruby:çeviri > hizmetkarlar:servants} know to look forward to tonight—I will not disappoint them either."`
 `It was rare for Gohda to be in this good of a mood towards his fellow {ruby:çeviri > hizmetkarlar:servants}.`
-`To Gohda, who boasted about being a chef who worked exclusively for the Ushiromiya family, being given the right to show off his cooking at the family conference was the greatest honor.`
+`To Gohda, who boasted about being a chef who worked exclusively for the Ushiromiya family, being given the right to show off his cooking at the family {ruby:çeviri > konferans:conference} was the greatest honor.`
 `"......OK.`
 ` I'm leaving it in your hands.`
 ` ...Also, is Kumasawa there?"`
@@ -290,7 +290,7 @@
 `"Speaking of that, the weather forecast is saying a typhoon will strike right over here...`
 ` Will that be alright?"`
 `"...Unless the typhoon diverts greatly, it may affect the family's boat trip back, depending on circumstances.`
-` The family conference schedule may drag on until about Monday or Tuesday.`
+` The family {ruby:çeviri > konferans:conference} schedule may drag on until about Monday or Tuesday.`
 ` ......It will probably be a long haul, but I ask you both to be careful not to make any blunders."`
 `"............Shannon, relax and don't panic.`
 ` Kanon, be sure to greet them with courtesy."`
@@ -452,10 +452,10 @@
 `"Hoh‐hoh‐ho...`
 ` Without a doubt."`
 `"......You know.`
-` When the day of the family conference comes, for some reason, I start getting weird feelings about this witch."`
+` When the day of the family {ruby:çeviri > konferans:conference} comes, for some reason, I start getting weird feelings about this witch."`
 `"Hoh...`
 ` Whyever do you say that...?"`
-`"The family conference is the day when everyone related to Grandfather gathers.`
+`"The family {ruby:çeviri > konferans:conference} is the day when everyone related to Grandfather gathers.`
 ` ......Like, I hear Battler's coming for the first time in six years, this year.`
 ` ...Same kind of thing.`
 ` I always wonder whether some "relative" who hasn't shown themselves for several decades might suddenly turn up."`
@@ -466,7 +466,7 @@
 ` Could she be Grandfather's mistress from long ago?`
 ` ......Maybe one of her descendants will suddenly show up and tell us to give back the gold we were granted or something, you know?"`
 `"Hoh‐hoh‐hoh‐ho...`
-` Krauss‐sama and the others will probably have a discussion about the problem of the Master's inheritance this year too.`
+` Krauss‐sama and the others will probably have a discussion about the problem of the {ruby:çeviri > Efendi:Master}'s inheritance this year too.`
 ` ...With such excitement abound over talk of the witch's gold, I don't suppose it would be strange at all if the witch herself who granted that gold finally made her appearance."`
 `"Kumasawa‐san, you know,`
 ` ...sure, you're always quitting one moment and working the next, but you've been here as long as Genji‐san, right?`
@@ -499,7 +499,7 @@
 ` I bet it just got carried away by some large wave.`
 ` Hahahahaha."`
 `"The evil spirits of Akujikijima woke up from their sleep, and summoned {f:5:Beatrice}‐sama.`
-` .........So if {f:5:Beatrice}‐sama ever happened to come for the family conference, then..."`
+` .........So if {f:5:Beatrice}‐sama ever happened to come for the family {ruby:çeviri > konferans:conference}, then..."`
 `"Then...?"`
 `Kumasawa kept silent for a moment there.`
 `{n}...Jessica, who wanted her to keep going, found that silence very eerie.`
@@ -641,7 +641,7 @@
 `" .........I've mooched off him so much over the years, and now I'm going for the inheritance.`
 ` ............I'm going to hell.`
 ` ...It won't surprise me a bit if he doesn't want to see me......"`
-`"......Could it be that you don't plan on appearing at the family conference this year either?"`
+`"......Could it be that you don't plan on appearing at the family {ruby:çeviri > konferans:conference} this year either?"`
 `Nanjo looked at Kinzo's face, sighing.`
 `{n}...Kinzo's eyes remained rooted to those strange {ruby:çeviri > büyü:magic} books.`
 `"I have no intention of joining those vultures in their discussion.`
@@ -658,10 +658,10 @@
 ` ......Just as that one does not show itself."`
 `Kinzo raised his face, and in the direction of his gaze was the {ruby:çeviri > portre:portrait} of the witch, respectfully displayed on the wall...`
 `".................."`
-`Inside Kinzo's head, there was no conception of today being the day of the family conference, the day when all his dear family would gather together.`
+`Inside Kinzo's head, there was no conception of today being the day of the family {ruby:çeviri > konferans:conference}, the day when all his dear family would gather together.`
 `......There was only the face of the witch in the oil painting, who never smiled outside her {ruby:çeviri > portre:portrait}...`
 `Everybody knew that when Kinzo talked about {f:5:Beatrice}, unnecessarily cutting in would instigate his wrath...`
-`"Today, I will...perform a certain ritual."`
+`"Today, I will...perform a certain {ruby:çeviri > ritüel:ritual}."`
 `"Hoh.`
 ` ...And what would that be?"`
 `"......It would be more accurate to call it a gamble.`
@@ -674,7 +674,7 @@
 ` I guess this will be worth seeing..."`
 `"Hmph...`
 ` ......I see.`
-` So, if it were up to you, unversed in {ruby:çeviri > büyü:magic}, even this secret ritual I have thoroughly researched would be branded as a gamble.`
+` So, if it were up to you, unversed in {ruby:çeviri > büyü:magic}, even this secret {ruby:çeviri > ritüel:ritual} I have thoroughly researched would be branded as a gamble.`
 ` So be it."`
 `"...............If it is I, a believer in miracles, who wins...`
 `you will be able to understand clearly that all my research, which probably only appears as vagary in your eyes, did bear fruit on this day.`
@@ -682,11 +682,11 @@
 ` ......it will all end as, just as you observed, nothing more than the vagary of an old man who could go to the other world at any time."`
 `"Hoh...`
 ` I wonder what on Earth is this gamble you will start...`
-` As your friend, I only pray that you come out from that bet—no, was it a ritual?`
-` ...I only pray, from the bottom of my heart, that you can come out from that ritual victorious."`
+` As your friend, I only pray that you come out from that bet—no, was it a {ruby:çeviri > ritüel:ritual}?`
+` ...I only pray, from the bottom of my heart, that you can come out from that {ruby:çeviri > ritüel:ritual} victorious."`
 `"Mmhm... ...I thank you."`
 `"......Speaking of that, Kinzo‐san.`
-` I hear that a long‐awaited guest will be present at the family conference this year?"`
+` I hear that a long‐awaited guest will be present at the family {ruby:çeviri > konferans:conference} this year?"`
 `"What......?"`
 `Kinzo reacted in a unusual way to Nanjo's words and turned around.`
 `"You know, Battler‐kun from Rudolf‐san's family.`

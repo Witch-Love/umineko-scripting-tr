@@ -1,5 +1,5 @@
 `The tragedy of the first twilight was discovered at 6:00 in the morning on the following day.`
-`Gohda, who had woken up to get breakfast ready, went to check on the adult siblings, who had remained in the {ruby:çeviri > yemek salonu:dining hall} since the previous night because of the family conference.`
+`Gohda, who had woken up to get breakfast ready, went to check on the adult siblings, who had remained in the {ruby:çeviri > yemek salonu:dining hall} since the previous night because of the family {ruby:çeviri > konferans:conference}.`
 `"Talk about when you discovered the crime."`
 `"{p:42:The {ruby:çeviri > yemek salonu:dining hall} was locked up}.`
 ` Of course, there is a lock on the doors to the {ruby:çeviri > yemek salonu:dining hall}, but they usually remained unlocked.`
@@ -554,7 +554,7 @@
 ` It seems we must look closely through those again..."`
 `"Let's read it through once more carefully.`
 ` ......All of the {ruby:çeviri > hizmetkarlar:servants} are innocent.`
-` Master keys can't be used.`
+` {ruby:çeviri > Efendi:Master} keys can't be used.`
 ` Let's think through it again with that in mind."`
 `"I think I have a theory about the {ruby:çeviri > yemek salonu:dining hall} locked room of the first twilight."`
 `"Let's hear it."`

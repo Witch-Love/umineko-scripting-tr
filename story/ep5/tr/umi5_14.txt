@@ -18,7 +18,7 @@
 `"Making you acknowledge them is what my game's all about.`
 ` *cackle*cackle*!"`
 `The three witches were seated on special thrones set upon a very high balcony.`
-`In the center sat the {ruby:çeviri > Oyun Yöneticisi:Game Master}, {f:5:Lambdadelta},`
+`In the center sat the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, {f:5:Lambdadelta},`
 ` and on either side of the semicircular balcony sat {f:5:Bernkastel} and {f:5:Beatrice}, facing each other.`
 `Below them, Erika ran forward, lifted the corners of her skirt and bowed respectfully.`
 `"Great Lady {f:5:Lambdadelta}, I thank you for granting my request for an assembly.`
@@ -301,7 +301,7 @@
 `Inside a cat box that will never be opened, false charges that everyone accepts have exactly the same value as the truth.`
 `"Their aim is most likely to use the simple murder of Hideyoshi to give the impression that Natsuhi‐sama is the {ruby:çeviri > suçlu:culprit}...`
 `before moving on to the first twilight's reconstruction, which has more uncertain elements."`
-`"It's not good at all to proceed while under the {ruby:çeviri > Oyun Yöneticisi:Game Master}'s suspicion.`
+`"It's not good at all to proceed while under the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}'s suspicion.`
 ` We should take the initiative."`
 `"Indeed.`
 ` ............Lady {f:5:Lambdadelta}!`
@@ -333,7 +333,7 @@
 `This here truly is the Braun tube trial that {f:5:Virgilia} once used as an analogy......`
 `"Then I will follow Lady {f:5:Lambdadelta}'s orders and start from the first crime at the first twilight.`
 ` As you know, at midnight on October 4th, the first day,`
-` following a short break in the family conference, Natsuhi‐san left on her own, saying that she was going to bed early.`
+` following a short break in the family {ruby:çeviri > konferans:conference}, Natsuhi‐san left on her own, saying that she was going to bed early.`
 ` Therefore, her {ruby:çeviri > mazeret:alibi} is completely lost from that time until the next morning."`
 `"Oh, is that so?`
 ` I believe there are several people besides Natsuhi who have dubious {ruby:çeviri > mazeretler:alibis}.`
@@ -497,7 +497,7 @@
 ` In fact, I should have done this in the beginning.`
 ` I apologize for being so roundabout.`
 ` This is the state of the {ruby:çeviri > konukevi:guesthouse} at midnight."`
-`".........The gold had been found, an emergency family conference called, and Battler‐san had gone to the {ruby:çeviri > malikane:mansion} with the relatives.`
+`".........The gold had been found, an emergency family {ruby:çeviri > konferans:conference} called, and Battler‐san had gone to the {ruby:çeviri > malikane:mansion} with the relatives.`
 ` I, the three cousins, Doctor Nanjo, Gohda‐san, and Kumasawa‐san remained in the {ruby:çeviri > konukevi:guesthouse}."`
 `"I have already explained Gohda‐san and Kumasawa‐san's {ruby:çeviri > mazeretler:alibis}.`
 ` George‐san, Jessica‐san, and Maria‐san were playing cards in the cousins' room.`
@@ -525,7 +525,7 @@
 ` ......This means we can ignore everything that happened before midnight."`
 `".........To go even further,`
 ` {p:1:at 24:00, Natsuhi, Krauss, and Genji were in a corridor on the second floor of the {ruby:çeviri > malikane:mansion}.`
-` All the remaining people were at the family conference in the {ruby:çeviri > yemek salonu:dining hall}.`
+` All the remaining people were at the family {ruby:çeviri > konferans:conference} in the {ruby:çeviri > yemek salonu:dining hall}.`
 ` Of course, at that point in time, no murder had occurred.`
 ` Genji was also alive}."`
 `"That isn't something that Erika observed,`
@@ -548,19 +548,19 @@
 `"......In fact, the situation might be even worse than it was back then."`
 `At a glance, the fight between the two of them resembled our previous fights.`
 `However, there were some vital differences.`
-`The first was whether or not Beato was the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
-`The Beato who fought against me was the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`The first was whether or not Beato was the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
+`The Beato who fought against me was the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 `{n}So she knew all the truth.`
 `That's why she was able to use the {ruby:çeviri > kırmızı gerçek:red truth} at will.`
-`However, the current Beato isn't the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`However, the current Beato isn't the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 `{n}She's just a single piece on the game board.`
 `......In other words, even Beato doesn't know the truth.`
 `So you could say that Beato is now in the same position I once was.`
 `Also, though Erika may seem to be in the same position I once was,`
 ` the situation for her is totally different.`
 `She's connected to the witch called {f:5:Bernkastel}.`
-`......Even though she isn't the {ruby:çeviri > Oyun Yöneticisi:Game Master}, she's capable of elevating Erika's statements to become {ruby:çeviri > kırmızı gerçek:red truth}.`
-`Because of this, Erika can use the {ruby:çeviri > kırmızı gerçek:red truth} even though she's neither a witch nor the {ruby:çeviri > Oyun Yöneticisi:Game Master}.`
+`......Even though she isn't the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, she's capable of elevating Erika's statements to become {ruby:çeviri > kırmızı gerçek:red truth}.`
+`Because of this, Erika can use the {ruby:çeviri > kırmızı gerçek:red truth} even though she's neither a witch nor the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
 `Beato, who's supposed to be the witch, possesses no truth or red she can use.`
 `{n}And yet the detective, Erika, can use the {ruby:çeviri > kırmızı gerçek:red truth}.`
 `The advantage has completely flipped over to the other side.`
@@ -943,7 +943,7 @@
 ` I will say it with the {ruby:çeviri > kırmızı gerçek:red truth}.`
 ` {p:1:Of all the people in the {ruby:çeviri > yemek salonu:dining hall}, not one of them left the {ruby:çeviri > yemek salonu:dining hall} until {nobr:1 a.m.}}...!"`
 `The time that the crime was possible had been limited to between midnight and one o'clock.`
-`And it had been guaranteed that the adults in the family conference did not leave the {ruby:çeviri > malikane:mansion} between midnight and one o'clock.`
+`And it had been guaranteed that the adults in the family {ruby:çeviri > konferans:conference} did not leave the {ruby:çeviri > malikane:mansion} between midnight and one o'clock.`
 ` This gave them all proven {ruby:çeviri > mazeretler:alibis}.`
 `"......A‐......and how do you intend to prove that?!`
 ` Erika's in the {ruby:çeviri > konukevi:guesthouse}!`
@@ -969,7 +969,7 @@
 ` {p:1:When Genji finished transferring the call, he immediately returned to the {ruby:çeviri > hizmetkarlar:servants}' quarters}.`
 ` That's just a cold, hard truth, without any evidence, proof, seals or {ruby:çeviri > mazeretler:alibis}, got it?"`
 `"Then, at {nobr:1 a.m.},`
-` there was another break in the family conference, and Rosa returned to the {ruby:çeviri > konukevi:guesthouse}.`
+` there was another break in the family {ruby:çeviri > konferans:conference}, and Rosa returned to the {ruby:çeviri > konukevi:guesthouse}.`
 ` ......At that time...`
 ` I'm truly thankful for your cooperation, Ushiromiya Eva‐san.`
 ` Please rise...!"`
@@ -1059,7 +1059,7 @@
 `"......It's like.........Erika's creating the plotline,`
 ` and those witches are distorting things so that everything matches up with it..."`
 `"That's right.`
-` If the {ruby:çeviri > Oyun Yöneticisi:Game Master}, Lady {f:5:Lambdadelta}, accepts a truth, its authenticity will not be questioned.`
+` If the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, Lady {f:5:Lambdadelta}, accepts a truth, its authenticity will not be questioned.`
 ` The world that comes after will be formed based on the truth that remains in the end.`
 ` ......This happens no matter how far this final truth is from the real truth."`
 `"There's no way Uncle Krauss is the {ruby:çeviri > suçlu:culprit}.`
@@ -1875,7 +1875,7 @@
 `"Assuming you can pull it off.`
 ` .........But if you can't present a new truth, that means you're incompetent and useless as a player.`
 ` I'll have you vanish from this game board for all eternity."`
-`At this point, the {ruby:çeviri > Oyun Yöneticisi:Game Master} is {f:5:Lambdadelta},`
+`At this point, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} is {f:5:Lambdadelta},`
 ` ......and she's there too.`
 `This probably doesn't mean defeat in a single game,`
 ` but being banished from this game for all eternity as the loser.`
@@ -2395,7 +2395,7 @@
 `"Are you sure about that...?`
 ` I think you know very well where Kinzo‐san was hiding..."`
 `"M‐`
-`......Madam knows where the Master was...`
+`......Madam knows where the {ruby:çeviri > Efendi:Master} was...`
 `...hiding......?!"`
 `".........That's...impossible..."`
 `"That......can't be true......"`
@@ -2591,7 +2591,7 @@
 `She no longer...`
 `...had any way to reject the fake truth...`
 `...that {f:5:Bernkastel} and Erika had weaved......`
-`".........By my name as the {ruby:çeviri > Oyun Yöneticisi:Game Master}, {f:5:Lambdadelta}!`
+`".........By my name as the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, {f:5:Lambdadelta}!`
 ` ......I acknowledge that Lady {f:5:Bernkastel} is the victor of this game.`
 ` ......If anyone has any objections, state your name now!!"`
 `.................................`

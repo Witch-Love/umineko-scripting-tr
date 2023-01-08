@@ -128,7 +128,7 @@
 `"......Battler‐sama.`
 ` .........I don't expect you to believe this all of a sudden, but...`
 `{f:5:Beatrice}‐sama exists.`
-` ...She is a real person, the one who gave the Master a vast amount of gold and who has worked by his side for many years."`
+` ...She is a real person, the one who gave the {ruby:çeviri > Efendi:Master} a vast amount of gold and who has worked by his side for many years."`
 `"Huh...?`
 ` Ah, come on...`
 ` Is Grandfather paying you to repeat everything he says...?"`
@@ -141,7 +141,7 @@
 ` ...Anyone sane would take this badly.`
 ` ............So you're saying that a person named {f:5:Beatrice} actually exists?"`
 `"......Yes.`
-` She has been working for the Master since before the {ruby:çeviri > malikane:mansion} was built on this island.`
+` She has been working for the {ruby:çeviri > Efendi:Master} since before the {ruby:çeviri > malikane:mansion} was built on this island.`
 ` ...Most likely, she has been working for him even longer than I have."`
 `"What do you know, Kyrie‐san's theory was off...`
 ` ......Grandfather really did have a confidante called {f:5:Beatrice}.`
@@ -553,7 +553,7 @@
 ` She definitely said that.`
 `{n}Exactly the same thing that I had been told just now.`
 `"Ah, ...but, there's nothing to be afraid of, you know?`
-` {f:5:Beatrice}‐sama is another ruler of this {ruby:çeviri > malikane:mansion} separate from the Master.`
+` {f:5:Beatrice}‐sama is another ruler of this {ruby:çeviri > malikane:mansion} separate from the {ruby:çeviri > Efendi:Master}.`
 ` So, she won't do anything bad, as long as you respect her and don't act oddly afraid."`
 `"However, she's fearsome if you don't respect her, right?"`
 `"...Yes.`
@@ -822,12 +822,12 @@
 ` Or not?`
 ` Genji‐san, when you remodeled Father's study, you must have overseen the construction.`
 ` I won't let you say that you don't know."`
-`"............There is nothing of that nature in the Master's study."`
+`"............There is nothing of that nature in the {ruby:çeviri > Efendi:Master}'s study."`
 `"You're sure?`
 ` What about Kanon‐kun, entrusted with the One‐winged Eagle?"`
 `"......Yes.`
 ` I'm sure.`
-` ......There is nothing like a hidden door in the Master's study."`
+` ......There is nothing like a hidden door in the {ruby:çeviri > Efendi:Master}'s study."`
 `"Kumasawa‐san?"`
 `"N‐......no, I haven't heard of such a thing..."`
 `"What about Doctor Nanjo, who had a close relationship with Father?"`

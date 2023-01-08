@@ -196,9 +196,9 @@
 `{n}......But as the butterflies gathered in the darkness, they...{0}...{0}...perhaps...{0}probably...{0}no, they must have...{0}...laughed.`
 `...But Kanon continued to speak without faltering in the slightest.`
 `"...On the other hand, if you bet on something of a lower probability, you receive a payoff proportional to the risk.`
-` ............The Master called succeeding despite an astronomical risk a "miracle",`
+` ............The {ruby:çeviri > Efendi:Master} called succeeding despite an astronomical risk a "miracle",`
 ` and called the astronomical payoff gained as a result "{ruby:çeviri > büyü:magic}"."`
-`"............I have no interest what kind of "{ruby:çeviri > büyü:magic}" you and the Master were seeking when you spun that roulette......`
+`"............I have no interest what kind of "{ruby:çeviri > büyü:magic}" you and the {ruby:çeviri > Efendi:Master} were seeking when you spun that roulette......`
 ` But you forgot something.`
 ` ......You forgot that roulette has a pocket that is neither red nor black."`
 `Roulette has a special pocket called "0", which means that the house takes everything in certain variants of the game—`
@@ -207,7 +207,7 @@
 ` ...That if...`
 `......Shannon were to be killed, and I was left alive,`
 ` .........I would bring this roulette of yours to ruin even at the cost of my life...!"`
-`"............This isn't one of the Master's rules, ...and it certainly isn't one of yours.`
+`"............This isn't one of the {ruby:çeviri > Efendi:Master}'s rules, ...and it certainly isn't one of yours.`
 ` .........I made this rule myself.`
 ` .........I'm not {ruby:çeviri > mobilya:furniture} anymore.`
 ` .........I'm the zero on your roulette...!"`
@@ -372,7 +372,7 @@
 `Indeed, the weapon was not bladed like a knife, but shaped like an icepick,`
 ` ...or rather, a thin stake.`
 `And also, ...it had a spiral‐shaped design, sort of like a drill?`
-`...To use a disturbing analogy, it looked like something that might be driven into the hearts of human sacrifices in some demonic ritual...`
+`...To use a disturbing analogy, it looked like something that might be driven into the hearts of human sacrifices in some demonic {ruby:çeviri > ritüel:ritual}...`
 `Including the handle, it was about twenty‐five centimeters long.`
 ` Half of that was the stake‐shaped part, which was stained with deep red blood.`
 `......The length of the blood‐stained part made it clear just how deeply it must have penetrated into Kanon‐kun's chest...`
@@ -395,7 +395,7 @@
 `But when I thought about it calmly, I realized that a corpse appearing at this time could only be one person.`
 `.........Grandfather,`
 ` who had disappeared that morning, and whose whereabouts had been unknown.`
-`".........I believe...it is most likely the Master."`
+`".........I believe...it is most likely the {ruby:çeviri > Efendi:Master}."`
 `"...............I...agree.`
 ` ............That he would pass away in such a state......`
 ` .........How heartrending..."`
@@ -410,8 +410,8 @@
 ` ......you're right........."`
 `Just as Genji‐san had said, there were six toes on each foot.`
 `Each of the toes had been arranged so normally that I hadn't noticed...`
-`"......The Master had these uniquely characteristic toes since birth.`
-` ...Consequently, the Master was entrusted with the revival of the Ushiromiya family."`
+`"......The {ruby:çeviri > Efendi:Master} had these uniquely characteristic toes since birth.`
+` ...Consequently, the {ruby:çeviri > Efendi:Master} was entrusted with the revival of the Ushiromiya family."`
 `"I have heard that since long ago, cases of polydactyly were common in the Ushiromiya family.`
 ` ...It's probably hereditary."`
 `Polydactyly literally means "many fingers".`

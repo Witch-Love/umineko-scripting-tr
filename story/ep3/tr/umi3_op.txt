@@ -37,13 +37,13 @@
 ` ...I don't know what I should do...`
 ` hic..."`
 `"That is indeed worrying.`
-` I believe the Master greatly treasured this particular vase.`
+` I believe the {ruby:çeviri > Efendi:Master} greatly treasured this particular vase.`
 ` ......Hohohoho, it's terrifying even for me to think about what kind of punishment you'll receive."`
 `Grandfather was a very frightening person.`
 `And once he told you something, if you failed to follow it, he would become mad with a rage that would make even the fallen angels in hell quiver.`
 `I was intimately familiar with that, which is why I couldn't do anything but shake like this and cry...`
 `"I hold no {ruby:çeviri > büyü:magic} to scoop up your fallen tears, princess,`
-` but if you want {ruby:çeviri > büyü:magic} that will make it possible for you to avoid being scolded by the Master, I might be able to do something."`
+` but if you want {ruby:çeviri > büyü:magic} that will make it possible for you to avoid being scolded by the {ruby:çeviri > Efendi:Master}, I might be able to do something."`
 `"R‐really...?"`
 `"If you will believe in my power, princess.`
 ` The basis of {ruby:çeviri > büyü:magic} power is the power of belief.`
@@ -69,7 +69,7 @@
 `"......Incredible..."`
 `"See?`
 ` Now it's back to normal.`
-` This way, you will be able to avoid being yelled at by the Master."`
+` This way, you will be able to avoid being yelled at by the {ruby:çeviri > Efendi:Master}."`
 `"{f:5:Beatrice}, you sure are incredible.`
 ` It was no trouble for you to repair a broken vase."`
 `"That's not true.`
@@ -142,13 +142,13 @@
 ` I want to become a witch too."`
 `"......All right.`
 ` Then, until you get tired of it, princess, I will allow you to be my disciple.`
-` ...Will you call me Master?"`
-`"Yes, Master."`
+` ...Will you call me {ruby:çeviri > Efendi:Master}?"`
+`"Yes, {ruby:çeviri > Efendi:Master}."`
 `"That's a good answer.`
 ` Then from now on, learn the depths of {ruby:çeviri > büyü:magic} along with me.`
 ` I am also in training.`
 ` Let us both learn {ruby:çeviri > büyü:magic} the right way, and do our best to reach that blissful level."`
-`"Yes, Master...!"`
+`"Yes, {ruby:çeviri > Efendi:Master}...!"`
 `"........................`
 ` ...Ah, a dream.`
 ` ......That face brings me back..."`
@@ -162,10 +162,10 @@
 `I shook my head lightly.`
 `If it is called the highest level, that means that there is nothing higher.`
 `{n}An eternal dead end, the beginning of eternal boredom.`
-`"Master said it once.`
+`"{ruby:çeviri > Efendi:Master} said it once.`
 ` That when one is released from all sadness, it is the same as eternal bliss.`
 ` ......Which is why I think...`
-`Master {i:couldn't reach that level}."`
+`{ruby:çeviri > Efendi:Master} {i:couldn't reach that level}."`
 `Eternal bliss means eternal boredom.`
 `{n}...That's the beginning of eternal torture.`
 `But perhaps all things depend on your point of view.`

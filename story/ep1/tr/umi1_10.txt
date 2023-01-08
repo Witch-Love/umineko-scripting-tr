@@ -6,7 +6,7 @@
 `"My apologies for keeping you waiting, Genji‐sama."`
 `Kanon finished checking his appearance, and exited the washroom.`
 `{n}In a normal schedule, it was rare for anyone to have to suffer going straight from a midnight shift to a morning shift.`
-`It was a special system, for just the two days of the family conference.`
+`It was a special system, for just the two days of the family {ruby:çeviri > konferans:conference}.`
 `But then, as long as the typhoon didn't leave today, the relatives' stay on this island would last until tomorrow.`
 `Kanon thought that it was best to be prepared for the special schedule to be extended one more day.`
 `The two of them left the {ruby:çeviri > konukevi:guesthouse}, opening their umbrellas.`
@@ -187,7 +187,7 @@
 ` Nor are they in their rooms in the {ruby:çeviri > konukevi:guesthouse}."`
 `When she had heard that Gohda alone was missing, she had thought that he might have slept in or was loafing around somewhere,`
 ` but once she heard that several of the relatives were also missing, she began to start thinking a little more optimistically.`
-`Last night's family conference might have continued all night, and in fact might still be going on.`
+`Last night's family {ruby:çeviri > konferans:conference} might have continued all night, and in fact might still be going on.`
 `It would then be imaginable that they had wanted to cool off their heads after being in that stuffy room,`
 ` and had all gone off on a group walk through the rain.`
 `...The part about "cooling off their heads" really sounded like something Krauss would like to say.`
@@ -195,7 +195,7 @@
 `Gohda was not a man who lost track of time.`
 `{n}He had to have understood that, if he did not return, the preparations for breakfast would be hindered.`
 `So perhaps, as much as he'd like to leave, the atmosphere would not permit him to,`
-` and the conference was continuing in that manner even this very moment.`
+` and the {ruby:çeviri > konferans:conference} was continuing in that manner even this very moment.`
 `......Yes, Natsuhi thought this to be an extremely persuasive theory.`
 `Natsuhi remembered the illusion that she had felt that morning of being sucked into a continuation of the previous night,`
 ` ...and upon learning that the feeling wasn't just an illusion, she once again let out a deep, weary breath.`
@@ -257,8 +257,8 @@
 `The study would always lock itself, and couldn't be unlocked as long as Kinzo forbade entrance.`
 `However, since Genji was especially trusted by Kinzo, he was allowed to carry a key to that door...`
 `"But, if this key is used, won't you also receive the blame...?"`
-`"......When the Master is sleeping deeply, simple knocking on the door may not reach his ears."`
-`"...And when persuading the Master to leave his room, it would be more difficult if you must talk through the door.`
+`"......When the {ruby:çeviri > Efendi:Master} is sleeping deeply, simple knocking on the door may not reach his ears."`
+`"...And when persuading the {ruby:çeviri > Efendi:Master} to leave his room, it would be more difficult if you must talk through the door.`
 ` Please use it..."`
 `"......Genji..."`
 `Until now, Natsuhi had thought of Genji as a cold {ruby:çeviri > hizmetkar:servant} who worked directly under Kinzo, and would never work for her.`
@@ -332,7 +332,7 @@
 ` But there was no answer.`
 `...He was still sleeping, and she couldn't wake him.`
 ` ...If she returned downstairs saying something like that, Eva would be very amused and triumphant.`
-`And even aside from the whole Eva issue, there was the problem that yesterday, during this once‐a‐year family conference, he had stayed locked up all day, and had still not come out to greet the guests.`
+`And even aside from the whole Eva issue, there was the problem that yesterday, during this once‐a‐year family {ruby:çeviri > konferans:conference}, he had stayed locked up all day, and had still not come out to greet the guests.`
 `...Even though he was the head—no, especially because he was the head—he couldn't fail to make an appearance.`
 `...Could she convince him?`
 `{n}Natsuhi readied herself, and, using the key that she had borrowed from Genji, opened the door...`
@@ -357,13 +357,13 @@
 `"I will eat here.`
 ` Have it brought here like always."`
 `"But Father...`
-` This is the annual family conference.`
+` This is the annual family {ruby:çeviri > konferans:conference}.`
 ` Please, at least let them see your face."`
 `".........You ask me to go downstairs,`
 ` and join in on the discussion of how my inheritance is to be chewed apart after I die?`
 ` How foolish."`
 `".........They can keep talking about that kind of thing as much as they like without me.`
-` And if that's what you call a family conference, it's nothing so important that I should leave my room for it.`
+` And if that's what you call a family {ruby:çeviri > konferans:conference}, it's nothing so important that I should leave my room for it.`
 ` I am busy.`
 ` Do not bother me."`
 `With his last words came the threat that any further questions would be useless.`
@@ -424,7 +424,7 @@
 `......She was not permitted to wear the family crest on her clothing.`
 `{n}.........But she was permitted to wear it in her heart.`
 `So she spoke calmly, clearly, ...and confidently, with the dignity of the one who would protect the glory of the Ushiromiya family.`
-`"Father said that he would not join in on the family conference.`
+`"Father said that he would not join in on the family {ruby:çeviri > konferans:conference}.`
 ` He says that he has no interest in such an obscene topic."`
 `"...Yes, yes, excuses, excuses.`
 ` If you weren't able to persuade Father, say so frankly."`
@@ -555,7 +555,7 @@
 ` or possibly symbols......`
 `".........What a vulgar bit of graffiti...`
 ` ......Could this be...one of those?`
-` One of those {ruby:çeviri > büyü:magic} circles used in demonic rituals?!"`
+` One of those {ruby:çeviri > büyü:magic} circles used in demonic {ruby:çeviri > ritüel:ritual}s?!"`
 `With reference to this ghastly shape, drawn with a deep‐red, dripping substance, Hideyoshi's comparison was not unreasonable.`
 `"When was this drawn...?!"`
 `"......Last night, I came here before it started raining, but there was nothing drawn here at that time."`

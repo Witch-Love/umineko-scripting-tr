@@ -11,7 +11,7 @@
 `"If today weren't so special...`
 `we might have been able to admire the roses while enjoying some black tea."`
 `Kinzo shrugged.`
-` Today was the family conference.`
+` Today was the family {ruby:çeviri > konferans:conference}.`
 `......When it came to the other siblings' businesses, they hadn't heard anything good.`
 `On the contrary, those siblings probably planned to turn the conversation to the topic of Kinzo's remaining life,`
 ` and hold a quiet feud over the inheritance.`
@@ -20,7 +20,7 @@
 ` Is that debt repayment plan of his proceeding well?"`
 `"It really does seem to be a realistic plan.`
 ` .........However, the scale of the plan appears to be quite large, and it doesn't seem to be bearing fruit as well as he expected."`
-`"If possible, I had hoped that something could be done before today's family conference."`
+`"If possible, I had hoped that something could be done before today's family {ruby:çeviri > konferans:conference}."`
 `"......Yes.`
 ` My apologies."`
 `"Are you sure that's alright, Kinzo?`
@@ -59,7 +59,7 @@
 `"......Certainly."`
 `"Then let's go our separate ways.`
 ` Natsuhi.`
-` ......I want you to conduct the family conference splendidly without me."`
+` ......I want you to conduct the family {ruby:çeviri > konferans:conference} splendidly without me."`
 `"Of course, Father.`
 ` He can't say it in front of them, but my husband is already the Ushiromiya family head.`
 ` And, I will do all I can to see that I don't embarrass him as his wife."`
@@ -102,7 +102,7 @@
 `"Hoh, you mean Dimbula.`
 ` That isn't bad.`
 ` Then you should also have patis on the side.`
-` ......You must serve me some as a reward if I manage to {ruby:çeviri > numara:trick} everyone for the whole upcoming family conference.`
+` ......You must serve me some as a reward if I manage to {ruby:çeviri > numara:trick} everyone for the whole upcoming family {ruby:çeviri > konferans:conference}.`
 ` Promise me now."`
 `"Understood.`
 ` I promise.`
@@ -144,7 +144,7 @@
 `{p:1:Grandfather is dead at this point in time}.`
 ` There's no way he exists.`
 `"The only reason everything's behaving as though he actually exists...`
-`is because that's the lie that Aunt Natsuhi's creating in an attempt to hide Grandfather's death and {ruby:çeviri > numara:trick} her way through the family conference."`
+`is because that's the lie that Aunt Natsuhi's creating in an attempt to hide Grandfather's death and {ruby:çeviri > numara:trick} her way through the family {ruby:çeviri > konferans:conference}."`
 `"Oh?`
 ` It's Natsuhi's lie?`
 ` You can revive the dead by lying?`
@@ -339,13 +339,13 @@
 `"He returned to his room a short while ago.`
 ` He is resting."`
 `Since the previous day, Krauss had been almost overwhelmed by anxiety over the thought that Kinzo's death might be discovered.`
-`When the family conference ended, his weariness must have suddenly gotten ahold of him.`
+`When the family {ruby:çeviri > konferans:conference} ended, his weariness must have suddenly gotten ahold of him.`
 `......However, the way he had refused to let even a sliver of his true intentions slip out...`
 `and the manner in which he had managed to act as though everything was normal showed that Krauss's nerve was nothing to sneeze at.`
 `".........How was it?`
 ` Did they seem to notice anything suspicious about Father...?"`
 `"Nope.`
-` Eva‐sama in particular was raising quite the racket about the Master overhearing her talking about the inheritance. Right?`
+` Eva‐sama in particular was raising quite the racket about the {ruby:çeviri > Efendi:Master} overhearing her talking about the inheritance. Right?`
 ` Wasn't her panicking just priceless?"`
 `"Yes.`
 ` She was quite shaken up."`
@@ -509,7 +509,7 @@
 ` I've taken a liking to you."`
 `"Really?`
 ` Thank you."`
-`"The instructions and orders you gave the {ruby:çeviri > hizmetkarlar:servants} for this family conference were superb.`
+`"The instructions and orders you gave the {ruby:çeviri > hizmetkarlar:servants} for this family {ruby:çeviri > konferans:conference} were superb.`
 ` You thought of everything from where Kinzo would be and when to what he did and what he left behind,`
 ` and you put it all together splendidly without any contradictions.`
 ` That detailed written plan of yours had the same beauty as a high‐level {ruby:çeviri > büyü:magic} circle."`
@@ -529,7 +529,7 @@
 ` At your current level, as soon as you become self‐aware of that as {ruby:çeviri > büyü:magic}, you will be worthy of calling yourself a witch apprentice."`
 `"If you call something like that {ruby:çeviri > büyü:magic}, then that would make Kumasawa the witch of feigned illnesses.`
 ` She only calls us to say she's taking the day off because of her bad back on the busy days.`
-` Like every year's family conference."`
+` Like every year's family {ruby:çeviri > konferans:conference}."`
 `"Oh no, Kumasawa is completely different.`
 ` She's a witch of a much, much higher level.`
 ` If you knew what she really was, it'd shock you!`
@@ -739,7 +739,7 @@
 ` {f:5:Beatrice} doesn't exist.`
 ` This is a false witch illusion that Natsuhi created from her belief that she thought up a brilliant plan to overcome hardship by borrowing the witch's power."`
 `"The only reason it looks like the two of them are drinking together...`
-`is because {f:5:Lambdadelta}, who is the {ruby:çeviri > Oyun Yöneticisi:Game Master} and {i:the one who is telling the story}, is interpreting it that way."`
+`is because {f:5:Lambdadelta}, who is the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} and {i:the one who is telling the story}, is interpreting it that way."`
 `"If you stare without a fragment of love for Natsuhi, you won't see illusions like that.`
 ` .........That's why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."`
 `Without love, it cannot be {y:1:‘seen’}{n:1:seen}.`

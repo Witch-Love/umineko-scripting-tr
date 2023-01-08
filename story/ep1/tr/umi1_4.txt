@@ -1,9 +1,9 @@
-`The Ushiromiya family conference was held once every year.`
+`The Ushiromiya family {ruby:çeviri > konferans:conference} was held once every year.`
 `{n}It took place on the first weekend of October.`
-`If a normal family were to use a pretentious name like "family conference",`
+`If a normal family were to use a pretentious name like "family {ruby:çeviri > konferans:conference}",`
 ` you'd expect it to be nothing more than a reunion of rarely seen relatives who greet each other surrounded by buckets of sushi.`
 `However, in the Ushiromiya family, where the sons and siblings are lent great fortunes,`
-` and only those that achieve success in business are considered adults, it literally was a conference.`
+` and only those that achieve success in business are considered adults, it literally was a {ruby:çeviri > konferans:conference}.`
 `How much of the fortune was invested? What kind of business was conducted? How much was earned?`
 `As a result, how much of the fortune borrowed from the main family could be repaid?`
 `{n}Or, alternatively, how much would be borrowed for future business ventures?`
@@ -50,15 +50,15 @@
 `You could probably also call him the only person able to enter Rokkenjima who is neither a family member nor a {ruby:çeviri > hizmetkar:servant}.`
 `From listening in on his conversation with the womenfolk seated near him, he gave the impression of a calm old gentleman.`
 `......Considering he's managed to put up with our short‐tempered grandfather for so long, I'm sure his big heart is nothing to laugh at.`
-`...Still, even if he is his doctor, having someone from outside the Ushiromiya family attending the family conference is a little odd.`
+`...Still, even if he is his doctor, having someone from outside the Ushiromiya family attending the family {ruby:çeviri > konferans:conference} is a little odd.`
 `From that fact, I imagine that Grandfather's condition has grown much worse,`
-` and it may even be one of the major topics of discussion at the family conference...`
+` and it may even be one of the major topics of discussion at the family {ruby:çeviri > konferans:conference}...`
 `George‐aniki was just saying it, too.`
 `{n}For the past year, Grandfather has been continually pronounced as having very little time left to live.`
 `...It's awful to talk about, but Grandfather is an extremely rich man.`
 `{n}At the time of his death, his wealth will suddenly be released, along with our parents' stomach acid, surely leading to some serious ulcers.`
 `With this kind of thing, the greater the number of ways it must be split, the more trouble will be caused splitting it.`
-`...This kind of talk would probably also be included in the family conference.`
+`...This kind of talk would probably also be included in the family {ruby:çeviri > konferans:conference}.`
 `{n}...Oh well, it's not like it has anything to do with us children.`
 `......Finally, even though he's absent, let me introduce our Grandfather.`
 `The person who should be sitting in that seat of honor is Ushiromiya Kinzo ({p:0:金蔵}).`
@@ -152,7 +152,7 @@
 ` never becoming more than an average company employee.`
 `If that had happened, he'd probably be sitting here with the rest of us, regaling us with tales of his shitty boss.`
 `No, no—not here, in the {ruby:çeviri > yemek salonu:dining hall} of a {ruby:çeviri > malikane:mansion}—we might have been around a table at some bar.`
-`If that were the case, I'm sure that this would have been a more comfortable family conference.`
+`If that were the case, I'm sure that this would have been a more comfortable family {ruby:çeviri > konferans:conference}.`
 `Alright, that's enough talk about the old geezer who won't pop off.`
 `{n}More importantly, let's talk about this incre~dible lunch!!`
 `"I was already sold by the sashimi salad!`
@@ -536,7 +536,7 @@
 `After the doctor had exited and his footsteps had disappeared into the distance, Krauss recrossed his legs.`
 `"So let me see if I understand your point of view correctly.`
 ` ......Father's remaining life is short.`
-` You want to quickly enter into a practical conference concerning the distribution of the inheritance.`
+` You want to quickly enter into a practical {ruby:çeviri > konferans:conference} concerning the distribution of the inheritance.`
 ` ......Why are you so eager, I wonder?"`
 `"Certainly, as you say, estimating and distributing the Ushiromiya family's wealth is no simple task.`
 ` In that case, shouldn't we carefully and deliberately calculate?`
@@ -824,15 +824,15 @@
 `And of course, this was the patriarchal Ushiromiya family.`
 `A wife was just a tool to create an heir.`
 `......If that wife could not fulfill her only duty, she would not be treated as human.`
-`It is painful to remember how much the Master tortured Madam during that time...`
+`It is painful to remember how much the {ruby:çeviri > Efendi:Master} tortured Madam during that time...`
 `During that time, Eva‐sama and Hideyoshi‐sama's wedding was discussed.`
 `......Eva‐sama was sly.`
-`...Taking advantage of Madam's inability to become pregnant, she gained the favor of the Master.`
+`...Taking advantage of Madam's inability to become pregnant, she gained the favor of the {ruby:çeviri > Efendi:Master}.`
 `She inspired him to allow her to marry and give birth to a successor herself, making sure to avoid transferring her name out of the Ushiromiya register.`
 `There was a vast difference in the Ushiromiya hierarchy between Madam, who married into the Ushiromiya family and was treated like an outsider, and Eva‐sama, who was related to the family by blood and whose husband took on the Ushiromiya name.`
 `And beyond that, Eva‐sama was the first to give birth, and what's more, to a boy...`
 `Perhaps you can now understand how much weaker Madam's position was compared to Eva‐sama's...`
-`...I'm sure Madam is tormented by the thought that if only she had gotten pregnant earlier, the Master wouldn't have accepted Eva‐sama's request to keep her last name after marriage, and Eva‐sama wouldn't have been permitted to act as arrogantly as she had today...`
+`...I'm sure Madam is tormented by the thought that if only she had gotten pregnant earlier, the {ruby:çeviri > Efendi:Master} wouldn't have accepted Eva‐sama's request to keep her last name after marriage, and Eva‐sama wouldn't have been permitted to act as arrogantly as she had today...`
 `However...that was not Madam's fault......`
 `All of the blame lies with God's whims, and the stork that delivered Jessica‐san late......`
 `Even so, Madam won't allow herself to see things this way...`

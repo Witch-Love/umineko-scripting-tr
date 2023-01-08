@@ -62,14 +62,14 @@
 `"......I am not sure it is right of me to say this, but {nobr:Mr. Ushiromiya} was extremely moody.`
 ` And my father was an exceedingly magnanimous man, who excelled at interacting with people like him.`
 ` It's not hard to imagine that he was a rare friend for the isolated {nobr:Mr. Ushiromiya}."`
-`"That day was the day of the family conference.`
-` ......The Ushiromiya family conferences are said to have involved harsh questioning from Ushiromiya Kinzo over how his fortune would be put to use,`
-` almost like a financial conference.`
+`"That day was the day of the family {ruby:çeviri > konferans:conference}.`
+` ......The Ushiromiya family {ruby:çeviri > konferans:conference}s are said to have involved harsh questioning from Ushiromiya Kinzo over how his fortune would be put to use,`
+` almost like a financial {ruby:çeviri > konferans:conference}.`
 ` So Doctor Nanjo had gained a trust so great that he was asked to attend even that...?"`
 `"My father was a simple doctor,`
 ` so I cannot imagine that he was in a position to advise on asset management for a millionaire family like the Ushiromiyas."`
 `"He was most likely called there to assist, because {nobr:Mr. Ushiromiya's} health was not at its best at the time.`
-` ......As {nobr:Mr. Ushiromiya's} close friend, I'm sure that my father would have kept his mouth shut, and been trusted not to leak the secrets of the family conference."`
+` ......As {nobr:Mr. Ushiromiya's} close friend, I'm sure that my father would have kept his mouth shut, and been trusted not to leak the secrets of the family {ruby:çeviri > konferans:conference}."`
 `"......Was Ushiromiya Kinzo in very bad health at the time?`
 ` Are there any medical charts left?"`
 `"My father probably took the medical charts with him on the day of the accident.`
@@ -330,7 +330,7 @@
 `As Sakutaro buried his head in my stomach, he urged me to stay calm.`
 `......I took another deep breath, and started thinking.`
 `".........I wonder if the sending of these envelopes was to demonstrate that this was a premeditated crime by {f:5:Beatrice}."`
-`"They were postmarked right before the family conference.`
+`"They were postmarked right before the family {ruby:çeviri > konferans:conference}.`
 ` And they were intentionally set up so that they would be sent back after some time."`
 `‘......They wanted them to arrive after the incident, is that it......?’`
 `"Yeah.`
@@ -398,7 +398,7 @@
 `"Did you notice anything different about Kumasawa‐san in the days leading up to the incident...?"`
 `"Nope.`
 ` She looked the same as ever.`
-` .....Grumbling about how tough the family conference was and how it put her on edge, same as always."`
+` .....Grumbling about how tough the family {ruby:çeviri > konferans:conference} was and how it put her on edge, same as always."`
 `"............?`
 ` ......What's this?"`
 `Among the numerous frames, there was one that had something other than a picture of people in it.`
@@ -425,7 +425,7 @@
 ` And there was that rumor that ten tons of gold bars were hidden somewhere.`
 ` No wonder she was so besotted by it."`
 `In both Maria onee‐chan's diary and in her grimoire, there was a description of the witch's {ruby:çeviri > kitabe:epitaph}.`
-`It mentioned about how it was a ritual to open the door to the {ruby:çeviri > Altın Diyar:Golden Land}, and {f:5:Beatrice}'s resurrection ritual, and {f:5:Beatrice}'s succession ceremony.`
+`It mentioned about how it was a {ruby:çeviri > ritüel:ritual} to open the door to the {ruby:çeviri > Altın Diyar:Golden Land}, and {f:5:Beatrice}'s resurrection {ruby:çeviri > ritüel:ritual}, and {f:5:Beatrice}'s succession ceremony.`
 ` And so on.`
 `Maybe the most interesting one was the last line, the succession ceremony.`
 `According to {f:5:Beatrice},`
@@ -478,7 +478,7 @@
 `The former boat captain was so full of energy that you couldn't really tell why he had retired in the first place.`
 `His memory seemed clear too; he had a good memory of things that had happened more than a decade prior, and it seemed that he could even remember how Ange had been at the time.`
 `The lively conversation was very helpful for Ange,`
-` ......but at the same time, the captain also remembered the final family conference very well,`
+` ......but at the same time, the captain also remembered the final family {ruby:çeviri > konferans:conference} very well,`
 ` and the fact that he had detailed memories of even Battler's "gonna fall gonna fall uproar" on the boat was instead painful for Ange.`
 `It had been so back then as well, but even now, there was no public way to cross to Rokkenjima.`
 `It was necessary to make an individual request to an owner of a boat to make the voyage.`
@@ -522,9 +522,9 @@
 ` I'm sure that's pained the captain constantly until today......’`
 `I heard that it had truly been right in the middle of a typhoon on October 5th.`
 `According to the boat captain, he had known for certain that they would be trapped by the typhoon if they headed to Rokkenjima on October 4th.`
-`But the family had been very insistent upon that date, which had been determined beforehand as the date of the conference.`
+`But the family had been very insistent upon that date, which had been determined beforehand as the date of the {ruby:çeviri > konferans:conference}.`
 `......It was only natural.`
-` All of the adults had their own packed schedules, and had come to the family conference having arranged those schedules in advance.`
+` All of the adults had their own packed schedules, and had come to the family {ruby:çeviri > konferans:conference} having arranged those schedules in advance.`
 `They probably had their own circumstances preventing them from easily pushing it back to next week just because the typhoon was approaching.`
 `......It wasn't the boat captain's fault.`
 `But perhaps you could say that he didn't feel so guiltless that he could place the blame wholly on the typhoon.`
