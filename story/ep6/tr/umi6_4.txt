@@ -49,7 +49,7 @@
 `"..........................."`
 `Battler chuckled, ......but Erika knew from the previous game that "Battler" was actually quite an avid reader.`
 `So, his words felt like more of a challenge.`
-`"If you're so confident in your reasoning abilities, you must be really good at quizzes and puzzles, right?"`
+`"If you're so confident in your {ruby:çeviri > muhakeme:reasoning} abilities, you must be really good at quizzes and puzzles, right?"`
 `"Oh, right. Maria, didn't you bring a quiz book or something?"`
 `"Uu!`
 ` Brought it!!"`

@@ -205,7 +205,7 @@
 `"I refuse."`
 `"Why?"`
 `"I'm retired now.`
-` ......Reasoning and mysteries aren't my business anymore."`
+` ......{ruby:çeviri > Muhakeme:Reasoning} and mysteries aren't my business anymore."`
 `"How do you intend to spend the rest of your life?`
 ` Is Wizard‐hunting Wright going to give up witch hunting?"`
 `"......Oh, there's fox hunting and clam hunting.`

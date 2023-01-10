@@ -1810,7 +1810,7 @@
 `The falling gemdrops celebrated their overcoming of this trial......`
 `".........He jumped down from the third floor...? ......Unharmed...?`
 ` He jumped down......and escaped from the locked room...?`
-` Th‐this is ridiculous...... This isn't reasoning... ......It's insane!!"`
+` Th‐this is ridiculous...... This isn't {ruby:çeviri > muhakeme:reasoning}... ......It's insane!!"`
 `If Battler had at least been seriously injured and writhing in the mud,`
 ` ......Erika might still have had some ground to stand on.`
 `She might have been able to claim that Kinzo couldn't have jumped down with his old body and gotten away unscathed.`
@@ -1819,7 +1819,7 @@
 ` ......This...can't be possible, right?`
 ` There's no way a {y:0:Human}{n:0:human} can jump out of a third story window and land unharmed...!!"`
 `"Isn't that right, everyone...?!`
-` Much less Kinzo‐san, jumping down from the third floor at his age!! There's no reasoning behind this!!"`
+` Much less Kinzo‐san, jumping down from the third floor at his age!! There's no {ruby:çeviri > muhakeme:reasoning} behind this!!"`
 `Erika tried to get everyone's agreement and somehow turn things around,`
 ` ......but their responses were no different from how they had been a short while ago.`
 `"No, with Kinzo‐san, it's a possibility."`

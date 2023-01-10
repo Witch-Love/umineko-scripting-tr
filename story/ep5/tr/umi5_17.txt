@@ -159,15 +159,15 @@
 `"If you don't feel like trying to deduce anything...what does that mean...?"`
 `"It means you don't even feel like reading to begin with."`
 `"That is {f:5:correct}.`
-` ......{y:0:Humans}{n:0:Humans} are weak creatures who cannot even think unless they have assurance that reasoning is {f:5:possible}."`
-`"...That reasoning is possible.`
+` ......{y:0:Humans}{n:0:Humans} are weak creatures who cannot even think unless they have assurance that {ruby:çeviri > muhakeme:reasoning} is {f:5:possible}."`
+`"...That {ruby:çeviri > muhakeme:reasoning} is possible.`
 ` ......In other words, they need encouragement that they can solve it if they do their best."`
 `That......might actually be true.`
 `......It's the same with exercising.`
 `If you're told to run ten laps around the campus, you can tough it out.`
 `But if you're made to run without even knowing how many laps it's going to be,`
 ` you'll probably get tired out before you make it around three times.`
-`The same thing goes for thinking and reasoning.`
+`The same thing goes for thinking and {ruby:çeviri > muhakeme:reasoning}.`
 `Depending on whether or not a problem is guaranteed to be solvable,`
 ` the way we humans react to it changes completely......`
 `"In detective novels, there's always a scene where the detective announces that he's discovered who the {ruby:çeviri > suçlu:culprit} is.`
@@ -187,7 +187,7 @@
 ` I didn't seriously try to tackle them.`
 `After all, I knew nothing except that people had died in a locked room, and the windows and doors were all locked from the inside.`
 `......I had basically no hints.`
-`So I refused to debate, on the grounds that I couldn't fight because the lack of clues made reasoning impossible.`
+`So I refused to debate, on the grounds that I couldn't fight because the lack of clues made {ruby:çeviri > muhakeme:reasoning} impossible.`
 `......After that, Beato sneered at me, didn't she...`
 `asking whether I would repeat that over and over forever in an endless repetition of moves......`
 `At that time, Beato said this:`
@@ -203,7 +203,7 @@
 `"{f:5:Beatrice}.`
 ` ......She is a strange {f:5:person}.`
 ` Mysteries are the only spaces where witches can live, and yet she herself began to give you the {ruby:çeviri > kırmızı gerçek:red truth}, a method by which those mysteries could be {f:5:solved}."`
-`You could say that the {ruby:çeviri > kırmızı gerçek:red truth} is a hint Beato gives me so that I'll agree to compete in this war of reasoning.`
+`You could say that the {ruby:çeviri > kırmızı gerçek:red truth} is a hint Beato gives me so that I'll agree to compete in this war of {ruby:çeviri > muhakeme:reasoning}.`
 `......It's a carrot.`
 `Being given a hint is like she's saying,`
 ` “Go on.`
@@ -240,7 +240,7 @@
 `"The Knox Decalogue is often thought of as a series of restrictions imposed by the one who made the mystery,`
 ` but it is also vital for the {f:5:readers}.`
 ` .........By using the Decalogue as a crutch,`
-` we are given the courage needed to use reasoning, as well as the willpower to reread the tale several times...`
+` we are given the courage needed to use {ruby:çeviri > muhakeme:reasoning}, as well as the willpower to reread the tale several times...`
 `in search of the clues we know must be hidden {f:5:there}."`
 `".........It's like the lid of a jar of jam which is too tight and won't open.`
 ` ......Like Mom always used to say,`
@@ -270,7 +270,7 @@
 `And that is.........the guarantee that the detective novel will adhere to the Decalogue.`
 `If a work labels itself as an orthodox mystery, then you have nothing to worry about.`
 `However, the mystery genre contains many unorthodox sub‐genres within it.`
-`.........Does that mean that trying to use reasoning in an unorthodox detective novel...`
+`.........Does that mean that trying to use {ruby:çeviri > muhakeme:reasoning} in an unorthodox detective novel...`
 `is a complete waste of time......?`
 `"......Looking at it that way,`
 ` ......it really does feel arrogant."`
@@ -321,9 +321,9 @@
 ` That alone, I will guarantee with the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `It was...`
 `...the one guarantee...`
-`......that all those who try to use reasoning desire.`
+`......that all those who try to use {ruby:çeviri > muhakeme:reasoning} desire.`
 `"I do not know whether the answer can be derived by following the Decalogue my father {f:5:created}.`
-` ......However, if you run into a tight spot and want a compass for your reasoning,`
+` ......However, if you run into a tight spot and want a compass for your {ruby:çeviri > muhakeme:reasoning},`
 ` please try using my Decalogue if you {f:5:remember}.`
 ` ......It might give you renewed courage and possibly even some new {f:5:discovery}......"`
 `"Thank you.`
@@ -342,7 +342,7 @@
 `Isn't that......proof that it's possible to apply logic to this......?`
 `......Of course, that's from Beato's point of view,`
 ` ......and it doesn't necessarily mean that it'll be possible for me to work it out......`
-`But compared to before now, when I didn't even know whether applying reasoning was possible or impossible,`
+`But compared to before now, when I didn't even know whether applying {ruby:çeviri > muhakeme:reasoning} was possible or impossible,`
 ` ......that one sentence might give me a great deal of courage and strength...`
 `At least it has the power to silence any negative thoughts about it just being useless anyway...`
 `"......Unless the other party assures you that it's possible to deduce the answer, you won't try.`
@@ -487,7 +487,7 @@
 `That violates the closed circle rule.`
 `From that moment onwards, everything is screwed up.`
 `Did I give up on the inside,`
-` ......thinking that the true {ruby:çeviri > suçlu:culprit} or mastermind must not have shown up yet and that reasoning was therefore useless......?`
+` ......thinking that the true {ruby:çeviri > suçlu:culprit} or mastermind must not have shown up yet and that {ruby:çeviri > muhakeme:reasoning} was therefore useless......?`
 `If I read this tale as a fantasy,`
 ` ......new characters keep showing up to the point where even having demon kings or gods or divine creators appear wouldn't be strange at all.`
 `Even if the true mastermind first appeared in one of the last Episodes, I'd just accept it as that kind of story.`
@@ -536,7 +536,7 @@
 `...Beato's greatest weapon in the second game.`
 `Depictions of {ruby:çeviri > büyü:magic} that have no place in a mystery.`
 `By showing me that, she forced me to think that this tale wasn't a mystery,`
-` and therefore, that reasoning was impossible, ...and I surrendered......`
+` and therefore, that {ruby:çeviri > muhakeme:reasoning} was impossible, ...and I surrendered......`
 `However, if I had believed unshakably that it was a mystery...`
 `......it would have been completely obvious to doubt the witnesses who claimed to have seen those things.`
 `Also, at the end of the first game,`
@@ -556,7 +556,7 @@
 ` I wouldn't have had to blindly accept them and give up......`
 `However, that raises the question:`
 ` .........is it even possible to solve a story written by an observer who isn't impartial?`
-`.........All reasoning ends here if you get obsessed with this.`
+`.........All {ruby:çeviri > muhakeme:reasoning} ends here if you get obsessed with this.`
 `That's why......it's so important for me to believe.`
 `That Beato...`
 `......is trying to fight me through this tale.`
@@ -564,7 +564,7 @@
 ` ......that means I've been given a chance of winning.`
 `And the fact that I've been given that...`
 `......must mean...`
-`......that reasoning is possible.`
+`......that {ruby:çeviri > muhakeme:reasoning} is possible.`
 `......This part......is the hardest.`
 `Unless I believe that the cruel witch took on the risk of losing to try and have a fair fight with me,`
 ` ......I can't get past this part.`
@@ -583,7 +583,7 @@
 `{n}Like hearing a love confession via a friend...`
 `.........I really am...`
 `......pitiful.`
-`Reasoning......is love.`
+`{ruby:çeviri > Muhakeme:Reasoning}......is love.`
 `If we don't love each other,`
 ` ......the logic won't open up.`
 `In that case, why can't we just say that we love each other?`
@@ -609,7 +609,7 @@
 `In other words,`
 ` ......clues must have been prepared so that the tale can be solved.`
 `And it has to have been made in a way that it can be solved without relying on luck.`
-`If I can believe strongly that Beato is challenging me to a fair game where reasoning is possible...`
+`If I can believe strongly that Beato is challenging me to a fair game where {ruby:çeviri > muhakeme:reasoning} is possible...`
 `......I can be sure of that.`
 `That must mean......that Beato has already concealed...`
 `clues, hints, and messages within the tale so far.`
@@ -666,7 +666,7 @@
 ` ......Know that you have now been given eyes that will not miss the truth's faint light."`
 `"............Now is the time...`
 `............to go back......"`
-`"Be advised that for reasoning to be possible, a trusting relationship is required."`
+`"Be advised that for {ruby:çeviri > muhakeme:reasoning} to be possible, a trusting relationship is required."`
 `"......Yeah,`
 ` ......I know.`
 ` .........In fact,`
@@ -1018,15 +1018,15 @@
 `{n}As though her slow, dignified movements from before were only a lie...!`
 `......The trail drawn by the longsword of {ruby:çeviri > kırmızı gerçek:red truth} burned itself into the retinas of those who saw it.`
 `Before anyone had enough time to follow that trail, ......it was already approaching Battler's chest...!`
-`"{p:2:Lady {f:5:Erika}'s reasoning has solved the fifth {f:5:game}.`
+`"{p:2:Lady {f:5:Erika}'s {ruby:çeviri > muhakeme:reasoning} has solved the fifth {f:5:game}.`
 ` No new facts exist to overturn this logically derived {f:5:truth}}...!!"`
 `"{p:1:It's possible to present a different truth using a different interpretation}!!`
 ` When multiple truths exist in parallel, the authenticity of both is questioned!!"`
 `In this closed‐off world, it's possible for differing truths to exist at the same time.`
 `Furthermore, as long as multiple truths exist, it's impossible to claim that any of the truths are the single truth.`
-`In other words, even if I can't overturn Erika's reasoning, by questioning its credibility...`
+`In other words, even if I can't overturn Erika's {ruby:çeviri > muhakeme:reasoning}, by questioning its credibility...`
 `......and conquering it, I can defeat it...!`
-`"Bern's reasoning is perfect. You won't be able to overturn it easily.`
+`"Bern's {ruby:çeviri > muhakeme:reasoning} is perfect. You won't be able to overturn it easily.`
 ` ......But still.`
 ` If you can present a theory on par with Bern's, the fight will come down to a verdict.`
 ` That means it's possible that either one of the truths will be defeated and denied!"`
@@ -1141,7 +1141,7 @@
 `"Yes."`
 `{f:5:Virgilia} could already be seen in midair inside the cathedral.`
 `As Erika fell from the heavens, {f:5:Virgilia} was right below her and thrust upwards with her divine spear glowing blue!`
-`"{p:2:......Shouldn't you rethink your reasoning?`
+`"{p:2:......Shouldn't you rethink your {ruby:çeviri > muhakeme:reasoning}?`
 ` Kinzo doesn't exist.`
 ` Therefore, the way for the bodies to disappear in your theory breaks down}."`
 `"{f:5:Correct}.`
@@ -1180,7 +1180,7 @@
 ` ......to her, having to revise a theory she had already created...`
 `.........was extremely......humiliating!`
 `"Looks like you toyed around with your plan too much in order to corner Natsuhi like that."`
-`"You played around too much with your reasoning.`
+`"You played around too much with your {ruby:çeviri > muhakeme:reasoning}.`
 ` ......At this point, your master isn't the only one who can speak of Kinzo's death with the {ruby:çeviri > kırmızı gerçek:red truth}."`
 `"This is what you get for playing around in the witches' darkness.`
 ` ......Know that, Furudo Erika...!"`
@@ -1406,7 +1406,7 @@
 `...get out of my way.........!"`
 `......The deeply piercing blue spear and the seven red stakes tormented her theory.`
 `They won't come out......... They won't come out.........!!`
-`"...............I acknowledge the mistakes in Erika's reasoning and the need for revision."`
+`"...............I acknowledge the mistakes in Erika's {ruby:çeviri > muhakeme:reasoning} and the need for revision."`
 `"Wh‐......what the......my master?!?!"`
 `Watching Erika's face contort with pain as she struggled to escape from the spear,`
 ` {f:5:Bernkastel} declared this with a disgusted expression.`
@@ -1420,7 +1420,7 @@
 ` Aah, what a pain, what a pain, what a total pain...`
 ` Who needs a piece, I should just get rid of it... Ahh, what a terrible regretful discouraging disappointing misguided mistake...!!`
 ` ......Get on with it, you filth!!`
-` Didn't I tell you to revise your pathetic attempt at reasoning?!?!"`
+` Didn't I tell you to revise your pathetic attempt at {ruby:çeviri > muhakeme:reasoning}?!?!"`
 `"Ooh, ......agh...hh.........y‐yes, my master...!!`
 ` I'll revise it... I'll revise my theory...!!`
 ` Uuu{0}u{0}u{0}u{0}ughhu{0}u{0}uh{0}h{0}h{0}u{0}uuu......!!"`
@@ -1429,7 +1429,7 @@
 `Mumbling quietly, she made various revisions with the {ruby:çeviri > mavi gerçek:blue truth},`
 ` had them acknowledged by {f:5:Lambdadelta}, and finally had the blue spear smashed and was freed......`
 `Though that {ruby:çeviri > mavi gerçek:blue truth} did indeed explain how the bodies had disappeared,`
-` ......it was truly shabby reasoning that reeked of desperation.`
+` ......it was truly shabby {ruby:çeviri > muhakeme:reasoning} that reeked of desperation.`
 `".........My master......`
 ` .........I, ......I've taken it out.........`
 ` ...My theory...`

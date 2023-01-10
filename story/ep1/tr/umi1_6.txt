@@ -73,7 +73,7 @@
 ` The village down the river where the sweetfish swim in Odawara.`
 ` We figured that it was probably somewhere near Odawara Castle."`
 `"The problem is the next line.`
-` Alright, let's see where your strange reasoning can take you."`
+` Alright, let's see where your strange {ruby:çeviri > muhakeme:reasoning} can take you."`
 `Jessica grinned broadly.`
 `{n}It was like she was saying that, if the puzzle could be solved so easily, she would have found it long ago.`
 `...Damn it,`
@@ -150,7 +150,7 @@
 `"Ooh...`
 ` I hadn't thought of that."`
 `"Oh well, we're just killing time anyway.`
-` Let's hear the rest of your reasoning!"`
+` Let's hear the rest of your {ruby:çeviri > muhakeme:reasoning}!"`
 `"......But in the next part it quickly becomes disturbing..."`
 `Shannon‐chan frowned slightly.`
 `After looking back at Maria's notebook to recall what was written there,`

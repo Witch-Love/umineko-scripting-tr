@@ -232,9 +232,9 @@
 ` ...But, that doesn't mean we can rule out something like a secret hidden passage in that room that only the {ruby:çeviri > hizmetkarlar:servants} know about."`
 `"I don't know where that might be hidden,`
 ` but if we assume that there was a hidden passage, we can say for certain that it was impossible for anyone except him."`
-`"..................You know, that line of reasoning,`
+`"..................You know, that line of {ruby:çeviri > muhakeme:reasoning},`
 ` ...it was the first thing I thought of, too.`
-` ......It's the reasoning I hate the most, so I wanted to destroy it in the very beginning..."`
+` ......It's the {ruby:çeviri > muhakeme:reasoning} I hate the most, so I wanted to destroy it in the very beginning..."`
 `"*cackle*cackle*...`
 ` "{p:1:Kanon was killed in this room}", yes?"`
 `"Because you seemed to suspect Kanon as the {ruby:çeviri > suçlu:culprit}, you made me repeat this to destroy that possibility right away.`
@@ -280,7 +280,7 @@
 `"......No way!`
 ` You're calling Kanon‐kun the {ruby:çeviri > suçlu:culprit} because of a hidden door that we don't even know exists...`
 ` I...can't accept that."`
-`"If you can't accept that, tell me some reasoning that's easier to accept, then?`
+`"If you can't accept that, tell me some {ruby:çeviri > muhakeme:reasoning} that's easier to accept, then?`
 ` .........There is none.`
 ` I've been thinking the whole time.`
 ` There's nothing but this!"`

@@ -1,7 +1,7 @@
 `"...I see...`
 ` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
 `"......So there can be more than 18 people!`
-` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving {ruby:çeviri > büyü:magic}.`
+` Which means I can defeat that line of {ruby:çeviri > muhakeme:reasoning} which says that, if it was impossible for all 18 people, it must be a crime involving {ruby:çeviri > büyü:magic}.`
 ` ......That's some big information."`
 `"Excuse me.`
 ` Battler‐sama, would you care for some black tea and cookies?"`
@@ -245,7 +245,7 @@
 ` Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."`
 `"And that means, as long as we accept the premise that there are no more than two boxes,`
 ` the contrapositive shows that the other box is automatically the winner."`
-`"......Well, I think I'm starting to see your reasoning.`
+`"......Well, I think I'm starting to see your {ruby:çeviri > muhakeme:reasoning}.`
 ` Only poison can stop poison, and only twisted logic can stop twisted logic."`
 `"...Then what?`
 ` How does that overturn my claim that "no doubt there is a 19th human hidden on this island,`

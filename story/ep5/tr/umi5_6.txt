@@ -271,7 +271,7 @@
 `"......Gouge the leg......and kill.`
 ` ......Now it's complete..."`
 `"I see, ......so that {i:was} what "gouge" meant after all.`
-` Once again, my reasoning was correct."`
+` Once again, my {ruby:çeviri > muhakeme:reasoning} was correct."`
 `The feel of the last one was clearly different from all the ones before,`
 ` making the two of them almost certain that they had activated some sort of mechanism.`
 `However, as far as a quick glance could tell, there was no dramatic change, such as an entrance of some sort opening.`
@@ -517,7 +517,7 @@
 `The "me" who had let out a strange yell in front of the gold mountain was finally starting to regain his cool.`
 `......Now that we'd found it, there was no covering it up.`
 `{n}I faintly thought about keeping this discovery a secret.`
-`......However, Erika wanted to prove that her own reasoning was correct by announcing this fact to everyone.`
+`......However, Erika wanted to prove that her own {ruby:çeviri > muhakeme:reasoning} was correct by announcing this fact to everyone.`
 `She really is an intellectual rapist...just as she says.`
 `The puzzle‐solving game is what's important to her,`
 ` and she doesn't intend to take any responsibility for what happens after the riddle is solved.`

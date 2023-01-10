@@ -537,7 +537,7 @@
 `"In any case, even if no one was on the other side of the door,`
 ` I can think of many ways to make them hear a knock...!`
 ` How is that? My master!`
-` What do you think of my reasoning...?!!"`
+` What do you think of my {ruby:çeviri > muhakeme:reasoning}...?!!"`
 `".........Well, you heard her... How did she do?"`
 `"Well, it looks like your cute little piece gave it her all to think up these {ruby:çeviri > mavi gerçekler:blue truths},`
 ` so I guess I'll be nice and give out a few {ruby:çeviri > kırmızı gerçekler:red truths} myself{p:0:♪}"`
@@ -837,7 +837,7 @@
 `"Don't try to change the subject!!`
 ` A mere {y:0:Human}{n:0:human} can't jump down from the third floor...!!`
 ` How do you like that, how do you like that...?!!`
-` What do you think of my reasoning, my master...?!!"`
+` What do you think of my {ruby:çeviri > muhakeme:reasoning}, my master...?!!"`
 `"......Are you short of sleep or something?`
 ` Just calm down and eat your food."`
 `When he escaped to the courtyard through the window...`

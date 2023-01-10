@@ -469,7 +469,7 @@
 `If Shannon has worked here for ten years, then this is 1986, the stage of Beato's game.`
 `In that case, Kinzo shouldn't exist.`
 `{n}However, he definitely was here a few minutes ago.`
-`{f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.`
+`{f:5:Bernkastel} promised that all of the information needed for {ruby:çeviri > muhakeme:reasoning} was gathered here.`
 `She must have crammed all manner of stuff in here to make that true...`
 `I see, so it really is a special stage.`
 `"You have served the Ushiromiya family for many years.`
@@ -485,7 +485,7 @@
 `The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.`
 `The second is the "Beatrice" from twenty years ago, who met Rosa.`
 `The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.`
-`"......Furudo Erika's reasoning was probably correct.`
+`"......Furudo Erika's {ruby:çeviri > muhakeme:reasoning} was probably correct.`
 ` It started out as the legend of the evil spirits on Rokkenjima.`
 ` Later on, elements such as Kinzo's occult hobbies, the name and {ruby:çeviri > portre:portrait} of the mysterious woman "Beatrice",`
 ` and the {ruby:çeviri > kitabe:epitaph} got mixed in, and it all fused into the legend of the Golden Witch."`

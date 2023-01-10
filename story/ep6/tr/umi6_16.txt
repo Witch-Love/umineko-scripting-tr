@@ -1088,7 +1088,7 @@
 `"No answer?!`
 ` What do you mean, no answer?!"`
 `"There is no way out except for the windows of the next room over.`
-` ......And yet, we are not allowed to include those windows in our reasoning.`
+` ......And yet, we are not allowed to include those windows in our {ruby:çeviri > muhakeme:reasoning}.`
 ` ............There probably is no answer...for this locked room."`
 `"Then what happens next?!"`
 `"Since no answer exists, defeat is absolutely certain for whichever player is burdened with the responsibility of explaining."`

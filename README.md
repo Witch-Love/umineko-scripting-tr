@@ -77,6 +77,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Milady `->` Leydim
    * Parlor `->` Salon
    * Portrait `->` Portre
+   * Reasoning `->` Muhakeme
    * Red Truth `->` Kırmızı Gerçek
    * Ritual `->` Ritüel
    * Rose Garden `->` Gül Bahçesi

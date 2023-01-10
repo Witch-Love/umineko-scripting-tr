@@ -309,7 +309,7 @@
 `"............All I can do now is keep records of Lady {f:5:Erika}'s {f:5:reasoning}."`
 `"Why won't you fight with her?`
 ` Why can't you use that red longsword?`
-` ......Erika's reasoning...and your longsword.`
+` ......Erika's {ruby:çeviri > muhakeme:reasoning}...and your longsword.`
 ` They were strong because they worked together."`
 `".............................."`
 `Dlanor didn't answer.`

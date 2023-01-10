@@ -369,7 +369,7 @@
 `......This is a real game between you and me.`
 `{n}I recommend finding some paper and something to write with.`
 `{n}That is, if you really intend to fight me.`
-`If you do get completely stuck, maybe you should listen in on Battler and Beato's reasoning.`
+`If you do get completely stuck, maybe you should listen in on Battler and Beato's {ruby:çeviri > muhakeme:reasoning}.`
 `{n}We'll have those be "hints", for when you get absolutely stumped and can't move forward.`
 `Still, I'd rather fight you one‐on‐one.`
 `{n}If you plan to enjoy our little duel...`
@@ -522,7 +522,7 @@
 ` .....These survivors are not only likely to be {ruby:çeviri > suçlular:culprits}, they are also probably the hardest people to prove innocent."`
 `"At any rate,`
 ` it looks like those nine are the only ones we can say are definitely dead and therefore definitely innocent."`
-`"From here on out, it'll just be pure reasoning based off the purple statements of the nine we can trust."`
+`"From here on out, it'll just be pure {ruby:çeviri > muhakeme:reasoning} based off the purple statements of the nine we can trust."`
 `"Nanjo, Jessica, Krauss,`
 ` Natsuhi, Shannon, Kanon,`
 ` Gohda, Kumasawa, Genji.`

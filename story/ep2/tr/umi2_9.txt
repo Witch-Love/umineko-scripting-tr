@@ -637,7 +637,7 @@
 `And it was unopened.`
 `"So, ......doesn't this mean it was sent to us?`
 ` If it was something Dad and the rest read, it should be open."`
-`"......It seems your reasoning is correct.`
+`"......It seems your {ruby:çeviri > muhakeme:reasoning} is correct.`
 ` ......Look what's written here.`
 ` It says "to those who remain"."`
 `"Is that...a letter the {ruby:çeviri > suçlu:culprit} left...?!`

@@ -15,7 +15,7 @@
 `"This little scheme of yours is far more interesting than the manuscript I wrote.`
 ` Which is why this manuscript is unsuitable for your company.`
 ` ......It was always a worthless story.`
-` Mere junk prose to entice my ignorant readers into somehow ignoring their own ignorance and feeling as though they have exhausted the limits of reasoning."`
+` Mere junk prose to entice my ignorant readers into somehow ignoring their own ignorance and feeling as though they have exhausted the limits of {ruby:çeviri > muhakeme:reasoning}."`
 `"I was hoping that they'd recognize the irony and laugh at their own foolishness,`
 ` but it looks like you've taken it seriously.`
 ` Yes, I can say I'm ashamed at my own failure as a writer."`
@@ -242,8 +242,8 @@
 ` However, there is just one thing that will change."`
 `"What's that?"`
 `"How she lives!!"`
-`Erika transformed her reasoning into a scythe's blade and lashed out at Battler over and over.`
-`Battler also created a blade from his reasoning and attacked Erika over and over.`
+`Erika transformed her {ruby:çeviri > muhakeme:reasoning} into a scythe's blade and lashed out at Battler over and over.`
+`Battler also created a blade from his {ruby:çeviri > muhakeme:reasoning} and attacked Erika over and over.`
 `In the middle of all this, he questioned Erika, the girl who, like Ange, called herself a Witch of Truth.`
 `Just what is the point of exposing the truth?`
 `"You're right.`
@@ -572,7 +572,7 @@
 `"Not true.`
 ` I thought it up in the instant between the time you let loose your {ruby:çeviri > mavi gerçek:blue truth} and the time you stretched your hand out to grab the fragment.`
 ` I've just been buying time since the beginning.`
-` I only started reasoning a second ago!"`
+` I only started {ruby:çeviri > muhakeme:reasoning} a second ago!"`
 `Erika broke the crystal barrier that surrounded them.`
 `Then, she flew high up into the sky, looking down on Battler and laughing at him as she gave a final bow.`
 `"Good day, Battler‐san...!!`

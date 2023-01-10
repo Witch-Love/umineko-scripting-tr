@@ -629,7 +629,7 @@
 ` ......Why not step down as the player and concentrate on being the piece instead?"`
 `I joined in on this game on October 5th, after the first few murders.`
 `So up until that point, the piece called "me" was being controlled by {f:5:Bernkastel}, the player.`
-`Which makes it possible for {f:5:Bernkastel} to present her reasoning through "my" mouth...`
+`Which makes it possible for {f:5:Bernkastel} to present her {ruby:çeviri > muhakeme:reasoning} through "my" mouth...`
 `......The game I'm watching now is nothing more than a replay of a part that's already ended.`
 `However, that's probably good enough for now.`
 `......This {f:5:Bernkastel}‐sama has gone out of her way to solve the {ruby:çeviri > kitabe:epitaph} for me.`
@@ -709,7 +709,7 @@
 `"*giggle*.`
 ` That's youth for you.`
 ` Still, I enjoyed it.`
-` I think we've taken a big step in our reasoning thanks to you.`
+` I think we've taken a big step in our {ruby:çeviri > muhakeme:reasoning} thanks to you.`
 ` If I find the gold, I'll let you have about a million yen's worth."`
 `"Wahahaha!`
 ` Can't you at least offer the poor girl a hundred million!`
@@ -790,7 +790,7 @@
 ` What does that really mean?`
 ` ......If we don't know that, my theory gets us nowhere.`
 ` I've been stuck at this spot for a long time,`
-` but after listening to your reasoning today, I've realized what an embarrassing mistake I've been making."`
+` but after listening to your {ruby:çeviri > muhakeme:reasoning} today, I've realized what an embarrassing mistake I've been making."`
 `".........No, ...I think that's still an interesting idea.`
 ` ........................`
 ` A start and a goal, a ten‐day journey.`
@@ -823,7 +823,7 @@
 `{n}Apparently, we were both bad at giving up......`
 `"You're joking.`
 ` ......I'm only interested in riddle‐solving.`
-` I'm only looking for the gold because I want proof that my reasoning was correct.`
+` I'm only looking for the gold because I want proof that my {ruby:çeviri > muhakeme:reasoning} was correct.`
 ` Even if I found it, I wouldn't pocket it for myself, so don't worry."`
 `......She immediately dismissed the idea, saying that she just liked solving riddles and had no interest at all in the gold.`
 `My first impression of her had been that she was a bit of a weird one, and it looked like I hadn't been wrong.`
