@@ -606,7 +606,7 @@
 `You are useless, useless......!!`
 ` I HATE you!!`
 ` Disappear...!!`
-` {i:You're nothing but a delusion inside my head}...!!!`
+` {i:You're nothing but a {ruby:çeviri > kuruntu:delusion} inside my head}...!!!`
 `Hopelessness and disappointment.`
 ` Resignation and a dream's end.`
 ` A cracking sound, like you'd hear from a frozen lake's surface during a fierce winter, rang out just once.`
@@ -722,7 +722,7 @@
 ` You DELUSION!!"`
 `"I get it already, don't make me say it all out loud.`
 ` ...You guys can't do anything.`
-` You are nothing more than my delusions, illusions, daydreams...!"`
+` You are nothing more than my {ruby:çeviri > kuruntular:delusions}, illusions, daydreams...!"`
 `"I haven't had a single friend from the very beginning.`
 ` You're just a phantom, a pretend friend lonely old me created inside my heart, aren't you?`
 ` I knew that—from the very beginning!!!"`
@@ -776,12 +776,12 @@
 `"......Just give it a rest with this playing witches thing.`
 ` .....Please.`
 ` Maria onee‐chan and Sakutaro, I want you to disappear by yourselves.`
-` .........Because even amid my delusions, ......I don't want to kill or erase you."`
-`‘W‐...we aren't delusions......`
+` .........Because even amid my {ruby:çeviri > kuruntular:delusions}, ......I don't want to kill or erase you."`
+`‘W‐...we aren't {ruby:çeviri > kuruntular:delusions}......`
 ` We're your friends, Ange... Uryu.........!’`
 `Sakutaro sobbed those words as he hid behind Maria onee‐chan.`
 `.........Sakutaro doesn't exist.`
-`Sakutaro is also...a delusion Onee‐chan created to distract herself from her loneliness.........`
+`Sakutaro is also...a {ruby:çeviri > kuruntu:delusion} Onee‐chan created to distract herself from her loneliness.........`
 `‘U‐......uryu, .........it hurts, ......it hurts, Maria......`
 ` ......Why? Why...?`
 ` Uryu.........uryu.........’`
@@ -797,7 +797,7 @@
 ` ......That you would try to deny him regardless is the greatest contempt you could show a witch."`
 `"Sakutaro never existed in the first place.`
 ` He's just a lion stuffed animal.`
-` Just a phantom you personified in the delusions inside your own mind!"`
+` Just a phantom you personified in the {ruby:çeviri > kuruntular:delusions} inside your own mind!"`
 `"Uu!!!`
 ` That's not true!!`
 ` Sakutaro is my friend!!`
@@ -912,10 +912,10 @@
 ` ...This isn't the world I'm meant to be in.`
 ` ............No one will save me here."`
 `"...For a time, ......I felt as though the fictional friends I created inside myself would save me.`
-` But those friends were nothing more than a delusion, ......and they did no such thing.`
+` But those friends were nothing more than a {ruby:çeviri > kuruntu:delusion}, ......and they did no such thing.`
 ` After all, this isn't a fantasy world—it's the real world."`
 `".........So, in short, ......up until today, ......I've been living in a daydream.`
-` ...Averse to my real classmates, I lived only by interacting with the friends in my delusion.`
+` ...Averse to my real classmates, I lived only by interacting with the friends in my {ruby:çeviri > kuruntu:delusion}.`
 ` .........Just now, I split up with those friends.`
 ` And here I am."`
 `"............I have no family.`
@@ -950,7 +950,7 @@
 `{n}............is all a daydream?`
 `Then......what's the problem.`
 `After all, ......on that day when I lost my entire family, ...I already died.`
-`......All the days since have been the delusions of a wrongful survivor—delusions of a life flashing before my eyes.`
+`......All the days since have been the {ruby:çeviri > kuruntular:delusions} of a wrongful survivor—delusions of a life flashing before my eyes.`
 `Once I understood that, ...............it felt like all the scenery surrounding me began to twist and bend slightly.`
 `.........Ah.`
 `{n}...I'm finally going to.........wake up.`

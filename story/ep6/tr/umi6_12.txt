@@ -141,7 +141,7 @@
 `"The entrance wasn't locked when you came into the {ruby:çeviri > malikane:mansion}...because they had gone out through it to check the {ruby:çeviri > salon:parlor} from the outside.`
 ` ......Since the entrance was locked before the adults went through it, they thought that the other people who had gone missing might be somewhere within the {ruby:çeviri > malikane:mansion} in a similar condition,`
 ` so they're now searching the entire building..."`
-`"Are the locations of the dead the same as in that long‐winded, putrid delusion of yours that you showed earlier?"`
+`"Are the locations of the dead the same as in that long‐winded, putrid {ruby:çeviri > kuruntu:delusion} of yours that you showed earlier?"`
 `"......They're the same."`
 `"Rosa and Maria were in the {ruby:çeviri > salon:parlor}.`
 ` As for the others, ......Natsuhi was in her own room, and Kyrie was in Krauss's study.`

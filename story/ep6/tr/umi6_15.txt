@@ -1207,7 +1207,7 @@
 `Then, is it possible for {ruby:çeviri > büyü:magic} to exist in a place with no people?`
 `{n}......There's no problem with that because there's no anti‐magic toxin, right...?`
 `Wrong!`
-` {ruby:çeviri > Büyü:Magic} in a place that isn't being witnessed is no different from a delusion, a daydream!`
+` {ruby:çeviri > Büyü:Magic} in a place that isn't being witnessed is no different from a {ruby:çeviri > kuruntu:delusion}, a daydream!`
 `{ruby:çeviri > Büyü:Magic} with results must be carried out by human hands.`
 `{n}If all humans are sealed off, then {ruby:çeviri > büyü:magic} cannot be created.`
 `This was Erika's strategy for this game......and her beautiful...checkmate!!`
@@ -1371,11 +1371,11 @@
 ` .........I wonder......whether I really have escaped from that hell.`
 ` .........What if......I actually lost my mind a long time ago...`
 `......and I'm still in there...`
-`......just having delusions about being here and chatting happily with you all like this...?`
+`......just having {ruby:çeviri > kuruntular:delusions} about being here and chatting happily with you all like this...?`
 ` .........That nightmare still terrifies me..."`
 `".........And so, I need to constantly feel...truly feel that this isn't a dream...`
 ` ......Hey, ......are you guys......really.........real......?`
-` ...You aren't just an insane delusion I'm having inside that hell, ......right......? Right? .........Right......?"`
+` ...You aren't just an insane {ruby:çeviri > kuruntu:delusion} I'm having inside that hell, ......right......? Right? .........Right......?"`
 `There was something in {f:5:Lambdadelta}'s pleading expression that sent shivers down the spine.`
 `It was probably more terrifying than any threatening words she could have used with even the most vile expression on her face......`
 `It was time for Battler to realize.`

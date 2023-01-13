@@ -743,7 +743,7 @@
 `Kelimeler Maria'nın ağzından çıktı, ama nedense sesi her zamankinden farklıydı.`
 `Herkes aniden sessizleşti...`
 `"Ushiromiya ailesinin değerli hamınefendileri ve beyefendileri, Rokkenjima'ya hoş geldiniz.`
-` Ben, {f:5:Beatrice}, Kinzo-sama'nın emrinde çalışan bu ailenin simyacısıyım."`
+` Ben, Kinzo-sama'nın emrinde çalışan bu ailenin simyacısı, {f:5:Beatrice}."`
 `".........Ne kadar saçma...!"`
 `"Sessizlik!"`
 `"Sözleşmemiz gereğince uzun yıllar boyunca kendisine hizmet ettim, ancak bugün Kinzo-sama bu sözleşmenin feshedildiğini duyurdu.`

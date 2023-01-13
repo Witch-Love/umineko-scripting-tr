@@ -50,6 +50,7 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
    * Chapel `->` Kilise
    * Conference `->` Konferans
    * Culprit `->` Suçlu
+   * Delusion `->` Kuruntu
    * Demon `->` İblis
    * Demons' Roulette `->` İblislerin Ruleti
    * Demon Stake `->` İblis Kazığı

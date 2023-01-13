@@ -134,9 +134,9 @@
 `"Why don't you do what you usually do and start holding your head, crying "{i:this doesn't make any sense!!}"...?`
 ` C'mon, use that old "{i:it's no goddamn good at all}" catch phrase and let me hear your classic crazy counterargument."`
 `"There's no way that a human who's supposed to be dead could be walking around, right?`
-` Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass delusions?`
+` Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass {ruby:çeviri > kuruntular:delusions}?`
 ` Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!`
-` Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"`
+` Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass {ruby:çeviri > kuruntular:delusions}?!!"`
 `"Let me hear tons of this wonderful crap,`
 ` kyaaa{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `".........Just shut up.`
