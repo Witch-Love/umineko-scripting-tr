@@ -657,11 +657,11 @@
 `"Uu!`
 ` {f:5:Beatrice} bana şemsiyeyi verdiğinde ondan aldım.`
 ` Yemek bittikten sonra herkese okumamı söyledi!`
-` Ben cadının el—`
-` elç—`
-` "{ruby:<Messenger>:elçisiyim}"!`
+` Maria cadının El—`
+` El—`
+` "{ruby:<Messenger>:Elçi}"si!`
 ` Uu!"`
-`"<Elçi> mi...?`
+`"{ruby:<Messenger>:Elçi} mi...?`
 ` Ihihihi, adanın cadısı ortalığı karıştırmayı gerçekten çok seviyor."`
 `Battler bu konuda şaka yapmaya çalıştı ama kimse ona gülmedi.`
 `"..................İ-içinde ne yazdığını merak ediyorum. Maria-chan...?"`
@@ -734,7 +734,7 @@
 ` Babam geçmişte bize ne zaman bir şey duyurduysa, bunu doğrudan yapmasa bile, her zaman Genji-san'ı gönderirdi, değil mi?`
 ` ......Böyle şaka gibi bir yaklaşım kullandığına inanamıyorum."`
 `"Bu doğru.`
-` Maria mı, elçi mi?`
+` Maria mı, {ruby:<Messenger>:Elçi} mi?`
 ` Bu cidden onun tarzı değil...`
 ` Rosa, Maria-chan gizli bir yetenekle bizi şaşırtmaya çalışıyor olabilir, değil mi?"`
 `"Ben..................M-Maria bu kadar zekice bir şey yapabilecek bir çocuk değil."`
