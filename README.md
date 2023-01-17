@@ -104,16 +104,16 @@ Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılab
       * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ✅
       * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ✅
       * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ✅
-      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) `<- Burdayız`
-      * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ❌
-      * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ✅
+      * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ✅
+      * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) `<- Burdayız`
       * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ❌
       * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ❌
       * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ❌
       * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ❌
       * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ❌
       * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ❌
    * Other
