@@ -1,12 +1,10 @@
-[guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_2.txt
-
 # Witch Love ~ Umineko Türkçe Çeviri Projesi
 
 [![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
 
-Çevirmekte olduğumuz güncel dosya: [**Tıkla**][guncel-dosya]
+Çeviriye katkıda bulunmak istiyorsanız [**buraya**](../../tree/master/CONTRIBUTING.md) göz atabilirsiniz.
 
 ## Kurulum
 
@@ -15,107 +13,35 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 3. Tüm dosyaları oyun klasörünün içine atın.
 4. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
 
-## Çeviri Yapmak
-1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
-2. Çevirmekte olduğumuz [Güncel Dosya][guncel-dosya]'yı forkunuz üzerinde [Çeviri Kuralları](#çeviri-kuralları)'na uyarak çevirin.
-3. Daha sonra bir pull request açın.
-
-   Pull request başlığına çevirdiğiniz satırları yazın.  
-   Başlığınız `Satır 1-8` şeklinde olmalı. [**(Örnek)**](https://i.imgur.com/au1UqRk.png)
-
-Bazı cümlelerde takılıyor ya da cümleyi hangi karakterin söylediğini anlayamıyorsanız, çeviriyi yaparken yan sekmede de Youtube'a chapter chapter yüklediğim videolardan oyuna bakabilirsiniz. [(**Link**)](https://youtube.com/playlist?list=PLOxBDkucq83mp2JX42XQ_5n02-WNax7-H)
-
-### İletişim
-Düzenli olarak çeviri yapmayı düşünüyorsanız çeviri sunucumuza katılabilirsiniz. Çakışma olmaması için çeviri yapmadan önce gruba yazmanız yararlı olacaktır.
+## İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Sunucumuz](https://discord.gg/jyD5jn9Vpd)
-
-## Çeviri Kuralları
-
-1. Battler'ın okuyuculara hitap ettiği cümleleri "-siz" olarak hitap edecek şekilde çevirin.
-2. Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
-   * Kyrie-san, George-aniki gibi saygı ekleri
-   * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
-   * "Madam"
-3. Adım 4'te bulunan çoğu kelimenin karşılığı çevirmekte olduğumuz dosyalara rehber şeklinde eklenmiştir.  
-   Çeviri sırasında bu kelimelerle karşılaşınca yapmanız gereken:  
-   `{ruby:çeviri > Hala:Aunt}` -> `Hala` şeklinde çevirmek.  
-   Bu kelimeler regex ile eklendiği için hatalı olabilirler. Gözden kaçırmadan aynı kelime karşılıklarını tüm çevirenler kullanabilsin diye böyle bir şey ekledik.
-4. Bunlar bu şekilde:
-   * Alibi `->` Mazeret
-   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
-   * Blue Truth `->` Mavi Gerçek
-   * Boiler Room `->` Kazan Dairesi
-   * Butler `->` Uşak
-   * Chapel `->` Kilise
-   * Conference `->` Konferans
-   * Culprit `->` Suçlu
-   * Delusion `->` Kuruntu
-   * Demon `->` İblis
-   * Demons' Roulette `->` İblislerin Ruleti
-   * Demon Stake `->` İblis Kazığı
-   * Devil `->` Şeytan
-   * Devil's Proof `->` Şeytan'ın İspatı
-   * Dining Hall `->` Yemek Salonu
-   * Entrance Hall `->` Giriş
-   * Epitaph `->` Kitabe
-   * Family Head `->` Aile Reisi
-   * Fragment (Kakera olan) `->` Kakera
-   * Furniture `->` Mobilya
-   * Game Master `->` Oyun Yöneticisi
-   * ~~\*giggle\* ve \*cackle\*~~
-      * ~~Bir taneyse `->` \*kıkırdar\*~~
-      * ~~Çokluysa `->` \*kıkır\*kıkır\*kıkır\*kıkır\*~~
-   * Golden Land `->` Altın Diyar
-   * Great Demon `->` Yüce İblis
-   * Guesthouse `->` Konukevi
-   * Guest room `->` Misafir odası
-   * Incinerator `->` Çöp Fırını
-   * Lounge `->` Bekleme Salonu
-   * Magic `->` Büyü
-   * Mansion `->` Malikane
-   * Master `->` Efendi
-   * Milady `->` Leydim
-   * Parlor `->` Salon
-   * Portrait `->` Portre
-   * Reasoning `->` Muhakeme
-   * Red Truth `->` Kırmızı Gerçek
-   * Ritual `->` Ritüel
-   * Rose Garden `->` Gül Bahçesi
-   * Servant `->` Hizmetkar
-   * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
-   * Storehouse `->` Ambar
-   * Study `->` Çalışma Odası
-   * Trick `->` Numara
-   * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
-   * Voyager `->` Gezgin
-   * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
 ## İlerleme
 * <details>
   <summary>Episode 1 ✍️</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅
-      * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅
-      * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅
-      * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ✅
-      * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ✅
-      * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ✅
-      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ✅
-      * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ✅
-      * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) `<- Burdayız`
-      * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ❌
-      * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ❌
-      * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ❌
-      * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ❌
-      * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ❌
-      * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ✅
-      * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ❌
-      * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ❌
+      * [Chapter 0](../../tree/master/story/ep1/mt/umi1_op.txt) ✅
+      * [Chapter 1](../../tree/master/story/ep1/mt/umi1_1.txt) ✅
+      * [Chapter 2](../../tree/master/story/ep1/mt/umi1_2.txt) ✅
+      * [Chapter 3](../../tree/master/story/ep1/mt/umi1_3.txt) ✅
+      * [Chapter 4](../../tree/master/story/ep1/mt/umi1_4.txt) ✅
+      * [Chapter 5](../../tree/master/story/ep1/mt/umi1_5.txt) ✅
+      * [Chapter 6](../../tree/master/story/ep1/mt/umi1_6.txt) ✅
+      * [Chapter 7](../../tree/master/story/ep1/mt/umi1_7.txt) ✅
+      * [Chapter 8](../../tree/master/story/ep1/mt/umi1_8.txt) ✅
+      * [Chapter 9](../../tree/master/story/ep1/mt/umi1_9.txt) ✅
+      * [Chapter 10](../../tree/master/story/ep1/mt/umi1_10.txt) `<- Burdayız`
+      * [Chapter 11](../../tree/master/story/ep1/mt/umi1_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep1/mt/umi1_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep1/mt/umi1_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep1/mt/umi1_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep1/mt/umi1_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep1/mt/umi1_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep1/mt/umi1_17.txt) ✅
+      * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep1/mt/umi1_19.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L296) ❌
