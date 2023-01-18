@@ -46,7 +46,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L296) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L57) ✅
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L349) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L349) ✅
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L829) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L485) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1030) ✅
