@@ -742,18 +742,18 @@
 ` Uu."`
 `Kelimeler Maria'nın ağzından çıktı, ama nedense sesi her zamankinden farklıydı.`
 `Herkes aniden sessizleşti...`
-`"Ushiromiya ailesinin değerli hamınefendileri ve beyefendileri, Rokkenjima'ya hoş geldiniz.`
+`"Rokkenjima'ya hoş geldiniz, Ushiromiya ailesinin hanımefendileri ve beyefendileri.`
 ` Ben, Kinzo-sama'nın emrinde çalışan bu ailenin simyacısı, {f:5:Beatrice}."`
 `".........Ne kadar saçma...!"`
 `"Sessizlik!"`
-`"Sözleşmemiz gereğince uzun yıllar boyunca kendisine hizmet ettim, ancak bugün Kinzo-sama bu sözleşmenin feshedildiğini duyurdu.`
+`"Sözleşmemiz gereğince uzun yıllar boyunca kendisine hizmet ettim, ancak Kinzo-sama bugün bu sözleşmenin feshedildiğini duyurdu.`
 ` Bu nedenle, bugün itibariyle aile simyagerliği görevimden istifa ettiğimi bilmenizi rica ediyorum."`
 `"......Ne kadar aptalca... Ne saçmalık...!"`
 `"Ben, ben bunu dinlemeye dayanamıyorum...!"`
 `"Ve şimdi, sözleşmenin hepinize açıklamam gereken bir kısmı var.`
 ` Ben, {f:5:Beatrice}, Kinzo-sama'ya belirli koşullar altında büyük miktarda altın ödünç verdim.`
 ` Bu şartlardan biri, sözleşmenin feshi üzerine tüm altının bana iade edileceğini belirtmektedir.`
-` Ayrıca, Ushiromiya ailesinin her şeyini faiz olarak tahsil edeceğim."`
+` Bu sebepten ötürü Ushiromiya ailesinin her şeyini faiz olarak tahsil edeceğim."`
 `"S-saçmalık!!"`
 `"...E-en başından beri saçmaydı..."`
 `"Yani temelde o şeylerden biri, değil mi?`
@@ -770,13 +770,13 @@
 `"......Özel bir madde mi...?"`
 `"Ne-nedir o...?!"`
 `{e:070:Özel Madde.`
-`{f:5:Beatrice}, sözleşmenin feshi üzerine altın ve birikmiş faizi tahsil etme hakkına sahiptir.`
-`Ancak, eğer birisi bu sözleşmedeki gizli altını keşfedebilirse,`
-` {f:5:Beatrice} bu haklarından sonsuza kadar vazgeçmelidir.}`
-`{e:070:......Faiz tahsilatı kısa süre içinde yapılacaktır, ancak herhangi biriniz bu özel maddenin şartlarını yerine getirirse,`
+`Sözleşmenin feshi üzerine {f:5:Beatrice} altını ve birikmiş faizi tahsil etme hakkına sahiptir.`
+`Fakat, eğer birisi bu sözleşmedeki gizli altını keşfedebilirse,`
+` {f:5:Beatrice} bu haklarından sonsuza kadar vazgeçecektir.}`
+`{e:070:......Faiz tahsilatı kısa bir süre içinde yapılacaktır, ancak herhangi biriniz bu özel maddenin şartlarını yerine getirebilirse,`
 ` hali hazırda tahsil edilmiş olan kısım da dahil olmak üzere her şeyi iade edeceğim.`
-`Dahası, Kinzo-sama'nın borcunu tahsil etmenin ilk adımı olarak, Ushiromiya aile reisliğinin bir bireyden diğerine geçişini ifade eden "Ushiromiya Aile Reisi Yüzüğü"nü devraldım.`
-`Balmumu mühür üzerindeki damgayı inceleyerek bunu kendiniz için teyit etmenizi rica ediyorum.}`
+`Bununla birlikte, Kinzo-sama'nın borcunu tahsil etmenin ilk adımı olarak, Ushiromiya aile reisliğinin bir bireyden diğerine geçişini ifade eden "Ushiromiya Aile Reisi Yüzüğü"nü teslim almış bulunmaktayım.`
+`Balmumu mühürü üzerindeki damgayı inceleyerek bunu kendiniz için teyit etmenizi rica ediyorum.}`
 `".........Bunu gerçek olarak kabul etmemizi mi istiyorlar?!`
 ` Babamın yüzüğünden vazgeçmesi düşünülemez bile...!"`
 `Krauss mühürlü balmumuna sanki bir delik açmaya çalışıyormuş gibi bakıyordu.`
@@ -821,12 +821,12 @@
 `Bu sadece herkesin doğru olabileceğini umduğu bir şeydi.`
 `{n}{f:5:Beatrice}'in mektubu işte tam burada, şu anda bunu açıkça ifade ediyordu!`
 `Ushiromiya ailesine ait her şeyin altını bulana verileceği açıkça belirtiliyordu.`
-`"Kinzo-sama, portremin altındaki kitabede saklı altının yerini çoktan açıkça belirtmişti.`
+`"Saklı altının konumu çoktan Kinzo-sama tarafından açıkça portremin altındaki kitabede belirtilmişti.`
 ` Kurallar kitabeyi okuyabilen herkes için eşit şekilde geçerlidir.`
-` Altını bulursanız, her şeyi size iade edeceğim."`
+` Altını keşfedecek olursanız, her şeyi size iade edeceğim."`
 `"Bu gece, Kinzo-sama ile olan zeka savaşınızın tadını sonuna kadar çıkarmanızı rica ediyorum.`
 ` Bu gecenin hem zarif hem de aydınlık bir gece olması için içtenlikle dua ediyorum.`
-` {nobreak:{f:5:Beatrice} the Golden}."`
+` {nobreak:—Altın {f:5:Beatrice}}."`
 `"......Baba, beni duyabildiğini biliyorum!`
 ` Lütfen cevap ver!"`
 `Kinzo'nun çalışma odasının kapısı bir vurmalı çalgı gibi şiddetle, tekrar tekrar yumruklanıyordu.`
