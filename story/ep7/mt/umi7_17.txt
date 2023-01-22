@@ -247,8 +247,8 @@
 ` ......He did it again, over and over.`
 `It took quite a long time before I realized that he was applauding me...`
 `"The Master has said that he will hand over the gold and the headship to the first person who solves the epitaph.`
-` ......And, he believed that this person would be Beatrice..."`
-`"......Beatrice......`
+` ......And, he believed that this person would be {f:5:Beatrice}..."`
+`"......{f:5:Beatrice}......`
 ` .........Me......?"`
 `"This is fate.`
 ` .........It is fate that brought you to this day."`
@@ -261,25 +261,25 @@
 `Inside it was a dress form wearing a beautiful dress made of black cloth and golden stitching.`
 `When I saw it, I understood immediately.`
 `......It was the witch's dress.`
-`The black dress worn by the Beatrice in the portrait......`
+`The black dress worn by the {f:5:Beatrice} in the portrait......`
 `"Change into this."`
 `"......This is.........."`
 `"It is something that.........you once wore."`
 `I've never worn a dress like this.`
 ` However, I understood what Genji meant.`
-`This dress was one that Beatrice once wore.`
-`And the one who shows a miracle by solving the epitaph is Beatrice.`
-`By reaching this room, .........I had succeeded the position of the real Beatrice,`
+`This dress was one that {f:5:Beatrice} once wore.`
+`And the one who shows a miracle by solving the epitaph is {f:5:Beatrice}.`
+`By reaching this room, .........I had succeeded the position of the real {f:5:Beatrice},`
 ` the one in the portrait.`
-`Why do I call myself Beatrice?`
-`Because the name of the Golden Witch who rules over Rokkenjima's night is Beatrice.`
+`Why do I call myself {f:5:Beatrice}?`
+`Because the name of the Golden Witch who rules over Rokkenjima's night is {f:5:Beatrice}.`
 ` ......That's right.`
-` I was never the real Beatrice.`
+` I was never the real {f:5:Beatrice}.`
 `I was a different witch, stealing the name of the witch from Kinzo's delusions.`
-`And now, ......I have become the real Beatrice......`
+`And now, ......I have become the real {f:5:Beatrice}......`
 `By solving the epitaph's riddle, I would achieve my resurrection.`
 `{n}......I was the one who decided on that rule, or so I thought...`
-`But as it turns out, ......this really Beatrice...`
+`But as it turns out, ......this really {i:was}.........a ritual to resurrect {f:5:Beatrice}...`
 `I believed that I could create my own fate with magic.`
 `{n}I was a master of that magic, ......yet fate had led me here by the hand...`
 `At this moment, I was forced to truly accept and believe in this word called "fate"...`
@@ -304,11 +304,11 @@
 `The suffocating silence continued.`
 `Eventually, the door opened, and Genji peeked out.`
 `".........Please enter,`
-` .........Beatrice‐sama."`
+` .........{f:5:Beatrice}‐sama."`
 `He was saying those words to me, ......but not to the person I had been until a short while ago.`
 `"....................."`
 `"Go ahead,`
-` ......Beatrice‐sama..."`
+` ......{f:5:Beatrice}‐sama..."`
 `Kumasawa also urged me forward with a respectful bow.`
 `{n}Kinzo was probably waiting for me inside.`
 `What expression should I wear as I go in...?`
@@ -317,20 +317,20 @@
 `As the two of them motioned me forward, it was all I could do to avoid tripping over my dress as I walked.`
 `".........Kinzo‐san.`
 ` She is here."`
-`Kinzo was before the portrait of Beatrice, crouched on the ground as though kneeling.`
+`Kinzo was before the portrait of {f:5:Beatrice}, crouched on the ground as though kneeling.`
 `At Nanjo's words, he slowly turned, still crouching...`
 `"...............Oh...`
 ` .........Oohhhhhh........."`
 `Kinzo's eyes were already red with crying.`
 `{n}When he saw me, he groaned with wonder.`
-`"......Beatrice......`
-` .........Beatrice........."`
+`"......{f:5:Beatrice}......`
+` .........{f:5:Beatrice}........."`
 `Had he even forgotten how to stand up?`
 `{n}He crawled over to where I was.`
 `...As he called out to me with the name of the woman he had loved long ago.`
 `I was too stunned to move.`
 `Then, Kinzo grabbed the hem of my dress, gripped it tightly, ......then curled up and sobbed.`
-`"Beatrice......`
+`"{f:5:Beatrice}......`
 ` ......I'm sorry. I'm so sorry......`
 ` I knew how you felt, ......and yet I......`
 ` I'm so sorry...... Forgive me...... Forgive me, I beg you......"`
@@ -344,11 +344,11 @@
 `It was like that for Kinzo.`
 ` There was no longer anyone in the world who could give that to him.`
 `{n}......But a miracle had woven one together, and in this moment, he had obtained the impossible...`
-`"Oooohhhh, Beatrice...`
-` ......Beatrice......`
+`"Oooohhhh, {f:5:Beatrice}...`
+` ......{f:5:Beatrice}......`
 ` ...You need not forgive me, you need not say anything...!`
 ` All I ever wanted......was to say one word......of apology......!`
-` Oooohhhhhh........."`
+` {nobr:Oooohhhhhh.........}"`
 `Kinzo kept grasping the dress's hem and sobbing.`
 `The sins of humans are not forgiven by other people.`
 `{n}They find forgiveness through regret and repentance.`
@@ -374,33 +374,33 @@
 `"......Yes.`
 ` ......Your voice resembles your mother's.`
 ` Even your face reminds me of that mother and daughter......`
-` ...There can be no doubt that Beatrice's blood flows through your veins......"`
+` ...There can be no doubt that {f:5:Beatrice}'s blood flows through your veins......"`
 `"Yes.`
 ` ......The traces of the lady of Kuwadorian in her youth are right there."`
 `Who......are they saying I look like......?`
-`"......Beatrice‐sama,`
+`"......{f:5:Beatrice}‐sama,`
 ` please forgive me for keeping what I am about to tell you a secret for all this time.`
-` You are the child of Beatrice‐sama and the Master."`
+` You are the child of {f:5:Beatrice}‐sama and the Master."`
 `"........................What......?"`
 `"It's true.`
 ` ......You have been raised as a child without parents.`
 ` However, your true father is the Master.`
-` And your true mother......is Beatrice‐sama."`
+` And your true mother......is {f:5:Beatrice}‐sama."`
 `"......Is that, ......umm, ......really............?"`
 `"Yes.`
-` You truly are a descendant of Beatrice‐sama."`
+` You truly are a descendant of {f:5:Beatrice}‐sama."`
 `Is such a strange fate.........really possible......?`
 `I've dreamed about it.`
-` Dreamed about what it'd be like to be the Golden Witch, Beatrice.`
+` Dreamed about what it'd be like to be the Golden Witch, {f:5:Beatrice}.`
 `But that dream was for me alone.`
 `So, I'd dreamed that if I solved the epitaph,`
-` ......and carried out its ritual, I would revive as the true Beatrice.`
+` ......and carried out its ritual, I would revive as the true {f:5:Beatrice}.`
 `......Is it really conceivable...`
 `...that after I solved it...`
-`...Beatrice actually did revive......?`
+`...{f:5:Beatrice} actually did revive......?`
 `"I...`
 `...truly carry...`
-`......Beatrice's...`
+`......{f:5:Beatrice}'s...`
 `......blood......?"`
 `"Yes.`
 ` There is no doubt of that whatsoever."`
@@ -416,14 +416,14 @@
 `I don't understand anything anymore.`
 `It's all God's miracle.`
 `The promised fate has led me to this day.`
-`".........Beatrice.`
+`".........{f:5:Beatrice}.`
 ` ............No,`
 ` .........Lion."`
 `"...............?"`
 `"That is the name I wanted to give you......"`
 `"......It is your true name."`
 `"Lion......`
-` I will now return to you everything that Beatrice gave me.`
+` I will now return to you everything that {f:5:Beatrice} gave me.`
 ` ......I return to you the gold, as well as everything of the Ushiromiya family, which was created by it."`
 `Kinzo stuck out a wrinkled hand.`
 `On his finger was a ring with the One‐winged Eagle crest, which was the symbol of the Ushiromiya family head.`
@@ -472,14 +472,14 @@
 `At that moment, ......the shadow that had covered his face......was wiped away......`
 `"Thank you, ......Lion.`
 ` My child......`
-` .........And Beatrice, as well.`
+` .........And {f:5:Beatrice}, as well.`
 ` Thank you for this last chance......to ask for forgiveness........."`
 `"......Of course, I don't believe that such a simple act will earn me forgiveness.`
 ` ......The rest, I will do as I burn in the fires of hell.`
 ` .........I, Ushiromiya Kinzo, have no more regrets in this life!!`
 ` None at all! No regrets or things left undone!!`
-` Wahaha, ......wahahahahahahahaahahah!!`
-` Waaahhahahahahaahahahahahaha!!!"`
+` Wahaha, ......waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!`
+` Waaah{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!!"`
 `Looking up to the heavens, Kinzo spread his arms as though facing an applauding audience,`
 ` ......laughing at the top of his lungs.`
 `It was the final pleasure, known only by those who have been released from all regrets of this world.`
@@ -499,7 +499,7 @@
 ` ......I don't think he had any regrets at all."`
 `"It may be......that the Master died long before now.`
 ` ......It was only his magic and tenacity that kept him here so long.`
-` ......And.........once he finally had a chance to apologize to Beatrice‐sama for everything, .........he finished everything he had to do..."`
+` ......And.........once he finally had a chance to apologize to {f:5:Beatrice}‐sama for everything, .........he finished everything he had to do..."`
 `".........Please, ......rest in peace.`
 ` ............I believe that you have redeemed yourself."`
 `".................................Father........."`
@@ -590,7 +590,7 @@
 ` ......These are things I want to learn from them as time goes by.`
 `That alone is enough.`
 `".........I am Lion.`
-` ......And I am the Golden Witch, Beatrice.`
+` ......And I am the Golden Witch, {f:5:Beatrice}.`
 ` Knowing that is enough for me.`
 ` ......I don't plan on calling myself the head.`
 ` ......Krauss‐sama can take that job."`
@@ -632,19 +632,19 @@
 ` You are my only master."`
 `"..................Th‐.........thank you very much..."`
 `A vast mountain of gold and the ring of the Ushiromiya family head.`
-`{n}The dress of the portrait Beatrice.`
-`And.........I became the true Beatrice, the Golden Witch.`
+`{n}The dress of the portrait {f:5:Beatrice}.`
+`And.........I became the true {f:5:Beatrice}, the Golden Witch.`
 `Right here in my very own Golden Land.`
 `If I think about it, not much has actually changed.`
 `After all, I've always been the Golden Witch. ......I've just had a few more people acknowledge that.`
-`November 29th.`
-`{n}The day I became a true witch.`
-``
+`{a:c:November 29th.`
+`{n}The day I became a true witch.}`
+`{a:c:`
 `Oh, I am one yet many.`
-`I am the Golden Witch, Beatrice.`
-``
-`The true ruler of Rokkenjima,......and the possessor of endless gold.`
-``
-`Yet, I am in no way complete.`
-``
-`......Here I wait...for the return of the one person I love......`
+`I am the Golden Witch, {f:5:Beatrice}.}`
+`{a:c:`
+`The true ruler of Rokkenjima,{n}......and the possessor of endless gold.}`
+`{a:c:`
+`Yet, I am in no way complete.}`
+`{a:c:`
+`......Here I wait...{n}for the return of the one person I love......}`

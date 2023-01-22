@@ -1,6 +1,6 @@
 `"Dad.........Mom......!!`
 ` Who would do something like this...?!!`
-` Waaaaaaaaaaaaaaaahhh...!!"`
+` Waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh...!!"`
 `Jessica's woeful voice echoed throughout the rose garden...`
 `Perhaps it was the intuition of a person who lived on this island.`
 `...After Jessica had looked in the rose garden where Auntie Rosa and Maria had fallen and seen nothing,`
@@ -26,14 +26,14 @@
 `"......So we've found all five gouged corpses now, in the head, chest, stomach, knee, and leg."`
 `"Uuuuhhhghhhhuu, shit, shit shit!!`
 ` I'll frickin' kill that murderer, kill him!!`
-` UwaaAAAAaaaaHHH...!!"`
+` UwaaAA{0}AAaa{0}aaHHH...!!"`
 `"......Everything as far as the eighth twilight is finished now.`
 ` ...Is this going to continue onto the ninth twilight?`
 ` ......The witch revives, and none shall be left alive."`
 `"Bring it on, dammit...`
 ` ......When it says the witch revives,`
 ` ...that means the culprit's gonna make his grand appearance, right?!"`
-`"Bullshit no one's gonna be left alive...`
+`"Bull{i:shit} no one's gonna be left alive...`
 ` ......I'll kill him myself...!`
 ` I'll make sure I kill whoever murdered Mom and Dad, with my own two hands...!!"`
 `Jessica howled furiously, her emotions laid bare.`
@@ -137,7 +137,7 @@
 ` I'm sure it just has some magical meaning.`
 ` It's pointless to rack our brains over it."`
 `Jessica intentionally spat those words out in an attempt to wipe out how creepy it was.`
-`"It...could be a magic square.`
+`"It...could be a magic {i:square}.`
 ` ......The idea that a ward against evil can reside in a certain form of number play.`
 ` I am sure you have all heard of the one where adding all of the numbers in each row leads to the same sum..."`
 `"Wasn't that a group of numbers filled inside a square?`
@@ -182,7 +182,7 @@
 `Anyway, since we don't have any real clue, it's probably pointless to stand around here analyzing it.`
 `......More important was the inside of the parlor.`
 `This morning, behind each of the doors with a magic circle drawn on them, there had been the body of a victim.`
-`...And now that a number had been newly added to the door, what new thing had been added inside the parlor?`
+`...And now that a number had been newly added to the door, what new thing {i:had been added} inside the parlor?`
 `When Auntie Eva tried to open it, she felt the resistance of the lock.`
 `{n}She immediately took out a master key, and put it in the keyhole.`
 `As soon as she opened the door, ......Auntie Eva let out a high‐pitched scream and ran inside.`
@@ -255,7 +255,7 @@
 ` Who was left alive?!`
 ` Only YOU!!`
 ` Why?"`
-`"Because you're the fucking murderer, that's why goddammit!!`
+`"Because you're the {i:fucking murderer}, that's why goddammit!!`
 ` You killed Mom and Dad, carried them outside, and then shamelessly locked the door,`
 ` trying to make it seem like it was the frickin' witch's doing...!!"`
 `"Then why did George go missing?!`
@@ -277,11 +277,11 @@
 ` So you two, please, stop hating one another...!!"`
 `......The witch's fault, is it...`
 `{n}I wonder if that's a good way to mediate things for now.`
-`Yes, ...I finally understand the meaning of all of the doors and windows having been locked from the inside when three whole people evaporated from the guesthouse...`
+`Yes, ...I finally understand the meaning of all of the doors and windows having been {i:locked from the inside} when three whole people evaporated from the guesthouse...`
 `This is what they were after.`
 `......Making us think the culprit was inside, ...and causing this ugly mutual hatred...`
 `....had to be the culprit's......the witch's goal.`
-`............But in that case, how had the culprit locked it from the outside...?`
+`............But in that case, how had the culprit {i:locked it from the outside}...?`
 `It's certainly true that the master key had been stolen when Dad's group was attacked.`
 `...But the doors and windows to the guesthouse...`
 `had been constructed so that you couldn't lock them from the outside no matter how hard you tried.`
@@ -293,7 +293,7 @@
 `............I just couldn't believe that this was the same parlor that had been so warm and pleasant midday yesterday,`
 ` ...for just a short time before the typhoon hit......`
 `"GYAAAAaAAaaAAAaaaAAA......`
-`uWAAAAuuughhaAAAAUUUUgghhhhh...!!"`
+`uWAA{0}AAuu{0}ughhaAA{0}AAUU{0}UUgghh{0}hhh...!!"`
 `The sudden sound of a gunshot shook me out of my half‐asleep trance.`
 `...Smoke was rising out of the barrel of the gun Auntie Eva held.`
 `Jessica was rolling around on the floor, covering both her eyes.`
@@ -302,7 +302,7 @@
 ` Jessica‐san...!!"`
 `"UuuAaaaAAAaaaaHHHaHHHhhh,`
 ` oww, owwww, ow...`
-`uuuaaaaaaaaaaaaaaaaaggghhh...!"`
+`uuuaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaggghhh...!"`
 `"I‐......it isn't my fault...`
 ` Th‐......this happened because you came at me even after I told you to stop...!"`
 `"H‐...hey, hey, what the hell happened, what's going on...?!"`
@@ -424,7 +424,7 @@
 `"No, don't!!`
 ` HiiiIIIIiIIIII!!!"`
 `"On the ninth twilight, the witch revives, and none shall be left alive.`
-` Kuhhihihihihihihihihihihihihihi!!"`
+` Kuhhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
 `The witch pointed the end of her gold staff at Nanjo.`
 `...Even though he didn't know what she was planning to do,`
 ` Nanjo imagined that she must be trying to take his life.`
@@ -432,7 +432,7 @@
 ` Doctor Nanjo!!`
 ` Who's out there?!`
 ` Answer me!!"`
-`"Please, nooooOoOOOo, ahiiieeeEAAHHHhhh!!"`
+`"Please, nooooOoOOOo, ahii{0}ie{0}eeEAAH{0}HHhhh!!"`
 `Bang!`
 ` A sharp sound echoed.`
 `And tapered to a point just as sharp, the elongated tip of the golden staff was stuck straight into Nanjo's forehead...`
@@ -449,8 +449,8 @@
 ` ...When I get bored of that, I'll kill you next and play a bunch more."`
 `"......No, wait, it's not every day that you get blinded, right?`
 ` ......I won't wait until I kill you.`
-` I'll play with you a bunch before I kill you too.`
-` ...Kuhhihyahyahyahya...!!`
+` I'll play with you a bunch {i:before} I kill you too.`
+` ...Kuhhihya{0}hya{0}hya{0}hya...!!`
 ` So wait there shaking for a while, okay?`
 ` As you try to imagine all the ways I'm playing with Nanjo's corpse!!"`
 `"H‐...hiiiiiiiiiiiiii!!!"`
@@ -479,7 +479,7 @@
 ` Sit on the bed and wait quietly like a lady.`
 ` 'Cause I'll give you a wonderful blood‐red death costume fitting for a lady of class.`
 ` ......Something good enough to make the person who finds you faint, okay?`
-` Gehheheheheheheheheheh!!"`
+` Gehhe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heh!!"`
 `"Hii...hiiIIiiIIIIiiiiiiIIIi!!"`
 `Just a short while ago, she had sworn that she would kill the culprit if she found them.`
 `...However, she was now all too powerless.`
@@ -525,7 +525,7 @@
 ` There is not even a trace of compassion there.`
 ` .........I want to at least save Jessica from that kind of cruel fate."`
 `"......Certainly, by carrying that out, you would probably be praised as a good witch."`
-`"......However, the new Beatrice‐sama already views you as hostile, Milady.`
+`"......However, the new {f:5:Beatrice}‐sama already views you as hostile, Milady.`
 ` ...If you were to be seen by her again, ......you are aware, you would have no way to escape this time?"`
 `".......................................`
 ` ......When I reunited George with Shannon,`
@@ -545,7 +545,7 @@
 ` ......If I can borrow the power of that emotion, I may be able to knock on the doors of Hades once again with my magical power."`
 `"I am sure you would be able.`
 ` However, you would use up all of your magical power.`
-` ......If you were to be spotted by the new Beatrice‐sama, you would truly be without a method of escape."`
+` ......If you were to be spotted by the new {f:5:Beatrice}‐sama, you would truly be without a method of escape."`
 `"...I am no longer your butler, Milady.`
 ` ......Understand that I cannot assist you if the situation worsens."`
 `"...I know.`
@@ -683,7 +683,7 @@
 `...It was probably only a momentary miracle.`
 `{n}......But even so, Jessica was deeply grateful for it.`
 `If she hoped for too much, she was sure that he would disappear—so, in order not to break this transient miracle...`
-`...and in order to engrave this moment into her heart for all eternity...she slowly...slowly...continued to walk...obeying Kanon's voice...`
+`...and in order to engrave this moment into her heart for all eternity...{0}she slowly...{0}slowly...{0}continued to walk...{0}obeying Kanon's voice...`
 `"......Alright, if you walk ten more steps, you will exit the servant room.`
 ` Then, please turn to face nine o'clock, and keep walking very slowly.`
 ` Put your hand on the wall to your right, and keep on following that.`
@@ -778,7 +778,7 @@
 `"Inside the curtains...`
 ` Not bad.`
 ` I used to hide in there a lot, long ago."`
-`".........Beatrice‐sama..."`
+`".........{f:5:Beatrice}‐sama..."`
 `"...Huh?"`
 `Kanon called the witch's name.`
 ` Jessica looked around in surprise, but being unable to see, she obviously couldn't find the witch...`
@@ -792,23 +792,23 @@
 `"Wh‐......who?!`
 ` Who's there...?!"`
 `"...Milady, be quiet.`
-` ......She is the witch, ...Beatrice...`
+` ......She is the witch, ...{f:5:Beatrice}...`
 ` .........I am in her debt, ......because she let me be with you one more time."`
-`"............The witch.........Beatrice......"`
+`"............The witch.........{f:5:Beatrice}......"`
 `"...I am unimportant.`
 ` I suggest you instead make haste in hiding that girl in the shadows of the curtains.`
 ` .........You probably do not have much time left.`
 ` You should spend it in a final conversation with Jessica."`
 `"...A secret meeting inside a bundle of curtains... You two have quite the sense of style.`
 ` *cackle*cackle*..."`
-`"Uh, umm, ............thank you, Beatrice...!!`
+`"Uh, umm, ............thank you, {f:5:Beatrice}...!!`
 ` Thank you for letting me be with Kanon‐kun......!!"`
 `Jessica didn't know where Beato was, so she said that while facing in the wrong direction.`
 `Perhaps because she found that funny, Beato snickered.`
 `"I will now leave this room to the pair of lovers.`
 ` Evil witches have no need for tales of love, you see.`
 ` Allow me to retreat."`
-`"......Beatrice‐sama...`
+`"......{f:5:Beatrice}‐sama...`
 ` ...Thank you very much."`
 `"Hmph...`
 ` .........No need to thank me.`
@@ -834,14 +834,14 @@
 ` To think that she doesn't even intend to allow the two young ones to speak to each other of their love...`
 ` ......*cackle*cackle*cackle*cackle*...!!"`
 `"45, data received.`
-` Comparing target, confirmed as the Predecessor Lady Beatrice.`
+` Comparing target, confirmed as the Predecessor Lady {f:5:Beatrice}.`
 ` Analyzing parlor defensive wall.`
 ` Multilayered defensive wall, 72 layers, attack barrier and magic reactive armor.`
 ` Sniping into the parlor is impossible.`
 ` Data link to 410."`
 `"410, data received. Nihi!`
-` Then we've just gotta———0the Predecessor first nyeh.`
-` Great Lady Beatrice, permission to fire, please!"`
+` Then we've just gotta{0}{nobreak:{m:-5:——}—}{0}the Predecessor first nyeh.`
+` Great Lady {f:5:Beatrice}, permission to fire, please!"`
 `"Go ahead and shoot.`
 ` ...Oh, and avoid her vital areas.`
 ` There's something I want to ask that old hag."`
@@ -869,7 +869,7 @@
 `...It was ready to pierce a vital spot as soon as the merciless witch told it to.`
 `".........For what reason would someone like you, who is even more brutal than me,`
 ` make them avoid my vital areas?`
-` New Beatrice...!!"`
+` New {f:5:Beatrice}...!!"`
 `"I wanted to ask you.`
 ` ...I don't know what trick you used to escape, but we were under the impression we had taken you out, you know?"`
 `"Why is it that even though you could have escaped by hiding, you took the risk of appearing again?`
@@ -887,7 +887,7 @@
 `"Chiester Sisters. Sew her."`
 `When she ordered that, the gold snake that was curled in a helix and suspended in space...`
 `moved as fast as a real snake going after its prey,`
-` and pierced Beato's body multiple times from the front and the back, its golden tail drawing a × shape.`
+` and pierced Beato's body multiple times from the front and the back, its golden tail drawing a {p:0:×} shape.`
 `As the ruthless witch had ordered, it drew a cross‐stitch through Beato's chest.`
 `The gold thread made a squeaking sound and tormented Beato...`
 `Rather than a gold snake aiming for its prey,`
@@ -924,7 +924,7 @@
 `"Gyoah, gwuhaahh.........!!"`
 `"Of course, you don't have to answer.`
 ` After all, that way I get to torture you.`
-` Kuukuhihihihihihihihihihi!!"`
+` Kuukuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
 `"The Endless Magic, the Infinite Magic, truly is wonderful.`
 ` ...When you think about it, this world is finite in every way.`
 ` The infinite cannot exist in the human world.`
@@ -933,7 +933,7 @@
 ` A wonderful power where the more you play with it, the more fun ways of playing you find!`
 ` You used that power as you pleased for one thousand years and went on a rampage!`
 ` Why are you having a change of heart only now?`
-` Don't tell me you just miss it now that you handed it over to me?"`
+` Don't tell me you just {i:miss} it now that you handed it over to me?"`
 `"How could I miss it.`
 ` The Endless Magic is not magic as you believe it to be.`
 ` ...True magic is in a deep abyss that you most certainly cannot reach."`
@@ -951,7 +951,7 @@
 ` If I kill you, the barrier to the parlor will be undone."`
 `"......Then I'll torture Kanon and Jessica to death a whole bunch of times.`
 ` ......Being able to have two lovers as my toys at the same time, ......sounds fun, right?`
-` Kuhhihihhihhihihihhihihihihi!!`
+` Kuhhi{0}hi{0}hhi{0}hhi{0}hi{0}hi{0}hhi{0}hi{0}hihihi!!`
 ` Kill her...!!!"`
 `Without missing by a millimeter, the gold sewing thread shot through Beato's heart...`
 `{n}That intense pain was worse than all of the pain before that put together.`
@@ -961,7 +961,7 @@
 `{n}If she died, the two in the parlor would be handed over to the brutal witch.`
 `So she definitely couldn't die.`
 `{n}She resolutely...refused to die...!`
-`".........New Beatrice...`
+`".........New {f:5:Beatrice}...`
 ` ...I have a request.`
 ` .........The lover's meeting between the two in the parlor is to be short.`
 ` .........In the amount of time an hourglass can measure, Kanon will probably disappear to Hades.`
@@ -998,7 +998,7 @@
 ` ......I'll continue that meager resistance for all eternity!!"`
 `"Sew!!`
 ` Keep sewing until her heart stops beating!!"`
-`"Guuh, guooooh, gwaaaAAAaaaaAAAAAaahhhh!!"`
+`"Guuh, guooooh, gwaa{0}aA{0}A{0}Aaa{0}a{0}aAA{0}A{0}AAa{0}ahhhh!!"`
 `"...Wh‐......why doesn't she die?!`
 ` This is impossible...!!"`
 `"Her heart is, ......sewn in place...`
@@ -1035,7 +1035,7 @@
 `...It was an immeasurably immense magical power.`
 `...Impossible to measure.`
 ` In other words, infinite—and endless.`
-`".........I, I'm the Endless Witch, right...?`
+`".........I, {i:I'm} the Endless Witch, right...?`
 ` .........Why is this old hag......still alive......after all of this......?!!"`
 `"Chiester Sisters!!`
 ` Smash that heart!!`
@@ -1050,20 +1050,20 @@
 ` My power is a god's power!!"`
 `"I am afraid to say,`
 ` that your power...`
-`cannot leave a single scratch on Beatrice‐sama's endless nature."`
+`cannot leave a single scratch on {i:{f:7:Beatrice}‐sama's} endless nature."`
 `"......Just what...do you mean by that......"`
 `"In the same way that there is no light without knowledge of shadows,`
 ` ......there is also no endless without knowledge of the limited.`
-` .........Before Milady Beatrice's true endless power, your flimsy magical power is very, very lacking."`
+` .........Before Milady {f:5:Beatrice}'s true endless power, your flimsy magical power is very, very lacking."`
 `"What is.........that supposed to mean......"`
 `"...aah—"`
 `The cruel witch stepped back in surprise.`
 `It was more transparent than a lace curtain...`
-`......but Beato's form—no, Beatrice's form—was still standing there.`
+`......but Beato's form—no, {i:{f:7:Beatrice}'s} form—was still standing there.`
 `Even after taking on this wretched appearance, ......she would not allow evil through that door.`
-`At that time, ......a shadow just as faint as Beatrice stood behind her.`
+`At that time, ......a shadow just as faint as {f:5:Beatrice} stood behind her.`
 `It was Kanon.`
-`".........Beatrice‐sama.`
+`".........{f:5:Beatrice}‐sama.`
 ` ...Thank you very much.`
 ` ...I will not forget this favor you have done for me."`
 `"......Hmph.`
@@ -1071,7 +1071,7 @@
 ` ......Are you done?"`
 `"Yes.`
 ` .........Truly, thank you very much.`
-` ......And Beatrice‐sama,`
+` ......And {f:5:Beatrice}‐sama,`
 ` ......you have also...done enough.`
 ` ......Please,`
 ` ......be at peace..."`
@@ -1079,23 +1079,23 @@
 ` ......So this...is enough......`
 ` .........ku......*cackle*cackle*cackle*..."`
 `"What's going on...?`
-` ......Why are you guys calling that predecessor hag Beatrice?!`
-` my name, right?!`
+` ......Why are you guys calling that predecessor hag {f:5:Beatrice}?!`
+` {f:5:Beatrice} is {i:my} name, right?!`
 ` It should be my name, as the new Golden Witch and Endless Witch, right?!"`
 `"............What gall.`
-` How dare you assume Beatrice‐sama's name."`
+` How dare you assume {f:5:Beatrice}‐sama's name."`
 `"I am afraid to say...`
-`...that the name of Beatrice‐sama should be taken by the person who can be crowned as the Endless Witch.`
+`...that the name of {f:5:Beatrice}‐sama should be taken by the person who can be crowned as the Endless Witch.`
 ` By now, the term "predecessor" refers to you.`
 ` ...Pukkukukukuku."`
 `"What......did you say......?"`
 `".........Farewell, Kanon.`
 ` ......I'll meet you soon anyway.`
 ` In a new nightmare."`
-`".........In the nightmare of a new night, I will once again be your companion, Beatrice‐sama...`
+`".........In the nightmare of a new night, I will once again be your companion, {f:5:Beatrice}‐sama...`
 ` ......With that, ...if you would excuse me......"`
 `Kanon's form grew faint, ......and he disappeared into thin air.`
-`After watching him go, ...Beatrice's form also grew faint, ......and before disappearing, it slumped over onto the floor.`
+`After watching him go, ...{f:5:Beatrice}'s form also grew faint, ......and before disappearing, it slumped over onto the floor.`
 `Then, ......there was a splat.`
 `The golden heart which had been floating in midair...had lost its sparkle, become blood‐stained flesh, and fallen to the ground.`
 `...How frail it was.`
@@ -1103,24 +1103,24 @@
 `...But until just now, it had sparkled so much, and had continued to beat forcefully.`
 `That heart still barely managed to beat.`
 `......However, it was only a matter of time before it stopped.`
-`Beatrice, whose form had become fragile and faint like incense smoke, lay on the floor,`
+`{f:5:Beatrice}, whose form had become fragile and faint like incense smoke, lay on the floor,`
 ` ......steadily watching her own heart...`
 `There, the cruel witch could be seen...`
-`"...H‐...how are endless"...?`
+`"...H‐...how are {i:you} "{i:endless}"...?`
 ` Face reality, you're collapsed in a heap on the floor, aren't you?!"`
 `"Endlessness with limits...that's a contradiction, it can't possibly exist!`
 ` This is the limit of your magic!`
 ` The limited is inferior to the infinite!!"`
 `"...................................."`
-`Beatrice no longer had the energy even to respond.`
+`{f:5:Beatrice} no longer had the energy even to respond.`
 `{n}...No, in fact, it was doubtful whether the words of the cruel witch even reached her ears...`
 `"If you're a real Endless Witch, try standing up!!`
 ` Well?`
 ` You can't, can you?!`
 ` Why do you think you can't stand?!`
 ` It's because you aren't an Endless Witch!!"`
-`The merciless witch poked Beatrice's heart with her fingernail.`
-`Beatrice had no words with which to respond to that provocation.`
+`The merciless witch poked {f:5:Beatrice}'s heart with her fingernail.`
+`{f:5:Beatrice} had no words with which to respond to that provocation.`
 `......However, ...instead of words, she returned a single expression.`
 `{n}......It looked insulting only to the cruel witch.`
 `Because she had gently curved her mouth, ......and smiled.`
@@ -1144,7 +1144,7 @@
 `...your opponent......?"`
 `"No good."`
 `Battler said that unbelievably bluntly.`
-`Taking a painful breath, Beatrice saw that, and sneered at herself as though she should have expected it.`
+`Taking a painful breath, {f:5:Beatrice} saw that, and sneered at herself as though she should have expected it.`
 `"............ku, ...*cackle*...`
 ` ...Is that so.`
 ` ......It seems I still have an uphill struggle ahead of me on the road to becoming a true witch..."`
@@ -1156,13 +1156,13 @@
 ` It's no goddamn good at all.`
 ` You aren't my opponent."`
 `The brutal witch raised her foot high...`
-`{n}...Below it was Beatrice's frail heart.`
+`{n}...Below it was {f:5:Beatrice}'s frail heart.`
 `"Die, you old hag!!`
 ` See if you can show how endless you are after you've been mushed to bits!!`
 ` I am the witch!`
-` I am the Golden Witch, Beatrice!!!`
-` Diiiiiiiiiiiiiiiiiiiiiiiieee!!"`
-`"Yeeeeeahhhh, it's no good, it's no goddamn good at aaaaaaaaaaaaaaaall!!!"`
+` I am the Golden Witch, {f:5:Beatrice}!!!`
+` Diiiiiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iieee!!"`
+`{e:170:"Yeeeeeahhhh, it's no good, it's no goddamn good at aaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaall!!!"}`
 `"Wha‐.........what...`
 `...is this......?`
 ` ...Wh‐.........where am I......?"`
@@ -1206,7 +1206,7 @@
 ` I'll tear that mask of yours off!!!"`
 `""H‐...hiiiiiiiiiiiii!!""`
 `The Chiester Sisters couldn't hide their fear at Battler's ferocity, and they backed up as though they had been struck.`
-`Beatrice watched this scene in shock......`
+`{f:5:Beatrice} watched this scene in shock......`
 `"B‐......Battler,`
 ` ......what......is this supposed to be......?"`
 `"Just what you're seeing.`
@@ -1222,10 +1222,10 @@
 ` Witches, my ass!`
 ` You aren't a witch!!`
 ` I'll rip that mask off and tear it to shreds!!`
-` Virgilia, get ready to fight!!"`
+` {f:5:Virgilia}, get ready to fight!!"`
 `"Understood.`
 ` Preparations are complete, so go whenever you're ready.`
-` ......Beatrice.`
+` ......{f:5:Beatrice}.`
 ` You stay back and rest."`
 `"M‐mm......"`
 `Beato looked at Battler timidly.`
@@ -1254,7 +1254,7 @@
 ` I am a true witch, born inside of her...!!"`
 `"Don't try to trick me! Your true form isn't a witch or anything like it, but a flesh‐and‐blood human.`
 ` The human culprit, Ushiromiya Eva!!!`
-` Virgilia, reconstruct the second twilight!!"`
+` {f:5:Virgilia}, reconstruct the second twilight!!"`
 `"Understood."`
 `"On the second twilight, Rosa and Maria were killed in the rose garden.`
 ` We make our first move by applying the Eva culprit theory."`
@@ -1280,8 +1280,8 @@
 `"Oh yeah, that's right.`
 ` Sure, say it in red for him!"`
 `"`
-`I was in the room the whole time.`
-` Both before and after the time period of the crime."`
+`{p:1:I was in the room the whole time}.`
+` {p:1:Both before and after the time period of the crime}."`
 `"See, look.`
 ` This makes it impossible for Eva to be the culprit!`
 ` How will you counter this?"`
@@ -1322,12 +1322,12 @@
 `She was probably also angry that a shot had been taken at her while she still didn't get what was going on.`
 `...But I won't go easy on her at all.`
 `Just like she didn't go easy on the victims at all, I won't go the slightest bit easy on her...!!`
-`"Virgilia, next crime!`
+`"{f:5:Virgilia}, next crime!`
 ` Let's reconstruct the incident with Dad and the rest!!"`
 `"Understood."`
 `"Rudolf, Kyrie, and Hideyoshi: these three people went to the mansion, and were killed there."`
 `"My move won't change.`
-` Aunt Eva, you are the culprit!!"`
+` Aunt Eva, {i:you} are the culprit!!"`
 `"This time, you don't even have an alibi from Uncle Hideyoshi!!`
 ` You claim that you were sleeping in that room all by yourself.`
 ` But that is untrue!!!`
@@ -1414,16 +1414,16 @@
 `".........That's right.`
 ` In the end, three people went outside to get food."`
 `"I'll add in some red as I speak, 'cause it'll be a pain otherwise.`
-` Kyrie didn't think that they needed food.`
+` {p:1:Kyrie didn't think that they needed food}.`
 ` Since going without food for about a day wouldn't kill them,`
-` she claimed that they should not leave the guesthouse."`
+` {p:1:she claimed that they should not leave the guesthouse}."`
 `"And yet, she herself...`
-`suggested that they leave the guesthouse to get food.`
+`{p:1:suggested that they leave the guesthouse to get food}.`
 ` .........Isn't this a contradiction?"`
 `"Yes, a spectacular contradiction.`
 ` It contradicts Kyrie's pattern of behavior."`
 `"That contradiction...`
-`was created by me, using magic!`
+`{i:was created by me, using magic}!`
 ` In other words, I controlled Kyrie using magic, and made her say that to lure the sacrifices outside!!"`
 `"R‐ridiculous!`
 ` There's no way that kind of magic exists!!"`
@@ -1464,7 +1464,7 @@
 ` ...You require tangible evidence of the specific reason for which Kyrie changed her mind and decided that food really was necessary.`
 ` ......For example, if someone heard her say that, or if it was written down somewhere."`
 `"Too bad,`
-` no reason for her changing her mind was ever told to anyone, nor was one ever written down!`
+` {p:1:no reason for her changing her mind was ever told to anyone, nor was one ever written down}!`
 ` Therefore, you can only speculate as to what was inside Kyrie's mind!"`
 `"So it is impossible to prove!!`
 ` You don't have a single counter to my move!`
@@ -1479,13 +1479,13 @@
 ` I have the feeling that it was Milady's specialty, but I cannot remember."`
 `"..................kh...`
 ` Quit being stingy and tell me...!"`
-`"Beatrice.`
+`"{f:5:Beatrice}.`
 ` There is no answer that will be given to those who stop thinking themselves.`
 ` ...Think.`
 ` Think in your own way!"`
 `"Why don't you resign right now?`
 ` And I'll corner you even more with red.`
-` Until the last instant before she died, Kyrie maintained her pattern of behavior which states ‘I won't go to the mansion to get food’!"`
+` {p:1:Until the last instant before she died, Kyrie maintained her pattern of behavior which states ‘I won't go to the mansion to get food’}!"`
 `"And yet, she took the initiative and headed for the mansion.`
 ` She was pushing a cart, trying to carry food.`
 ` Why that contradiction?`
@@ -1507,7 +1507,7 @@
 `"......In other words, Battler‐kun, you have no way of denying witches other than a complete victory!"`
 `"You called me Eva all those times and seemed to be under the impression that you'd been cornering me,`
 ` but it's all been turned over by nothing more than the inside of your respected Kyrie‐san's head, don't you think that's truly funny?!"`
-`"*cackle*cackle*cackle*cackle*, ahhahahahahahahahahaha!!`
+`"*cackle*cackle*cackle*cackle*, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
 ` Just do it, resign!!`
 ` Why don't you just accept it forever?`
 ` Why don't you just lose forever?!"`
@@ -1529,10 +1529,10 @@
 ` That darkness is all of the witch!"`
 `"Come on, it's useless to think, so quit, alright?!`
 ` There's no way you can deny witches!`
-` I mean, look at me, I exist."`
+` I mean, look at me, {i:I exist}."`
 `"I am the Golden Witch!!`
 ` I stole that name from that former witch over there!!`
-` You can't deny that I am Beatrice!!!"`
+` You can't deny that I am {f:5:Beatrice}!!!"`
 `"Damn iiiiiiiiiiiiiiiiiiiiiiit...!!!`
 ` You have no right to say that name...!`
 ` ......And yet, ......I can't think of a move to deny that.........!!!"`
@@ -1550,7 +1550,7 @@
 `"Wh‐......what did you say...?"`
 `"Huh?!`
 ` What kind of move can you possibly have, Predecessor‐sama?!`
-` Care to tell me what kind of move can deny my magic, the magic of Beatrice?`
+` Care to tell me what kind of move can deny my magic, the magic of {f:5:Beatrice}?`
 ` You can't, it's impossible!!"`
 `"......If the proposition "I won't go to the mansion to get food" cannot be explained by itself,`
 ` ......I will explain it with the contrapositive.`
@@ -1574,17 +1574,17 @@
 ` Fine, search as much as you want!!"`
 `"There's no way you'll learn anything!`
 ` I just said it in red a short while ago.`
-` Kyrie did not leave anything written down!`
+` {p:1:Kyrie did not leave anything written down}!`
 ` No matter what you find, how could you understand anything!!"`
 `".........We may find nothing...`
 ` ......But, ......Battler is grinding his teeth, fighting to think of a move to break through you.`
 ` .........This is all that I can do......"`
 `Beato landed on her feet in the reconstructed hall,`
 ` approached Kyrie's fallen body, and wandered around observing.`
-`"I, I don't quite understand the process of how the human side fights...`
+`"I, I don't quite understand the process of how the {y:0:Human}{n:0:human} side fights...`
 ` .........Evidence was required, was it...?`
 ` ......Then what should I search for?"`
-`"The purported Great Lady Beatrice is getting down on her knees and crawling around!`
+`"The purported Great Lady {f:5:Beatrice} is getting down on her knees and crawling around!`
 ` And she's even disgracefully searching a corpse?`
 ` *cackle*cackle*cackle*, how that look suits you...!!"`
 `"...Say what you wish...`
@@ -1625,14 +1625,14 @@
 ` I am a witch.`
 ` You can't break through my magic!!"`
 `"You're no longer anything but a former witch.`
-` Just a loser who isn't even allowed to take the name Beatrice anymore!!`
+` Just a loser who isn't even allowed to take the name {f:5:Beatrice} anymore!!`
 ` Go on, pile up as much trash and rubbish as you like, and try to break my magic with it!!"`
 `"...You can't, right?`
 ` You can't, can you?`
 ` Kuhhihihihihi, and why's that?`
 ` It's because I'm a witch.`
 ` ...It's because you're just a loser without a name!!`
-` Kuhhihhyahhyahhyahhyahhyah!!!"`
+` Kuhhi{0}hhyah{0}hyah{0}hyah{0}hyah{0}hyah!!!"`
 `".........Something, ............something should be here......`
 ` .........I won't lose heart...`
 ` ......I will not lose heart......`
@@ -1651,12 +1651,12 @@
 `No dead person existed that would answer Beato, now that she had lost the Endless Magic...`
 `"It's pointless, pointless pointle~ssss.`
 ` Toying with the dead is a privilege only for witches.`
-` For you, who is neither a witch nor even a human, no one exists who will lend a hand!!"`
+` For you, who is neither a witch nor even a {y:0:Human}{n:0:human}, no one exists who will lend a hand!!"`
 `"You will be alone for all eternity!!`
-` You have no witch or human allies, and no one will save you!!`
+` You have no witch or {y:0:Human}{n:0:human} allies, and no one will save you!!`
 ` If that frustrates you, why don't you cry forever?!`
 ` Why don't you apologize, say "I'm sorry I'm so useless" forever?!`
-` Ahhahahahahahahahahahaha!!"`
+` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"...............Sorry, ...Battler.........`
 ` ...I......couldn't help you...in any way......"`
 `"..............................`
@@ -1710,7 +1710,7 @@
 ` No, ......this cigarette butt itself is the reason that Kyrie‐san left the guesthouse."`
 `"Beato, thank you.`
 ` ......If you hadn't found this, I would have given up here."`
-`"............Virgilia!!`
+`"............{f:5:Virgilia}!!`
 ` Reconstruct the situation!`
 ` The guesthouse after it came to light that Auntie Rosa and Maria had been killed on the second twilight!!"`
 `"Understood."`
@@ -1747,7 +1747,7 @@
 ` She realized that Aunt Eva hadn't really been sleeping,`
 ` ...and that she had snuck out of the room!!"`
 `"Repetition requested!!`
-` "This cigarette butt was stubbed out in the ashtray of a room in which Uncle Hideyoshi and Aunt Eva were resting!""`
+` "This cigarette butt was stubbed out in the ashtray of a room in which Uncle Hideyoshi {i:and} Aunt Eva were resting!""`
 `".........I, ......I refuse...!"`
 `"I've finally got it.........`
 ` Thank you, Beato."`
@@ -1778,7 +1778,7 @@
 `"Repetition requested!!`
 ` "At that time, Ushiromiya Eva did not take a step outside the room"!!"`
 `"What the hell is thiiiiiiiis?!`
-` I'm the one who was attacking, right?!`
+` {i:I'm} the one who was attacking, right?!`
 ` Why did I get on the side that's being attacked?!`
 ` When did offense and defense get reversed?!"`
 `"I'm the one doing the questioning, you know?!`
@@ -1787,7 +1787,7 @@
 ` Repetition requested!!`
 ` "Ushiromiya Eva did not leave the room"!!`
 ` There's no way you can say it,`
-` it's CHECKMAAAAAAAAAAAAAAAATE!!"`
+` it's CHECKMAA{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}AATE!!"`
 `"Does the witch side have a move in response?"`
 `"......There cannot be one.`
 ` There is no truth that can be accepted from a false witch dressed up with truths and falsehoods."`
@@ -1801,7 +1801,7 @@
 `Her body flickered repeatedly,`
 ` flashing as Eva's figure and the witch's figure overlapped.`
 `However, the roar drowned out that flicker, ...and made it return once more to the original form of the cruelhearted witch.`
-`"......*cackle*cackle*cackle*, ...kuhhihhahhahahahaha...`
+`"......*cackle*cackle*cackle*, ...kuhhihha{0}hha{0}ha{0}hahaha...`
 ` ...Alright.`
 ` ...If you want to call me Ushiromiya Eva, then go right ahead..."`
 `"......I admit it, I really can't repulse all moves related to Ushiromiya Eva being the culprit.`
@@ -1809,7 +1809,7 @@
 ` ...and maybe I am now being called Ushiromiya Eva..."`
 `"......But you know what? That by itself doesn't mean that witches and magic are denied!!`
 ` ...I'll teach you now..."`
-`"I'll teach you that I am not Ushiromiya Eva, nor a human,`
+`"I'll teach you that I am not Ushiromiya Eva, nor a {y:0:Human}{n:0:human},`
 ` ......but a real witch...!!!`
 ` Look and see this red truth!!"`
 `The witch clapped her hands, and time advanced in the world of the game board.`
@@ -1823,82 +1823,82 @@
 ` ...That made it clear that the move the evil witch was about to make was bad enough to have such an effect on Beato...`
 `"This time,`
 ` ......I'll give you a fatal move that you won't be able to talk yourself out of.`
-` ...No, I'll make this move against all humans who support you.`
+` ...No, I'll make this move against all {y:0:Human}{n:0:human}s who support you.`
 ` Prepare yourself and listen...to my move."`
 `"D‐......don't... That move is.........!"`
 `"Beato, stay back...!!`
 ` I'll take it!`
 ` Bring it on, you fake witch!!"`
 `"`
-`After Jessica was injured,`
-` Eva was constantly under Battler's supervision.`
-` Battler is neither the culprit nor an accomplice.`
-` By this, we can establish a perfect alibi for Eva."`
+`{p:1:After Jessica was injured,}`
+` {p:1:Eva was constantly under Battler's supervision}.`
+` {p:1:Battler is neither the culprit nor an accomplice}.`
+` {p:1:By this, we can establish a perfect alibi for Eva}."`
 `"Wh‐......whaat...............?"`
 `"I'll seal you,`
-` and humans as well,`
+` and {y:0:Human}{n:0:human}s as well,`
 ` ......in a red barrier of death that most certainly cannot be escaped from.`
-` Farewell, lowly humans.`
+` Farewell, lowly {y:0:Human}{n:0:human}s.`
 ` Sleep for all eternity in an absolute locked room of magic with no exits.`
 ` ......Now, prepare yourself.`
 ` For the red truth."`
-`There are no more than 18 humans on this island.`
+`{p:1:There are no more than 18 humans on this island}.`
 `Throw away your foolish thoughts of mysterious people hiding and committing crimes.`
 `...But if I say it this way, you could also suspect animal culprits.`
 ` It would be unbearable to hear an irrational theory about how an orangutan trained to commit murder wouldn't count as a human.`
 `So, I'll change it like this.`
-`No life forms other than humans have any connection to this game.`
+`{p:1:No life forms other than humans have any connection to this game}.`
 `So, with that covered,`
 ` next, I'll explain the situation for all 18 people who exist on this island.`
-`Kinzo is dead.`
-` Krauss is dead.`
-`Natsuhi is dead.`
-` Hideyoshi is dead.`
-`George is dead.`
-` Rudolf is dead.`
-`Kyrie is dead.`
-` Rosa is dead.`
-`Maria is dead.`
-` Genji is dead.`
-`Shannon is dead.`
-` Kanon is dead.`
-`Gohda is dead.`
-` Kumasawa is dead.`
-`Nanjo is dead.`
+`{p:1:Kinzo is dead}.`
+` {p:1:Krauss is dead}.`
+`{p:1:Natsuhi is dead}.`
+` {p:1:Hideyoshi is dead}.`
+`{p:1:George is dead}.`
+` {p:1:Rudolf is dead}.`
+`{p:1:Kyrie is dead}.`
+` {p:1:Rosa is dead}.`
+`{p:1:Maria is dead}.`
+` {p:1:Genji is dead}.`
+`{p:1:Shannon is dead}.`
+` {p:1:Kanon is dead}.`
+`{p:1:Gohda is dead}.`
+` {p:1:Kumasawa is dead}.`
+`{p:1:Nanjo is dead}.`
 `Those 15 are all dead.`
 `And.`
-`Battler is alive.`
-`Eva is alive.`
-`Jessica is alive.`
+`{p:1:Battler is alive}.`
+`{p:1:Eva is alive}.`
+`{p:1:Jessica is alive}.`
 `That's everyone, all 18 of them!`
 `"So you understand that, accordingly, when the last victim, Nanjo, died,`
 ` only three people, Battler, Eva, and Jessica, were alive, right?"`
 `".........Wh‐......what did you say...?`
 ` ......Y‐......you bitch, ...you couldn't mean............"`
 `"`
-`Eva was with you the whole time.`
-` So committing a crime was impossible for her.`
-` Of course, Battler‐kun isn't the culprit.`
-` He wasn't forging an alibi for her, and he took the possibility that she was the culprit into account, watching over her actions carefully."`
+`{p:1:Eva was with you the whole time}.`
+` {p:1:So committing a crime was impossible for her}.`
+` {p:1:Of course, Battler‐kun isn't the culprit}.`
+` {p:1:He wasn't forging an alibi for her, and he took the possibility that she was the culprit into account, watching over her actions carefully}."`
 `"`
-`No chance existed for her to do anything suspicious!`
-` In short, at the time of the crime, only Nanjo and Jessica were in the servant room."`
+`{p:1:No chance existed for her to do anything suspicious}!`
+` {p:1:In short, at the time of the crime, only Nanjo and Jessica were in the servant room}."`
 `"......And I know what you're thinking.`
 ` Your next move will be this, right?`
 ` There's also a chance that Jessica is the culprit!`
 ` But too bad, I'll slice it up in red before you try!!"`
 `"`
-`Ushiromiya Jessica has not committed murder!`
-` She was not involved with Nanjo's murder!!`
-` Her eyes were completely blocked.`
-` It's impossible for her to carry out a murder like that!"`
+`{p:1:Ushiromiya Jessica has not committed murder}!`
+` {p:1:She was not involved with Nanjo's murder}!!`
+` {p:1:Her eyes were completely blocked}.`
+` {p:1:It's impossible for her to carry out a murder like that}!"`
 `"And here's an extra.`
-` Neither Eva nor Battler killed Nanjo, nor were they involved!!"`
+` {p:1:Neither Eva nor Battler killed Nanjo, nor were they involved}!!"`
 `"W‐wait a fucking second!!`
 ` That makes no goddamn sense!!`
 ` There are only three humans, then a murder occurs, ......and none of those three were involved? That's insane!!"`
 `"I'll state it clearly.`
-` The culprit who killed Nanjo was neither Battler nor Eva nor Jessica!!`
+` {p:1:The culprit who killed Nanjo was neither Battler nor Eva nor Jessica}!!`
 ` In other words, it wasn't one of the survivors.`
 ` Get iiit?"`
 `"No, umm, .........th‐that's right!`
@@ -1908,22 +1908,22 @@
 ` which took the name of "someone other than Jessica" and killed Doctor Nanjo...!!"`
 `"Moron.`
 ` I've already said it in red.`
-` Jessica's eyes were completely blocked, and murder was impossible for her!"`
+` {p:1:Jessica's eyes were completely blocked, and murder was impossible for her}!"`
 `"No matter what kind of personality she was possessed by, murder could not be carried out with her body!`
 ` I wonder if you'll be satisfied if I say it this way?"`
-`"No actions caused by Jessica's body had any relation to or influence on the murder of Nanjo!`
-` This also applies to Battler and Eva.`
+`"{p:1:No actions caused by Jessica's body had any relation to or influence on the murder of Nanjo}!`
+` {p:1:This also applies to Battler and Eva}.`
 ` In other words, no matter how much you try to struggle and interpret it,`
-` neither Jessica nor Battler nor Eva is the culprit who killed Nanjo!"`
+` {p:1:neither Jessica nor Battler nor Eva is the culprit who killed Nanjo}!"`
 `"Y‐...you've got to be kidding me!!!`
 ` I mean, everyone else is dead for sure, right?!!"`
 `"Then......all that's left......is the Doctor Nanjo suicide theory, right?!`
 ` And the trap theory!`
 ` The culprit was already dead, but a trap that they had already prepared went off..."`
-`"Nanjo's death was a homicide.`
-` ...Of course, it was with a direct method of murder, not a trap.`
-` They readied their weapon, and killed him with it directly from the front at point‐blank range!`
-` The culprit appeared openly before Nanjo's eyes, and as they both looked at each other's faces, the culprit killed him...!!"`
+`"{p:1:Nanjo's death was a homicide}.`
+` ...{p:1:Of course, it was with a direct method of murder, not a trap}.`
+` {p:1:They readied their weapon, and killed him with it directly from the front at point‐blank range}!`
+` {p:1:The culprit appeared openly before Nanjo's eyes, and as they both looked at each other's faces, the culprit killed him}...!!"`
 `"But wait!!`
 ` There are only three survivors!`
 ` You said in red that everyone else is dead!`
@@ -1935,7 +1935,7 @@
 `"Insane!!`
 ` You're lying!!`
 ` You're lying with the red letters!!!"`
-`"The red only tells the truth!!!`
+`"{p:1:The red only tells the truth}!!!`
 ` Isn't doubting that the same as betraying the honor of that witch who's behind you, shriveling up in fear of me and hiding behind your back?!"`
 `"D‐.........damn it............!!!"`
 `"I'll state it clearly,`
@@ -1943,7 +1943,7 @@
 ` ......The one who appeared in front of Nanjo was me.`
 ` A witch.`
 ` ......The Golden Witch, who can't be explained by the 18 humans!!"`
-`"V‐Virgilia!`
+`"{f:5:V‐Virgilia}!`
 ` Ronove...!!`
 ` Isn't the situation contradicting itself?!`
 ` Is she really telling the truth with red?!"`
@@ -1951,7 +1951,7 @@
 ` "Red truth", valid."`
 `"............What an......elaborate and precise cornering......"`
 `"H‐......how should I make a move against this...?`
-` Virgilia...!`
+` {f:5:Virgilia}...!`
 ` Isn't there any move......?!"`
 `"..................I...cannot think of anything..."`
 `"...And you, Ronove?!"`
@@ -1983,15 +1983,15 @@
 ` That has already been dealt with in red, you know?`
 ` Remove everything other than humans from consideration entirely.`
 ` And no stuff like robots, either."`
-`"Absolutely no factors other than humans participate in this game board!`
+`"{p:1:Absolutely no factors other than humans participate in this game board}!`
 ` Therefore, I can also say this:"`
-`"The one who killed Nanjo was definitely a human!"`
-`"A human, with their feet on the ground, held up a weapon and killed with it!`
-` Right before his eyes!`
+`"{p:1:The one who killed Nanjo was definitely a human}!"`
+`"{p:1:A human, with their feet on the ground, held up a weapon and killed with it}!`
+` {p:1:Right before his eyes}!`
 ` However, the human may have been able to use magic.`
 ` ......Which means, it was a witch."`
 `"......That is, in other words, me.`
-` The Golden Witch, Beatrice!!"`
+` The Golden Witch, {f:5:Beatrice}!!"`
 `......Even as Battler...`
 `ground his teeth...`
 `......his knees hit the floor with a thunk.`
@@ -2002,10 +2002,10 @@
 ` Oh, did you kneel...?"`
 `"That's right, you're already starting to understand.`
 ` ......The Golden Witch does exist.`
-` .........And that Golden Witch, Beatrice, is me...!!"`
+` .........And that Golden Witch, {f:5:Beatrice}, is me...!!"`
 `"Come on, praise me.`
 ` Now is the time to praise the resurrection of a true witch.`
-` Now is the time to praise the resurrection of the Golden Witch, Beatrice!!`
+` Now is the time to praise the resurrection of the Golden Witch, {f:5:Beatrice}!!`
 ` On the ninth twilight, the witch revives, and none shall be left alive......!!!"`
 `"Daaamn iiiiiiiitt.........`
 ` ......I don't......understand......!`
@@ -2066,22 +2066,22 @@
 `"............I will make a move as a counterattack to yours."`
 `"Huh?`
 ` How can you possibly cut up this perfect checkmate?"`
-`"How can this checkmate, which is completely impossible for humans to break,`
+`"How can this checkmate, which is completely impossible for {y:0:Human}{n:0:human}s to break,`
 ` possibly be broken by the likes of you?!"`
-`".........B‐Beatrice, you couldn't be..."`
+`".........{f:5:B‐Beatrice}, you couldn't be..."`
 `"Mm.`
-` ...What about a move that a human cannot make.`
+` ...What about a move that a {y:0:Human}{n:0:human} cannot make.`
 ` ......I will counterattack you with a move I can use because I am a witch..."`
 `"A move you can use because you are a witch......?`
 ` ......Wh‐...what are you planning to do...?"`
 `"I will use the red...`
 `to deny witches."`
-`"Beatrice...!!"`
+`"{f:5:Beatrice}...!!"`
 `"M‐Milady...!!"`
 `The master and the butler were both startled.`
 `......I also immediately understood what it meant.`
 `{n}To use the red that only witches could use.`
-`{n}...To use the red to deny witches.`
+`{n}...{i:To use the red to deny witches}.`
 `It was like using her own sword to slit her own throat.`
 `"Wh‐............whaaat...?!`
 ` C‐......come on, what are you saying?`
@@ -2110,7 +2110,7 @@
 `in erasing this form of mine along with you...!"`
 `"A‐...are you insane?!?!`
 ` S‐stop it...!`
-` I still want to be a witch! I don't wanna be human...!!"`
+` I still want to be a witch! I don't wanna be {y:0:Human}{n:0:human}...!!"`
 `".........Witch, please return to your seat.`
 ` Please, receive the human side's response from your seat."`
 `"Wh‐what are you doing?!`
@@ -2124,7 +2124,7 @@
 `......That included demons such as Ronove.`
 `However, instead of running away, Ronove chose to act as the facilitator for the game,`
 ` ...and to carry out that duty for his master's sake.`
-`"......Beatrice.`
+`"......{f:5:Beatrice}.`
 ` .........You have...no regrets, I hope."`
 `"The same to you."`
 `"......Sorry.`
@@ -2147,7 +2147,7 @@
 ` and this island will fall into the deepest hell of the evil witch's constant fantasies, for all eternity."`
 `".........Can you permit that?`
 ` ...Is it alright for your dear relatives to be toyed with for all eternity in that witch's nightmare?"`
-`"S‐still, ......you shouldn't have to sacrifice yourself...`
+`"S‐still, ......{i:you} shouldn't have to sacrifice yourself...`
 ` Th‐this is a game between me and her.`
 ` There's no need for you to sacrifice yourself to make a move!`
 ` I, I'll think of something!`
@@ -2166,7 +2166,7 @@
 ` There's absolutely no need for you to sacrifice yourself!!"`
 `"Last I remember, you were fighting to deny me.`
 ` ......What a strange person.`
-` Hahahahahahahaha."`
+` Hahaha{0}ha{0}ha{0}hahaha."`
 `"......Let that child do as she likes.`
 ` And please, see her through."`
 `"B‐...but......"`
@@ -2185,7 +2185,7 @@
 ` ...even so, I want you alone to cover your ears.`
 ` ..................I at least want to be a witch...in your eyes.`
 ` ......Please."`
-`"......Beatrice‐sama.`
+`"......{f:5:Beatrice}‐sama.`
 ` ...There is no problem on the witch side.`
 ` Please, your move."`
 `"Let gooooooooooooooooooo!!`
@@ -2220,14 +2220,14 @@
 `Beato talked.`
 `{n}With the red truth, she sliced apart the bright‐red game board that the witch had released.`
 `She explained difficult problems that could not be solved by humans, with moves that could only be solved by witches, and began cornering the witch.`
-`The truth that Battler was not permitted to hear.`
+`The {i:truth} that Battler was not permitted to hear.`
 `If Battler had broken his promise, and sneakily listened in...`
 `{n}......in an instant, Battler would probably have been able to become the victor in his game with Beato.`
 `......He would probably have understood all the riddles on the island, all of the magic and tricks, locked rooms, spells, curses, legends,`
 ` ...and the entire tale of anger and sadness.`
 `However, ......Battler would only learn what that was when he reached the truth by himself.`
 `Yes.`
-` ...From the beginning, ......Beatrice had wished that Battler would reach that truth by himself.`
+` ...From the beginning, ......{f:5:Beatrice} had wished that Battler would reach that truth by himself.`
 `It was something that shouldn't be reached by being told.`
 `{n}It was a truth that Battler would have to drag himself to with his own power.`
 `A brilliant light gathered with Beato and the evil witch at the center, and grew gradually stronger...`
@@ -2249,8 +2249,8 @@
 `{n}......Eva could be seen there, holding a gun.`
 `"Y‐.........you are the culprit...`
 ` Aunt Eva......!!!"`
-`"*cackle*cackle*cackle*......ahhahahahahahahahaha!!`
-` Took you long enough to notice, Battler‐kun!!"`
+`"*cackle*cackle*cackle*......ahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+` Took you long enough to notice, Battler‐{i:kun}!!"`
 `Without any hesitation or mercy, Eva raised the gun and pulled the trigger.`
 `...An explosion resounded, and Battler fell to the floor, his heart shot through.`
 `After going into convulsions for a short time,`

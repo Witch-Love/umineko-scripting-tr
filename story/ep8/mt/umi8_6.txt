@@ -110,7 +110,7 @@
 `"Oh, but I have been rewarded.`
 ` With Ange's smile just now to look back upon,`
 ` I could happily pass on in my sleep tonight.`
-` Wahhahahahahahahaha......"`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
 `With a lonely laugh, Kinzo spun around, setting his cloak fluttering.`
 `This was all the love he could offer Ange as a grandfather.`
 `Part of him wanted to be remembered, but he knew he mustn't wish for that.`
@@ -173,7 +173,7 @@
 `After clearing his throat, Uncle Hideyoshi started telling his question...`
 `"Mine's a riddle.`
 ` Listen closely, now.`
-` You know the story of Momotarou, right?"`
+` You know the story of {c:86EF9C:Momotarou}, right?"`
 `"The boy who floated down a river in a peach?"`
 `"That's right.`
 ` But you know, one day, an apple floated down that river."`
@@ -236,7 +236,7 @@
 `"Huh?`
 ` You will?"`
 `"Sure.`
-` A quiz for the princess from her attendant♪`
+` A quiz for the princess from her attendant{p:0:♪}`
 ` I've thought of a fun one, so please, have a go at it!"`
 `Auntie Eva smiled brightly.`
 `I want to get as many medals as possible, so of course, I want as many chances as I can get.`
@@ -503,7 +503,7 @@
 ` Tell me!"`
 `"Hohohoho, it's no fun if I tell you.`
 ` If you don't guess it quick, ......then you really will be having mackerel for dessert.`
-` Ihihihihihihihihihi......"`
+` Ihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......"`
 `"Tell me, tell me!"`
 `"Nope."`
 `Kumasawa smiled cheerily, but remained stubborn.`
@@ -675,7 +675,7 @@
 ` "Kyuu‐kyuu" sounds like "99", and if you add 20 to 99, you get 119.`
 ` That's the emergency number for ambulances!"`
 `"And if you subtract 20 from 130, you get 110.`
-` That's the emergency number for calling the police."(Add 20 to 99 and write it in reverse to get 911, the US number for both.)`
+` That's the emergency number for calling the police."{n}{i:(Add 20 to 99 and write it in reverse to get 911, the US number for both.)}`
 `"Splendid! That is correct.`
 ` I knew you were a quick thinker, Ange‐san."`
 `"Oooooooh, well done, Angeeeeeeee!`
@@ -706,7 +706,7 @@
 `This is bad...`
 ` I did learn division, but I'm not very good at it......`
 `"Half of its remaining length burns away each hour, right...?`
-` After the first hour, it's burned down to half of 5 cm.`
+` After the first hour, it's burned down to half of {nobr:5 cm}.`
 ` During the next hour, it burns down to half of that.`
 ` And during the third hour, it burns down to half of that again......"`
 `"......I can't really do it without a calculator.`
@@ -746,9 +746,9 @@
 `There are still many people waiting to give me puzzles.`
 ` I have tons of chances to get medals.`
 `Okay, who should I challenge next...?!`
-`"......After one hour, 2.5 cm,`
-` ...and in the next hour, that becomes 1.25 cm,`
-` ...and in the next hour, that becomes 0.625 cm......"`
+`"......After one hour, {nobr:5 cm} becomes {nobr:2.5 cm},`
+` ...and in the next hour, that becomes {nobr:1.25 cm},`
+` ...and in the next hour, that becomes {nobr:0.625 cm}......"`
 `"..........................."`
 `"Ange‐chan.`
 ` You don't need to use math.`
@@ -756,10 +756,10 @@
 ` How long......is the candle when the flame goes out...?"`
 `"Ah!`
 ` That was a close one...!`
-` The candle goes out when it's 1 cm long, so the rest doesn't matter!"`
-`The flame on this candle dies when the candle is 1 cm in length.`
-`{n}In other words, it can never get shorter than 1 cm.`
-`So the right answer is the fifth choice, "About 10 mm"...!`
+` The candle goes out when it's {nobr:1 cm} long, so the rest doesn't matter!"`
+`The flame on this candle dies when the candle is {nobr:1 cm} in length.`
+`{n}In other words, it can never get shorter than {nobr:1 cm}.`
+`So the right answer is the fifth choice, "About {nobr:10 mm}"...!`
 `"That's right...!"`
 `"You are correct."`
 `"Oooh, splendidly done, Ange!`
@@ -812,7 +812,7 @@
 ` He'll trick me right to my face, with that stern, serious expression of his.`
 ` He has always been like that.`
 ` And yet, despite the numerous occasions on which he has fooled me in the past, I keep on getting tricked.`
-` Wahhahhahahahahahaha."`
+` Wah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha."`
 `"Come to think of it,`
 ` .........what sort of relationship do you and Genji‐san have?"`
 `For just an instant, Kinzo glanced at Genji's face.`
@@ -1103,4 +1103,4 @@
 ` ......But I really don't hate you anymore.`
 ` Please, believe that,`
 ` ............Mother."`
-`"......Beatrice..............."`
+`"......{f:5:B}‐.........{f:5:Beatrice}..............."`

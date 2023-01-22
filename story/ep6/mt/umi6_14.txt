@@ -84,7 +84,7 @@
 `{n}So, it would probably be two days before the boat came.`
 `In other words, they were going to have to spend a full two nights holed up in here...`
 `While Erika and the others held their planning meeting in the lounge, food and blankets had been brought in to prepare for the long road ahead.`
-`The sudden tragedy had everyone on edge, but it was already well after 2 a.m.`
+`The sudden tragedy had everyone on edge, but it was already well after {nobr:2 a.m}.`
 `If they really suspected the servants, then the observers couldn't afford to fall asleep at the same time.`
 `Either Krauss or Rudolf should probably take a nap right away...`
 `"......Not bad.`
@@ -259,14 +259,14 @@
 `"........................"`
 `"Don't tell me you're already going to decline?!"`
 `".......Don't worry.`
-` I acknowledge it."`
+` {p:1:I acknowledge it}."`
 `First off, it was acknowledged that the victims' locations were the same as the rooms that had been shown by the witch side's illusion.`
 `"<Good>.`
 ` I'll continue.`
 ` "Hideyoshi, George, Shannon, Kumasawa, and Nanjo are in the next room over!""`
-`"Acknowledged."`
+`"{p:1:Acknowledged}."`
 `The people in the room Erika had just left had been specified.`
-`It was the role of the human side to check every one of these seemingly obvious little details.`
+`It was the role of the {y:0:Human}{n:0:human} side to check every one of these seemingly obvious little details.`
 `"<Good>.`
 ` I'll continue.`
 ` "Everyone else is in the cousins' room!""`
@@ -351,7 +351,7 @@
 ` ......You're trying to make me weaken my own position in some way."`
 `"No matter how good a move seems, it is a bad move when it is what the opponent wants...`
 ` ......However, it will be hard to avoid the word "everyone" here......"`
-`The red truth can cut the weak reasoning of the human side apart over and over.`
+`The red truth can cut the weak reasoning of the {y:0:Human}{n:0:human} side apart over and over.`
 `......In the past, I feared its ruthlessness.`
 `However, I quickly learned that it could be used as a basis for a counterattack.`
 `"......The red truth is a secret weapon, a treasured sword.`
@@ -363,7 +363,7 @@
 `"No, .........`
 ` .....................`
 ` ......Okay, I acknowledge it.`
-` I acknowledge that everyone else is in the cousins' room."`
+` {p:1:I acknowledge that everyone else is in the cousins' room}."`
 `"<Good>!`
 ` Thank you very much, Battler‐san.`
 ` What a beautiful, decisive move.`
@@ -378,19 +378,19 @@
 ` ......Shall we continue the game?"`
 `"Yes, we shall.`
 ` Dlanooooooooooor!!"`
-`"Yes, Lady Erika."`
+`"Yes, Lady {f:5:Erika}."`
 `"Let's get started right away.`
 ` Let's use the privilege our merciful Game Master has given us...!"`
-`"Yes, understood.`
+`"Yes, {f:5:understood}.`
 ` ......Gertrude, Cornelia.`
-` We will use two rooms' worth of the three sets of seals we were given...!"`
+` We will use two rooms' worth of the three sets of seals we were {f:5:given}...!"`
 `"For your attention—"`
 `"We hear and obey...!"`
 `"Seal the cousins' room and the next room over.`
 ` This means that everyone other than the victims has been sealed.`
 ` No matter what happens after this, the humans within the seals won't be a problem!"`
 `"By the seals on the doors and windows,`
-` guaranteed."`
+` {p:1:the complete sealing of both the cousins' room and the next room over has been {f:5:guaranteed}}."`
 `For just an instant, that red longsword had returned to Dlanor's hand.`
 `She had been given permission to draw it,`
 ` thanks to the red truth that she had finally gained.`
@@ -404,14 +404,14 @@
 `"What is it......?"`
 `"It is my understanding that the players on the human side are to interpret the problems posed by the witch as the work of humans."`
 `"......You are not mistaken."`
-`"Then why are Lady Erika and Supervisor Dlanor...`
+`"Then why are Lady {f:5:Erika} and Supervisor Dlanor...`
 `fighting to lower the number of "humans who can commit crimes"...?"`
 `......Cornelia's question was very simple.`
 `Those two had made this move boldly and treated it like a powerful one,`
 ` so it almost made it seem as though this move would greatly damage the witch.`
 `However, if you thought about it, ......Erika was just strangling her own neck...`
 `"We still do not know what sort of crime will occur in the future.`
-` Would it not be more advantageous to the humans if there are more people whose locations are not specified...?"`
+` Would it not be more advantageous to the {y:0:Human}{n:0:human}s if there are more people whose locations are not specified...?"`
 `".........Be advised that now is not yet the time.........for the Lady or the Commander to reveal their thoughts."`
 `"I apologize for my idle chatter...`
 ` ....................."`
@@ -460,7 +460,7 @@
 `"I see, so strengthening your guard to make it hard for a crime to occur is one way for the human side to fight..."`
 `".........However, that's a simple move.`
 ` ......That "great detective" Furudo Erika wouldn't have looked so proud of herself after playing a move like that."`
-`Would Erika be happy after playing a defensive move...?`
+`Would {i:Erika} be happy after playing a defensive move...?`
 `Though this move looks as though she's restraining herself, ......it's also extremely unlikely that Erika, of all people, played a defensive move......`
 `"I'm sure......that this is an attack, not a move made for defense.`
 ` ......Though I don't know what kind of attack it is."`
@@ -491,12 +491,12 @@
 `"Haah.`
 ` Now I can finally stretch my wings.`
 ` First off, let's take a midnight stroll to the mansion."`
-`"You would take a stroll in the middle of the night to an eerie mansion where a killer might be hiding?`
-` ......You must be very eccentric."`
+`"You would take a stroll in the middle of the night to an eerie mansion where a killer might be {f:5:hiding}?`
+` ......You must be very {f:5:eccentric}."`
 `"By no means.`
 ` I had to wait a long time to be free like this.`
 ` I feel like it's free time after a swimming lesson."`
-`......Now that Bernkastel was nowhere in sight, Erika was regaining her high spirits.`
+`......Now that {f:5:Bernkastel} was nowhere in sight, Erika was regaining her high spirits.`
 `She wasn't exaggerating when she said she could spread her wings.`
 `Dlanor knew that she was staking her own destruction on this game.`
 `......And she was not in a favorable position by any means.`
@@ -507,18 +507,18 @@
 `Before leaving the guesthouse, Erika did a check of the first floor,`
 ` making sure that nothing was out of place.`
 `Then she found a flashlight and umbrella in the servant room next to the entrance.`
-`"Then let us go."`
+`"Then let us {f:5:go}."`
 `"Yes.`
 ` We at least have to check the cause of death for all six."`
 `She unset the chain, unlocked the door, and opened it.`
 `{n}The freezing outside air poured in......`
-`"......It appears to be quite windy still."`
+`"......It appears to be quite windy {f:5:still}."`
 `"Well, this body is just a cage of flesh to me.`
 ` I don't care if it gets wet or cold.`
 ` ......Let's go."`
 `When Erika dropped her gaze to open her umbrella, ......she noticed something lying at her feet.`
 `"...............!"`
-`"It's............one of the usual letters."`
+`"It's............one of the usual {f:5:letters}."`
 `It was one of those letters sent by the witch......with the seal of the One‐winged Eagle on it.`
 `It had been wedged under the outside mat in front of the entrance,`
 ` ......as though someone had predicted that Erika would eventually come this way while heading for the mansion.`
@@ -531,12 +531,12 @@
 `"Welcome, Furudo Erika‐sama......it says.`
 ` ......Oh, so it's calling me by name?`
 ` They totally saw this coming."`
-`"What does it say......?"`
+`"What does it {f:5:say}......?"`
 `"It's an advance notice of a crime.`
 ` Well, a post‐factum notice, technically.`
 ` ......Apparently, they have taken Ushiromiya Battler's corpse.`
 ` They're asking me to try looking for it."`
-`"......So this isn't the "tear apart the two who are close" of the second twilight?"`
+`"......So this isn't the "tear apart the two who are close" of the second {f:5:twilight}?"`
 `"Well, disappearing corpses happened a few times in Beato's games too.`
 ` There's nothing really new about this."`
 `Erika shrugged and scorned the letter.`
@@ -550,8 +550,8 @@
 ` If the way you show it is the same, please tell me that the actual trick isn't the same too.`
 ` .........Dlanor.`
 ` Please call Battler here."`
-`"Understood.`
-` ......Lord turn...!"`
+`"{f:5:Understood}.`
+` ......Lord {f:5:Battler}, we wish to take our {f:5:turn}...!"`
 `"Got it.`
 ` Let's have it."`
 `"I'm ever so sorry.`
@@ -578,8 +578,8 @@
 ` ......So?`
 ` Where and when did you place the seals?"`
 `"Dlanor."`
-`"Allow me to report.`
-` ......Battler's guest room was sealed at the time of Lady corpse."`
+`"Allow me to {f:5:report}.`
+` ......Battler's guest room was sealed at the time of Lady {f:5:Erika}'s inspection of the {f:5:corpse}."`
 `".....................!"`
 `Beato tried not to let it show on her face,`
 ` but Erika didn't miss her eyebrows twitching slightly and her gaze flicking over to Battler.`
@@ -594,12 +594,12 @@
 ` .........after all, Battler‐san has been playing this game not knowing that his corpse was sealed in the guest room.`
 ` ......Because of that, .........I thought, possibly......`
 `that it might......change things regarding the appearance of this letter."`
-`".........The cousins' room and the next room over are currently sealed.`
-` Sorry for the late report, but the guest room with your corpse in it is also sealed.`
-` And there are 17 people on the island excluding Lady Erika.`
-` The existence of an 18th person has already been denied in a previous game."`
+`".........The cousins' room and the next room over are currently {f:5:sealed}.`
+` Sorry for the late report, but the guest room with your corpse in it is also {f:5:sealed}.`
+` And there are 17 people on the island excluding Lady {f:5:Erika}.`
+` The existence of an 18th person has already been denied in a previous {f:5:game}."`
 `"So when I thought about......the person who could have placed the letter.........and erased your corpse,`
-` .........I thought that maybe, .........heheheheheheheheheh,`
+` .........I thought that maybe, .........heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh,`
 ` ......just maybe, ......things might be......different......"`
 `Erika laughed nastily while staring into Battler's eyes to see if he was panicked or disturbed...`
 `"...............Battler‐san......"`
@@ -620,7 +620,7 @@
 `were now very significant.`
 `In short, if he had used this trick,`
 ` then Battler would have "broken the seals" when he left his guest room.`
-`The trick would not be workable without breaking the seals.`
+`The trick would not be workable {i:without breaking the seals}.`
 `Since the survivors were all sealed in the guesthouse,`
 ` breaking the seal on the guest room would mean acknowledging that at least one of the victims was actually alive.`
 `If Battler had known about the seals earlier, it was likely that he would have advanced the game in a very different way to avoid this.`
@@ -646,7 +646,7 @@
 ` she accepted the "magical fantasy"—that the candy had appeared by magic inside the cup—and magic was established..."`
 `"............Okay, so a logic error would be...`
 `...‘a trick that has become impossible’."`
-`Thinking back, the time when Erika and Maria fought fiercely about this magic with the red and blue truth...`
+`Thinking back, the time when Erika and {f:5:Maria} fought fiercely about this magic with the red and blue truth...`
 `was really the opening battle of this tale.`
 `Let's try to remember that exchange.`
 `......The heartless conclusion was...that it had all been a trick.`
@@ -683,7 +683,7 @@
 `In order to break through the trick with the candy and the cup,`
 ` Erika had countered with the blue truth saying that the candy had been snuck in there while Maria's eyes were closed.`
 `That was the correct answer, so Maria hadn't had any red that she could use.`
-`......But what if she had used it?`
+`......But what if she {i:had} used it?`
 `For example, what if Maria had used the red truth at that time to say...`
 `“until Maria lifted the cup up, the locked room of the overturned cup was preserved”...?`
 `"The red truth can only be used for the truth, right?`
@@ -705,7 +705,7 @@
 `......the witch would have to rush and revise the scenario to a new trick that "still worked logically" after that new red.`
 `Revising the scenario is an unfair move that would never be allowed in mysteries.`
 `However, the very act of revising the scenario takes place inside the witch's head, which is an unobservable world.`
-`So, she could claim that she'd been using the trick with the fake‐bottomed cup from the beginning, and no one could deny that.`
+`So, she could claim that she'd been using the trick with the fake‐bottomed cup {i:from the beginning}, and no one could deny that.`
 `......So, ......even if it really was a trick done while Onee‐chan's eyes were closed...`
 `...as long as the witch leaves herself a way out, she can even switch between truths (i.e., tricks).`
 `Rather than calling this an action allowed to witches,`
@@ -718,7 +718,7 @@
 `We call this a logic error...`
 `And that means......the destruction of the witch's game.`
 `"This world is a game that is possible to explain with humans.`
-` ......In other words, it must be possible for all the magic to have been done by tricks instead.`
+` ......In other words, it must be possible for all the magic to have been done {i:by tricks instead}.`
 ` ......If it's impossible to do with tricks, then the human side has no move and we get a stalemate."`
 `"No, that's wrong.`
 ` That is precisely the fatal and worst possible illegal move known as a logic error.`
@@ -754,8 +754,8 @@
 ` In which case, this letter shouldn't have appeared here."`
 `"Correct.`
 ` So, I thought you should have the chance to revise that small contradiction."`
-`"......We have discovered this letter here.`
-` ......We are saying that we do not mind if you want to undo that, or if you want to use a revised scenario."`
+`"......We have discovered this letter {f:5:here}.`
+` ......We are saying that we do not mind if you want to undo that, or if you want to use a revised {f:5:scenario}."`
 `"All it takes is the presence of a letter and some duct tape,`
 ` ......and a move like this becomes trivial for Furudo Erika.`
 ` ............Your thoughts, ladies and gentlemen...?"`

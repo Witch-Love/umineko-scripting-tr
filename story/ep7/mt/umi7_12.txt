@@ -39,7 +39,7 @@
 ` Why did someone recommend Yasu?"`
 `"It's even more surprising that Madam let Yasu stay this long."`
 `"Hey, at least the kid's got the guts to not give up and run away.`
-` Keep it up, Yasu."`
+` Keep it up, {i:Yasu}."`
 `"I, I......hate being called Yasu..."`
 `At the very end, ......I finally said the one thing I'd always wanted to say to them.`
 `However, they basically ignored me, and just picked up their things and left...`
@@ -77,9 +77,9 @@
 `"That's the right attitude.`
 ` Let's give it our all together."`
 `"Yeah!"`
-`"My name is Asne (明日音).`
+`"My name is Asne ({p:0:明日音}).`
 ` Pleased to meet you."`
-`"My name is Belne (鐘音).`
+`"My name is Belne ({p:0:鐘音}).`
 ` Pleased to meet you."`
 `.....................`
 `The newly arrived servants looked......a bit frivolous.`
@@ -122,7 +122,7 @@
 `I had hated that, so I tried to be more gentle when admonishing them, but they wouldn't take me seriously...`
 `"L‐listen up.`
 ` You know there's a witch living in the mansion, don't you...?"`
-`"Oooh, Beatrice~!"`
+`"Oooh, {f:5:Beatrice}~!"`
 `"Kyahahahaha! That sounded just like him!"`
 `"Shannon‐chan,`
 ` don't tell me you believe in that too?"`
@@ -139,12 +139,12 @@
 ` ......Witches."`
 `"......I thought they were just pranks.`
 ` No, ......I think it just gave me peace of mind to think of them that way......while I still could."`
-`"Do you think the witch Beatrice actually existed...?"`
+`"Do you think the witch {f:5:Beatrice} actually existed...?"`
 `"I don't believe it."`
-`"......I don't know if it was Beatrice,`
+`"......I don't know if it was {f:5:Beatrice},`
 ` but I do think that something that wasn't human...`
 `...really did exist in that mansion."`
-`"Do you think there's a chance that this non‐human thing was Beatrice...?"`
+`"Do you think there's a chance that this non‐human thing was {f:5:Beatrice}...?"`
 `"Ridiculous."`
 `"......I wish I could say it was ridiculous."`
 `"That must have been a prank of Yasu's. No, not a prank, revenge."`
@@ -281,8 +281,8 @@
 `"I was then sure.`
 ` It "existed"!`
 ` Some strange, inhuman thing "existed" in this mansion!"`
-`"And that was the witch Beatrice...?"`
-`"If Beatrice!`
+`"And that was the witch {f:5:Beatrice}...?"`
+`"If {f:5:Beatrice} is what you want to call it, then I believe in {f:5:Beatrice}!`
 ` Anyway, something that can't be explained away by human actions definitely "existed" there!`
 ` People who didn't understand kept calling Yasu and me forgetful!`
 ` They didn't get it... They just didn't get it!!"`
@@ -294,7 +294,7 @@
 ` I talked to Yasu, Shannon, and Kumasawa‐san about it!`
 ` And they said that the witch really did exist...`
 ` That all the old servants make sure to respect her!"`
-`"They said I had been cursed because I'd stupidly gone around saying that Beatrice didn't exist...!`
+`"They said I had been cursed because I'd stupidly gone around saying that {f:5:Beatrice} didn't exist...!`
 ` So I reformed!`
 ` Yasu taught me how to give offerings to the doll in the VIP room!`
 ` I asked Genji‐sama for permission and prayed at the shrine on the reef!`
@@ -308,7 +308,7 @@
 `"You just don't get it!`
 ` You really don't!!`
 ` So, I made sure to teach all the newer servants well!`
-` A witch called Beatrice‐sama lives in this mansion...!`
+` A witch called {f:5:Beatrice}‐sama lives in this mansion...!`
 ` If you make fun of her, you really will be cursed...!!"`
 `".....................Belne..."`
 `"When things, you know, ......disappear, that's a sign that the witch is close by and watching us...`
@@ -338,8 +338,8 @@
 ` She'll think I hid it again...!"`
 `"She thinks my magic is naught but the work of a child like you...?!`
 ` *cackle*cackle*, very well, then.`
-` I shall simply show her a feat impossible for humans to perform...!"`
-`"I shall show her my magic!!`
+` I shall simply show her a feat impossible for {y:0:Humans}{n:0:humans} to perform...!"`
+`"{i:I shall show her my magic}!!`
 ` Foolish Belne, if that is your name!`
 ` You will regret that you did not heed the warnings given you by my friend!`
 ` This flimsy body of mine will not do the trick! I'm borrowing yours!!`
@@ -353,7 +353,7 @@
 ` I could do nothing but accept the fact that I had lost control over my body......`
 `All of the cells throughout my body felt tingly.`
 ` ......It felt as though my body had been transformed into someone else's.`
-`......I realized that the witch Beatrice was using my body as a vessel to revive for a short period of time...`
+`......I realized that the witch {f:5:Beatrice} was using my body as a vessel to revive for a short period of time...`
 `"......Hmm, very nice.`
 ` That ticklish feeling of the air on my skin... Having a body is simply wonderful!"`
 `Wh‐......what are you trying to do?!`
@@ -421,7 +421,7 @@
 `I see, it's gold because she's the Golden Witch, who gave the Master all of his gold.`
 `And butterflies are scared of spiderwebs.`
 ` ......So, it's a gold butterfly.`
-`The minions of the witch Beatrice...are gold butterflies......`
+`The minions of the witch {f:5:Beatrice}...are gold butterflies......`
 `After flitting into the air, it burst into a shower of gold sparks and disappeared.`
 `Then, the vanished key......went to Belne‐san's locker......`
 `Though it was far away, in the locker of a changing room, I had a vivid understanding of its new state.`
@@ -455,7 +455,7 @@
 `However, she still hadn't noticed.`
 `She probably couldn't even imagine that during the few moments her guard was down...`
 `...just a single key had vanished from the ring...`
-`It's not easy for a human to do things like that.`
+`It's not easy for a {y:0:Human}{n:0:human} to do things like that.`
 `......But, with magic...`
 `With just a little dance of the keys and a butterfly popping, ......it had disappeared.`
 `"Alright, fingertip inspection!`
@@ -503,10 +503,10 @@
 ` I couldn't sleep.`
 `The excitement from the time those keys danced was still there in my fingers...`
 `Is this...`
-`...how Beatrice...`
+`...how {f:5:Beatrice}...`
 `...how witches...`
 `...always feel?`
-`............I have a witch friend called Beatrice.`
+`............I have a witch friend called {f:5:Beatrice}.`
 `{n}She always used to pull pranks on me with her strange magic.`
 `Because I saw this all the time,`
 ` .........I thought I knew what magic was.`
@@ -517,7 +517,7 @@
 `After all......`
 `With a movement of my fingertips,`
 ` .........the key had danced on command.`
-`{n}It was an mysterious, wondrous miracle of magic—something no human could do.`
+`{n}It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.`
 `I still couldn't let go of that excitement...`
 `........................`
 `".........Shannon.`
@@ -568,8 +568,8 @@
 ` ......All this about quitting as a servant was at least understandable.`
 `But she didn't know how to answer after hearing that her roommate wanted to become a witch...`
 `"A witch.`
-` Beatrice.`
-` ......You see, today, Beatrice possessed me and used my body to do magic.`
+` {f:5:Beatrice}.`
+` ......You see, today, {f:5:Beatrice} possessed me and used my body to do magic.`
 ` That unknown world felt so......thrilling.`
 ` It was far, far more thrilling than even the time I learned that I'd been selected as an Ushiromiya family servant."`
 `"It was like learning about a new world.`
@@ -582,7 +582,7 @@
 `But I had understood it with my body.`
 `If I had moved my fingers a different way, the ring could have flown into the air instead of just dancing,`
 ` and I could have turned it into a scurrying lizard instead of a butterfly. ......I could have done anything.`
-`True, Beatrice's magical power was still weak.`
+`True, {f:5:Beatrice}'s magical power was still weak.`
 `It had all happened in the little world behind the backs of the servants filled with the anti‐magic toxin.`
 `However, inside that tiny, short‐lived world, I could have done anything at all.`
 `{n}Beato just happened to settle on making the keys dance and turning one into a butterfly.`
@@ -636,7 +636,7 @@
 ` ......I was able to use it just now because there was still a little left in my fingers.`
 ` ......But if I became a real witch, ......I'd be able to use it whenever and however I wanted......to do anything.`
 ` Now that I've learned how fun this can be,`
-` I don't want to go back to being human.`
+` I don't want to go back to being {y:0:Human}{n:0:human}.`
 ` Being a servant is just too boring.`
 ` So, ......I'm going to become a witch."`
 `"B‐become a witch...`
@@ -669,10 +669,10 @@
 ` Then what will you do instead?"`
 `"I want to be a witch.`
 ` I want to be Beato."`
-`"But I am already Beatrice."`
+`"But I am already {f:5:Beatrice}."`
 `"Your backstory that you're a witch and my friend will remain the same,`
 ` but I'll modify the world so that Beato is me."`
-`"Would I then be a witch who is a friend of Beatrice?"`
+`"Would I then be a witch who is a friend of {f:5:Beatrice}?"`
 `"Pretty much.`
 ` So, from now on, you're a different witch."`
 `"Very well.`
@@ -685,20 +685,20 @@
 ` It is to be my name, after all.`
 ` You had better take your time and think carefully about it.`
 ` *cackle*."`
-`"You'll be Beatrice's friend that she's had since she was young and couldn't use magic yet.`
+`"You'll be {f:5:Beatrice}'s friend that she's had since she was young and couldn't use magic yet.`
 ` It started with you hiding my things to tease me."`
 `"I see.`
-` And when Beatrice finally learns magic, I become a friend on an equal footing with her.`
+` And when {f:5:Beatrice} finally learns magic, I become a friend on an equal footing with her.`
 ` So, I should act like a big sister sort of friend."`
 `"Yeah, like that.`
 ` ......What should we do about how we talk?"`
-`"It seems that "warawa" has become firmly established as the way Beatrice refers to herself.`
+`"It seems that "warawa" has become firmly established as the way {f:5:Beatrice} refers to herself.`
 ` Should I relinquish that to you?"`
 `"Yeah.`
 ` That haughty way of speaking with "warawa" will be mine."`
 `"Hmm, very well.`
 ` Then I shall—no, I can't speak like that any more.`
-` ......Then I need to find a good way to sound like Beatrice's big‐sister‐like witch friend."`
+` ......Then I need to find a good way to sound like {f:5:Beatrice}'s big‐sister‐like witch friend."`
 `"Yeah.`
 ` ......Or should it be...`
 `.........very well."`
@@ -709,7 +709,7 @@
 `"Good point.`
 ` I've got a sort of blood‐red witch look.`
 ` Why not choose a different color for yourself?"`
-`"......When Beatrice wanders the mansion at night, she is often seen dressed in white."`
+`"......When {f:5:Beatrice} wanders the mansion at night, she is often seen dressed in white."`
 `"Of course, ghosts are classically white."`
 `"A white dress...`
 `...on a witch......`
@@ -725,7 +725,7 @@
 `Then the dress should be the exact opposite, pure and clean, to make a nice contrast......`
 `"..............................`
 ` ......How does this form suit me?"`
-`"Is this the form of the new Beatrice?!"`
+`"Is this the form of the new {f:5:Beatrice}?!"`
 `"How beautiful!`
 ` Just like a noble princess!"`
 `"Hmmm...`
@@ -753,9 +753,9 @@
 `Silently, a silvery spider dropped down vertically.`
 `Beato, now in her new form, lightly touched the silver spiderweb that trailed out behind it.`
 `As she did, ......there was a faint sound of flesh burning, and a thin burn was left across her fingers.`
-`Beatrice can't stand spiderwebs.`
+`{f:5:Beatrice} can't stand spiderwebs.`
 `{n}That was one of the weaknesses of the evil spirits Kumasawa‐san spoke of.`
-`Since the witch Beatrice had revived thanks to the power of those evil spirits,`
+`Since the witch {f:5:Beatrice} had revived thanks to the power of those evil spirits,`
 ` she also inherited their weaknesses.`
 `So, the sacred mirror is also one of her weaknesses.`
 `......However, I am unlikely to cross paths with that sacred mirror in the shrine very often.`
@@ -770,7 +770,7 @@
 ` I'll be bad with mirrors whether I invent a story for it or not.`
 `No matter who I want or strive to be,`
 ` ......the only face that will ever show in a mirror...`
-`is the heartlessly pathetic and realistic face of "Yasu".`
+`is the heartlessly pathetic and realistic face of {i:"Yasu"}.`
 `Mirrors, which will always force me to face my shabby reality, are something I always want to avoid.`
 `That's right.`
 ` ......I hate mirrors.`
@@ -787,14 +787,14 @@
 ` I am the Golden Witch!`
 ` I am the ruler of Rokkenjima's night, and the nighttime mansion belongs to me.`
 ` That is where I should be living, is it not?"`
-`"A room for Beatrice?`
+`"A room for {f:5:Beatrice}?`
 ` Haha, isn't it obvious?!"`
 `"Yeah, that's right!`
 ` That wonderful room on the second floor of the mansion......"`
-`"The VIP room of the witch—Beatrice's room!"`
+`"The VIP room of the witch—{i:that} is {f:5:Beatrice}'s room!"`
 `"Oh, so it is.`
 ` From this evening forward, that room in the nighttime mansion shall be my dwelling place...!`
-` Why didn't I think of that myself, hahaha, hehahahahahahahaha...!!"`
+` Why didn't I think of that myself, hahaha, heha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!"`
 `"Then let's go, Beato.`
 ` If we're going to drink tea together, we'll need a much better room than that cramped one."`
 `"Indeed.`
@@ -807,7 +807,7 @@
 ` She was as rigid as a doll.`
 `Looking down at it from this height, it really did look like a small dollhouse...`
 `"Farewell, Shannon.`
-` ......The days I spent as a human, growing our friendship as I attempted to emulate you, were truly fun.`
+` ......The days I spent as a {y:0:Human}{n:0:human}, growing our friendship as I attempted to emulate you, were truly fun.`
 ` ...If I had never learned the joys of magic and awakened as a witch,`
 ` everything would doubtless have remained as it was."`
 ` .........I was your only close friend as well, wasn't I?`
@@ -819,12 +819,12 @@
 ` and embody that ideal as you always have.`
 `Yasu, the stupid, clumsy servant who lost things all the time, no longer exists.`
 `Farewell, Shannon.`
-`When I mature as the witch Beatrice and wander freely about the nighttime mansion,`
+`When I mature as the witch {f:5:Beatrice} and wander freely about the nighttime mansion,`
 ` ......I may bump into you as you do your nighttime rounds.`
 `However, when I meet you again,`
 ` it will not be a reunion.`
 `{n}It will be our first meeting.`
-`After all, though you have heard the rumors about the witch Beatrice, you have never met her......`
+`After all, though you have heard the rumors about the witch {f:5:Beatrice}, you have never met her......`
 `Farewell, Shannon.`
 `Let us meet again sometime and spin up some fun tale.........`
 `"Wait......!!`
@@ -887,21 +887,21 @@
 ` .........me.........`
 ` Oh, I am one yet many.`
 `I have grown tired of playing the servant.`
-` I have grown tired of playing the human!`
-`From this moment forth, from this night forth, I am Beatrice!`
-`The Golden Witch Beatrice, who has lived for a thousand years!`
+` I have grown tired of playing the {y:0:Human}{n:0:human}!`
+`From this moment forth, from this night forth, I am {f:5:Beatrice}!`
+`The Golden Witch {f:5:Beatrice}, who has lived for a thousand years!`
 `Praise me, servants.`
 ` Have fear when you are chosen for the night shift!`
 `On the nighttime island, the mansion is my place, and that is my time...!`
 `Oh, I am one yet many!`
 `Yes, let our world swallow up everything.`
 ` It is like the raging seas!`
-`Well now, let us drink the mysterious moon dry tonight, with this human book as a side dish!`
+`Well now, let us drink the mysterious moon dry tonight, with this {y:0:Human}{n:0:human} book as a side dish!`
 `You call this mystery?`
 ` You call this a locked room?`
-` You call this "a crime impossible for humans"?`
+` You call this "a crime impossible for {y:0:Human}{n:0:human}s"?`
 `Don't make me laugh!`
-` With all these holes and weak points, you call this a crime impossible for humans?!`
+` With all these holes and weak points, you call this a crime impossible for {y:0:Human}{n:0:human}s?!`
 `Is there no splendid locked‐room magic capable of astonishing me?`
 `Oh, not here, not there, not this, not that, all of them pathetic!`
 `It draws out a chuckle, but leaves me unsure which is the side dish, the moon or the book?!`
@@ -923,5 +923,5 @@
 ` All nights on this island belong to me!!`
 `Oh, how refined and pleasant are the days of a witch!`
 `Oh, I am one yet many!`
-` Kihahahahahahhha, hyahhaha!!`
+` Kiha{0}ha{0}ha{0}ha{0}hah{0}hha, hyahhaha!!`
 `Here's to the wonderful world of witches!!`

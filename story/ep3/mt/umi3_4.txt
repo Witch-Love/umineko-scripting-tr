@@ -1,5 +1,5 @@
 `"...I see...`
-` So, not a witch, but a mistress by the name of Beatrice did exist on the island..."`
+` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
 `"......So there can be more than 18 people!`
 ` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
 ` ......That's some big information."`
@@ -17,7 +17,7 @@
 ` Leave me alone."`
 `"Oh, my.`
 ` That is a shame, when the cookies have turned out oh so very delicious.`
-` Cooked so wonderfully it is a shame to waste them on a simple human, truly wonderful cookies."`
+` Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."`
 `"I'll eat some when I feel like it.`
 ` Set it down somewhere over there and get out of here."`
 `"Will that be acceptable?`
@@ -117,8 +117,8 @@
 `And that's what this "Devil's Proof" is.`
 `{n}Therefore, evidence is unnecessary!`
 `Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,`
-` and that a woman named Beatrice is living there.`
-`In order to prove this, one must find this mansion and actually bring Beatrice out of it.`
+` and that a woman named {f:5:Beatrice} is living there.`
+`In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.`
 `That's called actual proof in the human world.`
 `However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.`
 `Because it's impossible to prove that something doesn't exist.`
@@ -182,7 +182,7 @@
 `"Hempel's Raven...??`
 ` What are you talking about?"`
 `"...*cackle*cackle*.`
-` Ah‐hahahahahahahahah‐hahahahah‐hah‐ha...!"`
+` Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
 `Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.`
 `The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.`
 `"Why, if it isn't Milady.`
@@ -324,7 +324,7 @@
 ` it's impossible to prove that all of them have empty boxes.`
 `However, Beato only has to open one box, the 19th box,`
 ` and show that it is empty, to prove that the bomb is in one of the other 18 boxes.`
-` (Furthermore, there's no need for her to show which of the 18 boxes has the bomb!)`
+` (Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!)`
 `I have 18 times more work to do to explain my pet theory than Beato does for hers......`
 `"Just as you know from the "Devil's Proof",`
 ` there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."`
@@ -394,7 +394,7 @@
 `"While yes, I did use the phrasing of a "19th person" to make it easy to understand,`
 ` if I can use the "Devil's Proof" to raise the number of people above 18,`
 ` then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred."`
-`"Always one more than you assume.`
+`"{i:Always one more than you assume}.`
 ` ...Understand?"`
 `She had returned my twisted logic with something even more twisted.`
 `{n}So the only thing that could counter that would be even crazier twisted logic...!`
@@ -422,10 +422,10 @@
 ` you will call a 23rd, a 34th, a 64358223579673204th,`
 ` you think you can trifle with me for all eternity?!"`
 `"I laugh at "infinite regress",`
-` the infinite doesn't affect me!!"`
+` the {i:infinite} doesn't affect me!!"`
 `"Hoh, well then, how will you kill my "infinity"? Just try and show me!!"`
 `"`
-`I have the power to speak the truth in red!!!"`
+`{p:1:I have the power to speak the truth in red}!!!"`
 `".....................!!`
 ` .........Here it comes............"`
 `"When I speak in red, it contains absolutely no illusions.`
@@ -448,7 +448,7 @@
 `{n}...There was no need to be unnecessarily afraid of the red.`
 `".........You've brought out your secret weapon again.`
 ` So...?`
-` What and how will the great Beatrice‐sama speak in red this time?"`
+` What and how will the great {f:5:Beatrice}‐sama speak in red this time?"`
 `"......Hoh.`
 ` What do you mean by this?`
 ` Suddenly looking so relaxed..."`
@@ -469,7 +469,7 @@
 ` Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!`
 ` If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.`
 ` However, this battle will end in my victory!!"`
-`Beatrice's red was truly her secret weapon, her treasured blade.`
+`{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.`
 ` The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.`
 `They had cut me down to size many times now, rending in two any supports my heart had to lean on.`
 `However, if she used it carelessly, then I could also find a little information about the truth.`
@@ -556,7 +556,7 @@
 `{n}I didn't have a good grasp on how to fight, and I was underpowered as an opponent.`
 `However, now that we had reached the third game, she realized that I was starting to become skilled,`
 ` and she had grown more cautious, thinking every move over carefully......`
-`Sure, that's just fine, Beatrice.`
+`Sure, that's just fine, {f:5:Beatrice}.`
 `{n}And sorry to have kept you waiting.`
 `{n}Are you happy now...?`
 `"......Now things are starting to get interesting, right......?`
@@ -602,7 +602,7 @@
 `And that's you.`
 `A person who, as Grandfather's mistress of thirty years,`
 ` has been living secretly in a hidden mansion in the forest for a long, long time.`
-`The Beatrice.........!!`
+`The {i:human} {f:5:Beatrice}.........!!`
 `"That's right.`
 ` You aren't a witch or anything like it.`
 ` ......You're just a human...who's been living on this island in hiding for several decades...!"`
@@ -610,12 +610,12 @@
 ` *cackle*cackle*cackle*...`
 ` ...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?`
 ` ......*cackle*cackle*cackle*cackle*cackle*cackle*!"`
-`For a while, Beatrice continued to laugh unpleasantly, gloating or maybe spiteful.`
+`For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.`
 `"...Are you ready? I'll keep going.`
 ` ...Again, repetition requested."`
 `"‘There are at least 19 people on this island’!"`
 `".............................."`
-`Beatrice fell silent once again.`
+`{f:5:Beatrice} fell silent once again.`
 `The feeling that confirming the number of humans on this island...`
 `might possibly stand to give her some large disadvantage,`
 ` was probably making her extremely cautious.`
@@ -627,7 +627,7 @@
 `needed to be confirmed in red.`
 `That's right.`
 ` She couldn't break the existence of a 19th person unless she used red.`
-`I had closed Beato in, giving her no choice but to speak in red...!`
+`I had {i:closed Beato in}, giving her no choice but to speak in red...!`
 `There really was...`
 `.........a way to fight,`
 ` ......in this witch's game!`
@@ -647,7 +647,7 @@
 `If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.`
 `......But Beato was completely aware that I was expecting it.`
 ` She was afraid that a careless red truth might end up strangling her own neck...!`
-`Because, ...in the first place, a witch was something which should be denied in red.`
+`Because, ...in the first place, a witch was something which should be {i:denied} in red.`
 `Believe.`
 ` Don't doubt!`
 ` Witches don't exist!`
@@ -810,7 +810,7 @@
 `as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...`
 `such was the atmosphere in the room.`
 `"No, umm......`
-` ......Th‐this mistress of Grandfather's, this Beatrice,`
+` ......Th‐this mistress of Grandfather's, this {f:5:Beatrice},`
 ` ......is she really, um,`
 ` .........still alive, I was wondering..."`
 `"Huh?`
@@ -826,7 +826,7 @@
 `......alive."`
 `"Huh?`
 ` ......What did you just say?"`
-`"Beatrice is...`
+`"{f:5:Beatrice} is...`
 `...dead...`
 ` .........I,`
 ` ...I killed her...!"`
@@ -837,7 +837,7 @@
 ` ...I really did kill her...`
 ` I tried to make myself believe it was a dream!!"`
 `"......But......it really wasn't after all!`
-` Which means this is......a letter from Beatrice's ghost!!`
+` Which means this is......a letter from {f:5:Beatrice}'s ghost!!`
 ` Uwaaaaaaaaaaaaaaa!!"`
 `It was so sudden that everyone was lost for words.`
 ` Rosa kept on talking, unable to stop, holding her head as her hair flew all about...`
@@ -850,14 +850,14 @@
 ` First, ...its literal meaning.`
 ` ...And second, it substantiates that our earlier guess was correct."`
 `"Which means......`
-` .........Rosa, ......you have met with Beatrice?"`
+` .........Rosa, ......you have met with {f:5:Beatrice}?"`
 `"I, I've never heard Rosa speak about that once.`
 ` ...Rosa, when was it?`
-` When could you possibly have met Beatrice?!"`
+` When could you possibly have met {f:5:Beatrice}?!"`
 `"Long ago!`
 ` Long, long, long ago!!`
 ` We had just moved over to the island and I was young!!`
-` It wasn't my fault, it's not like I killed her...!!`
+` It wasn't my fault, it's not like {i:I} killed her...!!`
 ` Uuuuuuuuughhhuuu!!"`
 `"...Calm down!`
 ` Nobody's blaming you for anything, alright?`

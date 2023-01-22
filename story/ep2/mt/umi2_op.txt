@@ -117,7 +117,7 @@
 `"Ah, yes...!"`
 `To anyone watching us, we might have seemed like a pretty humorous—and above all embarrassing—couple.`
 `But it's only after becoming a couple that you realize.`
-`This banter means the world to us, and is our world.`
+`This banter means the world to us, and {i:is} our world.`
 `{n}So, no matter how cold the looks we might have been getting from other people, we wouldn't even notice.`
 `......Indeed, at this age, I finally understand the feelings of couples who want to endlessly flirt without any regard to their surroundings.`
 `After I returned with a plate piled up with fried food, Shannon arrived with a lovely cake.`
@@ -250,7 +250,7 @@
 ` A miracle did happen,`
 ` George‐sama."`
 `She stopped at the water's edge, and gazed beyond the sea.`
-`"......A miracle?"`
+`" ......A miracle?"`
 `"No, magic.`
 ` ...It happened."`
 `I was bewildered by that slightly mysterious expression, which I sometimes heard her use.`
@@ -422,4 +422,4 @@
 `"......I kept the promise.`
 ` .........Now, it's your turn to keep your promise.`
 ` ......Please, grant my wish!`
-` Beatrice‐samaaaaaa!!"`
+` {f:5:Beatrice}‐samaaaaaa!!"`

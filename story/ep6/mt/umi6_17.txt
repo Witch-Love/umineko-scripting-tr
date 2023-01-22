@@ -66,10 +66,10 @@
 `"Only when two people are together can a world be born and love fulfilled."`
 `"That is why this duel is necessary."`
 `"So that they can reach that number of people."`
-`"A‐......are you saying that furniture is less than human, and doesn't count as a whole person...?!"`
+`"A‐......are you saying that furniture is less than {y:0:Human}{n:0:human}, and doesn't count as a whole person...?!"`
 `""Correct.`
-` Furniture is less than human.`
-` So furniture and human cannot add up to two.""`
+` Furniture is less than {y:0:Human}{n:0:human}.`
+` So furniture and {y:0:Human}{n:0:human} cannot add up to two.""`
 `"That's insane!`
 ` If two people love each other, their circumstances don't matter!!"`
 `""Oh, yes they do!!""`
@@ -97,7 +97,7 @@
 ` As long as both people feel love, nothing else matters?`
 ` That is a comforting lie of naive love!!"`
 `"We cannot forgive humans who falsely pretend that they have the right to love!!`
-` We cannot permit the love of subhuman beings, of those who do not make up the minimum number of people to create a world!!"`
+` We cannot permit the love of sub{y:0:-Human}{n:0:human} beings, of those who do not make up the minimum number of people to create a world!!"`
 `""That is the purpose of our trial...!!`
 ` To allow sinful souls to regain the soul of a whole person and become capable of true love!!""`
 `"......Zepar‐sama, Furfur‐sama."`
@@ -112,7 +112,7 @@
 ` ......This is a duel to make true love succeed."`
 `"......I......don't understand......what you two are saying...!"`
 `"No, you must understand.`
-` This moment.........marks the birth of a human who is truly capable of loving another person."`
+` This moment.........marks the birth of a {y:0:Human}{n:0:human} who is truly capable of loving another person."`
 `"I don't......understand.........!!!"`
 `"No matter which of them wins, ......please congratulate them.`
 ` ......This is the moment......when their days as furniture......come to an end."`
@@ -205,7 +205,7 @@
 `......Shannon kept her gun pointing at Kanon's forehead as she compared these options until the final moment.`
 `She led her shot, calculating the distance he had already moved and the time it would take to pull the trigger.`
 `.........Lady Luck smiled......impartially.`
-`"......Rrrrrraaaaaaaaaaaaaaaaaaaaaaahhh!!!"`
+`"......Rrrrrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhh!!!"`
 `"D‐damn it!!!"`
 `In a flash, Kanon leapt to within striking distance of Shannon as she missed the final moment to pull the trigger.`
 `He swung his hand up and smashed the gun she held upwards.`
@@ -278,14 +278,14 @@
 ` ......the blood won't stop coming...!"`
 `"Hang in there, Kanon‐kun!!`
 ` Kanon‐kun!!`
-` ......Y‐......Yoshiya‐kuuuuuuuuuun!!!"`
+` ......Y‐......Yoshiya‐kuu{-}u{-}u{-}u{-}u{-}u{-}u{-}uun!!!"`
 `"...................................."`
 `Kanon's face was pale, ......and though his eyes were open, they had lost the light of the living.`
 `......Just as though...`
 `...he was a puppet whose strings had been cut,`
 ` .........he passed away......`
 `"Yoshiya‐kun, Yoshiya‐kun!!`
-` Uwaaaaaaaaaaaaaaaahhh, uwaaaaaaaaaaaaaahhh!!!"`
+` Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh, uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
 `".........So long, Kanon‐kun.`
 ` .........And......thank you."`
 `Jessica dashed up to Kanon's corpse,`
@@ -303,8 +303,8 @@
 `Shannon......leaned against George's chest......as though the strings holding her up had been cut.`
 `George held her in silence......`
 `"Yoshiya‐kun, Yoshiya‐kun!!`
-` Waaaaaaaaaaaaaaaaaaaaaaahhhh.........!!!`
-` Uwaaaaaaaaaaaaaaahhh...aaahh...aahh......"`
+` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh.........!!!`
+` Uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh...aaahh...aahh......"`
 `There was nothing in the golden rose garden except the wind that carried golden flower petals...`
 `...and the sound of Jessica's heartbroken wails......`
 `"......Is your trial for us finished now?"`
@@ -318,7 +318,7 @@
 `"............Of course.`
 ` ......I swear it to her and both of you."`
 `"And now, let Shannon have the miracle of magic."`
-`"Now, your soul will become human.`
+`"Now, your soul will become {y:0:Human}{n:0:human}.`
 ` You will become a full person."`
 `""Come together, incomplete souls...!!`
 ` Become one and know love...!!""`
@@ -358,17 +358,17 @@
 ` That was the purpose of my birth.`
 ` .........So,`
 ` ......I don't really know...`
-`...why I like him......"`
+`...{i:why} I like him......"`
 `"P‐people don't need a reason to fall in love!!`
 ` Don't disappear!!`
 ` If you disappear, who will save Battler?!`
 ` Little sister, Beato!`
-` Beatriceeeeeeeeeee!!"`
+` {f:5:Beatricee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}ee}!!"`
 `............Why...`
 `...is it...`
 `...that I like Battler‐san...?`
-``
-`......“Mother”?`
+`{a:c:`
+`......“Mother”?}`
 `"Well, you know,`
 ` I'm not really a big fan of the domestic type of girl.`
 ` You know me, I'm a rough‐around‐the‐edges kind of guy, right?`
@@ -382,47 +382,47 @@
 `"Huh?`
 ` What would she look like?`
 ` I'm not too picky about that.`
-` But if she did happen to be one of those blue‐eyed blondes with big boobs you see in Western films,`
-` ihhihihihihihi, that'd be awesome.`
+` But if she {i:did} happen to be one of those blue‐eyed blondes with big boobs you see in Western films,`
+` ihhi{0}hi{0}hi{0}hi{0}hihi, that'd be awesome.`
 ` I'd love to rub those boobs!`
-` Wahahahahahaha...!"`
-`Beatrice.`
+` Waha{0}ha{0}ha{0}ha{0}haha...!"`
+`{a:c:{m:-5:―}―{f:5:Beatrice}.`
 `{n}Listen to me.`
 `{n}I am giving you my love for Ushiromiya Battler.`
-`{n}You are to become the kind of woman Ushiromiya Battler desires.`
-`You will have the golden hair he likes.`
+`{n}You are to become the kind of woman Ushiromiya Battler desires.}`
+`{a:c:You will have the golden hair he likes.`
 `{n}You will have the blue eyes he likes.`
 `{n}You will have a personality that matches his.`
 `{n}And then, ......you are to love him in my place,`
-`{n}and if fate allows it, be loved by him.`
-`I.........can no longer love him.`
+`{n}and if fate allows it, be loved by him.}`
+`{a:c:I.........can no longer love him.`
 `{n}Please, take these desires I couldn't bring to fruition,`
 `{n}......these feelings too great for me to bear,`
-`{n}......and see them through yourself.`
-`From this day forward,you are no longer the Rokkenjima ghost that lives only to play pranks.`
-`From this day forward,you will be the master of this island,waiting for the day that he comes to fulfill his promise.`
-`From this day forward, you will do this in my place.`
-`{n}So, from this day forward, you will no longer be me.`
-`Please forgive me for pushing all of my troubles onto you,...while I alone try to find happiness.`
-`From this day forward, you have the right to hate everything.`
-`{n}From this day forward, you are the Golden Witch, Beatrice.`
-`And, one day,`
+`{n}......and see them through yourself.}`
+`{a:c:From this day forward,{n}you are no longer the Rokkenjima ghost that lives only to play pranks.}`
+`{a:c:From this day forward,{n}you will be the master of this island,{n}waiting for the day that he comes to fulfill his promise.}`
+`{a:c:From this day forward, you will do this in my place.`
+`{n}So, from this day forward, you will no longer be me.}`
+`{a:c:Please forgive me for pushing all of my troubles onto you,{n}...while I alone try to find happiness.}`
+`{a:c:From this day forward, you have the right to hate everything.`
+`{n}From this day forward, you are the Golden Witch, {f:5:Beatrice}.}`
+`{a:c:And, one day,`
 `{n}you will destroy everything, revive everything,`
-`{n}......and bring blessings to all lovers.`
-`When that day comes,`
-`{n}......I pray that you and I will both have found happiness.`
-`From this day forward, you will no longer be me.`
+`{n}......and bring blessings to all lovers.}`
+`{a:c:When that day comes,`
+`{n}......I pray that you and I will both have found happiness.}`
+`{a:c:From this day forward, you will no longer be me.`
 `{n}From this day forward, I will no longer be you.`
 `{n}The two of us will split a single soul and share it.`
 `{n}And though, of course, that won't amount to a complete soul...`
-`{n}I'm sure our dreams will be more numerous than most.`
-`Let us be blessed.........`
-`{n}My darling...Beatrice.........`
-`No one else can see your form.`
+`{n}I'm sure our dreams will be more numerous than most.}`
+`{a:c:Let us be blessed.........`
+`{n}My darling...{f:5:Beatrice}.........}`
+`{a:c:No one else can see your form.`
 `{n}But I can.`
 `{n}And if you're loved by a lot of people,`
-`{n}I'm sure they'll all start seeing you too.`
-`see...if we have love......`
+`{n}I'm sure they'll all start seeing you too.}`
+`{a:c:We can all {y:1:‘see’}{n:1:see}...if we have love......}`
 `".........Yoshiya......kun.................."`
 `"...A‐`
 `......are we...`
@@ -450,7 +450,7 @@
 `"......Where...?`
 ` Where did he go?!`
 ` Where's Yoshiya‐kun?!`
-` Yoshiya‐kun, Yoshiya‐kuuuuuuuuuuun!!!!"`
+` Yoshiya‐kun, Yoshiya‐kuu{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}uun!!!!"`
 `".........So long,`
 ` Milady.`
 ` ......No, ............Jessica."`
@@ -477,7 +477,7 @@
 `"What will you do...?"`
 `"......I want to save Battler‐san...from a locked room......"`
 `"A locked room...?`
-` Ha......hahahahahahahaha."`
+` Ha......haha{0}ha{0}ha{0}ha{0}ha{0}haha."`
 `After looking a bit taken aback, Kanon laughed gently.`
 `{n}Beato, who hadn't expected to be laughed at, looked a little sour.`
 `"Wh‐why are you laughing...?`
@@ -513,16 +513,16 @@
 ` Use your magic on me."`
 `"W‐wait......`
 ` I don't even know how......"`
-`"Aren't you Beatrice, the Golden Witch...?"`
+`"Aren't you {f:5:Beatrice}, the Golden Witch...?"`
 `"I am a witch, but.........ummm...`
 ` I don't even know about locked room tricks, much less magic......"`
 `"Good grief......`
-` Okay, listen up, Beatrice.`
+` Okay, listen up, {f:5:Beatrice}.`
 ` .........I'll only tell you this once.`
 ` This is what a witch is."`
 `"What a witch is.........?"`
-``
-`A witch is...`
+`{a:c:`
+`A witch is...}`
 `"Not the one who solves puzzles."`
 `"......Not the one......who solves puzzles......?"`
 `"Yeah, that's right.`
@@ -532,7 +532,7 @@
 `"The Golden Witch I know...`
 `...used insane magic to create puzzles that baffled everyone and sneered at their confusion.`
 ` ......Create a horrible riddle that no one can get, spin everyone around, and bad‐mouth them.`
-` You aren't supposed to clutch your head agonizing over your opponents' puzzles. That's their job."`
+` You aren't supposed to clutch your head agonizing over your opponents' puzzles. That's {i:their} job."`
 `"Agonizing......is my opponents' job......"`
 `"Don't worry about how to get Ushiromiya Battler out of the locked room.`
 ` ......A room locked by a chain?`
@@ -543,13 +543,13 @@
 `"I'm......not the one who agonizes......"`
 `"That's for them to do.`
 ` It's about time they recalled the true terror...`
-`...of Beatrice the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,`
+`...of {f:5:Beatrice} the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,`
 ` tricks that can make even the demons of hell prostrate themselves in shock...!"`
 `".........A locked room.........even more horrific than Battler‐san's..."`
 `"We've already gotten our hands on one, haven't we?"`
 `"A...horrific.........locked...room......"`
-``
-`.........ah...`
+`{a:c:`
+`.........ah...}`
 `In the back of Beato's mind,`
 ` ......images she remembered began to flit by, one after another—`
 `the layout of the mansion, the guesthouse, the rose garden......`

@@ -1,6 +1,6 @@
 `"You idiot!!`
 ` Isn't it obvious?!!`
-` It'll be fun to kill her and see the pained look on your face, why else?!!`
+` {i:It'll be fun to kill her and see the pained look on your face, why else}?!!`
 ` Kuhyahahahahahahaha!!"`
 `"Look, look, don't turn your eyes away, look at it.`
 ` Look look, look look!`
@@ -9,29 +9,29 @@
 `"......Sorry, Battleer.`
 ` It was pretty interesting.`
 ` ...Still, I was just trying to do what Master told me, but it really did work very well!`
-` I hear, after acting soft, you can get a massive rise on that goodwill meter thing, riiight?`
+` I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?`
 ` Kyahahahahahaah!!"`
 `That lonely tone was the sound of the desolate wind blowing by.`
 `{n}The color of the glittering flower petals on the rose bushes was...that of gold.`
 `The group of gold butterflies which had once danced through this golden rose garden like fluttering rose petals...`
 `could no longer be seen anywhere...`
-`The master of the Golden Land is the Golden Witch, Beatrice.`
+`The master of the Golden Land is the Golden Witch, {f:5:Beatrice}.`
 `{n}She could be called inhumane and cruel.`
 ` Arrogant and outrageous.`
-`{n}And also, naive and simple.`
+`{n} And also, naive and simple.`
 `That laugh of hers, which lost its grace more and more the longer it continued, ......could no longer be heard.`
-`The Golden Witch Beatrice...`
+`The Golden Witch {f:5:Beatrice}...`
 `sat like a doll, resting in a deck chair adorned as beautifully as the golden rose garden.`
 `......She wasn't relaxing there.`
 `Empty‐eyed,`
 ` never responding to any questions,`
 ` and yet still not permitted to sleep,`
-` Beatrice was sitting there as if she was a doll......`
-`Her hair was down, and Virgilia was carefully fixing it up with a comb.`
-`If Beatrice had been complaining about this and that regarding her hairstyle,`
+` {f:5:Beatrice} was sitting there as if she was a doll......`
+`Her hair was down, and {f:5:Virgilia} was carefully fixing it up with a comb.`
+`If {f:5:Beatrice} had been complaining about this and that regarding her hairstyle,`
 ` then it would have been clear that she was the usual Beato.`
 `......However, she gave no responses, and showed no reactions.`
-`{n}So instead, it only looked like Virgilia was combing the golden hair of a large doll...`
+`{n}So instead, it only looked like {f:5:Virgilia} was combing the golden hair of a large doll...`
 `Alongside them, there was a table.`
 `On it was a chessboard...along with a mix of black and white pieces in an all‐out battle.`
 `However, something about this setup looked different from normal chess.`
@@ -62,7 +62,7 @@
 `So she must have heard.`
 `{n}However, ......his words probably hadn't reached her heart.`
 `The Golden Witch would no longer sneer at Battler's moves, nor would she praise them or belittle them.`
-`Beatrice was no longer......anything more than a living doll.`
+`{f:5:Beatrice} was no longer......anything more than a living doll.`
 `Even so, she would glance at him every once in a while. It would be an empty glance, but a glance nonetheless.`
 `Sometimes, she would seem to make some sort of gesture or even move her lips.`
 `However, her movements were never able to communicate anything to Battler......`
@@ -86,13 +86,13 @@
 ` I don't understand your moves."`
 `"............`
 ` ......So, her thoughts don't make any sense to you?"`
-`Virgilia answered in her disciple's stead.`
+`{f:5:Virgilia} answered in her disciple's stead.`
 `Up to this point, she had done her best to avoid speaking for Beato.`
-`{n}After all, there was a chance that Beato would respond in some way, and Virgilia didn't want to be the one to take that opportunity away from her.`
+`{n}After all, there was a chance that Beato would respond in some way, and {f:5:Virgilia} didn't want to be the one to take that opportunity away from her.`
 `......Which meant that Battler was being forced to bear with this silence...`
 `...until Beato herself answered.`
-`Virgilia could no longer bear to watch him like this...`
-`And Battler, too, wanted to have a conversation with Virgilia,`
+`{f:5:Virgilia} could no longer bear to watch him like this...`
+`And Battler, too, wanted to have a conversation with {f:5:Virgilia},`
 ` with faith that their words would reach Beato's heart......`
 `"Yep.`
 ` I don't have a clue.`
@@ -106,9 +106,9 @@
 `"Even so, you won't give up, will you."`
 `"Yeah.`
 ` .........I promised."`
-``
+`{a:c:`
 `Kill...me.`
-` ......Let me die......`
+` ......Let me die......}`
 `"I promised to let her die peacefully.`
 ` ......And I'm the only one who can do that."`
 `...Beato's right ankle was bound with a heavy, cold, steel shackle.`
@@ -146,7 +146,7 @@
 `She was nothing more than a living doll who had given up on victory, asked Battler to perform her last rites,`
 ` and entrusted everything to him...`
 `Of course, no fifth game would ever be prepared if everyone just sat around.`
-`So, Lambdadelta had succeeded Beato as the Game Master,`
+`So, {f:5:Lambdadelta} had succeeded Beato as the Game Master,`
 ` and proclaimed that she would prepare the next game.`
 `"Quit messing around.`
 ` This game is between me and Beato.`
@@ -168,7 +168,7 @@
 `".........Beato's game has repeated four times, and you still don't understand anything, right?`
 ` In that case, I think that changing the player might lead to some huge hints."`
 `"That's none of your business!`
-` This is our game! Beato prepared it, and she designated me to be her opponent in it.`
+` This is {i:our} game! Beato prepared it, and she designated me to be her opponent in it.`
 ` I don't know what hole you two crept out of, but I don't want you screwing things up!"`
 `".........In that case, wake Beato up and make her get the next game ready.`
 ` Can you...?"`
@@ -177,10 +177,10 @@
 ` Just the four games she's already laid out are more than enough!"`
 `"Even if there is to be a fifth game, it just needs to be something that Beato lays out and I challenge.`
 ` You two have absolutely nothing to do with this!"`
-`Battler couldn't hide his irritation at these two witches called Bernkastel,`
+`Battler couldn't hide his irritation at these two witches called {f:5:Lambdadelta} and {f:5:Bernkastel},`
 ` who had shown up after the game's start and who had started to try and continue it on their own...`
 `It looked like these witches were of an even higher rank than Beato—`
-`so high, in fact, that even Beato's master Virgilia couldn't come close.`
+`so high, in fact, that even Beato's master {f:5:Virgilia} couldn't come close.`
 `Battler had the feeling that he'd seen these two several times before.`
 `However, this was the first time he had learned their names and spoken to them directly.`
 `"You can't get the next game ready without waking Beato.`
@@ -192,10 +192,10 @@
 ` It really ticks me off."`
 `"We really don't care whether you get bored or not."`
 `"Come on now.`
-` Leave everything to <perfect> Lambdadelta‐sama, okay?`
+` Leave everything to <perfect> {f:5:Lambdadelta}‐sama, okay?`
 ` I'll take over as the Game Master."`
-`"Don't worry, I won't play with too much "certain perfection".`
-` I'll act all Beato‐like and prepare plenty of clues, bonus hints, and fakes that make no sense.`
+`"{f:5:Don't worry}, I won't play with too much "certain perfection".`
+` I'll {i:act all Beato‐like} and prepare plenty of clues, bonus hints, and fakes that make no sense.`
 ` I'll make it into one big hint to help you understand Beato's world even more, okay?"`
 `Letting my voiceless emotions explode, ...I slammed the table hard.`
 `The two witches barely flinched.`
@@ -215,15 +215,15 @@
 `"Hmmm...`
 ` ......Then it really is loss by default, right...?`
 ` The witch side wins this game,`
-` the humans submit, and we wrap things up, then...?"`
+` the {y:0:Human}{n:0:human}s submit, and we wrap things up, then...?"`
 `".........If you step down, then you lose by default and the game ends... Are you okay with that?`
 ` .........If you want to make certain that your lonely sister...`
 `will always meet with miserable circumstances in an endless number of worlds, that option is indeed open to you."`
-`When Bernkastel mentioned Ange, .........Battler's expression changed instantly.`
+`When {f:5:Bernkastel} mentioned Ange, .........Battler's expression changed instantly.`
 `"H‐......how dare you...`
 `talk about Ange so casually......"`
-`".........It's because you have me, the Witch of Miracles Bernkastel, as your ally,`
-` ...that there exists the possibility of a miracle in which Ange's family might come home to her."`
+`".........It's because you have me, the Witch of Miracles {f:5:Bernkastel}, as your ally,`
+` ...that there exists the possibility of a {i:miracle} in which Ange's family might come home to her."`
 `"Well, if you throw that chance away yourself, guaranteeing that Ange's endless futures will all end in sorrow, that might be pretty interesting for me too."`
 `I vaguely understood what she was saying.`
 `Until I win in Beato's game, I'll remain trapped in this bizarre world.`
@@ -236,7 +236,7 @@
 ` Did you already forget the anger you felt when your sister was turned into mincemeat......?"`
 `"That spectacle where she was torn to bits, ripped to pieces by countless red‐hot pliers.`
 ` Do you need to look at it directly this time......?"`
-`Bernkastel faced the palm of her right hand upwards.`
+`{f:5:Bernkastel} faced the palm of her right hand upwards.`
 `{n}...As she did, a pale light gathered there, ......and some kind of blue‐glowing crystal appeared there.`
 `......A scene was reflected on its sharp surface,`
 ` ...but it wasn't the scene that surrounded them now.`
@@ -249,7 +249,7 @@
 `Without thinking, he grabbed at her collar,`
 ` but as soon as he touched whatever made up her form, it disappeared like foam on the waves.`
 `And then, as naturally as though she had been there from the beginning,`
-` Bernkastel was leaning against a distant wall.`
+` {f:5:Bernkastel} was leaning against a distant wall.`
 `".........If you step down from the game,`
 ` this will become not just a fragment, but a definite reality.`
 ` I won't be the one to weave that future.`
@@ -257,7 +257,7 @@
 ` ......So you decide, alright?`
 ` Figure out what you want to do with your beloved little sister's future."`
 `Battler's fists shook with anger,`
-` ......but even if he swung them down, he wouldn't be able to hit Bernkastel.`
+` ......but even if he swung them down, he wouldn't be able to hit {f:5:Bernkastel}.`
 `Like a cat or a phantom, this witch wouldn't even let someone pet her if she didn't wish for it.`
 `Besides, ...she's telling the truth.`
 `{n}For Ange's sake, I can't step down from this fight.`
@@ -277,7 +277,7 @@
 ` Fight for Ange's sake, okay?`
 ` And for Beato's too, right...?"`
 `In a way that was admonishing, ...or perhaps babying,`
-` ......Bernkastel smiled, tormenting Battler in a similar way to how something too sweet sometimes gives you a headache.`
+` ......{f:5:Bernkastel} smiled, tormenting Battler in a similar way to how something too sweet sometimes gives you a headache.`
 `The host of this tea party, Beato, was absent now,`
 ` ......and the guest witches were already making themselves at home.`
 `"...What'll you do, Ushiromiya Battlerr?`
@@ -302,9 +302,9 @@
 `"Oh, I will.`
 ` ......Hey, where are you goi~ng?"`
 `Even though Battler had acknowledged this fifth game, he turned his back on them,`
-` which surprised Lambdadelta a bit.`
+` which surprised {f:5:Lambdadelta} a bit.`
 `"If you're going to be Beato's substitute,`
-` ......then I'm sure that Bernkastel witch over there can be mine if she wants."`
+` ......then I'm sure that {f:5:Bernkastel} witch over there can be mine if she wants."`
 `".........Not a bad idea.`
 ` Otherwise, this'll turn into a loss by default."`
 `"What the heck?!`
@@ -318,18 +318,18 @@
 `"......What's wrong, Lambda?`
 ` If your opponent is me and not that fool Battler, you won't play...?"`
 `"Ehheheheheh!!`
-` Of course I will♪`
+` Of course I will{p:0:♪}`
 ` I'm glad I get to play with you, Be~rn!`
 ` Come on, let's play, let's play!`
-` Let's play together in Lambdadelta‐sama's super <hyper> and <cute> Episode 5~!"`
+` Let's play together in {f:5:Lambdadelta}‐sama's super <hyper> and <cute> Episode 5~!"`
 `".........This is a world that Beato created, remember.`
 ` You aren't going to ruin the atmosphere of the story, are you...?"`
 `"Don't worry about that.`
 ` I'm really good at reading between the lines for that sort of stuff.`
-` I made sure to use a Beato‐ish atmosphere more interesting story."`
+` I made sure to use a Beato‐ish atmosphere {i:and} I made it into an even {i:more} interesting story."`
 `"Battler, make sure you come back as soon as your break's over, okay?`
 ` It'd be a shame to miss this.`
-` I've prepared plenty of bonus hints that'll get you closer to Beato's secre~t♪"`
+` I've prepared plenty of bonus hints that'll get you closer to Beato's secre~t{p:0:♪}"`
 `"...Is what it'll look like but I'll actually fill it with misdirection and make things more and more confusi~ng.`
 ` Wait, hey, Battlerr! Why aren't you listening when a witch is talking?!"`
 `Without answering, Battler disappeared into the darkness.`
@@ -341,11 +341,11 @@
 `"............`
 ` ...What do you mean, things she wouldn't do?"`
 `"The materials of chess exist to play chess with.`
-` You cannot use them to play cards.`
+` You {i:cannot} use them to play cards.`
 ` However, as for throwing the chess pieces at your opponent, or scribbling on the board..."`
 `"Doing such things is not impossible.`
 ` However, that would be blasphemy against the game of chess,`
-` so people don't do that."`
+` so people {i:don't do that}."`
 `"....................."`
 `That definitely......wouldn't be chess anymore.`
 `{n}It looked like Beato's eyes clouded very slightly with sadness.`
@@ -381,12 +381,12 @@
 ` ......As a man,`
 ` ......perhaps one could say it was dishonorable."`
 `I understood what those words meant.`
-`When I met Virgilia's eyes, she shook her head slightly and stared at the floor...`
+`When I met {f:5:Virgilia}'s eyes, she shook her head slightly and stared at the floor...`
 `".........At a glance, I believe it resembles Milady's games greatly.`
 ` However, the foundation is very different."`
 `"Does it go against the rules of Beato's game?"`
 `"No, it does not.`
-` Lambdadelta‐sama understands the rules of Milady's game very well indeed.`
+` {f:5:Lambdadelta}‐sama understands the rules of Milady's game very well indeed.`
 ` ......However..."`
 `".................."`
 `Battler stood up.`
@@ -419,7 +419,7 @@
 ` ......That's right.`
 `{n}If she can't respond, ...then I have to protect it in her place.`
 `"I'll be right back.`
-` ......Virgilia, Ronove.`
+` ......{f:5:Virgilia}, Ronove.`
 ` ...I'm counting on you two to look after this golden sleeping princess."`
 `"Yes. Leave it to us."`
 `"......See you later, Battler‐kun.`
@@ -471,13 +471,13 @@
 `"............It was you?!`
 ` You killed George, killed my husband?!`
 ` Why?!!`
-` Whyyyyyyyyyyyyyyyy?!!"`
+` Whyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy?!!"`
 `"I, ...I didn't kill anyone...!`
 ` I, I, d‐didn't do...!!"`
 `"....................."`
 `In a panic, and with a voice that really couldn't be called flowing,`
 ` ......in a manner that was, to put it coldly, unsightly...Aunt Natsuhi denied the suspicion placed upon her...`
 `However, ......there was no longer any way around it...`
-`The girl stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.`
+`{i:The girl} stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.`
 `"......You are the culprit.`
 ` Ushiromiya Natsuhi‐san."`

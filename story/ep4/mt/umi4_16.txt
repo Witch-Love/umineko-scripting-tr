@@ -45,7 +45,7 @@
 `......But if I don't open it, it will surely be against the rules, and Dad, Kanon‐kun, Shannon, Auntie Kyrie, and Doctor Nanjo...`
 `will be killed.`
 `............There's no way the scales balance between five lives and my own one life.`
-`Jessica tightly shut her eyes, resisting the other part of herself which said "Isn't it alright as long as I survive?",`
+`Jessica tightly shut her eyes, resisting the other part of herself which said "Isn't it alright as long as {i:I} survive?",`
 ` ......headed to the door, and made to unlock it.`
 `......Just then.`
 `Clap, clap, clap......`
@@ -58,8 +58,8 @@
 `I, the owner of this room,`
 ` ......had searched to make sure there was nowhere any human could have been hiding...`
 ` .........Where had this...man...`
-`.........There was nowhere for a human to hide,`
-` ......but could something that wasn't human have managed it.........?`
+`.........There was nowhere for a {y:0:Human}{n:0:human} to hide,`
+` ......but could something that wasn't {y:0:Human}{n:0:human} have managed it.........?`
 `I was pretty sure this was my first meeting with this largely built, middle‐aged man.`
 ` ......I did not recognize this guy, who looked like a butler and bore the seal of the One‐winged Eagle.`
 `"A pleasure to meet you, Jessica‐sama.`
@@ -72,7 +72,7 @@
 ` ......Perhaps you could even say he was a vessel."`
 `".........What's...this guy...saying.........?"`
 `"Oh, my apologies.`
-` This is not something that can be explained to a human.`
+` This is not something that can be explained to a {y:0:Human}{n:0:human}.`
 ` .........Well then, let us move on to the main event."`
 `"So this is that old crackpot's...`
 `...test or whatever........."`
@@ -97,7 +97,7 @@
 `He had been planning to give Shannon the ring that would be proof of their engagement...here, tonight, at this time...if things had gone normally.`
 `...But the woman in front of George now was not Shannon.`
 `"......Read it.`
-` That is Goldsmith's test for you."`
+` That is {f:5:Goldsmith}'s test for you."`
 `".............................."`
 `George picked up the Western envelope on the table where he had once drunk tea with Shannon,`
 ` and read its contents......`
@@ -112,7 +112,7 @@
 `".........What a...stupid question."`
 `"I agree.`
 ` It really is a stupid question.`
-` .........In that case, isn't the Ushiromiya family headship something just as trivial in Goldsmith's eyes?`
+` .........In that case, isn't the Ushiromiya family headship something just as trivial in {f:5:Goldsmith}'s eyes?`
 ` ......Heheheh."`
 `George lowered his eyes to the surface of the letter once again, and examined its contents......`
 `George and Jessica.`
@@ -130,12 +130,12 @@
 `"Don't be naive.`
 ` ......The one you choose will definitely lose their life."`
 `"......................................."`
-`Among the three mentioned below.`
+`{a:c:{e:070:Among the three mentioned below.`
 `{n}In order to gain two, sacrifice one.`
-`{n}1. Your life`
+`{n}{n}1. Your life`
 `{n}2. Shannon's life`
 `{n}3. Everyone else's lives`
-`{n}If you do not choose one, all of the above will be lost.`
+`{n}{n}If you do not choose one, all of the above will be lost.}}`
 `"...............Why is Shannon's name here?"`
 `"The second choice has the name of the one most needed by that person, and most loved.`
 ` ......I believe Kanon's name is written second on Jessica's test."`
@@ -155,11 +155,11 @@
 ` Or will you give up on the one person you love so that you can save as many people as possible?"`
 `"Either way, you can fit it with an appropriate just cause.`
 ` After all, this Rokkenjima is now a demon island.`
-` ......The sickly sweet buddy‐buddy pretense of the human world is not necessary.`
+` ......The sickly sweet buddy‐buddy pretense of the {y:0:Human}{n:0:human} world is not necessary.`
 ` No one will blame you.`
 ` Do as your heart desires."`
 `"......While asking yourself whether you possess the fitting qualifications to succeed the headship of the Ushiromiya family...`
-` No, make your decision as though you yourself are the Ushiromiya family head.`
+` No, make your decision as though you yourself {i:are} the Ushiromiya family head.`
 ` Ehheheheheh......"`
 `".........................................."`
 `".........What.........the hell do you take me for............"`
@@ -173,7 +173,7 @@
 `"No, Jessica‐sama.`
 ` Such a person could exist."`
 `"This is Rokkenjima, the demon island!`
-` It is now completely cut off from the human world and dunked fully into the netherworld like cheese fondue.`
+` It is now completely cut off from the {y:0:Human}{n:0:human} world and dunked fully into the netherworld like cheese fondue.`
 ` The values of the human world will be taken out with the trash."`
 `"Pu ku ku!`
 ` So please.`
@@ -192,14 +192,14 @@
 `"Da‐......damn iiiiiiiiiiiiiiiiittt......"`
 `That scene was being observed through a magic crystal ball being held by Kinzo.`
 `Kinzo finally couldn't hold it back; spreading his arms and facing the heavens, he began laughing in an explosive voice......`
-`"Fuhahahahahahaha, waahhahhahahahahahahahahaha!!`
+`"Fuhahahahahahaha, waahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` Why do you hesitate, foolish grandchildren and descendants of mine!!"`
 `"This is a simple problem that can be answered immediately!`
 ` It should cause less vacillation than whether to put butter or jam on your morning toast!!`
 ` ......Do you people know the correct answer?"`
 `He turned and stared wide‐eyed at the Chiester Sisters, who had been faithfully standing in wait behind him.`
-`"N‐no, no, my apologies, I don't know, Lord Goldsmith!"`
-`"Fool, not choosing at all means GAME OVEEEEEEEEEEEER!!!`
+`"N‐no, no, my apologies, I don't know, Lord {f:5:Goldsmith}!"`
+`"Fool, not choosing at all means GAME OVEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEER!!!`
 ` You foolish rabbit, who cannot even choose a reason or a goal for her own life...!!"`
 `"You have not the value of a single ant that anyone might step upon without even noticing!!`
 ` Die! Be crushed!! Disappear faster than I can blink!!`
@@ -213,7 +213,7 @@
 ` The immediate reply is very nice.`
 ` ......Have you been taught that you'll be given an extra carrot for answering that way?`
 ` Heheheheh, that's not it, is it noowwwwww?`
-` Even that isn't it, is it nowwwwwwwwwww...?"`
+` Even that isn't it, is it noww{-}w{-}w{-}w{-}w{-}w{-}wwww...?"`
 `"You are merely answering the way you have been told to answer, repeating the answer you have been indoctrinated with!!`
 ` You are the same as that other rabbit a second ago.`
 ` You still live without having chosen a purpose or a goal to live for...!!`
@@ -254,16 +254,16 @@
 ` Try and choose it, try and choose to have the one you loved forgotten!!!!!!"`
 `"You can, right?`
 ` I'll bet you can, riiiiiiiight?`
-` Cooooome onnnnn, try saying that you caaaaaaaaaaan!!!!"`
+` Cooooome onnnnn, try saying that you caa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan!!!!"`
 `"I, ...I, I can...`
 ` I can...!!`
-` Nihi, .........nihihihihihihihihihiiihii......"`
-`"L‐Lord Goldsmith...!`
+` Nihi, .........nihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hiiihii......"`
+`"L‐Lord {f:5:Goldsmith}...!`
 ` Please, have mercy on her......!!"`
 `"Hihiiihiii...`
 ` ......Hiiiiiiiiiiiiiiiiiiinn...!!"`
 `"That is enough, rabbit filth!!`
-` Go to Virgilia and help keep watch on the dungeon.`
+` Go to {f:5:Virgilia} and help keep watch on the dungeon.`
 ` Begone!!"`
 `The Chiester Sisters, their old emotional wounds gouged,`
 ` disappeared as though running away.`
@@ -284,7 +284,7 @@
 ` Because I splendidly answered that devil's question, I was able to claim gold, honor, and that witch herself as my own."`
 `"Which answer did I chooooose?`
 ` .........Do I really need to say it out loud?`
-` Wahhahhahahahahahahahahahahahahahaha...!!!"`
+` Wahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"`
 `"So.`
 ` Have you decided on your answer......?"`
 `"................................."`
@@ -326,7 +326,7 @@
 `"Process of elimination, ......is it.`
 ` So it was not something you chose proactively, you say......"`
 `After chuckling slightly, Ronove dropped his gaze.`
-`......A human couldn't even imagine what kind of answer a demon would have been hoping for.`
+`......A {y:0:Human}{n:0:human} couldn't even imagine what kind of answer a demon would have been hoping for.`
 `......All she could understand was that this was apparently slightly below Ronove's expectations.`
 `"......It's not a bad answer, but I must say, it's not a good one either.`
 ` ......I suppose I would call it a 60.`
@@ -336,7 +336,7 @@
 ` ...Either way, it is a failing grade, ......but it seems that there is a little more to your thoughts.`
 ` Allow me to ask."`
 `"I don't want to die.`
-` ......So I didn't want to choose the first one—no one would.`
+` ......So I didn't {i:want} to choose the first one—no one would.`
 ` ......People struggle as much as life will let them, 'cause they want to live in happiness.`
 ` So normally, the first choice should be impossible from the beginning."`
 `".........However, you took that first choice.`
@@ -393,7 +393,7 @@
 ` What shall I tell him...?"`
 `‘......Tell Kanon‐kun...to live his life to the fullest.`
 ` ......No, that's not quite it.`
-` Not his life...not Kanon‐kun's life.`
+` Not his life...not {i:Kanon‐kun's} life.`
 ` ......Even now I can't get him to tell me his real name,`
 ` but tell him to live the real Kanon‐kun's life to the fullest.`
 ` .........Tell him that.’`
@@ -415,7 +415,7 @@
 ` ......My......deepest apologies..."`
 `Krauss looked at Kanon with a complicated expression that had an awkward smile mixed in.`
 `{n}......Kanon couldn't meet his eyes.`
-`"......Virgilia‐sama.`
+`"......{f:5:Virgilia}‐sama.`
 ` ......There is no reason for Milady to lose her life.`
 ` ......Please kill me.`
 ` Please change it to the second choice.`
@@ -423,20 +423,20 @@
 `"Hohhohohohohoho...`
 ` I am not capable of granting that wish.`
 ` ......After all, this is Jessica's own decision, which she chose."`
-`Suddenly, the air split, and the Chiester Sisters appeared, flying into Virgilia's chest.`
-`"Virgilia‐samaaaaaaaaaaaa!`
+`Suddenly, the air split, and the Chiester Sisters appeared, flying into {f:5:Virgilia}'s chest.`
+`"{f:5:Virgilia}‐samaaaaaaaaaaaa!`
 ` Hiieeehheiiiiih!!"`
-`"So mean, so mean, Lord Goldsmith is so meeeeeaan, wahhhnhaaaan0haahaahhhn!"`
+`"So mean, so mean, Lord {f:5:Goldsmith} is so meeeeeaan, wahhhn{0}haaaan{0}haahaahhhn!"`
 `"I'm......doing the best I can......`
 ` Crushing me for animal fodder...that's just too much.`
 ` ......Uuuuuuuughhuhhuu!!"`
-`Still without a clue what was going on, Virgilia was smothered by the sobbing Chiester Sisters.`
+`Still without a clue what was going on, {f:5:Virgilia} was smothered by the sobbing Chiester Sisters.`
 `"Th‐there, there. Everything's alright, it's alright. Don't cry, don't cry......`
 ` I'll make you some delicious tea......"`
 `"......I'm leaving it up to all of you to guard this place.`
 ` If they do anything suspicious, inform me immediately...!"`
 `The goat attendants all looked at each other, and nodded their heads.`
-`Virgilia took the Chiester Sisters and left.`
+`{f:5:Virgilia} took the Chiester Sisters and left.`
 `The sound of people going up a set of stairs could be heard, so they had probably gone to an upper floor.`
 `".........This is our chance.`
 ` ......These goat‐heads seem to be stupid.`
@@ -454,7 +454,7 @@
 ` Wrooggh!!`
 ` Graaah!!"`
 `Realizing that his daughter would be killed, Krauss repeatedly body‐slammed the metal bars, going half‐mad.`
-`The goats looked like they were sneering at how a mere human didn't stand a chance at breaking those bars.`
+`The goats looked like they were sneering at how a mere {y:0:Human}{n:0:human} didn't stand a chance at breaking those bars.`
 `And, true, Krauss's pointless effort might have been comical.`
 `......But Krauss was giving it everything he had.`
 ` As Jessica's father, he was living in that moment with everything he had, so that he could save her.`
@@ -462,7 +462,7 @@
 `If he used his cursed power, he might be able to cut through even metal bars.`
 `......But there were a full three goats.`
 ` ...There was no way he could defeat three of them in an instant.`
-` It would instantly be reported, and then Virgilia and even the Chiester Sisters would dash in.`
+` It would instantly be reported, and then {f:5:Virgilia} and even the Chiester Sisters would dash in.`
 `Though he may be able to break the bars, ......he could do nothing more.`
 `{n}......It was useless.`
 `......Kanon knew already that the witch was sneering at that kind of useless effort,`
@@ -489,8 +489,8 @@
 ` ............Among the three mentioned below.`
 ` In order to gain two, sacrifice one."`
 `"1. Your life.`
-` 2. Shannon's life.`
-` 3. Everyone else's lives.`
+` {nobr:2. Shannon's} life.`
+` {nobr:3. Everyone} else's lives.`
 ` .........Which have you chosen?`
 ` Could it be the first one, like Jessica?"`
 `".........No."`
@@ -553,17 +553,17 @@
 ` .........Yes, if I really think about it, this was an easy decision for you."`
 `"After all, your parents were already killed on the first twilight, right?`
 ` By now, there's no one whose death would bother you.`
-` Hahhahahahahahaha, I see, this was an easy choice.`
-` Ahahahahahahahaha......"`
+` Hahha{0}ha{0}ha{0}ha{0}ha{0}haha, I see, this was an easy choice.`
+` Ahaha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
 `"You can say whatever you want.`
 ` This is my determination and my choice, ......personally, and as the next family head."`
 `The sparkle in George's eyes was brilliant and sharp.`
 `...For just an instant, Gaap felt the same sense of intimidation that Kinzo exuded, and was slightly overpowered.`
 `".........I see.`
-` ......So, the same answer as Goldsmith......`
+` ......So, the same answer as {f:5:Goldsmith}......`
 ` ......Despite your innocent face, ......you're going to become a terrible demon in the future.`
 ` ......What do you know, we might get along pretty well."`
-`"You will succeed Goldsmith.`
+`"You will succeed {f:5:Goldsmith}.`
 ` And maybe one day, I may even be summoned eventually and serve you.`
 ` ......That might be surprisingly interesting.`
 ` .........Heheh."`
@@ -576,7 +576,7 @@
 ` So I answered based on the premise that I am the head."`
 `".........No, even that's not it.`
 ` I thought as the head himself.`
-` ......Right now...I am the head of the Ushiromiya family."`
+` ......Right now...I {i:am} the head of the Ushiromiya family."`
 `".......................................`
 ` Ehheheheheh......`
 ` I'm impressed... I didn't expect you to be able to say so much."`
@@ -594,7 +594,7 @@
 ` When that is done, I will bring you the other hostages.`
 ` Execute each of them except Shannon before her eyes!`
 ` You can do it, right?!"`
-`"I can.`
+`"{i:I can}.`
 ` My resolve is on a whole different level from yours."`
 `"...........................mngh.`
 ` Then carry it out!`
@@ -701,7 +701,7 @@
 ` Below the right armpit.`
 ` Side of the right knee.`
 `As Gaap danced and spun like a small cyclone,`
-` she kept hitting him, left foot, with successive roundhouse kicks.`
+` she kept hitting him, {nobr:right foot} {nobr:left foot} {nobr:right foot} {nobr:left foot}, with successive roundhouse kicks.`
 `The fourth one became a sweep, cutting George's feet out from under him and making him fall down,`
 ` but of course, there was no floor there, but a pitch‐black hole, and George was swallowed up once again.`
 `Gaap once again spun around like a small cyclone.`
@@ -737,7 +737,7 @@
 ` ......If you're going to call yourself Kinzo's successor, try showing me some of his majesty!"`
 `"......Come on, how long are you going to lie there?`
 ` Stand up.`
-` If you don't, you'll fall again, see?"`
+` If you don't, you'll {i:fall} again, see?"`
 `"Pu ku ku ku.`
 ` Not bad movements.`
 ` But I feel they are somewhat unsuitable for a lady."`
@@ -800,7 +800,7 @@
 `"I am, after all, a demon.`
 ` I am at least capable of this level of magic.`
 ` .........I must say, though, you are quite good.`
-` If I were a human, I am sure that this is where I would have admitted defeat.`
+` If I were a {y:0:Human}{n:0:human}, I am sure that this is where I would have admitted defeat.`
 ` It is because I am a demon that I can still continue to fight."`
 `"Y‐......you frigging cheater.........!"`
 `"Is that all?`
@@ -809,14 +809,14 @@
 `"......Waaah!!"`
 `Ronove pounded his palm into Jessica's stomach, stopping abruptly just a fraction away.`
 `Jessica was repelled by the purple shield, tumbled backwards, and smashed her head on the bed.`
-`"My shield cannot be broken by a mere human.`
+`"My shield cannot be broken by a mere {y:0:Human}{n:0:human}.`
 ` I suggest that you never again dream of being able to touch my body."`
 `"......In that case, ......I'll just punch straight through that shield......!!"`
 `"You are a dauntless person.`
 ` That tenacity...yes, it is truly fitting for the next family head.`
 ` ......Why don't I be your opponent for just a while longer.`
 ` This is one of the privileges of an examiner.`
-` .........Pukkukukukukuku!"`
+` .........Pukku{0}ku{0}ku{0}ku{0}kuku!"`
 `"SHATTER TO PIECEEEEEEEES, IIIAAAAAAAAAAAAAAHHHH!!"`
 `Gaap looked down on George, sneering.`
 `{n}He was lying face‐down in a puddle on the rose garden path.`
@@ -984,7 +984,7 @@
 `".........Armada com martelo.`
 ` ......Orbital blowout fracture with the first strike.`
 ` Cerebral contusion with the second strike."`
-`"..................———...!!!"`
+`"..................{m:-5:——}—...!!!"`
 `Gaap was too shocked to speak.`
 `George had closed all that distance in an instant, and let off a fearsomely nimble midair double kick.`
 `......Furthermore, with the accuracy and edge of a razor, it had cut nothing more than a few of her bangs.`
@@ -1026,7 +1026,7 @@
 `".........Reinforcements?`
 ` I wonder if I should take this to mean that you retract your statement about me being weak."`
 `"I, ......I admit it.`
-` ......I made light of your power...the power of humans......"`
+` ......I made light of your power...the power of {y:0:Human}{n:0:human}s......"`
 `"No.`
 ` This is the strength of a man who has come to know love."`
 `"Wh‐what tripe... How can you say stuff like that with a straight face?!!`
@@ -1146,13 +1146,13 @@
 `"Y‐.........yes!`
 ` It's to the left at the back...to the left at the back......!"`
 `"Let's go, everyone.`
-` ......We'll be noticed by Virgilia‐sama any time now."`
+` ......We'll be noticed by {f:5:Virgilia}‐sama any time now."`
 `"You two...`
-`......what in the world are you......?"`
+`......what in the world {i:are} you......?"`
 `"............We're......"`
 `When Kanon hung his head a little and faltered, Shannon slapped his shoulder, smiled, and spoke.`
-`"We are human."`
-`"V‐Virgilia‐sama!!`
+`"We are {y:0:Human}{n:0:human}."`
+`"V‐{f:5:Virgilia}‐sama!!`
 ` Response from warning network, jailbreak!`
 ` The goat guards aren't there for some reason...!!"`
 `"......Whaaat?! Why?!`
@@ -1163,14 +1163,14 @@
 `"......Confirming Rules of Engagement.`
 ` Request permission to fire at the escapees, ma'am."`
 `"Do it...!`
-` Kill them! Kiiiiii!!`
+` Kill them! {ruby:Grrrr:Kiiiiii}!!`
 ` Gapgapgap,`
 ` gab,`
 ` gya!!!"`
 `"Understood, ma'am.`
 ` 45, 410, preparing for sniping pursuit combat.`
 ` Ammo type: Guided cluster rounds.`
-` ......Virgilia‐sama, the escape prevention barrier."`
+` ......{f:5:Virgilia}‐sama, the escape prevention barrier."`
 `"Owowowow......`
 ` Y‐yes, right.`
 ` Hohhoho, I won't let you escape from here.`
@@ -1193,7 +1193,7 @@
 ` ......these are sturdy......"`
 `"No.`
 ` ......It's enchanted!`
-` It's Virgilia‐sama's magic lock."`
+` It's {f:5:Virgilia}‐sama's magic lock."`
 `"Can you cut through it?"`
 `"Of course.`
 ` But it will take time."`
@@ -1246,7 +1246,7 @@
 ` Interception control. Data link to Kanon."`
 `"Kanon, data received.`
 ` ......Your ability is incredible, Nee‐san.`
-` I can see all 48."`
+` I can {y:1:‘see’}{n:1:see} all 48."`
 `"Observe the interception priority ordering.`
 ` Trust your nee‐san."`
 `"Of course.`
@@ -1316,7 +1316,7 @@
 ` They would probably get back up eventually, but it looked like it would be hard for them to return to the battle lines for a while.`
 `"So, furniture was able to repel weapons, if for but a moment.`
 ` .........I see, the plots which entertain that child truly are filled with unexpected turns!"`
-`Virgilia tore the air with a large motion as though opening a door.`
+`{f:5:Virgilia} tore the air with a large motion as though opening a door.`
 `"Come, arise, goat attendants...!`
 ` It's time for work.`
 ` Kill and capture the escapees.`
@@ -1325,12 +1325,12 @@
 `"Come now, hurry.`
 ` There are five escapees, so the fastest five of you win!`
 ` There will be a wonderful prize! Come on now, go for it, go for it!"`
-`Virgilia clapped her hands, urging them on.`
+`{f:5:Virgilia} clapped her hands, urging them on.`
 `A prize?!`
 ` After glancing at each other at those words, the goats rushed to the door at once, trying to get out,`
 ` making the exit as tight a squeeze as the trains during the commuter rush.`
 `Each wanted to get out first, so none of them could get out.`
-`{n}......Virgilia held her head in frustration.`
+`{n}......{f:5:Virgilia} held her head in frustration.`
 `By that time, Kanon had managed to cut just enough bars to make a gap that could be slipped through.`
 `It proved a bit of work for Krauss, large as he was, and Nanjo, whose waist was nearly his downfall, but even so, they all managed to make it through.`
 `But their relief at getting through was short‐lived.`
@@ -1357,7 +1357,7 @@
 `Shannon held her hand out towards the bars they had come through.`
 `......But she stopped right away.`
 `"Wh‐what is it...?"`
-`"Virgilia‐sama has started neutralizing the spirit wave jamming...`
+`"{f:5:Virgilia}‐sama has started neutralizing the spirit wave jamming...`
 ` It'll be bad if it's broken—we'll lose the initiative once the Chiester Sisters are rebooted...!"`
 `"I'll make you pay in full for bullying these cute rabbits."`
 `"If you're trying to gain the advantage with those crafty little spirit particles, I'll tear all that off and rob you of them."`
@@ -1385,7 +1385,7 @@
 ` The rest will be up to you...!"`
 `"Leave it to us.`
 ` Kanon, you cut the bars as fast as you can.`
-` Shannon, you concentrate on jamming this witch called Virgilia or whatever.`
+` Shannon, you concentrate on jamming this witch called {f:5:Virgilia} or whatever.`
 ` Kyrie‐san and I will defend against the pursuers...!"`
 `Then, the roars of beasts rang out from the darkness, and numerous fiery, glowing, bright‐red eyes appeared.`
 `The goats rushing towards them, with thunderous force, were several levels more massive than the guards had been.`
@@ -1499,7 +1499,7 @@
 `Jessica tried to break through the wall with both fists, but it was solid.`
 ` ......Without any exaggeration, it was solid!`
 `"You call this serious...?!!`
-` No problem... I'll break right through iiiiiiiiiiitt!!"`
+` No problem... I'll break right through iiiii{-}i{-}i{-}i{-}iiitt!!"`
 `"I will not let you this time.`
 ` This wall is somewhat different.`
 ` ......Here, allow me to enchant it as well."`
@@ -1546,12 +1546,12 @@
 ` Ngh, ......what?!"`
 `Kanon's red sword, with which he had cut the metal bars, disappeared.`
 `"......Sorry!`
-` We've entered Virgilia‐sama's spirit particle combat area of influence!!`
+` We've entered {f:5:Virgilia}‐sama's spirit particle combat area of influence!!`
 ` Our magic power is being neutralized!"`
 `"Hoh‐hoh‐ho.`
 ` I am impressed that you put up such a fight against a Great Witch like me...`
 ` You can no longer use your magic in that underground passage."`
-`A magic circle column drew complex magical formulae around Virgilia.`
+`A magic circle column drew complex magical formulae around {f:5:Virgilia}.`
 `......With such full‐fledged magic being used, Shannon's power couldn't even compete.`
 `On the contrary, it was surprising that she had withstood as much as she had.`
 `"Spirit particle superiority ensured.`
@@ -1578,7 +1578,7 @@
 ` kyo,`
 ` ukyu,`
 ` kyuu!!!"`
-`"A‐all I can hear is 9999......`
+`"A‐all I can hear is {ruby:kyuu‐kyuu‐kyuu‐kyuu:9999}......`
 ` Have her write it on some paper."`
 `"Her language support system hasn't come back up, so she can't even write nyeh."`
 `"...........................`
@@ -1586,7 +1586,7 @@
 ` I'll go myself..."`
 `""Sorryyyyyyyyy~!!""`
 `The narrow underground passage was packed with goats, truly like a commuter train in the morning.`
-`Virgilia was again in disbelief at this congestion.`
+`{f:5:Virgilia} was again in disbelief at this congestion.`
 `"What are you doing...?!!"`
 `"Huh?`
 ` You want to be first because you want the prize?`
@@ -1595,7 +1595,7 @@
 ` I'm going myself, so open the way!!"`
 `"What?!`
 ` You don't want to?!`
-` Virgilia‐sama is trying to steal the prize?!"`
+` {f:5:Virgilia}‐sama is trying to steal the prize?!"`
 `"Why are you forming a scrum?!!"`
 `"Aaah, it's so crammed and tight!!`
 ` When did this become a goats‐only car?!`
@@ -1614,13 +1614,13 @@
 ` finally catching up with them and even going past them.`
 `It felt almost like they had been passed by ghosts.`
 `The instant after they thought that nothing had happened, the ceiling in front of them fell in, and a single goat stood in their path.`
-`......Virgilia was sitting on its shoulder.`
+`......{f:5:Virgilia} was sitting on its shoulder.`
 `"This wise child knew a shortcut.`
 ` What a good kid, you get first prize.`
 ` Later, I'll treat you to some homemade mackerel curry."`
 `Maybe it really was happy even to receive such a dubious prize.`
 ` The massive goat showed its joy by putting its hands together and wiggling.`
-`Virgilia leapt down, laughing that now it was finally checkmate.`
+`{f:5:Virgilia} leapt down, laughing that now it was finally checkmate.`
 `"......Damn...... It's no good...`
 ` ......Our magic has been completely killed..."`
 `"...It's too early to give up...`
@@ -1631,7 +1631,7 @@
 `"I'll handle them somehow, so you escape past that monster while I'm keeping him busy...!"`
 `"I won't let you.`
 ` Hohhohohohohoho!"`
-`Virgilia clapped her hands, and a purple magic barrier appeared behind her,`
+`{f:5:Virgilia} clapped her hands, and a purple magic barrier appeared behind her,`
 ` stealing even the faint hope that Krauss had been betting on.`
 `"Is there...nothing more to be done......?`
 ` ...N‐no, there's still a chance.`
@@ -1665,7 +1665,7 @@
 ` Do you understand?`
 ` You don't even have a one in ten thousand chance of victory.`
 ` Hoh‐hoh‐hoh‐ho...!"`
-`Virgilia and the goat guffawed together.`
+`{f:5:Virgilia} and the goat guffawed together.`
 `"D‐...damn it......`
 ` If it's a one in ten thousand chance, then the payoff will be ten thousand times more, will it not?`
 ` ......A good dark horse.`
@@ -1716,7 +1716,7 @@
 `Hoh‐hoh‐hoh‐ho, is this what you were hoping for?`
 `Stake your hopes on your greatest power level, and despair when even that doesn't reach at all!`
 `It pinged again!`
-` That thing is really getting on my nerves, what is it?!`
+` That thing is really getting on my nerves, what {i:is} it?!`
 `"Here I come......`
 ` Ready?"`
 `The goat roared in response.`
@@ -1737,18 +1737,18 @@
 `And I, ...a‐actually have a childhood friend, and I'm going to marry her when I get hoooooome!!!`
 `"Gyaaaaaaaaahh!!!`
 ` Nooooooooooo!!`
-` Don't trip so many loser flaaaaaaaaaaags!!"`
+` Don't trip so many {c:86EF9C:loser flaaaaaa{-}a{-}a{-}a{-}aags}!!"`
 `"You can't handle that punch, dodge iiiiiiiiiit!!"`
 `It happened the instant before the two crashed and their punches crossed.`
-`"Foolish, Virgilia.`
+`"Foolish, {f:5:Virgilia}.`
 ` It looks like you couldn't make a composed decision."`
 `"You must not take that punch!!`
 ` Deflect it!!"`
 `"?!?!"`
 `The very instant the goat's left straight and Krauss's right straight crossed!`
-` The goat obeyed Virgilia's order with super‐fast reflexes and pulled back his straight, deflecting Krauss's punch!`
+` The goat obeyed {f:5:Virgilia}'s order with super‐fast reflexes and pulled back his straight, deflecting Krauss's punch!`
 `".........mmgh—"`
-`Yes, Virgilia's decision was probably wise.`
+`Yes, {f:5:Virgilia}'s decision was probably wise.`
 `{n}After all, the number of loser flags act as a multiplier on the opponent's power level!`
 `"That was close.`
 ` If you had taken that punch after tripping so many loser flags, imagine just how great a force it would have been multiplied to...!!"`
@@ -1758,7 +1758,7 @@
 `"Hoh‐hoh‐ho!!`
 ` Promises are made to be brokennnnn!!"`
 `"Gyaah, tripped another ooooooone!!"`
-`"I'm disappointed, Virgilia.`
+`"I'm disappointed, {f:5:Virgilia}.`
 ` You really were lacking composure."`
 `"What's that......?!`
 ` How was I not composed by noticing it beforehand and making him avoid it...?!"`
@@ -1789,7 +1789,7 @@
 ` But his power level caps out at x160, making it 960!!`
 ` You never made it to my child's 1000...!"`
 `".........No.`
-` Virgilia‐san.`
+` {f:5:Virgilia}‐san.`
 ` ......You've lost."`
 `"Why?!"`
 `"You made your goat deflect the first cross‐counter.`
@@ -1819,19 +1819,19 @@
 `Nanjo patted the goat on the shoulder...`
 `......O‐......onii‐chan...gave it his all......`
 `As the sparkling drops from the goat's eyes scattered, he softly toppled backwards,`
-` and flattened Virgilia like a pancake.`
+` and flattened {f:5:Virgilia} like a pancake.`
 `"Ugyaa!!`
 ` Heavyyyyyyy, get oooffffff!"`
-`The goat's massive body was too heavy for the slender Virgilia.`
+`The goat's massive body was too heavy for the slender {f:5:Virgilia}.`
 `{n}She floundered around with it on top of her, but it didn't look like she would be able to escape.`
-`In that instant, the barrier Virgilia had sealed broke.`
+`In that instant, the barrier {f:5:Virgilia} had sealed broke.`
 `"No hard feelings, please.`
 ` Underestimating the principle of leverage was the cause of your defeat."`
 `"......I wonder why the principle of leverage worked on that counter.`
 ` It's an eternal mystery."`
 `"Let's escape while we can...!!`
-` You take care, Mr. Goat...!"`
-`"W‐well then, excuse us, Virgilia‐sama!"`
+` You take care, {nobr:Mr. Goat}...!"`
+`"W‐well then, excuse us, {f:5:Virgilia}‐sama!"`
 `".........*bow*."`
 `"Waaaaaaaaiiit!!`
 ` Get back heeeere!!`
@@ -1912,12 +1912,12 @@
 `The two were swallowed up by the pit, and spat out from the ceiling of the arbor.`
 `But that was what Gaap had been after, so she alone landed lightly.`
 ` ......But there was another pit in George's landing spot.`
-`"Ehheheheheheheh, aaaahhahahahahahahahahaha!!!`
-` Got you, Ushiromiya Geoooooooooorge!!"`
+`"Ehheheheheheheh, aaaahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!`
+` Got you, Ushiromiya Geooooooo{-}o{-}o{-}orge!!"`
 `"It's been fun die now,`
 ` it would be a waste for someone as good as you to end up as the Ushiromiya family head,`
 ` so I'll eat you up right here, right now!!!`
-` Oooooorrrrroooooooooaaaaahhh!!"`
+` Oooooorrrrrooo{0}o{0}o{0}o{0}o{0}o{0}oa{0}a{0}a{0}aahhh!!"`
 `George once again fell from the ceiling of the arbor.`
 ` He had probably been dropped the same distance as falling off the roof of a two‐story building.`
 `In midair, he couldn't control his posture in any way.`
@@ -1934,7 +1934,7 @@
 `{n}Aiming for Gaap's forehead, without the faintest deviation......`
 `".........I already anticipated that you would opt for that move."`
 `"............Wh...at.........?"`
-`"If I'd jumped to make the person that was on the ground taste my heel, my posture would have collapsed long ago.`
+`"If I'd jumped to make the person that was {i:on the ground} taste my heel, my posture would have collapsed long ago.`
 ` .........However, my posture hasn't collapsed in the slightest.`
 ` Do you know why?"`
 `"......You...`
@@ -1942,10 +1942,10 @@
 `mean......"`
 `"From the very beginning,`
 ` ......I jumped to make the person that was two stories below taste my heel!!!"`
-`"Uungh, ......oooooooooooooohhhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhh!!!"`
+`"Uungh, ......ooooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"`
 `"You lose, missy!!!"`
 `"Bing‐bong."`
-`"Unnggggrrrroooooaaaaaaahhh, take thiiiiiiiiiiiiiiiiiss!!!"`
+`"Unnggggrrrroooooaaaaaaahhh, take thiiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiss!!!"`
 `Jessica's last and strongest upwards punch...`
 `reached the wall,`
 ` ......and was sucked in.`
@@ -1971,7 +1971,7 @@
 `Beato and Gaap gave each other a light high five.`
 `"......hhh...`
 `...aaahh...`
-`............hhhhhhuuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH!!!"`
+`............hhhhhhuuAAAA{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}AAHHH!!!"`
 `"Thanks, Ronove.`
 ` That was a treat.`
 ` I'll return Jessica's corpse back there.`
@@ -1985,8 +1985,8 @@
 `"............My apologies, Jessica‐sama.`
 ` I did warn you."`
 `"Of course,`
-` ...I suppose it's only natural that a human like yourself can't understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won't listen to.`
-` ......Pukkukukukukukukukukuku!"`
+` ...I suppose it's only natural that a {y:0:Human}{n:0:human} like yourself can't understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won't listen to.`
+` ......Pukkuku{0}ku{0}ku{0}ku{0}ku{0}ku{0}kukuku!"`
 `"It really was fun, kiddo.`
 ` ......But you play with words a little too much.`
 ` ......I think ‘If you're ready, may I fight back’ was the absolute classic?`
@@ -2056,18 +2056,18 @@
 `"Nah, ......it's too late.`
 ` ...I'm...already dead, apparently...`
 ` Ahahaha, by the time you get here, I'll be a corpse with half my head spilled out."`
-`"Goddamn that old man!!`
+`"God{i:damn} that old man!!`
 ` Wait right there, I'm coming right now!!"`
 `"Listen, Battler!!!`
 ` Listen closely, alright...?`
 ` .........I know exactly why Gohda‐san and Kumasawa‐san were so awkward talking about the guys who killed the six in the dining hall."`
 `".........Those guys, uh...`
 `......they aren't...`
-`human."`
+`{y:0:Human}{n:0:human}."`
 `"Wh‐...whaat?!`
 ` What are you talking about........."`
 `"What do you want me to say, man, I frigging saw it, okay?!!`
-` Those guys, they warp, set up barriers, ahhaha, all of that crap, y'know...?`
+` Those guys, they warp, set up barriers, ahhaha, {i:all} of that crap, y'know...?`
 ` It's like some manga, some anime, ......seriously, we can't deal with that."`
 `"......Ahhahhahhah......`
 ` ...It was never gonna happen, fighting them... It's impossible......`
@@ -2081,8 +2081,8 @@
 `"Y‐you mean the test...?"`
 `"No.`
 ` .........Don't get it wrong and...`
-`...think the enemy's obviously gotta be human."`
-`".........The enemy...is not human.`
+`...think the enemy's obviously gotta be {y:0:Human}{n:0:human}."`
+`".........The enemy...is not {y:0:Human}{n:0:human}.`
 ` ...They're demons......who can wield terrifying magic at will."`
 `"No matter what, ......don't get that wrong......"`
 `"*cough*, *cough*cough*!! Watch......yourself......"`
@@ -2097,7 +2097,7 @@
 `".........I hope Dad and the rest are safe...`
 ` ......If they aren't,`
 ` .........the one to test you...`
-`might be the newly resurrected Beatrice herself..."`
+`might be the newly resurrected {f:5:Beatrice} herself..."`
 `By now, Battler had no idea what Jessica was saying.`
 `{n}But from her tone, he realized that she knew she was about to die.`
 `So even though he didn't understand the situation, he urged her to hang on in there.`
@@ -2256,7 +2256,7 @@
 ` ......I thought that perhaps the second twilight had been finished in the thirteen‐person murder ritual, and that our twilights had been reached."`
 `".........In other words, when I die, that's thirteen.`
 ` Then the ritual will be complete.`
-` ......The Golden Witch, Beatrice, will be resurrected."`
+` ......The Golden Witch, {f:5:Beatrice}, will be resurrected."`
 `".........I wonder what will happen.`
 ` ......On this island filled with demons and witches, and swarming with goat monsters,`
 ` ......when even the boss of them all, the Golden Witch, appears,`
@@ -2289,8 +2289,8 @@
 `"I understand.`
 ` That it's unbelievable.`
 ` ......That's why...that's the only advice I can give to you.`
-` ......Believe."`
-`".........You're telling me to believe in Beatrice...and demons and witches and monsters......?"`
+` ......{i:Believe}."`
+`".........You're telling me to believe in {f:5:Beatrice}...and demons and witches and monsters......?"`
 `"Probably,`
 ` ......even after being so clearly shown all those things not of this world,`
 ` ......we still weren't able to believe any of it, I think."`
@@ -2314,7 +2314,7 @@
 ` And goodbye, Battler‐kun.`
 ` ......I was once cold towards you because you were Asumu‐san's son.`
 ` ......Forgive me...for those days."`
-`"What do you mean, mother to me now!!"`
+`"What do you mean, {i:forgive} you? Kyrie‐san, you are a {i:mother} to me now!!"`
 `I felt as though I heard an incredible sound at the other end of the receiver.`
 `{n}And then, a noisy clattering sound.`
 `......As though the receiver had fallen to the floor.`

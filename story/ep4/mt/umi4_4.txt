@@ -12,8 +12,8 @@
 ` I completely understand why it is that Father does not wish to see you."`
 `"Y‐you've got it wrong, Natsuhi nee‐san.`
 ` ......We just, umm—"`
-`"Not even Dad is immortal—he's gonna die someday.`
-` We aren't telling him to die. We're just saying that he will die someday.`
+`"Not even Dad is immortal—he's gonna die {i:someday}.`
+` We aren't telling him to die. We're just saying that he will die {i:someday}.`
 ` We're just talking together about how to prepare for that."`
 `"And that is precisely what is so disrespectful!!"`
 `"Stop it.`
@@ -100,7 +100,7 @@
 ` which even my true siblings have not stopped to consider."`
 `"......It is a natural duty for the successor to the Ushiromiya family head."`
 `"Yes.`
-` It is a responsibility of the successor to the head, isn't it?`
+` It {i:is} a responsibility of the successor to the head, isn't it?`
 ` ......And it's precisely because you take care of Father that we must acknowledge you as the successor."`
 `"Excuse me!!`
 ` Am I going to be consulted on this at any point?!!`
@@ -161,7 +161,7 @@
 `"It may be the caregiver's job to carry food to Father's mouth, but whether he swallows it down or not is clearly outside the caregiver's responsibility.`
 ` I have absolutely no problems with the case you raise, Krauss nii‐san."`
 `".........Hoh.`
-` Then what kind of case do you imagine would cause the caregiver to be blamed for making a blunder?"`
+` Then what kind of case {i:do} you imagine would cause the caregiver to be blamed for making a blunder?"`
 `"For example,`
 ` ......if he disappeared."`
 `".....................`
@@ -193,7 +193,7 @@
 ` Everyone has suspected it the whole time, but it was so dreadful to imagine that no one actually said it."`
 `"Heh.`
 ` ......Heheheheh, hahahahaha...!!`
-` I see, so this is what you're trying to say?`
+` I see, so {i:this} is what you're trying to say?`
 ` ......That Father is already dead, and that I have been hiding it!"`
 `"......Yeah, that's right.`
 ` This is one of the theories I thought of as the key to solving the final mystery in the previous game."`
@@ -217,7 +217,7 @@
 ` In red, the witch mentioned the names of 18 people one after another, and announced whether they were alive or dead.`
 ` And on top of that, she declared that the number of humans on the island doesn't exceed 18.`
 ` ......There was a single illusion in there."`
-`It was never guaranteed that the 18 names = the 18 people on the island.`
+`It was never guaranteed that {i:the 18 names = the 18 people on the island}.`
 `"When she named off all 18 people and announced who was alive and who was dead,`
 ` she kept the name of the culprit X hidden, and instead mixed in someone who isn't on this island...!"`
 `"By doing that, even though the culprit is on the island, she was able to leave him or her out of the list of the 18 alive or dead people!`
@@ -245,7 +245,7 @@
 `"............If Kinzo dies, the distribution of the inheritance occurs.`
 ` ...However, if Kinzo doesn't die,`
 ` ......no,`
-` if he dies, but it isn't announced, the distribution of the inheritance doesn't occur."`
+` if he dies, but {i:it isn't announced}, the distribution of the inheritance doesn't occur."`
 `"In other words, Uncle Krauss could have all of Grandfather's wealth to himself...!`
 ` That's right, he's got plenty of motive!"`
 `Sure, maybe a 19th person X really doesn't exist on this island.`
@@ -271,7 +271,7 @@
 `"Yeah, never in a million years.`
 ` Because he's already dead.`
 ` This is the end of your deceptiooooooooooon!!"`
-`"*cackle*cackle*cackle*cackle*, ahhahahahahahahahahaha...!!`
+`"*cackle*cackle*cackle*cackle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
 ` Well now, what to do here.`
 ` .........Shall I slice that in twain with the red truth?"`
 `"No, no, it might also be good to hold back for now and let you get all excited.`
@@ -327,13 +327,13 @@
 ` Unlike Battler, everything goes quickly with this woman, there's never a need to explain!`
 ` I will speak as I like with the red truth, at the time that I desire!"`
 `"Yes.`
-` The use of the red truth is basically a right the witch has, to exercise as she pleases.`
+` The use of the red truth is basically a {i:right} the witch has, to exercise as she pleases.`
 ` It's not a responsibility that she has to fulfill at whatever time the human side desires.`
 ` ...............But that depends on the details."`
 `"......The details......?`
 ` What do you mean...?"`
 `"The witch has no responsibility to respond to your repetition requests.`
-` But when and only when your claim would destroy the witch theory, it does become her responsibility.`
+` But when and only when your claim would destroy the witch theory, it {i:does} become her responsibility.`
 ` Because in this court without a judge, that which is not refuted becomes the "truth"."`
 `"......In just the same way that whenever you've stopped thinking,`
 ` and been unable to make a counterargument against the witch theory asserted by the witch, it has immediately become truth."`
@@ -348,7 +348,7 @@
 ` The point is, we can't tell the difference at the current time.`
 ` .........Is that more or less it?"`
 `"*cackle*cackle*, *cackle*cackle*cackle*!`
-` Damn you, Lady Bernkastel, for throwing in such a troublesome piece.`
+` Damn you, Lady {f:5:Bernkastel}, for throwing in such a troublesome piece.`
 ` Thanks to that, I'm losing all my lines!"`
 `"The witch has learned to respond to your repetition requests at a separate time.`
 ` ......Maybe you could also call it a "delay"."`
@@ -362,10 +362,10 @@
 ` ......I can no longer confirm or deny my reasoning.`
 `It's like I finally got myself a cane to help me search around in the pitch‐black darkness, and now I've had it taken away from me.`
 ` ......Now I'm just...stuck, aren't I......?!!`
-`"Now, now, Battler, if you make a despairing face like that, I won't be able to stop drooling, you knowwww♪`
+`"Now, now, Battler, if you make a despairing face like that, I won't be able to stop drooling, you knowwww{p:0:♪}`
 ` From the beginning, that cane was nothing more than something I gave you because you were so ineffectual."`
 `"This just means that you can finally challenge me without a handicap, right?`
-` Kuhhihihihihihihihi!"`
+` Kuhhi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
 `"......But that doesn't change the fact that repetition requests are one of Battler's methods for fighting back.`
 ` As I already said, as long as it's something fatal that would destroy the witch theory,`
 ` the witch is obligated to argue back, and therefore, to speak with the red truth."`
@@ -383,7 +383,7 @@
 ` ......Am I OK to interpret "the time the game ends" as referring to 24:00 on October 5th, 1986, going by the time of the Rokkenjima in the game?"`
 `"There are no problems with that."`
 `"If, at the time the game ends, the human side can assert a trick theory for all of the mysteries,`
-` and there is no counterargument from the witch side, then the human side can declare victory.`
+` {i:and} there is no counterargument from the witch side, then the human side can declare victory.`
 ` ......Any problems?"`
 `".........Let us be a little more rigorous.`
 ` At the time the game ends, the witch side shall be given the opportunity to argue back."`
@@ -420,8 +420,8 @@
 `It had been claimed that there were only five master keys, so I made this request to confirm that the number really was five.`
 `But since that by itself doesn't deny the witch, I can't say it in blue.`
 ` So, in order to speak in blue, I would need to say something like this.`
-`"The actual number of master keys was greater than five.`
-` The culprit used one of those extra keys to get in and out of the room!"`
+`{i:"The actual number of master keys was greater than five.`
+` The culprit used one of those extra keys to get in and out of the room!"}`
 `......And only then would the witch, who claims that it was a locked‐room murder with magic, be responsible for making a counterargument.`
 ` In other words, I can't use it to demand that she repeats things in order to check the premises of my reasoning.`
 `.........That will probably put me at a significant disadvantage.`
@@ -444,7 +444,7 @@
 ` .........You don't mean—"`
 `"Yes, that's right.`
 ` ......You don't challenge the mysteries with an individual point.`
-` You assault them with a wall.`
+` {i:You assault them with a wall}.`
 ` You said yourself in an earlier game that that's what the attitude behind reasoning should be like."`
 `Assault...with a wall.`
 ` That's right, I said so myself before.`
@@ -509,10 +509,10 @@
 `"......I'll use it, all right.`
 ` With this blue truth, I can break apart your witch theory, which states that only a witch culprit was possible because everyone had alibis!!"`
 `"This is my truth!`
-` Ushiromiya Kinzo is already dead.`
-` Therefore, the true number of people on the island is 17!`
-` By adding an unknown person X to that, it becomes 18 people.`
-` By supposing that this person X exists, the crime is possible even if all 17 people have alibis!!"`
+` {p:2:Ushiromiya Kinzo is already dead}.`
+` {p:2:Therefore, the true number of people on the island is 17}!`
+` {p:2:By adding an unknown person X to that, it becomes 18 people}.`
+` {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!"`
 `"......In short, if you keep preventing us from meeting with Father, we will have to form the following theory.`
 ` Simply: Father is already dead.`
 ` But you are hiding that because you don't want the inheritance to be distributed. See?"`
@@ -573,7 +573,7 @@
 ` There's no way that Father will die in a manner that leads to trouble during the autopsy."`
 `"Father hates hospitals in any case, so he'll pass away in his study, right?`
 ` An autopsy will certainly be carried out in any event.`
-` ......The only way to kill him without an autopsy would be for him to disappear."`
+` ......The only way to {i:kill him without an autopsy} would be for him to disappear."`
 `".........Kyrie‐san. I wonder if you would mind not bullying Nii‐san so much...?"`
 `Eva rebuked Kyrie in an sickeningly kind voice.`
 `...Considering the situation, that was impossible.`
@@ -597,9 +597,9 @@
 ` You can make it so that you don't need to sign, and we will never demand a meeting with Father again.`
 ` ......If you can guarantee that you are fit to be the caregiver even without the document, that is."`
 `"Are you telling me.........to pay security money?`
-` Hehheheheh, hahhahahahahaha...!`
+` Hehheheheh, hahha{0}ha{0}ha{0}hahaha...!`
 ` This is ludicrous!`
-` Wahhahahahahahahahaha!"`
+` Wahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `"The security money, paid to Eva‐san, Rudolf‐san, and Rosa‐san, will be 3 billion yen each.`
 ` As a deposit, you will transfer ten percent of that, 300 million yen each, before the year is out."`
 `"9 billion?!`
@@ -607,7 +607,7 @@
 `"After Father passes away, you should be able to work it out.`
 ` Our investigations have told us at least that much.`
 ` And even the deposit of 900 million yen, you should be able to manage in your current financial situation."`
-`"And it should even be possible for you to borrow it from Father, right?`
+`"And it should even be possible for you to {i:borrow it from Father}, right?`
 ` ...There's no need for this obvious charade."`
 `"............H‐how unpleasant.`
 ` Truly unpleasant...!!"`
@@ -695,7 +695,7 @@
 ` ...Eventually, a mumbling laugh reached them from over his shoulder.`
 `"Heh‐heh‐heh‐heh‐heh‐heh, hah‐hah‐hah‐hah‐hah‐hah!!`
 ` It's no good, it's no goddamn good at all...!!`
-` Wahhahahahahahahahahaha!!"`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `.........Three months left to live...?`
 ` A senile old man not long for this world...?`
 `{n}Just who are you referring to?`
@@ -740,8 +740,8 @@
 ` ......Fighting is the process you undergo before you achieve victory.`
 ` ......You cannot call it fighting if it ends in a loss."`
 `"Just one word, we call that humiliation!!`
-` Wahhathis is my successor?`
-` Wahhahahahahahaha, wahhahhahhahahahahahahahhaaaaaaah!!"`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}hahaha, and {i:this} is my successor?`
+` Wahha{0}ha{0}ha{0}ha{0}hahaha, wahhah{0}hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah{0}haaaaaaah!!"`
 `As thunder roared, Kinzo laughed heartily as though there could be nothing more amusing.`
 `And at the end of his laugh, he threw his feckless son away like he was scrap paper,`
 ` slamming him against the wall...`
@@ -751,7 +751,7 @@
 `{n}Natsuhi ran up to him and cared for him...`
 `But Kinzo showed no interest in the two of them,`
 ` and he returned to the space near the window, as though he had been there the whole time, and looked up at the ominous thunderclouds.`
-`"............I thought that as long as I could meet Beatrice, I would have no regrets in my life,`
+`"............I thought that as long as I could meet {f:5:Beatrice}, I would have no regrets in my life,`
 ` but it seems that things won't go so smoothly."`
 `"......It was promised from the beginning that nothing received from the witch would remain.`
 ` However, the Ushiromiya name is not the property of the witch."`

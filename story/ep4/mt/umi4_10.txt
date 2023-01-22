@@ -36,7 +36,7 @@
 ` .........I'll go to Niijima, ask some questions of people related to all this.`
 ` ...Then, after going to Rokkenjima in the end and leaving some flowers, my journey will be over."`
 `.........Several days had already passed since this journey began.`
-`After being told by Bernkastel on the roof of that building...`
+`After being told by {f:5:Bernkastel} on the roof of that building...`
 `to search for the truth of twelve years ago, I left on a journey akin to trying to grasp a cloud.`
 `At the time, I felt something mystical about it, and I remember feeling as if I might be able to grasp some kind of miracle at the end of this journey.`
 `......But several days are enough to bring a person back down from that high.`
@@ -60,7 +60,7 @@
 `"......Heh.`
 ` If that's the answer you reached after crawling across the line between life and death in the mercenary business, that's probably pretty deep."`
 `"Don't just laugh it off.`
-` What I'm trying to say is that there's no capable of satisfying you is yourself."`
+` What I'm trying to say is that there's no {i:self} about it—in this world, the only one {i:capable} of satisfying you is yourself."`
 `Amakusa continued stretching as he spoke.`
 `{n}In an annoyingly eloquent way.`
 `Hearing it told to me as though from a teacher made me instinctively want to resist, but what he was saying was extremely sensible.`
@@ -71,14 +71,14 @@
 ` Children learn how to work hard because they want to be praised by their parents.`
 ` .........Of course, that's why I never learned."`
 `"Sorry, that's not what I intended to say."`
-`"......What I want to say is that self‐satisfaction is A‐OK.`
+`"......What I want to say is that self‐satisfaction is {nobr:A‐OK}.`
 ` No matter who praises you, it's meaningless unless you yourself are satisfied.`
 ` ......Turning it around, even if no one praises you, that doesn't matter as long as you're satisfied yourself."`
 `".........Self‐satisfaction and self‐improvement contradict each other, so we're usually taught that the former is bad.`
 ` Your argument is kind of a breath of fresh air."`
 `"The anguish of the human world comes when you want to satisfy someone, you want recognition, but you don't know where to put the effort.`
 ` I had a time like that too."`
-`"I wanted recognition, but I didn't know what I wanted recognition for.`
+`"I wanted recognition, but I didn't know what I wanted recognition {i:for}.`
 ` And since I didn't know what I was meant to put effort into, or how much, or even who I wanted to give me that recognition,`
 ` I did a lot of crazy things."`
 `"And the answer you reached......was self‐satisfaction?"`
@@ -108,7 +108,7 @@
 ` Life is nothing without greed."`
 `I noticed that Mammon had suddenly appeared, her full hair streaming out in the wind by the prow of the ship.`
 `"It's true that a life of greed would be fun.`
-` But unlike you, humans have a limited lifespan."`
+` But unlike you, {y:0:Human}{n:0:human}s have a limited lifespan."`
 `"If a person remains greedy for eternity, that means that they have desires even in the last moment before they die.`
 ` Having desires means that there's something they want.`
 ` Something they don't have, some way they aren't complete."`
@@ -117,7 +117,7 @@
 `".........I see.`
 ` Then beings with lifespans need to make that kind of compromise?`
 ` Our masters always had very long lifespans, so I've never thought of it."`
-`"I wonder if humans live so that they can be satisfied.`
+`"I wonder if {y:0:Human}{n:0:human}s live so that they can be satisfied.`
 ` ......If so, to seek nothing is probably the easiest way to live.`
 ` ...Yes, it makes sense why greed is one of the seven deadly sins."`
 `"*giggle*.`
@@ -125,9 +125,9 @@
 `Apparently that counted as praise in Mammon's eyes.`
 `{n}She turned and gave a graceful curtsy.`
 `"Ange‐sama.`
-` Do humans live so that they can be satisfied at the moment of their death?"`
+` Do {y:0:Human}{n:0:human}s live so that they can be satisfied at the moment of their death?"`
 `"......It must be pretty tough to be somehow incomplete at the moment of your death, right?"`
-`"If so, then humans live only so that they can have a satisfying death.`
+`"If so, then {y:0:Human}{n:0:human}s live only so that they can have a satisfying death.`
 ` They live so that they can have a better death.`
 ` They live to die."`
 `............Wow, that's a hell of a thing to say.`
@@ -139,7 +139,7 @@
 ` ......People live in order to be content.`
 ` And they hope to die while still content.`
 ` So, not knowing how to make yourself content, make yourself complete, is very tough."`
-`"How does a human do that?`
+`"How does a {y:0:Human}{n:0:human} do that?`
 ` Make their life complete."`
 `".........Receiving validation, acceptance.`
 ` That they're happy."`
@@ -164,11 +164,11 @@
 ` ......Turns out the ultimate self‐fulfillment begins with self‐acceptance."`
 `"Well, of course.`
 ` Because if you can become aware that you're fulfilled, there's no need for anyone else's acceptance.`
-` Just by taking notice of that small little thing, a human's foolish lifelong journey can be ended easily."`
+` Just by taking notice of that small little thing, a {y:0:Human}{n:0:human}'s foolish lifelong journey can be ended easily."`
 `"Then they can spend the rest of their life effectively, playing and having a good time.`
-` A human's life is so ridiculous, kyahhahahaha!"`
+` A {y:0:Human}{n:0:human}'s life is so ridiculous, kyahhahahaha!"`
 `Mammon's choice of words was bad, but it was surely the truth.`
-`If most of a human's life...`
+`If most of a {y:0:Human}{n:0:human}'s life...`
 `is a journey wishing for someone's acceptance so that they can achieve a satisfied death...`
 `.........then the moment they realize that the person to accept them is not someone else, but them themselves, they can end that pointless journey.`
 `Humans who have finished that journey can probably spend the rest of their lives as they wish with their heads held high.`
@@ -190,7 +190,7 @@
 ` I'm sure he'd cackle about how that too is life."`
 `"What a great way to live.`
 ` I'm enchanted."`
-`"......Pitiful humans who can't accept themselves...`
+`"......Pitiful {y:0:Human}{n:0:human}s who can't accept themselves...`
 `wander about searching for it their whole lives, doing nothing but grumbling and complaining, unable to come to terms with anything, ultimately dying while still unfulfilled."`
 `"......How pitiful.`
 ` Compared to people whose lives drag on without any purpose,`
@@ -204,7 +204,7 @@
 ` ......that wasn't the case.`
 `She had simply...`
 `......finished that journey faster than anyone else, and taught herself to keep her own chin up and live with confidence.`
-`".....................Maybe that's what made Maria onee‐chan...so amazing.`
+`".....................Maybe {i:that's} what made Maria onee‐chan...so amazing.`
 ` She had already reached that point at the age where she was only just about to begin elementary school."`
 `Other people like us, looking at her life from the outside, couldn't call it happy by any standard.`
 `But even though such days were engraved in her diary,`
@@ -217,7 +217,7 @@
 `And so, she was happy that way.`
 `It's easy to observe that as something pitiable and sad.`
 ` But to her, that was an outsider's opinion, and didn't matter in the slightest.`
-`The only important thing was whether or not this was happiness to her.`
+`The only important thing was whether or not this was happiness {i:to her}.`
 `It's just like how, when people who live in the city point to the lifestyles of those in the country,`
 ` and lament the inconvenience and feel sympathy for them, it's really just misplaced kindness.`
 `If those who live there are satisfied with what they have, that's more than enough.`
@@ -232,7 +232,7 @@
 ` Whether magic exists to Maria onee‐chan is a problem for Maria onee‐chan to decide, and not for me."`
 `"......And yet, when I was young, I said it, that day.`
 ` I told her there's no way magic exists, ......and I hurt her."`
-`To me, magic doesn't exist—but that's my world.`
+`To me, magic doesn't exist—but that's {i:my} world.`
 `{n}Denying Onee‐chan's world as well just because of that was totally barking up the wrong tree.`
 `"Mariage Sorcière is the witches' alliance Maria onee‐chan created.`
 ` I was invited into that, and invited to become a witch with her."`
@@ -245,17 +245,17 @@
 ` ......After all, to her, magic was a natural power that emphatically existed,`
 ` and she believed that she'd be able to share that with me."`
 `"......Magic, to Maria onee‐chan,`
-` was a power by which she could give the world a happy interpretation, ......no, which could make everything happy—it truly was a magical power.`
+` was a power by which she could give the world a happy interpretation, ......no, which could {i:make} everything happy—it truly was a magical power.`
 ` She just wanted to share that with me too."`
 `"The young me tore those feelings apart.`
 ` ......So she closed herself up in a shell, believing that no one could understand magic with her."`
-`".........If so, then Lady Maria's life‐journey wasn't over after all.`
+`".........If so, then Lady {f:5:Maria}'s life‐journey wasn't over after all.`
 ` If she had accepted herself, there would be no need for her to feel down just because you denied her."`
 `"Onee‐chan was young.`
 ` She still hadn't reached the same kind of philosophical viewpoint as Amakusa.`
 ` ......Ahh, and that explains it perfectly.`
 ` Why the witches' alliance called Mariage Sorcière was necessary."`
-`――An alliance where each accepts that the other is a witch.`
+`{m:-5:―}―An alliance where each accepts that the other is a witch.`
 `"...That's right—I'm pretty sure that was the first article in the agreement of Mariage Sorcière.`
 ` ......Witches of the alliance must accept each other and respect each other.`
 ` That is the deepest and the only meaning of the witches' alliance......"`
@@ -268,7 +268,7 @@
 ` I said there's no way you exist."`
 `"I'm offended.`
 ` We accept that we exist ourselves.`
-` We're not like humans, with their souls half‐asleep.`
+` We're not like {y:0:Human}{n:0:human}s, with their souls half‐asleep.`
 ` ......‘I think, therefore I am’."`
 `"Whether you accept or deny magic, the existence of the magic called the Seven Stakes of Purgatory...is therefore a fact.`
 ` ......As long as we accept ourselves, to borrow your words."`
@@ -297,8 +297,8 @@
 ` I don't have a clue how hurting Onee‐chan would be connected to that mysterious incident several years later.`
 `But for some reason, I can't imagine that there is no connection.`
 `A witch caused that incident.`
-`And the culprit is the Golden Witch, Beatrice.`
-`And Beatrice was part of the Mariage Sorcière Alliance of Witches.`
+`And the culprit is the Golden Witch, {f:5:Beatrice}.`
+`And {f:5:Beatrice} was part of the Mariage Sorcière Alliance of Witches.`
 `I had horribly hurt the other witch of that alliance.`
 `I had hurt her by saying that magic doesn't exist.`
 `.........And that's why, several years later, an inexplicable crime by a witch occurred,`
@@ -313,9 +313,9 @@
 `"Hmmmm......`
 ` The Japanese sure are interesting.`
 ` Even if they're the victim, they feel as though they did something wrong, and apologize for no reason."`
-`"......I could understand if you said "I hate Beatrice‐sama for stealing my family!" or something,`
+`"......I could understand if you said "I hate {f:5:Beatrice}‐sama for stealing my family!" or something,`
 ` but you really are an odd one, feeling guilty for no reason and apologizing."`
-`"Of course I hate Beatrice.`
+`"Of course I hate {f:5:Beatrice}.`
 ` I couldn't continue this journey without that feeling."`
 `"But it's alright for me to find another purpose to this journey.`
 ` There's nothing wrong with me adding the goal of apologizing for past sins onto this journey for revenge on a witch of twelve years prior.`
@@ -328,7 +328,7 @@
 `"......Quiet.`
 ` ........................"`
 `"......Come, arise.`
-` ......I am the witch apprentice, Ange Beatrice.`
+` ......I am the witch apprentice, {f:5:Ange Beatrice}.`
 ` ......Though I was excommunicated, I was once a member of the same alliance, and you are dearly missed furniture who played with me.`
 ` Answer to my call........."`
 `It was hard to tell in the middle of the day, but a faint blue light gathered around the palms of my hands.`
@@ -379,7 +379,7 @@
 ` And Asmodeus.`
 ` ......And Sakutarou too."`
 `"......Is that alright?`
-` Ange‐sama, you are one who is challenging Beatrice‐sama.`
+` Ange‐sama, you are one who is challenging {f:5:Beatrice}‐sama.`
 ` ...Is it alright for one in a position of denying witches to accept us?"`
 `"About whether magic exists or not in my world, sorry, but let me put that question on hold.`
 ` It's not like I myself have accepted the existence of magic."`
@@ -410,17 +410,17 @@
 `"That's probably......`
 `......because I learned respect and acceptance.`
 ` Now, ......I might be able to understand...`
-`...the depths of Maria onee‐chan's magic......and Beatrice's."`
+`...the depths of Maria onee‐chan's magic......and {f:5:Beatrice}'s."`
 `In the past, I insisted that I didn't believe in things like magic,`
 ` that something like that couldn't exist—I acted like I had my eyes tightly shut and couldn't see anything.`
 `But now I'm different.`
 ` I get the feeling I can look right at the thing called magic, and close in on its true nature......`
 `"......How frustrating.`
-` It's truly rare to find a human so free of the anti‐magic toxin in this day and age.`
+` It's truly rare to find a {y:0:Human}{n:0:human} so free of the anti‐magic toxin in this day and age.`
 ` And she has such an uncommon genius for being a witch..."`
 `"That's right.`
 ` ......If Ange‐sama tried to become a witch now,`
-` ......she could grow to be a Great Witch, maybe even at Beatrice‐sama's level."`
+` ......she could grow to be a Great Witch, maybe even at {f:5:Beatrice}‐sama's level."`
 `"Even so, she is our master, and has accepted our existence.`
 ` ......Most likely, Ange‐sama will be our final master.`
 ` Let us think of this as our final service, and apply ourselves to the fullest."`
@@ -433,7 +433,7 @@
 `"......Well, that's her life, her way of living,`
 ` and if that's the way she's decided her world is going to be, there's nothing we can achieve by complaining."`
 `"Thanks for understanding me.`
-` Yeah, whether magic exists to me or not,`
+` Yeah, whether magic exists {i:to me} or not,`
 ` that's up to me to decide.`
 ` Whether magic actually does exist somewhere in the world or not, you see?"`
 `When I think about it, the world is so vast, ......and yet so small.`
@@ -446,7 +446,7 @@
 `"That makes it a true Devil's Proof.`
 ` No, maybe it's more like "when in Rome, do as the Romans do"."`
 `I can be confident in the world I know.`
-` So even if my world is denied by a complete stranger who doesn't know a thing about it, that's nothing to worry about.`
+` So even if my world {i:is} denied by a complete stranger who doesn't know a thing about it, that's nothing to worry about.`
 `And in the same way, just because I don't know another world,`
 ` that doesn't make me qualified to deny it.`
 `"Which is why,`
@@ -472,7 +472,7 @@
 ` You already have a clear answer to that question."`
 `"Sorry.`
 ` I do accept that witches might exist somewhere in this world.`
-` But my world will not waver."`
+` But {i:my} world will not waver."`
 `"......You won't accept witches or magic.`
 ` You'll definitely expose the truth of Rokkenjima.`
 ` ......Right?"`
@@ -500,7 +500,7 @@
 `......They were also celebrating a long‐awaited reunion.`
 `Because they were granted permission to exist, they can exist here without doubt.`
 `No—they can exist even if I don't permit it.`
-`Because I accepted them, they to me as well.`
+`Because I accepted them, they {i:showed} their reunion's joy {i:to me as well}.`
 `As I watched over that scene, .........I reflected on the meaning of this journey of mine.`
 `".........I wonder if everyone will forgive me this way."`
 `"You've done enough.`
@@ -525,15 +525,15 @@
 ` but why was he "dead", and why couldn't she summon him again......?`
 `‘...That's because...`
 `at that time, Maria saw my stuffed animal get torn,`
-` and she decided`
+` and she {i:decided}`
 ` that I had died.’`
 `"It's the same as the existence of magic.`
-` ......If, in Lady Maria's world, it becomes a fact that Sakutarou died,`
+` ......If, in Lady {f:5:Maria}'s world, it becomes a fact that Sakutarou died,`
 ` then Sakutarou cannot exist in her world."`
 `‘............Uryu......’`
 `The shock of having her beloved stuffed animal torn apart...`
 `had left a wound in her heart serious enough to prevent her from ever again summoning her irreplaceable close friend.`
-`In Maria onee‐chan's eyes, Sakutarou had died.`
+`{i:In Maria onee‐chan's eyes}, Sakutarou had died.`
 `So even if Sakutarou could exist like this to me, he could not exist before her.`
 `‘I......was always together with Maria......`
 ` ......As she cried, I was there the whole time right beside her, telling her not to cry......`
@@ -545,7 +545,7 @@
 ` ......Onee‐chan's diary began to show a clear change."`
 `A diary is a mirror that reflects one's heart as it is.`
 `It probably showed the personality called Maria die,`
-` and be reborn as the evil witch personality Maria.`
+` and be reborn as the evil witch personality {f:5:Maria}.`
 `As she filled the diary with hatred and sadness, ......her heart surely was not fulfilled.`
 `Because she wasn't fulfilled, she had no choice but to fill it with hatred and sadness.`
 `And while still unfulfilled, she met with death.`
@@ -563,13 +563,13 @@
 ` ......So, if we could revive the lion stuffed animal..."`
 `‘But......`
 ` ......Mama Rosa made my stuffed animal herself, so only Mama Rosa can make it......’`
-`Even inside the diary, Maria onee‐chan had asked this of Beatrice, and had been refused for the same reason.`
+`Even inside the diary, Maria onee‐chan had asked this of {f:5:Beatrice}, and had been refused for the same reason.`
 `The magical significance of a stuffed animal being unique and handmade is very large.`
 `Then, if we could make the same thing once more......`
 `But Aunt Rosa is already gone from this world.`
 `{n}We can never make the same thing again.`
 `"......Was there ever another identical stuffed animal made, or anything like that?"`
-`"He is a stuffed animal made for Lady Maria's birthday present, and is the only one in the world.`
+`"He is a stuffed animal made for Lady {f:5:Maria}'s birthday present, and is the only one in the world.`
 ` ......A handmade and unique vessel.`
 ` That's why it conceals a great magical power."`
 `"And......if lost, it will never be obtained again.`
@@ -586,7 +586,7 @@
 `".........Even if Maria onee‐chan doesn't accept him, that fact cannot be denied.`
 ` Right...?"`
 `"Logically, that's true,`
-` ......but I think using the same logic to make Lady Maria accept him could be difficult."`
+` ......but I think using the same logic to make Lady {f:5:Maria} accept him could be difficult."`
 `‘......Maria.........`
 ` ......I'm not dead...`
 ` I'm right here.........`
@@ -607,7 +607,7 @@
 `‘........................’`
 `"That island, which was the beginning of everything, will be the final destination of this journey.`
 ` .........As your master, I must bring all of you witch's furniture with me...`
-`...and I must return to the witch's island—to Rokkenjima."`
+`...and {i:I must return} to the witch's island—to Rokkenjima."`
 `Even though the rays of the sun had been so strong, at some point clouds had started to hang over us.`
 `The spray hitting my cheek might not all be coming from the crashing waves.`
 `"Ange‐san.`
@@ -630,7 +630,7 @@
 `".........I'm deliberately not going to ask what's inside, but it looks heavy."`
 `"Why is it that these are so heavy?`
 ` A French instructor taught me something interesting about that once."`
-`"He said that they should be heavy.`
+`"He said that they {i:should} be heavy.`
 ` .........After all, a human life is heavier than the Earth.`
 ` So these should be even heavier."`
 `".........It'll be nice if you don't have a chance to use them."`

@@ -214,7 +214,7 @@
 `".........Youth can be so cruel.`
 ` Grandfather must have put all his heart into choosing that present for you, ......but it looks like your heart didn't remember."`
 `"Are you saying that I was just too young to remember,`
-` ......and that......and that......was the truth of October 4th?!"`
+` ......and that......and {i:that}......was the truth of October 4th?!"`
 `That day, just like six years before,`
 ` Grandfather entered the parlor with a cry of "Happy Halloween".`
 `Then, he and I traded presents, ......as he shed tears over our long‐awaited reunion after a six‐year gap.`
@@ -416,7 +416,7 @@
 `"A friiiieeeend?!`
 ` How can you say that?!"`
 `"......Onii‐chan's......friend.........?"`
-`"This is Beatrice.`
+`"This is {f:5:Beatrice}.`
 ` You've heard from Grandfather, haven't you?`
 ` About the Golden Witch, who gave the Ushiromiya family its gold?"`
 `Have I......heard that before?`
@@ -434,7 +434,7 @@
 ` Ange, your parents just made that story up to get you to go to bed on time.`
 ` She doesn't do stuff like that."`
 `"Very well, allow me to introduce myself!`
-` I am Beatrice, the Golden Witch!"`
+` I am {f:5:Beatrice}, the Golden Witch!"`
 `"Or her grandchild, at least."`
 `"Grandchild......?"`
 `"Th‐......that grandchild part puts a bit of a damper on things."`
@@ -579,7 +579,7 @@
 `Just as Ange looked up to see the finger raised high, it swung down as though trying to dodge her gaze.`
 `In that manner,`
 ` ...the finger swung up, down, left, right, then left again,`
-` as though Ange was playing a game of Acchi Muite Hoi.`
+` as though Ange was playing a game of {c:86EF9C:Acchi Muite Hoi}.`
 `Feeling as though she'd lose if she couldn't keep up with the fingertip, Ange swung her face this way and that, looking serious.`
 `Ever since she was very young, Ange had always hated to lose.`
 ` She would take even the most trivial games seriously, determined not to lose to the adults.`

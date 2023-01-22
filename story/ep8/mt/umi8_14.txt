@@ -324,19 +324,19 @@
 `Help me, Ikuko.........`
 ` .........Someone else's memory............is hurting me.........`
 `My...head's......splitting.....................`
-`......I can hear the sorrowful sound of wind......`
+`{a:c:......I can hear the sorrowful sound of wind......`
 `{n}And......that must be rain.`
 `{n}......Who......am I, again...?`
-`{n}I am......Ushiromiya......`
-``
-`"Ange! ......Ange...!!"`
-``
-`"Please, please say something...!!"`
-`Voices...`
-` Voices calling to me.`
-`Dad......and Mom......`
-`......It can't be them......`
-`In 1986, ......on Rokkenjima,......Mom and Dad......`
+`{n}I am......Ushiromiya......}`
+`{a:c:`
+`"Ange! ......Ange...!!"}`
+`{a:c:`
+`"Please, please say something...!!"}`
+`{a:c:Voices...`
+` Voices calling to me}.`
+`{a:c:Dad......and Mom......}`
+`{a:c:......It can't be them......}`
+`{a:c:In 1986, ......on Rokkenjima,{n}......Mom and Dad......}`
 `"......Ange, hang in there...!`
 ` Can you hear Daddy's voice...?!"`
 `"Please, say something!! Ange!!"`
@@ -362,13 +362,13 @@
 ` George onii‐chan, Jessica onee‐chan, Maria onee‐chan.`
 `My uncles and aunts.`
 `......Even Sakutarou.`
-` ......And then, there was the witch Virgilia, and Ronove, and...............`
+` ......And then, there was the witch {f:5:Virgilia}, and Ronove, and...............`
 `"...............Where............"`
 `"You were fortunate.`
 ` ......By chance, we found you drifting in the waves of the sea of emptiness.`
 ` ......You were in a terrible state.`
 ` ......It took much time to make you remember your true form."`
-`".........Beatrice...`
+`".........{f:5:Beatrice}...`
 ` ............So, this is......"`
 `"The Golden Land.`
 ` ......Your whole family has been waiting here for you to return."`
@@ -438,7 +438,7 @@
 `Now, I can remember clearly, and I understand.`
 `It's true that the Halloween quiz party itself was an illusion.`
 `We never did anything like that.`
-`......But there were all kinds of other fun things we did do when the relatives gathered,`
+`......But there were all kinds of other fun things we {i:did} do when the relatives gathered,`
 ` .........things that were no more or less fun than that party.........`
 `Then, ......for the first time since the start of the game...`
 `...I went up to each and every one of them......to greet them, thank them, and apologize.`
@@ -454,7 +454,7 @@
 `"No.`
 ` I never really understood.`
 ` ......I felt sorry for you and your magic.`
-` ......I could only feel sorry for you...`
+` ......I could {i:only} feel sorry for you...`
 ` .........So, ......I couldn't pick up a fragment of happiness, couldn't even find one.`
 ` .........You told me that yourself once, Onee‐chan......"`
 `"......It can't be helped.`
@@ -509,7 +509,7 @@
 ` .........Bringing people happiness is the sole reason that witches wield magic.`
 ` ......I am very pleased that we were finally able to pass on this lesson to the last in the line of Endless Witches..."`
 `"Sorry for failing to pass it down myself at all."`
-`"Witch of the Future, Ange Beatrice.`
+`"Witch of the Future, {f:5:Ange Beatrice}.`
 ` ......I hereby retract your expulsion from Mariage Sorcière."`
 `"Uryuu!`
 ` I knew Ange would come back...!"`
@@ -531,11 +531,11 @@
 `...is my mission as the final witch of Mariage Sorcière."`
 `"Will you truly be able to do so...?"`
 `"Of course. I have the power to do it.`
-` There's the golden magic that my predecessor, Eva Beatrice, spent so much time building.`
+` There's the golden magic that my predecessor, {f:5:Eva Beatrice}, spent so much time building.`
 ` I've inherited all of that. Right?"`
 `"*giggle*.`
 ` ......If only my health had held out a little longer, I was planning to spend all of it on myself."`
-`*giggle*, ......ahahahahahahahahahaha.`
+`*giggle*, ......aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.`
 `As Ange laughed, tears poured from her eyes again.`
 `Everyone surrounded Ange with their kind, warm smiles......`
 `Battler stood alone in the rose garden maze, letting the rain quietly fall on him......`
@@ -602,7 +602,7 @@
 `"......I won't...`
 ` .........Never......never ever..............."`
 `Ange leapt into Battler's chest......and sobbed.`
-`Humans are sad creatures, who can "learn" but not "unlearn".`
+`{y:0:Human}{n:0:Human}s are sad creatures, who can "learn" but not "unlearn".`
 `She had already learned.`
 `It was a cruel, terrifying, merciless thing, ......capable of destroying even the miracle called hope.`
 `......However, there was still one tiny fragment left gripped in her hand.`
@@ -618,16 +618,16 @@
 ` ......And all of the fantasy people."`
 `"...............Yeah.`
 ` ......This time......I have to......protect everyone........."`
-``
-`"Then shouldn't you hurry up a bit?"`
+`{a:c:`
+`"Then shouldn't you hurry up a bit?"}`
 `From the other side of a rose bush came the sound of popcorn being eaten.`
-`......It was Lambdadelta.`
+`......It was {f:5:Lambdadelta}.`
 `"I'm pretty sure you know this,`
 ` ......but Bern is just about to hold a big party for the Book of the Single Truth.`
 ` She's gathered beings from heaven and from hell, from the spirit world and from parallel worlds.`
 ` If she announces what's in that book in a place like that, it'll all be too late, won't it?"`
 `".........I'm...going.`
-` ......I gave Bernkastel that key.`
+` ......I gave {f:5:Bernkastel} that key.`
 ` It's my responsibility.`
 ` I'll go and bring it back."`
 `"The City of Books, is it?`
@@ -643,7 +643,7 @@
 ` One of those temporary entry passes that you get when you turn in your invitation.`
 ` As long as you have that, at least one of you will be able to get into the City of Books.`
 ` Well, as long as someone takes you across the sea of fragments first."`
-`"Lambdadelta.`
+`"{f:5:Lambdadelta}.`
 ` Take me to the City of Books."`
 `"......Ange."`
 `"This is my way of taking responsibility.`
@@ -654,7 +654,7 @@
 ` You'll be smushed and that'll be the end of you."`
 `"Ah—"`
 `The bell was stolen from Ange's hands.`
-`"Lambdadelta.`
+`"{f:5:Lambdadelta}.`
 ` I'll go there.`
 ` ......I just need you to take me and send me on my way.`
 ` I'm an empty creature anyway, unable to exist outside the cat box.`
@@ -666,7 +666,7 @@
 ` If I don't do it myself, the future won't change at all, and I won't be able to save the cat box of the future...!"`
 `Ange tried to snatch the bell from Battler's hand, but Battler had no intention of giving it up.`
 `The two of them were grimly serious, but from the sidelines, it just looked like an ordinary squabble between two close siblings.`
-`Lambdadelta watched this conversation and shrugged.`
+`{f:5:Lambdadelta} watched this conversation and shrugged.`
 `......If she just had to take either one of them to the City of Books, she wouldn't have to make any enemies, and there was no risk to her.`
 `All she cared about was which one would make the story more interesting.`
 ` Nothing else.`
@@ -706,9 +706,9 @@
 ` It's a fight over the cat box, with you two who want to close the lid on one team, ......and Bern who wants it opened on the other.`
 ` Ange has moved from Bern's team to Battler's team.`
 ` That's all there is to it."`
-`"Lambdadelta.`
+`"{f:5:Lambdadelta}.`
 ` Take us to the City of Books."`
 `".........I hope you know I'm just taking you there!`
 ` After that, I'm done being anything but a spectator!`
 ` I'm just gonna be sitting nearby and watching, to see exactly how you fight, what you do, and how Bern is going to make mincemeat out of you both...!"`
-`"Lambdadelta...... Thank you!"`
+`"{f:5:Lambdadelta}...... Thank you!"`

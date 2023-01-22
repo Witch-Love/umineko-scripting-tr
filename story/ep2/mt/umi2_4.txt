@@ -102,7 +102,7 @@
 ` It's because you're like this that Papa never comes back from his business trip!!`
 ` It's because you're like this that I...!!"`
 `"E‐...excuse me, ...madam, is something the matter...?"`
-`"Is there want...?!"`
+`"Is there {i:something}...that you {i:want}...?!"`
 `The one who timidly called to her was the station attendant.`
 `{n}Rosa glared at him with a look that said "don't cut into the problems of a mother and child, stranger".`
 `The station attendant surely hadn't wanted to talk to her.`
@@ -303,7 +303,7 @@
 ` ...Any guest who visits here is important."`
 `"Kanon.`
 ` ......We welcome, today,`
-` an important guest in the truest sense.`
+` an {i:important guest} in the truest sense.`
 ` Make sure you're prepared."`
 `"......Yes."`
 `".........Shannon, what's wrong?`
@@ -444,10 +444,10 @@
 `"Yeah, I bet you did. Let's us two do it together sometime!`
 ` What would you want to go around as?"`
 `"A witch!!`
-` Beatrice!"`
+` {f:5:Beatrice}!"`
 `"Oh, Milady, what are you doing in such a place?`
 ` Madam was looking for you."`
-`"I'm here 'cause I don't want to be found.`
+`"I'm here 'cause I don't {i:want} to be found.`
 ` ...I bet she only wants to nag at me anyway, all that crap like "is your appearance alright?" and "mind how you speak"."`
 `"Hoh‐hoh‐ho...`
 ` Without a doubt."`
@@ -461,7 +461,7 @@
 ` I always wonder whether some "relative" who hasn't shown themselves for several decades might suddenly turn up."`
 `"............Hohoh.`
 ` Could a relative like that exist...?"`
-`"I'm talking about that Beatrice‐sama.`
+`"I'm talking about that {f:5:Beatrice}‐sama.`
 ` ......Nobody knows her background.`
 ` Could she be Grandfather's mistress from long ago?`
 ` ......Maybe one of her descendants will suddenly show up and tell us to give back the gold we were granted or something, you know?"`
@@ -470,7 +470,7 @@
 ` ...With such excitement abound over talk of the witch's gold, I don't suppose it would be strange at all if the witch herself who granted that gold finally made her appearance."`
 `"Kumasawa‐san, you know,`
 ` ...sure, you're always quitting one moment and working the next, but you've been here as long as Genji‐san, right?`
-` ......You know more, about Beatrice, don't you?"`
+` ......You know more, about {f:5:Beatrice}, don't you?"`
 `"......Well, I wonder.`
 ` Hoh‐hoh‐ho...`
 ` Even if I try to remember, this old woman here can't even recall what she had for breakfast this morning..."`
@@ -479,13 +479,13 @@
 `"Hoh‐hoh‐ho... How harsh.`
 ` ...I don't have any secrets.`
 ` ......The only thing I can say...`
-`is that Beatrice‐sama is the Golden Witch, and that she is the other master who controls the night of this island."`
+`is that {f:5:Beatrice}‐sama is the Golden Witch, and that she is the other master who controls the night of this island."`
 `"That's second‐hand talk from Grandfather.`
 ` Even though you get paid, it must be a pain to go along with Grandfather's tales."`
 `"......But, I can say this much."`
 `"...What?"`
-`"......In ancient times, Rokkenjima was feared, and called "Azukijima".`
-` The story told among the fishermen is that "Azuki" was a mispronounced form of "Akujiki", and in fact it was called "Akujikijima"."`
+`"......In ancient times, Rokkenjima was feared, and called "{ruby:Azuki Bean Island:Azukijima}".`
+` The story told among the fishermen is that "Azuki" was a mispronounced form of "Akujiki", and in fact it was called "{ruby:Evil Appetite Island:Akujikijima}"."`
 `"I've heard this before.`
 ` It's that story about how, 'cause of all the sunken rocks and shipwrecks around here, the fishermen got afraid and stayed away as much as they could, right?"`
 `"......Evil spirits had settled down in Akujikijima, devouring human souls from time immemorial.`
@@ -498,8 +498,8 @@
 ` But, well, it was all worn out from the start.`
 ` I bet it just got carried away by some large wave.`
 ` Hahahahaha."`
-`"The evil spirits of Akujikijima woke up from their sleep, and summoned Beatrice‐sama.`
-` .........So if Beatrice‐sama ever happened to come for the family conference, then..."`
+`"The evil spirits of Akujikijima woke up from their sleep, and summoned {f:5:Beatrice}‐sama.`
+` .........So if {f:5:Beatrice}‐sama ever happened to come for the family conference, then..."`
 `"Then...?"`
 `Kumasawa kept silent for a moment there.`
 `{n}...Jessica, who wanted her to keep going, found that silence very eerie.`
@@ -638,7 +638,7 @@
 `The fishing boats, which had only looked like black grains until a short while ago, had become clearly visible.`
 `".........If I could prostrate myself before Dad and borrow ten mil in exchange for a punch to the head, I'd take at least a dozen, but...`
 ` Failing that, he'd better hurry and give up the ghost."`
-`".........I've mooched off him so much over the years, and now I'm going for the inheritance.`
+`" .........I've mooched off him so much over the years, and now I'm going for the inheritance.`
 ` ............I'm going to hell.`
 ` ...It won't surprise me a bit if he doesn't want to see me......"`
 `"......Could it be that you don't plan on appearing at the family conference this year either?"`
@@ -660,7 +660,7 @@
 `".................."`
 `Inside Kinzo's head, there was no conception of today being the day of the family conference, the day when all his dear family would gather together.`
 `......There was only the face of the witch in the oil painting, who never smiled outside her portrait...`
-`Everybody knew that when Kinzo talked about Beatrice, unnecessarily cutting in would instigate his wrath...`
+`Everybody knew that when Kinzo talked about {f:5:Beatrice}, unnecessarily cutting in would instigate his wrath...`
 `"Today, I will...perform a certain ritual."`
 `"Hoh.`
 ` ...And what would that be?"`
@@ -705,7 +705,7 @@
 `"............Tonight, let us enjoy ourselves as we see what kind of miracle the roulette will show us.`
 ` ...The payoffs are large.`
 ` And I don't feel like losing...`
-` ......Beatrice, ...you shall accept my bet........."`
+` ......{f:5:Beatrice}, ...you shall accept my bet........."`
 `Just then, the telephone on the table rang.`
 `That piercing noise seemed to displease Kinzo, and he picked up the receiver in order to preserve the silence as much as he could.`
 `"......What is it?`
@@ -761,7 +761,7 @@
 ` I already know your moves far too well.`
 ` A defense doesn't amount to much if the plan behind it is known!`
 ` Don't think you'll be able to defy me with the same moves!!"`
-`"......Beatrice.`
+`"......{f:5:Beatrice}.`
 ` I have only one thing to tell you before we start."`
 `"What is it...?"`
 `"You're free to say anything.`

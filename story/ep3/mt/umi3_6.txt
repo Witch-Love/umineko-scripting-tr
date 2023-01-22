@@ -19,7 +19,7 @@
 `"I am different.`
 ` ......I will reach 24 alive.`
 ` Because that itself is the Golden Land.`
-` ...That is Beatrice's dwelling."`
+` ...That is {f:5:Beatrice}'s dwelling."`
 `Kinzo had been fumbling around with some tarot cards for some time.`
 `It looked as though he was trying to divine his own luck, his own propensity for victory, and doing it over every time he didn't like the result.`
 `The most forbidden action in tarot reading is to try predicting the same thing twice.`
@@ -134,7 +134,7 @@
 ` ...However, it's too quiet."`
 `"Then he is safe?"`
 `"No.`
-` It is too quiet."`
+` It is {i:too quiet}."`
 `"...It............couldn't be..."`
 `"My lord.`
 ` Excuse us about the door."`
@@ -144,7 +144,7 @@
 `{n}......At a glance, that would have indicated that it really was a strong lock.`
 `However, the fact that the barrier had been destroyed...`
 `meant that this door had long been wide open for anyone with magical power...`
-`The lock made a heavy sound, indicating that the door had been opened to humans as well.`
+`The lock made a heavy sound, indicating that the door had been opened {i:to humans as well}.`
 `"......Excuse me."`
 `As Genji respectfully bowed his head,`
 ` and Kanon's sense of tension grew tighter,`
@@ -157,14 +157,14 @@
 `He went in front of Shannon and spread both arms, blocking the way to her.`
 `So without even seeing that person's face, Shannon already had a good idea who it was...`
 `"...So you have come.`
-` Beatrice‐sama."`
+` {f:5:Beatrice}‐sama."`
 `"Genji, is it?`
 ` You came very quickly.`
 ` Yes, it is better when furniture answers its master's call quickly.`
 ` Very different from this person."`
 `"........................`
 ` ......So Ronove‐sama has come as well."`
-`Genji directed his greeting towards the thin darkness behind and to the right of Beatrice, where nothing appeared to be.`
+`Genji directed his greeting towards the thin darkness behind and to the right of {f:5:Beatrice}, where nothing appeared to be.`
 `Even Kanon and Shannon couldn't have imagined that someone would be there.`
 `......However, the darkness answered immediately, and praised Genji's eyesight...`
 `"As usual, you don't disappoint.`
@@ -182,20 +182,20 @@
 `"............Thank you very much."`
 `"......Nee‐san, who in the world..."`
 `"This will be the first time I have met you, Kanon‐kun.`
-` ......I have been entrusted with the position of Beatrice‐sama's head furniture. My name is Ronove.`
+` ......I have been entrusted with the position of {f:5:Beatrice}‐sama's head furniture. My name is Ronove.`
 ` ......I am an old friend of Genji‐san's.`
 ` I am also furniture, just like you.`
 ` Although the master I serve is different."`
 `The color of tension didn't disappear from Kanon's expression in the slightest.`
 `......Serving under a different master, furniture could become kind, brutal, or anything else as desired.`
-`...If he called himself furniture serving the hated Beatrice,`
+`...If he called himself furniture serving the hated {f:5:Beatrice},`
 ` then surely he was a despicable being as well...`
 `"*cackle*cackle*!`
 ` It seems that I'm completely despised.`
 ` It's as though you hate everything to do with me."`
-`Beatrice openly sneered at Kanon's hate‐filled face...`
+`{f:5:Beatrice} openly sneered at Kanon's hate‐filled face...`
 `Then, Kanon finally observed.`
-`Beatrice and Kinzo were enjoying a chess game, sitting in facing reception sofas.`
+`{f:5:Beatrice} and Kinzo were enjoying a chess game, sitting in facing reception sofas.`
 `But Kinzo hadn't even quivered.`
 ` He was holding his head with both hands, his eyes closed tight, ...as he contemplated his next move.`
 `......No, was he in anguish...?`
@@ -215,7 +215,7 @@
 ` ......*cackle*, by this, our long lasting contest is resolved, right?"`
 `"................................."`
 `At a glance, you couldn't tell the current situation on that chaotic chessboard.`
-`...However, judging from Kinzo's anguish and Beatrice's malicious relaxedness,`
+`...However, judging from Kinzo's anguish and {f:5:Beatrice}'s malicious relaxedness,`
 ` it looked as though it was already decided...`
 `"............It is unavoidable...`
 ` ...Is this also entertainment?"`
@@ -223,7 +223,7 @@
 ` ......Concluding my contest with you may bring a flood of emotions, but it has already surpassed love and hate.`
 ` ...It was fun.`
 ` Several decades that were not boring...!"`
-`Beatrice advanced her queen, and made her final move.`
+`{f:5:Beatrice} advanced her queen, and made her final move.`
 `......It was thus...`
 `decided.`
 `"Checkmate.`
@@ -265,16 +265,16 @@
 `"......Why have you shown yourself...?`
 ` Do you have some business with us...?"`
 `"Stop it, Kanon‐kun.`
-` ......You must not provoke Beatrice‐sama."`
+` ......You must not provoke {f:5:Beatrice}‐sama."`
 `"It appears that you have completely terrified them.`
 ` Pu ku ku ku."`
 `"It seems I just can't get along with Kanon.`
 ` A pity, I must say I quite like him myself...?"`
-`Beatrice smiled broadly, or perhaps wickedly.`
+`{f:5:Beatrice} smiled broadly, or perhaps wickedly.`
 `Kanon violently averted his gaze, obviously disturbed.`
 `...His reaction was so different from what he had obviously intended that it made the witch and her butler laugh.`
 `"Kanon.`
-` ......You stand in the presence of Beatrice‐sama.`
+` ......You stand in the presence of {f:5:Beatrice}‐sama.`
 ` Carefully consider your manner of speech."`
 `"Oh, there is no problem, Genji.`
 ` Let him say as he likes.`
@@ -283,7 +283,7 @@
 `"I am always gracious to those who are about to die.`
 ` *cackle*cackle*...!"`
 `Kanon was brought to sudden realization by that creepy laughter...`
-`Beatrice's reason for being here was not just to take Kinzo's life.`
+`{f:5:Beatrice}'s reason for being here was not just to take Kinzo's life.`
 `The first twilight required six sacrifices.`
 `{n}Kinzo alone wasn't nearly enough.`
 `{n}...And they had just nonchalantly come to this place...`
@@ -306,7 +306,7 @@
 `"...G‐`
 `......Genji‐sama..."`
 `Genji had agreed to the witch's heartless announcement in his usual manner, without raising an eyebrow.`
-`"After the Master's death, Beatrice‐sama is our master.`
+`"After the Master's death, {f:5:Beatrice}‐sama is our master.`
 ` Answering her demand is our final duty.`
 ` ......Shannon.`
 ` Kanon.`
@@ -333,13 +333,13 @@
 `"Won't you at least shed some bitter tears for not being able to spend a night with the man you love?`
 ` What a boring woman."`
 `"............`
-` .........This feeling cannot be understood by the likes of you, Beatrice‐sama.`
+` .........This feeling cannot be understood by the likes of you, {f:5:Beatrice}‐sama.`
 ` ......If you desire our lives, please accept them.`
 ` We will solemnly carry out that duty."`
 `"......Good.`
 ` Well said..."`
 `"Pu ku ku ku.`
-` Just the type of person Beatrice‐sama is bad with."`
+` Just the type of person {f:5:Beatrice}‐sama is bad with."`
 `"Recently, this one has become quite detached.`
 ` ...It seems that I tortured her too much last time.`
 ` Speaking of which, didn't I do the same to Battler?"`
@@ -379,10 +379,10 @@
 ` Why not resolve it with a battle between furniture?`
 ` That should be enough to allow you some hope for victory, right...?"`
 `"..................`
-` ...With all due respect, Beatrice‐sama.`
+` ...With all due respect, {f:5:Beatrice}‐sama.`
 ` Is it truly possible that I could yield to this good‐for‐nothing furniture?"`
 `"As if this cute kid would have any chance in hell against me...`
-` Eheheheheheheheheheheheh."`
+` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh."`
 `".................................kh."`
 `"Show me that you can defeat my furniture of the Seven Stakes of Purgatory.`
 ` If you manage to come out the admirable victor,`
@@ -395,7 +395,7 @@
 `The evil ritual the witch and the rest were trying to carry out was, at this point,`
 ` not something that Kanon cared about in the slightest.`
 `......On the contrary, it was much more important for him to survive, be invited to the Golden Land,`
-` ...and have his wish granted by Beatrice there...`
+` ...and have his wish granted by {f:5:Beatrice} there...`
 `"You cried that you'd had enough of being furniture, right...?`
 ` I shall grant your desire.`
 ` I shall give you that human body which you wanted so much that you cried yourself to sleep.`
@@ -415,7 +415,7 @@
 ` There is no need to listen to her."`
 `"I, ......I'm sick of this.`
 ` Is this really what you want, Nee‐san?!"`
-`Beatrice couldn't hide her evil smile at those words.`
+`{f:5:Beatrice} couldn't hide her evil smile at those words.`
 `"I'm sick of this.`
 ` I want to be happy!`
 ` I've had enough of being furniture.`
@@ -430,9 +430,9 @@
 `".............................."`
 `"...Hehheheheheheheheheheheh.`
 ` I don't like it.`
-` ...You know you can't win against Beatrice‐sama,`
+` ...You know you can't win against {f:5:Beatrice}‐sama,`
 ` but you look down on me as though you might be able to win against me...`
-` ......I really don't like it."`
+` ......I {i:really} don't like it."`
 `That was probably humiliating to Lucifer.`
 `...But at the same time, she was also happy that she was so lucky to have this lovely prey all to herself...`
 `".........Come, furniture of the witch.`
@@ -464,7 +464,7 @@
 ` Magic exists, it's fantasy, stop playing detective."`
 `"I know all about it, the truth is you're awful at thinking about things, riiight??`
 ` Just stop, just stoooop, *cackle*cackle*!`
-` Look look, obviously fantasy, obviously fantasy, kihhihihyahyahhyahhyahhyahhyahhyaaaaaahhh!!"`
+` Look look, obviously fantasy, obviously fantasy, kihhihi{0}hya{0}hyah{0}hyah{0}hyah{0}hyah{0}hyah{0}hyaa{0}a{0}a{0}aahhh!!"`
 `"Shut up shut up shut uuuuuuuuuuup...!!!`
 ` Don't talk to meeeeeeee...!!"`
 `".........This guy's gotten obstinate.`
@@ -472,13 +472,13 @@
 ` If you do, I'll spare you, alright...?"`
 `"I'll spare you from having your skin ripped off while you're still alive,`
 ` and being lashed all over your body as you squirm until you die.`
-` Hehheheheheheheheheheheh!"`
+` Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!"`
 `"You're a cute kid, so apologize...`
 ` If you do, you can spend your last moments in blissful, wonderful ecstasy as I gently, gently finish you off......"`
 `"Be silent, furniture of the witch.`
 ` ...I have no intention of speaking with you."`
 `"S‐......so you say that you think nothing of me, do you...?"`
-`"Hehhheheheheheheheheh, I don't like it, that disrespectful gaze of yours...`
+`"Hehhheh{0}eh{0}eh{0}eh{0}eh{0}eheheh, I don't like it, that disrespectful gaze of yours...`
 ` I really don't like iiiiit!!"`
 `"............Kanon‐kun..............."`
 `"..........................."`
@@ -519,12 +519,12 @@
 ` You are boring Milady.`
 ` Was this opponent really too much for you to handle...?"`
 `"I'm disappointed, eldest of the Seven Staaakes.`
-` Kuhihihihihihihihihihihi...!"`
+` Kuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
 `That would have seemed like nothing more than a simple rebuke to an outsider.`
 `However, furniture serving the witch knew what kind of severe treatment was promised by that rebuke,`
 ` and understood what had been left unsaid...`
 `"Uuuuuuuuuuuguuhhh!!`
-` You......good‐for‐nothing FURNITUUUUUUUUUUUUURE!!!"`
+` You......good‐for‐nothing FURNITU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UURE!!!"`
 `She howled.`
 ` ...Abandoning her last bit of pride, she made her body explode, exposing her true form.`
 `That form was a demon stake, which bounced and deflected off the walls all over the room...`
@@ -534,7 +534,7 @@
 ` Even though you can't even follow my movements anymore!!`
 ` I won't play around anymore, I'm seriously mad, I'll pierce your heart in one blow!!"`
 `"I'll plow right through you, and make a fountain of bright‐red blood reach the ceiling!!`
-` DIIIIIIIIIIIIIIIIIIIIIIIIIIIIIEEEE!!"`
+` DIIIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIEEEE!!"`
 `"Ka‐Kanon‐kun.........!!"`
 `With a speed exceeding even the limits that the human eye could follow,`
 ` Lucifer went wild, and flew at Kanon's heart...`
@@ -580,7 +580,7 @@
 ` ............gu,`
 ` ..................h..."`
 `"...I win.`
-` .........Beatrice."`
+` .........{f:5:Beatrice}."`
 `Kanon didn't hold back at all with the hand gripping Lucifer's throat.`
 `......She had challenged him again after their fight had already been decided.`
 `{n}Kanon had no obligation to be considerate.`
@@ -612,7 +612,7 @@
 ` I think better of you now.`
 ` I honestly think better of you!"`
 `"Y‐......you better not have forgotten our promise...`
-` Beatrice..."`
+` {f:5:Beatrice}..."`
 `"Mhm.`
 ` Of course I have not forgotten.`
 ` Witches and demons are admittedly unjust.`
@@ -620,10 +620,10 @@
 `"I will not go back on my word.`
 ` I guaranteed that if you won,`
 ` I would give you the right to decide the five people who will escape becoming the 13 sacrifices."`
-`"......B‐Beatrice‐sama.`
+`"......B‐{f:5:Beatrice}‐sama.`
 ` I haven't yet...lo—`
 `higi!!"`
-`Beatrice twirled her pipe, and heaven and earth turned over just for Lucifer.`
+`{f:5:Beatrice} twirled her pipe, and heaven and earth turned over just for Lucifer.`
 `......So as a horribly natural result, she "fell" onto the ceiling.`
 `The ceiling doesn't seem that high to people standing on the floor.`
 `{n}...However, people who fall on it upside‐down and head‐first surely don't feel the same way...`
@@ -632,13 +632,13 @@
 `"*cackle*cackle*!`
 ` That may be so.`
 ` I suppose I will forgive her."`
-`Beatrice spun her pipe again.`
+`{f:5:Beatrice} spun her pipe again.`
 `When she did, the magic that had been affecting Lucifer was released.`
 `......So as a horribly natural result, this time with extreme legitimacy, she "fell" back onto the floor.`
 `"Agah......!!"`
 `"............Ku,`
 ` ............u,`
-` ...Beatrice‐sama,`
+` ...{f:5:Beatrice}‐sama,`
 ` ...f‐...forgive me............"`
 `"What are you afraid of?`
 ` I have already forgiven you, haven't I?`
@@ -652,10 +652,10 @@
 `".........What isn't?`
 ` ...Stop dodging the question...!!"`
 `"I did promise you, didn't I?`
-` If you could defeat my furniture, of the Seven Stakes of Purgatory, riiiiiiight?`
+` If you could defeat my furniture, of {i:the Seven Stakes of Purgatory}, riiiiiiight?`
 ` Come, arise, Seven Stakes of Purgatory.`
 ` The six younger sisters of the worthless elder sister!"`
-`""""""Kyahhahahahahahahahahahahaha!!""""""`
+`""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!""""""`
 `With shrill laughing voices, the air split,`
 ` and gold sprayed everywhere as the remaining six of the Seven Stakes of Purgatory showed themselves...`
 `All of the Seven Sisters of Purgatory, only one of which Kanon had been able to defeat by sacrificing his left arm, were gathered...`
@@ -757,7 +757,7 @@
 `"Then I'll take the head!`
 ` All of you can have the limbs!!"`
 `"No no, noooooooooooo!!`
-` I get the heaaaad!!"`
+` {i:I} get the heaaaad!!"`
 `"You know there's no way there'll be any meaning to promises like that!`
 ` It's obviously gonna be first one there wins!"`
 `"Kuhihihihi!!`
@@ -780,7 +780,7 @@
 `...They kept scraping his arms, shoulders, and cheeks,`
 ` carving red lines into his body...`
 `At that time, Shannon dashed up behind him, holding on to him so that she blocked the way to his body at least a little.`
-`"——Kh......!!"`
+`"{nobreak:{m:-5:—}—}Kh......!!"`
 `"Ah......?!"`
 `At the same time, a red cylinder wrapped around the two of them, like a beam of light sent from heaven.`
 ` That cylinder repelled the evil ones who tormented Kanon...`
@@ -792,7 +792,7 @@
 `"Kyahha!`
 ` Then I'll take her!`
 ` Aaall mine!!"`
-`"Beatrice‐sama.`
+`"{f:5:Beatrice}‐sama.`
 ` May we have Shannon as our prey...?"`
 `"Hm?`
 ` Aah, I don't mind, do as you like.`
@@ -807,7 +807,7 @@
 `"Gu......uuu......!!"`
 `As a horribly natural first action, the Seven Sisters began to destroy the barrier Shannon had created.`
 `...Shannon's barrier certainly was extremely strong.`
-`{n}It was enough power to impress even Beatrice.`
+`{n}It was enough power to impress even {f:5:Beatrice}.`
 `...It was strong enough that frail furniture would turn to dust just by touching it,`
 ` and it was firm, like a tree with deep roots.`
 `But no matter how big a tree gets, it will eventually surrender to a saw or a hatchet.`
@@ -851,13 +851,13 @@
 `"......Nnnngggggaaaaaaaaahhhh, you're pissing me off.`
 ` That philosophic view is really irritating!!`
 ` This is why you're furniture you don't even smell like a humaaaaaan!!"`
-`"Look at I am human!!`
+`"Look at {i:me}, {i:I} am human!!`
 ` Don't spout off philosophical stuff like you're more complete than I am, you furnituuuuuuuuuuure!!"`
 `"............How ugly.`
 ` Is that regret your true form?"`
 `"It's not a regreeeeeet, this is called LIVING!!`
 ` You received a ring, so it's alright if you die, what?!`
-` Aaaaah, I can't understand it, not a clue not a hope, goddamn astonished, goddamn shocked, no goddamn good at aaaaaaaaaaaalll!!"`
+` Aaaaah, I can't understand it, not a clue not a hope, goddamn astonished, goddamn shocked, no goddamn good at aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aalll!!"`
 `"......Milady, I might suggest you are acting somewhat undignified."`
 `"Shut up, furniture!!`
 ` Shannooooonn, do you think I'll let you die easilyyyyyyyyyyy?!`
@@ -866,7 +866,7 @@
 ` If you can see yourself reflected in my eyes,`
 ` then shudder at your own ugliness."`
 `"Don't worry,`
-` I'll crush you mush you mash you up so you're even uglier, while you're still aliiiiiiiiiive!!!"`
+` I'll crush you mush you mash you up so you're even uglier, while you're still aliii{-}i{-}i{-}i{-}i{-}iiive!!!"`
 `At that time, .........Genji softly entered the red barrier.`
 `{n}Maybe that barrier didn't block those without ill intent.`
 `Then Genji...softly held Shannon from behind,`
@@ -890,7 +890,7 @@
 ` .........and slept.`
 `Her soul had already been sent to a world where the malicious witch and her furniture could never reach her,`
 ` no matter how evilly they tortured her...`
-`Beatrice and the Seven Sisters were shocked by this scene.`
+`{f:5:Beatrice} and the Seven Sisters were shocked by this scene.`
 `{n}...Only Ronove had a mysterious expression along with his smile.`
 `Then Genji leaned over Kanon, who was crouching on the floor.`
 `".........You did well.`
@@ -910,13 +910,13 @@
 `"Spectacular, Genji.`
 ` ............You truly are furniture."`
 `"......Thank you very much.`
-` ...Well then, Beatrice‐sama, Ronove‐sama.`
+` ...Well then, {f:5:Beatrice}‐sama, Ronove‐sama.`
 ` With this as my final task, allow me to rest."`
 `"............Grr.`
 ` You took what I was playing with.`
 ` All of that thrashing and mashing I wanted to do to them,`
 ` I hope you're willing to take all that instead??"`
-`Beatrice faced him with an unsatisfied expression,`
+`{f:5:Beatrice} faced him with an unsatisfied expression,`
 ` but Ronove spoke quietly to Genji with a soothing smile.`
 `"You have worked hard.`
 ` You are my greatest servant.`
@@ -935,7 +935,7 @@
 ` ......It is not like you to allow the blood to rush to your head because of provocation from someone like Shannon."`
 `"...........................`
 ` ...hmph."`
-`What was there that Beatrice didn't like?`
+`What was there that {f:5:Beatrice} didn't like?`
 `{n}...Was she still unable to remove the thorn of Shannon's words?`
 `Ronove laughed lightly, as though lamenting the complexity of the human and the female heart, and ordered the Seven Sisters to go.`
 `......After all, there were still two sacrifices left for the first twilight.`

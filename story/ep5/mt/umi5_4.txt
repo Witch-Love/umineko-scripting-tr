@@ -61,7 +61,7 @@
 `"We might be able to overcome this year somehow, ......but there is such a thing as pushing our luck.`
 ` It's probably best to assume that next year won't be manageable."`
 `".........With this much of the anti‐magic toxin filling up the place,`
-` it will probably be difficult to preserve Lord Goldsmith's magic for yet another family conference."`
+` it will probably be difficult to preserve Lord {f:5:Goldsmith}'s magic for yet another family conference."`
 `"W‐......who are you?"`
 `"Oh,`
 ` no need to be surprised.`
@@ -102,9 +102,9 @@
 `".........I'm pretty sure I know how to be a good guest.`
 ` ...I won't let the landlord lose face."`
 `"You can count on Ronove and Gaap.`
-` However, the magic world and the human world are two different sides of the same coin."`
+` However, the magic world and the {y:0:Human}{n:0:human} world are two different sides of the same coin."`
 `"I understand.`
-` ......Of course, I will do all I can in the human world.`
+` ......Of course, I will do all I can in the {y:0:Human}{n:0:human} world.`
 ` Let's work together and protect Father's secret."`
 `"Mm."`
 `"......This happens every time.`
@@ -137,7 +137,7 @@
 `"*giggle*giggle*..."`
 `I have a general idea what these witches are talking about.`
 `......I've tried solving it several times myself in the past, but I still haven't found anything resembling an answer.`
-`On the contrary, I still can't even understand why that riddle exists.`
+`On the contrary, I still can't even understand {i:why that riddle exists}.`
 `.........That's right.`
 ` ...The reason it exists.`
 `{n}Why did Beato...`
@@ -149,7 +149,7 @@
 `like the truth of the riddle and how to solve it.`
 `{n}......What's more important is why that riddle was set up in the first place and displayed for us to see.`
 `{n}That's what I should be thinking about.`
-`And the one proposing that riddle......is Beatrice.`
+`And the one proposing that riddle......is {f:5:Beatrice}.`
 `Even if I can't solve it, I should be able to try and figure out what Beato was thinking when she showed it to us.`
 `......Alright...this time, I'm turning the chessboard over...`
 `{n}The witches keep calling me incompetent.`
@@ -169,8 +169,8 @@
 ` Nii‐san is just bluffing.`
 ` ......I'll make certain that he surrenders..."`
 `"Well, the thing about a deal is,`
-` you don't go in tryin' to beat the other guy.`
-` ......You get a pitfall ready, praise him a bit, and convince him to stand on it of his own accord."`
+` you don't go in tryin' to {i:beat} the other guy.`
+` ......You get a pitfall ready, praise him a bit, and convince him to stand on it of his {i:own} accord."`
 `"......Hideyoshi‐san is right.`
 ` You pressed him a little too hard just now, Eva nee‐san."`
 `"Th‐that was perfectly reasonable considering it's Nii‐san we're dealing with."`
@@ -194,8 +194,8 @@
 ` ...The sound of approaching footsteps.`
 `Then, whoever it was stepped in a very small puddle, making a light splashing sound, and Maria finally heard.`
 `However, even the slight distraction that sound caused made her feel irritated, and Maria ignored it despite having heard it.`
-``
-`"............Hello."`
+`{a:c:`
+`"............Hello."}`
 `"......ah."`
 `Maria turned around, bewildered.`
 `......After all, that voice...`
@@ -266,7 +266,7 @@
 ` Why not relax with some black tea for now...?`
 ` Come, Kanon‐san.`
 ` Quickly, quickly, serve it, serve it."`
-`""`
+`"{e:070:...Why do {i:I} have to...}{e:100:"}`
 `Kanon knew that this tea was just Gohda's way of earning points,`
 ` so he lined the cups up with a slightly sullen air.`
 `"Uu.`
@@ -341,7 +341,7 @@
 ` Please, make yourself at home and relax however you please."`
 `"............Thank you very much.`
 ` ...Allow me to introduce myself.`
-` ......I am called Furudo Erika (古戸ヱリカ)."`
+` ......I am called Furudo Erika ({p:0:古戸ヱリカ})."`
 `"My deepest apologies for disturbing you members of the Ushiromiya family like this.`
 ` ......I am truly grateful for the warm welcome I have received despite my status as an uninvited guest."`
 `......There was a general sigh of acceptance.`
@@ -364,37 +364,37 @@
 ` And Beato's opinio~n?"`
 `"...................................."`
 `Beato was unable to answer.`
-`{n}......Lambdadelta grinned as though in triumph.`
+`{n}......{f:5:Lambdadelta} grinned as though in triumph.`
 `"......Wanna try complaining about the rules and stepping down from the game?`
-` Isn't that the favorite move of you mystery people♪`
+` Isn't that the favorite move of you mystery people{p:0:♪}`
 ` If there's even a tiny element that goes against your expectations, you have a tantrum and totally stop thinking."`
 `".........Ugh..."`
 `".........Don't worry.`
 ` I'll make a detective proclamation about this piece."`
 `"Detective proclamation......?"`
-`"I proclaim that Furudo Erika is the detective."`
-`"The detective is not the culprit.`
-` No proof is needed to show this.`
+`"{p:1:I proclaim that Furudo Erika is the detective}."`
+`"{p:1:The detective is not the culprit}.`
+` {p:1:No proof is needed to show this}.`
 ` ......In short, there is absolutely no need to suspect this girl.`
-` With this guarantee, you can theorize the same way as you always did, even now that she's appeared as a human piece, right...?"`
+` With this guarantee, you can theorize the same way as you always did, even now that she's appeared as a {y:0:Human}{n:0:human} piece, right...?"`
 `"......That's Knox's seventh commandment.`
 ` ‘It is forbidden for the detective to be the culprit’.`
 ` There was an exception clause in the original, but for this game`
 ` ‘`
-`the detective isn't the culprit’ has been proclaimed in red, so you don't need to consider the exception.`
+`{p:1:the detective isn't the culprit}’ has been proclaimed in red, so you don't need to consider the exception.`
 ` I hate word games, so I'll say it in red too.`
-` Furudo Erika is not the culprit."`
+` {p:1:Furudo Erika is not the culprit}."`
 `"Repetition requested.`
 ` ......‘Furudo Erika had no influence on any of Beato's games before now’."`
 `"Sure, I'll respond.`
-` Furudo Erika had no influence on any of Beato's games before now.`
+` {p:1:Furudo Erika had no influence on any of Beato's games before now}.`
 ` She's nothing more than an extra character who appears for the first time this round.`
-` She does not exist in the worlds before this one, nor does she influence them."`
+` {p:1:She does not exist in the worlds before this one, nor does she influence them}."`
 `"In that case, what happens to the number of people on this island right now?"`
 `"Of course, it's plus 1 over the previous number.`
 ` But don't worry.`
-` Furudo Erika.`
-` Besides her, the number of people on this island is exactly the same as it was in the previous games."`
+` {p:1:It has only increased by one person: Furudo Erika}.`
+` {p:1:Besides her, the number of people on this island is exactly the same as it was in the previous games}."`
 `At that time, the loud sound of people running through the corridor could be heard.`
 `It was Battler, George, and Jessica, who had come from the guesthouse after being called here by Eva.`
 `They immediately spotted a guest they didn't recognize, and their eyes went wide.`
@@ -418,11 +418,11 @@
 `Though Battler, George, and Jessica didn't have a clue what was going on and were utterly bewildered, they each introduced themselves...`
 `"......Isn't that convenient.`
 ` This way, the number of people is clear.`
-` The people in the guesthouse have joined up with the rest, and now, all of the pieces except for Kinzo—all of the humans—have gathered in the parlor."`
+` The people in the guesthouse have joined up with the rest, and now, all of the pieces except for Kinzo—all of the {y:0:Human}{n:0:human}s—have gathered in the parlor."`
 `"Looks like it.`
-` In other words, the number of people in this parlor now is equal to the total number of people on this island."`
+` {p:1:In other words, the number of people in this parlor now is equal to the total number of people on this island}."`
 `"There were supposedly 18 humans on the island, ...but since Grandfather was actually dead, that became 17.`
-` ......And now that one piece of Bernkastel's has been added......"`
+` ......And now that one piece of {f:5:Bernkastel}'s has been added......"`
 `The number of humans on this island has returned to 18......`
 `"I" glanced around at the humans in the parlor.`
 `The guest, Furudo Erika.`
@@ -451,7 +451,7 @@
 ` and it was decided that she could borrow the bedroom next to the cousins' room on the upper floor of the guesthouse.`
 `In front of all the relatives, she had seemed dignified and a bit stiff.`
 `However, as she talked with George and Jessica, her expression began to soften gradually......`
-`——And so,`
+`{m:-5:——}And so,`
 ` the "detective", Furudo Erika, was placed on the game board......`
 `"I'm surprised that Jessica's old clothes suit her so well."`
 `"......Kumasawa made the decision on her own to use Milady's old clothes.`
@@ -501,13 +501,13 @@
 ` ...Furudo Erika, was it?`
 ` It's rare for guests to come here to Rokkenjima.`
 ` She looks as though she'll be entertaining, don't you think?"`
-`"She is probably Lady Bernkastel's piece.`
-` ......Though she will follow the rules of humans, the player is a witch.`
+`"She is probably Lady {f:5:Bernkastel}'s piece.`
+` ......Though she will follow the rules of {y:0:Human}{n:0:human}s, the player is a witch.`
 ` We can't underestimate her."`
 `"Hmph, there is no problem.`
-` Even if she were Lady human, and so she is no match for us.`
+` Even if she were Lady {f:5:Bernkastel} herself, she is a {y:0:Human}{n:0:human}, and so she is no match for us.`
 ` ......After all, we have Gaap with us.`
-` Humans certainly cannot win against Gaap!"`
+` {y:0:Human}{n:0:Human}s certainly cannot win against Gaap!"`
 `"............Thanks.`
 ` Still, it's not a good idea to overestimate yourself.`
 ` ......The definition of a witch doesn't only imply the ability to use magic."`
@@ -516,6 +516,6 @@
 ` That is what a witch is..."`
 `"Hmph.`
 ` I'm the one who gets to call herself a witch on this Rokkenjima.`
-` Only I, the Golden Witch and Endless Witch, Beatrice!`
-` Let us see how good Lady Bernkastel's next piece after Ange is.`
+` Only I, the Golden Witch and Endless Witch, {f:5:Beatrice}!`
+` Let us see how good Lady {f:5:Bernkastel}'s next piece after Ange is.`
 ` I intend to watch very carefully...!"`

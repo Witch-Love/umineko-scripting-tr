@@ -117,9 +117,9 @@
 ` Me too.`
 ` .........Regardless of whether the culprit was that mystery guest or not."`
 `"That's right.`
-` ......We are naturally suspecting the mysterious guest who calls herself Beatrice,`
+` ......We are naturally suspecting the mysterious guest who calls herself {f:5:Beatrice},`
 ` but we still cannot be sure that she is the culprit.`
-` ...There is still the possibility she's a victim whose corpse still hasn't been found."`
+` ...There is still the possibility she's a {i:victim whose corpse still hasn't been found}."`
 `"......When I think of it that way, there's something I just can't understand."`
 `"What do you......mean by that......?"`
 `"It's simple.`
@@ -139,7 +139,7 @@
 ` ......And yet, they acted as though they wanted to make us find the corpses in the middle of this typhoon."`
 `"......What...does this mean?`
 ` ...If I was the culprit, I definitely wouldn't play around and make us find the corpses."`
-`"............Beatrice‐sama was not in her room.`
+`"............{f:5:Beatrice}‐sama was not in her room.`
 ` ...The room did not seem particularly disturbed.`
 ` ......Ah, no, Milady did disturb it quite a lot though..."`
 `"...Come to think of it, what happened to Jessica?"`
@@ -150,7 +150,7 @@
 ` ......In this situation, I don't believe it's a very good idea to isolate ourselves in small numbers."`
 `"Wh‐what do you mean by that...?`
 ` Y‐y‐you don't mean to say that the culprit plans to kill all of us...?!`
-` Awawawawawawawawa..."`
+` Awawa{0}wa{0}wa{0}wa{0}wawawa..."`
 `"Let us remain calm...`
 ` That is not yet certain..."`
 `"But we can't deny the possibility, much to my chagrin. Ihihi."`
@@ -159,7 +159,7 @@
 ` and if we don't solve the riddle of Grandfather's epitaph and find the gold, she'll massacre the whole family...or something like that."`
 `"Is that true...!`
 ` Umm, would you allow me to read it as well...?"`
-`"Hii...hi...hi...hieeeeeeeeeeeeeeeeeeee...eeeeeeeeee...hh..."`
+`"Hii...{0}hi...{0}hi...{0}hieee{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}eeee...{0}eeee{0}e{0}e{0}eeee...{0}hh..."`
 `"......mmmmmmmgh......"`
 `As they read the witch's letter, Gohda, Kumasawa, and Nanjo's faces grew even paler than they had been...`
 `Kumasawa could no longer hide her shaking.`
@@ -223,7 +223,7 @@
 ` I think that creates an immediate contradiction."`
 `".........And something else makes even less sense.`
 ` ......They're trying to say that the Legend of the Gold is actually true,`
-` but how could they prepare that gold?`
+` {i:but how could they prepare that gold}?`
 ` ......It's almost like the culprit has already found the gold,`
 ` and is telling us to try and find it too."`
 `"Maybe the culprit obtained those three like Uncle Krauss and thereby became certain about the Legend of the Gold,`
@@ -237,32 +237,32 @@
 `"......Kihihi.`
 ` It was written down.`
 ` What she wants you to do.`
-` Can't any of you read? Kihihihihihihihihihi."`
+` Can't any of you read? Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `Maria suddenly laughed in a creepy voice.`
 `...I'd thought she'd been concentrating on the TV, but she'd been listening in too, apparently.`
 `As she remained facing the TV, ...she very simply told us what we were forgetting.`
-`"Beatrice hasn't said one word about wanting the gold.`
+`"{f:5:Beatrice} hasn't said one word about wanting the gold.`
 ` ......She's not asked anything except whether you can solve the epitaph's riddle or not."`
 `"...Although I bet she thinks it'll be impossible for you anyway.`
-` ......Kihihihihihihihihihihihihihihihihi."`
+` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `"......So you're saying you can solve it, Maria?"`
 `"...Don't caaare.`
 ` She's going to take me to the Golden Land, so.`
-` Won't get in Beatrice's way.`
-` Kihihihihihihihihihihi,`
+` Won't get in {f:5:Beatrice}'s way.`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
 ` ouch."`
 `"Looks like if we wanna understand further, we're gonna have to ask Maria.`
 ` ...Maria, tell us.`
-` ...............Who is this Beatrice?`
+` ...............Who is this {f:5:Beatrice}?`
 ` What is she planning?"`
 `"Kihihihihihihihihihihihihihihihihi!`
-` Well, you see, Beatrice is a witch!`
+` Well, you see, {f:5:Beatrice} is a witch!`
 ` She can do anything with her wondrous powers."`
 `"Anything can be done with the power of magic.`
 ` You can create gold, you can create bread.`
 ` And of course, you can even create sweets!`
 ` You saw it, didn't you?`
-` Kihihihihihihihihihihihihihihihihihihihihihihihi!"`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
 `"......hn?"`
 `At that time, everyone jumped at the sound of a door being closed forcefully.`
 `We turned around to find that at some point Rosa had returned, bringing Genji and Shannon.`
@@ -317,7 +317,7 @@
 `"............No.`
 ` Let's all go together.`
 ` ...It's a "Wolves and Sheep Puzzle".`
-` If we're all gathered together here in equilibrium, that situation is the most safe."`
+` {i:If we're all gathered together here in equilibrium}, that situation is the most safe."`
 `"...‘Wolves and Sheep Puzzle’?"`
 `"......Uu.`
 ` I have it.`
@@ -510,7 +510,7 @@
 ` So I've decided to make a move to defeat that.`
 ` ......I'll alter the setup."`
 `"`
-`The only master keys are the ones held by the servants, one key each.`
+`{p:1:The only master keys are the ones held by the servants, one key each}.`
 ` *cackle*cackle*."`
 `"...Messing with me.`
 ` ......More importantly.`
@@ -644,7 +644,7 @@
 ` He may appear unexpectedly with that excuse."`
 `"But take care.`
 ` Maybe, probably—no, definitely.`
-` .........Kanon‐kun killed Jessica‐chan."`
+` .........{i:Kanon‐kun killed Jessica‐chan}."`
 `"............No, ..................no way........."`
 `"I, ...I can't believe it...`
 ` For Kanon‐kun to do that...`
@@ -664,9 +664,9 @@
 `...Of course, they couldn't say anything back.`
 `They wanted to believe in Kanon‐kun.`
 ` ...But if they did, they would have to suspect the other servants.`
-`The simplest culprit was the mystery guest Beatrice.`
+`The simplest culprit was the mystery guest {f:5:Beatrice}.`
 `{n}......But she was nothing more than a guest, and didn't have a master key.`
-`.........Then if Beatrice was the culprit without a master key...`
+`.........Then if {f:5:Beatrice} was the culprit without a master key...`
 `...Do we have to accept the argument that she really is a witch, and locked the door with the power of magic......?`
 `"............That's a filthy argument...`
 ` ......Filthy...... Filthy......"`
@@ -676,7 +676,7 @@
 ` If you do, you won't have to watch this ugly battle of humans pressing each other...`
 ` *cackle*cackle*cackle*cackle*!"`
 `"So then what.`
-` The culprit is the 19th person, the guest Beatrice.`
+` The culprit is the 19th person, the guest {f:5:Beatrice}.`
 ` ...She's a witch, so she could lock the door without a key using magic."`
 `"Are you telling me to accept that?`
 ` No goddamn way...!`
@@ -691,7 +691,7 @@
 ` Kanon is already dead.`
 ` There should be no need to show concern for the dead.`
 ` And you won't have to doubt anyone here!`
-` *cackle*hahahahahahahahahahaha!"`
+` *cackle*hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `"Damn it!!`
 ` I won't accept you!!!`
 ` But......Kanon‐kun being the culprit, ......that's impossible!!"`
@@ -722,7 +722,7 @@
 ` ...It may be possible that they would massacre us for this reason."`
 `".............................."`
 `"For the simple reason that our guest wasn't holding a master key, for the murder of Jessica‐chan, and this murder alone,`
-` we removed our 19th person—Beatrice—from suspicion.`
+` we removed our 19th person—{f:5:Beatrice}—from suspicion.`
 ` But we can't say that she is unrelated to the crime."`
 `"......After all, it's a vast amount of gold we're talking about.`
 ` We can't deny the possibility that there are multiple culprits.`
@@ -766,7 +766,7 @@
 ` By using the ever‐so‐slightly vague word "suppose", ...ultimately, she gave everyone that last little push they needed.`
 `Everyone nodded weakly,`
 ` ...............and, under the excuse that they were just temporarily supposing it,`
-` .........they concluded that Kanon was the culprit who had killed Jessica...`
+` .........they {i:concluded} that Kanon was the culprit who had killed Jessica...`
 `.........I wonder what the dead Jessica and Kanon would think if they could hear this exchange.`
 `Jessica...was crying.`
 `{n}......She was crying in the chest of the person who had put his life on the line to fight for her: Kanon.`
@@ -802,7 +802,7 @@
 ` Truth belongs to living humans!!`
 ` If the truth doesn't remain, the dead won't be rewarded!!`
 ` They won't know why you risked your life!!"`
-`"*cackle*cackle*cackle*cackle*, hahahahahahahahahahahaha!`
+`"*cackle*cackle*cackle*cackle*, hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!`
 ` Truly a splendid sight.`
 ` It is a rare honey that is sweeter than the laments of the dead."`
 `"Lament, lament.`
@@ -843,12 +843,12 @@
 `"You make me laugh, yes, that face of yours makes me laugh!!`
 ` You're thinking it will reach, aren't youuu?`
 ` It won't reach, Jessicaaaaaaa!!!`
-` *cackle*cackle*cackle*cackle*, wahahahahahahahahahahahahahahahahahahahahahahaha!!"`
+` *cackle*cackle*cackle*cackle*, wahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"That's no goddamn good."`
 `"Huh?`
 ` .........Battler‐kun, did you say something?"`
 `"Yeah, this is no good.`
-` ...It's no goddamn good at all."`
+` ...{i:It's no goddamn good at all}."`
 `At the time everyone made to leave the room,`
 ` ...only Battler had his back to them, and he was still looking down at Jessica's body.`
 `"What do you mean, ...it's no good at all?`
@@ -863,7 +863,7 @@
 `"...I've gotta take responsibility for my own actions.`
 ` Ihihihihi...!`
 ` ...............I'm empty‐handed with zero weapons to argue with.`
-` ...But you know, I won't stand here twiddling my thumbs anymore!! Beatrice!!"`
+` ...But you know, I won't stand here twiddling my thumbs anymore!! {f:5:Beatrice}!!"`
 `"B‐......Battler‐sama......"`
 `"......I‐is there some proof that Kanon‐kun isn't the culprit......?"`
 `The expression that rose to those two faces was definitely expectant.`
@@ -916,7 +916,7 @@
 ` Could you explain it, Battler‐kun?!"`
 `"......That's right.`
 ` When Jessica unlocked the VIP room,`
-` she borrowed the key from Kanon‐kun, but didn't give it back!`
+` she borrowed the key from Kanon‐kun, {i:but didn't give it back}!`
 ` So Kanon‐kun wasn't holding a master key!!"`
 `"*cackle*cackle*!`
 ` Or was he?"`
@@ -998,12 +998,12 @@
 ` I'm sure I'll be denied from all angles, ...but first I'll verify the definition of what it means for this room to be a locked room."`
 `"Very well.`
 ` First,`
-` there are absolutely no types of hidden doors.`
-` This door is the only way in or out.`
-` The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant."`
+` {p:1:there are absolutely no types of hidden doors}.`
+` {p:1:This door is the only way in or out}.`
+` {p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant}."`
 `"It is on the second floor, but it is probably possible to enter or leave through the window.`
 ` However,`
-` the window is locked from the inside."`
+` {p:1:the window is locked from the inside}."`
 `"......Let me flip over the chessboard right away.`
 ` ...If I start by arguing about the door and the lock, I probably won't leave the palm of your hand."`
 `"Do as you like.`
@@ -1011,7 +1011,7 @@
 `".........Repetition requested.`
 ` "Kanon‐kun was killed in this room"."`
 `"Mmhm.`
-` "Kanon was killed in this room".`
+` "{p:1:Kanon was killed in this room}".`
 ` Although I erased his corpse with magic, of course?`
 ` *cackle*cackle*cackle*!"`
 `"And again, repetition requested.`
@@ -1023,7 +1023,7 @@
 ` *giggle*giggle*giggle*!"`
 `"Of course you wouldn't.`
 ` ......There's got to be a secret hidden in there somewhere."`
-`"......Damn, where's the point of contention to this riddle?`
+`" ......Damn, where's the point of contention to this riddle?`
 ` .........Is it that they locked it without a master key?`
 ` Or is it how they managed to kill two people who were inside a room with the door locked?`
 ` Or is it how they managed to escape after killing them both?"`
@@ -1048,8 +1048,8 @@
 ` It's like you're leading me down a path, goddamn annoying...`
 ` Stay quiet a while, I'm thinking...!"`
 `"Of course, this door is the same as the chapel.`
-` When locked, it does not permit any form of entry or exit."`
-`"I'll say more. No trick could have the effect of locking the door from the outside without using a key.`
+` {p:1:When locked, it does not permit any form of entry or exit}."`
+`"I'll say more. {p:1:No trick could have the effect of locking the door from the outside without using a key}.`
 ` *cackle*cackle*...!"`
 `"Tch.`
 ` Damn you for always using red when I don't ask for it..."`
@@ -1058,7 +1058,7 @@
 `{n}I'll lay out everything I know.`
 `First, there are two victims.`
 `Jessica and Kanon‐kun.`
-`...Kanon‐kun's corpse isn't here, but Beatrice admitted in red that Kanon‐kun was killed.`
+`...Kanon‐kun's corpse isn't here, but {f:5:Beatrice} admitted in red that Kanon‐kun was killed.`
 `So even without a corpse, he's included as a victim.`
 `There are a few questionable points.`
 ` And depending on which I focus on, my line of thought changes a lot.`
@@ -1069,7 +1069,7 @@
 `At this point, I noticed something.`
 `......I'm contradicting myself.`
 `{n}I'm cutting my own throat.`
-`I want to deny Beatrice no matter what.`
+`I want to deny {f:5:Beatrice} no matter what.`
 `{n}I want to erase the existence of that brutal, fickle, ridiculous witch!`
 `In order to do that, I have to explain everything with humans, not magic.`
 `......But that also means suspecting some human.`
@@ -1120,7 +1120,7 @@
 `"And what that entails is suspecting one of you 18...!!"`
 `"Tha‐......thanks for the lovely explanation.`
 ` ...I've been able to sort things out a bit."`
-`"......My goal is to pursue how the 19th person, the Beatrice, committed the crimes.`
+`"......My goal is to pursue how the 19th person, the {y:0:Human}{n:0:human} guest {f:5:Beatrice}, committed the crimes.`
 ` If I do that, I won't have to suspect anyone!!"`
 `"*cackle*cackle*!`
 ` If you can do that, yes...!`

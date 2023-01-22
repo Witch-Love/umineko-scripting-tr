@@ -27,7 +27,7 @@
 ` Casually walking around in a place like that."`
 `How had she gotten up there?`
 `{n}......Well, it's pretty pointless to wonder about that sort of thing when you're dealing with a witch.`
-`Beatrice was casually sitting on the roof of the arbor,`
+`{f:5:Beatrice} was casually sitting on the roof of the arbor,`
 ` almost as though she had been basking in the sun.`
 `"Those relatives are like a massive lump of the anti‐magic toxin, and they'll be intruding on us.`
 ` If you bump into them, your soul will evaporate in a instant."`
@@ -117,31 +117,31 @@
 `".........None at all.`
 ` If you gotta pee, why don't you just go and do it...?"`
 `"What a rude thing to say.`
-` Kinzo is already dead, remember?`
+` {p:1:Kinzo is already dead}, remember?`
 ` But he's walking around and talking, isn't he?`
 ` Doesn't that mean this is magic?!"`
 `"Well, I doubt this move would work on you after all this time, Bern.`
 ` ......But what about you, Battler?`
 ` Isn't this weird?`
 ` Don't you have to accept the existence of the magic that revived Kinzo?`
-` Hahhihhyahhahaaaah!"`
+` Hahhi{0}hhyah{0}ha{0}haaaah!"`
 `"......If you're trying to imitate Beato,`
 ` stop it right now, 'cause it's pissing me off."`
 `"*giggle*!`
 ` Figured it out?!`
 ` Then come on, how are you gonna answer, Battler?`
 ` Kinzo was just out for a stro~ll."`
-`"Why don't you do what you usually do and start holding your head, crying "this doesn't make any sense!!"...?`
-` C'mon, use that old "it's no goddamn good at all" catch phrase and let me hear your classic crazy counterargument."`
+`"Why don't you do what you usually do and start holding your head, crying "{i:this doesn't make any sense!!}"...?`
+` C'mon, use that old "{i:it's no goddamn good at all}" catch phrase and let me hear your classic crazy counterargument."`
 `"There's no way that a human who's supposed to be dead could be walking around, right?`
 ` Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass delusions?`
 ` Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!`
 ` Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"`
 `"Let me hear tons of this wonderful crap,`
-` kyaaahahahaahahahahahahahahahahahahahaha!!"`
+` kyaaa{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `".........Just shut up.`
 ` This isn't even a problem."`
-`Grandfather is dead at this point in time.`
+`{p:1:Grandfather is dead at this point in time}.`
 ` There's no way he exists.`
 `"The only reason everything's behaving as though he actually exists...`
 `is because that's the lie that Aunt Natsuhi's creating in an attempt to hide Grandfather's death and trick her way through the family conference."`
@@ -155,7 +155,7 @@
 ` it's possible to display "Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality.`
 ` That means it's possible for Grandfather to appear."`
 `Clap, clap, clap...`
-`That extremely unflattering applause was coming from Bernkastel.`
+`That extremely unflattering applause was coming from {f:5:Bernkastel}.`
 `"......Bravo.`
 ` ............You're much calmer without Beato around."`
 `"Quiet.`
@@ -182,26 +182,26 @@
 ` Would you mind?"`
 `"............`
 ` ......`
-`The reason Grandfather is strolling around like nothing happened even though he's already dead...`
+`{p:2:The reason Grandfather is strolling around like nothing happened even though he's already dead...`
 `is that people who want to make it seem as though he's alive created an illusion of him.`
 ` Everyone with the same intention can share in that illusion.`
 ` Then, they talk as though Grandfather actually exists and was with them until a second ago.`
-` That's why he's strolling around like it's perfectly natural."`
+` That's why he's strolling around like it's perfectly natural}."`
 `"`
-`Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with Aunt Natsuhi.`
-` That's why they needed to set it up so that he would shut himself away in his study and not come out."`
+`{p:2:Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with Aunt Natsuhi}.`
+` {p:2:That's why they needed to set it up so that he would shut himself away in his study and not come out}."`
 `In the games before now, Grandfather was always shut away in his study.`
 `We never met him directly.`
 `However, there were some people who spoke in a way that made it seem like he was locked up in his study in a bad mood,`
 ` and who claimed to have met him only a short while ago.`
 ` We blindly accepted that and believed that Grandfather was in the study.`
-``
-`That's why it was possible for an illusion of Grandfather to exist in the study.`
+`{a:c:`
+`{i:That's why it was possible for an illusion of Grandfather to exist in the study}.}`
 `That's right, in the games before now,`
 ` the only people who met Grandfather were Uncle Krauss,`
 ` Aunt Natsuhi, and the servants.`
-`Because they all stuck to the same story,`
-` an illusion of Grandfather was able to exist on this island, making it seem like he was alive.`
+`{p:2:Because they all stuck to the same story,`
+` an illusion of Grandfather was able to exist on this island, making it seem like he was alive}.`
 `"......You were even kind enough to show me a scene at the beginning of this game...`
 `of Aunt Natsuhi convincing Doctor Nanjo and the rest to cover up Grandfather's death.`
 ` ......I'm not gonna fall for this kind of cheap trick now."`
@@ -237,7 +237,7 @@
 ` ......It sounds like you're saying there's something wrong with the way I've been fighting."`
 `".........We are fighting to kill the fantasy known as the witch illusion.`
 ` That means interpreting this tale...`
-`as a proper mystery.`
+`as a {i:proper mystery}.`
 ` In other words, from the very start, we have to forget about any and all elements that would violate the taboos of the mystery genre."`
 `"F‐...forget about them.........?"`
 `"For example, several locked‐room murders have occurred in the games before now, right?"`
@@ -249,17 +249,17 @@
 `I call that a waste of time.`
 `After all, it's clearly specified by Knox's third commandment.`
 `"It is forbidden for hidden passages to exist."`
-`In the mystery genre, hidden passages mustn't exist.`
+`In the mystery genre, hidden passages {i:mustn't exist}.`
 `So when trying to interpret everything as a proper mystery,`
 ` having a debate over whether there are hidden doors or not is a defeat from the beginning, don't you see...?`
-`After all, there aren't any.`
+`After all, {i:there aren't any}.`
 `As soon as you suspect that they might exist, then it's already game over for you.`
 `In other words, the way you assume that you can't use reason just because it hasn't been proven that hidden doors don't exist at the crime scene...`
 `makes you simply naive and a failure at mysteries.`
 ` You've already lost once you start thinking that.`
 `You were trying to interpret everything within the bounds of the mystery genre, right...?`
 `Then you've got to follow its conventions.`
-` ...*giggle*giggle*giggle*giggle*, hihihihihihihihihihihihyahhahhahahahahahahahahahahahahahaha...!!`
+` ...*giggle*giggle*giggle*giggle*, hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hyah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha...!!`
 `"*cough*.`
 ` .........That's how it is.`
 ` Hidden doors must not exist at any of the crime scenes.`
@@ -275,7 +275,7 @@
 ` They're the fantasy side's worst enemies."`
 `"..................`
 ` So you deny the existence of hidden doors right from the start, without even investigating the crime scene...`
-` That's what sounds like fantasy to me..."`
+` {i:That's} what sounds like fantasy to me..."`
 `"Lambda, who's in charge of the witch side, is fantasy.`
 ` I'm the one who's fighting her, mystery.`
 ` What are you?`
@@ -293,9 +293,9 @@
 `......She looked as though she was suffering from a high fever.`
 `"Beato......`
 ` What's wrong... Are you okay...?"`
-`"What do you mean, okay?`
+`"What do you mean, {i:okay}?`
 ` You sure do say some strange things.`
-` ......You're fighting to kill that girl."`
+` ......You're fighting to {i:kill} that girl."`
 `"..............."`
 `"We've rewound this fifth game for your benefit,`
 ` but where we're at right now, Bern's cornered me pretty good and she's about to break through the witch illusion.`
@@ -381,7 +381,7 @@
 `"......So this is patis...`
 ` I just assumed it would be some kind of baked sweet..."`
 `Natsuhi hadn't thought for a moment that it would have a curry‐like spicy flavor, and had started coughing after putting it in her mouth.`
-`To describe it in Japanese terms, it was like age‐gyoza stuffed with mashed, curry‐flavored potatoes.`
+`To describe it in Japanese terms, it was like {ruby:fried dumplings:age‐gyoza} stuffed with mashed, curry‐flavored potatoes.`
 `As a savory snack, it would probably be pretty popular with the kids.`
 `However, it was something of a shock to Natsuhi, who expected that a treat to go with tea would be something sweet.`
 `"Didn't you know?`
@@ -389,7 +389,7 @@
 ` Were it another black tea, it would be cookies.`
 ` Oh, but chocolate is good too.`
 ` With Japanese tea, sweet bean jelly is the tradition, although salted konbu also works.`
-` With Chinese tea, you have xiaolongbao.`
+` With Chinese tea, you have {ruby:Chinese dumplings:xiaolongbao}.`
 ` Though I like moon cakes as well."`
 `"......I'm surprised.`
 ` You know a lot about culture, don't you?"`
@@ -490,8 +490,8 @@
 `you leaned on your husband and held his hand, I'll bet?!`
 ` What the heck, you and your husband share a pretty pure love, don't you?!`
 ` Did you get all fired u~p?`
-` You know, like, that night♪`
-` Kiiihihihihihihi!!"`
+` You know, like, that night{p:0:♪}`
+` Kiiihi{0}hi{0}hi{0}hi{0}hihi!!"`
 `Red‐faced and avoiding Beato's eye, Natsuhi tried to hide her embarrassment by stuffing the patis whole into her mouth,`
 ` chewing with her cheeks puffed out like a blowfish.`
 `Beato said that there was nothing better than this to go with tea,`
@@ -525,7 +525,7 @@
 `"We couldn't afford to have this secret found out under any circumstances.`
 ` That's why I made such a thorough plan."`
 `"Your willpower and attention to detail summoned success with certainty.`
-` ......As a witch, it seems that you're in Lady Lambdadelta's camp.`
+` ......As a witch, it seems that you're in Lady {f:5:Lambdadelta}'s camp.`
 ` At your current level, as soon as you become self‐aware of that as magic, you will be worthy of calling yourself a witch apprentice."`
 `"If you call something like that magic, then that would make Kumasawa the witch of feigned illnesses.`
 ` She only calls us to say she's taking the day off because of her bad back on the busy days.`
@@ -576,7 +576,7 @@
 ` Just like you're cackling over there as you drink with Aunt Natsuhi."`
 `"..........................."`
 `"..............."`
-`".................................................................................................................................................................."`
+`"...............................................................................................................................................................{0}..."`
 `"............Can't you at least grin...?"`
 `"Never again.`
 ` This child will never laugh again."`
@@ -585,10 +585,10 @@
 ` Quit trying to steal away Beato's right to laugh."`
 `"......Oh, should I say it in red, then...?"`
 `I shook my head furiously.`
-`Then, with an expression that didn't reveal her thoughts in the slightest, Bernkastel spoke while looking at Beato's face.`
+`Then, with an expression that didn't reveal her thoughts in the slightest, {f:5:Bernkastel} spoke while looking at Beato's face.`
 ` ......And I didn't understand the word she used in the slightest.`
-``
-`"Congratulations."`
+`{a:c:`
+`"Congratulations."}`
 `".........For what?"`
 `"Beato is like this as a result of your victory."`
 `".........What are you talking about......?"`
@@ -596,7 +596,7 @@
 ` You said that this would be eternal torture where you both torment each other.`
 ` That was right.`
 ` It was torture for Beato as well.`
-` And you won that torture game.`
+` And you {i:won} that torture game.`
 ` ......That's why Beato's soul was killed, and why she became a doll‐like corpse."`
 `"Are you saying......that I did this to Beato?"`
 `"The battle ends when one of you loses the will to try and win.`
@@ -606,7 +606,7 @@
 ` ...Why is this game still continuing?"`
 `"The shackle attached to that girl's ankle.`
 ` ......That's a rule Lambda made."`
-`Even if Beatrice tries to yield or gets discouraged or gives up,`
+`Even if {f:5:Beatrice} tries to yield or gets discouraged or gives up,`
 ` she isn't capable of stepping down from the game.`
 `......That's the rule.`
 ` Or maybe it's a curse.`
@@ -616,7 +616,7 @@
 ` I assisted you by making sure that you would receive hints and things would go your way.`
 ` That's why you're able to be here now.`
 ` ............Do you remember? How I helped you?"`
-`Bernkastel stared at me...`
+`{f:5:Bernkastel} stared at me...`
 `......It's true I wasn't aware of it,`
 ` ......but maybe it was true...`
 `that she had helped me.`
@@ -634,7 +634,7 @@
 ` That's a wonderful bit of support within this game."`
 `In that case, the only way left for this game to end......is for me to win.`
 `At the very least, until I do win,`
-` this witch called Lambdadelta can probably try to buy time for Beato's condition to turn back around.`
+` this witch called {f:5:Lambdadelta} can probably try to buy time for Beato's condition to turn back around.`
 `But that......would just prolong Beato's suffering even more...`
 `Neither of us want that.`
 `Both Beato and I fought with all we had trying to win.`
@@ -643,7 +643,7 @@
 ` we confronted each other head‐on with all of our strength.`
 `And Beato.........admitted defeat.`
 `She said she wanted me to end this game...and entrusted everything to me.`
-`So, Bernkastel's words were the truth.`
+`So, {f:5:Bernkastel}'s words were the truth.`
 `She said it was my fault that Beato had become a living corpse.`
 ` ......That was true.`
 `But it was something both of us wanted.`
@@ -664,7 +664,7 @@
 ` Beato resigned.`
 ` I'll ignore the truth of the witch illusions and return home with my family.`
 ` ......What's wrong with that?"`
-`If only Lambdadelta hadn't placed the curse of that shackle on her, this battle would be over already.`
+`If only {f:5:Lambdadelta} hadn't placed the curse of that shackle on her, this battle would be over already.`
 `......That's why I find it detestable.`
 `This game, where I have to torment Beato even more to end it,`
 ` ......is detestable.`
@@ -682,12 +682,12 @@
 ` Kill this witch without fail."`
 `"...................................."`
 `Even though Beato was right there,`
-` Bernkastel spoke without holding back...`
+` {f:5:Bernkastel} spoke without holding back...`
 `"Your goal is to kill this woman.`
 ` ......In the last game, you said it at Beato's request.`
 ` You said "I will kill you"."`
 `"......Yeah, that may be true,`
-` but that doesn't give you a right to comment on it."`
+` but that doesn't give {i:you} a right to comment on it."`
 `"Did you know?`
 ` When you tear one of your fingernails out, it's better to do it in one go.`
 ` ......Pulling it out like you do, gently, timidly,`
@@ -698,14 +698,14 @@
 ` That's how killing works."`
 `"That's none of your business.`
 ` I'm the one to decide how to perform her last rites.`
-` You and that Lambdadelta witch have nothing to do with this.`
-` I will kill her.`
+` You and that {f:5:Lambdadelta} witch have nothing to do with this.`
+` {i:I} will kill her.`
 ` I won't let anyone else do it."`
 `".........As long as you don't lose that willpower.`
 ` I'm betting on you.`
 ` Alright?`
 ` Make sure you don't forget."`
-`"Unless this game is resolved, you will never be released.`
+`"{p:1:Unless this game is resolved, you will never be released}.`
 ` You won't be allowed to abandon this game either."`
 `"......I get it."`
 `"I know what Lambda is after.`
@@ -736,40 +736,40 @@
 `"Yeah......`
 ` ...No problem."`
 `"It's the same as it was with Kinzo.`
-` Beatrice doesn't exist.`
+` {f:5:Beatrice} doesn't exist.`
 ` This is a false witch illusion that Natsuhi created from her belief that she thought up a brilliant plan to overcome hardship by borrowing the witch's power."`
 `"The only reason it looks like the two of them are drinking together...`
-`is because the one who is telling the story, is interpreting it that way."`
+`is because {f:5:Lambdadelta}, who is the Game Master and {i:the one who is telling the story}, is interpreting it that way."`
 `"If you stare without a fragment of love for Natsuhi, you won't see illusions like that.`
 ` .........That's why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."`
-`Without love, it cannot be seen.`
-` Because love is lacking, it cannot be seen.`
+`Without love, it cannot be {y:1:‘seen’}{n:1:seen}.`
+` Because love is lacking, it cannot be {y:1:‘seen’}{n:1:seen}.`
 `"That's a fantasy that Natsuhi's showing us.`
-` ......Beatrice doesn't exist there."`
+` ......{f:5:Beatrice} doesn't exist there."`
 `"...........................ugh........."`
 `Beato mumbled softly.`
 ` ......It was a small voice that made it sound like she was in pain.`
-`The thorn of Bernkastel's truth had stabbed into her chest.`
+`The thorn of {f:5:Bernkastel}'s truth had stabbed into her chest.`
 `"......Yeah, that's probably true.`
 ` I think your theory is right.`
 ` But don't say that in front of Beato."`
 `"It doesn't matter where I say it.`
 ` This is Beato's world."`
 `"......Also, it's not like I'm protecting Beato,`
-` but there is a possibility that Aunt Natsuhi really is drinking tea with some unknown person X calling themselves Beatrice.`
+` but there is a possibility that Aunt Natsuhi really is drinking tea with some unknown person X calling themselves {f:5:Beatrice}.`
 ` This scene takes place a year before everything.`
 ` The number of people on the island on this day has never been shown with the red truth."`
 `"............Sure.`
 ` Even Lambda hasn't said anything in red about the number of people on Rokkenjima on this day."`
 `"In that case,`
-` it's possible to claim that Aunt Natsuhi really did drink tea with a woman calling herself Beatrice.`
+` it's possible to claim that Aunt Natsuhi really did drink tea with a woman calling herself {f:5:Beatrice}.`
 ` Just like I can't deny your theory, you can't deny mine.`
 ` That means you can't say for sure whether the Beato there is an illusion or not."`
 `".........Oh, the cat box theory?`
 ` That might have worked on Beato, but it won't work on me."`
 `"Why?"`
 `"`
-`After all, Natsuhi is drinking tea all by herself right there."`
+`{p:1:After all, Natsuhi is drinking tea all by herself right there}."`
 `There was a violent sound of glass breaking,`
 ` ......and the Beato joking about Natsuhi's newlywed years and laughing happily...`
 `was erased.`
@@ -781,7 +781,7 @@
 ` I could see clearly that she was in anguish.`
 `Another witch illusion had been smashed, ......calling Beato towards death.`
 `......In short, this is what the battle to let Beato rest in peace is all about...`
-`A second ago, Bernkastel likened our fight to the torture of tearing fingernails out.`
+`A second ago, {f:5:Bernkastel} likened our fight to the torture of tearing fingernails out.`
 `If I have to tear them out anyway,`
 ` ......then my last bit of compassion towards Beato should be to minimize that pain.`
 `In other words, ......even if I want to minimize the pain, I still have to cause it.`
@@ -823,7 +823,7 @@
 ` ......I never thought I'd hear you talk about witches existing.`
 ` ............Not bad, Lambda.`
 ` You've done a good job of getting Battler stuck between his human culprit theory and the thought that it doesn't matter whether witches exist or not."`
-`"She really excels at controlling a human's heart.`
+`"She really excels at controlling a {y:0:Human}{n:0:human}'s heart.`
 ` ......Looks like I'd better start helping you out even more."`
 `"I really couldn't care less about you two.`
 ` Disappear.`
@@ -833,14 +833,14 @@
 `"What......?"`
 `"After all,`
 ` I'm enjoying this game too.`
-` .........*giggle*giggle*giggle*giggle*. Hahahahahahahahahahahahahahaha......"`
-`Bernkastel disappeared, leaving only that unpleasant laugh behind.`
+` .........*giggle*giggle*giggle*giggle*. Ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
+`{f:5:Bernkastel} disappeared, leaving only that unpleasant laugh behind.`
 `"......................................."`
 `After that, all that remained was Natsuhi, sipping tea all alone,`
 ` ......Beato, her hand still on the tea cup as she stared blankly at the surface of the liquid,`
 ` ......and me.`
-`"......Lambdadelta...`
-` ......Virgilia called them your friends, but...`
+`"......{f:5:Bernkastel} and {f:5:Lambdadelta}...`
+` ......{f:5:Virgilia} called them your friends, but...`
 `...you really should have chosen your friends more carefully.`
 ` Or wait, maybe they actually make a good match with an ill‐natured person like you..."`
 `".............................."`

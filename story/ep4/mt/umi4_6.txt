@@ -8,7 +8,7 @@
 ` Half a year after the crime on Rokkenjima."`
 `"Correct.`
 ` Those books were explained to have escaped the disaster on Rokkenjima.`
-` I was told that the owner of the island, Mrs. Ushiromiya Eva, had put them up for auction."`
+` I was told that the owner of the island, {nobr:Mrs. Ushiromiya} Eva, had put them up for auction."`
 `They appeared to be at a high‐class restaurant.`
 ` Ange and a middle‐aged man were sitting across from one another in a pair of secluded and quiet seats.`
 `Amakusa could be seen by the restaurant's entrance.`
@@ -21,8 +21,8 @@
 `was the study of Western occultism, Western magic, alchemy, and all else falling under the umbrella of "the occult",`
 ` as well as demonology.`
 `In short, he was one of the people best positioned to understand the details of Kinzo's research...`
-`"First, what I learned by appraising the books was that Mrs. Ushiromiya Eva had absolutely no education in folkloristics,`
-` and that the original owner of the books, Mr. Ushiromiya Kinzo, was without doubt one of the top five authorities on demonology in Japan."`
+`"First, what I learned by appraising the books was that {nobr:Mrs. Ushiromiya} Eva had absolutely no education in folkloristics,`
+` and that the original owner of the books, {nobr:Mr. Ushiromiya} Kinzo, was without doubt one of the top five authorities on demonology in Japan."`
 `April, 1987.`
 `A major city antique shop came into possession of a large quantity of ancient texts thought to have a high historical value.`
 `The texts had been entrusted to them by Ushiromiya Eva, who had requested for them to be put up for auction on her behalf.`
@@ -64,7 +64,7 @@
 `However, when knowledge of the Ushiromiya Library spread across the world, Rokkenjima's image immediately took on an occult twist.`
 `"And so, what happened next was that matter with the message bottle.`
 ` It is what turned that island into a witch's island.`
-` A nameless island in the Izu archipelago began to transition into an occult island, and then into the island of the mysterious witch, Beatrice."`
+` A nameless island in the Izu archipelago began to transition into an occult island, and then into the island of the mysterious witch, {f:5:Beatrice}."`
 `"You could say that, lacking either the Ushiromiya Library or the message bottle, the Rokkenjima Witch Legend would never have been established."`
 `"......A message bottle."`
 `"Yes.`
@@ -99,18 +99,18 @@
 `Several sheets of notebook paper had been stuffed into each of the two wine bottles.`
 `They were extensive accounts, written in a diary‐like fashion by some unknown person calling themselves Ushiromiya Maria, of the events of the day of the accident and the day before.`
 `And it was these that prompted the beginning of the "Witch Legend Serial Murder Case",`
-` and "the mystery of the Golden Witch Beatrice".`
+` and "the mystery of the Golden Witch {f:5:Beatrice}".`
 `"These bizarre diary‐style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,`
 ` becoming caught up in a ritual for the resurrection of a witch, and being killed one after another in inexplicable ways."`
-`"And at the end, the Golden Witch Beatrice revives, and swallows everything up into the Golden Land.`
-` ......They were written almost as though this was the complete picture of the events of that day."`
+`"And at the end, the Golden Witch {f:5:Beatrice} revives, and swallows everything up into the Golden Land.`
+` ......They were written almost as though {i:this} was the complete picture of the events of that day."`
 `"Additionally, the state of things on the island at the time is also depicted in immense detail,`
 ` and former servants who once worked for the Ushiromiya family have given testimony that the pages were definitely written by a person who knew the inside details of the island."`
 `"......So, those strange fantasy novels, the occult boom that started with the Ushiromiya Library,`
 ` and the fact that the truth remains shrouded in darkness—the combination of all three of these factors is what created the legend of the Rokkenjima witch...?"`
 `"Correct.`
 ` Already more than ten years have passed since the incident, and it still attracts the interest of occult enthusiasts across the world."`
-`"No, in fact, you could say that it has become increasingly deified as time has passed.`
+`"No, in fact, you could say that it has become {i:increasingly} deified as time has passed.`
 ` There are still many enthusiasts who try to land secretly on the shores of Rokkenjima even though that has been prohibited."`
 `"......Could there be another message bottle that has still not been discovered?`
 ` And what really happened on that island that day?`
@@ -124,19 +124,19 @@
 ` However, while they both cover the same two‐day period, the contents are completely different."`
 `"As though one is true and one is untrue.`
 ` Or perhaps both are untrue.`
-` ...However, the beginning and the end alone do match in both."`
+` ...However, the beginning and the end alone {i:do} match in both."`
 `"At the beginning, the 18 people including the relatives are sealed up on the island by the typhoon.`
 ` And at the end, everyone dies, the Golden Witch revives, and everything is swallowed up into the Golden Land."`
 `The contents of both message bottles described the events of the two days of the accident.`
 `But the details were completely different.`
 `Both diaries outline a serial murder following the epitaph of the witch, but the order of the sacrifices, the manners of their deaths, and even the "tale" of the two days are different.`
 `However, both depict the same ultimate conclusion: everyone dies and the witch revives.`
-`"Since the only survivor, Mrs. Ushiromiya Eva, remained silent about what happened on that island,`
+`"Since the only survivor, {nobr:Mrs. Ushiromiya} Eva, remained silent about what happened on that island,`
 ` the events of that entire two‐day period are shrouded in darkness."`
-`"These two diaries presented not just one, but two theories to wipe away that darkness.`
+`"These two diaries presented not just one, but {i:two} theories to wipe away that darkness.`
 ` You could explain those two days with either diary.`
 ` However, we don't know which is correct, or even if there is anything correct contained within them."`
-`――Schrödinger's...cat box.`
+`{m:-5:―}―Schrödinger's...cat box.`
 `If it isn't denied, even fiction can be truth.`
 `Through the media, these notebook pages had of course been shown to Eva as well, but in the end, she never broke her silence......`
 `"Who sent the message bottles...and why?"`
@@ -182,7 +182,7 @@
 `......After all, the amount of writing was massive.`
 ` It's hard to imagine that someone actually caught up in the middle of a serial murder like that would have been able to calmly write it down.`
 `In that case, it's probably more realistic to say that these diaries were written slowly over a long period of time before the day prior to the accident.`
-`In which case, .........would that mean that everything on Rokkenjima was premeditated, and prepared for over a long stretch of time...?`
+`In which case, .........would that mean that everything on Rokkenjima was {i:premeditated}, and prepared for over a long stretch of time...?`
 `...The fact that Aunt Eva left this world without saying anything is...detestable.`
 `She definitely told me on her deathbed.`
 `She definitely said that her reason for not telling me the truth was because it was the best way of harassing me.`
@@ -193,8 +193,8 @@
 `......It's because in both discovered tales, Aunt Eva was included among the victims.`
 `If the writer of these diaries was the culprit...`
 `......then maybe Aunt Eva had also been one of the targets to be killed.`
-`Aunt Eva had survived because something had gone wrong.`
-`.........Because of my hate for Aunt Eva, I had believed until now that she had to be the culprit.`
+`Aunt Eva had survived because {i:something had gone wrong}.`
+`.........Because of my hate for Aunt Eva, I had believed until now that she {i:had} to be the culprit.`
 `But the existence of the message bottles...`
 `......was making me suspect that the mastermind was a far more profound and unknown person than her...`
 `I looked at the clock.`
@@ -222,10 +222,10 @@
 ` Even though, at this age, I understand rationally that there is no such thing,`
 ` I find myself unable to forget my child‐like dreams of flying in the sky and turning scrap iron into gold.`
 ` ......Hahaha, if you would, please keep this a secret from my students."`
-`".........If I told you that actually, I am a witch,`
+`".........If I told you that actually, I {i:am} a witch,`
 ` would you believe it?"`
 `"Hahahaha.`
-` It's my pet theory from my few experiences with women that they are all witches."`
+` It's my pet theory from my few experiences with women that they are {i:all} witches."`
 `Ange snorted at the old professor, who was undoubtedly an earnest scholar, and unlikely had any experiences with women at all.`
 `"Oh, yes.`
 ` And one final question.`
@@ -240,7 +240,7 @@
 `He prided himself on his thorough knowledge of all literature related to Rokkenjima, but he looked bewildered at this binding that he had never laid eyes on before...`
 `Ignoring him, Ange silently flipped through the pages, opened to one of them, and showed him.`
 `On that page was a handwritten paragraph beginning with "To my dear witch apprentice".`
-`......And at the end, there was a signature in Beatrice".`
+`......And at the end, there was a signature in {ruby:katakana:capitals} that said "{f:5:Beatrice}".`
 `"Wh‐what is............"`
 `The instant he glanced at it,`
 ` his face went pale.`
@@ -270,13 +270,13 @@
 ` Well then.`
 ` <Goodbye, gentlemen>. <Have a nice day>."`
 `"P‐please, wait...!!`
-` Sumadera‐san...!!!"`
+` {i:Sumadera‐san}...!!!"`
 `His voice didn't reach her.`
 ` She had already joined up with Amakusa and gone into the car......`
 `"Did you find anything?"`
 `"......At the very end.`
 ` I was right.`
-` The one who wrote the message bottles was Beatrice herself."`
+` The one who wrote the message bottles was {f:5:Beatrice} herself."`
 `"Now that's <cool>.`
 ` So it's settled, is it, the witch exists?"`
 `"Who knows.`
@@ -287,7 +287,7 @@
 ` That guy believed I was Sumadera until the very end."`
 `The Sumadera family had cast out a net beforehand over any people Ange might try to contact.`
 `They had offered a reward for anyone who could detain Ushiromiya Ange if she appeared.`
-`Ange had foreseen that and snatched it away.`
+`Ange had foreseen that and {i:snatched it away}.`
 `She had called herself Sumadera, and after skillfully tricking the man by saying her own subordinates would set up an ambush, she had taken him with her.`
 `So when the Sumadera pursuers reached the professor's house, there was no longer anyone there...`
 `"According to the family, a young man and woman calling themselves Sumadera visited this morning,`
@@ -303,7 +303,7 @@
 ` Understood."`
 `"..................I wonder if she thinks she's leading me around by the nose.`
 ` She is such a naughty child.`
-` ............*giggle*giggle*, ......hoh‐hoh‐hoh‐hohohohohohoho!!"`
+` ............*giggle*giggle*, ......hoh‐hoh‐hoh‐ho{0}ho{0}ho{0}ho{0}hohoho!!"`
 `With a demonic look on her face, Kasumi violently stamped her heel.`
 `I'll teach you.`
 `{n}About my Magic of Origins.`
@@ -330,7 +330,7 @@
 `Even though there was no wind, I suddenly got the feeling that Maria onee‐chan's diary had fluttered open.`
 `......Then, Onee‐chan appeared.`
 `{n}Her form was no longer the normal one that I knew.`
-`...She was wearing the dress that Beatrice had given her after acknowledging her status as a witch.`
+`...She was wearing the dress that {f:5:Beatrice} had given her after acknowledging her status as a witch.`
 `".........If you don't get some sleep, it'll be tough tomorrow, you know?"`
 `"If I were a witch too,`
 ` ......I could use magic, right?"`
@@ -368,7 +368,7 @@
 `"......Sever those completely.`
 ` Like how ancient magicians shut themselves up in ateliers to preserve their isolation."`
 `"I remember.`
-` ......The very existence of humans blocks magic.`
+` ......The very existence of {y:0:Human}{n:0:human}s blocks magic.`
 ` ...Therefore, the very act of showing magic to humans is the sign of a high‐level witch..."`
 `Obtain a quiet space for yourself alone.`
 `{n}......That should cover it for the preparation of a space to use magic.`
@@ -420,9 +420,9 @@
 `{n}It was one of Maria onee‐chan's elaborate notebooks.`
 `This one was not a diary.`
 `{n}......It was a grimoire, which she had written as a witch.`
-`The Seven Stakes of Purgatory were Beatrice's furniture.`
+`The Seven Stakes of Purgatory were {f:5:Beatrice}'s furniture.`
 `{n}Created by her and employed only for her sake.`
-`But since Maria, who was a witch of the same alliance.`
+`But since {f:5:Beatrice} was a witch of Mariage Sorcière, they could also be employed by {f:5:Maria}, who was a witch of the same alliance.`
 `For that reason, the method of summoning the Seven Stakes of Purgatory and how to handle them was written about in great detail in Maria onee‐chan's grimoire...`
 `And...`
 `as another person with her name in the same alliance, I was also permitted to employ them.`
@@ -468,13 +468,13 @@
 ` ......In preparation for the worst, use my talisman.`
 ` ......You are not protected by the treaty of the alliance now.`
 ` That Mammon can be a little aggressive at times.`
-` ...She may still bear a grudge.`
+` ...She {i:may still bear a grudge}.`
 ` Be careful."`
 `"Yeah.`
 ` ...I think I'll wear it."`
 `The Seven Stakes of Purgatory, as furniture for sacrificial rituals, are treated as beings inferior even to weapons.`
 `But that is only when it comes to demons.`
-`{n}To humans, even furniture is something to be feared.`
+`{n}To {y:0:Human}{n:0:human}s, even furniture is something to be feared.`
 `I fished through the knapsack again,`
 ` took out a bracelet charm with a scorpion medal that I had gotten from Maria onee‐chan long ago, and put it on my arm.`
 `......I had no need for something like this in the past.`
@@ -482,7 +482,7 @@
 `".........It's alright.`
 ` That is still endowed with a sufficient amount of magic defense.`
 ` As long as you have it on, I'm certain you'll be fine."`
-`Maria onee‐chan's magical power, in particular the power she could put into charms, was enough to earn even Beatrice's admiration.`
+`Maria onee‐chan's magical power, in particular the power she could put into charms, was enough to earn even {f:5:Beatrice}'s admiration.`
 `......While it would only have looked like something cheap to a human who couldn't understand magic,`
 ` its magical worth was incalculable.`
 `"..............................`
@@ -545,14 +545,14 @@
 ` You aren't going to say that you're my owner, are you, Ange‐sama...?"`
 `".........Yep.`
 ` Ange is your master."`
-`"Lady Maria...`
+`"Lady {f:5:Maria}...`
 ` .........I am ashamed.`
 ` Was that barrier just now yours?"`
 `"Yeah.`
 ` I thought that as Ange is now, she might just fall to you.`
 ` I lent her a talisman."`
 `".....................`
-` ......If I am told by Lady Maria that Ange‐sama is my master, I can hardly refuse.`
+` ......If I am told by Lady {f:5:Maria} that Ange‐sama is my master, I can hardly refuse.`
 ` .........Ange‐sama, I am yours to command.`
 ` Given that my assistance is required...is it a new ritual?`
 ` New sacrifices...?"`
@@ -581,10 +581,10 @@
 ` It may be difficult by myself.`
 ` ......Perhaps it slipped your mind?"`
 `"......Yeah.`
-` The Seven Sisters were really lively when they got together.`
+` The Seven Sisters {i:were} really lively when they got together.`
 ` ......But with your magical power now, I think summoning Mammon is the best we can hope for.`
 ` The stakes for the other six have been lost."`
-`"My apologies, Lady Maria,`
+`"My apologies, Lady {f:5:Maria},`
 ` but I believe it may not be impossible to summon the Seven Sisters via my own stake.`
 ` ......If Ange‐sama is to employ me, I would hope that she has at least that much power......?"`
 `Mammon giggled.`
@@ -637,7 +637,7 @@
 ` It radiated as a faint, and yet distinct pale blue light from both of my hands......`
 `"Ange‐sama...!`
 ` Keep it up, keep it up, do your best...!`
-` Hey, Lady Maria.`
+` Hey, Lady {f:5:Maria}.`
 ` Ange‐sama will definitely summon everyone, right?`
 ` The Seven Sisters will get to be reunited again, right?`
 ` Right?!"`
@@ -735,7 +735,7 @@
 ` Do you realize how much it's burdening Ange‐sama just for us to have an idle chat?!"`
 `Satan, who had apparently figured out the situation immediately after being summoned, yelled out in a loud voice, telling her sisters off.`
 `......That loud voice made my consciousness fade again.`
-`"We are furniture that has been permitted rest by Beatrice, furniture that has finished its duty!`
+`"We are furniture that has been permitted rest by {f:5:Beatrice}, furniture that has finished its duty!`
 ` Not content to be graced with the opportunity to once again be of some use, you are putting a burden on your new master—this is a DISGRACE to furniture!!`
 ` Erase yourselves RIGHT NOW!!"`
 `"Yes, it's like Satan‐nee says.`

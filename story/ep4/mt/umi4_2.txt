@@ -155,7 +155,7 @@
 `Just glancing at it, you would probably think it was a religious book written in the Middle Ages or something.`
 `But this isn't a book.`
 ` It's a diary.`
-`Of course, it's not my diary.`
+`Of course, it's not {i:my} diary.`
 `{n}.........There aren't any special things worth writing about in my daily life.`
 `Every single day is just gray, ...cold, and dry.`
 `{n}When nothing changes from day to day, there aren't any notable changes worth writing down.`
@@ -173,7 +173,7 @@
 `I had found this diary among her belongings after her death, and had secretly taken it home.`
 `At first, I had felt that reading someone else's diary might be boorish, and had been satisfied to just keep it by my side,`
 ` ......but I was unable to resist turning over a page or two, and slowly but surely I found myself reading through it.`
-`And now, .........she had become my only friend.`
+`And now, .........{i:she had become my only friend}.`
 `I gently opened to the page with the bookmark.`
 `"......Sorry to keep you waiting, Maria onee‐chan.`
 ` ......Could you tell me more about your life...?"`
@@ -243,7 +243,7 @@
 `"Uu‐uu!`
 ` It's 200 yen more, but can I even change it to prosciutto pizza?!"`
 `"Yes, you can.`
-` If you really can eat it.`
+` {i:If} you really can eat it.`
 ` ......But what the hey.`
 ` It is your birthday, after all.`
 ` I have to reward you for being a good girl and waiting so patiently."`
@@ -253,7 +253,7 @@
 ` Want to have a melon soda too!"`
 `"Uu‐uu‐uu!`
 ` I'm a good girl, I'm a good girl!`
-` Praised by Mama, uu‐uu‐uu♪"`
+` Praised by Mama, uu‐uu‐uu{p:0:♪}"`
 `"*giggle*.`
 ` You're getting a little too excited.`
 ` If you don't quiet down a bit, you'll disturb the other customers."`
@@ -371,7 +371,7 @@
 ` Can I open ii~t?`
 ` Mamaaa."`
 `"Yes, yes, but just for a bit, okay?"`
-`"Yaaaaaaaaayyyy...☆"`
+`"Yaaaaaaaaayyyy...{p:0:☆}"`
 `Before Auntie Rosa finished her sentence, Maria onee‐chan started unwrapping the present.`
 `And straight away, ......yellow and orange peeked out.`
 `What appeared was a slightly blank‐looking stuffed lion,`
@@ -390,7 +390,7 @@
 `"No, this is good!`
 ` With this size, we can always be together.`
 ` We can go out together.`
-` Sakutaro~, I'm your onee‐cha~n, uryu~☆"`
+` Sakutaro~, I'm your onee‐cha~n, uryu~{p:0:☆}"`
 `"It really is a cute stuffed animal.`
 ` So this kid is your best friend Sakutaro."`
 `"Uu!`
@@ -399,7 +399,7 @@
 ` Cheers me up when I'm feeling down, and plays a lot with me when I'm feeling good!"`
 `"So I'm not lonely anymore.`
 ` Not lonely when Mama is busy with work and I'm all alone, and even if no one plays with me at school, not lonely at all.`
-` Riiight, Sakutaro~, uryu~☆"`
+` Riiight, Sakutaro~, uryu~{p:0:☆}"`
 `......At school, Maria onee‐chan was in similar circumstances to me.`
 `Compared to the other kids in her class, Maria onee‐chan's tempo was always a beat too slow.`
 `Her impressionability and way of thinking about things were a little peculiar, ......and she was a little too idiosyncratic to blend in with them.`
@@ -465,7 +465,7 @@
 ` Sakutaro?"`
 `‘Uryuu! If I can be with Maria, I'm happy too~!’`
 `"Look, Sakutaro is saying he's happy too.`
-` Uu☆"`
+` Uu{p:0:☆}"`
 `Maria onee‐chan held up the Sakutaro stuffed animal, playing both sides of the conversation herself.`
 `I don't understand.`
 ` ......But that's exactly why I want to reach Maria onee‐chan's level.`
@@ -490,7 +490,7 @@
 `The soul of Maria onee‐chan's love.`
 `So I accepted the existence of a being called Sakutaro inside that stuffed animal.`
 `"Come on, say hi to Sakutaro, Ange.`
-` Come on, you say hi too, Sakutaro~☆"`
+` Come on, you say hi too, Sakutaro~{p:0:☆}"`
 `‘Uryu......?`
 ` Is Ange...`
 `...a scary person......?’`
@@ -499,7 +499,7 @@
 `......Maria onee‐chan really is good at playing with stuffed animals.`
 `"It's okay, Sakutaro.`
 ` Ange isn't scary, she's a very nice girl.`
-` Uu☆"`
+` Uu{p:0:☆}"`
 `‘...H‐hello.`
 ` I'm Sakutarou...`
 ` ......Uryu......’`
@@ -511,7 +511,7 @@
 ` and Sakutaro's short hand was stuck out towards me, and lightly touched my index finger.`
 `After all, the size is all wrong for a handshake between a human and a stuffed animal.`
 `{n}This greeting by touching each other's fingers was our handshake.`
-`"Uu☆`
+`"Uu{p:0:☆}`
 ` See, now you two are friends!`
 ` Two people's funner than one, and three people's funner than two.`
 ` Uu!"`
@@ -585,7 +585,7 @@
 ` But I'm not embarrassed at all to be with you."`
 `‘I am a lion, ...but I'm a stuffed animal.’`
 `"You're a lion and a stuffed animal, but you're my friend.`
-` So let's go out together☆`
+` So let's go out together{p:0:☆}`
 ` Just when Mama isn't around, as a secret.`
 ` Uu?`
 ` Are you embarrassed too?"`
@@ -627,7 +627,7 @@
 ` Looks like you're having fun, Maria onee‐chan."`
 `"Yep, it's reeeally fun.`
 ` Even things that would be lonely and boring alone all become fun with Sakutaro.`
-` Any human friend would have to go home when it gets late."`
+` Any {y:0:Human}{n:0:human} friend would have to go home when it gets late."`
 `"But Sakutaro doesn't go home, so he can be with me all the time.`
 ` He'll watch TV with me,`
 ` be together even in the futon,`
@@ -636,12 +636,12 @@
 ` Sakutaro is reliable!"`
 `‘Uryu.`
 ` I'm a lion, so if there's any monsters that scare Maria, I'll show my courage and chase them away.`
-` Uryuu, gaooo.’`
+` Uryuu, {ruby:roar:gaooo}.’`
 `They were so close that it made me a little envious.`
 `I'm supposedly older than Maria onee‐chan.`
 `But I can call her nothing else; even now she stands above me like an older sister, and I am yet to reach her level.`
 `...If only I had a friend close by like Sakutaro.`
-`"But both me and Sakutaro are friends close by!`
+`"But both me and Sakutaro {i:are} friends close by!`
 ` We're aaallways right by your side.`
 ` It's just that your magic is weak, so you can't perceive us unless you open my diary like this."`
 `"......Perceive?`
@@ -680,7 +680,7 @@
 ` I'll try reading it seriously sometime soon.`
 ` ......And then I won't be all alone anymore,`
 ` ...will I...?"`
-`"Uu!"‘Uryuu!’`
+`"Uu!"{n}{t}‘Uryuu!’`
 `Maria onee‐chan and Sakutaro said that at the same time, happy that I had developed an interest in the world of witches.`
 `With half of Sakutaro's face peeking out of the knapsack on her back,`
 ` Maria walked through the late‐night shopping district in high spirits.`
@@ -711,7 +711,7 @@
 ` Can I......?`
 ` What about the money?’`
 `"Uu, no proble~m!`
-` Look, it's Shotoku Taishi, uu!`
+` Look, it's {c:86EF9C:{ruby:(5000 yen):Shotoku Taishi}}, uu!`
 ` So I can buy you whatever you want too, Sakutaro.`
 ` Let's eat together!`
 ` Do you want a yogurt too?"`
@@ -801,7 +801,7 @@
 ` And when I do, I'll show you too.`
 ` It'll be like a scene from a wonderful dream."`
 `Maria onee‐chan said that, making an absolute promise with her smile.`
-`......There's no way we can become witches.`
+`......There's no way we can become {i:witches}.`
 ` But when I listen to her speak, I can believe that maybe...we really could.`
 `Because the fact is......that on this troubled night, when not a single flower of a smile could bloom, her magic had certainly given birth to a smile.`
 `"......I wonder if I can...`
@@ -833,13 +833,13 @@
 ` Let's talk together during boring classes to take your mind off things."`
 `"I can also be someone to talk to during meals, so let's always be together like this during lunch break."`
 `"I'm with you after school too, and of course, I'm always by your side even when you return to the dormitory.`
-` ...It's just that you never look at me except when you open the diary."`
+` ...It's just that {i:you never look at me except when you open the diary}."`
 `"............Even if I close the diary,`
 ` ...you'll be...`
 `by my side, right?"`
 `"Yep.`
 ` I'll be there.`
-` So if you try to see me and try to talk to me, I can definitely answer.`
+` So if you try to {y:1:‘see’}{n:1:see} me and try to talk to me, I can definitely answer.`
 ` ......If you look hard and try to talk."`
 `"............I'll...`
 `......give it a try."`
@@ -862,9 +862,9 @@
 `"Once you can visualize me even with your eyes closed,`
 ` .........without changing anything, slowly and softly close your eyes.`
 ` .........Well?`
-` Still see me?"`
+` Still {y:1:‘see’}{n:1:see} me?"`
 `"Y‐......yes.`
-` ...I think...I can probably see you..."`
+` ...I think...I can probably {y:1:‘see’}{n:1:see} you..."`
 `"Okay, open your eyes again for a second.`
 ` .........Time for the real thing.`
 ` Calm your heart, and close the diary.`
@@ -872,7 +872,7 @@
 `"But calm your heart and don't rush.`
 ` ......Then, try to blend me back from the inside of your eyelids, back into your eyes again.`
 ` ...Slowly visualize me in the empty air.`
-` ......In the empty air...see me."`
+` ......In the empty air...{y:1:‘see’}{n:1:see} me."`
 `".....................`
 ` ......Okay, I can do this.`
 ` ............Right,`
@@ -890,7 +890,7 @@
 ` Really?`
 `{n}Isn't that just what I'd like to imagine...?`
 `No, that's not it.`
-`{n}I just convince myself that it is...and that's see her.`
+`{n}I just convince myself that it is...and that's {i:why I cannot {y:1:‘see’}{n:1:see} her}.`
 `Maria onee‐chan is always by my side.`
 ` And even now, she's definitely there, cheering me on to do my best...`
 `And I...can hear it.`
@@ -916,7 +916,7 @@
 `{n}I concentrated my mind.`
 `Make the form of Maria onee‐chan you can see vividly on the inside of your eyelids...rise to the surface in the empty space before you.`
 `.........Understand magic,`
-` ......and see...Onee‐chan......`
+` ......and {y:1:‘see’}{n:1:see}...Onee‐chan......`
 `"............Maria...onee‐chan.........!"`
 `"Huh?!`
 ` Is someone there?!"`

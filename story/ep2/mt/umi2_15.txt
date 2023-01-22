@@ -34,7 +34,7 @@
 `"............I'm sure...`
 `...that torii shrine was entrapping the power of those evil spirits.`
 ` ...And since the spirit mirror was broken, that power revived...`
-` ......I have no doubt that it became the power to make Beatrice‐sama revive..."`
+` ......I have no doubt that it became the power to make {f:5:Beatrice}‐sama revive..."`
 `"............If I,`
 ` ......while I was in that weak‐hearted state,`
 ` .........hadn't done such an outrageous thing.........`
@@ -49,16 +49,16 @@
 `......Just breaking a mirror in some musty shrine wouldn't change the fate of our meeting.`
 `And that would never cause any curse.`
 `{n}I remembered cheering her up, saying it was only a musty mirror covered in dust.`
-`"...After I started working on this island, many of my coworkers told me of the existence of a spirit called Beatrice‐sama."`
+`"...After I started working on this island, many of my coworkers told me of the existence of a spirit called {f:5:Beatrice}‐sama."`
 `"In the beginning, I thought it was ridiculous,`
 ` but since it appeared indiscreet to comment on that,`
 ` ...outwardly, I conducted myself as if I also believed it.`
 ` ......But, it's astonishing, she really—"`
 `"Existed.`
-` ...Beatrice‐sama was in this mansion all along.`
-` ......But Beatrice‐sama had lost her powers, ...and could not appear before us.`
+` ...{f:5:Beatrice}‐sama was in this mansion all along.`
+` ......But {f:5:Beatrice}‐sama had lost her powers, ...and could not appear before us.`
 ` She did "exist" all along.`
-` ...It's just that we couldn't see her."`
+` ...It's just that we couldn't {y:1:‘see’}{n:1:see} her."`
 `"............I'd like to hear Genji‐san's opinion."`
 `".........I do not have any opinion.`
 ` .........All that I would like to say is......that when it happened......there were five of us here."`
@@ -110,7 +110,7 @@
 ` spirit mirror or something..."`
 `"............I have also heard the same story.`
 ` ......Something about the mirror having the power to reflect that which is not good and send it back."`
-`"If we had that spirit mirror, ......could we resist the witch, Beatrice?"`
+`"If we had that spirit mirror, ......could we resist the witch, {f:5:Beatrice}?"`
 `"Huh......"`
 `When George proposed this, the servants looked up.`
 `"......The shrine and the torii where it was enshrined are gone now, but the important thing is that there is still another spirit mirror."`
@@ -156,7 +156,7 @@
 ` I'm sure he'll understand if it's about the power of Aunt Natsuhi's spirit mirror.`
 ` Don't worry, he won't get mad at you."`
 `".........I wonder if Madam's mirror...`
-`...can really seal Beatrice‐sama...`
+`...can really seal {f:5:Beatrice}‐sama...`
 `...once again."`
 `"I don't know.`
 ` But I think it's worth trying.`
@@ -225,7 +225,7 @@
 `Sitting on a one‐person sofa, her back to the door, she continued to hold onto her gun.`
 `I didn't know what was what anymore, and so, my body and mind worn out, I was just playing with Maria however she wanted.`
 `In Maria's words,`
-` ...Beatrice was testing us to see whether we could solve the epitaph of the gold, so we had to challenge this riddle.`
+` ...{f:5:Beatrice} was testing us to see whether we could solve the epitaph of the gold, so we had to challenge this riddle.`
 `In the beginning, I had been a little interested, and had tried to solve it, but I didn't have a clue what those weird paragraphs even meant in the first place.`
 `......I didn't doubt that there was some riddle hidden there, but I couldn't imagine that I would solve it by chance.`
 `In the middle part of the epitaph, there were lines saying to journey to the Golden Land, over the course of the first to the tenth twilight.`
@@ -250,7 +250,7 @@
 `{n}She got mad at me, and told me I wasn't being serious enough.`
 `"......Hey, Maria."`
 `"Uu...?"`
-`"What was it again, that Beatrice said she would do if we solved this?"`
+`"What was it again, that {f:5:Beatrice} said she would do if we solved this?"`
 `I was sure that the witch had written in her letter that she would give up on collecting the interest, or something abstract like that.`
 `...I was optimistically taking that to mean that she would give up on killing the whole family,`
 ` ......but was it really written with that meaning?`
@@ -279,7 +279,7 @@
 ` ......What are you trying to say? That in the end, she's just playing around?`
 ` Purposefully giving us a chance—"`
 `"Noooooo.`
-` That's what magic is.`
+` That's what magic {i:is}.`
 ` No matter how great the magic, there are always risks and weak points.`
 ` No, there has to be."`
 `"...I don't get it when you call it magic, ...but if I think about it as a gamble, I can understand a little.`
@@ -303,35 +303,35 @@
 ` But, if we solve it, the ritual will surely end automatically."`
 `"........................`
 ` ...You sure know a lot, Maria.`
-` ...Did you learn all of that......from Beatrice?"`
+` ...Did you learn all of that......from {f:5:Beatrice}?"`
 `"Uu."`
 `So, ...if you don't bear a risk, nothing can be gained.`
 ` That is doubtlessly the way of the world, ......but it was in conflict with the chessboard theory style of thinking that I liked.`
 `A move in chess is always a search for the best play, that minimizes the risk, and promises an advantageous turn of events.`
 `You don't trust your plays to chance, like in gambling.`
 ` ......That's right, there's no room for gambling in an intellectual game.`
-`And yet, this person called Beatrice was carrying out such an outrageous crime,`
+`And yet, this person called {f:5:Beatrice} was carrying out such an outrageous crime,`
 ` ...or maybe a ritual,`
 ` ......while purposefully imposing conditions for her own loss and announcing them to us.`
 `In chess, you always play the best move.`
 `{n}So by standing in your opponent's position, you can predict their next move.`
-`...However, you couldn't say for sure that Beatrice's moves were always the best moves.`
+`...However, you couldn't say for sure that {f:5:Beatrice}'s moves were always the best moves.`
 `I thought she was probably making us focus on the epitaph as a smokescreen, to mislead us about something.`
 `......But Maria said that of all things was impossible.`
 `She said that this was a genuine risk that the witch had taken, and therefore proof that this was a formal magical ritual.`
-`.........I can't understand this witch called Beatrice.`
+`.........I can't understand this witch called {f:5:Beatrice}.`
 `She must be committing this chain of murders with some goal in mind,`
 ` ......so why would she deliberately expose the conditions for her own defeat?`
 `......No matter how I flip over the chessboard and think from my opponent's perspective, ......I can't understand why she would give up if this riddle was solved.`
-`Isn't it almost as though Beatrice...doesn't care whether she wins or loses?`
+`Isn't it almost as though {f:5:Beatrice}...doesn't care whether she wins or loses?`
 ` It's natural that chessboard reasoning wouldn't work if you played chess against an opponent like this...`
 `...I don't understand, I don't understand.`
-` ......What is Beatrice after that's making her commit this crime?`
+` ......What is {f:5:Beatrice} after that's making her commit this crime?`
 `If she just wants to massacre us all, she could just do it secretly, without this whole crazy setup.`
 ` There was no need for that scrupulous advance notice, dramatic suggestions of locked rooms, or anything.`
 `...It's all over‐dramatized.`
 `{n}I don't get the point at all.`
-`As long as I continue to think of Beatrice as a greedy human culprit, will I be unable to understand anything?`
+`As long as I continue to think of {f:5:Beatrice} as a greedy human culprit, will I be unable to understand anything?`
 `...If I don't accept her as a witch, will I be unable to even set the pieces on the chessboard at all......?`
 `......If she really is a witch, and everything Maria has said is true...`
 `...then there's only one thing we should have been doing.`
@@ -365,15 +365,15 @@
 `Then, what about Maria...?`
 `{n}Maria had been claiming something for a while.`
 `If we could solve the riddle that the witch had presented to us, the ritual would be halted and we would definitely be saved.`
-`And I think she also said that Beatrice would never break a promise she made.`
+`And I think she also said that {f:5:Beatrice} would never break a promise she made.`
 `......So that describes Maria herself.`
 `{n}She's the one with the most innocent heart, who would never break a promise...`
-`So she believed that Beatrice wouldn't break a promise either.`
+`So she believed that {f:5:Beatrice} wouldn't break a promise either.`
 `{n}She could believe that.`
-`But wasn't that just an image of Beatrice that Maria imagined...?`
-` There's no proof that the real Beatrice definitely keeps her promises, right...?`
+`But wasn't that just an image of {f:5:Beatrice} that Maria imagined...?`
+` There's no proof that the real {f:5:Beatrice} definitely keeps her promises, right...?`
 `"`
-`I keep my promises.`
+`{p:1:I keep my promises}.`
 ` If you solve the riddle of the epitaph, you shall be able to reach the Golden Land.`
 ` When that happens, the ritual will end.`
 ` No more people will die."`
@@ -537,7 +537,7 @@
 `He saw the figure of the witch, laughing in the center of the golden whirlwind, allowing the gold butterflies to attend to her whims.`
 `"...............`
 `B‐`
-`......Beatrice........."`
+`......{f:5:Beatrice}........."`
 `It should have been Gohda's first meeting with her.`
 `{n}...But he knew her at a glance.`
 `Just like the other servants had said, this was certainly, certainly...the witch of the portrait herself...!`
@@ -545,13 +545,13 @@
 ` It is almost time for dinner, is it not?`
 ` ......I am already the host of this mansion.`
 ` So I must give you a warm reception with a wonderful dinner.`
-` ......And how perfectly ideal, there are three of you!`
+` ......And how perfectly ideal, there are {i:three} of you!`
 ` ......My, my, how truly, truly convenient!!"`
 `"U‐...uwaaaaaaaaaaaaaaaaaa!!"`
 `"I‐it opened!!"`
 `"Gohda‐san, quickly...!!`
 ` ............!`
-` Beatrice......sama..."`
+` {f:5:Beatrice}......sama..."`
 `"Huh?!`
 ` ...............?!?!"`
 `"Are you sure you want to just stand there...?`
@@ -610,8 +610,8 @@
 `{n}And he noticed the door, which had been left open ever since they had entered.`
 `He approached the door to close it, ......and noticed the abominable shadows of people approaching from beyond the darkness in the hall...`
 `No, the phrase "shadows of people" wasn't right.`
-`{n}Because that referred to human shadows.`
-`......You can't call the shadows of beings that aren't human "shadows of people"!!`
+`{n}Because that referred to {y:0:Human}{n:0:human} shadows.`
+`......You can't call the shadows of beings that aren't {y:0:Human}{n:0:human} "shadows of people"!!`
 `"...............G‐`
 `......George‐sama!!!`
 ` H‐`
@@ -623,7 +623,7 @@
 `...But he didn't know about these.`
 `{n}However, they were definitely servants...!!`
 `They weren't servants working for Ushiromiya Kinzo or Ushiromiya Krauss.`
-`...They were new servants, who worked for the new master of the mansion, the Golden Witch Beatrice,`
+`...They were new servants, who worked for the new master of the mansion, the Golden Witch {f:5:Beatrice},`
 ` and who had goats' heads and bright‐red, boiled eyes of lava!!`
 `As the new master laughed loudly and trimly directed six of the new servants,`
 ` he saw her pierce the darkness as she came.`
@@ -714,11 +714,11 @@
 `"None at all, riiight?`
 ` Receiving an engagement ring from the man you fell for, and then being killed before spending a night together, that isn't a regret at all, riiiiiiiiiiiiight???`
 ` You wanted him to teach you the happiness of being a woman, didn't yooouuu?`
-` Kuhihihyahyahyahyahyahyahyahya!!"`
+` Kuhihihyahya{0}hya{0}hya{0}hya{0}hya{0}hyahya!!"`
 `"Ahh, no, no, Shannon, it's hanging! Your regret. From your mouth.`
 ` I can see it dribbling from your moooooooouth, Shannonnnnnnnnnnnnnnnnn???`
-` Hiiihyahyahahahahahahahahaha`
-` kyaaakyakkyakkyakkyakkyakkya!!!"`
+` Hiiihya{0}hya{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha`
+` kyaaa{0}kya{0}kkya{0}kkya{0}kkya{0}kkya{0}kkya!!!"`
 `Crack.`
 ` It was the sound of the lid to the treasure box breaking and opening.`
 `When George turned it over, out fell accessories, charms,`
@@ -818,10 +818,10 @@
 ` Don't speak as a poet like it's so neat and clean!!`
 ` Love is lust it can't be talked about with only pretty words like in a shoujo manga.`
 ` Men are flies and maggots that get caught in your scent and gather around you.`
-` Do you still not understand that at your aaaaaaaaaaaaage?"`
+` Do you still not understand that at your aaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aage?"`
 `"You'll despair, when you get even one glimpse of the black‐as‐tar lust of that glasses man behind you,`
-` you'll be devastated speechless no words no reaction no expression no goddamn good at all Shannoooooooonnnnnnnnnnnnnnnnnnn???`
-` Hiiiihaaaaaaahahahahahaaahaaa!!"`
+` you'll be devastated speechless no words no reaction no expression no goddamn good at all Shannoo{-}o{-}o{-}o{-}o{-}oonnn{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}nnnnn???`
+` Hiiiihaaaaa{0}aa{0}ha{0}ha{0}ha{0}ha{0}haaa{0}haaa!!"`
 `"That's enough stop talking furniture you furniture furniture furniture,`
 ` who the hell do you think you are talking like that, love is just a fraud how to pretty up something that's ultimately filthy as all hell,"`
 `"Don't people become adults when they realize thaaaaaaaaaat, die you trash, furniture furniture scrap,`

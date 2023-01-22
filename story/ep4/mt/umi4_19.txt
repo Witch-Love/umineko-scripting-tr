@@ -37,7 +37,7 @@
 `"...............Beato is going to be here all the time with me.`
 ` We'll drink tea here together, and think of lots of ways to play...!`
 ` You can play with us too, Ange."`
-`"......Maria.`
+`"......{f:5:Maria}.`
 ` We decided against that.`
 ` As long as I have you, I am satisfied.`
 ` Tell me that you too are satisfied as long as you have me."`
@@ -47,7 +47,7 @@
 ` The only person who needs me that much is you, Beato.`
 ` So I'll be with you.`
 ` Just us is enough."`
-`".........Maria...... ......Thank you......`
+`".........{f:5:Maria}...... ......Thank you......`
 ` ............I am grateful........."`
 `Beato held Maria tight,`
 ` even creating a small, warm universe within their joined arms...`
@@ -81,12 +81,12 @@
 ` ......And I don't need anything else either, as long as I have Beato.`
 ` ......All wishes come true here.`
 ` Everything is here."`
-`............This Golden Land is made up of nothing more than the crystallization of Maria onee‐chan and Beatrice's thoughts and feelings.`
+`............This Golden Land is made up of nothing more than the crystallization of Maria onee‐chan and {f:5:Beatrice}'s thoughts and feelings.`
 `......To drag Beato out of this world,`
 ` ......I have to...`
 `...destroy it.........`
 `..................Destroy this Golden Land,`
-` .........which must be the final world of peace for Beatrice......`
+` .........which must be the final world of peace for {f:5:Beatrice}......`
 `"Onee‐chan. That's wrong.`
 ` This Golden Land is a liar.`
 ` It hasn't granted the one wish you truly wanted to come true."`
@@ -115,7 +115,7 @@
 `"......Why won't you invite that close friend to this wonderful Golden Land?`
 ` Why, in this Golden Land where all wishes come true, is Sakutarou the only one you can't summon?"`
 `"Th‐...that's because......`
-` ......It's alright, Maria.`
+` ......It's alright, {f:5:Maria}.`
 ` You don't have to remember Sakutarou—"`
 `"............Sakutaro was killed by Mama!!!!"`
 `Maria onee‐chan flew into a rage with a terrible expression on her face.`
@@ -128,7 +128,7 @@
 `It was truly a storm of gold.`
 `"Stop...!!`
 ` Stop stop stop...!!!`
-` Why are you trying to reopen the wound in Maria's heart...?!`
+` Why are you trying to reopen the wound in {f:5:Maria}'s heart...?!`
 ` Don't defile the sleep of a dear friend precious to both Maria and myself...!!"`
 `"In that case, why won't you revive that precious friend for her with your magic?"`
 `"I would have if I could...!!`
@@ -156,12 +156,12 @@
 `"No, Onee‐chan, that's wrong.`
 ` .........There's nothing a witch can't do.`
 ` As soon as she couldn't do that,`
-` Beatrice was not a real witch."`
+` {f:5:Beatrice} was not a real witch."`
 `"Tha‐that's wrong......!!`
 ` It's because Sakutaro's stuffed animal vessel was something Mama made by hand herself, and—"`
 `"And that's why she can't revive him?`
-` Is Beatrice's... Is your magic that inconvenient?"`
-`"Gah, .........i‐......in that case, ......do you claim that you can revive Sakutarou?!`
+` Is {f:5:Beatrice}'s... Is your magic that inconvenient?"`
+`"Gah, .........i‐......in that case, ......do you claim that you {i:can} revive Sakutarou?!`
 ` Can you do that with your magic?!"`
 `"I can."`
 `".........What........."`
@@ -170,7 +170,7 @@
 ` I'll revive Sakutarou for you!!"`
 `"......Re‐`
 `.........really......?`
-` Even Beatrice couldn't do it, you know......?`
+` Even {f:5:Beatrice} couldn't do it, you know......?`
 ` ...Ca‐`
 `.........can you really......?!"`
 `"Yes, I can!`
@@ -180,10 +180,10 @@
 `"Leave this Golden Land."`
 `"............!"`
 `"I, I will not permit that...!!`
-` This world is Maria's and mine together!!`
-` If Maria leaves,`
+` This world is {f:5:Maria}'s and mine together!!`
+` If {f:5:Maria} leaves,`
 ` ......it will break...!!"`
-`The minimum amount of humans it takes to create a universe is two.`
+`The minimum amount of {y:0:Human}{n:0:human}s it takes to create a universe is two.`
 `{n}If that breaks down, the world is destroyed.`
 `To drag out the witch who shut herself away in the Golden Land, I have to destroy this world...!`
 `"......Yes, and that is the proof that you are not a witch.`
@@ -191,12 +191,12 @@
 `"The Mariage Sorcière Alliance of Witches!`
 ` ......The very existence of this alliance proves that you are not a witch...!!"`
 `"N‐no...!!`
-` I will not give up Maria...!!`
+` I will not give up {f:5:Maria}...!!`
 ` I hate you, leave right now...!!`
 ` Get out of heeeeeeeeeere!!"`
 `"Dragging everyone into a game of your own accord, then getting bored and chasing them out when your mood changes!!`
 ` How selfish can you be?"`
-`"Watch and learn, Beatrice!!`
+`"Watch and learn, {f:5:Beatrice}!!`
 ` And you, Maria onee‐chan!!`
 ` This...is true magic.........!!!"`
 `"Ca‐......can you really revive Sakutaro...?!"`
@@ -221,11 +221,11 @@
 `That stuffed animal, the only one of its kind in the world, was torn apart and thrown away,`
 ` and not a thread remained.`
 `Reviving it is an absolutely certain impossibility......!!`
-`This is my Golden Land...!`
-`A world where magic that isn't mine certainly cannot exist!!!`
+`{p:1:This is my Golden Land}...!`
+`{p:1:A world where magic that isn't mine certainly cannot exist}!!!`
 `"G‐`
 `......go right ahead,`
-` ......I defy you to do it, Ushiromiya Angeeeeeeeeeeeeeeee!!!"`
+` ......I defy you to do it, Ushiromiya Angeeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee!!!"`
 `At Beato's scream, the world lost its sound.`
 `I slowly...recited the incantation...for true magic......`
 `"...............Come, try to remember.`
@@ -291,16 +291,16 @@
 ` ......How can a human other than me use magic in my Golden Land?!?!`
 ` This is...`
 `......completely impossible.........!"`
-`"What are you so flustered about, Beatrice?`
+`"What are you so flustered about, {f:5:Beatrice}?`
 ` ..................This is...magic, right?"`
 `"It cannot possibly be magic...!!`
-` This is my Golden Land!!`
-` A world where magic that isn't mine certainly cannot exist!!`
+` {p:1:This is my Golden Land}!!`
+` {p:1:A world where magic that isn't mine certainly cannot exist}!!`
 ` And my`
-` magic was not able to revive Sakutarou...!!"`
+` {p:1:magic was not able to revive Sakutarou}...!!"`
 `"There's no way it could!!`
-` That stuffed animal was a special stuffed animal!`
-` Rosa made it for her daughter's birthday, and in the entire world, only one of its kind—`
+` {p:1:That stuffed animal was a special stuffed animal}!`
+` {p:1:Rosa made it for her daughter's birthday, and in the entire world, only one of its kind}—`
 `.........—`
 `...............u...`
 `...............hh......"`
@@ -319,9 +319,9 @@
 `......fell to her knees,`
 ` ......with even her hands pressed to the ground,`
 ` ...............and cried.`
-`"Beatrice...! This is really magic, right...?!`
+`"{f:5:Beatrice}...! This is really magic, right...?!`
 ` It's magic, right?!`
-` Beatrice...!!!"`
+` {f:5:Beatrice}...!!!"`
 `"...............Mm.........`
 ` ......It is magic......`
 ` ......That is...`
@@ -333,11 +333,11 @@
 ` Ange's awesome, Ange's an awesome witch!`
 ` A real witch who's much, much more amazing than me......!!!"`
 `"Yes, that's right, Onee‐chan.`
-` ...............I am the Witch of Resurrection, Ange.`
+` ...............I am the Witch of Resurrection, {f:5:Ange}.`
 ` ......There is nothing that cannot be revived by me."`
 `"Oh wow, oh wow!!`
 ` Even Beato said that the magic of resurrection was the hardest!!`
-` Ange, you're awesome!!`
+` {f:5:Ange}, you're awesome!!`
 ` A real real Great Witch......!!!"`
 `At that moment, Maria's and Sakutarou's forms flashed gold,`
 ` ......and the two became golden flower petals, and crumbled away......`
@@ -347,7 +347,7 @@
 `"......Goodbye, ...Maria onee‐chan.`
 ` And be happy forever.`
 ` ............It's alright, I'm sure "you" exist in Onee‐chan's world as well.`
-` But that doesn't refer to you."`
+` But that {i:doesn't refer to you}."`
 `"...............I am happy for you,`
 ` ......Maria......`
 ` ......As your close friend,`
@@ -361,20 +361,20 @@
 ` ............Without love,`
 ` without sadness,`
 ` without anger,`
-` ............magic cannot be seen."`
+` ............magic cannot be {y:1:‘seen’}{n:1:seen}."`
 `The ground shook.`
 ` ......An earthquake.`
 `.........It gradually caused greater and greater fissures,`
-` and began to tear Beatrice's final paradise apart.`
+` and began to tear {f:5:Beatrice}'s final paradise apart.`
 `Golden butterflies fluttered about trying to escape, but there was nowhere to escape to.`
-`{n}...Nor for Beatrice.`
+`{n}...Nor for {f:5:Beatrice}.`
 `The Golden Land began to crumble away.`
 `The earth gave way like a floor falling through,`
-` .........and Beatrice was sucked into the depths of a jet‐black darkness.`
+` .........and {f:5:Beatrice} was sucked into the depths of a jet‐black darkness.`
 `Then, she was mercilessly slammed against a jet‐black floor.`
 `......It was a small, nondescript, and very dimly lit smoking room.`
 `There was no door to exit by, and while there were windows,`
-` ......they let no light into this place—Beatrice's smoking room.`
+` ......they let no light into this place—{f:5:Beatrice}'s smoking room.`
 `Even as Beato moaned from the pain of being slammed against that cold hard floor,`
 ` she shakily rose to her feet......`
 `A seat was there.`
@@ -388,10 +388,10 @@
 `"Win, or lose.`
 ` That is all you are given.`
 ` A tie during the process of reaching that point will probably be permitted."`
-`".........But the one thing I will not allow is for you to suspend the game and throw it away!`
+`".........But the one thing I will {i:not} allow is for you to suspend the game and throw it away!`
 ` Either win and survive, or lose and disappear!`
 ` Until one of those two things happens, you will not be permitted to rise from that chair!!"`
-`"Isn't that your only duty as the host of a witch's game, as the Golden Witch Beatrice...?!!"`
+`"Isn't that your only duty as the host of a witch's game, as the Golden Witch {f:5:Beatrice}...?!!"`
 `Laughing weakly, Beato...`
 `...sat down.`
 `......Then she rested her elbows on the table, covered her face with both hands,`
@@ -409,7 +409,7 @@
 `{n}......Beato felt a cold and pitiful sensation on her leg.`
 `"......Gotcha...!`
 ` I finally got you, eh, Beato~?"`
-`"Oh, if it isn't the great Lady Lambdadelta...`
+`"Oh, if it isn't the great Lady {f:5:Lambdadelta}...`
 ` .........To think that you were still here."`
 `Beato's foot was locked in an ice‐cold steel shackle,`
 ` ......fastening her to the chair she sat in.`
@@ -423,21 +423,21 @@
 ` .........You don't want to lose, right?`
 ` You wanna little peek at the kind of wonderful world you'll be thrown into if you loooose?"`
 `"Don't worry...`
-` You can win... Lambdadelta, will stick right by you and look after you for all eternity...!!"`
+` You can win... {i:Until you do}, I, the great Lady {f:5:Lambdadelta}, will stick right by you and look after you for all eternity...!!"`
 `".................................`
 ` ......Hmph, ......hahahahaha.`
 ` .........But even if I wish to fight, I have no opponent across from me, correct......?"`
 `".........It's alright, I've found Battler."`
-`When Bernkastel appeared and clapped her hands,`
+`When {f:5:Bernkastel} appeared and clapped her hands,`
 ` Battler appeared from the sky and plopped into the opposite chair.`
 `Battler's eyes were slightly opened, but there was no sparkle in them, almost like a doll.`
 `Without the one pillar that established his soul,`
 ` ............he had fallen into the very depths of darkness, and had been drifting about all this time.`
 `......By rights, he should have dispersed and vanished like mist.`
-`Bernkastel had managed to scrape him together.`
+`{f:5:Bernkastel} had managed to scrape him together.`
 `{n}It was surprising that she had managed to bring him back into a human form.`
 `However, even though his body had returned, his soul had not.`
-`{n}......It was blown away when his existence was denied by Beatrice.`
+`{n}......It was blown away when his existence was denied by {f:5:Beatrice}.`
 `{n}It wouldn't come back easily.`
 `"...............Battler won't run from this fight either.`
 ` Not until he beats you.`
@@ -457,7 +457,7 @@
 `.........He was back.`
 `But the trauma inflicted on his soul was no small thing.`
 `That was only natural.`
-`{n}Beatrice had woven her red, and he had been denied.`
+`{n}{f:5:Beatrice} had woven her red, and he had been denied.`
 `He had learned that the mother he had respected was not his birth mother,`
 ` .........and he didn't know who he was.`
 `......I am not...`
@@ -477,24 +477,24 @@
 `"Yes, that's true.`
 ` Beato declared it with the red truth.`
 ` ......So I'll declare it too.`
-` Ushiromiya Battler is not Ushiromiya Asumu's son."`
+` {p:1:Ushiromiya Battler is not Ushiromiya Asumu's son}."`
 `".........Hmph, ......in that case, he is not qualified to be the opponent in my game, is he..."`
-`"Repetition request for Beatrice.`
+`"Repetition request for {f:5:Beatrice}.`
 ` "Ushiromiya Battler is not Ushiromiya Kinzo's grandchild"."`
 `".............................."`
 `As Beato wrinkled her forehead,`
 ` ......a pained smile rose to her face.`
 `"Declining to repeat, I see.`
 ` Beato declared two red truths:`
-` "You are not Asumu's son",`
+` "{p:1:You are not Asumu's son}",`
 ` and`
-` "No one except Kinzo's grandchild Battler is qualified to be her opponent"."`
+` "{p:1:No one except Kinzo's grandchild Battler is qualified to be her opponent}"."`
 `"The following theory will see you accepted as qualified without any contradictions.`
 ` This is my blue truth—listen to this...!"`
-`The one who is qualified to be Beato's opponent is "Kinzo's grandchild, Ushiromiya Battler",`
-` and whether that person is "Asumu's son" or not is not an issue.`
-`In other words, you can be Kinzo's grandchild even if you are not Asumu's son.`
-`As long as you are Rudolf's son!`
+`{p:2:The one who is qualified to be Beato's opponent is "Kinzo's grandchild, Ushiromiya Battler",}`
+` {p:2:and whether that person is "Asumu's son" or not is not an issue}.`
+`{p:2:In other words, you can be Kinzo's grandchild even if you are not Asumu's son}.`
+`{p:2:As long as you are Rudolf's son}!`
 `"Hmph, what a stupid word game."`
 `"...............Blue truth, valid.`
 ` Beato, your counterargument with the red truth?`
@@ -520,7 +520,7 @@
 `"Say it in red!`
 ` Say that Ange is your little sister!!"`
 `".........`
-`Ange is......my little sister.`
+`{p:1:Ange is......my little sister}.`
 ` .........ah, ............it worked."`
 `She hugged Battler, who was still out of it and slumped in his chair, strongly from behind.`
 ` So strongly that it hurt.`
@@ -569,7 +569,7 @@
 `......Not understanding that is why he loses his purpose for fighting...!!`
 `It's why my voice doesn't reach his ears...!`
 `What he needs is not some vague purpose, like winning against the witch, or because she's unforgivable.`
-`......He needs to become aware of a purpose for which he must win.`
+`......He needs to become aware of a purpose for which he {i:must} win.`
 `".........That's right......`
 ` ......I want to go home......`
 ` ......To Mom and Dad,`
@@ -583,33 +583,33 @@
 `"...............But it can't quite reach."`
 `"You've had enough, right?!`
 ` Then fight so you can return to your family!!`
-` Destroy Beatrice and come home!!"`
+` Destroy {f:5:Beatrice} and come home!!"`
 `"No, ......no more witches...!`
 ` Enough of Beato, ...enough of everything...and you too, you're probably just another one of the witch's allies...`
 ` I could be betrayed again at any time...!!"`
-`"I can't trust anything, I can't trust any words that aren't red...!!`
-` Leave me alone, leave me aloooooooooone!!"`
+`"{p:1:I can't trust anything, I can't trust any words that aren't red}...!!`
+` Leave me alone, leave me alo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooone!!"`
 `Battler's soul howled.`
 ` She hugged his head from behind, so tightly that it hurt.`
-`"Hurry up and come home, Onii‐chan!!`
-` Don't leave me all alone!!!"`
+`"{p:1:Hurry up and come home, Onii‐chan}!!`
+` {p:1:Don't leave me all alone}!!!"`
 `"...............Huh......?`
 ` .........Who...`
 `...............are you......?"`
-`"It's me, it's Ange...!!`
-` No one's coming back home, Onii‐chan, not you, not Mom, not Dad!!`
-` I'm so lonely!!`
-` Please, hurry up and come home!"`
+`"{p:1:It's me, it's Ange}...!!`
+` {p:1:No one's coming back home, Onii‐chan, not you, not Mom, not Dad}!!`
+` {p:1:I'm so lonely}!!`
+` {p:1:Please, hurry up and come home}!"`
 `"......A‐.........Ange......`
 ` .........So you were.........Ange............"`
-`"That's right, I'm Ange!!`
-` The Ushiromiya Ange of a world where no one comes home...!!`
-` .........My entire family...never came home from Rokkenjima that day...!!"`
-`"The witch before your eyes stole away my whole family, even you...!`
-` .........Only you can finish her, Onii‐chan!!`
-` Finish her...!!"`
-`"And take your family back!!`
-` And then.........come home to me......!!!"`
+`"{p:1:That's right, I'm Ange}!!`
+` {p:1:The Ushiromiya Ange of a world where no one comes home}...!!`
+` .........{p:1:My entire family...never came home from Rokkenjima that day}...!!"`
+`"{p:1:The witch before your eyes stole away my whole family, even you}...!`
+` .........{p:1:Only you can finish her, Onii‐chan}!!`
+` {p:1:Finish her}...!!"`
+`"{p:1:And take your family back}!!`
+` {p:1:And then.........come home to me}......!!!"`
 `"...............Beato stole...`
 `...my family........."`
 `"......Hmph, ............as she says.`
@@ -696,7 +696,7 @@
 `Why?`
 ` .........Because he has family—a little sister—waiting for him to come home.`
 `A being created to bring Ushiromiya Ange's voice to him...`
-`Ange Beatrice is—who I am...!!`
+`{i:That} is who {f:5:Ange Beatrice} is—who I am...!!`
 `I will use the piece I am as a sacrifice...`
 `to give Onii‐chan the will to fight, to give him purpose!`
 `Onii‐chan, my purpose is not to play with you in a witch's game for all eternity!`
@@ -813,11 +813,11 @@
 ` .........and yet...`
 `...you kept your faces...`
 `...that calm.........?!"`
-`Without answering, Lambdadelta,`
-` and Beatrice looked at me,`
+`Without answering, {f:5:Bernkastel}, {f:5:Lambdadelta},`
+` and {f:5:Beatrice} looked at me,`
 ` ......some in pity, ...others in derision.........`
 `She was calling herself Gretel,`
-` so after what happened with Virgilia in the last game, ......I was thinking up until now that she might be Beato's underling,`
+` so after what happened with {f:5:Virgilia} in the last game, ......I was thinking up until now that she might be Beato's underling,`
 ` and I was making sure not to trust her even though she was on my side...`
 `And then,`
 ` .........just as I learn that it was actually Ange,`
@@ -835,7 +835,7 @@
 `"As long as you play here, the Anges of countless worlds will live in isolation,`
 ` and the same pain of her final moments just now will be forced upon them, diluted over a period of more than a decade."`
 `".........However, that is of no importance, correct?`
-` It cannot be seen by you from here.`
+` It cannot be {y:1:‘seen’}{n:1:seen} by you from here.`
 ` You cannot observe it.`
 ` An unobservable truth cannot be proven except by the red truth."`
 `"Therefore, your anxiety over Ange's future unhappiness might well be an ungrounded fear.`
@@ -855,13 +855,13 @@
 ` ......and come back to Ange who's waiting for me, ......as soon as humanly possible.........!`
 `Because even as I hang around with the witch like this,`
 ` Ange's heart continues to be torn to bits by sadness...!!`
-`"............Ange, ......is this...`
+`"............Ange, ......is {i:this}...`
 `......what you wanted to see......?"`
 `......Towards the cruel witch who had indifferently spoken of Ange's brutal last moments, slowly,`
 ` ......and yet...`
 `...with all my might,`
 ` ......I pointed......`
-`".........Beatrice......"`
+`".........{f:5:Beatrice}......"`
 `"Mm."`
 `"............Resume this game.`
 ` .........I won't run away anymore, ......and I won't let you get away, either."`
@@ -882,11 +882,11 @@
 ` I have to settle this as soon as possible, .........and bring my family back to Ange!!!"`
 `......Unwavering purpose.`
 ` ...Absolute, certain willpower.`
-`A human's certain willpower becomes certain magical power.`
+`A {y:0:Human}{n:0:human}'s certain willpower becomes certain magical power.`
 `......That acts as a miracle, and makes it a promise.`
-`Yes, this is a promised certain miracle.`
-`..................Is there not even a one in ten‐billion chance...`
-`no.........is it certain that there is not even a fragment of a miracle...`
+`Yes, this is a promised {i:certain miracle}.`
+`..................Is there not even a one in ten‐billion chance...{n}`
+`no.........is it {i:certain that there is not even a fragment of a miracle}...{n}`
 `that could make my victory happen?`
 `Before I knew it, a cold, stiff chain had bound my other leg without a sound,`
 ` fastening me to the chair...`
@@ -904,7 +904,7 @@
 `......Checkmate.`
 `The perfect endgame.`
 `.................................However.`
-`I am the Golden Witch, Beatrice.`
+`I am the Golden Witch, {f:5:Beatrice}.`
 `The demon lord of gold who reigns over the Golden Land.`
 `It may be a losing battle, but still there exists an attitude befitting my stature.`
 `And I have the right to beautify my death in a manner fitting for me.`
@@ -917,7 +917,7 @@
 `"Yeah, suits me, suits me absolutely perfect!!`
 ` Magic and witches, what a load of bullshit...!!`
 ` I'm done playing games with you!!`
-` Here we go, Beatrice...!!!"`
+` Here we go, {f:5:Beatrice}...!!!"`
 `"I suggest you hold nothing back, for there will be no compromise, interruptions or losing by default.`
 ` One will win, and one will be destroyed."`
 `"If you have no desire to lose, then you must defeat me, kill me.`
@@ -933,10 +933,10 @@
 ` ....................."`
 `"Hyahhaha!!`
 ` Like hell I'll be killed,`
-` even if I can't win, I can still frustrate the hell out of you by not giving you the victory, riiiiiiiiight?!"`
+` even if I can't win, I can still frustrate the hell out of you by not giving you the victory, rii{-}i{-}i{-}i{-}i{-}i{-}i{-}ight?!"`
 `"Hoh, that's a good look on your face!`
 ` ......*cackle*cackle*cackle*,`
-` uhhyahhahahahahahahahaha,`
-` aaakkyakkyakkyakkyakkya!!"`
+` uhhyahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha,`
+` aaa{0}kkya{0}kkya{0}kkya{0}kkya{0}kkya!!"`
 `"Try and kill me,`
-` just try and kill me, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer!! Rrrrrooooooooooooooooohhhhaaaaaaaaaaaaaaahhhh!!!"`
+` just try and kill me, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!! Rrrrr{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}h{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!!"`

@@ -308,9 +308,9 @@
 ` Question one!"`
 `"Kihhihihihihihihi!`
 ` I'm gonna give you a reeeeally hard one!`
-` I'll trick you with my extra‐hard puzzle, and make sure you never get my medal!"`
+` I'll trick you with my extra‐hard puzzle, and make sure you {i:never} get my medal!"`
 `"I'm going to solve it.`
-` I'm going to solve it...!"`
+` I'm {i:going} to solve it...!"`
 `As soon as Maria and Ange crossed gazes, they started fighting.`
 `The two girls so close in age were really good friends, but they also fought a lot.`
 `Especially when they were opponents in a game.`
@@ -337,7 +337,7 @@
 ` Why is that wrong...?!"`
 `"Heheh, sorry about that.`
 ` I guess that was a little mean."`
-`"The key to the puzzle is the part about how many can she carry out of the room."`
+`"The key to the puzzle is the part about how many can she {i:carry out of the room}."`
 `......Oh.`
 ` Looks like I made a pretty simple mistake.`
 `I've been taking on so many tricky riddles, I've gotten a bit too tense.`
@@ -388,7 +388,7 @@
 `"Good idea. That'll definitely make it easier for you to sort out your thoughts."`
 `"*sigh*, ......sounds like this puzzle will be a handful."`
 `"There's no way you're getting my medal, Ange!`
-` Kihihihihihihi!!"`
+` Kihi{0}hi{0}hi{0}hi{0}hihi!!"`
 `"I won't lose. I'm not gonna lose!!"`
 `"W‐wait a second...`
 ` Who ever heard of a puzzle with such complicated rules?!"`
@@ -396,7 +396,7 @@
 ` There's lots of complicated puzzles that you've got to deal with in different ways!`
 ` See?`
 ` You don't get it either, right, Ange?!`
-` Kihihihihihi!"`
+` Kihi{0}hi{0}hi{0}hihi!"`
 `"Please, give me a hint!"`
 `"You have to organize your thoughts carefully.`
 ` Only the three humans can row the boat.`
@@ -419,16 +419,16 @@
 `"Impossible, impossible! You'll never solve it!`
 ` Why don't you just give up?`
 ` Thinking is a waste of time for the incompetent!`
-` Kihihihihihihihihi...!"`
+` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
 `"Can this really be solved?`
 ` Don't tell me there's actually some contradiction that makes it unsolvable..."`
 `"Uuuuuu?`
 ` Who knows?`
-` Kiiihihihihihihi!"`
+` Kiiihi{0}hi{0}hi{0}hi{0}hihi!"`
 `"Kihihihihihihi!!`
 ` Wrong!`
 ` You can't even do this one?!`
-` You suck, Ange, kihihihihihihihihihi,`
+` You suck, Ange, kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi,`
 ` ouch!"`
 `"Maria!`
 ` Show some manners!"`
@@ -436,7 +436,7 @@
 `The laughter broke off when Auntie Rosa hit her, but then she was grinning again.`
 `"I don't get it at all. Just how hard was this one...?"`
 `"Only about 20 picarats, I guess?`
-` There are lots of other puzzles in this book that are actually hard!"`
+` There are lots of other puzzles in this book that are {i:actually} hard!"`
 `I don't know what a pica‐thing is,`
 ` but apparently, even this puzzle doesn't count as a hard one for Maria onee‐chan...`
 `I hung my head dejectedly.`
@@ -534,7 +534,7 @@
 ` ......If she really does enjoy herself at this party,`
 ` that itself might be the greatest lesson we can teach her now."`
 `Ange, the girl who won't believe any magic shown to her, calling them simply "tricks"...`
-`Twelve years in the future, she will become the last person to inherit Beatrice's name.`
+`Twelve years in the future, she will become the last person to inherit {f:5:Beatrice}'s name.`
 `"At one point in time, that kid understood my white magic."`
 `"Yeah.`
 ` And she understood me too."`
@@ -562,7 +562,7 @@
 `Ange, please, realize that quickly.`
 `There are so many people smiling at you from behind, watching over you.`
 `If you would just turn around, we would be able to smile at you so much more, and talk to you so much more.`
-`.........Ange Beatrice, final witch of Mariage Sorcière.`
+`.........{f:5:Ange Beatrice}, final witch of Mariage Sorcière.`
 `"Even if you aren't able to reach the proper end,`
 ` ......I pray that you can at least enjoy yourself tonight......"`
 `Have fun, Ange.`
@@ -716,7 +716,7 @@
 ` You're weird."`
 `"I'm sorry.`
 ` Let's go then.`
-` Now, all that's left are the cousins and Beatrice, I guess."`
+` Now, all that's left are the cousins and {f:5:Beatrice}, I guess."`
 `"What is it?`
 ` Why did you tell me to come over here?`
 ` .........Is it something to do with Ange?"`
@@ -786,7 +786,7 @@
 ` .........And to you, Battler........."`
 `"Come to think of it, we've already gone through a ton of puzzles."`
 `"Yeah.`
-` Now, there's only George onii‐chan, Jessica onee‐chan, Battler onii‐chan, and Beatrice left."`
+` Now, there's only George onii‐chan, Jessica onee‐chan, Battler onii‐chan, and {f:5:Beatrice} left."`
 `"Oh, they're finally here."`
 `"We've been waiting a painfully long time.`
 ` We thought you might have forgotten about us."`
@@ -863,7 +863,7 @@
 ` ......No, that's a lie.`
 ` I was really scared......`
 `If that came flying out of the box I opened right at my face, I might fall to my knees and start crying...`
-`"Ange~, are you sure you want the red box...?`
+`"Ange~, are you {i:sure} you want the red box...?`
 ` Something really scary might come flying out, right...?`
 ` Are you sure you don't want to switch to the blue box...?"`
 `"I'm not scared!`
@@ -950,16 +950,16 @@
 `If there were really twenty slices,`
 ` .........then the chances would be 1 in 20.`
 `"However, the servants know where the almond is, so they chose five slices for themselves that had no almonds.`
-` In other words, they removed five losing slices.`
+` In other words, they removed five {i:losing} slices.`
 ` That would mean your chances of winning were 1 in 15, not 1 in 20."`
 `"......They took out losing slices, so it's only natural that the probability of winning would go up."`
 `"Just now, Jessica‐chan did the same thing.`
-` Jessica‐chan took one losing box away from the pair of boxes you didn't choose.`
+` Jessica‐chan took one {i:losing box} away from the pair of boxes you didn't choose.`
 ` In other words, the odds of the winner being on the side you didn't choose went up a bit, right...?"`
 `"Ahahahahahahahah, ......I sort of get it, but not really......"`
 `If you remove a losing box, it's only natural that your chances of getting the right one go up.`
-`And just now, Jessica onee‐chan removed a losing box from the boxes I didn't choose.`
-`So, doesn't it make sense that my odds of winning with those boxes went up......?`
+`And just now, Jessica onee‐chan removed a losing box {i:from the boxes I didn't choose}.`
+`So, doesn't it make sense that my odds of winning with {i:those boxes} went up......?`
 `"......Now I'm getting confused......"`
 `"Actually, you really are incredible, Ange‐chan.`
 ` Even though you're only six, you're trying to understand posterior probability, a concept in probability theory.`
@@ -980,7 +980,7 @@
 `"What?"`
 `"Looks like the quiz tournament is almost over."`
 `"Yeah.`
-` There's only Battler onii‐chan and Beatrice left.`
+` There's only Battler onii‐chan and {f:5:Beatrice} left.`
 ` .........I'm starting to get sleepy."`
 `It's probably because of that adult drink I swiped from Dad.`
 `I've felt floaty ever since I drank that.`
@@ -1025,7 +1025,7 @@
 ` Sometimes, they'll change into things you want.`
 ` ......But, most likely, almost all of the changes will be into bad things."`
 `"The truth is always right there in your hands, Ange.`
-` ......Don't you think it's stupid to let it change around just because you hear someone else's words, just because you hear what they think the truth should be?"`
+` ......Don't you think it's stupid to let it change around just because you hear someone else's words, just because you hear what {i:they} think the truth should be?"`
 `"The truth inside of you has been in your hands from the beginning.`
 ` ......And the nature of that truth is actually something you decide for yourself.`
 ` ......You change it yourself depending on what you hear...and what you refuse to listen to."`
@@ -1041,7 +1041,7 @@
 `"You need to protect it yourself.`
 ` Don't forget it."`
 `"................................."`
-`"All that's left is the puzzles from you and Beatrice, and I'm done."`
+`"All that's left is the puzzles from you and {f:5:Beatrice}, and I'm done."`
 `"I see.`
 ` Even though there were so many of us, it looks like it's finally over."`
 `"How was it?`
@@ -1140,7 +1140,7 @@
 `"Her face looks so cute, sleeping there like that.`
 ` ......She looks like an angel, just like her name."`
 `"She's not an angel, she's a witch.`
-` Ange's the final witch, Ange Beatrice."`
+` Ange's the final witch, {f:5:Ange Beatrice}."`
 `"I wonder if that magic will bring her happiness."`
 `"Will she become a white witch or a black witch?`
 ` ......That's for Ange to choose.`
@@ -1270,8 +1270,8 @@
 `Shannon quietly laid a warm blanket on top of her.`
 `Kanon placed a message card by her pillow, along with that thing Kinzo had given them.`
 `The message card read as follows:`
-`We'll all be with you, always.`
-`{n}——From the whole Ushiromiya family`
+`{a:c:We'll all be with you, always.`
+`{n}{nobreak:{m:-5:—}—}From the whole Ushiromiya family}`
 `And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.`
 `And there, right by her pillow, was the gift from Kinzo, ......a can of mackerel.`
 `And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.`
@@ -1287,9 +1287,9 @@
 `And there, right by her pillow, was the gift from Kinzo, ......a mass‐produced Sakutarou doll.`
 `And there, right by her pillow, was the gift from Kinzo, ......a tea set bearing the family crest.`
 `And there, right by her pillow, was the gift from Kinzo, ......a pocket watch bearing the family crest.`
-`And there, right by her pillow, was the gift from Kinzo, ......a Beatrice corsage.`
+`And there, right by her pillow, was the gift from Kinzo, ......a {f:5:Beatrice} corsage.`
 `And there, right by her pillow, was the gift from Kinzo, ......a Battler doll.`
-`And there, right by her pillow, was the gift from Kinzo, ......a Beatrice doll.`
+`And there, right by her pillow, was the gift from Kinzo, ......a {f:5:Beatrice} doll.`
 `Ange, mumbling in her sleep, held it tightly against her cheek.`
 `"Let us go.`
 ` We mustn't wake her."`

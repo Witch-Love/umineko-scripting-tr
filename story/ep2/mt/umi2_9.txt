@@ -29,7 +29,7 @@
 `{n}Things that a human wanted to do, he resisted.`
 `......This eccentric and rebellious sense had surely given him a rare genius,`
 ` which must have allowed him to succeed in his exploits as he revived the Ushiromiya family in one generation...`
-`"Well then, Beatrice.`
+`"Well then, {f:5:Beatrice}.`
 ` What were the six pieces you took?`
 ` ......And what will your next move be?`
 ` ...Entertain me.`
@@ -87,7 +87,7 @@
 ` I apologize for waking you this early."`
 `"......Did something happen?"`
 `"Yes...`
-` .........Actually, at the chapel, ———"`
+` .........Actually, at the chapel, {nobreak:{m:-5:——}—}"`
 `Genji spoke into Rosa's ear, and told her something in a small voice.`
 `It seemed that Rosa couldn't understand what she was being told after only hearing it once,`
 ` and after repeating the words back to him several times, she finally realized that apparently, something strange had happened.`
@@ -110,7 +110,7 @@
 `A short while ago, Rosa had been told the nature of the situation verbally by Genji.`
 ` However, ...without laying eyes on it directly, she really hadn't been able to understand...`
 `Probably, all of the servants gathered there were the same.`
-`......Without seeing it with their own eyes, they couldn't understand what was going on.`
+`......{i:Without seeing it with their own eyes}, they couldn't understand what was going on.`
 `Because, on the door that was the entrance to the chapel,`
 ` ......drawn very large, ......with a creepy, sticky paint‐like substance that made one think of blood, ...was something like a creepy magic circle.`
 `"Wh‐`
@@ -144,7 +144,7 @@
 `{n}Happy Halloween.`
 `The only person who said the words Happy Halloween to Maria yesterday......`
 `The symbols matched.`
-` ......The Golden Witch, Beatrice...!`
+` ......The Golden Witch, {f:5:Beatrice}...!`
 `"Wh‐what about Maria?!`
 ` That kid should be sleeping with her cousins, right?`
 ` Did you check?!"`
@@ -188,7 +188,7 @@
 ` ...didn't she hand Maria an envelope?`
 ` Yes, I'm positive, she did.`
 `When Maria had tried to open it, that witch had told her not to do that yet, and then she had definitely said,`
-` "The time will come soon to open it"...`
+` "{i:The time will come soon to open it}"...`
 `Rosa became convinced.`
 `{n}......There could be no doubt.`
 `{n}......That letter which had been handed to Maria............`
@@ -259,7 +259,7 @@
 `As she climbed up to the altar, she called out again, but still, the others gave no reaction.`
 `......Yes, ...by now, Rosa had accepted it.`
 `......They were not dolls—`
-`{n}she had accepted that they were those very people......!`
+`{n}{i:she had accepted that they were those very people}......!`
 `"............This is........."`
 `".................."`
 `They approached close enough to be able to see clearly what was on the table.`
@@ -367,7 +367,7 @@
 `"Ge‐...Genji‐san, Shannon‐chan, please ask Father for instructions.`
 ` Gohda‐san, go together with Kanon‐kun and call the police.`
 ` ...Then, have Doctor Nanjo come here and..."`
-`Have Nanjo come here and what?`
+`Have Nanjo come here and {i:what}?`
 `{n}It's way too late for medical care......!`
 `The servants accepted their orders and dashed outside.`
 `After watching them leave, ...............Rosa once again fixedly cast her eyes upon her siblings, who had been through life's joys and sorrows with her, and their partners.`
@@ -465,7 +465,7 @@
 `"Yeah...!"`
 `"Mamaaa, give it baaack!!`
 ` Give back my letterrr!!`
-` It's an invitation to the Golden Land!!"`
+` It's {i:an invitation to the Golden Land}!!"`
 `They didn't know what, ...but something was happening.`
 `{n}Battler and the rest chased after Kanon and Nanjo...`
 `Aaah......and then we realized.`
@@ -516,12 +516,12 @@
 `"Gratitude?!!`
 ` Did you say gratitude, you old bitch?!`
 ` Damn it, if there's something wrong with your ears, I'll cut them both off so you can hear better!!"`
-`"Why should I have to say oh, thank you very much Beatrice‐sama~, about this supremely fucked‐up way of killing?! I'll beat you to death!!!"`
+`"Why should I have to say oh, thank you very much {f:5:Beatrice}‐sama~, about this supremely fucked‐up way of killing?! I'll beat you to death!!!"`
 `"In the last game,`
 ` you were grieving that you couldn't see your parents' faces when they died, I believe?`
 ` So I left them.`
 ` Didn't touch them!!"`
-`"Take a good long look and see, that without a doubt, your father and the others have been killed!!"`
+`"{i:Take a good long look and see, that without a doubt, your father and the others have been killed}!!"`
 `"R......eally, wow, you deserve full marks for top service, I'm so happy!!`
 ` I swore that if I choked the life out of you, I'd plow your face, but I'll take that back, I'll drag out your guts!!!"`
 `"Don't give in to emotion and stop thinking.`
@@ -531,18 +531,18 @@
 `"Do you know why?`
 ` When you denied my existence in the last game, you denied me by thinking in the following way."`
 `"That is:`
-` "Their faces are crushed, so the identities of the corpses cannot be confirmed";`
-` "therefore, the possibility that fake corpses had been prepared to create an alibi cannot be eliminated";`
-` "as long as that possibility cannot be excluded, the human culprit theory can be maintained"!!"`
+` "{i:Their faces are crushed, so the identities of the corpses cannot be confirmed}";`
+` "{i:therefore, the possibility that fake corpses had been prepared to create an alibi cannot be eliminated}";`
+` "{i:as long as that possibility cannot be excluded, the human culprit theory can be maintained}"!!"`
 `"What did you saaaaaay......?!!"`
-`"*cackle*cackle*cackle*kikikikikikikikikikikikikikikikikikikiki!!`
+`"*cackle*cackle*cackle*kikiki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}kikiki!!`
 ` Come, Battler, are you sure you wish to leave the examination of the corpses to Nanjo?`
 ` Isn't it traditional in mystery novels for the doctor who performs such examinations to be an accomplice?"`
 `"Then don't leave the examination to Nanjo; do it yourself.`
 ` Make completely sure that without a doubt, the six corpses are the people claimed, that they aren't pretending to be dead, that they really, really are dead!!"`
 `"To make sure that your father and mother really have been killed by having their stomachs cut open and their entrails pulled out,`
 ` I suggest you stick your hand inside their stomachs and feel around inside!!!`
-` Kuhahahahahahahahahahahahahahahahahahahaha, kiiihahahahahahahahahahahahahahaha!!"`
+` Kuhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, kiiihaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"I WON'T cry!!!`
 ` Damn it, damn it, ...I won't cry...!!"`
 `Battler suddenly yelled.`
@@ -589,17 +589,17 @@
 `"Ye‐yes...!"`
 `"Milady, wait...!!"`
 `Covering her unfocused sadness with anger, Jessica ran outside, torn apart by emotion.`
-`...Thinking about it hastily, maybe the mystery guest, Beatrice, who had arrived yesterday, was suspicious.`
+`...Thinking about it hastily, maybe the mystery guest, {f:5:Beatrice}, who had arrived yesterday, was suspicious.`
 ` However, at the current time, there was absolutely no proof that she was the culprit.`
 `...At this moment, she was nothing more than a simple guest, and only one of many.`
 `So Rosa had to make an adult decision, and stop Jessica in her hasty rampage.`
 ` Gohda and Kanon realized that immediately, and chased after her.`
-`"......Could Beatrice, the guest that no one invited, be the culprit...?"`
+`"......Could {f:5:Beatrice}, the guest that no one invited, be the culprit...?"`
 `"I understand how Jessica feels.`
 ` ...I also want to make myself think that.`
 ` It doesn't matter who, I want to make someone the culprit and bash them right in the face!!"`
 `"......But before that, we have to understand things clearly.`
-` ...Who is this Beatrice?`
+` ...Who is this {f:5:Beatrice}?`
 ` I haven't even seen her face!!"`
 `"......Kihihihihihihihihihihihihihihihi.`
 ` If you're looking for her face, it decorates the big portrait in the mansion.`
@@ -607,13 +607,13 @@
 ` Kihihihihihi."`
 `"...Come on, Maria.`
 ` ...What's so funny in a situation like this?!"`
-`"Beatrice is a witch.`
+`"{f:5:Beatrice} is a witch.`
 ` And the ritual to open the door to the Golden Land has finally begun.`
 ` These six people are sacrifices.`
-` ......Kihihihihihihihihihihihihihihihihi!"`
+` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
 `"Now, the witch's banquet shall begin.`
 ` Tonight is Halloween; the witches gather now in celebration.`
-` Kiiihi‐hi‐hi‐hi‐hihihihihihihihihihihihihihihihihihihihihihihi!!"`
+` Kiiihi‐hi‐hi‐hi‐hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
 `"Maria, how many times have I told you to stop laughing in that creepy voice!"`
 `The crisp sound of Rosa slapping Maria's cheek echoed through the high‐ceilinged chapel...`
 `It kinda feels like, ever since the rain started yesterday—`
@@ -621,10 +621,10 @@
 `I had arrived in Rokkenjima while it was clear, and taken a nap because I had gotten up early.`
 `......When I woke up, it had already started raining.`
 `And after I got up, that's when it all started.`
-`Suddenly a mysterious visitor had arrived, calling herself the Golden Witch Beatrice, and it feels like the world had started skewing bit by bit into something insane.`
+`Suddenly a mysterious visitor had arrived, calling herself the Golden Witch {f:5:Beatrice}, and it feels like the world had started skewing bit by bit into something insane.`
 `What happened while I was taking that nap?`
 ` During that time, had this island been cut off, trapped in a different world where common sense doesn't apply...?!`
-`Who is this person called Beatrice?`
+`Who is this person called {f:5:Beatrice}?`
 `{n}Is she some unknown person trying to involve themselves with the inheritance problem, like our parents were freaking out about at dinner last night?`
 `......Or is the culprit the witch from the Legend of the Gold, like Maria says?!`
 `Even if Jessica hadn't let her short temper get the better of her, in this situation, the visitor was probably the most suspicious.`
@@ -647,9 +647,9 @@
 `{n}......A folded letter came out.`
 `".........I'll read it.`
 ` .........Welcome to Rokkenjima, ladies and gentlemen of the Ushiromiya family.`
-` I am Beatrice, the alchemist for this family, under the employ of Kinzo‐sama..."`
+` I am {f:5:Beatrice}, the alchemist for this family, under the employ of Kinzo‐sama..."`
 `That letter really was a joke.`
-`This Beatrice, who called herself the family alchemist, had announced that she was collecting the gold she had lent Grandfather, along with the interest.`
+`This {f:5:Beatrice}, who called herself the family alchemist, had announced that she was collecting the gold she had lent Grandfather, along with the interest.`
 `And that interest was everything that Grandfather had created.`
 `Since this tragedy was right before our eyes as this paragraph was read aloud, it clearly wasn't referring just to the wealth that Grandfather had built up.`
 `......It was literal.`
@@ -662,7 +662,7 @@
 ` Is that how you pretend to be a witch?!`
 ` Ha, real goddamn funny!!"`
 `"......Special clause.`
-` .........However, if someone is able to discover the hidden gold of this contract, Beatrice must abandon these rights for all time."`
+` .........However, if someone is able to discover the hidden gold of this contract, {f:5:Beatrice} must abandon these rights for all time."`
 `".........Mmhm......`
 ` ......Kinzo‐sama has already publicly displayed the location of the hidden gold within the epitaph under my portrait..."`
 `"......So it's something like this.`
@@ -696,9 +696,9 @@
 ` Six of our parents have been killed, and the gold you throw our way for it is a measly 60 million yen?!`
 ` Don't take us for fools, damn iiiiiiiiiiiiiiiit!!!"`
 `"......Kihihihihihihihihihihihihihihihi.`
-` ...So, it has begun, Beatrice.`
+` ...So, it has begun, {f:5:Beatrice}.`
 ` ......It's not like anyone can solve this riddle anyway.`
 ` So, Beato, you will definitely win."`
 `"......Hurry up and open the door to the Golden Land.`
 ` And take me away.`
-` ...Kihihihihihihihihihihihihihi!"`
+` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`

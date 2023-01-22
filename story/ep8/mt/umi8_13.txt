@@ -22,9 +22,9 @@
 `"Sorry, I was always terrible in cooking class."`
 `"......Kitties,`
 ` thaw this seal."`
-`When Bernkastel whispered, from the dark ocean pit deep below them,`
+`When {f:5:Bernkastel} whispered, from the dark ocean pit deep below them,`
 ` ......several emerald‐green glints appeared and gathered like a school of fish.`
-`Bernkastel threw the Book of the Single Truth down to them, and only after several seconds passed, the school of fish seemed to gather around it and carry it away.`
+`{f:5:Bernkastel} threw the Book of the Single Truth down to them, and only after several seconds passed, the school of fish seemed to gather around it and carry it away.`
 `Those few seconds made it clear just how deep this bookshelf trench went.`
 `Ange was once again dumbfounded by this unimaginably vast and godly library...`
 `"We can just let them handle the rest."`
@@ -45,14 +45,14 @@
 ` ......Serve Ange some tea or something."`
 `"Yes, my master!"`
 `Erika popped into existence out of nowhere and bowed to her master.`
-`".........Bernkastel.`
+`".........{f:5:Bernkastel}.`
 ` If, by any chance, you're planning to use me and steal both the key and the book, ......you won't get off easy."`
 `"H‐how dare you say such a thing to my master?!"`
 `"Sorry.`
 ` After my long experience with witches, I've decided not to trust normal words."`
 `"......Very well.`
 ` I'll promise it with the red truth.`
-` ......When the seal on the Book of the Single Truth is dissolved, you, Ange, will be the first to read it.`
+` ......{p:1:When the seal on the Book of the Single Truth is dissolved, you, Ange, will be the first to read it}.`
 ` ......Is that good enough for you?"`
 `For some time, Ange considered the witch's words, searching for some sort of trap hidden within them...`
 `There was no greater guarantee than a red truth given by a witch.`
@@ -62,14 +62,14 @@
 `"......Are you still unsatisfied about something?"`
 `"Nn.........`
 ` ......No, I'm fine."`
-`She would need Bernkastel's help if she wanted to read the Book of the Single Truth.`
+`She would need {f:5:Bernkastel}'s help if she wanted to read the Book of the Single Truth.`
 `Ange finally realized that she had nothing to gain by complaining more and annoying this witch further...`
 `"......Once you've broken the seal, call me right away."`
 `"Of course.`
 ` I also want to read it as soon as possible.`
 ` I'll call for you at once."`
 `Bern spun away from them, then vanished into the dark bookshelf trench.`
-`Ange saw a school of emerald‐green fish appear and follow behind Bernkastel.`
+`Ange saw a school of emerald‐green fish appear and follow behind {f:5:Bernkastel}.`
 ` ......Could those be her familiars?`
 `As she stared at the emerald lights that resembled some sort of deep‐sea fish, Ange was poked from behind.`
 `"Let's go,`
@@ -104,7 +104,7 @@
 `"That's right.`
 ` Even if the tale of the gods doesn't mention us,`
 ` ......we are always the main character in the story we write for ourselves.`
-` .........Becoming aware of that fact is the first thing that separates witches from humans."`
+` .........Becoming aware of that fact is the first thing that separates witches from {y:0:Human}{n:0:human}s."`
 `They were on a balcony, which was really a room‐sized section that had been dug out of the bookshelf, with no guardrail along the cliff.`
 `It didn't go in very deep, making it look like a room that had been cut in half.`
 `It was filled with the tools of everyday life, as though this was Erika's hidden house.`
@@ -126,19 +126,19 @@
 `"........................Heh."`
 `Ange chuckled, not bothering to argue.`
 `That was exactly right.`
-`How incredible that Bernkastel would lend her power to a worthless life that was trying to throw itself away.`
+`How incredible that {f:5:Bernkastel} would lend her power to a worthless life that was trying to throw itself away.`
 `"Well, my master is the witch who controls miracles.`
 ` ......So, it makes sense that she'd appear even for a worthless girl like you."`
 `"Good point.`
-` .........Even if Bernkastel hadn't appeared, I would've still taken that step off the edge that day."`
+` .........Even if {f:5:Bernkastel} hadn't appeared, I would've still taken that step off the edge that day."`
 `"............You really are a cheap woman, aren't you?"`
 `"Well then, just how much are you worth?"`
 `"Me?!`
-` Hahaha, ahahahahahahahahahaha......"`
+` Hahaha, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
 `The way Erika cackled was disturbing.`
 `Still, Ange realized that this was her way of answering the question.`
 `People don't become witches of their own choosing.`
-`If they're capable of living, all people want to live their lives as humans.`
+`If they're capable of living, all people want to live their lives as {y:0:Human}{n:0:human}s.`
 `......When something comes along to trip up that life, ......that's when the road to living as a witch opens.`
 `Even Furudo Erika, who calls herself the Witch of Truth, must be like this.`
 `The two Witches of Truth, sitting here drinking tea without even looking at each other, ......are exactly the same.`
@@ -180,7 +180,7 @@
 `"Yeah.`
 ` So, my reason for living, my very existence, and everything else is meaningless.`
 ` ......That's why this goal of finding the Book of the Single Truth has put a little sparkle back into my life, now that it's nearly over.`
-` ......At least on that score, I'm grateful to Bernkastel."`
+` ......At least on that score, I'm grateful to {f:5:Bernkastel}."`
 `"I see.`
 ` ......Battler wants you to live, so he hid the goal that would let you die.`
 ` ......I think I pity Battler‐san for the first time.`
@@ -224,11 +224,11 @@
 `"...........................`
 ` ......You're right.`
 ` ......For twelve years, I've clung on to the hope that someone might come back.`
-` ......I've just used Beatrice's cat box to shut away the truth, denying it for twelve years."`
+` ......I've just used {f:5:Beatrice}'s cat box to shut away the truth, denying it for twelve years."`
 `"......When you read the Book of the Single Truth,`
 ` I wonder what will happen to you."`
 `"Who knows.`
-` .........Won't Bernkastel carry out the contract by slicing my head off with a scythe or something?`
+` .........Won't {f:5:Bernkastel} carry out the contract by slicing my head off with a scythe or something?`
 ` Or will I be turned into chunks of meat again?`
 ` ......Maybe I'll get some salt and pepper this time."`
 `"..............................`
@@ -243,17 +243,17 @@
 `This journey of mine, not even a single step long, ......will end soon.........`
 `"......Um, what are those lines of lights flowing around at the bottom?"`
 `"Oh, those?`
-` Probably a group of guests coming to the great Lady Aurora's party."`
+` Probably a group of guests coming to the great Lady {f:5:Aurora}'s party."`
 `"Guests...?"`
 `"Great Witches from the Senate, Voyager witches who are trying to escape boredom in their endless travels,`
 ` powerful witches who have woken from century‐long sleeps, as well as witches who control the future world and noble witch hunters.`
 ` It seems she's planning to hold a grand party tonight."`
 `"......Is it a birthday party or something?"`
-`"From what I've heard, while the great Lady Beatrice, the Endless Witch, may be an outsider among witches,`
-` she's also the genius whose formidable magical system of magic resulted in the creation of "Beatrice's cat box", the endless factory capable of producing endless tales.`
+`"From what I've heard, while the great Lady {f:5:Beatrice}, the Endless Witch, may be an outsider among witches,`
+` she's also the genius whose formidable magical system of magic resulted in the creation of "{f:5:Beatrice}'s cat box", the endless factory capable of producing endless tales.`
 ` ......From my point of view, she's just stupid and a weak finisher, but in the world of great witches, she's apparently pretty famous."`
-`"So this is Beatrice's birthday party?"`
-`"My master says she'll be holding a dinner party with Beatrice's guts.`
+`"So this is {f:5:Beatrice}'s birthday party?"`
+`"My master says she'll be holding a dinner party with {f:5:Beatrice}'s guts.`
 ` ......After all, it's only natural, right?`
 ` The cat box was only able to generate infinite tales because there was no Single Truth."`
 `".........However, tonight,`
@@ -261,16 +261,16 @@
 ` And that means the cat box will be opened.`
 ` Really, it's no different from slicing open her chest as she still lives and tearing out what's inside."`
 `".........Everyone in that huge crowd which looks like a packed freeway is going to one dinner party?`
-` .........I'm not sure what's stronger, my shock at how famous Beatrice is, or my revulsion at those sleaze‐bags."`
+` .........I'm not sure what's stronger, my shock at how famous {f:5:Beatrice} is, or my revulsion at those sleaze‐bags."`
 `"For you, the Book of the Single Truth is nothing more than an end.`
 ` .........However, for all of those enjoying the mystery of Rokkenjima, this is an event that can't be missed."`
 `"I see.`
 ` .........So, that's a crowd of those goats who're chewing Onii‐chan's game board apart."`
 `Ange's analogy was an accurate one.`
 `The crowd far, far below them......was made up of nobles wearing beautiful outfits and goat masks.`
-`They were all so intent on tearing the guts out of Beatrice's cat box that they couldn't even hide the drool trickling from their mouths.`
+`They were all so intent on tearing the guts out of {f:5:Beatrice}'s cat box that they couldn't even hide the drool trickling from their mouths.`
 `Those gluttonous goat nobles, who derived pleasure from violently exposing the truth, were in a line of cars heading towards the meeting place.`
-`".........Looks like this is the end for Beatrice and the cat box."`
+`".........Looks like this is the end for {f:5:Beatrice} and the cat box."`
 `"......Beato's group has holed up in the Golden Land, the last leftovers from the game board.`
 ` Acting as gatekeepers, Battler and Beato have destroyed the first wave, but they won't be able to stop the second.`
 ` ......My master has given me an armada capable of destroying the very concept of defensive measures.`
@@ -312,7 +312,7 @@
 `".............................."`
 `Yes, that might be kind of her.`
 `.........These are...my lingering attachments we're talking about.`
-`I should be grateful to Bernkastel.`
+`I should be grateful to {f:5:Bernkastel}.`
 `If she really were cruel,`
 ` she would probably have ordered me to take charge of the second wave and execute my own family.`
 `"Comrade Ange.`
@@ -323,7 +323,7 @@
 `"Then let's accept the truth, okay?`
 ` Finally, after twelve years, the Single Truth lies before you."`
 `".....................`
-` ......I'll just sit around here until Bernkastel finishes breaking the seal."`
+` ......I'll just sit around here until {f:5:Bernkastel} finishes breaking the seal."`
 `"You'll probably be summoned as a guest for the party.`
 ` ......We've got a mirror, so maybe you should wipe the sleep from your eyes."`
 `"And maybe you should shave before heading out to battle."`
@@ -373,10 +373,10 @@
 ` The heck is this? Konpeitou candy...?!"`
 `"It's me!`
 ` I know where Bern and the others are!"`
-`The konpeitou candy was Lambdadelta's transformed body.`
+`The konpeitou candy was {f:5:Lambdadelta}'s transformed body.`
 `She was the only one of their allies capable of crossing the sea of fragments.`
 `"Spectacular!`
-` That's the great Lady Lambdadelta for you!"`
+` That's the great Lady {f:5:Lambdadelta} for you!"`
 `"They'll be able to see us here.`
 ` Let's talk inside.`
 ` ......It's getting crazy out there."`
@@ -405,23 +405,23 @@
 `"I haven't had a thrill like this for years!`
 ` Hard to believe I'd get put in a tight spot like this even after becoming a witch."`
 `"Let's get down to business...!`
-` Just where are Ange and Bernkastel...?!"`
+` Just where are Ange and {f:5:Bernkastel}...?!"`
 `"The City of Books."`
 `"......I have heard of it.`
 ` ......They say it's a place where all kinds of fragments, collected by great witches who travel the sea, are recorded and stored in the form of books."`
 `"Indeed, the Great Witch of Theatergoing, Drama, and Spectating's Noble City of Carefully Selected Books."`
-`"So, the great Lady Aurora is the ruler of the City of Books.`
+`"So, the great Lady {f:5:Aurora} is the ruler of the City of Books.`
 ` Truly a suitable place for her."`
-`"Nice going, Lady Lambdadelta.`
+`"Nice going, Lady {f:5:Lambdadelta}.`
 ` ......Hard to believe you could pick out that spot so quickly from all the other possible hiding places."`
 `"Actually, it was pretty easy.`
 ` ......I didn't even have to search, since they're advertising it as loud as they can.`
-` They're planning a huge party where they'll unveil the secret to the cat box of the Endless Witch, the great Lady Beatrice."`
+` They're planning a huge party where they'll unveil the secret to the cat box of the Endless Witch, the great Lady {f:5:Beatrice}."`
 `".........Hmph.`
 ` I see, so they haven't been delaying their attack because they await reinforcements, but because the party hasn't begun yet."`
 `"So, in this party, they plan to use Ange's key and reveal the contents of the Book of the Single Truth?"`
 `"You've got it.`
-` Aurora hasn't held an event like this for ages, and she's gathering VIP guests from all over the place.`
+` {f:5:Aurora} hasn't held an event like this for ages, and she's gathering VIP guests from all over the place.`
 ` ......The Book of the Single Truth will probably be the party's final showpiece."`
 `"......So that means we still have a shot at taking Ange and the key back."`
 `"Time‐wise, that may be true.`
@@ -469,15 +469,15 @@
 ` N‐n‐n‐now that it has come to this, I, Gohda, am prepared for what may come...!"`
 `".........Battler‐sama.`
 ` All of us are prepared."`
-`"We of the Chiester Sisters Imperial Guard will fulfill our oath and remain by the great Lady Beatrice's side until the bitter end!"`
+`"We of the Chiester Sisters Imperial Guard will fulfill our oath and remain by the great Lady {f:5:Beatrice}'s side until the bitter end!"`
 `"45 here, no problems!`
 ` I shall fight until the end."`
 `"......Finally, a fitting place to die nyeh.`
 ` ......No problems from 410 nyeh."`
-`"The Seven Sisters of Purgatory will stay with Beatrice‐sama and Battler‐sama until the finish!!"`
+`"The Seven Sisters of Purgatory will stay with {f:5:Beatrice}‐sama and Battler‐sama until the finish!!"`
 `The six younger sisters also showed their resolve with their eyes.`
 `"Eiserne Jungfrau...`
-`will serve until the end."`
+`will serve until the {f:5:end}."`
 `"The former SSVD's got your back too."`
 `".........And please, lend us your power as well."`
 `"Me?!`
@@ -489,49 +489,49 @@
 ` I never trust anything unless I see it for myself."`
 `"Which means you're qualified to enter this sacred realm called the City of Books, right?"`
 `"............Indeed.`
-` The great Lady Lambdadelta is a witch of the Senate, after all."`
-`"Lambdadelta......"`
+` The great Lady {f:5:Lambdadelta} is a witch of the Senate, after all."`
+`"{f:5:Lambdadelta}......"`
 `"......What's with you guys?`
 ` .........You aren't gonna tell me to do more work, are you...?"`
 `"My, what an unexpected development...!"`
-`"Lady Lambdadelta is the only one who can enter the City of Books!"`
+`"Lady {f:5:Lambdadelta} is the only one who can enter the City of Books!"`
 `"And could that possibly mean...?!"`
-`""That this is Lady Lambdadelta's time to shine?!!""`
+`""That this is Lady {f:5:Lambdadelta}'s time to shine?!!""`
 `"Enough kidding around! Are you people crazy?`
 ` ......You're telling me to go, all by myself,`
 ` and sneak into there one more time,`
 ` and then bring Ange back out here?!"`
-`The several dozen people surrounding Lambdadelta all nodded in unison.`
+`The several dozen people surrounding {f:5:Lambdadelta} all nodded in unison.`
 `"How stupid can you be?!`
-` If I were to save Ange, that'd mean crashing the great Aurora's party, get it?!`
+` If I were to save Ange, that'd mean crashing the great {f:5:Aurora}'s party, get it?!`
 ` I'd have the whole world as my enemy!"`
 `"And what's in it for me?! Nothing, obviously!`
 ` There's nothing you all could possibly offer me...`
-`that'd be worth getting on the bad side of Aurora and her monster friends...!"`
-`"You'll get to see a happy ending, where Bernkastel's schemes are crushed,`
+`that'd be worth getting on the bad side of {f:5:Aurora} and her monster friends...!"`
+`"You'll get to see a happy ending, where {f:5:Aurora} and {f:5:Bernkastel}'s schemes are crushed,`
 ` Ange comes back, and everyone makes peace with one another."`
-`"......What do you say, Lady Lambdadelta?`
+`"......What do you say, Lady {f:5:Lambdadelta}?`
 ` There could be no greater thrill.`
 ` ......If you pulled off such a marvelous feat, you would be able to forget your illness for a thousand years, would you not?"`
-`"We're begging you, Lambdadelta...!!`
+`"We're begging you, {f:5:Lambdadelta}...!!`
 ` Lend us your power!!"`
 `Please, please, we're begging you!`
 ` Help us save Ange...!`
-` Everyone clamored for Lambdadelta's help.`
+` Everyone clamored for {f:5:Lambdadelta}'s help.`
 `They surrounded her and begged for her assistance.`
-`"Please, Lady Lambdadelta...!!`
+`"Please, Lady {f:5:Lambdadelta}...!!`
 ` Only you can do this...!!"`
 `"Give us your strength!!`
 ` I'll show you the greatest of tales!!`
 ` You'll get to see it from the front row!!`
 ` So please, lend us your strength!!"`
-`"Shut uuuuuuuuuuuup!!`
-` Shut the hell uuuuuuuuuuuuuup!!!"`
-`Lambdadelta leapt to her feet and crushed the cup of popcorn in her hands.`
+`"Shut uuu{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}up!!`
+` Shut the hell uu{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}up!!!"`
+`{f:5:Lambdadelta} leapt to her feet and crushed the cup of popcorn in her hands.`
 `Sweet, candy‐flavored popcorn flew everywhere and pieces stuck to everyone's face.`
 `It may have been a hilarious sight.`
 `......However, no one laughed.`
-`Lambdadelta's face was filled with a rage that none of them had seen before.`
+`{f:5:Lambdadelta}'s face was filled with a rage that none of them had seen before.`
 `"Could you please stop getting the wrong idea?!`
 ` I'm a spectator! A spectator!!`
 ` I'm just a guest who was invited by Beato to come and watch this game!"`
@@ -550,7 +550,7 @@
 ` I'm a spectator, a guest!!`
 ` There's absolutely no reason why I should agree to die with you!!!"`
 `.........No one was able to say a word.`
-`In the still silence, with no sound except that of the rain, ......even Lambdadelta finally hung her head in dismay.`
+`In the still silence, with no sound except that of the rain, ......even {f:5:Lambdadelta} finally hung her head in dismay.`
 `".........Sorry.`
 ` I'm totally lame, aren't I?`
 ` ......Yeah, if I stood up right now and said "leave it to me", my popularity would surge and I'd probably make it into the top three in the next character popularity contest."`
@@ -562,11 +562,11 @@
 ` We live in completely different worlds...!!`
 ` That's why...... You can't, like......`
 ` ........................haaaah..............."`
-`Lambdadelta staggered as though dizzy, ......then plopped down into a chair.`
+`{f:5:Lambdadelta} staggered as though dizzy, ......then plopped down into a chair.`
 `Then, she became expressionless like a doll, just staring at a single point in space, silently......`
 `".........Sorry."`
 `Battler softly apologized.`
-`{n}However, Lambdadelta remained expressionless.`
+`{n}However, {f:5:Lambdadelta} remained expressionless.`
 `"......There's still more we can do on our own.`
 ` So it's not fair to put pressure on you alone to risk something."`
 `"...................................."`
@@ -577,10 +577,10 @@
 `"......Battler..."`
 `"I'll switch places with the pair outside.`
 ` ......When they come, I want to be in the front lines.`
-` That's the fastest and most direct way I can show Lambdadelta my determination."`
+` That's the fastest and most direct way I can show {f:5:Lambdadelta} my determination."`
 `"................................."`
 `"I shall go as well.`
-` Master, please find Lady Lambdadelta some more popcorn."`
+` Master, please find Lady {f:5:Lambdadelta} some more popcorn."`
 `"......Beato..."`
 `"I know Ange will return.`
 ` If we don't believe, even a possible miracle will not bear fruit.`
@@ -593,28 +593,28 @@
 `"Good point.`
 ` If we're reaching the end, let's put on a good show."`
 `".........We've got to make sure there's a place Ange‐chan can call home."`
-`"And we should hold a strategic conference."`
+`"And we should hold a strategic {f:5:conference}."`
 `"Yeah.`
 ` We have furniture, weapons, demons, and Inquisitors.`
 ` Must be some way for these mismatched forces to cooperate."`
 `"Let's go, little sisters.`
 ` Break time is over."`
 `"Chiester Troops, rise."`
-`The humans and the fantasy creatures all rose to their feet and left the arbor.`
-`Afterwards, only Lambdadelta remained, still staring blankly at a point in empty space......`
+`The {y:0:Human}{n:0:human}s and the fantasy creatures all rose to their feet and left the arbor.`
+`Afterwards, only {f:5:Lambdadelta} remained, still staring blankly at a point in empty space......`
 `"That black tea smells nice.`
 ` Is it instant? Or from a tea bag?"`
-`"......Oh, would you like some too, comrade Eva?`
+`"......Oh, would you like some too, comrade {f:5:Eva}?`
 ` We have no more cups, so you'll have to use a funnel."`
-`A gold butterfly drifted onto the balcony and turned into Eva.`
-`"How's Bernkastel doing?`
+`A gold butterfly drifted onto the balcony and turned into {f:5:Eva}.`
+`"How's {f:5:Bernkastel} doing?`
 ` Will it be a while longer before she breaks the seal on the Book of the Single Truth...?"`
 `"That's what I came to talk about.`
 ` She says the seal has been broken."`
 `".............................."`
 `"Congratulations. So, the time has finally come.`
 ` ......The period to mark the end of your life."`
-`"Take the key and go to Lady Bernkastel.`
+`"Take the key and go to Lady {f:5:Bernkastel}.`
 ` ......One of her cat familiars will guide you."`
 `Two emerald sparkles flew in.`
 `{n}They were the green, glinting eyes of a black cat.`
@@ -638,7 +638,7 @@
 `Ange nodded towards the black cat to let it know that she was ready.`
 `The cat nodded back in a refined manner, indicated that it wanted Ange to follow, and leapt from the balcony.`
 `Without turning back, Ange followed it, jumping out into the air as though swimming...`
-`Eva watched her go.`
+`{f:5:Eva} watched her go.`
 `An expression of ridicule and scorn...was not the one that crossed her face...`
 `"Good luck, Ange.`
 ` .........This is the path you've chosen.`
@@ -679,7 +679,7 @@
 ` Rumor has it that she wrote the details of Rokkenjima's truth in there.`
 ` It reminds me of that fable of the king with the donkey's ears.`
 ` Humans truly are tragic creatures, incapable of keeping quiet about a secret even if no one else could possibly learn of it."`
-`"Wahahahahahahahaha.`
+`"Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.`
 ` From what I've heard, a collector from Dubai offered to buy it for ten million dollars...!"`
 `"Incredible...!`
 ` More evidence of the fascination that the Rokkenjima mystery is capable of stirring!"`
@@ -709,7 +709,7 @@
 ` It seems that some are claiming it to be no more than the personal account of a single deceased person."`
 `"That is not the case.`
 ` I guarantee it.`
-` The truth is written in this diary."`
+` {p:1:The truth is written in this diary}."`
 `A stir passed through the crowd, and the room was suddenly filled with camera flashes.`
 `"This ends Hachijo's interview...!`
 ` Allow us to express our deep gratitude to all members of the press for coming today!`
@@ -727,13 +727,13 @@
 ` the journalists continued to surround her and ask questions, hoping to gather just one more comment.`
 `When the door slammed shut, .........the world twisted.`
 `The hotel employees became black cats wearing capes.`
-`Hachijo had turned into Featherine...`
+`Hachijo had turned into {f:5:Featherine}...`
 `"Things are getting pretty crazy out there.`
 ` ......Did you enjoy it?"`
 `"......It was tiring.`
 ` ......Though not a bad experience.`
 ` I must say, though, this diary truly is heavy."`
-`Bernkastel caught it.`
+`{f:5:Featherine} tossed the diary, and {f:5:Bernkastel} caught it.`
 `"I will rest in one of the waiting rooms."`
 `"You're up again pretty soon.`
 ` There's no time to rest."`
@@ -742,21 +742,21 @@
 ` I promised Ange that I'd show her first."`
 `"I see.`
 ` In that case, do as you please."`
-`Featherine left, followed by her cat attendants.`
-`After watching her until she was out of sight, Bernkastel disappeared as well.`
-`Like Erika's room, Bernkastel's was a balcony without a handrail, dug out of a bookshelf cliff.`
+`{f:5:Featherine} left, followed by her cat attendants.`
+`After watching her until she was out of sight, {f:5:Bernkastel} disappeared as well.`
+`Like Erika's room, {f:5:Bernkastel}'s was a balcony without a handrail, dug out of a bookshelf cliff.`
 `Ange had been kept waiting for some time, but she had waited patiently, looking down at the world below her...`
-``
+`{a:c:`
 `"......I'm late, aren't I?`
-` Sorry about that."`
-`After Bernkastel appeared, the black cats gave a bow and vanished.`
+` Sorry about that."}`
+`After {f:5:Bernkastel} appeared, the black cats gave a bow and vanished.`
 `"Here you go.`
 ` I've brought it with me.`
 ` The Book of the Single Truth."`
 `".....................`
 ` ......Can I touch it...?"`
 `"Do as you like."`
-`Bernkastel set it on the table and beckoned Ange forward.`
+`{f:5:Bernkastel} set it on the table and beckoned Ange forward.`
 `Slowly, ......Ange approached it.`
 `"So, ......this is Aunt Eva's diary......"`
 `"That's right.`
@@ -807,7 +807,7 @@
 `"......I see.`
 ` Do whatever you want."`
 `I don't give a damn what happens after I find the truth.`
-`Bernkastel slid the key from where it lay on the table and put it into her pocket.`
+`{f:5:Bernkastel} slid the key from where it lay on the table and put it into her pocket.`
 `"Go ahead, then.`
 ` .........Before the courage that led you here fades."`
 `"................................."`
@@ -866,16 +866,16 @@
 `However, they weren't words of the human world.`
 ` They were a witch's words.`
 `The red truth, which signifies absolute truth.`
-`‘This is...the truth of the Rokkenjima incident!!’`
+`‘This is...{p:1:the truth of the Rokkenjima incident}!!’`
 `"............I won't accept it."`
 `‘It doesn't matter if you accept it or not!!`
 ` This is the truth!!`
-` After all, *********, ******************!!`
-` *********************************!!!’`
+` {p:1:After all, *********, ******************!!`
+` *********************************}!!!’`
 `"......I won't accept it, I won't! ......I'll never accept a truth like that, ......never......"`
-`‘Whether you accept it or not, that doesn't change the truth!!`
-` After all, this is the Single Truth, proven in reeeeeeeeeeeeeeeeeeeeeeeeddd!!’`
-`*giggle*giggle, ......heheheheheheheheh, hahhahahahahahahaha...!!`
+`‘{p:1:Whether you accept it or not, that doesn't change the truth!!`
+` After all, this is the Single Truth, proven in re{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eddd}!!’`
+`*giggle*giggle, ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh, hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
 `Who cares about the truth, so stupid, so pointless...!`
 `{n}I'm the one who gets to decide if that's the truth or not, right?`
 `Even if it's red truth, I won't acknowledge it, won't permit it, and I definitely won't accept it...!!`
@@ -886,7 +886,7 @@
 ` I won't let you contaminate my truth with yours!!"`
 `".........Ange, calm down.`
 ` You're the one who wanted to know, right?"`
-`"Hahahaha, ahhahahahahahahaha!!`
+`"Hahahaha, ah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` My truth is that Aunt Eva's the culprit!!`
 ` Aunt Eva killed everyone!!`
 ` Everything's her fault!!`
@@ -894,34 +894,34 @@
 ` It's no one's fault, no one's fault...!!`
 ` How could it be? How could it be?!"`
 `― Your aunt will always be on your side, Ange‐chan.`
-`"Hahahaha, ahhahhahahahahahahahahahaha!!`
+`"Hahahaha, ah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` Yeah, I get it now, I know what you meant!`
-` Heheheheheh, ahhahahahahahahahahahahah!!`
+` Heh{0}eh{0}eh{0}eheh, ah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah!!`
 ` That's right, Aunt Eva, you're the culprit, you're the culprit!!`
 ` It's the world that's messed up and broken for not realizing that...!!`
 ` I'm the right one, I'll deny the red truth, deny the whole world...!!!"`
 `".........Oh?`
 ` ......In that case, try writing a red truth that only you can write.`
-` ......But how is it possible for a human to write with red truth?"`
+` ......But how is it possible for a {y:0:Human}{n:0:human} to write with red truth?"`
 `"It is possible!!`
-` There's a red ink that only humans can write with!!"`
+` There's a red ink that only {y:0:Human}{n:0:human}s can write with!!"`
 `Ange‐san, please calm down.`
 `"I'm the right one!! The world's wrong!!`
 ` I'll write it!!`
 ` I'll write the truth with the real red truth!!`
-` Hahahahahahahah, ahahahahahahahaha!!"`
+` Haha{0}ha{0}ha{0}ha{0}ha{0}hah, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
 `20, requesting urgent support on the roof!!`
 `Ange‐san!!`
 ` Wait!!`
-` Don't be hasty, look ooooooooooouuuut!!!`
+` Don't be hasty, look ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ouuuut!!!`
 `"<Goodbye, Ange. Have a nice day.>"`
 `"I'll write it out! This is my blood‐red truth!!`
-` I'll never accept the truth of your woooooooooooooooorld!!!"`
+` I'll never accept the truth of your woo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orld!!!"`
 `Ange's body went past the edge of the balcony.`
 `The air, which she had once been able to swim through, was now completely merciless for some reason.`
 `Ange's body......plunged straight into the darkness below.`
 `"................................."`
-`Bernkastel just watched the scene play out in silence......`
+`{f:5:Bernkastel} just watched the scene play out in silence......`
 `Behind her, men in black suits rushed up to the fence, clutching it and screaming...`
 `"T‐......this is 20......!`
 ` ......A‐......Ange‐san......j‐jumped off...!"`
@@ -932,10 +932,10 @@
 ` L‐let's make sure...!"`
 `What fools.`
 `If you jumped straight down from this height, ......do you really think such a flimsy safety net could possibly save you......?`
-`"As the Witch of Miracles, I, Bernkastel, guarantee that such a miracle certainly won't occur.`
-` .........*giggle*giggle*giggle*, ......hahhahahahahahahahahaahahaha!!"`
+`"As the Witch of Miracles, I, {f:5:Bernkastel}, guarantee that such a miracle certainly won't occur.`
+` .........*giggle*giggle*giggle*, ......hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}haha!!"`
 `Ange's body......fell from the skyscraper‐like bookshelf and slammed against the floor of the City of Books.`
-`Looking down from Bernkastel's balcony, which was as high as a skyscraper's roof,`
+`Looking down from {f:5:Bernkastel}'s balcony, which was as high as a skyscraper's roof,`
 ` ......could it have looked like a lovely, red pressed flower?`
 `It couldn't have looked like anything.`
 `In the same way that the death of a single lonely girl who rejected the world and died alone......wouldn't leave an impression on any of the world's people.`
@@ -950,7 +950,7 @@
 `After all, ......the red blood pouring from her corpse had run over it all.`
 `"............Even this...was your decision,`
 ` .........Ange."`
-`Eva was looking down at the beautiful flower of blood radiating from Ange's corpse.`
+`{f:5:Eva} was looking down at the beautiful flower of blood radiating from Ange's corpse.`
 `"......I tried to give you a chance to live.`
 ` ......But you never truly made an effort to live in the future that began after the age of six.`
 ` .........And so, after twelve years, you've finally returned to where you started."`
@@ -967,15 +967,15 @@
 ` .........<See you in hell>.`
 ` No, that's probably where we are right now.`
 ` .........So long, Ange."`
-`"Ah, Eva.`
+`"Ah, {f:5:Eva}.`
 ` Perfect timing."`
 `"Did you call for me, my master?"`
 `"Dispose of this scrap meat for me, if you wouldn't mind.`
 ` I'm going to put this back."`
-`In Bernkastel's hands was the key, which had lost its magic when Ange had made her decision, and the Book of the Single Truth, which had been locked up again.`
+`In {f:5:Bernkastel}'s hands was the key, which had lost its magic when Ange had made her decision, and the Book of the Single Truth, which had been locked up again.`
 `"As you wish, my master."`
-`After looking down one more time, Bernkastel vanished.`
-`Once she had gone, Eva summoned some cat familiars and ordered them to clean up.`
+`After looking down one more time, {f:5:Bernkastel} vanished.`
+`Once she had gone, {f:5:Eva} summoned some cat familiars and ordered them to clean up.`
 `The black cats gathered Ange's flesh and scattered limbs and threw them into a tin bucket.`
 `.........Even in this miserable form...`
 `{n}Ange's soul......was still living.`

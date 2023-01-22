@@ -1,5 +1,5 @@
 `"So...heheh...about earlier,`
-` sorry you had to see me acting like that... I blame the future heir......"`
+` sorry you had to see me acting like that... I blame the {i:future heir}......"`
 `"It's not going to leave a mark, is it?`
 ` Talk about merciless."`
 `".........Did you say something, Jessica?"`
@@ -21,11 +21,11 @@
 ` I said "if you're planning to become council president next year, that'll just put more pressure on me, so stop it!""`
 `"But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?!`
 ` Same thing happened when I started high school!`
-` I said "please, just give it a rest this time", but by that point, the future heir was already the vice‐president!`
+` I said "please, just give it a rest this time", but by that point, the future heir was {i:already} the vice‐president!`
 ` Then, senior year? Immediately president of the student council!"`
 `"Dad was oh so proud!`
 ` Mom kept saying "now you make sure you do your best as the little sister", over and over and over again!!`
-` Nngyaaaaaaaaaaahhhh!"`
+` Nngyaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ahhhh!"`
 `"But even so, you're still proud to be Lion's little sister, aren't you?"`
 `"I‐i‐it's not like I ever thought about that!`
 ` Nope, never! Not even once...!"`
@@ -59,9 +59,9 @@
 `"I want to ask you two now."`
 `"The same thing you just asked Maria‐chan?"`
 `"Yeah.`
-` Please tell me everything you know about Beatrice."`
+` Please tell me everything you know about {f:5:Beatrice}."`
 `"......Well, you can see how much Maria‐chan likes witches and the occult.`
-` For her, Beatrice is a symbol to be admired, like an anime heroine.`
+` For her, {f:5:Beatrice} is a symbol to be admired, like an anime heroine.`
 ` She believes every little thing is some sort of prank caused by a witch's magic."`
 `"You are an adult.`
 ` And the fact that you never say this to Maria is also very adult of you."`
@@ -69,15 +69,15 @@
 ` Childhood dreams only happen when you're a kid.`
 ` I think respecting that precious experience is an adult's responsibility."`
 `"Looks like the two of us will get along well."`
-`George's position was that Beatrice was nothing more than a fairy tale.`
+`George's position was that {f:5:Beatrice} was nothing more than a fairy tale.`
 `However, that phrase—“respecting a child's dreams is the adult thing to do”—that might be worthy of further scrutiny.`
-`When she got a candy from Beatrice by magic, Maria probably got excited and told George and the others.`
+`When she got a candy from {f:5:Beatrice} by magic, Maria probably got excited and told George and the others.`
 `Then, the adults followed his lead and positively went along with her story "as adults should".`
 `However, there could be other ways this sort of reaction could occur, other than as an adult's response to a child's claims.`
 `For example, it could be an inferior's response to the claims of their superior.`
-`......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived,`
+`......If Kinzo, tyrant of the Ushiromiya family, claimed that {f:5:Beatrice} existed and had revived,`
 ` perhaps the other members of the family would positively go along with his story "as his inferiors should".`
-`Though Beatrice only appeared directly in front of a limited number of people,`
+`Though {f:5:Beatrice} only appeared directly in front of a limited number of people,`
 `......it's probably safe to say that the concept of her existence penetrated deeply within the Ushiromiya family, even among those who had never seen her.`
 `However, no matter how deeply that concept penetrated, she was only viewed as a sort of fairy tale character.`
 `It would be necessary to transform the concept of that character from an imaginary fairy tale into reality.`
@@ -85,17 +85,17 @@
 `And that something......was the series of witch incidents that started with the nighttime window‐opening pranks played by Beato the Elder...`
 `...and ultimately escalated to locked‐room murders.`
 `......Beato the Elder referred to this, saying that the anti‐magic power filling the mansion would be weakened bit by bit the more she made her existence known.`
-`Beatrice.`
+`{f:5:Beatrice}.`
 `Why did you desire so greatly to make all others accept your existence?`
 `Because the imaginary becomes the truth if everyone accepts it?`
-`Because at that moment, the being called human?`
-`In that case, before human.`
+`Because at that moment, the being called {f:5:Beatrice} will be acknowledged and will become {y:0:Human}{n:0:human}?`
+`In that case, before {f:5:Beatrice} is acknowledged by all people, she's less than {y:0:Human}{n:0:human}.`
 ` She's furniture.`
-`Why would furniture want to become human?`
+`Why would furniture want to become {y:0:Human}{n:0:human}?`
 `It feels like this was the theme of the previous game.`
 `Because they want to gain the right.`
 `Furniture cannot ____.`
-`{n}So, they try to become human for the right to ____.`
+`{n}So, they try to become {y:0:Human}{n:0:human} for the right to ____.`
 `...........................`
 `It really is quite simple.`
 `......It's directly connected to the reason the chick Beato was born in the first place.`
@@ -103,8 +103,8 @@
 ` ......I see.`
 ` ......I do understand, but it's complicated."`
 `I can't......ignore the heart.`
-`"I feel bad for saying this at Beatrice's funeral,`
-` ......but, truth be told, I don't know enough about Beatrice to explain her.`
+`"I feel bad for saying this at {f:5:Beatrice}'s funeral,`
+` ......but, truth be told, I don't know enough about {f:5:Beatrice} to explain her.`
 ` My apologies."`
 `"As far as that goes, Jessica‐chan does live here, so she might know a little more than I do.`
 ` ......Speaking of which, have you introduced yourself to this gentleman yet, Jessica‐chan?"`
@@ -131,13 +131,13 @@
 ` so he didn't understand what was making Jessica's face glow.`
 `"Have I done something strange?"`
 `"No, no, I just didn't...ah, ahahaha..."`
-`"I want to hear what you know about Beatrice.`
+`"I want to hear what you know about {f:5:Beatrice}.`
 ` ...............nn."`
 `A glow leaked from Will's right hand, which was grasping Jessica's.`
 `Looks like the theatergoing power is having its effect on Jessica.`
 `......Didn't mean for that to happen.`
 ` Oh well...`
-`"Beatrice, is it...?`
+`"{f:5:Beatrice}, is it...?`
 ` W‐well, I can tell you, .........but will you promise me something?`
 ` Promise you won't laugh.`
 ` Thinking about it now, ......it sounds more than a little crazy."`
@@ -146,18 +146,18 @@
 ` Tell me."`
 `"S‐sure...`
 ` .........Umm, where should I start......."`
-`To me, the Golden Witch Beatrice is...`
+`To me, the Golden Witch {f:5:Beatrice} is...`
 `...sort of like one of the "seven mysteries" of the Ushiromiya family.`
 `You've heard of those, right? Almost all schools have a set of tall tales or ghost stories that get passed down.`
 `Like "on some days, the piano in the music room will start playing by itself", or "the skeleton in the science room dances around at night".`
 `Everyone's heard of them.`
 ` But of course, that doesn't mean they believe in them.`
-`The stories about Beatrice were the same.`
+`The stories about {f:5:Beatrice} were the same.`
 `It was just one of those strange tales about our way‐too‐big mansion.`
 `The servants would sometimes talk about seeing things or whatever during their night patrols.`
 `Sometimes, I felt a bit annoyed about them turning my home into a place for ghost stories, but I didn't pay it any more attention than that.`
 ` That's how little it mattered to me.`
-`So, during my normal, everyday life, I would completely forget about the name "Beatrice".`
+`So, during my normal, everyday life, I would completely forget about the name "{f:5:Beatrice}".`
 `Of course, when that huge portrait was first hung, I was definitely creeped out.`
 `Even I tried not to meet her eyes after dark,`
 ` so yeah, I don't blame the servants for finding it eerie.`
@@ -168,13 +168,13 @@
 `"I get that.`
 ` I'll bet it was different for the other relatives, who only came a few times a year."`
 `"Exactly.`
-` That's why every time the family came for a family conference, they'd always stand in front of that portrait and talk about Beatrice.`
+` That's why every time the family came for a family conference, they'd always stand in front of that portrait and talk about {f:5:Beatrice}.`
 ` So, I was reminded of it every year."`
-`"Uu, Beatrice!!`
+`"Uu, {f:5:Beatrice}!!`
 ` I've come to play again...!`
 ` I've drawn another new spell.`
 ` Take a look at it later, okay?! Uu!"`
-`"You really do like Beatrice, don't you?`
+`"You really do like {f:5:Beatrice}, don't you?`
 ` You've been in such high spirits ever since Grandfather had this portrait hung."`
 `"Huh?`
 ` Where's Ange?"`
@@ -184,7 +184,7 @@
 `"She's the sort that gets sick whenever she's stressed.`
 ` I also used to get sick on big holidays or days when we were going to the movies."`
 `"Maria's really tough by comparison.`
-` ......She's been talking about Beatrice non‐stop since we left Niijima.`
+` ......She's been talking about {f:5:Beatrice} non‐stop since we left Niijima.`
 ` ......Don't you think she's taking this a bit too far?"`
 `"It's not so bad, right?`
 ` It's normal for kids to have an active imagination.`
@@ -237,12 +237,12 @@
 ` She can't play with me."`
 `"Wh‐what are you talking about?`
 ` Why?"`
-`"Because I'm gonna play with Beatrice, of course.`
+`"Because I'm gonna play with {f:5:Beatrice}, of course.`
 ` So I can't play with Ange."`
-`"Play with Beatrice...`
+`"Play with {f:5:Beatrice}...`
 ` ......You mean you're gonna go off on your own again to mumble to yourself and read some book?"`
 `Jessica slightly regretted that she hadn't been more tactful.`
-`However, she couldn't wipe away that uncomfortable feeling she got every time Maria talked about Beatrice,`
+`However, she couldn't wipe away that uncomfortable feeling she got every time Maria talked about {f:5:Beatrice},`
 ` and that feeling slipped out through her words...`
 `"Uu!!`
 ` I don't do it on my own!`
@@ -261,9 +261,9 @@
 ` But who knows if you'll be invited in?`
 ` Of course, she will take me there, to the Golden Land!`
 ` But not Jessica, not Jessica!!`
-` Not someone who makes fun of human!!`
-` Kihihihihihihihihihihhihhihhihhi!!"`
-`".........When someone makes fun of Beatrice, it's like Maria becomes a totally different person."`
+` Not someone who makes fun of {f:5:Beatrice}, not an unenlightened, stupid, confused, filthy, toxin‐stained {y:0:Human}{n:0:human}!!`
+` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hhi{0}hhi{0}hhi{0}hhi!!"`
+`".........When someone makes fun of {f:5:Beatrice}, it's like Maria becomes a totally different person."`
 `"There was a theory about Maria having multiple personalities, wasn't there?"`
 `"Multiple personalities!`
 ` Yeah, that probably describes it perfectly.`
@@ -334,23 +334,23 @@
 `...the "other self" in Maria's case?`
 `An authority on the occult who can out‐argue even adults?`
 `{n}Or else, ......someone who converses and mingles with witches?`
-`......Either way, denying Beatrice in front of Maria is clearly taboo.`
+`......Either way, denying {f:5:Beatrice} in front of Maria is clearly taboo.`
 `.........In her search for something more than her everyday life,`
-` Maria had found it in Beatrice and inside herself.`
-`Then, is going to the Golden Land with Beatrice...`
+` Maria had found it in {f:5:Beatrice} and inside herself.`
+`Then, is going to the Golden Land with {f:5:Beatrice}...`
 `...Maria's...wish?`
 `....................................`
 `"Looks like we've gone off track.`
 ` Anyway, Maria kept up that tantrum until Auntie Rosa got back.`
 ` ......It was my fault too, arguing back when I should've let her be."`
-`"And you said there was no way Beatrice could exist?"`
+`"And you said there was no way {f:5:Beatrice} could exist?"`
 `"Something like that.`
 ` "If she exists, then just let me see her".`
 ` ......Of course, once Maria started crying, I realized I'd gone too far."`
 `"And then?"`
 `"At the end of the family conference, I was the only one still upset.`
 ` ......Maria acted as though nothing had happened.`
-` Instead, she went off somewhere on her own, and came back talking happily about how she had played with Beatrice again."`
+` Instead, she went off somewhere on her own, and came back talking happily about how she had played with {f:5:Beatrice} again."`
 `"Everyone, me included, decided not to contradict her.`
 ` By that time, it was best to just accept it and ignore it."`
 `"Is that all you have to say about the family conference?"`
@@ -375,18 +375,18 @@
 `"Come now, she's just a child.`
 ` It's not something you need to worry about, all grown up and in high school."`
 `"That stuff Maria was talking about, do you think it's all just a kid's nonsense?"`
-`"......About Beatrice‐sama,`
+`"......About {f:5:Beatrice}‐sama,`
 ` ......you mean?"`
-`"See, even you call her sama."`
-`Beatrice is the name of Grandfather's mistress, the person he's still infatuated with.`
+`"See, even you call her {i:sama}."`
+`{f:5:Beatrice} is the name of Grandfather's mistress, the person he's still infatuated with.`
 ` ......I realize that, as a servant, Kumasawa‐san can't speak of her indiscreetly.`
 `Still, ......that's now become the name of the fictitious witch who lives in the mansion,`
 ` .........and it's almost normal for people to call her "sama".`
-`"Beatrice is just a ghost story created by the adults to stop us from wandering into the forest.`
+`"{f:5:Beatrice} is just a ghost story created by the adults to stop us from wandering into the forest.`
 ` ......Maria just thought it was interesting one day and decided to pretend it was true."`
 `"Hoh‐hoh‐ho...`
 ` You'll end up cursed if you say such things.`
-` After all, Beatrice‐sama "exists"."`
+` After all, {f:5:Beatrice}‐sama "exists"."`
 `"Come on, we both know that isn't true.`
 ` I don't need George nii‐san to tell me not to make a fuss about Santa not existing.`
 ` But that doesn't mean Santa actually exists."`
@@ -394,11 +394,11 @@
 `"Wrong...?"`
 `"Oh yes.`
 ` The gods do dwell in all things.`
-` ......In the same way, Beatrice‐sama dwells on this island, in this mansion.`
-` Like the gods, Beatrice‐sama will do you no harm if you respect her."`
+` ......In the same way, {f:5:Beatrice}‐sama dwells on this island, in this mansion.`
+` Like the gods, {f:5:Beatrice}‐sama will do you no harm if you respect her."`
 `"As you say, it is as though she doesn't exist...`
 ` However, if you ever fail to show proper respect, it will most certainly come back to haunt you.`
-` ......Of course, that can be said of more than Beatrice‐sama."`
+` ......Of course, that can be said of more than {f:5:Beatrice}‐sama."`
 `"Heh, if there's a curse, let's see it.`
 ` I'd just love to meet her."`
 `"M‐Milady...!`
@@ -406,7 +406,7 @@
 `"Ah, Milady..."`
 `"You were splendid today..."`
 `"Shannon, Gohda‐san.`
-` You guys know about Beatrice, right?"`
+` You guys know about {f:5:Beatrice}, right?"`
 `"......Huh?"`
 `"W‐well, I do know of her, of course.`
 ` ......Why do you ask?"`
@@ -442,7 +442,7 @@
 `"Huh?`
 ` Y‐you mean...?"`
 `"Th‐the story about the VIP room...?"`
-`Gohda and Shannon had been recounting several ghost stories about Beatrice.`
+`Gohda and Shannon had been recounting several ghost stories about {f:5:Beatrice}.`
 `One of those drew a reaction from Jessica...`
 `"Yeah, that one.`
 ` Sounds pretty cool...!"`
@@ -451,16 +451,16 @@
 `"The VIP room...`
 `...is never to be entered at two in the morning—`
 `is that the one you mean?"`
-`"The one about how Beatrice‐sama returns to the VIP room at two o'clock every morning,`
+`"The one about how {f:5:Beatrice}‐sama returns to the VIP room at two o'clock every morning,`
 ` ......so you mustn't go near it?"`
 `"Yeah, that's it.`
 ` Pretty cool.`
-` All the other stories are about people saying they heard or saw something they thought was Beatrice, but this one isn't.`
-` This one says that, if you go to the VIP room at two in the morning, you can actually meet Beatrice‐sama...!"`
+` All the other stories are about people saying they heard or saw something they thought was {f:5:Beatrice}, but this one isn't.`
+` This one says that, if you go to the VIP room at two in the morning, you can actually meet {f:5:Beatrice}‐sama...!"`
 `"W‐well, ......I, I wonder......"`
 `"Milady...`
-` They say that servants who speak ill of Beatrice‐sama will be cursed.`
-` Furthermore, the VIP room is Beatrice‐sama's room..."`
+` They say that servants who speak ill of {f:5:Beatrice}‐sama will be cursed.`
+` Furthermore, the VIP room is {f:5:Beatrice}‐sama's room..."`
 `"......Even you, Milady, ......should probably reconsider......"`
 `"The VIP room is locked now, right?`
 ` Where's the key?"`
@@ -477,9 +477,9 @@
 `"............M‐...Milady......"`
 `To Jessica, it was their two expressions that felt more like an ill omen than anything else did.`
 `It wasn't the witch or the VIP room that felt foreboding to Jessica.`
-` It was them, Maria and the others who believed in witches.`
+` It was {i:them}, Maria and the others who believed in witches.`
 `In the end, Jessica forced them to agree, and she made them bring her the key to the VIP room...`
-`"A classic test of courage, to see if Beatrice would really appear in the VIP room or not."`
+`"A classic test of courage, to see if {f:5:Beatrice} would really appear in the VIP room or not."`
 `"Pretty much.`
 ` ......Still, I wonder why I was so stubborn about it.`
 ` It must have been because of my fight with such a little girl."`
@@ -490,9 +490,9 @@
 ` and answer "well, I got scared so I gave up,`
 ` tehehe......"`
 ` That'd just be pathetic.`
-`Normally, I go to sleep long before 2 a.m.`
+`Normally, I go to sleep long before {nobr:2 a.m}.`
 `If Mom found me wandering the corridors at that time of night, she'd definitely yell at me.`
-`So, I waited in my room, staring at the hands of my clock as it ticked closer to 2 a.m.`
+`So, I waited in my room, staring at the hands of my clock as it ticked closer to {nobr:2 a.m}.`
 `Outside, the rain was incredible, and the wind strong.`
 `{n}The swaying, rustling trees were particularly creepy.`
 `I'd complained to Shannon and Gohda about making up ghost stories for my house,`
@@ -504,7 +504,7 @@
 `So, while part of me felt that this VIP room ghost story was ridiculous,`
 ` ......the other part of me was so creeped out that it kept trying to convince itself that the first part of me was right.`
 `Ten to two.`
-`If I want to greet 2 a.m. inside the VIP room, I need to have already gone in there before then.`
+`If I want to greet {nobr:2 a.m.} inside the VIP room, I need to have already gone in there before then.`
 `"......Guess it's time.`
 ` ......Sorry, but I'm not giving up that easy."`
 `Nothing's going to happen.`
@@ -513,7 +513,7 @@
 `I touched the doorknob to the door of my room...`
 `...and was startled by how unpleasantly cold it was.`
 `As long as I stayed in this room, I could laugh off anything.`
-`After all, this was my room.`
+`After all, this was {i:my} room.`
 `But it wouldn't be like that in the hallway.`
 ` ......That's...outside my territory.`
 `And the doorknob, the barrier between the two, was ice‐cold...`
@@ -557,7 +557,7 @@
 `......is to turn the knob,`
 ` open the door,`
 ` ......and I'll be inside the VIP room.`
-`......It's not like I've never been in the VIP room.`
+`......It's not like I've {i:never} been in the VIP room.`
 `Long ago, when I would often play hide‐and‐seek or go exploring,`
 ` this room that I rarely entered had seemed unusual and exciting.`
 `However, I got in trouble for going in, and was told that this room was important, so one mustn't enter without reason.`
@@ -594,7 +594,7 @@
 ` .........I finally entered.`
 `As soon as I closed the door, I felt an oppressive, suffocating sensation.`
 `Alright, ......I've shut myself in the VIP room.`
-` Come out, Beatrice.`
+` Come out, {f:5:Beatrice}.`
 `"......What time is it now...?"`
 `I looked around the room, but I couldn't see any clock.`
 `I'm not in the habit of wearing a watch around the house.`
@@ -616,7 +616,7 @@
 `The doll's hair...was gold.`
 ` ......It was wearing a black dress.`
 `Just who managed to find this doll, and where?`
-`There's no doubt that someone placed the doll here to symbolize Beatrice.`
+`There's no doubt that someone placed the doll here to symbolize {f:5:Beatrice}.`
 `Does that mean...this doll is supposed to be the owner of this room, or something...?`
 `And, as though it was an offering to that owner,`
 ` ......there sat a small plate with several cookies and wrapped chocolates.`
@@ -640,17 +640,17 @@
 `......What the hell am I doing?`
 `Hanging about in the VIP room this late just because that fight with Maria is still eating at me...`
 ` ......This is beyond stupid... I'm disappointed in myself.`
-` Beatrice, huh...`
+` {f:5:Beatrice}, huh...`
 `Just when did that strange witch start living in this mansion...?`
-`......Grandfather's always yelling about Beatrice.`
+`......Grandfather's always yelling about {f:5:Beatrice}.`
 `Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this mansion.`
 `There's that kids' horror story about the witch in the forest,`
 ` which might be a ghost story made by the adults to stop the kids from going in there.`
 `The portrait Grandfather had hung in April was really striking.`
 `And there was also that weird epitaph.`
-` ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of Beatrice seem all the more unnerving.`
-`At some point, those stories mixed together, and they now say that the witch Beatrice exists.`
-`......I don't believe in Beatrice...`
+` ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of {f:5:Beatrice} seem all the more unnerving.`
+`At some point, those stories mixed together, and they now say that the witch {f:5:Beatrice} exists.`
+`......I don't believe in {f:5:Beatrice}...`
 `because I know she's just a fictional person made by the fusion of a few horror stories.`
 `The "Beatrice" who was Grandfather's mistress probably did exist.`
 `But she wasn't a witch.`
@@ -662,7 +662,7 @@
 ` ......that once‐vague character suddenly had a face,`
 ` and people acted as though she'd been around since long ago.`
 `......That's right, it's all a ghost story someone made, a fiction.`
-`And Maria calls Beatrice her best friend, and the servants worship her like a household shrine.`
+`And Maria calls {f:5:Beatrice} her best friend, and the servants worship her like a household shrine.`
 `I just don't get it, and it creeps me out......`
 `".........! ..........................."`
 `The sudden ring of the phone made me jump so hard I thought my heart would explode.`
@@ -678,11 +678,11 @@
 ` Might as well say "ya scared me" or whatever..."`
 `I decided to pick up the receiver.`
 `I'll just say "that surprised me, wahahaha",`
-` and maybe follow that up with "looks like Beatrice didn't show up after all".`
+` and maybe follow that up with "looks like {f:5:Beatrice} didn't show up after all".`
 `After all, this is my victory, in a sense.`
 `".........Hello?"`
 `‘Uu!`
-` Hi, Beatrice...!’`
+` Hi, {f:5:Beatrice}...!’`
 `"Huh?`
 ` M‐......Maria...?!"`
 `I don't get it.`
@@ -690,7 +690,7 @@
 ` Why would Maria be calling here...?!`
 `"H‐hello...?!"`
 `‘Thanks for teaching me that fun song last time.`
-` In return, I'm gonna sing you a song, Beatrice.`
+` In return, I'm gonna sing you a song, {f:5:Beatrice}.`
 ` I just learned this one!`
 ` Uu!’`
 `The voice, the intonation, the manner of speech—all of it clearly belonged to Maria.`
@@ -747,11 +747,11 @@
 ` the doll, is gone.`
 `"......No way.................."`
 `Then, ......what just happened......?`
-`Is the Beatrice‐sama doll supposed to have cackled out loud and left the room...?`
+`Is the {f:5:Beatrice}‐sama doll supposed to have cackled out loud and left the room...?`
 `No, that crawling sound was too loud to have been made by a doll.`
 `It was a noisy sort of sound, like a kid playing with a blanket and using it as a cape.`
 `Then, what......?`
-`Is that Beatrice‐sama doll...`
+`Is that {f:5:Beatrice}‐sama doll...`
 `supposed to have turned into a human...`
 `......and then run cackling from the room...?`
 `"No......way....................."`
@@ -764,11 +764,11 @@
 ` I literally crawled in there looking for it.`
 ` ......But I didn't find it."`
 `"Just what do you think happened in that room?"`
-`"I don't think it was actually "Beatrice‐sama's curse".`
+`"I don't think it was actually "{f:5:Beatrice}‐sama's curse".`
 ` ......It might have been a prank done by the servants."`
 `"A prank?"`
 `"Maybe they recorded Maria's voice on a cassette tape or something ahead of time.`
-` They then called at exactly 2 a.m. and pushed the play button.`
+` They then called at exactly {nobr:2 a.m.} and pushed the play button.`
 ` They could've cut the power at the breaker or something."`
 `"......Then, someone who had been hiding in the VIP room beforehand would make a creepy laugh, take the doll, and leave.`
 ` .........If that was how it happened, everything does fit."`
@@ -802,7 +802,7 @@
 `".............................."`
 `True, it had been a strange experience for her, but it wasn't something completely impossible for humans to do.`
 `......Even so, it really must have been more unnerving to imagine a large number of people planning so carefully just to scare Jessica.`
-`......It's no surprise that she found this scarier than Beatrice's curse.`
+`......It's no surprise that she found this scarier than {f:5:Beatrice}'s curse.`
 `"Do you still believe the servants pulled a fast one on you?"`
 `".........No.`
 ` I probably......just freaked out and mistook what I saw and heard.`
@@ -815,7 +815,7 @@
 `...is just something I thought happened...`
 `...and there's no proof of any kind."`
 `"That's ironic.`
-` Even if you had met Beatrice directly, you wouldn't have been able to prove that either."`
+` Even if you had met {f:5:Beatrice} directly, you wouldn't have been able to prove that either."`
 `"For a while, I was pretty rattled about it, ......but as time went on,`
 ` I began to think that lightning or something had shut off the power for a second and spooked me,`
 ` ......and maybe one of the trees in the garden fell while making rustling sounds, which I mistook for someone crawling out of bed because I was already scared."`
@@ -827,7 +827,7 @@
 ` ......I decided to think about it that way......and kept firmly repeating it to myself to help me forget everything that happened that night."`
 `"So it all remains in darkness..."`
 `".........People are actually pretty good at forgetting things if they try.`
-` ......Ever since that night, I feel uncomfortable every time I hear the word "Beatrice".`
+` ......Ever since that night, I feel uncomfortable every time I hear the word "{f:5:Beatrice}".`
 ` But I try hard to not let it show on my face."`
 `"...................................."`
 `"............That's all.`
@@ -867,10 +867,10 @@
 ` How is it going, Will?`
 ` Have George nii‐san and Jessica told you anything useful?"`
 `"A bit.`
-` That ghost story about Beatrice was pretty fun."`
+` That ghost story about {f:5:Beatrice} was pretty fun."`
 `"Ghost story?`
 ` What are you talking about?"`
-`"The one about Beatrice's ghost appearing in the VIP room at two in the morning.`
+`"The one about {f:5:Beatrice}'s ghost appearing in the VIP room at two in the morning.`
 ` Pretty scary story."`
 `"I've never heard of that.`
 ` ......I don't know who put that out there, but that'd be really rude, making up ghost stories about the woman our head is indebted to."`
@@ -881,7 +881,7 @@
 `"Do you know about the epitaph, Lion?"`
 `"Epitaph?`
 ` What epitaph?"`
-`"That epitaph by Beatrice's portrait."`
+`"That epitaph by {f:5:Beatrice}'s portrait."`
 `".........My apologies,`
 ` but I have no idea what you mean."`
 `"‘Behold the sweetfish river, running through my beloved home of old’."`
@@ -904,10 +904,10 @@
 `"A witch?`
 ` What witch?"`
 `"The Golden Witch, ruler of Rokkenjima's night.`
-` Beatrice."`
+` {f:5:Beatrice}."`
 `"......Beatrice is a woman to whom Grandfather owes a great debt.`
 ` Don't you think it's a bit rude to treat her like a witch or a ghost?"`
-`"...............You don't know about the witch Beatrice?"`
+`"...............You don't know about the witch {f:5:Beatrice}?"`
 `"I know about the Beatrice who came here in a submarine along with the gold, and about her daughter, who was raised in the hidden mansion.`
 ` We just learned about those two together a short while ago, right?`
 ` Where does a witch come in?"`

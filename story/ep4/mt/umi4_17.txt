@@ -1,14 +1,14 @@
 `"......I don't know why you're angry, Battler."`
-`"You should?!`
+`"You {i:should?!}`
 ` Everyone was killed, goddammit!!`
 ` By that goddamned old fart!`
-` Saying something incomprehensible about Beatrice's resurrection ritual or something!!"`
+` Saying something incomprehensible about {f:5:Beatrice}'s resurrection ritual or something!!"`
 `"Then, that means, thirteen people have been offered as sacrifices,`
-` ......and Beatrice will have revived already, you know?"`
+` ......and {f:5:Beatrice} will have revived already, you know?"`
 `"Yeah, that's perfect!!`
-` I'll take Beatrice too and kill them both!!"`
+` I'll take {f:5:Beatrice} too and kill them both!!"`
 `"............We survived the ritual.`
-` So we'll receive an invitation to the Golden Land from Beatrice, you see......?"`
+` So we'll receive an invitation to the Golden Land from {f:5:Beatrice}, you see......?"`
 `"All wishes are granted there.`
 ` If you're suffering because your family was killed, then you just have to bring them back to life.`
 ` ......That's what I plan to do.`
@@ -16,7 +16,7 @@
 `"......So Mama will always be with me from now on.`
 ` .........There won't be any more overtime or working on days off.`
 ` ...She'll always be with me, and think only of me, kihhihihi, and she'll fight all the time against fearsome enemies for me.`
-` Kihhihihihihihi...!"`
+` Kihhihi{0}hi{0}hihihi...!"`
 `"......There's something wrong with you.`
 ` ......How can you sit there saying such incomprehensible crap in a situation like this...?!"`
 `"............Didn't Auntie Kyrie just tell you, Battler...?`
@@ -27,13 +27,13 @@
 ` This isn't the time to get in an argument with you...!!`
 ` Forget "hostages", at this point, there's no one left alive at all!`
 ` This dumb‐as‐hell, screwed‐up ritual game is done now...!!"`
-`"From here on, I'm doing what I want.`
+`"From here on, I'm doing what {i:I} want.`
 ` Someone might still be alive.`
 ` Or someone might be hiding!`
 ` I'll search every nook and cranny of this place, find them, and beat the shit out of them!!"`
 `In a rage, Battler grabbed his hat‐stand spear and flew out of the room.`
 `Maria watched him go, looking bored...`
-`".........But Beatrice would grant your wishes soon anyway.`
+`".........But {f:5:Beatrice} would grant your wishes soon anyway.`
 ` ......Stupid Battler.`
 ` ......Kihhihihihi."`
 `Then, the phone rang out again......`
@@ -53,7 +53,7 @@
 `......Which meant.........there was only one person.`
 `{n}It had to be Kinzo.`
 `As she happily chatted with the person on the other end of the phone, Maria slowly turned to face Battler.`
-`.........And, with an unsettling expression on her face, she laughed with a "kihihihihihihihihihi".`
+`.........And, with an unsettling expression on her face, she laughed with a "kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi".`
 `{n}......It felt almost as though the person on the other end of the line was chatting about Battler.`
 `"Maria...who's on the phone?`
 ` ......Grandfather......?!"`
@@ -67,7 +67,7 @@
 `"Yep.`
 ` Battler just came back.`
 ` He sure is hasty.`
-` Kihihihihihihihihihihi......"`
+` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi......"`
 `"Maria!!`
 ` Who's on the phone?!`
 ` Who?!?!"`
@@ -93,7 +93,7 @@
 ` Where are you going...?!"`
 `"To where my test is.`
 ` ......I wonder who the Ushiromiya family head will be, you or me.`
-` Kihihihihihihihihihihihihi."`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
 `".........D‐don't go!!`
 ` You'll be killed!!"`
 `"No I won't.`
@@ -110,8 +110,8 @@
 `"...............He‐......hello......?"`
 `"<Congratulaatioooooooons>!!`
 ` <And I'm fi~ne>!!`
-` <And yooooooooooouuuuu>?!`
-` Aaaaahhhhyahhyahhyahhyaaaaa!!!"`
+` <And yoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oouuuuu>?!`
+` Aaa{0}a{0}ah{0}h{0}h{0}hyah{0}hyah{0}hyah{0}hyaaaaa!!!"`
 `Screwed up, mocking English filled his ears.`
 `{n}......It was the voice of a woman he didn't know.`
 `......Who—`
@@ -122,7 +122,7 @@
 ` Is it not??`
 ` That takes me back...you must have done that one in middle school, right?`
 ` That thing you do in pairs!`
-` Uhhyahyahyahyahyahyaaaaahh!!!"`
+` Uhhya{0}hya{0}hya{0}hya{0}hya{0}hyaaaaahh!!!"`
 `"Y‐...you're insane......`
 ` Who are you?!!`
 ` Answer me!!!"`
@@ -135,17 +135,17 @@
 ` Go the other way and try "captive".`
 ` ......I have Kinzo captive!`
 ` Ri~~ght?`
-` Wahhahahahahahahahaha..."`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha..."`
 `That last laugh didn't sound like it was aimed at Battler.`
 `......It was almost as though Kinzo was right next to the phone, cackling as well...`
 `"......S‐......say your goddamned name!!`
 ` Who are you?!`
 ` Who?!!!"`
 `"Try and guess, you could win a invite to Hawaii!`
-` Ahhyahhyahhhyaaaah!!`
+` Ahhyah{0}hyah{0}hhyaaaah!!`
 ` Fffinally.`
 ` FINALLY!!`
-` Mmmmmmm, it was soooo looooooong, the days leading up to today were reeeeeeally long...!!"`
+` Mmmmmmm, it was soooo looo{-}o{-}o{-}o{-}ong, the days leading up to today were reee{-}e{-}eeally long...!!"`
 `"I seriously waited a thousand years, you know?? For this day to arrive!!`
 ` And here it is, all thanks to you,`
 ` my BIG resurrection!!`
@@ -154,19 +154,19 @@
 ` I'll let you have that last takeback of yo~urs!!!"`
 `"......Hell's bells, do you have to be in this much of a good mood?`
 ` Can't you act a little more ladylike?"`
-`Kinzo and Beatrice sat facing each other over the chessboard on the reception table.`
+`Kinzo and {f:5:Beatrice} sat facing each other over the chessboard on the reception table.`
 `Also on the table were expensive cheeses and the like to go with drinks.`
 `{n}And there was a line of several empty wine bottles.`
-`As Beatrice rolled around in her sofa in an unseemly way,`
+`As {f:5:Beatrice} rolled around in her sofa in an unseemly way,`
 ` she held a wine glass in one hand, in a good mood,`
 ` ......and probably, completely drunk.`
-`"I'm in the best mood today, so I'm feeling crazy generous!!`
+`"I'm in the {i:best} mood today, so I'm feeling crazy generous!!`
 ` Hey, hey, Kinzo, don't use a well‐aged noble rot wine like this as a decoration!`
 ` Hooooly shit, it's a 1947?!"`
 `"If you don't open it today, just when are you gonna open it?!`
 ` Let's slosh it all over each other for fun!`
 ` Then let's whack each other with the empty bottle!`
-` Uhhyahhyahhyahhya!!"`
+` Uhhyah{0}hyah{0}hyahhya!!"`
 `"Hahhaha, that would be entertaining.`
 ` You are a little too excited.`
 ` You're cutting loose too much."`
@@ -175,7 +175,7 @@
 ` Aaah, it's the living world! The earthly world!!`
 ` Long live my flesh!!"`
 `"......What......are you going on about.........?`
-` ...Are you saying that you're......B‐Beatrice or something...?"`
+` ...Are you saying that you're......B‐{f:5:Beatrice} or something...?"`
 `"<Ye~eeeeeeeeeeeeeeess, I aaaaaaaaaamm>!!`
 ` Thanks to Kinzo's thirteen‐person murder ritual, I've finally been resurrected...!!`
 ` It's nice having a mouth, it's nice having a tongue!`
@@ -184,12 +184,12 @@
 ` this is the first time we've had a conversation like this on the board during the game, isn't it?`
 ` How very fresh!!"`
 `"Oh, did you hear that pop sound?!`
-` He opened it, the maniac actually went and opened that vintage wine that's expensive as shit!!`
-` Do you know how much a single bottle of that stuff costs?!`
+` He {i:opened} it, the maniac actually went and opened that vintage wine that's expensive as shit!!`
+` Do you know how much a single bottle of that stuff {i:costs}?!`
 ` As much as a whole ten‐kilogram ingot, isn't that craaaaaazy?!?!`
 ` Hiiiii‐hah‐hah‐hah‐hah‐hah!!"`
 `"C‐cut the crap...!!`
-` Beatrice my ass...!!`
+` {f:5:Beatrice} my ass...!!`
 ` You say you're the Golden Witch?!`
 ` That's enough!!"`
 `"Where the hell are you?!`
@@ -202,7 +202,7 @@
 ` But please, don't try to chat me up when Kinzo's around, okaay?`
 ` The guy's a bad egg, he gets seriously jealous, see?"`
 `".........But when Kinzo isn't around and we're all alone, I'll love you all you want in secret, alright...?`
-` Uhyaaahyahhyahhyahhyahhyaaaakkyakkyakkyakkya!!!"`
+` Uhyaaahya{0}hhya{0}hhya{0}hhya{0}hhya{0}a{0}a{0}a{0}kkya{0}kkya{0}kkyakkya!!!"`
 `"Y‐you're insane........."`
 `"Kinzoo, I've changed my mind.`
 ` I won't do Maria's test.`
@@ -215,9 +215,9 @@
 ` I'll only be alone with him this one time.`
 ` ......I'm always alone with you, riiight...?`
 ` But no more tying me up twenty‐four hours a day, alright?`
-` Kuhhyahhahhahahahahaha...!!!"`
+` Kuhhyahha{0}hha{0}ha{0}ha{0}hahaha...!!!"`
 `"So there you have it, Battlerr!`
-` I, the Golden Witch Beatrice, will be running your test myself!`
+` I, the Golden Witch {f:5:Beatrice}, will be running your test myself!`
 ` As for the place...let me see.`
 ` At the front entrance to this mansion!"`
 `"Battlerr, this headship test, you've seriously gotta full‐ass this one, okaay?`
@@ -225,19 +225,19 @@
 ` If you become the next head, you'll be the new owner of everything on this island."`
 `"......I wouldn't mind letting you have me all to yourself, you know......?`
 ` Just like Kinzo did, ......control me, okay......?`
-` Kuhhihihihihihihihi, uhhyahhahhahahahahahaha!"`
+` Kuhhihi{0}hi{0}hi{0}hi{0}hi{0}hihi, uhhya{0}hha{0}hha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
 `"Th‐the front entrance of the mansion......`
 ` Perfect...!!`
 ` Listen to me, you stinking drunk!!`
 ` I'll sober you up.`
-` And I've got some hot punch waiting to help you through your hangover!!`
+` And I've got some {i:hot punch} waiting to help you through your hangover!!`
 ` Just you wait!!"`
 `Battler impulsively slammed the receiver down.`
 `{n}There was no need to talk through a receiver anymore.`
 `......I'll meet her face to face and settle this!!`
 `I took the spear I'd made by taking apart the hat stand,`
 ` and went outside without even an umbrella.`
-`......It's hard to imagine that the young woman calling herself Beatrice will be waiting for me alone.`
+`......It's hard to imagine that the young woman calling herself {f:5:Beatrice} will be waiting for me alone.`
 `...I should probably assume that she'll be waiting with those supporting troops that Gohda‐san and Kumasawa‐san told us about.`
 `Going alone would be too reckless...`
 `"Gohda‐san, Kumasawa‐san...!`
@@ -279,7 +279,7 @@
 `Now, the only humans alive on this island...`
 `...are me, Maria,`
 ` ......and my old bastard's old bastard.`
-`.........No, there's also that nutso woman calling herself Beatrice...`
+`.........No, there's also that nutso woman calling herself {f:5:Beatrice}...`
 `Maria's been acting like she's on the witch's side from the beginning.`
 `{n}And Gramps is the very person who revived the witch.`
 `{n}Plus there's the witch herself.`
@@ -331,7 +331,7 @@
 ` Then, ...in the same way you killed everyone like it was a game,`
 ` .........it's alright if I kill all of you like it's a game as well, right......?"`
 `"............Just you wait......`
-` ......Beatrice........."`
+` ......{f:5:Beatrice}........."`
 `The lightning caused the mansion's vast shadow to emerge.`
 `......Finally, ......the mansion.`
 `As the massive shape came into view, there was no silhouette of any person.`
@@ -366,10 +366,10 @@
 `Yes, in the portrait inside the mansion......`
 `The clothes were different, ......but that face was just like the witch of the portrait......`
 `Aaah, who am I kidding... I already know who this person is...!!`
-`"......S‐......so you are Beatrice!!!"`
+`"......S‐......so you are {f:5:Beatrice}!!!"`
 `"Yooohooooooooo, Battleeeeeeeeeeeeer...!!"`
 `Leaning over the second floor balcony, ......and waving cheerily from under her umbrella,`
-` ......was, without a doubt, ......the witch of the portrait, ...Beatrice.........!!`
+` ......was, without a doubt, ......the witch of the portrait, ...{f:5:Beatrice}.........!!`
 `Was the plan for the boss to watch on from above as her goat underlings torture me to death...?!`
 `I adjusted my grip on the spear,`
 ` and, imagining goats creeping out of the surrounding shadows and the entrance and surrounding me, I raised my guard in all directions...`
@@ -381,7 +381,7 @@
 ` Quit babbling..."`
 `"I have in fact met you several times even in this world.`
 ` Almost as though brushing past one another, meeting only for a moment.`
-` ......As you know, this world of humans is filled with a toxin just by your existence and your doubting of me."`
+` ......As you know, this world of {y:0:Human}{n:0:human}s is filled with a toxin just by your existence and your doubting of me."`
 `"Almost like solid ramparts strengthening the defense around you, the king!`
 ` And through multiple games,`
 ` I advanced my pieces one by one, splitting you apart, and cornering you, undermining your ramparts bit by bit."`
@@ -406,7 +406,7 @@
 ` Worry not, I'll call plenty of gold butterflies, goats, demons, and witches later on!`
 ` If you wish, I will invite you to my Golden Land!!"`
 `"There, I will grant you any wish that you desire...!!`
-` Wahhahahahahahahahahahahahaha...!!"`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
 `"......It's starting to look like someone knocked an ink bottle over the chessboard of this island."`
 `"I see, that too is a pleasant description...!`
 ` *cackle*cackle*, soon, you will be covered in that ink as well.`
@@ -474,12 +474,12 @@
 ` ...If I pass, my first prize will be a punch to your face."`
 `"Scary, scaary...`
 ` But it's not like I mind being controlled by violence, you see?`
-` Grab...onto my head!`
+` {i:Grab}...onto my head!`
 ` Make my face twist in pain, violate me in the same way a hawk tears apart and scratches at its prey with its talons...!!"`
 `"Aaah, remind me of Kinzo in his younger days once more...!!`
 ` That single time in my thousand‐year life!`
 ` Remind me of that day I was taught the joy of being controlled, of submitting and being reduced to furnituuuuuuuure!!`
-` Uhyaaahhyahhyahhyahhya!!"`
+` Uhyaaa{0}hhya{0}hhya{0}hhya{0}hhya!!"`
 `"......You damn drunk, we aren't getting anywhere."`
 `Ignoring the stupidly smiling witch, I picked up the box.`
 `"Yes.`
@@ -498,12 +498,12 @@
 `......It seemed she was waiting in anticipation to see what kind of reaction I'd have to the contents.`
 `......Dammit, I'll show her.`
 ` Its contents were like this...`
-`Among the three mentioned below.`
+`{a:c:{e:070:Among the three mentioned below.`
 `{n}In order to gain two, sacrifice one.`
-`{n}1. Your life`
+`{n}{n}1. Your life`
 `{n}2. __'s life`
 `{n}3. Everyone else's lives`
-`{n}If you do not choose one, all of the above will be lost.`
+`{n}{n}If you do not choose one, all of the above will be lost.}}`
 `".........The heck is this?`
 ` Some pretty creepy stuff's written here.`
 ` And most importantly, the second one is blank, so I don't even know whose life."`
@@ -514,7 +514,7 @@
 ` but I don't know who you have feelings for.`
 ` So I didn't know whose name to write, and left it blank."`
 `"That's perfect.`
-` I love you, Beatrice.`
+` I love you, {f:5:Beatrice}.`
 ` I'll stick your name in here.`
 ` So my choice is going to be number two.`
 ` Is that alright?"`
@@ -543,7 +543,7 @@
 ` Answer with care."`
 `The witch, who had been joking around like she was drunk until a second ago, suddenly regained her gravitas.`
 `......She looked as though she truly had stepped out of that imposing portrait...`
-`".........I am the Ushiromiya family alchemist, the Golden Witch and the Endless Witch, Beatrice."`
+`".........I am the Ushiromiya family alchemist, the Golden Witch and the Endless Witch, {f:5:Beatrice}."`
 `"......Do you have the qualifications to inherit the Ushiromiya family headship and all of my gold—`
 `that is what I will test.`
 ` .........State your name."`
@@ -708,13 +708,13 @@
 `It felt, on the face of it, as though she was still holding a grudge for some way I'd treated her, and was criticizing me for it.`
 `However, ......I obviously couldn't remember doing anything like that to her, and Beato had said so herself.`
 `There was no link between us six years ago.`
-`Beatrice existed for me.`
+`{p:1:Six years ago, no person called {f:5:Beatrice} existed for me}.`
 `".........At least give me a hint.`
 ` ......Does this sin or whatever...have something to do with...`
 `...you and me......?"`
 `"I had no connection to you six years ago.`
 ` Remove me from your thoughts already.`
-` ......Why...do you think it is a sin against me?"`
+` ......Why...do you think it is a sin against {i:me}?"`
 `".........Your......eyes."`
 `"Eyes...?`
 ` ............Hoh."`
@@ -730,7 +730,7 @@
 ` Can you declare that the sin you're telling me to remember isn't something between you and me?"`
 `"...........................`
 ` ......Very well."`
-`Beatrice.`
+`{p:1:The sin I am now demanding that you remember is not between Ushiromiya Battler and {f:5:Beatrice}}.`
 `".........Then why are you looking at me with those eyes......?"`
 `"I do not know.`
 ` .........I am simply gazing at you blankly.`
@@ -738,33 +738,33 @@
 ` ......perhaps that is because there is something that makes you feel that way."`
 `"........................`
 ` .........What the hell kind of sin have I got?"`
-`"Ushiromiya Battler has a sin."`
+`"{p:1:Ushiromiya Battler has a sin}."`
 `"......I said what kind, dammit.`
 ` It's probably just some stupid sin, like hitting someone or tricking someone."`
-`"Because of your sin, people die."`
+`"{p:1:Because of your sin, people die}."`
 `"L‐liar...!`
 ` I've never killed anyone...!!`
 ` Say it, then!`
 ` Who did I kill?!`
 ` When? Who? How?!"`
-`"Due to your sin, a great many humans on this island die.`
-` None will escape, all will die."`
+`"{p:1:Due to your sin, a great many humans on this island die}.`
+` {p:1:None will escape, all will die}."`
 `"Wh‐.........whaaaaat?!?!`
 ` Wh‐what the hell are you going on about?!`
-` Are you saying I killed everyone?!`
+` Are you saying {i:I} killed everyone?!`
 ` I'm a killer?!"`
 `"You do not carry it out directly.`
 ` .........However, because you committed a sin, the cogs of fate were sent astray, spun a full six years, and due to the deviation that resulted,`
 ` ......tonight, this many lives are lost."`
-`"You are one of the causes of this tragedy."`
+`"{i:You are one of the causes of this tragedy}."`
 `"......Oh, ......come the fuck on!!`
-` I'm the cause?!`
+` {i:I'm} the cause?!`
 ` Then what?!`
-` Are you saying thirteen people died because I abandoned the Ushiromiya register six years ago?!`
-` Are you saying thirteen people died because I came back to the Ushiromiya family after six years?!"`
+` Are you saying thirteen people died because {i:I} abandoned the Ushiromiya register six years ago?!`
+` Are you saying thirteen people died because {i:I} came back to the Ushiromiya family after six years?!"`
 `"Give me a fucking break!!!`
 ` For these six years, I've been the man furthest from the Ushiromiya family!`
-` What influence could anything and how?!"`
+` What influence could {i:I} have had on {i:anything} and how?!"`
 `"It's not like I came to the family conference because I wanted to!`
 ` I'd patched things up with the family after six years, so to like, draw a line under that whole period,`
 ` I came to Rokkenjima reluctantly...!!`
@@ -852,24 +852,24 @@
 `Without saying anything, the witch turned on her heels.`
 `After that, only Battler remained, the cold rain still beating down on him.........`
 `The study was in the middle of a lively party.`
-`It seemed that Gaap was making fun of Virgilia, teasing her over some stupid triviality.`
+`It seemed that Gaap was making fun of {f:5:Virgilia}, teasing her over some stupid triviality.`
 `...They were spitting "Lialialia", "Gapgapgap" at each other.`
 `Kinzo and Ronove had opened a new bottle and were enjoying the show.`
 `"Oh, you're back.`
 ` How were the results of Battler's test?!"`
 `"Maria's test got passing marks with no complaints, I'll have you know?`
 ` I've long held her in contempt as a worthless little urchin,`
-` but lo and behold, surprise surprise, my oh my, not bad, not bad, not bad indeed!`
+` but lo and behold, surprise surprise, {nobr:my oh} {nobr:my oh} {nobr:my oh} my, not bad, not bad, not bad indeed!`
 ` Wa‐hah‐hah‐hah‐hah‐hah!!"`
 `It seemed like Kinzo was dead drunk.`
 `{n}He laughed towards Beato with the same level of excitation as the time they'd left for the tests.`
-`...However, Ronove and Virgilia instantly noticed the change in her enthusiasm.`
+`...However, Ronove and {f:5:Virgilia} instantly noticed the change in her enthusiasm.`
 `Gaap also froze her expression and went silent.`
-`"Wahhahahahahahhahha, what is it, Beatrice, my beloved witch?`
+`"Wahhahahahahahhahha, what is it, {f:5:Beatrice}, my beloved witch?`
 ` Not enough to drink? Not enough on the side?`
 ` Let's go out in the pouring rain and roast a cow whole, oohhh, not a bad idea!"`
 `"Ronove, make the preparations right away!`
-` Beatrice, let's leave the results of Battler's test for later.`
+` {f:5:Beatrice}, let's leave the results of Battler's test for later.`
 ` Why don't we have a toast with spare ribs first, uwa‐hah‐hah‐hah‐hah‐hah!!"`
 `"..................Roast yourself whole."`
 `"‐ha‐hah‐hah‐hah,`
@@ -882,7 +882,7 @@
 `While spitting crimson flames from his eyes, mouth, nose...every hole on his body, Kinzo rolled around.`
 `......Even though it was a terrible hellfire, it didn't burn anything except Kinzo.`
 `Kinzo didn't have a clue what was going on.`
-`......He rolled around, unable to understand why Beatrice, who had been in such a good mood,`
+`......He rolled around, unable to understand why {f:5:Beatrice}, who had been in such a good mood,`
 ` had suddenly turned so cold......`
 `The dancing silhouettes of witches and demons created by that massive rolling torch...`
 `looked like a group of excited spectators around a burning at the stake.`
@@ -892,7 +892,7 @@
 `"......What has happened, Milady?"`
 `"It has lost its thrill.`
 ` .........Clean up those bothersome cinders."`
-`Beatrice's expression......was unbelievably apathetic.`
+`{f:5:Beatrice}'s expression......was unbelievably apathetic.`
 `...There was an iciness there that told the others that they risked the same fate as Kinzo if they annoyed her.`
 `"............Y‐yes.`
 ` I will do it..."`
@@ -909,7 +909,7 @@
 ` ......Did something happen?`
 ` Did Battler say someth—"`
 `".........k...g...gyhh—"`
-`Beatrice hadn't even responded.`
+`{f:5:Beatrice} hadn't even responded.`
 ` It seemed that she had even ignored it.`
 `But there was a change in Gaap.`
 `From her feet, a crackling, cracking sound rose, like thin ice breaking,`
@@ -917,16 +917,16 @@
 `"G‐......Gaap..."`
 `"............Disappear for a while.`
 ` I'm in a very bad mood."`
-`Beatrice spoke in a truly cold voice,`
+`{f:5:Beatrice} spoke in a truly cold voice,`
 ` ......which froze the heart just to hear it.`
 `"......Certainly.`
 ` In that case, please allow us to retire.`
 ` .........If you need anything, call at any time."`
 `After a single bow, Ronove turned into a cloud of gold butterflies, and hid himself.`
-`Virgilia turned Gaap from a sculpture into a group of gold butterflies,`
+`{f:5:Virgilia} turned Gaap from a sculpture into a group of gold butterflies,`
 ` and then turned into a cloud of them herself, which mixed in with the others and disappeared.`
 `............In the study made untidy by drinking,`
-` ......Beatrice stood still, alone.`
+` ......{f:5:Beatrice} stood still, alone.`
 `Since the time she had returned, her expression hadn't changed in the slightest...`
 `......However, when she saw the fallen empty wine bottles and scattered cheese plates,`
 ` her brow furrowed, and she looked a bit displeased.`
@@ -937,7 +937,7 @@
 ` and, enough to make one doubt whether so many noisy people really had been in this room until just moments ago,`
 ` .........the study had returned to total silence.`
 `.........In that silent, ......frigid study where even the air had frozen,`
-` Beatrice stood still...`
+` {f:5:Beatrice} stood still...`
 `Then, she called him in a mutter.`
 `"..................Battler.`
 ` Are you there?"`
@@ -1075,7 +1075,7 @@
 ` ......I've come close to surrendering many times,`
 ` but I've never had any intention of escaping part‐way through, leaving the match undecided."`
 `"......As long as I'm here, showing the will to fight,`
-` ......don't you go running away, Beatrice."`
+` ......don't you go running away, {f:5:Beatrice}."`
 `"............I agree.`
 ` Getting Battler involved and then leaving without giving him victory or defeat is just beyond irresponsible."`
 `Suddenly, even Gretel was there.`
@@ -1120,12 +1120,12 @@
 ` ......So don't run away. Fight."`
 `"You started this fight, dammit.`
 ` All the crap you've pulled, again and again and again, the total shitshow you've turned this whole thing into!`
-` And now after all this time you think I can let you end it because you're tired of it?!!"`
+` And now after all this time you think I can let you end it because you're {i:tired} of it?!!"`
 `"I am your opponent!!`
 ` As long as I'm here,`
 ` there's no way I'm letting you escape!!"`
 `"Are you listening, you goddamn Witch of Irresponsibility?!`
-` Why don't you say somethiiiiiiiiiiiiiing!!!"`
+` Why don't you say some{-}thiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ing!!!"`
 `After I yelled at her, ......Beato went silent for a while.`
 `Whether my words had reached her, or whether she was thinking about something completely different...I couldn't tell.`
 `But for a while, she was silent,`
@@ -1170,7 +1170,7 @@
 ` How...?"`
 `"............Ju‐just will it to be so and you can do it.`
 ` It's easy."`
-`"My name is Ushiromiya Battler.`
+`"{p:1:My name is Ushiromiya Battler}.`
 ` ......Wh‐......whoa, pretty cool."`
 `"Stop it!!`
 ` I know what you're after...!!`
@@ -1194,8 +1194,8 @@
 ` This is a very precious experience, coming at the very, very end.`
 ` .........Ready? First listen carefully.`
 ` I will speak with the red first."`
-`Beatrice.`
-`And I opened this game in order to fight Ushiromiya Kinzo's grandchild, Ushiromiya Battler.`
+`{p:1:I am the Golden Witch, {f:5:Beatrice}}.`
+`{p:1:And I opened this game in order to fight Ushiromiya Kinzo's grandchild, Ushiromiya Battler}.`
 `"......I know that.`
 ` So what?"`
 `"Repetition requested.`
@@ -1210,22 +1210,22 @@
 `There's nothing she could demand for me to repeat that would cause me any trouble.`
 `{n}......So, why something like this...?`
 `"Sure, I'll repeat it.`
-` Ushiromiya Battler's mother is Ushiromiya Asumu.`
+` {p:1:Ushiromiya Battler's mother is Ushiromiya Asumu}.`
 ` ......The red sure is convenient.`
 ` No need to bother myself with bringing a copy of the family register."`
 `"I do not require chatter.`
 ` I will continue.`
 ` "Your name is Ushiromiya Battler"."`
 `"......Sure.`
-` My name is Ushiromiya Battler."`
+` {p:1:My name is Ushiromiya Battler}."`
 `"It was from Ushiromiya Asumu that Ushiromiya Battler was born."`
-`"It was from Ushiromiya Asumu that Ushiromiya Battler was born."`
+`"{p:1:It was from Ushiromiya Asumu that Ushiromiya Battler was born}."`
 `"It was from Ushiromiya Asumu that you were born."`
-`"It was from Ushiromiya...`
-`——...`
+`"{p:1:It was from Ushiromiya}...`
+`{m:-5:—}—...`
 `...hhnguh...`
-`...———?!`
-` ———?!?!"`
+`...{nobr:{m:-5:——}—}?!`
+` {nobr:{m:-5:——}—}?!?!"`
 `All of a sudden, my throat closed...`
 `{n}I was suddenly assaulted by a shortness of breath that felt as if I had been choked.`
 `Wh‐.........what's going on......?`
@@ -1255,33 +1255,33 @@
 ` The blue is used to proclaim a theory for the opponent to deny.`
 ` They are then burdened with the responsibility of denying that in red, and if they do not, then it is victory.`
 ` .........Then let me begin."`
-`Due to the previous repetition request, and the refusal to repeat,`
-` I proclaim that you are not qualified to be my opponent.`
-`After all,`
-` Beatrice opened this game in order to fight with "Ushiromiya Kinzo's grandchild, Ushiromiya Battler".`
-`This gave you the responsibility, as my opponent,`
-` to declare in red that you are "Ushiromiya Kinzo's grandchild, Ushiromiya Battler".`
-`You declined to repeat that.`
-`This means the loss of your qualifications.`
+`{p:2:Due to the previous repetition request, and the refusal to repeat,}`
+` {p:2:I proclaim that you are not qualified to be my opponent}.`
+`{p:2:After all,}`
+` {p:2:{f:5:Beatrice} opened this game in order to fight with "Ushiromiya Kinzo's grandchild, Ushiromiya Battler"}.`
+`{p:2:This gave you the responsibility, as my opponent,}`
+` {p:2:to declare in red that you are "Ushiromiya Kinzo's grandchild, Ushiromiya Battler"}.`
+`{p:2:You declined to repeat that}.`
+`{p:2:This means the loss of your qualifications}.`
 `"......D‐......deny something about that in red...`
 ` ...Quickly!!"`
 `"S‐sure...`
 ` I,`
-` I am Ushiromiya Battler...!`
+` {p:1:I am Ushiromiya Battler}...!`
 ` Given that I'm able to repeat that in red, that should mean that I'm your opponent!!"`
 `"It may be a fact that you have the name Ushiromiya Battler.`
 ` However...`
-` People's names are not exclusive.`
-` It is possible for multiple humans to have the name Ushiromiya Battler."`
+` {p:2:People's names are not exclusive}.`
+` {p:2:It is possible for multiple humans to have the name Ushiromiya Battler}."`
 `"`
-`What it comes down to is this.`
-` ......You are a different person with the same first and last names as Ushiromiya Asumu's son, Ushiromiya Battler."`
+`{p:2:What it comes down to is this}.`
+` ......{p:2:You are a different person with the same first and last names as Ushiromiya Asumu's son, Ushiromiya Battler}."`
 `"Wh‐......what......?!!`
 ` Don't be so stupiiiiiiiiid!!`
 ` I'm Mom's kid!!`
 ` Ushiromiya Asumu's kid!!"`
 `"`
-`It was from Ushiromiya Asumu that...`
+`{p:1:It was from Ushiro}miya Asumu that...`
 `—...`
 `hkkhk—`
 `......nn'g'g'gkkhh......!!!`
@@ -1293,7 +1293,7 @@
 `"No need to suffer.`
 ` I will not toy with you.`
 ` ......This is checkmate.`
-` You are not Ushiromiya Asumu's son."`
+` {p:1:You are not Ushiromiya Asumu's son}."`
 `...............Wha—...............`
 `"You're.........`
 `kidding......me..............."`
@@ -1330,10 +1330,10 @@
 ` ......Why are you taking Battler's side......?"`
 `"Mgh, ............mghhh..."`
 `"How disappointing, Battler.`
-` .........It really is disappointing that you didn't have the qualifications to be Beatrice's opponent.`
+` .........It really is disappointing that you didn't have the qualifications to be {f:5:Beatrice}'s opponent.`
 ` I was careless myself.`
 ` I can't believe I bet on an unqualified piece.`
-` ............You've defeated me utterly, Beatrice."`
+` ............You've defeated me utterly, {f:5:Beatrice}."`
 `"......There is no victory or defeat.`
 ` The opponent will simply disappear.`
 ` Perhaps I should say that he was never there in the first place."`
@@ -1359,7 +1359,7 @@
 ` ......The whole world was becoming clouded in darkness, leaving only Battler behind...`
 `Battler was down on all fours, hanging his head and repeatedly questioning himself.`
 `......However, he would never be given an answer......`
-`In the world stained with darkness, Beato spoke something, and Lambdadelta ran up to Battler yelling something very quickly,`
+`In the world stained with darkness, Beato spoke something, and {f:5:Lambdadelta} ran up to Battler yelling something very quickly,`
 ` but it already seemed very far away, and it didn't reach his ears...`
 `............Then he,`
 ` .........not knowing who "he" was,`
@@ -1386,7 +1386,7 @@
 ` ............Alright, it was fun.`
 ` Bye‐bye."`
 `"Ah, ...wait up, Bern...!!!"`
-`Chasing after Lambdadelta disappeared as well...`
+`Chasing after {f:5:Bernkastel}, who had disappeared first, {f:5:Lambdadelta} disappeared as well...`
 `Then, after everyone had disappeared, .........there was no one left in the study.`
 `It returned to silence, almost as though no one had been there from the beginning.`
 `{n}......No one was here in the first place.`

@@ -68,7 +68,7 @@
 ` Nee‐san, you've been acting strange for a while, you know?`
 ` Shouldn't you get a little rest now?"`
 `"............You're right.`
-` I started thinking about raising money by March and it made my headache even worse."`
+` I started thinking about {i:raising money by March} and it made my headache even worse."`
 `"That isn't good.`
 ` Rest.`
 ` ...I'll restrain myself so that your headache doesn't get worse.`
@@ -116,13 +116,13 @@
 ` .........Maria‐chan, calm down.`
 ` That was just a dream..."`
 `"Uu‐uu‐uu‐uu!!`
-` That was Beatrice's and my rooose!!`
-` So if I don't take care of it, Beatrice will get mad at meee!!`
+` That was {f:5:Beatrice}'s and my rooose!!`
+` So if I don't take care of it, {f:5:Beatrice} will get mad at meee!!`
 ` It might be broken again!`
 ` Uu‐uu‐uu!`
 ` Uu‐uu‐uu‐uu!!"`
 `"......Haah...!`
-` ...Listen, I'm alright?!?!"`
+` ...Listen, I'm {i:telling} you to quiet down a bit, {i:alright}?!?!"`
 `The children were taken aback by the sudden rise in the tone of Rosa's voice.`
 `But Maria's crying just grew louder, and her tantrum just grew fiercer.`
 `"R‐...Rosa‐san.`
@@ -171,7 +171,7 @@
 ` ...There's actually a lot of magic like that out there in the world."`
 `"...If magic is real, ......then I wonder if witches are real too."`
 `"Oh?`
-` You mean that witch of the forest, Beatrice?`
+` You mean that witch of the forest, {f:5:Beatrice}?`
 ` She probably does exist for those who believe.`
 ` Just like God.`
 ` Won't show himself except in front of those who strongly believe."`
@@ -192,7 +192,7 @@
 `"...............You know,`
 ` ever since I was a kid, the whole time, there's been another me inside myself, who always supported me.`
 ` ...And that other self was a witch."`
-`".........I didn't believe in Beatrice, the witch of the forest.`
+`".........I didn't believe in {f:5:Beatrice}, the witch of the forest.`
 ` I always believed that if a witch of Rokkenjima did exist, it was the witch inside my heart.`
 ` .........I am so grateful to that witch inside myself.`
 ` ...I'm always so grateful......that she let me meet up with you..."`
@@ -206,7 +206,7 @@
 `...feel like I'm becoming something that isn't myself,`
 ` ......and it's been scaring me for a while now.`
 ` ...I get the feeling that the witch inside of me...`
-`...was provoked by Beatrice, and is growing stronger and stronger.`
+`...was provoked by {f:5:Beatrice}, and is growing stronger and stronger.`
 ` ...Somehow, it feels like she's going to swallow me up."`
 `"It's alright.`
 ` As long as I'm with you, there's not a thiiing to be afraid of!`
@@ -283,7 +283,7 @@
 ` I'll listen to you, so will you tell me quietly?`
 ` I'll hit you if you scream."`
 `"............My rose...`
-` Beatrice revived it.`
+` {f:5:Beatrice} revived it.`
 ` ......It might have broken again...`
 ` ...I'm worried about that...`
 ` Can't sleep until I make sure..."`
@@ -296,7 +296,7 @@
 ` So just listen to me for now...!"`
 `"No.`
 ` ...No no no no.`
-` My Beatrice's rose...`
+` My {f:5:Beatrice}'s rose...`
 ` ...Uuuu..., uu‐uu.`
 ` WaaaaaaAAaaaahh!!"`
 `Rosa reflexively covered Maria's mouth.`
@@ -337,7 +337,7 @@
 ` Understand?"`
 `"Yes, Mama.`
 ` I promise.`
-` ......Kihihihihihihihihihihihihihihi."`
+` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `Once again, Rosa tested the weight of her gun.`
 `......It's alright.`
 ` It's only a farce.`
@@ -352,10 +352,10 @@
 `"Goddammit!!`
 ` Someone, notice them!`
 ` Who's the closest, is it Uncle Hideyoshi?!`
-` Please, notice that those two are leaving through the front door, aaaaaaaaaaaaaahhh!!"`
+` Please, notice that those two are leaving through the front door, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!"`
 `"It won't reach, it won't reach, *cackle*!`
 ` Don't disturb their precious time together.`
-` Fuhahahahahahaha...!"`
+` Fuhaha{0}ha{0}ha{0}hahaha...!"`
 `Hideyoshi kept talking kindly, his hand on Eva's forehead.`
 `He didn't notice that Rosa and Maria were going outside through the front door at all.`
 `In that case, there was no way that the others in the lobby, which was even further away, would notice either.`
@@ -366,12 +366,12 @@
 ` *cackle*cackle*cackle*, what is there to be so worried about...?"`
 `"Shut up, I can see right through you!!`
 ` Someone stop them, those two'll be killed!!`
-` Someone, stop theeeeeeeeeeeeeeem, aaaaaaaaaaaaaahhh!!"`
+` Someone, stop theee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeem, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahhh!!"`
 `......There was no way that Battler's voiceless scream would reach Rosa or Maria.`
 `The two of them could be seen in the rose garden.`
 `The rain was still awful, but fortunately, the wind had died down a little.`
 `......No, maybe that wasn't fortunate.`
-` Because if the wind had been a little fiercer, Rosa would surely have hesitated to go outside...`
+` Because if the wind {i:had} been a little fiercer, Rosa would surely have hesitated to go outside...`
 `"......Uu, uu, uu...`
 ` ............Here it is...!"`
 `Maria found her own rose with the gold lace and stared at it lovingly.`
@@ -417,7 +417,7 @@
 ` ...don't let go......`
 `haah,`
 ` ......haahh,`
-` ............aaaaaaaaaaaaaaaaaaaaaahhhh!!"`
+` ............aaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhhh!!"`
 `"Wh‐............who's there...?!"`
 `She saw an umbrella moving from beyond the rose bush.`
 `Rosa threw away her umbrella and wildly lifted her gun...`
@@ -442,18 +442,18 @@
 ` So please, not in front of Maria.`
 ` As long as I get my share, that will be enough."`
 `"Your share?`
-` Heheheheh, ahahahahahahahahahahahahahahahaha."`
+` Heheheheh, ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha."`
 `Eva started laughing in a creepy voice...`
 `{n}Rosa was startled, but Maria stared blankly.`
 `.........Then Maria said just one thing.`
 `".........Uu......?`
 ` ............Wait,`
 ` ............who are you...?"`
-`"Hahahahahaha, ahhahhahahahahahahahahahahahahahahaha!!`
+`"Hahahahahaha, ahhahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
 ` Your shaaare?!`
 ` Who would give that to you...?!`
 ` All of that is mine!`
-` It all belongs to me, the Golden Witch, Beatrice...!!!"`
+` It all belongs to me, the Golden Witch, {f:5:Beatrice}...!!!"`
 `"UaaaAAAAAAAAaaaAaaaaaa—!!"`
 `"Eva! Are you alright, Eva?!`
 ` Eva!`
@@ -462,17 +462,17 @@
 ` Don't let go!!`
 ` So that I don't get taken away by someone who isn't me...!!`
 ` Keep holding on to my hand...`
-` Don't let goooooooooooooo...!!!"`
+` Don't let gooo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo...!!!"`
 `"When did you ever work hard?!`
 ` You never worked hard for anything!`
 ` You were always hiding in our shadows!`
 ` You always ran about from shadow to shadow without fighting,`
 ` and yet, you really think yourself qualified to ask me for the Ushiromiya family gold...?!"`
 `"All of that is mine!`
-` It's all mine and mine alone, as the head of the Ushiromiya family and the new Golden Witch, successor to the name of Beatrice!!"`
-`".........Beatrice.`
-` ...............It's Beatrice!!`
-` Mama, Beatrice!"`
+` It's all mine and mine alone, as the head of the Ushiromiya family and the new Golden Witch, successor to the name of {f:5:Beatrice}!!"`
+`".........{f:5:Beatrice}.`
+` ...............It's {f:5:Beatrice}!!`
+` Mama, {f:5:Beatrice}!"`
 `Frolicking around, Maria jumped at her mother in ecstasy.`
 `{n}...Rosa treated Maria coldheartedly and raised her gun high.`
 `"......Y‐......you're Nee‐san, right......?`
@@ -480,30 +480,30 @@
 `"Wrong.`
 ` ...I am no longer the one who was your sister."`
 `"Then who are you?!!`
-` Are you going to say that you're Beatrice?!`
+` Are you going to say that you're {f:5:Beatrice}?!`
 ` That's impossible!`
 ` You died 19 years ago!!!"`
 `"Yes, you were definitely dead, after all, I clearly saw that your head was smashed.`
 ` I can remember your insides flowing out like it was yesterday!`
 ` How could you be alive and right here noooooooooow?!?!"`
 `"The concept of death does not exist for a Golden Witch.`
-` The names of the Golden Witch and Beatrice will be handed down for all eternity."`
-`"Maybe the Beatrice you knew met with death, but that name is mine now...!`
+` The names of the Golden Witch and {f:5:Beatrice} will be handed down for all eternity."`
+`"Maybe the {f:5:Beatrice} you knew met with death, but that name is mine now...!`
 ` Therefore it is endless!`
-` The concept of death does not exist for Beatrice!!"`
+` The concept of death does not exist for {f:5:Beatrice}!!"`
 `"......How pitiful, Nee‐san...!"`
 `.........That gold has caused you to lose the distinction between fantasy and reality......`
 `"I said I'm not your sister anymore.`
-` ......Well then, as the new Beatrice, I have been tasked with my own resurrection ritual.`
+` ......Well then, as the new {f:5:Beatrice}, I have been tasked with my own resurrection ritual.`
 ` .........Ronove!`
 ` What should I do?!"`
 `"That is up to you.`
-` Beatrice‐sama, you already have the power to make whatever you think reality.`
+` {f:5:Beatrice}‐sama, you already have the power to make whatever you think reality.`
 ` You should grow used to it if you use it a little."`
 `"......You worthless former sister.`
 ` You should consider it an honor to have been selected as my first sacrifice as a witch.`
 ` On the second twilight, I'll tear apart the two who are close, with my own hands...!!"`
-`The first thing the new Beatrice wished,`
+`The first thing the new {f:5:Beatrice} wished,`
 ` ......no, the first magic she tried to use, was to surpass the limitations given to humans.`
 `...In particular, gravity.`
 `She wanted to become fully aware of her transformation into a witch by being released from those shackles.`
@@ -516,7 +516,7 @@
 ` ...............Eeeek...?!"`
 `"Wh‐.........whoooooooooaaaa...... Awesome......!"`
 `To humans, shackled by gravity, there is nothing more unnerving than not having their feet on solid earth.`
-`......However, to Beatrice, who had learned the joy of being released from gravity as a new witch,`
+`......However, to {f:5:Beatrice}, who had learned the joy of being released from gravity as a new witch,`
 ` it was enough to cause her whole body to shake with delight.`
 `"......Hey, Rosa.`
 ` Do you remember, long ago, when we were small, when we used to talk about what it'd be like to become witches and fly around the sky?`
@@ -529,7 +529,7 @@
 ` You were even mad at me for waking you, right?"`
 `"......Don't worry.`
 ` You won't wake up this time, alright?`
-` Heheheheheheheheheheheheh!!"`
+` Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!"`
 `Come, dance with me in the vast, rainy sky.`
 `Didn't we wish together to fly like seagulls in the sky,`
 ` and escape the cramped and boring island of Rokkenjima...?`
@@ -550,21 +550,21 @@
 ` Through the rain, through the wind!`
 ` Let's fly around like we're dancing!`
 ` The lightning will shine on us and bless us!!`
-` Ahhahahahahahahahahahahahahahahahahahaha!!"`
+` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `The witch and Rosa were like leaves fluttering around in a whirlwind.`
 `{n}As the rain pounded upon every part of their bodies, as the lightning occasionally shone upon them, they shook with the joy of being released from the ground.`
 `...However, it was only that way for the witch.`
 `{n}Rosa was holding onto her head, voicelessly screaming over and over.`
 `"Stop iiiiiiiiiiiiiitt!!`
-` Please no moooooooore, let me doooooooown!!"`
-`"......You're right, it's more fitting for humans to crawl on the ground.`
+` Please no mooo{-}o{-}o{-}ooore, let me dooo{-}o{-}o{-}ooown!!"`
+`"......You're right, it's more fitting for {y:0:Human}{n:0:human}s to crawl on the ground.`
 ` Then why not go back there?"`
 `A slightly displeased expression rose to the witch's face when she realized that her own joy was not being shared.`
 ` And she decided to listen to her former sister's request.`
 `"............?!`
-` .........aaaaaaaaaaaaaaaAAAAAAAHHHHH!!"`
+` .........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaAAA{0}A{0}A{0}AAHHHHH!!"`
 `The whirlwind that had been making Rosa dance around grew weaker, then stopped.`
-`In other words, Rosa was once again bound by the restrictions of gravity, as a human.`
+`In other words, Rosa was once again bound by the restrictions of gravity, as a {y:0:Human}{n:0:human}.`
 `......Following the laws that were originally correct, Rosa began to descend towards the ground upside‐down.`
 ` No, she began to fall.`
 `"Oops...`
@@ -581,16 +581,16 @@
 `The torn and smashed flesh returned to normal.`
 `......How easy it is to break things in this world, and how difficult it is to fix them...`
 `Anyone can take a life.`
-`But no human can revive a lost life!`
-` By surpassing the irreversible, one proves that they have surpassed humans.`
+`But no {y:0:Human}{n:0:human} can revive a lost life!`
+` By surpassing the irreversible, one proves that they have surpassed {y:0:Human}{n:0:human}s.`
 `......This surely gave her a much, much greater realization that she was a witch than flying through the sky had.`
 `".........Awesome...`
 ` I can even revive......an ended life......!"`
 `"Of course.`
-` Beatrice‐sama, you are already an Endless Witch."`
+` {f:5:Beatrice}‐sama, you are already an Endless Witch."`
 `"......To live and to die.`
 ` To bring to life and to kill, all of it repeated endlessly.`
-` Beatrice‐sama, as the Endless Witch, you are the queen who controls that cycle of life and death."`
+` {f:5:Beatrice}‐sama, as the Endless Witch, you are the queen who controls that cycle of life and death."`
 `"Ahaha, aha.`
 ` One time, I dropped a goldfish bowl.`
 ` The fragile and beautiful bowl broke, and I couldn't put it back together again.`
@@ -599,11 +599,11 @@
 `"...That's when I learned, you know?`
 ` You mustn't break things, you mustn't kill people.`
 ` After all, you can't fix them!!"`
-`"So...if you could fix them...`
+`"So...if you {i:could} fix them...`
 `...then you wouldn't get in trouble for breaking them, right...?`
 ` Haha, ahahahaha, .........awesome...`
 ` Awesome, awesome, awesome...!!`
-` Ahhahahahahahahaahahahahahahaahhahahhahhahhahhaha!!"`
+` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}haaha{0}ha{0}ha{0}ha{0}hahaah{0}hahah{0}hahhah{0}hahhaha!!"`
 `For a while, the witch became intoxicated with how terrible and wonderful the power she had succeeded was.`
 `Her laugh was pure, innocent, and also cruel.`
 `".........Uuuuuunnghh, ......au......"`
@@ -612,11 +612,11 @@
 `"Hahahahahahaha, sorry about that, Rosa.`
 ` I didn't think flying in the sky would be so much fun.`
 ` Sorry, I'm really sorry."`
-`"And I didn't know that humans could die so easily.`
+`"And I didn't know that {y:0:Human}{n:0:human}s could die so easily.`
 ` But I've brought you back to life, so you're fine now.`
 ` So get up, okay?`
 ` Play with me some more, okay?`
-` *giggle*giggle*, ehehehaahahahahahahahahahahahahahahahaha!!"`
+` *giggle*giggle*, ehehehaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `What were those dreams you told me about when you were a kid...?`
 ` Go ahead and tell me about all of them without holding back.`
 `As I am now, I can make anything come true, no matter how absurd...!`
@@ -678,31 +678,31 @@
 `Then, as though it had all been a dream, Rosa was revived once again.`
 `......Of course, it definitely wasn't a dream.`
 `{n}She had been revived after dying.`
-`By that point, death, which most humans only have to experience once after they are born,`
+`By that point, death, which most {y:0:Human}{n:0:human}s only have to experience once after they are born,`
 ` had already been experienced repeatedly by Rosa.`
-`In other words, she had gone through that which humans cannot, the precious experience of dying more than once.`
-`"Ahhahahahahahahaha, kyahhahhahahahahahahahahahahahahahaha!!`
+`In other words, she had gone through that which {y:0:Human}{n:0:human}s cannot, the precious experience of dying more than once.`
+`"Ahhahahahahahahaha, kyahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
 ` Isn't this fun, Rosa, isn't this fun?!`
 ` Next is the butterflies, look...!!"`
 `"P‐please, have mercy...... .........aaaaaaaaaaaaaaaaahhh!!"`
 `"No waaay!`
 ` Let's play more, let's play more...!!`
-` Kyahihihihahahahahahahahahaha!!"`
+` Kyahihihiha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `Laughing innocently, she pointed her gold staff at Rosa as she begged for mercy.`
 `When she did, Rosa glittered gold and rapidly began to shrink.`
 `She shrank down to the size of a real butterfly.`
 ` Then, gold wings sprouted from her back...and she joined her fellow gold butterflies.`
 `However, while a human body could withstand this wind, it was a different matter for a butterfly's body.`
 `The gold butterfly Rosa was invited to dance by each gale of wind, and she spun in circles around the rose garden.`
-`"No, ...nooooooooOOOOOoooooOOOOooo!!`
+`"No, ...nooo{-}o{-}o{-}o{-}ooOO{-}O{-}OOoo{-}o{-}ooOO{-}OOooo!!`
 ` .........ah—"`
 `A gentle bed caught her as she tired from dancing.`
 `It was a soft, knit hammock in the shadows beneath the roof of the arbor.`
 `...The owner of that hammock lumbered into view, welcoming its rare guest who had wandered in on this stormy night...`
 `That owner, which should have been small enough to crush in the palm of your hand,`
 ` now looked as big as the top of a canopy bed to Rosa.`
-`"Giiyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!"`
-`"Kyahhahahakyahhahahahahaha!`
+`"Giiyaaaaaaaaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaa!!!"`
+`"Kyahhahaha{0}kya{0}hha{0}ha{0}ha{0}hahaha!`
 ` What a klutz, you got caught in a spider's web!`
 ` Ahhahaha, ahhahahahahaha!!"`
 `"This time, it's a dance with a spider.`
@@ -715,7 +715,7 @@
 ` you don't remember, do you? This happened before you got into grade school...!!`
 ` You'll be able to see it up close this time, you know!`
 ` Very close.`
-` Kyahihihahahahahahakyaahahahahahahahahahahahahahaha!!"`
+` Kyahihi{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}kyaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"Noooooooooooooooooooooooooooooooooooooooo,`
 ` have mercy, Nee‐san,`
 ` help me, Nee‐san!!`
@@ -730,7 +730,7 @@
 `...ga—`
 `......gyuboh!!"`
 `"This girl's not bad. She truly can use magic at will!`
-` Hiihyahhahahahahakkuhihiehiehyahyahya!!"`
+` Hiihyahha{0}ha{0}ha{0}ha{0}hakkuhi{0}hie{0}hie{0}hya{0}hyahya!!"`
 `"Interesting interesting, interesting interesting!`
 ` You feel like laughing too, right, Battleeeeeeer?!"`
 `"Stop this bullshit!!!`
@@ -738,24 +738,24 @@
 ` What's so fun, you're insane, you're insane!!`
 ` What's so fun about doing something like this?!?!"`
 `"Doesn't she look like she's having so much fun?`
-` I don't blame her, magic is fun!!`
+` I don't blame her, magic {i:is} fun!!`
 ` I remember, when I first became able to use magic, I played around so much!`
 ` ...Yeess, I understand, I understand, I understand that play from the bottom of my heart!"`
 `"......I expect I won't be able to share this joy and passion with you, Battler, aah, what a shame, what a shame!!`
 ` If you accepted me, I'd teach you magic anytime you wanted, you know?!`
-` It's hard to describe the joy you receive in the instant you are freed from the shackles of humanity!"`
+` It's hard to describe the joy you receive in the instant you are freed from the shackles of {y:0:Human}{n:0:human}ity!"`
 `"I want to teach you about it, that joy, that passion!`
 ` I definitely would like to see the world of magic you would give birth to, just once!`
-` Kihhihihihi, hhyahhyahaahhahahahahahaha!!"`
+` Kihhihihihi, hhyahhya{0}haah{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"You're starting to enjoy yourself, right?`
 ` You've started wanting to use magic, right?!`
 ` It's pretty fun to be a witch, you know?!`
 ` Just for you, I'll teach everything!`
 ` About the joy of flying together in the sky, about the joy of diving together through the sea!"`
 `"I will teach you the excitement that you feel,`
-` in the instant you surpass the bounds of humans and see how wide your world stretches!`
+` in the instant you surpass the bounds of {y:0:Human}{n:0:human}s and see how wide your world stretches!`
 ` Wouldn't that be fun,`
-` wahhyahhyahahhahahahahahahahahahaha!!"`
+` wahhyahhyaha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `There was no malice in Beato's expression.`
 `...It was hard to believe, but she was genuinely enjoying this cruel show.`
 `And she thought she was sharing her appreciation with Battler.`
@@ -763,16 +763,16 @@
 `hopelessly different measure of value.`
 `"This is unbelievable... There's definitely something screwed up with you!!`
 ` Stop it already, goddammiiiiiiiiit!!`
-` Virgilia, make her stop this insane farce!!`
+` {f:5:Virgilia}, make her stop this insane farce!!`
 ` What do I have to do?!!"`
 `".........We exist outside the board.`
 ` We cannot touch the board itself."`
-`Virgilia shook her head apologetically.`
+`{f:5:Virgilia} shook her head apologetically.`
 `{n}...She was one who had already been "killed".`
 `{n}Did that mean she couldn't interfere in any way...?`
 `As Beato continued to enjoy it in a crazed sort of way, Battler lifted her up by the collar and yelled at her.`
 `"Stop it stop it stop iiiiiiiiiiiiiiiiit!!!`
-` That's enough, you goddamn witch!!`
+` That's {i:enough}, you goddamn witch!!`
 ` Are you trying to tell me that's Auntie Eva?!"`
 `"That's impossible!!`
 ` While the Auntie Eva I know may be a bit mean at times,`
@@ -782,7 +782,7 @@
 ` Don't toy with Auntie Eva!!`
 ` Stop this farce RIGHT NOOOOOOOOOOOOOOOOOW!!"`
 `"But I already said that it's not me playing with Rosa anymore.`
-` I told you, that's the new Beatrice."`
+` I told you, that's the new {f:5:Beatrice}."`
 `"Is it really so cruel that you have to squeal like that?`
 ` You're also pretty fond of stuff like this, aren't you?!`
 ` You actually have just a bit of interest in magic and—`
@@ -792,7 +792,7 @@
 `...Beato didn't know why something like that would be done to her, and a stunned expression rose to her face.`
 `Battler found that expression even more unforgivable, and he roared.`
 `"HUUUUUUH?!`
-` You call this interesting?!`
+` You call this {i:interesting}?!`
 ` What the shit is wrong with your head?!!`
 ` Go kill yourself!`
 ` Slice the top of your head off and try looking inside, you'll definitely find that the insides have been completely removed!!!"`
@@ -816,16 +816,16 @@
 `"......I‐it's not like I completely don't see where you're coming from,`
 ` ...but this is nothing more than an innocent prank, right...?`
 ` No matter how she kills, that person will be brought back to life in the end, right?`
-` ...Aren't humans creatures that are fine with anything as long as it ends well......?!"`
+` ...Aren't {y:0:Human}{n:0:human}s creatures that are fine with anything as long as it ends well......?!"`
 `"R‐right, Master?`
 ` It's not something to get so angry about...!"`
-`She was hoping for approval, but Virgilia simply faced her with an indifferent expression.`
+`She was hoping for approval, but {f:5:Virgilia} simply faced her with an indifferent expression.`
 `{n}...To Beato, at that moment, even an exasperated face would probably have seemed better.`
 `"............I have nothing in particular to say.`
 ` If you think it is fun, you can keep watching as long as you want.`
 ` ...Call me when it's over.`
 ` I will erase my form until then."`
-`Following Battler's lead, Virgilia hid herself in the darkness...`
+`Following Battler's lead, {f:5:Virgilia} hid herself in the darkness...`
 `Left sitting there on her own, Beato didn't have a clue what was going on, and felt like she had been made out to be the bad guy.`
 `"..............................`
 ` ......What's so wronnng?`
@@ -862,17 +862,17 @@
 ` ...Why won't anyone play with me...?`
 ` .........Am I really that weird, that cruel...?`
 ` ............Someone, answer meeeeeeeeee!!"`
-`"Kyahhahahahahahaha, isn't this fun, Rosa, isn't this fun!`
+`"Kyahhaha{0}ha{0}ha{0}ha{0}haha, isn't this fun, Rosa, isn't this fun!`
 ` Hey, how should we play next?`
 ` Of course, I'll play with Maria too, okay?"`
 `"Let's all have a friendly walk together!`
 ` Let's swim in a pot of boiling chocolate, let's have a picnic in a cake‐rising oven!`
-` Ahahaha, akyakyakyakyakyakya!!"`
-`".........H‐hey, new Beatrice."`
+` Ahahaha, akya{0}kya{0}kya{0}kya{0}kyakya!!"`
+`".........H‐hey, new {f:5:Beatrice}."`
 `Behind the witch who was continuing her spree of tragedy, Beato showed herself.`
 `...Her expression was very rare for her.`
 ` It was kind of restrained, somehow unreliable, miserable.`
-`"Oh, it's the predecessor Beatrice‐sama.`
+`"Oh, it's the predecessor {f:5:Beatrice}‐sama.`
 ` Were you watching?"`
 `"The power of magic is truly wonderful!`
 ` Until now, I had never thought it would be so fun to be reborn as a witch.`
@@ -899,7 +899,7 @@
 ` I wonder if I can be cruel in my own pop, cute style?!"`
 `"Now that I think about it, all fairy tales are cruel, aren't they?`
 ` Now that I'm a witch inside one of those fairy tales, I finally understand.`
-` Kyahhahahahakukyahyafuhyahahahahaha!!"`
+` Kyahhaha{0}ha{0}ha{0}kukyahya{0}fuhyaha{0}ha{0}hahaha!!"`
 `"...............I, I am, umm,`
 ` ...slightly of the opinion that, in the past,`
 ` ...I, too, might have gone a little too far.`
@@ -924,7 +924,7 @@
 ` You're only half a witch if you can only kill with methods like that.`
 ` ...I shall show you an elegant way to kill, worthy of the Golden Witch..."`
 `When Beato waved her pipe, seven colors of smoke poured out, reviving Rosa and Maria.`
-`......Compared to how the new Beatrice had done it a short while ago, it was slightly gentler.`
+`......Compared to how the new {f:5:Beatrice} had done it a short while ago, it was slightly gentler.`
 ` ...It was probably gentler than how Beato had done it herself up until now.`
 `Rosa's consciousness had already grown dim from the pain of so many repeated deaths.`
 `...But even so, she pleaded that her daughter be spared...`
@@ -935,9 +935,9 @@
 ` My disciple just, umm, ...acted without restraint for a bit.`
 ` ...Umm,`
 ` .........forgive me."`
-`"B‐Beatriceeeeeeeeeeeee!!`
-` Waaaaaaaaaahh, waaaaaaaaaaaaaaaaaaaaaaaaahh!!"`
-`When Maria realized it was the real Beatrice, she jumped onto her.`
+`"B‐{f:5:Beatriceeeeeeeeeeeee}!!`
+` Waaa{0}a{0}a{0}a{0}aaaahh, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahh!!"`
+`When Maria realized it was the real {f:5:Beatrice}, she jumped onto her.`
 `"...You promised, right, Beato?!`
 ` You promised that you would take me to the Golden Land, right?!`
 ` There I can be friends with Mama, and everyone will laugh together...!`
@@ -947,7 +947,7 @@
 ` ...I can no longer...`
 `keep that promise.`
 ` .........Because someone appeared who could solve the riddle,`
-` ......I am no longer the Golden Witch Beatrice."`
+` ......I am no longer the Golden Witch {f:5:Beatrice}."`
 `"......So, I'm sorry.`
 ` ...I can no longer keep my promise with you......"`
 `"Why...?`

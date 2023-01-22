@@ -15,7 +15,7 @@
 `"Rin, your boyfriend looks hella smart!`
 ` So the guy's a hard S with glasses?! Like, for real?!"`
 `"No way, no way, my man's a gyaru‐o!"`
-`"""*giggle*♪"""`
+`"""*giggle*{p:0:♪} *giggle*{p:0:♪}"""`
 `......It's not necessarily the case that all girls are like this,`
 ` ...but at Jessica's school at least, the cultural festival was really a boyfriend exhibition.`
 `Jessica didn't have a boyfriend.`
@@ -75,7 +75,7 @@
 ` How about meekly confessing to everyone that you don't have a boyfriend?"`
 `"...Oh, sure, sure, that may well cause you to experience some shame,`
 ` but you would only have to endure for the short and yet oh so loooong time before graduation.`
-` To those couples in love, there's no sweeter honey than the face of a single person with an inferiority complex☆"`
+` To those couples in love, there's no sweeter honey than the face of a single person with an inferiority complex{p:0:☆}"`
 `"Sha‐Shannonnnn~!!`
 ` You aren't really worrying for my sake, are you, you're teasing meeeeee!!"`
 `Jessica wrestled about with Shannon, her eyes teary.`
@@ -113,7 +113,7 @@
 ` Wouldn't he take it badly if I made him go with me just to show off...?"`
 `"People who aren't honest about their feelings, such as you, Milady,`
 ` ...what was that word again, I learned it from George‐sama.`
-` That's right, they call them "tsundora".`
+` That's right, they call them "{c:86ef9c:tsundora}".`
 ` Apparently they will be quite popular a few decades from now, you know?"`
 `"Wowww, George nii‐san sure is incredible...`
 ` So, he's capable of foreseeing future trends now, is he?`
@@ -161,7 +161,7 @@
 `Couldn't this strange turn of events also have been brought about by the magic power residing in this brooch?`
 `............Ridiculous.`
 `{n}But those words of Shannon's came to mind.`
-`...What did Shannon see that I cannot?`
+`...What did Shannon {y:1:‘see’}{n:1:see} that I cannot?`
 `I don't understand Shannon's feelings.`
 ` We are furniture.`
 `{n}...As if we could...become something more than that.`
@@ -208,12 +208,12 @@
 `"......I get the feeling that I'm getting in the way.`
 ` Am I a burden?"`
 `"N‐no‐not at all, seriously!!"`
-`"...If I am in the way, please tell me at any time..."`
+`"...If {ruby:boku:I} am in the way, please tell me at any time..."`
 `((Kyaaa, omigooddd, he calls himself "boku"!!!!!!))`
 `"Ahiiiiiiiii, you, you, you aren't a burden, Kanon‐kun!!"`
 `(((Kyaaaaaa, she calls her boyfriend "kun"!!!!!!!)))`
 `"......What should I do, Milady?"`
-`(((Omigoood, she makes him call her Milady, like a butler, ktkr!!!)))`
+`(((Omigoood, she makes him call her Milady, like a butler, {ruby:omg:ktkr}!!!)))`
 `"Nooooooooo, don't call me Milady todaaaaaaaaay!!"`
 `".........Re‐...really?`
 ` Understood, Jessica‐sama."`
@@ -357,8 +357,8 @@
 `the ocean spilled off the end of the world into an abyss.`
 `But as I looked at Milady like this, I realized that this was a horribly narrow outlook.`
 `...I still couldn't keep up with the excitement of the crowd.`
-`...But I felt like I had seen something that "cannot be seen" on Rokkenjima.`
-`.........Although I don't know if that was the unseeable thing Shannon was talking about.`
+`...But I felt like I had seen something that "cannot be {y:1:‘seen’}{n:1:seen}" on Rokkenjima.`
+`.........Although I don't know if that was the {y:1:‘unseeable’}{n:1:unseeable} thing Shannon was talking about.`
 `I still can't see the ocean as blue...`
 `"Wasn't today the cultural festival at Jessica's school?`
 ` ...Has the principal been doing well?"`
@@ -443,7 +443,7 @@
 `If he still only knew Jessica as the successor to the Ushiromiya family, as he did until today,`
 ` ...he would have mistakenly thought that Jessica's mood had sprung back to normal.`
 `......But that was wrong.`
-`He now knew a part of her that he could not see until today, so he understood that there was no way that, on the inside, Jessica was just as she appeared.`
+`He now knew a part of her that he could not {y:1:‘see’}{n:1:see} until today, so he understood that there was no way that, on the inside, Jessica was just as she appeared.`
 `"Ah... About today's cultural festival...`
 ` ...Well, thanks for coming with me so I could show off.`
 ` You really helped."`
@@ -520,7 +520,7 @@
 `inside yourself..."`
 `To make another me, which isn't furniture...`
 `Through her relationship with George‐sama, has Shannon given birth to a part of herself that isn't furniture?`
-`......And did this other Shannon...see something that cannot be seen by furniture?`
+`......And did this other Shannon...see something that cannot be {y:1:‘seen’}{n:1:seen} by furniture?`
 `"Yeah.`
 ` .........Well, I don't know anything about your private life, Kanon‐kun.`
 ` But, ...I can sorta guess.`
@@ -775,7 +775,7 @@
 `Furniture, try and see if you can hunt me...!`
 `Tonight, two seeds of love have been sown.`
 `...Including the one already sown, that makes three!`
-`"Beatrice...`
+`"{f:5:Beatrice}...`
 ` Why...did you leave me alone in this painful world...?`
 ` ......I detest you.`
 ` You are yearned after this much, and yet make no attempt to answer... I will detest you for all eternity!"`
@@ -785,7 +785,7 @@
 ` You do not understand, you do not understand my grief and sadness!`
 ` Even though I believed that as my oldest friend, at least you would understand my pain!!`
 ` Why is it so incomprehensible to you?!"`
-`"Oooooohhh, Beatriceeee,`
+`"Oooooohhh, {f:5:Beatriceeee},`
 ` why did you leave me alooooone......?!!"`
 `"..........................."`
 `"Uuuuughhu!`
@@ -833,4 +833,4 @@
 ` That, I promise you, definitely."`
 `I look forward to seeing how it will ripen!`
 `The gold butterflies do not swoop upon the juice of overripe and rotting fruit.`
-`I cannot wait for the day of harvest to come! Is the time of the banquet here yet?!*cackle*cackle*hahahahahahahahahahahahahahahahahahahahaha...!!`
+`I cannot wait for the day of harvest to come! Is the time of the banquet here yet?!{n}*cackle*cackle*hahahahahahahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`

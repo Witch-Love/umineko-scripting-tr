@@ -69,7 +69,7 @@
 ` Everyone was dead...!`
 ` Why are they alive...?!"`
 `"......In the Golden Land, all the dead people's souls can be revived.`
-` ......Welcome back, Beatrice.`
+` ......Welcome back, {f:5:Beatrice}.`
 ` And welcome, Battler‐kun.`
 ` Welcome to the Golden Land."`
 `"............I...made it?`
@@ -83,7 +83,7 @@
 `"G‐Grandfather...`
 ` .........Where in the world...am I..."`
 `"...My blood, which is...incompatible with magic, runs more deeply in your veins than any other.`
-` ...Therefore, you were the only one who could not reach the Golden Land, and Beatrice has been searching for you ever since.`
+` ...Therefore, you were the only one who could not reach the Golden Land, and {f:5:Beatrice} has been searching for you ever since.`
 ` ...She tried everything to bring you here."`
 `"............What did you say......?"`
 `"It seems that we are all here at last."`
@@ -94,7 +94,7 @@
 ` Normally, I would have eaten all of it, but I left you guys some out of pity!"`
 `"......The seven stake babes..."`
 `"In the Golden Land, all of those with minds are equal.`
-` ......Here, there is no distinction between us furniture, humans, or witches."`
+` ......Here, there is no distinction between us furniture, {y:0:Human}{n:0:human}s, or witches."`
 `"...Battler‐sama.`
 ` We were waiting for you.`
 ` And welcome to the Golden Land..."`
@@ -126,7 +126,7 @@
 ` I forbid it, I couldn't possibly give away our Jessica to such a person...!!"`
 `"Why not allow it?`
 ` Let her at least choose the person she likes."`
-`"I forbid it, I forbid it, aaaaaaaaaahhh, Jessicaaaaaaaaa!"`
+`"I forbid it, I forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!"`
 `"Mine has gone awry toooooo, ohhhhh, Geooooooooorge!"`
 `...As Aunt Natsuhi and Auntie Eva hugged each other, they cried tears of regret for their darling children.`
 `......Even though they had always been at odds.`
@@ -142,7 +142,7 @@
 ` He'll elope right away."`
 `"............Battler.`
 ` You finally came here.`
-` Kihhihihihihihihihi."`
+` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `"Maria...`
 ` .........From the beginning,`
 ` .........you knew that we would be coming here......?"`
@@ -154,14 +154,14 @@
 ` ...Even though I thought you were the most screwed up,`
 ` ...you actually knew the truth from the beginning."`
 `"H‐how rude...!`
-` It is absolutely unforgivable to speak of Lady Maria in that way!"`
+` It is absolutely unforgivable to speak of Lady {f:5:Maria} in that way!"`
 `"Forming firing curve, attack preparations ready.`
-` Lady Maria, we can attack at any time.`
+` Lady {f:5:Maria}, we can attack at any time.`
 ` Nihi!"`
-`"Kihhihihihihihihihihihihihihihihihihihihihihihi...!`
+`"Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!`
 ` Ouch!"`
 `"...Quiet.`
-` You are in the presence of Beatrice‐sama."`
+` You are in the presence of {f:5:Beatrice}‐sama."`
 `"Well, there's no need to be quite so strict.`
 ` For now, let us take their desire to fool around and play together into consideration.`
 ` More importantly, why don't we begin preparing for the toast?"`
@@ -178,10 +178,10 @@
 ` Don't let the guests do anything.`
 ` Make them lazy, make them slothful, fatten them like pigs.`
 ` Ahhahaha!"`
-`"......Beatrice.`
+`"......{f:5:Beatrice}.`
 ` Battler‐kun.`
 ` This way."`
-`Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning us.`
+`Grandfather and {f:5:Virgilia} were standing on the landing at the top of the staircase, beckoning us.`
 `Beato and I looked at each other quizzically, then climbed the stairs together.`
 `From the hall, it looked like a very high stage.`
 `A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.`
@@ -212,7 +212,7 @@
 `"..................It looks like I've been a real pain.`
 ` ...So, what should I do...?"`
 `"First, sign here.`
-` Then, Beatrice, sign here."`
+` Then, {f:5:Beatrice}, sign here."`
 `"......It's hard to use a quill pen.`
 ` ...Whoa, it shot."`
 `"You klutz.`
@@ -221,21 +221,21 @@
 ` In that illegible scrawl.`
 ` *cackle*cackle*cackle*cackle*...!"`
 `"And what about you...!`
-` Don't write it in capitals like that!`
-` Beatrice is a stylish name, so write it in cursive!`
+` Don't write it in {c:86EF9C:{ruby:katakana:capitals}} like that!`
+` {f:5:Beatrice} is a stylish name, so write it in cursive!`
 ` You're making the quill and your name cry!"`
 `"Sh‐shut up, in school, didn't they tell you not to use cursive on tests?"`
 `"This is a solemn ceremony. Be silent."`
 `"Very good.`
 ` We have gathered the two signatures, as well as the form for the covenant.`
 ` ......Both of you, your oath please.`
-` We'll start with Beatrice.`
+` We'll start with {f:5:Beatrice}.`
 ` Put your hand on the covenant, and take the oath."`
-`"......‘I, Beatrice, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.`
+`"......‘I, {f:5:Beatrice}, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.`
 ` ...Say it."`
 `"......M‐......mm...`
 ` ......I‐it's a little embarrassing."`
-`"......I, B‐Beatrice, as a good witch,`
+`"......I, B‐{f:5:Beatrice}, as a good witch,`
 ` swear to continue with my training for the sake of bringing happiness to the people.`
 ` ......Is that alright?"`
 `"Good.`
@@ -252,11 +252,11 @@
 `When Kinzo proclaimed that, everyone applauded at once, praising us.`
 `......Since I'd been the only stubborn one and had just been a nuisance, I felt a little bad about being the most celebrated one.`
 `"And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the Golden Land.`
-` ......This is something that invites the Golden Witch, Beatrice, to the Golden Land.`
+` ......This is something that invites the Golden Witch, {f:5:Beatrice}, to the Golden Land.`
 ` The Golden Land invites the Golden Witch through a consensus of those who have accepted it, and becomes complete."`
 `"Battler, I will read it out loud.`
 ` Listen carefully.`
-` ............‘The 18 of us acknowledge the Golden Witch to be Beatrice, and welcome her to the Golden Land’."`
+` ............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the Golden Land’."`
 `"What's going on with you? You won't be invited unless I send an invitation?"`
 `"It seems that is the ceremony.`
 ` It makes me uncomfortable also.`
@@ -315,7 +315,7 @@
 `Just then, something incredibly strong lifted me by the nape of my neck.`
 `...Wh‐what's going on...?!`
 `And after I was forced to turn around,`
-` ......I saw Virgilia with an eerie smile on her face, and the muscular forms of goat monsters...`
+` ......I saw {f:5:Virgilia} with an eerie smile on her face, and the muscular forms of goat monsters...`
 `A goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!`
 `"Hohhohohohohohohohohohoho...`
 ` There is no need to listen to an uninvited guest.`
@@ -332,7 +332,7 @@
 ` Don't change your mind now, after all that, alriiiight?"`
 `"Didn't you think for an instant, ...that it might be alright to accept witches?`
 ` You thought that, riiiiiight?`
-` Kukkikikikkakkakakakakakakakakaka!!"`
+` Kukki{0}ki{0}ki{0}kka{0}kka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
 `"............I,`
 ` ......I was...`
 `...tr‐`
@@ -346,9 +346,9 @@
 ` Master, with all your strength, if you please!!`
 ` That was such a plain role to play, and I got so bored!"`
 `"I don't know who you are, woman!!`
-` But I'll beat you to death, mash you and crush you until threads start trailing, got iiiiiiiiiiiiiit?!`
-` I'll make you regret being born a womaaaaaaaaaaaan,`
-` hyahhaaaaaaaaaaaaaaaaaaahh!!"`
+` But I'll beat you to death, mash you and crush you until threads start trailing, got iii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiit?!`
+` I'll make you regret being born a womaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan,`
+` hyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahh!!"`
 `Beato raised her gold pipe high,`
 ` and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!`
 `It was a direct hit on the woman right below it, and should have turned her to ash.`
@@ -356,7 +356,7 @@
 `"Hoh...!!`
 ` I see you have what it takes to show up uninvited...!!`
 ` Tell me! Say your name!!"`
-`"I don't have any name to tell you.`
+`"I don't have any name to tell {i:you}.`
 ` .........More importantly."`
 `"......You idiot!!!`
 ` How long are you going to be tricked?!!`
@@ -375,11 +375,11 @@
 `"......Sorry, Battleer.`
 ` It was pretty interesting."`
 `"...Still, I was just trying to do what Master told me, but it really did work very well!"`
-`"I hear, after acting soft, you can get a massive rise on that goodwill meter thing, riiight?"`
-`"I've heard that villains who go crazy are pretty popular these daaaays...!`
-` Despite how I loook, I've studied a lot of manga, anime, and galge that have been popular recently, you seeee?"`
+`"I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?"`
+`"I've heard that villains who go {ruby:dere:soft} and then {ruby:yan:crazy} are pretty popular these daaaays...!`
+` Despite how I loook, I've studied a lot of manga, anime, and {c:86EF9C:galge} that have been popular recently, you seeee?"`
 `"And I tried it out, and just as expected, it was "tears please", and you're down!!"`
-`"Hihhyahhahhahahahahahahahahahahahaha, idioooot, what a truly simple person!!`
+`"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what a truly simple person!!`
 ` They call this the "North Wind and the Sun Strategy".`
 ` *cackle*cackle*cackle*!!"`
 `"......How could............`
@@ -392,14 +392,14 @@
 ` That caring expression of yours really doesn't match me after all.`
 ` My back was itching, and I was frantically trying to withstand it.`
 ` *cackle*cackle*cackle*cackle*cackle*!!"`
-`"Too baaad, wiiiitches...don't reforrrm☆"`
+`"Too baaad, wiiiitches...don't reforrrm{p:0:☆}"`
 `"Hyaahhahhahhahhaaaaaaaaaaaaaaahh!!!`
 ` You take care of the signature, Master!`
 ` This uninvited guest is my prey!!"`
 `"Come, you can no longer refuse to sign.`
 ` ......Now, come on.`
 ` Sign it and offer your body, your mind, and your soul...!!"`
-`When Virgilia lifted her chin as a signal, the goat monsters, with an even more vise‐like power,`
+`When {f:5:Virgilia} lifted her chin as a signal, the goat monsters, with an even more vise‐like power,`
 ` forced my arm to approach the parchment......!`
 `Owowowow... These guys are trying to make me sign, even if it breaks my arm......`
 `At that moment, a bright red light burst open with me at the center, knocking the witches and the goat monsters away.`
@@ -449,16 +449,16 @@
 `"......I see, so that's it...`
 ` .........Yes, I get it, I know who you are!`
 ` ...I see,`
-` so Bernkastel threw in.`
+` so {i:you} are the piece Lady {f:5:Bernkastel} threw in.`
 ` I like it!!"`
 `"Why don't I formally invite you to my party?!!`
 ` I'll welcome you fully...!!`
 ` Along with Battler, I'll play with you nicely, break you, kill you, crush you, turn you to ash, mix you with bread dough and bake you until you're fluffy!!`
-` Fuhhahahahahahahahahahahaaaaaaaaaaahh!!"`
+` Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}a{0}aaaahh!!"`
 `".........Ohhhh, that's no good, no good at all!`
 ` You'll never be able to do that!`
 ` Rokkenjima, in the year 1986.`
 ` ...I will expose everything that happened then to the light of day!"`
 `"I'll teach you that you're no more than needle ice, scared of the spring of truth!`
 ` Prepare yourself, Golden Witch!`
-` Beatrice!!!"`
+` {f:5:Beatrice}!!!"`

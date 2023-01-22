@@ -125,7 +125,7 @@
 `...I must have thrown off my pursuers...`
 `......and gone on a journey to find out what happened on that day twelve years ago......`
 `......Is that...what happened...?`
-` ...Did I have...a memory of this......?`
+` ...Did I have...{i:a memory of this}......?`
 `After a knock, the door opened,`
 ` and the person I must have come here to meet entered along with a maid.`
 `......Oh, wonderful.`
@@ -139,7 +139,7 @@
 ` I was sure it was a "he"......`
 `"Excuse me, ...but are you...?"`
 `"Yes.`
-` ......I am Hachijo Tohya (八城十八)."`
+` ......I am Hachijo Tohya ({p:0:八城十八})."`
 `"The magazines talked about your book signing event.`
 ` Supposedly, a mysterious male author showed up wearing sunglasses and a mask...`
 ` Never thought you'd be a woman...... What's the deal?"`
@@ -186,7 +186,7 @@
 ` That's actually pretty impressive..."`
 `"Itouikukuro0576.`
 ` It was a pretty strange username.`
-` However, if you match the Japanese syllables to numbers, you can read it as 6‐0576."`
+` However, if you match the Japanese syllables to numbers, you can read it as {nobr:{ruby:i:1}‐{ruby:tou:10}‐{ruby:i:1}‐{ruby:ku:9}‐{ruby:ku:9}‐{ruby:ro:6}‐0576}."`
 `11,019,960,576.`
 `{n}This massive number is equal to 18⁸.`
 `Eighteen to the eighth power.`
@@ -201,7 +201,7 @@
 `This person had a sort of majestic grandeur about her which made that style of speech seem almost natural.`
 `{n}......At least, that's how it felt to me.`
 `.........In fact, it felt almost as though this was the manifestation of some noble being,`
-` who would have no need to show herself before mere humans under normal circumstances.`
+` who would have no need to show herself before mere {y:0:Human}{n:0:human}s under normal circumstances.`
 `Since I'm not particularly a fan of hers,`
 ` I guess this is proof that her mysterious charisma really is nothing to be laughed at......`
 `However, I didn't come here to talk to Hachijo Tohya, the mystery novelist.`
@@ -216,7 +216,7 @@
 ` they post either a very similar counterfeit or a new theory with their own interpretation of the truth, claiming that it was written by Ushiromiya Maria.`
 `They openly call themselves "Ushiromiya Maria",`
 ` write up a new bizarre tale as if they had been there themselves and knew the truth,`
-` and send their stories out into the newest sea that mankind has discovered—the Internet—calling them the third or fourth message bottles...`
+` and send their stories out into the newest sea that {y:0:Humans have}{n:0:mankind has} discovered—the Internet—calling them the third or fourth message bottles...`
 `All of the first Forgers were either simple pranksters...`
 `or crooks trying to swindle collectors.`
 `However, eventually, people who claimed to have solved the riddles of the message bottles' tales and reached the "truth" started to appear,`
@@ -283,11 +283,11 @@
 `"......Do you think the Sun ever revolved around the Earth?"`
 `Hachijo suddenly started talking about the geocentric model.`
 `......Ange was about to tell her not to answer questions with more questions, but she quickly realized what Hachijo meant.`
-`"......Humans used to support geocentrism.`
+`"......{y:0:Human}{n:0:Human}s used to support geocentrism.`
 ` However, that theory has been disproved in the modern age.`
 ` ......Does this mean that, at the instant the theory was denied, the sun stopped moving and the Earth started revolving around the Sun?"`
 `"......Of course not.`
-` The truth doesn't change based on what humans believe."`
+` The truth doesn't change based on what {y:0:Human}{n:0:human}s believe."`
 `"It's the same with this case.`
 ` Your denying my truth amounts to the same thing."`
 `Several scholars before Galileo proposed the heliocentric model.`
@@ -359,7 +359,7 @@
 ` ......Almost as a witch might."`
 `"Reviving and killing them whenever you like.`
 ` .........Endlessly.`
-` ...Sounds almost like Beatrice, doesn't it..."`
+` ...Sounds almost like {f:5:Beatrice}, doesn't it..."`
 `"Yes, it does.`
 ` ......So, please follow the lead of all those people on the web,`
 ` and consider the possibility that I might be a witch."`
@@ -393,7 +393,7 @@
 `".........Pfft.`
 ` ......*giggle*giggle*.........`
 ` Yes, ...I hoped you'd be this interesting.`
-` Eheheheheheheheheheheh..."`
+` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh..."`
 `She finally couldn't hold it back and burst out laughing...`
 `Gradually, the space around them seemed to fill with a strange purple mist...`
 `The room itself seemed to twist and bend...`
@@ -431,7 +431,7 @@
 ` and I have no intention of sticking my neck into their game..."`
 `".........I don't get it.`
 ` What is it you want from me?"`
-`"Be an observer for me, an observer of the fragments Beatrice has woven."`
+`"Be an observer for me, an observer of the fragments {f:5:Beatrice} has woven."`
 `"An observer...?`
 ` I don't really know what you mean, but no deal."`
 `"In the past,`
@@ -479,13 +479,13 @@
 `"Well, it's nice to get my own title, but all you really want me to do is read books, right?"`
 `"Becoming my Reader means the same as becoming my familiar.`
 ` ......In other words, what is done against you will be done against me.`
-` I will not permit anyone to disrupt my only interest, that being to read the rest of Beatrice's tale.`
-` ......I will not let Lambdadelta,`
-` or even Beatrice force anything upon you..."`
+` I will not permit anyone to disrupt my only interest, that being to read the rest of {f:5:Beatrice}'s tale.`
+` ......I will not let {f:5:Bernkastel}, {f:5:Lambdadelta},`
+` or even {f:5:Beatrice} force anything upon you..."`
 `This witch, who seemed to have an almost divine quality to her, spoke both quietly and forcefully...`
 `There was no threat in her words.`
 `......However, even so,`
-` it was clear that she was on a different level than Bernkastel and the other witches, and not at all to be taken lightly.`
+` it was clear that she was on a different level than {f:5:Bernkastel} and the other witches, and not at all to be taken lightly.`
 `"So, you'll offer me protection if I agree to read your book...?"`
 `"Of course.`
 ` What I want is for you to read aloud to me.`
@@ -514,21 +514,21 @@
 `So, .........her acknowledging Ange's name was a miracle.`
 `{n}No, it was immensely good fortune.`
 `"...From this point forth, Ushiromiya Ange...`
-`will serve as Reader and Featherine Augustus Aurora.`
+`will serve as Reader and {c:86EF9C:miko} to the Witch of Theatergoing, {f:5:Featherine Augustus Aurora}.`
 ` Until you finish reading,`
 ` I shall bring calamity to all who attempt to hinder your task."`
-`When the Witch of Theatergoing, Featherine, spoke this, ......Ange was wrapped in a bright light.`
+`When the Witch of Theatergoing, {f:5:Featherine}, spoke this, ......Ange was wrapped in a bright light.`
 `Ange didn't feel any particular change herself,`
 ` ......but she definitely had been given something that only nonhumans could sense.`
 `It signified that from this point forward, Ange would be attached to the Witch of Theatergoing.`
 `That didn't mean that Ange would gain some sort of special power,`
-` ......but at the very least, it probably meant that anyone wanting to cause her harm would first have to take on Featherine herself...`
+` ......but at the very least, it probably meant that anyone wanting to cause her harm would first have to take on {f:5:Featherine} herself...`
 `"......Your name is pretty long.`
 ` Sounds like some ancient Roman person.`
 ` ......What should I call you?"`
-`"Those not familiar with me call me Augustus Aurora."`
+`"Those not familiar with me call me {f:5:Augustus Aurora}."`
 `".........After all the respect you've shown me, it's only fitting that I respond in kind.`
-` I'll call you Featherine.`
+` I'll call you {f:5:Featherine}.`
 ` Any problems?"`
 `"None at all.`
 ` ......For an ailing witch such as myself, even being called by my first name will be an experience to be treasured and pondered over. Child of man."`

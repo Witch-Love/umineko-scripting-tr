@@ -30,7 +30,7 @@
 ` However, the older servants were unsatisfied,`
 ` and before long, they started being mean to Yasu whenever they got the chance.`
 ` Even after getting used to life on Rokkenjima, Yasu could not make a single friend.`
-` At least, not any human friends......"`
+` At least, not any {y:0:Human}{n:0:human} friends......"`
 `"Hoh‐hohohoho.`
 ` Yes, that can sometimes happen, and always when you're busy.`
 ` Perhaps a fairy is pulling pranks on you."`
@@ -45,7 +45,7 @@
 `The first two times, I realized that it wasn't in my pocket, and managed to find it before anyone found out.`
 `But the third time, Madam found it.`
 `I was really mad and frustrated with that witch in the red dress.`
-`"Hoh‐hoh‐ho, Beatrice‐sama's pranks can be quite troublesome.`
+`"Hoh‐hoh‐ho, {f:5:Beatrice}‐sama's pranks can be quite troublesome.`
 ` But if you're dealing with a witch, shouldn't you be able to use some sort of charm?"`
 `"A charm...?"`
 `Kumasawa‐san started fishing through the kitchen cupboards, saying "now where did that get to".`
@@ -59,7 +59,7 @@
 `"Good, I'm glad you remember.`
 ` It is said that the spiderwebs on this island are imbued with magical power, and that they are very effective at repelling evil.`
 ` See? If you stretch it out like this, it looks like a spiderweb, doesn't it?`
-` Hoh‐hoh‐ho, this way, that spiderweb‐hating Beatrice won't be able to prank you anymore."`
+` Hoh‐hoh‐ho, this way, that spiderweb‐hating {f:5:Beatrice} won't be able to prank you anymore."`
 `That......does make sense.`
 `It really does look like a spiderweb when pulled tight.`
 ` .........Since Kumasawa‐san says so, it must have some pretty strong evil‐repelling power.`
@@ -69,20 +69,20 @@
 `"What about things I can't keep tied to me,`
 ` ......like pencils and erasers?"`
 `"Hoh‐hoh‐ho, for times like that, there's a different charm.`
-` All you have to do is make a house for Mr. Eraser."`
+` All you have to do is make a house for {nobr:Mr. Pencil} and {nobr:Mr. Eraser}."`
 `Make a house...?`
 ` ......You mean, build a roof and a bed and stuff??`
 `"You aren't actually building a house, you're giving them one.`
-` ......For example, take Mr. Knife here, who I cut the string with.`
-` "I wanna go ho~me!" he says.`
+` ......For example, take {nobr:Mr. Knife} here, who I cut the string with.`
+` "{i:I wanna go ho~me!}" he says.`
 ` Eheheheh, he gets lonely when he's left alone, so he always wants to go home right away.`
 ` So, if you leave him anywhere else, he'll be lost and start crying."`
-`"......See, I left Mr. Knife lying around, and now he's gotten lonely and started to cry."`
+`"......See, I left {nobr:Mr. Knife} lying around, and now he's gotten lonely and started to cry."`
 `"......Poor thing.`
-` We need to get Mr. Knife home..."`
-`"Here is Mr. Knife's house.`
+` We need to get {nobr:Mr. Knife} home..."`
+`"Here is {nobr:Mr. Knife}'s house.`
 ` See, his whole family of knives is waiting for him.`
-` "Welcome ba~ck." See?"`
+` "{i:Mama~, I'm ho~me.}" "{i:Welcome ba~ck.}" See?"`
 `Kumasawa‐san returned the knife to the knife‐holder under the sink.`
 `Even though she had done something so ordinary, I felt slightly moved, as though the lost little knife had finished his adventure and finally returned home.`
 `Once he slid into the spot he was supposed to be in,`
@@ -96,16 +96,16 @@
 `"Exactly.`
 ` They're lonely, naughty kids, so they'll go with the witch if they get the chance.`
 ` So, you must always take them home quickly."`
-`"......Look at Master Key there you just tied to a string.`
+`"......Look at {nobr:Master Key} there you just tied to a string.`
 ` He's sitting there all alone, crying and asking you to put him in his home in your pocket."`
-`*sob*sob*......`
-` I'm lonely.`
+`{i:*sob*sob*}......`
+` {i:I'm lonely.}`
 `The voice of the lonely master key finally reached my ears.`
 `I hurried to pick it up,`
 ` took the other end of the string and tied it to my pocket button, and put the key in my pocket.`
-`"See, "I'm ho~me".`
-` Master Key gets lonely so easily, so let's take him home right after we use him, okay?`
-` If you keep making little friends like this, even Beatrice‐sama won't be able to prank you much longer..."`
+`"See, "{i:I'm ho~me}".`
+` {nobr:Master Key} gets lonely so easily, so let's take him home right after we use him, okay?`
+` If you keep making little friends like this, even {f:5:Beatrice}‐sama won't be able to prank you much longer..."`
 `Jangle, thud.`
 `When break time was over and I stood up to see what I should help with next,`
 ` I felt a tug, and the key ring with the master key fell to the floor.`
@@ -119,8 +119,8 @@
 `And, once again, I heard the master key, who had almost been left alone, cry and tell me that it wanted to go home...`
 `".........I'm sorry.`
 ` Come on, let's go back home to my pocket..."`
-`Yay, I'm home!`
-` Back at last!`
+`{i:Yay, I'm home!}`
+` {i:Back at last!}`
 `..............................`
 `......Thank goodness.`
 ` ...I almost got pranked by the witch again......`
@@ -129,7 +129,7 @@
 `All of a sudden, I heard a wild, shocked voice from over my shoulder.`
 `It was a voiceless voice.`
 ` A witch's voice, the kind you can't hear unless you try.`
-`".........Beatrice...?"`
+`".........{f:5:Beatrice}...?"`
 `"That's me, my friend.`
 ` You forgot about your key again, so I was just about to use it to toy with you...!"`
 `"It's a spiderweb charm that Kumasawa‐san showed me.`
@@ -150,7 +150,7 @@
 ` Wahahahaha, it is only natural that I be thanked, don't you agree?"`
 `"Nn, ......nnnnn......"`
 `I really don't like it, but she does have a point.`
-`Because of all the trouble Beatrice caused me, I told Kumasawa‐san and learned the charm from her.`
+`Because of all the trouble {f:5:Beatrice} caused me, I told Kumasawa‐san and learned the charm from her.`
 `Even without the witch's pranking,`
 ` ......if I didn't have the charm, I would have gone to my next job and left the master key here.`
 `If that happened, ......then surely, I wouldn't have been able to find the key, and it would've been a big mess.`
@@ -186,20 +186,20 @@
 `"Sure. Today is Sunday, and the weather is wonderful.`
 ` I'd better do my best."`
 `"Go do whatever you can.`
-` Oh, that's right, Reine (玲音)'s been in a bad mood all morning.`
+` Oh, that's right, Reine ({p:0:玲音})'s been in a bad mood all morning.`
 ` I suggest you avoid eye contact with her.`
 ` Also, your fortune for the day is "water hazard".`
 ` Make sure you take care when standing near buckets of water.`
 ` ......I am well aware of your weaknesses.`
 ` I will be waiting for you to knock over a bucket and get scolded just like usual."`
 `"*giggle*.`
-` ......Thank you, Beatrice."`
-`Back when I could not yet see her...`
+` ......Thank you, {f:5:Beatrice}."`
+`Back when I could not yet {y:1:‘see’}{n:1:see} her...`
 `{n}I simply hated this prank‐loving witch.`
 `But now that I could talk with her, ......it seemed to me that she was not all bad.`
 `Of course, I felt no need to be grateful to her.`
-`The witch Beatrice despises boredom, and subsists on mocking the misfortune of others.`
-`Humans and witches are different.`
+`The witch {f:5:Beatrice} despises boredom, and subsists on mocking the misfortune of others.`
+`{y:0:Human}{n:0:Human}s and witches are different.`
 ` Incompatible beings.`
 `And yet, ......it felt as though we could become friends.`
 `Of course, she was still a witch.`
@@ -207,7 +207,7 @@
 `However, not being careless is a very good thing.`
 `Using charms and tricks to pay attention, so that her pranks would no longer work on me, was not a bad thing by any means.`
 `Those techniques would be useful for my job and my life, even without the witch's pranks.`
-`Yes, this witch called Beatrice would go to any lengths to make a point.`
+`Yes, this witch called {f:5:Beatrice} would go to any lengths to make a point.`
 `{n}I learned that it was possible to build up a friendship through verbal abuse...`
 `"Ever since then, there was an incredible change in that kid."`
 `"Because of all the charms?!"`
@@ -221,7 +221,7 @@
 ` That kid would sometimes say it out loud.`
 ` It was really cute, like watching someone play house with a bunch of tools."`
 `"Just like a kid!"`
-`"The kid was a kid, silly!"`
+`"The kid {i:was} a kid, silly!"`
 `""Ahhahahahahahahahahahaha!!""`
 `"With adults, you can say something one way and all of them will understand.`
 ` However, there really are many different types of kids, and you need many different ways to teach them things.`
@@ -232,7 +232,7 @@
 `"Still, doesn't that sound like fate?!"`
 `"After all, you knew this kid was Beatrice's child, didn't you?"`
 `"Yes, I did know."`
-`"So you told Beatrice's child that "the witch Beatrice will play pranks on you unless you put your stuff away neatly"...`
+`"So you told Beatrice's child that "the witch {f:5:Beatrice} will play pranks on you unless you put your stuff away neatly"...`
 ` ......That's kind of funny, isn't it?"`
 `"Hoh‐hoh‐hoh‐ho......`
 ` I just thought of it after the child came and told me that a witch was stealing things and pulling pranks."`
@@ -264,7 +264,7 @@
 ` And the rest of you?!"`
 `"I have mine..."`
 `"Got it!"`
-`"So, it was you, Yasu!`
+`"So, it {i:was} you, Yasu!`
 ` Do you still not get it, even after that scolding Madam gave you?!`
 ` You're just so...!"`
 `"......Normally,`
@@ -437,7 +437,7 @@
 `"If a trick exists, it is a human novel.`
 ` If not, it is a witch novel.`
 ` If you just tear out the last few pages of that book you're reading,`
-` you might think of that person as Unknown, a witch on the same level as me...!"`
+` you might think of that person as {f:5:Unknown}, a witch on the same level as me...!"`
 `"......That might be surprisingly wise, coming from you.`
 ` ......So, the culprit of detective novels without an answer is a witch."`
 `"All of the dark places in this world belong to us witches.`
@@ -467,9 +467,9 @@
 ` I really like thinking of it that way."`
 `"*cackle*!`
 ` Starting now, and until you finish reading,`
-` I am Unknown, the 495‐year‐old witch!`
+` I am {f:5:Unknown}, the 495‐year‐old witch!`
 ` Can you see through my deserted island murder tricks?`
-` Ahihhyahahahaha!"`
+` Ahi{0}hhya{0}ha{0}ha{0}haha!"`
 `"......I have formed one theory.`
 ` You want to play with me, don't you?`
 ` I've been reading books so much, you've gotten lonely."`

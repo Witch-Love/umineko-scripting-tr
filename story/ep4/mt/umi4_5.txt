@@ -43,7 +43,7 @@
 ` Promise Mama."`
 `"Uu.`
 ` Promise Mama.`
-` ......Uu☆"`
+` ......Uu{p:0:☆}"`
 `As Rosa gently held Maria, they joined their pinkies together and promised.`
 `Battler and the others could tell that by this bonding between mother and child, expressed through a single little finger,`
 ` the warmth was starting to return to Maria's body.`
@@ -56,14 +56,14 @@
 ` ......Maria, you can even have half of my dessert too for being so good."`
 `"Uu!`
 ` Really, Mama?!`
-` Uu‐uu, get dessert, uu‐uu‐uu♪`
+` Uu‐uu, get dessert, uu‐uu‐uu{p:0:♪}`
 ` Love you Mama, love you Mama!"`
 `"Now now, Maria, don't jump around.`
 ` Mama loves you too, Maria.`
 ` Love you Maria, love you Maria."`
 `"Me too, love you Mama, love you Mama!`
 ` Uu‐uu‐uu‐uu!"`
-`"Uu‐uu‐uu‐uu♪"`
+`"Uu‐uu‐uu‐uu{p:0:♪}"`
 `Rosa and Maria looked really happy together.`
 ` Even the cousins watching started to feel a somehow familiar warmth filling up their chests.`
 `"......You know, that might be the age when you're on the best terms with your parents."`
@@ -74,11 +74,11 @@
 ` My mother was strict with me too, but by now I realize that it was because she treasured me so."`
 `"Uu‐uu‐uu!`
 ` Love you Mama, love you Mama!"`
-`"Love you Maria, love you Maria♪ So, shall we get some food?`
+`"Love you Maria, love you Maria{p:0:♪} So, shall we get some food?`
 ` Let's be friends and hold hands."`
 `"Uu!`
 ` Be friends and hold hands!`
-` Mama and Maria, friendly friendly♪"`
+` Mama and Maria, friendly friendly{p:0:♪}"`
 `"Yes, that's right.`
 ` Mama and Maria are friends.`
 ` Forever and ever.`
@@ -103,9 +103,9 @@
 ` To think that there is someone whose tastes aren't satisfied even by Ronove's tea.`
 ` I must respect your discerning palate."`
 `".........I'm getting bored, so I'll go out for a bit."`
-`"Bored?`
+`"{i:Bored}?`
 ` Wait a sec, but things are just about to get started.`
-` At this point, Maria's probably going to say that she got an umbrella and a letter from Beatrice again, you know?`
+` At this point, Maria's probably going to say that she got an umbrella and a letter from {f:5:Beatrice} again, you know?`
 ` This is the critical part—"`
 `"You'll have to excuse me.`
 ` Sorry, someone clean up this mess."`
@@ -119,7 +119,7 @@
 `No, to be even more blunt, it made my skin crawl.`
 `"Uu...?`
 ` ......Why are you so irritated, Ange......?"`
-`"Why?!`
+`"{i:Why}?!`
 ` Isn't it obvious...?"`
 `"Uu.`
 ` ...Not to me......"`
@@ -276,7 +276,7 @@
 ` I'll always be with you...`
 ` Even if you're going to cry, I won't.`
 ` I'm a lion cub, I can't cry just because I'm lonely.`
-` ......I want to cry too...but I'm not going to...!’`
+` ......I want to cry too...but I'm {i:not going to}...!’`
 `"Why won't you cry, Sakutaro...?`
 ` You still won't cry, even when it's this lonely and you can't hold back the tears...?"`
 `‘Uryu.`
@@ -318,14 +318,14 @@
 `‘This is a secret between you and me, only for when Mama isn't around.`
 ` So, until you get sleepy, let's spend the whole night having fun together.’`
 `‘Let's eat jellybeans and try to guess what color we'll get next.`
-` Let's split open peanuts and try to guess which half is the grandpa.’`
+` Let's split open peanuts and try to guess {c:86EF9C:which half is the grandpa}.’`
 `‘Let's search for treasure in the closet.`
 ` And more, so much more!`
 ` I wonder what it'll taste like if we mix orange juice and melon soda.’`
 `"Uu.`
 ` Wanted to try that once, but asked Mama if it was alright and she got mad."`
 `‘Uryuu!`
-` Let's try it out in secret from Mama♪`
+` Let's try it out in secret from Mama{p:0:♪}`
 ` Tonight, let's play a lot, laugh a lot, and blow away our tears with happiness.`
 ` Don't worry, with me here, it'll definitely be fun!`
 ` I'll make you happy for sure, Maria.’`
@@ -336,7 +336,7 @@
 ` Won't cry anymore.`
 ` Let's have a super fun time together, make ourselves super happy, and say welcome home with a smile on our faces when Mama gets back."`
 `‘Uryuu!`
-` Let's play and play tonight and get in a really great mood♪`
+` Let's play and play tonight and get in a really great mood{p:0:♪}`
 ` Let's play a lot in a secret party that we can only have when Mama isn't here.’`
 `‘If we're lively enough, I'm sure plenty of friends will come to play from Wonderland and Looking‐Glass Land.`
 ` We'll have so many friends at that point that there simply won't be time left to feel bored.`
@@ -374,9 +374,9 @@
 `Hoping that when Mama comes home late Sunday night, almost certainly tired,`
 ` I could make her even just a little brighter by sharing this happiness......`
 `I softly placed that letter on Mama's desk.`
-`To Mama.`
-`{n}Good job with your work again today☆ Some of my happiness for you to share.`
-`{n}――From Maria`
+`{e:070:To Mama.`
+`{n}Good job with your work again today{p:0:☆} Some of my happiness for you to share.`
+`{n}{m:-5:―}―From Maria}`
 `Then, I decided to give a present to Sakutaro for proposing this wonderful night.`
 `A small red scarf that I had found when searching for treasure in my closet.`
 `When Maria was still very young, her mama had knitted this tiny, tiny, red scarf for her.`
@@ -403,7 +403,7 @@
 `......But I'm tired for today, so let's sleep together now.`
 ` And tomorrow, we'll clean up together and welcome Mama with a clean room.`
 ` ......Okay? Sakutaro?`
-`Uryuu♪`
+`Uryuu{p:0:♪}`
 `"......See?`
 ` See how happy I...no, see how happy me and Sakutaro are?"`
 `"..................`
@@ -440,7 +440,7 @@
 `"No, you didn't!`
 ` You were just so sad, and you hated your mother so much for forgetting her promise, that you made a mess of your room...!!"`
 `"...............Where was something like that ever written in my diary?"`
-`"It isn't written anywhere!`
+`"It isn't {i:written} anywhere!`
 ` But......by reading in the gaps between every line, I can tell how you felt!`
 ` You didn't have a good time at all that evening!"`
 `"And you stayed up late when you were told not to, broke the strict rule about not eating sweets outside of snack time,`
@@ -454,20 +454,20 @@
 ` You were starving for Auntie Rosa's love...!`
 ` And Aunt Rosa always put her work and her public image first, always keeping you on the back‐burner...!"`
 `"That's why it makes my skin crawl!`
-` Because I know just how superficial Aunt Rosa's words of love for you are!!`
+` Because I know just how superficial Aunt Rosa's words of {i:love} for you are!!`
 ` You should realize this yourself!"`
 `"So......how can you say that you're happy?!`
-` I don't understand that......that part of you, Maria onee‐chan!!`
+` I don't {i:understand} that......that part of you, Maria onee‐chan!!`
 ` Even at this age, I can't understand it at all...!!"`
 `"How aren't you sad?`
 ` How is it that you can experience a reality filled with misfortune and call yourself happy?!`
 ` I can't do it, I can't understand it...!!"`
 `"...............You are a sad kid, Ange."`
 `"I don't get it!!`
-` Why are me?!"`
+` Why are {i:you} pitying {i:me}?!"`
 `".........Even though a "fact" about a really fun pajama party is written in my diary,`
 ` .........when it's observed by a different person, it looks like that same "fact" takes a different form, huh."`
-`I remembered talking about this with Bernkastel.`
+`I remembered talking about this with {f:5:Bernkastel}.`
 `Truth is indeterminate and changes its form every time it's observed.`
 `{n}By the way it is perceived, ...in other words, depending on the person who perceives it, a single truth becomes different truths.`
 `And truths of the past are painted over by truths of the future......`
@@ -487,7 +487,7 @@
 ` .........That's why I feel so sorry for you, because you can't feel happiness in the same situation."`
 `.........Both she back then, and I now, have the same friendless and lonely situation.`
 `And Ange......accepted the lonely truth as the lonely truth.`
-` But she......painted over the lonely truth with a happy truth.`
+` But {i:she}......painted over the lonely truth with a happy truth.`
 `Ushiromiya Maria took the sad truth...`
 `...and changed it into happiness.`
 `That...`
@@ -569,10 +569,10 @@
 `"Isn't this amazing, Sakutaro?!`
 ` Look how many more friends we have...!`
 ` It was just like you said, Sakutaro!`
-` It was true, we had a fun and lively time, and we did get more friends...!"`
+` It was true, we had a fun and lively time, and we {i:did} get more friends...!"`
 `‘See, didn't I tell you?`
 ` Look, we have more friends, look, we have more friends!`
-` Uryu~♪’`
+` Uryu~{p:0:♪}’`
 `Relieved that her gift had been appreciated,`
 ` Rosa suddenly remembered that she was filled with several days of weariness...`
 `"Mama, you really worked hard...!`
@@ -733,7 +733,7 @@
 `"............What is this "power"?`
 ` This power that I don't have, but you do.`
 ` ...And are you saying that me not having it is the reason I have misery and you have joy?`
-` .........Just what is this thing that you can't describe except with an abstract word like "power"......?"`
+` .........Just what is this {i:thing} that you can't describe except with an abstract word like "power"......?"`
 `"Yeah.`
 ` That is what you want to know, isn't it, Ange?`
 ` ......That's why you've been reading my story all this time."`
@@ -747,14 +747,14 @@
 ` She will teach you."`
 `"............She......?`
 ` Who's that?"`
-``
-`"I shall teach you in Maria's place."`
+`{a:c:`
+`"I shall teach you in {f:5:Maria}'s place."}`
 `".........B‐`
-`............Beatrice..............."`
-`"The "power" that Maria has, but you do not."`
+`............{f:5:Beatrice}..............."`
+`"The "power" that {f:5:Maria} has, but you do not."`
 `"Yep.`
 ` The "power" I have, but you do not."`
-`That...is magic.`
+`{m:-5:―}―{i:That}...is magic.`
 `Maria and Beato said it together.`
 ` And then they started giggling because they'd said it at the same time.`
 `......It was an innocent behavior, which seemed somehow unlike Beato.`
@@ -766,11 +766,11 @@
 `‘Uryu...`
 ` It's nice to meet you, my name is Sakutarou...’`
 `"Uu, Sakutaro is shy so he's nervous right now.`
-` It's okay, Beatrice is my wonderful friend too...!"`
+` It's okay, {f:5:Beatrice} is my wonderful friend too...!"`
 `‘Uryu.`
 ` Are your friends my friends...?’`
 `"Yeah!"`
-`‘Uryu. ......Then I'm Beatrice's friend too?’`
+`‘Uryu. ......Then I'm {f:5:Beatrice}'s friend too?’`
 `"Yeah!"`
 `‘Uryuu!’`
 `"......Maria, do things like this happen frequently for you in your everyday life?"`
@@ -784,10 +784,10 @@
 `"Hmm......`
 ` ......A stuffed animal makes for an excellent vessel.`
 ` Therefore, when it is spoken to by an innocent child without toxin, it is not uncommon for a spirit to take up residence within, in an attempt to respond to them."`
-`According to Beatrice, when a child "plays with dolls",`
+`According to {f:5:Beatrice}, when a child "plays with dolls",`
 ` the dolls sometimes gain an actual will and converse with them, in rare cases even moving on their own.`
 `However, the power that they can imbue into such a vessel is very weak due to their innocence.`
-`If even a tiny bit of the toxin from a human's common sense gets involved, and tells them that there's no way a doll can talk or move,`
+`If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}'s common sense gets involved, and tells them that there's no way a doll can talk or move,`
 ` it instantly reverts to being an ordinary non‐speaking doll......`
 `"However, ......this...Sakutarou stuffed animal of yours is different."`
 `"Uu!`
@@ -795,21 +795,21 @@
 `‘Uryuu!`
 ` Lion cuuuub!`
 ` Ga‐...ga‐......uryuu!’`
-`"Sakutaro is a lion cub, but he's still a kid, so he can't say gaooo sometimes.`
-` Uryu‐uryu‐uryu♪"`
+`"Sakutaro is a lion cub, but he's still a kid, so he can't say {ruby:roar:gaooo} sometimes.`
+` Uryu‐uryu‐uryu{p:0:♪}"`
 `‘Uryu‐uryu‐uryuu!’`
-`Beatrice let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.`
+`{f:5:Beatrice} let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.`
 `".........How incredible.`
 ` This "Sakutarou", with a core of a cloth‐and‐cotton vessel, has completely manifested into the human world.`
 ` He has his own character, talks with his summoner freely,`
-` and even moves by his own will."`
+` {i:and even moves by his own will}."`
 `"......And what is most surprising is that you did not summon him by name as a being from another world,`
 ` but created him out of the sea of zero."`
 `After that, Maria boasted to Beato that Sakutarou wasn't her only friend, and that when she went home, there would be plenty more of them.`
 `She claimed that there were other similar stuffed animals and dolls who, like Sakutarou, could talk and move of their own will.`
 `It was something natural to Maria.`
-` It was natural for stuffed animals to talk, move, and become her friends of their own free will.`
-`......When she heard Maria speak of this in that way, Beatrice, as a witch, felt a respect bordering on awe.`
+` It was {i:natural} for stuffed animals to talk, move, and become her friends of their own free will.`
+`......When she heard Maria speak of this in that way, {f:5:Beatrice}, as a witch, felt a respect bordering on awe.`
 `"............Maria.`
 ` Without a doubt, that power of yours is magic."`
 `"It's magic......?`
@@ -871,7 +871,7 @@
 ` Is it something scary......?’`
 `"Don't worry.`
 ` Beato won't do anything scary.`
-` Right, Beatriceee?!"`
+` Right, {f:5:Beatriceee}?!"`
 `"Mm.`
 ` I am certain that he will like it.`
 ` .........Let us see then...yes, in order to achieve a stronger manifestation, a stronger image will be necessary.`
@@ -880,12 +880,12 @@
 `Beato folded her arms and thought about what she could do to please them the most.`
 `And at that moment, there appeared...`
 `......the form of yet another witch.`
-`{n}It was Beato's master, Virgilia.`
-`Virgilia truly was a Great Witch.`
+`{n}It was Beato's master, {f:5:Virgilia}.`
+`{f:5:Virgilia} truly was a Great Witch.`
 `...Since Maria already thought of Beato as a Great Witch, this person Beato called a Great Witch must have been a Great Great Witch.`
 `According to Beato, not even she could hold a candle to this witch when it came to magical power.`
 `"My, my.`
-` I thought I heard some cheery voices.`
+` I {i:thought} I heard some cheery voices.`
 ` What a fun tea party this seems to be..."`
 `"Oh, Master.`
 ` Perfect timing.`
@@ -897,12 +897,12 @@
 ` Hello, nice to meet you...?"`
 `‘U‐uryuu!`
 ` I, I'm Sakutarou.’`
-`Sakutaro got back down onto Maria's lap, and greeted Virgilia with half of his face poking out over the edge of the table.`
+`Sakutaro got back down onto Maria's lap, and greeted {f:5:Virgilia} with half of his face poking out over the edge of the table.`
 `...He seemed to be very nervous since this was a witch that even Beato called Master.`
 `"Hoh‐hoh‐ho.`
 ` What a lovely name.`
 ` ......As a reward for giving such a good greeting, here's a sweet for you."`
-`After waving her hands about, Virgilia held the palm of her hand upwards, and made a movement as though lightly grasping some of the air.`
+`After waving her hands about, {f:5:Virgilia} held the palm of her hand upwards, and made a movement as though lightly grasping some of the air.`
 `Then, she held that closed fist out in front of Sakutaro.`
 `............And when she opened it, there lay one of those individually wrapped cough drops.`
 `‘Uryuu?!`
@@ -913,7 +913,7 @@
 `‘Uryu.`
 ` Thank you very much for the candy.`
 ` ...*bow*.’`
-`Even though Virgilia was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.`
+`Even though {f:5:Virgilia} was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.`
 `"Still, Master, cough drops? Are you someone's granny or something...?!`
 ` Can't you at least pull out some strawberry‐milk candy~?"`
 `"How mean.`
@@ -948,7 +948,7 @@
 `......Then, finding an empty page among those with magic circles drawn on them, she flattened the book out.`
 `And after staring at Sakutarou with a smirk, she suddenly started darting her pen across the page.`
 `......It was something like a written proclamation made by witches to a higher‐order world.`
-`Magic, which would take effect by Virgilia giving her signature as a witness.`
+`Magic, which would take effect by {f:5:Beatrice} writing it and {f:5:Virgilia} giving her signature as a witness.`
 `Maria didn't understand what Beato was doing at first, but partway through, she figured out the wonderful magic power of this document, and her eyes began to sparkle...`
 `‘Uryu?!`
 ` Uryu?!`
@@ -969,19 +969,19 @@
 `"......It's amazing, Beato!!`
 ` So cuuute!!`
 ` Uu‐uu‐uu!!"`
-`"By the name of the Golden Witch Maria's child.`
+`"By the name of the Golden Witch {f:5:Beatrice}, I hereby acknowledge Sakutarou, {f:5:Maria}'s child.`
 ` .........Master, if you would sign as a witness!"`
 `"Yes, yes.`
 ` ......By my name, I stand witness to and acknowledge this oath.`
 ` .........It is done."`
-`Virgilia signed, completing the proclamation.`
+`{f:5:Virgilia} signed, completing the proclamation.`
 `It was a powerful document that proclaimed to the beings of a higher world that Sakutarou had most certainly manifested in the human world.`
-`Sakutarou, created by Maria, had received the recommendation of the two witches Virgilia,`
+`Sakutarou, created by Maria, had received the recommendation of the two witches {f:5:Beatrice} and {f:5:Virgilia},`
 ` and in this very moment, the higher world had accepted his existence.`
 `......That was the great magic of manifestation.`
-`According to Beato, it was apparently an incredible stroke of luck that Virgilia had been here.`
+`According to Beato, it was apparently an incredible stroke of luck that {f:5:Virgilia} had been here.`
 `Because the power residing in the proclamation would change drastically depending on the number and the ranks of the witches signing it.`
-`Virgilia in particular had many friends in the higher world,`
+`{f:5:Virgilia} in particular had many friends in the higher world,`
 ` so her signature gave the proclamation a power with which Beato's couldn't even compare.`
 `"By this proclamation, I accept thee, Sakutarou, as an individual with thine own sense of self.`
 ` And I welcome thee as a friend in accordance with the treaty of Mariage Sorcière.`
@@ -998,7 +998,7 @@
 `‘Uryu......?`
 ` Uryu‐uryu‐uryu‐uryu......!’`
 `And when that light disappeared...`
-`............There, Maria's friend Sakutarou held a new form, and existed.`
+`............There, Maria's friend Sakutarou held a new form, and {i:existed}.`
 `"Uu‐uu‐uu!`
 ` You're cute, Sakutaro!`
 ` Reeeeally cute!"`
@@ -1013,18 +1013,18 @@
 ` Animal ears are nice indeed, truly cute!`
 ` Allow me to nibble at them later.`
 ` *cackle*!"`
-`"Thank you, Beatriceee!!`
+`"Thank you, {f:5:Beatriceee}!!`
 ` Thank you so much for the wonderful present!!"`
 `"There is no need for thanks.`
 ` This is merely an expression of my respect for your wonderful magic and your friend."`
 `".........And now that you have reached this level, it would not be odd for you to graduate from an apprentice at any time.`
 ` Starting today, I shall initiate you in even newer and more fun forms of magic."`
-`"......From this point forward, you may call yourself Maria, the Apprentice Witch of Origins."`
+`"......From this point forward, you may call yourself {f:5:Maria}, the Apprentice Witch of Origins."`
 `"What's the Witch of Origins...?"`
 `"Mm.`
 ` It is the title of a witch who seeks to become a Creator.`
 ` Right now, you are just an Enchanter, possessing only enough strength to breathe magical power into the small objects around you."`
-`"......But after one thousand years of training, it is not unthinkable that you could create not just your own system of magic, but even a galaxy."`
+`"......But after one thousand years of training, it is not unthinkable that you could create not just your own {i:system} of magic, but even a galaxy."`
 `"......The talent of the Witch of Origins is very rare.`
 ` Even though everyone has it when they are young, no one can continue to hold onto it.`
 ` ......This title is also proof that you have not lost your untainted heart."`
@@ -1034,7 +1034,7 @@
 ` I'm the Apprentice Witch of Origiiins!"`
 `‘Maria, that's so cool...!`
 ` The Witch of Origins, wow, awesome, uryuu!’`
-`"Eventually, you will probably be able to call yourself by the title of a full witch—Lady Maria, the Witch of Origins.`
+`"Eventually, you will probably be able to call yourself by the title of a full witch—Lady {f:5:Maria}, the Witch of Origins.`
 ` ......It may be a good time now to give not only Sakutarou, but you as well, an appearance fitting for your rank."`
 `".........There.`
 ` I shall give a proper outfit for one who, while an apprentice, is worthy of calling herself a witch."`

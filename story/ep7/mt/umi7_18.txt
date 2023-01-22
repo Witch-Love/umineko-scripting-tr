@@ -36,7 +36,7 @@
 ` I would not resist fate.`
 ` ......After all, ......whenever I have tried in the past, fate has always been heartless to me........."`
 `Clair hung her head and let a single tear drop down...`
-`Humans will carelessly say that people have infinite possibilities.`
+`{y:0:Human}{n:0:Human}s will carelessly say that people have infinite possibilities.`
 `{n}However, the Endless Witch......knows how limited those possibilities really are.`
 `So, within the limits of her fate, she tried to find the infinite.`
 `By entrusting her fate to God, she tried to find the infinite.`
@@ -64,7 +64,7 @@
 `"......Live with enough happiness for the both of us.`
 ` I'm glad I got to meet you once...at the end.`
 ` .........You have my thanks,`
-` Lady Bernkastel."`
+` Lady {f:5:Bernkastel}."`
 `".........I'm just carrying out your funeral.`
 ` There's no need to thank me.`
 ` ......Well, it's about time to end this.`
@@ -81,7 +81,7 @@
 `"Thank you.`
 ` .........Live in happiness.`
 ` And someday, find yourself a wonderful person.`
-` ......I pray that you live as a human, without awakening as a witch.`
+` ......I pray that you live as a {y:0:Human}{n:0:human}, without awakening as a witch.`
 ` ......That you have a whole and single soul...and love one person with all your strength...`
 ` ......I hope you live your life like that."`
 `"............Okay......"`
@@ -314,7 +314,7 @@
 ` maybe the whole island where she lived and died was the Golden Land."`
 `"If you can call a cat box a Golden Land, that is.`
 ` ......And of all the imaginable stories that could occur within that cat box, Battler wrote the most enjoyable."`
-`"......You mean that book in Beatrice's coffin?"`
+`"......You mean that book in {f:5:Beatrice}'s coffin?"`
 `"That's right.`
 ` .........It's the happiest possible tale for her, which he thought up himself."`
 `"It was a really fun, love‐filled, ......happy tale.`
@@ -322,8 +322,8 @@
 `"No, that's wrong."`
 `"......Huh?"`
 `"............You heard Clair.`
-` ......You are her hope and her salvation.`
-` More than anything else, it's you living on in happiness that will be her salvation."`
+` ......{i:You} are her hope and her salvation.`
+` More than anything else, it's {i:you} living on in happiness that will be her salvation."`
 `"........................`
 ` ............Right."`
 `"......Live happily.`
@@ -358,7 +358,7 @@
 `"......What is it?"`
 `"No, it's nothing.`
 ` ......It's been a century since anyone's thanked me, so I wasn't sure how to respond."`
-`Bernkastel shrugged, then floated up into the air.`
+`{f:5:Bernkastel} shrugged, then floated up into the air.`
 `Then, she looked up at the beautiful seven colors of light shining in through the stained glass...`
 `and spoke as though someone was looking down on her from there.`
 `"Auaurora.`
@@ -372,7 +372,7 @@
 ` You're done with me now.`
 ` ......Bye, Lion.`
 ` And bye to you too, observer witches."`
-`Bernkastel burst and disappeared.`
+`{f:5:Bernkastel} burst and disappeared.`
 `{n}A single golden flower petal glittered.`
 `......Lion picked it up.`
 `{n}It was the only trace of a miracle that remained in this chapel......`
@@ -388,7 +388,7 @@
 ` Finally some good weather!"`
 `"Everyone,`
 ` let us return to the mansion.`
-` I have been told that Beatrice's funeral is over."`
+` I have been told that {f:5:Beatrice}'s funeral is over."`
 `"Father, where's the head?"`
 `"He'll be here in a sec.`
 ` Today was pretty crazy.`
@@ -406,12 +406,12 @@
 `"Our family head...! There you are."`
 `As Kinzo came out after the others, Lion ran up to him.`
 `"......You did very well today.`
-` ......Beatrice's funeral is now complete."`
+` ......{f:5:Beatrice}'s funeral is now complete."`
 `"Yes.`
-` ......And I'm sure that Beatrice's soul was saved."`
+` ......And I'm sure that {f:5:Beatrice}'s soul was saved."`
 `"..................`
 ` ......How could you know that?"`
-`"I was with Beatrice until a second ago.`
+`"I was with {f:5:Beatrice} until a second ago.`
 ` ......And I saw her leave on her journey with no regrets.`
 ` That's how I know."`
 `"......................................."`

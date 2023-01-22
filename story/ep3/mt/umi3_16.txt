@@ -66,7 +66,7 @@
 ` ...And that's our, no, your fault.`
 ` It's your fault for choosing a husband like that."`
 `"A child like you can't possibly understand how good he was!!`
-` Uuuughhhhuuuhuuuuuughh...honey.........uuuuuuuhhuhghhhhuuhuuhuu!"`
+` Uuuughh{0}hhu{0}uuhu{0}u{0}u{0}u{0}uughh...{0}honey.........uuu{0}u{0}u{0}uuhhuhghh{0}hhu{0}uhuu{0}huu!"`
 `".........Come on.`
 ` Our dreams were made real with magic, right?`
 ` We solved the riddle of the epitaph.`
@@ -77,10 +77,10 @@
 ` Living a wonderful life with that man, and entrusting George with an excellent life...!`
 ` I still have so many dreams that I need to fulfil, ...as a wife, as a mother...!!`
 ` And yet, ......and yet......!"`
-`"...Those are just extra dreams you gained after becoming an adult.`
-` They aren't our dreams."`
+`"...Those are just extra dreams {i:you} gained after becoming an adult.`
+` They aren't {i:our} dreams."`
 `"And that is why you're a child...!!`
-` It only matters that you want?!`
+` It only matters that {i:you} get what {i:you} want?!`
 ` ......That's right, all of this is my fault...!!`
 ` Back then, why did I resist doing what Rosa told me to?`
 ` Why couldn't I announce to all of the siblings that I had found the gold...?"`
@@ -91,7 +91,7 @@
 `"No, that isn't true anymore.`
 ` And it was you who said it.`
 ` I am Ushiromiya Eva.`
-` And you are the Golden Witch, Beatrice...!!"`
+` And you are the Golden Witch, {f:5:Beatrice}...!!"`
 `"So just disappear already!`
 ` Witches are a delusion, a fantasy that can only exist in fairy tales...!!`
 ` Just DISAPPEAR!`
@@ -100,7 +100,7 @@
 ` ...Alright.`
 ` I'll disappear from your sight."`
 `"...And I am no longer Ushiromiya Eva.`
-` From now on, I'm the Golden Witch Beatrice.`
+` From now on, I'm the Golden Witch {f:5:Beatrice}.`
 ` ...So now I will play however I want."`
 `"I'm done caring about you.`
 ` Why don't you just give up and die forever?!"`
@@ -108,9 +108,9 @@
 `......Only Eva was left behind in the darkness.`
 `{n}And she questioned herself...`
 `"Was it me......?`
-` I......killed them......?`
+` {i:I}......killed them......?`
 ` Did I kill...that person......?`
-` ......Did I......kill...him............?"`
+` ......Did {i:I}......kill...him............?"`
 `Now, that question was one she herself would never answer......`
 `"...g... *cough*cough*cough*!!`
 ` *cough*cough*cough*!!"`
@@ -252,10 +252,10 @@
 `......To humans in a world without magic, where they can never return it to its original form,`
 ` ......it is very, very natural for them to bet all their body and soul on that single life.`
 `".........So there are times when an Endless Witch, with full command over even life and death,`
-` ......is inferior to a finite human, for whom even death's mountain is impossible to cross......?"`
+` ......is inferior to a finite {y:0:Human}{n:0:human}, for whom even death's mountain is impossible to cross......?"`
 `Now, the witch acknowledged it.`
 `He was able to hold a magical power that could not reside in witches who didn't understand the value of a life.`
-`......What is this thing called the Endless Magic for again?`
+`......What is this thing called the Endless Magic {i:for} again?`
 `...Even though I call myself the Endless Witch,`
 ` have I been forgetting what the Endless Magic means...for a whole thousand years.........?`
 `She looked at George's expression again.`
@@ -283,7 +283,7 @@
 `I was sure that all of the people who thought fondly of Grandfather would cry too, when they saw him like that.`
 `By just the loss of a single life, the whole world would be filled with so much sadness.`
 `......I cried even more at how terrible that would be.`
-`Beatrice appeared, and spoke.`
+`{f:5:Beatrice} appeared, and spoke.`
 `"Then, Milady.`
 ` Let us revive this vase with magic.`
 ` If that will make everyone happy, then the vase and the magic and the spirits...`
@@ -373,13 +373,13 @@
 `In that moment, George had definitely used magic.`
 ` Beato had done nothing more than help him along.`
 ` That magic had a magical power that could only reside in those who knew of the importance of life and trying their hardest.`
-`It was the power of a miracle that an Endless Witch could not know, ......that only the power of the finite could give rise to.`
+`It was the power of a miracle that an Endless Witch could not know, ......that only the power of the {i:finite} could give rise to.`
 `By now, she had no choice but to accept it.`
 ` ......She had to accept that true magic, true magical power...`
 `...existed in the place farthest away from she who called herself a Great Witch.`
-`".........Beatrice...sama......"`
+`".........{f:5:Beatrice}...sama......"`
 `"......She brought you back to life...`
-` Thank you, Beatrice...!"`
+` Thank you, {f:5:Beatrice}...!"`
 `"No.`
 ` I could not do anything.`
 ` ......What revived Shannon...was your magical power.`
@@ -397,9 +397,9 @@
 ` which she had toyed with however she wanted in the past.`
 `The couple kept each other in their tight embrace, and showed no signs of letting go.`
 ` ...Feelings that couldn't be communicated with a billion words were thus communicated between them...`
-`"Thank you, Beatrice.`
+`"Thank you, {f:5:Beatrice}.`
 ` ...We are in your debt..."`
-`"...Thank you very much, Beatrice‐sama.`
+`"...Thank you very much, {f:5:Beatrice}‐sama.`
 ` ......I will never forget that it was you who let me meet with George again."`
 `"......Enough, enough.`
 ` Being thanked by a pair of lovers is far too embarrassing for one who has been feared as an extreme savage.`
@@ -410,7 +410,7 @@
 `......Probably, not since the time I first succeeded in magic.`
 `.........Didn't Master praise me for that back then?`
 `Oh, but, I myself killed that master who praises me, didn't I...`
-`......Don't be naive, Beatrice.`
+`......Don't be naive, {f:5:Beatrice}.`
 `...In the end, that's what it means to kill something, right...?`
 `"......Finally,`
 ` ...it seems you've remembered how to use magic."`
@@ -457,7 +457,7 @@
 `......George......`
 `.........Shannon..............."`
 `"......Thank you,`
-` ...Beatrice......`
+` ...{f:5:Beatrice}......`
 ` ...For letting us meet,`
 ` ...even just for a short while,`
 ` ......thank you........."`
@@ -466,11 +466,11 @@
 `.........It was searching for further kills in that room.`
 `Then, the tip of the snake met Beato's gaze...`
 `{n}In that instant, Beato prepared herself for death.`
-`Just then, Virgilia stood in front of her, the fingers of both her hands drawing a mark.`
+`Just then, {f:5:Virgilia} stood in front of her, the fingers of both her hands drawing a mark.`
 `In that instant, gold‐colored gold leaf buried the inside of the parlor.`
 `{n}It was like a blizzard of gold...`
 `"Beato, escape while you can!!`
-` No one can escape from the Chiesters' golden bow!!!"`
+` {i:No one can escape} from the Chiesters' golden bow!!!"`
 `"410, target lost!!`
 ` Nihyah, magical chaff!!"`
 `"45, understood...!`
@@ -483,19 +483,19 @@
 `The Chiester Sisters' golden bow would not let its kill escape.`
 `{n}It would not let them block it.`
 `...No magical barrier could even dream of blocking it without being multilayered.`
-`The weak point during the instant of confusion caused by Virgilia's deception magic was Beato's only chance to escape.`
-`And the only opportunity to make the sisters confuse Virgilia for Beato.`
-`As Virgilia spread her arms wide, blocking the way to her beloved disciple, the gold snake pierced straight through the location of her heart...`
-`The snake, which had snuck in through the keyhole, shot through George and Shannon, and then shot through Virgilia in an instant,`
+`The weak point during the instant of confusion caused by {f:5:Virgilia}'s deception magic was Beato's only chance to escape.`
+`And the only opportunity to make the sisters confuse {f:5:Virgilia} for Beato.`
+`As {f:5:Virgilia} spread her arms wide, blocking the way to her beloved disciple, the gold snake pierced straight through the location of her heart...`
+`The snake, which had snuck in through the keyhole, shot through George and Shannon, and then shot through {f:5:Virgilia} in an instant,`
 ` completely failed to notice as Beato escaped...`
-`As soon as Virgilia saw that Beato had gotten away, she expired.`
+`As soon as {f:5:Virgilia} saw that Beato had gotten away, she expired.`
 `......The strength left her body, and like gold dust drifting with the wind, her form was erased...`
 `Beato completely erased all traces of her magical power,`
 ` became gold butterflies, and passed through the wall, escaping to the wind and rain outside......`
 `"..................Damn it,`
 ` .........damn it, damn it...`
 ` ......You bitch,`
-` ......you biiiiiiiiiiiiiiiitch...!!"`
+` ......you biii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiitch...!!"`
 `Beato felt sick from the bottom of her heart.`
 `Why?`
 ` Because she had been attacked by the new witch?`
@@ -518,18 +518,18 @@
 ` Nihi!"`
 `"What was that about loving couples?`
 ` You get to enjoy them thrice—once tearing the two apart, once reuniting them, and once tearing them apart again...right?`
-` *cackle*hihihihihihhihi!"`
+` *cackle*hihi{0}hi{0}hi{0}hi{0}hhihi!"`
 `"And I feel great about getting to say goodbye to that fussy‐as‐fuck old hag at the same time.`
 ` ......Ronove, you don't have any complaints, right?"`
 `"......Why, of course not,`
-` Beatrice‐sama."`
+` {f:5:Beatrice}‐sama."`
 `"She interfered with the ritual of the witch's epitaph, you see?`
 ` She revived a sacrifice from the first twilight without permission, and interfered with my ritual.`
 ` No one has aaany right at all to complain."`
 `"Kuhhihihihhyahyahyahya...!`
 ` Sucks that she doesn't leave a corpse behind though.`
 ` ......I was thinking of torturing that old hag to death over and over again endlessly.`
-` Kuhhihihyahyahya...!!"`
+` Kuhhi{0}hihya{0}hyahya...!!"`
 `"........................"`
 `"G‐George did...?!`
 ` He didn't show up, when did he come down?!"`
@@ -629,7 +629,7 @@
 ` ......ooooooohhhh......"`
 `Nanjo turned pale and shook his head several times.`
 ` ...Because the thing that Battler said was presenting a certain truth to him that was frightening even to imagine...`
-`"......That's if they used the trick I thought of, of course?`
+`"......That's {i:if} they used the trick I thought of, of course?`
 ` However, with this trick, only a very limited number of people can be suspected."`
 `He didn't want to say it in front of Nanjo, ...but after eliminating Jessica, who had been with him the whole time,`
 ` ...the only ones who could have done it were Nanjo...and Eva.`
@@ -647,7 +647,7 @@
 ` I'd have probably announced this theory with full confidence.`
 ` ...But at this stage, I'm not confident at all.`
 ` ............What's going on here?`
-` ...What the hell does it mean?`
+` ...What the hell does it {i:mean}?`
 ` .........This "locked room"......"`
 `"Y‐......you don't think, umm........."`
 `"Hmm?`

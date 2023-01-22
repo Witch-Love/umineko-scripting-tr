@@ -66,7 +66,7 @@
 ` I am glad to have your understanding.`
 ` That's right, this is the family conference.`
 ` The final family conference, where I will select and finalize the next head.`
-` Fuhahahahahaha...!"`
+` Fuhaha{0}ha{0}hahaha...!"`
 `"So, the thing is, Kinzo‐san...`
 ` ......It is far too cold here.`
 ` We won't interfere with your test, so couldn't you take us to a slightly warmer place......?"`
@@ -83,13 +83,13 @@
 ` I'm not falling for that, ohhhhhh noooo...`
 ` If you insist you're freezing, then I will line the floor with red‐hot coals!!"`
 `"M‐my apologies......"`
-`Virgilia had tried to help out too, but in the end, Kinzo was having none of it...`
+`{f:5:Virgilia} had tried to help out too, but in the end, Kinzo was having none of it...`
 `"...............You two sure are obedient.`
 ` ...If you felt like it, you could easily break these bars."`
 `"..........................."`
 `"......Even if we break these, nothing will come of it."`
 `"True.`
-` ......If you were to break these, it would mean the end of Goldsmith's game.`
+` ......If you were to break these, it would mean the end of {f:5:Goldsmith}'s game.`
 ` ......All of you, as well as those humans in the guesthouse, would immediately become sacrifices for Kinzo's ritual."`
 `"......But, you know, you two might be the only ones.`
 ` Who hold the power to break through this situation......right?"`
@@ -130,7 +130,7 @@
 `When Kinzo made his order, the Chiester Sisters appeared behind him in a line.`
 `"Understood, sir.`
 ` ......I will scout.`
-` 556 and 410, cover both flanks.`
+` {ruby:Five‐five‐six:556} and 410, cover both flanks.`
 ` 45, wide‐area surveillance."`
 `"00...`
 ` 556 is......"`
@@ -152,7 +152,7 @@
 ` I shall begin preparing for the test.`
 ` Ronove, Gaap.`
 ` I'm asking you to be the examiners.`
-` Virgilia, you watch these rats.`
+` {f:5:Virgilia}, you watch these rats.`
 ` .........After all, two of my furniture are here.`
 ` Just in case, be on your guard."`
 `He glanced sharply at Shannon and Kanon.`
@@ -168,7 +168,7 @@
 ` Well, well, tests and examiners, what a strange experience we have this game.`
 ` .........I do hope this development entertains Milady."`
 `"......Come, arise, goat attendants."`
-`Virgilia called out into the dark, and from that spot, three massive goat‐headed attendants slowly melted into vision.`
+`{f:5:Virgilia} called out into the dark, and from that spot, three massive goat‐headed attendants slowly melted into vision.`
 `"Ah, Riiche's minions.`
 ` How useful.`
 ` And they look so warm.`
@@ -177,7 +177,7 @@
 `"Shut up about it, you cashmere mop.`
 ` ......They aren't very bright, but they faithfully follow orders and are quite dependable."`
 `"Mm, I leave it to you.`
-` My friend, Virgilia.`
+` My friend, {f:5:Virgilia}.`
 ` ......The rest of you, follow me."`
 `Kinzo turned with a grand swish of his cloak.`
 `Following him were Ronove and Gaap,`
@@ -188,9 +188,9 @@
 `Kyrie, who had been watching in disbelief as all of this played out, couldn't help but snort.`
 `"Heheh......`
 ` What entertaining underlings."`
-`"L‐Lord Goldsmith did not give you permission to speak freely."`
+`"L‐Lord {f:5:Goldsmith} did not give you permission to speak freely."`
 `...She was probably a little embarrassed.`
-`Virgilia had spoken coldly, but Kyrie could see right through that, and for a little while, she couldn't restrain her muffled laughter.`
+`{f:5:Virgilia} had spoken coldly, but Kyrie could see right through that, and for a little while, she couldn't restrain her muffled laughter.`
 `However, on the inside, Kyrie was surprised at the number of people Kinzo had with him.`
 `Because, including Kinzo himself, at least ten enemies had already been spotted...`
 `......The dungeon they were currently locked in was supposedly underneath the hidden mansion called Kuwadorian.`
@@ -200,7 +200,7 @@
 `Just how many humans are on Rokkenjima, locked away by the typhoon...?`
 `No, actually...`
 `Are we the only ones under the impression that there are only 18 people on this island......?`
-`As we bickered over whether Beatrice existed or not, and racked our brains over something as minor as a 19th person,`
+`As we bickered over whether {f:5:Beatrice} existed or not, and racked our brains over something as minor as a 19th person,`
 ` were we on this island the perfect example of frogs in a well...?`
 `No, wait, in fact...`
 ` At this point, are there actually more people on the enemy's side than on ours...?`
@@ -301,7 +301,7 @@
 `......To George, who had closed the shutter himself,`
 ` ...the resistance of the lock made it feel as though he had killed them with his own hands.`
 `".........But even so......we can't disobey......"`
-`"A test...?`
+`"A {i:test}...?`
 ` ......What the hell, old man......!`
 ` Killing Mom, capturing Dad for that......`
 ` I don't get it, I'll kill him...!"`
@@ -310,7 +310,7 @@
 `".........Maria......"`
 `"The witch will be revived very soon.`
 ` .........It won't be long before you can see her in the Golden Land.`
-` ...Kihihihihihihihihi............`
+` ...Kihi{0}hi{0}hi{0}hi{0}hi{0}hihihi............`
 ` Ouch."`
 `"Don't laugh at inappropriate times.`
 ` ......Seriously, a resurrection ritual for a witch?`
@@ -335,7 +335,7 @@
 `"......S‐sorsorsorryyyy...!`
 ` They found me ouuuut...!!"`
 `"It's 'cause you're too slow, 45, nye~h.`
-` Ni~hihihi~, Pendragon‐sama's going to scold youu~♪"`
+` Ni~hihihi~, Pendragon‐sama's going to scold youu~{p:0:♪}"`
 `"I'm sorry I'm sorry, please don't tell Pendragon‐sama on meeeee!"`
 `"Shut up be quiet.`
 ` It was obviously just a bluff.`
@@ -343,7 +343,7 @@
 ` Mission accomplished.`
 ` Time to report back."`
 `"Neener‐neener.`
-` Nihihihihihihihihi!`
+` Nihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!`
 ` Ouch."`
 `"Do you want us all stuck on nothing but carrots and water because of collective responsibility?`
 ` ......Let's go."`
@@ -391,7 +391,7 @@
 `...go all out?"`
 `"......Yes.`
 ` It's a serious test.`
-` He plans to seriously test you all."`
+` He plans to {i:seriously} test you all."`
 `"That's no good, no goddamn good at all.`
 ` ......Some old fart on death's door thinks he can take me when I'm serious?"`
 `"Let's see him spew that shit from beyond the grave.`
@@ -472,7 +472,7 @@
 `"........................`
 ` ......That doesn't mean I'll sit around and wait for my fiancée to be killed.`
 ` .........What scares me is not that Shannon might be killed by Grandfather."`
-`"I'm just worried you guys will be first to find that doddering old bastard who gave my fiancée a taste of terror, and literally beat me to the punch."`
+`"{i:I'm just worried you guys will be first to find that doddering old bastard who gave my fiancée a taste of terror, and literally beat me to the punch}."`
 `"Now I get it...`
 ` ......Yeah, this really is a test to settle who the next head's gonna be."`
 `"Yep.`
@@ -484,7 +484,7 @@
 `Jessica's back was watched through the window by Maria, who had remained upstairs.`
 `Her expression was blank......`
 `"......I wonder why everyone is getting so upset.`
-` .........When Beatrice is revived, we can get her to bring everyone back to life."`
+` .........When {f:5:Beatrice} is revived, we can get her to bring everyone back to life."`
 `Jessica's form had already been completely swallowed up by the darkness.`
 `......At that time, the phone began to ring again.`
 `Battler and George heard it and came clamoring back, but Maria picked up the receiver right away.`

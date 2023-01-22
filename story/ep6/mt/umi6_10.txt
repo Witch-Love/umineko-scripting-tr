@@ -377,7 +377,7 @@
 ` ......if she hadn't died, I would have killed her.`
 ` ......In other words, she was fated to die no matter what.`
 ` ......The miracle was that, even though she did die,`
-` I didn't have to get my hands dirty.`
+` {i:I didn't have to get my hands dirty}.`
 ` That's all."`
 `......Until now, Kyrie had never shown Jessica...`
 `......no, she had never even shown Rudolf...that glint in the deepest depths of her eyes.`
@@ -513,7 +513,7 @@
 `...finish half‐hearted."`
 `".........What are you talking about...?`
 ` What are you saying?! What on Earth is going on?!`
-` Someone, tell meeeeeeeeee!!!"`
+` Someone, tell mee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e!!!"`
 `The air around Jessica seemed to bend like a heat wave.`
 `It seemed to be enshrouding her fists.`
 ` ......And, it seemed as though something like a red magic circle had appeared beneath her feet.`
@@ -553,13 +553,13 @@
 `"Yeah, it's a nightmare."`
 `"It is, right...?`
 ` It's a nightmare, right......?`
-` Ah, ......aaaaaaaaaaaaaaaaaaahh!!"`
+` Ah, ......aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh!!"`
 `"I'll recognize that.`
 ` ......This is a nightmare."`
 `"I do too!!`
 ` I recognize that this is a nightmare!! S‐so please—"`
 `"I'll wake you up......with a single punch!`
-` Rrrraaaaaaaaaaaaaaaaaaaahhhhhhhhh!!!"`
+` Rrrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh{0}h{0}h{0}h{0}hhh!!!"`
 `"Ack.........ggha...gh...............kh...??"`
 `Jessica's neck twisted at an odd angle,`
 ` ......and she staggered backwards, her eyes rolled back into her head,`
@@ -608,7 +608,7 @@
 ` It's a kind of enchantment.`
 ` ......Right now, she has enough defensive power to prevent me from piercing her,`
 ` and she even has the power to reflect the damage back upon the attacker!`
-` ......She's no longer human. She's a monster...!!"`
+` ......She's no longer {y:0:Human}{n:0:human}. She's a monster...!!"`
 `"Oh, so that's all.`
 ` Then not much has changed."`
 `"How can you say that?"`
@@ -661,7 +661,7 @@
 `...raised a fire‐wreathed demonic fist......`
 `"......So long, Auntie Kyrie......"`
 `"Kyrieeeeeeeeeeeeeeeeeeee!!`
-` ....................................?!?!"`
+` ............{0}......{0}..................?!?!"`
 `"...............Oh........."`
 `Jessica's fist slammed into the door in slow motion.`
 `It was the same kind of slow motion often seen as a special effect at the climax of a movie.`
@@ -686,7 +686,7 @@
 ` ......Speed of sound upgrade."`
 `"It's useless, darling."`
 `"......Break............!!!!"`
-`With full speed upgrades, Jessica's fist moved at the speed of sound, 1,225 km/h.`
+`With full speed upgrades, Jessica's fist moved at the speed of sound, {nobreak:1,225 km/h}.`
 `However, how long had Jessica been in envy to gain that speed?`
 `She had started to envy George and Shannon's relationship about......two years ago?`
 `{n}2×365=730 days,`
@@ -700,7 +700,7 @@
 `{n}17520÷7×3÷24=312 (rounded down).`
 `The number of hours that Kyrie had been jealous was 157,680.`
 ` {n}In other words, this was a scant 0.2% of the time that Kyrie had been jealous.`
-`Even 1225 km/h, the speed of sound, becomes only 2.45 km/h in the 1/500 world.`
+`Even 1225 km/h, the speed of sound, becomes only {nobr:2.45 km/h} in the 1/500 world.`
 `"......Understand?`
 ` ......You're lacking in both love and envy."`
 `"..................!!!"`
@@ -711,10 +711,10 @@
 `"Way to go, Kyrie...!!!"`
 `"See? This room is a locked room.`
 ` At most, Jessica‐chan can knock on the door, but she can't lay a finger on us inside!"`
-`"Ah, Beatrice's definition of a locked room."`
+`"Ah, {f:5:Beatrice}'s definition of a locked room."`
 `".........What the hell...?"`
 `"Then this locked room will be somewhat troublesome.`
-` It is impossible for a human to carry out a locked‐room murder.`
+` It is impossible for a {y:0:Human}{n:0:human} to carry out a locked‐room murder.`
 ` ......Only magic can do that.`
 ` ......Until you truly understand magic, you will not be able to break through it."`
 `"You can't corner me any further...!`
@@ -778,7 +778,7 @@
 `"....................................`
 ` ......Haaah.........haah..."`
 `Jessica finally let out the breath that she had been holding down in her chest...`
-`Her normal human glint finally returned to her eyes...`
+`Her normal {y:0:Human}{n:0:human} glint finally returned to her eyes...`
 `......And then, ...she couldn't help but shudder at what she had done,`
 ` ......even if it had been just a trial on the game board for the sake of her love...`
 `"......Is that what you wanted, demons?!"`
@@ -797,7 +797,7 @@
 ` That's why I've shown how strong my feelings are...!`
 ` I...didn't do something wrong, did I?`
 ` I'm not wrong, am I?!`
-` Uuu...aaaaaaaaaaaahh......"`
+` Uuu...aa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahh......"`
 `"...............Milady..."`
 `As Jessica started to sob, ...Kanon held her quietly.`
 `{n}And he realized that he would have to carry on the determination she had shown him...`
@@ -817,7 +817,7 @@
 ` had it acknowledged by the demons, and raised it to the level of magic...`
 `"The trials for the two of you have been completed!!"`
 `"So then, who will take the next challenge?!"`
-`"Will it be Beatrice‐sama?!"`
+`"Will it be {f:5:Beatrice}‐sama?!"`
 `"No, no, it might be Shannon!"`
 `"No, this has to be Kanon's time to shine!"`
 `""Come, speak up!!`

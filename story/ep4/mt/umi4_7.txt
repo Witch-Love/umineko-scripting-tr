@@ -26,7 +26,7 @@
 ` ......You can leave those for later, so for now, just imagine a wider space."`
 `‘Uryu.`
 ` ......Why do you have to imagine a wide space?’`
-`"From the time they're born, humans have inside them a toxin that blocks magic.`
+`"From the time they're born, {y:0:Human}{n:0:human}s have inside them a toxin that blocks magic.`
 ` If you don't purge yourself of that toxin, you can't use magic well.`
 ` ...One effective method of achieving this is to imagine a vast space."`
 `".........Just now, I thought of the world as seen from the window of an airplane, but that didn't work either.`
@@ -114,19 +114,19 @@
 `"Okay.`
 ` ......I'll give it all I've got, Onee‐chan."`
 `"Then let's try and practice.`
-` .........Let's try summoning the furniture of a witch from the same alliance—Beatrice."`
-`"............Beatrice's...furniture."`
-`Hearing Beatrice's name mentioned gave me a slightly strange feeling.`
+` .........Let's try summoning the furniture of a witch from the same alliance—{f:5:Beatrice}."`
+`"............{f:5:Beatrice}'s...furniture."`
+`Hearing {f:5:Beatrice}'s name mentioned gave me a slightly strange feeling.`
 `When it came to the crime on Rokkenjima, the public had made a lot of noise about it being a witch's sacrificial ritual or something like that.`
-`......And that witch was Beatrice.`
-`So if the culprit of that crime was a witch,`
+`......And that witch was {f:5:Beatrice}.`
+`So {i:if} the culprit of that crime was a witch,`
 ` ......it would mean that this very woman was the culprit who took away my family.`
-`However, according to Maria onee‐chan, Beatrice was a good witch.`
-`If I held negative emotions towards Beatrice,`
+`However, according to Maria onee‐chan, {f:5:Beatrice} was a good witch.`
+`If I held negative emotions towards {f:5:Beatrice},`
 ` she would get mad, argue with me and call me mean, and refuse to talk to me for a while.`
 `......Onee‐chan was my only close friend right now.`
 `...So to avoid worsening the mood of my close friend,`
-` I had decided to think of Beatrice as nothing more than Onee‐chan's magic master...`
+` I had decided to think of {f:5:Beatrice} as nothing more than Onee‐chan's magic master...`
 `......And anyway, my belief is that the crime was a murder plot hatched by Aunt Eva.`
 `......Someday I'm definitely gonna bring that all to light.........`
 `"Ange.`
@@ -152,13 +152,13 @@
 ` The Seven Sisters of Purgatory, ......just like the illustrations in Onee‐chan's grimoire...`
 `The younger sisters were behind the eldest, Lucifer, who saluted Onee‐chan.`
 `"The Seven Sisters of Purgatory, right here...!`
-` Lady Maria, it has been quite some time."`
+` Lady {f:5:Maria}, it has been quite some time."`
 `"Yep.`
 ` Long time no see.`
 ` Are you all doing okay...?"`
 `"We furniture are furniture because we are used.`
 ` I consider it an honor from my very heart to have been summoned again for the first time in a long while!"`
-`"Kyaa♪ Sakutaroo!`
+`"Kyaa{p:0:♪} Sakutaroo!`
 ` It's been so looong!"`
 `"You look as deli—I mean—cute as ever~!!"`
 `"I'm fi~rst!!`
@@ -169,14 +169,14 @@
 ` Can't brea~the!`
 ` I won't run away, so let me go, everyo~ne!’`
 `"Hey!!`
-` Are you trying to break Lady Maria's furniture?!`
+` Are you trying to break Lady {f:5:Maria}'s furniture?!`
 ` Just get away from him, hugging is prohibited!!"`
 `"......And yet you're the one who looks like you want to hug him the most.`
 ` *snicker*."`
 `"Wh—?!`
 ` I, I don't have any i‐interest in something so...fluffy and...squishy and...cuddly, okay?!"`
 `"Hey!!`
-` Be silent in the presence of Lady Maria and Ange‐sama, you cretinous sisters!!"`
+` Be silent in the presence of Lady {f:5:Maria} and Ange‐sama, you cretinous sisters!!"`
 `They were so energetic...`
 `{n}The sudden burst of activity as soon they appeared left me stunned.`
 `And even greater than that was my surprise that the innocent Sakutaro was on such good terms with the Seven Sisters.`
@@ -206,7 +206,7 @@
 `"All you Seven Sisters, listen.`
 ` Right now, Ange is in the middle of magic training.`
 ` So I want all of you to lend her your power."`
-`"Certainly, Lady Maria.`
+`"Certainly, Lady {f:5:Maria}.`
 ` ...But what specifically?"`
 `"I will move the magical power manifesting you from me to Ange.`
 ` I want you to stay close by her all the time in that state.`
@@ -241,7 +241,7 @@
 `""""""Yeeees, Onee‐samaa!""""""`
 `"Well then, Ange‐sama.`
 ` We, the Seven Sisters of Purgatory, will now become your furniture.`
-` .........Lady Maria, if you would."`
+` .........Lady {f:5:Maria}, if you would."`
 `"Yeah.`
 ` ......Okay, Ange.`
 ` Can we start?"`
@@ -260,7 +260,7 @@
 `Until then, the inside of my head had been used only for myself.`
 `{n}It was almost like it was now also being used for seven other people.`
 `......Their mere presence there, blinking, or even letting out a single breath, was placing an enormous weight on the inside of my head...`
-`"......Lady Maria.`
+`"......Lady {f:5:Maria}.`
 ` My apologies, but I fear that the burden of all of the Seven Sisters at once might be too great after all."`
 `"I, ......I'm alright.........`
 `......ack........."`
@@ -278,7 +278,7 @@
 `"Me agaaain?`
 ` I'm opposed to youngest‐sister‐bullyi~ng!!`
 ` Start from the top every once in a whi~le!"`
-`"But that would mean second!`
+`"But that would mean {i:I'd} have to disappear {i:second}!`
 ` No no noooo!"`
 `"Don't make a ruckus, Asmo and Levia‐nee!!`
 ` That kind of disturbance will put even more strain on Ange‐sama!!"`
@@ -308,7 +308,7 @@
 ` The more friends you have, the more fun it is, after all."`
 `".........Now I'm even more aware of how incredible you are, Onee‐chan..."`
 `According to Maria onee‐chan, when you reach her class, you can even summon enough people at once to make up an orchestra.`
-`And yet she calls herself a witch apprentice—that's awe‐inspiring...`
+`And yet she calls herself a witch {i:apprentice}—that's awe‐inspiring...`
 `"Are you alright?`
 ` Ange‐samaa?"`
 `"...............I'm sorry...`
@@ -431,7 +431,7 @@
 ` They'll never be able to see me.`
 ` They're inferior life‐forms who can't even see.`
 ` *giggle*giggle*!"`
-`".........Are you alright being around so many humans with that anti‐magic toxin?"`
+`".........Are you alright being around so many {y:0:Human}{n:0:human}s with that anti‐magic toxin?"`
 `"I'm fine as long as you continue to manifest me, Ange‐sama."`
 `"......Although, you probably have to keep concentrating to do that, so there's a chance you'll neglect your daily life.`
 ` ......Look, aren't you being called by that girl you're sharing a room with?"`
@@ -446,7 +446,7 @@
 `Yet after the shameless excuses,`
 ` she transitioned into pushing a completely different point, insisting on flipping the issue on its head, as if I should have come forward and done it of my own initiative.`
 `......One of the special traits of this academy is that it's full of girls who don't know how to ask a favor.`
-`"......What's her problem?`
+`"......What's {i:her} problem?`
 ` She pisses me off.`
 ` I'd love to just gouge her right in the forehead."`
 `"Yes.`
@@ -485,7 +485,7 @@
 `{n}I do have something to help me remember Onii‐chan.`
 `And that's.........this.`
 `"......That hair accessory with the pink beads?`
-` What is that? Sorry to say it, but it looks a little cheap for you."`
+` What {i:is} that? Sorry to say it, but it looks a little cheap for you."`
 `"Long ago, without telling Dad,`
 ` I went with Mom to see Onii‐chan, and we went to play at an amusement park.`
 ` ......This is a prize from the crane game there."`
@@ -510,7 +510,7 @@
 `After only one or two attempts with the crane, he grasped that thing on the other side of the glass that I hadn't even been able to touch,`
 ` .........and dumped it into the exit chute.`
 `When Onii‐chan tossed me that capsule,`
-` I remember feeling like I could count on him for anything.`
+` I remember feeling like I could count on him for {i:anything}.`
 `For the next several days, I felt like the capsule was too precious to open up.`
 `Then, one day, I finally opened it.`
 `......And when I did, what revealed itself from inside was this pink‐bead hair accessory.`
@@ -545,17 +545,17 @@
 `"Well, I can't guarantee that you will attain the magic of resurrection before your life is over.`
 ` ......However, your power as a witch will be proportional to the height of the mountain you dare to climb."`
 `"If you don't lose heart, I'm sure that one day you'll be able to rival even our former master,`
-` Beatrice‐sama, as a Great Witch."`
+` {f:5:Beatrice}‐sama, as a Great Witch."`
 `"......I wonder if I can.`
 ` Become a Great Witch and revive Onii‐chan,`
 ` ......no, my family."`
-`"The Witch of Resurrection, Lady Ange...!"`
+`"The Witch of Resurrection, Lady {f:5:Ange}...!"`
 `"Kyaah, how wonderful!`
 ` A Witch of Resurrection is a very rare kind of witch.`
 ` Having a witch like that as my master would make me pretty proud.`
 ` Actually, I'd love for that to happen.`
 ` Because furniture's worth is also proportional to the rank of its master!"`
-`"Please zip right on by Beatrice‐sama and become a Great Witch like the world has never seen!`
+`"Please zip right on by {f:5:Beatrice}‐sama and become a Great Witch like the world has never seen!`
 ` On behalf of the Seven Sisters of Purgatory, I support you from the bottom of my heart! Kyaha!"`
 `...............I'd thought that if a magical friend were to appear for me too, I'd like a cute kid like Sakutarou.`
 `But even this fifth sister of the frightening Seven Sisters who govern the seven deadly sins was enough to calm my heart this much all by herself.`
@@ -583,7 +583,7 @@
 `......Suddenly, I felt someone's presence.`
 `When I turned around, .........there stood Mammon.`
 `"Gretel‐sama.`
-` Beatrice‐sama says that if you do not return soon, it will become a hindrance to the progression of the game.`
+` {f:5:Beatrice}‐sama says that if you do not return soon, it will become a hindrance to the progression of the game.`
 ` I beg that you return swiftly."`
 `"............Thanks.`
 ` ...I'll go back now."`
@@ -596,15 +596,15 @@
 ` I should accept it literally.`
 ` ...Yes, it is.`
 ` Even in this screwed‐up world, being able to see Onii‐chan makes me happy from the bottom of my heart."`
-`"And you'll win against Beatrice‐sama, for your onii‐chan's sake...?"`
+`"And you'll win against {f:5:Beatrice}‐sama, for your onii‐chan's sake...?"`
 `"Yes.`
 ` ......Can't have him playing around in a world like this forever.`
 ` ......It's about time for him to return home.`
 ` That's why I came to call him."`
 `"...............Please do the best you can.`
-` Although I can't support you, seeing as my current master is Beatrice‐sama."`
+` Although I can't support you, seeing as my current master is {f:5:Beatrice}‐sama."`
 `"I know.`
-` Until October 5th, 1986, ...you are Beatrice's furniture.`
+` Until October 5th, 1986, ...you are {f:5:Beatrice}'s furniture.`
 ` And eventually, you become my friend."`
 `"And eventually, you throw that friend away.`
 ` After all, ......ng, .........ghkh..."`
@@ -636,22 +636,22 @@
 `{n}......Even the air and floating bits of dust had frozen in place.`
 `A world where it seemed like even time itself had frozen.`
 `......Yes.`
-` It resembled what would usually happen just before Bernkastel appeared.`
+` It resembled what would usually happen just before {f:5:Bernkastel} appeared.`
 `But the atmosphere was different somehow.`
 ` Then I understood.`
-`.........It wasn't Bernkastel.`
+`.........It wasn't {f:5:Bernkastel}.`
 `{n}...It was the other witch.`
 `"How are you doing, Ange...?"`
-`"...............Lambdadelta.`
+`"...............{f:5:Lambdadelta}.`
 ` ......The rule doesn't apply to you, I see."`
 `"Duh?`
 ` Rules exist to bind others.`
 ` What kind of idiot would bind themselves with them?"`
-`Bernkastel is a witch who supports me, ......but this girl is different.`
-`This witch supports Beatrice.`
+`{f:5:Bernkastel} is a witch who supports me, ......but this girl is different.`
+`This witch supports {f:5:Beatrice}.`
 `{n}...In other words, she's on the side of the enemy.`
-`But there's some kind of difference between her and Beatrice.`
-`There's something elusive about Bernkastel's as well.`
+`But there's some kind of difference between her and {f:5:Beatrice}.`
+`There's something elusive about {f:5:Lambdadelta}'s existence, and {f:5:Bernkastel}'s as well.`
 ` ......How should I put it... Maybe like they're beings from a higher dimension...`
 `In any event, I'm still unsure about how to deal with her.`
 `......The only thing that I'm certain about is that she is my enemy.`
@@ -670,7 +670,7 @@
 `".....................Sorry,`
 ` but I don't feel like listening."`
 `......That said,`
-` I probably won't be released from this frozen time until Lambdadelta is happy.`
+` I probably won't be released from this frozen time until {f:5:Lambdadelta} is happy.`
 `......That itself might be proof that she's a higher‐dimensional being than me.`
 `{n}I haven't been given the option of not listening to her.`
 `About the only thing I can do is strengthen my mental guard, and try not to be shaken by anything she says.`
@@ -680,8 +680,8 @@
 ` Seriously, you don't need to get so defensive.`
 ` I just came to fix your misunderstanding.`
 ` ......Well, actually, no.`
-` I came thinking I'd tell you about the lie Bernkastel told you."`
-`".........Bernkastel.........lied?"`
+` I came thinking I'd tell you about the lie {f:5:Bernkastel} told you."`
+`".........{f:5:Bernkastel}.........lied?"`
 `"I'll bet Bern made it sound like, if you defeated Beato, your big brother would come back?"`
 `"..................`
 ` Who knows.`
@@ -697,7 +697,7 @@
 `"Then there's no problem, is there."`
 `"............Seriously?`
 ` .........That girl, you'd never think she was that cruel, you know?`
-` To deceive you on purpose."`
+` {i:To deceive you on purpose}."`
 `".........How are you saying I was deceived?"`
 `Shoot...`
 `I've let her take the initiative.`
@@ -717,7 +717,7 @@
 `.........We got a call.`
 `While I was playing with building blocks in the tatami room, we got that call...`
 `After watching to see that I had remembered,`
-` ......Lambdadelta smiled unpleasantly,`
+` ......{f:5:Lambdadelta} smiled unpleasantly,`
 ` ......and spoke.`
 `"WELLLL?`
 ` ON YOUR OCTOBER 6TH, 1986, DID BATTLER ONII‐CHAN COME HOOOME?"`
@@ -727,7 +727,7 @@
 ` I DON'T UNDERSTAND.`
 `{n}......What is this witch......saying.........?`
 `"Okay, so, it's like...`
-` If you defeat Beato, Battler will certainly be released.`
+` If you defeat Beato, Battler {i:will} certainly be released.`
 ` And yep, he'll probably return home.`
 ` To his home in 1986."`
 `"I mean, he would, right?`
@@ -735,7 +735,7 @@
 ` Obviously he'd return to the next day if he was released, right?"`
 `"......And who are you?`
 ` A person from 1998.`
-` You're Ushiromiya Ange of the year 1998 in which Battler did not return.`
+` You're Ushiromiya Ange of the year 1998 in which {i:Battler did not return}.`
 ` Get it?"`
 `"............What...are you talking about?`
 ` .........If my family came back home on October 6th, ...that would be wonderful, wouldn't it?`
@@ -744,14 +744,14 @@
 ` ......And everyone would live happily ever after..."`
 `"Yes.`
 ` Ushiromiya Ange probably would be able to reunite with her family.`
-` ......The six‐year‐old Ushiromiya Ange from 1986 would, right......?"`
+` ......{i:The six‐year‐old Ushiromiya Ange from 1986} would, right......?"`
 `".........Who am I?"`
 `"Ushiromiya Ange.`
 ` An eighteen‐year‐old one."`
 `".........No, that's not it.`
 ` You aren't Ushiromiya Ange.`
 ` ......You're a witch's piece with that name.`
-` Strictly speaking, a completely different person, with the name Ange Beatrice.`
+` Strictly speaking, a completely different person, with the name {f:5:Ange Beatrice}.`
 ` ......Get it?"`
 `I'm...starting to think I don't......`
 `.........Huh?`
@@ -771,20 +771,20 @@
 ` Returned to Ushiromiya Ange.`
 ` ......But she probably didn't say that this Ushiromiya Ange would be you, right...?"`
 `Was it like that... Was it like that......?`
-`{n}What did Bernkastel say to me, again......?`
+`{n}What did {f:5:Bernkastel} say to me, again......?`
 `Your assistance is needed.`
 ` ......Your family needs it.`
-`Bernkastel had started by saying that.`
+`{f:5:Bernkastel} had started by saying that.`
 `Then I had responded.`
 `{n}If I save them, does that mean my family will come back?`
-`{n}......And how had Bernkastel answered that, again......?`
+`{n}......And how had {f:5:Bernkastel} answered that, again......?`
 `Umm, umm......`
-`——I cannot promise that.`
+`{m:-5:—}—I cannot promise that.`
 `Uh, umm......!`
 `{n}That kid did promise me.`
 `{n}In exchange for accepting this fight...!`
 `{n}Yes, this is what she said!`
-`——In exchange, I will search for the fragment with the ideal world that you wish for,`
+`{m:-5:—}—In exchange, I will search for the fragment with the ideal world that you wish for,`
 ` the world where your family comes home.`
 `............Yes, that's right.`
 ` ......She only said she'd search for it.`
@@ -792,7 +792,7 @@
 ` ......But I've been...prepared for that from the beginning.`
 `Even so, ......she did promise that as long as I didn't give up, there was a faint chance of it happening......`
 `And, ......in the end, she said this.`
-`——I'm giving you a chance for revenge.`
+`{m:-5:—}—I'm giving you a chance for revenge.`
 ` ...In exchange, I promise to find and bring you the happiest resolution that it is possible for you to receive.`
 `".....................`
 ` ......I've known it was a tough bet from the very beginning.`
@@ -811,7 +811,7 @@
 ` 'Cause, I mean, even if you managed to overcome the astronomical odds and win,`
 ` the person your family would return to is not you."`
 `"It's the six‐year‐old Ange that exists in this 1986—the rightful Ushiromiya Ange.`
-` Not you."`
+` Not {i:you}."`
 `"......Even so, Bern will still probably go around billions of fragments, searching for the most acceptable world for you.`
 ` And didn't she tell you?`
 ` That she planned on bringing it to you as a present, but wasn't able to find it?"`
@@ -820,12 +820,12 @@
 ` Finally starting to realize...?`
 ` There's no reward waiting for you in this battle."`
 `"No, to the contrary, if you defeat Beato, her game board will disappear.`
-` Then you, as a piece, will disappear as well."`
-`".........There's no goal you'll be capable of appreciating—such a thing is utterly...`
+` Then {i:you, as a piece, will disappear as well}."`
+`".........There's no goal you'll be capable of appreciating—such a thing is {i:utterly}...`
 `.........no.`
 ` I'll proclaim it upon my name.`
-` Upon the name of the Witch of Certainty, the Witch of the Absolute, Lambdadelta!`
-` I proclaim, with absolute certainty, that such a thing does not exist...!"`
+` Upon the name of the Witch of Certainty, the Witch of the Absolute, {f:5:Lambdadelta}!`
+` I proclaim, {i:with absolute certainty}, that such a thing does not exist...!"`
 `".....................No........."`
 `"That's Bern's lie.`
 ` ......Or should I call it speaking in riddles?`
@@ -836,7 +836,7 @@
 ` no matter what victory I secure,`
 ` ......my family won't come back to me.........?"`
 `"No, they won't!`
-` For certain!`
+` For {i:certain}!`
 ` Oh‐hoh‐hoh‐hoh‐hoh‐ho!!`
 ` The Witch of Certainty is telling you it's for certain!"`
 `"Do you know how incredible that is?`
@@ -848,7 +848,7 @@
 ` I do have one nice little proposal for you."`
 `.........Not good.`
 `{n}...I'm getting completely swept up......`
-`I knew I shouldn't have listened, ......and now the witch Lambdadelta is starting to suck me in......!`
+`I knew I shouldn't have listened, ......and now the witch {f:5:Lambdadelta} is starting to suck me in......!`
 `"My opponent is Bern, not you.`
 ` I said just now that it's possible for there to be a subject that benefits us both.`
 ` I've been saying since the beginning that that's what I want to talk about.`
@@ -861,7 +861,7 @@
 `I don't have a clue anymore.`
 `{n}......I believed that I was Ange.`
 `But at some point, I stopped being Ange.`
-`That's right, I'm Ange.`
+`That's right, I'm {f:5:Ange}.`
 ` Not Ange...!`
 `Who am I?`
 ` I'm not my parents' daughter, nor my brother's little sister.`
@@ -891,7 +891,7 @@
 `.........the witch's...`
 `......furniture.`
 `"Lemme change the subject a bit, 'kay?`
-` ......Actually, I want this game to continue as a draw for all eternity.`
+` ......Actually, I {i:want} this game to continue as a draw for all eternity.`
 ` An unending game is an eternal cage.`
 ` ......An absolute locked room, which will never open for all time, and which will finally make Bern surrender."`
 `"......The thing is, Beato does want to win, in a way.`
@@ -944,16 +944,16 @@
 `I could feel the chaos pouring from my eyes as a hot liquid...`
 `{n}The heat of it......felt like it was going to burn my face...`
 `"Think about it......`
-` Ange Beatriceeeee...`
-` Since Bernkastel's goal is to end the game and end the world where you and Battler can interact, why should you be on her side...?"`
+` {f:5:Ange Beatriceeeee}...`
+` Since {f:5:Bernkastel}'s goal is to end the game and end the world where you and Battler can interact, why should you be on her side...?"`
 `"......That girl was tricking you, you know?`
 ` She made it look like you might be saved if you became her piece.`
 ` But I won't deceive you there!"`
-`"......So I'll say it, Ange.`
+`"......So I'll say it, {f:5:Ange}.`
 ` Become my chess piece.`
 ` Unlike Bern, I won't offer you false rewards that you'll absolutely never receive."`
-`"As long as you become my piece, and help me so that this game is certain never to end,`
-` I'll grant you a certainly continue!"`
+`"As long as you become my piece, and help me so that this game is {i:certain} never to end,`
+` I'll grant you a {i:certain} promise, upon my name, that this world will {i:certainly} continue!"`
 `"That's not all.`
 ` I'll add on a bonus, too.`
 ` The rule that binds you.`
@@ -975,5 +975,5 @@
 ` ......As long as you don't lend a hand, Battler will be unable to win against Beato for all eternity."`
 `"See?`
 ` See how eeeeasy it is?`
-` ......*giggle*giggle*, hohhohohoho, ahhahhahahahahaha‐hah‐hah‐hah‐hah‐hah‐hah!`
+` ......*giggle*giggle*, hohhohohoho, ahhah{0}haha{0}ha{0}ha{0}haha‐hah‐hah‐hah‐hah‐hah‐hah!`
 ` Kah‐hah‐hah‐hah‐hah, kyaaa‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah!!"`

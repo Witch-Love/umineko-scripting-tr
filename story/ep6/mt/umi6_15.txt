@@ -1,8 +1,8 @@
 `The entrance to the mansion was locked, but Erika had a master key, so she opened it without any trouble.`
 `She had gotten Krauss and the others to take the master keys from the servants,`
 ` and at that time, she had used a little sleight of hand to pilfer one of them...`
-`"Well then.`
-` Where shall we go first?"`
+`"Well {f:5:then}.`
+` Where shall we go {f:5:first}?"`
 `"Why ask?`
 ` ......Let's go and hear Battler‐san's answer."`
 `Grinning, Erika cut across the entrance hall, passed by the dining hall, and headed deeper and deeper into the mansion.`
@@ -10,7 +10,7 @@
 `Battler could put off deciding whether the seals would remain intact or not until the moment right before Erika witnessed them.`
 `However, once she did witness them, ......the Game Master would have to show what had happened to them.`
 `In the witch's game they were in now, ......the simple act of going to check the seals around the guest room was an attack.`
-`".........Are you ready, Lord Battler?"`
+`".........Are you ready, Lord {f:5:Battler}?"`
 `"Yeah.`
 ` ......Or as you would say it,`
 ` ............come, step forward."`
@@ -24,7 +24,7 @@
 `Erika dashed down the hallway with a sickening smile and clung to the guest room door like a spider.`
 `Then, she closely examined the seals she had placed retroactively.`
 `"............Heh...`
-`...heheheheheheheheeheheheheheehheh!`
+`...heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eeh{0}heh!`
 ` ......Are you sure...?`
 ` .........Are you sure,`
 ` ...Battler‐saaaaaaan...?!"`
@@ -44,13 +44,13 @@
 ` I can search for a way out all I want to later...!`
 ` I managed to do that with Kinzo's study last time...!`
 ` .........It'll be fine... I can do this...! I can do it!!`
-` Do your worst, Erikaaaaaaaaaaaa!!!"`
-`"undamaged.`
-` Since the time Lady preserved."`
+` Do your worst, Erikaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
+`"{p:1:We have confirmed that the seals to the guest room are {f:5:undamaged}.`
+` Since the time Lady {f:5:Erika} confirmed Battler's presence, this locked room has been {f:5:preserved}}."`
 `"<Good>!!`
 ` I'm breaking the seals!!`
 ` Rip, tear!!`
-` Heh, hehihihihihihihihihihihi!!!"`
+` Heh, hehi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!!"`
 `Erika destroyed the duct tape seal on the door in ecstasy...`
 `It looked as though the intellectual rapist had finally laid her true nature bare.`
 `"......Okay,`
@@ -58,13 +58,13 @@
 ` Show me,`
 ` ......Battler‐san,`
 ` ......your naked scenario...!!`
-` Hehihihahahaahaaaaaaaaahhh!!!"`
+` Hehihi{0}ha{0}ha{0}haa{0}ha{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
 `Like a ruffian pushing down a weak girl,`
 ` ......Erika mercilessly and greedily threw the door open.`
 `Then, finally, ......the inside of Battler's guest room was observed by Erika.`
 `Battler had to show it.`
 `.........Was there a corpse, or wasn't there?`
-`"<Come ooooooooooooooon>, Battleeeeeeeeerrrrrrrr!!"`
+`"<Come ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon>, Battleee{-}e{-}e{-}e{-}e{-}e{-}er{-}r{-}r{-}r{-}r{-}r{-}r{-}r!!"`
 `"Aaaaaaaaaaahhh, here's my respooooooonse!!"`
 `Battler grabbed a black piece from the board and raised it high.`
 `......Aah, ......that piece.........`
@@ -76,7 +76,7 @@
 `It was pitch black, and nothing could be seen.`
 ` ......However, there was a light switch just off to the side of the entrance.`
 `If that was pressed, the room would be lit up, and everyone would see whether or not there was a corpse on the bed.`
-`".........Should I turn on the lights?"`
+`".........Should I turn on the {f:5:lights}?"`
 `"No, ......wait a second, please.`
 ` .........Battler‐san, I have a proposal."`
 `"............Let me hear it."`
@@ -88,8 +88,8 @@
 `"Heheh......"`
 `"......I'm seriously regretting it now.`
 ` ......You were acting so miserable that I fell for it completely, ......and I gave you a ridiculous privilege."`
-`".........It was your arrogance.`
-` ......It will cost you dearly."`
+`".........It was your {f:5:arrogance}.`
+` ......It will cost you {f:5:dearly}."`
 `"..................Damn......it......"`
 `"......So, ...what is your proposal?"`
 `With a firm voice, Beato urged her to continue.`
@@ -134,15 +134,15 @@
 `"......Th‐that seems reasonable."`
 `"There's nothing special about this.`
 ` ......Back when the old you was the Game Master,`
-` you were under the observation of your guardian, Lady Lambdadelta.`
+` you were under the observation of your guardian, Lady {f:5:Lambdadelta}.`
 ` She judged all your red truths to be valid."`
-`".........So, you're telling us to show Lambdadelta our cards?"`
+`".........So, you're telling us to show {f:5:Lambdadelta} our cards?"`
 `"I've been looking at them since the beginning.`
 ` ......It's okay, don't worry.`
 ` I'm impartial in my judgments."`
 `"C‐can you say that with the red truth...?"`
 `"Yep.`
-` I swear that I am impartial in my judgments.`
+` {p:1:I swear that I am impartial in my judgments}.`
 ` .........I was very impartial in the last game, wasn't I?"`
 `"......That goes double for trials where things will be interesting either way, doesn't it?`
 ` .........Accept her challenge, Battler.`
@@ -156,7 +156,7 @@
 `"Then I'll come around to your side.`
 ` ......Let me take a look at your hand.`
 ` ...............Hmmmmm......?"`
-`Lambdadelta understood what Battler had up his sleeve.`
+`{f:5:Lambdadelta} understood what Battler had up his sleeve.`
 `......And she confirmed that Erika's first move had indeed gone straight through his heart.`
 `Just as Erika had guessed,`
 ` Battler was alive, and after Erika had examined his "corpse", he had slipped out of the room,`
@@ -246,7 +246,7 @@
 ` Then, both players, begin!`
 ` Erika goes first, right?`
 ` No, maybe we start by checking the bed—see what Battler's staking on this?!"`
-`"Yeah, let's start by checking the bed for Battler.`
+`"Yeah, let's start by checking the {i:bed} for Battler.`
 ` ......Erika, begin."`
 `"Leave it to me, my master!`
 ` <Light>...<on>!"`
@@ -258,11 +258,11 @@
 `...was......`
 `".........Dlanor.`
 ` Confirm it with the red."`
-`"Yes.`
+`"{f:5:Yes}.`
 ` ......Ushiromiya Battler—"`
 `"No, it's my move.`
 ` ......I'll say it.`
-` ...............Ushiromiya Battler is not on the bed."`
+` ...............{p:1:Ushiromiya Battler is not on the bed}."`
 `"<Good>.`
 ` .........You did well not to run away from the fight.`
 ` I'm impressed."`
@@ -271,7 +271,7 @@
 `"*giggle* No one would raise the stakes unless they felt confident in their advantage."`
 `"......Dlanor.`
 ` Keep a record."`
-`"As you wish."`
+`"As you {f:5:wish}."`
 `At Dlanor's nod, Cornelia, who was hanging back, started taking a record.`
 `She wrote down that Battler's corpse, which should have been on the bed, was not,`
 ` ......and also that Battler hadn't backed down from this locked‐room game...`
@@ -287,14 +287,14 @@
 ` and Dlanor made Swiss cheese of her, right...?`
 ` I guess this is revenge...*giggle*..."`
 `"Before I start searching, I have one blue truth I can use without a search.`
-` There is a possibility of a hidden door X that is impossible to discover.`
-` He's hidden behind that, so it is impossible for me to find him."`
-`"`
-` It is forbidden for hidden passages to exist.`
+` {p:2:There is a possibility of a hidden door X that is impossible to discover.`
+` He's hidden behind that, so it is impossible for me to find him}."`
+`"{p:1:Knox's 3rd:`
+` It is forbidden for hidden passages to exist}.`
 ` ......That right?"`
 `"......`
-`No hidden places that are impossible for Erika‐san to find exist inside the guest room."`
-`"Knox's 3rd, ......valid."`
+`{p:1:No hidden places that are impossible for Erika‐san to find exist inside the guest room}."`
+`"Knox's 3rd, ......{f:5:valid}."`
 `"<Good>.`
 ` ......Then let's get started with the search."`
 `......Erika slowly began to walk around the room......`
@@ -306,13 +306,13 @@
 `.........where each breath made her tense...`
 `Even the quiet sound of the rain......was distracting......`
 `"Now that I've searched the room, I request a description of its layout."`
-`"......The guest room is divided into two rooms, the bedroom and the bathroom.`
-` Currently, you have searched the entire bedroom section.`
-` There is only one exception."`
+`"......The guest room is divided into two rooms, the bedroom and the {f:5:bathroom}.`
+` Currently, you have searched the entire bedroom {f:5:section}.`
+` There is only one {f:5:exception}."`
 `"............I'll leave that one place be for the time being.`
 ` So, were there any irregularities discovered in the bedroom?"`
-`"There were none.`
-` bedroom."`
+`"There were {f:5:none}.`
+` {p:1:Except for one location, there is no one to be seen in the {f:5:bedroom}}."`
 `"......What's this "except for one location" business?`
 ` Stop being annoying and make it public."`
 `"There's a reason a face‐down card remains face down.`
@@ -323,9 +323,9 @@
 ` ......it would mean that he had managed to vanish from the locked room.`
 `.........Except for that single location which Erika had intentionally left unchecked......`
 `"I'm checking the bathroom."`
-`"......Lady Erika.`
-` ......The sound of water can be heard from inside.`
-` Also, there is a faint heat."`
+`"......Lady {f:5:Erika}.`
+` ......The sound of water can be heard from {f:5:inside}.`
+` Also, there is a faint {f:5:heat}."`
 `"Ooh......?`
 ` ......Don't tell me he's taking a shower...`
 ` Is it locked or anything...?"`
@@ -380,11 +380,11 @@
 ` Haah......haah!!"`
 `She finally closed the faucet and the heat from the hot water storm died down.`
 `......For a while, Erika was forced to cool her almost burnt arms under running water...`
-`"......What a calamity."`
+`"......What a {f:5:calamity}."`
 `"Would you like a bath?`
 ` I can wash your face with this brush."`
-`"Allow me to pass."`
-`"Oh. ......That's a shame."`
+`"Allow me to {f:5:pass}."`
+`"Oh. ......That's a {f:5:shame}."`
 `Erika had finally regained enough of her composure to be abusive......`
 `She closed the faucet completely, ......and silence returned to the bathroom.`
 `After that, all that remained was Erika's heavy breathing.`
@@ -395,19 +395,19 @@
 ` ...However, that wasn't here at the time I examined Battler's "corpse".`
 ` Therefore, the appearance of this trap proves that Ushiromiya Battler was alive.`
 ` ......Well, I never thought he was dead anyway."`
-`"......He merely decided to openly reveal a card that had already been exposed."`
+`"......He merely decided to openly reveal a card that had already been {f:5:exposed}."`
 `"Let's check the inside of the bathroom.`
 ` Was Battler seen?"`
-`"No.`
-` bathroom."`
+`"{f:5:No}.`
+` {p:1:No one was seen in the {f:5:bathroom}}."`
 `"<Good>.`
 ` With this, we...`
-`have confirmed that except for one location, Battler does not exist in any place inside the guest room."`
+`{p:1:have confirmed that except for one location, Battler does not exist in any place inside the guest room}."`
 `"......Give that a rest.`
 ` Just where is this one exception?"`
 `"A coffin.`
 ` .........Ushiromiya Battler's coffin, that is."`
-`"......Ashes to ashes, the dead to their coffins."`
+`"......Ashes to ashes, the dead to their {f:5:coffins}."`
 `".........This room is where you plan to finish me off, right?`
 ` ......Fine.`
 ` Let's have it."`
@@ -417,29 +417,29 @@
 `A cloud of gold butterflies gathered on the room's round table......and turned into a witch's chess board.`
 `It was finally.........time for the siege.`
 `"Blue truth.`
-` You did not vanish from this room.`
+` {p:2:You did not vanish from this room.`
 ` You just hid yourself to make it seem as though you'd disappeared from a locked room.`
-` The place you are hiding......is the "one exception" that I haven't investigated yet."`
+` The place you are hiding......is the "one exception" that I haven't investigated yet}."`
 `As Erika lightly raised her right hand, ......`
 `a single gold butterfly appeared from the darkness behind her,`
 ` ......flitted between the index finger and middle finger of Erika's raised hand, and became a white piece.`
 `Then, .........she lifted it high into the air......`
-`"This is the one exception.`
-` ......The walk‐in closet next to the entrance!!"`
+`"{p:2:This is the one exception.`
+` ......The walk‐in closet next to the entrance}!!"`
 `Bang!!`
 `.........Like a white bolt of lightning striking the earth,`
 ` ......the white piece...`
 `...homed in on a weak spot in Battler's territory,`
 ` ......and slammed onto the board......!`
-`"Yes, it is here...!!!"`
+`"Yes, it is {f:5:here}...!!!"`
 `With a crash, the door of the closet, which was just off to the side of the guest room's entrance, was impaled by a spear that represented the blue truth.`
 ` Dlanor had spun around and thrown it.`
 `The door was completely pierced,`
 ` ......and the spear stuck in so deeply that if a human had been hiding in it, it would have struck through their chest as well.`
 ` ......Its still quivering handle was a testament to the force with which it had been thrown.`
 `"......................................."`
-`"this.`
-` You are currently hiding in here."`
+`"{p:2:There are no places in which to hide other than {f:5:this}.`
+` You are currently hiding in {f:5:here}}."`
 `".........What do you say, Battler‐san...?`
 ` Have you been struck through the heart in a single blow,`
 ` for a literal smothered mate...?"`
@@ -464,8 +464,8 @@
 ` .........Who will be the liar, I wonder......?"`
 `The air crackled and sparked.`
 ` ......The silence would hurt one's skin.`
-`"Then go ahead.`
-` ......It is your turn."`
+`"Then go {f:5:ahead}.`
+` ......It is your {f:5:turn}."`
 `".........It's useless.`
 ` Your lowly coffin won't be able to trap Battler‐san."`
 `"Here's my response."`
@@ -474,10 +474,10 @@
 `A gold butterfly that had appeared from the darkness rested on Battler's finger and became a black piece.`
 `......That black piece was the king, .........which represented Battler himself.`
 `"............You assert...`
-`...that "Battler is hiding in the closet", ......and this is my response.`
+`...that "{p:2:Battler is hiding in the closet}", ......and this is my response.`
 ` .........Take this."`
-`"Ushiromiya Battler does not exist within the guest room.`
-` ......There are no exceptions, including the closet."`
+`"{p:1:Ushiromiya Battler does not exist within the guest room.`
+` ......There are no exceptions, including the closet}."`
 `Like a black bolt of lightning this time,`
 ` ......Battler slammed his piece down on the white piece of Erika's that had cut deep behind his lines, ......smashing that piece completely.`
 `As gold sprayed everywhere and a faint cloud of gold dust hung in the air,`
@@ -496,12 +496,12 @@
 `"Let me announce a retroactive move.`
 ` This occurs back in the very beginning, right after I broke the seals and entered this room.`
 ` ......`
-`At that time, I immediately closed the door, reset the chain, and sealed this room."`
+`{p:1:At that time, I immediately closed the door, reset the chain, and sealed this room}."`
 `"Objection.`
-` Gohda severed the chain back when the crime was first discovered.`
-` Since the chain lock is not functioning, it is impossible to use it to create a seal."`
+` {p:2:Gohda severed the chain back when the crime was first discovered.`
+` Since the chain lock is not functioning, it is impossible to use it to create a seal}."`
 `"Objection overruled.`
-` Erika repaired the chain lock.`
+` {p:1:Erika repaired the chain lock}.`
 ` ......See?"`
 `"......That's impossible.`
 ` ......How could she have repaired a brass chain?"`
@@ -509,26 +509,26 @@
 ` ......Have you forgotten, Beato?`
 ` The duct tape seals.`
 ` ......`
-`Erika used that duct tape to join the two cut ends of the chain together, "sealing" them.`
-` In other words, the chain was repaired by the duct tape, and this room once again became a locked room locked from the inside."`
+`{p:1:Erika used that duct tape to join the two cut ends of the chain together, "sealing" them.`
+` In other words, the chain was repaired by the duct tape, and this room once again became a locked room locked from the inside}."`
 `"O‐objection.`
 ` Erika‐san has already used up her duct tape seals, hasn't she...?!`
 ` She shouldn't be able to use them anymore...!"`
 `"Objection overruled.`
-` The use of the duct tape wasn't limited by the number of strips, right?`
+` {p:1:The use of the duct tape wasn't limited by the number of strips, right?`
 ` It was by the number of rooms.`
 ` ......The only restriction was to limit it to only three rooms.`
 ` ......Erika chose this guest room to be one of those rooms.`
-` So, Erika has the right to seal as many places as many times as she wants within this room."`
+` So, Erika has the right to seal as many places as many times as she wants within this room}."`
 `".........ng......gah........."`
 `"......That's right.`
 ` ......I......gave her permission to do that."`
-`"This is the price you pay for your arrogance.`
-` .........Pity is the evil liquor that the arrogant most prefer."`
+`"This is the price you pay for your {f:5:arrogance}.`
+` .........Pity is the evil liquor that the arrogant most {f:5:prefer}."`
 `"So,`
 ` with this retroactive move,`
-` I proclaim that the chain lock has been repaired by the duct tape seal and has regained its original functionality.`
-` And, thanks to that, I locked the room upon entering it and made this guest room a locked room from the inside once more."`
+` {p:1:I proclaim that the chain lock has been repaired by the duct tape seal and has regained its original functionality.`
+` And, thanks to that, I locked the room upon entering it and made this guest room a locked room from the inside once more}."`
 `The white piece Erika held aloft......represented the seal formed by the chain lock.`
 `This move would draw out Battler's king and drag it to the guillotine!`
 `"Die, Battler."`
@@ -553,7 +553,7 @@
 `to fully explain almost all of the tricks behind the crimes that were to follow.`
 `......Losing the battle over this locked room would steal a major deciding piece from Battler...`
 `But what if...`
-`......he was able to respond to the repetition request?`
+`......he {i:was} able to respond to the repetition request?`
 `What if he could say "the lock created by the chain is still intact"?`
 `That......would be fatal to Erika.`
 `It had already been shown with the red truth that this guest room could only be made into a locked room from the inside.`
@@ -568,7 +568,7 @@
 `Because after his escape, he wouldn't be able to set the chain lock again.`
 `The new riddle would put Erika in a much more difficult situation, but it would require him to construct a different escape method.`
 `Even a move such as him leaving the closet during the chaos in the bathroom and hiding in another place—say, under the bed—`
-`wouldn't work because he had already proclaimed that "Battler does not exist within the guest room".`
+`wouldn't work because he had already proclaimed that "{p:1:Battler does not exist within the guest room}".`
 `If he could construct logic that allowed him to escape from here while leaving the chain lock intact,`
 ` ............then Erika would be the one facing a fatal blow.`
 `However, ......if he didn't have that logic.........if he failed...`
@@ -658,8 +658,8 @@
 ` ......share it with me now......!`
 `"......So, Battler‐san?`
 ` Let's have that second move that you predicted you would checkmate me on."`
-`"Please provide your answer to Lady request.`
-` ......Will you decline...?!"`
+`"Please provide your answer to Lady {f:5:Erika}'s repetition {f:5:request}.`
+` ......Will you {f:5:respond}, ......or will you {f:5:decline}...?!"`
 `Slowly......`
 `...Battler's hand.........stretched out to his king piece on the board.`
 `He......lifted it up...`
@@ -675,17 +675,17 @@
 `......you're through.`
 ` .........Here it comes,`
 ` ......Furudo...`
-`...Erikaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!"`
+`...Erikaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
 `Battler's king became a black lightning bolt and crashed down onto the board...`
 `Where had it gone?!`
 `On top of the piece of the chain lock?`
 `{n}Or past that piece...?`
 `".........I will respond to the repetition request.`
-` The lock caused by the chain is intact."`
+` {p:1:The lock caused by the chain is intact}."`
 `Battler's king...`
 `......had left the chain lock piece in its place...`
 `......and had...`
-`...slipped past it......`
+`...{i:slipped past it}......`
 `"Heh, ......heheheheheheheh......`
 ` ......Yes, it sure would be cool if you could say that the chain lock was still set, wouldn't it......?`
 ` That certainly would be cool, I admit......`
@@ -703,13 +703,13 @@
 ` we`
 ` call`
 ` him,`
-` foooooooooooooooooooooooooooool!`
+` foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oool!`
 ` I file a motion for a logic error!!"`
 `"With that last red truth, you have just cut off your own logic!!`
 ` May the impartial judge issue a judgment on this matter immediately, please!!`
-` Great Lady Lambdadeltaaaaaaaaaaaaaaaa!!!"`
+` Great Lady {f:5:Lambdadeltaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa}!!!"`
 `"Motion received.`
-` ......Lambdadelta.`
+` ......{f:5:Lambdadelta}.`
 ` Does this make logical sense? Your inspection, please."`
 `"Motion received.`
 ` ............Battler.`
@@ -753,7 +753,7 @@
 `...and finally reached the miracle that I so wanted you to find.`
 ` ......So, ......I'd like to believe.........that you'll accomplish a miracle...`
 `......once again...!"`
-`".........The woman called Beatrice...`
+`".........The woman called {f:5:Beatrice}...`
 ` ...She fought on that same border between reason and madness...`
 `......the whole time.`
 ` ......She fought with a mixture of anger, sadness, and several other emotions towards me that can't be described with words.`
@@ -771,32 +771,32 @@
 `"She entrusted me with this game board.`
 ` ......That's why...I'm going to win.`
 ` .........So, I need you alone to believe in me.`
-` ......Beatrice..."`
+` ......{f:5:Beatrice}..."`
 `"If believing......will bring about a miracle..."`
 `"........................Please."`
 `"I'll believe in you......!!`
 ` Battler‐san...!!!"`
-`"Aaaaaaaaaaaaaaahh, this is pissing me ooooooooooooff!!!`
-` Please just check it already, Lady Lambdadelta!!`
-` There is no valid logic!`
+`"Aaaaaaaaaaaaaaahh, this is pissing me ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooff!!!`
+` Please just check it already, Lady {f:5:Lambdadelta}!!`
+` There {i:is} no valid logic!`
 ` There doesn't exist any way to get out of this locked room!!`
 ` You were overeager, Battler‐san!`
 ` Sure, if you could win with this, that'd be cool!"`
 `"If you managed to disappear even though the chain was still set, that'd be amaaaazing! So cooool! How mysterious! Hold me!`
-` Squeeeeeeeeeeeeeee! Aaahhahhaaaaaaaaahhh!!`
-` Like hell you caaaaaaaaaaaaan!!`
-` Like hell you can do that!!`
+` Squeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee! Aaah{0}hah{0}haa{0}a{0}a{0}a{0}a{0}a{0}aahhh!!`
+` Like hell you caa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan!!`
+` Like {i:hell} you can do that!!`
 ` If you could do that, you really would be a witch!`
 ` If you could vanish your way out of this locked room like a puff of smoke, I'd have to acknowledge it!`
-` It'd be the work of a wiiiiiiiitch!!!"`
-`"Quiet, Lady Erika!`
-` ......Lady inspection."`
+` It'd be the work of a wii{-}i{-}i{-}i{-}i{-}iitch!!!"`
+`"Quiet, Lady {f:5:Erika}!`
+` ......Lady {f:5:Lambdadelta} is conducting her {f:5:inspection}."`
 `".................................`
 ` ...............Pass through, one move.`
 ` ...Go back,`
 ` ......corner."`
-`With sweat gathering on her forehead, ......Lambdadelta inspected the movements of the pieces from Battler's side.`
-`She was as accurate and meticulous as an archaeologist, ......just as Bernkastel had told her to be.`
+`With sweat gathering on her forehead, ......{f:5:Lambdadelta} inspected the movements of the pieces from Battler's side.`
+`She was as accurate and meticulous as an archaeologist, ......just as {f:5:Bernkastel} had told her to be.`
 `"................................."`
 `After gulping stiffly,`
 ` ......Lambda looked between the formation of the pieces on the board...`
@@ -814,12 +814,12 @@
 `"Wh‐.........which way am I supposed to take that...?!!"`
 `"It was fun.`
 ` ......Now, this is the end."`
-`"For hell's sake, ......which way am I supposed to take thaaaaaaaaaaaaaat?!!"`
+`"For hell's sake, ......which way am I supposed to take thaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaat?!!"`
 `"Silence!!`
 ` I have finished inspecting Battler's move.`
 ` .........The verdict is—"`
-``
-`"......Valid."`
+`{a:c:`
+`"......Valid."}`
 `"Va......lid.........?"`
 `"......You lie...!!"`
 `"I judge it to be valid.`
@@ -834,20 +834,20 @@
 ` If only I had believed more strongly, ......you wouldn't have been cornered like this......!! Waaaaaaaahh!!"`
 `Beato flew onto Battler's chest, sobbing...`
 `Erika staggered backwards, ......shaking her head back and forth dizzily.`
-`And Bernkastel...?`
+`And {f:5:Bernkastel}...?`
 `............Her face was like an expressionless mask.`
 `Then, ......slowly...`
 `......it became a smile...`
 `And for some reason,`
 ` ......it seemed the sign of some horrible emotion......`
-`"Well......done......`
+`"Well......{f:5:done}......`
 ` ......To think...`
 `...that you escaped the room...`
 `...without removing the chain...`
-` ......Simply splendid......"`
+` ......Simply {f:5:splendid}......"`
 `With her small hands, .........Dlanor slowly started to applaud quietly.`
 `......She was followed by Gertrude, and then Cornelia.`
-`......And then by Beato and Lambdadelta too.`
+`......And then by Beato and {f:5:Lambdadelta} too.`
 `{n}.........Applause......filled the room.........`
 `"O‐......Onii‐chan......`
 ` ......H‐......how did you........."`
@@ -858,7 +858,7 @@
 `...possible......`
 ` ......Eee...`
 `eeeeeeeeeeek.........!"`
-`As Lambdadelta watched Erika, who was stunned and moaning in shock from despair she couldn't accept,`
+`As {f:5:Lambdadelta} watched Erika, who was stunned and moaning in shock from despair she couldn't accept,`
 ` ...she had to take her hat off to the strength of Battler's heart and intelligence at this critical moment...`
 `...and to the power of his miracles.`
 `......Incredible, ......Ushiromiya Battler.`
@@ -902,25 +902,25 @@
 ` .........the one exception that Erika left unchecked, and is there still......`
 `Kyrie...`
 `......saved......Battler............`
-``
-``
+`{a:c:`
+`{p:1:`
 `Ushiromiya Kyrie`
-` cannot save Battler`
-`.`
+` {f:5:cannot save} Battler`
+`}.}`
 `............Huh.........?`
 `"Wh‐......what do you mean......?"`
 `"......`
-`Ushiromiya Kyrie......cannot save Battler."`
+`{p:1:Ushiromiya Kyrie......cannot save Battler}."`
 `"...Wh‐......why not?!`
 ` There's no red saying that Kyrie can't save Battler!`
 ` Wait a second, ......how are you using the red truth?!"`
 `"It's valid.`
 ` .........Dlanor's red truth is valid."`
-`"Applying for authorization to unsheathe the Red Key."`
+`"Applying for authorization to unsheathe the Red {f:5:Key}."`
 `".........Granted.`
 ` Dlanor, do it, please."`
 `"H‐............how......?`
-` ......How...can you authorize that?!?!"`
+` ......How...can {i:you} authorize that?!?!"`
 `"It's valid.`
 ` ......I guarantee this red truth by impartial judgment."`
 `".........Without telling us your reason?!"`
@@ -944,25 +944,25 @@
 `"Then let's switch it to Natsuhi.`
 ` ......Ushiromiya Natsuhi switched places with Battler...!"`
 `"Dlanor. ......Do it."`
-`"As you wish."`
+`"As you {f:5:wish}."`
 `Dlanor's red longsword......smashed Natsuhi's piece into little bits...`
 `How...?!`
 `How...`
 `...can Erika deny this logic...`
 `...without the detective's authority?!`
-`"Ushiromiya Natsuhi cannot save Battler."`
+`"{p:1:Ushiromiya Natsuhi cannot save Battler}."`
 `"Th‐then Eva!`
 ` Ushiromiya Eva!!"`
-`"Ushiromiya Eva cannot save Battler."`
+`"{p:1:Ushiromiya Eva cannot save Battler}."`
 `"Then Rosa!`
 ` Maria!!"`
-`"eath.`
-` Neither Rosa nor Maria can come to his aid.`
-` ......Death‐death‐death‐death‐`
-`death‐death‐death‐death!`
+`"{p:1:Save your br{f:5:eath}.`
+` Neither Rosa nor Maria can come to his ai{f:5:d}.`
+` ......{f:5:Death‐death‐death‐death‐}`
+`{f:5:death‐death‐death‐death}!`
 ` <Die the DEATH>!`
 ` <Sentence to DEATH>!`
-` <Great equalizer is the DEATH>!!"`
+` <Great equalizer is the DEATH>}!!"`
 `"O‐objection!`
 ` Erika‐san doesn't have the detective's authority!`
 ` ......How can she use any red except for the duct tape seals...?!"`
@@ -971,14 +971,14 @@
 ` ............There is a way.`
 ` ......Isn't there?"`
 `"Yes, ......there is.`
-` There are......a few exceptional red truths......that even humans without the detective's authority can use."`
+` There are......a few exceptional red truths......that even {y:0:Human}{n:0:human}s without the detective's authority can use."`
 `"......That's crazy...`
 ` ......There's no way something like that exists!"`
-`"Yes, such a thing cannot exist.`
-` ......However, ......there is a certain action permissible only to humans without the detective's authority,`
+`"Yes, such a thing cannot {f:5:exist}.`
+` ......However, ......there is a certain action permissible only to {y:0:Human}{n:0:human}s without the detective's authority,`
 ` ......and it can become a truth of such overwhelming credibility...`
-`......that witches can easily raise it to the level of red truth."`
-`"A certain action permissible only to humans who...`
+`......that witches can easily raise it to the level of red {f:5:truth}."`
+`"A certain action permissible only to {y:0:Human}{n:0:human}s who...`
 `...aren't the detective.........?"`
 `".....................Y‐......you don't mean...`
 ` ......Erika......you didn't......"`
@@ -997,9 +997,9 @@
 ` ...I am no longer capable of making that proclamation."`
 `"Knox's...`
 `......which one was it......"`
-`"Knox's 7th.`
+`"{p:1:Knox's 7th.`
 ` .........It is forbidden for the detective to be...`
-`the culprit."`
+`the {f:5:culprit}}."`
 `"B‐but that's...`
 `......wh‐.........whaaat?!"`
 `......Finally, Beato realized everything.`
@@ -1008,7 +1008,7 @@
 `That is Knox's seventh commandment.`
 `{n}......It is forbidden for the detective to be the culprit...`
 `"......In this game,`
-` ......it is impossible for humans without the detective's authority to examine corpses perfectly."`
+` ......it is impossible for {y:0:Human}{n:0:human}s without the detective's authority to examine corpses perfectly."`
 `"......So, ......there have been several tricks where the dead have all been faking and walking around where they please.`
 ` ......You probably thought you could use that logic to create several impossible crimes after this."`
 `"......When I said that I wouldn't make the detective proclamation,`
@@ -1027,7 +1027,7 @@
 `and that in my pride, I tried to show you some mercy.`
 ` .........That's right.`
 ` ......Even without the detective's authority, ......there is a way.`
-` ......A way for a human to make sure that a corpse examination cannot fail."`
+` ......A way for a {y:0:Human}{n:0:human} to make sure that a corpse examination cannot fail."`
 `Is the human lying in front of you alive or dead?`
 `You can answer that question by examining the corpse.`
 `With just a quick glance, your chances of being right are fifty‐fifty either way.`
@@ -1048,14 +1048,14 @@
 `"So, I dashed all over the mansion,`
 ` visited all the crime scenes,`
 ` and............`
-`I killed everyone all over again!"`
+`{p:1:I killed everyone all over again}!"`
 `"Wh‐......what on.........earth..............."`
 `".........Of course, she couldn't just kill them however she liked.`
 ` ......It had to be a perfect way of killing, good enough that their deaths could be determined with the red truth.`
 ` ......Erika made sure of that."`
 `"The manner in which they were each killed differed,`
 ` .........but afterwards,`
-` she completely severed the heads of all those she killed.`
+` {p:1:she completely severed the heads of all those she killed}.`
 ` ......That method of killing is solid enough to be called a red truth, right...? Lambda......?"`
 `"......I‐...............it's valid.`
 ` No human could survive...`
@@ -1072,7 +1072,7 @@
 ` ......What kind of...`
 `mystery would...`
 `ever allow something like that......?"`
-`"I can't believe I'm hearing that from a witch on the fantasy side.`
+`"I can't believe I'm hearing {i:that} from a witch on the fantasy side.`
 ` Oh, and don't worry.`
 ` I didn't kill you.`
 ` ......I found you last and didn't have time to sever your head,`
@@ -1087,15 +1087,15 @@
 ` ...aaah, is she really capable of an expression even uglier than all the ones before......?`
 `With that...`
 `...greatest of all faces, ......she spoke.`
-`"All five people I killed......were very much alive until the moment I killed them.`
+`"{p:1:All five people I killed......were very much alive until the moment I killed them}.`
 ` ......Everyone faithfully played dead as best they could until the moment just before I killed them, okay?"`
 `".........Maria‐san was quite the little trouper.`
 ` .........After all, even though her mother had already been killed in the same room,`
 ` .........she kept on playing dead without even noticing......`
-` *giggle*, *giggle*giggle*—"`
+` *giggle*, {nobr:*giggle*giggle*—}"`
 `"Hahahahaha,`
-` ahhahahahahahahahahaha...`
-`hehahyahhahahahaahahaaahaaaah!!"`
+` ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...`
+`he{0}ha{0}hyah{0}ha{0}ha{0}ha{0}haa{0}ha{0}haaa{0}haaaah!!"`
 `They're devils...`
 `Up to now,`
 ` ......many witches and demons have appeared in this tale,`
@@ -1104,7 +1104,7 @@
 `...a true devil......`
 `"You bastards......`
 ` ......You bastards......`
-` ...Uu......uugyaaaaaaaaaaaaaaaaahhh!!!"`
+` ...Uu......uugyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
 `At last, Beato understood the entire plot of this tale.`
 `This tale......was just the story of a prank.`
 `Someone must have come up with the idea of playing a slightly harsh trick on their inconsiderate guest,`
@@ -1135,8 +1135,8 @@
 `And then...`
 `......this......devil...`
 `............turned it into a genuine murder case......!`
-`"......You do have the right to speak ill of Lady Erika.`
-` ......However, ......at this moment, you have the obligation to present new logic that does not lead to any contradictions."`
+`"......You do have the right to speak ill of Lady {f:5:Erika}.`
+` ......However, ......at this moment, you have the obligation to present new logic that does not lead to any {f:5:contradictions}."`
 `"Ashes to ashes, dust to dust.`
 ` Corpses to corpses...!`
 ` So, Battler‐san? Let's continue the game!!`
@@ -1144,7 +1144,7 @@
 ` If you don't, your trick.........will become a logic error......"`
 `There's now......no one who can come to the rescue.`
 `Erika's killed every last one of them!!`
-`"D‐......dammit......dammit, dammit, dammiiiiiiiiit!!"`
+`"D‐......dammit......dammit, dammit, dammii{-}i{-}i{-}i{-}i{-}i{-}i{-}it!!"`
 `"......Battler‐san, please, calm yourself...!`
 ` Now's the time to wipe our tears away and fight...!`
 ` Even if you've lost five pieces who can save you, there's still eleven in the guesthouse!"`
@@ -1152,28 +1152,28 @@
 ` ......Krauss, Hideyoshi, Rudolf, ......George, Jessica, Shannon, Kanon!`
 ` Genji, Gohda, Kumasawa, Nanjo!!`
 ` It doesn't matter who, as long as someone comes here!!`
-` Somebody, somebody, heeeeeeeeelp!!"`
-`"But there's no waaaaaayyyyyywehwehhwehhwwehwwehweehhh!!`
-` Take a look at thiiiiiiiiiis!`
+` Somebody, somebody, hee{-}e{-}e{-}e{-}e{-}e{-}e{-}elp!!"`
+`"But there's no waa{-}a{-}a{-}a{-}ayy{-}y{-}y{-}yy{0}weh{0}wehh{0}wehh{0}wweh{0}wweh{0}weehhh!!`
+` Take a look at thiii{-}i{-}i{-}i{-}i{-}iiis!`
 ` Gertruuuude,`
-` Corneliaaaaaaaaaaaaaaaaaaaa!!"`
+` Corneliaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!"`
 `""For your attention: we beg to inform you that we are here and ready.""`
 `"Bwaattleeer‐swaaaaaann!!`
-` You gotta seeeeeeeeeee thiiiis!!`
+` You gotta seee{-}e{-}e{-}e{-}e{-}e{-}eee thiiiis!!`
 ` Whaaaaaat'sssss the deeeeeeal?!"`
 `Erika, who was now so excited that her pronunciation was tumbling all over the place,`
 ` pointed at two doors.`
 `It was the hallway on the second floor of the guesthouse...`
 `{n}......They were in front of the cousins' room and the next room over.`
 `"Look, here, here!`
-` There's dooooooor!!`
+` There's {i:something} stuck to the {i:doo{-}o{-}o{-}o{-}oor}!!`
 ` Whuzzis?! Whuzzis?!`
-` Hey, do you know, Gertrooooooo-ood?!"`
+` Hey, do {i:you} know, Gertrooo{-}o{-}o{-}o{-}o{-}ood?!"`
 `"......For your attention: know that it is the duct tape seal of the cousins' room."`
 `"<OH YEAAAAHHH>!!`
 ` <VERY GOOOOOD>!!`
 ` <One more>!!`
-` Wuzzabout the thing on THIS doorrrrrrrrrrrr?!?!"`
+` Wuzzabout the thing on THIS doorrrr{-}r{-}r{-}r{-}r{-}r{-}rrr?!?!"`
 `"Be advised that it is the duct tape seal of the next room over."`
 `"<Oh, very GOOD>!!`
 ` Okay, you two!`
@@ -1182,13 +1182,13 @@
 ` So, what do you think of them...?!`
 ` Are they broken? Are they not broken...?`
 ` Please, the red truth, loudly so we all can hear!!"`
-`"" I beg to inform you of the following.`
-` Know that neither is broken.""`
-`"Know that an unbroken seal is proof that all have hitherto been denied passage."`
-`"It needs no second telling, but be advised that passing through without breaking the seal is impossible!!"`
-`"Good.`
-` ...Battler, it is as you see.`
-` ......There no longer exists anyone who can come to your aid."`
+`""{p:1:For your attention: I beg to inform you of the following.`
+` Know that neither is broken}.""`
+`"{p:1:Know that an unbroken seal is proof that all have hitherto been denied passage}."`
+`"{p:1:It needs no second telling, but be advised that passing through without breaking the seal is impossible}!!"`
+`"{f:5:Good}.`
+` ...Battler, it is as you {f:5:see}.`
+` ......There no longer exists anyone who can come to your {f:5:aid}."`
 `The victims of the first twilight have all been killed!`
 `{n}And the guesthouse is still sealed!!`
 `No one can come to the rescue...!!`
@@ -1200,7 +1200,7 @@
 `This resolved the confusion Cornelia had felt back then.`
 `Why wouldn't the human side player want as many free humans as possible?`
 ` That was a natural, simple question to ask.`
-`However, once you seal up all of the humans,`
+`However, once you seal up {i:all} of the humans,`
 ` ......there is no room for magic to intervene.`
 `Why is magic magic?`
 `{n}Because the people who saw it say that it was magic.`
@@ -1259,14 +1259,14 @@
 `"......However, there are conditions.`
 ` ......As I believe you know, these are all things you forced on yourself."`
 `"......First,`
-` this room is a locked room created from the inside.`
+` {p:1:this room is a locked room created from the inside.`
 ` The seals on the windows are intact, so there can be no escape from there.`
-` Of course, there is no way to escape by leaving through the bathroom."`
-`"......I'll make it simple.`
+` Of course, there is no way to escape by leaving through the bathroom}."`
+`"{p:1:......I'll make it simple.`
 ` There is no exit to escape from except for this door.`
 ` However, the chain lock on this door is set.`
 ` You can unset and reset it all you want, but you can only do so from the inside.`
-` Furthermore, you are free to go out through the door, but leaving while the chain lock remains unset will not count as an escape.`
+` Furthermore, you are free to go out through the door, but leaving while the chain lock remains unset will not count as an escape}.`
 ` You have to show that you can escape from this room with the chain lock still connected......!!"`
 `"......But...`
 `...he couldn't possibly......"`
@@ -1276,7 +1276,7 @@
 ` ......That one's in the bathroom."`
 `"My merciful master has arranged for a last way out if you fail to think of any trick to escape.`
 ` ......Please listen up!!"`
-`Bernkastel guided Battler to the bathroom.`
+`{f:5:Bernkastel} guided Battler to the bathroom.`
 `It was just a normal bathroom.`
 `The setup intended to surprise Erika and buy Battler time was no longer working.`
 `However, the bundle of wire and the nippers that had been used to prepare that trap...`
@@ -1311,7 +1311,7 @@
 `......you...`
 `......you...`
 `......aahh...`
-`...nngggyaaaaaaaaaaaaaaahhh......"`
+`...nngggyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh......"`
 `"It's the drain right there at the bottom of the bathtub.`
 ` You can get out through there without touching the chain lock.`
 ` But your body is a bit too big to get through this exit.`
@@ -1330,7 +1330,7 @@
 ` you've suddenly managed to escape from the locked room."`
 `"‘Oh, what do you know’ is right, my master...!`
 ` It looks like both siblings are going to end up the same way...!`
-` Heheh......heheheheheheheheheeheheheh!!"`
+` Heheh......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eheh!!"`
 `"But Bern...?`
 ` If he does it that way, the hand holding the nippers will be left at the end."`
 `"That's why we have the wire...`
@@ -1339,13 +1339,13 @@
 `"......If you can make yourself that small, I'd be happy to pull that wire from the hallway and save you."`
 `"My master, if you do that, I want it!!`
 ` Battler's wrist...`
-`eheheheheheheheheeheheheheheheh!!"`
+`eheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"`
 `"And what would you use that for...?`
 ` But no, I've already decided to use it as a back scratcher.`
 ` When the time comes, I'll scratch your back with it. What do you say?"`
 `"Y‐yeees, my master...`
 ` ...Master's going to scratch my back...`
-`with Battler's handhahahaaaaaaaaaaahaaaaaaaaaahhh!!"`
+`with Battler's handhaha{0}ha{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aha{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
 `"........Finding them annoying?`
 ` Irritating? Obnoxious?`
 ` ......Don't worry, it'll get quiet really soon.`
@@ -1361,7 +1361,7 @@
 `Then that's their parting gift to you.`
 `.........As long as you have hatred, you will be able to avoid giving up.`
 `Giving up has a completely different meaning here, okay...?`
-`.........Once you give up, still can't escape, and realize that hell is eternal,`
+`.........Once you give up, {i:still} can't escape, and realize that hell is eternal,`
 ` ......you'll wish you prepared yourself earlier.`
 `"Did you just call yourself a survivor......?`
 ` ......Then,`
@@ -1376,12 +1376,12 @@
 `".........And so, I need to constantly feel...truly feel that this isn't a dream...`
 ` ......Hey, ......are you guys......really.........real......?`
 ` ...You aren't just an insane delusion I'm having inside that hell, ......right......? Right? .........Right......?"`
-`There was something in Lambdadelta's pleading expression that sent shivers down the spine.`
+`There was something in {f:5:Lambdadelta}'s pleading expression that sent shivers down the spine.`
 `It was probably more terrifying than any threatening words she could have used with even the most vile expression on her face......`
 `It was time for Battler to realize.`
 `......A logic error isn't so sympathetic that you can just stick out your tongue,`
 ` ask for forgiveness, and say you'll be more careful next time......`
-`Even if you feel that the fight is at a point where you can't back down, risking a logic error by leaving things up to chance......is never......a risk you should take.`
+`Even if you feel that the fight is at a point where you can't back down, risking a logic error by leaving things up to chance......is {i:never}......a risk you should take.`
 `It was time for him to pay up and understand the true risk and terror implied by the words "betting one's life on a fight",`
 ` which must sound so exciting for a man......`
 `"Battler‐san, hang on in there...!`
@@ -1389,7 +1389,7 @@
 ` I'll devote everything I have to thinking of a trick to escape this room...!`
 ` I will come to save you...!!"`
 `"B‐......Beato......`
-` ...Uuu......uuuaaaarrggggghhhh......`
+` ...Uuu......uuua{0}a{0}a{0}arrg{0}g{0}g{0}g{0}ghhhh......`
 ` I'll definitely think of something... Just you waaaaaaatch......"`
 `"Well, regretfully, it's time for us to leave.`
 ` We mustn't get in the way of his job any longer."`
@@ -1448,7 +1448,7 @@
 ` Why......can't I set the chain lock from the outside......?`
 ` Dammit...dammit...dammit...`
 ` ......Nng...`
-`...ggyaaaaaaaaaaaaaaaaaahhhh...!!!`
+`...ggyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh...!!!`
 `"......Battler‐san,`
 ` ......Battler‐san!!`
 ` Hang in there, hang in there...!!"`
@@ -1457,7 +1457,7 @@
 `.........ggh......kk........."`
 `Beato called out to Battler repeatedly, shaking his shoulders hard, ......but by now, Battler's eyes were blank.`
 `......The words didn't reach him......`
-`Bernkastel and Erika had already left.`
+`{f:5:Bernkastel} and Erika had already left.`
 `The game was officially suspended until Battler could think of a new trick,`
 ` ......but it was doubtful that it would be resumed even after a thousand years...or more...`
 `".........Okay, I'm heading off too.`
@@ -1484,8 +1484,8 @@
 ` .........then the fear of that hell will overwhelm us..."`
 `"......If you two managed to get out of it, then he can as well!`
 ` I will save him...!! For certain......!!!"`
-`"For certain......?`
-` ......You stand before the Witch of Certainty, Lambdadelta,`
+`"For {i:certain}......?`
+` ......You stand before the Witch of Certainty, {f:5:Lambdadelta},`
 ` and swear a certain outcome...?"`
 `"Yes! For certain...!!"`
 `".................................`
@@ -1499,7 +1499,7 @@
 ` .........The hope that as long as you hold on to your "certainty", your wish will definitely come true."`
 `"........................"`
 `"Listen.`
-` The old you was the Endless Witch Beatrice.`
+` The old you was the Endless Witch {f:5:Beatrice}.`
 ` ......You used to love detective novels that depicted impossible crimes,`
 ` and you used those to make the claim that a witch existed, to make many people believe in magic...`
 `as one stage on your path to becoming a witch."`
@@ -1512,7 +1512,7 @@
 `"......Battler told you, right?`
 ` ......He told you that the old you would definitely have thought of a way out of this predicament.`
 ` .........I'll acknowledge that.`
-` I guarantee it by the name of the Witch of Certainty, Lambdadelta.`
+` I guarantee it by the name of the Witch of Certainty, {f:5:Lambdadelta}.`
 ` ......The old you would definitely have solved this locked room trick......!"`
 `"........................!"`
 `"......That's my parting gift to you.`
@@ -1522,7 +1522,7 @@
 ` .........‘I'll see you again soon’."`
 `"Y‐......yes.`
 ` .........We'll see you again...soon......!"`
-`Lambdadelta vanished into thin air......`
+`{f:5:Lambdadelta} vanished into thin air......`
 `And left behind in the witch's tea room...`
 ` ...were the two who had held the title of Endless Witch.`
 `One had empty eyes.`

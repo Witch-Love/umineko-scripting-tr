@@ -42,7 +42,7 @@
 ` ......Furniture came from that place quite often."`
 `"As part of their work training and public activity,`
 ` the head employed Gospel House children with exceptional grades as servants.`
-` ......All of the servants in the mansion with the character "音" in their names—Shannon, Kanon, Lunon, Manon, Lenon, and more besides—`
+` ......All of the servants in the mansion with the character "{ruby:in/on/non:{p:0:音}}" in their names—Shannon, Kanon, Lunon, Manon, Lenon, and more besides—`
 `were children from there."`
 `"......There were quite a lot of them, weren't there...`
 ` Though most quit after just a few years."`
@@ -74,7 +74,7 @@
 `"............That's nonsense.`
 ` If all the responsibility of giving birth rested with the woman, this world would have no need for men."`
 `"I've never forgotten the bitter pain I felt that day......`
-` ......Of course I wanted a child......`
+` ......Of {i:course} I wanted a child......`
 ` ......But no matter how much I prayed, I couldn't get pregnant......`
 ` Thinking that something to do with my body might be the cause, I went to see several famous doctors.`
 ` But even so, no matter how hard I tried, ......I couldn't become pregnant......"`
@@ -147,7 +147,7 @@
 `"No, that's wrong!`
 ` Making wishes is one thing, but it is only at the whims of gods, demons, and witches that they may be granted!`
 ` You bear no sin.`
-` Humans bear no sin.`
+` {y:0:Human}{n:0:Human}s bear no sin.`
 ` You can even claim that I killed them if you so desire.`
 ` No, I did kill them!`
 ` I took pity upon your misery, and I lured the servant with the baby to the cliff and led them down it!"`
@@ -168,13 +168,13 @@
 ` If you're going to curse someone, curse me.`
 ` However, witches have a patent on curses...!`
 ` Let me take on this fight you're trying to pick with Natsuhi!!"`
-`Beatrice the Golden!`
-`If anyone picks a fight with the master I serve, I will fight in my master's stead!`
-`Revenge for 19 years ago, you say?`
-`I'll make you learn that's not even a blink of an eye for a witch who's lived a thousand years!!`
-`Gahahahahahaahahahahahahahaha!!`
-`So, you hate Natsuhi for wishing your death 19 years ago?!`
-`Let me make you remember just who it was that lured you off that cliff...!!`
+`{e:090:I am the Ushiromiya family alchemist, {f:5:Beatrice} the Golden}!`
+`{e:090:If anyone picks a fight with the master I serve, I will fight in my master's stead}!`
+`{e:090:Revenge for 19 years ago, you say}?`
+`{e:090:I'll make you learn that's not even a blink of an eye for a witch who's lived a thousand years}!!`
+`{e:090:Gahahahahahaahahahahahahahaha}!!`
+`{e:090:So, you hate Natsuhi for wishing your death 19 years ago}?!`
+`{e:090:Let me make you remember just who it was that lured you off that cliff}...!!`
 `......As the middle‐aged female servant cuddled the sobbing baby, she walked on a small path through the trees...`
 `Natsuhi had told her that the baby was too loud, so she tried to get as far from the rose garden as she could.`
 `......She was completely unaware as to why she'd gone out of her way to head in this direction.`
@@ -220,7 +220,7 @@
 `Below their feet was not the ground, but an unobstructed view of a golden rose garden which stretched as far as the eye could see.`
 `If one could have this scene imprinted in their mind as their last memory, that would be such a merciful way to die......`
 `Then, the woman and the baby were swallowed up by the golden sea.`
-`The thud was remarkably plain, and remarkably quiet for the sound of two lives being taken.`
+`The {i:thud} was remarkably plain, and remarkably quiet for the sound of two lives being taken.`
 `......However, it was a perfect fit for the entertainment at a tea party of witches.`
 `Darkness swallowed the woman and the baby, ......and slowly expanded to engulf the entire rose garden...`
 `The sound of the wind grew stronger bit by bit.`
@@ -232,7 +232,7 @@
 `"I guarantee it.`
 ` You are completely sinless!!`
 ` If someone wants revenge for 19 years ago, they need look no further than me!!`
-` Wahhahahahahahahahahaha!!"`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"...Ee......eeeeeeeeeeeeekkk.........!"`
 `When I spotted the two of them on the rocks below, ......I went pale.`
 `Then, I dashed back to the mansion......and there was a great uproar.`
@@ -249,11 +249,11 @@
 `That's right, it was a dream...a nightmare!!`
 `I was convinced that Father would blame me.`
 `...However, his reaction was somehow strange...!`
-`"Heh, ......heheheheheheheh, fwahahahahahahahahahahahhahhahaha!!`
-` I saw this coming, I knew this would happen!`
+`"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eheh, fwaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahha{0}hhahaha!!`
+` I saw this coming, I {i:knew} this would happen!`
 ` How long must you struggle?`
 ` To what lengths will you go to escape being mine?!!`
-` Wahahahahaahahahahahaha!!`
+` Waha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` I have no interest in an empty cage!`
 ` Throw it away!!"`
 `When Father learned of the accident,`
@@ -278,12 +278,12 @@
 `"Of course not!`
 ` I killed that baby!`
 ` It no longer exists in this world!"`
-`"......However, there is no red truth in the human world.`
-` In the human world, nothing can be trusted."`
+`"......However, there is no red truth in the {y:0:Human}{n:0:human} world.`
+` In the {y:0:Human}{n:0:human} world, nothing can be trusted."`
 `"............That's right.`
 ` Beato, you definitely killed that baby.`
-` But in the human world, it might still be considered alive.`
-` ......Whether it's really alive or not, catch my drift?"`
+` But in the {y:0:Human}{n:0:human} world, it might still be considered alive.`
+` ......Whether {i:it's really alive or not}, catch my drift?"`
 `"Are you saying.........that it actually was alive?!`
 ` After falling to the rocks from that height......?!"`
 `"I don't know.`
@@ -299,17 +299,17 @@
 ` *cackle*cackle*cackle*!"`
 `"And just when the riddle was solved and I thought my job was finished.`
 ` I've got to entertain this final guest of mine!!`
-` Kuhhyahyahyahyahya!!"`
+` Kuhhya{0}hya{0}hya{0}hya{0}hya!!"`
 `"It's getting interesting.`
-` ......Not only are you protecting Lord Goldsmith's secret, but you also have a 19th guest and a man from 19 years ago."`
+` ......Not only are you protecting Lord {f:5:Goldsmith}'s secret, but you also have a 19th guest and a man from 19 years ago."`
 `".........That's right—to us who claim that Kinzo is alive, Erika is number 19.`
 ` And in addition to that 19th piece, we have a man from 19 years ago?`
 ` How interesting. I'm getting all excited."`
 `"We have no lack of opponents!!`
 ` And I was just thinking it a shame to have only one guest at my tea party!!`
 ` Come, you fools!!`
-` Kuhhahahahaahahahahahahaahahah!!"`
-`Furudo Erika is Lady Bernkastel's piece.`
+` Kuhha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}hahah!!"`
+`Furudo Erika is Lady {f:5:Bernkastel}'s piece.`
 `{n}In that case, whose piece is the man from 19 years ago......?`
 `The voice which could be faintly overheard through the receiver...was Natsuhi's.`
 `"I, ......I understand.`
@@ -326,7 +326,7 @@
 `"I'll keep it!`
 ` I'll keep my promise!!`
 ` So stop it, just stop it!`
-` Stop iiiiiiiiiiiiiiittt!!"`
+` Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"`
 `The receiver was set down violently.`
 `......“He” knew very well how bad an aftertaste you could leave for the other side just by the way you hung up the phone...`
 `"Okay, good night, Mother.`
@@ -336,12 +336,12 @@
 ` You can change your voice?"`
 `"*giggle*!`
 ` Anyone can change their voice.`
-` A sweet voice when begging Papa for a favor♪`
+` A sweet voice when begging Papa for a favor{p:0:♪}`
 ` A hoarse‐sounding voice when taking the day off school.`
 ` An apologetic voice when turning down a friend that you actually hate!`
-` ♪,`
-` I can do~`
-` ｖｏｉｃｅ☆`
+` {f:5:If you want}{p:0:♪},`
+` {p:0:I can do~}`
+` {p:0:{nobr:ａｎｙ} {nobr:ｖｏｉｃｅ☆}}`
 ` at all~!"`
 `".........You should stop being a witch and become a voice actress."`
 `"Heheheheheheheh!`
@@ -349,7 +349,7 @@
 `............‘Furudo Erika’.`
 ` What a wonderful piece.`
 ` She suits you so much more than Ange did, Bern."`
-`"............Your praise honors me, Lady Lambdadelta."`
+`"............Your praise honors me, Lady {f:5:Lambdadelta}."`
 `"The pleasure is mine.`
 ` ......Mmm, she really is wonderful.`
 ` Super adorable.`
@@ -358,7 +358,7 @@
 ` ......Don't embarrass me, okay?`
 ` Show me that you're a much more useful piece than Ange was."`
 `"Yes, leave it to me.`
-` Lady Bernkastel, my master.`
+` Lady {f:5:Bernkastel}, my master.`
 ` ......I'm nothing like that gloomy, dull, utterly charmless piece."`
 `"*giggle*giggle*giggle*!`
 ` She's so right.`
@@ -370,7 +370,7 @@
 ` *giggle*.`
 ` The pack of witches and furniture guarding Natsuhi is less like a set of chess pieces and more like—"`
 `"Bowling pins, right?!`
-` Kyahhahahahahahahahahaha!!`
+` Kyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` Illusions of Natsuhi and Beato,`
 ` Kinzo and the worthless furniture!`
 ` Entertain us a bit, will you?!"`
@@ -383,10 +383,10 @@
 `"*giggle*giggle*giggle*giggle*giggle*.`
 ` Both Natsuhi and Beato are sacks of filthy, rotten truth, just entrails wrapped up in a thin layer of skin.`
 ` ......Tearing that to shreds and dragging the insides out will be one of my—`
-`no, one of our few pleasures."`
+`no, one of {i:our} few pleasures."`
 `"Yes, you can have a lot of fun with it.`
 ` Hey, are you watching?`
-` Beatrice?`
+` {f:5:Beatrice}?`
 ` Look at how much fun can be had playing with your board.`
 ` I'll show you.`
 ` A fifth game that's actually fun!!"`
@@ -403,11 +403,11 @@
 ` Leave it to me, okay?`
 ` I'll put the witch side on top in a snap!`
 ` But I'm gonna be sacrificing you as a piece in the process!!"`
-`"What a dreadful loss of face for Beatrice, keeper of the gold, to have her epitaph so easily solved before the first twilight.`
+`"What a dreadful loss of face for {f:5:Beatrice}, keeper of the gold, to have her epitaph so easily solved before the first twilight.`
 ` ......*giggle*giggle*!!"`
 `"......Isn't it great that you've been left as a piece as part of Natsuhi's fantasy?`
 ` ......Well, except that we're treating you as a pin now instead of a piece."`
-`"The Golden Witch Beatrice is out of the picture now!`
+`"The Golden Witch {f:5:Beatrice} is out of the picture now!`
 ` In my game, you and your furniture only have a teeny‐tiny role, a loser's role!!`
 ` You can enjoy getting tossed and thrown around and made into toys for me and Bern!!"`
 `".........If that's not what you want, just tell us to stop.`
@@ -417,25 +417,25 @@
 ` *giggle*giggle*!!`
 ` Pin confirmed!!"`
 `"Ahhahaha...ahhahahahahaha!"`
-`""Kyahhhahahhahhahahahahahhhahahahgwahyahhahaaah!!!""`
+`""Kyahhha{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}hah{0}hha{0}ha{0}hah{0}gwa{0}hyah{0}haha{0}aah!!!""`
 `There's no need for a Golden Witch anymore.`
 `All that's needed is a sacrificial doll so that we two witches can enjoy some time playing.`
 `Die, die, disappear.`
 `Confess to your filthy past and your crimes,`
 ` pour out your sob story of regret and repentance as you throw yourself off a cliff and die!!`
 `There will be no more appearances for the Golden Witch......!!`
-`Ahhahhahahahahaahhahhaahahahahahaahahahahahahaha...!!`
+`Ahhah{0}ha{0}ha{0}ha{0}ha{0}haah{0}hah{0}haa{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
 `"......................................."`
 `"...............Beato..."`
 `This will be......a most horrible game.`
 `On the surface, it does look very similar to the usual tales.`
 `However, ......there is no respect given to the true main characters of this tale.`
-`This is supposed to be the tale to which the Golden Witch Beatrice invited Ushiromiya Battler.`
+`This is supposed to be the tale to which the Golden Witch {f:5:Beatrice} invited Ushiromiya Battler.`
 `However, the host has been lost, and there is no longer a guest.`
 `{n}......With both inviter and invitee now gone, only the worst kind of tale remains.`
-``
+`{a:c:Welcome to the fifth game:`
 `{n}End of the Golden Witch.`
-`{n}Welcome to a party with neither host nor guests, hijacked by wicked witches......`
+`{n}Welcome to a party with neither host nor guests,{nobr: hijacked by wicked witches......}}`
 `".........Ready, Battler?`
 ` The second day is about to start.`
 ` Heheheheh! I hate Beato's kind of slow, plodding storytelling!"`
@@ -446,7 +446,7 @@
 ` For the sake of your little sister, if nothing else."`
 `".............................."`
 `"Don't worry.`
-` ......Lady Beatrice,`
+` ......Lady {f:5:Lambdadelta} may be a far more terrifying opponent than that fool {f:5:Beatrice},`
 ` but I'll be giving you plenty of support, so there won't be any problems.`
 ` ......Let's work together, and this time we'll expose the witch illusions for what they really are."`
 `".........I don't give a damn about you.`
@@ -467,7 +467,7 @@
 `"..........................."`
 `"*giggle*...!`
 ` Isn't it great that you've been blessed with such helpful‐looking allies?!`
-` In the past, it was Virgilia and Ronove.`
+` In the past, it was {f:5:Virgilia} and Ronove.`
 ` Then Ange came as well."`
 `"And now you have Bern and Erika!`
 ` There are so many pieces supporting you!`

@@ -17,7 +17,7 @@
 ` ......You aren't a stuffed animal made of cloth and cotton.`
 ` .........You're my...friend.`
 ` ..................Hate Ange.`
-` ......Uuuuuuuuuuuu......"`
+` ......Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu......"`
 `‘Uryu... I'm sorry Maria, I'm sorry Maria......!`
 ` Uryu......!’`
 `Sakutaro felt regret.`
@@ -80,8 +80,8 @@
 ` Sakutaro and everyone else is with me."`
 `‘Uryuu!`
 ` Loooove you, Maria...!’`
-`"I won't let any more humans come into my world.`
-` ......Mariage Sorcière is an alliance only between me and Beatrice."`
+`"I won't let any more {y:0:Human}{n:0:human}s come into my world.`
+` ......Mariage Sorcière is an alliance only between me and {f:5:Beatrice}."`
 `"......Even Beato opposed letting Ange join in the beginning.`
 ` .........It's alright this way.`
 ` Ange was still too young."`
@@ -92,7 +92,7 @@
 ` ......Sakutaro, ......everyone."`
 `Then, I once again regained my former world.`
 `{n}I regained the world where I wasn't lonely, and where I was surrounded by many friends.`
-`As always, I didn't have any human friends at school, but my magic friends were always with me.`
+`As always, I didn't have any {y:0:Human}{n:0:human} friends at school, but my magic friends were always with me.`
 `Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.`
 `Just listening to that added a lot of color to those lonely school hours.`
 `I made sure that my other friends, too, were always with me, as long as Mama and the teacher wouldn't find out.`
@@ -105,7 +105,7 @@
 `The toxin must be strong in Mama and the teacher.`
 ` That's why Sakutaro and the others just look like normal stuffed animals to them.`
 `After all, the men at the convenience store say hello to Sakutaro.`
-`.........Not all humans are worthless.`
+`.........Not all {y:0:Human}{n:0:human}s are worthless.`
 ` There are a ton of people who, unlike Ange and Mama and my teacher, can say hello to magic friends like I can......`
 `"Oh, Maria‐chan.`
 ` Welcome.`
@@ -137,7 +137,7 @@
 `‘Uryuu!!’`
 `"All of the rabbits in the band are with me too.`
 ` Look.`
-` Kyuu‐kyuu♪"`
+` Kyuu‐kyuu{p:0:♪}"`
 `"Is kyuu‐kyuu the sound a rabbit makes?`
 ` Come to think of it, I've never heard one."`
 `After smiling at Sakutaro, who was poking his head out of her knapsack,`
@@ -316,7 +316,7 @@
 `{n}And her head was swimming from hunger.`
 `The policeman noticed that, and it was decided that they could talk as they ate in the police box.`
 `......I was taken to the police box.`
-` I had my oden heated in a microwave oven, and there were even salty rice cakes and hot tea brought out for me.`
+` I had my oden heated in a microwave oven, and there were even {ruby:shio daifuku:salty rice cakes} and hot tea brought out for me.`
 `I'd been told not to talk to policemen,`
 ` ......but as I answered questions about Sakutaro, I started to feel like he wasn't a bad person, and...`
 `...I wouldn't be able to return home anyway, so I didn't know what to do, so...`
@@ -335,10 +335,10 @@
 ` Hello?`
 ` Is this Auntie Rosa Co., Ltd.?"`
 `"This is the Komatsugawa Police Department police box in front of Senbonzakura Station.`
-` Is President...umm, Udaikan...no, sorry, President Ushiromiya‐san available?`
+` Is President...umm, {c:86EF9C:Udaikan}...no, sorry, President Ushiromiya‐san available?`
 ` ............Yes.`
 ` ......Whaat?`
-` Vacation?"`
+` {i:Vacation}?"`
 `"Yes.`
 ` The president's off for three days starting yesterday.`
 ` Umm, perhaps I could be of assistance...?"`
@@ -412,7 +412,7 @@
 `"But I'm a single mother, so I have to work!`
 ` I may not look it, but I'm a president of a company, and I bear the responsibility for my employees' well‐being!!`
 ` I'm busy with my work all year round, there's no time for me to rest!!"`
-`"Really?`
+`"{i:Really}?`
 ` But you've been off work for the last three days, haven't you?"`
 `"I, I have not been off work!`
 ` I've been staying at my company for several nights working!!`
@@ -431,12 +431,12 @@
 ` I didn't go on a vacation, I was working the whole time, I was working!!"`
 `"I was trying to finish things up at work with all my strength, all my strength because I wanted to see Maria as soon as I could!!`
 ` I stayed at the company working and working and working and working and working, working and working and working and working!!"`
-`"I don't know anything I don't know anything, I don't know anything about Hokkaido, don't come in saying all this!!! UuuaaaaaaaaaaaaaaAAaaaAAAAAAAAHHH!!!`
+`"I don't know anything I don't know anything, I don't know anything about Hokkaido, don't come in saying all this!!! Uuuaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}AAa{0}a{0}aAA{0}A{0}A{0}A{0}A{0}AAHHH!!!`
 ` Please, just go!!`
 ` Just go!!!!!`
 ` What is wrong with you?!?!`
 ` Just go!!`
-` JUST GOOOOOOOOOO!!!"`
+` JUST GO{-}O{-}O{-}O{-}O{-}O{-}O{-}OOO!!!"`
 `Rosa raged, her hair flying wildly.`
 `She stood up with such force that her teacup fell over,`
 ` and far louder than that noise was the sound of her beating the table with both hands.`
@@ -470,13 +470,13 @@
 `Because of that, she had become well known in the shopping district...`
 `"I,`
 ` ......I,`
-` ...I told you not to take stuffed animals with yooooooooouuu!!!`
+` ...I told you not to take stuffed animals with yo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ouuu!!!`
 ` Why—!!`
 ` Can't you—!!`
 ` Listen to what Mama says!!"`
 `"Why?!`
 ` Why, why?!`
-` Why can't you follow Mama's ruuuuuuules!!"`
+` Why can't you follow Mama's ru{-}u{-}u{-}u{-}u{-}u{-}ules!!"`
 `With every single word, she stamped her heel and banged furiously on the wall.`
 `......Admittedly, she wasn't making direct contact with Maria.`
 `However, the violence of that harsh sound certainly beat against her.`
@@ -504,7 +504,7 @@
 ` Did you do it in front of the people at the store......?"`
 `"........................`
 ` Then OF COURSE they remembered yoooooooou,`
-` THINK a little, you idiot!! Why are you such a DUMBAAAAAAAAAAAASSS!!!"`
+` THINK a little, you idiot!! Why are you such a DUMBAA{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}AAASSS!!!"`
 `"Answer me honestly.`
 ` When you went out shopping, you always walked around with that stuffed animal without telling Mama, right?"`
 `‘.........U‐......uryu.........’`
@@ -513,7 +513,7 @@
 `"S‐Sakutaro isn't a stuffed animal!!`
 ` He's my friend!!`
 ` Don't call him a stuffed animal......`
-` Doooooooooooooooooooon't!!"`
+` Dooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon't!!"`
 `"Yes, yes, fine, Sakutarou, it was called Sakutarou!`
 ` You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?"`
 `"Y‐......yeah..............."`
@@ -539,7 +539,7 @@
 ` ......and pulled out those four ceramic rabbits with her tiny hand...`
 `The rabbits were her precious friends, who could go to school with her in Sakutaro's place.`
 `But when Rosa saw that, she shook her head slightly as though dizzy...`
-`In Maria's communication booklet, a note had been written that Maria was apparently bringing toys to school and playing with them,`
+`In Maria's {c:86EF9C:communication booklet}, a note had been written that Maria was apparently bringing toys to school and playing with them,`
 ` and it requested Rosa to give her home instruction to try to prevent this.`
 `But Rosa had dismissed the teacher's comment as faultfinding, and on the contrary, had phoned the school to make a complaint of her own.`
 `...Saying that there was no way her child would bring toys to school.`
@@ -589,9 +589,9 @@
 ` ......Remember that!!!"`
 `"You......you call yourself a mother after doing something like that?!!`
 ` You think you can do something like that without hurting your daughter?!"`
-`"Hurt Maria?!`
+`"Hurt {i:Maria}?!`
 ` I'm hurting too, you know?!`
-` Who's gonna take responsibility for my wounds?!`
+` Who's gonna take responsibility for {i:my} wounds?!`
 ` Weeeell?!`
 ` WHOOOOOOOO!!!`
 ` I told you to bite your tongue!!!!!"`
@@ -635,7 +635,7 @@
 ` I should never have given you this disgusting stuffed animal!!"`
 `"Stop iiiiiiiiiiiit!!"`
 `"Give Sakutaro back, give Sakutaro back!!`
-` WaaaAAAAaaaaaAAAAaaaAaaAahHH!!`
+` WaaaA{0}A{0}A{0}A{0}a{0}a{0}a{0}a{0}a{0}A{0}A{0}A{0}A{0}a{0}a{0}a{0}A{0}a{0}a{0}AahHH!!`
 ` Sakutaro is my friend!!`
 ` My best friend!!`
 ` I don't need anything else if I just have Sakutaro!`
@@ -663,15 +663,15 @@
 `"...kutaro............?"`
 `‘......Ma......ria.........’`
 `".........Sakutaro............"`
-`‘U......ryu......―――’`
+`‘U......ryu......{m:-5:―――}’`
 `"...............kutaro............"`
-`‘――...... . . . . ’`
+`‘{m:-5:―}―...... . . .   .         ’`
 `".........ta...ro........."`
 `‘’`
 `...`
 `.........The crumpled yellow cloth and the cotton candy that was flowing out were thrust right in front of my eyes.`
 `Then, ......through Mama's face, the evil being...stated it clearly.`
-`"Sakutarou is dead."`
+`"{i:Sakutarou is dead}."`
 `mabapennedbisgeck.`
 `gikuguki`
 `......kutaro`
@@ -684,9 +684,9 @@
 `gudaro......`
 `sagudaro......`
 `......waaaaaaaaaaaaaaauuuuuuuuu............`
-`"Maria.........`
+`"{f:5:Maria}...... ......{f:5:Maria}.........`
 ` ...Do not cry......"`
-`"Beatrice...!!`
+`"{f:5:Beatrice}, {f:5:Beatrice}...!!`
 ` Waaaaaaaaaaaaaaaaaahhh!!`
 ` Waaaaaaaaaaaaaaahhh!!"`
 `"Sakutarou was a good friend...`
@@ -707,14 +707,14 @@
 ` Sakutarou's vessel was a stuffed animal Rosa made herself, correct...?`
 ` That Rosa has denied Sakutarou.`
 ` ......A life that is not permitted by its own mother cannot exist..."`
-`Beatrice's words were feeble.`
+`{f:5:Beatrice}'s words were feeble.`
 `...Because she knew that, no matter what the excuse,`
 ` it wouldn't be enough to calm Maria and make her accept it.`
 `But she had to communicate the painful truth to her disciple and close friend.`
 `.........She had to tell her the fact...`
 `...that even with all of her own magic, even she could not revive Sakutarou.`
 `"As long as you continue to strongly believe in Sakutarou's existence, his soul will not disappear......`
-` So, Maria, ...please, do not be sad...`
+` So, {f:5:Maria}, ...please, do not be sad...`
 ` Even now, look, ...you must believe that Sakutarou is smiling right over there......"`
 `"No!!!`
 ` No`
@@ -722,7 +722,7 @@
 ` no!!`
 ` You have to bring Sakutaro back to life!!`
 ` No no no!`
-` WaaAAAaaaaAAaaaAaaAahhhh!!"`
+` WaaA{0}AAa{0}a{0}a{0}aAAa{0}a{0}aAa{0}aAahhhh!!"`
 `"Give up...!!`
 ` There is no magic to revive Sakutarou...!`
 ` You must strongly believe that even in spite of that, Sakutarou will continue to exist as your close friend...!!`
@@ -741,8 +741,8 @@
 ` Want to twist Mama up like she did to Sakutaro...!`
 ` Want to stick my fingernails in and tear her, turn her into cloth and cotton!!"`
 `"Waaaaaaaaaaaaaaahhh!!`
-` Can't stand it, I can't stand it, Beatriceeee!!`
-` Waaaaaaaaaaaaaaahhh, Sakutaroooooooo!!!!"`
+` Can't stand it, I can't stand it, {f:5:Beatriceeee}!!`
+` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh, Sakutaroooooooo!!!!"`
 `From the darkness behind Maria's back, two massive jet‐black arms crept out,`
 ` coiling around Maria as she sobbed in anger.`
 `Then massive fingernails stuck into Maria's chest and stomach......`
@@ -762,7 +762,7 @@
 ` If Sakutaro can't be brought back to life no matter what, ......I want revenge!!`
 ` Want to make the same thing happen to Mama!!`
 ` Want to make her suffer the same thing as Sakutaro...!"`
-`"Beatrice!!`
+`"{f:5:Beatrice}!!`
 ` Teach me magic for that!!`
 ` Teach me magic to get back at Mama...!!"`
 `".................................`
@@ -772,7 +772,7 @@
 ` No, that's not Mama!`
 ` It's the bad witch possessing Mama!`
 ` I'll kill the witch Mama!!`
-` Uuuuuuuuuuuuuuuuuuuu!!"`
+` Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu!!"`
 `"........................`
 ` ......Very well.`
 ` I shall give you that power.`
@@ -784,4 +784,4 @@
 ` I hate everyone, I hate them, I HATE THEM!!`
 ` Hate Mama, hate Ange!!`
 ` Hate everyone, EVERYONE!!`
-` UuuuuuwaaaaaAAAAAAAAAAAAHHH......!!"`
+` Uuuuuuwaa{0}a{0}aaAAA{0}A{0}A{0}A{0}A{0}A{0}AAAAHHH......!!"`

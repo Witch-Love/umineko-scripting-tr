@@ -8,15 +8,15 @@
 `"........................`
 ` ...You have my gratitude.`
 ` This way, I won't have to expose my pitiful form."`
-`Bernkastel had given this person a fake form.`
-`It was a temporary form for the person acting the part of Beatrice.`
-`{n}A false appearance intended for those yet to reach the truth of Beatrice's identity......`
+`{f:5:Bernkastel} had given this person a fake form.`
+`It was a temporary form for the person acting the part of {f:5:Beatrice}.`
+`{n}A false appearance intended for those yet to reach the truth of {f:5:Beatrice}'s identity......`
 `"......Is that...`
 `...a story about...`
 `...me in another world?"`
 `"Lion.`
 ` ......It is a tale about me, who is also another world's you.`
-` ......The tale of the world where I live as a witch, not a human..."`
+` ......The tale of the world where I live as a witch, not a {y:0:Human}{n:0:human}..."`
 `"............I sometimes imagine "what if" scenarios for my own life.`
 ` ......However,`
 ` ......the tale you tell...`
@@ -28,8 +28,8 @@
 ` That doesn't mean I can accept it easily."`
 `Lion suddenly yelled and looked at the floor.`
 `{n}Lion already knew.`
-`Because of the fragments provided by Bernkastel, Lion knew.`
-`This was a different world, where the same person lived as the Golden Witch Beatrice.`
+`Because of the fragments provided by {f:5:Bernkastel}, Lion knew.`
+`This was a different world, where the same person lived as the Golden Witch {f:5:Beatrice}.`
 `And, in this world, .........eventually,`
 ` ............on the day of the October 1986 family conference,`
 ` .........this person would be the ringleader of a terrible crime.`
@@ -45,8 +45,8 @@
 `"Yeah, that's what I expected you to say.`
 ` ......I doubt anyone could understand.`
 ` ......This person here's long past expecting anyone to understand.`
-` That's why you are here.`
-` ......That's why Bernkastel brought you two, two people who never could have met, together like this."`
+` That's why {i:you} are here.`
+` ......That's why {f:5:Bernkastel} brought you two, two people who never could have met, together like this."`
 `"............It's not like I had any deep reason for it.`
 ` It was just a whim."`
 `"It's a motive that no one else can understand, Lion, so you need to be the one to understand it.`
@@ -62,7 +62,7 @@
 ` Even if I say it's satisfying, that doesn't mean it'll satisfy you.`
 ` ......You have to decide that for yourself."`
 `"I really don't have a clue what's going on...!`
-` I've seen several crimes called game boards that Beatrice supposedly carried out.`
+` I've seen several crimes called game boards that {f:5:Beatrice} supposedly carried out.`
 ` And now, I'm hearing another me talk about a different life from mine.`
 ` But none of that fits with the crime!`
 ` I don't understand!!"`
@@ -184,12 +184,12 @@
 ` Back when Mom was still alive, right?!`
 `Yeah, now I finally get it!`
 ` This is why looking at you makes me feel sick to my stomach!`
-`You were glad when Mom died, weren't you? Weren't you?!`
+`You were {i:glad} when Mom died, weren't you? Weren't you?!`
 `It must have been so hard on you, keeping your infidelity and even a kid secret while Mom was still alive!!`
 `And now that Mom conveniently kicked it, you get to marry Kyrie‐san and make the kid my new little brother or sister... The nerve of you!!`
 `Mom is crying her eyes out in heaven!!`
 ` You should be ashamed of yourself, you should be ashamed!!`
-` I am!!`
+` {i:I} am!!`
 ` I am goddamn ashamed to have the same last name as you!!`
 ` The kid's done nothing wrong.`
 ` He or she'll need two parents to look after him or her.`
@@ -278,9 +278,9 @@
 `......With a miserable expression on my face,`
 ` I was...`
 `...crying......`
-``
+`{a:c:`
 `Shannon......`
-`...Shannon.........`
+`...Shannon.........}`
 `From far away, ......I could hear someone calling to me.`
 `{n}But it was a very strange sort of distance.`
 `Though it felt very far away, ......the voice also seemed to be coming from right beside me.`
@@ -300,7 +300,7 @@
 `I was there, under an arbor in a golden rose garden,`
 ` ......and two witches in white and red dresses were showering words of encouragement upon me...`
 `"You can be sure that those rumor‐mongering young servants are embellishing the story however they please.`
-` That he has changed his name is obviously a gross exaggeration!`
+` That he has {i:changed his name} is obviously a gross exaggeration!`
 ` Surely, this can be nothing more than a family quarrel."`
 `"........................`
 ` ......Thank you.`
@@ -624,7 +624,7 @@
 `"......I haven't reached anything...`
 ` .........But I've decided to think of it that way for now.`
 ` This is a trial......to see whether I trust Battler‐san or not."`
-`If he had showed up today,`
+`If he {i:had} showed up today,`
 ` ......then today, I would have had to inform Madam that I was quitting my job as a servant.`
 `But was I mentally prepared for that?`
 `I spent all last night worrying about whether Battler‐san would come or not.`
@@ -643,7 +643,7 @@
 ` He did not yet have the resolve to come for you."`
 `"......God isn't heartless.`
 ` When your feelings truly do draw close, I'm sure He'll bring the two of you together."`
-`"Just like Orihime and Hikoboshi...!"`
+`"Just like {c:86EF9C:Orihime and Hikoboshi}...!"`
 `"Yes, it's as though the weather just happened to be bad during this year's Tanabata...`
 ` ......That's how I'd like to think about what happened today."`
 `That's how...I'd like to think about it.`

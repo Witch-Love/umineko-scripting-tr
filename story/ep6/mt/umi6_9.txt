@@ -6,8 +6,8 @@
 `This room was the farthest down the hall, a long ways away from the cousins' room......`
 `"Last time, my room was right next to theirs.`
 ` ......I see...so he's placed my room farther away this time."`
-`"The powers of authority given to the Game Master permit this level of modification to the initial arrangement.`
-` It is, perhaps, a quite reasonable first move."`
+`"The powers of authority given to the Game Master permit this level of modification to the initial {f:5:arrangement}.`
+` It is, perhaps, a quite reasonable first {f:5:move}."`
 `"Well, that suits me too.`
 ` I have no desire to listen to those brats' squeaky voices as they play cards."`
 `".................."`
@@ -20,28 +20,28 @@
 `Those menacing seals had cornered Natsuhi so thoroughly in the previous game...`
 `".........nn......`
 ` ......Great..."`
-`"Is something wrong?"`
+`"Is something {f:5:wrong}?"`
 `"......He got me.`
 ` ......That Battler doesn't let anything get by him, does he?"`
 `Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.`
 `By sight alone, Dlanor couldn't tell what had annoyed Erika.`
 `{n}However, as soon as she held the tape, she realized the difference right away.`
-`"......This won't be any good."`
+`"......This won't be any {f:5:good}."`
 `"Yes.`
 ` It's barely sticky at all.`
 ` This won't reach even close to the red truth."`
 `Even duct tape can be of low quality, and it sometimes gets weaker with age.`
 `The tape Kumasawa had found was a bit too weak even for normal use.`
 ` It wasn't nearly sticky enough to be used as a detective's seal.`
-`"It is possible to tear it off cleanly.`
-` This cannot serve as proof of a seal."`
+`"It is possible to tear it off {f:5:cleanly}.`
+` This cannot serve as proof of a {f:5:seal}."`
 `"......I guess Battler isn't as totally incompetent as I thought.`
 ` He probably tampered with all the duct tape on the island using the authority of the Game Master."`
 `Letting Erika get her hands on duct tape gave her a fatal weapon to use against witches.`
 ` The previous game had proven this fact.`
 `And so, Battler had removed that weapon from the entire mansion......`
 `"Most likely,`
-` all possible substitutes for duct tape have also been tampered with."`
+` all possible substitutes for duct tape have also been tampered {f:5:with}."`
 `"......Probably.`
 ` Well, it isn't really so bad.`
 ` At least this way, I won't have to look like a fool crawling all over the outer wall in the cold rain."`
@@ -50,20 +50,20 @@
 ` ......I doubt there'll be any part for you to play until the first twilight begins,`
 ` so why not vanish off somewhere and take a smoking break?`
 ` .........I imagine that looking at my face will do nothing more than tire you out."`
-`"......I do not smoke.`
-` I am just a kid."`
+`"......I do not {f:5:smoke}.`
+` I am just a {f:5:kid}."`
 `"Oh, really?`
 ` ......I wish I could.`
 ` ...Well, only if it really is as refreshing as smokers claim."`
-`"......It seems...that you are not in high spirits."`
+`"......It seems...that you are not in high {f:5:spirits}."`
 `".........Does it look that way?"`
 `Erika answered lazily, still looking up at the ceiling.`
 `{n}That in itself was half an answer...`
 `The silence between the two was filled by the sound of the wind and rain.`
 `It was so quiet...`
 `...that it was hard not to listen to the ticking of the clock.`
-`".........Lady Erika.`
-` May I ask a question?"`
+`".........Lady {f:5:Erika}.`
+` May I ask a {f:5:question}?"`
 `"Depends on what it is.`
 ` Answer's probably <no> though."`
 `"..........................."`
@@ -74,27 +74,27 @@
 `{n}......Or maybe the sound of the rain was making her sentimental.`
 `She assented, which was very unlike her.`
 `"Why is it...`
-`...that you hate magic?"`
+`...that you hate {f:5:magic}?"`
 `"......Oh,`
 ` ......you mean that thing downstairs with Maria?"`
-`"That was nothing more than a foolish trick to deceive children.`
-` Everyone knew that.`
-` ......Was it really necessary to go so far to destroy that illusion?`
-` ...I cannot understand."`
+`"That was nothing more than a foolish trick to deceive {f:5:children}.`
+` Everyone knew {f:5:that}.`
+` ......Was it really necessary to go so far to destroy that {f:5:illusion}?`
+` ...I cannot {f:5:understand}."`
 `It had been a childish fight.`
 ` ......Erika didn't need Dlanor to tell her that.`
 `"......Well, I am a self‐proclaimed intellectual rapist.`
 ` I can't stand having magic confuse the truth."`
-`"And so, you feel pleasure from exposing that?`
-` ......I sense a different emotion."`
+`"And so, you feel pleasure from exposing {f:5:that}?`
+` ......I sense a different {f:5:emotion}."`
 `"A different emotion?`
 ` .........What's that?"`
 `"To me, it feels less like pleasure,`
-` ......and more like a different, negative emotion."`
+` ......and more like a different, negative {f:5:emotion}."`
 `"Hah, ......you really are a murder doll, aren't you?`
 ` Even your eyes are like knotholes."`
-`".........My apologies.`
-` Please forgive me."`
+`".........My {f:5:apologies}.`
+` Please forgive {f:5:me}."`
 `Erika rolled over grumpily, turning her back to Dlanor.`
 `Because of this, Dlanor couldn't see her expression.`
 `......Even so...`
@@ -104,12 +104,12 @@
 `Then, Erika suddenly spoke.`
 `The words came so far out of the blue that Dlanor doubted her ears,`
 ` and she had to ask Erika to say it again.`
-`"......What did you just say?"`
+`"......What did you just {f:5:say}?"`
 `"I love you."`
 `It really was......out of the blue.`
 `Dlanor wanted to ascertain what Erika really meant,`
 ` but the latter still had her back turned, and her face was out of sight...`
-`"............Thank you very much."`
+`"............Thank you very {f:5:much}."`
 `"I was going out with another girl before, but I've completely broken up with her.`
 ` Others are gonna be jealous of us and say things that aren't true, but don't pay them any attention."`
 `"................................."`
@@ -129,7 +129,7 @@
 ` .........A colleague asked him to come and he couldn't turn him down.`
 ` Work suddenly called him in.`
 ` His buddy called him up and he couldn't get off the phone."`
-`He made too much curry.`
+`{e:090:He made too much curry.`
 `{n}He started going to theater practice more often.`
 `{n}He started folding paper towels differently.`
 `{n}‘Thanks, I've already eaten.’`
@@ -140,13 +140,13 @@
 `{n}‘Me and my acting friends had a party here.`
 ` Someone just left it behind.’`
 `{n}The drain and sink were cleaned out.`
-`{n}There were receipts and point cards from places he didn't usually go.`
-`The muddy soles are evidence that you went out on Monday when it was raining.`
+`{n}There were receipts and point cards from places he didn't usually go.}`
+`{e:090:The muddy soles are evidence that you went out on Monday when it was raining.`
 `{n}It matches the strange symbol on the calendar.`
 `{n}None of your theater friends have hair this long.`
 `{n}Leading questions.`
-`{n}How do you know the plot of a movie you haven't seen yet?`
-`Evidence,`
+`{n}How do you know the plot of a movie you haven't seen yet?}`
+`{e:090:Evidence,`
 ` evidence,`
 ` circumstantial evidence. Observation,`
 ` surveillance,`
@@ -154,11 +154,11 @@
 ` tailing. Information gathering,`
 ` wiretapping,`
 ` asking around,`
-` questioning.`
-`I found plenty of evidence that I loved you.`
+` questioning.}`
+`{e:090:I found plenty of evidence that I loved you.`
 `{n}I found plenty of evidence that you loved me.`
-`{n}But I can't find any evidence that you haven't been cheating on me.`
-`Give it a rest.`
+`{n}But I can't find any evidence that you haven't been cheating on me.}`
+`{e:090:Give it a rest.`
 ` If you love me, then trust me.`
 ` If you can't do that, then you don't love me anymore.`
 ` How could I love someone like that?`
@@ -172,24 +172,24 @@
 ` One of my colleagues,`
 ` she's suddenly told us she won't be able to perform.`
 ` I need to rewrite the script by tomorrow.`
-` I don't have the time for this.`
-`You know what, if you really find it that hard to trust me, we're through.`
+` I don't have the time for this.}`
+`{e:090:You know what, if you really find it that hard to trust me, we're through.`
 ` Don't bother coming over again,`
 ` just go home,`
 ` I don't love you anymore.`
 ` Stop crying, God you're obnoxious,`
 ` go kill yourself, you creep.`
 ` Stop shouting, dammit, I've got neighbors.`
-` Just get the hell away from me and never come back.`
-`"......Without love, it cannot be seen?`
+` Just get the hell away from me and never come back.}`
+`"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}?`
 ` ............Hah.`
 ` That's backwards."`
 `"...................................."`
 `"Because of love,`
-` you end up seeing things that don't even exist."`
-`......It's nothing more than an illusion, one that no one except you can see, and one that even you can never touch.`
-`Without love, see that fiction.`
-`Because we can see it, ......we doubt.`
+` you end up {y:1:‘seeing’}{n:1:seeing} things that don't even exist."`
+`......It's nothing more than an illusion, one that no one except you can {y:1:‘see’}{n:1:see}, and one that even you can never touch.`
+`Without love, {y:0:Human}{n:0:human}s would never need to {y:1:‘see’}{n:1:see} that fiction.`
+`Because we can {y:1:‘see’}{n:1:see} it, ......we doubt.`
 ` We suffer.`
 ` We cry out loud.`
 `".........Right now, I am happy.`
@@ -199,7 +199,7 @@
 `"..........................."`
 `"..............................`
 ` ......What about you? How would you have countered my endgame?"`
-`"How would...I?"`
+`"How would...{f:5:I}?"`
 `"That useless man wasn't fit to be my opponent.`
 ` ......I was wondering how you would have countered it?"`
 `"...................................."`
@@ -211,26 +211,26 @@
 ` and was already cornering the opponent.`
 `For some time, Dlanor thought in silence...`
 `...and announced her by‐the‐book response.`
-`"First move.`
+`"First {f:5:move}.`
 ` ......`
-`I request that you submit evidence that I have been cheating."`
+`I request that you submit evidence that I have been {f:5:cheating}."`
 `"Counter with the blue truth.`
 ` I present eighty‐four points of circumstantial and physical evidence."`
-`"Counter with the blue truth.`
-` I present six points of circumstantial and physical evidence that I still love you."`
+`"Counter with the blue {f:5:truth}.`
+` I present six points of circumstantial and physical evidence that I still love {f:5:you}."`
 `"<Good>.`
 ` Blue and blue cancel each other out, but the number of pieces used to construct each is overwhelmingly unbalanced."`
 `When both opponents meet with the blue truth,`
 ` the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.`
-` ......This is especially true in the human world.`
+` ......This is especially true in the {y:0:Human}{n:0:human} world.`
 `So, by the standard rules, Erika would win...`
 `"First point to me.`
 ` Your next move?"`
-`"............I will attempt to switch offense and defense.`
-` I ask that you, Lady cheating."`
+`"............I will attempt to switch offense and {f:5:defense}.`
+` I ask that you, Lady {f:5:Erika}, provide proof that you are not {f:5:cheating}."`
 `"Perpetual check.`
 ` That's a forbidden move, since it'd result in an endless repetition of the same question going both ways."`
-`"Then I frankly declare that, despite a lack of proof, I still love you even now."`
+`"Then I frankly declare that, despite a lack of proof, I still love you even {f:5:now}."`
 `"Not red truth and therefore invalid.`
 ` Even if it was red, that'd be a stalemate.`
 ` After all, I'd have no move to counter with."`
@@ -252,14 +252,14 @@
 `...............`
 `"......Any other moves?`
 ` O witch‐hunting archbishop, protector of the truth?"`
-`".........No.`
-` ......I resign."`
+`".........{f:5:No}.`
+` ......I {f:5:resign}."`
 `"See? There you go.`
 ` ..................Hmph..."`
 `Erika had succeeded in crushing her opponent with the truth she espoused...`
 `...that her former boyfriend no longer loved her and was cheating on her.`
 `Her opponent had no way to argue back.`
-`.........After all, ――.`
+`.........After all, {y:0:Human}{n:0:human}s are not allowed to use {m:-5:――}{m:-5:――}.`
 `A splendid game, a splendid finish from a superior position.`
 `{n}Regardless of the truth of her opponent, Erika could win.`
 `{n}A splendid......victory.`
@@ -268,36 +268,36 @@
 `{n}......She was probably done talking and wanted Dlanor to leave.`
 `Dlanor understood this, but even so,`
 ` .........she wanted to tell Erika just one thing before leaving.`
-`"A splendid game, Lady Erika."`
+`"A splendid game, Lady {f:5:Erika}."`
 `"It's only natural that the detective wins."`
-`"Even before you became Lady truth.`
-` .........However, Lady Erika.`
-` truth.`
-` And the only thing that can counter blue truth is red truth.`
-` And truth."`
+`"Even before you became Lady {f:5:Bernkastel}'s piece, you truly were a splendid wielder of the blue {f:5:truth}.`
+` .........However, Lady {f:5:Erika}.`
+` {y:0:Human}{n:0:Human}s are only allowed to use the blue {f:5:truth}.`
+` And the only thing that can counter blue truth is red {f:5:truth}.`
+` And {y:0:Human}{n:0:human}s are not allowed to use the red {f:5:truth}."`
 `"............In that case,`
-` ...how should your opponent have shown his truth?"`
+` ...how should your opponent have shown his {f:5:truth}?"`
 `".........Who knows.`
 ` ......Maybe he should have used that gold truth or whatever, which is supposed to be stronger than the red truth at times."`
 `"...........................`
-` ......You certainly were the victor in that game.`
-` However, allow me to say this as a protector of the truth."`
+` ......You certainly were the victor in that {f:5:game}.`
+` However, allow me to say this as a protector of the {f:5:truth}."`
 `"What?`
 ` ......I imagine it's something unpleasant, so say it and go away."`
-`"......Yes.`
-` .........Our game did end with your victory.`
+`"......{f:5:Yes}.`
+` .........Our game did end with your {f:5:victory}.`
 ` However,`
-` ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved you.`
-` ......Even you are human.`
-` You are unable to use the red truth that would disprove those points."`
+` ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved {f:5:you}.`
+` ......Even you are {f:5:{y:0:Human}{n:0:human}}.`
+` You are unable to use the red truth that would disprove those {f:5:points}."`
 `"Later on, I used the detective's authority to have all eighty‐four points transformed into red truth.`
 ` By the power of my master...!`
-` I am humans.`
+` I am {y:0:Human}{n:0:human}, yet superior to {y:0:Human}{n:0:human}s.`
 ` A detective and a witch.`
-` I am the Witch of Truth, Furudo Erika.`
+` I am the Witch of Truth, Furudo {f:5:Erika}.`
 ` Any other questions? Parting remarks?"`
-`".........I have none.`
-` ......In that case, please excuse me."`
+`".........I have {f:5:none}.`
+` ......In that case, please excuse {f:5:me}."`
 `Dlanor bowed and disappeared.`
 `......After that, all that remained was a single Witch of Truth laughing off a bitter past...`
 `with an equally bitter smile...`
@@ -306,7 +306,7 @@
 ` The curtain has finally risen on the second day, October 5th.`
 ` ......I wonder if the first of this game's murders is happening somewhere about now.`
 ` I hope our victims leave us some interesting dying messages this time.`
-` Ehheheheheheeheheheheheheheheheh...!"`
+` Ehheh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!"`
 `"Why didn't you discuss this with your mother?!!`
 ` This is about the partner who's supposed to support you throughout the rest of your life!!"`
 `"That's right.`
@@ -370,8 +370,8 @@
 ` How can you say that?!!`
 ` Have I ever failed to think about what's best for you?!"`
 `"I haven't, have I?!`
-` How is the ‘parent’ (親) kanji written?!`
-` It's 見)!"`
+` How is the ‘parent’ ({p:0:親}) kanji written?!`
+` It's {nobr:‘stand’ ({p:0:立})} on top of a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}"`
 `"That's what we've been doing, surveying your entire future from a height far greater than you have access to!!`
 ` And from our vantage point, we can see that you're letting your momentary youthful emotions lead you down the wrong path!!`
 ` That's why I'm saying what I am even though I know you'll hate me for it!!"`
@@ -459,7 +459,7 @@
 `"Alright then... Sometimes it's good to be brutally honest!`
 ` I'll speak my mind.`
 ` So why don't you just lay it out there forever?!`
-` Ahhahahahahaahahah!!"`
+` Ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!"`
 `In the rain‐filled sky, with the moon that shouldn't have been visible behind her,`
 ` ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.`
 `Even the drastic change in his mother's appearance didn't faze George.`
@@ -504,10 +504,10 @@
 ` Let me make it so that you can understand.`
 ` I'll show you.`
 ` And then, you'll realize the truth forever!!`
-` Ahahahahahahyahhaaah!!!"`
+` Ahaha{0}ha{0}ha{0}ha{0}hyah{0}haaah!!!"`
 `The vast, red spiderweb on the ground scooped up George as easily as scooping scum out of a pot.`
 `Then, it lifted him into the air like a deer caught in a net and swung him about.`
-`Eva's insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...`
+`{f:5:Eva}'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...`
 `...and cruel in equal measure.`
 `"...Gah...............gwooh.........kkhh...!!"`
 `"*giggle*giggle*!!`
@@ -536,7 +536,7 @@
 `"‘You can lead a horse to water, but you can't make it drink.’"`
 `"That's a British proverb, isn't it?"`
 `"Making you motivated and keeping you that way...`
-`was the hardest thing to doooooooooooooooooooooo!!!"`
+`was the hardest thing to do{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!!"`
 `"Gah,`
 ` ............gwah,`
 ` gghhh...!!"`
@@ -589,11 +589,11 @@
 `"I'll arrange the most intellectual and selfless woman in the world for you!!`
 ` I'll prepare your every success and even pave the way there!!`
 ` And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as successor to the head!!`
-` That's when you can think about beginning life for yourself...!"`
+` {i:That's} when you can think about beginning life for yourself...!"`
 `"A first step?`
 ` Don't make me laugh. You still haven't even been born yet!!`
 ` This isn't my web that you're caught in.`
-` ......You're inside my caring, nurturing wooooomb!!!"`
+` ......You're inside my caring, nurturing wo{-}o{-}o{-}o{-}omb!!!"`
 `George was slammed against the ground over and over.`
 `......It was heartless cruelty unlike anything one would expect a blood‐related son to receive.`
 `However, ......in Eva's eyes,`
@@ -665,7 +665,7 @@
 `...going on about...?!!`
 ` Time to get back in Mother's womb!!`
 ` I'll nurture you in a sea of warmth once more!!!"`
-`As Eva howled, another bright red spiderweb appeared at George's feet and tried to scoop him up into the air again.`
+`As {f:5:Eva} howled, another bright red spiderweb appeared at George's feet and tried to scoop him up into the air again.`
 `However, that instant...`
 `...a powerful magic circle could be seen in the area surrounding George for just a moment.`
 `Faster than he could be scooped up by the spiderweb, George jumped,`
@@ -685,10 +685,10 @@
 `"R‐ready for what?!"`
 `"‘If you're ready...`
 `may I fight back?’"`
-`The curtain of spiderwebs that Eva shot out in defense were all too slow.`
+`The curtain of spiderwebs that {f:5:Eva} shot out in defense were all too slow.`
 `George weaved through them in that instant, and the next, he was right before her eyes...`
 `".........Ahh, aaaaaaaarrggghhh!!"`
-`Eva jumped out of the way of a kick that would have knocked her feet out from under her,`
+`{f:5:Eva} jumped out of the way of a kick that would have knocked her feet out from under her,`
 ` ......then blocked the second half of George's double roundhouse with a high kick of her own.`
 `"I guess there is one extracurricular activity I can thank you for."`
 `"O‐...oh, and what day of the week was that......?!"`
@@ -696,14 +696,14 @@
 `"...Ha, ......kyahhahahahaha!!`
 ` I'm glad, George, to hear you're grateful for at least one thing!!`
 ` Your mother is happy!!`
-` Kyahhahahaaaah!!!"`
-` Eva's swift feet flashed like lightning.`
+` Kyah{0}ha{0}ha{0}ha{0}a{0}aah!!!"`
+` {f:5:Eva}'s swift feet flashed like lightning.`
 `Low,`
 ` low,`
 ` low,`
 ` mid‐level attack.`
 `As George's head fell forward, she caught it in both hands as though she was about to smash it against the ground.`
-`It was then met with Eva's knee as it rose like a bolt of lightning from the earth.`
+`It was then met with {f:5:Eva}'s knee as it rose like a bolt of lightning from the earth.`
 `"You should have learned Muay Thai too!`
 ` It would have been more fun to have learned it with you!!"`
 `"......You're right.`
@@ -717,14 +717,14 @@
 ` I even love the way you kick inside me!!"`
 `"Got it.`
 ` But this kick's coming from the outside of your belly."`
-`George buried his knee sharply into Eva's abdomen.`
-`An instant before she felt the pain of that fierce attack, Eva watched her son's kick with a proud smile......and then she vomited.`
+`George buried his knee sharply into {f:5:Eva}'s abdomen.`
+`An instant before she felt the pain of that fierce attack, {f:5:Eva} watched her son's kick with a proud smile......and then she vomited.`
 `"Ghuurk!!!`
 ` Gghh, ............gguurk!!"`
 `"You're getting on in years, Mother.`
 ` ......Maybe it's about time you held back on wearing childish clothes like that."`
 `"G‐.........Geeeeeoooooooorge......!!!"`
-`Her chin still covered in vomit, Eva looked up at George in twisted anguish.`
+`Her chin still covered in vomit, {f:5:Eva} looked up at George in twisted anguish.`
 `She could see how pathetic her face was by her reflection in his glasses.`
 `"Both you and I...`
 `...need to leave our childhood days behind.`
@@ -734,12 +734,12 @@
 `George's beautiful kick...`
 `......had stopped an inch from Eva's chest.`
 `However, the power of the red magic circle surrounding George...`
-`...had already pierced Eva's body.`
+`...had already pierced {f:5:Eva}'s body.`
 `Though he had stopped without hitting her,`
-` .........blood poured out of Eva's back.`
+` .........blood poured out of {f:5:Eva}'s back.`
 `No wound had been left on her chest,`
 ` ......but the heart inside it had been struck through......`
-`Eva slumped backwards...`
+`{f:5:Eva} slumped backwards...`
 `......and landed in a puddle with a splash.`
 `There were no convulsions.`
 `......Her life had been ended without leaving her even an instant to writhe about in pain...`
@@ -748,7 +748,7 @@
 `As he straightened his glasses, ......George spoke to the rose thicket behind him.`
 `Then, a pitch‐black hole opened in the air there, ......and Gaap jumped out.`
 `".........Impressive.`
-` ......Even considering that it was before her ascension, you managed to defeat Eva Beatrice."`
+` ......Even considering that it was before her ascension, you managed to defeat {f:5:Eva Beatrice}."`
 `"I thought you were there.`
 ` ......Thanks for not interfering.`
 ` I'm glad we were able to keep it between mother and son."`
@@ -773,10 +773,10 @@
 ` That never‐opened VIP room on the second floor of the mansion."`
 `"............Ah, that room.`
 ` As you wish, Your Majesty."`
-`Gaap approached Eva's corpse and lightly tapped the ground with her right heel.`
+`Gaap approached {f:5:Eva}'s corpse and lightly tapped the ground with her right heel.`
 `When she did, a large hole opened up, swallowed both Gaap and the corpse, and closed.`
 `After a while, a small hole opened in the air,`
-` and the staff Eva always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...`
+` and the staff {f:5:Eva} always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...`
 `Because the corpse would no longer have any use for it.`
 `"...................................."`
 `George slowly approached that staff,`
@@ -824,7 +824,7 @@
 `However, a pair of lovers would never abandon each other's lives.`
 `So, they were automatically left with just the option of sacrificing the life of another instead.`
 `......In fact,`
-` it was merciful that the demons hadn't ordered them to take the lives of everyone other than themselves.`
+` it was merciful that the demons hadn't ordered them to take the lives of {i:everyone} other than themselves.`
 `And besides, it only meant taking those lives as pieces on the board.`
 `For the versions of themselves to whom the game board was the only world, this was a tragic parricide,`
 ` ......but for these ones who sat around the game board in this witch's tea room,`
@@ -836,7 +836,7 @@
 `"................................."`
 `"......Heheh, are you getting cold feet?"`
 `"N‐......no......`
-` ......Th‐the Beatrice that Battler‐san desires......would not be shaken by the likes of this..."`
+` ......Th‐the {f:5:Beatrice} that Battler‐san desires......would not be shaken by the likes of this..."`
 `""Well then, who will take the next trial?!""`
 `"It can be anyone! Please choose the next victim!!"`
 `"It can be anyone! Let the next challenger step forward!!"`

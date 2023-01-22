@@ -20,7 +20,7 @@
 ` .........what was that...`
 ` Even I do not understand!"`
 `"What are you saying?!`
-` It's impossible for you to have met anyone other than the witch, Beatrice, whose location has been unknown since last night,`
+` It's impossible for you to have met anyone other than the witch, {f:5:Beatrice}, whose location has been unknown since last night,`
 ` or Kanon‐kun, who has gone missing!`
 ` Was it a man or a woman?!`
 ` You should be able to tell me at least that much, right?!"`
@@ -57,7 +57,7 @@
 `".........That person was...stained with blood, and had a large wound.`
 ` ...We carried them to the servant room, and Doctor Nanjo immediately began first aid.`
 ` ......It was a...very deep wound."`
-`"For the last time, who are you talking about?!"`
+`"For the last time, {i:who} are you talking about?!"`
 `"...I don't know!`
 ` Certainly, ...in the beginning, I thought I knew.`
 ` No, I still think it was!`
@@ -109,7 +109,7 @@
 `No matter how confused they became and no matter how much they tried to deny it, ...they were halfway saying that it was the truth.`
 `......But even so, for some reason, I felt like their awkwardness couldn't be explained just by confusion...`
 `......What had they seen?`
-`Like they said, had they really seen something unexplainable with words...?`
+`Like they said, had they really {i:seen something unexplainable with words}...?`
 `Auntie Rosa, having decided that she wouldn't be able to get any more out of them, concluded her questioning,`
 ` and said that she wanted to check the two bodies.`
 `I was also interested in that.`
@@ -125,9 +125,9 @@
 ` Maria, stop that scribbling now!"`
 `"Uu.`
 ` Not scribbliiing.`
-` Solving Beatrice's probleeem.`
+` Solving {f:5:Beatrice}'s probleeem.`
 ` Uu..."`
-`"Beatrice's problem?`
+`"{f:5:Beatrice}'s problem?`
 ` What's that? Tell me too."`
 `"...Auntie Rosa, are you...umm...bringing Maria‐chan too?"`
 `It seemed that George‐aniki had some resistance to bringing Maria to the bloody crime scene.`
@@ -158,7 +158,7 @@
 `Auntie Rosa also shuddered, raised her gun high, and searched for whatever it was that had them shaken.`
 `......But she couldn't find it.`
 ` ...Which wasn't surprising.`
-`{n}...They were shaken because they couldn't find it.`
+`{n}...They were shaken {i:because} they couldn't find it.`
 `"Hey, hey, what in the world's going on..."`
 `".........The two bodies...aren't here."`
 `"What do you mean?"`
@@ -202,7 +202,7 @@
 `{n}If you assume that there had been two culprits, it could be easily explained.`
 `The first person was Kanon‐kun, or maybe an impostor that looked like him.`
 `{n}He had finished off Doctor Nanjo and ran off somewhere.`
-`The second person was......probably the 19th person, Beatrice, whose location was unknown.`
+`The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.`
 `She had hidden under the bed in the servant room beforehand, and with Doctor Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.`
 `Then after that, she had crawled out, taken the master key back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.`
 `If she had then locked the door with the master key, this locked room would be created.`
@@ -213,7 +213,7 @@
 ` However, as truly fascinating as it was, ......there is something you must not forget."`
 `"...If the culprit had taken the master key back by the method you say,`
 ` ......that culprit...`
-`would have to have known that Nanjo had taken the master key from Jessica's body."`
+`{i:would have to have known that Nanjo had taken the master key from Jessica's body}."`
 `"......You don't have to tell me that...`
 ` You're probably trying to say that it's information only the people in that place, at that time, could know..."`
 `"......Heh!`
@@ -260,15 +260,15 @@
 `"......Yes, that's right.`
 ` It was set here, out in the open.`
 ` I'll read it."`
-`―People of the Ushiromiya family.`
+`{e:070:―People of the Ushiromiya family.`
 `I wonder if your attempts at solving the epitaph's riddle for the gold are reaching a climax.`
-`Solving the riddle of the epitaph is the single method by which you all can stop me.`
-`You will not be able to stop me, or the ritual, by way of any other method of any kind.`
-`I ask all of you that you take care not to mistake your goal.`
-`Attempting to search for me is useless.`
+`Solving the riddle of the epitaph is the single method by which you all can stop me.}`
+`{e:070:You will not be able to stop me, or the ritual, by way of any other method of any kind.`
+`I ask all of you that you take care not to mistake your goal.}`
+`{e:070:Attempting to search for me is useless.`
 `Attempting to escape from me is useless.`
 `Attempting to deny me is also—useless.`
-`—Beatrice the Golden.`
+`—{f:5:Beatrice} the Golden.}`
 `"......P.S.`
 ` I borrowed the two bodies for the ritual.`
 ` I will return them later, so please accept my apologies.`
@@ -289,21 +289,21 @@
 `"......That's right, I'd forgotten.`
 ` What about the keys specifically for this room, the servant room keys?!"`
 `"Mmhm.`
-` Those are in the key box in the center of the servant room.`
-` There are several servant room keys, but all of those are inside the key box."`
+` Those {p:1:are in the key box in the center of the servant room}.`
+` There are several servant room keys, but {p:1:all of those are inside the key box}."`
 `"Which means that the situation isn't any different from the time with the key to Jessica's room...`
 ` It's not like the servants would walk around with an unnecessary key when they have those convenient master keys.`
 ` I can accept that they were all still shut away in the key box..."`
 `"And nothing has changed in the other conditions.`
-` Entry and exit are impossible except for the single door and the single window.`
+` {p:1:Entry and exit are impossible except for the single door and the single window}.`
 ` Therefore, hidden doors and irregular methods of entry cannot exist.`
 ` Rejoice, great detectives.`
 ` *cackle*!"`
 `"`
-`And those were both locked.`
-` The door and the window do not permit any kind of entry or exit when they are locked.`
+`{p:1:And those were both locked}.`
+` {p:1:The door and the window do not permit any kind of entry or exit when they are locked}.`
 ` So it won't work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.`
-` And obviously, it is impossible to unlock the door without the servant room key or a master key."`
+` And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}."`
 `"...It's a pain having to read all these aloud every time.`
 ` Sooner or later, I should think of some word to abbreviate all this into a single phrase."`
 `"But you can't repeat that no one was hiding in this room!`
@@ -325,11 +325,11 @@
 `......At that moment, ......I got it.`
 ` That's right.`
 `......Carry the corpses, leave the letter.`
-`{n}......And not rely on a "hidden door"—in other words, not even able to escape.`
+`{n}......And not rely on a "hidden door"—{i:in other words, not even able to escape}.`
 `...That's it.`
 ` This isn't a question, it's an answer......`
 `"Beato.`
-` ......Before my repetition request, I want to check the definition of these hidden doors that you're talking about."`
+` ......Before my repetition request, I want to check the {i:definition of these hidden doors} that you're talking about."`
 `"What have you thought of?`
 ` Very well, I'll explain.`
 ` A hidden door refers to an entrance or exit that cannot be recognized by those who do not know of it.`
@@ -380,21 +380,21 @@
 `Alright, starting now, I'll flip it over!`
 ` The next thing I'll request she repeat is—`
 `"`
-`No one exists in this room except your group.`
-` "Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon."`
+`{p:1:No one exists in this room except your group}.`
+` {p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}."`
 `"......Wha‐............"`
 `"Let's go back to Jessica's room.`
-` At the time of Jessica's corpse discovery,`
-` only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room."`
-`"Whoops, the corpse of Jessica is also included, of course.`
-` Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of.`
-` No one is hiding."`
+` {p:1:At the time of Jessica's corpse discovery,`
+` only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}."`
+`"Whoops, the corpse of {p:1:Jessica is also included, of course}.`
+` {p:1:Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of}.`
+` {p:1:No one is hiding}."`
 `"And I'll say more.`
-` No method exists by which the doors can be locked from the outside without using a key.`
-` Regarding the windows, no method exists by which they could somehow be locked from the outside."`
+` {p:1:No method exists by which the doors can be locked from the outside without using a key}.`
+` {p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}."`
 `"And while I'm at it.`
-` You are incompetent!"`
-`"*cackle*cackle*cackle*cackle*, hiiihhihihhihihihihihihihihihihi!!"`
+` {p:1:You are incompetent}!"`
+`"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
 `"S‐.........son of a biiiiitch......`
 ` Then.........it really is......a locked room, isn't it............"`
 `"It, ...it was so hard to think of, too.`
@@ -404,7 +404,7 @@
 `It's no good no good no good no goddamn good!!`
 `{n}For a second, I thought I had it!`
 ` It was no goddamn good at all!!`
-`Beatrice, you bitch,`
+`{f:5:Beatrice}, you bitch,`
 ` I thought you were all smoke and mirrors, playing word games that made clever use of red,`
 ` I was certain you'd just cleverly deceived me...!!`
 `......Just when I thought I'd seen a light in the darkness,`
@@ -500,20 +500,20 @@
 ` I can't choose!`
 `{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!`
 `"That is why I am here...!!`
-` Come on, Ushiromiya Battler, kneel.`
+` {p:1:Come on, Ushiromiya Battler, kneel}.`
 ` Then swear your eternal loyalty and lick my shoes...!!"`
-`"If you accept me, all of the riddles will be resolved.`
-` With my power, any kind of locked room can be created or destroyed!!"`
+`"{p:1:If you accept me, all of the riddles will be resolved}.`
+` {p:1:With my power, any kind of locked room can be created or destroyed}!!"`
 `"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer??`
-` I'll make you my favorite piece of furniture.`
-` I'll love you so much and make you my toy until you turn to ashes..."`
-`"*cackle*cackle*cackle*hihihihihihihihihihihyahyahyahhahhahahahahhahahahhahhahhahhahhahhahha!!!"`
+` {p:1:I'll make you my favorite piece of furniture}.`
+` {p:1:I'll love you so much and make you my toy until you turn to ashes}..."`
+`"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"`
 `".........Now it's clear.`
 ` There's no longer any reason to doubt."`
 `"Hm...?`
 ` ......What do you mean by that......?"`
 `"Those two that you kept saying were dead aren't here.`
-` ...And now we have the letter from Beatrice, where she was kind enough to confess that she carried the corpses off.`
+` ...And now we have the letter from {f:5:Beatrice}, where she was kind enough to confess that she carried the corpses off.`
 ` ......That's what it is."`
 `"I've had enough of this farce!!"`
 `As Auntie Rosa yelled this, she looked over at everyone with a harsh expression.`
@@ -583,7 +583,7 @@
 `That's it, bit by bit I'm starting to understand...`
 `......It's because we seek an answer; ...that's why everything keeps getting stranger...`
 `We don't need...an answer.`
-` These are all strange murders committed with bizarre magic by the 19th person, the witch Beatrice, as she follows a creepy ritual.`
+` These are all strange murders committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.`
 `............Isn't that......good enough.........`
 `I don't...want to suspect...anyone anymore.........`
 `Shannon‐chan and Gohda‐san were protesting their innocence, half in tears.`
@@ -591,7 +591,7 @@
 `"............Stop.`
 ` ...What Rosa‐sama says is quite right.`
 ` ...Until we find the corpses,`
-` we cannot prove that Doctor Nanjo and Kumasawa are innocent."`
+` {i:we cannot prove that Doctor Nanjo and Kumasawa are innocent}."`
 `That's right.`
 ` ......By Rosa‐san's argument, if the corpses could be found, then the innocence of at least those people could be proved.`
 `But only the people who were corpses.`
@@ -649,10 +649,10 @@
 `Then, Maria, who had looked like a spectator off by herself, sneered at her mother.`
 `...Auntie Rosa reacted nervously to that laugh, and turned around.`
 `"......Keys don't matter.`
-` ......Beatrice can open doors with magic.`
+` ......{f:5:Beatrice} can open doors with magic.`
 ` She doesn't need keys.`
 ` ...It doesn't matter who has or doesn't have something like that.`
-` Kihihihihihihihihihihihihihi...!"`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
 `"Aren't I always telling you to stop laughing like that?!!`
 ` ......?`
 ` What is iiiit, Battler‐kun?"`
@@ -675,20 +675,20 @@
 `...doing......`
 ` ...All that stuff about tricks and locked rooms never mattered..."`
 `".........It's just, it's just...`
-`.........that the witch Beatrice actually exists,`
+`.........that the witch {f:5:Beatrice} actually exists,`
 ` .........and she really was a witch...`
 ` ......Because I didn't believe that,`
 ` ............it was this painful,`
 ` ............this sad............"`
-`".........Battler, ......you believe in Beatrice......?"`
+`".........Battler, ......you believe in {f:5:Beatrice}......?"`
 `"Yes...!`
 ` I believe.`
-` ...Beatrice "exists".`
+` ...{f:5:Beatrice} "exists".`
 ` And she's a witch, who uses strange magic...!"`
 `"Battler......"`
 `Maria let go of my hand, ...and then she was the one holding my head.`
 `"......That's the way, Battler.`
-` ............Beatrice "existed".`
+` ............{f:5:Beatrice} "existed".`
 ` ......You just couldn't believe that easily, so couldn't see her.`
 ` ............The witch "exists".`
 ` "Exists".`
@@ -797,7 +797,7 @@
 `"..................Anikii..."`
 `"...It's okay.`
 ` I'll protect you.`
-` ......If you're with me, even Beatrice can't lay a hand on you.`
+` ......If you're with me, even {f:5:Beatrice} can't lay a hand on you.`
 ` 'Cause even though I'm small, I'm a witch."`
 `"Yeah.`
 ` .........Maria‐chan.`
@@ -843,14 +843,14 @@
 ` Only a demon or a witch could prove something like that, you know?!"`
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
 ` Stop it already stop it already...!!"`
-`"Please, Beatrice, show yourself right now,`
+`"Please, {f:5:Beatrice}, show yourself right now,`
 ` and tell Auntie Rosa in red that "there are only five master keys"!!`
 ` Please, I beg you, this can only be proved by devils, a witch like you could prove it!"`
 `"Please, Beato, show yourself here and tell Auntie Rosa...`
 `that those are all of the master keys, and that there's no need to suspect anyone anymore...!!!"`
 `"`
-`There are only five master keys.`
-` There are only five master keys."`
+`{p:1:There are only five master keys}.`
+` {p:1:There are only five master keys}."`
 `"...*cackle*, whatever could be wrong?`
 ` It doesn't reach Rosa's ears no matter how often I say it.`
 ` It seems there must still be someone who denies that I exist, isn't that riiiight?`
@@ -870,7 +870,7 @@
 ` Can you do it?`
 ` You can do it, riiiiiiiight??`
 ` Then I'll appear, sure, I'll say it in red, sure!`
-` I'll tell Rosa that there are only five master keys!!"`
+` I'll tell Rosa that {p:1:there are only five master keys}!!"`
 `"Oh, but I understand, there's no way you could throw away your lordly pride.`
 ` But that's alright, that's more than enough, you're starting to waver a bit, aren't youu?"`
 `"For just an instant, you thought maybe it would be alright to lick my shoes, didn't youuu?`

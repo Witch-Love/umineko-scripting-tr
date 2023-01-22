@@ -153,7 +153,7 @@
 ` To think that even though barely half a day has passed since you succeeded the Endless Witch, you can use magic this well.`
 ` ......That talent surprises me.`
 ` It is almost as though you were born a witch."`
-`"Well, I have been a witch since the time I was born.`
+`"Well, I {i:have} been a witch since the time I was born.`
 ` ......Who taught you how to blink?`
 ` That's what using magic is like for me."`
 `".....................`
@@ -161,7 +161,7 @@
 `The witch's face twisted with brutality.`
 `{n}......She was beside herself with excitement at being able to toy with lives again.`
 `"Well then.`
-` ......Gehehehehhihhihihihihihihyahya!`
+` ......Gehehehe{0}hhi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hihyahya!`
 ` First is Rudolf and Kyrie, but what cruel way should I kill them...?!"`
 `"......If you would excuse me,`
 ` but the Predecessor has left instructions that you are to restrain yourself from committing murders of unnecessary cruelty.`
@@ -178,7 +178,7 @@
 ` and follow the epitaph the last time I kill them, right?"`
 `"......So, in the end, no matter how I play, it isn't a problem.`
 ` ......Who'd act well‐behaved with an interesting power like this...?!`
-` Kuhhihihihihihihi!"`
+` Kuhhihi{0}hi{0}hi{0}hihihi!"`
 `Her wild logic was, for an Endless Witch, an extremely valid argument.`
 `{n}The sacrifices for the fourth twilight and onward had prescribed protocols for the method of killing, represented by things like "gouge the head".`
 `However, that referred to the way they died in the end.`
@@ -195,19 +195,19 @@
 `".........No one told me this.`
 ` Shouldn't a witch be able to take a bullet like it's nothing?"`
 `"No.`
-` It would be a fatal wound, exactly the same as it would for a normal human.`
+` It would be a fatal wound, exactly the same as it would for a normal {y:0:Human}{n:0:human}.`
 ` ...To prevent that weak point from being noticed,`
 ` most witches rigorously strengthen their guard with a defense of protective barriers and furniture."`
 `"Do I have any of those protective barrier things?"`
 `"......Constructing a barrier to make even gun bullets ineffective requires much in preparation and rituals.`
-` I am afraid to say that you currently have none of those, Beatrice‐sama.`
+` I am afraid to say that you currently have none of those, {f:5:Beatrice}‐sama.`
 ` Furthermore, you are currently ill‐prepared to summon furniture strong enough to block a bullet."`
 `"So even though I've become a Great Witch with this much magical power, I really do have to be afraid of lead bullets.`
 ` .........Annoying, but I'll just have to accept it.`
 ` So, in that case, should I call some furniture to act as my arms and legs?"`
 `"Yes.`
 ` Leaving everything to your servants while not exposing yourself to danger is also part of a witch's elegant temperance.`
-` Beatrice‐sama, leave this to the furniture and hide in a safe place."`
+` {f:5:Beatrice}‐sama, leave this to the furniture and hide in a safe place."`
 `"...............Fine."`
 `"...Seven Sisters of Purgatory.`
 ` I don't care who, any two of you...!"`
@@ -241,7 +241,7 @@
 `".........There's even rules on how to kill them.`
 ` .........Why do I have to be constrained by my predecessor?`
 ` ............It's so rigid and boring."`
-`As the witch looked up at the portrait of the Predecessor Beatrice hanging in the hall, she cursed...`
+`As the witch looked up at the portrait of the Predecessor {f:5:Beatrice} hanging in the hall, she cursed...`
 `The three had already arrived at the kitchen, and were gathering food supplies.`
 `Thinking of the possibility that poison had been mixed in, they gave up on the alluring fruits and vegetables,`
 ` and gathered a whole cardboard box full of only the safe canned foods.`
@@ -267,7 +267,7 @@
 ` ......I didn't sense them until a short while ago.`
 ` ...But just now, I felt it.`
 ` ......Just now, someone...`
-`set up an ambush for us."`
+`{i:set up an ambush for us}."`
 `"......Then, there's no reason we need to return the way we came.`
 ` There's a back door over there, right?`
 ` Let's leave that way."`
@@ -295,7 +295,7 @@
 `The instant they exited into the hall, Rudolf noticed a suspicious shadow right in front of them and yelled...`
 `In that instant, a storm of gold leaf started blowing, and gold butterflies dyed the area a golden color.`
 `"............I can't believe it.`
-` A lowly human predicted our ambush?"`
+` A lowly {y:0:Human}{n:0:human} predicted our ambush?"`
 `"I‐it isn't my fault.`
 ` I was hiding my presence...!"`
 `"Don't hesitate!! FIRE!!!"`
@@ -307,9 +307,9 @@
 `{n}They at least had enough speed to dodge those.`
 `"Wait a sec!`
 ` You won't even let us say our names?!`
-` This is why I hate humans!"`
+` This is why I hate {y:0:Human}{n:0:human}s!"`
 `Leviathan protested, popping her head out from behind a pillar in the shadow of the staircase, a full ten meters from where she had supposedly been.`
-`"By order of Beatrice‐sama, we shall now slay you!`
+`"By order of {f:5:Beatrice}‐sama, we shall now slay you!`
 ` We are ordered to take some time teasing you.`
 ` You are free to resist, but know that it is useless...!"`
 `That voice came from overhead.`
@@ -334,7 +334,7 @@
 `Their speed was overwhelming, and they easily blocked the others' path of retreat.`
 `"............I'll inspect their skill as furniture.`
 ` It'd be nice if they entertained me."`
-`"Beatrice‐sama, I might suggest it wise not to show yourself carelessly..."`
+`"{f:5:Beatrice}‐sama, I might suggest it wise not to show yourself carelessly..."`
 `"A king doesn't carelessly wander about the center.`
 ` That's part of a king's—`
 `a witch's dignity!"`
@@ -346,7 +346,7 @@
 `"You'd make a good wife.`
 ` Your husband would be pleased to hear that kind of thing when he comes home tired."`
 `"To think that you're still relaxed enough to speak such vulgarity at a time like this...!"`
-`"Beatrice‐sama, thank you for such good prey!`
+`"{f:5:Beatrice}‐sama, thank you for such good prey!`
 ` Die!!!"`
 `Rudolf fired first.`
 `But even before that bullet could hit her, Belphegor had already moved behind Rudolf's back.`
@@ -389,7 +389,7 @@
 `The arm Leviathan swung trailed purple.`
 `{n}It was a magic blade that cut by the power of malice.`
 `Kyrie guarded herself against that with her gun.`
-`......Even though the magic blade should have been able to cut through metal like butter, the gun, with its extremely high magic resistance,`
+`......Even though the magic blade should have been able to cut through metal like butter, the {i:gun}, with its extremely high magic resistance,`
 ` was able to block the blade as easily as if it were a rolled up newspaper.`
 `Rapidly, two times, three times.`
 ` It blocked all of them.`
@@ -407,20 +407,20 @@
 ` He had been gradually chased down by Belphegor, and had been pushed back into the original hall.`
 `".........The Predecessor's furniture is pretty good.`
 ` She's lacking in flair, though!"`
-`"Beatrice‐sama...!`
+`"{f:5:Beatrice}‐sama...!`
 ` It isn't over yet, it's dangerous to show yourself...!"`
 `"........................Could you...`
 `...possibly be...Aneki?"`
 `"That used to be my name.`
 ` But not now, Rudolf."`
 `"You don't have to tell me.`
-` You're going to say you're the Golden Witch, Beatrice, right?"`
+` You're going to say you're the Golden Witch, {f:5:Beatrice}, right?"`
 `"Ehheheheheh, ahhahahahaha!`
 ` How did you know?"`
 `"......Since the time Rosa was killed, I had a general idea."`
 `".........Rosa, forgive me.`
 ` Forgive me for sending the sister you hated down to your hell...!!"`
-`"Beatrice‐sama, look out!!!"`
+`"{f:5:Beatrice}‐sama, look out!!!"`
 `Rudolf pointed the unforgiving barrel of his gun at the witch who claimed to have once been his sister.`
 `{n}But Belphegor could not permit that, and savagely attacked.`
 `She sprung at him, vanished, and got behind him.`
@@ -446,7 +446,7 @@
 ` and when I converted that into power, I gained a strength greater than that of any of the other sisters."`
 `"It's important to have a moderate inferiority complex when you're a girl.`
 ` It teaches women about cosmetics and hard work."`
-`"I don't like using the limits of my power against mere humans.`
+`"I don't like using the limits of my power against mere {y:0:Human}{n:0:human}s.`
 ` ......But I will turn my envy of your ability to completely trust your husband into power."`
 `"......I don't like it.`
 ` Why are you so relaxed when you're fighting for your life?"`
@@ -471,7 +471,7 @@
 ` I was jealous from the bottom of my heart of the other six, who had grown quickly!`
 ` I was jealous for seven days and seven nights!!`
 ` Behold the power and speed I ultimately gained...!!`
-` Die, Ushiromiya Kyrieeeeeeeeeeee!!!"`
+` Die, Ushiromiya Kyrieee{-}e{-}e{-}e{-}e{-}e{-}eeee!!!"`
 `The demon stake exposed her true form, leaping about at a terrible speed.`
 ` The noise from her colliding with and bouncing off the walls sounded like a machine gun.`
 `By now, Kyrie probably couldn't tell whether it was a single stake or a swarm of beetles flying and bouncing around.`
@@ -511,7 +511,7 @@
 `Don't make me laugh, you little brat.`
 `".........How could you understand the madness of a woman...`
 `whose man was stolen from her, and who has burned with envy for eighteen years...!!"`
-`"U‐......uoawaaaaaAAaaaaAAAAHHH!!!!"`
+`"U‐......uoawa{0}aaa{0}aAAa{0}a{0}aaAA{0}AAHHH!!!!"`
 `If Leviathan's power had 24 hours × 7 days, or 168 hours' worth of speed...`
 `Then the power that Kyrie had accumulated...`
 `was 24 hours in 1 day,`
@@ -521,7 +521,7 @@
 ` it was 157,680 hours.`
 `...Compared to Leviathan's power and speed,`
 ` it was more than 938 times greater.`
-`So then, even if Leviathan was soaring at the speed of sound, 1,225 km/h,`
+`So then, even if Leviathan was soaring at the speed of sound, {nobreak:1,225 km/h},`
 ` ......to Kyrie's eyes, it only looked like...`
 `1/938 of that.`
 `So then, so then, 1225÷938 is...`
@@ -538,7 +538,7 @@
 `"You're completely lacking in both love and envy."`
 `"......Come back when you're older, darling."`
 `"Rudolf, what happened to all that vigor from a couple seconds ago?`
-` Ikezukuri is best served while it's still twitching.`
+` {ruby:Sliced live fish:Ikezukuri} is best served while it's still twitching.`
 ` After it dies, it isn't interesting in the slightest.`
 ` That's enough.`
 ` Why not kill him now and forever?!"`
@@ -551,7 +551,7 @@
 ` In the very end, I want to do one of those..."`
 `"......What do you mean, one of those?"`
 `"One of those things that westerns made famous.`
-` That thing where we put our backs together, walk three steps, and then bang."`
+` That thing where we put our backs together, walk three steps, and then {i:bang}."`
 `"............Ah, a duel.`
 ` Very well.`
 ` If that will satisfy your regrets in this world, I'll accept."`
@@ -594,7 +594,7 @@
 `"..................ku‐`
 `...............u..."`
 `"Wh‐...What a mood‐killer.`
-` To think that someone who is furniture to a witch could be defeated by a human...!"`
+` To think that someone who is furniture to a witch could be defeated by a {y:0:Human}{n:0:human}...!"`
 `"Know your shame.`
 ` Worthless, pathetic...!`
 ` Why don't you just stay sprawled there and die forever?!"`
@@ -630,11 +630,11 @@
 ` It's checkmate."`
 `The two of them pinned the witch down the barrels of their guns.`
 `"............Worthless furniture.`
-` ...I can't believe they were beaten by human opponents.`
+` ...I can't believe they were beaten by {y:0:Human}{n:0:human} opponents.`
 ` ...Worthless.`
 ` Stupid.`
 ` ...Boring...!"`
-`"Beatrice‐sama, we should retreat from this place.`
+`"{f:5:Beatrice}‐sama, we should retreat from this place.`
 ` ......There is no furniture or barrier to guard against bullets here."`
 `"Eheheheh,`
 ` ......*cackle*cackle*cackle*cackle*cackle*!"`
@@ -656,7 +656,7 @@
 `"Come, arise, furniture suitable for me...!!`
 ` Not that cheap furniture, much much stronger ones!`
 ` Cruel ones!!`
-` Ahhahahahahahahahahahahyahhyahhya!!!"`
+` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!"`
 `"No funny stuff...!`
 ` I'll pull the trigger...!"`
 `In response to the witch's call, the hall was once again buried in the color of gold.`
@@ -682,13 +682,13 @@
 `"..................The Chiester Sisters troops...`
 ` .........Even the Predecessor...`
 `...wasn't able to summon the Pendragon's Memorial Troops on a moment's notice, and so easily...!"`
-`"Chiester410. Right here."`
-`"Chiester45. Right here."`
-`"...You two are suitable furniture for me, right?"`
+`"Chiester{ruby:four‐one‐zero:410}. Right here."`
+`"Chiester{ruby:forty‐five:45}. Right here."`
+`"...You two {i:are} suitable furniture for me, right?"`
 `"From reading you a picture book, to going on a friendship date, to shooting down a meteorite,`
 ` we'll take care of anything. Nihihi."`
 `"I‐if we don't take care of it, the Dragon King will get mad at us...!`
-` Please, your orders, Great Lady Beatrice!"`
+` Please, your orders, Great Lady {f:5:Beatrice}!"`
 `".........Rudolf‐san.`
 ` Let's run.`
 ` These guys are no good......!"`
@@ -715,7 +715,7 @@
 ` Let's play together again sometime.`
 ` Nihhihihihihihi!"`
 `"F‐...410, you mustn't chat, you'll get in trouble...!`
-` Let us carry out the great Lady Beatrice's order at once...!"`
+` Let us carry out the great Lady {f:5:Beatrice}'s order at once...!"`
 `"Nihi.`
 ` Looks like we're on the job right now nyeh."`
 `"......410, understood.`
@@ -766,24 +766,24 @@
 `{n}It impaled Rudolf, and it impaled Kyrie.`
 `So they died at almost the same time, dropped to their knees at the same time, and fell over at the same time.`
 `"......What is thiiis?`
-` So overwhelming, ahhahahahahahahahahahahaha!`
+` So overwhelming, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!`
 ` That was ridiculously easy, wasn't it?`
-` Kuhhihihyahyahyahyahya!`
+` Kuhhihihya{0}hya{0}hya{0}hyahya!`
 ` This is the kind of furniture I need.`
 ` Way different from my predecessor's second‐hand furniture!"`
 `"Come on, bring their corpses here.`
 ` I'll keep reviving them until I'm bored, and try killing them in the most brutal ways I can think of.`
 ` Aaah, to think that being a witch could be so much fun,`
-` that taking a life could be so much fun, ahhahahahahahahahahahaha!"`
+` that taking a life could be so much fun, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `......The most shunned action to take for someone born a human is the murder of another human.`
 `It's only natural for a human not to understand how pleasurable it is to break this taboo.`
-`......But she was no longer a human.`
+`......But she was no longer a {y:0:Human}{n:0:human}.`
 `{n}She was a witch.`
 `...And there were some pleasures that only witches could understand.`
 `By now, she had tasted those pleasures, and was totally immersed in them.`
 `...After learning that the contents of the forbidden pot were honey, she could no longer live without it.`
 `......No, maybe the contents were honey because they were forbidden.`
-`In any case, the act of killing humans gruesomely,`
+`In any case, the act of killing {y:0:Human}{n:0:human}s gruesomely,`
 ` and doing it over and over, was by now giving her a drug‐like pleasure.`
 `As the witch rolled over laughing,`
 ` the gold snake which had just been fired returned as though being hauled back in.`
@@ -791,7 +791,7 @@
 `The witch's order had been carried out.`
 `...Rudolf and Kyrie had been killed instantly, and their bodies had been carried back.`
 `"Chiester45, 410, execution of orders completed.`
-` We await your next order, Great Lady Beatrice.`
+` We await your next order, Great Lady {f:5:Beatrice}.`
 ` Please, your order...!"`
 `"From babysitting, to playing you in online multiplayer,`
 ` to shooting down a space shuttle, we'll take care of everything.`
@@ -801,7 +801,7 @@
 ` ...oh, I guess they're the Five Sisters now.`
 ` I need those girls to pierce and gouge the forehead and the chest."`
 `"......But I can do that at the very end, and I'm free to play in any way until then, right?`
-` Eheheheheheheheheh!"`
+` Eheheh{0}eh{0}eh{0}eh{0}eh{0}eheh!"`
 `"Wait wait wait waait.`
 ` ...Have you already forgotten what I told you?!"`
 `"Oh, it's you, Predecessor‐sama.`
@@ -857,8 +857,8 @@
 `"Well, about that,`
 ` ...that is because making all humans accept the existence of witches is related to perfect control.`
 ` There was a single holdout, you see, and he just won't accept me as a witch."`
-`".........Why is it that you need that human's approval?`
-` Witches are witches, and they use magic; why do you need a human's acknowledgement for this?"`
+`".........Why is it that you need that {y:0:Human}{n:0:human}'s approval?`
+` Witches are witches, and they use magic; why do you need a {y:0:Human}{n:0:human}'s acknowledgement for this?"`
 `"...Mh, .........well, like I said earlier, that which is called magic is—"`
 `"I am a witch.`
 ` I can use magic without anyone's approval in particular, so what's your point......?"`
@@ -906,7 +906,7 @@
 `Even Beato could not escape from the Chiester Sisters' attacks without any preparation.`
 `...In the past, she had placed her greatest trust in them, so she knew down to her very soul how terrifying they were.`
 `".........Predecessor‐sama, if you would retire.`
-` .........I would not recommend damaging Beatrice‐sama's mood any further."`
+` .........I would not recommend damaging {f:5:Beatrice}‐sama's mood any further."`
 `"......Predecessor‐sama..."`
 `"A‐.........alright.`
 ` ...I shall now take my leave.`
@@ -961,7 +961,7 @@
 ` He won't accept witches, and he won't accept me.`
 ` ......In that case, how do I make Battler accept me, then...?`
 ` Are you saying that if the north wind doesn't work, ...then I should shine on him as the sun from now on...?`
-` I should, after all this time......?"`
+` {i:I} should, after all this time......?"`
 `"It is October now.`
 ` The Halloween season.`
 ` .........It is the month of rebirth, when the sun dies and is revived again.`
@@ -975,13 +975,13 @@
 `The number of deaths given to Rudolf and Kyrie had long surpassed anything you could count on both your fingers and your toes.`
 `The witch was breathing so hard her shoulders shook, but it wasn't because she was tired.`
 `{n}...She just couldn't hide the ragged breathing caused by her still uncontainable excitement.`
-`"Ahhahahahahahahahahahhahahahaha!!`
+`"Ahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hha{0}ha{0}hahaha!!`
 ` How fun it is to do as I will with the life and death of people!`
 ` Before the power of the Endless Witch, every one of the infinities I paint with my mind becomes reality!"`
-`"No matter how mash them,`
+`"No matter how {i:sloppily} I {i:mash} them,`
 ` I can revive them, returning them to normal with just a snap of my fingers."`
 `"Because in the end, I just have to return the corpses to normal and make a token show of following the epitaph.`
-` Ahhahahahahahahahahahahahahahahahaha!!"`
+` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"......Hey, you guys,`
 ` have you ever sliced a stuffed animal's stomach open?"`
 `"Never, nihi.`
@@ -1033,7 +1033,7 @@
 `"You misunderstand.`
 ` ............All of that belongs to the Golden Witch.`
 ` No one is qualified to touch it except for me.`
-` *giggle*giggle*giggle*, ahhahahahahahahahahahahahahahahaha...!!"`
+` *giggle*giggle*giggle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
 `"......What are you?`
 ` Are you tryin' to say you're that thing Eva told me about long ago......the witch Eva from when she was young?"`
 `"That's right.`
@@ -1050,7 +1050,7 @@
 ` It's a different human!!"`
 `"That's right.`
 ` I am not Ushiromiya Eva.`
-` I'm the Golden Witch, Beatrice."`
+` I'm the Golden Witch, {f:5:Beatrice}."`
 `"It's so fun, not being bounded by any limitations, and the pleasure of being able to do as I will with life and death is truly wonderful...!`
 ` I don't have to apologize for breaking the goldfish bowl,`
 ` and I can tear the stuffed animal as much as I want!`
@@ -1133,7 +1133,7 @@
 ` Of course, that was not the witch's intention, but for the Seven Sisters, it was horribly humiliating.`
 `...However, they had already messed up, with two of the sisters defeated, so they had no right to question her.`
 `Only Ronove appreciated that, and he rested his hand on her shoulder in understanding.`
-`"......It is Beatrice‐sama's order.`
+`"......It is {f:5:Beatrice}‐sama's order.`
 ` Lucifer, carry the three, and deal with them according to the protocol of the ritual.`
 ` Then, when you are done, lend me a hand with the cleanup."`
 `"Certainly......"`
@@ -1151,4 +1151,4 @@
 `"Honey,`
 ` ...answer me...`
 ` .........Honey...!!`
-` Uuuuuhhuuuuuughhhuu!!"`
+` Uuuuuhhuuu{0}uuughhhuu!!"`

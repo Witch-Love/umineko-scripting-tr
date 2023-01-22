@@ -36,14 +36,14 @@
 ` It suits you, Erika."`
 `"......And......congratulations to you too,`
 ` ......Mr. Groom."`
-`At that point, ......Bernkastel stared straight into the groom's eyes.`
+`At that point, ......{f:5:Bernkastel} stared straight into the groom's eyes.`
 `The groom...`
 `...didn't answer.`
 `His eyes were gray.`
 `......His lips would mutter something from time to time, but no one could tell if the words meant anything.`
-``
-`"Hey, ......are you listening?`
-` All of you?"`
+`{a:c:`
+`"Hey, ......{i:are you listening}?`
+` All of you?"}`
 `She spoke to the groom in the plural.`
 `{n}......Of course, there was only one groom.`
 `And, of course, the gray‐eyed groom didn't answer...`
@@ -78,7 +78,7 @@
 `"......Don't worry.`
 ` I won't love you forever.`
 ` After all, the point of this ceremony is to make you submit to me.`
-` ...Your heart will be shut inside an inescapable locked room forever......where I, Furudo Erika, the detective and the Witch of Truth, will command it.`
+` ...Your heart will be shut inside an inescapable locked room forever......where I, Furudo {f:5:Erika}, the detective and the Witch of Truth, will command it.`
 ` Your position as territory lord and your ring will become mine..."`
 `"...........................Can't...`
 `...get..."`
@@ -93,4 +93,4 @@
 ` I'll remain by your side as your wife for eternity......and get to enjoy that look of anguish on your face all by myself."`
 `"*giggle*giggle*, ahhahahahahahahaha...!!`
 ` I'll defile you forever.`
-` ......Ushiromiya Battleeeeeeeeeeeeeeeeer!!!"`
+` ......Ushiromiya Battlee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!!"`

@@ -125,7 +125,7 @@
 ` No matter how much you tell people born after the war, they'll never understand how hard it was back then."`
 `"Oops, looks like my bad habit's jumped out again...!`
 ` Sorry, sorry!`
-` Wahahahahaha!"`
+` Waha{0}ha{0}ha{0}haha!"`
 `"You two should have some tea as well.`
 ` I think it might help you if once in a while you used your own mouths to learn more about the tea you're brewing."`
 `".........No, we'll be fine.`
@@ -188,12 +188,12 @@
 `"If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious.`
 ` They aren't worried about appearances as long as they can squeeze some money out of us.`
 ` ...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me."`
-`"We can live with damage...!`
+`"We can live with {i:damage}...!`
 ` If by any chance Father's secret is discovered, it won't be a matter of mere damage...!!"`
 `"There's nothing wrong with persisting until the last second tomorrow.`
 ` If we're able to make it through safely, we won't have to lose anything.`
 ` There's no need to get impatient and use up our trump card...!"`
-`"You want to wait until after they start accusing us of locking Father up, and then reply that he's gone missing?`
+`"You want to wait until after they start accusing us of locking Father up, and {i:then} reply that he's gone missing?`
 ` That is far more likely to draw suspicion...!!"`
 `"........................nnnn......"`
 `"......Let's just...`
@@ -356,7 +356,7 @@
 `"Yeah, I'm satisfied.`
 ` ......It looks like your favorite season really is the same as mine.`
 ` ......I like the fall too.`
-` .........Heheheheheheheheheheheheh..."`
+` .........Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh..."`
 `"......Liar!`
 ` You just made that up...!"`
 `This man would no doubt have done the same thing no matter which season I said I liked.`
@@ -465,7 +465,7 @@
 `"......Or are you offering to find me and introduce me to everyone...?`
 ` Introduce me to Jessica too.`
 ` ......Tell her I'm her older brother by one year.`
-` Heheheheheheheheheheheheheheh!!"`
+` Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!"`
 `"S‐stop it...... Stay away from Jessica......"`
 `"I guess I've scared you a bit too much.`
 ` That's all from me...for tonight.`
@@ -495,7 +495,7 @@
 `"I'll keep it!`
 ` I'll keep my promise!!`
 ` So stop it, just stop it!`
-` Stop iiiiiiiiiiiiiiittt!!"`
+` Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"`
 `......As she screamed, Natsuhi crushed the card she had found under the clock into a little ball.`
 `It had a pattern on it like a tarot card,`
 ` along with one single word:`
@@ -583,16 +583,16 @@
 ` Even though Father wore this on his finger, I know more about it than anyone else.`
 ` ......This is Father's ring, no doubt about it!`
 ` Why is it here?!"`
-`"Then it really was Father who wrote this letter...?!"`
+`"Then it really {i:was} Father who wrote this letter...?!"`
 `"......Heh, heheheheh.`
 ` The sender isn't Dad.`
 ` ...It's someone much more interesting."`
 `"Then, ......who is the letter from?"`
 `"It's from the Ushiromiya family alchemist!`
-` .........The Golden Witch, Beatrice‐sama......!!"`
+` .........The Golden Witch, {f:5:Beatrice}‐sama......!!"`
 `Rudolf showed everyone the part of the letter where that was written.`
 `{n}It really did say that......`
-`"I‐......it's from Beatrice......?!"`
+`"I‐......it's from {f:5:Beatrice}......?!"`
 `"What's it say......?"`
 `"I'll read it.`
 ` .........<Congratulations>...`
@@ -604,12 +604,12 @@
 ` ......I pray with utmost sincerity that you flourish as the new head............"`
 `"......Hah, ......hahah!`
 ` What the hell...!`
-` I see, Dad just won't come out of his study, so Beatrice, the witch of the forest, has acknowledged Battler directly...!`
-` Hahaha, hahahahahahahahaha!"`
+` I see, Dad just won't come out of his study, so {f:5:Beatrice}, the witch of the forest, has acknowledged Battler directly...!`
+` Hahaha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
 `"......Battler‐kun.`
 ` You should hold onto this ring.`
 ` ......This is a special ring to be worn by the family head.`
-` .........I don't know who this Beatrice is,`
+` .........I don't know who this {f:5:Beatrice} is,`
 ` but she's watched the whole thing and sent you this ring after acknowledging you as the true successor."`
 `"I‐......is that alright...?`
 ` It's such an important ring......"`
@@ -644,12 +644,12 @@
 `.........I'm sleepy...`
 `With half‐asleep eyes, I opened my umbrella.`
 `{n}The large drops of rain pounded against it mercilessly.........`
-`Technically, they had called an end to the family conference at 1 a.m.,`
+`Technically, they had called an end to the family conference at {nobr:1 a.m.},`
 ` but the post‐match scuffles were still dragging on.`
 `I was really jealous of Auntie Rosa, who managed to slip out of there at that time.`
 `She cleverly got away by saying that she'd check on Maria, who might have been staying up too late.`
 `Thanks to Dad constantly involving me, I missed my chance to escape,`
-` ...and they made me stick around until now, ......3 a.m....`
+` ...and they made me stick around until now, ......{nobr:3 a.m.}...`
 `What on Earth did they spend all that time deciding...?`
 `Nothing got decided at all.`
 `......They just kept on arguing about who said what, like elementary school kids.`

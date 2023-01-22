@@ -6,7 +6,7 @@
 ` After all, the curtain is rising on the oh‐so‐fun fourth game...!"`
 `It seemed that she truly had been so excited that she hadn't gotten any sleep.`
 `And yet she showed absolutely no signs of tiredness; was that due to her youth, or her low mental age?`
-`Ronove chose not to say that aloud, and laughed with a "pu ku ku" instead.`
+`Ronove chose not to say that aloud, and laughed with a {nobreak:"pu ku ku"} instead.`
 `"I really ran that Battler into the ground last time!`
 ` Ah, that look of "you tricked meee" all over his face!`
 ` He looked so pathetic!`
@@ -27,7 +27,7 @@
 `"You took Battler‐sama's innocent heart, Milady,`
 ` and thrillingly, splendidly, atrociously, mercilessly, and in quite the uncultured manner, enough to make one think "maybe I went a teensy little bit overboard...?",`
 ` you most assuredly perpetrated the very worst of atrocities against it."`
-`"I am quite sure most people would start to feel down.`
+`"I am quite sure most people {i:would} start to feel down.`
 ` Pukkukukuku, so much so, that I doubt they would ever want to see your face again."`
 `"S‐so you understand...!"`
 `"I also, umm, considering that the fourth game is finally getting underway,`
@@ -48,20 +48,20 @@
 `"Pukkukukuku.`
 ` It is only natural.`
 ` ...After all, you`
-` com‐`
+` {nobreak:com‐`
 `pre‐`
-`hensively`
+`hensively}`
 ` destroyed him, Milady.`
 ` That would turn most anyone into a misanthrope."`
-`"Hoh, distrust of humans? How convenient!`
-` Let him give up on humans and trust witches, wahahaha...`
+`"Hoh, distrust of {y:0:Human}{n:0:human}s? How convenient!`
+` Let him give up on {y:0:Human}{n:0:human}s and trust witches, wahahaha...`
 ` ...............O‐...oh,`
 ` *cough*.`
 ` Sorry, I took it too far."`
 `Beato had tried to joke about it, but it seemed that the situation was quite serious, and after picking up on this, she hid her laughter.`
 `"......Is it really that serious...?`
 ` Sh‐should we wait just a little longer before beginning the fourth game...?"`
-`"Because Lady Bernkastel's guest will be coming,`
+`"Because Lady {f:5:Bernkastel}'s guest will be coming,`
 ` it may be more appropriate to open the fourth game quickly.`
 ` However, it might be useful if you were to show him a little consideration, Milady."`
 `"Consideration!`
@@ -100,15 +100,15 @@
 ` Even the croissant wants me to eat i~~t!!!"`
 `"Y‐yaa~y, yoo‐hooooooooo, g'moooooorning, Battleeee~r!!`
 ` Get a load of this guy, first thing in the morning and he's back to moping already~?!?!`
-` It's the beginning of a new day, and a new game, you know, so get your spirits up and let's get this party starteeeeeeeeeeeddd!!"`
+` It's the beginning of a new day, and a new game, you know, so get your spirits up and let's get this party starte{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeddd!!"`
 `...The door opened forcefully.`
-`Like a marathon runner drawn on a certain caramel box,`
+`Like a marathon runner drawn on a {c:86EF9C:certain caramel box},`
 ` with her hands held high and with an idiotic cheeriness,`
 ` ......Beato appeared.`
 `For some reason, countless country flags and confetti scattered everywhere, creating what was clearly intended to be the perfect party atmosphere.`
 `......Battler and Beelzebub, who had been grappling on the floor over the croissant, completely forgot about their argument and stared at her speechless.`
 `"Kya‐...kyahahahaha!`
-` Good morning, Beatrice‐sama!`
+` Good morning, {f:5:Beatrice}‐sama!`
 ` Well, that's all for me!`
 ` Here, Battler‐kun, say aa~h!"`
 `"Mggmffff!!"`
@@ -124,7 +124,7 @@
 ` he looks like he's in high spiriiiiiiits!!`
 ` He isn't clutching his knees!`
 ` And he's answering!`
-` And he was even in the middle of eating!!"`
+` {i:And} he was even in the middle of eating!!"`
 `"Pukkukukukuku!!`
 ` No, no, he certainly was clutching his knees, under the blanket as he slept like a baby.`
 ` I informed him that it was time for him to wake up, but he just wouldn't get out of bed.`
@@ -179,7 +179,7 @@
 `She may have thought that Battler would surely be the one to break that silence with laughter.`
 `...However, Battler's serious expression didn't change in the slightest.`
 `So, to break that silence, Beato had no choice but to start laughing herself.`
-`"*cackle*cackle*, hahhahahahahahahahahahahahahaha...!!`
+`"*cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
 ` As things should be.`
 ` You and I are worthy adversaries.`
 ` No matter how favorable our relationship, we shall never cross that line defining us as enemies.`
@@ -241,7 +241,7 @@
 `"......You helped me out last game when things were really coming down to the wire.`
 ` I'm grateful."`
 `"I don't need gratitude.`
-` The way you were acting was just flaccid.`
+` The way you were acting was just {i:flaccid}.`
 ` I only told you to get a clue."`
 `"Kuhhyahhyahhya!`
 ` Yesss, Battler is flaccid indeed, hyahhyahha!"`
@@ -250,7 +250,7 @@
 `"...............Well, it looks like someone hates me."`
 `"I'm just annoyed that you aren't fighting seriously."`
 `"You say I'm not serious......?"`
-`"You can't possibly mean that the mess you got yourself into earlier was you being serious?`
+`"You can't possibly mean that the mess you got yourself into earlier was you being {i:serious}?`
 ` ......What do you take me for?`
 ` How long do you intend to go along with this witch's farce?"`
 `"...I am fighting Beato in my own way.`
@@ -328,7 +328,7 @@
 `"*cackle*cackle*!`
 ` Oh, those? Those things that run around and around in a wheel night after night?"`
 `"At a glance, you might think that running around in a wheel is endless.`
-` ......Endless Witch, Beatrice.`
+` ......Endless Witch, {f:5:Beatrice}.`
 ` You are just like that wheel.`
 ` And he is the one running around in the wheel forever, thinking he's fighting, but actually just making a fool of himself."`
 `"......This isn't a game.`
@@ -362,18 +362,18 @@
 `"Yeah... I get it.`
 ` ......You're telling me not to swallow information given to me by others, but to think for myself.`
 ` .........I've just been swallowing the magic that Beato showed me."`
-`"I'd stopped thinking.`
+`"{i:I'd stopped thinking}.`
 ` That's why it was no good."`
 `Battler grimaced as he remembered his many painful losses.`
 ` ...Seeing that, the witch laughed audaciously once again.`
 `"I will advise you in a way that will be to your advantage.`
 ` Of course, you shouldn't just swallow the things I say.`
 ` Because no one can provide absolute proof that I'm on your side."`
-`In the last game, Virgilia, who I'd thought was an ally, turned out to be on the witch's side after all.`
-`......Battler couldn't get that eerie smile worn by Virgilia, who he had even thought of as dependable, out of his head.`
+`In the last game, {f:5:Virgilia}, who I'd thought was an ally, turned out to be on the witch's side after all.`
+`......Battler couldn't get that eerie smile worn by {f:5:Virgilia}, who he had even thought of as dependable, out of his head.`
 `"So you don't have to unconditionally trust me.`
 ` Therefore, taking my advice as nothing more than an opinion to be considered is absolutely fine.`
-` After all, ......the player who's fighting in a game against the witch is you."`
+` After all, ......the player who's fighting in a game against the witch {i:is you}."`
 `"...Yeah, you're right.`
 ` Saying I lost because I followed the moves of an outsider would be just too pathetic of an excuse."`
 `"Indeed it would!`
@@ -382,7 +382,7 @@
 ` It is good that you understand that.`
 ` *cackle*!"`
 `"No, I'm not an outsider.`
-` Beatrice, Ushiromiya Battler,`
+` {f:5:Beatrice}, Ushiromiya Battler,`
 ` ...and me with my bird's‐eye perspective over you...will fight in a formation almost like a triangle.`
 ` At a glance it might not seem to be a united front, but fighting together is not the only way to form a united front."`
 `"Hoh.`
@@ -411,7 +411,7 @@
 ` After you've said so much, it makes me want to...`
 `trick you all over again, you see...?`
 ` And I want to see what kind of face you'll make when you realize that you've been tricked yet again!`
-` I like it, kuhhahahahahahahaha!!"`
+` I like it, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"......So, it looks like you know my name, but I don't know yours.`
 ` ...Tell me your name."`
 `For a while, the woman remained silent without the slightest change in her expression.`

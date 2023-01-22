@@ -99,20 +99,20 @@
 `......And.`
 ` There's an extremely high likelihood that this mass murder of six people is a "game".`
 `Because the culprit had proclaimed that in a letter.`
-`I heard that a Western‐style envelope with the family crest, just like the one Maria claimed to have received from Beatrice yesterday,`
+`I heard that a Western‐style envelope with the family crest, just like the one Maria claimed to have received from {f:5:Beatrice} yesterday,`
 ` had been found in the boiler room where Grandfather's corpse had been discovered.`
 `This was what the letter said:`
-`So that there will be no misunderstandings.`
+`{e:070:So that there will be no misunderstandings.`
 `{n}The game I seek is whether or not you can solve the riddle of the epitaph,`
 ` not whether or not you can catch me.`
-`{n}If you do not solve the riddle of the epitaph, the pitiful sacrifices will further increase in number.`
+`{n}{n}If you do not solve the riddle of the epitaph, the pitiful sacrifices will further increase in number.`
 `{n}It would be more wise to spend your time solving the epitaph than searching for me.`
-`{n}If no one can solve the riddle of the epitaph, no one will survive.`
-`If a person appears with skill enough to solve the riddle of the epitaph, I will give them all the gold of the Golden Land,`
+`{n}{n}If no one can solve the riddle of the epitaph, no one will survive.}`
+`{e:070:If a person appears with skill enough to solve the riddle of the epitaph, I will give them all the gold of the Golden Land,`
 ` the Ushiromiya family headship, and all of my power.`
-`{n}I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.`
+`{n}{n}I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.`
 `{n}And I look forward to seeing who will receive the headship from me.`
-`{n}Beatrice the Golden.`
+`{n}{n}{nobreak:{m:-3:—}—}{f:5:Beatrice} the Golden.}`
 `...This riddle of the epitaph was...that thing.`
 `That strange epitaph written in the same place as the portrait of the witch, displayed in the hall of the mansion.`
 `Grandfather was the one who ordered that it be written,`
@@ -124,7 +124,7 @@
 `......If this wasn't a "game", what would you call it...`
 `The bold opinion that we should search the premises for the culprit did come up once.`
 `However, there was a good chance they were armed, and there wasn't necessarily only one of them.`
-`And, ...while they might have been able to kill more than six people, they had stopped at six.`
+`And, ...while they might have been able to kill more than six people, they had {i:stopped at six}.`
 `In the end, the opinion that we should avoid carelessly antagonizing the culprit,`
 ` and hole up in a safe place while we waited for the police to arrive, won out...`
 `After the adults had carefully checked that the doors and windows in the guesthouse were locked, they set up camp in the lobby.`
@@ -132,9 +132,9 @@
 ` their expressions showed that they were already fatigued from this long day, which had still barely begun...`
 `There was nothing that I could do.`
 `Now, all I could do was be taught how to use a gun,`
-` to prepare for the off‐chance that...something would happen which led to an excess of guns......`
+` to prepare for the off‐chance that...something would happen which {i:led to an excess of guns}......`
 `......That's the way.`
-` Just obediently stay there, me and the rest of you.`
+` Just obediently stay there, {i:me and the rest of you}.`
 `"...............Six people in the beginning again.`
 ` And this time it's Grandfather and all of the servants put together."`
 `"Most likely,`
@@ -150,7 +150,7 @@
 ` She probably immediately went to block the way of escape that you would ultimately retreat into."`
 `"Beato already proclaimed in red that there are no more than 18 people on this island.`
 ` ...So basically,`
-` .........she's saying "give it up".`
+` .........{i:she's saying "give it up"}.`
 ` ......Now I have to suspect one of the 18."`
 `"......That child will probably come at you by stealing the pieces for the 18, and descending as a 19th person who shouldn't exist,`
 ` thereby making you accept that she is a witch."`
@@ -165,7 +165,7 @@
 ` Don't forget that."`
 `".........Sure.`
 ` I'll be damned if the same moves are going to work on me over and over.`
-` .........Get out here, Beatrice.`
+` .........Get out here, {f:5:Beatrice}.`
 ` Let's get started!!!"`
 `"I am already seated at the match table.`
 ` My turn, too, is already complete."`
@@ -176,7 +176,7 @@
 ` Master's moves are all outdated classics.`
 ` There is nothing to fear."`
 `"...What moves can you make beyond the classics I taught you?`
-` I am looking forward to seeing, Beatrice."`
+` I am looking forward to seeing, {f:5:Beatrice}."`
 `"......*cackle*cackle*cackle*cackle*.`
 ` Is that alright, Battleerr?`
 ` If a person who denies witches such as yourself accepts a witch as a strategist..."`
@@ -189,7 +189,7 @@
 ` Come, begin!!`
 ` It is your turn!"`
 `"Let's begin with the reconstruction of the crime scene.`
-` ......Virgilia, if you please!"`
+` ......{f:5:Virgilia}, if you please!"`
 `"The first body discovered was Shannon's.`
 ` She was found in the parlor on the first floor of the mansion.`
 ` The door and windows were locked, and a locked room was established."`
@@ -200,7 +200,7 @@
 ` Of course, no form of intrusion or escape, nor even any interference is possible.`
 ` That is comprehensive, including a denial of hidden doors, as well as all margin for interference from the outside."`
 `"......Henceforth, this definition will be referred to as:`
-` "Beatrice's locked‐room definition"!"`
+` "{f:5:Beatrice}'s locked‐room definition"!"`
 `"Confirming specifics.`
 ` ......Define "margin for interference from the outside"."`
 `"It refers to all types of direct interference from the outside, such as using a fishing line or a long, thin rod.`
@@ -222,17 +222,17 @@
 `"In other words, you can't define it so that even methods of communication are interrupted?"`
 `"That is the case."`
 `"Understood.`
-` .........So, Shannon‐chan's parlor satisfies "Beatrice's locked‐room definition"?"`
+` .........So, Shannon‐chan's parlor satisfies "{f:5:Beatrice}'s locked‐room definition"?"`
 `"That is correct."`
 `".........Locked‐room definition understood.`
-` Continue, Virgilia."`
+` Continue, {f:5:Virgilia}."`
 `"Yes."`
 `".........Shannon's body was in possession of one master key.`
 ` The relatives who discovered her collected this."`
 `"Repetition request for Beato.`
 ` How many master keys this time?"`
 `"...Hmph. The same as last time.`
-` There are five, one for each servant."`
+` {p:1:There are five, one for each servant}."`
 `"Which means this still isn't a locked room.`
 ` There are still four master keys left.`
 ` It just means that after Shannon‐chan was murdered, one of the other four keys locked it."`
@@ -254,7 +254,7 @@
 ` ......The relatives unlocked it with the key they had found near Shannon's body."`
 `"Inside the room, Kumasawa's body was discovered.`
 ` The room was a locked room.`
-` That definition is based upon "Beatrice's locked‐room definition"."`
+` That definition is based upon "{f:5:Beatrice}'s locked‐room definition"."`
 `".........Kumasawa was in possession of one master key.`
 ` The relatives collected this."`
 `"And like Shannon, there was a Western envelope discovered alongside her.`
@@ -264,7 +264,7 @@
 `"Yes."`
 `"Inside the room, Gohda's body was discovered.`
 ` The room was a locked room.`
-` Based on "Beatrice's locked‐room definition"."`
+` Based on "{f:5:Beatrice}'s locked‐room definition"."`
 `"Gohda was in possession of one master key.`
 ` The relatives collected this."`
 `"And just as before, a Western envelope with a family seal was discovered.`
@@ -305,8 +305,8 @@
 `"In other words, the six locked rooms form one massive locked room,`
 ` and all of the master keys as well as the individual room keys are shut up inside it...!"`
 `"`
-`Furthermore, all of the doors and windows in the six rooms are normal.`
-` No device exists which can lock them without a key, such as an auto‐lock.`
+`{p:1:Furthermore, all of the doors and windows in the six rooms are normal}.`
+` {p:1:No device exists which can lock them without a key, such as an auto‐lock}.`
 ` *cackle*cackle*, what do you think, it's beautiful, isn't iiiiiiiiiiiit??? Uhhyahhyahhyaaahh!"`
 `"As I said, Milady, that is not dignified."`
 `When Ronove rebuked her, Beato stuck her tongue at him shamelessly.`
@@ -324,7 +324,7 @@
 ` There's no need for me to listen to your bullshit!!`
 ` Go wave your magic staff or whatever as much as you like and act out how you lock the door with your seven‐colored magic.`
 ` And before long, I'm sure there'll be people along to stand beside you, advertising their snake oil and all‐purpose kitchen knives!"`
-`"Virgilia, reconstruct the crime scene!`
+`"{f:5:Virgilia}, reconstruct the crime scene!`
 ` I'll search for a weakness!!`
 ` Were they all definitely dead?`
 ` If one of them is just playing dead, this isn't a locked room at all!"`
@@ -345,7 +345,7 @@
 `"You are challenging him to a chess match, are you not, Milady?"`
 `"That's true, but...`
 `...muu!"`
-`Beatrice puffed out her cheeks, as though saying "I don't know why, but I don't like it!"`
+`{f:5:Beatrice} puffed out her cheeks, as though saying "I don't know why, but I don't like it!"`
 `"Because the police have not yet arrived at the scene, the human side's ability to prove things is limited.`
 ` For a strict confirmation of death, I recommend a repetition request."`
 `"Alright, that's where I'll strike, repetition requested!!"`
@@ -358,7 +358,7 @@
 ` Owowowowoow!!`
 ` *cackle*cackle*, sorry, sorry, that's fine, I'll respond."`
 `"`
-`Kinzo, Genji, Shannon, Kanon, Gohda, and Kumasawa—these six are all dead!"`
+`{p:1:Kinzo, Genji, Shannon, Kanon, Gohda, and Kumasawa—these six are all dead}!"`
 `"Why are you so out of it?`
 ` ...Alright.`
 ` So I've drawn one out of you.`
@@ -371,7 +371,7 @@
 ` Show me that you can deny the existence of people we aren't aware of!"`
 `"I'll respond."`
 `"`
-`There is no one hiding in the six rooms!"`
+`{p:1:There is no one hiding in the six rooms}!"`
 `"Alright.`
 ` Now I'm sure that it's only the six of them canned in there.`
 ` And they aren't pretending to be dead."`
@@ -395,7 +395,7 @@
 `"*cackle*cackle*!`
 ` Very well, very well, I'll slay you with my red treasured sword!"`
 `"`
-`The six died instantly!`
+`{p:1:The six died instantly}!`
 ` By instant death, I mean that as soon as they were attacked, they became incapable of action."`
 `"Well, death in its full meaning may have taken several seconds or even minutes.`
 ` But in any event, it was completely impossible for them to take any action of their own will.`
@@ -413,8 +413,8 @@
 ` No matter how much you speak in riddles, this definitely isn't a locked room!`
 ` It's a sham that only looks like a locked room!"`
 `"However, Battler‐sama.`
-` Only the victims are inside the rooms,`
-` and no other people exist inside the rooms.`
+` {p:1:Only the victims are inside the rooms,}`
+` {p:1:and no other people exist inside the rooms}.`
 ` And by Milady's locked‐room definition,`
 ` remote murders from outside the room have been clearly denied, have they not?"`
 `"Wait.`
@@ -445,7 +445,7 @@
 ` There is no need for me to explain that!!`
 ` And even so, it doesn't damage my claim!!"`
 `"Wh‐what did you saaaaaaaaayy...?!?!"`
-`"Beatrice, it is a "Devil's Proof".`
+`"{f:5:Beatrice}, it is a "Devil's Proof".`
 ` The fact that he cannot explain the form of the trap...`
 `does not in itself disprove that there was a trap!"`
 `"............Well done.`
@@ -456,7 +456,7 @@
 ` It is possible to establish this locked‐room murder via a murder trap X that they couldn't find."`
 `"......I‐I'll kill that check with the red truth!!"`
 `"`
-`The six were not killed by traps!"`
+`{p:1:The six were not killed by traps}!"`
 `"The definition of trap?!"`
 `"Oh...`
 `umm...`
@@ -568,7 +568,7 @@
 `"...W‐wait!`
 ` No, umm, ......I'll say it, I'll say it!`
 ` I'll use the red like you want!`
-` None of the six committed suicide!"`
+` {p:1:None of the six committed suicide}!"`
 `"How's that?!`
 ` Are you satisfied...?!`
 ` *cackle*cackle*, kakkakakakaka!`
@@ -595,9 +595,9 @@
 ` This is the truth!"`
 `"After culprit X, who lurks among the six, murdered the other five, they constructed a locked room.`
 ` ......Then they planned to escape from or hide in that room by some method."`
-`"However, there was an accident!!`
+`"However, {i:there was an accident}!!`
 ` The culprit died from an accident that even they hadn't expected, and constructed a locked room that even they hadn't desired!!`
-` Now it's over, Beatrice!!`
+` Now it's over, {f:5:Beatrice}!!`
 ` Checkmate!!!"`
 `"D......damn iiiit!!`
 ` Did you think I would be cornered by something like that!!`
@@ -678,7 +678,7 @@
 `I thought of her as a pretty unfair person, but I decided to act with dignity as a winner and accepted it.`
 `......Beato had resigned.`
 `{n}That was the only result of the first twilight.`
-`Beatrice couldn't counter my move of "one of the six was the culprit,`
+`{f:5:Beatrice} couldn't counter my move of "one of the six was the culprit,`
 ` and that person died in an accident".`
 `...No, she probably could have countered it, but because of some strategic decision, she had given up.`
 `I felt less like I had won, and more like she had escaped me one step from victory...`
@@ -693,7 +693,7 @@
 ` why, and how they actually did it...`
 `I shouldn't say this having won,`
 ` ......but I get the feeling that I would have felt less muddled...`
-`if I had just been told right out by Beatrice that it was completely impossible for a human.`
+`if I had just been told right out by {f:5:Beatrice} that it was completely impossible for a human.`
 `Although I hide behind these abstract pieces called X,`
 `{n}............I couldn't deny that some kind of unthinkable,`
 ` creepy intention had definitely pervaded this mansion...`

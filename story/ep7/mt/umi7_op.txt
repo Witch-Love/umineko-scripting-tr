@@ -1,29 +1,29 @@
-``
+`{a:c:`
 `Earth to earth.`
 `Ashes to ashes,`
 ` dust to dust.`
 ` Illusions to illusions.`
-`And dreams to dreams.`
-``
-`A dream is something drawn in the sand between the coming and receding waves.`
-``
-`Something so fragile that it is wiped blank each time the waves draw back.`
-``
-`For this reason, the heartless might sneer at the drawing and call it useless.`
-``
-`However, no wave will ever come again to wipe away the dream she drew.`
-``
-`Her final, beautiful dream will not disappear for all eternity.`
-``
-`Come, try to picture it.`
-``
+`And dreams to dreams.}`
+`{a:c:`
+`A dream is something drawn in the sand between the coming and receding waves.}`
+`{a:c:`
+`Something so fragile that it is wiped blank each time the waves draw back.}`
+`{a:c:`
+`For this reason, the heartless might sneer at the drawing and call it useless.}`
+`{a:c:`
+`However, no wave will ever come again to wipe away the dream she drew.}`
+`{a:c:`
+`Her final, beautiful dream will not disappear for all eternity.}`
+`{a:c:`
+`Come, try to picture it.}`
+`{a:c:`
 `Picture it as the gentle afternoon sunshine on a warm spring day,`
-`as though that light would never dim again.`
-``
-`After all, it is such a wonderful thing......`
-``
-`——Witness to your final dream,`
-`Publius Virgilia Maro`
+`as though that light would never dim again.}`
+`{a:c:`
+`After all, it is such a wonderful thing......}`
+`{a:c:`
+`{m:-5:—}—Witness to your final dream,`
+`{e:080:{f:5:Publius Virgilia Maro}}}`
 `The suspects were gathered in a room, and several Inquisitors were reporting on the results of their investigation.`
 `Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.`
 ` Also different were the badges signifying their department.`
@@ -48,7 +48,7 @@
 ` For your attention: I beg to inform you of the following.`
 ` Know that motives are unnecessary in mysteries."`
 `The Inquisitor spoke coldly.`
-`After finishing her witch's prayer, Virgilia stepped back from the casket, which lay on an altar bedecked with many beautiful roses.`
+`After finishing her witch's prayer, {f:5:Virgilia} stepped back from the casket, which lay on an altar bedecked with many beautiful roses.`
 `In her place, Battler moved to the front of the casket, wearing his territory lord's cape......`
 `Though the cape was supposed to represent dignity and majesty,`
 ` it somehow made Battler look smaller.`
@@ -112,7 +112,7 @@
 `"......You're right.`
 ` What else should you do with a sleeping kid except put a blanket on them,`
 ` ......turn off the lights, and walk away quietly..."`
-`After looking at the casket one last time, Virgilia turned around quietly.`
+`After looking at the casket one last time, {f:5:Virgilia} turned around quietly.`
 `Battler did the same, .........but he then stopped and turned to face the rose‐covered altar...`
 `".............................."`
 `Battler said his final words with his heart.`
@@ -134,9 +134,9 @@
 `"......Thank you."`
 `"Oh, I have done nothing deserving of your gratitude..."`
 `"......I'll leave the rest to you."`
-`After seeing Virgilia nod back at him, Battler turned away from the altar one more time...`
+`After seeing {f:5:Virgilia} nod back at him, Battler turned away from the altar one more time...`
 `......and left the chapel.`
-`Virgilia also disappeared,`
+`{f:5:Virgilia} also disappeared,`
 ` ......and all disturbances that might have interrupted her blissful sleep were gone...`
 `The Inquisitors listened with calm—no, scornful gazes.`
 `They listened to the frantic babbling of the maid accused of murdering her master.`
@@ -150,7 +150,7 @@
 `......No matter how much she spoke of her gratitude for her master, who had graciously fed her and given her a job when she had been left to starve on the streets after various misfortunes,`
 ` that didn't help her case in the slightest in the mystery genre.`
 `Therefore, her motive didn't matter.`
-`{n}All of that could just be squeezed out of the culprit afterwards.`
+`{n}All of that could just be {i:squeezed out} of the culprit afterwards.`
 `An Inquisitor took out a roll of parchment and held it forth, cutting off the maid's sobs and protests.`
 `"This is how you committed the crime.`
 ` Know that this indictment has been received by the Great Court and that your arrest has been approved.`
@@ -164,7 +164,7 @@
 ` ......It isn't even necessary for you to confess!`
 ` Aides, arrest that maid!"`
 `"It wasn't me! I didn't kill the master...!!`
-` N‐no, noooooooooo!!"`
+` N‐no, nooo{-}o{-}o{-}o{-}o{-}o{-}oo!!"`
 `"Hold it right there.`
 ` You've got the wrong culprit."`
 `A man kicked the door open, and the Inquisitors were all shocked at the sight of him.`
@@ -221,12 +221,12 @@
 `"Stand back!!`
 ` We will arrest that woman!!`
 ` Know that this maid is the culprit!!"`
-`"It is forbidden for a servant to be the culprit!!"`
+`"{p:1:It is forbidden for a servant to be the culprit}!!"`
 `"Wh‐`
 `what...`
 `......did you say.........?!?!"`
 `The words of power blasted away the Aides who were trying to arrest the maid.`
-`"......Van Dine's Twenty Rules, Rule #11.`
+`"{p:1:......Van Dine's Twenty Rules, Rule #11}.`
 ` ......If you want to torture this maid, make sure you double check the alibis for the second wife and her lover first."`
 `"Th‐those two already have a clear alibi for the time of the crime...!!"`
 `"That, an alibi?`

@@ -1,11 +1,11 @@
 `"Milady, please, calm yourself...!"`
 `"We still don't know who the culprit is!`
-` And Beatrice‐sama is an important honored guest to the Master...!"`
+` And {f:5:Beatrice}‐sama is an important honored guest to the Master...!"`
 `"So what?!!`
 ` If we grab her by the collar, she'll definitely confess!!`
 ` If we can look her in the eye, we'll know!!`
 ` I'll see through her!!`
-` A witch?! Beatrice?!!`
+` A witch?! {f:5:Beatrice}?!!`
 ` I'll expose her for who she is!!"`
 `Jessica never stopped moving.`
 `{n}Gohda and Kanon chased after her, doing their best to convince her, but Jessica never lent them an ear.`
@@ -20,11 +20,11 @@
 ` Come on, a witch?!`
 ` To Jessica, she was nothing more or less than the murderer who had brutally killed her parents!`
 `Question her, make her give painful excuses, make her spit at the ground painfully, make her breathe painfully.`
-`...No matter how hard she pretends to be a witch, I'll teach her that she's just a stinking, sweaty human!!`
+`...No matter how hard she pretends to be a witch, I'll teach her that she's just a stinking, sweaty {y:0:Human}{n:0:human}!!`
 `Jessica hit the door to the VIP room while yelling with all of her strength.`
 `It definitely wasn't a knock.`
 ` ...That sound was the beating of her anger's hammer, whose message was clear: if the woman didn't open the door, she'd break it down.`
-`"Open it, Beatrice!!`
+`"Open it, {f:5:Beatrice}!!`
 ` Come out!!`
 ` You hear me, right?!`
 ` Open up!!!"`
@@ -41,13 +41,13 @@
 ` Is that alright?!"`
 `"......I am aware that this will be rude if she is there.`
 ` .........And in any case,`
-` ...if Beatrice‐sama has nothing to do with this, she just has to explain herself so that we can believe her."`
+` ...if {f:5:Beatrice}‐sama has nothing to do with this, she just has to explain herself so that we can believe her."`
 `"Tha‐......that's right, exactly!!`
 ` Give it here!"`
 `Jessica snatched the master key from Kanon's hand, and violently shoved it into the keyhole.`
 `...Immediately, there was a light sound and she felt it unlock.`
 `And without excusing herself, she flung open the door.`
-`"Beatrice!!`
+`"{f:5:Beatrice}!!`
 ` Where are you?!`
 ` Show yourself!!"`
 `Jessica rudely barged into the room.`
@@ -62,7 +62,7 @@
 `It wasn't the hard atmosphere of a place normally devoid of people, like the chapel.`
 `{n}You could definitely tell that someone had spent the night in this room.`
 `But she could not be seen.`
-`In reality, neither Jessica nor Gohda had met Beatrice yet.`
+`In reality, neither Jessica nor Gohda had met {f:5:Beatrice} yet.`
 `...They had only been told by those who had met her that she was the spitting image of the person in the portrait.`
 `...So they were doubtful about what her face really looked like.`
 `...However, Kanon alone had met her.`
@@ -85,7 +85,7 @@
 `......She probably wasn't trying to be violent.`
 `{n}...She just couldn't control her strength now.`
 `".........What...?!`
-` She's, she's mocking me?!!"`
+` She's, she's {i:mocking} me?!!"`
 `As soon as she read the message, Jessica went into a wild rage, crumpled the paper up, and threw it.`
 `Then, she grabbed a table lamp that was by the side of the bed and violently swung it around, mercilessly hitting the walls and furniture with it.`
 `...The lightbulb shattered at once, and scattered its shards across the room.`
@@ -93,18 +93,18 @@
 ` You'll hurt yourself!!"`
 `"Let go!!`
 ` Damn it, damn it!`
-` Show yourself, Beatrice!!`
+` Show yourself, {f:5:Beatrice}!!`
 ` How could you do that to Mom and Dad!!`
 ` Are you that damn scared of me?!`
 ` I'll kill you, I'll kill you!!`
 ` Come out so I can beat you to death!!!`
 ` I told you to let go of me, damn iiiiiiiiiiiiiiiiiiit!!"`
 `This was written on the paper...`
-`―Did you think I'd waste my time waiting comfortably in this place for you to barge in here?`
+`{e:070:―Did you think I'd waste my time waiting comfortably in this place for you to barge in here?`
 ` You're too wild to be suitable for this intellectual night.`
 ` What kind of faces must your parents have had after raising you to be such a hapless fool?`
 ` Yeah, I saw them, they had perfectly stupid faces just like you.`
-` Now they are in Candyland with their bellies all full!`
+` Now they are in Candyland with their bellies all full!}`
 `......It sounded like something that witch would write...`
 ` ......It meant that she had predicted that one of the children who had lost their parents would come running in here.`
 `...If she was hiding somewhere in this room, she would surely be rolling around with laughter...`
@@ -126,8 +126,8 @@
 ` Jessica dropped to the floor almost as if groveling, and started crying and scratching at the carpet...`
 `......Gohda was surprised, but Kanon was not.`
 `......Her way of crying by brandishing her anger had been stolen from her, ...so this was inevitable.`
-`"Uuuuuuuuuuughhh, waaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!`
-` Mom......Dad......uwaaaaaaaaaaaaaaaaaaaaaaaaaauuuuuuuuu!!"`
+`"Uuuuuuuuuuughhh, waaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa!!`
+` Mom......Dad......uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}auuu{0}u{0}u{0}uuuu!!"`
 `...Considering that she was a daughter of the Ushiromiya main family, ...she was in a very shabby state.`
 `......She scratched at the carpet with her fingernails, and even her feet writhed and scratched at it.`
 `Jessica cried very, very hard.`
@@ -144,7 +144,7 @@
 `{n}Now they are in Candyland with their bellies all full!!`
 `"Ooooooooooooooohhh, damn iiiiiit!!`
 ` I'll kill her I'll kill her, I'll slice her stomach and make her meet the same end!!`
-` Uuuuaaaaaaaaaaaa, waaaaaaaaaaaaaa......!!!`
+` Uuuuaaa{0}a{0}a{0}a{0}a{0}a{0}aaaa, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa......!!!`
 ` Hic, *cough*cough*, *cough*cough*cough*!!!"`
 `As Jessica cried and screamed, she triggered an asthma attack...`
 ` The servants watching over her ran up to her hurriedly and rubbed her back, but that only provoked Jessica's wrath...`
@@ -343,12 +343,12 @@
 `"Why?!"`
 `"You idiot!!`
 ` Isn't it obvious?!!"`
-`"It'll be fun to kill her and see the pained look on your face, why else?!!"`
+`"{i:It'll be fun to kill her and see the pained look on your face, why else}?!!"`
 `"Following the rules of the ritual, I will arbitrarily select thirteen people as sacrifices.`
 ` However, there's no rule saying that I can't kill any more."`
 `"...If I think it's fun, I can kill any number of people!!`
 ` So I will kill!!`
-` Make me laugh as hard as I can, alright furrrrnituuuure, Kanonnnnnnnn?!?!"`
+` {i:Make me laugh as hard as I can}, alright furrrrnituuuure, Kanonnnnnnnn?!?!"`
 `At that time, Kanon definitely heard Jessica's scream.`
 `The instant he blinked and looked down the corridor, the witch, who had been there making a perfectly ordinary face until a second ago, had disappeared.`
 `...Right now, it was just him, standing alone in the corridor.`
@@ -364,7 +364,7 @@
 `.........No, that's not it.`
 `{n}I've seen this spectacle before.`
 `{n}This isn't gold leaf.`
-`......It's countless gold butterflies—Beatrice's minions!!`
+`......It's countless gold butterflies—{f:5:Beatrice}'s minions!!`
 `Jessica was surrounded by countless butterflies, and was waving her hands around, trying frantically to bat them away.`
 `"Milady!!!"`
 `"Ka‐Kanon‐kun......`
@@ -379,7 +379,7 @@
 `"...It's alright.`
 ` ............While there's still life in my eyes,`
 ` ......I won't let anyone lay a finger on you."`
-`".........Show yourself, Beatrice!!`
+`".........Show yourself, {f:5:Beatrice}!!`
 ` Are you satisfied now?!!"`
 `As he guarded Jessica, in pain and using her inhaler, Kanon yelled into the empty air.`
 `......When he did, the empty air definitely laughed back, satisfied.`
@@ -389,10 +389,10 @@
 `"*cackle*cackle*cackle*hahahahaha!!`
 ` Now everything follows the plot.`
 ` Now you are carp on the chopping board."`
-`"No, since the two of you are together, should I call it duck with green onions?`
-` Hahahahahahahahahahahahahahaha!!"`
+`"No, since the two of you are together, should I call it {c:86EF9C:duck with green onions}?`
+` Hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"Y‐......you,`
-` ......B‐Beatrice...!!"`
+` ......B‐{f:5:Beatrice}...!!"`
 `"Please, stand back.`
 ` ......I'll protect you, Milady...!"`
 `"It's essential that the witch appears when the princess and the knight are together.`
@@ -430,7 +430,7 @@
 `"Don't get it wrong again... Understand?`
 ` ......Don't forget that you're furniture...`
 ` If you continue acting like a human even now, this won't be settled by your death alone.`
-` Kukikikikikikikikikikikikiki!"`
+` Kukikiki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}kikiki!"`
 `The goat attendant made a gesture that seemed to be a silent bow.`
 `{n}Was that in response to its master, ...or was it offered to the opposing Kanon?`
 `Then, on the attendant's hand, ......a blade of wicked malice appeared......`
@@ -510,11 +510,11 @@
 `"......Hmph.`
 ` So it couldn't win against one handmade.`
 ` ...It seems that you aren't so pathetic."`
-`"You're next, .........Beatriceeeeeeeee!!"`
+`"You're next, .........{f:5:Beatriceeeeeeeee}!!"`
 `Kanon's blade sliced diagonally through the witch's form like a hot knife through butter, and in that instant, she burst into gold and scattered.`
 `......She scattered into several thousand gold butterflies, and for just an instant, the room was filled with the color of twilight.`
 `...It was just as Kanon himself had said.`
-` Attempting to slice Beatrice was just the same as slicing the surface of the water where the moon was reflected.`
+` Attempting to slice {f:5:Beatrice} was just the same as slicing the surface of the water where the moon was reflected.`
 `...The witch's form was there, with an ordinary expression on her face, as though she had been there the whole time, ...behind Kanon.`
 `"Hahahahahahaha...!!`
 ` It was quite an interesting show.`
@@ -550,7 +550,7 @@
 `".........Mila...dy........."`
 `"Hmph.`
 ` ......*cackle*cackle*cackle*cackle*.`
-` ...Kuhahahahahahahahahahahahaha.`
+` ...Kuhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha.`
 ` Wahahahahahahahaha!!"`
 `"Don't speak, human!!`
 ` Let us end this quickly; after all, this is only the second twilight.`
@@ -587,7 +587,7 @@
 `"Kyahahahahaha!!`
 ` Here I come, slowpoke!!`
 ` Come on, try to follow me, you blind idiot!!`
-` Kyaahahahahahahahahahaha!!"`
+` Kyaahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"Ugnhh......!!"`
 `"............Mi‐......Milady........."`
 `"Heh, .........I couldn't follow it with my eyes...`
@@ -603,12 +603,12 @@
 `The furniture of the witch, which had changed its form into a demon's stake, was stuck deep into Jessica's back.`
 ` ...It was an obviously fatal wound that reached as far as her lungs.`
 `When she saw this, the witch let out a loud, evil laugh.`
-`Because it had hit where the witch had predicted.`
+`Because it had hit {i:where the witch had predicted}.`
 `{n}...Everything, everything was as the witch had predicted!`
 `"What's wrong Kanonnn...?`
 ` I thought "Milady Jessica" wasn't going to be killed before you??"`
 `"Kukikikikiki, yes, yes, that's it, that's it, that face, that look on your face is what I wanted to see!!`
-` Kikikikikikikikikikikikikikiki!!`
+` Kikiki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}kikiki!!`
 ` This has been fun, more than enough of it!!`
 ` Enough now, die, die, make me laugh!!"`
 `"Come, arise, forgive the sin,`
@@ -667,7 +667,7 @@
 `............became...`
 `.........hu...ma........."`
 `Those were...the last words Kanon left behind.`
-`"Wahahahahahahahahaha, kukikakakakakakakakakakakakakakakaka!!`
+`"Wahahahahahahahahaha, kukikaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!`
 ` Don't make me laugh, furniture!!"`
 `"Even after a hundred years, furniture is furniture!`
 ` Have you ever heard of an idiot who'll dig a grave for furniture when they throw it away?`
@@ -681,5 +681,5 @@
 `The witch played dirty until the very end.`
 ` ......The two who had understood one another in their last moments—she would not even permit their corpses to be close...`
 `If someone had been watching, they would probably mourn that this was indeed a disgrace to the dead.`
-`...However, Beatrice was far, far crueler...`
+`...However, {f:5:Beatrice} was far, far crueler...`
 `{n}......That would become immediately apparent...`

@@ -25,10 +25,10 @@
 `............What is she...talking about.`
 `...I don't know,`
 ` ...I don't know.`
-`"Only, ......considering that I am a witch,`
+`"Only, ......considering that I {i:am} a witch,`
 ` I think it would be wise to ask for something that only a witch can grant."`
 `"Isn't this a rare chance.`
-` You can actually receive a favor from me, Beatrice the Golden.`
+` You can actually receive a favor from me, {f:5:Beatrice} the Golden.`
 ` *cackle*cackle*!"`
 `"........................u........."`
 `Finally, Rosa started to feel the blood flowing through her body.`
@@ -192,7 +192,7 @@
 `......It looked almost as though someone had been sleeping in that man‐sized coffin,`
 ` had woken up, and was now struggling to get out.`
 `But that was wrong.`
-`{n}What was inside had definitely been squeezed dregs.`
+`{n}What was inside had definitely {i:been squeezed dregs}.`
 `Using her magic, the witch had once again revived the squeezed dregs to how they had been before they were squeezed.`
 `Three goat‐head servants with muscular physiques approached the compressor, and forcefully started tightening the large bulbs.`
 `...As they did, an unearthly moan came from the inside of the coffin.`
@@ -200,12 +200,12 @@
 `"It is fitting for cooking to be done in the kitchen.`
 ` That is enough, stand back."`
 `"......Do you understand now how precious a golden drop is?`
-` To have it stained this crimson requires that several dozen people's worth be squeezed."`
+` To have it stained this crimson requires that {i:several dozen people's worth} be squeezed."`
 `The witch had definitely said that only one golden drop could be taken from a single human.`
 `And yet, she had dozens of people's worth of golden drops from a single human.`
 `{n}......Only a witch could do this.`
-`The Golden Witch Beatrice could kill a single human "endlessly".`
-`......In other words, before Beatrice, even death did not mean release.`
+`The Golden Witch {f:5:Beatrice} could kill a single human "endlessly".`
+`......In other words, before {f:5:Beatrice}, even death did not mean release.`
 `"Want a second sip?`
 ` Have you forgotten the day this man hit you, and you swallowed the blood that ran into your mouth?"`
 `"That's right, remember that taste.`
@@ -268,7 +268,7 @@
 ` And yet, on the outside, you're just pretending to act like you're in pain, aren't youuu?"`
 `"It's alright, there is no need to worry about honor or your public image or anything here,`
 ` so laugh as much as you want and chew it to bits.`
-` Isn't this the bessst banquet, Ushiromiya Rosaaaaaaaaaaaaaaaaaaaaaaaaaaa???"`
+` Isn't this the bessst banquet, Ushiromiya Rosaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaa???"`
 `".........st‐`
 ` .........please,`
 ` ......stop......`
@@ -281,8 +281,8 @@
 ` Doesn't that sound yummyyyy?"`
 `"If you eat this, you will be released from everything.`
 ` Freedom, you see, freedom!`
-` Finally Rosa will gain freedom as an individual person, aren't you happyyyyyyyyyyyyyyyyy?`
-` Of course you are, drool is hanging from your mouth, just try looking in a mirroooooooooooooooooor, hyahahaaahaahaahaha!!"`
+` Finally Rosa will gain freedom as an individual person, aren't you happyyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyyyyy?`
+` Of course you are, drool is hanging from your mouth, just try looking in a mirroooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooor, hyaha{0}haaa{0}haa{0}haa{0}haha!!"`
 `Suddenly, a muscular goat‐head cook was holding Maria under his arm.`
 `And Maria gazed at Rosa with a face that was just slightly sad.`
 `"............Mama...`
@@ -309,13 +309,13 @@
 ` Be choked up with tears of gratitude your daughter is saying this much for you seeeeeee?`
 ` Oven‐baked apples and your beloved daughter make for the best dessert!`
 ` You've managed to raise such delicious ingredients,`
-` aren't you the best mother, Ushiromiya Rosaaaaaaaaaaaaaaaaaa???"`
+` aren't you the best mother, Ushiromiya Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa???"`
 `".........Mama, thanks for everything.`
 ` Bye bye."`
 `"Wait!!`
 ` Wait, Maria, that's wrong!!`
 ` Stop it already, stop it already,`
-` nooooooooooooooooooooooo!!`
+` noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!`
 ` I didn't want something like this!"`
 `"Please stop, please let me go!!`
 ` No,`
@@ -327,22 +327,22 @@
 ` Then I'll have you accept it.`
 ` That I am a witch.`
 ` Proclaim it.`
-` Proclaim that "Ushiromiya Rosa accepts that Beatrice is a witch"!!"`
+` Proclaim that "Ushiromiya Rosa accepts that {f:5:Beatrice} is a witch"!!"`
 `"......I accept it!!`
 ` U‐Ushiromiya Rosa...`
-`...accepts that B‐Beatrice...`
+`...accepts that B‐{f:5:Beatrice}...`
 `...is a witch!!`
 ` So give Maria back!!`
-` Release meeeeeeeeeeeeee!!"`
-`"*cackle*cackle*, hahahahahahahahahahahahah‐hah‐hah‐hah‐hah‐ha!!`
+` Release meeeeeee{-}e{-}e{-}eeeee!!"`
+`"*cackle*cackle*, hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐hah‐hah‐hah‐hah‐ha!!`
 ` I finally made you accept it!!`
 ` That smart‐alecky Battler has already submitted, and now I've made even Rosa accept it, the fool who denied me after being invited to the Golden Land!!`
 ` Perfect!!`
 ` <It's perfect!!>"`
 `"I've accomplished my perfect victory!!`
-` *cackle*, hahahahahahahahakya‐HAH‐HAH‐HAH‐HAH‐HAH‐HA!!`
+` *cackle*, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hakya‐HAH‐HAH‐HAH‐HAH‐HAH‐HA!!`
 ` Now, take Maria away, prepare a delicious oven roast for Rosa!!"`
-`"Nooooooooooooooooooooooo, Mariaaaaaaaaaaaaaaaaaaaaaa!!"`
+`"Nooooooooooooooooooooooo, Mariaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa!!"`
 `"Looks delicious.`
 ` Slice up your cow tits and make me a sandwich."`
 `"Wha‐......th‐that voice!!`
@@ -381,7 +381,7 @@
 ` And I always finish what I started!!`
 ` In a man's fight, you don't lose until you accept defeat, no matter how much you get beat up!!"`
 `"Don't think I'm out just because you took a shot at me.`
-` Entertain me, Beatriceeeeeeeeeeeee!!"`
+` Entertain me, {f:5:Beatriceeeeeeeeeeeee}!!"`
 `"I'll accept your challenge, Ushiromiya Battler!!`
 ` Furniture, begin preparations for the next game!!"`
 `"And while we're waiting, I have much I want to hear from you!`
@@ -393,4 +393,4 @@
 ` your delusions, rantings, daydreams, bluffs,`
 ` all slanted with ridiculous, incredible turns of events, and show how you can thoroughly deny meeeeeeeeeeeeeeeeeeeeee!!"`
 `"Aaah, it's no good,`
-` it's no goddamn good at aaaaaaaaaaaaaaaaaaaaaaaallllll!!!"`
+` it's no goddamn good at aaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaaallllll!!!"`

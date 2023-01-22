@@ -37,7 +37,7 @@
 ` And you'll conduct all of your conversations through me.`
 ` I must ask that you follow those two rules."`
 `"I'll work on that."`
-`"......The actions of this "Bernkastel" witch have caused us all a great deal of inconvenience.`
+`"......The actions of this "{f:5:Bernkastel}" witch have caused us all a great deal of inconvenience.`
 ` Because of that, I am willing to help you.`
 ` However, both of us stand on an even footing, so make sure you don't forget it."`
 `"And I thought you were just some pampered rich kid.`
@@ -353,7 +353,7 @@
 `This was the first time he'd heard all that about her running back to the mansion after Beatrice fell to her death,`
 ` but none of it was particularly surprising.`
 `Apparently, Rosa really didn't know any more than this......`
-`If he wanted to learn something beyond the fragments given to him by Bernkastel, he would need to find new testimony.`
+`If he wanted to learn something beyond the fragments given to him by {f:5:Bernkastel}, he would need to find new testimony.`
 `"Lion.`
 ` Tell Kinzo that I want to talk to him.`
 ` It looks like we won't get anywhere without asking the man himself."`
@@ -366,13 +366,13 @@
 `Unless Will had eyes on the back of his head, he couldn't have seen this last bit......`
 `Will returned to the chapel by himself.`
 `{n}The cold air and the monotonous sound of the rain were comforting.`
-``
-`"......So, how's the game?"`
+`{a:c:`
+`"......So, how's the game?"}`
 `And he had come here for a little peace and quiet...`
 `No sooner had he let out a sigh of relief than that voice rang out.`
 `"That's one for you to answer."`
 `It was as though she had been sitting there all along.`
-` ......Bernkastel appeared on top of the altar once more.`
+` ......{f:5:Bernkastel} appeared on top of the altar once more.`
 `Apparently, she found this particular altar extremely comfortable.`
 `"......Battler annoyed me over and over with his incompetence.`
 ` You're very competent compared to him, so it's a lot easier to relax."`
@@ -385,7 +385,7 @@
 ` ......*giggle*giggle*."`
 `"Tch. You think I'm a butcher?"`
 `"Well?`
-` Do you think you know who killed Beatrice...?"`
+` Do you think you know who killed {f:5:Beatrice}...?"`
 `"Rosa's confession is something I already know from a previous fragment.`
 ` There was no brand new information.`
 ` ......We're still at square one."`
@@ -401,12 +401,12 @@
 `"I know that.`
 ` As the Game Master, I will grant you power.`
 ` So that you can get the truth from Kinzo, of course."`
-`Still wearing shoes, Bernkastel stepped into the casket, picked up one of the flowers that had been set as offerings,`
+`Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,`
 ` ......and blew hard, as though scattering fluff from a dandelion.`
 `When she did, a single petal broke off and drifted down towards Will,`
 ` no longer gold, but with the shine of a transparent crystal......`
 `"The "detective's authority"?"`
-`"Heh, what's that pathetic ability?`
+`"Heh, what's {i:that} pathetic ability?`
 ` ......No.`
 ` This is your invitation to the auditorium."`
 `"......The "theatergoing authority"?`
@@ -419,10 +419,10 @@
 `When he did, the petal flashed brightly for an instant, melted into Will's palm, and disappeared...`
 `"Entertain me if you can.`
 ` And try and enjoy yourself.`
-` ......You must also be interested in seeing what the guts of Beatrice's game board look like, right?"`
+` ......You must also be interested in seeing what the guts of {f:5:Beatrice}'s game board look like, right?"`
 `"Not really."`
 `After Will's rude answer,`
-` Bernkastel vanished into thin air, leaving behind an obnoxious laugh......`
+` {f:5:Bernkastel} vanished into thin air, leaving behind an obnoxious laugh......`
 `".........Tch."`
 `After clicking his tongue, Will turned around, visibly annoyed.`
 `......When he did, it felt as though his gaze crossed that of a shadowy figure standing by the door in front of him that led outside.`
@@ -456,7 +456,7 @@
 `"Also, I never knew that someone named L‐......Lion‐sama existed.`
 ` ......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all the relatives all talk as though it's perfectly natural......`
 ` I just......don't understand what's happening......"`
-`"......Lion is a piece placed by Bernkastel.`
+`"......Lion is a piece placed by {f:5:Bernkastel}.`
 ` She also said that she'd switched to a larger cat box to place that piece.`
 ` ......On top of that, it seems this world isn't a proper world, but one made out of several different fragments sewn together."`
 `It's as though......this is a special stage set up specifically for this game.`
@@ -469,7 +469,7 @@
 `If Shannon has worked here for ten years, then this is 1986, the stage of Beato's game.`
 `In that case, Kinzo shouldn't exist.`
 `{n}However, he definitely was here a few minutes ago.`
-`Bernkastel promised that all of the information needed for reasoning was gathered here.`
+`{f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.`
 `She must have crammed all manner of stuff in here to make that true...`
 `I see, so it really is a special stage.`
 `"You have served the Ushiromiya family for many years.`
@@ -480,17 +480,17 @@
 ` .........they say that she's the master of Rokkenjima's night...`
 `...umm..."`
 `"That's right.`
-` The name of the ghost rumored to wander the mansion night after night is also Beatrice."`
+` The name of the ghost rumored to wander the mansion night after night is also {f:5:Beatrice}."`
 `That brings the number of Beatrices to three.`
 `The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.`
 `The second is the "Beatrice" from twenty years ago, who met Rosa.`
-`The third is the "Beatrice" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.`
+`The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.`
 `"......Furudo Erika's reasoning was probably correct.`
 ` It started out as the legend of the evil spirits on Rokkenjima.`
 ` Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman "Beatrice",`
 ` and the epitaph got mixed in, and it all fused into the legend of the Golden Witch."`
 `"......And so the darkness of the night gained the personality of a witch.`
-` That's the third Beatrice.`
+` That's the third {f:5:Beatrice}.`
 ` This is the veil the serial killer hides behind."`
 `"......Uh, umm..............."`
 `Apparently, she didn't understand a word of Will's sudden monologue.`
@@ -520,32 +520,32 @@
 ` Or was it Lion?`
 ` I will ask about it."`
 `"It was...the one who orders me.`
-` I cannot disobey orders."`
+` I cannot disobey or{f:5:ders}."`
 `"Who is this person?`
 ` I'll negotiate with them."`
-`"You cannot negotiate.`
-` It iders us."`
+`"You cannot {f:5:negotiate}.`
+` It i{f:5:s} the o{f:5:ne} who or{f:5:ders us}."`
 `"Call Kanon over here.`
 ` ......I hate theatergoing just as much as I hate torture."`
 `Slowly, ......Will pulled his right hand out of his pocket.`
 `When he slowly opened his fist,`
 ` .........a small, bright glow emanated from it.`
-`The flower petal Bernkastel had given him had become a glowing birthmark, which sparkled......`
+`The flower petal {f:5:Bernkastel} had given him had become a glowing birthmark, which sparkled......`
 `He held that hand out towards Shannon......and slowly approached her.`
 `"Call Kanon.`
 ` I want to check something with you two."`
-`"I ca nnot call him. Do you sti ll wish for me to do so......?"`
+`"{f:5:I ca  nnot call him. Do you sti  ll wish for me to do so}......?"`
 `"If you don't call him, I'm going to "watch your play"."`
-`"If you insi st, ......I can c al l him especi ally..."`
+`"{f:5:If you insi  st, ......I can c al   l him especi ally}..."`
 `".............................."`
-`"."`
+`"                                                            ."`
 `There was some kind of incomprehensible tension between the two.`
 `Will stood there, his left hand still in his pocket and his right palm glowing and stretched out towards her.`
 `Shannon just stood there, her hands still folded politely in front of her,`
 ` ......her posture beautiful.`
 `And yet, ......it felt oddly as though raindrops were sparking and crackling in midair......`
-`"UN."`
-`"CEED?"`
+`"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLNO}{m:31:WCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}"`
+`"{o:0:{e:85:{f:0:{g:0:{m:13:DO YO}{m:26:U WI}{m:4:SH T}{m:41:O PRO}{m:71:CEED?}}}}}"`
 `"................................."`
 `Will's expression had remained unchanged the whole time.`
 `{n}Shannon's face was still kind and gentle.`

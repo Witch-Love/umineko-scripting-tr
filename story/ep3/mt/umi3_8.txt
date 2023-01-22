@@ -10,7 +10,7 @@
 `".........Is it already six o'clock?`
 ` Fuaaaaaa...`
 ` Isn't this enough?`
-` Can't do much else until the mystery 19th person, Beatrice, takes action."`
+` Can't do much else until the mystery 19th person, {f:5:Beatrice}, takes action."`
 `"That is correct.`
 ` ......However, I believe we have thought of almost every trick they could use against us."`
 `"Yes.`
@@ -64,7 +64,7 @@
 ` There was also one on the door to the boiler room."`
 `"What's that?!`
 ` This creepy graffiti isn't just here, it's in other places as well?!`
-` Haha, you don't think that this is the witch of the forest Beatrice's declaration of war, right?"`
+` Haha, you don't think that this is the witch of the forest {f:5:Beatrice}'s declaration of war, right?"`
 `Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like it was a message from a witch.`
 `...The dripping bright‐red paint made one think of blood, and it made things even more eerie.`
 `Hideyoshi tried to open the door, but it was locked.`
@@ -255,7 +255,7 @@
 `".............................."`
 `Battler had his head pressed to the table, and was clutching it with his hands...`
 ` His pitiful figure made it plainly clear that he didn't want to see anything, didn't want to hear anything...`
-`Had he heard Beatrice's sneering voice?`
+`Had he heard {f:5:Beatrice}'s sneering voice?`
 `...Could he not hear, or was he pretending that he couldn't hear?`
 ` In any event, it was clear that he had closed up his heart like a shell...`
 `"Pu ku ku ku...`
@@ -277,9 +277,9 @@
 ` Can't you just do what you want, I don't believe, I don't believe any of it,`
 ` damn it damn it damn it damn it damn it!!"`
 `"Don't talk to me, don't show me anything, go away, go away, go the hell away!!`
-` Get your goddamned annoying face AWAY FROM MEEEEEEEEEEEEEEEEEE!!!"`
+` Get your goddamned annoying face AWAY FROM MEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEEE!!!"`
 `"........................!!!"`
-`Beatrice instinctively winced at Battler's sudden rage.`
+`{f:5:Beatrice} instinctively winced at Battler's sudden rage.`
 `"......E‐even if you say that, um...`
 ` If you don't finish your turn, then my turn won't come.`
 ` I feel like saying, don't make me too bored—"`
@@ -289,7 +289,7 @@
 ` If your turn won't come until mine is finished, then you can just wait for all stinking eternity, can't you!!"`
 `"Aaaah, I don't care I don't care I don't get it!!`
 ` I won't accept witches or magic, I won't accept something that fucked up!!`
-` Uuooooooooooohhh, I said DON'T TALK TO MEEEEEEEEEEEEEEEEEEEE!!!"`
+` Uuooooooooooohhh, I said DON'T TALK TO MEEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEE!!!"`
 `......I don't know what's what anymore.`
 `{n}After being shown something that screwed up, how could I continue to resist...`
 `I wandered aimlessly through the rose garden.`
@@ -323,7 +323,7 @@
 ` .........It's you..."`
 `I was suddenly spoken to, so I turned around,`
 ` ...and in the rose garden arbor,`
-` ......was the Predecessor Beatrice had supposedly defeated a short while ago.`
+` ......was the Predecessor {f:5:Beatrice}, who {f:5:Beatrice} had supposedly defeated a short while ago.`
 `".........I was sure you'd died.`
 ` So, you were alive."`
 `"No, I died.`
@@ -477,7 +477,7 @@
 ` Hasn't everything been going really bad for me the whole time...?!"`
 `"Then perhaps you could think of it this way.`
 ` This is a trial.`
-` Think of it as a court where you and Beatrice are laying out opposing claims.`
+` Think of it as a court where you and {f:5:Beatrice} are laying out opposing claims.`
 ` We could describe it as a Braun tube trial."`
 `"That child claims that there are tiny people inside the Braun tubes.`
 ` And she explains about the lives of the tiny people, what they look like,`
@@ -487,7 +487,7 @@
 `"At that moment, both your claim and that child's claim exist in the court at the same time.`
 ` ......If you lend an ear to that child's claim,`
 ` you may hear it as though it were the truth. See it as though it were the truth.`
-` That is precisely what you were shown."`
+` {i:That is precisely what you were shown}."`
 `"..........................."`
 `"At this moment, on Rokkenjima, witches and magic certainly might exist as truth.`
 ` ...However, that world is an uncertain wavefunction, existing only until the moment that the cat's box is opened.`
@@ -517,7 +517,7 @@
 `"That's right.`
 ` That child will probably even try to explain an apple falling from a tree with magic.`
 ` That child might shake her staff and pluck the apple with magic,`
-` and claim that she dropped it to the earth."`
+` and {i:claim} that she dropped it to the earth."`
 `"However, that would be nothing more than another one of her claims.`
 ` None of her claims can block your opportunity to make a claim.`
 ` ......In that sense, this world is quite "impartial" to both sides."`
@@ -537,7 +537,7 @@
 ` Victory and loss is not determined by a judge.`
 ` You who are fighting will decide it yourselves."`
 `"......Can you win an argument with an opponent in a screwed‐up world where multiple truths can exist at the same time?"`
-`"But do you not realize, in point of fact, you were beaten in an argument, and are sitting here right now submitting...?"`
+`"But do you not realize, in point of fact, you {i:were} beaten in an argument, and are sitting here right now submitting...?"`
 `"...............Heh.`
 ` ...Heheheh."`
 `"That is all the advice I can give you now.`
@@ -548,16 +548,16 @@
 `"Hoh‐hoh‐ho, thank you.`
 ` I am looking forward to it."`
 `"What's your name?"`
-`"...Beatrice used to be my name, but now that I have surrendered it, I do not have a name."`
+`"...{f:5:Beatrice} used to be my name, but now that I have surrendered it, I do not have a name."`
 `".........So, I shall take a temporary name.`
-` ......Virgilius.`
+` ......{f:5:Virgilius}.`
 ` ...No,`
-` what about Virgilia?"`
-`"Virgilia.`
+` what about {f:5:Virgilia}?"`
+`"{f:5:Virgilia}.`
 ` Valkyria?`
 ` Wasn't that the name of a legendary goddess?"`
 `"No.`
-` It means the one who is a guide to Beatrice.`
+` It means the one who is a guide to {f:5:Beatrice}.`
 ` ......I will guide you to that child who waits at the summit of Mount Purgatory.`
 ` It should be a fitting name for that kind of guide."`
 `"To think that I'd accept help from a witch when I'm trying to deny witches.`
@@ -584,7 +584,7 @@
 `"Aaand?`
 ` Did you think of a response to that pleasant, thrilling, refreshing, highly acclaimed, wonderful fantasy battle between Master and meeeeeeee?`
 ` Isn't that impossible to explain without fantasy?`
-` Hihhyahhahahahahahahahahahahahaah?!"`
+` Hihhyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaah?!"`
 `"...Milady.`
 ` You have only just promised to be kind and act refined, remember?"`
 `"Ahhyahahahahaha, oops, my mistake.`
@@ -626,7 +626,7 @@
 `"The truth is this garden at this very moment!`
 ` The instant you look inside, the tiny people inside the Braun tube will vanish.`
 ` And there are no traces of magic here at all!`
-` So that battle between you witches did not take place!!"`
+` So that battle between you witches {i:did not take place}!!"`
 `"Wh‐`
 `......what the,`
 ` th‐that counter......?!`
@@ -643,6 +643,6 @@
 ` Let me check the scene.`
 ` I've been trudging along wasting time.`
 ` From now on, I'll speed things up, okay?"`
-`"Take a seat, Beatrice!!`
+`"Take a seat, {f:5:Beatrice}!!`
 ` It's finally the first twilight, isn't it? Let's start the real thing.`
 ` Show me what you've got!!!"`

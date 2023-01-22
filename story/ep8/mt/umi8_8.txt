@@ -33,7 +33,7 @@
 ` Waaah!"`
 `"What do you think you're doing, crying at the after‐party!`
 ` You little crybaby!"`
-`"Lord Beatrice‐sama, thank you for the invitation!"`
+`"Lord {f:5:Battler}, {f:5:Beatrice}‐sama, thank you for the invitation!"`
 `"I wanna see six‐year‐old Ange‐sama's sleeping face and have it all to myself!"`
 `"I wanna see the food and have it all to myself!!"`
 `"Then I wanna see a good man and have him all to myself!!"`
@@ -49,17 +49,17 @@
 `"Chiester Sisters Imperial Guards, right here!!"`
 `"It's s‐such an honor to be summoned to a gathering such as this!"`
 `"I haven't had nearly enough fun for it to end yet nyeh.`
-` Nihihihihi!"`
+` Nihi{0}hi{0}hihi!"`
 `"There, I agree with you.`
 ` But fear not, for our game will continue much longer than this."`
 `"For eternity, inside the cat box.`
 ` Glad to have you here, Chiester Sisters."`
-`"Lord Battler, allow me to express our deep gratitude for your invitation.`
+`"Lord {f:5:Battler}, allow me to express our deep gratitude for your invitation.`
 ` In the future, we will endeavor to show even more—"`
 `"Come on, don't be so stiff and formal.`
 ` Tonight, we're all equal!"`
 `"That's right nyeh!!`
-` Battler gets it nyeh, nihihihihihihi!!"`
+` Battler gets it nyeh, nihi{0}hi{0}hi{0}hi{0}hihi!!"`
 `"S‐stop it, 410.`
 ` You're getting carried away... We'll get in trouble!"`
 `"Hey there, Riiche.`
@@ -73,41 +73,41 @@
 `"If they keep coming like this, there'll be more of them than us humans..."`
 `"You can come out now, Sakutaro!"`
 `"Uryuu!!"`
-`"Lord Battler.`
-` It was an honor to receive your invitation."`
+`"Lord {f:5:Battler}.`
+` It was an honor to receive your {f:5:invitation}."`
 `""Let it be known that it is an honor.""`
 `"Hey!`
 ` Glad you came.`
 ` It's been a long time. How've you been?"`
-`"Very well, thank you.`
-` Fighting with you all is always the most fun.`
-` I have had enough of stamping documents."`
+`"Very well, thank {f:5:you}.`
+` Fighting with you all is always the most {f:5:fun}.`
+` I have had enough of stamping {f:5:documents}."`
 `"For the attention of Supervisor Dlanor:`
 ` Know that your to‐do box is piling up as we speak."`
 `"For your attention: Please make haste with the approval of our vacation papers.`
 ` We are anxious to see this matter resolved."`
 `"Pft, wahahahaha!`
 ` Sounds like life in the Great Court is as restrictive as ever!"`
-`"......Lord Battler.`
-` I fear I must bring you some unfortunate news."`
+`"......Lord {f:5:Battler}.`
+` I fear I must bring you some unfortunate {f:5:news}."`
 `"Hm, what is it?"`
 `Dlanor held out an envelope.`
 `It was one of the invitation cards that Battler had sent out for this night's party.`
 `The name on the card was......Furudo Erika.`
-`".........We did all we could."`
+`".........We did all we {f:5:could}."`
 `The invitation was filled with stamps bearing the unreadable words of various foreign countries.`
 `Even without reading them, it was easy to guess that it had been returned to sender, destination unknown.`
 `"I see......`
 ` Thanks for trying so hard."`
-`"The depths of oblivion are like an empty endless desert, or perhaps the bottom of the sea.`
-` ......Her location is unknowable to all but Lady herself..."`
+`"The depths of oblivion are like an empty endless desert, or perhaps the bottom of the {f:5:sea}.`
+` ......Her location is unknowable to all but Lady {f:5:Bernkastel} {f:5:herself}..."`
 `"I did send invitations to those witches too.`
 ` ......We'll have to hope they have the kindness to bring her along..."`
-`"......Lady Bernkastel is just like a cat.`
+`"......Lady {f:5:Bernkastel} is just like a cat.`
 ` She'll show up whenever she feels like it, and when she doesn't feel in the mood, she'll never come no matter how often you call her."`
 `"Ahhaha, yeah, that kid's totally like a cat.`
 ` She'll come to get her food, but she won't let you pet her head."`
-`"Lambdadelta.`
+`"{f:5:Lambdadelta}.`
 ` So, you came."`
 `"Believe it or not, I'm a busy person, okay?`
 ` Still, I am Beato's guardian.`
@@ -118,7 +118,7 @@
 ` I've brought a bunch of stuff for everyone!`
 ` Could you just put these wherever for me?"`
 `For someone who just dropped by because she was in the neighborhood, she had brought an awful lot of colorfully wrapped bottles and food boxes.`
-`"Bernkastel isn't here yet."`
+`"{f:5:Bernkastel} isn't here yet."`
 `"You really think she'd come?`
 ` She's not the kind of kid who'd just drop by to say "hi" at a game she's lost."`
 `"......Probably.`
@@ -149,7 +149,7 @@
 `"Come on over, you two!`
 ` I'll introduce you."`
 `When Lambda snapped her fingers, the empty air exploded and two figures appeared.`
-`".........Willard, if it isn't you!"`
+`".........Willard, if it isn't {f:5:you}!"`
 `"Hey.`
 ` I see you're as short as ever."`
 `"......Now here are some unfamiliar guests.`
@@ -169,7 +169,7 @@
 ` There's really a world like that......?"`
 `"........................`
 ` Wait, you couldn't be......"`
-`"Pleased to meet you, Beatrice.`
+`"Pleased to meet you, {f:5:Beatrice}.`
 ` I know quite a lot about you."`
 `".............................."`
 `"Seeing you smiling happily is the greatest joy I can imagine.`
@@ -181,8 +181,8 @@
 `The two of them stared at each other's faces, as though looking at their own face in a mirror.`
 `"Willard's the name.`
 ` I'm just a passing stranger who got caught up in a game you know nothing about."`
-`"He is an Inquisitor of the Great Court, like myself.`
-` A truly great one, though he is now retired."`
+`"He is an Inquisitor of the Great Court, like {f:5:myself}.`
+` A truly great one, though he is now {f:5:retired}."`
 `"I see. If you're Dlanor's friend, you can't be anyone bad.`
 ` Please, make yourself at home."`
 `"Just where did these two come from?"`
@@ -190,7 +190,7 @@
 ` ......When she was done with them and about to crush them, I picked them up.`
 ` Auau said she didn't want to be left with a bad aftertaste."`
 `"Is that okay?`
-` If, by chance, Lady Bernkastel does drop by here..."`
+` If, by chance, Lady {f:5:Bernkastel} does drop by here..."`
 `"On this game board, they're my pieces, okay?`
 ` And I'd love to see the look on that kid's face if she bumps into them in a place like this.`
 ` *giggle*giggle*giggle*!"`
@@ -198,11 +198,11 @@
 `"That's all for my gifts.`
 ` And now I'll just kick back and enjoy the party.`
 ` So, you're the host... Over to you."`
-`"Come, Lord Battler!"`
+`"Come, Lord {f:5:Battler}!"`
 `"If you don't announce it, we can't start!"`
 `""The start of tonight's party at the end of this long, long game!!""`
 `"Ladies and gentlemen, your silence please!!`
-` Our territory lord, Lord Battler, has a message he wishes to convey to you all...!"`
+` Our territory lord, Lord {f:5:Battler}, has a message he wishes to convey to you all...!"`
 `"Enough of that.`
 ` It's embarrassing."`
 `"Come on, it's a wife's responsibility.`
@@ -217,7 +217,7 @@
 `"Agreed.`
 ` Begin, Battler."`
 `"No objections, I see.`
-` This way please, Lord Battler."`
+` This way please, Lord {f:5:Battler}."`
 `Ronove motioned towards the center of the room.`
 `When Battler stepped forward, everyone silently awaited his words.`
 `"Glad you could all make it!!`
@@ -365,8 +365,8 @@
 `"Hey, are you having a great time, people?!!"`
 `"Any kids who aren't having a good time'll get eaten!"`
 `""Yell and sing the praises of tonight's banquet!!`
-` Ahhahahahahahahahaha!!""`
-`The hall was alive with a mingling of humans and residents of magical fantasy.`
+` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""`
+`The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of magical fantasy.`
 `At first, everyone stayed with their own groups, too nervous to mingle.`
 `However, as time passed, people started to move around, and both halves began to chat happily together.`
 `"Anyway, they never listen, do they?!"`
@@ -394,7 +394,7 @@
 ` Just what sort of hotel did he train at......"`
 `"It's no use trying to compete with Ronove‐sama, he's totally perfect.`
 ` But I still love you more, Gohda.`
-` This one's been cooked juuust right♪"`
+` This one's been cooked juuust right{p:0:♪}"`
 `The Seven Sisters had blended into the party perfectly, and were making things interesting.`
 `"And yet, there are a great many mysteries that are called masterpieces, and which are also discredited by Van Dine's Twenty Rules."`
 `"It's not like I'm discrediting anything.`
@@ -419,7 +419,7 @@
 `"That's some spirit you've got there.`
 ` How much are they paying you for being a Sister of Purgatory?`
 ` Come and get a job at my husband's business. I'll recommend you personally."`
-`The humans and the residents of fantasy were now completely on casual terms.`
+`The {y:0:Human}{n:0:human}s and the residents of fantasy were now completely on casual terms.`
 `"I, I see...... So this is how it's done in the world of witches......"`
 `"Yeah nyeh, you've got it nyeh!`
 ` Where we come from, you pour the tea onto the saucer, press your palms on the table, and slurp it up like a dog nyeh!"`
@@ -453,14 +453,14 @@
 ` You've got to find your own meaning for your life, cut your own path!"`
 `"That's right.`
 ` Your resolve has to be certain and absolute, you know?`
-` Back when I was human, I lived like a daredevil all the time...!"`
-`A bit shakily, Lambdadelta started talking about her theory of life.`
+` Back when I was {y:0:Human}{n:0:human}, I lived like a daredevil all the time...!"`
+`A bit shakily, {f:5:Lambdadelta} started talking about her theory of life.`
 ` Apparently, she'd also had her fair share of champagne.`
-`"What a bizarre scene."`
+`"What a bizarre {f:5:scene}."`
 `"*giggle*. It is, isn't it?`
 ` Dlanor‐sama, would you like some more to drink?"`
-`"Something non‐alcoholic.`
-` I am a kid, after all."`
+`"Something non‐{f:5:alcoholic}.`
+` I am a kid, after {f:5:all}."`
 `"Ah, Shannon‐chan, you'll do.`
 ` ......Do you have a second?"`
 `Battler came back into the hall.`
@@ -482,7 +482,7 @@
 `"Yeah, sorry about the trouble,`
 ` but that would be good."`
 `Battler and Shannon left the hall together.`
-`In the hall, Lambdadelta started suggesting that they all have another quiz tournament together.`
+`In the hall, {f:5:Lambdadelta} started suggesting that they all have another quiz tournament together.`
 `Apparently, the Witch of Certainty would be handing out prizes.`
 ` Everyone seemed enthusiastic about the idea.`
 `Smiling contently at the ensuing uproar, Battler headed towards the parlor.`
@@ -539,7 +539,7 @@
 `She was an official guest, holding an invitation to this party......`
 `"......Sorry I'm late.`
 ` I was just so caught up working out some festivities to liven up the party."`
-`As Bernkastel spoke, she looked around at everyone...`
+`As {f:5:Bernkastel} spoke, she looked around at everyone...`
 `".............................."`
 `"Oh.`
 ` And I thought you'd wasted away in the sea of fragments."`
@@ -601,7 +601,7 @@
 ` ......You try to act all dry, but you can really hold a grudge.`
 ` It's like this, right?`
 ` You're saying you lost to me, but not to Battler and Beato."`
-`It seemed as though Bernkastel might smile.`
+`It seemed as though {f:5:Bernkastel} might smile.`
 `{n}However, she didn't.`
 `{n}Those cold eyes spoke without words.`
 `Battler understood.`
@@ -614,19 +614,19 @@
 `".........She will be a fearsome opponent."`
 `"But we can't back out."`
 `"I know that.`
-` ......We mustn't let Ange become Lady Bernkastel's plaything."`
+` ......We mustn't let Ange become Lady {f:5:Bernkastel}'s plaything."`
 `Beato understood as well.`
-`She understood Bernkastel's desire for one final battle...`
+`She understood {f:5:Bernkastel}'s desire for one final battle...`
 `".........I never thought I'd see you up front asking for a fair fight."`
 `"Go on, laugh."`
 `"Why?"`
 `"Thanks."`
 `".................."`
-`Lambdadelta understood as well.`
+`{f:5:Lambdadelta} understood as well.`
 `In these final moments before the end of Battler and Beato's tale, before everything was locked away in the cat box...`
-`...Bernkastel had finally moved from the audience to the stage.`
+`...{f:5:Bernkastel} had finally moved from the audience to the stage.`
 `That witch who had hidden in the wings, unwilling to come out into the light, ......had shown the courage to step out onto the stage.`
-`As a friend, Bernkastel's human emotions, which had given her this courage...`
+`As a friend, {f:5:Lambdadelta} showed that she understood {f:5:Bernkastel}'s human emotions, which had given her this courage...`
 `"Is there anything I can do?"`
 `"Please act as an observer for my game."`
 `"......Sure.`
@@ -639,27 +639,27 @@
 ` ......This isn't a fight we can back down from."`
 `"......Y‐......yes."`
 `From the moment a hostage was taken, their ability to negotiate had disappeared.`
-`However, Bernkastel promise to release Ange, in exchange for her agreeing to become an observer.`
-`Without that promise, Bernkastel would have nothing to lose.`
+`However, {f:5:Lambdadelta} was making {f:5:Bernkastel} promise to release Ange, in exchange for her agreeing to become an observer.`
+`Without that promise, {f:5:Bernkastel} would have nothing to lose.`
 `To make this final fight Bern wanted a proper one,`
-` ......Lambdadelta made her agree to that promise.`
+` ......{f:5:Lambdadelta} made her agree to that promise.`
 `".........Of course, Lambda.`
 ` I promise.`
 ` When the game ends, I'll release Ange."`
 `"Don't make a fool of me, okay...?`
 ` When I get shamed, I never let go of the one who did it until they regret it......"`
-`Lambdadelta spoke in a soft, threatening tone.`
-`However, Lambdadelta's face adorable.`
+`{f:5:Lambdadelta} spoke in a soft, threatening tone.`
+`However, {f:5:Bernkastel} laughed lightly as though she found the look on {f:5:Lambdadelta}'s face adorable.`
 `"I swear it.`
 ` ......I swear it on our friendship."`
 `"......Whew."`
-`Lambdadelta whistled and grinned.`
-`Apparently, this was the most reliable oath Bernkastel could utter.`
+`{f:5:Lambdadelta} whistled and grinned.`
+`Apparently, this was the most reliable oath {f:5:Bernkastel} could utter.`
 `"Okay."`
-`Bernkastel, and spoke.`
-`"By the name of Lambdadelta, Witch of Certainty, I accept the role of observer for your fight.`
+`{f:5:Lambdadelta} nodded, looked between Battler and {f:5:Bernkastel}, and spoke.`
+`"By the name of {f:5:Lambdadelta}, Witch of Certainty, I accept the role of observer for your fight.`
 ` ......Battler, Beato, you have no objections, right?"`
-`After Battler and Beato nodded at each other, they nodded at Lambdadelta to show their determination.`
+`After Battler and Beato nodded at each other, they nodded at {f:5:Lambdadelta} to show their determination.`
 `".........I'm so glad.`
 ` We finally get to fight each other."`
 `"I had a feeling I'd end up fighting you sooner or later."`
@@ -706,15 +706,15 @@
 `".........Even though I've taken a hostage?"`
 `"You probably wouldn't have come up onto the stage otherwise."`
 `There had been no need to take a hostage.`
-`Battler and Beato would have gladly accepted a final duel if Bernkastel had expressed a desire for one.`
-`......It was hard to make out anything from Bernkastel's silent expression.`
+`Battler and Beato would have gladly accepted a final duel if {f:5:Bernkastel} had expressed a desire for one.`
+`......It was hard to make out anything from {f:5:Bernkastel}'s silent expression.`
 `"Okay."`
 `".........What's okay?"`
 `"......I'll release Erika from the depths."`
 `"That must have taken a lot of resolve."`
-`For someone as proud as Bernkastel, forgiving the piece who had caused her defeat should have been nearly unbearable.`
-`Battler knew this, ......so he realized how much this bit of compassion had cost Bernkastel...`
-`Bernkastel snapped her fingers, and a black cat slipped out of her shadow.`
+`For someone as proud as {f:5:Bernkastel}, forgiving the piece who had caused her defeat should have been nearly unbearable.`
+`Battler knew this, ......so he realized how much this bit of compassion had cost {f:5:Bernkastel}...`
+`{f:5:Bernkastel} snapped her fingers, and a black cat slipped out of her shadow.`
 `"I tossed her all the way into the deepest parts of oblivion.`
 ` .....She might be late in arriving."`
 `"It matters not.`
@@ -727,14 +727,14 @@
 ` So, she's not my piece anymore.`
 ` ......Anyone feel like picking her up?`
 ` After all, you already picked up Lion and Will."`
-`"............Bernkastel.`
+`"............{f:5:Bernkastel}.`
 ` You have my thanks."`
 `"Then can we stop with the sentimentality?`
 ` I've already had as much as I can bear."`
 `"Sure.`
 ` ......Where will we have the game?`
 ` I'm happy to have it here, with all the noise, or in the usual quiet spot, or wherever you like."`
-`"......Lady Bernkastel has shown the courage to stand before a great many people already.`
+`"......Lady {f:5:Bernkastel} has shown the courage to stand before a great many people already.`
 ` ......I see no point in making her suffer further."`
 `"Good point.`
 ` .........Then let's make it the usual place."`
@@ -745,18 +745,18 @@
 ` Zepar, Furfur!`
 ` Liven this place up!`
 ` When Erika gets here, let's have everyone give her a warm welcome."`
-`""Yes, Lady Lambdadelta!!`
+`""Yes, Lady {f:5:Lambdadelta}!!`
 ` Your wish is our command!!""`
 `"Now then, let us take her to the usual room, a fitting place for our battle of wits...!"`
 `When Battler snapped his fingers, space shattered.`
 `They were now in the place where witches had once exhaustively debated, schemed, and reasoned: the witches' smoking room.`
-`Bernkastel had been invited there once again, and a final game would now begin......`
+`{f:5:Bernkastel} had been invited there once again, and a final game would now begin......`
 `"......Do you have a game prepared?"`
 `"Of course.`
 ` ......I worked hard on this game, and I'm pretty proud of it."`
 `"So, Bern will be the Game Master, and Battler and Beato will be the players?`
-` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with human tricks?"`
-`"I'm interested to see what sort of scenario Lady Bernkastel develops."`
+` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} tricks?"`
+`"I'm interested to see what sort of scenario Lady {f:5:Bernkastel} develops."`
 `"......We'll explain things with the blue truth, and you'll knock those down with the red truth.`
 ` Are we alright with those rules?"`
 `".........My game will be a simpler one.`
@@ -765,15 +765,15 @@
 `"Oh...?`
 ` What kind of game will that be...?`
 ` Would you mind letting me have a look at it first?"`
-`Bernkastel held her palm upwards...and a fragment glowing pale blue appeared there.`
-`Lambdadelta held a hand over it and shut her eyes......`
+`{f:5:Bernkastel} held her palm upwards...and a fragment glowing pale blue appeared there.`
+`{f:5:Lambdadelta} held a hand over it and shut her eyes......`
 `"......See?`
 ` It's a simple game, isn't it?"`
 `"You're right......`
 ` It's much more straightforward than the mind games these two played in the past.`
-` This isn't even a game about witches and humans anymore."`
+` This isn't even a game about witches and {y:0:Human}{n:0:human}s anymore."`
 `"That's right.`
-` This is a human game."`
+` This is a {y:0:Human}{n:0:human} game."`
 `".........This is surprising.`
 ` To take on the fantasy that is Beato...you've created a genuine mystery."`
 `"Please explain."`
@@ -784,7 +784,7 @@
 `"I see...`
 ` In that case, there's no need for combat between red and blue truth."`
 `In Beato's games, the argument was about whether it was a mystery or not.`
-`However, Bernkastel's game was a mystery.`
+`However, {f:5:Bernkastel}'s game was a mystery.`
 ` There was no need to argue that from the start.`
 `"I've even cut out the motive and the tricks.`
 ` ......There's only one question I'm asking you."`
@@ -802,7 +802,7 @@
 ` ......Battler and Beato's relationship started because they both loved mystery.`
 ` ......I agree it's a pretty tricky scenario, ......but I'm not sure it'll be enough to stop these two......"`
 `".........If my best tale can't stop them, then what comes will come."`
-`"The important thing is that Lady Bernkastel put everything she had into this game."`
+`"The important thing is that Lady {f:5:Bernkastel} put everything she had into this game."`
 `"You're right.`
 ` Will that be enough to stump us?`
 ` That's all this simple game is about.`
@@ -823,7 +823,7 @@
 ` ......And if I lose,`
 ` ......I'll surely be reminded of that emotion I know I've forgotten."`
 `"Indeed."`
-`"......Bernkastel.`
+`"......{f:5:Bernkastel}.`
 ` Whether you win or lose, I'll promise you one thing."`
 `"............What's that?"`
 `"When this duel is over,`
@@ -850,7 +850,7 @@
 ` You don't need a Reader.`
 ` We'll read the tale ourselves."`
 `"If there is no Reader, .........doesn't that mean there will be absolutely no falsehoods in the narrated text?"`
-`"We're ready, Bernkastel."`
+`"We're ready, {f:5:Bernkastel}."`
 `".............................."`
 `"A showdown over a genuine mystery, without any cheap tricks.`
 ` .........If you're going to play fair and square, we'll challenge you head on too."`
@@ -861,22 +861,22 @@
 `"......?"`
 `"She's right.`
 ` If you're a witch challenging us with a mystery, it's no good having an attitude like that. Yeah, it's no goddamn good at all...!"`
-`Bernkastel, realizing what Battler and Beato were asking for, snorted.`
-` Lambdadelta nodded at her, telling her to enjoy this final duel to the fullest.`
+`{f:5:Bernkastel}, realizing what Battler and Beato were asking for, snorted.`
+` {f:5:Lambdadelta} nodded at her, telling her to enjoy this final duel to the fullest.`
 `"Heheheheh....... Ahahahahahahahah......`
-` A human and a witch discussing a mystery side by side?!`
+` A {y:0:Human}{n:0:human} and a witch discussing a mystery side by side?!`
 ` It's ridiculous! Ludicrous!`
 ` Let's see if your cheery take on mysteries can handle mine!`
 ` I challenge you to solve my mystery!!"`
 `"That is more like it!`
-` We'll take your challenge, Lady Bernkastel, Witch of Miracles!"`
+` We'll take your challenge, Lady {f:5:Bernkastel}, Witch of Miracles!"`
 `"Alright, time to start!!`
 ` I, Game Master Ushiromiya Battler,`
-` and Beatrice, the Endless Witch, will be your opponents!`
+` and {f:5:Beatrice}, the Endless Witch, will be your opponents!`
 ` Don't start crying when we wipe the floor with you!!"`
-`"Take this! Behold a mystery from Bernkastel!!!"`
-`Bernkastel took the fragment holding the game and smashed it against the table, shattering it with a brilliant light as the game's scenario laid itself out.`
-`The curtain rose.........on the mystery Bernkastel had created......`
+`"Take this! Behold a mystery from {f:5:Bernkastel}!!!"`
+`{f:5:Bernkastel} took the fragment holding the game and smashed it against the table, shattering it with a brilliant light as the game's scenario laid itself out.`
+`The curtain rose.........on the mystery {f:5:Bernkastel} had created......`
 `No sound but that of the falling rain filled the room.`
 `It covered the tragic scene in the bloody dining hall......`
 `".............................."`

@@ -40,7 +40,7 @@
 `"Ushiromiya—huh?`
 ` What?"`
 `"Lion.`
-` Written as "理御", but pronounced "Lee‐on".`
+` Written as "{p:0:理御}", but pronounced "Lee‐on".`
 ` ......Pretty strange name, don't you think?"`
 `"......No stranger than mine.`
 ` But I'll have to apologize.`
@@ -92,8 +92,8 @@
 ` In your world, a different fate leads me to walk a different path through life, so that I do not live as an Ushiromiya family member."`
 `"...............Are you...a witch......?"`
 `"Sorry to disappoint you, but I'm just an ordinary human.`
-` ......What I just told you is something I heard from the witch called Bernkastel‐san."`
-`".........Bernkastel?`
+` ......What I just told you is something I heard from the witch called {f:5:Bernkastel}‐san."`
+`".........{f:5:Bernkastel}?`
 ` That one with the long, blue hair and the gloomy face...?"`
 `"Y‐......yes.`
 ` That probably describes her, I think......"`
@@ -225,14 +225,14 @@
 ` A world without Lion.`
 `{n}......The day of the Ushiromiya family's family conference.`
 `The mysterious letter that Maria read aloud after dinner, just as she had been told to.`
-`The writer of the letter claimed to be the Golden Witch Beatrice and challenged the family.`
+`The writer of the letter claimed to be the Golden Witch {f:5:Beatrice} and challenged the family.`
 `Solve the riddle of the epitaph.`
 ` Otherwise, I will take everything.`
-`It was the letter that declared the start of Beatrice's game, just as it had appeared in so many games before.`
+`It was the letter that declared the start of {f:5:Beatrice}'s game, just as it had appeared in so many games before.`
 `Had an unknown person appeared to complicate the inheritance problem?`
 `{n}Where was the 20 billion yen's worth of gold hidden?`
 `{n}What was the purpose of this letter? For what goal had it been written?`
-`{n}Who on Earth was this Beatrice?`
+`{n}Who on Earth was this {f:5:Beatrice}?`
 `It was that tangled web of suspicion and paranoia that had been a constant in every game: .........the dinner of October 4th.`
 `"George‐kun.`
 ` I'm sorry, but could you take the others and go back to the guesthouse?`
@@ -242,7 +242,7 @@
 ` We will move straight on to the family conference."`
 `"Y‐yes.`
 ` As you wish..."`
-`"Beatrice, the Golden Witch......`
+`"{f:5:Beatrice}, the Golden Witch......`
 ` What a fascinating letter you've sent us..."`
 `"She's telling us to solve the epitaph...?`
 ` Ridiculous.`
@@ -257,7 +257,7 @@
 `"Come on, Maria...`
 ` Let's go......"`
 `"Beato's ritual has begun......`
-` Kihihihihihihi......"`
+` Kihi{0}hi{0}hi{0}hi{0}hihi......"`
 `"Okay, everyone, ...I shall guide you to the guesthouse......"`
 `".........What's......all this about......?"`
 `"Probably a replay of one of the old games, ......or else an entirely new game.`
@@ -269,7 +269,7 @@
 ` That means there should be a Game Master.`
 ` ......Who is it?`
 ` .........That witch?`
-` Bernkastel......?"`
+` {f:5:Bernkastel}......?"`
 `"I......can't imagine so.`
 ` ......Clair should have vanished already.`
 ` There should be no need to spin up a new tale..."`
@@ -279,10 +279,10 @@
 ` What do they want to show us......?"`
 `Before this tale began,`
 ` Clair definitely appeared on the stage.`
-` She is "me" from a world of a different fate......and the teller of the tale that is Beatrice's game.`
+` She is "me" from a world of a different fate......and the teller of the tale that is {f:5:Beatrice}'s game.`
 `However, didn't she entrust everything to Will and have all of her riddles solved?`
 `There should be no need for her to make new riddles......`
-`.........In that case, is Bernkastel using this tale to test me...?`
+`.........In that case, is {f:5:Bernkastel} using this tale to test me...?`
 `Along with Will, I have at least touched the deepest depths of this tale...and understood the culprit's heart.`
 `So, even if an entirely new tale presents itself, I should be able to see through the riddles.`
 `.........Is that...what my role is......?`
@@ -320,7 +320,7 @@
 ` Isn't this the time for us all to stick together?"`
 `"That's right.`
 ` The aim of this strange letter is probably to disrupt our unity.`
-` The more we let it affect us, the more things go the way of this "Beatrice" who sent it."`
+` The more we let it affect us, the more things go the way of this "{f:5:Beatrice}" who sent it."`
 `"Kyrie‐san's right.`
 ` Wouldn't it be best to simply ignore a letter like that from the start?"`
 `"That is what I have been saying the whole time.`
@@ -412,7 +412,7 @@
 ` That's what our typical future Sunday will look like."`
 `"That...would be wonderful......"`
 `"Whaaaa?!!`
-` Those two are a couple?!"`
+` Those two are {i:a couple}?!"`
 `"Shhh!`
 ` Why are you so damn loud?!`
 ` Maria'll wake up...!"`
@@ -544,7 +544,7 @@
 `"Look!!`
 ` If we follow the Tamsui Line down, there's a station that used to be known as Kirigan!`
 ` Look at the characters it's written with!!`
-` There's a village (岸)!!"`
+` There's a village ({p:0:里}), a mouth ({p:0:口}), and a shore ({p:0:岸})!!"`
 `"Sh‐she's right...!`
 ` There's a village, mouth, and shore...!!"`
 `".........As you travel down it, you will see a village.`
@@ -669,7 +669,7 @@
 ` Here we go!"`
 `"<Quadrillion>.`
 ` ......This is the only place you'll find that number written on this island."`
-`"One tenth of a "京"...`
+`"One tenth of a "{ruby:kei:{p:0:京}}"...`
 ` Who'd have thought it?"`
 `"If our idea is right, then the letters of that relief should be the mechanism."`
 `"We just need to check.`
@@ -773,7 +773,7 @@
 `As soon as the mountain of gold next to the canopy bed came into sight, they all froze, stunned.`
 `After a second, the stunned silence faded and was replaced by cries of astonishment and wild joy......`
 `"............Incredible!!`
-` Haha, hahhahahahahahaha!!"`
+` Haha, hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
 `"I, I can't believe it... It's 20 billion yen in gold...!!`
 ` It really...really exists!!"`
 `"What a shining mountain.`
@@ -804,7 +804,7 @@
 ` What's it supposed to mean?"`
 `"The epitaph has been solved before the crime occurred.........and by all of the siblings together..."`
 `"That hasn't happened in any of the games before now."`
-`"......Supposedly, Beatrice decided not to commit the crime if the epitaph was solved..."`
+`"......Supposedly, {f:5:Beatrice} decided not to commit the crime if the epitaph was solved..."`
 `"Yeah, supposedly.`
 ` ......Hmph.`
 ` I wonder."`
@@ -853,7 +853,7 @@
 `Her face and her voice were expressionless, blank.`
 `The others all looked at each other, wondering who should respond.`
 ` Rudolf was the first to speak.`
-`"......So, you are Beatrice."`
+`"......So, you are {f:5:Beatrice}."`
 `"Indeed."`
 `"A‐and you're the one who gave Maria that letter...?!"`
 `"Indeed."`
@@ -1057,10 +1057,10 @@
 ` .........We haven't decided how you will be dealt with, but I hope to do all I can to reach a gentlemanly agreement."`
 `".........Do not concern yourself with me any longer.`
 ` As someone who was already prepared to kill you all and die in the process, I am already one of the dead."`
-`The Golden Witch Beatrice solved the epitaph, reached this room, and revived.`
+`The Golden Witch {f:5:Beatrice} solved the epitaph, reached this room, and revived.`
 `And now.`
 ` ......New people had solved the riddle and reached this room, ......so her role was finished.`
-`When the epitaph's riddle was solved, ......Beatrice's witch illusion ended.`
+`When the epitaph's riddle was solved, ......{f:5:Beatrice}'s witch illusion ended.`
 `Most likely, no one in this room would have been capable of understanding her tragic resolve.`
 `......She herself was probably the only one who could.`
 `As long as the many selves inside of her understood, that was enough.`
@@ -1068,7 +1068,7 @@
 `I entrusted myself to the magical roulette of endless possibilities.`
 `{n}The result, the answer, is this.`
 `{n}This is what the tarot cards known as the ritual of the epitaph have shown me.`
-`......Beatrice is now dead.`
+`......{f:5:Beatrice} is now dead.`
 `They did not kill her.`
 `{n}I killed her myself......in accordance with fate's command.`
 `{n}They will never understand, .........for all eternity.`
@@ -1092,7 +1092,7 @@
 `"True.`
 ` There's nothing you couldn't do with that much money."`
 `"Very true.`
-` The strongest magic to counter the humans' anti‐magic toxin is this magic of gold.`
+` The strongest magic to counter the {y:0:Human}{n:0:human}s' anti‐magic toxin is this magic of gold.`
 ` ......It may be that this card holds greater power than the ingots."`
 `"Certainly.`
 ` Cash would be much more agreeable than ingots."`
@@ -1163,7 +1163,7 @@
 ` It's "off" now.`
 ` If she wanted to kill us with a bomb, she wouldn't have told us about it."`
 `"...............!!!`
-` B‐......Beatriceeeeeee...!!`
+` B‐......{f:5:Beatriceeeeeee}...!!`
 ` Don't think you can trick me......!!!"`
 `"....................................`
 ` ...Five,`
@@ -1301,29 +1301,29 @@
 `When the back of her head hit the floor, a red splash spread out beneath it, ......forming a single flower to adorn her dead face...`
 `"Natsuhi......nee‐san......"`
 `"Wh‐why did you shoot her?!`
-` Why did you shoot her, Eva?! Evaaaaaaaaaaaaaaaaaaaaa!!"`
+` Why did you shoot her, Eva?! Evaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aa!!"`
 `Krauss howled, raised his gun, and ran at Eva.`
 `At the same time, Hideyoshi leapt between them.`
 ` A scuffle broke out between the two men.`
-`"You killed Natsuhi, you killed Natsuhiiiiiiiiiiiii, nngaaaaaaaaaaaahhh!!"`
+`"You killed Natsuhi, you killed Natsuhiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iii, nngaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!"`
 `"K‐Krauss nii‐san, you've got it wrong... You've got it all wrong... It was...just an accident......!!"`
-`"Evaaaaaaaaaa, how could you?!!`
-` I'll kill you! I'll kill yooooooooou!!"`
+`"Evaa{-}a{-}a{-}a{-}a{-}a{-}aaa, how could you?!!`
+` I'll kill you! I'll kill yoo{-}o{-}o{-}o{-}o{-}o{-}o{-}ou!!"`
 `"I, .........I didn't shoot her... I didn't...`
 ` I, ......I told her to stop, and she just jumped at me, and...!!"`
 `Krauss, who had just seen his wife killed before his eyes, had lost all traces of rationality in his expression.`
 `He was so furious that, if he had knocked Hideyoshi aside and jumped at Eva, he might have torn her throat out.`
 `"Why did you kill her?! Why did you kill her?!`
-` Evaaaaaaaaaaaa!!"`
+` Evaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aa!!"`
 `"It was an accident, ...an accident...!!`
 ` Calm down, Krauss nii‐san...!!`
-` ......Owowowowowow, .........nngggggggggghhhh......"`
+` ......Ow{0}ow{0}ow{0}ow{0}ow{0}ow, .........nngg{0}g{0}g{0}g{0}g{0}g{0}g{0}gghhhh......"`
 `Another explosion rang out.`
 `{n}Hideyoshi's face was covered with blood.`
 `The two of them had been fighting over the gun Krauss held, trying to push it away from themselves.`
 `When the barrel had turned to point at Krauss's chin, .........the sneering, formless reaper, master of the room of gold, had swung its scythe once more.`
 `A line of blood......trickled from Krauss's mouth.`
-`"U‐......uwaaaaaaahh, ...hyaaaaaaaaaaahhh...!!"`
+`"U‐......uwa{0}a{0}a{0}a{0}a{0}aahh, ...hyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh...!!"`
 `The two fell down, with Krauss's body on top of Hideyoshi.`
 `Letting out a cowardly cry, Hideyoshi backed away before Krauss's body could cover him...`
 `"H‐......honey...!!"`
@@ -1422,7 +1422,7 @@
 `"That's what we've got to think up now, stupid Rosa!!!`
 ` It doesn't matter what it is, as long as we all agree to it!!`
 ` I'll think of something... I am thinking... You all think too!!`
-` Someone think of somethiiiiiiiiiiiing!!!"`
+` Someone think of somethii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ing!!!"`
 `"C‐calm down, Eva...`
 ` I'll think about it, and so will everyone else!`
 ` We'll definitely think of something, and it'll all work out!`
@@ -1482,7 +1482,7 @@
 ` It's pouring rain now, so the police probably won't find any contradictions in the crime scene."`
 `"I'll let you think of an excuse for why you and Nii‐san started fighting while you were holding guns in the rainy rose garden.`
 ` ......Don't try to get us and our shares involved just because you want to hide your crime."`
-`"R‐Rosaaaaaaaaaaaaaaaaaaaaa!!!"`
+`"R‐Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
 `"It's not so bad, right?`
 ` It's not like they'll lock you up for decades.`
 ` It was an accident, right? You'll be able to get out after just a few years.`
@@ -1506,7 +1506,7 @@
 `The life, the company, and the trust that Eva and her husband had worked so long to build...... Those were things that couldn't be bought back with money.`
 `So, she wanted to hide Krauss and Natsuhi's deaths, even if it meant blowing up all 4.7 billion yen worth of her gold...!`
 `But from Rosa's perspective, that was just irrational nonsense.`
-`"R‐Rosaaaaaaaaaaaaa!!"`
+`"R‐Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!"`
 `"What do you think you're doing with that gun, Nee‐san?`
 ` ......Are you going to "misfire" and kill me too?`
 ` That'll make finding an excuse even harder.`
@@ -1904,7 +1904,7 @@
 `{n}......To eject the casing from the bullet she had killed Gohda with.`
 `".........Honey......`
 ` ......Honeyyyy...`
-` Uuuughhhuuuuuu......"`
+` Uuuughhhuu{0}u{0}uuu......"`
 `Eva was holding Hideyoshi's body and crying.`
 `She hadn't been shot at all.`
 ` The bullet had grazed the side of her head......and missed.`
@@ -1967,8 +1967,8 @@
 `Does this mean that we aren't allowed to have a future where we all happily return from this island alive,`
 ` ......even if the epitaph is miraculously solved before the crime occurs...?`
 `There will be...absolutely...no miracles.`
-`......I recalled those words, which I had heard in one of the fragments Bernkastel had shown me......`
-`"Bernkastel‐san......`
+`......I recalled those words, which I had heard in one of the fragments {f:5:Bernkastel} had shown me......`
+`"{f:5:Bernkastel}‐san......`
 ` You showed me how wonderful my world was...`
 ` ......I don't want to believe that you created this tale just to hurt Ange......"`
 `"......By now, even I realize that you're the Game Master here.`
@@ -2092,7 +2092,7 @@
 `The ruthless trigger forestalled any further questions.`
 `George's hands, which had been covering his wound, dropped lifelessly......`
 `After Rudolf saw the last glimmer of life leave him, he let out a deeply exhausted sigh he'd been holding back for some time.`
-`"Hahh. ......Hahahahahahahahahaha.`
+`"Hahh. ......Ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.`
 ` .........I expected worse."`
 `Rudolf looked up into the dark, rainy sky, the rain drops hitting him full in the face,`
 ` ......and laughed with an indescribable expression, his tongue hanging out.`
@@ -2118,8 +2118,8 @@
 ` .........I've dealt the final blow with my own hands.`
 `".........Thanks, Kyrie.`
 ` ......You're always the best at cutting away my naivety.`
-` ......Heheheh, ...hehhahahahahahahaahah!`
-` Hyahhhahahahahahahahahaahahahaha!!!"`
+` ......Heheheh, ...heh{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}hah!`
+` Hyahh{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}haha!!!"`
 `Rudolf's evil laugh rang out.`
 `The laugh was so purely evil, it was almost refreshing.`
 `{n}Evil that still has a conscience and thinks itself good is far more repulsive to behold.`
@@ -2316,7 +2316,7 @@
 `.........That idiot...`
 ` My simple, big sister has always been a sucker.`
 `Die!!!`
-`Gunfire.`
+`Gunfire. `
 `......Then, a bit later, the sound of something heavier than rain......drip‐dropping onto the cobblestone floor.`
 `"...............Agh,`
 ` ..................nggg........."`
@@ -2346,7 +2346,7 @@
 `...you............"`
 `Eva, who said she had always been able to see through her little brother's tricks,`
 ` ......also knew that Rudolf's final words, as his consciousness began to fade from having been shot, were not a lie.`
-`"How could you...... .........George... Geoooooooooooooooooorge!!!"`
+`"How could you...... .........George... Geoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!!"`
 `An empty shell casing bounced off the cobblestone.`
 ` The furious gun barrel was pressed against Rudolf's forehead.`
 `".........Go ahead and shoot.`
@@ -2357,8 +2357,8 @@
 `Then, leaving a red trail behind him,`
 ` ......Rudolf slid down the wall,`
 ` sat on the ground, and fell over.`
-`"George, Geooooooooorge!!`
-` Geooooooooorge, uwaaaaaaaaaaaahhh!!"`
+`"George, Geooo{-}o{-}o{-}o{-}o{-}o{-}orge!!`
+` Geooo{-}o{-}o{-}o{-}o{-}o{-}orge, uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
 `Eva dashed off towards the bushes.`
 ` ......She found George's corpse almost immediately, screamed, and broke down sobbing.`
 `......Rudolf's bloody corpse was exposed to the rain that ran down off the eaves.`
@@ -2372,15 +2372,15 @@
 `Her father had dirtied his hands with murder over money, and on top of that, he had faced such a cruel end, and Ange had been forced to see his corpse.`
 ` It was hard to imagine a more painful experience for a daughter to go through.`
 `......I'm totally fed up with this. It's completely meaningless.`
-`"Bernkastel‐san...!`
+`"{f:5:Bernkastel}‐san...!`
 ` I know you're here somewhere!`
 ` Please, make this game stop...!!`
 ` There's no point to it!"`
 `As if in answer to that yell, ......a black shadow appeared a few seats in front of them.`
 `Or perhaps she had been sitting there the whole time.`
 `Maybe we just couldn't see her until we realized she was there.`
-`It was, without a doubt, the back of Bernkastel's head.`
-`"Bernkastel‐san......!!"`
+`It was, without a doubt, the back of {f:5:Bernkastel}'s head.`
+`"{f:5:Bernkastel}‐san......!!"`
 `"......Pipe down back there.`
 ` Can't you watch the show quietly?"`
 `The witch turned around with bored eyes.`
@@ -2413,8 +2413,8 @@
 ` ......*giggle*giggle*."`
 `"The tragedy is already reaching its climax.`
 ` Who'll survive, I wonder?`
-` Eheheheheheheheheh......"`
-`Bernkastel isn't the Game Master...?`
+` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......"`
+`{f:5:Bernkastel} isn't the Game Master...?`
 `Then who is?`
 `{n}Could Clair have created this cruel tale......?`
 `Or are there even more witches playing around with this cat box......?`
@@ -2588,8 +2588,8 @@
 `"You've been released from your family drama too, haven't you?`
 ` Let's sing the praises of a woman's freedom.`
 ` You should thank me for having George‐kun killed for you."`
-`"Y‐......you.........monsteeeeeeeeeer!!"`
-`"Ahhahhahahahahhaaahhhyahhahahahaaaaaaaaaaaahhhhh!!!"`
+`"Y‐......you.........monstee{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!"`
+`"Ahhah{0}ha{0}ha{0}ha{0}hah{0}ha{0}a{0}ahh{0}hyah{0}ha{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"`
 `The two yells...and the sound of gunfire......thundered across the dark rose garden.`
 `......Slowly, Eva fell backwards.`
 `Then, she landed in a puddle, ......scattering countless drops of water.`
@@ -2633,13 +2633,13 @@
 ` Even if she knows it's just a game, ......she's been forced to see not only her mother's death,`
 ` ......but also her mother announcing that she was the culprit of a mass murder, who didn't even love her daughter.`
 ` Anyone would sob after hearing that...`
-`"Bernkastel‐san!!`
+`"{f:5:Bernkastel}‐san!!`
 ` Enough of this!!`
 ` I don't care who the Game Master is!!`
 ` Stop this pointless game right now!!"`
 `When Lion yelled this, the theater suddenly went pitch‐black, swallowed in darkness.`
 `However, that wasn't enough to shock Lion.`
-`Lion continued to yell Bernkastel's name into the darkness, telling the witch to stop this game.`
+`Lion continued to yell {f:5:Bernkastel}'s name into the darkness, telling the witch to stop this game.`
 `Then, a single beam of light shone down upon the stage.`
 `There......was Clair, the one who had appeared for just a second right before this cruel game began.`
 `"Clair...!!`
@@ -2651,12 +2651,12 @@
 `{n}In fact, she was even forgetting to blink...`
 `......She looked......just like a doll......`
 `Then, another beam of light lit up the side of the stage.`
-`Under that light......stood Bernkastel.`
+`Under that light......stood {f:5:Bernkastel}.`
 `At the same time, though there appeared to be no one in the audience, a large applause rang out...`
 `"........................*giggle*."`
-`Bernkastel raised her right hand in response to the applause.`
+`{f:5:Bernkastel} raised her right hand in response to the applause.`
 `{n}She kept doing so until the applause died down......`
-`"Bernkastel‐san!!`
+`"{f:5:Bernkastel}‐san!!`
 ` So, ......you were the Master of this game after all...!!"`
 `"......Lion.`
 ` How many times do I have to tell you that I'm not the Game Master?"`
@@ -2673,14 +2673,14 @@
 ` It's not taxidermy.`
 ` So, of course, she still has her insides.`
 ` ......She's hiding it under a beautiful exterior, but she's actually packed full of guts."`
-`When Bernkastel raised her right hand, ......a light fell on it, and a black, shining scythe appeared there.`
+`When {f:5:Bernkastel} raised her right hand, ......a light fell on it, and a black, shining scythe appeared there.`
 `It was a cold, merciless, and cruel object, like something a classic grim reaper might hold.`
 `"Wh‐......what are you planning to do.........?"`
 `".........When they're alive, you can enjoy watching them struggle.`
 ` When they're dead, you can enjoy tearing out their guts.`
 ` Tales are things you get to enjoy twice.`
 ` ......That's what it means to be a Witch of Theatergoing."`
-`Bernkastel pressed the blade of her reaper scythe against Clair's stomach,`
+`{f:5:Bernkastel} pressed the blade of her reaper scythe against Clair's stomach,`
 ` then slowly slid it across.`
 `Then, along the line she traced, Clair's dress was sliced open.`
 `It was now clear that the scythe she held was not a fake one for theatrical use.`
@@ -2743,9 +2743,9 @@
 `"That's right......`
 ` So what's your point?!"`
 `"......You don't............mean......"`
-`Lion realized what Bernkastel was getting at.`
+`Lion realized what {f:5:Bernkastel} was getting at.`
 `And because of that, ......Lion was too shocked to speak......`
-`The Game Master isn't Bernkastel or Clair.`
+`The Game Master isn't {f:5:Bernkastel} or Clair.`
 `Then who is it......?`
 `That's the wrong question.`
 ` There is.........no Game Master.`
@@ -2775,14 +2775,14 @@
 `But Eva used even that to create the cat box.`
 `And until the moment of her death, she protected it.`
 `{n}She protected the lock that held the cat box shut.`
-`So, no human would ever reach the truth inside the cat box.`
+`So, no {y:0:Human}{n:0:human} would ever reach the truth inside the cat box.`
 `{n}Not unless the witches who crossed the sea of fragments opened the lock......`
 `"This is the truth."`
 `"...............You're lying......`
 ` ......You're lying......lying...!!`
 ` If this was actually true, you'd be able to say it using the red truth!!`
 ` But you can't, of course you can't!!`
-` Aaaaaaaaaaaaaaaaaaaaaahh!!!"`
+` Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh!!!"`
 `"Ange...!!`
 ` Ange, calm down...!!`
 ` Ungh, ......ah...?!"`
@@ -2792,15 +2792,15 @@
 `"What's that?`
 ` You want me to announce it clearly with the red truth?`
 ` Then I'll do that, just for you."`
-``
-`"‘This is all truth`
-``
-``
+`{a:c:`
+`"‘{p:1:This is all truth}`
+`}`
+`{a:c:`
 `"NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"`
-``
+`}`
 `Ange's scream covered up Bern's red truth.`
 `"*giggle*giggle*giggle*,`
-` ahhahahahahahahahahaha...!!`
+` ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
 ` Stupid kid.`
 ` If only you hadn't made me say that, I could've shut it up inside the cat box."`
 `"But you did tell me to, right?`
@@ -2809,13 +2809,13 @@
 `".........What a lovely expression, one that'll keep me laughing for about a hundred years.`
 ` ......*giggle*giggle*, *giggle*giggle*giggle*giggle*!!!`
 ` Go back to being scrap meat.`
-` Ahhahahahahahahahahahahahaha!!!"`
-`"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaahh, gyaaaaaaaaaaaaaaaaaaaaaahhhh!!"`
+` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!"`
+`"Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh, gyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
 `"Mom, Dad,`
 ` ......it's a lie, right?!`
 ` Lies,`
 ` ......lies......`
-`...gyaaaaaaaaaaaaaaaaaaaaaaaahhhh........."`
+`...gyaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh........."`
 `"A‐Ange......!`
 ` Ange......?!"`
 `As Ange held her head and screamed, the blood dripping from her finally grew so thick that it started scattering all over the place.`
@@ -2824,7 +2824,7 @@
 `"Ahhahahahahahahahahahahah, aaaahhahahahahaaaaahhaahaha!!`
 ` Is the truth really such a precious thing?`
 ` How absurd, how foolish!!"`
-`"Why can't humans control their own truth?`
+`"Why can't {y:0:Human}{n:0:human}s control their own truth?`
 ` They stupidly search for the truth like that's all that matters, and when they finally find it and can't stand it, they turn themselves into scrap meat!!"`
 `"Hey, are you watching?`
 ` Clair?`
@@ -2836,10 +2836,10 @@
 `"You sealed everything in a cat box, and Eva provided the lock.`
 ` *giggle*giggle*!!`
 ` And I've sliced that box open for you...!!"`
-`"Ahhahahahahahahahahaha,`
+`"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha,`
 ` all that effort you spent to hide it has gone to waste!!`
 ` I've exposed all of the truth you hid with your death!!`
-` Ahhahahahahahhahhahhahhahha!!"`
+` Ahha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}hah{0}hah{0}ha!!"`
 `"Is that......what you've been after?!`
 ` You......did all of this just to insult Clair's death?!!`
 ` And then...you showed it to Ange to make her suffer...!`
@@ -2869,7 +2869,7 @@
 ` Let me invite you to the parlor at that point in time."`
 `"The parlor......?`
 ` The one in the mansion?"`
-`Bernkastel snapped her fingers, and the scene of the mansion's parlor unfolded before them.`
+`{f:5:Bernkastel} snapped her fingers, and the scene of the mansion's parlor unfolded before them.`
 `In the cruel tale they had just been shown, the parlor hadn't been particularly important.`
 `Jessica had been summoned to the parlor, but she was then immediately led to the dining hall and killed there.`
 `So, there had been nothing in the parlor.`
@@ -2884,7 +2884,7 @@
 ` ......Go on, take a look.`
 ` ......It's right there.`
 ` Right in that corner."`
-`Bernkastel was pointing.........at nothing more than a corner of the room.`
+`{f:5:Bernkastel} was pointing.........at nothing more than a corner of the room.`
 `There was nothing there.`
 `She had told Lion to look there, so Lion was expecting something terrible to be there,`
 ` ......but there really was nothing there at all.`
@@ -2981,13 +2981,13 @@
 `and are killed by Kyrie tonight."`
 `".........In other words, your fate—no, the fate the two of you share—traps you in an inescapable dead end, a hell of fate, with a 2,578,917 out of 2,578,917 probability.`
 ` .........To put it another way, it's a certain fate, with absolutely no chance for a miracle!"`
-`"*giggle*, eheheheheheheheheheh!!`
+`"*giggle*, ehe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heh!!`
 ` Too bad for you, Clair.`
-` No, Beatrice."`
+` No, {f:5:Beatrice}."`
 `A bright light seemed to turn the world white—then, the next moment, they were back in the theater.`
-`As Clair stood absolutely still on the stage, the tip of Bernkastel's reaper scythe traced a line across her stomach.`
+`As Clair stood absolutely still on the stage, the tip of {f:5:Bernkastel}'s reaper scythe traced a line across her stomach.`
 `A red line was drawn across her white skin, exposed now that the dress had been cut, and black blood began to seep out......`
-`"Beatrice.`
+`"{f:5:Beatrice}.`
 ` Trapped in that inescapable, certain, locked‐away pair of days, you became a witch who could give birth to endless possibilities within that two‐day cat box.`
 ` ......In exchange, it was absolutely certain that you would not be saved or rewarded."`
 `"However, you had a dream.`
@@ -2996,9 +2996,9 @@
 `".........I really had to work hard to find Lion.`
 ` As Beato dreamed, Lion's existence was a true miracle.`
 ` And, at the end of your funeral, I wanted to show you.`
-` .........That even with that miracle, you couldn't have escaped this tragedy!!"`
+` .........That even {i:with} that miracle, you couldn't have escaped this tragedy!!"`
 `Faced with the little bit of sky that she could see through the bars of the jail that imprisoned her,`
-` the witch called Beatrice dreamed of a world where she might have been happy...`
+` the witch called {f:5:Beatrice} dreamed of a world where she might have been happy...`
 `However, the sky beyond the bars...`
 `.........was also part of a larger jail......`
 `"The more I hear......the less I understand about you......!`
@@ -3010,20 +3010,20 @@
 ` Can you see this?!`
 ` And do you remember?`
 ` Remember when I promised you that there would be absolutely no miracles?!"`
-`"Ahhahahahahahahah, ahhahahahahaahahahahahahahaha!!`
+`"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah, ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` So, Lion!`
 ` Allow me to return you to your world, right before Beato's eyes!!"`
 `"It looks like the Witches of Theatergoing are all sick and tired of those happy family get‐together scenes.`
 ` So, I'll send you to the moment just before Kyrie shoots you!`
 ` Then, I'll make sure Beato witnesses that moment!!"`
-`"Ahhahahahahahhahhahhahaha!!`
+`"Ahha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}ha{0}haha!!`
 ` Die, pukespittle Lion!`
-` The last hope of pukespittle Beato, uhyahhahhyaahhaaaaaaaaahhh!!!"`
-`Bernkastel raised her reaper scythe,`
+` The last hope of pukespittle Beato, uhyah{0}hah{0}hyaah{0}ha{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
+`{f:5:Bernkastel} raised her reaper scythe,`
 ` .........swung it down with gusto,`
 ` ......and plunged it deep into Clair's stomach......`
 `"Did you think you'd get an easy death?`
-` Hehihihihihihihi!!`
+` Hehihi{0}hi{0}hi{0}hi{0}hihi!!`
 ` But humiliating a corpse and tearing out its guts is what I'm best at...!!"`
 `Heartlessly, ruthlessly, brutally, ......she swung the enormous blade buried in Clair's stomach back up towards the heavens.`
 `.........Along a vertical line from Clair's stomach to her chest,`
@@ -3044,12 +3044,12 @@
 ` I never wanted to live in a body like this!!"`
 `"This body isn't even capable of love......!!`
 ` What's...what's the point in living like that?!`
-` This isn't a human's life...!!`
+` This isn't a {y:0:Human}{n:0:human}'s life...!!`
 ` It's like being furniture!!"`
 `"That's right, I'm...furniture......!!`
 ` Furniture...!!`
 ` Why, .........why didn't you let me die back then?!!`
-` Aaaaaaaaaaaaaaaahhhh......!!!"`
+` Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh......!!!"`
 `"..................Huh—"`
 `When I came to,`
 ` ......I was in the parlor of the mansion.`
@@ -3075,12 +3075,12 @@
 `"..................?!`
 ` ......Y‐......you......!"`
 `"......When you own a cat, you tend to pick up their habits."`
-`He pointed at Bernkastel with the tip of the pitch‐black sword that had sliced the world, glaring at her.`
+`He pointed at {f:5:Bernkastel} with the tip of the pitch‐black sword that had sliced the world, glaring at her.`
 `"*giggle*giggle*......`
 ` ......What's this?`
 ` Are you saying you came back here on a whim...?"`
 `"......There was no way you'd end things on a happy note.`
-` Do you really hate Beatrice so much?"`
+` Do you really hate {f:5:Beatrice} so much?"`
 `"You think I'd let her win and get away...?`
 ` I have to pay her back in full for the humiliation she caused me.`
 ` When I hold a grudge, I don't forget about it for a hundred years."`
@@ -3116,8 +3116,8 @@
 ` .........Lion's fate is decided by Lion.`
 ` You can't use a human's fate like a toy."`
 `".........*giggle*giggle*,`
-` hahhahahhahahahahahahahaha...!!`
-` You've got guts, saying that to the great Bernkastel, witch of the Senate!`
+` hah{0}ha{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+` You've got guts, saying that to the great {f:5:Bernkastel}, witch of the Senate!`
 ` I have no more use for you either, get it...?"`
 `"You've shown that Beato's fantasy is a mystery and cut it to pieces.`
 ` You've fulfilled your role.`
@@ -3126,7 +3126,7 @@
 `"Come to me, my sweet little kitties.`
 ` ......Scratch them up and tear off their skin.`
 ` Peel them like grapes...!"`
-`When Bernkastel clapped her hands twice, countless pairs of glaring jewels appeared all around Will and Lion.`
+`When {f:5:Bernkastel} clapped her hands twice, countless pairs of glaring jewels appeared all around Will and Lion.`
 `They were clearly cat eyes, but their breathing sounded far more terrifying than any cat...`
 `"......Will......`
 ` ......Nnnghh......"`
@@ -3136,10 +3136,10 @@
 `Will pointed his sword in one direction after another, warding off the surrounding cats......`
 `"Get a grip, Lion.`
 ` You haven't been shot.`
-` Don't accept that you've been—no, don't accept that you're going to be shot...!"`
+` Don't accept that you've been—no, don't accept that you're {i:going} to be shot...!"`
 `"...........................nngggghhh......"`
 `Lion tried to fight an incredible tearing pain.`
-`No, ......it was a fight against the promised future that Bernkastel had shown.`
+`No, ......it was a fight against the promised future that {f:5:Bernkastel} had shown.`
 `However, the gouging stake representing that future, which the Witch of Miracles had guaranteed would hold absolutely no miracle, was firm and merciless......`
 `Bit by bit, and yet unceasingly, it continued to pierce Lion's chest......`
 `"......Listen up.`
@@ -3152,7 +3152,7 @@
 `...to the best of my ability......`
 ` ......If I can't do it,`
 ` ......please forgive me........."`
-`"......If you can't?`
+`"......If you {i:can't}?`
 ` Never say die.`
 ` I won't let you.`
 ` Clair won't let you."`
@@ -3167,7 +3167,7 @@
 ` I'll be the one pinching your ass...!"`
 `"............O‐.........okay......"`
 `"*giggle*giggle*.`
-` Ahhahahahahhahhahhahhahha!!`
+` Ahha{0}ha{0}ha{0}hah{0}hah{0}hah{0}hah{0}hahha!!`
 ` How very confident you are, telling this kid to be a miracle when you stand before the Witch of Miracles...!`
 ` Miracles are no more than fantasy!`
 ` Grovel in this world that has been convicted as a mystery, and die horribly like a worm!`
@@ -3175,10 +3175,10 @@
 `"......Hmph.`
 ` You call that mystery?`
 ` You think I'd ever accept a mystery without heart?`
-` ......Let the cat who wants to be made into a shamisen strike first."`
+` ......Let the cat who wants to be made into a {c:86EF9C:shamisen} strike first."`
 `"Gah, what a pain.`
 ` Let's have all of you at once!`
-` I'm Willard H. Wright, SSVD's Chief Inquisitor.`
+` I'm Willard {nobr:H. Wright}, SSVD's Chief Inquisitor.`
 ` This'll be the final time I draw my sword...!"`
 `"Trash him, kitties."`
 `At once, all of the cat eyes opened wide, undulated and spun in a spiral, then swallowed Will up.`
@@ -3187,7 +3187,7 @@
 `"......Oh, not bad."`
 `"I don't give a damn about your kitties.`
 ` It's just the mama cat I care about.`
-` .........Bernkastel, Witch of Miracles!!`
+` .........{f:5:Bernkastel}, Witch of Miracles!!`
 ` It's about time someone trimmed your claws!!"`
 `Another flash of the black blade spun in a black tornado and scattered the cats once more.`
 `Lion, realizing that this was the opening Will had planned to make, ran all out, hand on chest.`
@@ -3195,11 +3195,11 @@
 `"Diana has a weak stomach.`
 ` Make sure you only give her warm milk."`
 `"Huh?"`
-`Before Lion could ask Will to repeat what he had said, Will had already leapt onto the stage and was now confronting Bernkastel.`
+`Before Lion could ask Will to repeat what he had said, Will had already leapt onto the stage and was now confronting {f:5:Bernkastel}.`
 `It was like the climax of a show.`
 ` ......Loud cheers erupted from the pitch‐black audience seating.`
 `On either side of Clair, who lay with her insides exposed,`
-` ......stood Will, with his pitch‐black sword, and Bernkastel, with the scythe that could harvest miracles from fate.`
+` ......stood Will, with his pitch‐black sword, and {f:5:Bernkastel}, with the scythe that could harvest miracles from fate.`
 `"Kyrie and Rudolf are the culprits, and they massacred the people on the island?`
 ` They called Lion out to the parlor, then shot Lion to death?`
 ` Sorry, but the concept of mysteries rejects this "truth" of yours.`
@@ -3208,9 +3208,9 @@
 ` You're calling it that to try and let Lion escape fate?`
 ` By all means, try.`
 ` *cackle*cackle*, *giggle*giggle*giggle*!!`
-` Ahhhahhahhahhahahahahahahahaha, hiiyaaaaaaahhaaaaaaaahhh!!!"`
-`"Rule #1. It is forbidden to have a crime without all clues presented."`
-`......Will's black sword had cut through Bernkastel's body at a diagonal angle.`
+` Ahh{0}hah{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha, hiiyaa{0}a{0}a{0}a{0}aah{0}haa{0}a{0}a{0}a{0}a{0}aahhh!!!"`
+`"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}."`
+`......Will's black sword had cut through {f:5:Bernkastel}'s body at a diagonal angle.`
 `However, it had no effect, ......like cutting the reflection of the moon on the water.`
 `"What's this?`
 ` What do you mean by "clues"?"`
@@ -3222,14 +3222,14 @@
 ` And that means this is no mystery.`
 ` It's fantasy."`
 `"......Huuh...?"`
-`It is impossible for an unprovable truth to become truth in the human world.`
+`It is impossible for an unprovable truth to become truth in the {y:0:Human}{n:0:human} world.`
 `In other words, even the truth cannot leave the cat box.`
-`"Ahhahahahahahahahahahaha!!`
-` Are you trying to shut the truth inside the cat box?`
+`"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+` Are you trying to shut the {i:truth} inside the cat box?`
 ` *giggle*giggle*, is this how the mystery genre is supposed to fight?`
-` Ahhahhahhahhahahahahahahahaha!`
-` Hiiyahhhahahahahahaaaaaaaaahhh!!"`
-`With a laugh like the howl of a wild animal, Bernkastel carelessly tossed her scythe aside.`
+` Ahhahhah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!`
+` Hiiyahhha{0}ha{0}ha{0}ha{0}haha{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
+`With a laugh like the howl of a wild animal, {f:5:Bernkastel} carelessly tossed her scythe aside.`
 `"You're not even worth fighting.`
 ` Get over here, pukespittle.`
 ` Try and cut me all you like.`
@@ -3239,7 +3239,7 @@
 `"And when you realize that you can't defeat me with those twenty wedges, .........you know what'll happen next, right?`
 ` *giggle*, come on.`
 ` I'll play with you, ......and these twenty wedges of yours!"`
-`"Haaaaaaaaaaaaaaaaaaaaaaaaaaaahhhh!!!"`
+`"Haaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!!"`
 `Trying to ignore an incredibly painful chest, ......Lion kept on running and running without stopping.`
 `I dashed out of the theater of the Witches of Theatergoing, then ran through an incomprehensible world of blackness.`
 `Before I knew it, I was running through a place that looked like a sea of stars,`
@@ -3251,7 +3251,7 @@
 `I mustn't stop moving.`
 `{n}I mustn't fall here.`
 `If I fall, ......I'll crush the hope of the "me"s in countless worlds...`
-`The happy world that the Beatrices dreamed of.`
+`The happy world that the {f:5:Beatrice}s dreamed of.`
 `I'm their last hope, the only one who can reach that world...`
 `......Even though I understand this, ............the witch who controls miracles has declared there will be no miracle,`
 ` ......and the "truth" that she thrust in front of me with those words gouges cruelly into my chest......`
@@ -3291,7 +3291,7 @@
 `Will was holding Lion with one arm.`
 ` He couldn't take his sword out.`
 `{n}However, he didn't let go.`
-`......He was determined to let Lion escape from here, and to lead Lion towards the happy tale that the Beatrices had dreamed of.`
+`......He was determined to let Lion escape from here, and to lead Lion towards the happy tale that the {f:5:Beatrice}s had dreamed of.`
 `Through the cats whose eyes glowed in the empty darkness...the queen of cats who permitted no miracles appeared......`
 `".........Willard.`
 ` Put Lion down.`
@@ -3308,7 +3308,7 @@
 `"It's because I got fed up with all those damn sob story mysteries.`
 ` .........We're gonna survive and make a happy ending."`
 `"I'm gonna show her.`
-` Beatrice died in despair, thinking that there were only bad endings, and I'm gonna show her that a happy ending can exist.`
+` {f:5:Beatrice} died in despair, thinking that there were only bad endings, and I'm gonna show her that a happy ending can exist.`
 ` So I'll never put you down."`
 `"..................Will......"`
 `"You can take the rest of my left arm, cats.`
@@ -3327,11 +3327,11 @@
 `"That's the spirit."`
 `As he said this, Will held Lion tight.`
 `"There you have it.`
-` We'll keep struggling on, Bernkastel."`
+` We'll keep struggling on, {f:5:Bernkastel}."`
 `"We won't give up on the chance of a miracle...!"`
 `"I'm amazed you can say that when the Witch of Miracles has promised you that there will be absolutely no miracles.`
 ` .........*giggle*giggle*,`
-` ehhehehehehahahahahahahahaha!!`
+` ehheh{0}eh{0}eheha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
 ` So long, you two.`
 ` Go collect dust in the depths of oblivion, unable even to die, and disappear!!"`
 `"Come, my kitties.`
@@ -3339,4 +3339,4 @@
 ` There are no more scenes for these two pieces... Put them away."`
 `A billion, a trillion, a quadrillion cats all bared their fangs.`
 `In the starry sky of cat eyes, countless flesh‐colored mouths opened, exposing countless teeth.`
-`......The world was wrapped in flesh and blood and fangs.`
+`{a:c:......The world was wrapped in flesh and blood and fangs}.`

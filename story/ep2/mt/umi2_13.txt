@@ -152,12 +152,12 @@
 `"Auntie Rosa.`
 ` ...I heard about the puzzle from Battler‐kun.`
 ` ...I don't think it's bad to be very careful, but I think being too suspicious isn't good either."`
-`"Whether the real culprit is Beatrice or not,`
+`"Whether the real culprit is {f:5:Beatrice} or not,`
 ` I think there is reason for us to suspect that the servants are in league with her."`
 `"......In the first murder, where Nii‐san and the others were killed,`
 ` they'd been given a very brutal treatment, right?`
 ` Did that look like something that could be done alone?"`
-`"............Maybe our mystery guest Beatrice‐sama worked all night and did it all."`
+`"............Maybe our mystery guest {f:5:Beatrice}‐sama worked all night and did it all."`
 `"And the incident with the master keys involving the door to Jessica's room?`
 ` Isn't that proof that one of the servants was involved?"`
 `"......nn.................."`
@@ -185,7 +185,7 @@
 `However, there was no way to lock that door without using a master key...`
 `"How can you make the claim that there's no way to lock the door without using a master key?`
 ` Isn't that a Devil's Proof, like Rudolf nii‐san was talking about?`
-` Maybe it was locked by a method we can't think of."`
+` {i:Maybe it was locked by a method we can't think of}."`
 `"Even if we can't think of it, that doesn't disprove that there was some unknown trick."`
 `"............Well, sure, but...`
 ` So is that it?`
@@ -236,14 +236,14 @@
 ` ...it was the first thing I thought of, too.`
 ` ......It's the reasoning I hate the most, so I wanted to destroy it in the very beginning..."`
 `"*cackle*cackle*...`
-` "Kanon was killed in this room", yes?"`
+` "{p:1:Kanon was killed in this room}", yes?"`
 `"Because you seemed to suspect Kanon as the culprit, you made me repeat this to destroy that possibility right away.`
 ` I understand, I understand.`
 ` *cackle*......"`
 `"...So this is what I thought of next.`
 ` A theory that there were actually three people in that room.`
 ` Jessica and Kanon‐kun were victims.`
-` And the culprit, the guest Beatrice, was also there with them."`
+` And the culprit, the guest {f:5:Beatrice}, was also there with them."`
 `"You wanted to make it "the human me" who committed the crime without using magic.`
 ` I see, a strange theory that fits you perfectly.`
 ` *giggle*giggle*."`
@@ -263,17 +263,17 @@
 ` Thanks.`
 ` Thanks to the witch's arrangement, I can say for sure that the room doesn't have a hidden door without searching the whole thing."`
 `"Indeed.`
-` There are no hidden doors in this room.`
-` There is no way to get in or out other than the door and the windows."`
+` {p:1:There are no hidden doors in this room}.`
+` {p:1:There is no way to get in or out other than the door and the windows}."`
 `"......Which means...`
 `...that theory Auntie Rosa's so confident in...`
 `...is wrong."`
 `"...Plus, frustratingly, it's impossible to disprove that theory.`
 ` ......If you, the witch, say in red`
 ` "`
-`there are no hidden doors", then it's settled."`
+`{p:1:there are no hidden doors}", then it's settled."`
 `"......However, no matter how much a human like me tries to argue against her, Auntie Rosa probably won't accept it.`
-` Humans can't prove there's no hidden door."`
+` {i:Humans can't prove there's no hidden door}."`
 `"It's a Devil's Proof.`
 ` ...............Damn.`
 ` Sure is convenient being a witch..."`
@@ -328,7 +328,7 @@
 ` .........Ever."`
 `"......Sure, thanks."`
 `"I just wanted to warn you not to be careless, as your mother.`
-` Always remain where I can see you.`
+` {i:Always remain where I can see you}.`
 ` I will protect you."`
 `"And at the same time, you'll be observing us to make sure we aren't "wolves".`
 ` ...Yeah, thanks a lot for that.`
@@ -347,7 +347,7 @@
 ` What if I were the culprit?`
 ` Do you think I would let by this once‐in‐a‐lifetime chance I got when the servants left?"`
 `"I could just shoot you both, bang, and all that's left is to come out with a fitting excuse.`
-` Something like, Beatrice appeared outside the window and shot at us with a gun.`
+` Something like, {f:5:Beatrice} appeared outside the window and shot at us with a gun.`
 ` I would claim that I fired two shots back at her, and throw the two shots' worth of empty cartridges onto the floor."`
 `"That's a crazy wild argument, but it does make sense. Ihihihi!"`
 `"There's something Krauss nii‐san often used to say.`
@@ -375,13 +375,13 @@
 `{n}If so, how many?!`
 `......I feel like I'm constantly only suspecting the people connected to all this.`
 `...I find myself quickly forgetting about that 19th person,`
-` the guest, Beatrice, who came yesterday and boldly called herself the Golden Witch.`
+` the guest, {f:5:Beatrice}, who came yesterday and boldly called herself the Golden Witch.`
 `I haven't actually seen her face.`
 `I've heard that she's like a double of the witch in that portrait,`
 ` but because I haven't seen her directly, no matter how hard I try, I can't really feel like there are 19 people on this island.`
 `...So I easily slip into the illusion that the culprit is one of the 18...`
 `Damn it......`
-` Come out, Beatrice.`
+` Come out, {f:5:Beatrice}.`
 `If you're the bad guy, then act like the bad guy, and show yourself, laughing in a high‐pitched voice and looking down on us.`
 `Just like a bad guy in one of those dramas who, even once they're exposed as the culprit,`
 ` aggressively says "is there any proof?"`
@@ -581,7 +581,7 @@
 `She might find some if she searched the rose garden, but they would probably have all been lost in this wind and rain...`
 `That's right, ......the boiler room isn't cleaned very often.`
 `{n}...If she went there, ......she might be able to find some...`
-`Shannon ran down the stairs to search for those in the underground boiler room...`
+`Shannon ran down the stairs to search for {i:those} in the underground boiler room...`
 `Had some medicine taken effect at the brink of death,`
 ` or had Kanon finally stopped even feeling pain?`
 `...For the time being, Kanon had at least gotten over his painful gasping.`
@@ -637,7 +637,7 @@
 `"Genji‐sama, it isn't a question of whether you believe or not.`
 ` She told me.`
 ` I heard it.`
-` Why won't you believe me?"`
+` {f:5:Why} won't you believe me?"`
 `"D‐don't get up...`
 ` You'll worsen your wound..."`
 `Kanon sat up on the bed, and spoke to Genji, who was making no effort to believe Kanon's story.`
@@ -709,7 +709,7 @@
 `".....................`
 ` ...Why something like that?"`
 `"If you're Kanon‐kun, you should be alright.`
-` ......But if spiders are your natural enemy, I thought you might hate it."`
+` ......But if {i:spiders are your natural enemy}, I thought you might hate it."`
 `"...........................`
 ` Hahaha, oh no.`
 ` Why would I hate spiders?"`
@@ -777,7 +777,7 @@
 ` But.........what did we see?!`
 ` What happened?!`
 ` E‐ev‐ev‐......even though I definitely pushed that thing against this wall with this very hand!"`
-`"I cannot understand what happened...!!"`
+`"{i:I cannot understand what happened}...!!"`
 `Gohda looked at his own hand.`
 `The bright‐red blood left from his scuffle with Kanon...definitely remained.`
 `...And yet, Kanon was nowhere to be seen.`

@@ -1,4 +1,4 @@
-`"Battler‐san returned to the guesthouse at 3 a.m.`
+`"Battler‐san returned to the guesthouse at {nobr:3 a.m.}`
 ` Then, the rest of you split up about thirty minutes later, is that correct?"`
 `"Yes, that's right.`
 ` We were getting pretty tired by that point.`
@@ -23,10 +23,10 @@
 ` They've been put away in my darkness between the human world and the other."`
 `"......And that would‐be detective won't be able to find them...?"`
 `"Of course.`
-` It's absolutely impossible for a human.`
+` It's absolutely impossible for a {y:0:Human}{n:0:human}.`
 ` .........Want to check?"`
 `"Just in case.`
-` And we also need to take this opportunity to reexamine what Lady Bernkastel's goals are likely to be from now on."`
+` And we also need to take this opportunity to reexamine what Lady {f:5:Bernkastel}'s goals are likely to be from now on."`
 `"As they say, if you know your enemy, you need not fear the outcome of a hundred battles."`
 `"If you know the truth, you can win a hundred battles without fighting."`
 `"Pukkukukukuku.`
@@ -60,10 +60,10 @@
 ` If you took away my high spirits, my bewitching <body>,`
 ` and my pleasant disposition, I'd have nothing left!`
 ` Wahaha."`
-`For some reason, Virgilia praised Beato for her high spirits.`
-`Though Beato was taken aback at such granny‐like words coming out of Virgilia's mouth all of a sudden,`
+`For some reason, {f:5:Virgilia} praised Beato for her high spirits.`
+`Though Beato was taken aback at such granny‐like words coming out of {f:5:Virgilia}'s mouth all of a sudden,`
 ` she answered while bumping a fist against her chest.`
-`Virgilia had been absent often during this game.`
+`{f:5:Virgilia} had been absent often during this game.`
 `She might even have been away from her seat when Battler solved the epitaph and during the uproar that followed.`
 `Apparently, she had been absent for so many critical points...`
 `that she didn't have a very good grasp of what had happened so far in this game...`
@@ -74,19 +74,19 @@
 `Those gaping wounds opened wider than their mouths,`
 ` ......and made it feel as though they would no longer need their mouths to breathe.`
 `"......I see.`
-` So, anyone looking at George, Jessica, Maria, Rosa, or Genji's corpses could confirm at a glance that they are dead."`
+` So, {p:1:anyone looking at George, Jessica, Maria, Rosa, or Genji's corpses could confirm at a glance that they are dead}."`
 `"Hmm?`
 ` Red?`
 ` Well, there's no point in me holding out against you.`
 ` That's right,`
-` at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead."`
+` {p:1:at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead}."`
 `"Why did Lia use the red......?"`
 `"Who knows.`
 ` ......However, she is always thinking of Milady.`
 ` She must have something in mind that will benefit Milady."`
 `"......Hmmm."`
 `But they had hidden the corpses here so that no one could use the red...`
-`Despite that, however, Ronove was right—Beatrice first.`
+`Despite that, however, Ronove was right—{f:5:Virgilia} always thought of {f:5:Beatrice} first.`
 `The way that these corpses, which Gaap had gone to all the trouble of erasing, had now been confirmed with the red made a slightly displeased expression rise to Gaap's face.`
 `However, in the end she remembered that she was only a guest and shrugged.`
 `"Why did you have Gaap hide the corpses?"`
@@ -137,8 +137,8 @@
 ` ......And we already know that Natsuhi is probably about to be lured into yet another trap."`
 `"A trap?"`
 `"Mm.`
-` Someone Lady Lambdadelta created, who calls himself a man from 19 years ago, has already threatened Natsuhi.`
-` She was ordered to go into a closet in a certain guest room at 1 p.m., which is only a few minutes away, and hide there.`
+` Someone Lady {f:5:Lambdadelta} created, who calls himself a man from 19 years ago, has already threatened Natsuhi.`
+` She was ordered to go into a closet in a certain guest room at {nobr:1 p.m.}, which is only a few minutes away, and hide there.`
 ` ......Krauss was taken as a hostage, so Natsuhi can't resist."`
 `".........I see.`
 ` How relentless.`
@@ -240,7 +240,7 @@
 `From their faces, she could tell that they were expecting the classic mystery pattern...`
 `that the first person to quarrel and leave the circle would become the next victim.`
 `............Natsuhi......couldn't disobey because of the threat against Krauss, who had been taken as a hostage.`
-`Very soon, it would be 1 p.m., the time that had been arranged.`
+`Very soon, it would be {nobr:1 p.m.}, the time that had been arranged.`
 `She was to hide for an hour in the closet of a specific guest room.`
 `It was easy to suspect that this bizarre order was a trap to select her as the next sacrifice.`
 `She thought of various ways to resist,`
@@ -287,7 +287,7 @@
 ` ......it might create a new baffling murder case, like an extension of the one which occurred this morning.`
 `".........I‐...if that's what he's up to, so much the better.`
 ` ...It will be a good chance to confront the culprit directly..."`
-`Natsuhi had some experience with using a naginata, but only from casual lessons.`
+`Natsuhi had some experience with using a {ruby:Japanese polearm:naginata}, but only from casual lessons.`
 `Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.`
 `As she was now, she had no realistic chance of prevailing over a man with malicious intent on her own, and no weapons that could make that possible.`
 `".............................."`
@@ -415,8 +415,8 @@
 `{n}I'm certain it will be a big clue that will help in arresting the culprit.`
 `"......That card was probably meant to surprise me and control me,`
 ` ......but he's actually dug his own grave."`
-``
-`I never told anyone except Shannon that I like autumn.`
+`{a:c:`
+`{p:1:I never told anyone except Shannon that I like autumn}.}`
 `This is unshakable proof that she's working with the culprit......`
 `Though I'd thought this time in the closet would crush me with uncertainty and uneasiness, it had actually given me the start of a counterattack.`
 `If I hadn't been given this time in the darkness, I probably wouldn't have noticed this.`
@@ -604,7 +604,7 @@
 `So even though they couldn't tell much of what was going on inside the room,`
 ` ...they could tell by Eva's moans that they were too late......`
 `"......What the hell......"`
-`"Honey...!! Honeyyyyyyyyyy!!`
+`"Honey...!! Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy!!`
 ` Doctor Nanjo!!`
 ` Look at my husband...! Quickly!!"`
 `"I, I'll do it right now......"`
@@ -615,7 +615,7 @@
 ` There's no one here!"`
 `"What could have happened, ...aaaaaahhhh......"`
 `"Honey!!`
-` Honeyyyyyyyyyyyyyyyyyy...!!"`
+` Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy...!!"`
 `".........I'm afraid to say...that there's nothing I can do......"`
 `Nanjo stood up, hanging his head sadly.`
 `It was only natural.`
@@ -630,8 +630,8 @@
 `"Didn't I tell you to wait for me?!!`
 ` Why did you go on alone...?!!`
 ` Stupid, stupid,`
-` stupiiiiiiiiid!!`
-` Uwaaaaaaaaaaaaahhhh!!"`
+` stupiii{-}i{-}i{-}i{-}iiid!!`
+` Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
 `"......The culprit probably waited for us to get careless and split up......"`
 `"That bastard......`
 ` So he still hasn't had enough blood...?!"`
@@ -705,7 +705,7 @@
 `"Yes, I am out of the way."`
 `"Let's carry him to the parlor."`
 `"Y‐yes...!"`
-`"Honey, honeyyyyyyyyyyyy, awaaaaaaaahhhhh...!!"`
+`"Honey, honeyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y, awaa{0}a{0}a{0}a{0}a{0}a{0}ahhhhh...!!"`
 `"......Listen up, everyone.`
 ` From now on, we'll always move as a group.`
 ` You must not let yourself be isolated."`
@@ -715,8 +715,8 @@
 `"......It's impossible...`
 ` The shutters and the chain were firmly set.`
 ` ......Even with a master key, it's impossible to force your way into that room......!"`
-`"It must have been Beatrice‐sama's doing.........oooohhhhh......"`
-`"......Th‐there's no way Beatrice‐sama did this...`
+`"It must have been {f:5:Beatrice}‐sama's doing.........oooohhhhh......"`
+`"......Th‐there's no way {f:5:Beatrice}‐sama did this...`
 ` ......The epitaph has been solved, so there shouldn't be any more reason to hold the ritual..."`
 `"As if we could understand her reasons...`
 ` This is impossible for anyone except a witch...!"`
@@ -772,8 +772,8 @@
 `I passed through the hall...`
 `...to the lobby.`
 `Once I've ascended the main staircase in the lobby, ......I'll be almost there......`
-``
-`"Natsuhi‐san."`
+`{a:c:`
+`"Natsuhi‐san."}`
 `"Hyeek......!!"`
 `Just as she was about to go up the large staircase, Natsuhi heard Erika call out to her,`
 ` and was so surprised that she visibly jumped.`
@@ -782,7 +782,7 @@
 ` Did something happen......?"`
 `".........Natsuhi‐san, were you just...`
 `going up the stairs...?`
-` Your room is upstairs, isn't it......?"`
+` Your room {i:is} upstairs, isn't it......?"`
 `Erika coldly pointed out this strange fact.`
 `{n}......Natsuhi cursed her bad luck.`
 `"I, ...I couldn't sleep, so I was going to return to the parlor,`
@@ -875,7 +875,7 @@
 `In short, from Erika's point of view, the sound of that lock was truly...`
 `"Checkmate."`
 `Erika said that suddenly.`
-`Bernkastel said that suddenly.`
+`{f:5:Bernkastel} said that suddenly.`
 `"Oh, fast!`
 ` Wow, so you've figured out the culprit already?`
 ` We've barely gotten to any of the crimes, you know?`
@@ -887,7 +887,7 @@
 ` Why don't you show me what you've got?`
 ` *giggle*giggle*...!!"`
 `"To think that she'd lay down the challenge without waiting for the game to be over at midnight...!`
-` What a hasty person, that Lady Bernkastel...!"`
+` What a hasty person, that Lady {f:5:Bernkastel}...!"`
 `"It is quite an early challenge.`
 ` To think that she already feels she can win at this stage..."`
 `"......Claiming a witch exists is normally all you need to do to win,`
@@ -895,19 +895,19 @@
 ` ......Sounds like this fight'll be a pain."`
 `"I welcome a troublesome fight!`
 ` I won't let them do as they please with my golden island any more...!!`
-` I shall meet your challenge, Lady Bernkastel!`
+` I shall meet your challenge, Lady {f:5:Bernkastel}!`
 ` Furudo Erika!"`
 `......In the Golden Land, the endless rain continued to fall.`
 `Battler was nowhere to be seen.`
 `It would very soon reach the time when Battler had joined in on the fifth game,`
 ` and control of his piece would be passed on to him.`
-`In other words, only now, in this final stage of the game when Bernkastel had pinpointed the culprit,`
+`In other words, only now, in this final stage of the game when {f:5:Bernkastel} had pinpointed the culprit,`
 ` was Battler finally going to be allowed to participate.`
 `He had left the arbor a short while ago for that reason.`
-`Now, the only ones in sight were Virgilia, who continued to knit silently,`
+`Now, the only ones in sight were {f:5:Virgilia}, who continued to knit silently,`
 ` ......and Beato, ...who just sat there blankly amidst the smell of her black tea,`
 ` not even putting the cup to her lips......`
-`Virgilia stopped knitting for a moment...`
+`{f:5:Virgilia} stopped knitting for a moment...`
 `...and looked out across the vast golden rose garden that extended as far as the eye could see.`
 `"......At least in terms of mere culprit‐guessing games,`
 ` ......I think we can say that Battler‐kun has gained the strength to never again surrender."`
@@ -919,12 +919,12 @@
 ` even if the game goes on to repeat a hundred times,`
 ` he will never solve it.`
 ` He'll just wander forever like someone trying to find the blue bird."`
-`And that, ............Beatrice,`
+`And that, ............{f:5:Beatrice},`
 ` goes for you as well.`
 `Even if you play this game hundreds more times,`
 ` you will never arrive at the answer you seek.`
-`Bernkastel will abuse this game without a doubt.`
-`Lambdadelta will also churn this game about with the utmost arrogance.`
+`{f:5:Bernkastel} will abuse this game without a doubt.`
+`{f:5:Lambdadelta} will also churn this game about with the utmost arrogance.`
 `At a glance, that may be humiliating and appear to you and Battler as though the game has been stolen from you.`
 `.........However.`
 `That is something the two of you need right now.`
@@ -937,10 +937,10 @@
 `"Those two will bring you either victory or defeat.`
 ` But either result will now be one filled with compassion.`
 ` .........You should understand that as well by now."`
-`Virgilia faced Beato, whom she had come to adore like a daughter,`
+`{f:5:Virgilia} faced Beato, whom she had come to adore like a daughter,`
 ` ......with cold eyes that she must not have shown often.`
 `It was like the gaze of a mother who, instead of scolding, silently urges their child to recognize their mistake.`
-`"Beatrice.`
+`"{f:5:Beatrice}.`
 ` .........How long do you intend to stay there...`
 `...neither alive...`
 `nor dead,`
@@ -948,9 +948,9 @@
 `nor descending to hell,`
 ` there in a daze on the peak of Mount Purgatory......?"`
 `"......................................."`
-`"I am Virgilia.`
+`"I am {f:5:Virgilia}.`
 ` I have guided him through Purgatory and brought him to you at its peak.`
-` ......And you are Beatrice.`
+` ......And you are {f:5:Beatrice}.`
 ` You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell."`
 `Did you know that the tribulations of Purgatory, which lies in the gap between heaven and hell,`
 ` are sometimes more torturous than even hell itself...?`
@@ -974,7 +974,7 @@
 `"Whether it is alive or dead,`
 ` your cat box eternally desecrates the cat.`
 ` .........Those two have brought you the key to the box that you were too afraid to open."`
-`Beatrice.`
+`{f:5:Beatrice}.`
 `{n}The time has come for you to die.`
 `I hope...`
 `that your heart will be stopped...`

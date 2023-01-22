@@ -120,7 +120,7 @@
 ` It was my duty to wait for orders until they returned."`
 `Was Genji‐san really this much of a robot?!`
 `This is bad, this is bad, it's really bad...!!`
-`The fact that Doctor Nanjo and Kumasawa‐san had been killed in this way meant that three people had already been killed...!!`
+`The fact that Doctor Nanjo and Kumasawa‐san {i:had been killed in this way} meant that three people had already been killed...!!`
 `We ran towards Aunt Natsuhi's room.`
 `{n}.........With a touch of anxiety, and just as much resignation.`
 `Before we even saw the inside of Aunt Natsuhi's room,`
@@ -202,7 +202,7 @@
 `"...........................`
 ` ...On the ninth twilight, the witch revives, and none shall be left alive."`
 `"I see.`
-` ......So now, the Golden Witch Beatrice will be revived.`
+` ......So now, the Golden Witch {f:5:Beatrice} will be revived.`
 ` ......What then?`
 ` ...On the final tenth twilight?"`
 `"...On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.`
@@ -247,7 +247,7 @@
 `I don't have a clue what's going on anymore.`
 `......If only the dead are safe, and everyone alive is a wolf,`
 ` ......then all that's left is me, Auntie Rosa, Maria, and Genji‐san.`
-`......Only those, Grandfather, and that 19th person—the guest who I hadn't even sensed— Beatrice.`
+`......Only those, Grandfather, and that 19th person—the guest who I hadn't even sensed— {f:5:Beatrice}.`
 `Thirteen people had died, and six were left.`
 ` ......With only six people, how would the wolves and sheep puzzle end...?`
 ` Even though the puzzle which had had nineteen people in it had been reduced to a mere six,`
@@ -275,7 +275,7 @@
 ` Because it wasn't a sheep."`
 `"Are you saying Genji‐san's...a wolf...?"`
 `"He said that he was alone in the kitchen, but that's impossible to prove.`
-` The only ones who could have carried Doctor Nanjo and Kumasawa‐san's corpses, and who could have killed George and the rest, were him and Beatrice, right?"`
+` The only ones who could have carried Doctor Nanjo and Kumasawa‐san's corpses, and who could have killed George and the rest, were him and {f:5:Beatrice}, right?"`
 `"W‐wait, with that argument, anyone—"`
 `"......Battler‐sama.`
 ` Thank you for your concern."`
@@ -336,11 +336,11 @@
 `The first page......had a magic circle drawn on it, in something like blood.`
 `If I asked Maria, she'd probably know what it meant.`
 `And there was writing on the other page.`
-`― Are you making progress solving the riddle of the epitaph?`
+`{e:070:― Are you making progress solving the riddle of the epitaph?`
 `Very, very soon, you'll run flat out of time.`
-`The ninth twilight will start very soon.`
+`The ninth twilight will start very soon.}`
 `......There was no mistake.`
-`{n}...It was a letter...from Beatrice...`
+`{n}...It was a letter...from {f:5:Beatrice}...`
 `"...Uu?`
 ` ......Battler,`
 ` ......what is that?"`
@@ -383,7 +383,7 @@
 ` ......you're going to suspect me?!"`
 `"Cut that out!!`
 ` My family has been killed!!`
-` Why would I of all people take part in the culprit's scheme?!!"`
+` Why would {i:I} of all people take part in the culprit's scheme?!!"`
 `"Yes.`
 ` Even under the assumption you could receive a large amount of money, I don't want to believe a demon exists who would sell their own parents."`
 `"But, ...maybe he does.`
@@ -428,24 +428,24 @@
 ` You could have had them set it in a pre‐arranged spot and then collected it back!!`
 ` And weren't you the one who said it was suspicious whether there really are five master keys?!"`
 `"So how are you saying that someone other than yourself set that letter there?!!`
-` As long as you can't prove that, you are a wolf!!"`
+` {i:As long as you can't prove that}, you are a wolf!!"`
 `"Shut uuuuuup!!`
 ` Then why don't you show me some proof,`
 ` how do you say the culprit killed George‐aniki and the rest in that locked room?!`
 ` How did they lock it?!!"`
 `"Absolutely and totally correct!`
-` Natsuhi's room was exactly the same, just like usual!`
-` The door and the windows were locked from the inside."`
-`"There were no frauds or tricks, no means of secret passage nor places in which to hide!`
-` Natsuhi's own key was in George's pocket, and locked inside the room.`
-` That leaves only the five master keys, and "Rosa" was holding all of them!"`
-`"And while I'm at it, the parlor is the same.`
-` The key to the parlor itself is sealed away in the servant room.`
-` The locked‐room definition of the room is the same as always!"`
+` {p:1:Natsuhi's room was exactly the same, just like usual}!`
+` {p:1:The door and the windows were locked from the inside}."`
+`"{p:1:There were no frauds or tricks, no means of secret passage nor places in which to hide}!`
+` {p:1:Natsuhi's own key was in George's pocket, and locked inside the room}.`
+` {p:1:That leaves only the five master keys, and "Rosa" was holding all of them}!"`
+`"{p:1:And while I'm at it, the parlor is the same}.`
+` {p:1:The key to the parlor itself is sealed away in the servant room}.`
+` {p:1:So unlocking it with anything but a master key is impossible}! {p:1:The locked‐room definition of the room is the same as always}!"`
 `"Come onnnnn, there's only one suspect noooooooooow,`
-` or are you still playing dumb, Ushiromiya Battleeeeeeeeeeeeeer?!"`
+` or are you still playing dumb, Ushiromiya Battleeee{-}e{-}e{-}e{-}e{-}e{-}e{-}eeeer?!"`
 `"Shut uuuuuuup!!`
-` You keep silent as welllllllllllllllllll!!!"`
+` You keep silent as wellll{-}l{-}l{-}l{-}l{-}l{-}l{-}l{-}l{-}l{-}llllll!!!"`
 `"You're the one who should keep silent, how do you say that letter was set there by someone other than you?!`
 ` As long as you can't prove that, you're a wolf!!"`
 `"If I can be suspected, then you can be suspected, you try showing me some proof,`
@@ -465,7 +465,7 @@
 `"There can only be one reason, you called Dad and the rest out there and killed them!!`
 ` Damn it, damn it,`
 ` that explains everything, doesn't it, don't fuck with me don't fuck with me,`
-` stop saying things that don't make seeeeeeeeeeeeeeeeeeeeeeeeeense!!"`
+` stop saying things that don't make seeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeense!!"`
 `"Uuuuu!!`
 ` Stooppppp iiiiiiiiit!!`
 ` You mustn't fiiiight!!"`
@@ -486,7 +486,7 @@
 ` All this about keys and tricks and alibis......`
 `all of it, all of it was stupid!!"`
 `"Even though it's the work of the witch, we weren't even able to trust each other as fellow humans...!!`
-` Right, Auntie Rosa? From the beginning, there wasn't a human culprit, it was all the work of the witch."`
+` Right, Auntie Rosa? From the beginning, there wasn't a {y:0:Human}{n:0:human} culprit, it was all the work of the witch."`
 `"So there's no way you're the culprit,`
 ` and there's no way I'm the culprit, or Maria, or Genji‐san, or aaaaaanyone!!`
 ` Why has it come to this?!!"`
@@ -495,9 +495,9 @@
 `...with the kind aunt who I loved?!"`
 `"Why, why does everyone have to suspect each other?!?!`
 ` I'm not going to doubt my auntie, I'm not going to doubt anyone,`
-` it's all the work of the witch, it's all the work of Beatrice,`
-` it's all, all a crime that Beatrice committed with magic!!"`
-`"Beatriceeeeee, please, show yourself here,`
+` it's all the work of the witch, it's all the work of {f:5:Beatrice},`
+` it's all, all a crime that {f:5:Beatrice} committed with magic!!"`
+`"{f:5:Beatriceeeeee}, please, show yourself here,`
 ` and confess to us that you did everything,`
 ` I've had enough already, I've had enough of doubting each other like this!!"`
 `"So forgive us,`
@@ -506,8 +506,8 @@
 ` Give me my kind relatives and cousins back!!`
 ` I hate it, I hate it, I hate it all!!`
 ` You definitely exist, you win!!"`
-`"Show yourself, oooBeatriceeeeeeeeeeeeeeeeeeee!`
-` Beatriiiiiceeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!"`
+`"Show yourself, ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oooohhh, {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeeeee}!`
+` {f:5:Beatriiiiiceee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee}!!!"`
 `".........Am I...............still...alive?"`
 `Kinzo seemed to have fallen into a doze at some point.`
 `He searched for his spectacles, and looked at the clock.`
@@ -515,13 +515,13 @@
 `"...Her ritual, I wonder, how far has it progressed?`
 ` ............It must have progressed quite far by this time."`
 `Kinzo lifted his heavy body from the chair, ......and approached the portrait of the witch that he had gazed at every day.`
-`".........Beatrice.`
+`".........{f:5:Beatrice}.`
 ` Very soon, ......I will be able to be reunited with your smile.`
 ` ............It doesn't matter if I die!`
 ` If I could just see your smile once more, I would gladly give this life of mine!"`
 `"So,`
 ` ...I beg youuuu, let me...`
-`...meet with you one more tiiiiiiiiiiiiiiiiime...`
+`...meet with you one more tiiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiiime...`
 ` And let me swear my love to you, let me apologize for my crimes, uuuoooooooooooo......"`
 `"......But I won't let you escape!!`
 ` You are mine!!`
@@ -535,12 +535,12 @@
 ` ...In an instant, he had started sobbing.`
 `"............uuuuuu, hic...,`
 ` that's wrong,`
-` that's not what I wanted to sayyy, Beatriceeeeee..."`
+` that's not what I wanted to sayyy, {f:5:Beatriceeeeee}..."`
 `"Please,`
 ` ......let me meet you one more time...`
 ` Even if you only let me apologize......`
-` Uuuuuuuuu, Beatriceeeeee,`
-` ...hic, ...hic...! Uwaaaaaaaaaaaaaaaaaauaauauau...!!"`
+` Uuuuuuuuu, {f:5:Beatriceeeeee},`
+` ...hic, ...hic...! Uwaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}u{0}a{0}a{0}uauau...!!"`
 `"You are beloved, yearned for...! I was wrong...!`
 ` If you would just smile, I wouldn't need anything else...`
 ` I made a mistake, I got it wrong,`
@@ -554,12 +554,12 @@
 `............let me...`
 `say one word...`
 `...of apology...y......`
-` Beatriceeeeeee......`
+` {f:5:Beatriceeeeeee}......`
 ` Uuuuuu, hic, uuuuuuuu, uuuuuuuuuuuuu!"`
 `......As Kinzo shook and cried, behind his small back, a butterfly appeared out of nowhere, like a flake of gold leaf, and softly fell down...`
 `...You fool, Kinzo.`
 `{n}Do you think a woman exists who would fall for a man's tears.........?`
-`Well, ......even if it wouldn't make a human.`
+`Well, ......even if it wouldn't make a {y:0:Human}{n:0:human} woman fall for you, ...it might for a woman who is not {y:0:Human}{n:0:human}.`
 `Kinzo.`
 ` Do you remember......?`
 `{n}The board position of our chess game, which we never finished......?`
@@ -587,7 +587,7 @@
 ` An entreaty?`
 `{n}.........It was probably best to just call it muttering.`
 `"......I.........love you...`
-` ......Beatrice..............."`
+` ......{f:5:Beatrice}..............."`
 `They were pure words, like something an innocent child would say, without any evil intent...`
 `...You really are a fool, Kinzo.`
 `If you ever have the chance to do your life over again...`
@@ -606,8 +606,8 @@
 ` ............Oooooh,`
 ` ......could it be......`
 ` B‐`
-`......Beatrice?"`
-`".........Beatrice,`
-` .........Beatriceeeeeeeee!!"`
+`......{f:5:Beatrice}?"`
+`".........{f:5:Beatrice},`
+` .........{f:5:Beatriceeeeeeeee}!!"`
 `The woman beyond the door......answered.`
 `On the ninth twilight, the witch revives, and none shall be left alive.`

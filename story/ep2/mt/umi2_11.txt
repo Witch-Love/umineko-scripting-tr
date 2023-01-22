@@ -67,7 +67,7 @@
 ` ............Well then.`
 ` If I am to speak of my life, I must begin writing from when I met that witch."`
 `"...Shannon, copy this.`
-` ......My meeting with Beatrice took place a long way back.`
+` ......My meeting with {f:5:Beatrice} took place a long way back.`
 ` What year of the Showa era was it...?`
 ` ...I think it was toward the end of the war—"`
 `We took enough time to regain our calm,`
@@ -131,7 +131,7 @@
 `"Kihihihihihihihihihihi...`
 ` This is the seventh magic circle of the sun.`
 ` You don't even know that, huh...`
-` Kihihihihihihihihihihihihihihihi.`
+` Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
 ` Ouch."`
 `"Hey!!`
 ` Don't I always tell you not to make that creepy laugh!!"`
@@ -168,7 +168,7 @@
 `"...We can't tell whether she called the six of them over here before killing them, or whether she killed them and then carried them over here,`
 ` ...but either way, it would take a lot of effort.`
 ` .........What reason did the culprit have...`
-` for wanting six people to die here......?"`
+` {i:for wanting six people to die here}......?"`
 `"......Yes, that is something.`
 ` In doing something that elaborate, there would be an extremely high chance that when the police came, some disadvantageous evidence would be found."`
 `"......There is no way the culprit failed to notice that.`
@@ -223,7 +223,7 @@
 ` ...The rust showed that the message had been there since construction.`
 `".........I'm bad at English.`
 ` ......What's it say...?`
-` ......<This door is>...<opened>...<only at>...<probability of>??`
+` ......<This door is>...{0}<opened>...{0}<only at>...{0}<probability of>??`
 ` Sorry, my English sucks."`
 `I gave up after I was unable to finish reading the first of the two lines.`
 `{n}...It looked like the others could read it properly.`
@@ -240,7 +240,7 @@
 `"Kihihihihihihi.`
 ` ...At least learn English.`
 ` How did you get into high school without even being able to read this much?`
-` Kihihihihihihihihihi,`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
 ` ouch.`
 ` Ouch`
 `ouch`
@@ -252,30 +252,30 @@
 ` You will be blessed only when a miracle occurs"."`
 `"......Grandfather's sorcery is based on astronomically low probabilities.`
 ` ...In other words, the miracle that would open this door......would probably require an incredibly vast magical power.`
-` ......Kihihihihihihihihihihihihihihihihihi.`
+` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
 ` Ouch."`
 `"Niiiice, you can shut up now.`
 ` Auntie Rosa, you were sending Maria to English classes?`
 ` I guess it's true, you have to start learning English when you're young."`
 `".........The forbidden chapel.`
-` ......Whether or not the witch Beatrice really was a witch, she's whispered to have actually existed several decades ago,`
+` ......Whether or not the witch {f:5:Beatrice} really was a witch, she's whispered to have actually existed several decades ago,`
 ` ......and been Grandfather's mistress."`
 `"This is, umm, just my imagination, but...`
-`......I imagine the Master really did truly love Beatrice‐sama.`
+`......I imagine the Master really did truly love {f:5:Beatrice}‐sama.`
 ` However, he was already married, so they couldn't be united."`
 `"...I see.`
-` .........If the dead Beatrice could be revived with the magic of a miracle, then now that Grandmother is dead, he could marry her with his head held high.`
+` .........If the dead {f:5:Beatrice} could be revived with the magic of a miracle, then now that Grandmother is dead, he could marry her with his head held high.`
 ` And he'd marry her in this chapel......... Could it be a fairy‐tale story like that?"`
 `"......I don't think that sounds so preposterous.`
-` ...It is a well known fact that Father still loves Beatrice deeply."`
+` ...It is a well known fact that Father still loves {f:5:Beatrice} deeply."`
 `"......Also, even though I said it was creepy,`
 ` I get the feeling that the interior of the chapel was quite magnificent.`
 ` .........The thought that Father built this chapel in the hopes of having a wedding with his dead mistress actually might not be that unlikely."`
 `"...By the time he built this chapel, Grandfather probably knew that he would never use it as a church as long as he lived."`
-`"......But he prayed for the witch to be revived by some miracle.`
+`" ......But he prayed for the witch to be revived by some miracle.`
 ` And he thought that if that miracle occurred, they could be married here..."`
 `"......I see.`
-` ...If you think of it that way, this would be a place of utmost significance to Beatrice‐sama as well...`
+` ...If you think of it that way, this would be a place of utmost significance to {f:5:Beatrice}‐sama as well...`
 ` All the while knowing it was a chapel that would never be opened.`
 ` ......A story of sad love."`
 `Even though Gohda‐san's body was even bigger than mine, his words were touching.`
@@ -304,12 +304,12 @@
 `"Hey, Gohda‐san!`
 ` The key to this chapel!`
 ` Didn't Genji‐san say it?`
-` He said there was only one!"`
+` {i:He said there was only one}!"`
 `".....................Huh?`
 ` ............"`
 `"...Kihihihihihihihihihihihihihihihihihihi.`
 ` ...It took you all far too long to notice.`
-` Kihihihihihihihihihihihihihihihihi..."`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
 `...When a kid pulls a prank, it sometimes goes unnoticed by the adults, and the kid who did it loses heart.`
 `......If one of those pranks catches someone later on, it makes that kid really happy.`
 `......Maria's celebration just now looked a lot like that...`
@@ -388,7 +388,7 @@
 ` If we're talking about demons, I've got one for you as well."`
 `"......It's possible to prove that this isn't a locked room.`
 ` You just have to show how someone could go in or out!"`
-`"But it's impossible to prove that it is a locked room!!`
+`"But it's impossible to prove that it {i:is} a locked room!!`
 ` You can't deny the endless set of methods of getting in.`
 ` In other words, this is one of those Devil's Proofs!!`
 ` The definition of a locked room is in fact impossible to prove!!"`
@@ -398,7 +398,7 @@
 ` Continue."`
 `"First off, it looks like you're trying to say that the chapel is a locked room.`
 ` ...Just a short while ago, I spent some time looking around in there, and yeah, I really couldn't find any way in or out except for the door."`
-`"......But that just means I couldn't find one—it doesn't prove that it was a locked room!!"`
+`"......But that {i:just means I couldn't find one}—it doesn't prove that it was a locked room!!"`
 `"If there was a "hidden door" or something that I wasn't able to find, all your premises are completely blown away!!`
 ` In other words, whether I'm able to find a hidden door or not, you can never deny a method X by which the locked room could be entered!"`
 `"And this method X could be carried out without magic.`
@@ -414,7 +414,7 @@
 ` Because they're used the wrong way.`
 ` ......When a "locked room" appears in a detective novel, do you really think that is a locked room?`
 ` You don't, do you?!"`
-`"What trick did they use to make this look like a locked room!`
+`"{i:What trick did they use to make this look like a locked room}!`
 ` That's what you think."`
 `"In other words, out of all the locked‐room murders humanity has built up over a hundred years, not a single one has ever been made complete!!"`
 `"Oooh!!`
@@ -469,7 +469,7 @@
 ` ......Are you saying that's an evasive answer?"`
 `"That's right.`
 ` So from now on,`
-` when I speak the truth, I will use red."`
+` {p:1:when I speak the truth, I will use red}."`
 `"Wh‐what is this......?!`
 ` Keep explaining!"`
 `"No matter what magic move I use,`
@@ -483,7 +483,7 @@
 `"......But that won't make a game.`
 ` So I set up this rule."`
 `"`
-`Everything I speak in red is the truth!`
+`{p:1:Everything I speak in red is the truth}!`
 ` There's absolutely no need to doubt it!"`
 `"Are you telling me to believe that...?!"`
 `"This is a game between you and me.`
@@ -495,13 +495,13 @@
 ` I'll repeat it again.`
 ` "Dad and the rest entered the chapel using a hidden door, or were carried in through one"!"`
 `"Then I shall repeat what I said.`
-` "Regardless of whether they were alive or dead,`
-` the six definitely entered through the door"!"`
+` "{p:1:Regardless of whether they were alive or dead,`
+` the six definitely entered through the door}"!"`
 `".........I‐is there any proof?!"`
 `"<Stop>!!`
 ` I will supplement the rule."`
 `"......When I speak the truth, I will use red,`
-` and when I do, I do not bear the responsibility of establishing that by showing proof!`
+` and {i:when I do, I do not bear the responsibility of establishing that by showing proof}!`
 ` It is simply a fact and the truth!!"`
 `"The reason is simple.`
 ` I carry out all of the crimes with magic.`
@@ -510,7 +510,7 @@
 ` It would be like the barbarism of ignoring victory and defeat in a chess game and punching your opponent!"`
 `"W‐......well, that is true.`
 ` ...If you were a witch,`
-` there'd be no need for you to show proof.`
+` {i:there'd be no need for you to show proof}.`
 ` ......Because you could do anything with magic... That's nasty...`
 ` What an unfair game...!"`
 `"So shall we resume once more?`
@@ -521,14 +521,14 @@
 ` Genji‐san and the others said there was only one key, but that's impossible to prove!`
 ` The culprit secretly made a duplicate key...!"`
 `"*cackle*cackle*cackle*cackle*!`
-` Only one key to the chapel exists!"`
+` {p:1:Only one key to the chapel exists}!"`
 `"Arg......`
 ` Th‐then what about this.`
 ` The culprit used something other than a legitimate key to open it!`
 ` I don't know what, but maybe a wire!`
 ` A tool for picking locks!!"`
 `"What is this naive move?`
-` It is impossible to unlock the lock to the chapel with anything but the chapel's key!!`
+` {p:1:It is impossible to unlock the lock to the chapel with anything but the chapel's key}!!`
 ` Although it can be opened with the power of magic, of course...?"`
 `"Then what about this!!`
 ` There's something wrong with the door itself!`
@@ -538,7 +538,7 @@
 ` It's also possible that they removed the hinges, and then removed the whole door before entering!!"`
 `"Wahahahahahahahahahaha!`
 ` Is this the intelligence of a hundred years of humanity, Battleeeeeeer?!`
-` When the door to the chapel is locked, it prevents any and all methods of entry or exit!!"`
+` {p:1:When the door to the chapel is locked, it prevents any and all methods of entry or exit}!!"`
 `"As long as you can't use magic, of course...?`
 ` *cackle*!`
 ` Is it about time for checkmate?!"`
@@ -547,7 +547,7 @@
 ` They might have entered through another secret door!!"`
 `"You talk too much, you incompetent fool.`
 ` Then let me advance more on my earlier move.`
-` this front door!!"`
+` {p:1:The six definitely entered through {i:this front door}}!!"`
 `"That's screwed up!!`
 ` The door was locked, it was impossible to unlock without using that single key, and yet six people entered through this door?!?!`
 ` How did they do it?!!`
@@ -560,7 +560,7 @@
 ` Come on, do you give up?!`
 ` Then proclaim your submission, and kneel, as if toppling your king!!"`
 `"And then you shall kiss my shoes!`
-` There's no greater joy than forcing a man like you to lick my shoes, *cackle*cackle*cackle*cackle*kakakakakakakakakakaka!!"`
+` There's no greater joy than forcing a man like you to lick my shoes, *cackle*cackle*cackle*cackle*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
 `.........Damn iiiiiiiiit...`
 ` It's no good, no good, no good...`
 `{n}So I can't win against the witch...?!`
@@ -644,8 +644,8 @@
 `".........So this is what I'm getting at.`
 ` ......The envelope that was handed to Maria contained a fake."`
 `"...I waited all that time for that nonsense?`
-` This morning, Rosa definitely took an envelope out of Maria's handbag,`
-` and from that obtained the genuine key to the chapel.`
+` {p:1:This morning, Rosa definitely took an envelope out of Maria's handbag,}`
+` {p:1:and from that obtained the genuine key to the chapel}.`
 ` ...It wasn't a fake, as you say."`
 `"Heheh...`
 ` I know that much.`
@@ -658,13 +658,13 @@
 ` And you told her that she mustn't open it.`
 ` .........Maria probably realized that there was a key inside."`
 `"And because later on, Auntie Rosa used what was inside the envelope to open the door to the chapel,`
-` we thought that was the key to the chapel.`
+` {i:we thought that was the key to the chapel}.`
 ` This is the suspicious part!"`
 `"........................So is this what you are trying to say?`
 ` That when I entrusted Maria with a key, that key was a fake?`
 ` And then, by the time Rosa obtained it, it had been switched with the real thing...?"`
 `"Yeah, that's it.`
-` ......What's wrong, Beatrice‐sama?`
+` ......What's wrong, {f:5:Beatrice}‐sama?`
 ` Looks like you haven't been feeling good for a while...?"`
 `"......Those close to me sometimes call me Beato.`
 ` Beato is fine."`
@@ -672,7 +672,7 @@
 `"<Turn of the golden witch!>`
 ` ......Show me how you defeat that."`
 `"............Very well.`
-` ...The key to the chapel truly was the object inside the envelope I gave Maria."`
+` ...{p:1:The key to the chapel truly was the object inside the envelope I gave Maria}."`
 `"I'll chase you.`
 ` ......Can you repeat it in red?`
 ` ......‘That envelope was completely under Maria's supervision until Auntie Rosa opened it’."`
@@ -694,7 +694,7 @@
 `"...............Sorry.`
 ` I'm gentle with women.`
 ` I don't hurt women.`
-` I don't betray a woman's expectations!"`
+` {i:I don't betray a woman's expectations}!"`
 `".........Repeat it for me in red—say it if you can.`
 ` "No one was able to touch Maria's handbag until Auntie Rosa took out the envelope"."`
 `"........................I will also......decline this.`
@@ -711,7 +711,7 @@
 ` Maria didn't have the handbag under her complete supervision!`
 ` There's no need for magic.`
 ` It's a locked room trick that's possible for a human!"`
-`"The human culprit handed Maria the key,`
+`"The {y:0:Human}{n:0:human} culprit handed Maria the key,`
 ` and by making Auntie Rosa use it the next morning, they created the illusion that there was a locked room during that time."`
 `"You can't deny the possibility that during that time, the culprit took the key from Maria's handbag, used it,`
 ` and returned it to the handbag by morning!!"`
@@ -726,14 +726,14 @@
 `"Repetition requested!!`
 ` "The envelope handed over midday yesterday and the envelope that Auntie Rosa opened are the same thing"."`
 `"Th‐that I can repeat.`
-` The envelope I handed over to Maria and the one Rosa opened are the same thing!!"`
+` {p:1:The envelope I handed over to Maria and the one Rosa opened are the same thing}!!"`
 `"......Haah...!`
 ` ...Aaaaah, that's no good, that's no goddamn good at all.`
 ` Who even cares about that anymore?"`
 `"...I had expectations for you.`
 ` ......If you had resigned here, I would have thought of you as someone pretty good at reading between the lines.`
 ` ......So I'm disappointed.`
-` ............You've betrayed my expectations."`
+` ............{i:You've betrayed my expectations}."`
 `"Wh‐............wha......aat.........!!"`
 `"It isn't important whether the envelopes are the same thing.`
 ` ......Because envelopes can be sealed with wax over and over!`
@@ -752,7 +752,7 @@
 `c‐`
 `......could I.........`
 `to a lowly human.........!!"`
-`"I'll keep on saying it, Beatrice!!!"`
+`"I'll keep on saying it, {f:5:Beatrice}!!!"`
 `"Repetition requested!!`
 ` "The key to the chapel inside the envelope Maria received wasn't used even once until Auntie Rosa opened the envelope"!!"`
 `"......u...ku......ooooooooooooooooooooooooooohhh!!!"`
@@ -769,7 +769,7 @@
 ` This time, you try repeating it...!!"`
 `"That's right, I'm making you repeat things all the time.`
 ` I probably have to answer myself every once in a while......"`
-`"But I refuse!!`
+`"{i:But I refuse}!!`
 ` My condition for victory is denying the existence of witches.`
 ` Once I've proven that your impossible crimes by magic are possible by human hands, I'm done!!"`
 `"I've smashed your locked room with something possible even for humans.`

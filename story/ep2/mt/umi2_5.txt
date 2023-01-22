@@ -95,7 +95,7 @@
 `"So you know what?`
 ` You know what?!`
 ` October is the time when the power of witches and demons is at its most vigorous and prosperous!`
-` Kihihihihihihihi, I'm sure Beatrice will come too!"`
+` Kihihihihihihihi, I'm sure {f:5:Beatrice} will come too!"`
 `"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her!`
 ` We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!`
 ` And then I'm going to learn the secrets of runes, and become a great witch really, really quickly!"`
@@ -113,10 +113,10 @@
 `Rosa scolded Maria, trying to shut her up before her cheery discussion about black magic earned her the snickers of the relatives.`
 `"Wow...`
 ` That's a pretty large‐scale dream.`
-` ......By the way, who was Beatrice again?`
+` ......By the way, who was {f:5:Beatrice} again?`
 ` ......What was it, umm, umm, I've heard that before..."`
 `Battler had been gone for six years, and had completely forgotten about the legend of the Rokkenjima witch.`
-`However, when he said that he didn't know Beatrice's name, Maria's mood, which had been so bright until just now, became sour in an instant.`
+`However, when he said that he didn't know {f:5:Beatrice}'s name, Maria's mood, which had been so bright until just now, became sour in an instant.`
 `When he saw that, Battler immediately remembered that it was the name of the witch of this island, but the damage had been done.`
 `...Until Maria's mood improved, many mysterious and fabulous episodes regarding the Golden Witch were drilled into his brain...`
 `"That is enough, Maria.`
@@ -139,7 +139,7 @@
 `"Mama, it hurts, Mama, it hurts... It hurts it hurts it hurts......"`
 `"Halloween, Halloween, do you ever stop...?`
 ` A witch festival...?`
-` Who cares about the Celts, who cares about black magic, are you an idiot......?`
+` Who cares about the Celts, who cares about black magic, are you an {i:idiot}......?`
 ` You are nine years old, nine..."`
 `"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...`
 ` We were even late because I bought them for you.`
@@ -153,7 +153,7 @@
 `{n}...It was as though a brand was being pushed against Maria's eyes, leaving a mark that couldn't be erased...`
 `"Who cares about this disgusting candy,`
 ` disgusting, disgusting...!!"`
-`"This is This is why!!`
+`"This is {i:why}, you see?! {i:This} is why!!`
 ` Disgusting disgusting disgusting!!!"`
 `She struck Maria's head over and over again with her palm as she spoke.`
 `{n}...She didn't hit Maria's face. Because the red swelling would stand out.`
@@ -246,30 +246,30 @@
 `Kanon held out the miserable candy she wanted.`
 `{n}Maria took it, and spoke.`
 `"...Thank you.`
-` A human can't do anything except dust it off, but a witch can repair it to how it was.`
-` It would be easy for Beatrice.`
+` A {y:0:Human}{n:0:human} can't do anything except dust it off, but a witch can repair it to how it was.`
+` It would be easy for {f:5:Beatrice}.`
 ` Kihihihihihi."`
 `"............Maria‐sama,`
 ` ...do you...`
-`know about Beatrice‐sama?"`
-`There couldn't be anyone related to the Ushiromiya family who didn't know Beatrice's name, with Battler as an exception.`
+`know about {f:5:Beatrice}‐sama?"`
+`There couldn't be anyone related to the Ushiromiya family who didn't know {f:5:Beatrice}'s name, with Battler as an exception.`
 `...But just now, Maria had told Battler about her proudly.`
-`{n}She had spoken almost as though she had been meeting with Beatrice regularly.`
+`{n}She had spoken almost as though she had been meeting with {f:5:Beatrice} regularly.`
 `The inside of the fist Kanon made with his left hand hurt sharply.`
-`{n}......In the past, a witch called Beatrice had appeared, and had tempted him and Shannon.`
+`{n}......In the past, a witch called {f:5:Beatrice} had appeared, and had tempted him and Shannon.`
 `He had always tried to make himself think it had been a bad dream.`
 ` ......However, Shannon insisted that it had definitely been a real witch.`
 `And then, this summer.`
 `......The shrine to the local Shinto god had been hit by lightning and had disappeared without a trace in the span of a single night.`
 `...He had known that Shannon had broken the mirror.`
 `{n}......And he remembered too that upon the witch's departure, she had left him with the words that she would eventually be revived.`
-`And now, .........this girl who had no end of faith in Beatrice spoke as though she had met her.`
+`And now, .........this girl who had no end of faith in {f:5:Beatrice} spoke as though she had met her.`
 `...Kanon couldn't suppress a sense of something ominous welling up in his heart.`
 `For a while, Maria remained silent, as though she could see into Kanon's heart.`
-`...As though she was waiting for his memory of Beatrice to come back to him.`
+`...As though she was waiting for his memory of {f:5:Beatrice} to come back to him.`
 `Then, she spoke matter‐of‐factly.`
 `"Kihihihihi...`
-` You know, I am friends with Beatrice.`
+` You know, I am friends with {f:5:Beatrice}.`
 ` I'm meeting her today too, to play.`
 ` Kihihihihihihihihi..."`
 `"Pla‐...play?"`
@@ -432,7 +432,7 @@
 `{n}......But Maria was different.`
 ` She would sometimes become stubborn, and wouldn't move no matter whether rain or even spears fell from the sky.`
 `......That's right, I...`
-`......told that kid "just stay there doing that forever", didn't I...?`
+`......told that kid "{i:just stay there doing that forever}", didn't I...?`
 `"Oh, ......oh no...!`
 ` Maria...!!"`
 `At this small exclamation, everyone turned to look at Rosa.`
@@ -504,21 +504,21 @@
 `But that expression on Maria's face didn't look like that of a child resisting her mother.`
 ` ...So Rosa wasn't able to understand why Maria wanted to stand still in the rose garden, pointlessly, as the weather grew even worse.`
 `Maria answered that question...`
-`"It's Beatrice.`
+`"It's {f:5:Beatrice}.`
 ` She'll come really soon.`
 ` So I'm waiting."`
 `".........Maria..."`
 `Rosa started to say something, faltered, and then fell silent.`
 `...They had just gone to great lengths to make up with each other.`
 `{n}She chose her words carefully, trying to get Maria to come with her to the mansion without denying the witch outright.`
-`"......Beatrice is...`
+`"......{f:5:Beatrice} is...`
 `coming?"`
 `"Uu!"`
 `"Really...`
 ` Then instead of waiting here, why don't we wait in the mansion?`
 ` If you stay in this wind too long, you'll catch a cold..."`
 `"She'll come!`
-` Beatrice will come!!!"`
+` {f:5:Beatrice} will come!!!"`
 `"And when she does, I'll give a candy to her.`
 ` I'll do trick‐or‐treat!`
 ` I'll give her a jack‐o'‐lantern marshmallow candy and say Happy Halloween!!!`
@@ -533,7 +533,7 @@
 ` ......a figure appeared, leaving Rosa momentarily unable to imagine that this was a scene from reality.`
 `...No, probably, it was―it had to be―fantastical.`
 `Because that figure was shaped like...............`
-`"Beatrice!!"`
+`"{f:5:Beatrice}!!"`
 `Maria dashed over to the figure.`
 `......Normally, Rosa would scold her daughter if she dashed over to a complete stranger.`
 `...But Rosa forgot about that, unable to do anything but stand there, shocked.`
@@ -552,7 +552,7 @@
 `Therefore, even though Rosa had never met her, and even though she hadn't named herself, Rosa was able to learn her name.`
 `......However, that name held a special meaning on Rokkenjima and in the Ushiromiya family.`
 `......There's no way something so stupid could......!`
-`"Beatrice!`
+`"{f:5:Beatrice}!`
 ` Happy Halloween!`
 ` Look, bought these!`
 ` You can have one too.`
@@ -587,7 +587,7 @@
 `"Because it really was that wonderful a candy.`
 ` The candies in our memories are always full and fluffy.`
 ` So you too must close your eyes and try to remember.`
-` What kind of candy was it really♪"`
+` What kind of candy was it really{p:0:♪}"`
 `...Along with those strange words, spoken as though singing an improvised folk song, the witch threw the sweet into the air.`
 `Maria had her eyes closed, just as the witch had told her, and was focused on remembering.`
 `{n}...The shape that the crushed candy had really been.`
@@ -602,11 +602,11 @@
 ` ...Take it.`
 ` Now your sweet has returned to normal."`
 `"Uu!!`
-` Beatrice, you're always awesome awesome, *giggle*!!"`
+` {f:5:Beatrice}, you're always awesome awesome, *giggle*!!"`
 `"................................."`
 `There was a very bold contrast between Rosa's shocked appearance and Maria's innocently joyful one.`
 `......Was that what the witch was laughing at?`
-`{n}A smile floated to Beatrice's face, different from the one that she had shown Maria.`
+`{n}A smile floated to {f:5:Beatrice}'s face, different from the one that she had shown Maria.`
 `"......Does my face look familiar?`
 ` If you stare so fixedly, you might burn a hole through it."`
 `"Huh, ......ah, I, I'm sorry...!"`
@@ -644,7 +644,7 @@
 `Moreover, it was sealed with red sealing wax,`
 ` ...and further still, it had an imprint which seemed to have been made by the Head's Ring.`
 `In other words, irrespective of what was written inside,`
-` ...this woman, who Maria called Beatrice,`
+` ...this woman, who Maria called {f:5:Beatrice},`
 ` was trusted enough that she was in charge of a personal letter from the current Ushiromiya head...!`
 `"It could have been any of the four siblings.`
 ` However, the fact that I have met you here probably means that you were chosen by Kinzo's roulette."`
@@ -673,7 +673,7 @@
 `When the witch entered the entrance hall, ......Genji was there.`
 `{n}With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...`
 `"We have been awaiting you.`
-` .........Beatrice‐sama."`
+` .........{f:5:Beatrice}‐sama."`
 `"...It's been a while, Genji.`
 ` .........Hmph.`
 ` You've gotten old."`
@@ -726,7 +726,7 @@
 ` is something the matter...?"`
 `"I, I'm sorry.`
 ` ......I was just a little fascinated by the portrait of the witch."`
-`"......The Golden Witch, Beatrice, was it?`
+`"......The Golden Witch, {f:5:Beatrice}, was it?`
 ` Something like—the revival of the Ushiromiya family to what it is today would never have been possible without the gold she gave...`
 ` ......A fantastical story, very much like Father."`
 `Natsuhi spoke of her in her usual way.`
@@ -758,11 +758,11 @@
 `The witch grasped the doorknob to the study.`
 `......When she did, there was a sound like that of flesh burning and splitting open.`
 `...It was the sound of the doorknob literally burning the witch's hand.`
-`"......Beatrice‐sama..."`
+`"......{f:5:Beatrice}‐sama..."`
 `"What is this?`
 ` .........A magic ward!`
 ` ...That fool, is he unable to get by without relying on something like this...?"`
-`"...I have heard that this door is painful for you, Beatrice‐sama.`
+`"...I have heard that this door is painful for you, {f:5:Beatrice}‐sama.`
 ` Shall I open it...?"`
 `"No, ...it is fine.`
 ` If he wins, I will be a bird in a cage for all eternity.`

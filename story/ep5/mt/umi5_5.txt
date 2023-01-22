@@ -22,7 +22,7 @@
 ` She's a real pro.`
 ` Heck, I still get confused about which fork I'm supposed to use next.`
 ` Yeah...was it this one, or this one...?`
-` Wahahahahaha!"`
+` Waha{0}ha{0}ha{0}haha!"`
 `Erika had been gracefully eating her hors d'oeuvres, without showing any confusion over the line of utensils in front of her.`
 `Hideyoshi started joking around with her, gripping a fork in each hand.`
 `Of course, a president of a company in the food service industry like Hideyoshi would obviously know his table manners.`
@@ -36,7 +36,7 @@
 `......The smile she now showed for the first time was far different from the dignity she had shown before and more like something you'd expect from someone her age.`
 `"*giggle*.`
 ` But you'd use a spoon for curry and rice at least, wouldn't you?"`
-`"Simply pour it into a bowl donburi‐style.`
+`"Simply pour it into a bowl {c:86EF9C:donburi}‐style.`
 ` Is there anyone who eats gyuudon with a spoon?`
 ` Of course not.`
 ` We Japanese must unwaveringly, unfailingly, unflinchingly use chopsticks!`
@@ -46,7 +46,7 @@
 `"......Incidentally, what is the next dish?"`
 `"Unfortunately, that would be soup."`
 `As she pretended to shrug, Erika winked at everyone.`
-`"""Wahhahahahahahahahahahahahahahaha...!!"""`
+`"""Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"""`
 `Of course, no one was laughing at her.`
 `She obviously knew that soup came after hors d'oeuvres in a full course meal.`
 `Furthermore, Erika had even noticed that she had performed a little too perfectly,`
@@ -140,7 +140,7 @@
 `"..................Who is that?"`
 `As she passed through the lobby of the entrance hall, Erika stopped walking......`
 `{n}When we saw what she was looking at, ......the rest of us also stopped.`
-`"......Oh, that is the Golden Witch, Beatrice‐sama."`
+`"......Oh, that is the Golden Witch, {f:5:Beatrice}‐sama."`
 `"............The Golden...`
 `......Witch."`
 `"What're you doing, brats?`
@@ -261,7 +261,7 @@
 ` ......Wahahaha!`
 ` It's 20 billion yen!`
 ` Maria‐chan, what would you use it for if you found it?`
-` Wahahahahahahaha!"`
+` Waha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
 `"......Uu.`
 ` The Golden Land isn't just gold.`
 ` It's a sacred place!"`
@@ -303,7 +303,7 @@
 `Thinking that a few more hints would show up if I waited,`
 ` ......I kept on waiting, ...and just stopped thinking......`
 `".........Have you figured out an answer on your own?`
-` .........Because I'm about to solve it."`
+` .........Because I'm about to {i:solve it}."`
 `"Wh‐what......?"`
 `"This is where Bern solved the riddle of the epitaph.`
 ` ......I'd expect no less from the Witch of Miracles.`
@@ -311,7 +311,7 @@
 ` ......How many years did it take to solve this one?"`
 `".........How rude.`
 ` I only fished through a few hundred fragments."`
-`"Heheheheheheheheheheh......`
+`"Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......`
 ` You really are terrifying."`
 `"You better not have cheated by suddenly saying the answer in red or something like that..."`
 `".........Don't worry.`
@@ -338,10 +338,10 @@
 ` ......Come on, don't we look like we're just fine?`
 ` ......Believe that your feet are on the ground and that you're being controlled by gravity.`
 ` ......If you do that, you'll find your equilibrium."`
-`Sh‐she's right... The two witches were standing normally, as though their feet were planted on a transparent piece of glass.`
+`Sh‐she's right... The two witches {i:were} standing normally, as though their feet were planted on a transparent piece of glass.`
 `I was the only one floating about like someone in a rapidly plummeting elevator.`
 `......When I saw that they were just fine, I started calming down, figuring that there was no need to be scared.`
-`Then, just as Lambdadelta said,`
+`Then, just as {f:5:Lambdadelta} said,`
 ` I gritted my teeth and kept telling myself that there was a place to stand here...and that I had to calm down......`
 `"Whoa, whoa............ Ohh..."`
 `"Very good, very good.`
@@ -353,13 +353,13 @@
 ` After all, this is the ocean.`
 ` If you lose your purpose, you'll fall into the depths of eternity and become a scrap of ocean seaweed.`
 ` Be careful."`
-`I didn't get what Lambdadelta was saying, but I tried to calm down for the time being.`
+`I didn't get what {f:5:Lambdadelta} was saying, but I tried to calm down for the time being.`
 `I seemed to be regaining my balance the more I calmed down.`
 `Gradually, that weird floating feeling, like I was falling forever, began to disappear.`
 `......It still felt strange, like struggling to stand upright at the bottom of a deep pool, but it was much better than before.`
 `".........Then let's begin.`
 ` .........I'll weave a fragment for solving the riddle of the epitaph......"`
-`Bernkastel opened both of her hands.`
+`{f:5:Bernkastel} opened both of her hands.`
 `Then, like a planetarium...`
 `......all of the fragments throughout this empty space began to spin, leaving tails behind them...`
 `The expression "planetarium" might have been even more fitting than I thought...`
@@ -367,9 +367,9 @@
 ` and what looked like constellations zoomed by us rapidly, one after another.`
 `It felt almost as though we were dashing through space at an incredible speed...`
 `Then, with tails of light drifting behind them,`
-` ......several brightly glowing fragments swirled around Bernkastel.`
+` ......several brightly glowing fragments swirled around {f:5:Bernkastel}.`
 `It looked almost like she had created her own solar system with her as the sun.`
-`That solar system surrounding Bernkastel grew to a radius large enough to swallow us up.`
+`That solar system surrounding {f:5:Bernkastel} grew to a radius large enough to swallow us up.`
 `And every once in a while, one of the satellite fragments zoomed right past me.`
 `When those fragments passed right by me,`
 ` ......it felt as though some kind of memory welled up inside me.`
@@ -380,7 +380,7 @@
 ` ......Well, I guess they might feel like memories to you."`
 `"............Then let's begin.`
 ` ...Let's start with this fragment."`
-`One of the satellites in this solar system was slowly sucked in towards Bernkastel as its orbit around her decayed.`
+`One of the satellites in this solar system was slowly sucked in towards {f:5:Bernkastel} as its orbit around her decayed.`
 `It drew a spiral as it approached her, and came to rest on the palm of her outstretched hand...`
 `Then, it shone brightly, painting over the world with pure white......`
 `"...The "beloved home of old" definitely won't betray our expectations.`
@@ -390,7 +390,7 @@
 `"............That's right.`
 ` And, from these thoughts, she made her way to the correct answer.`
 ` In other words, this fragment shows a vital hint for reaching the truth.`
-` .........In other words, it means that this theory is not mistaken."`
+` .........In other words, it means that {i:this theory is not mistaken}."`
 `"So, ......you're saying we should assume this beloved home of old isn't a metaphor or anything like that...`
 `but the place Grandfather actually spent his youth?"`
 `".........That's right.`
@@ -407,7 +407,7 @@
 ` And annoyingly, the actual location isn't spoken of in any of the fragments."`
 `"Of course.`
 ` If I told you that, there'd be too many hints.`
-` .........If a riddle isn't hard, there's just no point to it.`
+` .........If a riddle isn't hard, there's {i:just no point to it}.`
 ` ......Uh‐oh,`
 ` that's a hint too.`
 ` *giggle*......"`
@@ -457,7 +457,7 @@
 ` If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it "probably didn't have to be sweetfish" makes sense..."`
 `"...................................."`
 `From these thoughts, Auntie Eva formed some theory,`
-` ......went to the archive, looked through some kind of book, and verified that she was right.`
+` ......went to the archive, looked through some kind of book, and {i:verified that she was right}.`
 `In short, Auntie Eva formed some theory about the true nature of this sweetfish river running through his home of old.`
 `Then, ......she opened a certain book to determine whether that theory was correct or not.`
 `In other words, this theory was something that could be verified through some kind of book...`
@@ -465,7 +465,7 @@
 `".........Good thinking.`
 ` ......The epitaph continues on, saying "as you travel down it, you will see a village".`
 ` At that point in time, Eva hadn't yet solved the three lines starting with this one."`
-`"......What is village?`
+`"......What is {i:village}?`
 ` What does it mean?!`
 ` Is there a village if you go down this "river"......?!`
 ` ............ah, .........aaaaaaaahhh......!!"`
@@ -518,7 +518,7 @@
 `"O‐...on the first twilight, sacrifice the six chosen by the key...`
 ` ......The six...chosen by the key...`
 ` .........Six characters......!"`
-`In other words, ......it means "on the first twilight, sacrifice the six characters chosen by the key"...!`
+`In other words, ......it means "on the first twilight, sacrifice the six {i:characters} chosen by the key"...!`
 `"This key points towards a certain specific group of six people.`
 ` ......No, we should say it points to a certain specific group of six things.`
 ` ......If this doesn't mean a literal command to offer sacrifices.`
@@ -539,9 +539,9 @@
 `On the first twilight, kill the six characters that are the key.`
 `{n}.....................On the first twilight.`
 `"......In other words, ...by the time we reach the first twilight, some string of characters already exists?`
-` But 第一の晩 only has four characters.`
+` But {ruby:the first twilight:{p:0:第一の晩}} only has four characters.`
 ` Are we meant to read it differently?`
-` If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...`
+` If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...{NOTE:For non‐english translations, this line should change to "If we read it in English like Grandfather would, what would "the first twilight" become?", and the following line should be in ENGLISH, not your translation's language:}`
 `first night...?`
 ` ............"`
 `".........<Good>.`
@@ -554,7 +554,7 @@
 ` But in that case, what do we remove the six characters from?"`
 `"That's right.`
 ` ......Since we're removing six characters from it, whatever it is must be at least six characters long.`
-` How could we read it in a way that gives us more than six characters...?"`
+` How could we read it{NOTE:"it" means "the first twilight":} in a way that gives us more than six characters...?"`
 `"If we follow Father's sensibilities...I guess it probably is English after all..."`
 `".........If it looks like we're getting stuck, why don't we move on to the second twilight and look for hints?"`
 `"......Those who remain shall tear apart the two who are close.`
@@ -570,7 +570,7 @@
 `"......Oh, ......4 and 5 are close..."`
 `"Yes, I get it!!`
 ` So by "the two who are close", it means..."`
-`x2x45xxxx.`
+`{a:c:x2x45xxxx}.`
 `"Yep.`
 ` There's a gap between 2 and 4, but 4 and 5 are right next to each other.`
 ` They're the two who are close...!"`
@@ -628,36 +628,36 @@
 ` You look so much smarter when Bern's playing as you.`
 ` ......Why not step down as the player and concentrate on being the piece instead?"`
 `I joined in on this game on October 5th, after the first few murders.`
-`So up until that point, the piece called "me" was being controlled by Bernkastel, the player.`
-`Which makes it possible for Bernkastel to present her reasoning through "my" mouth...`
+`So up until that point, the piece called "me" was being controlled by {f:5:Bernkastel}, the player.`
+`Which makes it possible for {f:5:Bernkastel} to present her reasoning through "my" mouth...`
 `......The game I'm watching now is nothing more than a replay of a part that's already ended.`
 `However, that's probably good enough for now.`
-`......This Bernkastel‐sama has gone out of her way to solve the epitaph for me.`
+`......This {f:5:Bernkastel}‐sama has gone out of her way to solve the epitaph for me.`
 `...So I'll watch closely for now.`
 `.........And......I'll try to find out what it means.`
-`{n}Lambdadelta let it slip herself just a second ago.`
+`{n}{f:5:Lambdadelta} let it slip herself just a second ago.`
 `"Of course.`
 ` If I told you that, there'd be too many hints.`
-` .........If a riddle isn't hard, there's just no point to it.`
+` .........If a riddle isn't hard, there's {i:just no point to it}.`
 ` ......Uh‐oh, that's a hint too. *giggle*......"`
 `......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.`
-`Erika and Bernkastel's logic is extremely reasonable.`
+`Erika and {f:5:Bernkastel}'s logic is extremely reasonable.`
 `But that's only if we assume Grandfather was the one to create it.`
 `He was probably alive at the time the epitaph was displayed,`
 ` but of course, ......he's already dead by 1986.`
-`And, in the games up until now, Beatrice threatened us repeatedly with letters,`
+`And, in the games up until now, {f:5:Beatrice} threatened us repeatedly with letters,`
 ` saying that the only way to survive was to solve the epitaph, and trying to force us to solve the riddle.`
-`In other words, ......it was Beatrice's intention, ...her hope......that we would try solving the riddle of the epitaph.`
+`In other words, ......it was {f:5:Beatrice}'s intention, ...her hope......that we would try solving the riddle of the epitaph.`
 `The epitaph is so confusing that, in most cases,`
 ` the relatives never seriously tried solving it until the threatening letters started to arrive.`
-`That's why Beatrice fired the starting pistol which made us take a go at it.`
+`That's why {f:5:Beatrice} fired the starting pistol which made us take a go at it.`
 `.................................`
-`.........Why is Beatrice carrying out Grandfather's last wishes......?`
+`.........Why is {f:5:Beatrice} carrying out Grandfather's last wishes......?`
 `Like the theory proposed in the first game, ......is she really Grandfather's confidant,`
 ` following his orders even after his death and trying to select the successor with the riddle of the epitaph in his stead...?`
-`That would mean that Beatrice really is Grandfather's trusted underling,`
+`That would mean that {f:5:Beatrice} really is Grandfather's trusted underling,`
 ` and exactly the family alchemist she called herself in that letter...`
-`After Grandfather's death, Beatrice would have managed the ten tons of gold and taken the title of alchemist.`
+`After Grandfather's death, {f:5:Beatrice} would have managed the ten tons of gold and taken the title of alchemist.`
 `......Without ever embezzling the gold,`
 ` she entrusted it all to the epitaph's riddle, and waited for a human fitting to be the successor to appear and solve it......`
 `And if that human didn't appear within a set time limit,`
@@ -665,9 +665,9 @@
 `Certainly, when Auntie Eva solved the riddle in the third game,`
 ` she became the only survivor and, automatically, the final head of the Ushiromiya family, inheriting everything.`
 `Up to this moment, no one has ever survived past October 5th except Auntie Eva, the one who solved the epitaph......`
-`That was the only case where Beatrice let anyone survive......`
+`That was the only case where {f:5:Beatrice} let anyone survive......`
 `.................................`
-`Is Beatrice's loyalty to Grandfather......the thing that drives her.........?`
+`Is {f:5:Beatrice}'s loyalty to Grandfather......the thing that drives her.........?`
 `Did Grandfather give her some terrible order to kill everyone if the epitaph isn't solved,`
 ` and she's so loyal that she faithfully carries that out......?`
 `........................`
@@ -675,9 +675,9 @@
 ` ...Don't......stop thinking......`
 `Don't just think of the riddle itself......think about why it's significant.`
 `.................................`
-`Why is Beatrice telling us to solve the epitaph......?`
-`Why did she create such a confusing epitaph for us......?`
-`......If Beatrice makes us try and solve this epitaph that we have no real chance of solving,`
+`Why is {f:5:Beatrice} telling us to solve the epitaph......?`
+`Why did she create {i:such a confusing} epitaph for us......?`
+`......If {f:5:Beatrice} makes us try and solve this epitaph that we have no real chance of solving,`
 ` .........and by some lucky chance, a "miracle" occurs and someone is able to solve it......`
 `......what significance does that have to her.........?`
 `I don't know......what this miracle would be worth to Beato.`
@@ -739,17 +739,17 @@
 `"The tenth twilight...?`
 ` What about it?"`
 `"Well,`
-` .........the word "Golden Land" (黄金郷) appears several times, right?"`
+` .........the word "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}) appears several times, right?"`
 `"Yes, it does."`
-`"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" (no kyou"—no, sorry, "ougon no sato".`
-` The "Home" kanji (郷) is separated out.`
+`"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" ({p:0:黄金の郷}), read "ougon {i:no} kyou"—no, sorry, "ougon no sato".`
+` The "Home" kanji ({ruby:kyou/sato:{p:0:郷}}) is separated out.`
 ` I can't help but wonder why this is the one place where it's written like that."`
 `"............You're right.`
 ` ...No mistake.`
-` Everywhere else, it says "Golden Land" (黄金郷)..."`
+` Everywhere else, it says "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}})..."`
 `Even though all the rest are written "Golden Land", the tenth twilight is the only one where it's different,`
 ` and "Home of the Gold" is written instead...`
-`I wonder if the word "Home" (郷) has some kind of special meaning.........`
+`I wonder if the word "Home" ({ruby:kyou/sato:{p:0:郷}}) has some kind of special meaning.........`
 `...........................`
 `"Still, ......you and that Erika‐chan girl are incredible.`
 ` The way you think really is flexible.`
@@ -776,8 +776,8 @@
 ` How many kilometers from the starting point...?`
 ` Things like that...`
 ` Don't tell anyone this, okay?`
-` I'm not very clever, so for a long time I read the "Home" kanji (郷) as "kyou" when it's probably "sato"."`
-`"......And "kyou" reminds you of Kyoto (京).`
+` I'm not very clever, so for a long time I read the "Home" kanji ({p:0:郷}) as "kyou" when it's probably "sato"."`
+`"......And "kyou" reminds you of Kyoto ({ruby:kyouto:{p:0:京都}}), right? It's often shortened to "kyou" ({p:0:京}).`
 ` So I thought the ten‐day trip might be between Father's home and Kyoto, and there might be something hidden one‐tenth of the way there..."`
 `"Are you kidding? That's a brilliant idea.`
 ` .........The first twilight as the first stop on a ten‐day journey...`
@@ -797,7 +797,7 @@
 ` ...And the place reached at the very first twilight......"`
 `"Believe it or not, I think you might solve this one easily, Battler‐kun.`
 ` ......If you do solve it with your auntie's hint, share a little with me, okay? Even 5% would be great.`
-` Promise me♪"`
+` Promise me{p:0:♪}"`
 `She gave me a wink and a smile which almost made my heart jump a little, even though she was my aunt.`
 `As I helped her wash the coffee cups,`
 ` ......I kept pondering the epitaph's riddle silently.........`
