@@ -1,4 +1,4 @@
-`A warm welcome to you, traveler, and congratulations on your final steps to complete our port of {i:Umineko no Naku Koro ni ~Rondo of the Witch and {ruby:çeviri > Muhakeme:Reasoning}~}.`
+`A warm welcome to you, traveler, and congratulations on your final steps to complete our port of {i:Umineko no Naku Koro ni ~Rondo of the Witch and Reasoning~}.`
 ` We appreciate your effort to check every hidden part of the game.`
 `Those who have been waiting for this since 2011, when the first promo videos appeared, please accept our deep apologies.`
 `After all that arduous labor, we have finally reached the grand finale of the first half.`
@@ -43,9 +43,9 @@
 ` We'd like to take you on a tour of them now.`
 `The guests had already been greeted, so it was time for some tea to be prepared for them.`
 `...That tea was late, and having the guests talk about making some themselves was an embarrassment for the host.`
-`Natsuhi bit her lower lip, frustrated with the ineptitude of the {ruby:çeviri > hizmetkarlar:servants} who were taking too long to bring the tea.`
+`Natsuhi bit her lower lip, frustrated with the ineptitude of the servants who were taking too long to bring the tea.`
 `...Seeing her face, Eva, without hesitation, started to giggle.`
-`......Of course, Shannon had no way of knowing what was taking place in the {ruby:çeviri > salon:parlor}.`
+`......Of course, Shannon had no way of knowing what was taking place in the parlor.`
 `As she came in pushing a dish cart piled with tea cups,`
 ` Natsuhi gave her a pained look for no apparent reason, and Shannon couldn't help but flinch without knowing what she had done wrong.`
 `"......E‐excuse me.`
@@ -60,10 +60,10 @@
 `Notice anything strange here?`
 `The answer is:`
 ` the location.`
-` For some reason, even though the text describes them {i:twice} as being in the {ruby:çeviri > salon:parlor}, this is definitely the {ruby:çeviri > yemek salonu:dining hall}!`
-` The background file is even called "{nobr:mdin}", short for "{ruby:çeviri > malikane:mansion} dining".`
+` For some reason, even though the text describes them {i:twice} as being in the parlor, this is definitely the dining hall!`
+` The background file is even called "{nobr:mdin}", short for "mansion dining".`
 `This error was present in the released PS3 game, and we fixed it in our port.`
-` Worst of all is that this is the very first time you ever see the {ruby:çeviri > salon:parlor}, and in PS3 it is presented with {ruby:çeviri > yemek salonu:dining hall} backgrounds throughout this scene, confusing readers as to what the {ruby:çeviri > salon:parlor} is meant to look like.`
+` Worst of all is that this is the very first time you ever see the parlor, and in PS3 it is presented with dining hall backgrounds throughout this scene, confusing readers as to what the parlor is meant to look like.`
 ` We think that Episode 1 was quite rushed.`
 `Returning to the scene a few moments later, we found something buried in the unused voice files.`
 `"Shannon‐chan?`
@@ -80,16 +80,16 @@
 ` ({i:Courtesy of the unused voice files, Rosa's part will be played today by Eva herself!})`
 `"They say that silver dims if it is touched by poison.`
 ` ...*giggle*, you've learned something, right, Shannon‐chan?"`
-`"I have a memo with the {ruby:çeviri > kitabe:epitaph} on it!`
+`"I have a memo with the epitaph on it!`
 ` Let's all solve the puzzle, let's all solve the puzzle...!"`
 `"This story probably went wrong ever since that time."`
 `".........That may be so.`
-` Maybe we should have tried solving the {ruby:çeviri > kitabe:epitaph}'s riddle from the beginning, like {f:5:Beatrice}‐sama said."`
+` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
 ` ({i:Hold on, wasn't this line supposed to belong to...})`
 `"It makes no fucking sense!!`
 ` Don't talk to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!"`
 `"C'mon c'mon c'mon c'mon, don't cry, alright??`
-` Kaboom, kabang, it's {ruby:çeviri > büyü:magic}!!"`
+` Kaboom, kabang, it's magic!!"`
 `"If you want, I'll crush the moon and make comets fall like rain!`
 ` I can even bury the whole island in those {b:sexy dynamite nee‐chans} you like so much, seeeeeeeeee??`
 ` Hihhihhihhihhi!!"`
@@ -99,16 +99,16 @@
 `Even so, I will speak of the world.`
 `{n}Without knowing even one percent of the world—I will speak of "my world".`
 `"I'm not qualified to deny the laws of a world I don't know.`
-` ......So just because {ruby:çeviri > büyü:magic} doesn't exist in my world, I can't deny that {ruby:çeviri > büyü:magic} exists in a world I don't know."`
-`"That makes it a true {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}.`
+` ......So just because magic doesn't exist in my world, I can't deny that magic exists in a world I don't know."`
+`"That makes it a true Devil's Proof.`
 ` No, maybe it's more like "when in Rome, do as the Romans do"."`
 `I can be confident in the world I know.`
 ` So even if my world {i:is} denied by a complete stranger who doesn't know a thing about it, that's nothing to worry about.`
 `And in the same way, just because I don't know another world,`
 ` that doesn't make me qualified to deny it.`
 `"Which is why,`
-` regardless of whether there is {ruby:çeviri > büyü:magic} in my world or not,`
-` ......I cannot deny the {ruby:çeviri > büyü:magic} Maria onee‐chan taught me."`
+` regardless of whether there is magic in my world or not,`
+` ......I cannot deny the magic Maria onee‐chan taught me."`
 `We are pretty grateful for the materials they left on the disc, actually.`
 ` Leaving the fixed and uncensored unused dialogues untouched in the resources actually allowed us to implement a more complete port.`
 `They were likely in a hurry.`

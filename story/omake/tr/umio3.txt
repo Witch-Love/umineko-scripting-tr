@@ -1,10 +1,10 @@
 `{p:7:Disclaimer: This is nothing but a performance test (=}`
 `"......Come, arise, goat attendants."`
 `"........................"`
-`"Come, arise, {ruby:çeviri > Araf'ın Yedi Kazığı:Seven Stakes of Purgatory}."`
+`"Come, arise, Seven Stakes of Purgatory."`
 `""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!""""""`
-`"Come, arise, {ruby:çeviri > mobilya:furniture} suitable for me...!!`
-` Not that cheap {ruby:çeviri > mobilya:furniture}, much much stronger ones!`
+`"Come, arise, furniture suitable for me...!!`
+` Not that cheap furniture, much much stronger ones!`
 ` Cruel ones!!`
 ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!"`
 `"Chiester{ruby:four‐one‐zero:410}. Right here."`
@@ -58,11 +58,11 @@
 `{p:10:——————}{p:9:{a:c: Level 1 cleared! }{p:10:——————}}`
 `{p:10:——————}{p:9:{a:c: Level 2 cleared! }{p:10:——————}}`
 `{p:10:——————}{p:9:{a:c: Level 3 cleared! }{p:10:——————}}`
-`{p:41:{a:c:Golden bullets. Magic...to destroy...{ruby:çeviri > büyü:magic}...}}`
+`{p:41:{a:c:Golden bullets. Magic...to destroy...magic...}}`
 `{p:24:———}{p:22:{a:c:You undoubtedly failed!}{p:24:———}{n}}`
 `{p:7:You do not have enough wisdom to make any sense of it.}`
 `{p:7:It takes energy to achieve your goals.}`
-`{p:7:You cannot destroy {ruby:çeviri > büyü:magic} with mere iron.}`
+`{p:7:You cannot destroy magic with mere iron.}`
 `{p:7:Goals are not achieved by waiting around.}`
 `{p:7:Golden bullets are effective for making peppered rabbit.}`
 `{p:7:It is useless to just stand and wait forever.}`
