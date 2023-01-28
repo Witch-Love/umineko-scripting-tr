@@ -67,6 +67,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Mansion `->` Malikane
    * Master `->` Efendi
    * Milady `->` Leydim
+   * North Wind and the Sun `->` Güneş ve Kuzey Rüzgarı
    * Parlor `->` Salon
    * Portrait `->` Portre
    * Reasoning `->` Muhakeme

@@ -479,9 +479,9 @@
 `It was truly shameful how she behaved when Battler wasn't around, even though she acted utterly like a Great Witch in front of him.`
 `{f:5:Virgilia} sighed, lamenting under her breath that Beato never seemed to grow up.`
 `"Then just a hint.`
-` ......Do you know of Aesop's fable, The North Wind and the Sun?"`
+` ......Do you know of Aesop's fable, {ruby:çeviri > Güneş ve Kuzey Rüzgarı:The North Wind and the Sun}?"`
 `"Of course.`
-` It's a story about how the north wind and the sun challenge each other to steal the cloak of a traveler, right?"`
+` It's a story about how {ruby:çeviri > güneş ve kuzey rüzgarı:the north wind and the sun} challenge each other to steal the cloak of a traveler, right?"`
 `"That's right.`
 ` The moral is that violent or impatient methods aren't always necessarily the best decisions."`
 `"......You don't have to tell me that.`
@@ -508,7 +508,7 @@
 ` .........In any event, your moves up until now will not work on Battler‐kun.`
 ` A significant tactical conversion will probably be required."`
 `"...I know that even without you telling me.`
-` ......I don't have a clue what you mean by the North Wind and the Sun,`
+` ......I don't have a clue what you mean by {ruby:çeviri > Güneş ve Kuzey Rüzgarı:the North Wind and the Sun},`
 ` but anyway, I understand that I will have to change my direction.`
 ` ......I'll showcase a clever scheme that will surprise even you, {ruby:çeviri > Efendi:Master}...!"`
 `"Hoh‐hoh‐ho...`
