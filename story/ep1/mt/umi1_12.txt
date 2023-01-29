@@ -993,35 +993,35 @@
 `"Ne?`
 ` O silahla beni vuracak mısın?`
 ` Devam et.`
-` Neden direkt ateş etmiyorsun?!`
+` Neden ateş etmiyorsun?!`
 ` Bir çıkış yolu bulamadığın için çaresizsin, değil mi?!`
 ` Yap hadi, ve gerçeği şiddetle gizlemeye çalış...!!"`
-`"S-......seniiiiiiii!!!!"`
-`Natsuhi Teyze'nin silahı hazır tutup birilerini tehdit ettiği falan yoktu.`
-`{n}Ama Eva Teyze ona böyle yapmasını söyledikten sonra silahını hazır tuttu!`
+`"S-......Seniiiiiiii!!!!"`
+`Natsuhi Teyze'nin silahı hazırda tutup birilerini tehdit ettiği falan yoktu.`
+`{n}Ama Eva Teyze ona böyle yapmasını söyledikten sonra silahını hazır şekilde tuttu!`
 `...Şaşırtıcı olmayan bir şekilde, işler bu aşamaya geldiğinde Jessica ve Genji-san onu durdurmaya çalıştı.`
 `"...Madam, lütfen kendinizi sakinleştirin......!"`
 `"Anne, sen yalan söylemiyorsun!`
-` Yani bu saçmalıkları dinlemen için hiçbir sebep yok!!"`
+` Bu saçmalıkları dinlemene gerek yok!!"`
 `"......Sakin ol, Natsuhi nee-san.`
 ` Babamın kesinlikle o odada olduğuna yemin etmen gerekmiyor mu?`
 ` Neden bu kadar telaşlanıyorsun...?"`
 `"...Bu-...Bu doğru.`
 ` Natsuhi-san yalan söylemiyor.`
-` Bunun sona erdirilmesi gerekmiyor mu?"`
-`"O zaman açıklamanı istiyorum.`
+` Bunun sona erdirmeniz gerekmiyor mu?"`
+`"O zaman açıklama istiyorum.`
 ` Babam odadan kaybolmayı nasıl başardı?`
 ` ...Pencereler içeriden sıkıca kapatılmıştı.`
 ` Ve unutma, kapı da!"`
 `"......Eğer bu sabah gerçekten babamla konuştuysan,`
-` ...o zaman bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
+` ...o zaman onun bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
 ` Eğer açıklamazsan, bu senin bir yalancı olduğun anlamına gelmez mi?"`
 `"Benimle daha ne kadar alay etmeyi planlıyorsun......?!!!"`
 `"Tartışmak istiyorsan, devam et!!`
 ` Doğru, hemen şimdi burada açıklamayı dene.`
 ` Ondan sonra, senden şüphe ettiğim için özür dileyebilirim.`
 ` Babam o kilitli odadan çıkmayı nasıl başardı?!!"`
-`"Bunu açıklayamam, açıklamama da gerek yok!!"`
+`"Bunu açıklayamam, açıklamama gerek de yok!!"`
 `"Gerçekten mi?`
 ` O zaman ben açıklayayım!`
 ` Benim ve senin bakış açımızdan en iyi kısımları alıp daha dostane bir açıklama bulacağız!`
@@ -1038,12 +1038,12 @@
 ` Pencereden dışarı çıktı.`
 ` ......Natsuhi nee-san, Babamı çalışma odasının üçüncü kat penceresinden avluya ittin!!!"`
 `"S—SENİİİİİİİİİİİİİİİİ!!!"`
-`"Madam, lütfen dayanın...!!!"`
-`"Eva-sama. Lütfen bunu kesin.....!!"`
+`"Madam, lütfen sakin kalın...!!!"`
+`"Eva-sama... Lütfen bunu kesin.....!!"`
 `"Babam avluya düşerek öldü,`
 ` ve sen kapı ve pencereleri kontrol edeceğini söyleyerek ayrıldıktan sonra gidip cesedi bir yere sakladın!`
 ` Muhtemelen o sırada ölüm zamanını saptırmak için bazı önlemler aldın, değil mi?!"`
-`"......Tüm bunlar Krauss nii-san ve diğerleriyle ilgili davayla ve ayrıca dün gece {f:5:Beatrice}'le ilgili davayla bağlantılı!`
+`"......Tüm bunlar Krauss nii-san ve diğerleriyle ilgili davayla ve ayrıca dün gece {f:5:Beatrice}'le olan davayla bağlantılı!`
 ` Natsuhi-san'ın bu vakalarda şüpheli olma ihtimali çok yüksek...`
 ` Normalde bunu söylemek istemezdim."`
 `"...Ama artık her şey açığa çıktı, yapabileceğim başka bir şey yok...!`
@@ -1057,12 +1057,12 @@
 `"Ihihihi.`
 ` ...Bu iyi değil. {i:Hiç iyi değil},`
 ` Eva Teyze."`
-`"...Bu-...bu "İyi değil" ile ne demek istiyorsun Battler?"`
+`"...Bu-...bu "iyi değil" ile ne demek istiyorsun Battler?"`
 `Jessica başını kaldırıp bana baktı, her kelimemi dikkatle dinliyordu.`
 `{n}Eva Teyze'nin ifadesi her zamanki gibi sakindi.`
 `"......Hiç iyi değil mi diyorsun? Neymiş o?`
-` Battler-kun.`
-` Anlat bana."`
+` Battler-kun,`
+` açıkla."`
 `"Bunu sadece tek bir açıdan görebiliyorsun—bu yüzden Natsuhi Teyze olması gerektiğine ikna oldun.`
 ` ...Onu savunduğumdan değil ama şah mat blöfü yapmak işe yaramayacak."`
 `"Bence bu fiş üzerine kurduğun teori kabul edilebilir.`
@@ -1070,12 +1070,12 @@
 ` Ama en iyi ihtimalle 65 veririm.`
 ` Ama biliyor musun, eğer bu bir sınav olsaydı, bu sana fazladan ceza dersi aldıracak kadar kötü olurdu.`
 ` Ihihi!"`
-`"...Amanın. Peki, fişle mühürlenmiş bir kapıyı benim teorim dışında nasıl kırıp babamın ortadan kaybolmasını sağlayabilirsin?!"`
+`"...Amanın. Peki, fişle mühürlenmiş bir kapıyı benim teorim dışında nasıl kırıp da Babamın ortadan kaybolmasını sağlayabilirsin?!"`
 `"Teorinin ilginç olduğunu itiraf ediyorum.`
 ` Ve eğer Büyükbaba'yı ortadan kaldırmanın seninkinden başka bir yolu olmadığını kesin olarak söyleyebilirsek,`
 ` o zaman onu son gören kişinin, Natsuhi Teyze'nin sorumlu olması gerektiğini kesin olarak söyleyebiliriz."`
 `"Ancak, onun hala masum olma ve bu suçlamaların yanlış olma ihtimali olduğu için, bu iddiada bulunamazsın!!"`
-`"......Hmm. O halde, Battler-kun, Natsuhi nee-san dışında Büyükbaba'yı ortadan kimin kaldırmış olabileceğini söylüyorsun?`
+`"......Hmm...... O halde, Battler-kun, Natsuhi nee-san dışında Büyükbaba'nı ortadan kimin kaldırmış olabileceğini söylüyorsun?`
 ` Başka birinin bunu yapması imkansız.`
 ` Fişim bunu kanıtlamadı mı?"`
 `"O çalışma odasını Natsuhi nee-san,`
@@ -1094,15 +1094,15 @@
 ` Fiş tarafından oluşturulan mühür kaldırıldığında, kapıyı kullanmak ve kapıdan kaçmak mümkün hale geldi."`
 `"...Başka bir deyişle, mesele Natsuhi Teyze'nin Büyükbaba'yı nasıl ortadan kaldırdığı değil.`
 ` ...Aksine Büyükbaba'nın nasıl kaçabildiğini düşünmeliyiz!"`
-`"Büyükbabanın çalışma odası sıradan bir çalışma odası değil, değil mi?`
-` Genji-san'a göre, tuvalet, mutfak ve hatta yatak odası bile var, neredeyse küçük bir ev gibi.`
+`"Büyükbaba'nın çalışma odası sıradan bir çalışma odası değil, doğru muyum?`
+` Genji-san'ın dediğine göre, tuvalet, mutfak ve hatta yatak odası bile var, neredeyse küçük bir ev gibi.`
 ` ......Örneğin yatağın altına saklanırsa, ikinizi de ortadan kaybolduğunu düşünmeniz için kandıramaz mı?"`
 `"Eva Teyze, sen bile bu kadar dikkatli kontrol etmedin değil mi?`
-` Ve sonra ikiniz onun orada olmadığını düşünerek merdivenlerden geri indiniz."`
-`"O sırada fiş çoktan gitmişti!`
+` Ve sonra ikiniz onun orada olmadığını düşünerek merdivenlerden geri aşağı indiniz."`
+`"O vakitte, fiş çoktan gitmişti!`
 ` Başka bir deyişle, eğer Büyükbaba kilitli olduğu süre boyunca odasında saklandıysa,`
-` ve ikinizin geçip gitmesine izin verdikten sonra kaçtıysa, bu kilitli odayı hemen kırıp açabiliriz!!"`
-`"Bu-Bu da ne?!`
+` ve ikinizin gelip gitmesini bekledikten sonra kaçtıysa, bu kilitli odayı hemen kırıp açabiliriz!!"`
+`"O-O da ne?!`
 ` Babam neden böyle garip bir şey yapıp sonra da odadan kaçmak istesin ki?!`
 ` Bu kadar absürtleşme!"`
 `"Evet, absürt olabilir.`
@@ -1118,7 +1118,7 @@
 ` ......bize burada hemen şimdi, sen ve Hideyoshi Amca'nın neden dün gece o altı kişiyi öldürüp sonra da konukevine dönmüş olamayacağınızı açıklamalısın...!"`
 `"Natsuhi Teyze'yi açıklama yapmaya zorluyorsun.`
 ` Eminim kendi masumiyetini de kanıtlayabilirsin, değil mi?!`
-` Büyükbabanın tüm serveti bir anda avuçlarının içine düşen Eva Teyze!!"`
+` Büyükbaba'nın tüm serveti bir anda avuçlarının içine düşen Eva Teyze!!"`
 `"Do-Doğru ya, sen de oldukça şüpheli değil misin?!!`
 ` Annemin onu en son gören kişi olduğu için şüpheli olduğunu söylüyorsan,`
 ` Eva Teyze, o zaman babamı ve diğerlerini en son gören kişi olan sana ne demeli?!!`
@@ -1128,7 +1128,7 @@
 `"Ancak, Battler-kun'un da dediği gibi, bu Natsuhi Teyze'nin suçlu olduğunu kanıtlamak için yeterli değil.`
 ` ......Hepimiz eşit derecede şüpheliyiz.`
 ` Sadece Natsuhi Teyze'ye baskı yapılması doğru değil."`
-`"Asil babamız yatağının altında yerde mi sürünüyordu?`
+`"Asil Babamız yatağının altında yerde mi sürünüyordu?`
 ` Böyle bir saçmalığa açıklama mı diyorsun?!"`
 `"O zaman neden önce sen açıklamıyorsun?!!`
 ` O altısını kimin nasıl öldürdüğünü, ve sonra da bize bu işe karışmadığına dair bir kanıt göstermeye çalış!!"`
