@@ -13,6 +13,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 3. Tüm dosyaları oyun klasörünün içine atın.
 4. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
 
+Çeviri çalışması hâlâ devam ettiği için scriptlerinizin güncel olduğundan emin olup oynamanız iyi olacaktır. Bir chapter çevirisi her bittiğinde yeni sürüm yayınlıyoruz.
+
 ## İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
@@ -56,27 +58,27 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 2 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
-      * Chapter 19 ❌
-      * Chapter 20 ❌
+      * [Chapter 0](../../tree/master/story/ep2/mt/umi2_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep2/mt/umi2_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep2/mt/umi2_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep2/mt/umi2_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep2/mt/umi2_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep2/mt/umi2_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep2/mt/umi2_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep2/mt/umi2_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep2/mt/umi2_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep2/mt/umi2_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep2/mt/umi2_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep2/mt/umi2_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep2/mt/umi2_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep2/mt/umi2_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep2/mt/umi2_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep2/mt/umi2_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep2/mt/umi2_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep2/mt/umi2_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep2/mt/umi2_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep2/mt/umi2_19.txt) ❌
+      * [Chapter 20](../../tree/master/story/ep2/mt/umi2_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305) ❌
@@ -92,27 +94,27 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 3 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
-      * Chapter 19 ❌
-      * Chapter 20 ❌
+      * [Chapter 0](../../tree/master/story/ep3/mt/umi3_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep3/mt/umi3_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep3/mt/umi3_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep3/mt/umi3_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep3/mt/umi3_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep3/mt/umi3_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep3/mt/umi3_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep3/mt/umi3_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep3/mt/umi3_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep3/mt/umi3_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep3/mt/umi3_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep3/mt/umi3_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep3/mt/umi3_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep3/mt/umi3_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep3/mt/umi3_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep3/mt/umi3_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep3/mt/umi3_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep3/mt/umi3_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep3/mt/umi3_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep3/mt/umi3_19.txt) ❌
+      * [Chapter 20](../../tree/master/story/ep3/mt/umi3_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L20) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L314) ❌
@@ -128,28 +130,28 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 4 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
-      * Chapter 19 ❌
-      * Chapter 20 ❌
-      * Chapter 21 ❌
+      * [Chapter 0](../../tree/master/story/ep4/mt/umi4_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep4/mt/umi4_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep4/mt/umi4_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep4/mt/umi4_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep4/mt/umi4_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep4/mt/umi4_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep4/mt/umi4_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep4/mt/umi4_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep4/mt/umi4_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep4/mt/umi4_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep4/mt/umi4_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep4/mt/umi4_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep4/mt/umi4_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep4/mt/umi4_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep4/mt/umi4_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep4/mt/umi4_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep4/mt/umi4_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep4/mt/umi4_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep4/mt/umi4_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep4/mt/umi4_19.txt) ❌
+      * [Chapter 20](../../tree/master/story/ep4/mt/umi4_20.txt) ❌
+      * [Chapter 21](../../tree/master/story/ep4/mt/umi4_21.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L28) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L322) ❌
@@ -165,24 +167,24 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 5 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
+      * [Chapter 0](../../tree/master/story/ep5/mt/umi5_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep5/mt/umi5_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep5/mt/umi5_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep5/mt/umi5_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep5/mt/umi5_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep5/mt/umi5_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep5/mt/umi5_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep5/mt/umi5_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep5/mt/umi5_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep5/mt/umi5_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep5/mt/umi5_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep5/mt/umi5_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep5/mt/umi5_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep5/mt/umi5_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep5/mt/umi5_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep5/mt/umi5_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep5/mt/umi5_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep5/mt/umi5_17.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L38) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L331) ❌
@@ -199,27 +201,27 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 6 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
-      * Chapter 19 ❌
-      * Chapter 20 ❌
+      * [Chapter 0](../../tree/master/story/ep6/mt/umi6_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep6/mt/umi6_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep6/mt/umi6_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep6/mt/umi6_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep6/mt/umi6_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep6/mt/umi6_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep6/mt/umi6_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep6/mt/umi6_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep6/mt/umi6_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep6/mt/umi6_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep6/mt/umi6_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep6/mt/umi6_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep6/mt/umi6_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep6/mt/umi6_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep6/mt/umi6_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep6/mt/umi6_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep6/mt/umi6_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep6/mt/umi6_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep6/mt/umi6_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep6/mt/umi6_19.txt) ❌
+      * [Chapter 20](../../tree/master/story/ep6/mt/umi6_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L44) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L337) ❌
@@ -236,27 +238,27 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 7 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
-      * Chapter 19 ❌
-      * Chapter 20 ❌
+      * [Chapter 0](../../tree/master/story/ep7/mt/umi7_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep7/mt/umi7_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep7/mt/umi7_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep7/mt/umi7_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep7/mt/umi7_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep7/mt/umi7_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep7/mt/umi7_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep7/mt/umi7_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep7/mt/umi7_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep7/mt/umi7_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep7/mt/umi7_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep7/mt/umi7_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep7/mt/umi7_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep7/mt/umi7_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep7/mt/umi7_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep7/mt/umi7_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep7/mt/umi7_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep7/mt/umi7_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep7/mt/umi7_18.txt) ❌
+      * [Chapter 19](../../tree/master/story/ep7/mt/umi7_19.txt) ❌
+      * [Chapter 20](../../tree/master/story/ep7/mt/umi7_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L48) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L341) ❌
@@ -272,25 +274,25 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 8 ❌</summary>
 
    * Story
-      * Chapter 0 ❌
-      * Chapter 1 ❌
-      * Chapter 2 ❌
-      * Chapter 3 ❌
-      * Chapter 4 ❌
-      * Chapter 5 ❌
-      * Chapter 6 ❌
-      * Chapter 7 ❌
-      * Chapter 8 ❌
-      * Chapter 9 ❌
-      * Chapter 10 ❌
-      * Chapter 11 ❌
-      * Chapter 12 ❌
-      * Chapter 13 ❌
-      * Chapter 14 ❌
-      * Chapter 15 ❌
-      * Chapter 16 ❌
-      * Chapter 17 ❌
-      * Chapter 18 ❌
+      * [Chapter 0](../../tree/master/story/ep8/mt/umi8_op.txt) ❌
+      * [Chapter 1](../../tree/master/story/ep8/mt/umi8_1.txt) ❌
+      * [Chapter 2](../../tree/master/story/ep8/mt/umi8_2.txt) ❌
+      * [Chapter 3](../../tree/master/story/ep8/mt/umi8_3.txt) ❌
+      * [Chapter 4](../../tree/master/story/ep8/mt/umi8_4.txt) ❌
+      * [Chapter 5](../../tree/master/story/ep8/mt/umi8_5.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep8/mt/umi8_6.txt) ❌
+      * [Chapter 7](../../tree/master/story/ep8/mt/umi8_7.txt) ❌
+      * [Chapter 8](../../tree/master/story/ep8/mt/umi8_8.txt) ❌
+      * [Chapter 9](../../tree/master/story/ep8/mt/umi8_9.txt) ❌
+      * [Chapter 10](../../tree/master/story/ep8/mt/umi8_10.txt) ❌
+      * [Chapter 11](../../tree/master/story/ep8/mt/umi8_11.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep8/mt/umi8_12.txt) ❌
+      * [Chapter 13](../../tree/master/story/ep8/mt/umi8_13.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep8/mt/umi8_14.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep8/mt/umi8_15.txt) ❌
+      * [Chapter 16](../../tree/master/story/ep8/mt/umi8_16.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep8/mt/umi8_17.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep8/mt/umi8_18.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L51) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L344) ❌
