@@ -38,8 +38,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 11](../../tree/master/story/ep1/mt/umi1_11.txt) ✅
       * [Chapter 12](../../tree/master/story/ep1/mt/umi1_12.txt) ✅
       * [Chapter 13](../../tree/master/story/ep1/mt/umi1_13.txt) ✅
-      * [Chapter 14](../../tree/master/story/ep1/mt/umi1_14.txt) `<- Burdayız`
-      * [Chapter 15](../../tree/master/story/ep1/mt/umi1_15.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep1/mt/umi1_14.txt) ✅
+      * [Chapter 15](../../tree/master/story/ep1/mt/umi1_15.txt) `<- Burdayız`
       * [Chapter 16](../../tree/master/story/ep1/mt/umi1_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep1/mt/umi1_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) ❌
