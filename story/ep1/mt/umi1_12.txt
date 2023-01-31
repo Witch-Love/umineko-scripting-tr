@@ -843,9 +843,9 @@
 `"......Nee-san, hatırlıyor musun?`
 ` Sen Babamın çalışma odasından çıkarken sana rastlamıştım."`
 `"......Evet, hatırlıyorum.`
-` Bunun konuyla ne ilgisi var?"`
+` Bunun bir şeyle ne ilgisi var?"`
 `"Peki Babamın çalışma odasına bir sonraki gidişin?`
-` Nii-san ve diğerlerinin cesetlerini bulduktan sonraydı, öyle değil mi?`
+` Nii-san ve diğerlerinin cesetlerini bulduktan sonra değil miydi?`
 ` Benimle birlikte bunu bildirmek için çalışma odasına gittin ve orada olmadığını gördük."`
 `".........Bu arada, Nee-san.`
 ` O anda, Babamın çalışma odasına girdiğinde bir şey fark ettin mi?"`
@@ -855,24 +855,24 @@
 ` Yerden bir çöp almadın mı?`
 ` Katlanmış bir fiş."`
 `"......Bazı çöpler topladığımı hatırlıyor gibiyim.`
-` Bunun ne alakası var...?"`
+` Bunun ne ile ilgisi var...?"`
 `"O fişi havaalanındaki bir dükkandan şeker alırken almıştım."`
 `Eva Teyze çantasından küçük bir şeker torbası çıkardı.`
 `"...Aah, o şekeri aldığın zamanki fiş mi?`
-` ...Ama, anne, bu fişin buradaki bir şeyle ne ilgisi var...?"`
+` ...Ama anne, bu fişin buradaki bir şeyle ne ilgisi var...?"`
 `"George, sessiz ol ve biraz daha dinle..."`
 `Hideyoshi Amca'nın ifadesi biraz katıydı.`
 `{n}...Her nasılsa, Eva Teyzenin ne demek istediğini anlamış gibiydi.`
-`"Gerçekten sadece bir anda aklıma geldi, anlıyor musun?`
+`"Gerçekten sadece bir anda aklıma geldi.`
 ` Herhangi bir öngörüden kaynaklanmıyordu,`
-` Ve kesinlikle sana tuzak kurmayı falan planlamıyordum."`
+` ve kesinlikle sana tuzak kurmayı falan planlamıyordum."`
 `"......İşin aslı, bu fiş...`
 ` Nee-san, Babamla konuşup odadan ayrıldıktan hemen sonra benimle karşılaştığını hatırlıyorsun, değil mi?`
 ` Bunu çalışma odasının kapısına o zaman sıkıştırmıştım."`
 `"......Peki, bu ne anlama geliyor?`
 ` Natsuhi Teyze o fişi yerden alana kadar kapıyı kimsenin açmadığı anlamına mı geliyor...?"`
 `"B-Bekle bir saniye, Eva Teyze...!`
-` Faturayı sıkıştırmak çok bariz olurdu!`
+` Fişi sıkıştırmak çok bariz olurdu!`
 ` Büyükbabam kapıyı açtığında bunu fark etmiş, ilginç bulmuş ve kapıya geri sıkıştırmış olabilir..."`
 `Jessica aceleyle karşılık verdi.`
 `...Hâlâ bunun ne anlama geldiğini tam olarak bilmiyordu,`
@@ -912,7 +912,7 @@
 `"......Ben, ......herkesin neden bu kadar kasvetli olduğunu anlayamıyorum.`
 ` ...Biri bana bunu açıklayabilir mi...?"`
 `"A-......Anne, baba, siz...`
-`......Natsuhi Teyze'nin bu sabah Büyükbabamla görüştüğünü söylemesinin...`
+`......Natsuhi Teyze'nin bu sabah Büyükbaba'yla görüştüğünü söylemesinin...`
 `...yalan olduğunu mu söylüyorsunuz?"`
 `"Ne-Neden yalan söylesin ki? Annem masum!!`
 ` Neden yalan söylesin ki!!"`
@@ -929,7 +929,7 @@
 `Eva Teyze herkesi hayal güçlerini zorlamaya çağırdı...`
 `......Elbette, o fiş önemli bir noktaya dönüşebilir.`
 `{n}...Ama başka hangi noktaya doğru bir çizgi çekebileceğimi bilmiyordum...!`
-`Eva teyzenin beklediği cevap...`
+`Eva Teyze'nin beklediği cevap...`
 `......Natsuhi Teyze'nin, Büyükbaba'nın bu sabah o odadaymış gibi görünmesi için yalan söylediğiydi.`
 `Ve Eva Teyze'nin bir anlığına aklına gelen bu yaptığı şey......bunu ortaya mı çıkarmıştı?`
 `"Bu lanet şey hiç mantıklı değil!!`
@@ -939,8 +939,8 @@
 `"Ama Jessica-chan.`
 ` Babamın odada olduğu konusunda yalan söylemesi için hiçbir neden olmadığını söyleyemezsin, değil mi?`
 ` Dedektif romanlarında arada bir görürsünüz.`
-` Bir mazeret yaratmak için ölüm zamanını birbirine karıştırma numarası."`
-`"Se-Sen neden bahsediyorsun?!`
+` Bir mazeret yaratmak için ölüm zamanını saptırma numarası."`
+`"Se-Sen neyden bahsediyorsun?!`
 ` Bunu hiç duymadım bile!!"`
 `"...Babamı henüz bulamadık, ama normal olarak düşünürseniz, çoktan öldürüldüğünü varsaymak doğal olacaktır.`
 ` Bu durumda, yakında cesedini bulmayı beklemeliyiz."`
@@ -974,17 +974,17 @@
 ` Bu sadece klişe bir numara değil!`
 ` Gerçekten işe yarayan bir numara!`
 ` ......Natsuhi nee-san.`
-` Senden şüphelenmek istediğimizden falan yok, tamam mı?`
-` İstemiyoruz ve bu yüzden sadece masum olduğunu kanıtlamanı istiyoruz."`
+` Senden şüphelenmek istediğimiz falan yok, tamam mı?`
+` Bu yüzden sadece masum olduğunu kanıtlamanı istiyoruz."`
 `"Kanıtlamamı istediğiniz masumiyet nedir?!!`
-` Bu sabah, kesinlikle Babamla konuştum!!`
+` Bu sabah kesinlikle Babamla konuştum!!`
 ` Ve bana Tek Kanatlı Kartal'ı kalbime kazımamı söyledi...`
 ` ......Bunu söylediğini de mi inkar ediyorsun?!!"`
 `"Buna kesinlikle izin vermeyeceğim!!`
 ` Babamın bu sözleri söylediğini inkar etmenize izin vermeyeceğim!!"`
 `"......Ya da belki de babamın bedeni hiç ortaya çıkmayacak?`
 ` Normalde bir kişinin resmi olarak öldüğünün ilan edilmesi için yedi yıl boyunca kayıp olması gerekir.`
-` Bu, Babamın neredeyse bitmek üzere olan ömrünü yedi yıl daha uzatmanın ve tüm servetini kendinize saklamanın akıllıca bir yolu olmaz mıydı!"`
+` Bu, Babamın neredeyse bitmek üzere olan ömrünü yedi yıl daha uzatmanın ve tüm servetini kendinize saklamanın akıllıca bir yolu olmaz mıydı!?"`
 `"B-Bunu söyleyip paçayı sıyırmana izin veremem!!`
 ` Daha fazla konuşmana izin veremem!!"`
 `"Ben Ushiromiya Natsuhi'yim!!`
@@ -1011,7 +1011,7 @@
 ` Bunun sona erdirmeniz gerekmiyor mu?"`
 `"O zaman açıklama istiyorum.`
 ` Babam odadan kaybolmayı nasıl başardı?`
-` ...Pencereler içeriden sıkıca kapatılmıştı.`
+` ...Pencereler içeriden sıkıca kilitlenmişti.`
 ` Ve unutma, kapı da!"`
 `"......Eğer bu sabah gerçekten babamla konuştuysan,`
 ` ...o zaman onun bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
@@ -1039,9 +1039,9 @@
 ` ......Natsuhi nee-san, Babamı çalışma odasının üçüncü kat penceresinden avluya ittin!!!"`
 `"S—SENİİİİİİİİİİİİİİİİ!!!"`
 `"Madam, lütfen sakin kalın...!!!"`
-`"Eva-sama... Lütfen bunu kesin.....!!"`
+`"Eva-sama... Lütfen buna son verin.....!!"`
 `"Babam avluya düşerek öldü,`
-` ve sen kapı ve pencereleri kontrol edeceğini söyleyerek ayrıldıktan sonra gidip cesedi bir yere sakladın!`
+` ve sen de kapı ve pencereleri kontrol edeceğini söyleyerek ayrıldıktan sonra gidip cesedi bir yere sakladın!`
 ` Muhtemelen o sırada ölüm zamanını saptırmak için bazı önlemler aldın, değil mi?!"`
 `"......Tüm bunlar Krauss nii-san ve diğerleriyle ilgili davayla ve ayrıca dün gece {f:5:Beatrice}'le olan davayla bağlantılı!`
 ` Natsuhi-san'ın bu vakalarda şüpheli olma ihtimali çok yüksek...`
@@ -1081,7 +1081,7 @@
 `"O çalışma odasını Natsuhi nee-san,`
 ` ilk ziyaret ettiği andan birlikte ziyaret ettiğimiz ikinci ana kadar, çalışma odası mükemmel bir kilitli odaydı ve kilitli odanın mührü kırıldığında, o çoktan kaybolmuştu!`
 ` Eğer bu onun suçlu olduğunu kanıtlamıyorsa, ne tür bir numara kullanmış olabilirler?!"`
-`"Dediğim gibi, sadece 65 puan, Eva Teyze.`
+`"Dediğim gibi sadece 65 puan Eva Teyze.`
 ` O zaman "satranç tahtasını ters çevirmeyi" deneyelim mi?`
 ` Mesele Büyükbaba'yı dışarıdan nasıl yok ettikleri değil.`
 ` Büyükbabanın içeriden nasıl kaybolduğunu düşünün."`
