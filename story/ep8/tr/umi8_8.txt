@@ -162,7 +162,7 @@
 `"My name is Ushiromiya Lion.`
 ` In my world, we're cousins."`
 `"Let me introduce Lion!`
-` This is the successor to the Ushiromiya family headship, who only appears in a world of extremely low probability.`
+` This is the {ruby:çeviri > halef:successor} to the Ushiromiya family headship, who only appears in a world of extremely low probability.`
 ` In that world, Jessica isn't an only child.`
 ` She's Lion's little sister."`
 `"Now there's a surprise...`
@@ -469,7 +469,7 @@
 ` Do you need something?"`
 `"Sorry, but would you mind lending me the key to the {ruby:çeviri > salon:parlor}?"`
 `"The...{ruby:çeviri > salon:parlor}...?`
-` The master keys can open that, ......but why?"`
+` The {ruby:çeviri > master anahtar:master key}s can open that, ......but why?"`
 `"Well, I was just wondering if Ange was asleep, so I went over there.`
 ` The door was locked."`
 `"Locked...?`
@@ -497,7 +497,7 @@
 `"She might have fallen asleep after having her little tantrum.`
 ` ......Could you open it for me?"`
 `"As you wish."`
-`Shannon took out her master key and unlocked the door.`
+`Shannon took out her {ruby:çeviri > master anahtar:master key} and unlocked the door.`
 `{n}Then, she stepped back to let Battler go through.`
 `"......Ange...`
 ` I'm coming in......"`

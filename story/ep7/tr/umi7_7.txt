@@ -466,13 +466,13 @@
 ` Where's the key?"`
 `"Was that key......in the key box...?"`
 `"I, I think Genji‐sama keeps that key by his own chair."`
-`"The master key can open it, right?`
+`"The {ruby:çeviri > master anahtar:master key} can open it, right?`
 ` Let me borrow yours."`
 `"I, I cannot do such a thing...!"`
 `"{ruby:çeviri > Leydim:Milady}, you mustn't approach an ill‐omened place without reason..."`
 `"Hold it, don't you go calling my house ill‐omened.`
 ` Anyway, I've made up my mind.`
-` If you can't give me your master key, there's still that key for the VIP room, right?`
+` If you can't give me your {ruby:çeviri > master anahtar:master key}, there's still that key for the VIP room, right?`
 ` Let me borrow it."`
 `"............M‐...{ruby:çeviri > Leydim:Milady}......"`
 `To Jessica, it was their two expressions that felt more like an ill omen than anything else did.`

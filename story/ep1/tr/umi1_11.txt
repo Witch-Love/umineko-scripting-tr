@@ -451,10 +451,10 @@
 `...It looked like {ruby:çeviri > Hala:Auntie} thought that this conclusion should have been obvious from the very beginning.`
 `"The {ruby:çeviri > suçlu:culprit} carried the bodies of those six into the {ruby:çeviri > ambar:storehouse}.`
 ` But they sure did a good job getting into that {ruby:çeviri > ambar:storehouse}, didn't they?`
-` That shutter was always kept closed and locked, I'm told."`
-`"In other words, in order to carry them into the {ruby:çeviri > ambar:storehouse}, the {ruby:çeviri > suçlu:culprit} would need to unlock the shutter.`
+` That {ruby:çeviri > kepenk:shutter} was always kept closed and locked, I'm told."`
+`"In other words, in order to carry them into the {ruby:çeviri > ambar:storehouse}, the {ruby:çeviri > suçlu:culprit} would need to unlock the {ruby:çeviri > kepenk:shutter}.`
 ` ...Understand?"`
-`"......Is there any possibility that the shutter was left open by mistake that day?"`
+`"......Is there any possibility that the {ruby:çeviri > kepenk:shutter} was left open by mistake that day?"`
 `"The {ruby:çeviri > hizmetkarlar:servants} said that it's always shut.`
 ` In other words, unless they brought the keys out of the {ruby:çeviri > hizmetkar:servant} room, they definitely couldn't have opened the {ruby:çeviri > ambar:storehouse}."`
 `"Is the only key the one in the {ruby:çeviri > hizmetkar:servant} room...?"`
@@ -527,7 +527,7 @@
 `{ruby:çeviri > Hala:Auntie} had probably also read a few books in that genre.`
 `......Her theory did have a few one‐sided conclusions to it, but it was a run‐of‐the‐mill idea that anyone would surely hit upon.`
 `I think anyone would have suspected the {ruby:çeviri > hizmetkarlar:servants}, even if their logic was different.`
-`Especially the talk revolving around the key to the shutter—that was enough to make it easy to suspect strongly that one of the {ruby:çeviri > hizmetkarlar:servants} was involved in the case...`
+`Especially the talk revolving around the key to the {ruby:çeviri > kepenk:shutter}—that was enough to make it easy to suspect strongly that one of the {ruby:çeviri > hizmetkarlar:servants} was involved in the case...`
 `"...............Which is whyyy...`
 `I don't like it for some reason."`
 `"What do you mean, you don't like it?"`
@@ -588,7 +588,7 @@
 ` {i:the grief caused by the six deaths hit everyone but {ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi}.`
 `It was very possible to doubt {ruby:çeviri > Hala:Auntie} Eva herself,`
 ` who was acting like she was outside the net of suspicion, and who might have been trying to point that suspicion at the {ruby:çeviri > hizmetkarlar:servants}.`
-`......In the first place, she had managed to avoid suspicion and place it on the {ruby:çeviri > hizmetkarlar:servants} with that argument about the key to the shutter,`
+`......In the first place, she had managed to avoid suspicion and place it on the {ruby:çeviri > hizmetkarlar:servants} with that argument about the key to the {ruby:çeviri > kepenk:shutter},`
 ` ......but if you looked at it from a perspective of motive, about who would gain something from the murders,`
 ` ............{ruby:çeviri > Hala:Auntie} Eva's name floated to the top of the list.`
 `"......Battler‐kun, {ruby:çeviri > Hala:Auntie} knows what you're thinking, okay?"`
@@ -650,7 +650,7 @@
 `{n}......Or.........`
 `{ruby:çeviri > Hala:Auntie} Eva didn't want to talk any more than that, so I headed to the window, folding my arms, so that I could cool my head a little.`
 `As I looked over the {ruby:çeviri > salon:parlor}, I saw George‐aniki and the others gathered, talking.`
-`...It looked like they were talking about the {ruby:çeviri > büyü:magic} circle that had been painted onto the shutter.`
+`...It looked like they were talking about the {ruby:çeviri > büyü:magic} circle that had been painted onto the {ruby:çeviri > kepenk:shutter}.`
 `As Uncle Hideyoshi thought back to that time, he started drawing the shape in the margins of Maria's notebook.`
 `......Yes, Maria is second only to Grandfather in knowledge of the occult, so she might understand what it meant.`
 `"Hmmm, I think it was probably somethin' like that!`
@@ -664,7 +664,7 @@
 ` Yep, this was it, there's no mistakin' the shape.`
 ` I don't know the exact characters, but the arrangement was nearly the same."`
 `Everyone was staring down at the shape, so I stared down at it too.`
-`...From what I had heard, this had been painted on the shutter to the {ruby:çeviri > ambar:storehouse} with some material that looked like blood.`
+`...From what I had heard, this had been painted on the {ruby:çeviri > kepenk:shutter} to the {ruby:çeviri > ambar:storehouse} with some material that looked like blood.`
 `......I see, this sure is unsettling.`
 `"...Grandfather's about the only one who'd get it into his head to draw this nonsense.`
 ` ......Seriously, where did he go?!`
@@ -684,7 +684,7 @@
 `Maria looked at the shape with a serious face.`
 `...Maybe she was enthusiastic since this was her area of expertise.`
 `...However, her appearance was that of someone separated from the events at hand,`
-` ...as though this thing hadn't been drawn on the shutter closed around her mother's corpse...`
+` ...as though this thing hadn't been drawn on the {ruby:çeviri > kepenk:shutter} closed around her mother's corpse...`
 `"......My first impression was that the design resembled some kind of foreign cross‐like symbol..."`
 `"Aah...`
 ` It certainly does have that kind of design.`
@@ -868,7 +868,7 @@
 ` After thinking this way, I really want to tell that asshole to stop taking me so lightly.`
 `Who would dance to that tune? If I'm told "Please be scared", I'm not just gonna say "Really? Sure thing!"`
 `...When someone tells the great Ushiromiya Battler "Entrance This Way", I'm the kind of guy who'll start wanting to sneak in through the window!`
-`The next thing that had me concerned was the attempt at a {ruby:çeviri > büyü:magic} circle on the shutter.`
+`The next thing that had me concerned was the attempt at a {ruby:çeviri > büyü:magic} circle on the {ruby:çeviri > kepenk:shutter}.`
 `...It was a genuine {ruby:çeviri > büyü:magic} circle, declared authentic by even Maria, who had demonstrated that her knowledge of the occult rivaled Grandfather's.`
 `They must have drawn that thing in pitch‐black darkness while holding an umbrella in one hand,`
 ` and it must have taken them a lot of time—that's a formidable amount of hard work and attention to detail.`
@@ -884,7 +884,7 @@
 `{n}......You send them, and hope for a reaction from the other party.`
 `...Reaction?`
 `{n}.........For some reason, we couldn't find Grandfather now.`
-`I don't know how Grandfather could have managed to see the {ruby:çeviri > büyü:magic} circle on the shutter,`
+`I don't know how Grandfather could have managed to see the {ruby:çeviri > büyü:magic} circle on the {ruby:çeviri > kepenk:shutter},`
 ` ...but had he chosen to hide himself in reaction to that sign...?`
 `No, was it a trap to make us suspect Grandfather's involvement?`
 `...You could read it either way—damn, that's annoying.`

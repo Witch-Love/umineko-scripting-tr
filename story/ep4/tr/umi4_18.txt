@@ -499,11 +499,11 @@
 `{n}This feeling of stars flickering in a world twisted with gray...`
 `...was one I knew well.`
 `My life was very similar to the one Sumadera Kasumi led.`
-`...Because I was tormented constantly with all kinds of bullying under the guise of education and training, to make me a worthy "successor to the Ushiromiya family".`
+`...Because I was tormented constantly with all kinds of bullying under the guise of education and training, to make me a worthy "{ruby:çeviri > halef:successor} to the Ushiromiya family".`
 `Yes.`
 ` Having the inside of my head filled with stars like this...is a feeling I know well.`
 `When being reprimanded for some error in manners I seemed to have made,`
-` the lecture always turned to whether I was fitting to be the successor to the Ushiromiya family or not.`
+` the lecture always turned to whether I was fitting to be the {ruby:çeviri > halef:successor} to the Ushiromiya family or not.`
 `......On and on about the honor of the Ushiromiya family, and how important it was.`
 `......By the time her rant reached that point,`
 ` I would forget what mistake I was being blamed for in the first place.`

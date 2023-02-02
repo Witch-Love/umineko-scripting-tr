@@ -227,7 +227,7 @@
 `"Rest is fine, but let's not let our guard down, okay...?`
 ` We might not make it through the night, much less tomorrow."`
 `"............Aunt Natsuhi.`
-` If you're returning to your room, make sure you lock it tight, close the windows and shutters, and stay safe.`
+` If you're returning to your room, make sure you lock it tight, close the windows and {ruby:çeviri > kepenk:shutter}s, and stay safe.`
 ` ......I don't want to suspect anyone.`
 ` And more than that, ......I don't want there to be any more victims."`
 `".........Thank you, Battler‐kun.`
@@ -458,7 +458,7 @@
 `"......Just in case.`
 ` Can't tell if it's day or night in this weather anyway."`
 `As he muttered, he did something that made a clunking sound.`
-`{n}......He was probably closing the shutters on the windows.`
+`{n}......He was probably closing the {ruby:çeviri > kepenk:shutter}s on the windows.`
 `Just in case?`
 `{n}In case I try to escape out the window...?`
 `No, ......that can't be it.`
@@ -467,8 +467,8 @@
 `After all, several murders had occurred.`
 ` And the weather was bad.`
 `{n}......There would be nothing abnormal about resting in a {ruby:çeviri > misafir odası:guest room} here instead of returning to the {ruby:çeviri > konukevi:guesthouse}.`
-`In that case, locking up and closing the shutters to guarantee safety was the proper course of action to take.`
-`When he finished closing the shutters,`
+`In that case, locking up and closing the {ruby:çeviri > kepenk:shutter}s to guarantee safety was the proper course of action to take.`
+`When he finished closing the {ruby:çeviri > kepenk:shutter}s,`
 ` ......there was a thunk`
 ` as though he had flopped over on the bed.`
 `......It was surprising how much of the situation could be grasped just by the sound.`
@@ -641,7 +641,7 @@
 ` ......The doors and windows to this room are completely sealed."`
 `"............ah.`
 ` ...Th‐that's right.`
-` The shutters are all shut, and the chain was on the door until a second ago......"`
+` The {ruby:çeviri > kepenk:shutter}s are all shut, and the chain was on the door until a second ago......"`
 `"Huh?!`
 ` Isn't that bizarre...?!`
 ` In that case, how did the {ruby:çeviri > suçlu:culprit} attack Hideyoshi‐san in this room...?!"`
@@ -652,8 +652,8 @@
 ` It's a locked‐room murder."`
 `"A, ......a locked‐room murder......"`
 `"......It's a bit too early to be sure about that.`
-` Maybe the {ruby:çeviri > suçlu:culprit} removed the ceiling in the bathroom and escaped to the space above it, or maybe you can close the shutters from outside."`
-`"The shutters.`
+` Maybe the {ruby:çeviri > suçlu:culprit} removed the ceiling in the bathroom and escaped to the space above it, or maybe you can close the {ruby:çeviri > kepenk:shutter}s from outside."`
+`"The {ruby:çeviri > kepenk:shutter}s.`
 ` ............They didn't budge an inch from the outside.`
 ` I just went and checked."`
 `"......Erika........."`
@@ -662,7 +662,7 @@
 `Just now, she had finally arrived and poked her face in from the hallway.`
 `......She had heard that a crime had occurred in this room,`
 ` seen everyone rushing towards it, and taken the opposite approach by circling around to the outer wall.`
-`And she had gone all by herself to check that the shutters were down on the windows, that you couldn't do anything with them from the outside,`
+`And she had gone all by herself to check that the {ruby:çeviri > kepenk:shutter}s were down on the windows, that you couldn't do anything with them from the outside,`
 ` ......and that there was nothing out of the ordinary.`
 `"I assume that the inside of the room is perfectly cliché......?"`
 `"......That was uncalled for."`
@@ -670,7 +670,7 @@
 ` So? What is the state of the room?"`
 `"..........................."`
 `"......The chain was set on the door, so we cut it and entered."`
-`"And all the windows have the shutters down.`
+`"And all the windows have the {ruby:çeviri > kepenk:shutter}s down.`
 ` They're locked tight from the inside."`
 `"......What are they bickering about in there?"`
 `Eva was arguing with Nanjo about something.`
@@ -709,12 +709,12 @@
 `"......Listen up, everyone.`
 ` From now on, we'll always move as a group.`
 ` You must not let yourself be isolated."`
-`"The {ruby:çeviri > suçlu:culprit} probably got a master key when he attacked Genji‐san.`
+`"The {ruby:çeviri > suçlu:culprit} probably got a {ruby:çeviri > master anahtar:master key} when he attacked Genji‐san.`
 ` It's clear that locking up will no longer keep us safe."`
 `"B‐but...even the chain was set. How did they do it......?!"`
 `"......It's impossible...`
-` The shutters and the chain were firmly set.`
-` ......Even with a master key, it's impossible to force your way into that room......!"`
+` The {ruby:çeviri > kepenk:shutter}s and the chain were firmly set.`
+` ......Even with a {ruby:çeviri > master anahtar:master key}, it's impossible to force your way into that room......!"`
 `"It must have been {f:5:Beatrice}‐sama's doing.........oooohhhhh......"`
 `"......Th‐there's no way {f:5:Beatrice}‐sama did this...`
 ` ......The {ruby:çeviri > kitabe:epitaph} has been solved, so there shouldn't be any more reason to hold the {ruby:çeviri > ritüel:ritual}..."`

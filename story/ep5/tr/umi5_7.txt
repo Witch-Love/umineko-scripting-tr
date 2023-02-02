@@ -201,14 +201,14 @@
 `"I assume none of us have forgotten......the deal we made earlier today."`
 `"Yeah.`
 ` We divide it between the four of us, 2.5 billion each.`
-` And then {i:the successor to the head} gets another 10 billion."`
+` And then {i:the {ruby:çeviri > halef:successor} to the head} gets another 10 billion."`
 `".........W‐wait just a moment!`
-` Who decided that the one who discovers the gold becomes the successor?!"`
+` Who decided that the one who discovers the gold becomes the {ruby:çeviri > halef:successor}?!"`
 `"Hold your horses, you're not gettin' away with that, Natsuhi‐san...!!`
 ` That's been the basis of all our talkin' this whole time!`
 ` Sayin' that now is shameful, don't ya think?!"`
 `"...That's right.`
-` ......Weren't you the one worrying about how if one of the {ruby:çeviri > hizmetkarlar:servants} solved the riddle, they might consider themselves the successor to the head...?"`
+` ......Weren't you the one worrying about how if one of the {ruby:çeviri > hizmetkarlar:servants} solved the riddle, they might consider themselves the {ruby:çeviri > halef:successor} to the head...?"`
 `"But nowhere is it explicitly written that that's the truth!"`
 `"You miserable coward!!!`
 ` That was the way every single one of us interpreted it!!"`
@@ -217,7 +217,7 @@
 `"Though it was never written down, I believe it was most definitely common understanding between us.`
 ` I don't see how you can say it's completely irrelevant."`
 `"You can't just interpret the head's {ruby:çeviri > kitabe:epitaph} however you like!!`
-` Where is it written that the one who finds the gold becomes the successor?!`
+` Where is it written that the one who finds the gold becomes the {ruby:çeviri > halef:successor}?!`
 ` The {ruby:çeviri > kitabe:epitaph} was decided upon by the head.`
 ` You have no right to decide these things for yourselves!!"`
 `".........Calm down, Natsuhi."`
@@ -225,11 +225,11 @@
 ` I certainly find it very impressive that Battler‐kun solved the {ruby:çeviri > kitabe:epitaph}!`
 ` I do think it would be fair for him to receive some kind of a reward.`
 ` However, saying that reward should be half of everything here is clearly over the line,`
-` and the argument that the discoverer automatically becomes the successor is one that I absolutely will not permit to go unchallenged...!!"`
+` and the argument that the discoverer automatically becomes the {ruby:çeviri > halef:successor} is one that I absolutely will not permit to go unchallenged...!!"`
 `"Th‐that's low, Natsuhi nee‐san...!`
 ` This is completely different from what you were saying earlier today...!"`
 `"I agree!`
-` It may not have been written down, but the fact that the guy who solves the {ruby:çeviri > kitabe:epitaph} becomes the successor has always been our greatest unwritten assumption...!`
+` It may not have been written down, but the fact that the guy who solves the {ruby:çeviri > kitabe:epitaph} becomes the {ruby:çeviri > halef:successor} has always been our greatest unwritten assumption...!`
 ` It's not exactly fair to start complaining about that at the last second, is it?!`
 ` Yeah, not fair at all!!"`
 `"At any rate!!`
@@ -241,13 +241,13 @@
 ` Are you sayin' that whole conversation today was a bunch of bull?!`
 ` That's just not right!!"`
 `"Why don't we just vote on it?!!`
-` Battler‐kun, the one who found the gold, is the successor to the head!`
+` Battler‐kun, the one who found the gold, is the {ruby:çeviri > halef:successor} to the head!`
 ` My husband and I have no objections!!`
 ` What about you, Rudolf and Kyrie‐san?`
 ` Rosa?!"`
 `"No objections here. Nice going, Battler!!"`
 `"I have no objections either.`
-` Battler‐kun is the true successor, chosen by the {ruby:çeviri > kitabe:epitaph}.`
+` Battler‐kun is the true {ruby:çeviri > halef:successor}, chosen by the {ruby:çeviri > kitabe:epitaph}.`
 ` If you aren't satisfied, then why don't we just ask Father directly...?!"`
 `"That's right.`
 ` Like you just said, Natsuhi nee‐san, Father is the one who wrote the riddle of the {ruby:çeviri > kitabe:epitaph}.`
@@ -326,7 +326,7 @@
 `"Not you as well, Battler‐kun.`
 ` You come with us, please."`
 `"Darn right.`
-` You're a real successor to the head now!`
+` You're a real {ruby:çeviri > halef:successor} to the head now!`
 ` You've gotta go see Father and make it all official...!"`
 `"Father is the only one who gets to decide that!!`
 ` Don't make things up on your own!"`
@@ -336,7 +336,7 @@
 ` Just stay quiet and keep your head down.`
 ` Got it?"`
 `"............Just do whatever you want."`
-`It would have been easy to say that I had no interest in being successor to the head.`
+`It would have been easy to say that I had no interest in being {ruby:çeviri > halef:successor} to the head.`
 `......But I was sure that would only add more oil to the fire.`
 `Even if I hadn't been ordered to keep quiet, I was certain that staying shut up like a clam was the wisest thing to do...`
 `In that case, would it really be so bad if they just let me go back to the {ruby:çeviri > konukevi:guesthouse}...?`
@@ -489,7 +489,7 @@
 `Is it really enough...`
 `to just use the vague word "us"......?`
 `There are a lot of people in the Ushiromiya family.`
-`There's the head and the one who holds the rank of his successor...Grandfather and Uncle Krauss.`
+`There's the head and the one who holds the rank of his {ruby:çeviri > halef:successor}...Grandfather and Uncle Krauss.`
 `Our parents, who have some pull in the business world.`
 `......On the other side, you have the young cousins, who usually visit at most once a year,`
 ` and the unfortunate {ruby:çeviri > hizmetkarlar:servants}, who just happened to be on duty.`

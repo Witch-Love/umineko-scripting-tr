@@ -158,17 +158,17 @@
 ` they'd been given a very brutal treatment, right?`
 ` Did that look like something that could be done alone?"`
 `"............Maybe our mystery guest {f:5:Beatrice}‐sama worked all night and did it all."`
-`"And the incident with the master keys involving the door to Jessica's room?`
+`"And the incident with the {ruby:çeviri > master anahtar:master key}s involving the door to Jessica's room?`
 ` Isn't that proof that one of the {ruby:çeviri > hizmetkarlar:servants} was involved?"`
 `"......nn.................."`
-`Only a master key could have locked the door to Jessica's room.`
+`Only a {ruby:çeviri > master anahtar:master key} could have locked the door to Jessica's room.`
 `{n}...In that case, we can only suppose that one of the {ruby:çeviri > hizmetkarlar:servants} locked it......`
 `.........No,`
 ` ......wait.`
 `"Flip over the chessboard.`
 ` ......That's strange, {ruby:çeviri > Hala:Auntie} Rosa."`
 `"After killing Jessica, why did the {ruby:çeviri > suçlu:culprit} go to all the trouble of locking the door?`
-` It was inevitable that the owners of the master keys were gonna be suspected if they did that.`
+` It was inevitable that the owners of the {ruby:çeviri > master anahtar:master key}s were gonna be suspected if they did that.`
 ` ......There was no need to deliberately lock the door."`
 `"...Tha‐that's right.`
 ` It's just as Battler‐kun says!`
@@ -176,14 +176,14 @@
 `"Yes.`
 ` That's an interesting thought.`
 ` Of course, I also thought that."`
-`"......If that's so, then the person who locked it wanted to cast suspicion on the {ruby:çeviri > hizmetkarlar:servants}, and locked that door without a master key.`
+`"......If that's so, then the person who locked it wanted to cast suspicion on the {ruby:çeviri > hizmetkarlar:servants}, and locked that door without a {ruby:çeviri > master anahtar:master key}.`
 ` But that's impossible.`
 ` Right?"`
 `......That's right.`
-` If there was a {ruby:çeviri > numara:trick} that could lock the door without a master key, this would be a good disguise aimed at casting doubt on the {ruby:çeviri > hizmetkarlar:servants}.`
+` If there was a {ruby:çeviri > numara:trick} that could lock the door without a {ruby:çeviri > master anahtar:master key}, this would be a good disguise aimed at casting doubt on the {ruby:çeviri > hizmetkarlar:servants}.`
 `...If the {ruby:çeviri > suçlu:culprit} wanted to isolate us and attack us one by one, this {ruby:çeviri > numara:trick} was a very effective one that could even give rise to paranoia.`
-`However, there was no way to lock that door without using a master key...`
-`"How can you make the claim that there's no way to lock the door without using a master key?`
+`However, there was no way to lock that door without using a {ruby:çeviri > master anahtar:master key}...`
+`"How can you make the claim that there's no way to lock the door without using a {ruby:çeviri > master anahtar:master key}?`
 ` Isn't that a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}, like Rudolf nii‐san was talking about?`
 ` {i:Maybe it was locked by a method we can't think of}."`
 `"Even if we can't think of it, that doesn't disprove that there was some unknown {ruby:çeviri > numara:trick}."`
@@ -194,7 +194,7 @@
 ` My apologies, but if we suppose that Kanon‐kun was the {ruby:çeviri > suçlu:culprit}, it can be explained extremely easily.`
 ` Even as to why there was no corpse."`
 `"Huh......`
-` But Kanon‐kun wasn't holding a master key, right?!`
+` But Kanon‐kun wasn't holding a {ruby:çeviri > master anahtar:master key}, right?!`
 ` Putting aside the other {ruby:çeviri > hizmetkarlar:servants}, at least Kanon‐kun shouldn't have been able to lock the door!"`
 `"......I see.`
 ` ...So that's why you told us to search in the closet and everywhere else right after we entered Jessica's room.`
@@ -205,11 +205,11 @@
 ` and seemed a little disturbed about how he should take that nasty remark...`
 `"......I, I'm sorry.`
 ` Could you explain it so that even I can understand?"`
-`"Kanon‐kun's master key was in Jessica‐chan's pocket, closed up inside a locked room.`
+`"Kanon‐kun's {ruby:çeviri > master anahtar:master key} was in Jessica‐chan's pocket, closed up inside a locked room.`
 ` After the door was locked, it should have been impossible for him to pull a stunt like putting it in her pocket from outside the room...!"`
 `"That's not it, Aniki.`
 ` ......If it was done in the way {ruby:çeviri > Hala:Auntie} Rosa imagines, ......this {ruby:çeviri > numara:trick} could only be used by Kanon‐kun."`
-`"...And, the door could be locked without a key, while the master key was still in Jessica's pocket.`
+`"...And, the door could be locked without a key, while the {ruby:çeviri > master anahtar:master key} was still in Jessica's pocket.`
 ` ......And, as a result, his corpse would also disappear."`
 `"H‐......how?!`
 ` How would he lock the door without a key?!"`

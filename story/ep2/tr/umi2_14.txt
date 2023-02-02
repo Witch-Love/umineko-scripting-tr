@@ -180,7 +180,7 @@
 `Shannon was the same.`
 `"Both their corpses disappeared!`
 ` And furthermore, they disappeared while the door was locked!`
-` Even if the {ruby:çeviri > suçlu:culprit} was Kanon‐kun, he shouldn't be holding a master key anymore!!"`
+` Even if the {ruby:çeviri > suçlu:culprit} was Kanon‐kun, he shouldn't be holding a {ruby:çeviri > master anahtar:master key} anymore!!"`
 `"That's wrong...!`
 ` Kanon‐kun is not the {ruby:çeviri > suçlu:culprit}...!!"`
 `"......Shannon...`
@@ -188,15 +188,15 @@
 ` Kanon‐kun is not the {ruby:çeviri > suçlu:culprit}.`
 ` This must be the doing of someone who looks a lot like him."`
 `"No.`
-` Kanon‐kun could have gotten a master key.`
-` ......After all, his master key was found in the pocket of Jessica‐chan's body.`
+` Kanon‐kun could have gotten a {ruby:çeviri > master anahtar:master key}.`
+` ......After all, his {ruby:çeviri > master anahtar:master key} was found in the pocket of Jessica‐chan's body.`
 ` ...And who took that key?"`
 `"!!`
 ` Th‐that's right!`
 ` It was Doctor Nanjo......!!"`
 `That's right.`
-` Back then, it definitely had been Doctor Nanjo who searched through Jessica's clothes and found the master key...!`
-`So, if someone had the opportunity to search Doctor Nanjo's corpse, it would have been easy for them to take the master key back...`
+` Back then, it definitely had been Doctor Nanjo who searched through Jessica's clothes and found the {ruby:çeviri > master anahtar:master key}...!`
+`So, if someone had the opportunity to search Doctor Nanjo's corpse, it would have been easy for them to take the {ruby:çeviri > master anahtar:master key} back...`
 `{ruby:çeviri > Hala:Auntie} Rosa searched under the bed and in the locker.`
 `...By now, I also understood what that meant.`
 `{n}If you assume that there had been two {ruby:çeviri > suçlular:culprits}, it could be easily explained.`
@@ -204,16 +204,16 @@
 `{n}He had finished off Doctor Nanjo and ran off somewhere.`
 `The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.`
 `She had hidden under the bed in the {ruby:çeviri > hizmetkar:servant} room beforehand, and with Doctor Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.`
-`Then after that, she had crawled out, taken the master key back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.`
-`If she had then locked the door with the master key, this locked room would be created.`
+`Then after that, she had crawled out, taken the {ruby:çeviri > master anahtar:master key} back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.`
+`If she had then locked the door with the {ruby:çeviri > master anahtar:master key}, this locked room would be created.`
 `"*cackle*cackle*.`
 ` You constructed that one pretty fast with your {ruby:çeviri > muhakeme:reasoning} from Jessica's room as a premise.`
 ` With that method, you could indeed create a locked room even without {ruby:çeviri > büyü:magic}.`
 ` Should I give you passing marks?`
 ` However, as truly fascinating as it was, ......there is something you must not forget."`
-`"...If the {ruby:çeviri > suçlu:culprit} had taken the master key back by the method you say,`
+`"...If the {ruby:çeviri > suçlu:culprit} had taken the {ruby:çeviri > master anahtar:master key} back by the method you say,`
 ` ......that {ruby:çeviri > suçlu:culprit}...`
-`{i:would have to have known that Nanjo had taken the master key from Jessica's body}."`
+`{i:would have to have known that Nanjo had taken the {ruby:çeviri > master anahtar:master key} from Jessica's body}."`
 `"......You don't have to tell me that...`
 ` You're probably trying to say that it's information only the people in that place, at that time, could know..."`
 `"......Heh!`
@@ -274,8 +274,8 @@
 ` I will return them later, so please accept my apologies.`
 ` ...Furthermore, since these keys belong to all of you, I shall return them."`
 `As Rosa read that aloud, the contents of the envelope lay exposed on the palm of her hand.`
-`They were two master keys.`
-`{n}The master key that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's master key.`
+`They were two {ruby:çeviri > master anahtar:master key}s.`
+`{n}The {ruby:çeviri > master anahtar:master key} that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's {ruby:çeviri > master anahtar:master key}.`
 `"What the helllllll......`
 ` So what does that mean...`
 ` Damn you, again?!`
@@ -285,14 +285,14 @@
 ` *cackle*cackle*cackle*!"`
 `"......If they were hiding under the bed, it wouldn't have been impossible for them to have carried the corpses away somewhere.`
 ` But that way they couldn't lock the door!`
-` The master key they went to all that trouble to get their hands on was set down right here!"`
+` The {ruby:çeviri > master anahtar:master key} they went to all that trouble to get their hands on was set down right here!"`
 `"......That's right, I'd forgotten.`
 ` What about the keys specifically for this room, the {ruby:çeviri > hizmetkar:servant} room keys?!"`
 `"Mmhm.`
 ` Those {p:1:are in the key box in the center of the {ruby:çeviri > hizmetkar:servant} room}.`
 ` There are several {ruby:çeviri > hizmetkar:servant} room keys, but {p:1:all of those are inside the key box}."`
 `"Which means that the situation isn't any different from the time with the key to Jessica's room...`
-` It's not like the {ruby:çeviri > hizmetkarlar:servants} would walk around with an unnecessary key when they have those convenient master keys.`
+` It's not like the {ruby:çeviri > hizmetkarlar:servants} would walk around with an unnecessary key when they have those convenient {ruby:çeviri > master anahtar:master key}s.`
 ` I can accept that they were all still shut away in the key box..."`
 `"And nothing has changed in the other conditions.`
 ` {p:1:Entry and exit are impossible except for the single door and the single window}.`
@@ -303,7 +303,7 @@
 `{p:1:And those were both locked}.`
 ` {p:1:The door and the window do not permit any kind of entry or exit when they are locked}.`
 ` So it won't work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.`
-` And obviously, {p:1:it is impossible to unlock the door without the {ruby:çeviri > hizmetkar:servant} room key or a master key}."`
+` And obviously, {p:1:it is impossible to unlock the door without the {ruby:çeviri > hizmetkar:servant} room key or a {ruby:çeviri > master anahtar:master key}}."`
 `"...It's a pain having to read all these aloud every time.`
 ` Sooner or later, I should think of some word to abbreviate all this into a single phrase."`
 `"But you can't repeat that no one was hiding in this room!`
@@ -596,7 +596,7 @@
 ` ......By Rosa‐san's argument, if the corpses could be found, then the innocence of at least those people could be proved.`
 `But only the people who were corpses.`
 ` Even if they searched around the {ruby:çeviri > malikane:mansion} and found the corpses, in the end, their own innocence would not be proved.`
-`They had abducted Doctor Nanjo and Kumasawa‐san, killed them in another place, and locked the room with their own master keys.`
+`They had abducted Doctor Nanjo and Kumasawa‐san, killed them in another place, and locked the room with their own {ruby:çeviri > master anahtar:master key}s.`
 `Unless the locked room could be broken by a method other than that one,`
 ` ......it would be impossible to prove their innocence...`
 `......But, .........that couldn't be done!!`
@@ -614,33 +614,33 @@
 ` ...I truly understand why Father trusts you.`
 ` It is truly heartrending that I must suspect even you."`
 `"........................"`
-`Genji‐san stuck his hand into his pocket and pulled out a master key.`
+`Genji‐san stuck his hand into his pocket and pulled out a {ruby:çeviri > master anahtar:master key}.`
 `...Then he set it on an adjacent table.`
 `"......I believe that I hold this as a proof of trust.`
 ` If that has been lost, I think it is only natural that I return it."`
 `"..................`
 ` ......That's good judgment.`
-` Those master keys are the greatest basis upon which you have been suspected several times today.`
+` Those {ruby:çeviri > master anahtar:master key}s are the greatest basis upon which you have been suspected several times today.`
 ` Relinquishing them in order to clear away that suspicion may only be a first step,`
 ` but, well, I think it isn't a bad start."`
 `"...............You two."`
 `Genji‐san looked at Gohda‐san and Shannon‐chan.`
-`......The two of them nodded, and set their own master keys onto the table.`
-`{ruby:çeviri > Hala:Auntie} Rosa lay the two master keys that had come out of the envelope on top.`
-`With that, all five master keys were gathered in this place.`
+`......The two of them nodded, and set their own {ruby:çeviri > master anahtar:master key}s onto the table.`
+`{ruby:çeviri > Hala:Auntie} Rosa lay the two {ruby:çeviri > master anahtar:master key}s that had come out of the envelope on top.`
+`With that, all five {ruby:çeviri > master anahtar:master key}s were gathered in this place.`
 `In other words, this was proof that all of the {ruby:çeviri > hizmetkarlar:servants}' service until today had been negated,`
 ` and even the final honor that they should have been permitted had been stripped from them...`
 `"Maria, give me that handbag."`
 `"......Uu!!`
 ` Give it baaack!!"`
-`{ruby:çeviri > Hala:Auntie} Rosa snatched Maria's handbag, tossed all the master keys in there noisily, then lifted one out and held it up for all to see.`
-`She was announcing that she had all of the master keys.`
+`{ruby:çeviri > Hala:Auntie} Rosa snatched Maria's handbag, tossed all the {ruby:çeviri > master anahtar:master key}s in there noisily, then lifted one out and held it up for all to see.`
+`She was announcing that she had all of the {ruby:çeviri > master anahtar:master key}s.`
 `"A‐.........are you satisfied now, Aunt Rosa?`
-` ......Now the only master keys are the ones you are holding yourself.`
+` ......Now the only {ruby:çeviri > master anahtar:master key}s are the ones you are holding yourself.`
 ` ......I hope you're satisfied!!"`
 `"Yes, I'm satisfied.`
 ` Even if I can't trust anyone, I can at least trust myself!"`
-`"I've been able to get the gun and all the master keys for myself!`
+`"I've been able to get the gun and all the {ruby:çeviri > master anahtar:master key}s for myself!`
 ` Now, I don't have to suspect anyone.`
 ` You're all happy too, right?`
 ` Now you don't have to be suspected anymore!`
@@ -711,7 +711,7 @@
 `After softly brushing my cheek as my tears kept dripping down,`
 ` ......Maria kissed my forehead, as soft as a feather.`
 `For just that instant, ......Maria's smile, which I had once thought was creepy, looked like an angel...`
-`"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change.`
+`"We have returned the {ruby:çeviri > master anahtar:master key}s, ...but our loyalty to the Ushiromiya family will not change.`
 ` .........From now on, we will not enter the {ruby:çeviri > salon:parlor} without permission.`
 ` Rosa‐sama, please lock the {ruby:çeviri > salon:parlor} from the inside."`
 `"......You truly are an admirable person.`
@@ -766,7 +766,7 @@
 `"......I'm...going with them too."`
 `"...It's alright, George‐sama...`
 ` Please, return to the {ruby:çeviri > salon:parlor}.`
-` There are no more master keys anymore.`
+` There are no more {ruby:çeviri > master anahtar:master key}s anymore.`
 ` So if you are with Rosa‐sama in the {ruby:çeviri > salon:parlor}, you won't be threatened by anyone."`
 `"That's right.`
 ` ...That's how things are.`
@@ -824,7 +824,7 @@
 `.........why are you...`
 `.........saying...`
 `something like that......?"`
-`"There are five master keys in all?`
+`"There are five {ruby:çeviri > master anahtar:master key}s in all?`
 ` Who would believe that?`
 ` It's obvious that some duplicate keys exist.`
 ` ......As if we could trust them just because they pulled keys out of their pockets...!!"`
@@ -836,21 +836,21 @@
 ` They've shown that they're willing to go this far, ......and you still can't trust them?!`
 ` Too much... That's just too much......!"`
 `"It's a {ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}!`
-` There are five master keys in all?!`
+` There are five {ruby:çeviri > master anahtar:master key}s in all?!`
 ` It's impossible to prove something like that!!`
-` You can show that there are five master keys by placing them here!`
+` You can show that there are five {ruby:çeviri > master anahtar:master key}s by placing them here!`
 ` But you can't prove that no more than five exist!!`
 ` Only a demon or a witch could prove something like that, you know?!"`
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
 ` Stop it already stop it already...!!"`
 `"Please, {f:5:Beatrice}, show yourself right now,`
-` and tell {ruby:çeviri > Hala:Auntie} Rosa in red that "there are only five master keys"!!`
+` and tell {ruby:çeviri > Hala:Auntie} Rosa in red that "there are only five {ruby:çeviri > master anahtar:master key}s"!!`
 ` Please, I beg you, this can only be proved by devils, a witch like you could prove it!"`
 `"Please, Beato, show yourself here and tell {ruby:çeviri > Hala:Auntie} Rosa...`
-`that those are all of the master keys, and that there's no need to suspect anyone anymore...!!!"`
+`that those are all of the {ruby:çeviri > master anahtar:master key}s, and that there's no need to suspect anyone anymore...!!!"`
 `"`
-`{p:1:There are only five master keys}.`
-` {p:1:There are only five master keys}."`
+`{p:1:There are only five {ruby:çeviri > master anahtar:master key}s}.`
+` {p:1:There are only five {ruby:çeviri > master anahtar:master key}s}."`
 `"...*cackle*, whatever could be wrong?`
 ` It doesn't reach Rosa's ears no matter how often I say it.`
 ` It seems there must still be someone who denies that I exist, isn't that riiiight?`
@@ -870,7 +870,7 @@
 ` Can you do it?`
 ` You can do it, riiiiiiiight??`
 ` Then I'll appear, sure, I'll say it in red, sure!`
-` I'll tell Rosa that {p:1:there are only five master keys}!!"`
+` I'll tell Rosa that {p:1:there are only five {ruby:çeviri > master anahtar:master key}s}!!"`
 `"Oh, but I understand, there's no way you could throw away your lordly pride.`
 ` But that's alright, that's more than enough, you're starting to waver a bit, aren't youu?"`
 `"For just an instant, you thought maybe it would be alright to lick my shoes, didn't youuu?`

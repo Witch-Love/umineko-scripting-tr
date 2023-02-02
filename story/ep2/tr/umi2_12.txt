@@ -392,7 +392,7 @@
 `"......Rosa‐sama, it seems to be locked."`
 `"There are no other options.`
 ` Please open it."`
-`Genji nodded, and Gohda quickly unlocked the door with the master key.`
+`Genji nodded, and Gohda quickly unlocked the door with the {ruby:çeviri > master anahtar:master key}.`
 `...In the back of my mind, horrible images floated up and disappeared, one after another.`
 `{n}......A {ruby:çeviri > büyü:magic} circle had been drawn on the door to the {ruby:çeviri > kilise:chapel}.`
 `{n}And six corpses had been behind that.`
@@ -484,9 +484,9 @@
 ` She wasn't at school, so it's natural that Jessica‐chan would set the key down here.`
 ` How many keys can open this door?"`
 `"Ju‐...just the one {ruby:çeviri > Leydim:Milady} had..."`
-`"Can't it be opened with your master keys?"`
+`"Can't it be opened with your {ruby:çeviri > master anahtar:master key}s?"`
 `"......They can open it."`
-`"How many master keys are there?`
+`"How many {ruby:çeviri > master anahtar:master key}s are there?`
 ` Do all of the {ruby:çeviri > hizmetkarlar:servants} have one?`
 ` Are there extras?"`
 `"Yes.`
@@ -498,19 +498,19 @@
 ` There are no more."`
 `"...nn?`
 ` Wait a second.`
-` ...In the last game, I thought we said there were extra master keys?"`
+` ...In the last game, I thought we said there were extra {ruby:çeviri > master anahtar:master key}s?"`
 `"Yes.`
 ` Regarding that.`
-` I have noticed that having several master keys whose locations are unknown is quite disadvantageous for me."`
+` I have noticed that having several {ruby:çeviri > master anahtar:master key}s whose locations are unknown is quite disadvantageous for me."`
 `"......Well, yeah.`
-` Since you want to make me believe in {ruby:çeviri > büyü:magic} by using locked rooms, it must be really disadvantageous for you to have master keys unaccounted for."`
+` Since you want to make me believe in {ruby:çeviri > büyü:magic} by using locked rooms, it must be really disadvantageous for you to have {ruby:çeviri > master anahtar:master key}s unaccounted for."`
 `"...In fact, every time a {ruby:çeviri > numara:trick} related to locks showed up,`
-` I was planning to resist by arguing that the {ruby:çeviri > suçlu:culprit} possessed a master key that someone had lost in the past, or a duplicate."`
+` I was planning to resist by arguing that the {ruby:çeviri > suçlu:culprit} possessed a {ruby:çeviri > master anahtar:master key} that someone had lost in the past, or a duplicate."`
 `"Yes, exactly.`
 ` So I've decided to make a move to defeat that.`
 ` ......I'll alter the setup."`
 `"`
-`{p:1:The only master keys are the ones held by the {ruby:çeviri > hizmetkarlar:servants}, one key each}.`
+`{p:1:The only {ruby:çeviri > master anahtar:master key}s are the ones held by the {ruby:çeviri > hizmetkarlar:servants}, one key each}.`
 ` *cackle*cackle*."`
 `"...Messing with me.`
 ` ......More importantly.`
@@ -528,13 +528,13 @@
 `"......Huh, ......huuuh?!`
 ` Wh‐why Kanon‐kun?!"`
 `"This room was locked.`
-` And the only keys that can unlock this room are the master keys that each {ruby:çeviri > hizmetkar:servant} is holding, as well as the key Jessica had."`
+` And the only keys that can unlock this room are the {ruby:çeviri > master anahtar:master key}s that each {ruby:çeviri > hizmetkar:servant} is holding, as well as the key Jessica had."`
 `"......But Jessica‐chan's key was closed up in here.`
-` ...Which means the only keys that could have locked it are the master keys."`
+` ...Which means the only keys that could have locked it are the {ruby:çeviri > master anahtar:master key}s."`
 `"............It is as you say."`
 `"In that case, someone killed Jessica‐chan, then locked the door!`
-` That person was holding a master key.`
-` And there are only five people who were holding master keys!"`
+` That person was holding a {ruby:çeviri > master anahtar:master key}.`
+` And there are only five people who were holding {ruby:çeviri > master anahtar:master key}s!"`
 `"Oh, oh my!!`
 ` It wasn't me, not me!`
 ` Gracious, no, I couldn't do something like that!"`
@@ -604,7 +604,7 @@
 `It was a really unpleasant routine.`
 `"Someone who would be permitted to enter Jessica‐chan's room when she was heartbroken.`
 ` Who would have been given access to her defenseless back.`
-` And that person had a master key.`
+` And that person had a {ruby:çeviri > master anahtar:master key}.`
 ` That only points to one person.`
 ` ......It was impossible for anyone except Kanon‐kun."`
 `"Ple‐......please, wait...!`
@@ -665,8 +665,8 @@
 `They wanted to believe in Kanon‐kun.`
 ` ...But if they did, they would have to suspect the other {ruby:çeviri > hizmetkarlar:servants}.`
 `The simplest {ruby:çeviri > suçlu:culprit} was the mystery guest {f:5:Beatrice}.`
-`{n}......But she was nothing more than a guest, and didn't have a master key.`
-`.........Then if {f:5:Beatrice} was the {ruby:çeviri > suçlu:culprit} without a master key...`
+`{n}......But she was nothing more than a guest, and didn't have a {ruby:çeviri > master anahtar:master key}.`
+`.........Then if {f:5:Beatrice} was the {ruby:çeviri > suçlu:culprit} without a {ruby:çeviri > master anahtar:master key}...`
 `...Do we have to accept the argument that she really is a witch, and locked the door with the power of {ruby:çeviri > büyü:magic}......?`
 `"............That's a filthy argument...`
 ` ......Filthy...... Filthy......"`
@@ -721,7 +721,7 @@
 `"......With that amount of money, you could play around for the rest of your life in any country.`
 ` ...It may be possible that they would massacre us for this reason."`
 `".............................."`
-`"For the simple reason that our guest wasn't holding a master key, for the murder of Jessica‐chan, and this murder alone,`
+`"For the simple reason that our guest wasn't holding a {ruby:çeviri > master anahtar:master key}, for the murder of Jessica‐chan, and this murder alone,`
 ` we removed our 19th person—{f:5:Beatrice}—from suspicion.`
 ` But we can't say that she is unrelated to the crime."`
 `"......After all, it's a vast amount of gold we're talking about.`
@@ -888,7 +888,7 @@
 ` ......Gohda‐san likes to make people happy."`
 `"As if a person like that could kill those who praised his own food as delicious, ...even if money was piled up in front of him!!"`
 `"...Then, who do you think killed Jessica‐chan, Battler‐kun?`
-` Who do you think shut Jessica‐chan up in a room that could only be locked by a master key?"`
+` Who do you think shut Jessica‐chan up in a room that could only be locked by a {ruby:çeviri > master anahtar:master key}?"`
 `"Wait.`
 ` ......Before I argue about that, there's something I want to make clear.`
 ` I don't want to talk about, if so‐and‐so is not the {ruby:çeviri > suçlu:culprit}, then so‐and‐so is the {ruby:çeviri > suçlu:culprit}.`
@@ -899,9 +899,9 @@
 ` ...It's something I came dangerously close to overlooking.`
 ` ......Beato!"`
 `"Repetition requested!!`
-` Say it if you can: "Kanon‐kun was holding a master key"!!"`
+` Say it if you can: "Kanon‐kun was holding a {ruby:çeviri > master anahtar:master key}"!!"`
 `"...........................Hoh...!"`
-`"......Kanon‐kun wasn't holding a master key?!`
+`"......Kanon‐kun wasn't holding a {ruby:çeviri > master anahtar:master key}?!`
 ` How can you tell that?!"`
 `"I heard what Gohda‐san said before.`
 ` Just before he split up with Kanon‐kun.`
@@ -917,10 +917,10 @@
 `"......That's right.`
 ` When Jessica unlocked the VIP room,`
 ` she borrowed the key from Kanon‐kun, {i:but didn't give it back}!`
-` So Kanon‐kun wasn't holding a master key!!"`
+` So Kanon‐kun wasn't holding a {ruby:çeviri > master anahtar:master key}!!"`
 `"*cackle*cackle*!`
 ` Or was he?"`
-`"Certainly, Gohda has no recollection of the master key being returned to Kanon.`
+`"Certainly, Gohda has no recollection of the {ruby:çeviri > master anahtar:master key} being returned to Kanon.`
 ` However, she might have returned it when Gohda wasn't looking!`
 ` How can you prove that it definitely didn't happen?!"`
 `"*cackle*cackle*cackle*, if you could just search the pocket of Kanon's corpse, you could probably establish that, but you can't!!`
@@ -931,7 +931,7 @@
 ` So, you're saying that Kanon‐kun wasn't holding a key?!"`
 `"Yeah.`
 ` And to prove it, all you have to do is search Jessica.`
-` ......Kanon‐kun's master key should be in Jessica's pocket.`
+` ......Kanon‐kun's {ruby:çeviri > master anahtar:master key} should be in Jessica's pocket.`
 ` Doctor Nanjo, would you check for us?"`
 `"Ye‐......yes."`
 `Nanjo dashed up to Jessica, and searched in her jacket pocket......`
@@ -942,10 +942,10 @@
 `"......Here it is!`
 ` Is this it?"`
 `"...............Yes.`
-` That is a master key.`
+` That is a {ruby:çeviri > master anahtar:master key}.`
 ` Without a doubt."`
 `At Genji's statement, there was a small "oooh" of joyful voices.`
-`"That is Kanon‐kun's master key.`
+`"That is Kanon‐kun's {ruby:çeviri > master anahtar:master key}.`
 ` .........I'll say it again."`
 `"‘Kanon‐kun isn't holding a master key’.`
 ` Therefore, there's no way he could have locked the door!!"`
@@ -982,7 +982,7 @@
 `".........Shit.`
 ` Did I just fall for a blatant bait piece...?"`
 `"You wonderfully proved that at least Kanon couldn't lock the door to this room.`
-` The {ruby:çeviri > hizmetkarlar:servants} should all have been holding master keys.`
+` The {ruby:çeviri > hizmetkarlar:servants} should all have been holding {ruby:çeviri > master anahtar:master key}s.`
 ` With that as a basis, Kanon was treated as the {ruby:çeviri > suçlu:culprit}, so you did a wonderful job of at least clearing away that suspicion.`
 ` *cackle*cackle*cackle*."`
 `"......In that case.`
@@ -1000,7 +1000,7 @@
 ` First,`
 ` {p:1:there are absolutely no types of hidden doors}.`
 ` {p:1:This door is the only way in or out}.`
-` {p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each {ruby:çeviri > hizmetkar:servant}}."`
+` {p:1:The only way to lock this door is with Jessica's single key or the {ruby:çeviri > master anahtar:master key}s, only one of which is held by each {ruby:çeviri > hizmetkar:servant}}."`
 `"It is on the second floor, but it is probably possible to enter or leave through the window.`
 ` However,`
 ` {p:1:the window is locked from the inside}."`
@@ -1024,7 +1024,7 @@
 `"Of course you wouldn't.`
 ` ......There's got to be a secret hidden in there somewhere."`
 `" ......Damn, where's the point of contention to this riddle?`
-` .........Is it that they locked it without a master key?`
+` .........Is it that they locked it without a {ruby:çeviri > master anahtar:master key}?`
 ` Or is it how they managed to kill two people who were inside a room with the door locked?`
 ` Or is it how they managed to escape after killing them both?"`
 `"......I hate to say it, but I'll have to tackle this one step at a time.`
@@ -1063,7 +1063,7 @@
 `There are a few questionable points.`
 ` And depending on which I focus on, my line of thought changes a lot.`
 `First, after the {ruby:çeviri > suçlu:culprit} committed murder in this room, how did they lock it?`
-`If we assume that the {ruby:çeviri > suçlu:culprit} was one of those holding a master key, it's extremely simple.`
+`If we assume that the {ruby:çeviri > suçlu:culprit} was one of those holding a {ruby:çeviri > master anahtar:master key}, it's extremely simple.`
 `......But I want to avoid that if I can.`
 `Because I would have to suspect Gohda‐san or Kumasawa‐san—no, in the worst case, even Shannon‐chan and Genji‐san.`
 `At this point, I noticed something.`
@@ -1084,7 +1084,7 @@
 ` In the first place, the only victory condition in our game regarded whether or not you could deny my existence.`
 ` ...Even though that alone was a game that put you at a disadvantage, you've increased the number of victory conditions all by yourself, and made your own victory difficult...!"`
 `......It's just as she says.`
-` ...If I started arguing that someone holding a master key was the {ruby:çeviri > suçlu:culprit}, this locked room could be easily broken.`
+` ...If I started arguing that someone holding a {ruby:çeviri > master anahtar:master key} was the {ruby:çeviri > suçlu:culprit}, this locked room could be easily broken.`
 `......However, since the number of keys that could open this door are limited,`
 ` and furthermore it's clearly known who holds them,`
 ` saying that would mean that I was suspecting someone I knew well...`
@@ -1115,7 +1115,7 @@
 ` That would also be acceptable in that instance.`
 ` By suspecting me as the guest, the 19th person, you won't have to suspect them."`
 `".........But then, what will you do about the lock to Jessica's room?`
-` It's no trouble at all for me to open the lock with {ruby:çeviri > büyü:magic}, but of course, I don't have a master key.`
+` It's no trouble at all for me to open the lock with {ruby:çeviri > büyü:magic}, but of course, I don't have a {ruby:çeviri > master anahtar:master key}.`
 ` If you deny my {ruby:çeviri > büyü:magic}, you also have to deny that I'm a suspect, you realize...?"`
 `"And what that entails is suspecting one of you 18...!!"`
 `"Tha‐......thanks for the lovely explanation.`
@@ -1151,7 +1151,7 @@
 ` I can't think of Kumasawa‐san as the {ruby:çeviri > suçlu:culprit}!!`
 ` But I won't accept you!!`
 ` Ever!!"`
-`"In that case, they would have to enter the room without using {ruby:çeviri > büyü:magic} or a master key,`
+`"In that case, they would have to enter the room without using {ruby:çeviri > büyü:magic} or a {ruby:çeviri > master anahtar:master key},`
 ` kill Jessica and Kanon, and even erase Kanon's corpse without using {ruby:çeviri > büyü:magic}."`
 `"......How could it be done?!`
 ` How could it be done so that you can deny me and not suspect anyone at the same time?!!`

@@ -45,7 +45,7 @@
 ` And if someone must be scolded by Father for opening this door, that will be my responsibility as the highest ranked as well.`
 ` As this is an emergency, I am opening this door.`
 ` You have a key, right? Open it."`
-`"I, ......I believe you know this, but the study door cannot be opened with the master keys."`
+`"I, ......I believe you know this, but the study door cannot be opened with the {ruby:çeviri > master anahtar:master key}s."`
 `"Umm, ......the {ruby:çeviri > Efendi:Master} recently took away Genji‐sama's key as well.`
 ` He has both keys on his person now.`
 ` ......So, umm......"`
@@ -227,10 +227,10 @@
 `"......I wish you'd tell me how my skating prowess is supposed to help me climb ladders...`
 ` ......{p:0:♪}I am Ina Bauer, always in danger...or whatever."`
 `"{c:86EF9C:He never dies}, so he'll be fine.`
-` ......Anyway, we're really lucky that the shutters aren't down.`
-` Isn't it standard practice to lower the shutters to Father's study at night?"`
+` ......Anyway, we're really lucky that the {ruby:çeviri > kepenk:shutter}s aren't down.`
+` Isn't it standard practice to lower the {ruby:çeviri > kepenk:shutter}s to Father's study at night?"`
 `"I‐it is.`
-` When we're permitted to enter, we open the shutters in the morning and close them at night."`
+` When we're permitted to enter, we open the {ruby:çeviri > kepenk:shutter}s in the morning and close them at night."`
 `"......However, the {ruby:çeviri > Efendi:Master} told us that there was no need for the time being, so I think they were left open."`
 `"I see.`
 ` ...............Father will be pretty mad, won't he?`
@@ -1885,7 +1885,7 @@
 ` and became a shower of translucent gems,`
 ` .........no, drops of rain that poured down over the courtyard.`
 `Dlanor sat down in an absent sort of way...`
-`Amidst the thunder and rain, the successor to the Ushiromiya family faced the people staring down from the study...`
+`Amidst the thunder and rain, the {ruby:çeviri > halef:successor} to the Ushiromiya family faced the people staring down from the study...`
 `...and spread his arms wide...`
 `".........Welcome to Beato's and my game.`
 ` We receive you with open arms! Furudo Erika......!"`

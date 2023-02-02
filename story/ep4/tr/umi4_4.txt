@@ -98,17 +98,17 @@
 `"Hoh.........now this is a surprise.`
 ` I did not think you would be able to understand our efforts,`
 ` which even my true siblings have not stopped to consider."`
-`"......It is a natural duty for the successor to the Ushiromiya family head."`
+`"......It is a natural duty for the {ruby:çeviri > halef:successor} to the Ushiromiya family head."`
 `"Yes.`
-` It {i:is} a responsibility of the successor to the head, isn't it?`
-` ......And it's precisely because you take care of Father that we must acknowledge you as the successor."`
+` It {i:is} a responsibility of the {ruby:çeviri > halef:successor} to the head, isn't it?`
+` ......And it's precisely because you take care of Father that we must acknowledge you as the {ruby:çeviri > halef:successor}."`
 `"Excuse me!!`
 ` Am I going to be consulted on this at any point?!!`
 ` You outsider, what gives you the—"`
 `"Wait, Aneki!!`
 ` .........She's right.`
 ` It's just like Kyrie says.`
-` You are the successor, Aniki, because you're taking care of Dad.`
+` You are the {ruby:çeviri > halef:successor}, Aniki, because you're taking care of Dad.`
 ` It's just like you said."`
 `"..................ah—"`
 `"...............nn—"`
@@ -126,7 +126,7 @@
 ` But very well, I will humor you.`
 ` Tell me the conditions."`
 `"First.`
-` ......The term successor to the head refers to the caregiver of the current head, Ushiromiya Kinzo."`
+` ......The term {ruby:çeviri > halef:successor} to the head refers to the caregiver of the current head, Ushiromiya Kinzo."`
 `".........Mhmm.`
 ` Go on?"`
 `"Second.`
@@ -145,8 +145,8 @@
 ` ......just what exactly are they?"`
 `"It means supervising so that Father can live in good health until the end of his natural lifespan.`
 ` ......I'll go into more detail.`
-` In the case that Father dies anything other than a natural death, the caregiver will be stripped of his rights as a caregiver, and will lose his rights as successor to the head.`
-` In that situation, the next highest ranked, Eva nee‐san, is to be selected as the successor."`
+` In the case that Father dies anything other than a natural death, the caregiver will be stripped of his rights as a caregiver, and will lose his rights as {ruby:çeviri > halef:successor} to the head.`
+` In that situation, the next highest ranked, Eva nee‐san, is to be selected as the {ruby:çeviri > halef:successor}."`
 `".........What...did you say......`
 ` H‐how dare you speak such nonsense!!"`
 `"Hohoh.`
@@ -416,11 +416,11 @@
 `"..........................."`
 `It's starting to get confusing, ...but it's more or less something like this.`
 `Let's take one of the repetition requests I made during a past mystery as an example.`
-`{n}"The number of master keys is five".`
-`It had been claimed that there were only five master keys, so I made this request to confirm that the number really was five.`
+`{n}"The number of {ruby:çeviri > master anahtar:master key}s is five".`
+`It had been claimed that there were only five {ruby:çeviri > master anahtar:master key}s, so I made this request to confirm that the number really was five.`
 `But since that by itself doesn't deny the witch, I can't say it in blue.`
 ` So, in order to speak in blue, I would need to say something like this.`
-`{i:"The actual number of master keys was greater than five.`
+`{i:"The actual number of {ruby:çeviri > master anahtar:master key}s was greater than five.`
 ` The {ruby:çeviri > suçlu:culprit} used one of those extra keys to get in and out of the room!"}`
 `......And only then would the witch, who claims that it was a locked‐room murder with {ruby:çeviri > büyü:magic}, be responsible for making a counterargument.`
 ` In other words, I can't use it to demand that she repeats things in order to check the premises of my {ruby:çeviri > muhakeme:reasoning}.`
@@ -537,7 +537,7 @@
 ` You are carrying out your natural duties as Father's caregiver.`
 ` Kyrie's conditions shouldn't be anything to worry about, right?`
 ` Why the overreaction?"`
-`"......Are you really that worried about having your position of successor dragged out from under you if Dad dies something other than a natural death?"`
+`"......Are you really that worried about having your position of {ruby:çeviri > halef:successor} dragged out from under you if Dad dies something other than a natural death?"`
 `"Or whaaaat?`
 ` Do you have an idea of some way Father could die other than a natural death...?"`
 `"Of course I don't.`
@@ -740,7 +740,7 @@
 ` ......Fighting is the process you undergo before you achieve victory.`
 ` ......You cannot call it fighting if it ends in a loss."`
 `"Just one word, we call that humiliation!!`
-` Wahha{0}ha{0}ha{0}ha{0}ha{0}hahaha, and {i:this} is my successor?`
+` Wahha{0}ha{0}ha{0}ha{0}ha{0}hahaha, and {i:this} is my {ruby:çeviri > halef:successor}?`
 ` Wahha{0}ha{0}ha{0}ha{0}hahaha, wahhah{0}hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah{0}haaaaaaah!!"`
 `As thunder roared, Kinzo laughed heartily as though there could be nothing more amusing.`
 `And at the end of his laugh, he threw his feckless son away like he was scrap paper,`

@@ -194,7 +194,7 @@
 `"Are you feeling okay now?"`
 `"......It was a really big shock, that's all.`
 ` ......I just feel a bit dizzy now."`
-`"In the world we're in now, you're the successor.`
+`"In the world we're in now, you're the {ruby:çeviri > halef:successor}.`
 ` But if your world had been different, you could have been a {ruby:çeviri > hizmetkar:servant}......or maybe a witch.`
 ` ......You do have a troubled fate."`
 `"Seriously......`
@@ -234,8 +234,8 @@
 ` However, revealing this truth would not be so easy."`
 `"I wonder why it isn't easy?!"`
 `"You dummy, what would happen if Natsuhi found out?!"`
-`"Oh, right, if Lion suddenly appeared, Jessica wouldn't be the successor anymore!"`
-`Strictly speaking, Jessica wasn't the successor to the headship, but since she'd be able to select the successor, it all came to the same thing.`
+`"Oh, right, if Lion suddenly appeared, Jessica wouldn't be the {ruby:çeviri > halef:successor} anymore!"`
+`Strictly speaking, Jessica wasn't the {ruby:çeviri > halef:successor} to the headship, but since she'd be able to select the {ruby:çeviri > halef:successor}, it all came to the same thing.`
 `"It is a tale that becomes less simple the more one learns of it.`
 ` Some would celebrate my birth; others would not.`
 ` ......Genji could only wait in silence for the day of revelation to come."`

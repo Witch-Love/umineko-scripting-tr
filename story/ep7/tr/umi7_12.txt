@@ -206,7 +206,7 @@
 ` There's no way Yasu had enough time to take a jangly key off the ring!`
 ` It was impossible for Yasu!`
 ` In fact, that would have been impossible for anyone, to remove just a single key in that short amount of time without making a sound!!"`
-`"M‐maybe the ring was missing a master key when you got it..."`
+`"M‐maybe the ring was missing a {ruby:çeviri > master anahtar:master key} when you got it..."`
 `"I already told you!!`
 ` The key really was there in the beginning!`
 ` I was the one who unlocked that room!`
@@ -405,7 +405,7 @@
 `Beato controlled my fingers, controlling the {ruby:çeviri > büyü:magic}.`
 ` ......And thereby controlling the keys.`
 `The key ring slumped down on the bed,`
-` .........and then just the {ruby:çeviri > malikane:mansion}'s master key stood on end.`
+` .........and then just the {ruby:çeviri > malikane:mansion}'s {ruby:çeviri > master anahtar:master key} stood on end.`
 `"Well now, what shall I do with this?`
 ` ......Just erasing it would be terribly dull.`
 ` So, ............*cackle*cackle*!`
@@ -491,8 +491,8 @@
 ` Do you want me to lock it?"`
 `"I, I don't get it?`
 ` What's going on?`
-` ......My master key's gone.`
-` Just my master key is gone.`
+` ......My {ruby:çeviri > master anahtar:master key}'s gone.`
+` Just my {ruby:çeviri > master anahtar:master key} is gone.`
 ` Wh‐why...?!`
 ` This ring's so stiff... There's no way it'd come off......!"`
 `I could faintly feel that tingling sensation...`

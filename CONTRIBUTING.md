@@ -72,12 +72,15 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Portrait `->` Portre
    * Reasoning `->` Muhakeme
    * Red Truth `->` Kırmızı Gerçek
+   * Register `->` Nüfus
    * Ritual `->` Ritüel
    * Rose Garden `->` Gül Bahçesi
    * Servant `->` Hizmetkar
    * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
+   * Shutter `->` Kepenk
    * Storehouse `->` Ambar
    * Study `->` Çalışma Odası
+   * Successor `->` Halef
    * Trick `->` Numara
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
    * Voyager `->` Gezgin

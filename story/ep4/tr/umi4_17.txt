@@ -246,10 +246,10 @@
 `{n}I need all the help I can get.`
 `Gohda‐san's a burly man, so I can probably count on him to add some extra brawn.`
 `{n}Kumasawa‐san's knowledge and familiarity with the area as a senior {ruby:çeviri > hizmetkar:servant} might prove to be a huge weapon.`
-`Both of them have master keys, and they know more about the {ruby:çeviri > malikane:mansion} than I do.`
+`Both of them have {ruby:çeviri > master anahtar:master key}s, and they know more about the {ruby:çeviri > malikane:mansion} than I do.`
 ` ......They're pretty reliable allies.`
-`As I banged on the shutter and called out for them to open it, I remembered that there was nothing they could do from the inside.`
-`I would have to get the key back from them and open the shutter myself.`
+`As I banged on the {ruby:çeviri > kepenk:shutter} and called out for them to open it, I remembered that there was nothing they could do from the inside.`
+`I would have to get the key back from them and open the {ruby:çeviri > kepenk:shutter} myself.`
 `I went around to the side, knocked on the small latticed window there, and opened it up.`
 `"Gohda‐san, Kumasawa baa‐chan...!`
 ` It's Battler...!!`
@@ -269,9 +269,9 @@
 ` and because of the way the loops around their necks seemed to carry the full weight of their bodies, I could sense no trace of life from them......`
 `"You've got to be............kidding me......right............?`
 ` ......Why........."`
-`The shutter is still closed.`
+`The {ruby:çeviri > kepenk:shutter} is still closed.`
 `......And there's only a single key, which I'm sure Gohda‐san took possession of.`
-`So how did the {ruby:çeviri > suçlu:culprit}......open the shutter and kill the two of them inside......?`
+`So how did the {ruby:çeviri > suçlu:culprit}......open the {ruby:çeviri > kepenk:shutter} and kill the two of them inside......?`
 `No wait, they weren't necessarily killed...`
 `{n}If this is a suicide......`
 `......That way, this locked room makes sense, but I don't know why the two of them would hang themselves...!!`
@@ -449,21 +449,21 @@
 ` I'm coming up there right now, so you better be prepared!!"`
 `"Aah, no, no, no.`
 ` It's all locked up.`
-` Of course, the shutters are down for all the windows as well.`
+` Of course, the {ruby:çeviri > kepenk:shutter}s are down for all the windows as well.`
 ` My castle isn't so fragile that a single knight like you could break in!"`
 `I tried the front door anyway just in case, ......but, yup, it really was locked.`
-`{n}When I looked around, I noticed that indeed the shutters were closed on the windows.`
+`{n}When I looked around, I noticed that indeed the {ruby:çeviri > kepenk:shutter}s were closed on the windows.`
 `......Normally, they wouldn't be.`
 `"......Tch.`
 ` Looks like you prepare for everything.`
 ` ......Where's the key?!"`
-`Gohda‐san and Kumasawa‐san probably have master keys, but they're in the locked room of the gardening {ruby:çeviri > ambar:storehouse}.`
+`Gohda‐san and Kumasawa‐san probably have {ruby:çeviri > master anahtar:master key}s, but they're in the locked room of the gardening {ruby:çeviri > ambar:storehouse}.`
 `......I can only give up for now...!`
 `"Damn......`
 ` ......Guess she's no fool herself."`
 `"Are you really so dying to be right by my siiiide?`
 ` Alright, if you pass your test with flying colors, why don't I grant you an audience?`
-` If you pass, then you will be the successor, and my new master after Kinzo."`
+` If you pass, then you will be the {ruby:çeviri > halef:successor}, and my new master after Kinzo."`
 `"......My body and soul will be yours to do with as you will.`
 ` Because I am ultimately the Ushiromiya family's {ruby:çeviri > mobilya:furniture}!`
 ` Ah‐hah‐hah‐hah‐hah‐hah!!"`
@@ -534,9 +534,9 @@
 `"Lies, you breast sommelier!`
 ` You prefer a blonde bombshell with a <dynamite body>, don't you?!`
 ` I am precisely the embodiment of your ideal, *cackle*cackle*!"`
-`"If guessing your three sizes is the test to become the successor, I'll take it gladly."`
+`"If guessing your three sizes is the test to become the {ruby:çeviri > halef:successor}, I'll take it gladly."`
 `"Ah, yes.`
-` This was the test to choose the successor.`
+` This was the test to choose the {ruby:çeviri > halef:successor}.`
 ` Chatting with you is so much fun that I've been getting a bit off topic."`
 `"......Then let us begin the headship test.`
 ` I will question you to see whether you are qualified to be the next Ushiromiya family head.`
@@ -571,11 +571,11 @@
 ` This is between me and Dad...!"`
 `"The Ushiromiya name does not belong to you and your father alone.`
 ` You are a child who simply rebelled, unable to forgive the fact that your father was to be stolen away by an unknown woman.`
-` ......Those six years during which you forsook the Ushiromiya register were a significantly long period where you dragged the Ushiromiya name through the mud.`
+` ......Those six years during which you forsook the Ushiromiya {ruby:çeviri > nüfus:register} were a significantly long period where you dragged the Ushiromiya name through the mud.`
 ` Know the depths of your sinfulness."`
 `"..................Well, sorry I'm so childish..."`
 `"However.`
-` Even though it was prompted by the deaths of your grandparents, I do commend you for returning to the Ushiromiya register.`
+` Even though it was prompted by the deaths of your grandparents, I do commend you for returning to the Ushiromiya {ruby:çeviri > nüfus:register}.`
 ` Accordingly, I shall give you a chance to purify yourself of that sin.`
 ` Now is the time to atone for your sin of six years ago."`
 `"Come, try to remember, remember your own sin.`
@@ -609,7 +609,7 @@
 ` Mom was so devoted to our family, and did the very best she could...!"`
 `"But Dad was cheating with Kyrie‐san.`
 ` He even got her pregnant with Ange...!`
-` And then the moment she was born, he rushed them both into his register."`
+` And then the moment she was born, he rushed them both into his {ruby:çeviri > nüfus:register}."`
 `"......What is that if not a betrayal of Mom?!`
 ` Who's gonna set things...`
 `right...`
@@ -646,7 +646,7 @@
 ` ......while I couldn't bring myself to say "I forgive you",`
 ` .........I thought it might be alright to start over again from zero.`
 ` So I decided to wind everything back to how it was six years ago.`
-` .........And I returned to the Ushiromiya family register...!!`
+` .........And I returned to the Ushiromiya family {ruby:çeviri > nüfus:register}...!!`
 ` I'd cried, raged, and stressed over it for a whole six years!"`
 `"It might have been the same for Dad, and maybe even for my dead mom.`
 ` Maybe Kyrie‐san and Ange too.`
@@ -760,7 +760,7 @@
 `"......Oh, ......come the fuck on!!`
 ` {i:I'm} the cause?!`
 ` Then what?!`
-` Are you saying thirteen people died because {i:I} abandoned the Ushiromiya register six years ago?!`
+` Are you saying thirteen people died because {i:I} abandoned the Ushiromiya {ruby:çeviri > nüfus:register} six years ago?!`
 ` Are you saying thirteen people died because {i:I} came back to the Ushiromiya family after six years?!"`
 `"Give me a fucking break!!!`
 ` For these six years, I've been the man furthest from the Ushiromiya family!`
@@ -1212,7 +1212,7 @@
 `"Sure, I'll repeat it.`
 ` {p:1:Ushiromiya Battler's mother is Ushiromiya Asumu}.`
 ` ......The red sure is convenient.`
-` No need to bother myself with bringing a copy of the family register."`
+` No need to bother myself with bringing a copy of the family {ruby:çeviri > nüfus:register}."`
 `"I do not require chatter.`
 ` I will continue.`
 ` "Your name is Ushiromiya Battler"."`

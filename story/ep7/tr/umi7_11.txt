@@ -37,9 +37,9 @@
 `"......It's a witch pulling pranks on me.`
 ` I mean, I know I put it right there, and all I did was glance around a bit, ...and it disappeared..."`
 `The witch pranked me again.`
-`I left my master key behind,`
+`I left my {ruby:çeviri > master anahtar:master key} behind,`
 ` Madam found out, and I got in a lot of trouble.`
-`......Why, when I always put my master key back in my pocket after I use it...`
+`......Why, when I always put my {ruby:çeviri > master anahtar:master key} back in my pocket after I use it...`
 ` ......Why was it in a place like that......?`
 `And this is the third time it's happened.`
 `The first two times, I realized that it wasn't in my pocket, and managed to find it before anyone found out.`
@@ -100,7 +100,7 @@
 ` He's sitting there all alone, crying and asking you to put him in his home in your pocket."`
 `{i:*sob*sob*}......`
 ` {i:I'm lonely.}`
-`The voice of the lonely master key finally reached my ears.`
+`The voice of the lonely {ruby:çeviri > master anahtar:master key} finally reached my ears.`
 `I hurried to pick it up,`
 ` took the other end of the string and tied it to my pocket button, and put the key in my pocket.`
 `"See, "{i:I'm ho~me}".`
@@ -108,15 +108,15 @@
 ` If you keep making little friends like this, even {f:5:Beatrice}‐sama won't be able to prank you much longer..."`
 `Jangle, thud.`
 `When break time was over and I stood up to see what I should help with next,`
-` I felt a tug, and the key ring with the master key fell to the floor.`
-`......Once again, I had left the master key on the side of the sofa...`
+` I felt a tug, and the key ring with the {ruby:çeviri > master anahtar:master key} fell to the floor.`
+`......Once again, I had left the {ruby:çeviri > master anahtar:master key} on the side of the sofa...`
 `and forgotten it was there.`
 `The instant I stood up, the string pulled on it and it fell to the floor.`
 `Without Kumasawa‐san's spiderweb charm,`
-` I would probably have left that master key lying here again.`
-`The master key left all alone would have been led away by the witch and disappeared...`
+` I would probably have left that {ruby:çeviri > master anahtar:master key} lying here again.`
+`The {ruby:çeviri > master anahtar:master key} left all alone would have been led away by the witch and disappeared...`
 `Whew, that was close...`
-`And, once again, I heard the master key, who had almost been left alone, cry and tell me that it wanted to go home...`
+`And, once again, I heard the {ruby:çeviri > master anahtar:master key}, who had almost been left alone, cry and tell me that it wanted to go home...`
 `".........I'm sorry.`
 ` Come on, let's go back home to my pocket..."`
 `{i:Yay, I'm home!}`
@@ -152,7 +152,7 @@
 `I really don't like it, but she does have a point.`
 `Because of all the trouble {f:5:Beatrice} caused me, I told Kumasawa‐san and learned the charm from her.`
 `Even without the witch's pranking,`
-` ......if I didn't have the charm, I would have gone to my next job and left the master key here.`
+` ......if I didn't have the charm, I would have gone to my next job and left the {ruby:çeviri > master anahtar:master key} here.`
 `If that happened, ......then surely, I wouldn't have been able to find the key, and it would've been a big mess.`
 `"This is what they call punishment to teach someone a lesson.`
 ` By magnifying your mistakes, I've shown you what they are, as a friend.`
@@ -254,8 +254,8 @@
 `"......I wish that were the case.`
 ` When I looked around, I found this.`
 ` Whose is it?"`
-`Genji took a master key ring out of his pocket.`
-`{n}......Apparently, someone had dropped their master key.`
+`Genji took a {ruby:çeviri > master anahtar:master key} ring out of his pocket.`
+`{n}......Apparently, someone had dropped their {ruby:çeviri > master anahtar:master key}.`
 `All of the {ruby:çeviri > hizmetkarlar:servants} swung around to look at me, the usual offender.`
 `"Come on. Yasu again?"`
 `"Y‐you shouldn't be so quick to judge."`

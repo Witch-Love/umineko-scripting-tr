@@ -171,7 +171,7 @@
 `".........Di‐...did you check inside the {ruby:çeviri > kilise:chapel}?"`
 `"No, not yet.`
 ` We did try to check inside, but..."`
-`"......Actually, the lock to the {ruby:çeviri > kilise:chapel} is special, so the master key does not work.`
+`"......Actually, the lock to the {ruby:çeviri > kilise:chapel} is special, so the {ruby:çeviri > master anahtar:master key} does not work.`
 ` There is a single key which can open it, ......but that key is missing from the key box."`
 `She didn't want to get any closer to the door with the creepy {ruby:çeviri > büyü:magic} circle if she could help it.`
 `Rosa readied herself and approached, and tried pushing and pulling the knob.`

@@ -39,7 +39,7 @@
 ` ...From what I could tell by looking at it, I'm positive that it couldn't be opened from the outside.`
 ` ......In other words, that means it was a perfect locked room."`
 `".........Yes, it does.`
-` In the case of the {ruby:çeviri > gül bahçesi:rose garden} {ruby:çeviri > ambar:storehouse}, they might have sneaked the shutter's key out of the {ruby:çeviri > hizmetkar:servant} room,`
+` In the case of the {ruby:çeviri > gül bahçesi:rose garden} {ruby:çeviri > ambar:storehouse}, they might have sneaked the {ruby:çeviri > kepenk:shutter}'s key out of the {ruby:çeviri > hizmetkar:servant} room,`
 ` or maybe they had a duplicate key... I can imagine many ways they could've done it."`
 `".........But this chain is different.`
 ` Among generally used locking techniques, a chain is the simplest one to create a locked room with."`
@@ -58,7 +58,7 @@
 `......This time it really was, without exaggeration, a true locked room.`
 `...That's right.`
 ` If you include Grandfather's disappearance, three incidents have occurred, and all three times, the door has been the point of interest.`
-`The first was the shutter.`
+`The first was the {ruby:çeviri > kepenk:shutter}.`
 `There was a key in the {ruby:çeviri > hizmetkar:servant} room, and if we assume someone knew about that, this can't really be called a locked room.`
 `The next was the door sealed by the receipt.`
 `However, since Aunt Natsuhi had entered the room,`
@@ -450,7 +450,7 @@
 ` ...There's probably no doubting this...`
 `However, according to Genji‐san, the {ruby:çeviri > kazan dairesi:boiler room} is usually locked.`
 `......The probability that someone outside our group was lurking around committing the crimes was now overwhelmingly high,`
-` and there was also a good chance that this person was walking around with something like a master key.`
+` and there was also a good chance that this person was walking around with something like a {ruby:çeviri > master anahtar:master key}.`
 `...After all, the doors and windows throughout the {ruby:çeviri > malikane:mansion} had been checked.`
 `But despite that, the {ruby:çeviri > suçlu:culprit} was freely strutting around the {ruby:çeviri > malikane:mansion}.`
 `After this latest crime, can we now be sure that a 19th person exists?`

@@ -2,7 +2,7 @@
 `By any measure, their return was too late.`
 `{n}...And Krauss and Natsuhi, who were waiting by the entrance, were by now about as restless as they could stand.`
 `The chain was set on the door.`
-` That was a precaution in the event that Rudolf's group was attacked, and the master key was stolen from them.`
+` That was a precaution in the event that Rudolf's group was attacked, and the {ruby:çeviri > master anahtar:master key} was stolen from them.`
 `For that reason, they needed to wait by the entrance like this for the others to return...`
 `"......They really are taking too long.`
 ` You don't think something happened to them...?"`
@@ -258,7 +258,7 @@
 ` We talked of so many dreams, the hundred years of our human lives would never have been enough to make them all come true."`
 `"......Of those dreams,`
 ` not even the very first one,`
-` ............having her move into my family register... We couldn't even have that...`
+` ............having her move into my family {ruby:çeviri > nüfus:register}... We couldn't even have that...`
 `......so how could I possibly...`
 `.........not be sad.........?"`
 `"Compared to that, I, ......I...!!`
@@ -423,10 +423,10 @@
 `...Looking at that expression, Battler strongly believed that her face could tell no lies...`
 `The seven survivors returned to the {ruby:çeviri > konukevi:guesthouse} once again.`
 `{n}By now, it was clear that those who went outside would not be able to return alive.`
-`Rudolf's group had gone out holding two guns and one master key.`
+`Rudolf's group had gone out holding two guns and one {ruby:çeviri > master anahtar:master key}.`
 ` But those had been lost.`
 `It was more than clear by now that they had been stolen by the {ruby:çeviri > suçlu:culprit}.`
-`Since the windows were closed with the shutters, they wouldn't open even if the {ruby:çeviri > suçlu:culprit} had the master key.`
+`Since the windows were closed with the {ruby:çeviri > kepenk:shutter}s, they wouldn't open even if the {ruby:çeviri > suçlu:culprit} had the {ruby:çeviri > master anahtar:master key}.`
 `They sealed the front door and all other doors to the outside with chains,`
 ` and further blocked them with sofas and tables.`
 `Even if the {ruby:çeviri > suçlu:culprit} decided to break in through violent means, it wouldn't be easy for them.`
@@ -447,7 +447,7 @@
 `By this point, the first floor was a final line of defense made by Krauss, Natsuhi, and Eva.`
 `{n}The children and the guest, Nanjo, had been strongly warned not to carelessly come downstairs.`
 `If the {ruby:çeviri > suçlu:culprit} used a ladder or something, it probably wouldn't be impossible for them to attack from upstairs.`
-`But it wouldn't be easy for them to break those sturdy shutters from such an unstable position.`
+`But it wouldn't be easy for them to break those sturdy {ruby:çeviri > kepenk:shutter}s from such an unstable position.`
 ` It was comparatively safer upstairs compared to downstairs.`
 `Battler and George had hoped to remain downstairs as well, to fight in the worst case scenario, but Eva had rejected that.`
 `In her mind, George was now her only family.`
@@ -755,10 +755,10 @@
 ` ......Well then, we just need to go to the {ruby:çeviri > malikane:mansion} without going downstairs, right?`
 ` It's simple."`
 `Beato laughed, as though she had thought of a pleasant prank.`
-`......And with her golden pipe, she lightly tapped a window with its shutter closed.`
+`......And with her golden pipe, she lightly tapped a window with its {ruby:çeviri > kepenk:shutter} closed.`
 `When she did, three gold butterflies appeared from the pipe and opened the lock on the window as though melting it.`
 `Then the window opened without a sound.`
-`The shutter beyond it was exactly the same.`
+`The {ruby:çeviri > kepenk:shutter} beyond it was exactly the same.`
 `{n}The clasp unset itself, also without making a sound, and it quietly opened.`
 `The window opened, exposing the wind and rain outside the {ruby:çeviri > malikane:mansion}.`
 ` ...Perhaps because of the direction or something related to the construction of the building, the wind did not blow inside.`

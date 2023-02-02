@@ -444,10 +444,10 @@
 `"Shouldn't marriage meetings be done at a more mature age...?!`
 ` I still don't feel like I've become an adult..."`
 `"We don't intend on rushing you into an immediate engagement or marriage—of course not.`
-` It isn't a problem if you deepen your friendship first, and then have her moved to our family register later when you settle down as you age."`
+` It isn't a problem if you deepen your friendship first, and then have her moved to our family {ruby:çeviri > nüfus:register} later when you settle down as you age."`
 `From the forceful impression Eva was giving, and George's evasiveness, it seemed you could catch a glimpse of how this marriage meeting linked into everything.`
 `Who this other person was remained unclear, but it was surely someone profitable to Eva's family in a business sense.`
-`It felt almost like a political strategy; they wanted to create a connection between the two families, if not by changing registers, then at least by having them get engaged.`
+`It felt almost like a political strategy; they wanted to create a connection between the two families, if not by changing {ruby:çeviri > nüfus:register}s, then at least by having them get engaged.`
 `"Marriage isn't something you do after you start liking someone.`
 ` It's something you get used to after you do it.`
 ` If you marry just based on emotions, you'll definitely regret it.`
@@ -471,7 +471,7 @@
 `"......Tha‐that may be true, but..."`
 `"You are my pride and joy—my only son.`
 ` You have grown into a fine man who could match up to anyone.`
-` ...And with Battler‐kun leaving the register, you are the only grandson to carry Father's blood.`
+` ...And with Battler‐kun leaving the {ruby:çeviri > nüfus:register}, you are the only grandson to carry Father's blood.`
 ` ......We must prudently choose a fitting partner for you."`
 `As everyone related to the Ushiromiya family knew, Eva adored George so much that he was the apple of her eye.`
 `But that didn't mean she had pampered him.`

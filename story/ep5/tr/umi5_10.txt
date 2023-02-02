@@ -14,8 +14,8 @@
 `However, there was absolutely no sign that my annoyed voice had caused anyone to turn over in their sleep,`
 ` much less crawl out of bed to stop the alarm.`
 `Letting out a deep sigh, I flung the covers off me and got up.`
-`With the shutters down on the windows, there was almost no light getting in, and the room was as dim as it had been earlier.`
-`Though even if the shutters hadn't been down,`
+`With the {ruby:çeviri > kepenk:shutter}s down on the windows, there was almost no light getting in, and the room was as dim as it had been earlier.`
+`Though even if the {ruby:çeviri > kepenk:shutter}s hadn't been down,`
 ` there's no way that this dull weather would have let in enough sun to make this a pleasant morning.`
 `My cousins were still wrapped up in their beds, sound asleep and taking no notice whatsoever of that beeping.`
 `Normally, once any one person gets up, the others tend to automatically follow...`
@@ -37,7 +37,7 @@
 `{n}......Now isn't a bad time to start getting up and getting dressed.`
 `The adults probably won't argue in front of us cousins.`
 `......In that case, I think I'll stay with my cousins all day long.`
-`I'm sure they'll be able to keep me away from all that annoying talk about the gold and being the successor and all......`
+`I'm sure they'll be able to keep me away from all that annoying talk about the gold and being the {ruby:çeviri > halef:successor} and all......`
 `In fact, I should have done that in the first place...`
 `I slept with my clothes on last night, too, so I'm drenched in sweat... Gross.`
 `......I guess I'll take a shower.`
@@ -688,10 +688,10 @@
 `"O‐on Madam's orders,`
 ` all private spaces in this house are kept locked."`
 `"How many keys can unlock Uncle Krauss's room?"`
-`"In addition to the one key Krauss‐sama held, there are the master keys..."`
+`"In addition to the one key Krauss‐sama held, there are the {ruby:çeviri > master anahtar:master key}s..."`
 `"Oh, don't bother with the lock and key nonsense, it's completely pointless.`
 ` ......Have you forgotten that Genji‐san has already turned up dead?`
-` His master key is missing.`
+` His {ruby:çeviri > master anahtar:master key} is missing.`
 ` Which means that all of the locks in this {ruby:çeviri > malikane:mansion} are now meaningless."`
 `".........How dull.`
 ` In short, there are no locked‐room murders inside this {ruby:çeviri > malikane:mansion} and there never will be.`
@@ -756,7 +756,7 @@
 ` ......what the hell...`
 `...is going on here......?"`
 `".........This room was locked tight when we left.`
-` We can now be certain that the {ruby:çeviri > suçlu:culprit} has a master key.`
+` We can now be certain that the {ruby:çeviri > suçlu:culprit} has a {ruby:çeviri > master anahtar:master key}.`
 ` Once again, my {ruby:çeviri > muhakeme:reasoning} was correct."`
 `"Who cares about that...?!`
 ` Where did they go...?`

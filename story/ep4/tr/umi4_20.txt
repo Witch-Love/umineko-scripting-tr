@@ -23,7 +23,7 @@
 `{n}And I'm sure that nothing will continue to happen as well.`
 `.........A full twenty‐four hours ago...`
 `{n}...I was called to the front of the {ruby:çeviri > malikane:mansion} by {f:5:Beatrice}.`
-`There, I was given some kind of weird test to do with determining the successor to the head or something.`
+`There, I was given some kind of weird test to do with determining the {ruby:çeviri > halef:successor} to the head or something.`
 `I gave a serious answer in my own way, but unfortunately, we just didn't seem to be {i:getting} each other.`
 `{f:5:Beatrice} got bent out of shape for no reason and stopped talking to me.`
 `I yelled at her to say something, but she wouldn't say a word.`
@@ -43,7 +43,7 @@
 `I thought this might be a message to open the door to the {ruby:çeviri > kilise:chapel}, but after trying all of the keys, I found that none of them fit.`
 `I also called Maria's name, but there was no answer whatsoever.`
 `{n}I searched around the {ruby:çeviri > kilise:chapel}, but there was a limit to what I could do in the pitch black with just a flashlight.`
-`I realized that this key bundle might be a set of master keys, which could possibly open the door to the {ruby:çeviri > malikane:mansion}.`
+`I realized that this key bundle might be a set of {ruby:çeviri > master anahtar:master key}s, which could possibly open the door to the {ruby:çeviri > malikane:mansion}.`
 `Finding no sign of Maria, I returned to the {ruby:çeviri > malikane:mansion}.`
 `The {ruby:çeviri > malikane:mansion} was wrapped in silence.`
 ` And in a horrible stench.`
@@ -141,7 +141,7 @@
 `He was called out to the arbor in the {ruby:çeviri > gül bahçesi:rose garden}, ......and shot in the forehead, probably with a gun.`
 `As for Jessica, she was called to her own room on the second floor of the {ruby:çeviri > malikane:mansion}.`
 `I found the door to her room locked.`
-`{n}But that wasn't a problem at all since I had the master keys.`
+`{n}But that wasn't a problem at all since I had the {ruby:çeviri > master anahtar:master key}s.`
 `And the inside of the room.........was horrible.`
 `...But the corpse was nothing I hadn't already familiarized myself with in the {ruby:çeviri > yemek salonu:dining hall}, ......so I'd built up a bit of an immunity.`
 `The phone receiver was dangling off the hook.`
@@ -164,7 +164,7 @@
 `.........No, that can't be right.`
 `{n}After all, this room was locked.`
 `......No, like hell that counts for anything.`
-`......If the {ruby:çeviri > suçlu:culprit} had stolen a master key from one of the victims, the fact that it was locked is meaningless.`
+`......If the {ruby:çeviri > suçlu:culprit} had stolen a {ruby:çeviri > master anahtar:master key} from one of the victims, the fact that it was locked is meaningless.`
 `But there are no external wounds other than her head.`
 `.........In which case, should I assume the fatal wound she was prepared to die from and the actual wound that destroyed her head were two different events,`
 ` both of them made to the same part of the body......?`
@@ -314,11 +314,11 @@
 ` I'll search for a tool...!"`
 `I had an idea of where to get one.`
 ` ......Because I'd seen the various tools in the gardening shed when we locked Gohda‐san and Kumasawa‐san in there.`
-`But the shutter to the gardening shed was locked.`
+`But the {ruby:çeviri > kepenk:shutter} to the gardening shed was locked.`
 `{n}On top of that, the key was with Gohda‐san, who was inside, dead.`
 `......In other words, this gardening {ruby:çeviri > ambar:storehouse} was a locked room.`
 `{n}There was no way to open it from the outside.`
-`In that case, I would have to break the shutter.`
+`In that case, I would have to break the {ruby:çeviri > kepenk:shutter}.`
 `{n}I wonder if there's a tool for that somewhere...`
 `......It kind of felt like I was going in circles.`
 `Then, while searching for that, I learned that the source of the stench that had been permeating the {ruby:çeviri > malikane:mansion} this whole time was the underground {ruby:çeviri > kazan dairesi:boiler room}.`
@@ -342,10 +342,10 @@
 `Grandfather was used because he was convenient, and was then thrown away at the end?`
 `.........Unfortunately, it didn't look like I'd be given a chance to hear Grandfather's explanation...`
 `Now that I had obtained a tool, I thought about immediately taking on the cover to the well,`
-` but I decided to break the shutter to the gardening shed first.`
+` but I decided to break the {ruby:çeviri > kepenk:shutter} to the gardening shed first.`
 `......I had plenty of time to kill anyway.`
 ` I thought I should check on the condition of Gohda‐san and Kumasawa‐san's corpses.`
-`I hit the shutter with the hatchet, breaking into it,`
+`I hit the {ruby:çeviri > kepenk:shutter} with the hatchet, breaking into it,`
 ` stuck the bolt cutter into the crack,`
 ` and scissored it around, opening up a hole.`
 `Then, I came face to face with Gohda‐san and Kumasawa‐san's corpses once more......`
@@ -370,7 +370,7 @@
 `To make the deaths of these two known to the rest of us who couldn't get inside,`
 ` they had to hang them like this so we could tell from the outside.`
 `.........Was this......to get back at us for thinking that the two of them would surely be safe if we left the key with them......?`
-`I wonder where the shutter key we gave Gohda‐san, which should have ensured their safety, is now...`
+`I wonder where the {ruby:çeviri > kepenk:shutter} key we gave Gohda‐san, which should have ensured their safety, is now...`
 `That key.........was in his trouser pocket.`
 `{n}The gardening shed key had been kindly left there, and even the tag was still attached.`
 `In other words, the gardening {ruby:çeviri > ambar:storehouse} was a locked room after all.`
@@ -380,9 +380,9 @@
 `......It might have been possible to shoot them through the window, but I really can't imagine that someone could have tied two ropes to the beam from the outside.`
 `And on top of that, they would have had to lift up the heavy corpses—there's just no way.`
 ` In other words, to do all of this, they would have had to go inside.`
-`But the key was in Gohda‐san's pocket, and the shutter was still locked.`
+`But the key was in Gohda‐san's pocket, and the {ruby:çeviri > kepenk:shutter} was still locked.`
 `In other words, the gardening {ruby:çeviri > ambar:storehouse} was a locked room.`
-`Gohda‐san had said that there was only one key for this shutter.`
+`Gohda‐san had said that there was only one key for this {ruby:çeviri > kepenk:shutter}.`
 `......But is it possible that there was a copy,`
 ` ......and that the {ruby:çeviri > suçlu:culprit} was in possession of it......?`
 `If we're allowed to theorize that there were actually multiple gardening {ruby:çeviri > ambar:storehouse} keys, and that Gohda‐san just didn't know about them,`
@@ -604,9 +604,9 @@
 `The blue wedge piercing Beato shook.`
 `{n}She was resisting, fighting to push it out.`
 `"No, that doesn't shake my {ruby:çeviri > mavi gerçek:blue truth}.`
-` If {ruby:çeviri > suçlu:culprit} X was in possession of a master key, that's not even close to a locked room."`
+` If {ruby:çeviri > suçlu:culprit} X was in possession of a {ruby:çeviri > master anahtar:master key}, that's not even close to a locked room."`
 `"No, it was impossible for the {ruby:çeviri > suçlu:culprit} to obtain one.`
-` {p:1:All of the master keys were under Rosa's control}!"`
+` {p:1:All of the {ruby:çeviri > master anahtar:master key}s were under Rosa's control}!"`
 `"But that's meaningless if Aunt Rosa was an accomplice to the {ruby:çeviri > suçlu:culprit}!`
 ` {p:2:Aunt Rosa handed a key over to {ruby:çeviri > suçlu:culprit} X by some method, assisting in the locked‐room murder}!`
 ` {p:2:And after that, she retrieved the key by a similar method}!"`
@@ -690,7 +690,7 @@
 ` {p:1:No person would mistake Ushiromiya Kinzo by sight}.`
 ` {p:1:No matter what the disguise, they would not mistake Ushiromiya Kinzo by sight}!"`
 `"Then how about this.`
-` {p:2:By declaring with the {ruby:çeviri > kırmızı gerçek:red truth} in the second game that the number of master keys was five, when in the first game the number was more than five,`
+` {p:2:By declaring with the {ruby:çeviri > kırmızı gerçek:red truth} in the second game that the number of {ruby:çeviri > master anahtar:master key}s was five, when in the first game the number was more than five,`
 ` you changed the premises of the later games}."`
 `"{p:2:In the same way, there is a possibility that Kinzo's life or death status was changed for the fourth game}."`
 `"{p:2:Therefore, Kinzo's existence in the fourth game does not serve as proof that he existed in the previous games}...!`
@@ -1184,7 +1184,7 @@
 ` Your wild arguments are my pleasure!!!"`
 `"And the next, the locked room with Jessica and Kanon?!"`
 `"No problems there!`
-` {p:2:If the {ruby:çeviri > suçlu:culprit} was one of the {ruby:çeviri > hizmetkarlar:servants}, they could have used a master key}.`
+` {p:2:If the {ruby:çeviri > suçlu:culprit} was one of the {ruby:çeviri > hizmetkarlar:servants}, they could have used a {ruby:çeviri > master anahtar:master key}}.`
 ` {p:2:It's not even a locked room}!"`
 `"After that, there was an attack in the {ruby:çeviri > hizmetkar:servant} room from a mystery person who seemed to be Kanon, and Nanjo and Kumasawa were killed, right?!`
 ` I had already declared Kanon's death in red before that time.`
@@ -1250,7 +1250,7 @@
 `"There's no problem!`
 ` {p:2:There are plenty of people who could have committed the crime besides Gramps}!`
 ` {p:2:You could even claim that the adults who were in the middle of a family {ruby:çeviri > konferans:conference} at the time were all in on it and committed the crime together}!"`
-`"{p:1:All five master keys were discovered, each in the pocket of one of the {ruby:çeviri > hizmetkarlar:servants}}!`
+`"{p:1:All five {ruby:çeviri > master anahtar:master key}s were discovered, each in the pocket of one of the {ruby:çeviri > hizmetkarlar:servants}}!`
 ` {p:1:The individual room keys were found inside envelopes alongside the corpses}!"`
 `"{p:1:In short, all keys related to the linked locked rooms were locked {i:inside} the linked locked rooms}!!`
 ` {p:1:No key could have been returned from outside the room using a crack in a door, a crack in a window, a vent or any place of the sort}!!"`

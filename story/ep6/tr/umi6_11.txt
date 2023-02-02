@@ -52,7 +52,7 @@
 `"You are a very wise person, Rosa‐sama.`
 ` ......You wouldn't have become a co‐signer...`
 `without thinking carefully about the consequences."`
-`"...............I hadn't yet moved to his family register,`
+`"...............I hadn't yet moved to his family {ruby:çeviri > nüfus:register},`
 ` but I thought of the man I would soon marry as my partner.`
 ` If he couldn't borrow the money without my name, I figured that helping him out was my responsibility as his future wife."`
 `"......And did that future ever come?"`
@@ -746,7 +746,7 @@
 `"That is as it should be, child of man.`
 ` ......Perhaps, as the last surviving member of the Ushiromiya family,`
 ` it was fated that you would find the truth and become an Endless Witch.`
-` ......I exist only as a guidepost to awaken you as the true successor.`
+` ......I exist only as a guidepost to awaken you as the true {ruby:çeviri > halef:successor}.`
 ` ......{f:5:Ange Beatrice}."`
 `Sometimes, I have no idea what she's saying......`
 `{n}But I'm positive she knows something.`

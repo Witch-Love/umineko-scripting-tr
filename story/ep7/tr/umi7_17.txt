@@ -24,7 +24,7 @@
 `This {ruby:çeviri > kilise:chapel} was built long ago.`
 `If there is a mechanism like the one I imagine,`
 ` ......Kinzo must have prepared that {ruby:çeviri > kitabe:epitaph} riddle many decades ago.`
-`He must have been planning to use it as a {ruby:çeviri > ritüel:ritual} for choosing a fitting successor all this time.`
+`He must have been planning to use it as a {ruby:çeviri > ritüel:ritual} for choosing a fitting {ruby:çeviri > halef:successor} all this time.`
 `......However, that {ruby:çeviri > ritüel:ritual} is now a {ruby:çeviri > ritüel:ritual} to open the door to the {ruby:çeviri > Altın Diyar:Golden Land} and to my resurrection.`
 `When I snapped my fingers,`
 ` the ground bulged, and several dead trees sprouted out of it, curving and twisting like snakes.`
@@ -565,15 +565,15 @@
 ` What will we do now, Genji‐san?`
 ` ......Kinzo‐san is dead."`
 `"I will tell Krauss‐sama and Madam that he has passed away.`
-` ......Then, we must tell them that Lion‐sama is the official successor to the headship.`
+` ......Then, we must tell them that Lion‐sama is the official {ruby:çeviri > halef:successor} to the headship.`
 ` After all, from this point forth, you are the Ushiromiya family head."`
 `"M‐me as the head? That's......`
-` And isn't Krauss‐sama the successor......?"`
-`"The one who solves the {ruby:çeviri > kitabe:epitaph}'s riddle is the successor.`
+` And isn't Krauss‐sama the {ruby:çeviri > halef:successor}......?"`
+`"The one who solves the {ruby:çeviri > kitabe:epitaph}'s riddle is the {ruby:çeviri > halef:successor}.`
 ` .........There exists a will specifying this.`
 ` .........The {ruby:çeviri > Efendi:Master}'s final order was that you were to inherit everything."`
 `"P‐please wait...!`
-` I appreciate the sentiment, ......but I can't do the job of being the successor,`
+` I appreciate the sentiment, ......but I can't do the job of being the {ruby:çeviri > halef:successor},`
 ` ......and I can't accept such a big responsibility.`
 ` I think it would be better for Krauss‐sama to inherit that role......"`
 `".........Are you certain?"`
@@ -626,8 +626,8 @@
 `"As you wish.`
 ` The mechanism leading to this place and the key both belong to you.`
 ` ......And all of us swear to keep the events of this night a secret.`
-` .........Krauss‐sama will be the successor,`
-` ......but in my heart, you will be the only true successor."`
+` .........Krauss‐sama will be the {ruby:çeviri > halef:successor},`
+` ......but in my heart, you will be the only true {ruby:çeviri > halef:successor}."`
 `"......As you have ordered, we will behave the same way we always have, but please order us whenever it suits you.`
 ` You are my only master."`
 `"..................Th‐.........thank you very much..."`

@@ -132,7 +132,7 @@
 ` There's no need to be concerned for our sakes..."`
 `"Hang out with us for a bit.`
 ` Being surrounded by only adults makes me feel like I'm gonna suffocate."`
-`"Hear that? That's an order from Battler‐sama, successor to the head!`
+`"Hear that? That's an order from Battler‐sama, {ruby:çeviri > halef:successor} to the head!`
 ` Sit over there and have some tea with us.`
 ` And tell us about what's been going on recently, your hobbies, TV shows you're watching, and whatever it is that's popular with young folks these days.`
 ` There's a lot we could learn."`
@@ -281,9 +281,9 @@
 `19 years ago.`
 `......That was just one year before Jessica and Battler were born.`
 `In Natsuhi's eyes, the gap between 19 years ago and 18 years ago was immense.`
-`......For a long time, she was unable to fulfill her role of creating a successor for the Ushiromiya family...and was treated very coldly.`
+`......For a long time, she was unable to fulfill her role of creating a {ruby:çeviri > halef:successor} for the Ushiromiya family...and was treated very coldly.`
 `But then, she finally gave birth to Jessica...`
-`and became able to call herself the wife to the Ushiromiya successor with her head held high.`
+`and became able to call herself the wife to the Ushiromiya {ruby:çeviri > halef:successor} with her head held high.`
 `......So in her eyes, "Ushiromiya Natsuhi" began 18 years ago.`
 `......So everything before that, including 19 years ago......contained nothing but hateful memories.`
 `The last year of that hateful period.........was whispering of revenge...from the other end of the phone......`
@@ -610,7 +610,7 @@
 ` You should hold onto this ring.`
 ` ......This is a special ring to be worn by the family head.`
 ` .........I don't know who this {f:5:Beatrice} is,`
-` but she's watched the whole thing and sent you this ring after acknowledging you as the true successor."`
+` but she's watched the whole thing and sent you this ring after acknowledging you as the true {ruby:çeviri > halef:successor}."`
 `"I‐......is that alright...?`
 ` It's such an important ring......"`
 `"Yeah, it's fine.`
@@ -746,7 +746,7 @@
 `......what was it that old bastard said when we parted company......?`
 `— Tomorrow, there's something important I want to talk about, as a family.`
 ` It's about you.`
-`......I'm sure it's more stuff about being the successor.`
+`......I'm sure it's more stuff about being the {ruby:çeviri > halef:successor}.`
 `{n}...I don't even want to hear about it......`
 `— If I tell you about this,`
 ` ......I'm probably gonna get murdered.`

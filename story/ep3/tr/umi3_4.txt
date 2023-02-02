@@ -166,7 +166,7 @@
 ` That is truly a solid first step.`
 ` Quite a spectacular move, I think."`
 `"Well, even if we do assume that there is a 19th person,`
-` there are still a few {ruby:çeviri > numaralar:tricks} left that I can't get past no matter how many humans I add, like the number of master keys.`
+` there are still a few {ruby:çeviri > numaralar:tricks} left that I can't get past no matter how many humans I add, like the number of {ruby:çeviri > master anahtar:master key}s.`
 ` ...Still, it isn't bad as a first step, for the time being."`
 `"This is your trump card, the important piece known as the 19th person.`
 ` ......You countered my move of asking for evidence by using the "{ruby:çeviri > Şeytan'ın İspatı:Devil's Proof}".`

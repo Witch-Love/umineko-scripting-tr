@@ -79,7 +79,7 @@
 `"Calm down.`
 ` I'm also in this room.`
 ` The chain is set, too.`
-` The shutter's closed on the window, and there's even a gun.`
+` The {ruby:çeviri > kepenk:shutter}'s closed on the window, and there's even a gun.`
 ` This room is just like a fort.`
 ` There's not a thiiing to be afraid of."`
 `Hideyoshi beat his chest, trying to calm her, but Eva's insecure expression didn't change.`
@@ -303,7 +303,7 @@
 ` ......and they were once again confronted with the fact that their loved ones had most definitely been killed...`
 `The tears that they'd thought had died away began to drip down once more, and Battler couldn't think of anything to say to them...`
 `After that, to be extra cautious, all of the adults checked that all of the rooms were safe, and that everything was locked.`
-`They made certain that the shutters on all of the windows were down and locked, and they checked that no one suspicious was hiding anywhere.`
+`They made certain that the {ruby:çeviri > kepenk:shutter}s on all of the windows were down and locked, and they checked that no one suspicious was hiding anywhere.`
 `On top of that, they checked their weapons once again,`
 ` and made sure that each other's hearts were prepared, so that they wouldn't hesitate to fire off a preemptive shot if they saw the shadow of a mysterious person.`
 `Furthermore, the gun Rosa had been holding had been left near the place she had been found.`
@@ -453,7 +453,7 @@
 `"Stop acting like an idiot...!`
 ` Haven't you played witch enough?`
 ` We found the gold.`
-` And we've even been promised the position of successor to the head.`
+` And we've even been promised the position of {ruby:çeviri > halef:successor} to the head.`
 ` We'll probably need to tightrope walk just a bit, but at this point, that's a dream that will definitely come true.`
 ` ......Beyond that, what more could you wish for...?!"`
 `"I wanted to become a witch."`

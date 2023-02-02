@@ -330,12 +330,12 @@
 `"What about her parents?`
 ` Relationships between the two families?`
 ` You're not some stray alley cat! You are Ushiromiya George!!`
-` How could you be so rash now, when you might even be selected as Grandfather's successor?!!`
+` How could you be so rash now, when you might even be selected as Grandfather's {ruby:çeviri > halef:successor}?!!`
 ` Why didn't you consult me...?!!"`
 `"I'm consulting you right now.`
 ` No, not consulting, I suppose.`
 ` I'm just informing you.`
-` ......I've never pinned my hopes on being selected as Grandfather's successor.`
+` ......I've never pinned my hopes on being selected as Grandfather's {ruby:çeviri > halef:successor}.`
 ` In fact, I'd rather refuse if it did come to that.`
 ` I want to build up my own country and castle from scratch, just like Father did."`
 `"L‐look...!!`
@@ -588,7 +588,7 @@
 ` That's the best kind of life for you!!"`
 `"I'll arrange the most intellectual and selfless woman in the world for you!!`
 ` I'll prepare your every success and even pave the way there!!`
-` And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as successor to the head!!`
+` And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as {ruby:çeviri > halef:successor} to the head!!`
 ` {i:That's} when you can think about beginning life for yourself...!"`
 `"A first step?`
 ` Don't make me laugh. You still haven't even been born yet!!`

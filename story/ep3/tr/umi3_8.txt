@@ -162,7 +162,7 @@
 ` ...So we need the key."`
 `"I believe there was a key box in the {ruby:çeviri > hizmetkar:servant} room."`
 `They fished through the key box in the {ruby:çeviri > hizmetkar:servant} room.`
-`Because each {ruby:çeviri > hizmetkar:servant} individually carried their own master key around, those weren't kept here.`
+`Because each {ruby:çeviri > hizmetkar:servant} individually carried their own {ruby:çeviri > master anahtar:master key} around, those weren't kept here.`
 `However, all of the individual room keys should have been here.`
 `"............It's so packed with keys."`
 `"...It isn't here.`

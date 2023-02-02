@@ -259,7 +259,7 @@
 `"Apparently, Mom wasn't eating much at the time and was often out of sorts.`
 ` Because of that, it took a really long time before she realized she was pregnant."`
 `"When did she notice...?"`
-`"......It was after Asumu‐san suddenly moved into Dad's family register.`
+`"......It was after Asumu‐san suddenly moved into Dad's family {ruby:çeviri > nüfus:register}.`
 ` ......Mom learned about her pregnancy after that and plotted several times to split Asumu‐san and Dad apart, but..."`
 `"Even though Asumu‐san.........always appeared to be so absentminded,`
 ` ...once she got her hands on Rudolf‐san, she wouldn't let go.`
@@ -273,7 +273,7 @@
 ` I must be boring you."`
 `"Oh, ......no........."`
 `"At the very least,`
-` I wanted him to register himself as the father of my child.`
+` I wanted him to {ruby:çeviri > nüfus:register} himself as the father of my child.`
 ` ......And it does seem as though Rudolf‐san was prepared to do that.`
 ` He made sure there was a hospital waiting for me, and even though Asumu‐san was close to giving birth herself, he gallantly came to see me.`
 ` .........Even though she was already his wife.`

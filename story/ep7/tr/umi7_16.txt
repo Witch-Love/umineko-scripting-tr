@@ -55,9 +55,9 @@
 `"I don't know much about this {ruby:çeviri > kitabe:epitaph}.`
 ` It doesn't exist in my world."`
 `"Probably not.`
-` In your world, there's already a clear successor: you.`
+` In your world, there's already a clear {ruby:çeviri > halef:successor}: you.`
 ` But not in this world."`
-`"In other words, ......this {ruby:çeviri > kitabe:epitaph} was set up to choose Grandfather's successor after all...?"`
+`"In other words, ......this {ruby:çeviri > kitabe:epitaph} was set up to choose Grandfather's {ruby:çeviri > halef:successor} after all...?"`
 `"Most likely.`
 ` Or, he might have wanted to believe in the chance of a miracle."`
 `A difficult riddle, made so that no one would be able to solve it.`
@@ -130,7 +130,7 @@
 `"It's a challenge to the rest of us, isn't it?`
 ` He wants to know if there's anyone here wise enough to solve it..."`
 `"It seems that the {ruby:çeviri > Efendi:Master} doesn't intend to let Krauss‐sama take the headship easily.`
-` ......Perhaps the one who solves this will become his successor?"`
+` ......Perhaps the one who solves this will become his {ruby:çeviri > halef:successor}?"`
 `"Genji‐san, what is this?!`
 ` Could this be a {ruby:çeviri > portre:portrait} of......{f:5:Beatrice}? The woman that Father..."`
 `"......Correct.`
@@ -148,18 +148,18 @@
 ` That means this can be solved.`
 ` .........Yes, it's just as I thought.`
 ` Father doesn't want Nii‐san to succeed him...!"`
-`"So, whoever solves this becomes the successor...!"`
+`"So, whoever solves this becomes the {ruby:çeviri > halef:successor}...!"`
 `"*cackle*cackle*, *giggle*giggle*...!!!`
 ` Finally......`
 ` The tables have finally turned...`
 ` ......I now have a real chance......to become the head......!!"`
 `"What do you think, Kyrie?"`
 `"......I think it's extremely likely that this {ruby:çeviri > kitabe:epitaph} shows the location of the hidden gold."`
-`"It looks like Aneki thinks the one who solves it will be chosen as the successor."`
+`"It looks like Aneki thinks the one who solves it will be chosen as the {ruby:çeviri > halef:successor}."`
 `"That may also be possible.`
 ` ......Father doesn't view Krauss nii‐san as someone who has what it takes to succeed him.`
 ` Given that Father is reaching the end of his years, this might be a wild, last‐ditch gamble to find someone worthy."`
-`"So, if we actually solve this riddle, we stand to gain ten tons of gold and the position of successor."`
+`"So, if we actually solve this riddle, we stand to gain ten tons of gold and the position of {ruby:çeviri > halef:successor}."`
 `"On the face of it, perhaps.`
 ` ......However, I'm sensing some malice, as though he doesn't think us capable of solving it.`
 ` I doubt it will be easy."`
@@ -286,11 +286,11 @@
 `Kinzo covered his eyes and sobbed.`
 `This aged lord, who had built up enormous wealth in a single generation, ......was now, at the end of his life,`
 ` ......sobbing simply because he wanted someone to apologize to...`
-`"......Wasn't the {ruby:çeviri > kitabe:epitaph} a trial Grandfather made to choose the successor?"`
+`"......Wasn't the {ruby:çeviri > kitabe:epitaph} a trial Grandfather made to choose the {ruby:çeviri > halef:successor}?"`
 `"..............................`
 ` I thought that too at first, ......but it looks like the situation's a bit different."`
 `"At this point in time, I also thought it was a trial.`
-` That it was a game for selecting the successor, which Ushiromiya Kinzo decided upon on a whim."`
+` That it was a game for selecting the {ruby:çeviri > halef:successor}, which Ushiromiya Kinzo decided upon on a whim."`
 `"And it wasn't?"`
 `"......This {ruby:çeviri > kitabe:epitaph}...............had a special meaning for Ushiromiya Kinzo and Ronoue Genji,`
 ` one that only the two of them could understand.`

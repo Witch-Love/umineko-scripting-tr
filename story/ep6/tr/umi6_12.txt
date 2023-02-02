@@ -287,11 +287,11 @@
 `I quickly visited the VIP room, Krauss's study, and Natsuhi's room on the second floor, as well as the {ruby:çeviri > salon:parlor} and the {ruby:çeviri > misafir odası:guest room} on the first floor,`
 ` this time checking with my own eyes, as I had neglected to do in the last game...`
 `First off, all of the scenes were made to look like locked rooms.`
-`Probably of special note is the fact that the master keys have no relation to the {ruby:çeviri > numaralar:tricks} this time.`
+`Probably of special note is the fact that the {ruby:çeviri > master anahtar:master key}s have no relation to the {ruby:çeviri > numaralar:tricks} this time.`
 `The locked rooms were all constructed...`
-`...without relying on any elements that could be locked or unlocked from the outside by a master key or something else.`
+`...without relying on any elements that could be locked or unlocked from the outside by a {ruby:çeviri > master anahtar:master key} or something else.`
 `The windows were locked from the inside, and the doors were all locked and chained.`
-`The master key can get around all of the locks on the doors, but the window locks and the chain locks are more trouble than they might appear.`
+`The {ruby:çeviri > master anahtar:master key} can get around all of the locks on the doors, but the window locks and the chain locks are more trouble than they might appear.`
 `I haven't yet used a repetition request to get confirmation that it's impossible to manipulate them from the outside, ......but I'm sure he'll be able to say it in red.`
 ` It'd be stupid otherwise.`
 `"......I understand.`
@@ -310,7 +310,7 @@
 `"For your attention: I beg to inform you of the following.`
 ` Let it be known that the door was barred with a hat stand."`
 `"It is thought to be substantially the same as a chain lock, in that it can only be set from the inside."`
-`"It is probably his goal to construct locked rooms where explanations using master keys are made completely {f:5:ineffective}.`
+`"It is probably his goal to construct locked rooms where explanations using {ruby:çeviri > master anahtar:master key}s are made completely {f:5:ineffective}.`
 ` The {ruby:çeviri > salon:parlor} has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."`
 `"......In that case, the interesting question becomes why he didn't choose one of the other rooms that do have a chain lock.`
 ` There are several other {ruby:çeviri > misafir odaları:guest rooms} besides the one Battler lay dead in, all with a similar construction, correct?"`
@@ -331,7 +331,7 @@
 `"......Well, even if I make a repetition request to confirm their deaths, I doubt Battler will be so quick to answer.`
 ` ......Sheesh......"`
 `"I liked Beato's chain of six locked rooms better.`
-` ......But these locked rooms are more complete, considering that master keys are of no help at all."`
+` ......But these locked rooms are more complete, considering that {ruby:çeviri > master anahtar:master key}s are of no help at all."`
 `"......There are two general ways of breaking locked rooms that Battler might be after.`
 ` ......An illusion of a locked room, or an illusion of a crime.`
 ` It'll be one of those."`
@@ -682,7 +682,7 @@
 `"Okay.`
 ` In that case, let's get to checking the locks."`
 `"The problem is the big window in the {ruby:çeviri > bekleme salonu:lounge}.`
-` It looks like it doesn't even have shutters.`
+` It looks like it doesn't even have {ruby:çeviri > kepenk:shutter}s.`
 ` If they smash this, we won't be able to stop them from comin' in."`
 `"Don't worry, the sound of the glass smashing will be more than enough warning.`
 ` We'll turn them to Swiss cheese!"`
@@ -772,12 +772,12 @@
 `"Why do the chain locks make them suspicious?"`
 `"......What if there was no chain lock on the locked rooms?"`
 `"That's not much of a locked room.`
-` Anyone could make a room like that with nothin' more than a master key."`
+` Anyone could make a room like that with nothin' more than a {ruby:çeviri > master anahtar:master key}."`
 `"......Yes, ...I see...`
 ` .........The {ruby:çeviri > hizmetkarlar:servants} had to seal them with the chains so that they wouldn't be suspected..."`
 `"Exactly.`
 ` ......By setting the chain, they don't have to worry about being suspected.`
-` ...To turn it around, if the chains weren't set, they wouldn't be able to avoid suspicion since they hold the master keys."`
+` ...To turn it around, if the chains weren't set, they wouldn't be able to avoid suspicion since they hold the {ruby:çeviri > master anahtar:master key}s."`
 `"So, ......the only ones with somethin' to gain from settin' the chains......are the {ruby:çeviri > hizmetkarlar:servants}......"`
 `"I'm not trying to protect them or anything, ......but if so, how did they actually set the chains?!`
 ` Is it possible to set them from the outside?!"`

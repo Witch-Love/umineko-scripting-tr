@@ -142,7 +142,7 @@
 ` And she placed the highest priority upon taking the pieces which she guessed you were most likely to first suspect."`
 `"......That makes sense.`
 ` ...Both last time, and the time before that,`
-` the {ruby:çeviri > hizmetkarlar:servants} who know everything about the {ruby:çeviri > malikane:mansion} and who walk around with master keys were always highest on the list of suspicious people."`
+` the {ruby:çeviri > hizmetkarlar:servants} who know everything about the {ruby:çeviri > malikane:mansion} and who walk around with {ruby:çeviri > master anahtar:master key}s were always highest on the list of suspicious people."`
 `"......A good example in the last game is Jessica's locked room.`
 ` If I had only accepted that a {ruby:çeviri > hizmetkar:servant} was the {ruby:çeviri > suçlu:culprit}, that wouldn't even have been a locked room."`
 `"Therefore,`
@@ -227,25 +227,25 @@
 `".........Locked‐room definition understood.`
 ` Continue, {f:5:Virgilia}."`
 `"Yes."`
-`".........Shannon's body was in possession of one master key.`
+`".........Shannon's body was in possession of one {ruby:çeviri > master anahtar:master key}.`
 ` The relatives who discovered her collected this."`
 `"Repetition request for Beato.`
-` How many master keys this time?"`
+` How many {ruby:çeviri > master anahtar:master key}s this time?"`
 `"...Hmph. The same as last time.`
 ` {p:1:There are five, one for each {ruby:çeviri > hizmetkar:servant}}."`
 `"Which means this still isn't a locked room.`
-` There are still four master keys left.`
+` There are still four {ruby:çeviri > master anahtar:master key}s left.`
 ` It just means that after Shannon‐chan was murdered, one of the other four keys locked it."`
 `"That is correct.`
-` .........And, it wasn't only a master key that was found."`
+` .........And, it wasn't only a {ruby:çeviri > master anahtar:master key} that was found."`
 `"Yes."`
 `"......Alongside the body, there was a Western envelope with the family crest.`
 ` Instead of a letter, the key to the second‐floor {ruby:çeviri > misafir odası:guest room} was inside it."`
 `"......The key to the second‐floor {ruby:çeviri > misafir odası:guest room}...`
-` Am I fine to define that as the only key other than the master keys that can open the door to the second‐floor {ruby:çeviri > misafir odası:guest room}?"`
+` Am I fine to define that as the only key other than the {ruby:çeviri > master anahtar:master key}s that can open the door to the second‐floor {ruby:çeviri > misafir odası:guest room}?"`
 `"Indeed. There is no problem.`
-` And, unlike the master keys, there is only one."`
-`"In other words, in order to unlock a specific room, in addition to the five master keys,`
+` And, unlike the {ruby:çeviri > master anahtar:master key}s, there is only one."`
+`"In other words, in order to unlock a specific room, in addition to the five {ruby:çeviri > master anahtar:master key}s,`
 ` there is only one other key."`
 `"......In other words, this is a message telling them to go to the second‐floor {ruby:çeviri > misafir odası:guest room} next?`
 ` So the adults moved to the second‐floor {ruby:çeviri > misafir odası:guest room}?"`
@@ -255,7 +255,7 @@
 `"Inside the room, Kumasawa's body was discovered.`
 ` The room was a locked room.`
 ` That definition is based upon "{f:5:Beatrice}'s locked‐room definition"."`
-`".........Kumasawa was in possession of one master key.`
+`".........Kumasawa was in possession of one {ruby:çeviri > master anahtar:master key}.`
 ` The relatives collected this."`
 `"And like Shannon, there was a Western envelope discovered alongside her.`
 ` Inside was the key to the third‐floor {ruby:çeviri > hizmetkarlar:servants}' quarters.`
@@ -265,7 +265,7 @@
 `"Inside the room, Gohda's body was discovered.`
 ` The room was a locked room.`
 ` Based on "{f:5:Beatrice}'s locked‐room definition"."`
-`"Gohda was in possession of one master key.`
+`"Gohda was in possession of one {ruby:çeviri > master anahtar:master key}.`
 ` The relatives collected this."`
 `"And just as before, a Western envelope with a family seal was discovered.`
 ` Inside was the key to the second‐floor VIP room.`
@@ -274,21 +274,21 @@
 ` What the hell are you planning...?"`
 `"*cackle*cackle*.`
 ` It isn't something worth glaring at me over, is it?`
-` It is a locked room, but there are still several master keys that can open it, correct?`
-` And I have even been dutiful enough to present you with the keys particular to each room in addition to the master keys."`
+` It is a locked room, but there are still several {ruby:çeviri > master anahtar:master key}s that can open it, correct?`
+` And I have even been dutiful enough to present you with the keys particular to each room in addition to the {ruby:çeviri > master anahtar:master key}s."`
 `"......I don't like how this is going.`
 ` ......But I'm starting to see how things will turn out.`
 ` So it continues like this for all six people?"`
 `"Yes, that is correct.`
 ` Inside the second‐floor VIP room, Genji's body was discovered."`
-`"One master key was collected.`
+`"One {ruby:çeviri > master anahtar:master key} was collected.`
 ` The key to the underground {ruby:çeviri > kazan dairesi:boiler room} was discovered."`
 `"They moved to the underground {ruby:çeviri > kazan dairesi:boiler room}.`
 ` Inside the underground {ruby:çeviri > kazan dairesi:boiler room}, Kinzo's body was discovered."`
 `"The key to the {ruby:çeviri > kilise:chapel} was discovered."`
 `"They moved to the {ruby:çeviri > kilise:chapel}."`
 `"Inside the {ruby:çeviri > kilise:chapel}, Kanon's body was discovered.`
-` One master key was collected.`
+` One {ruby:çeviri > master anahtar:master key} was collected.`
 ` The key to the first‐floor {ruby:çeviri > salon:parlor} was discovered.`
 ` ......With this, our reconstruction of how all six bodies were discovered is complete."`
 `"A supplement.`
@@ -303,7 +303,7 @@
 ` The six locked rooms are all tied together.`
 ` The keys to unlock each are all shut up inside the next room."`
 `"In other words, the six locked rooms form one massive locked room,`
-` and all of the master keys as well as the individual room keys are shut up inside it...!"`
+` and all of the {ruby:çeviri > master anahtar:master key}s as well as the individual room keys are shut up inside it...!"`
 `"`
 `{p:1:Furthermore, all of the doors and windows in the six rooms are normal}.`
 ` {p:1:No device exists which can lock them without a key, such as an auto‐lock}.`

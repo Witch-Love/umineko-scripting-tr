@@ -6,7 +6,7 @@
 ` I knocked, but there was no answer..."`
 `"{p:42:That's when I arrived}.`
 ` I recommended that he try unlocking the door, just in case."`
-`"When {p:42:I unlocked the door with a master key}, a terrifying sight awaited me inside......"`
+`"When {p:42:I unlocked the door with a {ruby:çeviri > master anahtar:master key}}, a terrifying sight awaited me inside......"`
 `"{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san,`
 ` six people in all, were lying there, covered in blood......}"`
 `"A great tumult followed.`
@@ -32,47 +32,47 @@
 ` Six people were killed, and the {ruby:çeviri > yemek salonu:dining hall}'s a locked room!`
 ` How could someone have killed them and escaped?!"`
 `"......I'd rather not think of it,`
-` but perhaps the {ruby:çeviri > hizmetkarlar:servants} with their master keys are the most suspicious."`
-`"They killed the six, then left and locked the door with their master keys.`
+` but perhaps the {ruby:çeviri > hizmetkarlar:servants} with their {ruby:çeviri > master anahtar:master key}s are the most suspicious."`
+`"They killed the six, then left and locked the door with their {ruby:çeviri > master anahtar:master key}s.`
 ` ......It is a logical theory."`
 `"E‐eeek!`
 ` Th‐that's absurd!"`
 `Since there was no chance of the {ruby:çeviri > suçlu:culprit} hiding inside the {ruby:çeviri > yemek salonu:dining hall},`
 ` it made sense to assume that the {ruby:çeviri > suçlu:culprit} had locked the door after committing the murder and exiting the room.`
-`It was only natural that the {ruby:çeviri > hizmetkarlar:servants}, with their master keys, would fall under suspicion.`
+`It was only natural that the {ruby:çeviri > hizmetkarlar:servants}, with their {ruby:çeviri > master anahtar:master key}s, would fall under suspicion.`
 `And, sadly enough, none of the {ruby:çeviri > hizmetkarlar:servants} had an {ruby:çeviri > mazeret:alibi}.`
 `Then again, it wasn't only the {ruby:çeviri > hizmetkarlar:servants}. Everyone else lacked an {ruby:çeviri > mazeret:alibi} as well.`
-`"Is there any way to lock up from the outside without a master key?"`
+`"Is there any way to lock up from the outside without a {ruby:çeviri > master anahtar:master key}?"`
 `"No, there isn't.`
 ` .........Hmm, that's not enough.`
 ` I'll say it with the {ruby:çeviri > kırmızı gerçek:red truth}."`
-`{p:1:All doors can only be locked or unlocked with a master key}.`
-` {p:1:Of course, it is possible to lock or unlock the doors from inside the room even without a master key}.`
+`{p:1:All doors can only be locked or unlocked with a {ruby:çeviri > master anahtar:master key}}.`
+` {p:1:Of course, it is possible to lock or unlock the doors from inside the room even without a {ruby:çeviri > master anahtar:master key}}.`
 `"There you have it.`
 ` Any other questions?"`
-`"Shouldn't there be keys to each individual room in addition to the master keys?"`
+`"Shouldn't there be keys to each individual room in addition to the {ruby:çeviri > master anahtar:master key}s?"`
 `"......Normally, those would exist.`
 ` However, they'd make the game more complicated, so I've eliminated them.`
 ` {ruby:çeviri > Kırmızı gerçek:Red truth}.`
-` {p:1:In this game, we'll consider master keys to be the only keys that exist}."`
+` {p:1:In this game, we'll consider {ruby:çeviri > master anahtar:master key}s to be the only keys that exist}."`
 `"In other words,`
-` all of the locks that appear in this game can only be locked or unlocked by master keys."`
+` all of the locks that appear in this game can only be locked or unlocked by {ruby:çeviri > master anahtar:master key}s."`
 `"That's how it is.`
 ` It really is a simple game."`
-`"In that case, we should now check the number of master keys and who holds them."`
-`"{p:1:There are five master keys total.`
+`"In that case, we should now check the number of {ruby:çeviri > master anahtar:master key}s and who holds them."`
+`"{p:1:There are five {ruby:çeviri > master anahtar:master key}s total.`
 ` One is held by each of the five {ruby:çeviri > hizmetkarlar:servants}}.`
 ` The keys'll be managed by a particular method.`
-` {p:1:The {ruby:çeviri > hizmetkarlar:servants} keep the master keys on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}."`
+` {p:1:The {ruby:çeviri > hizmetkarlar:servants} keep the {ruby:çeviri > master anahtar:master key}s on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}."`
 `"What the heck.`
 ` Now they're sounding less like keys and more like a fingerprinting system."`
 `"That's an interesting metaphor.`
-` ......In other words, in the world of this game, it isn't the master keys, but the five {ruby:çeviri > hizmetkarlar:servants} themselves that can lock or unlock doors."`
-`"We tried to retrieve Genji‐san's master key, but had no luck."`
-`"To prevent trouble later on, {p:42:we destroyed Genji's master key}."`
+` ......In other words, in the world of this game, it isn't the {ruby:çeviri > master anahtar:master key}s, but the five {ruby:çeviri > hizmetkarlar:servants} themselves that can lock or unlock doors."`
+`"We tried to retrieve Genji‐san's {ruby:çeviri > master anahtar:master key}, but had no luck."`
+`"To prevent trouble later on, {p:42:we destroyed Genji's {ruby:çeviri > master anahtar:master key}}."`
 `This was the crime of the first twilight.`
 `{n}The scene was the fully locked room of the {ruby:çeviri > yemek salonu:dining hall}.`
-`None of the {ruby:çeviri > hizmetkarlar:servants} holding master keys have {ruby:çeviri > mazeretler:alibis}.`
+`None of the {ruby:çeviri > hizmetkarlar:servants} holding {ruby:çeviri > master anahtar:master key}s have {ruby:çeviri > mazeretler:alibis}.`
 `{n}Then again, no one else has an {ruby:çeviri > mazeret:alibi} either......`
 `Everyone returned to the {ruby:çeviri > salon:parlor} to discuss what should be done next.`
 `The phones were out, so they couldn't contact the police.`
@@ -99,7 +99,7 @@
 `"I searched all over the room, looking for a clue...!`
 ` In the end, {p:42:I found that the windows and doors were all locked, making it a locked room}."`
 `"Another locked room!`
-` And yet again, we {ruby:çeviri > hizmetkarlar:servants} who have master keys will be suspected...!"`
+` And yet again, we {ruby:çeviri > hizmetkarlar:servants} who have {ruby:çeviri > master anahtar:master key}s will be suspected...!"`
 `"B‐but have no fear...!`
 ` After Madam began to suspect us, we started keeping an eye on each other!"`
 `"{p:42:All of us {ruby:çeviri > hizmetkarlar:servants} were together the whole time}."`
@@ -108,7 +108,7 @@
 ` So, you're saying that this locked room is even more perfect."`
 `".........In the case of the first locked room, no one had an {ruby:çeviri > mazeret:alibi}.`
 ` So, for this locked room, all of them have {ruby:çeviri > mazeretler:alibis}."`
-`"In this world, the {ruby:çeviri > hizmetkarlar:servants} themselves are living master keys.`
+`"In this world, the {ruby:çeviri > hizmetkarlar:servants} themselves are living {ruby:çeviri > master anahtar:master key}s.`
 ` As long as those {ruby:çeviri > hizmetkarlar:servants} have perfect {ruby:çeviri > mazeretler:alibis}, locking Natsuhi's room is impossible..."`
 `"We decided to preserve the crime scene as it was."`
 `"{p:42:We put duct tape all over the outside of the doors and windows, sealing them}!"`
@@ -159,7 +159,7 @@
 `"Thanks."`
 `This was the crime of the second twilight.`
 `{n}The scene was Natsuhi's fully locked room.`
-`This time, all of the {ruby:çeviri > hizmetkarlar:servants} with master keys have {ruby:çeviri > mazeretler:alibis}.`
+`This time, all of the {ruby:çeviri > hizmetkarlar:servants} with {ruby:çeviri > master anahtar:master key}s have {ruby:çeviri > mazeretler:alibis}.`
 `The whole group, realizing the dangers of being inside the {ruby:çeviri > malikane:mansion}, took shelter in the {ruby:çeviri > konukevi:guesthouse}......`
 `All those who took refuge in the {ruby:çeviri > konukevi:guesthouse} decided to hole up in there until the typhoon passed.`
 `There, if everyone watched everyone else, they should be able to prevent further crimes both from inside and outside.`
@@ -183,10 +183,10 @@
 `"To turn it around,`
 ` {p:42:......anyone could have killed her besides George‐aniki}."`
 `"To prevent the {ruby:çeviri > suçlu:culprit} from using it for any mischief,`
-` {p:42:we destroyed the master key Shannon‐san had held on the spot}."`
+` {p:42:we destroyed the {ruby:çeviri > master anahtar:master key} Shannon‐san had held on the spot}."`
 `"......At the time Shannon is killed, Kanon goes missing forever.`
 ` .........{p:1:From now on, Kanon is treated as having been killed.`
-` Also, Kanon's master key is treated as having been destroyed}."`
+` Also, Kanon's {ruby:çeviri > master anahtar:master key} is treated as having been destroyed}."`
 `"Well, it'd be tasteless to go into it, so I won't, but...`
 `...given that Shannon's dead, I wouldn't really expect anything else."`
 `"In other words,`
@@ -198,7 +198,7 @@
 `The scene was the {ruby:çeviri > gül bahçesi:rose garden}.`
 `There are no locks or doors.`
 ` It isn't a locked room.`
-`{n}So, the master keys no longer have anything to do with this.`
+`{n}So, the {ruby:çeviri > master anahtar:master key}s no longer have anything to do with this.`
 `Then, the pace of the crimes began to accelerate......`
 `The group took shelter in the {ruby:çeviri > konukevi:guesthouse}.`
 `They carefully sealed all doors and windows, sealing themselves in a locked room.`
@@ -219,16 +219,16 @@
 `"All of us...in other words, {p:42:the four cousins and Doctor Nanjo couldn't have killed Gohda‐san and Kumasawa‐san}."`
 `"In that case, it's clear that the {ruby:çeviri > suçlu:culprit} is someone other than us."`
 `"I guessed that someone might have snuck in, so I checked around, {p:42:but the {ruby:çeviri > konukevi:guesthouse} was still completely locked up}."`
-`"Perhaps the {ruby:çeviri > suçlu:culprit} has a master key after all..."`
+`"Perhaps the {ruby:çeviri > suçlu:culprit} has a {ruby:çeviri > master anahtar:master key} after all..."`
 `"That's impossible.`
-` {p:42:No master keys exist anymore except the two keys on the two people who lie dead here}."`
-`"Since the two master keys that exist are here inside the {ruby:çeviri > konukevi:guesthouse},`
+` {p:42:No {ruby:çeviri > master anahtar:master key}s exist anymore except the two keys on the two people who lie dead here}."`
+`"Since the two {ruby:çeviri > master anahtar:master key}s that exist are here inside the {ruby:çeviri > konukevi:guesthouse},`
 ` ......that makes this {ruby:çeviri > konukevi:guesthouse} a perfect locked room...!"`
 `"Well, since someone's dead, it obviously wasn't perfect.`
 ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......"`
 `This was the crime of the fifth and sixth twilights.`
 `{n}The scene was the locked room known as the {ruby:çeviri > konukevi:guesthouse}.`
-`Gohda's and Kumasawa's master keys were also destroyed, meaning that all master keys had now been lost.`
+`Gohda's and Kumasawa's {ruby:çeviri > master anahtar:master key}s were also destroyed, meaning that all {ruby:çeviri > master anahtar:master key}s had now been lost.`
 `Now, no one could break into this locked room {ruby:çeviri > konukevi:guesthouse}.`
 `At least, that should have been true......`
 `This time, Doctor Nanjo was the one who was killed.`
@@ -533,20 +533,20 @@
 ` It's finally starting to feel like a real mystery...!"`
 `"Hey, Beato.`
 ` I've found out something interesting.`
-` In this series of crimes, master keys can never be used."`
+` In this series of crimes, {ruby:çeviri > master anahtar:master key}s can never be used."`
 `"Come to think of it, the group of nine innocent people includes all five {ruby:çeviri > hizmetkarlar:servants}, doesn't it?"`
-`"Only the {ruby:çeviri > hizmetkarlar:servants} can use master keys.`
+`"Only the {ruby:çeviri > hizmetkarlar:servants} can use {ruby:çeviri > master anahtar:master key}s.`
 ` They can't hand them over to someone else.`
-` And, since people who aren't {ruby:çeviri > suçlular:culprits} themselves can't assist {ruby:çeviri > suçlular:culprits}, the master keys cannot be used for crimes."`
+` And, since people who aren't {ruby:çeviri > suçlular:culprits} themselves can't assist {ruby:çeviri > suçlular:culprits}, the {ruby:çeviri > master anahtar:master key}s cannot be used for crimes."`
 `Since it's been guaranteed that all five {ruby:çeviri > hizmetkarlar:servants} are innocent,`
-` we know that the master keys have nothing to do with the crimes.`
+` we know that the {ruby:çeviri > master anahtar:master key}s have nothing to do with the crimes.`
 `"Yes, that's right...!`
 ` And that makes this even more troublesome, correct?`
 ` All of these locked room murders!`
-` Every one of them must be constructed without any master keys...!"`
+` Every one of them must be constructed without any {ruby:çeviri > master anahtar:master key}s...!"`
 `"No.`
 ` Turn the chessboard over.`
-` This just means that none of the {ruby:çeviri > numaralar:tricks} need master keys to construct."`
+` This just means that none of the {ruby:çeviri > numaralar:tricks} need {ruby:çeviri > master anahtar:master key}s to construct."`
 `"I see...!`
 ` First twilight, the locked room of the {ruby:çeviri > yemek salonu:dining hall}.`
 ` Second twilight, Natsuhi's locked room.`
@@ -561,7 +561,7 @@
 `"The corpse examinations of the victims in the first twilight still aren't certain.`
 ` In other words, what if one of them was really the {ruby:çeviri > suçlu:culprit}?!`
 ` They killed the other five, locked the {ruby:çeviri > yemek salonu:dining hall} from the inside, then played dead...!"`
-`"True, they could create a locked room without using master keys that way.`
+`"True, they could create a locked room without using {ruby:çeviri > master anahtar:master key}s that way.`
 ` That leaves us with a problem though."`
 `"What problem?"`
 `"Remember?`
@@ -593,7 +593,7 @@
 `"I've been thinking about the second twilight's locked room, but no matter how many times I try, I keep ending up with the same theory..."`
 `"You mean someone killing the pair of them, then locking the door from the inside and hiding?"`
 `"Mm.`
-` ......Since the master keys can't be used, the door must have been locked from the inside.`
+` ......Since the {ruby:çeviri > master anahtar:master key}s can't be used, the door must have been locked from the inside.`
 ` So, it only makes sense if the {ruby:çeviri > suçlu:culprit} was hiding somewhere in Natsuhi's room."`
 `"Right.`
 ` That is weird.`
@@ -634,7 +634,7 @@
 `The {ruby:çeviri > suçlu:culprit} could only have killed five people at most in the {ruby:çeviri > yemek salonu:dining hall}.`
 `However, if we add on the victims of the second twilight, they would definitely have killed at least six times...!`
 `"I see, now it all adds up...!`
-` You can construct the locked rooms of both the first and second twilights without using master keys...!!"`
+` You can construct the locked rooms of both the first and second twilights without using {ruby:çeviri > master anahtar:master key}s...!!"`
 `"Well, ......you'd think so, but that reminds me of something else.`
 ` ......Aunt Natsuhi's room was sealed immediately afterwards..."`
 `"Yes, come to think of it...`
@@ -846,7 +846,7 @@
 ` These crimes would be impossible for a single person."`
 `"To start, one of the adult {ruby:çeviri > suçlular:culprits}...`
 `carried out the first twilight, then played dead."`
-`"Since we know that all of the {ruby:çeviri > hizmetkarlar:servants} with master keys are innocent,`
+`"Since we know that all of the {ruby:çeviri > hizmetkarlar:servants} with {ruby:çeviri > master anahtar:master key}s are innocent,`
 ` there's no way for the {ruby:çeviri > suçlu:culprit} to lock the door to the {ruby:çeviri > yemek salonu:dining hall} from the outside.`
 ` So, we know that the one who locked it did so from inside the room and must have been playing dead."`
 `"And, in order for them to play dead,`

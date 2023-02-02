@@ -595,7 +595,7 @@
 ` ......No one can be sure that no hidden doors exist.`
 ` ...However, before leaping to that conclusion, I suspect a much simpler possibility."`
 `"And...what would that be......?"`
-`For some time, Battler had been opening windows, opening the shutters, and checking outside,`
+`For some time, Battler had been opening windows, opening the {ruby:çeviri > kepenk:shutter}s, and checking outside,`
 ` and repeating this for each window.`
 `".........Hmm.`
 ` ...This window sure is quiet.`
@@ -617,7 +617,7 @@
 `......But at a glance, he didn't see any mark like that on the grass in the middle of the pouring rain.`
 `"......There might also be a window like this on the first floor.`
 ` It is possible to go outside without anyone noticing."`
-`"However, not only the doors, but the windows too were all locked, and the shutters were even down as well, correct...?`
+`"However, not only the doors, but the windows too were all locked, and the {ruby:çeviri > kepenk:shutter}s were even down as well, correct...?`
 ` It is possible to go out, but it would be impossible to lock up..."`
 `"But they can be locked, see?`
 ` Just like this, click."`
