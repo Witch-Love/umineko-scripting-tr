@@ -245,7 +245,7 @@
 ` Hâlâ anlayamıyor musun?`
 ` {f:5:Beatrice}'in "gerçek olduğunu"."`
 `"O "gerçek" diyorsun.........ama nerede?"`
-`"Tıpkı dediğim gibi, {f:5:Beatrice} "gerçek", tam burada."`
+`"Dediğim gibi, {f:5:Beatrice} "gerçek", tam burada."`
 `......Bu doğru.`
 `Şimdi düşününce, bir süredir diğerlerinin bakmaları gereken yöne bakmadığını hissediyordum.`
 `...Herkesin sadece uzaklara baktığını düşünmüştüm ama......durum böyle değildi.`
@@ -259,21 +259,21 @@
 `...Tabii ki de orada kimse yoktu.`
 `{n}Bunu başından beri biliyordum!`
 `.........Ancak benim dışımda odadaki herkes sanki orada biri varmış gibi o noktaya odaklanmıştı.`
-`"{f:5:Beatrice} bin yıldır yaşayan bir büyük Altın Cadı'dır.`
+`"{f:5:Beatrice} bin yıldır yaşayan büyük Altın Cadı'dır.`
 ` ......Ama formunu yanlış dalga boyundaki insanlara gösteremez ve onlarla konuşamaz."`
 `"...Ve biliyor musun?`
 ` O bunu gerçekten üzücü buluyor.`
 ` ...İşte bu yüzden senin gibi büyü duyarlılığından yoksun doğmuş insanların onun varlığını inkar etmesinden gerçekten nefret ediyor...!"`
-`".........Şanslısın, Battler.`
-` Dün sana o tılsımı vermem iyi oldu, değil mi?`
-` Onu yanında taşımıyor olsaydın kim bilir {f:5:Beatrice} şimdiye kadar ne tür bir şekilde lanetlenirdin.`
-` ...Gerçekten şanslısın, Battler.`
+`".........Şanslısın Battler.`
+` Dün sana o tılsımı vermem iyi olmadı mı?`
+` Onu yanında taşımıyor olsaydın kim bilir {f:5:Beatrice} şimdiye kadar seni ne tür bir şekilde lanetlerdi?`
+` ...Gerçekten şanslısın Battler.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
 `".........Doğru, şu akrep anahtarlık.`
 ` Ucuz bir hediye falan sanmıştım ama sanırım gerçekten bir faydası varmış."`
 `"Kihihihihihihihi.`
-` Eğer o olmasaydı, şimdi o ambarda yüzün parçalanmış bir kurban olarak yatıyor olurdun.`
-` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihi, çok şanslısın, Battler...!`
+` Eğer o olmasaydı, şimdi o ambarda yüzü parçalanmış bir kurban olarak yatıyor olurdun.`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihi, çok şanslısın Battler...!`
 ` Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
 `"......Anlıyorum.`
 ` Yani o olmasaydı şimdiye kadar ölmüş olacaktım......"`
@@ -289,38 +289,38 @@
 ` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
 `Pff...!`
 `......Tam o anda bir kahkaha patlattım.`
-`{n}Bir saniye öncesine kadar cadıları oynamak oldukça eğlenceliydi, ama ne yazık ki bu sonuncusu hedefi tam olarak tutturamadı.`
+`{n}Bir saniye öncesine kadar cadıcılık oynamak oldukça eğlenceliydi, ama ne yazık ki bu sonuncusu hedefi tam olarak tutturamadı.`
 `"Hahahahahahah.`
 ` ......O zaman hiç de iyi değil, öyle değil mi Maria?`
-` Eğer bu doğruysa, üzgünüm, ama hiç de iyi değil."`
-`Maria aniden gülmeye başladığımı görünce durdu.`
+` Eğer bu doğruysa, üzgünüm ama hiç de iyi değil."`
+`Maria aniden gülmeye başladığımı görünce duraksadı.`
 `{n}Neye güldüğümü anlamamış olsa da, bunun kendisi için hoş olamayacağını fark etti.`
 `".............................."`
-`"Seni incitebileceğini düşündüğüm için daha önce söylememiştim ama..."`
+`"Seni incitebileceğini düşündüğüm için daha önce söylememiştim, ama..."`
 `"......Bana verdiğin tılsımı cebime koyduğumu sanıyordum,`
 ` ama sanırım bir yerde düşürmüş olmalıyım."`
-`"......Bu da şu anda hayatta olmamın sebebinin tılsım olamayacağı anlamına geliyor ve cadı tarafından lanetlenmiş olmam gerekse bile, mükemmel şekilde iyiyim.`
+`"......Bu da şu anda hayatta olmamın sebebinin tılsım olamayacağı anlamına geliyor ve cadı tarafından lanetlenmiş olmam gerekiyor olsa da, mükemmel şekilde iyiyim.`
 ` ......Üzgünüm ama kendi gözlerimle görmediğim şeylere inanmam."`
-`"Altıncı his?`
-` Dalga boyları?`
-` Büyüye duyarlılık?`
+`"Altıncı his mi?`
+` Dalga boyları mı?`
+` Büyüye duyarlılık mı?`
 ` Üzgünüm ama böyle sahte şeylere inanmıyorum.`
 ` Sınıftaki kızların doğaüstü güçleri algılama yeteneklerinin ne kadar iyi ya da kötü olduğundan bahsettiklerini duyduğumda tepem atıyor!"`
-`"...Büyükbabamın size ne kadar ödediğini bilmiyorum, ama beni bir tarikata katılmaya ikna etmeye çalışıyorsanız,`
-` inanın bana, bunu o kadar kolay yapamayacaksınız."`
+`"...Büyükbaba'mın size ne kadar ödediğini bilmiyorum, ama beni bir tarikata katılmaya ikna etmeye çalışıyorsanız,`
+` inanın bana bunu o kadar kolay yapamayacaksınız."`
 `"...............Battler-sama..."`
 `"...Siz çocuklar istediğiniz şeye inanmakta özgürsünüz.`
 ` Ama konu benim inanıp inanmadığıma gelince,`
 ` buna karar vermek`
 ` her zaman`
 ` bana düşer!"`
-`"Üzgünüm ama {f:5:Beatrice} gibi şüpheli bir şeyi kendi gözlerimle görmeden ona inanamam...!!!"`
+`"Üzgünüm ama {f:5:Beatrice} gibi şüpheli bir şeyi kendi gözlerimle görmeden ona inanamam...!!"`
 `Sert ve keskin bir şekilde konuştum...`
-`{n}Bunları söylediğimde, Maria tekrar kıkırdamaya başladı.`
+`{n}Bunları söylediğimde Maria tekrar kıkırdamaya başladı.`
 `"Kihhihihihihihihihihihihi...!`
 ` Bunda bir sakınca yok, öyle değil mi...?`
 ` Eninde sonunda, senin gibi dalga boyları tamamen uyumsuz insanlar bile {f:5:Beatrice}'i görebilecek."`
-`".........Çok yakında dirilecek.`
+`".........O çok yakında dirilecek.`
 ` {f:5:Beatrice} dirilecek.`
 ` ......Bu gerçekleştiğinde, benimle konuşacağına ve benimle bol bol oynayacağına söz verdi."`
 `"...Ne şüphe duymaya ne de inanmak için kendini zorlamaya gerek var.`
