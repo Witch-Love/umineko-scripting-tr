@@ -726,7 +726,7 @@
 ` Başlangıçta altı kişi öldü!`
 ` Ve büyülü çemberin çizildiği kepenkte bile, hayır, İbranice'nin yazıldığı yerde, kurbanların sunulmasından bahsediyordu...!!"`
 `"......Uu.`
-` ...Bunu en başından beri söylüyorum."`
+` ...Maria bunu en başından beri söylüyor."`
 `Bu doğru, Maria bunu en başında söylemişti!`
 `{n}Altı cesedi bulduktan hemen sonra, Maria salonda televizyon izlerken söylemişti!`
 `— ............Uu.`
@@ -908,20 +908,20 @@
 `"T-Tabii!!"`
 `Zarfı elime aldım.`
 ` ......Hâlâ balmumuyla mühürlüydü.`
-`İçindekileri görmeden bile, bunun açılmamış ve bilinmeyen bir zarf olduğunu fark ettim!`
+`İçindekileri görmeden bile, bunun açılmamış ve bilinmeyen bir zarf olduğunu anladım!`
 `Mektup açacağıyla uğraşmadan, şiddetle yırtarak açtım ve içindeki mektubu çıkardım.`
 `Yazanlar şöyleydi.`
-`{e:070:― Kinzo-sama'nın kitabesindeki bilmece hoşunuza gitti mi?`
-`Hepinizin muhtemelen farkında olduğu gibi, çok az zamanınız kaldı.`
+`{e:070:― Kinzo-sama'nın kitabesinin bilmecesi sizi eğlendiriyor mu?`
+`Hepinizin muhtemelen farkında olduğu gibi, çok kısıtlı bir zamanınız kaldı.`
 `Fırtına geçtikten sonra kaçmak gibi safça umutlardan lütfen vazgeçin.`
-`Bu oyun sadece benim ya da sizin zaferinizle sonlanabilir.`
-`Zaman dolduğunda varsayılan olarak ben kazanacağım.`
+`Bu oyun sadece benim ya da sizin zaferinizle sona erebilir.`
+`Zaman tükendiğinde varsayılan olarak ben kazanacağım.`
 ` Beraberlik olmayacak.`
-`Lütfen mevcut durumunuzu yanlış anlamadığınızdan emin olun.}`
+`Mevcut durumunuzu yanlış değerlendirmediğinizden emin olun.}`
 `"İşte böyle yazıyor......"`
 `".........Bu mektubu oraya kimin koyduğu belli değil.`
 ` Ancak, şüpheliler listesini daraltmayı başardım.`
-` {i:Sizler}!!"`
+` {i:Sizlersiniz}!!"`
 `"......M-Madam...`
 ` Bu sadece......çok korkunç......"`
 `"Portreye doğru gitmeden hemen önce, buraya bir kutu yiyecek koydum.`
@@ -929,7 +929,7 @@
 `"Ve o sırada Jessica, George-kun ve Battler-kun çoktan portrenin önündeydiler!!`
 ` Ve mektup ortaya çıkana kadar portrenin önünden ayrılmadılar!`
 ` Yani mektubu bırakan kişi dördünüzden biri!!!`
-` {f:5:Beatrice} sizden biri!!!"`
+` {f:5:Beatrice} burada!!!"`
 `".........Uu.`
 ` {f:5:Beatrice} Maria değil.`
 ` ...{f:5:Beatrice} "gerçek"!"`
@@ -937,30 +937,30 @@
 ` Birinizden mi yoksa hepinizden mi şüphelenmeliyim bilmiyorum.`
 ` ...Ama hiç şüphesiz aranızdan en az biri suçlu!!!"`
 `"......Bu-...Bu doğru.`
-` 19. kişi olamaz...!`
+` 19. bir kişi olamaz...!`
 ` Cadıların var olmasına imkan yok!!`
 ` Kanon-kun öldürüldüğünde bile,`
 ` ......evet, eğer Kumasawa-san yaptıysa bu açıklanabilir!!"`
 `"Gerçek şu ki Kumasawa-san, Kanon-kun'la birlikte kazan dairesine girdi ve onu öldürdü!`
 ` Sonra da oraya vardığında çoktan yere düştüğünü söyleyerek yalan söyledi!!"`
-`"H-Hata yapıyorsunuz, Leydim...!!`
+`"H-Hata yapıyorsunuz Leydim...!!`
 ` Ben neden böyle bir şey yapayım ki...?!!"`
 `"...Ailemin o kilitli odada nasıl öldürüldüğü hakkında en ufak bir fikrim yok.`
-` Ama öldürüldüklerinde, hizmetkarlar dışında herkesin bir mazereti vardı."`
+` Ama öldürüldüklerinde hizmetkarlar dışında herkesin bir mazereti vardı."`
 `"......Sadece hizmetkarların yoktu...`
 ` Ama, ...onlardan şüphelenmek gerçekten doğru mu...?!"`
 `".....G-...Gerçekten, şimdi sen söyleyince hiçbir olay için mazeretleri yok, ama...`
 ` .........nghh!!"`
 `Gerçekten bu kadar çabuk mu karar vermeliyiz?!`
 `{n}Ama bu sefer...bu odada, bu yerde, bu anda...bu küçük zaman ve mekan parçasında, bu çok açık.`
-`Sadece dördünden sadece biri mektubu kör noktamıza koymuş olabilir...!!`
+`Sadece ama sadece dördünden biri mektubu kör noktamıza koymuş olabilir...!!`
 `{n}Kimin koyduğunu söyleyemiyoruz ama dördünden birinin koyduğu çok açık...!!`
 `"...Na-......Natsuhi-san.`
 ` Lütfen sakinleşin...`
 ` Bugün çok şey oldu!`
 ` Şu anda kalbinizin içinde bulunduğu durumu anlıyorum...!"`
 `"Doktor Nanjo, size şüpheli demek bana gerçekten acı veriyor...!`
-` Ancak, Babamın kişisel doktoru—ve en yakın arkadaşı!—olarak uzun yıllardır onun yanındasınız."`
+` Ancak, Babamın kişisel doktoru—ve en yakın arkadaşı—olarak uzun yıllardır onun yanındasınız."`
 `"{f:5:Beatrice}'i de biliyor olabilirsiniz.`
 ` Onun eski bir kişisel bağlantısını saklıyor olabilir misiniz?!"`
 `"Tabii ki hayır...!!`
@@ -1006,7 +1006,7 @@
 ` Durumu anlamıyor musun?!`
 ` Böyle şeyler söyleyerek ne kazanmayı umuyorsun?!`
 ` Birbirinizi anlamsızca kışkırtmayı bırakın!"`
-`"......Anlamıyorum.`
+`"......Maria anlamıyor.`
 ` ...Siz kimin suçlu olmasını istiyorsunuz?"`
 `"Sadece kendinizden birinden şüphe etmek istemediğinizde {f:5:Beatrice}'e inanıyorsunuz,`
 ` ......ve size yakın biri öldürüldüğü için kin duymaya kalkıştığınızda, ancak o zaman şiddetle saldırabileceğiniz bir {y:0:İnsan}{n:0:insan} suçluya inanmak ve {f:5:Beatrice}'i inkar etmek istiyorsunuz."`
