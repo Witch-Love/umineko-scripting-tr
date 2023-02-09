@@ -223,7 +223,7 @@
 ` Maria-chan böyle giderse üşütecek."`
 `".........Haklısın.`
 ` Maria, gidelim.`
-` Eğer seni temizlemezsek, büyükbabam sana kızacak."`
+` Eğer seni temizlemezsek, Büyükbabam sana kızacak."`
 `"Uu...`
 ` Acıktım."`
 `"Yemek vakti çoktan geldi.`
@@ -719,7 +719,7 @@
 ` ...{f:5:Beatrice} bunu sana yemek bittikten sonra okumanı söyledi, değil mi?"`
 `"Uu!"`
 `".........Neden olmasın, millet.`
-` Bu büyükbabanın zarfı değil, {f:5:Beatrice}'in.`
+` Bu Büyükbabanın zarfı değil, {f:5:Beatrice}'in.`
 ` Kimin yazdığı kimin umurunda, neden yargılamadan önce içinde ne olduğunu duymuyoruz?"`
 `"Bu-...bu doğru.`
 ` Babam yazmamış olsa bile, yine de içeriği hakkında endişeliyim.`

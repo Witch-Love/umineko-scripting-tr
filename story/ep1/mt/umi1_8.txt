@@ -13,7 +13,7 @@
 `...Görünüşe göre Jessica da aynı şekilde hissediyordu.`
 `Kimse bizden ayrılmamızı istemediği halde yerimizden kalktık ve ailelerimizden ayrı bir yerde takılmaya gittik...`
 `".........Anlıyorum.`
-` Şimdi büyükbabamın yemek sırasında neden yüzünü göstermek istemediğini gerçekten anlıyorum."`
+` Şimdi Büyükbabamın yemek sırasında neden yüzünü göstermek istemediğini gerçekten anlıyorum."`
 `"Artık ailelerimize olan bütün umutlarım tükendi!`
 ` Para, miras!`
 ` Göz göre göre nasıl böyle davranabilirler!"`
@@ -87,7 +87,7 @@
 `{n}Kyrie-san omuz silkti.`
 `"...Bu karın ağrısı tartışması bütün gece devam edebilir.`
 ` Çok yorucu."`
-`"Söyleyebileceğim tek şey, umarım Büyükbaba'nın mülkünde akbabacılık oynamanın keyfini doyasıya çıkarırsınız.`
+`"Söyleyebileceğim tek şey, umarım Büyükbabanın mülkünde akbabacılık oynamanın keyfini doyasıya çıkarırsınız.`
 ` ...Bu iğrenç."`
 `"Bu konuda sana katılıyorum.`
 ` Ben de senin gibi sıvışabilseydim, sıvışırdım.`
@@ -113,11 +113,11 @@
 ` paylarının hangi durumlarda korunacağı ve en kötü senaryoda hangi yasal önlemlerin alınacağı hakkında sürekli tartışıyorlardı.`
 `......Bu noktada duygularım tiksintinin ötesine geçmişti ve artık onların hesaba katılması gereken bir güç olduğunu hissediyordum...`
 `"Yani, basitçe,`
-` {f:5:Beatrice}, büyükbabanın gönderdiği bir suikastçı gibi.`
+` {f:5:Beatrice}, Büyükbabanın gönderdiği bir suikastçı gibi.`
 ` ...Muhtemelen kendisi olmadan mirasın paylaşımı hakkında konuştukları için çocuklarının ödünü koparmak istedi.`
 ` Ihihi!"`
 `"Bu {f:5:Beatrice} denen kişinin kim olduğunu merak ediyorum.`
-` Eğer o olduğunu söylediği kişiyse, o zaman kendisi bugüne kadar kimsenin bilmediği bir gizem ve Büyükbaba'nın saklı altınlarının varlığını da biliyor.`
+` Eğer o olduğunu söylediği kişiyse, o zaman kendisi bugüne kadar kimsenin bilmediği bir gizem ve Büyükbabanın saklı altınlarının varlığını da biliyor.`
 ` Dahası, Reis'in Yüzüğü bile ona devredilmiş.`
 ` ...Ona gerçekten güvenmiş olmalı."`
 `"Açıkçası ben onun süpürgeyle dolaşan bir cadı olduğunu düşünmüyorum.`
@@ -948,14 +948,14 @@
 `"Ben, ben özür dilerim... Ben de öyle demek istememiştim......"`
 `İkisi de utangaç bir şekilde ayaklarına baktılar.`
 `Shannon'un ailesi yoktu.`
-`{n}Kinzo'nun sahibi olduğu Gospel Evi adlı bir sosyal yardım enstitüsünde büyümüştü.`
-`Onursal müdür Kinzo'nun rehberliğinde, Gospel Evi mükemmel öğrencilere, hizmet hayatı yaşama şansı sunuyordu.`
+`{n}Kinzo'nun sahibi olduğu Fukuin Evi adlı bir sosyal yardım enstitüsünde büyümüştü.`
+`Onursal müdür Kinzo'nun rehberliğinde, Fukuin Evi mükemmel öğrencilere, hizmet hayatı yaşama şansı sunuyordu.`
 `Kabul edildikleri takdirde enstitüden ayrılabilecek ve Ushiromiya ailesi için hizmetkar olarak çalışabileceklerdi.`
 `...Bu, bir öğrenci için en büyük onur olarak kabul edilirdi.`
-`Gospel ({ruby:Fukuin:{p:0:福音}}) Evi'nin tüm hizmetkârları, hizmet ettikleri süre boyunca içinde "{ruby:in/on/non:{p:0:音}}" karakteri bulunan isimler alırlardı.`
+`Fukuin ({p:0:福音}) Evi'nin tüm hizmetkârları, hizmet ettikleri süre boyunca içinde "{ruby:in/on/non:{p:0:音}}" karakteri bulunan isimler alırlardı.`
 `Yani "Shannon" ({p:0:紗音}) onun gerçek adı değildi.`
 `{n}Aynı şey "Kanon" ({p:0:嘉音}) için de geçerliydi.`
-`Gospel Evi'nin tüm öğrencileri yetimdi.`
+`Fukuin Evi'nin tüm öğrencileri yetimdi.`
 `{n}Ya da, bazı özel koşullar nedeniyle aileleri tarafından evlatlıktan reddedilmiş kişilerdi.`
 `......Bu nedenle öğrencilere birbirlerini tek aileleri olarak görmeleri öğretilmişti.`
 `Bu yüzden Kanon'un Shannon'a kız kardeşi demesi çok doğal görünüyordu.`
@@ -969,7 +969,7 @@
 `Bu nedenle, öğrenciler Ushiromiya ailesi için çalışmanın ne kadar zor bir görev olduğunu bilseler de, yine de kabul edilmeyi umuyorlardı.`
 `Ancak Shannon'un durumunda, belki de on yıldan fazla bir süre devam etmeyi başarmış olması, onun diğer hizmetkarlardan daha fazla iradeye sahip olduğu şeklinde değerlendirilmemeliydi.`
 `Belki de onu bu on yıl boyunca çalışmaya devam etmeye zorlayan şey, ayrılmak istediğini söyleyecek cesaretinin olmamasıydı.`
-`Kendi kanından olan akrabalarına bile güvenemeyen Kinzo için, Gospel Evi'nden gönderilen bu "mükemmel" hizmetkarlar güvenebileceği tek kişilerdi.`
+`Kendi kanından olan akrabalarına bile güvenemeyen Kinzo için, Fukuin Evi'nden gönderilen bu "mükemmel" hizmetkarlar güvenebileceği tek kişilerdi.`
 `Bu nedenle Kinzo bazen onların doğrudan kontrolü altındaki hizmetkârlar olarak aile armasını taşımalarına ve kendisine yakın çalışmalarına izin verirdi...`
 `"......Err, ......um, yaklaşık on yıldır burada çalışıyorsun, değil mi?`
 ` Şimdiye kadar çok para biriktirmiş olmalısın, değil mi?"`

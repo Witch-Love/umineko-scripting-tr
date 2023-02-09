@@ -27,7 +27,7 @@
 `Başlığın altında da uzun bir kitabe gibi görünen bir şey yazılıydı.`
 `Göz gezdirirken, gözüme çarpan bir dizi ürkütücü kelime beni şaşkına çevirdi.`
 `"İnanılmaz, değil mi?`
-` Bunu büyükbabam yazmış.`
+` Bunu Büyükbabam yazmış.`
 ` ...Oldukça derin, ha?"`
 `"Uu!`
 ` Biliyorum!`
@@ -36,7 +36,7 @@
 ` Beni geçmişe götüren başka bir şey daha var...`
 ` ......Bekle, Aniki, ...bu gerçek mi?"`
 `"Büyükbabam bunu yazdırdı ama bu resim ya da kitabe hakkında bir şey söylemeyi reddediyor.`
-` .........Yine de aile içinde bunun büyükbabanın saklı altınlarının yerini gösterdiğinden sık sık bahsedilir,`
+` .........Yine de aile içinde bunun Büyükbabanın saklı altınlarının yerini gösterdiğinden sık sık bahsedilir,`
 ` ve bilmeceyi çözen kişiye aile reisliğiyle beraber altını da bırakacağını söyledi."`
 `"Uu!`
 ` Bunu ben de duydum, bunu ben de duydum!`
@@ -45,13 +45,13 @@
 ` On ton külçe altın.`
 ` Bana biraz fazla şüpheli geldi."`
 `"Yine de, eğer bunu baştan sona okursan, neredeyse gerçek gibi görünüyor."`
-`.........Sanırım büyükbabamın yetiştirilme tarzını zaten açıklamıştım,`
+`.........Sanırım Büyükbabamın yetiştirilme tarzını zaten açıklamıştım,`
 ` ama Ushiromiya ailesinin "Altın Efsanesi"nden de bahsetmeme izin verin.`
 `Büyükbaba, Ushiromiya ailesi Büyük Kanto Depremi'nde neredeyse tamamen yok olduktan sonra ailenin başına geçti,`
 ` ve savaştan sonra fırtınalı denizlerde başarılı bir şekilde ilerleyerek büyük bir servet biriktirmeyi başardı.`
 `...Hikayenin bu kısmını herkes biliyor.`
 `{n}Ancak hikayenin tuhaf kısmı burada başlıyor.`
-`...Bir kısmı büyükbabanın kara büyü hobisiyle yakından bağlantılı, bu yüzden inandırıcılığı son derece düşük, ama......`
+`...Bir kısmı Büyükbabanın kara büyü hobisiyle yakından bağlantılı, bu yüzden inandırıcılığı son derece düşük, ama......`
 `......Saçmalık olduğunu düşünmeden ya da dalga geçmeden önce sonuna kadar bekleyin.`
 `Savaştan sonra Büyükbaba geleceğin ne getireceğini başarıyla tahmin etmiş, oynadığı büyük kumar tutmuş ve büyük bir servet biriktirmişti,`
 ` ......ancak fonları ilk etapta nasıl elde ettiğine dair gizemli bir efsane var.`
@@ -60,7 +60,7 @@
 `Para ancak güvene dayalı olarak toplanabilir.`
 `{n}Kimsenin güvenilmez birine borç para vermesine imkan yoktur.`
 `......Güvenilirliği sıfır olan Büyükbaba, ilk etapta büyük miktarda fon elde etmeyi nasıl başardı?`
-`......Bu soru sorulduğunda Büyükbaba'nın şöyle cevap verdiği söylenir:`
+`......Bu soru sorulduğunda Büyükbabanın şöyle cevap verdiği söylenir:`
 `{i:Kaderin bir günü, Altın Cadı }{f:7:Beatrice}{i: ile karşılaştım.}`
 `Daha sonra, büyük bir büyücü olmak için simya ve iblis çağırma tekniklerini nasıl araştırmaya devam ettiğini anlatıyor.`
 `...Ve iblis çağırma ritüeli sonucunda çağrılan varlık Altın Cadı {f:5:Beatrice}'miş.`
@@ -70,7 +70,7 @@
 ` sonra da bunu servetini birkaç katına çıkarmak ve Ushiromiya ailesini yeniden canlandırmak için kullandı...`
 `Görünüşe göre bu hikaye o kadar eski ki anne ve babamıza daha çocukken anlatılmış.`
 `Yani ailelerimiz küçükken,`
-` büyükbabanın cadıdan aldığı altınların bir yerlerde saklı olabileceğine inanarak bu adayı çeşitli şekillerde araştırdılar.`
+` Büyükbabanın cadıdan aldığı altınların bir yerlerde saklı olabileceğine inanarak bu adayı çeşitli şekillerde araştırdılar.`
 `Ancak, balta girmemiş ormanda kaybolma tehlikesi de vardı,`
 ` Büyükanne ya da birileri cadının ormanda yaşadığı ve oraya yaklaşmanın çok tehlikeli olduğu hikayesini yaymaya başladı...`
 `"......Bu eski hikayeyi hatırlıyorum.`
@@ -78,7 +78,7 @@
 ` .........Ormanda kaybolup hizmetkarlardan biri bizi bulana kadar ağlamamış mıydık? Ailelerimiz bize çok kızmıştı.`
 ` ...Bu beni geçmişe götürdü."`
 `"Ne kadar da aptalmışız, değil mi?`
-` Yani, hadi ama, büyükbabam o parayla işin sonunda bu adayı satın aldı, değil mi?`
+` Yani, hadi ama, Büyükbabam o parayla işin sonunda bu adayı satın aldı, değil mi?`
 ` Demek ki buraya gelmeden önce altını vardı.`
 ` Altının burada, adada olmasına imkan yok."`
 `"......Böyle olması şart değil.`
@@ -86,26 +86,26 @@
 ` On ton altın vardı, değil mi?`
 ` Hepsini taşımaya çalışmak yerine onları sakladığı yeri güvenceye almaya çalışması daha gerçekçi görünüyor."`
 `"Bu kitabe iki yıl önce yazılmış.`
-` Ve büyükbabam bunu kendisi yazdığı için...`
+` Ve Büyükbabam bunu kendisi yazdığı için...`
 ` ......Anlıyorum, bu Altın Efsanesi'ni daha inandırıcı kılıyor."`
 `"Büyükbabaya bir cadı tarafından bahşedilen on ton altını Ushiromiya ailesini canlandırmak için kullandığı söyleniyor.`
 ` ......Şu anda bile bir yerlerde duruyor ve Büyükbaba onu bilmecesini çözebilecek kişiye teslim etmeyi planlıyor olabilir."`
-`".........Hahh, sanırım bu tam Büyükbaba'ya göre bir şey......`
+`".........Hahh, sanırım bu tam Büyükbabaya göre bir şey......`
 ` Ihihi!`
 ` Eğer doğruysa, bu büyük bir fırsat."`
 `Levhaya kazınmış kitabe çok gizemliydi, şiir ya da şarkı gibi bir şeydi.`
-`Cümleleri inanılmaz derecede rahatsız ediciydi, Büyükbaba'nın kara büyü hobisinin havasıyla doluydu ve gerçekten zevksizdi,`
+`Cümleleri inanılmaz derecede rahatsız ediciydi, Büyükbabanın kara büyü hobisinin havasıyla doluydu ve gerçekten zevksizdi,`
 ` ama gerçekten çözüldüğü takdirde altının saklı olduğu yere götürecek bir bulmaca olarak görülebilir.`
 `"Niyetinin bu olup olmadığını hayal bile edemiyorum.`
 ` ......Tek söyleyebileceğim, bu şaibeli kitabenin ailedeki herkesin görebilmesi için burada sergilendiği."`
 `"Ve altının varlığını ima ederken bile, saklandığı yer konusuna değinmeyi reddediyor.`
-` .........Bu da ailemizin hayal gücünün çılgına dönmesine neden oldu ve buna Büyükbaba'nın zeka savaşı adını verdi..."`
+` .........Bu da ailemizin hayal gücünün çılgına dönmesine neden oldu ve buna Büyükbabanın zeka savaşı adını verdi..."`
 `"...Bahse girerim bu saçmalığı olduğu gibi kabul eden tek kişi babamdır, böyle bir şeyi bu kadar ciddiye alabilecek kadar açgözlü.`
 ` Büyükbabamın kara büyü hobisine gülse bile, bu saklı altın hikayesine inanıyordur.`
 ` Kulağa çok hoş geliyor."`
 `"......Pekala, bu kesinlikle gerçekçi bir hikâye değil.`
 ` Büyükbabanın henüz tanınmadığı ve hiçbir bağlantısının bulunmadığı o dönemde, kimsenin ona bedavaya yüklü miktarda külçe altın ödünç vermesinin imkanı yok.`
-` ......Yine de, böyle bir kişi gerçekten var olsaydı, Büyükbaba'nın böyle bir sponsora cadı demesi mantıksız olmazdı."`
+` ......Yine de, böyle bir kişi gerçekten var olsaydı, Büyükbabanın böyle bir sponsora cadı demesi mantıksız olmazdı."`
 `"Evet, ama bu 10 ton. 10 ton!`
 ` Bunu paraya çevirdeydin, ne kadar ederdi?`
 ` Gülünç bir miktar olmalı, değil mi?!"`
@@ -177,14 +177,14 @@
 ` ...Altın Efsanesi'nin kulağa oldukça ilginç gelmesine rağmen, sadece 10 ton altınla ilgili kısım bile biraz abartılı..."`
 `"Mantıklı bir şekilde düşünürseniz, kulağa açıkça sahte geliyor.`
 ` Haha, insanı gerçekliğe geri döndürüyor."`
-`"Ne de olsa Büyükbaba'dan bahsediyoruz.`
+`"Ne de olsa Büyükbabadan bahsediyoruz.`
 ` Bir tür zenginden aldığı finansmanı, bir cadıdan aldığı on ton altın gibi abartılı bir metaforik şekilde ele almış olabilir.`
 ` "10 ton" sayısı bile oldukça sembolik geliyor."`
 `"Yani borç aldığı para için minnettarlığı 10 ton altın değerinde falan mı?"`
-`"Hehehe, belki de zengin bir adamın zengin karısı cömertçe büyükbabaya bağışlamıştır.`
+`"Hehehe, belki de zengin bir adamın zengin karısı cömertçe Büyükbabaya bağışlamıştır.`
 ` Belki de o zaman bu kadına cadı demeye başlamıştır?"`
 `Hmm, Jessica'nın örneği hiç fena değil.`
-`...Eğer birisi Büyükbaba'nın güvenilirliği hala sıfırken ona büyük miktarda borç verecek kadar cömert olsaydı,`
+`...Eğer birisi Büyükbabanın güvenilirliği hala sıfırken ona büyük miktarda borç verecek kadar cömert olsaydı,`
 ` kesinlikle cadı olarak adlandırılmaya layık biri olurdu.`
 `......Dahası, Büyükbaba daha sonra bu parayı büyük miktarda servet inşa etmek için kullandı.`
 `...İnsanları değerlendirebilme konusunda böylesine inanılmaz bir yeteneğe sahip olduğu için,`
@@ -195,13 +195,13 @@
 `aslında doğru bir tanımlama olabilir.`
 `"Anlıyorum.`
 ` ............Başka bir deyişle, bu cadı Ushiromiya ailesini yeniden canlandırmak için gerekli fonları sağladı ve Büyükbaba ona büyük borçlandı.`
-` ...Eğer durum buysa ve büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...evet, bu o kadar da garip bir hikaye olmayabilir."`
+` ...Eğer durum buysa ve Büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...evet, bu o kadar da garip bir hikaye olmayabilir."`
 `"Hey, ya bu kişi yaşlı bir cadıya benziyorsa?`
-` Ve sonra büyükbabam onun görünüşünü idealleştirdi ve resmi çizdirdiğinde onu bu güzelliğe dönüştürdü.`
+` Ve sonra Büyükbabam onun görünüşünü idealleştirdi ve resmi çizdirdiğinde onu bu güzelliğe dönüştürdü.`
 ` Hahahahaha, bahse girerim bu kişiyle tanışsaydık, bu kadar güzel olmazdı!"`
 `"Hahahaha, bu mümkün.`
 ` {f:5:Beatrice} ismi kulağa oldukça Batılı geliyor ve ailemizdeki herkesin Batı tarzı isimlere sahip olduğunu düşünürseniz,`
-` belki de {f:5:Beatrice} ismi bile büyükbabamın bir Japon'un ismini yeniden düzenleyerek Batılı bir isim haline getirmeye çalışmasının sonucudur."`
+` belki de {f:5:Beatrice} ismi bile Büyükbabamın bir Japon'un ismini yeniden düzenleyerek Batılı bir isim haline getirmeye çalışmasının sonucudur."`
 `"Anladım, anladım.`
 ` Bu, bu güzel kızın resmin dışında var olmadığı anlamına geliyor.`
 ` Sanırım bu o zar~if göğüsleri ovalayamayacağım anlamına geliyor, ihihi!`
@@ -273,7 +273,7 @@
 ` ...{f:5:Beatrice}-sama gerçekten de çok güzel.`
 ` Eminim Efendi'yi büyülemiştir."`
 `"Ahahahaha.`
-` Patron teorisine ek olarak, onun Büyükbaba'nın ilk aşkı olduğuna dair bir teori de var.`
+` Patron teorisine ek olarak, onun Büyükbabanın ilk aşkı olduğuna dair bir teori de var.`
 ` ...Her iki durumda da, onunla tanışmasının üzerinden onlarca yıl geçmesine rağmen, şu anda bile kalbinde özel bir yeri var.`
 ` ...Bu da bugün bile onun tarafından büyülendiği anlamına geliyor olmalı."`
 `"Vay be.`
@@ -320,9 +320,9 @@
 ` ......Battler, hala inanmıyor musun...?"`
 `"Oh, hayır inanıyorum.`
 ` ......Bu şekilde daha fantastik!`
-` Altın Cadı {f:5:Beatrice} büyükbabama 10 ton altın verdi!"`
+` Altın Cadı {f:5:Beatrice} Büyükbabama 10 ton altın verdi!"`
 `"Ve o altın bir yerlerde duruyor olabilir.`
-` Ayrıca, büyükbabanın o garip kitabeyi, bulabilirsek bulmamız için bize meydan okurcasına yazdığını söylüyorlar.`
+` Ayrıca, Büyükbabanın o garip kitabeyi, bulabilirsek bulmamız için bize meydan okurcasına yazdığını söylüyorlar.`
 ` Bence böyle romantik bir hikaye çok daha iyi."`
 `"20 milyyyaaar yen değerinde altın!`
 ` Dördümüz arasında bölüştürsek bile, yine de gülünç bir para!"`

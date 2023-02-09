@@ -196,7 +196,7 @@
 ` ......Ve siz, Battler-sama, görüyorum ki siz de muhteşem bir genç adam olmuşsunuz.`
 ` .........Hatta Efendi'nin gençliğine benzediğinizi bile söyleyebilirim."`
 `"Büyükbabama mı benziyorum?`
-` Sanırım bu, Büyükbaba'nın gençken oldukça popüler olduğu anlamına geliyor, ihihi!"`
+` Sanırım bu, Büyükbabanın gençken oldukça popüler olduğu anlamına geliyor, ihihi!"`
 `".........Bu andan itibaren Shannon'un yerini alıp size eşlik edeceğim.`
 ` Lütfen, bu taraftan gelin."`
 `Shannon-chan derin bir selam verdi ve bizi uğurladı.`
@@ -206,9 +206,9 @@
 `{n}Son karşılaşmamızdan bu yana zaman durmuş gibiydi.`
 `Genji-san sessiz ve çalışkan bir insandı.`
 `{n}Büyükbabamın yakın yardımcısı ya da bakıcısı gibiydi,`
-` ......hatta büyükbabamın sağ kolu olduğunu söyleyecek kadar ileri gidebilirsiniz.`
-`Aslında büyükbabamın yanında rahmetli büyükannemden daha fazla olduğu anlaşılıyor.`
-`Jessica'ya göre, büyükbabam ona diğer akrabalarından daha çok güveniyormuş.`
+` ......hatta Büyükbabamın sağ kolu olduğunu söyleyecek kadar ileri gidebilirsiniz.`
+`Aslında Büyükbabamın yanında rahmetli büyükannemden daha fazla olduğu anlaşılıyor.`
+`Jessica'ya göre, Büyükbabam ona diğer akrabalarından daha çok güveniyormuş.`
 `Ama ne kadar süredir hizmet ettiğini merak ediyorum.`
 `{n}Ayrıntıları hiç sormadım ama sanırım en başından beri, bu malikane inşa edildiğinden beri burada olduğunu duydum.`
 `...Yani hayatının yarısını burada hizmet etmeye adamış.`
@@ -231,7 +231,7 @@
 ` ......eğer hafızam beni yanıltmıyorsa, geçen yıl civarındaydı."`
 `"............Haklısınız.`
 ` Geçen yılın Nisan ayında Efendi, bir süre önce bir ressama kendisi için resmetmesi talimatını verdiği bu tabloyu astırdı."`
-`"Bunu büyükbabam mı yaptı?`
+`"Bunu Büyükbabam mı yaptı?`
 ` Yani, çizdirmek için kendi yolundan şaştı..."`
 `Portrede, zarif bir elbise giymiş, incelik hissi veren ve bu malikanenin Batılı tarzına uygun görünen bir kadın resmedilmişti.`
 `.........Yaşını tahmin edemedim ama gözlerindeki keskinlik ve bariz irade gücü bana genç olduğu izlenimini verdi.`
@@ -268,7 +268,7 @@
 ` ve hayatları zaman zaman aynı şekilde tehlikeye giriyordu.`
 `...Eğer bir çocuk o tehlikeli ormanda oynamaya giderse, korkunç bir şey olabilirdi.`
 `Bazı ebeveynler bunu düşünmüş olmalı.`
-` ...Belki büyükannem, belki de bizzat kendisi, büyükbabam söylemiş olabilir.`
+` ...Belki büyükannem, belki de bizzat kendisi, Büyükbabam söylemiş olabilir.`
 `Ya da belki de bu adada uzun, çok uzun zaman önce anlatılan bir hikayeydi.`
 `{i:.........Ormanda korkunç bir cadı var, bu yüzden ormana girmemelisin.}`
 `Böylece Rokkenjima'nın hayalet hikayesi doğdu.`
@@ -281,8 +281,8 @@
 `.........Aniki'nin yönlendirmesiyle hafızamı yokladığımda, çok küçükken bana adının bu olduğunu söylediklerini hayal meyal hatırlıyordum.`
 `"...Doğru.`
 ` Yine de o efsanedeki cadının {f:5:Beatrice} gibi zarif bir ismi olduğunu tamamen unutmuştum.`
-` ......Sakın bana büyükbabamın sırf biz torunları ona inanmayı reddettiğimiz için onu bu tabloda resmettirme yoluna gittiğini söylemeyin."`
-`"......O büyükbabanın kuruntularındaki cadı.`
+` ......Sakın bana Büyükbabamın sırf biz torunları ona inanmayı reddettiğimiz için onu bu tabloda resmettirme yoluna gittiğini söylemeyin."`
+`"......O Büyükbabanın kuruntularındaki cadı.`
 ` ...Bu resmi astığından beri, hayal ile gerçek arasındaki ayrımı kaybediyor."`
 `"......Bizim için hayalindeki cadıdan başka bir şey değil, ama Büyükbaba için o bu adada "gerçek" olan bir varlık.`
 ` ......‘Gerçek’.`
@@ -324,7 +324,7 @@
 ` Acele edin ve yerlerinize oturun."`
 `Yaşlı piç oturmamız için bizi zorladı.`
 `Uzun masada sadece bizim oturacağımız yerlerin boş olması geç kaldığımızı daha çok hissettiriyordu.`
-`Masanın en başındaki koltuk, ki buna onur konuğu koltuğu da diyebilirsiniz, en yüksek rütbeliler içindi ve Büyükbaba'ya ayrılmıştı.`
+`Masanın en başındaki koltuk, ki buna onur konuğu koltuğu da diyebilirsiniz, en yüksek rütbeliler içindi ve Büyükbabaya ayrılmıştı.`
 `Hâlâ boştu.`
 `{n}...Muhtemelen kendini önemli göstermek için en son gelmeyi planlıyordu.`
 `Oturma düzeni, onur konuğu koltuğuna bakarken soldan sağa doğru ikişerli sıralar halinde ilerliyordu ve koltuktan uzaklaştıkça rütbe düşüyordu.`
@@ -382,7 +382,7 @@
 `Kural olarak, masanın başındaki adam yerine oturana kadar yemek başlamaz.`
 `{n}Dolayısıyla, Büyükbaba—en yüksek rütbeli olan—gelmediği sürece, öğle yemeği süresiz olarak askıda kalacaktı.`
 ` Mezeler bile gelmeyecekti.`
-`Başka bir deyişle, yemek salonundaki bu sessizlik, açlıklarına dayanmış ve diken üstünde Büyükbaba'nın gelmesini bekleyen ebeveynlerimizin sesiydi.`
+`Başka bir deyişle, yemek salonundaki bu sessizlik, açlıklarına dayanmış ve diken üstünde Büyükbabanın gelmesini bekleyen ebeveynlerimizin sesiydi.`
 `Ancak—benim hatırladığım Büyükbaba, bu şekilde birlikte yemek yediğimizde her zaman tam zamanında gelirdi.`
 `...Herkesin onu beklemesine neden olacak kadar geç kalmazdı.`
 `"Büyükbaba oldukça geç kaldı.`
