@@ -352,7 +352,7 @@
 `O sırada Shannon ve Kumasawa, mezelerle dolu bir servis arabasını iterek ortaya çıktılar.`
 `"O zaman belki de Kumasawa-san ya da Shannon-chan'dı?"`
 `"...Pardon?`
-` Bi-bir hata mı yaptım...?"`
+` Bi-Bir hata mı yaptım...?"`
 `Shannon büzülerek, yanlışlıkla, yarı yolda geldiği için bir hata yapmakla suçlandığını düşündü.`
 `"Hayır, yapmadın.`
 ` Maria-chan gül bahçesinde yalnızken yağmur yağmaya başladı.`
@@ -646,8 +646,8 @@
 `{n}Bu zarf Kinzo'dan bir mesaj içeriyordu.`
 `"Hoh.........`
 ` ...Böyle bir zarfın burada ne işi var...?"`
-`"......İl-, ......ilginç bir şey karşımıza çıkmış gibi görünüyor."`
-`".........B-bir göz atmama izin ver...!"`
+`"......İl-, ......İlginç bir şey karşımıza çıkmış gibi görünüyor."`
+`".........B-Bir göz atmama izin ver...!"`
 `"Uu!!`
 ` Hayır, okuyacağım!`
 ` Herkese okumam söylendi!!"`
@@ -664,7 +664,7 @@
 `"{ruby:<Messenger>:Elçi} mi...?`
 ` Ihihihi, adanın cadısı ortalığı karıştırmayı gerçekten çok seviyor."`
 `Battler bu konuda şaka yapmaya çalıştı ama kimse ona gülmedi.`
-`"..................İ-içinde ne yazdığını merak ediyorum. Maria-chan...?"`
+`"..................İ-İçinde ne yazdığını merak ediyorum. Maria-chan...?"`
 `"Uu.`
 ` Okuyorum!`
 ` Uu!"`
@@ -714,14 +714,14 @@
 ` Okumaya bile değmez."`
 `"Oh, okumaktan zarar gelmez, değil mi?"`
 `Battler bunu Jessica'ya küçük bir sesle, ortalığı karıştırmak istermiş gibi söyledi ama Natsuhi onu net bir şekilde duydu ve tehditkâr gözlerle ona baktı.`
-`"V-ve sonra,`
+`"V-Ve sonra,`
 ` err,`
 ` ...{f:5:Beatrice} bunu sana yemek bittikten sonra okumanı söyledi, değil mi?"`
 `"Uu!"`
 `".........Neden olmasın, millet.`
 ` Bu Büyükbabanın zarfı değil, {f:5:Beatrice}'in.`
 ` Kimin yazdığı kimin umurunda, neden yargılamadan önce içinde ne olduğunu duymuyoruz?"`
-`"Bu-...bu doğru.`
+`"Bu-...Bu doğru.`
 ` Babam yazmamış olsa bile, yine de içeriği hakkında endişeliyim.`
 ` ......Maria-chan, daha önce senden zorla almaya çalıştığım için üzgünüm!`
 ` Özür dilerim, o yüzden herkesin önünde yüksek sesle okur musun?"`
@@ -754,8 +754,8 @@
 ` Ben, {f:5:Beatrice}, Kinzo-sama'ya belirli koşullar altında büyük miktarda altın ödünç verdim.`
 ` Bu şartlardan biri, sözleşmenin feshi üzerine tüm altının bana iade edileceğini belirtmektedir.`
 ` Bu sebepten ötürü Ushiromiya ailesinin her şeyini faiz olarak tahsil edeceğim."`
-`"S-saçmalık!!"`
-`"...E-en başından beri saçmaydı..."`
+`"S-Saçmalık!!"`
+`"...E-En başından beri saçmaydı..."`
 `"Yani temelde o şeylerden biri, değil mi?`
 ` Hep duyduğunuz şu şeytanlarla yapılan anlaşmalardan biri gibi.`
 ` Sözleşmenin süresi doldu, o da faizini almaya geldi.`
@@ -768,7 +768,7 @@
 ` Ancak Kinzo-sama, servetinizi ve onurunuzu koruma şansına sahip olabilmeniz için sözleşmeye özel bir madde ekledi.`
 ` Şayet ve ancak bu özel madde yerine getirilirse, altın ve faiz üzerindeki haklarımı sonsuza kadar yitireceğim."`
 `"......Özel bir madde mi...?"`
-`"Ne-nedir o...?!"`
+`"Ne-Nedir o...?!"`
 `{e:070:Özel Madde.`
 `Sözleşmenin feshi üzerine {f:5:Beatrice} altını ve birikmiş faizi tahsil etme hakkına sahiptir.`
 `Fakat, eğer birisi bu sözleşmedeki gizli altını keşfedebilirse,`
@@ -786,7 +786,7 @@
 ` Belirsiz bir hatıra yüzünden böyle dikkatsizce bir şey söylemeyin!"`
 `"Burada gerçekliğini kanıtlayamayız.`
 ` Babamın yüzüğünü gerçekten devredip devretmediği ve bu mektubun gerçeği anlatıp anlatmadığı sorularını doğrudan kendisine sorarak öğrenebiliriz."`
-`"Bu-bu doğru.`
+`"Bu-Bu doğru.`
 ` Tıpkı Kyrie-san'ın dediği gibi..."`
 `".........Pekala, emin değilim.`
 ` Kinzo-san size cevap verecek mi...?`
@@ -800,7 +800,7 @@
 `"Böyle şüpheli bir kağıdı bir çocuğa emanet edecek kadar tuhaf bir insana güvenmemiz mümkün değil!"`
 `"Aniki... İtiraf etme vaktin geldi.`
 ` Tanımadığın birinin babamın mal varlığını idare ediyor olması mümkün mü?!"`
-`"H-hayır, bu imkansız!`
+`"H-Hayır, bu imkansız!`
 ` Ana temsilci olarak, babamın tüm mal varlığı hakkında tam bilgiye sahibim!`
 ` Benim haberim olmadan onları manipüle edebilecek kimse olmamalı!"`
 `"O halde, tam bilgi sahibi olmadığınız bazı varlıklar olmalı, değil mi Krauss nii-san?"`

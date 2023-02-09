@@ -20,7 +20,7 @@
 `"Yani, benim o yaşlı piçe olan tüm umutlarım çoktan tükendi.`
 ` Onun hakkında daha kötüsünü düşünmeme imkan yok.`
 ` Ihihi!"`
-`"Be-benim için öyle olmadığını mı düşünüyorsun?!`
+`"Be-Benim için öyle olmadığını mı düşünüyorsun?!`
 ` Ama öyle bile olsa......bu beni şok etti.`
 ` Kalbimin derinliklerine kadar şok oldum..."`
 `Jessica sinirli bir şekilde yere baktı.`
@@ -223,7 +223,7 @@
 `Bu kişi gerçek kimliğini saklayıp {f:5:Beatrice} gibi davranarak ne planlıyordu...?`
 `"Maria-chan'ın rol yapıyor olabileceğinden de şüpheleniyordum, ancak mesajın içeriği son derece karmaşıktı, bu yüzden Maria-chan'ın kendisinin bunu hazırladığını düşünmek zor.`
 ` ......Ancak yine de, Maria-chan'ın biriyle birlikte çalışıyor olma ihtimalini inkar edemem."`
-`"B-bir saniye...Maria dokuz yaşında bir çocuk!`
+`"B-Bir saniye...Maria dokuz yaşında bir çocuk!`
 ` Onun biriyle bir şey planladığından nasıl kuşkulanabilirsin ki?!`
 ` Peki ya onun ciddi, çok dürüst ve itaatkar karakterine ne demeli?!"`
 `"Evet, ben de Maria-chan'ın nasıl biri olduğunu anlıyorum.`
@@ -336,7 +336,7 @@
 `......Babamın her zaman kendinden çok emin görünen ve her zaman alaycı bir ifade takınan yüzü,`
 ` ......açıklayamadığım bir nedenden dolayı garip bir şekilde zayıftı.`
 ` ............O kadar yıpranmıştı ki farklı bir insan gibi görünüyordu.`
-`"N-ne...?!`
+`"N-Ne...?!`
 ` ...Neden bahsediyorsun, bu hiç senlik değil!"`
 `"*giggle*.`
 ` Katılıyorum.`
@@ -369,7 +369,7 @@
 ` ......Ne kadar şımarık bir çocuk."`
 `"Neeee?!`
 ` Bu teorinin doğru olduğuna emin misin?!`
-` B-bu çok saçma."`
+` B-Bu çok saçma."`
 `"Heheheh, büyük dedektifler erkekler ve kadınlar arasındaki duyguları ve hisleri açıklayabilir mi?`
 ` Açıklayamazlar, değil mi?`
 ` Karşı cinsin duygularını anlamak, zor suç vakalarındaki hileleri ortaya çıkarmaktan bile daha gelişmiş bir sanattır.`
@@ -505,7 +505,7 @@
 `"Gerçekten var.`
 ` ......Ushiromiya Kinzo'nun {f:5:Beatrice}'den aldığı altın gerçekten var."`
 `"Nasıl olur...............!`
-` B-......bu nasıl gerçekten var olabilir............"`
+` B-......Bu nasıl gerçekten var olabilir............"`
 `Natsuhi şok olmuştu......`
 `Krauss her zaman Kinzo'nun altınlarının uydurma olduğunu söylerdi.`
 `{n}Bu yüzden karısı olarak buna inanmıştı.`
@@ -620,11 +620,11 @@
 `Jessica annesini sevmezdi.`
 `{n}......Bu yüzden sırf biraz bitkin görünüyor diye annesine şefkatli sözler söylemek gibi bir içgüdüsü yoktu...`
 `Bu nedenle, ne olursa olsun bu sözleri söyleyebilmek için iki yumruğunu da sıkması ve kelimeleri kalbinin derinliklerinden söküp çıkarması gerekiyordu.`
-`"Gö-, .........görünüşe göre bu tartışmayla gerçekten çok meşgulsünüz..."`
+`"Gö-, .........Görünüşe göre bu tartışmayla gerçekten çok meşgulsünüz..."`
 `".....................Bunun seninle hiçbir ilgisi yok.`
 ` Lütfen başka bir yere git."`
 `".........Baş ağrın kötü mü?`
-` Gi-gidip ilaç getireyim mi?"`
+` Gi-Gidip ilaç getireyim mi?"`
 `"...............Zahmet etmene gerek yok.`
 ` ...Lütfen, beni yalnız bırak."`
 `Natsuhi ona soğuk davranmıyordu.`
@@ -642,7 +642,7 @@
 `"......Ne...?"`
 `"............Düşünceli olduğun için teşekkür ederim.`
 ` .........Uyumaya gidip seni yalnız bırakmam iyi olmadı."`
-`"B-böyle konuşma, kötü şans getireceksin..."`
+`"B-Böyle konuşma, kötü şans getireceksin..."`
 `"...Seni endişelendirdiğim için özür dilerim.`
 ` Şimdi iyiyim.`
 ` .........Gideceğim."`
@@ -666,7 +666,7 @@
 `......Bu yüzden Natsuhi geri gelip o eli tuttuğunda son derece şaşırmıştı...`
 `"......................Bu nedir?`
 ` Bir çeşit hediye mi?"`
-`"Ş-şey, sanırım, sanırım öyle bir şey...`
+`"Ş-Şey, sanırım, sanırım öyle bir şey...`
 ` Sanırım oyuncağa benzeyen bir tılsımdan herhangi bir fayda bekleyemezsin......"`
 `Ama annesi akrep tılsımını onun elinden aldı.`
 `"Teşekkür ederim.`
@@ -717,7 +717,7 @@
 `Bu sözlerin ardındaki gölgede, kendisi de dahil olmak üzere yetişkinlerin Maria'nın duygularını derinden incitmiş olmalarından duyulan bir pişmanlık var gibiydi...`
 `"Bize bırak, teyze.`
 ` Ne de olsa Maria'yı teselli etme konusunda bir uzmanımız var!"`
-`"B-benden mi bahsediyorsun?`
+`"B-Benden mi bahsediyorsun?`
 ` Bunu tek başıma yapamam.`
 ` Herkese ihtiyacımız var."`
 `"Bu doğru.`
@@ -767,7 +767,7 @@
 `Yağmurlu gül bahçesini yarıp geçtikten sonra konukevine vardık.`
 `"Ahh, keşke Maria taşıyıcılığı pozisyonu için başvursaydım!`
 ` O zaman şemsiyeyi üzerime tutarken Shannon-chan'ın kocaman göğsünü kolumla okşayabilirdim!"`
-`"Bu-bu-bu-bu bilerek olmadı, bu bir yanlış anlaşılma...!"`
+`"Bu-Bu-Bu-Bu bilerek olmadı, bu bir yanlış anlaşılma...!"`
 `"Ben, ben Eğer öyle yapmazsam George-sama'nın ıslanacağını düşündüm........."`
 `"Hadi ama, gevezeliği bırakın ve içeri girin!"`
 `Jessica tarafından dürtüldükten sonra Shannon şemsiyesini katladı ve konukevine girdi.`
@@ -801,7 +801,7 @@
 ` Kumasawa-san ve benim de geceyi konukevinde geçirmemiz emredildi.`
 ` Az önce sizin de burada kalacağınıza dair bir telefon aldık."`
 `"Huh...?`
-` Bu-bu oldukça büyük bir değişiklik...`
+` Bu-Bu oldukça büyük bir değişiklik...`
 ` Konukevi ve malikanedeki vardiyalar tamamen tersine çevrildi, değil mi...?"`
 `Başlangıçta, Shannon ve Kanon'a malikanede gece vardiyası verilirken, tüm akrabaların kaldığı konukevindeki gece vardiyası, eğlence konusunda bolca deneyimi olan Gohda'ya verilmişti.`
 `Kumasawa'nın konukevinde, Genji'nin ise malikanede kalması planlanmıştı.`
@@ -853,7 +853,7 @@
 ` Gece vardiyasına verildin.`
 ` ...Ayrıca bizim gibi mobilyaların oyun davetlerine cevap vermesine gerek yok.`
 ` ...Anlıyorsun, değil mi?"`
-`"E-...evet, anlıyorum.`
+`"E-...Evet, anlıyorum.`
 ` ..................nn."`
 `Shannon omuzlarını hafifçe düşürdü.`
 `...Kuralların çok önemli olduğunu düşünen Kanon'un muhtemelen böyle bir şey söyleyeceğini zaten tahmin ediyordu ama yine de biraz hevesi kaçmıştı.`
@@ -944,7 +944,7 @@
 ` babamın çok çalışarak karakterini ne kadar geliştirdiğini görüyor ve bugüne kadar sahip olduğu her şeyi nasıl inşa edebildiğini çok iyi anlıyorum."`
 `"George-sama, gerçekten de babanızı örnek alıyorsunuz...`
 ` Kıskanıyorum."`
-`"A-ah üzgünüm...söylemek istediğim şey tam olarak bu değildi."`
+`"A-Ah üzgünüm...söylemek istediğim şey tam olarak bu değildi."`
 `"Ben, ben özür dilerim... Ben de öyle demek istememiştim......"`
 `İkisi de utangaç bir şekilde ayaklarına baktılar.`
 `Shannon'un ailesi yoktu.`
@@ -977,7 +977,7 @@
 ` Satın almak istediğim özel bir şey yok...`
 ` Ve birkaç milyon yeninizin olması, hayatınızın geri kalanını geçirecek kadar paranız olduğu anlamına gelmez..."`
 `"Yani burada hedeflediğin miktara ulaşmak için çalışmıyorsun?"`
-`".........E-...evet, doğru.`
+`".........E-...Evet, doğru.`
 ` ......Bu malikanenin dışında gidecek hiçbir yerim yok.`
 ` ......Leydi ve diğer genç hizmetkarlarla da iyi geçiniyorum...`
 ` ......Bazen Madam'dan azar işitiyorum ama, ......gül bahçesine bakmak ve malikaneyi temizlemek eğlenceli..."`
@@ -1031,7 +1031,7 @@
 `Arada bir çakan bir şimşek bu atmosferi bozmaya çalışsa da, dışarıdaki gülleri bile kırmızının daha derin bir tonuna büründüren bu anlara gölge düşüremiyordu...`
 `"...............Oh, ...oh evet.`
 ` ...Sana...göstermek istediğim bir şey var."`
-`"......Ne-......ne olabilir acaba?"`
+`"......Ne-......Ne olabilir acaba?"`
 `Etkileyici bir şekilde konuşan George birden kekelemeye başladı.`
 `{n}Onun tavırlarından Shannon da bir şeyler anlamıştı.`
 `George çekingen bir tavırla cebinde bir şey aradı.`
@@ -1045,7 +1045,7 @@
 `"Bunu kabul etmeni istiyorum."`
 `"Ben, .........ben bu kadar değerli bir şeyi kabul edemem...!"`
 `"......Kabul edemez misin?"`
-`"De-...demek istediğim...`
+`"De-...Demek istediğim...`
 ` o değil...`
 ` .........Böyle bir şey...`
 `...benim...`
@@ -1084,7 +1084,7 @@
 ` ......Ama bu son kısmı kendi iradenle yapmanı istiyorum, ...Sayo.`
 ` Anlıyorsun, değil mi?"`
 `"............E-`
-`.........evet."`
+`.........Evet."`
 `"Yani, ...bu benim emrim.`
 ` .........Bu gece iyice düşünmeni ve cevabını yarın bana göstermeni istiyorum."`
 `"....................."`

@@ -81,7 +81,7 @@
 `{n}...İçinde yaklaşık on santimetre çapında küçük, yuvarlak bir ayna vardı.`
 `Oldukça eski görünüyordu, ancak aynanın arkasındaki tasarım çok süslüydü ve tarihi değeri olan bir şey gibi hissettiriyordu.`
 `En azından, plastik bir akrep anahtarlığına benzeyen diğer tılsımla karşılaştırıldığında çok daha etkili görünüyordu.`
-`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve büyükbabasının eşyaları dağıtılırken büyükannesi tarafından kendisine özel olarak verilmişti.`
+`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve Büyükbabasının hatıraları dağıtılırken büyükannesi tarafından kendisine özel olarak verilmişti.`
 `Eski zamanlardan beri aynaların içinde garip güçlerin yaşadığına inanılırdı.`
 `{n}Büyük olasılıkla ışığı yansıtma biçimleri, talihsizliği ve kötülüğü de aynı şekilde saptırdıklarına dair bir inanç yaratmıştı.`
 `Natsuhi aynayı kesesine geri koydu.`
@@ -141,7 +141,7 @@
 ` Ne kadar rezil...!"`
 `".........Ben de sizi çağırmaya geldiğimde fark ettim.`
 ` Daha sonra temizleyeceğim."`
-`"...B-...büyük ihtimalle,`
+`"...B-...Büyük ihtimalle,`
 ` konuklardan biri tarafından yapılan kaba bir şaka.`
 ` ......İğrenç, gerçekten iğrenç...!"`
 `Dünyada kim böyle çocukça ve iğrenç bir şaka yapar ki!`
@@ -339,7 +339,7 @@
 `Yarattığı dar açıklıktan beynini kemirecek gibi hissettiren tatlı bir koku yayıldı ve buna hazırlıklı olmasına rağmen yüzünü buruşturmaktan kendini alamadı.`
 `Hâlâ uyuyor olabileceğini düşünen Natsuhi sessizce odaya girdi...`
 `Girdiğinde Kinzo çoktan uyanmış, pencereden aşağıya bakıyordu.`
-`"D-......demek uyanıksınız...`
+`"D-......Semek uyanıksınız...`
 ` Günaydın..."`
 `"..................İçeri nasıl girdin?"`
 `Kinzo sırtı hala ona dönük olarak konuştu.`
@@ -352,7 +352,7 @@
 ` Genji mi verdi?`
 ` .........Eğer arkadaşım bu kadar önemli olduğunu düşündüyse, dinlemekten başka çarem yok.`
 ` Söyle bana, ...benimle ne işin var?"`
-`"E-evet...`
+`"E-Evet...`
 ` .........Kahvaltı çok yakında hazır olacak, bize katılırsanız çok memnun olurum..."`
 `"Ben burada yiyeceğim.`
 ` Her zamanki gibi buraya getirin."`
@@ -378,7 +378,7 @@
 `......Her zamanki Kinzo'ya kıyasla bu ses sakin ve nazikti, sanki başka birinden geliyor gibiydi.`
 `"......Natsuhi.`
 ` ...Sen Ushiromiya ailesiyle evleneli epey zaman geçti."`
-`"E-......evet.`
+`"E-......Evet.`
 ` ...Ushiromiya adını taşımama ilk kez izin verilmesinden bu yana epey zaman geçti."`
 `"......Eski aileni hiç özlüyor musun?"`
 `"...............Hayır.`
@@ -391,7 +391,7 @@
 `".........Eğer Krauss bir kadın olsaydı,`
 ` ...ve sen de onun kocası olsaydın...`
 ` ............Hayır, ...böyle söylemeyeceğim."`
-`"Bu-......bununla ne demek istiyorsun,`
+`"Bu-......Bununla ne demek istiyorsun,`
 ` ...Baba?"`
 `Natsuhi şok olmuştu.`
 `{n}......Eğer Kinzo'nun az önceki sözleri gerçekten anlam ifade ediyor olsaydı...`
@@ -430,13 +430,13 @@
 ` Eğer babamı ikna edemediysen, bunu açıkça söyle."`
 `"......Ne kadar acınası.`
 ` Babamın pişmanlık duygularını anlamaya başlıyorum."`
-`"Ne-......ne demek istiyorsun...?"`
+`"Ne-......Ne demek istiyorsun...?"`
 `Natsuhi cevap vermedi.`
 `Tıpkı Kinzo'nun az önce yaptığı gibi, merdivenlerden inerken Eva'ya sırtını gösterdi.`
 `Ne olduğunu anlamaya çalışan Eva, sadece kendisiyle dalga geçildiğini ve Natsuhi'nin kendine olan güvenini hızla artıracak bir şey yaşandığını anlayabildi.`
 `Yine de Kinzo'nun gazabını göze alacak cesareti yoktu.`
 `Kapıyı bile çalamadan, sadece önündeki havayı tırmalayabildi, dilini ısırdı ve Natsuhi'nin peşinden gitti.`
-`"P-peki, Nii-san ve diğerleri orada mıydı?`
+`"P-Peki, Nii-san ve diğerleri orada mıydı?`
 ` Babam sana onlardan bahsetti mi?"`
 `"......Sorma fırsatı bulamadım ama çalışma odasında değillerdi.`
 ` ...Babam böyle önemsiz bir konuyu tartışmak için odasına girmelerine asla izin vermezdi, bu yüzden nereye gittiklerini biliyor olması pek olası değil.`
@@ -985,7 +985,7 @@
 `"Evet.`
 ` ......Biz buraya geldiğimizde, kepenk kilitliydi.`
 ` ...Bu da demek oluyor ki suçlu kepengi kilitlemek için anahtarı kullanmış."`
-`"Bu-......bu mantıklı.`
+`"Bu-......Bu mantıklı.`
 ` O zaman bu, kepengi açan anahtarda katilin parmak izlerinin olduğu anlamına mı geliyor?!"`
 `"......Bunu polise kanıt olarak sunmanın faydalı olacağından eminim,`
 ` ancak Kanon-kun onu normal bir şekilde tuttu ve kilidi açmak için kullandı.`

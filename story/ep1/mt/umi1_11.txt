@@ -47,7 +47,7 @@
 `"Natsuhi nee-san'ı arıyorsanız, Babamı görmeye gitti.`
 ` Muhtemelen yakında döner.`
 ` ...Ne oldu, Kumasawa-san?"`
-`"Ye-yemek, .........yemek salonunda, ......kan, .........kan...!"`
+`"Ye-Yemek, .........yemek salonunda, ......kan, .........kan...!"`
 `Salondaki herkes dinlemek için ona doğru döndü.`
 `Herkes aynı şeyi düşündü.`
 ` “Umarım yanlış duymuşumdur.”`
@@ -55,7 +55,7 @@
 ` ...hiç kimse zaten yaşananların ötesinde daha fazla trajediyi kaldırabileceğini düşünmüyordu.`
 `Bu yüzden hepsi bunu düşündü.`
 ` Umarım yanlış duymuşumdur......`
-`"N-......ne?`
+`"N-......Ne?`
 ` ......Yemek salonunda mı...?"`
 `"Kahvaltıyı hazırlamak için...`
 `yemek salonuna gittiğimde...`
@@ -148,7 +148,7 @@
 ` ...herkesi öldüren suçlu da bu adaya hapsoldu..."`
 `"......Bu kesinlikle doğru.`
 ` ......Herkesi öldüren suçlu hala adada."`
-`"Ö-......öyleyse Babamı ve diğerlerini öldüren piç adadan ayrılamıyor ve hala bir yerlerde saklanıyor...`
+`"Ö-......Öyleyse Babamı ve diğerlerini öldüren piç adadan ayrılamıyor ve hala bir yerlerde saklanıyor...`
 ` ......Kahretsin, kahretsin{0}kahretsin{0}kahretsin!!!`
 ` Seni bulacağım, seni piç, seni öylece polise teslim edeceğimi mi sanıyorsun?!!"`
 `"Seni kendim parçalara ayıracağım...!!!`
@@ -735,7 +735,7 @@
 `Maria tarafından eşleşip eşleşmedikleri sorulduğunda, Hideyoshi Amca ve Doktor Nanjo tekrar tekrar onaylayarak başlarını salladılar.`
 `"Bu çok açık... Evet, bu tür karakterler kesinlikle orada yazılmıştı...!`
 ` Böyle bir şeyi yazmayı nasıl biliyor olabilirsin......?"`
-`"Ay-...ayrıca çemberin etrafına yazılmış karakterler de vardı......"`
+`"Ay-...Ayrıca çemberin etrafına yazılmış karakterler de vardı......"`
 `"Biliyorum.`
 ` .................................Bunun gibi, değil mi?"`
 `Maria çemberin çevresine İbranice karakterler yazmaya başladı.`
