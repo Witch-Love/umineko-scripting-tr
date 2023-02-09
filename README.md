@@ -40,9 +40,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 13](../../tree/master/story/ep1/mt/umi1_13.txt) ✅
       * [Chapter 14](../../tree/master/story/ep1/mt/umi1_14.txt) ✅
       * [Chapter 15](../../tree/master/story/ep1/mt/umi1_15.txt) ✅
-      * [Chapter 16](../../tree/master/story/ep1/mt/umi1_16.txt) `<- Burdayız`
+      * [Chapter 16](../../tree/master/story/ep1/mt/umi1_16.txt) ✅
       * [Chapter 17](../../tree/master/story/ep1/mt/umi1_17.txt) ✅
-      * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) `<- Burdayız`
       * [Chapter 19](../../tree/master/story/ep1/mt/umi1_19.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2) ✅
