@@ -21,7 +21,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 
 ## İlerleme
 * <details>
-  <summary>Episode 1 ✍️</summary>
+  <summary>Episode 1 ✅</summary>
 
    * Story
       * [Chapter 0](../../tree/master/story/ep1/mt/umi1_op.txt) ✅
@@ -42,8 +42,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 15](../../tree/master/story/ep1/mt/umi1_15.txt) ✅
       * [Chapter 16](../../tree/master/story/ep1/mt/umi1_16.txt) ✅
       * [Chapter 17](../../tree/master/story/ep1/mt/umi1_17.txt) ✅
-      * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) `<- Burdayız`
-      * [Chapter 19](../../tree/master/story/ep1/mt/umi1_19.txt) ❌
+      * [Chapter 18](../../tree/master/story/ep1/mt/umi1_18.txt) ✅
+      * [Chapter 19](../../tree/master/story/ep1/mt/umi1_19.txt) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L296) ✅
@@ -55,10 +55,10 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 </details>
 
 * <details>
-  <summary>Episode 2 ❌</summary>
+  <summary>Episode 2 ✍️</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep2/mt/umi2_op.txt) ❌
+      * [Chapter 0](../../tree/master/story/ep2/mt/umi2_op.txt) `<- Burdayız`
       * [Chapter 1](../../tree/master/story/ep2/mt/umi2_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep2/mt/umi2_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep2/mt/umi2_3.txt) ❌
