@@ -307,7 +307,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 * <details>
   <summary>Other ❌</summary>
 
-   * [credits.txt](../../tree/master/script/tr/credits.txt) ❌
+   * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
    * [header.txt](../../tree/master/script/tr/header.txt) ❌
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
    * Song Subtitles ❌
