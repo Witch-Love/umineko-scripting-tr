@@ -1512,15 +1512,15 @@ stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Off}"
 stralias set_off2,":s;#FFFFFF`{p:8:Off}"
 ;page 1
 stralias set_game_language,":s;#FFFFFF`{p:8:Oyun dili}"
-stralias set_game_language_ru,":s;#C7C7C7#FFFFFF`{p:8:Russian}"
-stralias set_game_language_ru_on,":s;#FFFFFF`{p:8:Russian}"
-stralias set_game_language_en,":s;#C7C7C7#FFFFFF`{p:8:English}"
-stralias set_game_language_en_on,":s;#FFFFFF`{p:8:English}"
+stralias set_game_language_ru,":s;#C7C7C7#FFFFFF`{p:8:Rusça}"
+stralias set_game_language_ru_on,":s;#FFFFFF`{p:8:Rusça}"
+stralias set_game_language_en,":s;#C7C7C7#FFFFFF`{p:8:İngilizce}"
+stralias set_game_language_en_on,":s;#FFFFFF`{p:8:İngilizce}"
 stralias set_bgm_title_language,":s;#FFFFFF`{p:8:BGM adları}"
-stralias set_bgm_title_language_en,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}English}"
-stralias set_bgm_title_language_tl,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Russian}"
-stralias set_bgm_title_language_jp,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Japanese}"
-stralias set_bgm_title_language_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romanized}"
+stralias set_bgm_title_language_en,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}İngilizce}"
+stralias set_bgm_title_language_tl,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Rusça}"
+stralias set_bgm_title_language_jp,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Japonca}"
+stralias set_bgm_title_language_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romaji}"
 stralias set_window_size,":s;#FFFFFF`{p:8:Pencere boyutu}"
 stralias set_window_size_custom,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Özel}"
 stralias set_display_mode,":s;#FFFFFF`{p:8:Pencere modu}"
@@ -1942,8 +1942,8 @@ stralias ep8_9_page_6_2_t,":s;#FFFFFF`{p:3:Battler: “The three of us were toge
 
 ; trophies
 
-stralias trophy_text_locked,"{p:18:Kilitli kupa}"
-stralias trophy_text_new,":s;#FFFFFF`{p:11:Yeni bir kupa kazandın!}`"
+stralias trophy_text_locked,"{p:18:Kilitli Kupa}"
+stralias trophy_text_new,":s;#FFFFFF`{p:11:Kupalar menüsünde yeni bir Kupa'nın kilidi açıldı!}`"
 numalias trophy_text_x,537
 numalias trophy_text_y,680
 

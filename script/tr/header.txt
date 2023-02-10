@@ -303,12 +303,12 @@ stralias verification_verifying,"Dosyalar doğrulanıyor...{n}Bu işlem birkaç 
 stralias verification_legend,"Yazı: "
 stralias verification_modified," Değiştirilmiş dosya"
 stralias verification_missing," Eksik dosya"
-stralias verification_good,"Başarıyla doğrulandı!{n}"
+stralias verification_good,"Başarıyla doğrulandı!{n}Devam etmek için sağ-tık!"
 stralias verification_bad,"Dosya doğrulaması başarısız!{n}"
 stralias verification_nohash,"game_tr.hash dosyası bulunamadı!{n}"
 stralias verification_unsupported,"Desteklenmeyen game_tr.hash dosyası bulundu!{n}"
 stralias verification_outdated,"Eski sürüm game_tr.hash dosyası bulundu!{n}"
-stralias verification_end,"Çıkmak için sağ-tık!"
+stralias verification_end,"Devam etmek için sağ-tık!"
 
 stralias verification_ancient,"Oyununuz 6 aydan daha eski, eski sürüm kullanıyor olabilirsiniz!"
 
