@@ -337,7 +337,7 @@
 ` ......Ve dilini ısırdı.`
 `Oh doğru, eğer telefonlar düzeldiyse polise ulaşabilmeliyiz.`
 `{n}......Ama tepkisine bakılırsa dış hat hâlâ kesikti.`
-`"......Ha-hadi gidelim!`
+`"......Ha-Hadi gidelim!`
 ` Bunun bir tuzak olduğunu bilsek bile gitmeliyiz!"`
 `"Evet, kesinlikle!!`
 ` Jessica ve Natsuhi Teyze, siz burada kalın!"`
@@ -567,7 +567,7 @@
 ` ......Hepsi ona yapmaması için yalvardı."`
 `"Kihihihihihihihihi, Kumasawa-san "lütfen, lütfen yapmayın" deyip durdu.`
 ` Ama {f:5:Beatrice} seçti.`
-` ......Ve bunu yaptığında, iyi olacağımı söyledi.`
+` ......Ve bunu yaptığında, {f:5:Beatrice} Maria'ya iyi olacağını söyledi.`
 ` .........Sence neden?"`
 `"Battler'ın güvenliğim için üzerine dua ettiği ve duygularını içine döktüğü Mars'ın beşinci büyülü çemberinin bulunduğu akrep tılsımına sahiptim.`
 ` Bu güç sayesinde {f:5:Beatrice} Maria'ya hiçbir şey yapamadı."`
@@ -577,16 +577,16 @@
 `......Çok ama çok güzel şarkılar söyleyeceksin, her ne olursa olsun, ne duyarsan duy, duymayacaksın, bilmeyeceksin.`
 `Gel, bana eğlenceli şarkılarından bir sürü dinlet.}`
 `"Bu yüzden ben de sürekli şarkı söylüyordum.`
-` Tekrar ve tekrar.`
+` Tekrar ve tekrar söylüyordum.`
 ` Yani hiçbir şey duymadım, hiçbir şey bilmiyordum.`
-` ...Ve sonra Battler ve siz geldiniz.`
+` ...Ve sonra Battler ve sizler geldiniz.`
 ` Uu."`
 `"Bu saçmalığa inanmamı mı bekliyorsun?!`
 ` Beni gerizekalı sanma!!!"`
 `"Kihhihihihihi!`
 ` O zaman bu sefer kimden şüpheleneceksin?`
 ` Maria'dan mı?`
-` Beni burada öldürmeye mi çalışacaksın?`
+` Maria'yı burada öldürmeye mi çalışacaksın?`
 ` Bunu yapsan bile, {f:5:Beatrice} "var olmayı" bırakmayacak.`
 ` Şimdi, sekizinci alacakaranlık sona erdi ve {f:5:Beatrice} yeniden dirilecek!!"`
 `"Hayır, siktirip dirilmeyecek, senin saçmalıklarınla işim bitti, bana bir ömür yetecek kadarını çektim!!`
