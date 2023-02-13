@@ -2,7 +2,7 @@ language english
 
 ; Game window caption 
 
-if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Rondo of the Witch and Reasoning~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Cadının Rondosu ve Muhakeme~ (" + $CHIRU_MODE + ")"
 if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Nocturne of Truth and Illusions~ (" + $CHIRU_MODE + ")"
 
 ;--Textboxes--
@@ -32,7 +32,7 @@ numalias criminal_button_y,883
 ;--Locale--
 
 ; Logos
-stralias cinema_logo_1,":a;graphics\system\logo\cinema_logo_en.png"
+stralias cinema_logo_1,":a;graphics\system\logo\cinema_logo_tr.png"
 stralias cinema_logo_2,":a;graphics\system\logo\cinema_logo2_en.png"
 stralias loading_progres,":a/4,83,0;graphics\system\loading_tr.png"
 stralias project_logo,":c;graphics\locale_tr\project_logo.png"
