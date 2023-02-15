@@ -460,7 +460,7 @@
 ` Gözlerime kazıdım."`
 `Tam o anda, Maria aniden ellerini çırptı.`
 `{n}Bir şey hatırlamış gibi görünüyordu.`
-`"......Gülüm...`
+`"......Maria'nın gülü...`
 ` Tayfun onu uçuracak.`
 ` ......Uu!"`
 `"George-aniki'nin kurdeleyle işaretlediği sağlıksız gülden mi bahsediyorsun?"`
@@ -485,19 +485,19 @@
 `......Niyetinin bizi başka bir yere gitmekten alıkoymak olduğunu hissettim.`
 `"Ne oldu, ne oldu?"`
 `"......Uu.`
-` Gülüm burada.`
+` Maria'nın gülü burada.`
 ` Burada...!"`
-`"Ama aslında burada değil, değil mi...?`
-` Belki de çiçek yatağının diğer tarafındaydı.`
-` Hepimiz bakarsak, çabucak buluruz, değil mi?"`
+`"Ama burada değil...?`
+` Belki de çiçek yatağının diğer tarafındadır.`
+` Hepimiz ararsak çabucak bulabiliriz."`
 `"Uu!!`
 ` Burada!`
-` Gülüm burada!!`
+` Maria'nın gülü burada!!`
 ` Arayın onu!`
 ` Arayın—onu!!`
 ` Uuu!!"`
 `Maria sinirli bir şekilde ayaklarını yere vurdu.`
-`......O noktayı işaret ediyor, kesinlikle orada olduğunu söylüyordu ama orada değildi.`
+`......Kesinlikle orada olduğunu söyleyerek o noktayı işaret ediyordu, ama orada değildi.`
 `Yine de başka bir yere bakmaya gittiğimizde sinirleniyordu.`
 `...Ne yapacağımızı şaşırmıştık.`
 `Bir süreliğine Maria'yla kalmamız,`
@@ -527,15 +527,15 @@
 `{n}Kızının sesini hemen fark etti ve yanına geldi.`
 `"Ne oldu millet?`
 ` Bir şey mi arıyorsunuz?"`
-`"Onu araaa!`
-` Anne, sen de benim gülümü ara!`
+`"Araaa!`
+` Anne, sen de Maria'nın gülünü ara!`
 ` Uu-uu-uu!!"`
-`"Senin gülünü mü?"`
+`"Maria'nın gülünü mü?"`
 `"Buralarda sağlıksız bir gül bulduk ve onu işaretledik."`
 `"Etrafına şeker ambalajı gibi bir şey bağlamıştık.`
 ` ...Ama Maria, yanlış hatırlamıyorsam, tam ön tarafta büyüyordu ve gerçekten göze çarpıyordu, değil mi?`
-` Bacaklarını uzatıp bir yerlere kaçmadıysa, başka bir yerde olmalı.`
-` Yanlış hatırlıyor olamaz mısın?"`
+` Bacakları çıkıp bir yerlere kaçmadıysa, başka bir yerde olmalı.`
+` Maria, yanlış hatırlıyor olamaz mısın?"`
 `"Uu!!`
 ` O burada!!`
 ` O—burada!!`
@@ -565,7 +565,7 @@
 `"O zaman biri onu sökmüş olmalı!`
 ` Böyle sızlanmayı kes!!"`
 `"Uu-uu-uu!!`
-` Gülümü kim söktü, kim?!!`
+` Maria'nın gülünü kim söktü, kim söktü?!!`
 ` Geri ver, geri ver!!`
 ` Uu-uu!!`
 ` Uu-uu-uu-uu!!!"`
@@ -577,8 +577,8 @@
 `{n}Maria istediğini yerine getirilmeden reddedildiğini fark ettiğinde, giderek daha yüksek bir sesle bağırmaya başladı.`
 `"Uu-uu!!`
 ` Uu-uu-uu!!`
-` Gülüm!`
-` Gülüm!!`
+` Maria'nın gülü!`
+` Maria'nın gülü!!`
 ` Uu-uu-uu-uu-uu-uu-uu!!!"`
 `"Sana bu garip alışkanlığını bırakmanı söylemedim mi!!`
 ` Bu yüzden sınıftaki bütün çocuklar seninle dalga geçiyor!!`
@@ -591,15 +591,15 @@
 ` Hadi ama...o sadece küçük bir çocuk...bu kadar ciddileşmeye gerek yok...ihihi."`
 `Zoraki bir gülümsemeyle ve ellerimi birbirine kenetleyerek araya girmeye çalıştım,`
 ` ...ama Rosa Teyze'nin bana attığı ölümcül ciddi bakış, burnumu sokmamam gerektiğini hemen anlamamı sağladı.`
-`"Üzgünüm, bir süreliğine odanıza dönebilir misiniz?`
+`"Üzgünüm, Battler-kun ve sizler bir süreliğine odanıza dönebilir misiniz?`
 ` Teyzenizin Maria ile biraz konuşması gerekiyor."`
 `"Uu-uu-uu!!`
-` Kimse benim gülüme inanmıyor!!`
+` Kimse Maria'nın gülüne inanmıyor!!`
 ` Burada olmasına rağmen!!`
 ` Uu-uu!!`
 ` Arayın onu!!`
 ` Arayın—onu!!`
-` İşte, buradaydı!!`
+` İşte, işte buradaydı!!`
 ` Uu-uu-uu-uu!!!"`
 `"Ama burada değil!!`
 ` O zaman başka bir yerle karıştırıyor olmalısın, değil mi?!"`
@@ -610,7 +610,7 @@
 `"O zaman kayboldu!!`
 ` Pes et!!"`
 `"Neden?!`
-` Gülüm neden kayboldu?`
+` Maria'nın gülü neden kayboldu?`
 ` Neden, neden?!`
 ` Uu-uu-uu!!!"`
 `"Bunu bilmiyorum!!`
@@ -660,7 +660,7 @@
 `Bu açıdan bakarsanız, belki de izlemesi acı verici olsa da dışarıdan biri buna karışmamalı...`
 `"Battler-kun, çocukken düzeltemediğin ve başını belaya sokan kötü alışkanlıkların olmadı mı hiç?"`
 `"......Bir ya da iki tane.`
-` Ebeveynler Günü'nde herkesin önünde büyük bir azar işitmiştim ve o kadar utanç vericiydi ki dayanamamıştım."`
+` Ebeveynler Gününde herkesin önünde büyük bir azar işitmiştim ve o kadar utanç vericiydi ki dayanamamıştım."`
 `"O zaman Maria-chan'ın şu anki duygularını anlayabilirsin.`
 ` ......Eminim şu anda burada olmamızı istemiyordur.`
 ` ......Sen de anlıyor musun Jessica-chan?"`
@@ -675,8 +675,8 @@
 `Jessica ve ben başımızı onaylar şekilde salladık ve hepimiz oradan ayrıldık.`
 `Maria'ya konukevine gideceğimizi söyledik,`
 ` ama bu onun kulağına gitmediği için, bunu söylerken bile kendimizi suçlu ve utanmaz hissettik...`
-`"Bu durumda, istediğin kadar kendi başına bak!`
-` Annemin umurunda değil!!"`
+`"Bu durumda, istediğin kadar kendi başına ara!`
+` Annenin umurunda değil!!"`
 `"Uu!!!`
 ` Bacakağım!`
 ` Ben kendim bakacağım!!`
