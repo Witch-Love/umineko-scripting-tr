@@ -2,8 +2,8 @@ language english
 
 ; Game window caption 
 
-if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Cadının Rondosu ve Muhakeme~"
-if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Gerçek ve İllüzyonların Noktürnü~"
+if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Cadının Rondosu ve Muhakeme~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Gerçek ve İllüzyonların Noktürnü~ (" + $CHIRU_MODE + ")"
 
 ;--Textboxes--
 
