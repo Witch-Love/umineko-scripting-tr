@@ -352,7 +352,7 @@
 ` Akrebin büyücülükte büyü bozucu bir sembol olarak nasıl çizildiği hakkında bir şeyler..."`
 `"Huh, gerçekten...!"`
 `"Uu!`
-` Akrep kötü büyü ve felaketlere karşı korur.`
+` Akrep kötü büyüye ve felaketlere karşı korur.`
 ` Ve zümrüt de kalbe huzur getirir.`
 ` Yani iki kat etkisi var!`
 ` Uu!"`
@@ -393,11 +393,11 @@
 `Gökyüzünün rengi ve havanın nemi göz önüne alındığında, yağmur damlaları her an düşmeye başlayabilirdi.`
 `Ayrıca rüzgâr biraz daha kuvvetlenmiş gibi görünüyordu.`
 `"Uu?`
-` Ben bir damla bile hissetmedim.`
-` Bir tek ben.`
+` Maria bir damla bile hissetmedi.`
+` Maria tek başına.`
 ` Uu!"`
 `"Sakin ol, ben de hissetmedim.`
-` Her neyse, eminim bu gece o kadar çok yağmur yağacak ki herkes aynı miktarda yağmur damlasını tadacak."`
+` Her koşulda, eminim bu gece o kadar çok yağmur yağacak ki herkes aynı miktarda yağmur damlasını tadacak."`
 `"Bu doğru.`
 ` Belki de artık dönmeliyiz..."`
 `Shannon-chan saatine baktı.`
@@ -414,9 +414,9 @@
 `"Uu!`
 ` Çöp kaçıyoorr!`
 ` Uu-uu!!"`
-`"Hayır kaçmıyorr, senden önce ben kapacağım!"`
+`"Hayır kaçmıyorr, Maria'dan önce ben kapacağım!"`
 `"Uu!!`
-` Onu ben alacağım!`
+` Maria alacak!`
 ` Uu-uu-uu!"`
 `"Mariaa!`
 ` Ayakkabılarını ıslatma, başın belaya girer!"`
@@ -429,7 +429,7 @@
 ` Sen önden dönersen sorun olmaz."`
 `George-aniki onun aceleci görüntüsünden dolayı çok az boş zamanı kaldığını anladı.`
 `"Genji-san zaman konusunda çok titizdir.`
-` Eğer doğru zamanda doğru yerde olmazsanız, çok katı olabilir."`
+` Eğer doğru zamanda doğru yerde olmazsan, çok katı olabilir."`
 `"Sonra görüşürüz.`
 ` İşini en iyi şekilde yap."`
 `"E-Evet!`
@@ -452,7 +452,7 @@
 ` Yine de şanslı olduklarını söyleyebilirim.`
 ` Ne de olsa tayfundan önce hepinizi karşılamışlardı."`
 `"Bir çiçek her zaman eninde sonunda yapraklarını kaybeder.`
-` Ancak, bu nedenle çiçek açtıklarında onlara daha çok hayran olabiliriz."`
+` Ancak, tam da bu nedenle çiçek açtıklarında onlara daha çok hayran olabiliriz."`
 `"Bu doğru.`
 ` ...Maria, bu görüntüyü gözlerine kazı.`
 ` Şu anda onlar yılın en güzel gülleri."`
@@ -466,7 +466,7 @@
 `"George-aniki'nin kurdeleyle işaretlediği sağlıksız gülden mi bahsediyorsun?"`
 `Maria gülün nerede olduğunu hatırlamış gibiydi.`
 `Son sürat koştu.`
-` Geri kalanımız da onu takip etti.`
+` Geri kalanımız da onu takip ettik.`
 `"............Uu?`
 ` Uu."`
 `"Neredeydi bu...?`
@@ -530,7 +530,7 @@
 `"Araaa!`
 ` Anne, sen de Maria'nın gülünü ara!`
 ` Uu-uu-uu!!"`
-`"Maria'nın gülünü mü?"`
+`"Maria'nın gülü mü?"`
 `"Buralarda sağlıksız bir gül bulduk ve onu işaretledik."`
 `"Etrafına şeker ambalajı gibi bir şey bağlamıştık.`
 ` ...Ama Maria, yanlış hatırlamıyorsam, tam ön tarafta büyüyordu ve gerçekten göze çarpıyordu, değil mi?`
@@ -541,7 +541,7 @@
 ` O—burada!!`
 ` Battler inanmıyor!`
 ` Uu-uu!!"`
-`"Kaçıncı kez söylüyorum, lütfen şu "uu-uu" saçmalığını keser misin?!`
+`"Sana şu "uu-uu" saçmalığını kesmeni kaç kere söyledim?!`
 ` Annen onu arayacak, bu yüzden sessiz ol!!"`
 `Şimdiye kadar hep nazik gördüğüm Rosa Teyze'nin sinirlendiğini görünce biraz şaşırdım.`
 `Rosa Teyze de aramaya başladı, biz de şimdilik onunla birlikte aradık,`
@@ -584,17 +584,17 @@
 ` Bu yüzden sınıftaki bütün çocuklar seninle dalga geçiyor!!`
 ` Kes şunu!!"`
 `Bir kez daha, Maria'nın yanağını avuç içiyle tokatladı.`
-`Bu sefer sessiz kalmadı.`
+`Maria bu sefer sessiz kalmadı.`
 `{n}Ağlamaya başladığında öksürdü ve giderek daha yüksek bir sesle haykırmaya başladı...`
 `Rosa Teyze'nin sinirlendiği belliydi ve kızını susturmak için bir kez daha elini kaldırdı...`
 `"R-Rosa Teyze.`
 ` Hadi ama...o sadece küçük bir çocuk...bu kadar ciddileşmeye gerek yok...ihihi."`
 `Zoraki bir gülümsemeyle ve ellerimi birbirine kenetleyerek araya girmeye çalıştım,`
 ` ...ama Rosa Teyze'nin bana attığı ölümcül ciddi bakış, burnumu sokmamam gerektiğini hemen anlamamı sağladı.`
-`"Üzgünüm, Battler-kun ve sizler bir süreliğine odanıza dönebilir misiniz?`
+`"Üzgünüm, Battler-kun ve siz bir süreliğine odanıza dönebilir misiniz?`
 ` Teyzenizin Maria ile biraz konuşması gerekiyor."`
 `"Uu-uu-uu!!`
-` Kimse Maria'nın gülüne inanmıyor!!`
+` Maria'nın gülüne kimse inanmıyor!!`
 ` Burada olmasına rağmen!!`
 ` Uu-uu!!`
 ` Arayın onu!!`
@@ -610,7 +610,7 @@
 `"O zaman kayboldu!!`
 ` Pes et!!"`
 `"Neden?!`
-` Maria'nın gülü neden kayboldu?`
+` Neden Maria'nın gülü kayboldu?`
 ` Neden, neden?!`
 ` Uu-uu-uu!!!"`
 `"Bunu bilmiyorum!!`
@@ -625,10 +625,10 @@
 `"Sence de garip değil mi, Battler-kun?`
 ` Senin okulunda hiç "uu-uu" diye mırıldanan kız var mı?"`
 `"Pekala, ben lisedeyim...`
-` Ama bir ilkokul öğrencisi için "uu-uu" demek bence oldukça sevimli..."`
+` Ama bir ilkokul öğrencisi için "uu-uu" demek bence oldukça şirin..."`
 `"Şirin mi?`
 ` "Uu-uu" demek şirin mi?`
-` Şirin mi?!"`
+` Şirin mi dedin?!"`
 `Görünüşe göre pervasızca söylediğim sözler Rosa Teyze'nin gazabını üzerime çekmişti.`
 `{n}Korkunç bir ifadeyle yakamı tuttu...`
 `"Böyle saçma şeyler söyleme!!`
@@ -678,7 +678,7 @@
 `"Bu durumda, istediğin kadar kendi başına ara!`
 ` Annenin umurunda değil!!"`
 `"Uu!!!`
-` Bacakağım!`
+` Bakacağım!`
 ` Ben kendim bakacağım!!`
 ` Annem umursamasa bile arayacağım!`
 ` Uu-uu-uu-uu-uu!!"`
@@ -717,7 +717,7 @@
 `"......Peki o zaman, başlayalım mı?`
 ` Mucizeler bizim ziyafetimiz.`
 ` ......Şu anda, bu adanın dünyayla bağlantısı kesildi.`
-` Artık ayinimi engelleyebilecek kimse yok."`
+` Artık ritüelimi engelleyebilecek kimse yok."`
 `"Senin için çok uygun kurbanlar var.`
 ` Çocuklarımdan dördü.`
 ` Arkadaşlarımdan üçü.`
@@ -727,8 +727,8 @@
 `"Kaderin anahtarı kurbanları İblislerin Ruleti'ne göre seçecek.`
 ` Eğer o rulet beni seçerse, ben bile kurbanın olurum.`
 ` ......Ancak, bu nedenle...`
-`bu nedenle bu çılgınlığa bahse girerim,`
-` ......Kesinlikle büyük bir mucize yaratacağım."`
+`bu nedenle bu çılgınlığa bahse gireceğim,`
+` ......kesinlikle büyük bir mucize yaratacağım."`
 `"...Gel, dilediğin kadar tüket...!!`
 ` Bu ruletin üstesinden geleceğim.`
 ` Evet...her şeyimi ortaya koyuyorum.`

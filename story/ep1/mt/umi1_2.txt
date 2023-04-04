@@ -3,7 +3,7 @@
 `{n}Teknenin sürücüsü dışarı çıktı ve bağlama halatıyla iskeleye atladı.`
 `Smokinli, iri yarı bir adam sıcak ve güler yüzüyle bizi bekliyordu.`
 `......Onu tanımıyordum ama kıyafetlerine bakarak Ushiromiya baş ailesinin hizmetkârlarından biri olduğunu tahmin ettim.`
-`"Evinize hoş geldiniz Leydim.`
+`"Leydim, evinize hoş geldiniz.`
 ` Oldukça geç kaldınız, endişelenmeye başlamıştım."`
 `"İlgilendiğin için teşekkürler!`
 ` Tekne Battler'ı çok korkuttu.`
@@ -37,7 +37,7 @@
 `"Sizinle tanışmak benim için bir zevk.`
 ` İhtiyacınız olan bir şey olursa, lütfen bana iletmekten çekinmeyin."`
 `"Gohda-san, uzun zaman oldu."`
-`"Çok uzun zaman oldu, George-sama.`
+`"George-sama, çok uzun zaman oldu.`
 ` Lütfen, size yardımcı olmama izin verin."`
 `"Her zamanki gibi, karşılama konusunda profesyonelsin...`
 ` Eğer bir işe ihtiyacın olursa, bana seslen, tamam mı?`
@@ -162,7 +162,7 @@
 `Yılan gibi kıvrılan bir patika loş bir ormanın içinden geçiyordu.`
 `{n}Biraz yokuş yukarı gidiyordu.`
 `Eğimin çok fazla hissedilmemesi için patikanın kıvrımlı yapıldığını tahmin ediyorum,`
-` Ama şahsen, düz bir çizgide merdiven yapacak kadar erkek olsalardı daha mutlu olurdum.`
+` ama şahsen, düz bir merdiven yapacak kadar erkek olsalardı daha mutlu olurdum.`
 `......Mesafe ve önem havası vermek için yolu bilerek kıvrımlı yaptıklarına şüphe yok...`
 `Çok geçmeden bahçe tarzı taş basamaklar gördük.`
 `...Ahhh, buradan sonrasını hatırlıyorum.`
@@ -255,7 +255,7 @@
 `"......Uu!`
 ` Gelip ona su verelim!"`
 `"Bence Bay Gül'e bir isim vermelisin.`
-` Eminim bu onu mutlu edecek ve onu biraz daha iyi tanıyacaksınız."`
+` Eminim bu onu mutlu edecek ve onu biraz daha iyi tanıyacaksın."`
 `"İsim...?`
 ` İsim...`
 ` ......Uu...uu..."`
@@ -337,7 +337,7 @@
 `Seçme şansı olsaydı bize yaşını söylememeyi tercih eder gibi görünüyordu.`
 `Yaşını söylemek istememesinin nedeni muhtemelen yaşının küçümseneceğini düşünmesiydi.`
 `...Onun yaşlarındayken, yetişkinler tarafından kaç yaşında olduğumun sorulmasından nefret ettiğimi hatırlıyorum.`
-`...Anlıyorum, 16, huh?`
+`...Anlıyorum, 16 demek?`
 `{n}Bu hassas bir zaman olmalı.`
 `{n}...Bu durumda, sormamam gereken bir şey sordum.`
 `"Heh heh~, bizim yaşımızda olmana sevindim!`
@@ -384,10 +384,10 @@
 `{n}Bir misafirden yardım almayı hiç beklemeyen birinin yüzüydü bu.`
 `"............B-Battler-sama...`
 ` Buna gerek yok... Ben her şeyi halledeceğim, yani..."`
-`"Merak etmeyin!`
+`"Dert etme!`
 ` Öyle görünmüyor olabilirim ama önemli olan her yerde varım!`
 ` Heheh!"`
-`Kanon-kun henüz büyüme atağını tamamlamamış ve zayıf bir vücuda sahipmiş gibi görünüyordu.`
+`Kanon-kun henüz büyüme çağını tamamlamamış ve zayıf bir vücuda sahipmiş gibi görünüyordu.`
 `Sanırım bu tür bir ağırlık onun için biraz fazla.`
 `"Oldukça ağır, değil mi?`
 ` Senin için zor olması doğal.`
@@ -406,7 +406,7 @@
 ` Lütfen, git."`
 `Böyle utanç verici bir şeyin hoş karşılanması gereken konuklar tarafından görülmesine izin vermek...bir hizmetkar olarak çok utanç verici olmalı.`
 `Gohda'nın acele etmesi ve gitmesi yönündeki baskısı üzerine Kanon-kun gitti.`
-`"Ona karşı çok acımasızsın, Gohda-san.`
+`"Gohda-san, ona karşı çok acımasızsın.`
 ` Zorbalık etmek yerine ona yardım etseydin daha iyi olmaz mıydı?"`
 `"...Çok haklısınız.`
 ` Çok ama çok affınıza sığınıyorum."`
@@ -510,7 +510,7 @@
 `Ushiromiya ailesi inanılmayacak kadar zengindi, ancak bu elbette tüm üyelerinin toplumun geri kalanıyla tamamen çelişen eksantrik insanlar olduğu anlamına geliyordu.`
 `Ailenin en tepesinde duran aile reisi—yani Büyükbabamız—bizim ailemiz için bile özellikle eksantrik ve ürkütücü bir kişiydi.`
 `Babam daha önce karnının ağrıdığını söylemişti ama sanırım bugün buraya gelen tüm yetişkinler aslında bunu hissediyordu.`
-`Hiç şüphesiz biz çocukları kıskanıyorlardı, umursamadan oynayıp gülüyorlardı.`
+`Hiç şüphesiz, umursamadan oynayıp gülen biz çocukları kıskanıyorlardı.`
 `Babamın bana anlattığı hikayelere göre, ailenin reisi, oğullarına kendi yumruklarıyla darbeler yağdıran ve hatta kızlarını tahta bir kılıçla acımasızca döven vahşi bir adamdı.`
 `Madem çocuklarına karşı bu kadar katı bir gelenekçiydi, neden onların isimleri konusunda da aynı şeyi yapmıyordu?`
 `Bu yüzden biz torunları bile acı çekmek zorunda kalıyoruz.`
@@ -557,7 +557,7 @@
 `"Kuzenler olarak zaten hepimiz bir yerde toplanacağız diye düşündüm.`
 ` Bu yüzden gidip onlara büyük bir oda yapmalarını söyledim."`
 `"Uu!`
-` Ben de burayı istiyorum!`
+` Maria da burayı istiyor!`
 ` Burası annemle birlikte olmaktan daha iyi!`
 ` Uu-uu!"`
 `"Tamam, sen de burayı istiyorsun Maria!`
@@ -571,7 +571,7 @@
 ` Siz kuzenler burada kalıp sohbet mi edeceksiniz?"`
 `Görünüşe göre geldiklerini duyurmak için malikaneye doğru gidiyorlardı.`
 `...Normalde onları takip etmemiz ve herkesi birlikte karşılamamız gerekirdi,`
-` Ama öyle olsaydı babam "Siz de gelin!" der ve işi bitirirdi.`
+` ama öyle olsaydı babam "Siz de geliyorsunuz!" der ve işi bitirirdi.`
 `Gelmezsek sorun olmayacağını söylüyor... Peki ne yapacağız?`
 `"Zaten birazdan yemek vakti gelecek.`
 ` Bırakalım da çocuklar burada dinlensin.`
@@ -608,22 +608,22 @@
 `"Ah, bir şey yok.`
 ` Sadece bir şey sormak istemiştim."`
 `"Uu!`
-` Bana da sor!`
-` Bana da sooor!"`
+` Maria'ya da sor!`
+` Maria'ya da sooor!"`
 `"......Hm~?`
 ` Hmhuhuhuhu.`
 ` George nii-san'ın Kumasawa-san'a sorup da bana sormadığı şey ne olabilir acaba~?`
 ` Ah, hiçbir fikrim yok~!"`
 `"Hayır, yanlış anladın...!`
-` Neyi yanlış anladığınızdan emin değilim ama...!"`
+` Jessica-chan, neyi yanlış anladığından emin değilim ama...!"`
 `Aniki'nin dili tutulmuştu.`
 `Sanki saklayacak bir şeyi varmış ve Jessica da ona takılıyor gibiydi.`
 `...Bu her neyse, sadece Jessica'nın bildiği ve benim bilmediğim bir şey hiç de eğlenceli değil!`
 `"Hey Maria, bu döngüden sadece bizim haberdar olmamamız sence adil mi~?`
 ` Ne konuştuklarını bilmek istiyoruz, öyle değil mi~?!"`
 `"Uu!`
-` Battler ve ben de bilmek istiyoruz!`
-` Battler ve ben de bilmek istiyoruz!"`
+` Battler ve Maria da bilmek istiyor!`
+` Battler ve Maria da bilmek istiyor!"`
 `""Uu-uu-uu-uu!!!""`
 `Maria ile birlikte "uu-uu"larken etrafta dolanıyordum.`
 `"Hayır, size söylüyorum...önemli bir şey değil, ahahaha..."`
@@ -631,7 +631,7 @@
 ` Yalan söylemekte berbatsın, şimdi itiraf et!`
 ` Maria, sen onun sağ tarafını gıdıkla, ben de sol tarafını gıdıklayayım!"`
 `"Uu!`
-` Ben sağ tarafa, Battler sol tarafa!`
+` Maria sağ tarafa, Battler sol tarafa!`
 ` Uu!"`
 `"Bekle bir saniye!!`
 ` Siz ikiniz durun...!!`
@@ -646,12 +646,12 @@
 ` En son buraya geleli bir yıl oldu.`
 ` Görünüşe göre bu süre zarfında işe girmiş veya işten ayrılmış olabilecek hizmetkarlara merhaba demek için can atıyor, anlıyor musun?"`
 `"......Uu?`
-` Merhaba de, ben de merhaba diyeyim!"`
+` Merhaba de, Maria da merhaba desin!"`
 `"Ne olacak ki, bunda suçluluk duyulacak bir şey yok, Aniki.`
 ` ......Hmm~~m?`
-` Sadece u kadar değil, öyle değil mi??`
+` Sadece bu kadar değil, öyle değil mi??`
 ` Maria aldanma, Aniki hala bir şeyler saklı~yor!`
-` Sorgulamaya devam edin!!`
+` Sorgulamaya devam et!!`
 ` Uworyaaa!!"`
 `"K-Kesin şunu, cidden!`
 ` Aahahahahaha!`
@@ -674,7 +674,7 @@
 `"...Son zamanlarda çok daha iyiyim.`
 ` Düşündüğünüz için teşekkür ederim."`
 `"Oh, doğru, işte.`
-` Senin için bir hediye, Natsuhi nee-san."`
+` Natsuhi nee-san, senin için bir hediye."`
 `"......Bir kez daha teşekkür ederim.`
 ` Senden hep hediyeler alıyorum.`
 ` ...Bu siyah çay mı?"`
@@ -822,7 +822,7 @@
 `Shannon gözlerini aşağıya dikmiş, el arabasını koridorda itiyordu...`
 `Etrafındaki acınası hava, zorbalığa maruz kaldığını açıkça gösteriyordu.`
 `"......Üzülme.`
-` Sen yanlış bir şey yapmadın, Nee-san."`
+` Nee-san, sen yanlış bir şey yapmadın."`
 `"...............Demek izliyordun."`
 `"Bu benim görevim."`
 `"........................"`

@@ -63,7 +63,7 @@
 ` Akbabalara cesedimi nasıl yiyip dağıtacaklarına dair el yazısıyla yazılmış talimatlar mı?"`
 `"Hayır, hiç de bile.`
 ` ......Kelimeden de anlaşılacağı gibi, düşüncelerini sonraki nesiller için kaydetmenin bir yoludur.`
-` Mirasınızı bölüştürmek için kullanabileceğin bir araçtan çok daha fazlasıdır."`
+` Mirasını bölüştürmek için kullanabileceğin bir araçtan çok daha fazlasıdır."`
 `"Hoh.`
 ` ......Ve mirasın bölünmesi dışında, ne yazabilirim?"`
 `"............Oh, pişmanlıklarını...`
@@ -160,7 +160,7 @@
 `"Ihihihi!`
 ` Aynen öyle!`
 ` Ben de bu akşam yemekte ilk şansımı denerim diye düşünüyordum!"`
-`"O-olmaz, Battler-kun, hala reşit değilsin!`
+`"O-Olmaz, Battler-kun, hala reşit değilsin!`
 ` Alkol içmenin reşit olmayanların büyümesini engellediği biliniyor ve...`
 `...um, unut gitsin."`
 `"Hadi ama, zaten yeterince uzunum!`
@@ -228,7 +228,7 @@
 `"Oh, gerçekten mi?`
 ` Senin gibi yakışıklı bir erkeğin sağda solda ağlayan kızlar bırakacağını hayal edebiliyorum, bu yüzden övünecek hiçbir şeyin olmadığına inanmakta güçlük çekiyorum..."`
 `"Hayırhayırhayırhayırhayırhayır!`
-` Ş-ş-`
+` Ş-Ş-`
 `Şaka yapıyorsun, değil mi?!`
 ` Tabii ki böyle garip bir şey hiç başıma gelmedi!`
 ` Aslında, eğer tanıdığınız biri varsa, can kulağıyla dinliyorum!"`
@@ -250,7 +250,7 @@
 ` {i:Hala} dönmedi mi?`
 ` Heh, belki de zavallı moruk düşüp ölmüştür... {c:86EF9C:Namunamunamu}."`
 `"Kendi baban hakkında böyle konuşmamalısın.`
-` Yine de banyoda ilk kez bu kadar uzun kalmıyor."`
+` Yine de lavaboda ilk kez bu kadar uzun kalmıyor."`
 `"Evet, bu adam hep böyleydi.`
 ` Her tuvalet ihtiyacında yanına bir dergi almak zorunda mı?`
 ` Oh, onlarla ne yapıyor olabilir ki?!`
@@ -312,7 +312,7 @@
 `{n}Görünüşe göre garip isimlere sahip olmak aileden geliyor.`
 `Babamın tam adı {p:0:右代宮 留弗夫} şeklinde yazılıyor.`
 `......Okuyabiliyor musunuz?`
-` Pek kişi okuyamayacağını söyleyebilirim.`
+` Pek fazla kişinin okuyamayacağını söyleyebilirim.`
 `{n}Bu karakter karmaşası "Rudolf" olarak telaffuz ediliyor.`
 `Haha...ona bu ismi verdiği için Büyükbabamdan nefret ediyor olmalı.`
 `Yine de, bu garip isim geleneğini bana aktarmak için bir sebep değil.`
@@ -463,7 +463,7 @@
 ` Seni görmek de güzel, Maria-chan."`
 `"Çok uzun zaman oldu, Kyrie nee-san, Hideyoshi nii-san."`
 `"...Ve...`
-`...aman Tanrım, Battler-kun?!`
+`...aman tanrım, Battler-kun?!`
 ` Bak ne kadar büyümüşsün...!"`
 `"Ah, hadi ama, hahaha...`
 ` Tanıştığım her insandan bunu duymak utanç verici...!"`
@@ -493,7 +493,7 @@
 `"Dokuz yaşındayım.`
 ` Uu."`
 `"Doğru, artık dokuz yaşındasın.`
-` Senin de iyi olduğunu gördüğüme sevindim, Maria-chan!"`
+` Maria-chan, senin de iyi olduğunu gördüğüme sevindim!"`
 `"Gel bakalım...`
 `...nng...`
 ` Sanırım uçakçılık oynamak için biraz fazla ağırlaştın."`
@@ -558,7 +558,7 @@
 ` Tıpkı altı yıl önce olduğu gibiydi.`
 `Görünüşe göre insanlar o kadar da değişmiyor.`
 `{n}Hâlâ hatırladığım saf, masum kız olduğu için biraz mutluyum.`
-`Adı {p:0:真里亞} diye yazıyor.`
+`Adı {p:0:真里亞} diye yazılıyor.`
 `{n}...Bunu okumak o kadar da zor değil.`
 ` Tabii ki "Maria" yazıyor.`
 `{n}Üçüncü karakter bir haça benziyor, ki bu oldukça havalı.`
@@ -579,7 +579,7 @@
 ` Ama onların kanını paylaşıyor olsa da Rosa Teyze hiç de öyle değil.`
 `Tüm kardeşler arasında en sağduyulu olan o.`
 `Hideyoshi Amca gibi o da her zaman çocukların yanında olan nazik bir teyze.`
-`......Bununla birlikte, muhtemelen bir ebeveyn olarak daha katı olduğu için, Hideyoshi Amca gibi harcama parası dağıtma konusunda cömert değildir.`
+`......Bununla birlikte, muhtemelen bir ebeveyn olarak daha katı olduğu için, Hideyoshi Amca gibi harçlık dağıtma konusunda cömert değildir.`
 `Pekâlâ.`
 ` Şimdi uçağa binecek olan tüm aile üyelerimiz burada.`
 `Sanki hepimizin toplanmasını beklemiş gibi lobiden bir anons duyuldu.`

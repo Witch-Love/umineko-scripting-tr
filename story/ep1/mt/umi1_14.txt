@@ -130,7 +130,7 @@
 `"............Kihihihihihihihihihi.`
 ` {f:5:Beatrice} siz aşağılık insanları kışkırtmaya çalışıyor, çünkü bu kapının nasıl açıldığını anlamanıza imkan olmadığını düşünüyor.`
 ` Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
-`"A-ah."`
+`"A-Ah."`
 `"Tamam, iyi iş, şimdi kapa çeneni.`
 ` ......Bana uyar. O cadının meydan okumasını kabul ediyorum!"`
 `"......Maria-chan.`
@@ -147,7 +147,7 @@
 `".........Kazan dairesi..."`
 `"......Acaba kazanda yine bir sorun mu var?"`
 `Bu merdivenler yeraltındaki kazan dairesine çıkıyordu.`
-`Konağın kazanı eskiydi ve son zamanlarda sorun çıkarıyordu.`
+`Malikanenin kazanı eskiydi ve son zamanlarda sorun çıkarıyordu.`
 `{n}Her ikisi de birkaç kez kazanın sorunlarına tanık olmuştu ama daha önce hiç böyle pis bir koku yaydığını görmemişlerdi.`
 `*çarpma*`
 `"Bu-Bu ses de neydi......?!"`
@@ -445,7 +445,7 @@
 `Büyükbabanın cesedinin çöp fırınında ne zaman yanmaya başladığı belli değildi.`
 `Genji-san'a göre alevler o kadar güçlü olmadığına göre, ceset uzun zaman önce yanmaya başlamış olmalı,`
 ` ve o pis koku yavaş yavaş fırından çıkıp odayı doldurmuş, sonunda da dışarı taşarak merdivenlerden yukarı yükselmiş olmalıydı.`
-`......Ender ya da iyi pişmiş olması bir yana,`
+`......Az ya da iyi pişmiş olması bir yana,`
 ` Büyükbaba otomatik kilidinin yarattığı kilitli odada olmasına rağmen...dışarı çıkarılmış, öldürülmüş ve yakılmıştı.`
 ` ...Muhtemelen buna şüphe yok...`
 `Ancak, Genji-san'a göre, kazan dairesi genellikle kilitliymiş.`
@@ -527,7 +527,7 @@
 ` ......Onu sana kim verdi...?!"`
 `"Uu.`
 ` ...Dediğim gibi, {f:5:Beatrice}.`
-` ...Hala inanmıyorsun.`
+` ...Battler hala inanmıyor.`
 ` Uu."`
 `Maria sadece daha önce söylediklerini tekrarladı.`
 `......Maria 19. kişiyle, cadıyla buluşmuştu.`

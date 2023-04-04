@@ -93,7 +93,7 @@
 ` Ben de senin gibi sıvışabilseydim, sıvışırdım.`
 ` ...Ama ye yazık ki yapamam.`
 ` Konuşmama izin verilmese bile.`
-` Ortak olmak kolay değil, biliyor musun?"`
+` Eş olmak kolay değil, biliyor musun?"`
 `Kyrie-san acı acı gülümseyerek iç çekti.`
 `Yani, evet.`
 `{n}Muhtemelen aileye gelin olarak gelen Kyrie-san'ın konuşmasına izin vermeyecekler.`
@@ -189,7 +189,7 @@
 `...bekle, Maria bile söyledi.`
 ` {ruby:<Messenger>:Elçi} yapıldığını söylememiş miydi?`
 ` Belki de Maria en genç ve en masum görünen olduğu için..."`
-`"Neden bir {ruby:<Messenger>:Elçi}'ye ihtiyaçları olsun ki?`
+`"{ruby:<Messenger>:Elçi}'ye neden ihtiyaçları olsun ki?`
 ` Eğer sadece aile konferansına bir mektup gönderilmesini isteselerdi, bunu posta yoluyla da yapabilirlerdi.`
 ` Dört kardeşin her birine postalasalardı, bunu görmezden gelmeleri mümkün olmazdı.`
 ` Kendilerinin bizzat taşımasına ve gizlice teslim etmelerine gerek yoktu."`
@@ -210,7 +210,7 @@
 `"Çok basit.`
 ` {f:5:Beatrice} 18 kişiden biri.`
 ` Bu yüzden 18'in dışında biri varmış gibi bir illüzyon yaratıyorlar.`
-` ...19. kişi o kadar gösterişli bir şekilde ortaya çıktı ki,"`
+` ...19. kişi çok gösterişli bir şekilde ortaya çıktı."`
 `"Bundan kazanç sağlayabilecek bir kişi varsa, o da saklanan bir 19. kişi olamaz.`
 ` Orijinal 18 kişiden biri olabilir.`
 ` ......Tabii ki bu muhakeme deliklerle dolu.`
@@ -248,7 +248,7 @@
 `u...`
 `...hic...`
 `Hic!"`
-`"Her neyse, anahtar Maria-chan'da.`
+`"Her koşulda, anahtar Maria-chan'da.`
 ` {f:5:Beatrice}'in 18 kişiden biri mi yoksa 19. kişi mi olduğunun anahtarı."`
 `"...Maria inatçı, biliyor musun?`
 ` O kız, sinirlendiğinde, onu iyi hissettirmek oldukça zor."`
@@ -267,12 +267,12 @@
 `...En azından bana hakaret etmeme yetecek kadar iyi hissettirmeyi başarmıştı.`
 `......O benim gerçek annem değildi, bu yüzden ona hiçbir zaman anne demek istemedim.`
 `Ama bu durum bana "o gerçek bir yetişkin" dedirtti.`
-`"Hey veletler, demek buradaydınız?`
+`"Hey veletler, demek buradaydınız.`
 ` Kyrie, makyajını tazelemek gerçekten çok zamanını aldı, değil mi?`
 ` Şu andan itibaren ben de makyaj yapmaya başlayacağım."`
 `"Üzgünüm.`
 ` Bir kadının makyajı uzun zaman alır.`
-` ............Öyle mi?`
+` ............Ee?`
 ` Bensiz tartışma nasıl geçti?"`
 `"Hehehe, eminim her şey huzurlu ve düzgündü."`
 `Kyrie-san dirseğiyle kolumun altındaki zayıf noktayı dürttü.`
@@ -283,7 +283,7 @@
 `...Sempatik olduğumu söyleyemezdim ama normal, enerjik haline kıyasla acınacak halde görünüyordu.`
 `"Yine de bu yağmur berbat.`
 ` Konukevine geri dönmek istemiyorum.`
-` Görünüşe göre Natsuhi nee-san geceyi burada, malikanede geçirmemiz için hazırlık yapmış.`
+` Natsuhi nee-san görünüşe göre geceyi burada, malikanede geçirmemiz için hazırlık yapmış.`
 ` Ne yapacağız?"`
 `"......İşiniz bitene kadar bunu düşünmemize gerek yok, değil mi?`
 ` Eğer odalarımıza dönmek için yeterli enerjimiz olmazsa, o zaman bizimle ilgilenmelerine izin verebiliriz."`
@@ -301,7 +301,7 @@
 ` Bu iyi olurdu.`
 ` ...............Öyleyse, Battler.`
 ` Bu gece erkenden uyumayacaksın, değil mi?"`
-`"Evet, muhtemelen kuzenlerle konuşuyor olacağım.`
+`"Evet, muhtemelen kuzenlerle takılıyor olacağım.`
 ` Bütün gece ayakta olabiliriz gibi geliyor.`
 ` Bunda bir sorun var mı?"`
 `"......Anladım.`
@@ -517,7 +517,7 @@
 `...Oysa Krauss bugüne kadar bu gerçeği ondan saklamıştı.`
 ` .........Neden?`
 `"......Be-`
-`.........ben...`
+`.........Ben...`
 `.........güvenini bu kadar mı hak etmedim............?"`
 `".........Ben öyle demek istemedim.`
 ` Sadece bundan bahsetmeye gerek yoktu."`
@@ -528,11 +528,11 @@
 `"Sakin ol...`
 ` Kolayca öfkelenmek senin kötü alışkanlıklarından biri."`
 `"Beni bu hale getiren sen değil misin?!!`
-` Ben bu aileye geldiğimden beri sana eş olarak destek oluyorum...!`
+` Ben bu aileye geldiğimden beri sana eşin olarak destek oluyorum...!`
 ` Senin uğruna, içinde doğduğum aileyi bir kenara attım,`
 ` kalbimi ve bedenimi sana hizmet etmek için adadım...!!!"`
 `"Ve karşılığında,`
-` .........Bunu mu alıyorum.........?!!`
+` .........bunu mu alıyorum.........?!!`
 ` Nasıl......`
 ` ............Nasıl yaparsın............!!"`
 `Krauss yüzünü buruşturdu, sinirli görünüyordu...`
@@ -639,7 +639,7 @@
 ` ............Görüşürüz..."`
 `".........Bekle."`
 `Natsuhi, gitmek üzere olan Jessica'ya durması için seslendi.`
-`"......Ne...?"`
+`"......Noldu...?"`
 `"............Düşünceli olduğun için teşekkür ederim.`
 ` .........Uyumaya gidip seni yalnız bırakmam iyi olmadı."`
 `"B-Böyle konuşma, kötü şans getireceksin..."`
@@ -656,7 +656,7 @@
 `"Um, hey, Anne!`
 ` Bugün bana bir tılsım verdiler.`
 ` Neydi o, büyüye karşı bir tılsım mı?"`
-`"Umm, err...... Eminim ki...onu kapı koluna asman gerekiyordu, değil mi?`
+`"Umm, err...... Eminim ki...sanırım onu kapı koluna asman gerekiyordu?`
 ` Ahahaha... Unutmuşum.`
 ` Bende kalması için bir sebep yok, yani......`
 `sana veriyorum."`
@@ -672,8 +672,8 @@
 `"Teşekkür ederim.`
 ` Ona iyi bakacağım.`
 ` ............Kısa bir süre sonra, karşılığında sana çocukluğumda benim için önemli olan bir tılsımı vereceğim."`
-`"...Onu, onu vermemin nedeni bu değil.`
-` ......Ama, şey,`
+`"...Onu, onu vermemin nedeni bu değildi.`
+` ......Ama, peki,`
 ` ......eğer gerçekten öyle diyorsan..."`
 `"O zaman şimdilik dinleneceğim.`
 ` Başım çok ağrıyor.`
@@ -693,7 +693,7 @@
 `Saate baktığımda, saat 10'u biraz geçiyordu.`
 `{n}...Bütün gece ayakta kalacak olsak bile, odamıza dönme zamanı gelmişti.`
 `"Annem malikanede bizim için bir oda hazırlamıştı, ama...`
-`...ne yapmak istiyorsunuz?"`
+`...ne yapmak istersiniz?"`
 `"Sanırım konukevine dönmeyi tercih ederim.`
 ` ......Ebeveynlerimizi gördüğümüz kadarıyla, sanırım malikanede olmasak daha iyi olur."`
 `"Katılıyorum.`
@@ -703,7 +703,7 @@
 `Her yere huzursuzca bakıyordu, muhtemelen Maria'yı bulmaya çalışıyordu.`
 `"Rosa Teyze, Maria'yı arıyorsan, şurada kanepenin üzerinde."`
 `"Teşekkür ederim.`
-` Tanrım, kendinden geçmiş.`
+` Amanın, kendinden geçmiş.`
 ` ......Onu bir yatağa taşımalıyız."`
 `"Eğer istersen, onu yatağa kadar taşıyabilirim."`
 `"Teşekkür ederim, bu harika olur.`
@@ -711,7 +711,7 @@
 ` Yoksa Natsuhi nee-san'ın hazırladığı odada mı kalacaksınız?"`
 `"Biz de tam bunu konuşuyorduk.`
 ` Konukevine gitmeye karar verdik."`
-`"Gerçekten mi?`
+`"Öyle mi?`
 ` O zaman Maria'yı da yanınıza almanızın bir sakıncası var mı?`
 ` ...Bence tüm kuzenleriyle birlikte olması onun için çok daha konforlu olacaktır."`
 `Bu sözlerin ardındaki gölgede, kendisi de dahil olmak üzere yetişkinlerin Maria'nın duygularını derinden incitmiş olmalarından duyulan bir pişmanlık var gibiydi...`
@@ -731,8 +731,8 @@
 `Maria cevap verir gibi belli belirsiz bir şeyler mırıldandı ama sonra diğer yöne dönüp tekrar uykuya daldı.`
 `......Derin derin uyuyor gibi görünüyordu.`
 `"Gerçekten bayılmış.`
-` Onu uyandırmak kötü olur."`
-`"Tamam, onu ben taşıyacağım."`
+` Uyandırırsak kötü olur."`
+`"Tamam, ben taşıyacağım."`
 `Maria'nın vücudu göründüğünden çok daha hafifti.`
 `{n}George-aniki onu kaldırdı ve sırtına bindirdi.`
 `Dışarıda şiddetli yağmur yağıyordu ve Aniki aynı anda hem şemsiye tutup hem de Maria'yı taşıyamazdı.`
@@ -740,7 +740,7 @@
 `Ancak Krauss Amca'nın kendisine seslendiğini duyunca geri dönmekten başka çaresi kalmadı.`
 `"......İşte bu bir sorun.`
 ` Şimdi geri dönmek zorundayım."`
-`".........Hepiniz konukevine mi dönüyorsunuz?"`
+`".........Ah, hepiniz konukevine mi dönüyorsunuz?"`
 `Girişe doğru giderken koridordan çıktıktan sonra hizmetkar odasının kapısı açıldı ve Shannon-chan dışarı çıktı.`
 `"Çok karanlık oldu, o yüzden size rehberlik etmeme izin verin."`
 `"Mükemmel zamanlama, Shannon-chan.`
@@ -757,7 +757,7 @@
 `"......Gerçekten minnettarım.`
 ` Lütfen Maria'ya dikkat edin."`
 `"Evet, dikkat edeceğiz.`
-` O halde, iyi geceler teyze."`
+` O halde, iyi geceler Teyze."`
 `"O zaman onlara rehberlik edip geri buraya döneceğim."`
 `"Evet, lütfen..."`
 `Rosa Teyze bizi uğurladı.`
@@ -766,18 +766,18 @@
 `Rosa'nın mırıldanan sesi ne karşısındakine ne de bir başkasına ulaşıyor, yağmurun sesi altında kaybolup gidiyordu...`
 `Yağmurlu gül bahçesini yarıp geçtikten sonra konukevine vardık.`
 `"Ahh, keşke Maria taşıyıcılığı pozisyonu için başvursaydım!`
-` O zaman şemsiyeyi üzerime tutarken Shannon-chan'ın kocaman göğsünü kolumla okşayabilirdim!"`
+` O zaman şemsiyeyi üzerime tutarken Shannon-chan'ın kocaman göğsüne kolumla dokunabilirdim!"`
 `"Bu-Bu-Bu-Bu bilerek olmadı, bu bir yanlış anlaşılma...!"`
 `"Ben, ben Eğer öyle yapmazsam George-sama'nın ıslanacağını düşündüm........."`
-`"Hadi ama, gevezeliği bırakın ve içeri girin!"`
+`"Hadi ama, gevezeliği bırakın da içeri girin!"`
 `Jessica tarafından dürtüldükten sonra Shannon şemsiyesini katladı ve konukevine girdi.`
 `"Giysileri ıslanan var mı?`
 ` İsterseniz havlu getirebilirim..."`
-`"Bizim için o kadar endişelenmene gerek yok.`
+`"Bizim için bu kadar endişelenmene gerek yok.`
 ` Teşekkürler, Shannon-chan."`
 `"Oh, evet.`
-` Biraz kağıt oynayalım diyorduk, bir süre bizimle kalmak ister misin?"`
-`"Huh?`
+` Biraz kağıt oynayalım diyorduk, bir süre bize katılmak ister misin?"`
+`"Ha?`
 ` Bugünkü programda gece vardiyası kime aitti?"`
 `"Aile konferansı süresince özel bir program olduğuna inanıyorum.`
 ` Sanırım birkaç değişiklik oldu, o yüzden gidip kontrol edeceğim......"`
@@ -791,7 +791,7 @@
 `Odanın buzdolabından içecek bir şeyler aldık ve bir yandan içerken bir yandan da kağıt oynayarak vakit geçirdik...`
 `"......Oh?`
 ` Kanon-kun?`
-` Ve Genji-sama bile burada.`
+` Genji-sama bile burada.`
 ` ...Bu geceki vardiyada neler oluyor...?"`
 `"............Krauss-sama bir emir verdi.`
 ` Programın çoğunda değişiklikler yapıldı."`
@@ -800,14 +800,14 @@
 ` Sen ve Kanon konukevinde gece vardiyasına kalıyorsunuz.`
 ` Kumasawa-san ve benim de geceyi konukevinde geçirmemiz emredildi.`
 ` Az önce sizin de burada kalacağınıza dair bir telefon aldık."`
-`"Huh...?`
+`"Ha...?`
 ` Bu-Bu oldukça büyük bir değişiklik...`
 ` Konukevi ve malikanedeki vardiyalar tamamen tersine çevrildi, değil mi...?"`
 `Başlangıçta, Shannon ve Kanon'a malikanede gece vardiyası verilirken, tüm akrabaların kaldığı konukevindeki gece vardiyası, eğlence konusunda bolca deneyimi olan Gohda'ya verilmişti.`
 `Kumasawa'nın konukevinde, Genji'nin ise malikanede kalması planlanmıştı.`
 `Ancak, Krauss aniden programın değiştirilmesini emretmiş gibi görünüyordu.`
 `......Konukevi ve malikanedeki vardiyalar tersine çevrilmişti ve Genji geceyi konukevinde geçiriyordu.`
-`"............Büyük ihtimalle {f:5:Beatrice}-sama'nın mektubu yüzünden."`
+`"............Muhtemelen {f:5:Beatrice}-sama'nın mektubu yüzünden."`
 `"Muhtemelen mi? ......Neden?"`
 `".........Böyle gizemli bir mektup ortaya çıktığında, Krauss-sama'nın bizden birinden şüphelenmesi çok doğaldı.`
 ` .........Biz doğrudan Efendi'ye bağlı olarak hizmet ediyoruz, bu yüzden Krauss-sama muhtemelen bizi aile konferansından mümkün olduğunca uzak tutmak istedi."`
@@ -825,7 +825,7 @@
 `"Bu geceki misafirliğimiz...{i:çok özel}."`
 `""Evet, anlaşıldı, Genji-sama.""`
 `Genji başıyla onayladı, bir paravanın arkasına geçti, ceketini çıkardı ve gün boyu süren gerginliğin ardından yavaş yavaş dinlenmeye başladı...`
-`".........Şimdi geri dönenler çocuklar mıydı?"`
+`".........Az önce geri dönenler çocuklar mıydı...?"`
 `"Evet.`
 ` Diğer akrabalar malikanede bir toplantı yapıyorlar.`
 ` Çok geç saatlere kadar sürecek gibi görünüyor..."`
@@ -888,7 +888,7 @@
 `......Birkaç dakika geçtikten sonra ayağa kalktı, bir kap sıcak su ve toz kullanarak biraz sıcak çikolata yaptı ve Kanon'a da ikram etti.`
 `"Vay anasını, cidden mi?!?!`
 ` Bunu bilmiyordum...!!"`
-`"Sessiz ol, aptal!`
+`"Aptal, sessiz ol!`
 ` Maria'yı uyandıracaksın!"`
 `Battler o kadar şaşırmıştı ki çirkin bir şekilde bağırdı ve elindeki kartları etrafa saçtı.`
 `Sesi Maria'nın bir kez dönmesine neden oldu, ama kısa süre sonra tekrar derin bir uykuya daldı...`
@@ -909,7 +909,7 @@
 ` O zaman tekne yarından sonraki güne kadar gelmeyebilir......`
 ` ...Pazartesi günkü işinize engel olabileceğinden endişeleniyorum..."`
 `"Hahaha, tayfunun geleceğini zaten önceden biliyordum.`
-` Her ihtimale karşı, Pazartesi günü için herhangi bir planım olmadığından emin oldum, bu yüzden sorun değil.`
+` Her ihtimale karşı, Pazartesi günü için herhangi bir planım olmadığından emin oldum, bu yüzden her şey yolunda.`
 ` ...Öyle görünmüyor olabilirim ama gerçekten de programını önceden planlayabilen bir tipim."`
 `George göğsünü kabartarak gururlu bir tavır takındı.`
 `George'un en büyük kuzen olarak her zamanki sakin görünümüyle karşılaştırıldığında, şimdi küçük bir çocuk gibi komik görünüyordu.`
@@ -942,7 +942,7 @@
 ` Bu tür bir şey ancak çok sayıda çalışanın desteğiyle ve onların gücünü ödünç alarak yaratılabilir."`
 `"......Bunu anladıktan sonra babamın sırtına baktığımda ne kadar toy olduğumu fark ediyor,`
 ` babamın çok çalışarak karakterini ne kadar geliştirdiğini görüyor ve bugüne kadar sahip olduğu her şeyi nasıl inşa edebildiğini çok iyi anlıyorum."`
-`"George-sama, gerçekten de babanızı örnek alıyorsunuz...`
+`"George-sama, babanızı gerçekten de örnek alıyorsunuz...`
 ` Kıskanıyorum."`
 `"A-Ah üzgünüm...söylemek istediğim şey tam olarak bu değildi."`
 `"Ben, ben özür dilerim... Ben de öyle demek istememiştim......"`
@@ -975,14 +975,14 @@
 ` Şimdiye kadar çok para biriktirmiş olmalısın, değil mi?"`
 `"Emin değilim...`
 ` Satın almak istediğim özel bir şey yok...`
-` Ve birkaç milyon yeninizin olması, hayatınızın geri kalanını geçirecek kadar paranız olduğu anlamına gelmez..."`
+` Ve birkaç milyon yeninin olması, hayatının geri kalanını geçirecek kadar paran olduğu anlamına gelmez..."`
 `"Yani burada hedeflediğin miktara ulaşmak için çalışmıyorsun?"`
 `".........E-...Evet, doğru.`
 ` ......Bu malikanenin dışında gidecek hiçbir yerim yok.`
 ` ......Leydi ve diğer genç hizmetkarlarla da iyi geçiniyorum...`
 ` ......Bazen Madam'dan azar işitiyorum ama, ......gül bahçesine bakmak ve malikaneyi temizlemek eğlenceli..."`
-`"Ama bu {i:senin} hayatın değil,`
-` ......Sayo ({p:0:紗代})-chan."`
+`"Ama bu {i:Shannon-chan'ın},`
+` ......hayır, Sayo ({p:0:紗代})-chan'ın hayatı değil."`
 `".........Umm..."`
 `Shannon gerçek adını duyduğunda gözlerini aşağıya doğru çevirdi...`
 `{n}George'un ne söylemeye çalıştığını anladı ve ağzını kapattı.`

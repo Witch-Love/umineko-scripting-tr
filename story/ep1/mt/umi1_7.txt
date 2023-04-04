@@ -11,7 +11,7 @@
 `"Sanırım bunun anlamı...ihihi...Pazartesi günü okula gidemeyeceğiz gibi görünüyor~.`
 ` Bir adada yaşamak oldukça iyi gelmeye başladı!`
 ` ......Bir düşününce Jessica, her gün okula tekneyle gitmek zorundasın, değil mi?`
-` Tekneler seferleri durdurulduğunda ne yapıyorsun?`
+` Tekne seferleri durdurulduğunda ne yapıyorsun?`
 ` Yağmur yağdığında evde kalıp, rüzgar estiğinde Kral Kamehameha gibi geç mi gidiyorsun?"`
 `"Tekneler gelmezse evde kalıyorum.`
 ` Yine de göründüğü kadar iyi değil.`
@@ -96,7 +96,7 @@
 `{n}Battaniyeyi üzerine örtmeye çalıştığında, Rosa'nın gözleri elektrik çarpmış gibi birden açıldı.`
 `"..................ah...!`
 `.........`
-` ......Oh, demek sensin Genji-san......teşekkür ederim."`
+` ......Oh, teşekkür ederim......demek sendin Genji-san."`
 `Kendisine dokunan şeyin sadece bir battaniye olduğunu ve Genji'nin bunu ona iyi niyetle verdiğini fark ettiğinde rahat bir nefes aldı.`
 `"......Sizi uyandırdım mı?`
 ` İçten özürlerimi sunarım."`
@@ -123,7 +123,7 @@
 `"...Maria...`
 ` ......Doğru, Maria nerede?!"`
 `"............Onu görmedim.`
-` Malikaneye dönmüştür diye düşünüyorum."`
+` Konukevine dönmüştür diye düşünüyorum."`
 `Rosa kızının huyunu iyi bilirdi.`
 `{n}Ve sırtına bir ürperti yayıldı.`
 `Maria aptalca açık sözlüydü, öyle ki "aptalca" kelimesi yedi kez tekrarlanabilirdi,`
@@ -131,7 +131,7 @@
 `......Yağmur yağıyor olsa bile...!!`
 `"......Hayır.`
 ` Kuzenleri erken ayrıldıkları için Maria yalnızdı...!`
-` Biri ona durmasını söylemediği sürece, gökten mızraklar yağsa bile orada kalacaktı!`
+` Biri ona durmasını söylemediği sürece, gökten mızraklar yağsa bile orada kalırdı!`
 ` Bir şemsiye bile açmadan!!`
 ` .........Aaaah, ne yaptım ben, duygularımın kontrolünü kaybettim!!"`
 `Annesi olarak, Maria'nın aptalca açık sözlülüğünü herkesten daha iyi biliyordu, ancak bir kez daha duygularının kontrolünü kaybetti ve böyle korkunç bir şey yaptı...!`
@@ -161,7 +161,7 @@
 `"Büyümek için altı yılın olduğundan beni yenebileceğini mi düşünüyorsun?`
 ` Pekala, hadi öğrenelim.`
 ` ............Haydi gidelim!!"`
-`George-aniki ve ben yağmurun içine fırladık.`
+`Ben ve George-aniki yağmurun içine fırladık.`
 `{n}Jessica ve Kanon-kun bizi takip etti.`
 `"Mariaaaa!!`
 ` Eğer oradaysan, cevap ver!!`
@@ -170,7 +170,7 @@
 ` Teyze!!"`
 `George-aniki geri seslendiğinde, Rosa Teyze neredeyse bir mücadeledeymiş gibi ona doğru koştu.`
 `"Maria nerede?!`
-` Siinle değil mi?!"`
+` Sizinle değil mi?!"`
 `"Hayır, önceki seferden beri Maria-chan'ı görmedik."`
 `"............Mariaaaaa!!!"`
 `............Altı yıl önce, Maria üç yaşındaydı.`
@@ -188,7 +188,7 @@
 ` ......hala arıyor musun?!"`
 `"......Uu......`
 ` Bulamıyorum...`
-` Gülüm...`
+` Maria'nın gülü...`
 ` ...Bulamıyorum......`
 ` ...Uu......"`
 `Maria muhtemelen yağmur yağmaya başladığından beri buradaydı.`
@@ -204,9 +204,9 @@
 `Rosa Teyze kendi şemsiyesini fırlattı ve Maria'ya sarıldı.`
 `"......Uu.........`
 ` Burada değil.`
-` ...Gülüm burada değil...`
+` ...Maria'nın gülü burada değil...`
 ` ......Uu......"`
-`"Annen daha sonra seninle birlikte arayacak...`
+`"daha sonra annen seninle birlikte arayacak...`
 ` Tamam mı?`
 ` O yüzden bugünlük boş ver.`
 ` ......Tamam mı?"`
@@ -217,24 +217,24 @@
 `"......Hemen malikanede bir havlu hazırlatacağım."`
 `"Maria......`
 ` Bunca zamandır burada mıydın......?"`
-`"Özür dilerim......`
-` Bu kadar kötü bir anne olduğum için özür dilerim........."`
+`"Üzgünüm......`
+` Bu kadar kötü bir anne olduğum için üzgünüm........."`
 `"......Rosa teyze, neden şimdilik malikaneye dönmüyoruz?`
 ` Maria-chan böyle giderse üşütecek."`
 `".........Haklısın.`
 ` Maria, gidelim.`
-` Eğer seni temizlemezsek, Büyükbabam sana kızacak."`
+` Eğer seni temizlemezsek, Büyükbaban sana kızacak."`
 `"Uu...`
 ` Acıktım."`
 `"Yemek vakti çoktan geldi.`
-` Arayarak iyi iş çıkardın.`
-` Hava düzeldiğinde hep birlikte aramaya gideriz."`
+` Maria, arayarak iyi iş çıkardın.`
+` Hava düzeldiğinde hep birlikte aramaya geliriz."`
 `Sonsuza kadar yağmurda kalamazdık.`
-`Malikaneye dönerken Maria'yı da yanımıza aldık.`
-`{n}Görünüşe göre Maria düşündüğüm kadar zayıf değilmiş.`
-`Akşam yemeğinin dana biftek olduğunu hatırlayınca "Açım, açım, uu-uu!" diye bağırmaya başladı ve her zamanki sağlıklı haline döndü.`
+`{n}Malikaneye dönerken Maria'yı da yanımıza aldık.`
+`Görünüşe göre Maria düşündüğüm kadar zayıf değilmiş.`
+`Akşam yemeğinin dana biftek olduğunu hatırlayınca "Acıktım, açım, uu-uu!" diye bağırmaya başladı ve her zamanki sağlıklı haline döndü.`
 `......Rosa Teyze Maria'yı "uu-uu" dediği için azarlamadı.`
-`"Demek böyle.`
+`"Demek öyle.`
 ` Şemsiyen vardı.`
 ` Doğru şeyleri taşımakta çok iyisin."`
 `"......Uu.`
@@ -312,7 +312,7 @@
 ` İblislerin Ruleti çoktan dönmeye başladı.`
 ` Bu noktada akşam yemeğinin ne anlamı var ki........."`
 `Kinzo sanki kapıya vurulan gürültüyü duymamış gibi,`
-`{n}tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
+`tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
 `Her zaman olduğu gibi, yemek salonunda eksik olan tek kişi Kinzo'ydu.`
 `{n}Krauss, acı bir gülümsemeyle Nanjo'yla birlikte geri döndü.`
 `"Her zaman olduğu gibi, babam kendini iyi hissetmiyor.`
@@ -326,14 +326,14 @@
 ` Pekala, bayanlar ve baylar, başlayalım."`
 `Nihayet tüm yıl boyunca en önemli anı olan aile konferansı yemeğine başlaması söylendiğinde, Gohda genişçe sırıtarak başını salladı ve onayladı.`
 `"......Umm, merak ediyorum da, Maria'ya şemsiyeyi kim ödünç vermişti?"`
-`Rosa yemek salonunun sessizliğini ürkekçe kırıp konuştuğunda, oradaki herkes dikkatini bir anda ona çevirdi.`
+`Rosa yemek salonunun sessizliğini ürkekçe bozup konuştuğunda, oradaki herkes dikkatini bir anda ona çevirdi.`
 `"...Şemsiye mi?`
 ` O da ne demek?"`
 `"Umm......`
 ` Maria kısa bir süre önce gül bahçesindeyken yağmur yağmaya başladı...`
 ` Görünüşe göre birinden beyaz bir şemsiye ödünç almış ve ben de ona teşekkür etmek istedim..."`
 `"Bizden biri değildi.`
-` Rosa, sen dışarı çıktıktan sonra, odalarımızı değiştirdik ve geri kalan tüm zaman boyunca "dostça" sohbetimize devam ettik."`
+` Rosa, sen dışarı çıktıktan sonra odamızı değiştirdik ve geri kalan tüm zaman boyunca "dostça" sohbetimize devam ettik."`
 `"Haha, ...bu doğru.`
 ` Ondan sonra bile biz kardeşler dostça sohbetimize devam ettik."`
 `Dostça kelimesi Hideyoshi'nin dudaklarından garip bir şekilde döküldü,`
@@ -429,7 +429,7 @@
 `"Tabii ki!`
 ` Rudolf-kun doğru düşündü.`
 ` Maria-chan, amcana söyle!`
-` Sana şemsiyeyi kim ödünç verdi?"`
+` Maria-chan, sana şemsiyeyi kim ödünç verdi?"`
 `"{f:5:Beatrice}!"`
 `Yemek salonu bir an için sessizliğe büründü, ancak bu kısa sürede bozuldu ve kahkahalar duyuldu.`
 `"Hahahaha.`
@@ -441,7 +441,7 @@
 `Rosa tatmin olmuş görünmüyordu.`
 `{n}...Sadece şemsiye için teşekkür etmek istemişti; neden her şey bu kadar dumanla kaplanmak zorundaydı ki...`
 `"Uu!`
-` Tıpkı Krauss Amca'nın dediği gibi.`
+` Krauss Amca'nın dediği gibi.`
 ` {f:5:Beatrice} ödünç verdi!`
 ` Uu-uu!"`
 `"Hahahahaha...`
@@ -467,7 +467,7 @@
 `".........Burada Maria'dan bahsediyoruz, bu yüzden bunun bir tür metafor ya da şaka olduğunu düşünemiyorum.`
 ` ...Söylediklerini olduğu gibi kabul etmek en iyisi olabilir."`
 `"O zaman neler oluyor?`
-` Genji-san'ın ya da birinin portredeki o süslü elbiseyi giydiğini ve Maria'ya şemsiyeyi verdiğini mi söylüyorsunuz?"`
+` Genji-san'ın ya da birinin portredeki o süslü elbiseyi giydiğini ve Maria'ya şemsiyeyi verdiğini mi söylüyorsun?"`
 `"...Hiçbir fikrim yok...`
 ` Aslında ben de bunu bilmek istiyorum."`
 `Jessica şakayla karışık omuz silkti ama ifadesi tamamen şaka değildi.`
@@ -560,7 +560,7 @@
 ` ancak görünüşe göre tam olarak başaramadı.`
 `Yemek sonrası kahve, çay ve portakal suyu siparişlerini aldıktan sonra mutfağa gitti.`
 `O gözden kaybolur kaybolmaz, Krauss Amca konuştu.`
-`"......Aman Tanrım.`
+`"......Aman aman.`
 ` Gohda'nın hazırlamak için çok uğraştığı bu yemeğin bu kadar kötü karşılanması gerçekten çok üzücü."`
 `".........Evet, gerçekten de.`
 ` Bugün hiçbir şeyin tadı güzel olmayacakmış gibi geliyor. Öyle bir ruh hali işte."`
@@ -578,7 +578,7 @@
 `Sağımda oturan Natsuhi Teyze'ye sordum, ...ama onun da keyfi yok gibiydi.`
 `Sanki hiç ilgilenmiyormuş gibi tersledi.`
 `"Yetişkinlerin sohbeti biraz karmaşık bir hal aldı.`
-` Bu senin gibi çocukların endişelenmesi gereken bir şey değil, Battler-kun.`
+` Battler-kun, bu senin gibi çocukların endişelenmesi gereken bir şey değil.`
 ` Hahahahaha,`
 ` öyle değil mi? Natsuhi-san? Kyrie-san?"`
 `Hideyoshi Amca konuşurken güldü ama her zamanki neşesi yoktu,`
@@ -649,8 +649,8 @@
 `"......İl-, ......İlginç bir şey karşımıza çıkmış gibi görünüyor."`
 `".........B-Bir göz atmama izin ver...!"`
 `"Uu!!`
-` Hayır, okuyacağım!`
-` Herkese okumam söylendi!!"`
+` Hayır, Maria okuyacak!`
+` Maria'nın herkese okuması söylendi!!"`
 `Hideyoshi Amca zarfı Maria'nın elinden almaya çalıştı ama Maria zarfı kucaklar gibi korudu ve bırakmadı.`
 `"Hideyoshi nii-san, bir çocuğun elinden kaba kuvvetle bir şey almamalısın.`
 ` .........Maria-chan, bu zarfı nereden buldun?"`
@@ -689,7 +689,7 @@
 ` Bu nedenle, bu zarfın babamdan geldiğini kanıtlamaz."`
 `"Ben de aynı şekilde düşünüyorum.`
 ` Sadece balmumundaki mühre bakarak bunun babamın mektubu olduğuna keyfi olarak karar vermeyi onaylayamam.`
-` Doktor Nanjo, böyle belirsiz kelimeler kullanmaktan kaçınır mısınız?!"`
+` Doktor Nanjo, böyle belirsiz kelimeler kullanmaktan kaçınır mısın?!"`
 `"............Özür dilerim...`
 ` Çok fazla konuştum..."`
 `Krauss'tan aşağıya doğru tüm kardeşler birbiri ardına, Maria'nın elinde tuttuğu zarfın Kinzo tarafından gönderilmiş olması gerekmediğini söyleyerek Nanjo'nun ifadesini reddettiler.`
@@ -716,7 +716,7 @@
 `Battler bunu Jessica'ya küçük bir sesle, ortalığı karıştırmak istermiş gibi söyledi ama Natsuhi onu net bir şekilde duydu ve tehditkâr gözlerle ona baktı.`
 `"V-Ve sonra,`
 ` err,`
-` ...{f:5:Beatrice} bunu sana yemek bittikten sonra okumanı söyledi, değil mi?"`
+` ...{f:5:Beatrice} bunu sana yemek bittikten sonra okumanı söyledi, öyle mi?"`
 `"Uu!"`
 `".........Neden olmasın, millet.`
 ` Bu Büyükbabanın zarfı değil, {f:5:Beatrice}'in.`

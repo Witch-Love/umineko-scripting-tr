@@ -17,7 +17,7 @@
 `......Pencereden şüpheli bir gölgenin görünüp görünmeyeceğini mi kontrol ediyordu,`
 ` ...yoksa kendi içinde derin düşüncelere mi dalmıştı, ...bilemiyordum.`
 `Jessica, Natsuhi Teyze'nin yanındaki kanepede belli bir açıyla...yüzündeki ölü ifadeyle oturuyordu.`
-`......Ve arada bir, sanki bir şey hatırlamış gibi, astım krizi sırasında kullandığı inhaleri çıkarıp ağzına götürüyordu.`
+`......Ve arada bir, sanki bir şey hatırlamış gibi, astım krizi sırasında kullandığı astım spreyini çıkarıp ağzına götürüyordu.`
 `...Az önce Aniki'den duydum ama,`
 ` ......sanırım Jessica Kanon-kun'dan hoşlanıyormuş.`
 `Görünüşe göre bu o kadar belirsiz bir şeydi ki kendisi bile fark etmemişti.`
@@ -26,7 +26,7 @@
 `...Bu durumda,`
 ` ......hissettiklerini daha ilk kez sevdiği kişi öldüğünde fark etmiş olabilir.`
 `.........Gerçekten acınası ve üzücüydü.`
-`Bir düşününce, ...ona o inhaleri veren kişi Kanon-kun'du.`
+`Bir düşününce, ...ona o astım spreyini veren kişi Kanon-kun'du.`
 ` ......Belki de bunu hatırlıyordu.`
 `Bana gelince, ......mektubun ikinci sayfasındaki büyülü çemberin anlamını araştırmak için Büyükbabamın çalışma odasını kurcalıyordum.`
 `Her ne kadar burada defansif bir pozisyonda kapalı kalmış olsak da, isyankâr doğam hücuma devam etmemi, tüm bunların arkasında yatan anahtarı bulmamı istiyordu.`
@@ -52,7 +52,7 @@
 `"...Evet, az çok.`
 ` Öldürecek çok zamanımız var.`
 ` ......{f:5:Beatrice}-sama'nın içine ne tür bir mesaj koyduğunu öğrenmenin ilginç olacağını düşündüm."`
-`"............Ben yapmazdım.`
+`"............Kes şunu.`
 ` Böyle devam edersen tuhaf bir şey tarafından ele geçirileceksin."`
 `"Merak etme.`
 ` Maria tarafından onaylandım.`
@@ -74,15 +74,15 @@
 `{n}...Her zaman sert davranır, çok ileri gider ve sonra pişman olurdu.`
 `"......Nasıl hissettiğini anlıyorum ancak Maria suçlu ile yakın temas halindeydi,`
 ` ve daha da kötüsü, bitmek bilmeyen esrarengiz ifadeleriyle onların tarafındaymış gibi görünüyordu.`
-` .........Onu kovduğumuz için rahatladım."`
+` .........Onu odadan attığımız için rahatladım."`
 `"...Natsuhi Teyze, bu oldukça sertti.`
 ` ......Bunlar sadece dokuz yaşındaki bir kızın saçmalıkları olamaz mı?"`
 `Ben bile bunu söyleyerek yüzsüzlük ettiğimi düşündüm...`
 `{n}Ben de bugün birkaç kez Maria'nın ürkütücü olduğunu düşünmüş ve onun gerçek doğasından şüphe etmiştim.`
-`......Ve Maria bu odadan kovulduğunda, biraz rahatladığımı inkar edemezdim...`
+`......Ve Maria bu odadan atıldığında, biraz rahatladığımı inkar edemezdim...`
 `"..................Eğer durum böyleyse,`
 ` yarın yaptığım şey için özür dileyeceğim.`
-` ...Onları bu odadan kovmanın tüm sorumluluğunu üstleneceğim.`
+` ...Onları bu odadan atmanın tüm sorumluluğunu üstleneceğim.`
 ` ......Bu, geri kalanınızın endişelenmesi gereken bir şey değil."`
 `Natsuhi Teyze'nin sözlerinde trajik bir kararlılık hissedebiliyordum.`
 `{n}......Kendi kızını korumak adına, şüphelileri büyük bir kararlılıkla dışarı atardı.`
@@ -111,7 +111,7 @@
 ` ......Bu yüzden bir yerlerden bu okült hobiyi öğrendiğinde, kalbindeki boşlukları doldurabilmek için kendini buna kaptırdı."`
 `"......Biliyor muydunuz?`
 ` Maria-chan için cadı imajı hiç de negatif bir şey değil.`
-` ...Dün sahilde bize defterini gösterdiği zamanı hatırlıyor musunuz?"`
+` ...Dün sahilde Maria-chan'ın bize defterini gösterdiği zamanı hatırlıyor musunuz?"`
 `"......Evet.`
 ` ...Tüm o eğlenceli görünen karalamalarla doluydu."`
 `Dün, sahilde cadının varlığından şüphe ettiğimiz sırada...`
@@ -168,7 +168,7 @@
 `"......Eğer suçlu odanın dışındaysa, ...o zaman kendimizi suçlunun bize dokunamayacağı kilitli bir odaya kapattığımızda, onlar için her şey biterdi.`
 ` .........Bu doğru.`
 ` Büyükbabanın bu odadan nasıl kaybolduğuna dair öne sürdüğüm teoriyle aynı değil mi?"`
-`"......Büyükbabanın odayı kendi isteğiyle terk ettiği teorisi.`
+`"......Büyükbabamın odayı kendi isteğiyle terk ettiği teorisi.`
 ` ...Eğer suçlu onu dışarı çekmek için bir taktik kullandıysa ve Büyükbaba kendi isteğiyle çıktıysa, o zaman..."`
 `Düşündüm de, ...çalışma odasının kapı kolunda akrep büyülü çemberini bulduğumuzda Maria bile bunu söylemişti.`
 `......{f:5:Beatrice} bu kapıdan geçemez.`
@@ -196,13 +196,13 @@
 ` Ben sadece, şey.`
 ` .........Jessica'nın ne kadar harika bir annesi olduğunu düşünüyordum."`
 `"......Evet.`
-` ...Sabahtan beri bu olaylarla uğraşıp duruyorsun ve tüm bu süre boyunca soğukkanlılığını kaybetmeden hepimizi idare ettin."`
+` ...Natsuhi Teyze, sabahtan beri bu olaylarla uğraşıp duruyorsun ve tüm bu süre boyunca soğukkanlılığını kaybetmeden hepimizi idare ettin."`
 `"......Eğer senin de bizim kadar kafan karışmış olsaydı, şimdiye kadar her birimiz suçlunun pençesine düşmüş olabilirdik.`
 ` ...Bu yüzden hepimizin sana teşekkür etmesi gerektiğini düşünüyorum."`
 `"........................Teşekkürler."`
 `"...............`
-` Battler ve senin söylemeye çalıştığınız şey...`
-` .........Maria'nın annesi gibi olarak da davranmasını mı istiyorsunuz......?"`
+` ...Battler ve senin söylemeye çalıştığınız şey...`
+` .........Maria'nın annesi gibi olarak da davranması, değil mi......?"`
 `"................................."`
 `"......Ben...`
 `.........her zaman Maria'yı gerçek kız kardeşim olarak düşündüm ve sevdim.`
@@ -213,7 +213,7 @@
 ` ...lütfen.`
 ` .........Maria ile,`
 ` .........hayır, herkesle birlikte kalalım...`
-` .........Aramızda...`
+` .........Bizim aramızda...`
 `suçlu yoktu......`
 ` Tüm bunların arkasındaki suçlu...`
 `......cadı {f:5:Beatrice} olamaz mı...?`
@@ -241,7 +241,7 @@
 `Büyülü çemberin anlamı şuydu...`
 `......“anlaşmazlık”.`
 `{n}...İç ihtilafları kışkırtır ve düşmanın kendi çöküşünü getirmesine neden olur.`
-`"............Bekle bir saniye...`
+`"............Hey, hey...`
 ` Cidden mi......?"`
 `İçinde bulunduğumuz durumu ve zihinsel halimizi tanımlamak için bundan daha uygun bir yol olabilir mi?`
 `Sessizliğe gömülmekten kendimizi alamadık.`
@@ -256,15 +256,15 @@
 ` O dördü tehlikede...!"`
 `"...................................."`
 `Natsuhi Teyze'nin hoş olmayan bir sessizlik içinde kalması şaşırtıcı değildi.`
-`{n}...Tüm bunlar suçlunun bir tuzağı olsa bile, odadan kovalanan dört kişi tehlikede olsa bile,`
+`{n}...Tüm bunlar suçlunun bir tuzağı olsa bile, odadan atılan dört kişi tehlikede olsa bile,`
 ` bunun buradaki dört kişinin güvenliğiyle hiçbir ilgisi yoktu.`
 `Ve dışarı attığımız dört kişinin masumiyetini kanıtlamanın da hiçbir yolu yoktu.`
 `{n}......Eğer onların ölmesine izin vereceksek, ne olursa olsun bu odadan çıkmamalıyız.`
 ` ...Bu yol...en güvenlisi!!`
 `Tam o sırada, aniden, bir telefonun kulak çınlatan sesi odanın içinde yankılandı.`
-`Bu, Büyükbabanın çalışma masasının üzerinde duran antika dahili telefondu.`
+`Bu, Büyükbabamın çalışma masasının üzerinde duran antika dahili telefondu.`
 `......Bu konuşmaya başladığımız sırada çalmaya başlamıştı.`
-`{n}Bunun, kovduğumuz diğerlerinden gelen bir imdat çağrısı olduğunu düşünmemiz çok doğaldı.`
+`{n}Bunun, odadan attığımız diğerlerinden gelen bir imdat çağrısı olduğunu düşünmemiz çok doğaldı.`
 `Ama sonra Natsuhi Teyze konuştu.`
 `"Bu telefon nasıl, .........olabilir—?!`
 ` Tüm telefonlar bozulmuş ve kullanılamaz durumdaydı...!!"`
@@ -328,7 +328,7 @@
 ` Şarkı söyleyen Maria mı?!`
 ` Cevap ver bana!!"`
 `"Ne-...Neler oluyor?!`
-` Bu da ne?!"`
+` Bunun anlamı ne?!"`
 `"Bilmiyorum...!`
 ` Tek söyleyebileceğim,`
 ` ...bu muhtemelen bir tuzak, ......ve Maria'nın başı dertte..."`
@@ -347,7 +347,7 @@
 ` Ben de geleceğim.`
 ` Jessica sen burada bekle."`
 `"Burada kalan tek kişinin ben olmamı mı istiyorsun?!`
-` Hayatta olmaz ben de geliyorum!!!"`
+` Hayatta olmaz, ben de geliyorum...!!"`
 `"Evet, böylesi daha iyi olabilir.`
 ` ...Eğer o telefon aramasının amacı bizi daha da bölmekse, bu odayı gözetmesi için birini bırakmak iyi bir fikir olmazdı."`
 `"Tartışacak zaman yok.`
@@ -384,7 +384,7 @@
 `"......Bunca zamandır düşünüyordum da.`
 ` ...Kanon-kun'un durumunda olduğu gibi, o "buz kıracaklarından" birini birinin göğsüne saplamak imkansız olmazdı.`
 ` ......Ama kafatasını yarmak ve annemle babamda olduğu gibi alnına saplamak o kadar da kolay olmazdı."`
-`"Suçlunun o tür bir hayvan gücüne sahip olduğunu mu düşünüyorsun...?!"`
+`"Suçlunun o tür bir hayvani güce sahip olduğunu mu düşünüyorsun...?!"`
 `"...Muhtemelen ateş edebilen ya da o "buz kıracaklarını" fırlatabilen bir tür silahları ya da bir cihazları vardır.`
 ` Sapı sadece insan gücüyle o kadar derine sokulamayacak kadar kısaydı."`
 `"......Durum ne olursa olsun, onlar bir kafatasını kırmak için yeterli güce sahipler.`
@@ -418,7 +418,7 @@
 `Natsuhi Teyze elini kapı kolunun üzerine koydu...`
 ` George-aniki onu durdurdu.`
 `"...Kapıyı ben açacağım...`
-` Natsuhi Teyze, Battler-kun, silahlarınızı hazır tutun."`
+` Natsuhi Teyze, Battler-kun, siz silahlarınızı hazır tutun."`
 `"............Anladım.`
 ` ......Dikkatli ol."`
 `"Kapıyı açar açmaz saldırabilirler...`
@@ -439,7 +439,7 @@
 `.........Bu asılsız izlenim hızla dağılıyordu......`
 `"............Nn, .........açıldı."`
 `"...Teşekkürler.`
-` George-kun, Jessica, arkama geçin."`
+` George-kun ve Jessica, arkama geçin."`
 `"......Teyze.`
 ` Hepimiz birden içeri atlayalım ve farklı yönlere dağılalım.`
 ` Kapıyı açtıktan sonra öylece durursak, o buz kıracakları tam ortadan gelebilir...!"`

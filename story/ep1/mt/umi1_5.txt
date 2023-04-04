@@ -3,7 +3,7 @@
 `Ancak, "görmek" kelimesi muhtemelen bu durumu açıklamak için doğru kelime değildi.`
 `{n}......Daha çok gözlerimiz ona çekilmiş gibiydi.`
 `O kadının gözleri, bilgeyi andıran büyüsüyle ona bakanları kesinlikle oldukları yere sabitleyebilecek bir güce sahipti.`
-`"............Yani...bu cadı {f:5:Beatrice}.`
+`"............Cadı...{f:5:Beatrice}...demek.`
 ` ......Doğru olup olmadığını merak ediyorum."`
 `"Uu?`
 ` Battler inanmıyor mu?"`
@@ -30,16 +30,16 @@
 ` Bunu Büyükbabam yazmış.`
 ` ...Oldukça derin, ha?"`
 `"Uu!`
-` Biliyorum!`
+` Maria biliyor!`
 ` Altının saklı olduğu yer!"`
 `"......Bekle, Ushiromiya ailesinin saklı altınıyla ilgili hikaye mi?`
-` Beni geçmişe götüren başka bir şey daha var...`
+` Beni geçmişe götüren başka bir şey daha...`
 ` ......Bekle, Aniki, ...bu gerçek mi?"`
 `"Büyükbabam bunu yazdırdı ama bu resim ya da kitabe hakkında bir şey söylemeyi reddediyor.`
 ` .........Yine de aile içinde bunun Büyükbabanın saklı altınlarının yerini gösterdiğinden sık sık bahsedilir,`
 ` ve bilmeceyi çözen kişiye aile reisliğiyle beraber altını da bırakacağını söyledi."`
 `"Uu!`
-` Bunu ben de duydum, bunu ben de duydum!`
+` Maria da bunu duydu, Maria da bunu duydu!`
 ` Bir sürü bir sürü altın!"`
 `"...Yani, kim bilir.`
 ` On ton külçe altın.`
@@ -63,7 +63,7 @@
 `......Bu soru sorulduğunda Büyükbabanın şöyle cevap verdiği söylenir:`
 `{i:Kaderin bir günü, Altın Cadı }{f:7:Beatrice}{i: ile karşılaştım.}`
 `Daha sonra, büyük bir büyücü olmak için simya ve iblis çağırma tekniklerini nasıl araştırmaya devam ettiğini anlatıyor.`
-`...Ve iblis çağırma ritüeli sonucunda çağrılan varlık Altın Cadı {f:5:Beatrice}'miş.`
+`...Ve iblis çağırma ritüeli sonucunda çağrılan varlık Altın Cadı {f:5:Beatrice}.`
 `Daha sonra, kendi ruhu karşılığında servet ve onur alacağı bir sözleşme yaptığını söyledi.`
 `Cadı da daha sonra Büyükbabaya on ton altın verdi.`
 `Büyükbaba bu altını büyük miktarda fon hazırlamak için teminat olarak kullandı,`
@@ -114,7 +114,7 @@
 ` İnsanlık tarihi boyunca elde edilen tüm altının 1/10,000'inin tek bir kişiye ait olması delilik."`
 `"...Ve hepsinin tek bir yerde olması ve sanki çok basit bir şeymiş gibi dedeme ödünç verebilecek bir "cadı" olması.`
 ` ......Bu sıradan bir insan olamaz."`
-`"Bana kalırsa, bence "10 ton" sayısı tamamen uydurma gibi geliyor.`
+`"Bana kalırsa, bence "10 ton" sayısı tamamen uydurma gibi.`
 ` Her şeyden önce, Büyükbaba dışında onu gören biri var mı?`
 ` Ve cömert bir cadı ona biraz gerçek altın ödünç vermiş olsa bile, bu "10" doğru olabilir ama aslında 10 kilo ile karıştırılmış olamaz mı?`
 ` 10 kilo bile inanılmaz bir meblağ olurdu, değil mi?"`
@@ -195,7 +195,7 @@
 `aslında doğru bir tanımlama olabilir.`
 `"Anlıyorum.`
 ` ............Başka bir deyişle, bu cadı Ushiromiya ailesini yeniden canlandırmak için gerekli fonları sağladı ve Büyükbaba ona büyük borçlandı.`
-` ...Eğer durum buysa ve Büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...evet, bu o kadar da garip bir hikaye olmayabilir."`
+` ...Eğer durum buysa ve Büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...anlıyorum, bu o kadar da garip bir hikaye olmayabilir."`
 `"Hey, ya bu kişi yaşlı bir cadıya benziyorsa?`
 ` Ve sonra Büyükbabam onun görünüşünü idealleştirdi ve resmi çizdirdiğinde onu bu güzelliğe dönüştürdü.`
 ` Hahahahaha, bahse girerim bu kişiyle tanışsaydık, bu kadar güzel olmazdı!"`
@@ -204,7 +204,7 @@
 ` belki de {f:5:Beatrice} ismi bile Büyükbabamın bir Japon'un ismini yeniden düzenleyerek Batılı bir isim haline getirmeye çalışmasının sonucudur."`
 `"Anladım, anladım.`
 ` Bu, bu güzel kızın resmin dışında var olmadığı anlamına geliyor.`
-` Sanırım bu o zar~if göğüsleri ovalayamayacağım anlamına geliyor, ihihi!`
+` Sanırım bu o za~rif göğüsleri okşayamayacağım anlamına geliyor, ihihi!`
 ` Her şeyden önce, bir cadı biraz tuhaf değil mi?`
 ` Sanki dünyanın herhangi bir yerinde böyle bir şey bulabilirmişsin gibi."`
 `Kendimi altı yıl öncesinde ormanın cadısından korkan çocuktan ayırmak için gülerek cadıyla dalga geçerken Maria kolumu çekiştirdi.`
@@ -248,7 +248,7 @@
 `...Ben çocukların hayallerini yıkmaktan hoşlanan biri değilim.`
 `".........Uhh, üzgünüm.`
 ` Hayallerinle dalga geçmeye çalışmıyordum. Özür dilerim.`
-` Tabii ki {f:5:Beatrice} gerçek.`
+` {f:5:Beatrice} tabii ki gerçek.`
 ` Şimdi bile ormanda yaşıyor ve her gece herkesin ne yaptığını görmek için malikaneye geliyor."`
 `"......Bu yüzden ormana gitmemelisin.`
 ` Ve geceleri, karanlık ormana bakarak uyumamalısın.`
@@ -296,8 +296,8 @@
 ` Uu!"`
 `"Elbette, istediğiniz kadar yiyebilirsiniz.`
 ` ...Ama, umm..."`
-`Böyle bir yerde, portrenin önünde kurabiye servisi yapmanın gerçekten kabul edilebilir olup olmadığından emin değilim,`
-` Shannon-chan bize ne yapmak istediğimizi sorarmış gibi baktı.`
+`Böyle bir yerde, portrenin önünde kurabiye servis etmenin gerçekten kabul edilebilir olup olmadığından emin olamayan Shannon-chan,`
+` bize ne yapmak istediğimizi sorar gibi baktı.`
 `...Şey, düşündüm de, evet, bu kötü bir davranış olurdu.`
 `"Maria, neden başka bir yerde yemiyoruz?`
 ` Kurabiyeleri bir bentoya koyalım ve piknik yapalım."`
@@ -382,7 +382,7 @@
 `".....................Babamda gerçekten altının olup olmadığını kanıtlayamam."`
 `"......Ancak, babamın dört çocuğundan biri olarak, hakkım olan payı almak istiyorum."`
 `"Hoh...`
-` Görünüşe göre Rosa bile kendini savunmayı öğrenmiş.`
+` Rosa bile görünüşe göre bile kendini savunmayı öğrenmiş.`
 ` Pekala, belki de hepinizin söylemek istediği şey buydu:`
 ` tüm altını kendime saklamaya çalıştığımı söylüyorsunuz..."`
 `"Nii-san, gerçek şu ki çok büyük miktarda fon elde ettiniz.`
@@ -496,7 +496,7 @@
 `"700 milyonu altı ayda ödemek biraz can sıkıcı olabilir,`
 ` ama senin gibi siyaset ve iş dünyasında pek çok dostu olan biri bunu başarabilir."`
 `"Normalde 7,5 milyarı hemen, bir kerede almayı umardım.`
-` Ancak konumunuzla ilgili endişelerimden dolayı, şimdilik yüzde 10'unu teslim ederek samimiyetinizi gösterirseniz sevinirim,`
+` Ancak konumunuzla ilgili endişelerimizden dolayı, şimdilik %10'unu teslim ederek samimiyetinizi gösterirseniz,`
 ` kalan 90%'lık kısmın mirasın dağıtımına kadar bekletilmesinde bir sakınca yok.`
 ` ...Anlıyor musun?`
 ` Sen bile samimiyetini göstermek için sadece %10'unu ayırabilirsin."`
@@ -515,7 +515,7 @@
 ` Mirası en az sizin kadar çabuk istiyoruz.`
 ` İşin uzamasını ve yanlış yönlere sapmasını istemiyoruz."`
 `"......İtiraz durumunda ikinci soruşturmayı kim yapacak?"`
-`"...............Bu siz de olabilirsiniz.`
+`"...............Nii-san, sen de olabilirsin.`
 ` Bu muhtemelen biz kardeşler için bunu tartışmak için ilk ve son fırsat olacak.`
 ` ...İşin o noktaya gelmesine izin vermeyeceğine inanıyorum."`
 `"Heheh, *cackle*cackle*!`
@@ -600,12 +600,12 @@
 ` Sessiz ol ve imzala."`
 `"Eva, neden bu kadar sabırsızsın?`
 ` Tabii ki imzalayacağım.`
-` Sana altından payına düşen 7.5 milyar yen için söz veriyorum.`
+` Sana altından, 7.5 milyar yenden payına düşen için söz veriyorum.`
 ` Ayrıca, babamın mirası dağıtıldığında, onu temiz ve düzgün bir şekilde nakite çevireceğime de söz veriyorum."`
 `".........Ancak, sizden uzlaşmanızı isteyeceğim tek bir nokta var."`
 `"............Neden bahsediyorsun sen?`
 ` Hangi kısmı beğenmedin...?"`
-`"Her bir payın yüzde onunu, yani 750 milyon yen'i derhal ödemekle ilgili kısmı.`
+`"Her bir payın %10'unu, yani 750 milyon yen'i derhal ödemekle ilgili kısmı.`
 ` Sizin de belirttiğiniz gibi, mali durumum iyi değil.`
 ` Gelecekteki çeşitli yatırımlardan kesinlikle tahsilat yapacağım garanti olsa da,`
 ` şu anda çok fakir olduğumu itiraf etmekten başka çarem yok."`
@@ -617,9 +617,9 @@
 `"Mirasın paylaşımı sırasında, her şeyi bir kerede nakde çevireceğim.`
 ` Size yüzde on peşin ödeme şartını kaldırın.`
 ` ...Bana imzalatmak için tek yapmanız gereken bu."`
-`"......Krauss nii-san, o yüzde on senin samimiyetini ölçen bir sayıdan başka bir şey değil, değil mi?`
+`"......Krauss nii-san, o %10 senin samimiyetini ölçen bir sayıdan başka bir şey değil, değil mi?`
 ` Açık konuşmak gerekirse, en başta seninle anlaşma yapmamalıydık bile.`
-` Sadece yüzde onluk iyi niyetli bir para karşılığında işleri oluruna bırakmayı teklif ederek size büyük bir iyilik yapıyoruz."`
+` Sadece %10'luk iyi niyetli bir para karşılığında işleri oluruna bırakmayı teklif ederek size büyük bir iyilik yapıyoruz."`
 `"Tüm bunları size açıkladık, bu yüzden bu kısmı reddetmenin güven ilişkimize biraz zarar vereceğini düşünmüyor musunuz...?"`
 `Hideyoshi'nin yüzünde mütevazı bir ifade vardı ve ellerini birbirine kenetlemişti,`
 ` ama gözleri hiç de sakin değildi.`
@@ -634,7 +634,7 @@
 ` Tek istediğimiz imzalayıp imzalamayacağın.`
 ` Garip anlaşmalar ya da şüpheli şeyler yapmayı unut."`
 `"......Hoh?`
-` Yani pazarlık payım yok.`
+` Yani pazarlık yapma hakkım yok.`
 ` ...Benim pozisyonumun eşit bir ilişki içinde olmadığımız kadar zayıf olduğunu mu iddia ediyorsunuz...?"`
 `Rudolf'un sırtında bir ürperti başladı.`
 `Çocukluğundan beri, kendisini ağabeyinden ayıran duvarın yüksekliğini hiçbir zaman aşamamıştı,`
@@ -649,15 +649,15 @@
 `Sadece Hideyoshi kaçınmak için yavaş kalmıştı.`
 `{n}O da Krauss'un bakışlarına yakalandı.`
 `"Hideyoshi nii-san.`
-` Şirketinizin son zamanlarda son derece iyi gittiğini duydum, değil mi?`
+` Şirketinizin son zamanlarda son derece iyi gittiğini duydum.`
 ` Hisse senedi olarak listelenmesinde herhangi bir sorun yaşamamışsınız ve hem performansı hem de hisse senedi fiyatları sürekli artıyor.`
 ` Gerçekten çok kıskandım."`
 `"......E-Eşimin durumunun konuşmamızla bir ilgisi yok."`
 `"Ancak, hissedarlarınızı ihmal etmiş olmanız büyük talihsizlik.`
 ` Borsaya açıldığınızda tabanınızı sağlamlaştıramamış olmanız da korkunç.`
-` ......Siz farkına varmadan, bazı kötü niyetli kişiler şirketinizin hisselerinin önemli bir kısmını satın almıştı, değil mi?"`
+` ......Siz farkına varmadan, bazı kötü niyetli kişiler sanırım şirketinizin hisselerinin önemli bir kısmını satın almıştı."`
 `".........B-`
-`......Böyle bir şeyi nasıl bilebilirsiniz..."`
+`......Böyle bir şeyi nasıl bilebilirsin..."`
 `"Sizinle aynı şekilde.`
 ` Eğer siz kimsenin bana kredi vermeyeceğine dair kanıt toplayabiliyorsanız, ben de sizin hakkınızda kanıt toplayabilirim.`
 ` Hahaha, bu gerçekten o kadar garip bir şey mi?"`
@@ -698,7 +698,7 @@
 `Demokrasinin kesin kurallarından biri de çoğunluğun her şeyi kontrol etmesidir.`
 `Yani işin sonunda, kim en çok hisseyi satın almayı başarırsa o kazanır.`
 `Yani kim daha çok paraya sahipse o kazanır.`
-`Hideyoşi bu kritik zamanda büyük miktarda para elde edebilirse, biriktirdiği her şeyi kaybetmekten kurtulabilirdi...`
+`Hideyoshi bu kritik zamanda büyük miktarda para elde edebilirse, biriktirdiği her şeyi kaybetmekten kurtulabilirdi...`
 `{a:c:`
 `BU NEDENLE ŞU ANDA,`
 ` YÜKLÜ BİR PARAYA,{n}`
@@ -709,7 +709,7 @@
 ` Amerikan davaları oldukça duygusal bir şekilde sonuçlanır.`
 ` Bir yabancıya cömert bir karar vermezler.`
 ` ......Avukatınız size karşı tarafla anlaşmanın daha ekonomik olacağını söylemedi mi?"`
-`"............Neden bahsediyor...?"`
+`"............Neyden bahsediyor...?"`
 `"......Ah, sadece işteki sorunlar.`
 ` Büyütülecek bir şey değil.`
 ` Parayla halledilir..."`
@@ -766,7 +766,7 @@
 ` Bu büyük savaşa özellikle girmişlerdi çünkü diğer tüm seçenekleri tüketmişlerdi.`
 `"......Ancak, eğer hâlâ ağabeyinize güvenmeye kararlıysanız,`
 ` size sponsor bulmak için gücümü kullanabilirim.`
-` .........Oh, bekle, zaten gücüm olmadığını söylemiştiniz.`
+` .........Oh, bekleyin, zaten gücüm olmadığını söylemiştiniz.`
 ` O zaman hiçbir şey yapamam, değil mi?`
 ` ......Hehheheheheheheh!"`
 `Krauss'un alçak sesli, kibirli kahkahası salonu doldurmaya başladı.`
@@ -775,7 +775,7 @@
 `"......Güldürme beni...`
 ` Sanki sana borçlanırım da...!`
 ` Güldürme beni...`
-`Güldürme beni......!"`
+`güldürme beni......!"`
 `"..................Eğer...`
 `...sana güvenirsek, bize nasıl yardım edebilirsin..."`
 `"Söyledim, değil mi?`
@@ -789,7 +789,7 @@
 `"Ben sakinim. Son derece sakinim......`
 ` ...............Seni piç...!"`
 `Kyrie kocasının elini tuttu.`
-`Ama bu hareket onu daha da zavallı hissettirdi, bu yüzden Rudolf elini salladı.`
+`Ama bu hareket onu daha da zavallı hissettirdi, bu yüzden Rudolf onun elini savuşturdu.`
 `...Krauss sanki bunu görmek onu son derece mutlu etmiş gibi güldü.`
 `"Keşke böyle bir zamanda babamın saklı altınını gerçekten bulabilseydik.`
 ` O zaman sizin için hemen 2,5 milyar yenlik paylara ayırabilirdim.`
@@ -844,8 +844,8 @@
 `"............Altının gizli yerini herkesin görebilmesi için neden ifşa etme zahmetine girdiğimi biliyor musun?"`
 `"......Hayır."`
 `"Çünkü büyülü güç riske göre belirlenir.`
-` {f:5:Beatrice}'in altınını keşfetmeye çalışan insan sayısı arttıkça,`
-` bunun gerçekleşme tehlikesi ne kadar büyükse, o kadar büyük olasılıklara rağmen bahsin başarılı olduğunu varsayarsak, büyülü güç daha da büyük bir mucize yaratacaktır."`
+` {f:5:Beatrice}'in altınını keşfetmeye çalışan insanların sayısı ne kadar artarsa,`
+` bunun gerçekleşme tehlikesi de o kadar artar, o zaman bu büyük olasılıklara rağmen bahsin başarılı olduğunu varsaydığımızda, büyülü güç daha da büyük bir mucize meydana getirir."`
 `".........Başka bir deyişle, büyü bir oyundur.`
 ` En üstün kişinin kazanan olacağı doğru değildir.`
 ` Kazanan üstün olur çünkü ona büyü verilmiştir.`
@@ -889,7 +889,7 @@
 ` ...Doğru.`
 ` Bu durumda, beni yalnız bırak."`
 `"İstediğiniz gibi.`
-` ......Lütfen izninizle."`
+` ......İzin verirseniz."`
 `Kanon eğilerek selam verdi ve çalışma odasından ayrıldı.`
 `{n}Kapı kapanırken ağır bir kilit sesi yankılandı.`
 `Ama bu ses Kanon'un kapıyı kilitleme sesi değildi.`
@@ -916,7 +916,7 @@
 ` Evet, bazen anlaşılmaz hamleler bile yapardı.`
 ` ......Benim gibi ortalama bir insan için, planladığı şeyin ne olduğunu anlamak imkansız..."`
 `"Ben şahsen bunun Efendi'nin bir tür vasiyeti olabileceğinden şüpheleniyorum.`
-` .........Büyük olasılıkla mal varlığını ve aile reisliğini bunu anlamayı başaran kişiye emanet etmek niyetinde."`
+` .........Büyük olasılıkla mal varlığını ve aile reisliğini bunu anlamayı başaran kişiye emanet etme niyetinde."`
 `"......Benim gibi bir yabancının bunu çözme tehlikesinin...`
 `dört kardeşi bilmeceyi çözmek için birlikte çalışmaya zorlayacağını umuyorum.`
 ` O zaman böyle bir şey olabilir.`
@@ -933,10 +933,10 @@
 ` Her gece uyumadan önce çözmeye çalışıyordum ama...`
 `...hahaha, gerçekten çok zor.`
 ` Günlerimin geri kalanında bana keyif vermeye devam edeceğine inanıyorum.`
-` Peki ya sen, Genji-san?"`
+` Genji-san, peki ya sen?"`
 `".........Ben Efendi'ye hizmet eden bir mobilyadan başka bir şey değilim.`
 ` Altın ve mal benim için işe yaramaz."`
-`"Vay, vay, sen alçakgönüllü bir insansın.`
+`"Vay vay, sen alçakgönüllü bir insansın.`
 ` ...Muhtemelen Kinzo-san'ın sana bu kadar güvenmesinin nedeni budur."`
 `"Eğer öyleyse, onur duyarım."`
 `Nanjo hafifçe gülerek karşılık verirken bir kez daha kitabeye baktı.`

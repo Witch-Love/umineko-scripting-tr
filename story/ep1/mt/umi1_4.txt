@@ -236,11 +236,11 @@
 `"Ekşi kısmı aslında, şey...`
 ` ......Aslında, uskumrunun sıkılmış suyu, hoh-hoh-ho!"`
 `"""NE, uskumru mu?!?!"""`
-`"Saçmalama," diye düşündük hepimiz, dehşete düşmüş bir şekilde.`
+`"Saçmalama" diye düşündük hepimiz, dehşete düşmüş bir şekilde.`
 `{n}Sadece Maria "uh-huh" diye başını sallayarak kabul etti.`
 `"Uu?`
 ` Uskumrular ekşi.`
-` Onları sıkarsan, bu çıkar!"`
+` Onları sıkarsan bu çıkar!"`
 `""...ha, wahahahaha...!""`
 `Maria uskumrunun ekşi olduğunu haykırmaya başladığında, yetişkinler kahkahalarını tutamadılar.`
 `"Yanlış anladın, o sirkeli uskumru!"`
@@ -351,9 +351,9 @@
 `Görünüşe göre Rosa Teyze'nin Natsuhi Teyze için aldığı siyah çayı hazırlıyorlardı.`
 `Maria da siyah çay içmek istediği konusunda ısrar etti, ancak yaşlı piç tarafından reddedildi ve ona ve diğer çocuklara dışarıda oynamalarını söyledi.`
 `"Battler-kun, neden hepimiz dışarıda yürüyüşe çıkmıyoruz?"`
-`"Güllere falan bakarız.`
-` Ama havaya dikkat et.`
-` Gökyüzü hala açık ama hava raporu yağmurdan bahsedip duruyor."`
+`"Gidip güllere falan baksanıza.`
+` Ama gözünüz gökyüzünde olsun.`
+` Hava hala açık ama hava raporu yağmurdan bahsedip duruyor."`
 `"Uu!`
 ` Kumsalı istiyorum, kumsalı istiyorum!!"`
 `"Ah, harika bir fikir değil mi!`
@@ -521,7 +521,7 @@
 ` Ne de olsa zamanı geldiğinde, servetinin mirası derhal dağıtılmalı, değil mi?`
 ` Dahası, görkemli Ushiromiya Ailesi'nin serveti çok büyük.`
 ` Önceden dikkatli bir tartışmanın gerekli olduğunu anlamıyor musunuz?`
-` Bu ailenin varlıkları ile eski ailenin varlıkları arasında büyük bir fark var."`
+` Bu ailenin varlıkları ile senin eski ailenin varlıkları arasında büyük bir fark var."`
 `"......Bu ne kabalık.`
 ` Doğduğum ailenin bununla hiçbir ilgisi yok."`
 `Natsuhi kızgın bir şekilde alçak sesle cevap verince, zaten karanlık olan atmosfer daha da düşmanca bir hal aldı...`
@@ -589,14 +589,14 @@
 ` ......Ancak G5 ülkelerinin Plaza Anlaşması'nı duyduğumda bu durum değişti."`
 `"Yen gittikçe güçleniyor ve bahse girerim arazi fiyatları yakında fırlayacak.`
 ` Japonya'nın dünyanın ekonomik merkezi haline geleceği gün çok uzak değil.`
-` ......Oldukça leriye dönük bir bakış açın var.`
+` ......Oldukça ileriye dönük bir bakış açın var.`
 ` En azından bunda hiç şüphe yok."`
 `"Ben de Hideyoshi nii-san gibi hissediyorum.`
 ` Aniki, tarihin gelecek on yılını okuyabiliyorsun.`
 ` Bu keskin sezgi kesinlikle babamdan geliyor.`
 ` İnanılmaz bir şey."`
-`"......Ancak, babamın aksine, tahminlerinin zamanlamasının yanlış olduğu durumlar oldu, değil mi?"`
-`"Nii-san, Japonya'nın kesinlikle bir ekonomik patlama yaşayacağına inanarak, her yerde tatil köyü projeleri başlattın ve neredeyse hepsi başarısız olmaya devam ediyor.`
+`"......Ancak babamın aksine, tahminlerinin zamanlamasının yanlış olduğu durumlar oldu, değil mi?"`
+`"Nii-san, Japonya'nın kesinlikle bir ekonomik patlama yaşayacağına inanarak her yerde tatil köyü projeleri başlattın ve neredeyse hepsi başarısız olmaya devam ediyor.`
 ` ...Öngördüğün dönemin yaklaştığından emin olsam da, bu patlamanın zamanlamasını yanlış tahmin etmişsin gibi görünüyor."`
 `"......Çok erkenciydin.`
 ` Sonra aceleyle her şeyi satmaya çalıştın ve sonuç olarak yarayı daha da açtın.`
@@ -612,9 +612,9 @@
 ` ...Biraz sakinleş.`
 ` Baş ağrın daha da kötüleşecek."`
 `"Yeteneksiz olduğunun kanıtı da burada.`
-` ............Her şeye rağmen, Nii-san, bu adayı bir tatil köyüne dönüştürmek için heyecanlanmıyor muydunuz?`
+` ............Her şeye rağmen, Nii-san, bu adayı bir tatil köyüne dönüştürmek için heyecanlanmıyor muydun?`
 ` Harika bir resort otel inşa etmek, bahçeyi güzelce korumak.`
-` Ben sadece bir amatörüm ve anlıyormuş gibi yapmıyorum ama önemli miktarda para kullanmış olmalısın, öyle değil mi?"`
+` Ben sadece bir amatörüm ve anlıyormuş gibi yapmıyorum ama önemli miktarda para kullanmış olmalısın."`
 `"Ne demeye çalışıyorsun?!`
 ` Kocamın işinin seninle hiçbir ilgisi yok!"`
 `"Aslında, bu doğru değil, Natsuhi-san.`
@@ -634,7 +634,7 @@
 ` Meseleyi sadece mülkün değerine eşit bir para ile çözebiliriz."`
 `"Eğer bu kadarını anlıyorsanız, işimin nesi sizi bu kadar rahatsız ediyor?"`
 `"Memnun değil değiliz, huzursuzuz.`
-` Her şeyden önce, Aniki,`
+` Her şeyden önce Aniki,`
 ` o oteli ne zaman açmayı planlıyorsun?`
 ` Böyle devam edersen, her santimetrekaresi kirli el izlerimizle kaplanacak!"`
 `"Bu doğru.`
@@ -646,7 +646,7 @@
 `"..................Bu doğru.`
 ` Eğer bu kadar harikaysa, açtığınızda oldukça popüler olacağından eminim."`
 `"Oh...`
-`.........siz konukevinden bahsediyorsunuz, anlıyorum..."`
+`.........bahsettiğiniz otel konukevini kastediyordu, anlıyorum..."`
 `"Harika bir bina, değil mi?`
 ` Rosa'nın dediği gibi, açarsa popüler olacağından eminim."`
 `Kendilerine gösterilen lojman konukevi olarak inşa edilmemişti.`
@@ -666,7 +666,7 @@
 ` Kocamın anlaşmalı olduğu şirketle ilgili bazı sorunlar yaşandı—olaya neresinden bakarsanız bakın, burada mağdur olan biziz!"`
 `"Aslında, mesele şu ki...`
 ` Krauss nii-san'ın kiraladığı bu şirket...`
-`Hakkında pek iyi söylentiler duymadım, biliyor musunuz?"`
+`Hakkında pek iyi söylentiler duymadım."`
 `"Lafı dolandırmayalım.`
 ` ......Proje ödeme yapılmaması, zimmete para geçirme ve diğer sorunlar nedeniyle yarı yolda bırakıldı—söylentilerin kulağımıza ulaşmayacağını mı düşündünüz?`
 ` Kanıtlarımız da var."`
@@ -700,7 +700,7 @@
 ` Şimdiye kadar yaşadığınız onca ezici yenilgiden sonra bile, size bu parayı kim sağladı?`
 ` Oldukça büyük bir meblağdan bahsediyoruz.`
 ` Büyük borcunuzu kapatmaya yeter, değil mi?"`
-`"......Ne demeye çalışıyorsun, Hideyoshi-san?"`
+`"......Hideyoshi-san, ne demeye çalışıyorsun?"`
 `"Ahh, Natsuhi-san, lütfen sinirlenme!`
 ` Araştırmamızı yaptık.`
 ` ...Şimdiye kadar girdiği tüm savaşları kaybeden Krauss nii-san'a, son zamanlarda yaptığı büyük yatırımları destekleyecek kadar kimin borç verebileceğini araştırdık."`
@@ -738,7 +738,7 @@
 ` Babamıza ihanet ediyorsun.`
 ` Her şey bittikten sonra sizi mahkemelerin merhametine bırakacağımızı düşünüyorum.`
 ` Sence o insanlar sana "Ushiromiya'nın halefi" olarak hitap etmeyi kabul edecekler mi?"`
-`"H-her şey bir yana...aile reisine ihanet ettiğini söylemek görmezden gelebileceğim bir şey değil!!`
+`"H-Her şey bir yana...aile reisine ihanet ettiğini söylemek görmezden gelebileceğim bir şey değil!!`
 ` Artık şanlı Ushiromiya malikanesinin kapılarını karartmaya hakkın yok!!`
 ` Hemen burayı terk et!!`
 ` Git!`
@@ -761,8 +761,8 @@
 `Eva yelpazeyi bir çırpıda katladı ve ani bir şekilde ayağa kalktı.`
 `Şimdiye kadar sergilediği zarafet ve şakacı davranışlarla kıyaslandığında, hayal edilemeyecek kadar agresifti.`
 `"Ne kadar aptalca. Geri {i:çekil}!!!`
-` Bana—Ushiromiya Eva—diyeceksin!`
-`Bana, Eva'ya, Ushiromiya ailesi hiyerarşisinde üçüncü sırada yer alan, reisin sol omuz tarafına oturmasına izin verilen kişiye, {i:gitmesini} mi söylüyorsun?!"`
+` Bana—Ushiromiya Eva'ya—`
+`Ushiromiya ailesi hiyerarşisinde üçüncü sırada yer alan, reisin sol omuz tarafına oturmasına izin verilen kişiye, {i:gitmesini} mi söylüyorsun?!"`
 `"Yerini bil!!`
 ` Sonra da aynaya bak ve perişan halini gör!!`
 ` Elbisenin neresinde kanat var?`
@@ -771,7 +771,7 @@
 ` Haddini bil, sürtük!!"`
 `Eva'nın yüzü çirkin bir şekilde buruşurken, sözleri Natsuhi'nin kalbini pençeler gibi deldi ve acı içinde kıvrıldı.`
 `"..............................!!!"`
-`...... Natsuhi'nin cevap vermek istediği yüzlerce yol vardı.`
+`......Natsuhi'nin cevap vermek istediği yüzlerce yol vardı.`
 `{n}Ancak öfkesi ve üzüntüsü boğazını düğümledi ve hiçbiri ağzına ulaşmayı başaramadı.`
 `...Gidecek yeri kalmayan öfke, yavaşça aşağıya damlayan tek bir sıcak gözyaşına dönüştü...`
 `"Neeeee?`
@@ -789,13 +789,13 @@
 ` Bu insanlar seni asılsız bir şekilde Babana ihanet etmekle suçluyorlar!"`
 `"Ushiromiya ailesinin şanını koruyor,`
 ` bu ihtişamı babamızdan devralmak için asalet timsali olmak için her gün çaba sarf ediyoruz ve bu kabul edilemez saçmalık hepsini ayaklar altına alıyor!!!"`
-`"Ve sen-neden onlara karşılık vermiyorsun?!`
+`"Ve sen—neden onlara karşılık vermiyorsun?!`
 ` Ben karşılık veriyorum çünkü sen vermiyorsun, ama sen tamamen bana sırtını dayıyorsun...!!`
 ` Ve şimdi de bana kafamı toplarmamı mı söylüyorsun?!`
 ` {i:Her zaman} ben!!"`
 `"Bu ailenin işlerini her zaman çok ciddi düşünürüm ve sen bunu aldın ve...!!`
 ` Uuuuuuuu, uuuuuuuhuhughh!!!"`
-`Natsuhi artık gözyaşlarını saklayamıyordu.`
+`Natsuhi artık gözyaşlarını gizleyemiyordu.`
 `{n}O haldeyken odadan uçup gitti.`
 `Bundan sonra salonda sadece biraz mahcup bir ruh hali kalmıştı...`
 `Ayak sesleri uzaklaşıp sessizlik geri döndüğünde Krauss omuzlarını hafifçe silkti.`
@@ -834,7 +834,7 @@
 `Belki şimdi Madam'ın konumunun Eva-sama'nınkine kıyasla ne kadar zayıf olduğunu anlayabilirsiniz...`
 `...Eminim ki Madam, eğer daha önce hamile kalsaydı, Efendi'nin Eva-sama'nın evlendikten sonra soyadını koruma talebini kabul etmeyeceğini ve Eva-sama'nın bugünkü gibi küstahça davranmasına izin verilmeyeceğini düşünerek acı çekiyordur...`
 `Ancak...bu Madam'ın hatası değildi......`
-`Tüm suç Tanrı'nın kaprislerinde ve Jessica-san'ı geç doğuran leylekte......`
+`Tüm suç Tanrı'nın kaprislerinde ve Jessica-san'ı geç getiren leylekte......`
 `Yine de Madam kendisinin olayları bu şekilde görmesine izin vermiyor...`
 `......Muhtemelen bir eşten beklenen görevleri yerine getiremediği için acı gözyaşları dökmekten kendini alamıyor...`
 `Ahh, ne kadar yürek parçalayıcı...`

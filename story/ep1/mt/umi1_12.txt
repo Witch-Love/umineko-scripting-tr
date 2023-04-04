@@ -67,7 +67,7 @@
 ` ......Shannon ölmek zorunda kalmazdı..."`
 `Tam o sırada koridordan yüksek, keskin bir ses yankılandı.`
 `{n}İkisi de şaşkınlıkla arkalarını döndüler.`
-`"........................Oldukça ilginç bir tartışma yapıyorsunuz gibi görünüyor.`
+`"........................Oldukça ilginç bir konuşma yapıyorsunuz gibi görünüyor.`
 ` Benim de katılmama izin verin."`
 `Battler mutfağın kapısında duruyordu.`
 `"......Battler-sama.`
@@ -114,32 +114,32 @@
 ` Birazcık korkutucu bir hikaye can sıkıntısını gidermenin en iyi yolu olabilir."`
 `Genji-san ve Kanon-kun birbirlerine baktıktan sonra konuşmaya karar vermişler gibi başlarını salladılar...`
 `"......Anlaşıldı.`
-` Lütfen istediğiniz şeyi sorabilirsiniz.`
+` İstediğiniz şeyi sorabilirsiniz.`
 ` ............Anlatacağız."`
 `"Evet.`
 ` O zaman soruyorum."`
 `"......{f:5:Beatrice} de kim oluyor?`
 ` ...Tek bildiğim Rokkenjima ormanında yaşayan bir cadı olduğu.`
-` ...Büyükannenin ya da birilerinin insanları tehlikeli ormandan uzak tutmak için uydurduğu bir hikaye olduğunu duymuştum.`
+` ...Büyükannemin ya da birilerinin insanları tehlikeli ormandan uzak tutmak için uydurduğu bir hikaye olduğunu duymuştum.`
 ` ......Bu yanlış mı?"`
 `"............Hayır, ...yanlış değil.`
 ` Dediğiniz gibi.`
 ` {f:5:Beatrice}-sama, Rokkenjima ormanında yaşayan bir cadıdır."`
 `"......Battler-sama.`
-` .........Buna birden inanmanı beklemiyorum ama...`
+` .........Buna birden inanmanızı beklemiyorum ama...`
 `{f:5:Beatrice}-sama gerçekten var.`
-` ...O, Efendi'ye büyük miktarda altın veren ve uzun yıllar boyunca onun yanında çalışmış olan gerçek bir kişi"`
+` ...O, Efendi'ye büyük miktarda altın veren ve uzun yıllar boyunca onun yanında çalışmış olan gerçek bir kişi."`
 `"Ha...?`
 ` Ah, kes şunu, kes şunu...`
 ` Büyükbabam sana her dediğini tekrarlaman için para mı ödüyor...?"`
-`Şaka yapıyormuş gibi güldüm,`
+`Şaka yapılıyormuş gibi güldüm,`
 ` ama Genji-san da Kanon-kun da gülmedi,`
 ` ......hatta bakışlarımdan sıyrılıp telaşla bulaşıkları yıkamaya koyulan Kumasawa baa-chan bile gülmedi.`
 `Ne yazık ki gülen tek kişi bendim.`
 ` ...Acı ve buruk bir şekilde.`
 `"......Anladım, Genji-san demek beni bu yüzden uyardın.`
 ` ...Gerçekten de aklı başında olan herkes bunu kötü karşılardı.`
-` ............Yani {f:5:Beatrice} adında birinin gerçekten var olduğunu mu söylüyorsun?"`
+` ............Yani {f:5:Beatrice} adında birinin gerçekten var olduğunu söylüyorsun?"`
 `"......Evet.`
 ` Bu adada malikane inşa edilmeden önce de Efendi için çalışıyordu.`
 ` ...Büyük ihtimalle benden bile daha uzun süredir onun için çalışıyor."`
@@ -158,11 +158,11 @@
 ` Bu darbeyi vurmadan bir santim önce durmak gibi bir şey!"`
 `Onu şakayla karışık teşvik ettim.`
 `...Ancak, Kanon-kun hala konuşup konuşmama konusunda kararsız görünüyordu.`
-`.........Sonra, Kumasawa baa-chan fısıldadı.`
+`.........Sonra, Kumasawa baa-chan konuştu.`
 `"...Hoh-hoh-ho...`
 ` Onun yüzünü göremezsin,`
 ` .........çünkü {f:5:Beatrice}-sama'nın bir şekli yok..."`
-`"............Onun neyi yok...`
+`"............Onun neyi...`
 `......ne dedin?"`
 `"{f:5:Beatrice}-sama'nın bedeni yok.`
 ` ...Bu nedenle, {f:5:Beatrice}-sama istemediği sürece, bizim gibi sıradan insanlar onun şeklini göremez."`
@@ -186,9 +186,9 @@
 ` {f:5:Beatrice}-sama bunun sorgulanmasından bile nefret eder."`
 `"............Anlayamıyor musunuz, Battler-sama?`
 ` ......{f:5:Beatrice}-sama buraya çoktan geldi..."`
-`"...Hey hey, kes şunu.`
+`"...Hey hey, kesin şunu.`
 ` Bu tür şeylere karşı zayıfım...`
-` Beni fena korkutuyorsun..."`
+` Beni fena korkutuyorsunuz..."`
 `Ancak, üç hizmetkarın gözlerinde şakadan eser yoktu.`
 `Dışarıdan bakılınca gülüyordum ve ilgisiz görünmeye çalışıyordum ama hızla ciddiye almaya başlamıştım.`
 `...Onların gözleri de hızla ciddileşiyordu.`
@@ -199,7 +199,7 @@
 `".........P-......Pekala...`
 ` Onun gerçek olduğunu söylüyorsun...`
 ` Ama ben hiçbir şey göremiyorum...`
-` Tam da yanımda durduğunu falan mı söylemeye çalışıyorsun?`
+` Şu an tam da yanımda durduğunu falan mı söylemeye çalışıyorsun?`
 ` Dalga geçmeyi bırak..."`
 `"Kihihihihihihihihihihihihihihihihi......"`
 `Tam o sırada, o sinir bozucu kahkaha aniden mutfağı doldurdu...`
@@ -217,7 +217,7 @@
 `"{f:5:Beatrice}'i tanımak ister misin?`
 ` ............{f:5:Beatrice} bin yaşındaki bir cadı.`
 ` ......Tüm şeytanlar onun emrindedir ve simyanın gücünü kullanarak felsefe taşı veya çok miktarda altın yaratabilir.`
-` Büyükbabam Ushiromiya ailesinin tüm servetini onunla bir sözleşme yaparak oluşturdu."`
+` Büyükbabam onunla bir sözleşme yaparak Ushiromiya ailesinin tüm servetini oluşturdu."`
 `"......Dün {f:5:Beatrice}'in mektubunu okumadım mı?`
 ` O gerçekti.`
 ` ...Ama yine de, sanırım seni inanman için zorlamam anlamsız."`
@@ -234,7 +234,7 @@
 `Maria bunu...girişi süsleyen portredeki cadıdan duymuştu.`
 `{n}Maria, sanki söyledikleri doğrulardan başka bir şey değilmiş gibi garip bir sesle gülmeye devam etti...`
 `"...Maria, bunu sormak kabalık olacak ama bir kez daha soracağım, tamam mı...?`
-` Dün Maria, sana o mektubu kim verdi?"`
+` Dün, Maria, sana o mektubu kim verdi?"`
 `"{f:5:Beatrice}'den aldım. Anlaman için kaç kere daha söylemem gerekiyor?"`
 `"......Anlamıyorsun, değil mi?`
 ` Onu göremiyorsun, biliyorum.`
@@ -243,7 +243,7 @@
 `Bir anda, Maria'nın kahkahası aniden kesildi.`
 `".........Battler.`
 ` Hâlâ anlayamıyor musun?`
-` {f:5:Beatrice}'in "gerçek olduğunu"."`
+` {f:5:Beatrice}'in "gerçek" olduğunu."`
 `"O "gerçek" diyorsun.........ama nerede?"`
 `"Dediğim gibi, {f:5:Beatrice} "gerçek", tam burada."`
 `......Bu doğru.`
@@ -264,10 +264,10 @@
 `"...Ve biliyor musun?`
 ` O bunu gerçekten üzücü buluyor.`
 ` ...İşte bu yüzden senin gibi büyü duyarlılığından yoksun doğmuş insanların onun varlığını inkar etmesinden gerçekten nefret ediyor...!"`
-`".........Şanslısın Battler.`
+`".........Battler, şanslısın.`
 ` Dün sana o tılsımı vermem iyi olmadı mı?`
 ` Onu yanında taşımıyor olsaydın kim bilir {f:5:Beatrice} şimdiye kadar seni ne tür bir şekilde lanetlerdi?`
-` ...Gerçekten şanslısın Battler.`
+` ...Gerçekten şanslısın, Battler.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
 `".........Doğru, şu akrep anahtarlık.`
 ` Ucuz bir hediye falan sanmıştım ama sanırım gerçekten bir faydası varmış."`
@@ -283,7 +283,7 @@
 `"Kihihihihihihihi!`
 ` Hey, bahse girerim şimdi inanmak istiyorsundur.`
 ` İnan.`
-` Ve sana o tılsımı verdiğim için bana teşekkür et...!"`
+` Ve Maria'ya, sana o tılsımı verdiği için teşekkür et...!"`
 `"Eğer o olmasaydı, şu anda ambarda olurdun.`
 ` Ama belki de karşılığında başka birini kurtarmış olabilirdin değil mi?`
 ` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
@@ -291,7 +291,7 @@
 `......Tam o anda bir kahkaha patlattım.`
 `{n}Bir saniye öncesine kadar cadıcılık oynamak oldukça eğlenceliydi, ama ne yazık ki bu sonuncusu hedefi tam olarak tutturamadı.`
 `"Hahahahahahah.`
-` ......O zaman hiç de iyi değil, öyle değil mi Maria?`
+` ......O zaman hiç de iyi değil, değil mi Maria?`
 ` Eğer bu doğruysa, üzgünüm ama hiç de iyi değil."`
 `Maria aniden gülmeye başladığımı görünce duraksadı.`
 `{n}Neye güldüğümü anlamamış olsa da, bunun kendisi için hoş olamayacağını fark etti.`
@@ -309,7 +309,7 @@
 `"...Büyükbabamın size ne kadar ödediğini bilmiyorum, ama beni bir tarikata katılmaya ikna etmeye çalışıyorsanız,`
 ` inanın bana bunu o kadar kolay yapamayacaksınız."`
 `"...............Battler-sama..."`
-`"...Siz çocuklar istediğiniz şeye inanmakta özgürsünüz.`
+`"...Kanon-kun ve siz çocuklar istediğiniz şeye inanmakta özgürsünüz.`
 ` Ama konu benim inanıp inanmadığıma gelince,`
 ` buna karar vermek`
 ` her zaman`
@@ -364,7 +364,7 @@
 ` Maria'nın çift kişiliği falan mı var?`
 ` Yoksa ruhani hislerinin gerçekten o kadar güçlü olduğunu ve öyle şeyler tarafından ele geçirildiğini mi söylüyorsunuz?"`
 `"...Hayır, öyle olduğunu sanmıyorum.`
-` Sen hiç tecrübe etmedin mi?`
+` Battler-kun, sen hiç tecrübe etmedin mi?`
 ` Küçükken kendinden başka biri olma arzusu."`
 `İnsanlar doğdukları zaman, kişiliğe sahip değillerdir.`
 `{n}Ancak büyüme dönemine ulaştıklarında ve benlik duyguları oluşmaya başladığında, kişilik kazanmaya başlarlar.`
@@ -395,8 +395,8 @@
 `"Dolayısıyla elimizde olan şey şu: çocuk olmaktan kaçma dürtüsünün olduğu ve aynı zamanda diğer insanlardan farklı bir bireyselliğe sahip olmak istedikleri bir dönem.`
 ` Çocuklarla yetişkinleri ayıran şey bilgi ve deneyim ise, o zaman...?"`
 `"............Anlıyorum, eğer kimsenin bilmediği bir şey biliyorlarsa, bu kimlik oluşturmanın bir yoludur."`
-`"İlkokuldayken, kimsenin bilmediği şeyleri biliyorsanız,`
-` kimsenin sahip olmadığı şeylere sahipseniz, kimsenin giymediği şeyleri giyiyorsanız, bundan dolayı bir kahraman haline gelebilirsiniz.`
+`"İlkokuldayken, kimsenin bilmediği şeyleri biliyorsan,`
+` kimsenin sahip olmadığı şeylere sahipsen, kimsenin giymediği şeyleri giyiyorsan, bundan dolayı bir kahraman haline gelebilirsin.`
 ` Eminim sen de aynı şeyi yapmışsındır, Battler."`
 `"Evet, evet.`
 ` Kesinlikle bir şeyde mükemmelleşmek istediğim bir yaş vardı.`
@@ -486,7 +486,7 @@
 ` ama George-aniki'nin konuşmasından sonra, bunun herkesin bir zamanlar yürüdüğü bir yol olduğunu fark ettim.`
 `......Kimseye söylemedim ama ben anaokulundayken,`
 ` Dünya Savunma Gücü oluşturmaya çalışan ve dünyada barışı korumaya yardım edeceğimizi söyleyen küçük bir çocuk grubuna katılmıştım.`
-`Savaş talimi dediğimiz şey sırasında nasıl "DSG! DSG" diye bağırdığımızı hatırladığımda yüzüm kızarıyor...`
+`Savaş talimi dediğimiz şey sırasında nasıl "DSG! DSG!" diye bağırdığımızı hatırladığımda yüzüm kızarıyor...`
 `Maria her zamanki gibi keyif yapıyor,`
 ` televizyona dalmış, yaşıtı her kız gibi gülüyor ve "uu-uu"luyordu.`
 `......Ama içinde başka bir kişilik, hayranlık duyduğu ve körü körüne kabul ettiği ideal cadı kişiliği yatıyordu.`
@@ -512,7 +512,7 @@
 `Bir sebepten dolayı, hiçbir olasılığa gülüp geçemiyordum.`
 `{n}...Cadı hakkındaki en saçma olana bile.`
 `"......Jessica,`
-` cadı hikayesi hakkında bildiğim tek şey, çocukları ormana girmekten korkutmak için yetişkinler tarafından uydurulmuş bir hikaye olduğuydu, ama...`
+` {f:5:Beatrice} hikayesi hakkında bildiğim tek şey, çocukları ormana girmekten korkutmak için yetişkinler tarafından uydurulmuş bir hikaye olduğuydu, ama...`
 `...burada, malikanede durum farklı mı...?"`
 `"............Hmmm...`
 ` Bu konuda sana katılıyorum."`
@@ -526,7 +526,7 @@
 ` ......Doğru mu?"`
 `Jessica hayranlıkla üfledi...`
 `{n}Aniki doğru tahmin etmiş gibi görünüyordu.`
-`"......Tamamen doğru bildin.`
+`"......George nii-san, tamamen doğru bildin.`
 ` İçlerinde kimse buna gerçekten inanmıyor.`
 ` ...Ama dışarıdan, onun var olduğunu kabul ediyorlar."`
 `"Bu tıpkı bazı insanların tanrılar hakkındaki düşünceleri gibi.`
@@ -656,7 +656,7 @@
 ` Faizin toplanması gerçekleşecekti, ancak altının bilmecesi çözülebilirse, bu hakkı kaybedecekti."`
 `"...Büyükbabaya altın verildi ve Ushiromiya evi zenginleşti.`
 ` Basitçe, o altından yaratılan her şeyin faiz olarak sayıldığını {f:5:Beatrice}'in kendisi söyledi.`
-` ......Başka bir deyişle—"`
+` ......Yani—"`
 `".........Bu bir şaka için oldukça korkutucu, Aniki...`
 ` ......Sakın bunun bana tüm Ushiromiya ailesini—`
 `yani, Büyükbabamın yarattığı her şeyi—`
@@ -726,7 +726,7 @@
 `".........İyi bir nokta.`
 ` Eğer bilmeceyi bize çözdürmek istiyorlarsa, Kinzo-san'a en yakın olanları öldürmek bana iyi bir plan gibi gelmiyor."`
 `"Katılıyorum...`
-` Ayrıca, bu argümanı takip edersek, en başta Babamı tehdit etselerdi daha mantıklı olmaz mıydı?`
+` Ayrıca, bu argümanı takip edersek, en başta Babamı tehdit etseler daha mantıklı olmaz mıydı?`
 ` Bizi çözmeye zorlamak yerine, bunu yazan kişiye bizzat sormanın daha mantıklı olacağını düşünürsünüz."`
 `"Bu da iyi bir nokta.`
 ` ...Tabii ki, babamın sıradan bir tehditten etkileneceğini sanmıyorum."`
@@ -768,7 +768,7 @@
 ` Kulağa ilginç geliyor.`
 ` ...Yani Babam bir yerde kapalı tutuluyor,`
 ` ve onlara altının yerini söylemezse teker teker öldürüleceğimiz tehdidine mi maruz kalıyor?"`
-`"Bunun nesini ilginç bulduğunuzu anlamakta güçlük çekiyorum...!"`
+`"Bunun nesini ilginç bulduğunu anlamakta güçlük çekiyorum...!"`
 `Natsuhi Teyze onu tehdit etti ama Eva Teyze sakince gülümsedi.`
 `"......Bunca zaman geçmesine rağmen onu hala görmediğimize göre, Büyükbabanın da bu suça karışmış olması neredeyse kesin gibi.`
 ` Bunu düşündüğünüzde, Battler-kun'un teorisini görmezden gelemezsiniz, değil mi...?"`
@@ -809,7 +809,7 @@
 `"Siz de, Kanon-kun, Kumasawa-san—eğer biliyorsanız, bana söylemeyecek misiniz?`
 ` Eğer varsa, söyleseniz iyi olur."`
 `"...Eğer yoksa, o zaman birileri bir saniye içinde köşeye sıkışacak.`
-` ......Eğer bana gizli bir kapı olduğunu söylerseniz, o zaman tüm tartışmam boşa gider."`
+` ......Eğer bana gizli bir kapı olduğunu söylerseniz, o zaman tüm argümanım boşa gider."`
 `Eva Teyze hangi kişinin köşeye sıkışmak üzere olduğunu belirtmedi,`
 ` ...ama konuşmanın akışını takip ettiğimde, Natsuhi Teyze'den bahsettiğini hissetmek zorunda kaldım.`
 `"......Anne, ...neyden bahsediyorsun?"`
@@ -838,7 +838,7 @@
 ` Gerçekten çok basit."`
 `Herkes Eva Teyze'nin gururla anlatmaya başlayacağı şeyin ne olduğunu merak ederek başını şüpheyle yana eğdi.`
 `...Eva Teyze sanki sadece kendisinin bildiği bir sırrı açıklamak üzereymiş gibi zafer edasıyla güldü.`
-`"Natsuhi nee-san babamı gören son kişiydi, değil mi?`
+`"Babamı gören son kişi Natsuhi nee-san'dı, değil mi?`
 ` ...Tam saatini unuttum ama sanırım sabah dokuzdan biraz önceydi."`
 `"......Nee-san, hatırlıyor musun?`
 ` Sen Babamın çalışma odasından çıkarken sana rastlamıştım."`
@@ -893,7 +893,7 @@
 ` O zamandan beri o kadar çok korkunç şey oldu ki, şu ana kadar tamamen unutmuştum."`
 `"Bunu bilmiyorum ya da umursamıyorum.`
 ` Senin kapından değil, Babamın odasının kapısından bahsediyorum!`
-` Sen onun odasında olduğunu kontrol ettikten sonra ve biz olmadığından emin olana kadar, o kapı bir kez bile açılmadı.`
+` Nee-san, sen onun odasında olduğunu kontrol ettikten sonra ve biz olmadığından emin olana kadar, o kapı bir kez bile açılmadı.`
 ` Babam kapıyı kullanmadıysa nasıl dışarı çıktı?"`
 `".........Ben, ...bunu bilmiyorum...!`
 ` Ben de bunu bilmek istiyorum!!!"`
@@ -1014,7 +1014,7 @@
 ` ...Pencereler içeriden sıkıca kilitlenmişti.`
 ` Ve unutma, kapı da!"`
 `"......Eğer bu sabah gerçekten babamla konuştuysan,`
-` ...o zaman onun bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
+` ...Natsuhi nee-san, o zaman onun bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
 ` Eğer açıklamazsan, bu senin bir yalancı olduğun anlamına gelmez mi?"`
 `"Benimle daha ne kadar alay etmeyi planlıyorsun......?!!!"`
 `"Tartışmak istiyorsan, devam et!!`
@@ -1057,7 +1057,7 @@
 `"Ihihihi.`
 ` ...Bu iyi değil. {i:Hiç iyi değil},`
 ` Eva Teyze."`
-`"...Bu-...bu "iyi değil" ile ne demek istiyorsun Battler?"`
+`"...Bu-...Bu "iyi değil" ile ne demek istiyorsun Battler?"`
 `Jessica başını kaldırıp bana baktı, her kelimemi dikkatle dinliyordu.`
 `{n}Eva Teyze'nin ifadesi her zamanki gibi sakindi.`
 `"......Hiç iyi değil mi diyorsun? Neymiş o?`
@@ -1076,7 +1076,7 @@
 ` o zaman onu son gören kişinin, Natsuhi Teyze'nin sorumlu olması gerektiğini kesin olarak söyleyebiliriz."`
 `"Ancak, onun hala masum olma ve bu suçlamaların yanlış olma ihtimali olduğu için, bu iddiada bulunamazsın!!"`
 `"......Hmm...... O halde, Battler-kun, Natsuhi nee-san dışında Büyükbabanı ortadan kimin kaldırmış olabileceğini söylüyorsun?`
-` Başka birinin bunu yapması imkansız.`
+` Nee-san dışında başka birinin bunu yapması imkansız.`
 ` Fişim bunu kanıtlamadı mı?"`
 `"O çalışma odasını Natsuhi nee-san,`
 ` ilk ziyaret ettiği andan birlikte ziyaret ettiğimiz ikinci ana kadar, çalışma odası mükemmel bir kilitli odaydı ve kilitli odanın mührü kırıldığında, o çoktan kaybolmuştu!`
@@ -1107,24 +1107,24 @@
 ` Bu kadar absürtleşme!"`
 `"Evet, absürt olabilir.`
 ` Ama yine de Natsuhi Teyze'nin haksız yere suçlanma ihtimali olduğunu gösteriyor.`
-` Fişin mükemmel değildi.`
+` Eva Teyze, fişin mükemmel değildi.`
 ` Satrançta buna şah diyebiliriz,`
 ` ama bu bir şah mat değil!!"`
 `"Ve en hoşuma gitmeyen şey,`
 ` Natsuhi Teyze'ye bunu açıklaması için nasıl baskı kurduğunuz ve sonra da açıklamazsa suçlu olması gerektiğini düşünmeniz!`
 ` Bu mantık olarak sayılıyorsa, neden bana, Ushiromiya Battler'a......"`
 `"...satranç tahtasını bir kez daha ters çevirmesine izin vermiyorsun!!"`
-`"Eva Teyze, senin iddiana göre,`
+`"Eva Teyze, senin mantığına göre,`
 ` ......bize burada hemen şimdi, sen ve Hideyoshi Amca'nın neden dün gece o altı kişiyi öldürüp sonra da konukevine dönmüş olamayacağınızı açıklamalısın...!"`
 `"Natsuhi Teyze'yi açıklama yapmaya zorluyorsun.`
 ` Eminim kendi masumiyetini de kanıtlayabilirsin, değil mi?!`
 ` Büyükbabanın tüm serveti bir anda avuçlarının içine düşen Eva Teyze!!"`
-`"Do-Doğru ya, sen de oldukça şüpheli değil misin?!!`
+`"Do-Doğru ya, Eva Teyze, sen de oldukça şüpheli değil misin?!!`
 ` Annemin onu en son gören kişi olduğu için şüpheli olduğunu söylüyorsan,`
 ` Eva Teyze, o zaman babamı ve diğerlerini en son gören kişi olan sana ne demeli?!!`
-` Battler'ın dediği gibi, onları öldürenin siz olmadığınızı kanıtlayın!!!"`
+` Battler'ın dediği gibi, onları öldürenin sen olmadığını kanıtla!!!"`
 `".........Anne, ben de senin mantığının biraz fazla aceleci olduğunu düşünüyorum.`
-` ......Eminim fiş önemli bir ipucuydu."`
+` ......Fiş eminim önemli bir ipucuydu."`
 `"Ancak, Battler-kun'un da dediği gibi, bu Natsuhi Teyze'nin suçlu olduğunu kanıtlamak için yeterli değil.`
 ` ......Hepimiz eşit derecede şüpheliyiz.`
 ` Sadece Natsuhi Teyze'ye baskı yapılması doğru değil."`
@@ -1145,9 +1145,9 @@
 `Jessica elleri ve dizleri üzerinde öksürmeye ve boğulmaya devam etti...`
 `"Jessica... Dayan...!!`
 ` Doktor Nanjo...!"`
-`"...Jessica-san, inhaleriniz, çabuk.`
+`"...Jessica-san, astım spreyin, çabuk.`
 ` ......Hayır, bekle, yanımda bir tane var."`
-`Doktor Nanjo kanepenin üzerinde duran kendi çantasından bir inhaler çıkardı ve Kanon-kun'a uzattı.`
+`Doktor Nanjo kanepenin üzerinde duran kendi çantasından bir astım spreyi çıkardı ve Kanon-kun'a uzattı.`
 `......Bir düşündüm de, altı yıl önce de Jessica bazen şiddetli öksürük krizlerine girip bunu kullanmak zorunda kalmıyor muydu...?`
 `Ama altı yıl önce Jessica'nın bu kadar acı çekiyormuş gibi göründüğünü hiç görmemiştim.`
 `"......Aniki, Jessica'nın astımı hep bu kadar kötü müydü?"`
@@ -1162,7 +1162,7 @@
 `"...............nnn...`
 `...`
 ` ......*coughcough*!!"`
-`Kanon-kun'dan inhaleri alan Jessica, onu pratik bir şekilde kullandı.`
+`Kanon-kun'dan astım spreyini alan Jessica, onu pratik bir şekilde kullandı.`
 `...Bir süre için boğazı hala kaşınıyor gibi görünüyordu, ama yavaş yavaş sakinleşti...`
 `"İyi misin, Jessica...?`
 ` Beni korkuttun..."`

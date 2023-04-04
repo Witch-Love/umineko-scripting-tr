@@ -152,8 +152,8 @@
 `"...............B-`
 `.........Bu......`
 `...şey..."`
-`"Tamam, Battler.`
-` O zaman Büyükbabanın kilitli çalışma odasından kaybolmasını nasıl açıklıyorsun...?`
+`"O zaman, Battler.`
+` Büyükbabamın kilitli çalışma odasından kaybolmasını nasıl açıklıyorsun...?`
 ` Büyükbaba kapı mühürlü olduğu halde aniden ortadan kayboldu, hatırladın mı...?"`
 `"Hikaye sırasında bunu da konuşmuştuk.`
 ` Büyükbabanın fişi atlatmak için bir numara yapmış olması imkansız değil.`
@@ -281,7 +281,7 @@
 `"............Battler'ın neden inatla bizden birinin suçlu olduğunu söylemeye çalıştığını anlamıyorum.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, yani Battler, akrabalarının birinden mi şüphelenmek istiyorsun...?"`
 `"Öyle değil...`
-` Sadece, 19. bir kişinin var olduğunu kolay kolay kabul edemem...ve öyle olsa bile, argümanımızı suçlunun bir insan olduğu bakış açısıyla oluşturmanız gerektiğini düşünüyorum—`
+` Sadece, 19. bir kişinin var olduğunu kolay kolay kabul edemem...ve öyle olsa bile, argümanımızı suçlunun bir insan olduğu bakış açısıyla oluşturmamız gerektiğini düşünüyorum—`
 `cadılar sadece çaresizlik içinde, en sonunda, diğer her şey çürütüldükten sonra konuşmaya başladığınız bir şeydir, söylemeye çalıştığım bu."`
 `"Yani, hadi ama, cadıların var olmasına imkan yok, değil mi?!`
 ` Neden hepiniz suçlunun bir cadı olduğunu kabul ediyorsunuz?"`
@@ -291,7 +291,7 @@
 `"Aniki, ailenin intikamını almak istemiyor musun?!`
 ` Jessica, Kanon-kun'un intikamını almak istiyorsun ve Kanon-kun sen de Shannon-chan'ın intikamını almak istiyorsun, değil mi?!`
 ` Shannon-chan, sen de en azından seni öldürenin kim olduğunu bilmek istemelisin."`
-`"Neden hepiniz teslim oldunuz ve suçlunun bir cadı olduğuna karar verdiniz?!`
+`"Neden hepiniz tamaaamen teslim oldunuz ve suçlunun bir cadı olduğuna karar verdiniz?!`
 ` Neyiniz var sizin?!"`
 `Aptal ve çabuk sinirlenen Battler, cehaletini diğerlerine bağırarak kabul ettirmeye çalıştı.`
 `...Ancak herkes ona acıyarak baktı ve sessizce onu izledi.`
@@ -347,8 +347,8 @@
 `"Dahası, Maria'nın daha önce söylediği şey onun mezarını gerçekten kazacak olan şey.`
 ` ......Bir kişi bile inanmazsa bir "mucize" gerçekleşmeyeceğini söyledin."`
 `"Ama gerçek mucizeler insanlar inansa da inanmasa da gerçekleşir!`
-` Tek inanmayan ben olsam bile!!!`
-` Yani sadece ben inandığım için var olan mucizeler, büyüler ya da cadılar düpedüz yalan!!!"`
+` Tek inanmayan ben olsam bile!!`
+` Yani sadece ben inandığım için var olan mucizeler, büyüler ya da cadılar düpedüz yalan!!"`
 `"................................."`
 `Battler'ın cahilce atıp tutmasının ardından oluşan tedirgin hava...`
 `çok ferahlatıcı ve hafif bir kahkaha ile düşünceli bir şekilde uçup gitti.`
@@ -371,7 +371,7 @@
 `"*cackle*cackle*cackle*...`
 ` Sorun değil.`
 ` ......Bin yıldan sonra çoğu cadı yaşamaktan yorulur.`
-` Arada bir, senin gibi omurgalı bir adamla tanışmak güzeldir."`
+` Arada bir, senin gibi omurgalı bir adamla tanışmak güzel."`
 `"...............{f:5:Beatrice} kendini gösterdiğinde buna şahitlik etmek büyük bir onur, Battler."`
 `"......Heh,`
 ` .........heh-heh-heh-heh...!!`
@@ -390,7 +390,7 @@
 `".........Büyü hakkında hiçbir şey bilmeyen sıradan bir ölümlü için anlama gücün hiç de fena değil.`
 ` .........Gördüğüm kadarıyla büyüye karşı güçlü bir dirençle doğmuşsun."`
 `"......Biz cadıların doğal düşmanı.`
-` ...Sizi ne kadar alt üst edip sarsarsak sarsalım,`
+` ...Seni ne kadar alt üst edip sarsarsak sarsalım,`
 ` {i:bize asla inanmayacaksın.}`
 ` {i:Bu yüzden büyü sana karşı yetersiz kalacak.}`
 ` ...Bu tavır çok mantıklı.`
@@ -399,7 +399,7 @@
 ` Bize kendini gösterme zahmetine girmen çok nazik bir davranış,`
 ` ama senin var olduğuna zerre inanmıyorum."`
 `"O iki gün boyunca pek çok garip şey olduğu doğru.`
-` Maria'nın daha önce söylediği gibi, tüm numaraların açıklanabileceğini düşünsem de, yine de her birinin pratik ayrıntılarını ortaya koyamıyorum.`
+` Tıpkı Maria'nın daha önce söylediği gibi, tüm numaraların açıklanabileceğini düşünsem de, yine de her birinin pratik ayrıntılarını ortaya koyamıyorum.`
 ` Ama bu teslim olacağım anlamına gelmiyor."`
 `"Ben Aniki ve diğerlerinden farklıyım, anlıyor musun?`
 ` Açıklayamadığım için bunun bir cadının işi olduğunu asla kabul etmeyeceğim."`
@@ -450,7 +450,7 @@
 `"......Heh!`
 ` Gerçekten bana ayak parmaklarını öptürmeyi bu kadar çok mu istiyorsun...?!`
 ` Sadece teslim olursam yaparım!`
-` Ama izle... Bu numarayı kesinlikle ortaya çıkaracağım ve sonra sana kıçımı öptüreceğim!"`
+` Ama izle... bu numarayı kesinlikle ortaya çıkaracağım ve sonra sana kıçımı öptüreceğim!"`
 `"...............*cackle*.`
 ` Ne çekici bir adam.`
 ` Bu sözü unutmayacağım.`
@@ -466,7 +466,7 @@
 `Bir ilahiyi andıran bu büyülü sözlerin rehberliğinde yedi kazık bir araya geldi.`
 `{n}...Bunlar günahkâr insanların ölümcül günahlarını simgeleyen yedi iblisin kazıklarıydı.`
 `"Beelzebub ve Asmodeus.`
-` Gelin, günahlarını affedin.`
+` Gelin, onların günahlarını affedin.`
 ` Günahkarların ruhlarını serbest bırakın...!"`
 `"Ne...?!"`
 `Beelzebub ve Asmodeus'un kazıkları {f:5:Beatrice}'in çağrısına cevap verdi.`
@@ -515,7 +515,7 @@
 ` Sanki bin yıllık cadısın da!`
 ` Senin numaraların bin yıllık değil, olsa olsa gizem dünyasının yarattığı yüz yıllık klişelerin birikimi olur!"`
 `"Bunlar büyü değil!!`
-` Büyü olmalarına imkans yok!!`
+` Büyü olmalarına imkan yok!!`
 ` Tüm bu suçlar "insan numaraları" ile açıklanabilir!!"`
 `"*cackle*cackle*!`
 ` Benim bin yılımı insanların yüz yılıyla mı açıklayacaksın...?`
@@ -606,8 +606,8 @@
 ` Gerçekle yüzleşmeyi reddettik,`
 ` ...ve cadıya teslim olduk......!`
 ` Ama...`
-`Senin...`
-` ......senin o cadıya...`
+`Battler...`
+` ......Battler, senin o cadıya...`
 `...teslim olmayacağını biliyorum......!`
 ` Geh...`
 `ggghh...`
@@ -632,7 +632,7 @@
 ` Ne olacağı umurumda değil, seni asla kabul etmeyeceğim!!`
 ` Eğer beni bu kadar çok düşman olarak görmek istiyorsan, sana hak ettiğini vereceğim!!"`
 `"Seni bunun için haklayacağım, bunun bedelini ödeyeceksin, siktiğimin bedelini ödeyeceksin!!!!`
-` Ushiromiya Battler'ı düşmanın yaptığına pişman olacaksın!!`
+` Beni, Ushiromiya Battler'ı düşmanın yaptığına pişman olacaksın!!`
 ` Ne olursa olsun seni reddedeceğim!`
 ` Her imkansız şeyi "insanlarla" açıklayacağım!!!`
 ` Her bir hücreni bu dünyadan sileceğim!!!"`
