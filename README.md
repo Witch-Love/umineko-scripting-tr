@@ -86,7 +86,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L362) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L522) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073) ❌
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073) ✅
       * [Song: Melody](../../tree/master/extra/tr/files/video/sub/58_tr.ass) ✅
 </details>
 
@@ -267,7 +267,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402) ❌
-      * [Song without a name ver.sakura ED-size](../../tree/master/extra/tr/files/video/sub/186_tr.ass) ❌
+      * [Song: without a name ver.sakura ED-size](../../tree/master/extra/tr/files/video/sub/186_tr.ass) ❌
 </details>
 
 * <details>
