@@ -81,7 +81,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 20](../../tree/master/story/ep2/mt/umi2_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L305) ❌
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L305) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L69) ❌
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L362) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ✅
