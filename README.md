@@ -123,7 +123,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L561) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133) ❌
-      * [Song: activepain](../../tree/master/extra/tr/files/video/sub/83_tr.ass) ❌
+      * [Song: activepain](../../tree/master/extra/tr/files/video/sub/83_tr.ass) ✅
 </details>
 
 * <details>
