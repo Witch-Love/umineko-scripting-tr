@@ -160,7 +160,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L600) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1191) ❌
-      * [Song: Discode](../../tree/master/extra/tr/files/video/sub/109_tr.ass) ❌
+      * [Song: Discode](../../tree/master/extra/tr/files/video/sub/109_tr.ass) ✅
 </details>
 
 * <details>
