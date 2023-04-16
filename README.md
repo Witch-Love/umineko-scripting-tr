@@ -231,7 +231,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L674) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332) ❌
       * [Song: birth of new witch(Short Ver)](../../tree/master/extra/tr/files/video/sub/160_tr.ass) ✅
-      * [Song: FISHYAROMA](../../tree/master/extra/tr/files/video/sub/161_tr.ass) ❌
+      * [Song: FISHYAROMA](../../tree/master/extra/tr/files/video/sub/161_tr.ass) ✅
 </details>
 
 * <details>
