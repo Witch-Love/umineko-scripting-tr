@@ -27,13 +27,13 @@ Style: Translation,Arno Pro,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.03,0:00:16.24,Translation,,0,0,0,,If love had been there,
-Dialogue: 0,0:00:16.24,0:00:21.62,Translation,,0,0,0,,there would have been plenty of futures thought impossible to see
-Dialogue: 0,0:00:21.62,0:00:26.83,Translation,,0,0,0,,There’s nothing to be afraid of
-Dialogue: 0,0:00:26.83,0:00:32.30,Translation,,0,0,0,,There are fragments close at hand
-Dialogue: 0,0:00:32.30,0:00:37.60,Translation,,0,0,0,,Destroy everything, destroy this world
-Dialogue: 0,0:00:37.60,0:00:42.93,Translation,,0,0,0,,Even if many tears are trying to stop it from happening
-Dialogue: 0,0:00:42.93,0:00:48.11,Translation,,0,0,0,,I found somewhere I can return
-Dialogue: 0,0:00:48.11,0:00:55.82,Translation,,0,0,0,,and just forget everything
-Dialogue: 0,0:01:04.58,0:01:09.88,Translation,,0,0,0,,Never lose heart again
-Dialogue: 0,0:01:09.88,0:01:20.39,Translation,,0,0,0,,Let’s fly with broken wings
+Dialogue: 0,0:00:11.03,0:00:16.24,Translation,,0,0,0,,Eğer aşk orada olsaydı,
+Dialogue: 0,0:00:16.24,0:00:21.62,Translation,,0,0,0,,görülmesi imkansız olduğu düşünülen pek çok gelecek olurdu
+Dialogue: 0,0:00:21.62,0:00:26.83,Translation,,0,0,0,,Korkacak hiçbir şey yok
+Dialogue: 0,0:00:26.83,0:00:32.30,Translation,,0,0,0,,Çünkü yakında bir kakera var
+Dialogue: 0,0:00:32.30,0:00:37.60,Translation,,0,0,0,,Her şeyi yok et, bu dünyayı yok et
+Dialogue: 0,0:00:37.60,0:00:42.93,Translation,,0,0,0,,Pek çok gözyaşı bunu engellemeye çalışsa bile
+Dialogue: 0,0:00:42.93,0:00:48.11,Translation,,0,0,0,,Geri dönebileceğim
+Dialogue: 0,0:00:48.11,0:00:55.82,Translation,,0,0,0,,ve her şeyi unutabileceğim bir yer buldum
+Dialogue: 0,0:01:04.58,0:01:09.88,Translation,,0,0,0,,Kalbini bir daha asla kaybetme
+Dialogue: 0,0:01:09.88,0:01:20.39,Translation,,0,0,0,,Hadi kırık kanatlarımızla uçalım

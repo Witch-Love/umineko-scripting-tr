@@ -194,7 +194,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279) ❌
       * [Song: Promise](../../tree/master/extra/tr/files/video/sub/132_tr.ass) ❌
-      * [Song: WINGS(Ver hope)](../../tree/master/extra/tr/files/video/sub/134_tr.ass) ❌
+      * [Song: WINGS(Ver hope)](../../tree/master/extra/tr/files/video/sub/134_tr.ass) ✅
 </details>
 
 * <details>
