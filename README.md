@@ -314,9 +314,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌
       * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/files/legacy/sub/tr.ass) ❌
       * [Opening 1: Igreja of Echoing Vows](../../tree/master/extra/tr/files/video/sub/tr.ass) ✅
-      * [Chiru Opening 1: The Witch of Occultics](../../tree/master/extra/tr/files/video/sub/op56_tr.ass) ❌
-      * [Chiru Opening 2: Inanna’s Dream](../../tree/master/extra/tr/files/video/sub/op4_tr.ass) ❌
-      * [Chiru Opening 3: The Pithos in the Fog](../../tree/master/extra/tr/files/video/sub/op78_tr.ass) ❌
+      * [Chiru Opening 1: The Witch of Occultics](../../tree/master/extra/tr/files/video/sub/op56_tr.ass) ✅
+      * [Chiru Opening 2: Inanna’s Dream](../../tree/master/extra/tr/files/video/sub/op4_tr.ass) ✅
+      * [Chiru Opening 3: The Pithos in the Fog](../../tree/master/extra/tr/files/video/sub/op78_tr.ass) ✅
 
 
 
