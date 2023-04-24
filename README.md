@@ -193,7 +193,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279) ❌
-      * [Song: Promise](../../tree/master/extra/tr/files/video/sub/132_tr.ass) ❌
+      * [Song: Promise](../../tree/master/extra/tr/files/video/sub/132_tr.ass) ❌ / ❓(this lyrics is not even used)
       * [Song: WINGS(Ver hope)](../../tree/master/extra/tr/files/video/sub/134_tr.ass) ✅
 </details>
 
@@ -267,7 +267,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402) ❌
-      * [Song: without a name ver.sakura ED-size](../../tree/master/extra/tr/files/video/sub/186_tr.ass) ❌
+      * [Song: without a name ver.sakura ED-size](../../tree/master/extra/tr/files/video/sub/186_tr.ass) ✅
 </details>
 
 * <details>
@@ -301,7 +301,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L752) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442) ❌
-      * [Song: Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr/files/video/sub/240_tr.ass) ❌
+      * [Song: Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr/files/video/sub/240_tr.ass) ✅
 </details>
 
 * <details>
