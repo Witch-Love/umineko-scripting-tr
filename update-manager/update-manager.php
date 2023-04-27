@@ -577,6 +577,8 @@ function main($argc, $argv) {
 			$scripting = $argv[3];
 
 			$script = file_get_contents($scripting.'/script/umi_hdr.txt').LF;
+			if ($locale == 'tr')
+				$script = file_get_contents($scripting.'/script/tr/umi_hdr.txt').LF;
 			$script = str_replace(CRLF, LF, $script);
 			$script = str_replace('builder_id', $gameid, $script);
 			$script = str_replace('builder_date', time(), $script);
@@ -596,7 +598,9 @@ function main($argc, $argv) {
 			if ($locale == 'cn')
 				$footer = file_get_contents($scripting.'/script/cn/umi_ftr.txt');
 			if ($locale == 'cht')
-				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');				
+				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');
+			if ($locale == 'tr')
+				$footer = file_get_contents($scripting.'/script/tr/umi_ftr.txt');				
 			$script .= str_replace(CRLF, LF, $footer);
 
 			localiseScript($script, $scripting.'/script/'.$locale.'/');
