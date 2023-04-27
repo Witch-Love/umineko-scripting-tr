@@ -1,4 +1,4 @@
-[guncel-dosya]: ../../tree/master/story/ep1/tr/umi1_2.txt
+[guncel-dosya]: ../../tree/master/README.md#ilerleme
 
 # Çeviriye Katkıda Bulunmak
 
