@@ -310,9 +310,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
    * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
    * [header.txt](../../tree/master/script/tr/header.txt) ❌
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
-   * Song Subtitles ❌
-      * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌
-      * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/files/legacy/sub/tr.ass) ❌
+   * Song Subtitles ✅
+      * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌ (not used)
+      * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/files/legacy/sub/tr.ass) ❌ (not used)
       * [Opening 1: Igreja of Echoing Vows](../../tree/master/extra/tr/files/video/sub/tr.ass) ✅
       * [Chiru Opening 1: The Witch of Occultics](../../tree/master/extra/tr/files/video/sub/op56_tr.ass) ✅
       * [Chiru Opening 2: Inanna’s Dream](../../tree/master/extra/tr/files/video/sub/op4_tr.ass) ✅
