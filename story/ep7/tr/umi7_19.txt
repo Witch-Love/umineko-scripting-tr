@@ -9,7 +9,7 @@
 `I don't know how long I've been here.`
 `{n}And, more importantly, I don't know where this is.`
 `......Beatrice's funeral ended,`
-` everyone went back to the {ruby:çeviri > malikane:mansion}, and......`
+` everyone went back to the mansion, and......`
 `........And after that, my memory gets fuzzy, and I can't recall anything else.`
 `Then, I was surprised to notice the presence of another person.`
 `Apparently, I wasn't the only one sitting in the audience seating of this vast theater.`
@@ -68,7 +68,7 @@
 `"What?!`
 ` A‐......Ange‐chan......?!`
 ` But you're supposed to be six years old......"`
-`"............I was six during the year of the final family {ruby:çeviri > konferans:conference} on Rokkenjima.`
+`"............I was six during the year of the final family conference on Rokkenjima.`
 ` ......Now I get it.`
 ` So, you're from the year 1986.`
 ` I'm eighteen.`
@@ -160,10 +160,10 @@
 ` It was Aunt Eva's voice."`
 `"What does she mean by "what happened on that day"?"`
 `"......She's talking about the 4th and 5th of October in the year 1986.`
-` ......The day of the final family {ruby:çeviri > konferans:conference} on Rokkenjima."`
+` ......The day of the final family conference on Rokkenjima."`
 `"In other words, ......today."`
 `Today is October 4th, 1986.`
-`As a prelude to the family {ruby:çeviri > konferans:conference}, Beatrice's funeral was held...`
+`As a prelude to the family conference, Beatrice's funeral was held...`
 `"That's a surprise.`
 ` So, you've come here from October 4th, 1986?`
 ` Tell me.`
@@ -203,7 +203,7 @@
 `"It has been a long time for you.`
 ` Both you and this garden have changed so much."`
 `"Ah, let me introduce you!`
-` This is Kanon‐kun, one of our {ruby:çeviri > hizmetkarlar:servants}!`
+` This is Kanon‐kun, one of our servants!`
 ` This is the first time you've met Battler, right?"`
 `"......Pleased to meet you."`
 `"You can just call me Battler!`
@@ -218,15 +218,15 @@
 `"Shannon and George onii‐chan are really good friends! Uu!"`
 `"Maria, shhh!`
 ` That's a secret!"`
-`"If you would, everyone, allow me to guide you to the {ruby:çeviri > konukevi:guesthouse}."`
-`After enjoying the lovely welcome provided by the roses, the relatives followed Gohda in the direction of the {ruby:çeviri > konukevi:guesthouse}......`
+`"If you would, everyone, allow me to guide you to the guesthouse."`
+`After enjoying the lovely welcome provided by the roses, the relatives followed Gohda in the direction of the guesthouse......`
 `October 4th, 1986.`
 `Rokkenjima.`
 ` A world without Lion.`
-`{n}......The day of the Ushiromiya family's family {ruby:çeviri > konferans:conference}.`
+`{n}......The day of the Ushiromiya family's family conference.`
 `The mysterious letter that Maria read aloud after dinner, just as she had been told to.`
 `The writer of the letter claimed to be the Golden Witch {f:5:Beatrice} and challenged the family.`
-`Solve the riddle of the {ruby:çeviri > kitabe:epitaph}.`
+`Solve the riddle of the epitaph.`
 ` Otherwise, I will take everything.`
 `It was the letter that declared the start of {f:5:Beatrice}'s game, just as it had appeared in so many games before.`
 `Had an unknown person appeared to complicate the inheritance problem?`
@@ -235,16 +235,16 @@
 `{n}Who on Earth was this {f:5:Beatrice}?`
 `It was that tangled web of suspicion and paranoia that had been a constant in every game: .........the dinner of October 4th.`
 `"George‐kun.`
-` I'm sorry, but could you take the others and go back to the {ruby:çeviri > konukevi:guesthouse}?`
+` I'm sorry, but could you take the others and go back to the guesthouse?`
 ` My apologies."`
 `"......Shannon.`
-` Take the children to the {ruby:çeviri > konukevi:guesthouse}.`
-` We will move straight on to the family {ruby:çeviri > konferans:conference}."`
+` Take the children to the guesthouse.`
+` We will move straight on to the family conference."`
 `"Y‐yes.`
 ` As you wish..."`
 `"{f:5:Beatrice}, the Golden Witch......`
 ` What a fascinating letter you've sent us..."`
-`"She's telling us to solve the {ruby:çeviri > kitabe:epitaph}...?`
+`"She's telling us to solve the epitaph...?`
 ` Ridiculous.`
 ` That gold belongs to us.`
 ` Why would we ever give it up to some outsider...?!"`
@@ -256,9 +256,9 @@
 ` Sounds like things are going to get complicated."`
 `"Come on, Maria...`
 ` Let's go......"`
-`"Beato's {ruby:çeviri > ritüel:ritual} has begun......`
+`"Beato's ritual has begun......`
 ` Kihi{0}hi{0}hi{0}hi{0}hihi......"`
-`"Okay, everyone, ...I shall guide you to the {ruby:çeviri > konukevi:guesthouse}......"`
+`"Okay, everyone, ...I shall guide you to the guesthouse......"`
 `".........What's......all this about......?"`
 `"Probably a replay of one of the old games, ......or else an entirely new game.`
 ` In all the games, October 4th happens in pretty much the same way."`
@@ -266,7 +266,7 @@
 ` You mean, a tale that hasn't appeared in any of the fragments so far?"`
 `"There's no way they'd go to the trouble of chaining us down if they just wanted to show us a game we already know.`
 ` ......We should probably assume it's a new game.`
-` That means there should be a {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
+` That means there should be a Game Master.`
 ` ......Who is it?`
 ` .........That witch?`
 ` {f:5:Bernkastel}......?"`
@@ -283,7 +283,7 @@
 `However, didn't she entrust everything to Will and have all of her riddles solved?`
 `There should be no need for her to make new riddles......`
 `.........In that case, is {f:5:Bernkastel} using this tale to test me...?`
-`Along with Will, I have at least touched the deepest depths of this tale...and understood the {ruby:çeviri > suçlu:culprit}'s heart.`
+`Along with Will, I have at least touched the deepest depths of this tale...and understood the culprit's heart.`
 `So, even if an entirely new tale presents itself, I should be able to see through the riddles.`
 `.........Is that...what my role is......?`
 `{n}Is my role to teach Ange about the truth of this tale......?`
@@ -295,7 +295,7 @@
 ` I can't say anything for sure."`
 `In this world, Ange is absent on this day.`
 `{n}So, it's only natural that she doesn't know what happened.`
-`However, at the very least, I do know who the {ruby:çeviri > suçlu:culprit} is...and what they were trying to do......`
+`However, at the very least, I do know who the culprit is...and what they were trying to do......`
 `".........Yes.`
 ` I think I've finally understood my role in this."`
 `"What do you mean?"`
@@ -304,14 +304,14 @@
 `"I know......who's behind the crime that's about to occur."`
 `"What did you say.........?"`
 `"Thinking about this normally,`
-` ......the only explanation I see is that someone's trying to make us solve the {ruby:çeviri > kitabe:epitaph}, aiming to grab the gold for themselves."`
+` ......the only explanation I see is that someone's trying to make us solve the epitaph, aiming to grab the gold for themselves."`
 `"I agree.`
 ` If they'd already solved it, they could just take it.`
 ` There'd be no need to challenge us to solve the riddle."`
-`"It's a prank by one of the {ruby:çeviri > hizmetkarlar:servants}.`
+`"It's a prank by one of the servants.`
 ` They're hoping to pick up the scraps from the celebration if the gold is found."`
-`"I cannot imagine that any of our {ruby:çeviri > hizmetkarlar:servants} would do such a thing..."`
-`"......Or, maybe one of us sent the letter, pretending to be a {ruby:çeviri > hizmetkar:servant}."`
+`"I cannot imagine that any of our servants would do such a thing..."`
+`"......Or, maybe one of us sent the letter, pretending to be a servant."`
 `"If that's it, you're the most suspicious one.`
 ` You schooled Maria‐chan on her part and made her read the letter, didn't you?"`
 `"I, I wouldn't do that...!"`
@@ -334,8 +334,8 @@
 ` Someone probably wants to make us think there's another person trying to make demands about the inheritance, when their real goal is just to pick up the scraps."`
 `"......I wonder if they'll ask for some hush money in exchange for staying out of the inheritance issue."`
 `"If that were the case, they would have written it into the letter already."`
-`"And the letter is just a challenge, telling us to solve the {ruby:çeviri > kitabe:epitaph} or have everything taken from us."`
-`"The {ruby:çeviri > suçlu:culprit} is tryin' to make us solve the {ruby:çeviri > kitabe:epitaph}'s riddle!`
+`"And the letter is just a challenge, telling us to solve the epitaph or have everything taken from us."`
+`"The culprit is tryin' to make us solve the epitaph's riddle!`
 ` Nothin' more, nothin' less."`
 `"So, it's simple.`
 ` If we let this letter scare us, we lose."`
@@ -345,7 +345,7 @@
 ` It shows how tense we all are."`
 `"But who did it?`
 ` ......Such an aggravating thing to do."`
-`"If it wasn't a {ruby:çeviri > hizmetkar:servant}, then one of us must have written it.`
+`"If it wasn't a servant, then one of us must have written it.`
 ` I'm not naming names, of course."`
 `"St‐stop it.`
 ` I really know nothing about this...!"`
@@ -357,11 +357,11 @@
 `"......Of course not.`
 ` Who'd object to money or love?"`
 `"We don't know when Father's inheritance will come to us.`
-` ......However, the gold of the {ruby:çeviri > kitabe:epitaph} is different.`
+` ......However, the gold of the epitaph is different.`
 ` If we find it, we could just split it then and there."`
 `"In a sense,`
 ` it's even closer to us now than the inheritance is."`
-`"Assuming we can solve the {ruby:çeviri > kitabe:epitaph}......"`
+`"Assuming we can solve the epitaph......"`
 `"......Everyone here has made their own attempt at the riddle, yes?"`
 `Kyrie asked the room at large, and everyone wordlessly nodded back.`
 `"We have a whole four people here who inherit the blood of the one who made that riddle, yet we're all tackling it individually.`
@@ -370,13 +370,13 @@
 ` We've all been greedy and tried to go it alone.`
 ` ......However.`
 ` We've already reached a decision about how we'll split the gold up if it's found.`
-` And about acknowledging Aniki as the {ruby:çeviri > halef:successor}."`
+` And about acknowledging Aniki as the successor."`
 `"Though you demanded quite a lot in exchange."`
-`".........I wonder if we can solve that {ruby:çeviri > kitabe:epitaph}...if we pool our efforts and work together..."`
+`".........I wonder if we can solve that epitaph...if we pool our efforts and work together..."`
 `"Two heads are better than one.`
 ` And here, we have seven."`
 `"Today, we reached a general agreement about the inheritance problem.`
-` ......Why not take a shot at the {ruby:çeviri > kitabe:epitaph} for a bit of fun on the side?"`
+` ......Why not take a shot at the epitaph for a bit of fun on the side?"`
 `"Nice idea.`
 ` Let's give it a try and call it a break."`
 `"......Ridiculous.`
@@ -392,7 +392,7 @@
 ` He can bring us something."`
 `"Some tea, snacks, and...`
 `......oh, could you also ask him for a map of Taiwan?"`
-`Two figures could be seen in the {ruby:çeviri > gül bahçesi:rose garden} arbor.`
+`Two figures could be seen in the rose garden arbor.`
 `{n}......It was George and Shannon's secret meeting.`
 `"I want you to take this ring."`
 `"G‐......George‐sama......"`
@@ -491,7 +491,7 @@
 ` ......Is that how we get Tamsui River?`
 ` Hahahaha, quite the word game."`
 `"Now that's an interesting theory.`
-` ......Let's advance our {ruby:çeviri > muhakeme:reasoning} a bit further.`
+` ......Let's advance our reasoning a bit further.`
 ` As you travel down the river, you will see a village.`
 ` ......What's the name of the town at the mouth of Tamsui River?"`
 `".........It says "Tamsui" here."`
@@ -504,7 +504,7 @@
 `"I guess the beloved home of old doesn't refer to Taiwan.`
 ` It might be Odawara after all."`
 `"If we can't discount any possibilities, ......then we won't get anywhere.`
-` We can't even get past the first line of the {ruby:çeviri > kitabe:epitaph}."`
+` We can't even get past the first line of the epitaph."`
 `"Quiet, you're distracting me!`
 ` ......It has to be Taiwan.`
 ` Father wouldn't describe any other place as "beloved"!"`
@@ -738,19 +738,19 @@
 `".........Now this is a surprise.`
 ` Who would have thought that a hidden stairway like this existed."`
 `"It makes sense now.`
-` Father didn't like people going near the {ruby:çeviri > kilise:chapel}..."`
+` Father didn't like people going near the chapel..."`
 `"......I wonder how long that mechanism has been there.`
 ` Judging by the feel of this underground passage, probably for quite a long time..."`
-`"I imagine it was nearly the same time that the {ruby:çeviri > malikane:mansion} itself was built.`
-` ......The riddle of the {ruby:çeviri > kitabe:epitaph} was probably also planned many decades ago."`
+`"I imagine it was nearly the same time that the mansion itself was built.`
+` ......The riddle of the epitaph was probably also planned many decades ago."`
 `"Well, this is Dad we're talking about.`
 ` ......I try not to let the things he does surprise me, but this..."`
 `"Just how far does this stairway go......?"`
 `"Hey, maybe that old rumor was true.`
-` ......You know, the story about him having a mistress in a hidden {ruby:çeviri > malikane:mansion} somewhere in the forest."`
+` ......You know, the story about him having a mistress in a hidden mansion somewhere in the forest."`
 `"I see.`
 ` It's likely that this underground passage goes all the way there."`
-`".........I wonder if it connects to the {ruby:çeviri > malikane:mansion} from that day......"`
+`".........I wonder if it connects to the mansion from that day......"`
 `"I think we've found the goal.`
 ` ......Look at that filthy door.`
 ` Something's written on it."`
@@ -794,7 +794,7 @@
 `"Fortunately, we're all in a good mood and feeling very generous right now.`
 ` Just give it up already!"`
 `"Nng......!"`
-`A pile of gold this massive carries {ruby:çeviri > büyülü:magical} power within it.`
+`A pile of gold this massive carries magical power within it.`
 ` That power draws out the most honest feelings within people.`
 `The light from the chandelier glinted off the golden mountain, lighting them up with its golden gleam.`
 `It was as though the gleam manipulated them.`
@@ -802,9 +802,9 @@
 ` and howled and laughed, running about and rolling around like a bunch of excited kindergartners at a park......`
 `".........What is all this?`
 ` What's it supposed to mean?"`
-`"The {ruby:çeviri > kitabe:epitaph} has been solved before the crime occurred.........and by all of the siblings together..."`
+`"The epitaph has been solved before the crime occurred.........and by all of the siblings together..."`
 `"That hasn't happened in any of the games before now."`
-`"......Supposedly, {f:5:Beatrice} decided not to commit the crime if the {ruby:çeviri > kitabe:epitaph} was solved..."`
+`"......Supposedly, {f:5:Beatrice} decided not to commit the crime if the epitaph was solved..."`
 `"Yeah, supposedly.`
 ` ......Hmph.`
 ` I wonder."`
@@ -822,7 +822,7 @@
 ` ......Her roulette has already made its decision.`
 ` This is the end of her game."`
 `"If it's the end, what happens next?`
-` They all become happy rich people and leave the family {ruby:çeviri > konferans:conference} unharmed?`
+` They all become happy rich people and leave the family conference unharmed?`
 ` My family comes back to me with a souvenir of an ingot that isn't made of chocolate?`
 ` And everything ends happily?`
 ` You think those witches would chain us to chairs to show us a naive dream like that?!"`
@@ -846,7 +846,7 @@
 `When Eva yelled,`
 ` ......the curtain shook.`
 `And then, ......a witch wearing a black dress appeared from the other side......`
-`In an instant, everyone realized that the dress was the same as the one worn by the witch of the {ruby:çeviri > portre:portrait},`
+`In an instant, everyone realized that the dress was the same as the one worn by the witch of the portrait,`
 ` ......and they realized one more thing.`
 `This person......was the owner of this room.`
 `".........Welcome to the room of the gold."`
@@ -861,16 +861,16 @@
 `"No.`
 ` This is my...game."`
 `"If that's so, then we've won.`
-` We've solved the {ruby:çeviri > kitabe:epitaph}'s riddle and found the gold...!"`
+` We've solved the epitaph's riddle and found the gold...!"`
 `"We've accepted your challenge and won...!`
 ` That means this gold belongs to us, right?!"`
 `"Indeed, it is as you say.`
-` ......You have solved the {ruby:çeviri > kitabe:epitaph} splendidly and discovered the hidden gold.`
+` ......You have solved the epitaph splendidly and discovered the hidden gold.`
 ` This game ends in your victory.`
 ` ......This gold no longer belongs to me, but to all of you......"`
 `".........It seems you're graceful in defeat."`
 `"Hey, you.`
-` ......If we hadn't solved the {ruby:çeviri > kitabe:epitaph}'s riddle, what were you planning to do?"`
+` ......If we hadn't solved the epitaph's riddle, what were you planning to do?"`
 `"The letter said that you'd take "everything of the Ushiromiya family"."`
 `"Yes.`
 ` I planned to take all of your wealth...and all of your lives.`
@@ -881,13 +881,13 @@
 ` There was also a case filled with bullets......`
 `The witch picked up one of the lead bullets lying on the table and played with it, her face still expressionless, as she spoke.`
 `"If...`
-`the night had ended before you managed to solve the {ruby:çeviri > kitabe:epitaph}'s riddle,`
+`the night had ended before you managed to solve the epitaph's riddle,`
 ` ......I planned to follow its instructions and commit thirteen murders."`
 `"Wh‐......what did you say......?"`
-`"......That's what I thought when I first saw that {ruby:çeviri > kitabe:epitaph}.`
+`"......That's what I thought when I first saw that epitaph.`
 ` ......It almost looks like something you'd find in a serial murder mystery novel.`
 ` ......That's right.`
-` If you had killed thirteen people to match the {ruby:çeviri > kitabe:epitaph}, ......that would have made for quite a mysterious crime..."`
+` If you had killed thirteen people to match the epitaph, ......that would have made for quite a mysterious crime..."`
 `"Th‐there's no way you could do that all by yourself...!`
 ` No matter how many guns you have, killing thirteen people...that would just be...!!"`
 `"......My planning was meticulous and involved many different alternatives.`
@@ -897,7 +897,7 @@
 ` But there's no way you'd have been able to kill thirteen of us...!`
 ` We aren't that stupid."`
 `".........It would seem so.`
-` I will admit that the {ruby:çeviri > kitabe:epitaph} being solved before the first twilight was the result I considered the most unlikely."`
+` I will admit that the epitaph being solved before the first twilight was the result I considered the most unlikely."`
 `"So, you never accounted for us reaching this place."`
 `"That is not so.`
 ` .........Even this was one of the results of the roulette I wished to create.`
@@ -916,7 +916,7 @@
 `"You can't possibly expect us to treat you favorably now that you've revealed that to us..."`
 `"I am prepared.`
 ` .........You may do as you will with me.`
-` ......If you hadn't solved the {ruby:çeviri > kitabe:epitaph}, I would have done the same to you, so it is only fair."`
+` ......If you hadn't solved the epitaph, I would have done the same to you, so it is only fair."`
 `"......This girl's got guts."`
 `"I planned this game because I was prepared to bet my life.`
 ` I am satisfied with the result.`
@@ -937,7 +937,7 @@
 ` but the entirety of this island."`
 `"What.........do you mean by that?"`
 `".....................`
-` If you interpret the {ruby:çeviri > kitabe:epitaph} as a series of murders, then yes, there are only thirteen people killed on the first eight twilights.`
+` If you interpret the epitaph as a series of murders, then yes, there are only thirteen people killed on the first eight twilights.`
 ` ......But on the ninth twilight,`
 ` ......it says clearly that none shall be left alive."`
 `"What does that mean?`
@@ -948,7 +948,7 @@
 `"Are you the one who set that up?`
 ` ......Or was that Ushiromiya Kinzo?"`
 `"Ushiromiya Kinzo is the one who set up the device.`
-` This device is the source of his mad {ruby:çeviri > büyülü:magical} power......"`
+` This device is the source of his mad magical power......"`
 `"......I, I don't have a clue what you're talking about."`
 `"In other words,`
 ` ......Dad set up this bomb,`
@@ -966,7 +966,7 @@
 `"Ni‐......nine hundred tons?!`
 ` Th‐that's unbelievable!`
 ` If that exploded, the result would be unimaginable!`
-` Forget just the {ruby:çeviri > malikane:mansion} blowing up, it'd leave a massive crater!!"`
+` Forget just the mansion blowing up, it'd leave a massive crater!!"`
 `"I believe an expert's estimate measured it as a hole several dozen meters deep and a kilometer across."`
 `"...............There wouldn't be.........even a trace left......"`
 `"There is a special mechanism that controls the detonation of these explosives.`
@@ -1002,7 +1002,7 @@
 `Whenever things got tough and he got stuck, maybe he would hide in here and flip the switch......`
 `He might have made it a rule for himself that he would blow everything away if he couldn't think of a brilliant plan before midnight came.`
 `He would gaze at the mountain of gold, listening to the clock tick towards his death as he searched for an idea......`
-`Perhaps Ushiromiya Kinzo's real study wasn't the one in the {ruby:çeviri > malikane:mansion},`
+`Perhaps Ushiromiya Kinzo's real study wasn't the one in the mansion,`
 ` but this place instead......`
 `"......This whole setup sounds just like Dad.`
 ` ......So, maybe each time Dad worried about something, all of us kids were put on the line as well..."`
@@ -1033,7 +1033,7 @@
 ` But what would you have done?`
 ` I somehow doubt that you intended on going down with the rest of us..."`
 `"This underground VIP room is connected to an underground passage from the remnants of the military base.`
-` If you go straight along that, you'll come out at the hidden {ruby:çeviri > malikane:mansion} on the opposite side of the island, Kuwadorian.`
+` If you go straight along that, you'll come out at the hidden mansion on the opposite side of the island, Kuwadorian.`
 ` It's about two kilometers away.`
 ` If you make it all the way there, it should be possible to escape the blast."`
 `"......I see.`
@@ -1044,7 +1044,7 @@
 `"............There's something seriously wrong with this girl..."`
 `"She's insane...`
 ` There's no point thinking about it!`
-` If we hadn't solved the {ruby:çeviri > kitabe:epitaph}, she would have used those guns,`
+` If we hadn't solved the epitaph, she would have used those guns,`
 ` or else that switch,`
 ` to massacre all of us!`
 ` There's no doubt in my mind!!"`
@@ -1057,17 +1057,17 @@
 ` .........We haven't decided how you will be dealt with, but I hope to do all I can to reach a gentlemanly agreement."`
 `".........Do not concern yourself with me any longer.`
 ` As someone who was already prepared to kill you all and die in the process, I am already one of the dead."`
-`The Golden Witch {f:5:Beatrice} solved the {ruby:çeviri > kitabe:epitaph}, reached this room, and revived.`
+`The Golden Witch {f:5:Beatrice} solved the epitaph, reached this room, and revived.`
 `And now.`
 ` ......New people had solved the riddle and reached this room, ......so her role was finished.`
-`When the {ruby:çeviri > kitabe:epitaph}'s riddle was solved, ......{f:5:Beatrice}'s witch illusion ended.`
+`When the epitaph's riddle was solved, ......{f:5:Beatrice}'s witch illusion ended.`
 `Most likely, no one in this room would have been capable of understanding her tragic resolve.`
 `......She herself was probably the only one who could.`
 `As long as the many selves inside of her understood, that was enough.`
 `.........I am one yet many.`
-`I entrusted myself to the {ruby:çeviri > büyülü:magical} roulette of endless possibilities.`
+`I entrusted myself to the magical roulette of endless possibilities.`
 `{n}The result, the answer, is this.`
-`{n}This is what the tarot cards known as the {ruby:çeviri > ritüel:ritual} of the {ruby:çeviri > kitabe:epitaph} have shown me.`
+`{n}This is what the tarot cards known as the ritual of the epitaph have shown me.`
 `......{f:5:Beatrice} is now dead.`
 `They did not kill her.`
 `{n}I killed her myself......in accordance with fate's command.`
@@ -1083,16 +1083,16 @@
 `"I have converted a portion of the gold to cash.`
 ` This is for the account that the money is in."`
 `"I see.`
-` So this is the {ruby:çeviri > büyülü:magical} energy of the Golden Witch."`
+` So this is the magical energy of the Golden Witch."`
 `"How much is in the account?"`
 `"I've forgotten the exact figure.`
 ` However, there is more than a billion yen."`
 `"A billion...!`
-` ......Now that really is {ruby:çeviri > büyü:magic}!"`
+` ......Now that really is magic!"`
 `"True.`
 ` There's nothing you couldn't do with that much money."`
 `"Very true.`
-` The strongest {ruby:çeviri > büyü:magic} to counter the {y:0:Human}{n:0:human}s' anti‐magic toxin is this {ruby:çeviri > büyü:magic} of gold.`
+` The strongest magic to counter the {y:0:Human}{n:0:human}s' anti‐magic toxin is this magic of gold.`
 ` ......It may be that this card holds greater power than the ingots."`
 `"Certainly.`
 ` Cash would be much more agreeable than ingots."`
@@ -1108,8 +1108,8 @@
 `"Here you go, here's a mountain of gold.`
 ` And I'll turn off the explosives and give you a card worth a billion yen while we're at it.`
 ` .........It sounds far too good to be true.`
-` ......You're trying to {ruby:çeviri > numara:trick} us somehow, aren't you?"`
-`"I have no desire to {ruby:çeviri > numara:trick} you, but I won't try to force you to believe.`
+` ......You're trying to trick us somehow, aren't you?"`
+`"I have no desire to trick you, but I won't try to force you to believe.`
 ` ......I have offered you everything, revealed everything.`
 ` What you believe and what you do is now for you, the new masters of the gold, to decide.`
 ` You are even free to disbelieve all I say and leave this place."`
@@ -1164,7 +1164,7 @@
 ` If she wanted to kill us with a bomb, she wouldn't have told us about it."`
 `"...............!!!`
 ` B‐......{f:5:Beatriceeeeeee}...!!`
-` Don't think you can {ruby:çeviri > numara:trick} me......!!!"`
+` Don't think you can trick me......!!!"`
 `"....................................`
 ` ...Five,`
 ` ......four, ......three..."`
@@ -1192,9 +1192,9 @@
 `For a while, everyone watched the witch to see if she would remember something else and start talking.`
 `However, she said nothing further.`
 `The witch who had called herself one of the dead was now little more than a large French doll wearing a black dress......`
-`Gold is the only physical embodiment of {ruby:çeviri > büyü:magic} that can appear in the human world.`
-`{n}Since ancient times, even a small fragment of it could control men with its {ruby:çeviri > büyü:magic}.`
-`In that case, how much {ruby:çeviri > büyü:magic} power would dwell in it...`
+`Gold is the only physical embodiment of magic that can appear in the human world.`
+`{n}Since ancient times, even a small fragment of it could control men with its magic.`
+`In that case, how much magic power would dwell in it...`
 `if it was piled up in a mountain so high you'd have to look up to see the top?`
 `"Don't be stupid, we'll split it evenly!`
 ` Isn't that the obvious solution?!"`
@@ -1243,7 +1243,7 @@
 `Eva was gripping the gun so hard it looked like it might snap.`
 `......The four guns that the witch had placed in this room were now in the hands of the relatives.`
 `Just as the gold had led their hearts astray,`
-` it seemed these guns had the {ruby:çeviri > büyülü:magical} power to turn their hearts to violence......`
+` it seemed these guns had the magical power to turn their hearts to violence......`
 `Finally, a scuffle arose between Eva and Krauss.`
 `Off to the side, Natsuhi started arguing with Rudolf and his wife, and the grand underground VIP room filled with a cacophony of angry outbursts......`
 `"...................................."`
@@ -1368,7 +1368,7 @@
 ` If we all play dumb, it'll work!"`
 `"It won't......`
 ` There's no way you can fool the police.`
-` If the two of them disappear during a family {ruby:çeviri > konferans:conference} where we were arguing over the inheritance problem,`
+` If the two of them disappear during a family conference where we were arguing over the inheritance problem,`
 ` ......the police won't just put it down as a case of missing persons."`
 `".....................`
 ` .........I, I just thought of something..."`
@@ -1392,7 +1392,7 @@
 `As she played with the switch that would cause an automatic explosion at midnight,`
 ` ......Eva spun around to face them, a crazed expression on her face...`
 `It was truly...a mad inspiration.`
-`If they flipped the switch to the right and waited for midnight, the nine hundred tons of explosives would wipe out the {ruby:çeviri > malikane:mansion} without a trace.`
+`If they flipped the switch to the right and waited for midnight, the nine hundred tons of explosives would wipe out the mansion without a trace.`
 `There wouldn't even be remnants of the corpses.`
 ` There would be no way to tell that they had died by gunshot wounds before the explosion.`
 `"It's an unshakable fact that this island is still filled with explosives from the war!`
@@ -1413,12 +1413,12 @@
 ` We're just changing the type of accident!!`
 ` Isn't that right?`
 ` We can think up any story we want!!`
-` By chance, the rest of us will happen to be in the hidden {ruby:çeviri > malikane:mansion} tomorrow night!`
+` By chance, the rest of us will happen to be in the hidden mansion tomorrow night!`
 ` Then, when the explosion accident occurs, we'll be lucky enough to survive!!`
 ` That story should work!!"`
 `".........J‐just what sort of story are you planning on?`
 ` ......What kind of story could explain how the two of them alone remained here,`
-` while the rest of us went to the hidden {ruby:çeviri > malikane:mansion} and conveniently managed to escape...?!"`
+` while the rest of us went to the hidden mansion and conveniently managed to escape...?!"`
 `"That's what we've got to think up now, stupid Rosa!!!`
 ` It doesn't matter what it is, as long as we all agree to it!!`
 ` I'll think of something... I am thinking... You all think too!!`
@@ -1430,8 +1430,8 @@
 ` It'll be okay... It will!!`
 ` I know we'll think of a good excuse!"`
 `"......What kind of excuse?`
-` We took the kids and all the {ruby:çeviri > hizmetkarlar:servants} to go exploring an underground passageway, leaving just the two of them behind,`
-` and the rest of us all decided to spend the night in the hidden {ruby:çeviri > malikane:mansion}?`
+` We took the kids and all the servants to go exploring an underground passageway, leaving just the two of them behind,`
+` and the rest of us all decided to spend the night in the hidden mansion?`
 ` How could any excuse work?`
 ` ......It's insane!"`
 `"And thinking up that insane thing is our job!!`
@@ -1478,9 +1478,9 @@
 `"A‐are you crazy?! I don't want to go to the police!!!"`
 `"Of course, we don't want to say that the crime happened here.`
 ` The police would find the gold.`
-` ......Yes, what about the {ruby:çeviri > gül bahçesi:rose garden}?`
+` ......Yes, what about the rose garden?`
 ` It's pouring rain now, so the police probably won't find any contradictions in the crime scene."`
-`"I'll let you think of an excuse for why you and Nii‐san started fighting while you were holding guns in the rainy {ruby:çeviri > gül bahçesi:rose garden}.`
+`"I'll let you think of an excuse for why you and Nii‐san started fighting while you were holding guns in the rainy rose garden.`
 ` ......Don't try to get us and our shares involved just because you want to hide your crime."`
 `"R‐Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
 `"It's not so bad, right?`
@@ -1496,7 +1496,7 @@
 `As far as the size of each person's portion went, no one had anything to gain from an explosion accident.`
 `By doing that, they could conceal Krauss and Natsuhi's deaths.`
 ` There was no other reason to do it.`
-`From Rosa's perspective, the ideal outcome would be for them to confess to their crimes, without any unnecessary {ruby:çeviri > numaralar:tricks}.`
+`From Rosa's perspective, the ideal outcome would be for them to confess to their crimes, without any unnecessary tricks.`
 `All she wanted to do was to change the crime scene from here to a different place.`
 `However, Eva didn't want to be arrested.`
 `She didn't like having her share shrink from 5 billion to 300 million,`
@@ -1561,7 +1561,7 @@
 `".........Dad just used it as show money to gain confidence, and even that was enough to create the rumor called the Legend of the Ushiromiya Gold.`
 ` ......It's impossible to liquidate it.`
 ` A pile of gold you can't use is no better than a pile of shit."`
-`"Ten tons of gold exchanged on the black market. The {ruby:çeviri > halef:successor} and his wife dead in suspicious circumstances.`
+`"Ten tons of gold exchanged on the black market. The successor and his wife dead in suspicious circumstances.`
 ` Expecting that not to attract attention is what's really impossible.`
 ` ......It's better not to get the police involved.`
 ` We'll blow up this island and destroy all the evidence.`
@@ -1747,9 +1747,9 @@
 `"Yep.`
 ` Dad can be such a pain sometimes.`
 ` He suddenly came down from his room.`
-` A bunch of stuff happened, and he suddenly started talking about which grandchild would make the best {ruby:çeviri > halef:successor}."`
-`"......But isn't Uncle Krauss the {ruby:çeviri > halef:successor}?"`
-`"He says that none of us are good enough to be the {ruby:çeviri > halef:successor}.`
+` A bunch of stuff happened, and he suddenly started talking about which grandchild would make the best successor."`
+`"......But isn't Uncle Krauss the successor?"`
+`"He says that none of us are good enough to be the successor.`
 ` ......So, he's talking about skipping us adults and choosing one from you grandchildren instead.`
 ` It's really shaken us up, having this forced on us all of a sudden.`
 ` Aniki and the others are all arguing about it across the room.`
@@ -1762,8 +1762,8 @@
 ` ...........................`
 ` ......Okay, you still there?`
 ` Looks like George‐kun and Jessica‐chan will be the first up to bat.`
-` He wants Jessica‐chan to go to the {ruby:çeviri > salon:parlor} in the {ruby:çeviri > malikane:mansion}.`
-` You're supposed to go out by the {ruby:çeviri > kilise:chapel}."`
+` He wants Jessica‐chan to go to the parlor in the mansion.`
+` You're supposed to go out by the chapel."`
 `"It's so sudden, I hardly feel ready......`
 ` What sort of test is it?"`
 `"It looks like Dad's made some sort of crazy quiz.`
@@ -1775,7 +1775,7 @@
 `Like an interview, they should just have to wait in the reception room and go when they were called.`
 `Why would two people be called to different places at the same time?`
 ` ......The plan didn't seem to make sense, which made George feel as though he was missing something.`
-`"Still, I wonder why he wanted you to go to the {ruby:çeviri > kilise:chapel}, of all places.`
+`"Still, I wonder why he wanted you to go to the chapel, of all places.`
 ` ......It seems your grandfather expects a lot from you.`
 ` I'm not sure what it is, but I think he wants to talk to you about something alone."`
 `"......Grandfather...wants to talk to me?"`
@@ -1789,8 +1789,8 @@
 ` We'll both catch cold if we keep this up."`
 `"............Is that so?`
 ` I see.`
-` Then I'll head towards the {ruby:çeviri > kilise:chapel}.`
-` Jessica‐chan will go to the {ruby:çeviri > salon:parlor}.`
+` Then I'll head towards the chapel.`
+` Jessica‐chan will go to the parlor.`
 ` .........Okay.`
 ` I'll see you in a bit, then."`
 `Just what sort of test, what sort of private conversation could Kinzo want to have at this time of night?`
@@ -1813,8 +1813,8 @@
 ` It's the order of the head of the family, after all.`
 ` Let's obey it.`
 ` ......To start, Jessica‐chan and I are being called out.`
-` I'm going to the {ruby:çeviri > kilise:chapel}.`
-` Jessica‐chan, you're supposed to go to the {ruby:çeviri > salon:parlor} in the {ruby:çeviri > malikane:mansion}."`
+` I'm going to the chapel.`
+` Jessica‐chan, you're supposed to go to the parlor in the mansion."`
 `"What about Maria and me?"`
 `"I think they'll call about you later.`
 ` You can wait here."`
@@ -1831,19 +1831,19 @@
 `"Yes.`
 ` Okay, I'm going.`
 ` I think they're already waiting for us."`
-`"......So, he's making one of his grandkids the {ruby:çeviri > halef:successor}.`
+`"......So, he's making one of his grandkids the successor.`
 ` Sounds just great for me.`
 ` Now I can let one of you guys deal with it!"`
-`"I'm gonna become the {ruby:çeviri > halef:successor}!`
+`"I'm gonna become the successor!`
 ` I wanna do it!`
 ` Uu‐uu‐uu!"`
 `"Ahaha.`
-` It'd be fun to have Maria as the {ruby:çeviri > halef:successor}."`
+` It'd be fun to have Maria as the successor."`
 `"Bye.`
 ` See you later."`
 `Rudolf put down the receiver and stood up.`
 `"Okay.`
-` ......Guess I'm going to the {ruby:çeviri > kilise:chapel}.`
+` ......Guess I'm going to the chapel.`
 ` It's damn cold out there.`
 ` ......Gohda‐san.`
 ` Have some coffee waiting for me when I get back, will you?"`
@@ -1892,7 +1892,7 @@
 ` ......Instead of that, you should be worrying more about the kind of champagne we'll use to toast our victory."`
 `"I'll do that.`
 ` ............Take care, now.`
-` If you really treasure Battler‐kun, don't kill George‐kun in front of the {ruby:çeviri > kilise:chapel}, okay?`
+` If you really treasure Battler‐kun, don't kill George‐kun in front of the chapel, okay?`
 ` It'll be a pain if he finds the corpse."`
 `"......Yeah, I know.`
 ` ......I'll lure him away somehow.`
@@ -1957,21 +1957,21 @@
 `"......Hmph.`
 ` I figured it'd be something like this.`
 ` ......Someone's scheming to show me the game that'd disgust me the most, so they can laugh at me...."`
-`In the games so far, various people have been suspected of being the {ruby:çeviri > suçlu:culprit} or an accomplice.`
+`In the games so far, various people have been suspected of being the culprit or an accomplice.`
 `The only difference now was that Rudolf and Kyrie were those suspects...`
 `However, that was the most aggravating development possible for Ange.`
 `"..........................."`
 `Even Lion was full of painful thoughts.`
-`They had been lucky enough to solve the {ruby:çeviri > kitabe:epitaph}, which was the only miracle that could lead to a game with no victims.`
+`They had been lucky enough to solve the epitaph, which was the only miracle that could lead to a game with no victims.`
 ` ......How ironic that they were unable to prevent the tragedy.`
 `Does this mean that we aren't allowed to have a future where we all happily return from this island alive,`
-` ......even if the {ruby:çeviri > kitabe:epitaph} is miraculously solved before the crime occurs...?`
+` ......even if the epitaph is miraculously solved before the crime occurs...?`
 `There will be...absolutely...no miracles.`
 `......I recalled those words, which I had heard in one of the fragments {f:5:Bernkastel} had shown me......`
 `"{f:5:Bernkastel}‐san......`
 ` You showed me how wonderful my world was...`
 ` ......I don't want to believe that you created this tale just to hurt Ange......"`
-`"......By now, even I realize that you're the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} here.`
+`"......By now, even I realize that you're the Game Master here.`
 ` ......Please, tell me.`
 ` ...Why are you showing us this game...?"`
 `Of course, no one answered Lion's muttered question.`
@@ -1983,8 +1983,8 @@
 ` Just do whatever you want...!`
 ` I won't let something like this get to me!!`
 ` Someday, I'll find out the truth of what happened on October 5th, 1986!!"`
-`After meeting Kyrie in the {ruby:çeviri > salon:parlor}, Jessica was told that the test would be held in the {ruby:çeviri > yemek salonu:dining hall}, and she followed Kyrie there...`
-`".........{ruby:çeviri > Hala:Auntie} Kyrie, there's no one here."`
+`After meeting Kyrie in the parlor, Jessica was told that the test would be held in the dining hall, and she followed Kyrie there...`
+`".........Auntie Kyrie, there's no one here."`
 `"He'll be here soon.`
 ` Sit over there."`
 `"..........................."`
@@ -1992,7 +1992,7 @@
 `Kyrie was by far the calmer of the two.`
 `Kyrie closed the door behind her, revealing the gun that rested behind it.`
 ` Jessica was facing the other way, so she saw nothing......`
-`"......Did you hear anything, {ruby:çeviri > Hala:Auntie} Kyrie?`
+`"......Did you hear anything, Auntie Kyrie?`
 ` You know what kind of test this is?"`
 `"Yes.`
 ` It'll be over soon."`
@@ -2030,7 +2030,7 @@
 ` ......how could he have guessed that something was wrong...?`
 `After all,`
 ` ......his own uncle...`
-`had told him that his grandfather was calling for him from the family {ruby:çeviri > konferans:conference}.`
+`had told him that his grandfather was calling for him from the family conference.`
 ` ......How could he have gotten suspicious......?`
 `"......Sorry 'bout this, George‐kun.`
 ` It hurts, doesn't it?`
@@ -2127,7 +2127,7 @@
 `In that sense, Rudolf's evil smile and laugh...`
 `.........truly were pleasant and graceful......`
 `......And so.`
-`Surely the brutal, bloody stage of the {ruby:çeviri > yemek salonu:dining hall}......was also refreshing.`
+`Surely the brutal, bloody stage of the dining hall......was also refreshing.`
 `A clang.`
 ` A thud.`
 ` A crack, a squish.`
@@ -2160,17 +2160,17 @@
 `However, instead of taking the blood off, it just smeared it around,`
 ` ......and did nothing to remove the stench of blood and death that covered her.`
 `When she got tired of smearing blood over the tablecloth, Kyrie walked over to the extension telephone in the corner of the room.`
-`Then, she dialed the number for the cousins' room in the {ruby:çeviri > konukevi:guesthouse}......`
+`Then, she dialed the number for the cousins' room in the guesthouse......`
 `".........Hello.`
 ` It's me.`
 ` .........It's your turn now, Battler‐kun.`
-` ......You're next to go to the front of the {ruby:çeviri > kilise:chapel}.`
+` ......You're next to go to the front of the chapel.`
 ` ............Yes, that's right.`
 ` I haven't been given any instructions about Maria‐chan.`
 ` Have her wait there.`
 `.........*giggle*.`
 ` Yes, take it seriously.`
-` ......I'm rooting for you to be chosen as the {ruby:çeviri > halef:successor}."`
+` ......I'm rooting for you to be chosen as the successor."`
 `With the same smile as usual and the partly‐wiped splashes of blood still covering her face, ......Kyrie finished her call to Battler.`
 `When she set down the receiver, there was a small knock, and Rudolf came back into the room.`
 `".........Whoa, what a mess."`
@@ -2203,11 +2203,11 @@
 ` ......But, if you really want Battler‐kun to join in on that, ......good luck."`
 `"Sure.`
 ` .........I'm not gonna give him the room to argue back.`
-` Don't worry, I've worked out a scenario to {ruby:çeviri > numara:trick} him good."`
+` Don't worry, I've worked out a scenario to trick him good."`
 `"Good luck.`
 ` I do hope for Ange's beloved big brother not to get caught up in an explosion accident if it can be avoided."`
 `"I know.`
-` Alright, I'm heading back to the {ruby:çeviri > kilise:chapel}."`
+` Alright, I'm heading back to the chapel."`
 `"Rudolf‐san."`
 `"What...?"`
 `".........If Battler‐kun doesn't buy it..."`
@@ -2228,7 +2228,7 @@
 ` .........So, Kyrie,`
 ` promise me one thing."`
 `"What's that...?"`
-`"If.........I can {ruby:çeviri > numara:trick} Battler, and the three of us make it off this island..."`
+`"If.........I can trick Battler, and the three of us make it off this island..."`
 `".........Yes?"`
 `"..............................`
 ` ......Never say that Battler isn't your kid again.`
@@ -2237,24 +2237,24 @@
 `".....................`
 ` ......Sure, I promise."`
 `Kyrie shrugged and answered as she loaded bullets.`
-`"You go to the {ruby:çeviri > kilise:chapel}.`
-` I'll wait until Battler‐kun has left, and then clean up everything inside the {ruby:çeviri > konukevi:guesthouse}."`
+`"You go to the chapel.`
+` I'll wait until Battler‐kun has left, and then clean up everything inside the guesthouse."`
 `"Sure you'll be alright doing that alone?"`
 `"You worry about yourself."`
-`Battler left the {ruby:çeviri > konukevi:guesthouse} under an umbrella.`
-`He had been called to the area in front of the {ruby:çeviri > kilise:chapel}, just like George had been.`
+`Battler left the guesthouse under an umbrella.`
+`He had been called to the area in front of the chapel, just like George had been.`
 `Not even half an hour had passed since the time George and Jessica had been called out.`
 ` ......Apparently, this test didn't last too long.`
 `"......Damn geezer.`
 ` You didn't even show up for lunch, and now you show up in the middle of a night with a test.`
 ` ......I'll bet living as a shut‐in's got his sense of day and night all backwards."`
 `Complaining all the way, Battler strolled off into the rain.`
-`Almost immediately, he was swallowed up by the darkness of the {ruby:çeviri > gül bahçesi:rose garden} and passed out of sight......`
+`Almost immediately, he was swallowed up by the darkness of the rose garden and passed out of sight......`
 `.........And then...`
-`Kyrie could be seen coming out from the darkness of the {ruby:çeviri > gül bahçesi:rose garden}.`
+`Kyrie could be seen coming out from the darkness of the rose garden.`
 `Her right hand held a gun.`
 ` Her left an umbrella.`
-`Her inner pocket contained the {ruby:çeviri > master anahtar:master key} ring she had stolen from Gohda.`
+`Her inner pocket contained the master key ring she had stolen from Gohda.`
 `Her right pocket had a handful of bullets.`
 ` Her left held a knife she had taken from the kitchen.`
 `She was a carefully and perfectly outfitted murderer.`
@@ -2263,9 +2263,9 @@
 `Her cheek......was still covered with Jessica's blood......`
 `Under the eaves, Kyrie folded up her umbrella, smiled, and spoke to no one.`
 `"How's it going, everyone?"`
-`Rudolf could be seen under the eaves of the {ruby:çeviri > kilise:chapel}.`
+`Rudolf could be seen under the eaves of the chapel.`
 `{n}He had hidden his gun in the nearby shadows and was now smoking a cigarette...`
-`".........Should be easy to {ruby:çeviri > numara:trick} that dimwit.`
+`".........Should be easy to trick that dimwit.`
 ` ......And if it doesn't work, that's just too bad."`
 `He glanced over at the place he had stowed his gun.`
 `{n}The cigarette smoke began to pleasantly cloud his mind.`
@@ -2283,7 +2283,7 @@
 `"......He's still not here.`
 ` .........What's taking him so long?"`
 `At that moment, he heard the sound of someone stepping on gravel.`
-`He looked up, thinking that Battler had finally arrived, ......but the sound had come from the direction opposite of the {ruby:çeviri > malikane:mansion}.`
+`He looked up, thinking that Battler had finally arrived, ......but the sound had come from the direction opposite of the mansion.`
 `"...........................!"`
 `"......Rudolf.........`
 ` ...How could you...`
@@ -2321,14 +2321,14 @@
 `"...............Agh,`
 ` ..................nggg........."`
 `".........Rudolf...`
-` I've always been able to see through your {ruby:çeviri > numaralar:tricks}...!!"`
+` I've always been able to see through your tricks...!!"`
 `The bullet Eva fired had struck Rudolf square in the chest.`
 `{n}The bullet Rudolf fired had missed, landing near Eva's feet.`
 `"Guess I was right...`
 ` This gun...`
 `......does shoot...`
 `...low......"`
-`He dropped the gun into a puddle with a splash, staggered backwards, and leaned against the wall of the {ruby:çeviri > kilise:chapel}.`
+`He dropped the gun into a puddle with a splash, staggered backwards, and leaned against the wall of the chapel.`
 `"Nah, that's not it......`
 ` .........All good westerns end......with the bad guy's bullet missing......"`
 `Eva dashed up to him, kicked away the gun that had fallen into a puddle, and grabbed Rudolf by the collar.`
@@ -2344,7 +2344,7 @@
 `"...............R‐`
 `......Rudolf......`
 `...you............"`
-`Eva, who said she had always been able to see through her little brother's {ruby:çeviri > numaralar:tricks},`
+`Eva, who said she had always been able to see through her little brother's tricks,`
 ` ......also knew that Rudolf's final words, as his consciousness began to fade from having been shot, were not a lie.`
 `"How could you...... .........George... Geoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!!"`
 `An empty shell casing bounced off the cobblestone.`
@@ -2352,7 +2352,7 @@
 `".........Go ahead and shoot.`
 ` ......I doubt that'll bring you much peace though."`
 `A bolt of lightning turned everything white.`
-`{n}However, the wall of the {ruby:çeviri > kilise:chapel}......was stained blood red.`
+`{n}However, the wall of the chapel......was stained blood red.`
 `A red splash like a crushed tomato covered the wall behind Rudolf's head......`
 `Then, leaving a red trail behind him,`
 ` ......Rudolf slid down the wall,`
@@ -2392,7 +2392,7 @@
 ` conveying a single message over several games.`
 `But we already understand.`
 ` We know that endless tales can seep out of the sealed, two‐day cat box.`
-`And beyond that, I even know the {ruby:çeviri > suçlu:culprit} and the motive.`
+`And beyond that, I even know the culprit and the motive.`
 ` That has already been revealed, and it has nothing to do with this game.`
 `"We both know the answer, that this is a cat box tale...!`
 ` So, there shouldn't be any reason to hold further games like this...!!`
@@ -2404,7 +2404,7 @@
 `".........There is a point.`
 ` If you just watch, you'll see it.`
 ` ......*giggle*giggle*."`
-`"Are you the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?!"`
+`"Are you the Game Master...?!"`
 `"......Not at all."`
 `"Then who is it?!`
 ` Could it be.........Clair...?"`
@@ -2414,18 +2414,18 @@
 `"The tragedy is already reaching its climax.`
 ` Who'll survive, I wonder?`
 ` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......"`
-`{f:5:Bernkastel} isn't the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}...?`
+`{f:5:Bernkastel} isn't the Game Master...?`
 `Then who is?`
 `{n}Could Clair have created this cruel tale......?`
 `Or are there even more witches playing around with this cat box......?`
-`The {ruby:çeviri > konukevi:guesthouse}......was wrapped in silence.`
+`The guesthouse......was wrapped in silence.`
 `There were no sounds.`
 `No trace of anyone's presence.`
 ` No breathing from anyone alive.`
 `There wasn't anything to be heard anymore......`
 `If there was a sound...`
 `{n}Then that would be only the sound of a murderer's feet stepping across the floor......`
-`Kyrie slowly passed through the {ruby:çeviri > bekleme salonu:lounge}.`
+`Kyrie slowly passed through the lounge.`
 `In her right hand...was a gun.`
 `{n}In her left hand...was a knife.`
 `The knife was stained with blood, and some was still dripping from the tip,`
@@ -2442,9 +2442,9 @@
 ` In a few days, the newspapers will be talking about an unfortunate accident.`
 ` ......And I'm sure the news shows, newspapers, and all the rumor‐spreading people will say that you must have spent your time in happy ignorance until the instant of the accident.`
 ` ......In other words, that'll mean you all had a good time until midnight on October 5th."`
-`So said the one who had stained the {ruby:çeviri > konukevi:guesthouse} red.`
+`So said the one who had stained the guesthouse red.`
 `"At this hour, the cousins are all staying up late and playing around.`
-` ......The {ruby:çeviri > hizmetkarlar:servants} who have the morning shift are all snoring.`
+` ......The servants who have the morning shift are all snoring.`
 ` The ones on the late shift are probably filling in the log or taking a break about now."`
 `".........That's how it is.`
 ` From where I am now, I can hear the laughter coming from the cousins' room.`
@@ -2468,10 +2468,10 @@
 ` How could I have missed you from that distance?"`
 `"I'm just as surprised.`
 ` I still can't believe I survived."`
-`"......You came here from the underground stairway behind the {ruby:çeviri > kilise:chapel}, right?`
+`"......You came here from the underground stairway behind the chapel, right?`
 ` ......In that case—"`
 `"That's right.`
-` I bumped into Rudolf in front of the {ruby:çeviri > kilise:chapel}!"`
+` I bumped into Rudolf in front of the chapel!"`
 `"Did he look well?"`
 `"Oh, yes.`
 ` It's been a while since we siblings had a nice chat."`
@@ -2487,7 +2487,7 @@
 ` I'm grateful.`
 ` Now I really can have everything to myself."`
 `"What's that blood on your clothes...?`
-` You just came out of the {ruby:çeviri > konukevi:guesthouse}, didn't you......?`
+` You just came out of the guesthouse, didn't you......?`
 ` ......Don't tell me......"`
 `"Yes, that's right.`
 ` ......I'm in the middle of a murder right now."`
@@ -2590,7 +2590,7 @@
 ` You should thank me for having George‐kun killed for you."`
 `"Y‐......you.........monstee{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!"`
 `"Ahhah{0}ha{0}ha{0}ha{0}hah{0}ha{0}a{0}ahh{0}hyah{0}ha{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"`
-`The two yells...and the sound of gunfire......thundered across the dark {ruby:çeviri > gül bahçesi:rose garden}.`
+`The two yells...and the sound of gunfire......thundered across the dark rose garden.`
 `......Slowly, Eva fell backwards.`
 `Then, she landed in a puddle, ......scattering countless drops of water.`
 `Across from her, Kyrie spun around as though dancing.`
@@ -2627,15 +2627,15 @@
 `"Ange, ...please, calm down...!`
 ` This is just a game...!`
 ` That couldn't possibly be what your mother truly feels...!`
-` It's just something that the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} made Aunt Kyrie's piece say...!!"`
+` It's just something that the Game Master made Aunt Kyrie's piece say...!!"`
 `But saying that did nothing to calm Ange's sobs.`
 `I don't blame her.`
 ` Even if she knows it's just a game, ......she's been forced to see not only her mother's death,`
-` ......but also her mother announcing that she was the {ruby:çeviri > suçlu:culprit} of a mass murder, who didn't even love her daughter.`
+` ......but also her mother announcing that she was the culprit of a mass murder, who didn't even love her daughter.`
 ` Anyone would sob after hearing that...`
 `"{f:5:Bernkastel}‐san!!`
 ` Enough of this!!`
-` I don't care who the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} is!!`
+` I don't care who the Game Master is!!`
 ` Stop this pointless game right now!!"`
 `When Lion yelled this, the theater suddenly went pitch‐black, swallowed in darkness.`
 `However, that wasn't enough to shock Lion.`
@@ -2643,7 +2643,7 @@
 `Then, a single beam of light shone down upon the stage.`
 `There......was Clair, the one who had appeared for just a second right before this cruel game began.`
 `"Clair...!!`
-` So, ......you were the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} after all?!`
+` So, ......you were the Game Master after all?!`
 ` ......I don't understand! Why?!"`
 `Clair didn't answer.`
 `......In fact, ......it looked as though she hadn't even heard.`
@@ -2657,9 +2657,9 @@
 `{f:5:Bernkastel} raised her right hand in response to the applause.`
 `{n}She kept doing so until the applause died down......`
 `"{f:5:Bernkastel}‐san!!`
-` So, ......you were the {ruby:çeviri > Efendi:Master} of this game after all...!!"`
+` So, ......you were the Master of this game after all...!!"`
 `"......Lion.`
-` How many times do I have to tell you that I'm not the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?"`
+` How many times do I have to tell you that I'm not the Game Master?"`
 `"Then are you saying it's Clair?!`
 ` That's impossible...!!"`
 `"Yep.`
@@ -2698,12 +2698,12 @@
 ` You think......I'll sit around crying any longer because of this disgusting game of yours?!!"`
 `"......Both you and Lion...`
 `seem to have the wrong idea.`
-` I'm not the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
+` I'm not the Game Master.`
 ` This tale is not one that I created."`
-`"Then that woman in the dress is the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?!"`
+`"Then that woman in the dress is the Game Master?!"`
 `"No, she isn't...!`
 ` That can't be!`
-` Then who's the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}?!`
+` Then who's the Game Master?!`
 ` Who created this disgusting tale?!!"`
 `"You still don't understand?"`
 `"What don't we understand?!!"`
@@ -2745,10 +2745,10 @@
 `"......You don't............mean......"`
 `Lion realized what {f:5:Bernkastel} was getting at.`
 `And because of that, ......Lion was too shocked to speak......`
-`The {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} isn't {f:5:Bernkastel} or Clair.`
+`The Game Master isn't {f:5:Bernkastel} or Clair.`
 `Then who is it......?`
 `That's the wrong question.`
-` There is.........no {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}.`
+` There is.........no Game Master.`
 `That could mean only one thing......`
 `"Ange.`
 ` You still don't understand?"`
@@ -2771,7 +2771,7 @@
 `Then, a strange message bottle was picked up and became a topic of conversation.`
 `It contained a bizarre story, one which told of a mysterious serial murder related to the gold on Rokkenjima.`
 `Everyone rejected the explosion accident theory and started to think up conspiracy theories.`
-`Some of those theories named Eva as the {ruby:çeviri > suçlu:culprit}, which tormented her even more.`
+`Some of those theories named Eva as the culprit, which tormented her even more.`
 `But Eva used even that to create the cat box.`
 `And until the moment of her death, she protected it.`
 `{n}She protected the lock that held the cat box shut.`
@@ -2780,7 +2780,7 @@
 `"This is the truth."`
 `"...............You're lying......`
 ` ......You're lying......lying...!!`
-` If this was actually true, you'd be able to say it using the {ruby:çeviri > kırmızı gerçek:red truth}!!`
+` If this was actually true, you'd be able to say it using the red truth!!`
 ` But you can't, of course you can't!!`
 ` Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh!!!"`
 `"Ange...!!`
@@ -2790,7 +2790,7 @@
 `All over her body, ......a red, gooey liquid started to seep out.`
 `It was as though cracks had opened up all over her and blood was leaking out of all of them.`
 `"What's that?`
-` You want me to announce it clearly with the {ruby:çeviri > kırmızı gerçek:red truth}?`
+` You want me to announce it clearly with the red truth?`
 ` Then I'll do that, just for you."`
 `{a:c:`
 `"‘{p:1:This is all truth}`
@@ -2798,7 +2798,7 @@
 `{a:c:`
 `"NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"`
 `}`
-`Ange's scream covered up Bern's {ruby:çeviri > kırmızı gerçek:red truth}.`
+`Ange's scream covered up Bern's red truth.`
 `"*giggle*giggle*giggle*,`
 ` ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
 ` Stupid kid.`
@@ -2865,15 +2865,15 @@
 ` ......Let me show you just a bit more of this tale of the truth."`
 `"I'm not interested!"`
 `"Don't worry, it'll be very interesting.`
-` ......After the duel between Eva and Kyrie, the {ruby:çeviri > konukevi:guesthouse} is wrapped in silence.`
-` Let me invite you to the {ruby:çeviri > salon:parlor} at that point in time."`
-`"The {ruby:çeviri > salon:parlor}......?`
-` The one in the {ruby:çeviri > malikane:mansion}?"`
-`{f:5:Bernkastel} snapped her fingers, and the scene of the {ruby:çeviri > malikane:mansion}'s {ruby:çeviri > salon:parlor} unfolded before them.`
-`In the cruel tale they had just been shown, the {ruby:çeviri > salon:parlor} hadn't been particularly important.`
-`Jessica had been summoned to the {ruby:çeviri > salon:parlor}, but she was then immediately led to the {ruby:çeviri > yemek salonu:dining hall} and killed there.`
-`So, there had been nothing in the {ruby:çeviri > salon:parlor}.`
-`{n}And, right now, there was nothing in the {ruby:çeviri > salon:parlor} that appeared before Lion.`
+` ......After the duel between Eva and Kyrie, the guesthouse is wrapped in silence.`
+` Let me invite you to the parlor at that point in time."`
+`"The parlor......?`
+` The one in the mansion?"`
+`{f:5:Bernkastel} snapped her fingers, and the scene of the mansion's parlor unfolded before them.`
+`In the cruel tale they had just been shown, the parlor hadn't been particularly important.`
+`Jessica had been summoned to the parlor, but she was then immediately led to the dining hall and killed there.`
+`So, there had been nothing in the parlor.`
+`{n}And, right now, there was nothing in the parlor that appeared before Lion.`
 `"Just what is supposed to be here?"`
 `"*giggle*.`
 ` ......As you can see, there's nothing here.`
@@ -2920,13 +2920,13 @@
 ` Why would I be dead here?!!"`
 `"In your world,`
 ` on October 4th, 1986,`
-` Beatrice's funeral was held just before the family {ruby:çeviri > konferans:conference}."`
+` Beatrice's funeral was held just before the family conference."`
 `"Yes, I know that.`
 ` And for me, that happened today, a short while ago!"`
 `"From that time until late that night, do you know what happened...?"`
 `"Nothing at all!!`
 ` The cousins are all going to play together, and the whole family will have dinner together!"`
-`"Then, that night, the family {ruby:çeviri > konferans:conference} took place.`
+`"Then, that night, the family conference took place.`
 ` .........You were going to succeed the headship when you turned twenty, right?`
 ` Was the entire family satisfied with that, I wonder...?"`
 `".........I don't know if they're satisfied, but the decision has been made.`
@@ -2937,14 +2937,14 @@
 ` Of course, his children wouldn't have been happy with that."`
 `The siblings objected to having Lion succeed the headship.`
 `Even Krauss joined in, saying that Lion was still too young.`
-`Then, on the night of the family {ruby:çeviri > konferans:conference}, Kinzo tried proposing a difficult riddle......`
+`Then, on the night of the family conference, Kinzo tried proposing a difficult riddle......`
 `"You.........don't mean..............."`
 `"That's right.`
-` The riddle of the {ruby:çeviri > kitabe:epitaph}.`
-` .........As you can tell by the mechanism set into the {ruby:çeviri > kilise:chapel}, Kinzo thought up the {ruby:çeviri > kitabe:epitaph} {ruby:çeviri > numara:trick} near the beginning, when the {ruby:çeviri > malikane:mansion} on Rokkenjima was being built.`
+` The riddle of the epitaph.`
+` .........As you can tell by the mechanism set into the chapel, Kinzo thought up the epitaph trick near the beginning, when the mansion on Rokkenjima was being built.`
 ` ......He had the romantic idea of someday using it as a test to select the next head."`
-`Kinzo decided to present that riddle at the family {ruby:çeviri > konferans:conference}.`
-`Did he plan to give the position of {ruby:çeviri > halef:successor} to the person who solved it?`
+`Kinzo decided to present that riddle at the family conference.`
+`Did he plan to give the position of successor to the person who solved it?`
 ` Or did he promise to reconsider Lion's position as the head if it was solved?`
 `Either way, Kinzo was confident.`
 `He was confident that no one would be able to solve this tough riddle, which he had created himself.`
@@ -2954,11 +2954,11 @@
 `"Then, Kyrie and Rudolf carried out the late night murders to prevent any chance of the crime being discovered the next morning and an outcry being raised.`
 ` .........They called the kids out from the cousins' room one by one, then killed them."`
 `"......As the first of the cousins, you were the first to be called out.`
-` Then, Kyrie shot you dead right here in the {ruby:çeviri > salon:parlor}."`
+` Then, Kyrie shot you dead right here in the parlor."`
 `".........No, that's not quite right.`
 ` You're the Ushiromiya Lion from the early evening of October 4th, 1986.`
 ` So, I'll say it this way.`
-` ......Tonight, Kyrie will shoot you dead in the {ruby:çeviri > salon:parlor}."`
+` ......Tonight, Kyrie will shoot you dead in the parlor."`
 `"That's............insane............`
 ` It's—that's right, probability!"`
 `"Just like the miracle called Lion only has a slight probability of arising from Clair,`
@@ -3045,14 +3045,14 @@
 `"This body isn't even capable of love......!!`
 ` What's...what's the point in living like that?!`
 ` This isn't a {y:0:Human}{n:0:human}'s life...!!`
-` It's like being {ruby:çeviri > mobilya:furniture}!!"`
-`"That's right, I'm...{ruby:çeviri > mobilya:furniture}......!!`
-` {ruby:çeviri > Mobilya:Furniture}...!!`
+` It's like being furniture!!"`
+`"That's right, I'm...furniture......!!`
+` Furniture...!!`
 ` Why, .........why didn't you let me die back then?!!`
 ` Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh......!!!"`
 `"..................Huh—"`
 `When I came to,`
-` ......I was in the {ruby:çeviri > salon:parlor} of the {ruby:çeviri > malikane:mansion}.`
+` ......I was in the parlor of the mansion.`
 `When did I get here?`
 `......I heard a sound behind me, then slowly turned around......`
 `And there...............`
@@ -3200,8 +3200,8 @@
 ` ......Loud cheers erupted from the pitch‐black audience seating.`
 `On either side of Clair, who lay with her insides exposed,`
 ` ......stood Will, with his pitch‐black sword, and {f:5:Bernkastel}, with the scythe that could harvest miracles from fate.`
-`"Kyrie and Rudolf are the {ruby:çeviri > suçlular:culprits}, and they massacred the people on the island?`
-` They called Lion out to the {ruby:çeviri > salon:parlor}, then shot Lion to death?`
+`"Kyrie and Rudolf are the culprits, and they massacred the people on the island?`
+` They called Lion out to the parlor, then shot Lion to death?`
 ` Sorry, but the concept of mysteries rejects this "truth" of yours.`
 ` This is all fantasy."`
 `"Fantasy?`
@@ -3214,8 +3214,8 @@
 `However, it had no effect, ......like cutting the reflection of the moon on the water.`
 `"What's this?`
 ` What do you mean by "clues"?"`
-`"I won't accept your "mystery" with Kyrie and Rudolf as the {ruby:çeviri > suçlular:culprits}.`
-` ......You won't find clues showing that they're the {ruby:çeviri > suçlular:culprits} no matter which game you look at."`
+`"I won't accept your "mystery" with Kyrie and Rudolf as the culprits.`
+` ......You won't find clues showing that they're the culprits no matter which game you look at."`
 `"Of course you won't.`
 ` Even if they did exist at one point, the whole island blew up."`
 `"Which means there aren't any clues.`

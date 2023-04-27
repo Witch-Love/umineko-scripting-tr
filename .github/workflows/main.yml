@@ -21,7 +21,7 @@ jobs:
 
       - name: Script Check
         run: |
-          php update-manager/update-manager.php script-check mt || exit 1
+          php update-manager/update-manager.php script-check tr || exit 1
 
       - name: Compile
         run: |
@@ -35,7 +35,7 @@ jobs:
           if [ "$LAST" == "" ]; then LAST=1; fi
           if [ -f current/last_en ]; then LAST_EN=$(<current/last_en); else LAST_EN="$LAST" ; fi
           php update-manager/update-manager.php dscript "ciout/en.txt" . en ${BUILD} || exit 1
-          php update-manager/update-manager.php dscript "ciout/tr.txt" . mt ${BUILD} || exit 1
+          php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php genhash misc/game.hash "extra/tr/files/" "extra/tr/main/game_tr.hash"

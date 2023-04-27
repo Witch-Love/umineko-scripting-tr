@@ -1,7 +1,7 @@
 `"Where are you, {f:5:Beatrice}!!`
 ` Show yourself!!`
 ` {f:5:Beatriceee}!!"`
-`Rosa finally arrived at the {ruby:çeviri > kilise:chapel}.`
+`Rosa finally arrived at the chapel.`
 ` She pointed her gun around her, screaming the witch's name, but there was no way there would be an answer.`
 `After grimacing slightly, she noisily approached the table where her siblings' corpses were still exposed, and stretched out her arm towards the gold ingots.`
 `They were very heavy, but Rosa paid that no regard.`
@@ -12,7 +12,7 @@
 `{n}...Her shoulders were screaming, but Rosa didn't care.`
 `"......Kihihihihihihihihihihihihihihihihi.`
 ` It will happen very soon.`
-` ......Very soon, the door to the {ruby:çeviri > Altın Diyar:Golden Land}...will open."`
+` ......Very soon, the door to the Golden Land...will open."`
 `"Stop laughing with that creepy voice!!`
 ` Where is {f:5:Beatrice}?!`
 ` Yes, I know it, she's around here somewhere, isn't she?!`
@@ -20,7 +20,7 @@
 ` Where?!"`
 `"Kihihihihihihihihihihihi.`
 ` I dooon't knowww.`
-` Even if you don't search for her, you can meet her in the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` Even if you don't search for her, you can meet her in the Golden Land.`
 ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
 ` ouch."`
 `"Stop that laugh!!`
@@ -33,7 +33,7 @@
 ` Come out, show yourself!!`
 ` {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"`
 `"I told you, she'll appear very soon.`
-` The door to the {ruby:çeviri > Altın Diyar:Golden Land} will be opened.`
+` The door to the Golden Land will be opened.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
 `"............Of course.`
 ` That's what I should have done!`
@@ -56,7 +56,7 @@
 `"Shall we go, it is time.`
 ` ......Stand, Battler.`
 ` It is the beginning of the banquet to celebrate my revival."`
-`"I'll introduce you as my new {ruby:çeviri > mobilya:furniture}, ...no, as my toy.`
+`"I'll introduce you as my new furniture, ...no, as my toy.`
 ` To the dignitaries among witches."`
 `The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.`
 `...However, the footrest wasn't a part of the sofa, ......it was a {y:0:Human}{n:0:human}.`
@@ -79,21 +79,21 @@
 ` ...{f:5:Beatrice}, I will see you later."`
 `"Indeed."`
 `Kinzo and Genji left the study.`
-`{n}After that, only the witch and the dress and the {ruby:çeviri > mobilya:furniture} remained.`
+`{n}After that, only the witch and the dress and the furniture remained.`
 `".........Do you know why I am not embarrassed to show myself to you naked...?"`
 `"..........................."`
-`"It's because you are {ruby:çeviri > mobilya:furniture}.`
+`"It's because you are furniture.`
 ` Furrrrniture.`
 ` Understand?`
-` {ruby:çeviri > Mobilya:Furniture}, just furrrrniture!"`
-`"Who would feel shame at exposing their body to {ruby:çeviri > mobilya:furniture}?`
+` Furniture, just furrrrniture!"`
+`"Who would feel shame at exposing their body to furniture?`
 ` So there is no reason for me to feel shame because of you.`
 ` ...*cackle*cackle*cackle*cackle*cackle*!"`
 `The witch stood up, and removed her jacket just at the shoulders.`
 `{n}......The jacket slumped down at the back.`
-`When the {ruby:çeviri > mobilya:furniture} respectfully approached to pick up her clothing, the witch gave it a small kick and it fell over.`
-`...The {ruby:çeviri > mobilya:furniture} was afraid of what misconduct it had shown...`
-`"Do you, as {ruby:çeviri > mobilya:furniture}, plan to force me to unbutton myself?"`
+`When the furniture respectfully approached to pick up her clothing, the witch gave it a small kick and it fell over.`
+`...The furniture was afraid of what misconduct it had shown...`
+`"Do you, as furniture, plan to force me to unbutton myself?"`
 `"......Stand.`
 ` And undo the buttons.`
 ` ...One by one, carefully.`
@@ -107,7 +107,7 @@
 ` Those buttons are each worth more than one of your eyeballs.`
 ` ...If you accidentally tear one off, I'll sew on an eyeball of yours in its place...`
 ` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!"`
-`The {ruby:çeviri > giriş:entrance hall} was bustling with a large number of figures.`
+`The entrance hall was bustling with a large number of figures.`
 `{n}And it was sparkling gold with the gold butterflies flying around.`
 `The gentlemen in suits and tuxedos and the ladies in dresses looked like they were having a great number of friendly chats.`
 ` At a glance, it might have looked like a fabulous medieval ball.`
@@ -126,22 +126,22 @@
 ` I ask you all to join me in welcoming her with your applause."`
 `When Genji began to applaud, it quickly spread through the guests, and became thunderous applause.`
 `And.........the Golden Witch appeared at the top of the large staircase...`
-`She gracefully waved her hand as she slowly descended the staircase...with her preferred {ruby:çeviri > mobilya:furniture} in tow...`
+`She gracefully waved her hand as she slowly descended the staircase...with her preferred furniture in tow...`
 `The goat nobles offered unanimous words of celebration in some long‐forgotten language.`
 `And those with whom she was closely acquainted embraced her, filled with joy at their reunion.`
-`As the witch offered greetings of reunion, ...the witch's {ruby:çeviri > mobilya:furniture} followed behind her the whole time.`
+`As the witch offered greetings of reunion, ...the witch's furniture followed behind her the whole time.`
 `.........There was a chain around its neck.`
 `{n}This was gripped in the witch's hand, like it was a trained dog.`
 `The chain wasn't there to restrain it.`
-`{n}...The only purpose of the restraining device was to injure the {ruby:çeviri > mobilya:furniture}'s dignity...`
+`{n}...The only purpose of the restraining device was to injure the furniture's dignity...`
 `It wasn't permitted to wear anything else on its body.`
 `One of the young woman goats, mixed in with the goat nobles,`
-` softly removed her goat mask as the {ruby:çeviri > mobilya:furniture} passed in front of her, and spoke with eyes that had no light in them.`
+` softly removed her goat mask as the furniture passed in front of her, and spoke with eyes that had no light in them.`
 `That face...looked like it belonged to a long‐haired young girl...`
 `"...............How pitiful."`
 `"Ohh, Lady {f:5:Bernkastel}.`
 ` Welcome.`
-` Do you like my {ruby:çeviri > mobilya:furniture}?"`
+` Do you like my furniture?"`
 `".........Good taste."`
 `After saying only that, the witch called {f:5:Bernkastel} once again put on her goat mask,`
 ` and was swallowed up in the shadows of the other tall goats...`
@@ -164,7 +164,7 @@
 ` Open the golden door............!!!"`
 `All at once, the butterflies leafed in gold flew all around the inside of the room.`
 `Amidst the golden storm and the brilliant gold‐colored light, the cross‐section joining this world and a different world......was cut open......`
-`Amidst the goats' delighted voices, the {ruby:çeviri > malikane:mansion} of the human world and the {ruby:çeviri > malikane:mansion} of those not human overlapped,`
+`Amidst the goats' delighted voices, the mansion of the human world and the mansion of those not human overlapped,`
 ` ......and, in the form of golden butterflies, all those folk who praised the resurrection of the Golden Witch...`
 `...poured out of the depths of hell...`
 `It was...a golden...tornado.`
@@ -176,7 +176,7 @@
 ` drink and eat and sing and dance,`
 ` sneer and kill and desecrate and degrade!!`
 `"Aaaaaahh, {f:5:Beatrice}!!`
-` Take me to the {ruby:çeviri > Altın Diyar:Golden Land} now!`
+` Take me to the Golden Land now!`
 ` To the Golden Laaaaa{-}a{-}a{-}a{-}a{-}a{-}aaaand!!!`
 ` Oooo{0}o{0}o{0}o{0}ooohhh{0}h{0}hhhhh, aaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhh!!!"`
 `The goat nobles were suddenly crushing in around Kinzo.`
@@ -194,40 +194,40 @@
 `If you took the bones home, you could also use them for a soup,`
 ` and the remains could even become toys for the children to play with,`
 ` and they could also become good tools for fortune‐telling that always gave misfortune!`
-`That entire scene, ......was watched by the piece of {ruby:çeviri > mobilya:furniture}.`
+`That entire scene, ......was watched by the piece of furniture.`
 `{n}It was all fantastical.`
 ` ...It was all demonic.`
 `...Was the quaking of its heart, which should have been paralyzed, ...proof that it could still feel fear?`
-`Just then, its knees buckled, and the {ruby:çeviri > mobilya:furniture}'s body tumbled onto the center of the carpet.`
+`Just then, its knees buckled, and the furniture's body tumbled onto the center of the carpet.`
 `Because the witch had kicked those knees from behind.`
 `"Kneel and show your respect.`
 ` Rub your forehead against the carpet and show how vulgar you are.`
 ` Join your hands behind your back and swear that you will offer all your flesh and blood to me."`
 `"..................u............ah........."`
-`The piece of {ruby:çeviri > mobilya:furniture} let out a painful voice.`
+`The piece of furniture let out a painful voice.`
 `...Fear is the most primal emotion {y:0:Human}{n:0:human}s have.`
 `{n}...Was that emotion reviving his sense of self, which should already have been killed?`
 `".........Hmph.`
-` So, you are still far from being appropriate for my {ruby:çeviri > mobilya:furniture}."`
+` So, you are still far from being appropriate for my furniture."`
 `"Good!`
-` I will carefully make you into the kind of {ruby:çeviri > mobilya:furniture} I like, the kind appropriate only for me.`
+` I will carefully make you into the kind of furniture I like, the kind appropriate only for me.`
 ` ...I suppose the best you can do for now is simply entertaining the guests!"`
-`The goat nobles were surrounding the cowering {ruby:çeviri > mobilya:furniture}...`
+`The goat nobles were surrounding the cowering furniture...`
 `{n}It seemed that their blazing, blood‐red eyes couldn't hide their ecstasy at this new young food that they had been given.`
 `And from their mouths, from which protruded countless ugly teeth, saliva,`
 ` ...or maybe the traces of meat and wine that they had just eaten, dribbled down...`
 `".........e............eeeeeeeeeeeeeeeeeeeeeeeeeek!!"`
-`As the piece of {ruby:çeviri > mobilya:furniture} let out a wild scream, it retreated, still sitting on its backside.`
+`As the piece of furniture let out a wild scream, it retreated, still sitting on its backside.`
 `...But the circle of goat nobles was closing in...`
-`And the piece of {ruby:çeviri > mobilya:furniture} looked at the witch's face.`
+`And the piece of furniture looked at the witch's face.`
 ` ...It stared at her face one final time, believing that because it had submitted to the witch, she would show it some mercy.`
 `But there was nothing but scorn on the witch's face, and she wasn't even facing it anymore.`
 `The witch went off to greet an honored guest with whom she had crossed gazes...`
-`The goat nobles looked down upon the {ruby:çeviri > mobilya:furniture}.`
+`The goat nobles looked down upon the furniture.`
 `They were, in fact, waiting.`
 `Just like how one must remove the cork in order to drink champagne,`
 ` before bringing the offering served at the banquet to their mouths, they were waiting for just one of {i:those}.`
-`Of course, the {ruby:çeviri > mobilya:furniture} didn't know what that was.`
+`Of course, the furniture didn't know what that was.`
 `...But it would come out of his mouth all by itself.`
 ` In the same way there is always a pop when the cork is removed, it too would certainly leave his mouth.`
 `"...G...`
@@ -242,7 +242,7 @@
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaah...!!!"`
 `Gapupogyugukigukiboryu.`
-`By now the {ruby:çeviri > gül bahçesi:rose garden} was a garden of roses and gold.`
+`By now the rose garden was a garden of roses and gold.`
 ` A gold‐colored garden where gold butterflies, gold fairies, gold lizards rampaged and flew about wildly.`
 `"Maria, hurry!!`
 ` Run!!`
@@ -250,7 +250,7 @@
 `Holding onto the gun and the blanket wrapping the ingot,`
 ` Rosa ran at a speed Maria couldn't catch up with, sometimes pausing to call out at Maria to run faster.`
 `Therefore, she saw it every time.`
-`{n}...She saw the golden pursuers chasing them from the {ruby:çeviri > malikane:mansion}!`
+`{n}...She saw the golden pursuers chasing them from the mansion!`
 `The mass of gold butterflies was chasing after them like a massive crawling hand!!`
 ` And horrifyingly strange‐looking shadowy figures with goat heads were chasing after them...!!`
 `There was no need for her to strain her eyes.`
@@ -331,7 +331,7 @@
 `And yet I would let go of the hand of my daughter, who {i:is} my very future...?!`
 `Run.`
 ` Run. Run.`
-`She got out of the {ruby:çeviri > gül bahçesi:rose garden} and began to run down the staircase through the grove of trees.`
+`She got out of the rose garden and began to run down the staircase through the grove of trees.`
 `But Rosa knew.`
 ` This path through the grove was only turning and twisting many times to make it seem long.`
 ` She tore straight through it!`
@@ -420,7 +420,7 @@
 `"Yes...!!`
 ` Can see each other soon.`
 ` Always together...!!`
-` ...Can see each other...in the {ruby:çeviri > Altın Diyar:Golden Land}...!!"`
+` ...Can see each other...in the Golden Land...!!"`
 `"And then we'll play together!`
 ` Play with the "Wolves and Sheep Puzzle"!!`
 ` You still haven't solved more than one question, Mama, but I solved them all.`

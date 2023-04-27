@@ -16,4 +16,4 @@ jobs:
 
       - name: Checks
         run: |
-          php update-manager/update-manager.php script-check mt || exit 1
+          php update-manager/update-manager.php script-check tr || exit 1

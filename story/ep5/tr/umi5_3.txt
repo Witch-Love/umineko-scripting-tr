@@ -7,16 +7,16 @@
 ` Oh, really?`
 ` How the hell would I know?!`
 ` Cram it, you jackass! Ahha{0}ha{0}ha{0}ha{0}ha{0}haha!`
-` So you'll be coming to this year's family {ruby:çeviri > konferans:conference}?`
+` So you'll be coming to this year's family conference?`
 ` It's been six years!"`
-`Five businessmen in expensive suits were visiting in the {ruby:çeviri > salon:parlor},`
+`Five businessmen in expensive suits were visiting in the parlor,`
 ` giving Krauss and Natsuhi a progress report on their business.`
 `Spread out on the table were the blueprints and designs for a building, as well as documents related to expenditures and the like...`
 `so packed that even a tea cup would have gotten in the way.`
 `Officially, they were here to give Krauss a progress report,`
 ` ......but in actuality, Krauss had called them all the way over to Rokkenjima so that Natsuhi could hear from them directly.`
 `This was because Natsuhi needed to hear someone other than her husband explain what condition their business was in.`
-`......In short, even though another family {ruby:çeviri > konferans:conference} without Kinzo was approaching,`
+`......In short, even though another family conference without Kinzo was approaching,`
 ` their business had not yet earned them any money.`
 `After telling the guests to wait for a short while and make themselves at home,`
 ` Krauss took Natsuhi out into the hall and once again summarized the situation...`
@@ -45,7 +45,7 @@
 `A pained look rose to Krauss's face.`
 ` They certainly had hooked a fat fish that guaranteed a great success.`
 `However, it would require an appropriate amount of time to reel it in......`
-`Natsuhi pressed Krauss, asking if there was any way for them to make money before this year's family {ruby:çeviri > konferans:conference},`
+`Natsuhi pressed Krauss, asking if there was any way for them to make money before this year's family conference,`
 ` but Krauss kept saying that he needed just one more year...`
 `Krauss planned to use this unprecedented success...`
 `as a springboard to future endeavors.`
@@ -70,8 +70,8 @@
 ` ......I've taken a look at Krauss's charts, and they aren't bad at all."`
 `"Even from your perspective, Father?"`
 `"......Hmmm. They're pretty good even from my perspective.`
-` Everyone is confident in his victory and concentrating a significant quantity of {ruby:çeviri > büyülü:magical} power.`
-` As a result, that victory is growing ever deeper, gathering more and more people and {ruby:çeviri > büyülü:magical} power, and beginning to create gold.`
+` Everyone is confident in his victory and concentrating a significant quantity of magical power.`
+` As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold.`
 ` A perfect embodiment of the classic method of alchemy."`
 `"Hoh.`
 ` If you've earned even the Golden Witch's approval, that is very reassuring.`
@@ -80,15 +80,15 @@
 `"Th‐...thank you very much.`
 ` ......And, if you would once again......"`
 `"Hmmm.`
-` We'll have to overcome one more family {ruby:çeviri > konferans:conference}, won't we..."`
+` We'll have to overcome one more family conference, won't we..."`
 `"Yes.`
 ` I think things went well last year, but I imagine some of the relatives will find it suspicious.`
-` .........I think this year's {ruby:çeviri > konferans:conference} will be a critical period."`
-`"During last year's family {ruby:çeviri > konferans:conference},`
+` .........I think this year's conference will be a critical period."`
+`"During last year's family conference,`
 ` you were correct to predict that the same thing might have to happen again."`
 `"......Even for those who aren't witches, preparing for the worst case scenario is one of the basics for getting on in this world.`
 ` ......So, what will you do this year?"`
-`"Just like last year, I will see to it that a high concentration of the {ruby:çeviri > hizmetkarlar:servants} who know Father's secret are there on the day of the {ruby:çeviri > konferans:conference}.`
+`"Just like last year, I will see to it that a high concentration of the servants who know Father's secret are there on the day of the conference.`
 ` ......Some of the relatives may already suspect that Father isn't around.`
 ` A careless act might actually put us in more danger of exposure."`
 `"Hmmm.`
@@ -97,7 +97,7 @@
 `"Unlike last year, I think we'll go with a plan that has you staying inside your study until the end."`
 `"That would be suitable.`
 ` A barricade is simple, and a final trump card."`
-`"No matter how much the {ruby:çeviri > malikane:mansion} is filled with the toxin,`
+`"No matter how much the mansion is filled with the toxin,`
 ` it will be impossible to deny Kinzo's existence as long as the locked‐room barrier remains around this room.`
 ` I shall guarantee that myself.`
 ` ......However, if you choose to make a barricade, it is inevitable that you will be surrounded."`
@@ -113,14 +113,14 @@
 ` You are the family alchemist.`
 ` So, I won't ask you to help.`
 ` I order you to help.`
-` ......We are relying on your {ruby:çeviri > büyü:magic} alone.`
+` ......We are relying on your magic alone.`
 ` Use that power to create an illusion of Father just one more time."`
 `"Very well.`
 ` I hear and obey.`
 ` I find your dignity quite pleasing."`
 `From the shadows of the study, Battler watched the exchange between these three......`
 `"......I see.`
-` And then this year's family {ruby:çeviri > konferans:conference} comes around.`
+` And then this year's family conference comes around.`
 ` ......Grandfather shuts himself in his study because he's in a bad mood and doesn't appear in front of anyone."`
 `"................................."`
 `Natsuhi spoke boldly, saying that she would find a way to overcome this year's crisis and protect the Ushiromiya family honor to the end.`
@@ -136,7 +136,7 @@
 `"................................."`
 `As Beato tried to hold back the pain deep inside her chest, I put my hand on hers......`
 `I already told {f:5:Bernkastel}.`
-`Denying the witch illusions in just the two day period of the 1986 family {ruby:çeviri > konferans:conference} is enough.`
+`Denying the witch illusions in just the two day period of the 1986 family conference is enough.`
 `"{p:2:In the last game, you said in red that Grandfather is dead at the start time for all games.`
 ` However, you never mentioned whether Grandfather was alive or dead before the start time for the games.`
 ` ......In short, even if Grandfather exists in this place right now, that doesn't create any contradictions}."`
@@ -182,7 +182,7 @@
 `{n}......The fifth game will finally begin.`
 `And this time, I'll reach the end.`
 ` The end of that journey.`
-`"......I'm not worried about the obvious stuff, like murders and {ruby:çeviri > numaralar:tricks}.`
+`"......I'm not worried about the obvious stuff, like murders and tricks.`
 ` ...What did you, ...the Golden Witch {f:5:Beatrice}, think, and why did you do what you did?`
 ` What were you hoping for?`
 ` ............That's what I'm gonna find out."`
@@ -201,23 +201,23 @@
 `".....................nn..."`
 `Beato looked up at me again......and gave a small nod.`
 ` ......That's right.`
-`The position of the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}} might have been snatched up by {f:5:Lambdadelta}.`
+`The position of the Game Master might have been snatched up by {f:5:Lambdadelta}.`
 `However, ......as long as I continue this contest with the intent of fighting against Beato,`
 ` ......our fight will continue no matter who controls the game board.`
 `......Very soon, the curtain will rise on our game......`
-`"During this year's family {ruby:çeviri > konferans:conference}, we must conceal the {ruby:çeviri > Efendi:Master}'s secret once again."`
+`"During this year's family conference, we must conceal the Master's secret once again."`
 `"Y‐yes.`
 ` ......I understand."`
-`"............I'm a little doubtful that the same {ruby:çeviri > numara:trick} will work twice."`
+`"............I'm a little doubtful that the same trick will work twice."`
 `"Madam shares your concerns.`
 ` Because of that, it was decided that this year, he will not leave the study even once."`
 `"In other words, we'll make it seem like he's shut away in the study the whole time...?"`
 `"......Yes.`
 ` And the only ones allowed to enter the study...`
-`will be the three of us, the {ruby:çeviri > hizmetkarlar:servants} permitted to wear the One‐winged Eagle."`
-`".........Which means that the three of us will have to perpetuate the lie about the {ruby:çeviri > Efendi:Master}..."`
+`will be the three of us, the servants permitted to wear the One‐winged Eagle."`
+`".........Which means that the three of us will have to perpetuate the lie about the Master..."`
 `"Correct.`
-` ......The relatives will probably question you about the {ruby:çeviri > Efendi:Master}'s health and mood.`
+` ......The relatives will probably question you about the Master's health and mood.`
 ` Make sure you answer without hesitation, and see to it that nothing is seen as suspicious."`
 `"......Y‐yes.`
 ` I understand."`
@@ -241,7 +241,7 @@
 ` ......The master we serve has already passed away.`
 ` However, until he has truly passed on, we will continue to serve.`
 ` ......That study is not empty.`
-` The {ruby:çeviri > Efendi:Master} is still there, hard at work on his usual research.`
+` The Master is still there, hard at work on his usual research.`
 ` Make sure you take that to heart."`
 `""Yes, Genji‐sama.""`
 `"Father has already passed away...?!`
@@ -263,11 +263,11 @@
 ` That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession."`
 `Hideyoshi, who had a strong fascination with the commanders of the Sengoku period, would always show off his knowledge whenever he got the chance.`
 `Wincing slightly, Eva made him get back to his point.`
-`"......Long story short, ...the whole time since last year's family {ruby:çeviri > konferans:conference},`
+`"......Long story short, ...the whole time since last year's family conference,`
 ` something's not been feelin' right to me about what happened."`
 `"You mean the time when Rudolf and I were talking about the inheritance and Father overheard us from the hall..."`
 `"That's just it.`
-` ......Natsuhi‐san and the {ruby:çeviri > hizmetkarlar:servants} kept saying Father was here or there and that he seemed to be in a bad mood,`
+` ......Natsuhi‐san and the servants kept saying Father was here or there and that he seemed to be in a bad mood,`
 ` but not a single one of us relatives saw Father, right?"`
 `"If what you're thinking is right......`
 `......what does that mean?!`
@@ -280,18 +280,18 @@
 `"Krauss‐san's meant to be the most affluent of you siblings.`
 ` For Krauss‐san to scheme to keep the inheritance all to himself to the point of acceptin' the risk of hidin' Father's death...`
 ` I don't know, it sounds a little unbelievable to me.`
-` But last year's family {ruby:çeviri > konferans:conference} was just so strange, it makes me wonder."`
+` But last year's family conference was just so strange, it makes me wonder."`
 `"................................."`
 `Eva and the others were painfully aware of how reckless it would be...`
 `to try to see Kinzo knowing that he was in a bad mood.`
-`So ever since hearing about Kinzo getting into a terrible mood during last year's family {ruby:çeviri > konferans:conference},`
+`So ever since hearing about Kinzo getting into a terrible mood during last year's family conference,`
 ` they had never actively tried to contact him.`
 `That was why, until this very day, it hadn't occurred to them to find it suspicious that Kinzo never showed himself......`
 `"......It definitely is something we should suspect...`
 ` But I wonder if Nii‐san really would do something as appalling as hiding Father's death...`
 ` ......For all his pride, that man has a coward's side to him.`
 ` Would he really make such a once‐in‐a‐lifetime bet......?"`
-`"In any event, it'd probably be a good idea to make sure we get a chance to meet with Father during this year's {ruby:çeviri > konferans:conference}."`
+`"In any event, it'd probably be a good idea to make sure we get a chance to meet with Father during this year's conference."`
 `"......They're extremely bad rumors.`
 ` It seems that Aniki's businesses are failing even worse than we'd imagined.`
 ` It looks like he's had massive losses and is giving it everything he's got just to try and cover up that fact."`
@@ -349,7 +349,7 @@
 `Rosa was talking to Rudolf over the phone.`
 `Rosa rarely received calls from her older siblings, so she braced herself for something serious.`
 `"Well, truth is...`
-`I want to have a little talk about the next family {ruby:çeviri > konferans:conference}, without Aniki."`
+`I want to have a little talk about the next family conference, without Aniki."`
 `".........Between you, me, and Eva nee‐san?`
 ` ......Sounds like a headache."`
 `"I can't talk about the details over the phone,`
@@ -388,7 +388,7 @@
 `"Don't talk about money in front of that child!"`
 `She set the receiver down with a clunk, a little violently.`
 `Apparently, either Eva or Rudolf had gotten ahold of one of Krauss's weak points.`
-`They were probably thinking of threatening him with that at the next family {ruby:çeviri > konferans:conference} and forcing him to pay money.`
+`They were probably thinking of threatening him with that at the next family conference and forcing him to pay money.`
 `Even before hearing the details, she knew full well that it could be nothing good.`
 `But even so, ......this was a once‐in‐a‐lifetime chance to pay back her large debts.`
 `Rosa took a notebook out of her handbag,`
@@ -411,13 +411,13 @@
 `The weather wasn't looking very good.`
 `The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.`
 `If it was true that premonitions tended to be right...`
-`......then this year's family {ruby:çeviri > konferans:conference} would probably take place in absolutely horrible weather.`
+`......then this year's family conference would probably take place in absolutely horrible weather.`
 `In fact, Natsuhi wished that a typhoon large enough to stop boat travel to the island would seal Rokkenjima away forever.`
 `If that happened, she would be able to keep Kinzo's death hidden as long as she wanted......`
 `"If only......the typhoon would keep them at bay forever."`
 `Natsuhi let out a deep sigh.`
 ` ......Just doing that made her headache throb...`
-`As the day of the family {ruby:çeviri > konferans:conference} approached, the intensity of her headache just kept on increasing.`
+`As the day of the family conference approached, the intensity of her headache just kept on increasing.`
 `At that time, the phone rang.`
 `{n}Natsuhi turned the television off and picked up the receiver...`
 `"......Hello?"`
@@ -509,9 +509,9 @@
 `"I haven't forgotten what you did to me 19 years ago...`
 ` ......So I will call you Mother despite what you did,`
 ` no, because of what you did, to curse you.`
-` .........It'll be the family {ruby:çeviri > konferans:conference} very soon, won't it?`
+` .........It'll be the family conference very soon, won't it?`
 ` ......I am your son, Mother, after all.`
-` I'll come on the day of the {ruby:çeviri > konferans:conference}.`
+` I'll come on the day of the conference.`
 ` ...After 19 years.`
 ` ......So that I can have my revenge on you."`
 `Click!!`
@@ -542,7 +542,7 @@
 `".........Declining to repeat?"`
 `"I dunno, lemme see...`
 ` Should I decline or should I respond...`
-` As the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, that's up to me to decide, and I get to make that decision any time I want."`
+` As the Game Master, that's up to me to decide, and I get to make that decision any time I want."`
 `".........Unless I state it in the blue text, you aren't obligated to respond."`
 `"Exactly!`
 ` *giggle*giggle*.`
@@ -553,8 +553,8 @@
 `occurs before October 4th, 1986.`
 `This is still before the start time of the game.`
 `{n}So it's not necessary to question whether it's true or false in the first place.`
-`".........Since you, the {ruby:çeviri > Oyun Yöneticisi:Game {ruby:çeviri > Efendi:Master}}, went out of your way to show me this, I'm just going to assume you're setting up something for later.`
-` ......It might be a {ruby:çeviri > numara:trick}, but I'll at least keep this move of yours in my memory."`
+`".........Since you, the Game Master, went out of your way to show me this, I'm just going to assume you're setting up something for later.`
+` ......It might be a trick, but I'll at least keep this move of yours in my memory."`
 `"Ehheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh.........`
 ` I place this card face‐down onto the field, hehe~.`
 ` Ouch, wh‐what?!"`

@@ -53,7 +53,7 @@
 `"Understood, ma'am. We will intercept with regular warheads.`
 ` Shall we post lookouts around the Seven Sisters of Purgatory?"`
 `"Why would we need those?`
-` After all, the Seven Stakes are Battler's...and now Erika's {ruby:çeviri > mobilya:furniture}.`
+` After all, the Seven Stakes are Battler's...and now Erika's furniture.`
 ` Why would we post lookouts around our allies?`
 ` Just make sure security is nice and tight."`
 `"Just now, we received a recommendation from Senior Assistant Inquisitor Gertrude suggesting that we make preparations for battle.`
@@ -91,8 +91,8 @@
 `The question had come too fast for Erika to hide her agitation.`
 `When {f:5:Bernkastel} saw this, ......she knew that their final, late guest would soon be arriving.`
 `"Luci‐nee.`
-` I hear there's been some movement in the {ruby:çeviri > konukevi:guesthouse}."`
-`"......The {ruby:çeviri > konukevi:guesthouse}?`
+` I hear there's been some movement in the guesthouse."`
+`"......The guesthouse?`
 ` Who cares about the game board now?"`
 `"Well...`
 ` ......They're saying that Kanon‐kun disappeared from the cousins' room..."`
@@ -104,10 +104,10 @@
 ` ......There's no mistake.`
 ` Kanon has disappeared from the cousins' room."`
 `"......He's probably hiding somewhere in the cousins' room.`
-` Or else, he's managed to {ruby:çeviri > numara:trick} everyone since the beginning...and was never in that room to begin with."`
+` Or else, he's managed to trick everyone since the beginning...and was never in that room to begin with."`
 `"That's impossible.`
 ` It's been guaranteed that "everyone" is in the cousins' room except the specific names Lady {f:5:Erika} read aloud back then.`
-` It's impossible for him to {ruby:çeviri > numara:trick} his way out of there."`
+` It's impossible for him to trick his way out of there."`
 `"......How did he get past the Jungfrau seal barrier...?`
 ` No, first off, where on earth is Kanon?`
 ` Find him at once...!"`
@@ -166,7 +166,7 @@
 ` ......and even the final possibility, the next room over, have all been sealed...`
 ` ......How are you planning to save Battler...?!"`
 `"Let us suppose...`
-`that {ruby:çeviri > Leydim:Milady} has found some {ruby:çeviri > numara:trick} X.`
+`that Milady has found some trick X.`
 ` If so,`
 ` she would inevitably have to march in here to thrust that in Lady {f:5:Erika}'s face..."`
 `"But...against all of these Chiester troops...`
@@ -176,7 +176,7 @@
 `......It was incredible that such a large number of them could remain hidden and unnoticed...`
 `"......If she can just get close enough to challenge Erika, ......she should be able to get herself an even fight."`
 `"I see, that move.`
-` .........However, does {ruby:çeviri > Leydim:Milady} have that item with her?`
+` .........However, does Milady have that item with her?`
 ` ......After all, she hated dealing with them, and disliked it every time I prepared them for her.`
 ` .........Dear me.`
 ` She remains a troublesome one to the end."`
@@ -191,7 +191,7 @@
 `{f:5:Virgilia} gave a small nod.`
 `However, the problem was the two Chiester troops standing at her back.`
 `......Since that time she had tried to jump out in front of the procession, she had been marked constantly...`
-`It was possible, with {f:5:Virgilia}'s vast {ruby:çeviri > büyülü:magical} power, to momentarily take out all of the Chiester troops in the cathedral.`
+`It was possible, with {f:5:Virgilia}'s vast magical power, to momentarily take out all of the Chiester troops in the cathedral.`
 `That would only gain a short bit of time, but it would be enough to confront Erika.`
 `......The Chiester troops knew this, so they kept a close eye on {f:5:Virgilia} with tense faces.`
 `At that moment,`
@@ -239,13 +239,13 @@
 ` Furudo Erikaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
 `At that moment, the two Chiester troops standing behind {f:5:Virgilia} slumped over and fell to the floor.`
 `......Ronove had touched the bases of their big ears from behind.`
-`It was clear that he had applied some sort of {ruby:çeviri > büyü:magic}.`
+`It was clear that he had applied some sort of magic.`
 `"Someone find a doctor.`
 ` These girls seem to be ill."`
 `"All Chiesters, open fiiiiiiiiiiire!!"`
 `"Beato, now!!"`
 `Just an instant before the Chiester troops could fire, {f:5:Virgilia} raised her arms to the heavens.`
-`Her {ruby:çeviri > büyülü:magical} power, which was more than enough to remind all present what her name had been at the height of her strength,`
+`Her magical power, which was more than enough to remind all present what her name had been at the height of her strength,`
 ` became a spirit wave and exploded throughout the cathedral.`
 `The impact made the stained glass windows shatter, and colorful glass shards poured down everywhere.`
 `"S‐spirit particle warfare defenses!! Hurry on recovery!!"`
@@ -261,7 +261,7 @@
 `She had called this place hell.`
 `{n}......In that case, running from hell to the grave was actually going backwards.`
 `Beato's figure dashing through the corpse‐ridden path truly symbolized her resurrection...!`
-`"{ruby:çeviri > Leydim:Milady}, take this...!"`
+`"Milady, take this...!"`
 `"Got it!!"`
 `As she dashed, she snatched something white from Ronove's outstretched hand.`
 `There was no longer anyone blocking her path to Erika...!!`
@@ -325,7 +325,7 @@
 `As the eldest of the Seven Sisters of Purgatory, Lucifer stood in waiting behind the bride and groom.`
 `She wanted to save Beato.`
 `{n}If she could just distract Gertrude for a moment, the wall would disappear...`
-`However, the Seven Sisters were {ruby:çeviri > mobilya:furniture}.`
+`However, the Seven Sisters were furniture.`
 ` They served the territory lord.`
 `So, they couldn't move to help Beato...`
 `Dlanor glanced over at Lucifer.`
@@ -336,7 +336,7 @@
 `"It's Erika now, idiot...!"`
 `"No, our master is Battler‐sama!"`
 `"True. Erika only speaks on his behalf."`
-`"That's right, Onee‐sama! Whose {ruby:çeviri > mobilya:furniture} are we?!"`
+`"That's right, Onee‐sama! Whose furniture are we?!"`
 `"It's just too delicious... I'm gonna have a nibble!!"`
 `The red, absolute barrier flickered for just an instant.`
 `Beelzebub's stake had pierced Gertrude's shoulder, and her concentration had wavered.`
@@ -349,13 +349,13 @@
 `"................................."`
 `"How can a master who cannot speak give orders...?"`
 `"E‐even without a word spoken,`
-` ......understanding a master's will is the job of {ruby:çeviri > mobilya:furniture}!!"`
+` ......understanding a master's will is the job of furniture!!"`
 `"Then, ......it cannot be helped."`
 `The seven stakes shot at Gertrude at once.`
 `...Gertrude had chosen to take all of those direct attacks, refusing to abandon the barrier until the last moment.`
 `Though she was resilient enough to do justice to the name of {ruby:Iron Maiden:Eiserne Jungfrau} and took no damage at all,`
 ` the attack was more than enough to make her flinch and lose control of the barrier.`
-`"Good work, my {ruby:çeviri > mobilya:furniture}!!!"`
+`"Good work, my furniture!!!"`
 `Beato shot through the scattered, red fragments of the barrier,`
 ` ......and she was finally right in front of the bride, her rival, Erika......`
 `However, there stood the final shield protecting Erika.`
@@ -378,7 +378,7 @@
 `"......Keh, ......D‐Dlanor...!!"`
 `"Back off, Dlanor A. Knox.`
 ` This is not your fight."`
-`"......I have received a {ruby:çeviri > kırmızı gerçek:red truth} denying you from Lady {f:5:Bernkastel}.`
+`"......I have received a red truth denying you from Lady {f:5:Bernkastel}.`
 ` ......I am afraid that this will become your {f:5:grave}...!"`
 `I don't know what {f:5:Bernkastel} has allowed her to say.`
 `{n}However, I don't need to sit around and let that longsword tell me.`
@@ -457,7 +457,7 @@
 ` ...the Chiesters would probably all fire at once, turning her into golden embroidery.`
 `So, Erika did not have to pick it up.`
 `However, ......she could not afford to be afraid of picking it up.`
-`After all, ......she was the true victor, who had defeated Battler's locked‐room {ruby:çeviri > numara:trick} and logic.`
+`After all, ......she was the true victor, who had defeated Battler's locked‐room trick and logic.`
 `If she was the victor, she should have nothing to fear.`
 `So, ......if she was afraid of doing it,`
 ` ......it would prove that she still felt a tinge of doubt about her victory......`
@@ -473,7 +473,7 @@
 `"Not interested. Goodbye."`
 `"......You will pick it up.`
 ` ......For the locked room I have brought you...`
-`.....is one to put Battler's {ruby:çeviri > misafir odası:guest room} to shame—`
+`.....is one to put Battler's guest room to shame—`
 `a locked room that is simple, basic,`
 ` ......and absolutely unsolvable.`
 ` ......And you will want to hear about it."`
@@ -520,12 +520,12 @@
 `Yes, there could be no doubt.`
 ` ...This was the expression worn only by the Golden Witch,`
 ` ......the majestic presence of the master of locked rooms.`
-`A shadow dashed through the stormy {ruby:çeviri > gül bahçesi:rose garden}.`
+`A shadow dashed through the stormy rose garden.`
 `{n}It was incredibly light and swift.`
 `The raindrops never touched him, he made no splashes in the countless puddles, his feet left no tracks in the mud.`
 `That rushing figure.........was Kanon...`
 `Then, he ran up the stairs...`
-`...to the entrance of the {ruby:çeviri > malikane:mansion}.`
+`...to the entrance of the mansion.`
 `He did not slow down in the slightest to open the door.`
 `......He ran straight at it as though trying to break through......and leapt into it...!`
 `Though the door was shut, even that couldn't stop Kanon.`
@@ -533,28 +533,28 @@
 `His body wasn't even wet.`
 `......And, ......as he recalled those nostalgic days spent serving the Ushiromiya family, which would never come again,`
 ` ......he ran once more.`
-`He was heading for Battler's {ruby:çeviri > misafir odası:guest room}.`
-`He ran past the {ruby:çeviri > hizmetkar:servant} room,`
-` through the {ruby:çeviri > giriş:entrance hall},`
-` and past the door to the {ruby:çeviri > salon:parlor}.`
-`Then, the doors to the kitchen and the {ruby:çeviri > yemek salonu:dining hall} came into sight...`
+`He was heading for Battler's guest room.`
+`He ran past the servant room,`
+` through the entrance hall,`
+` and past the door to the parlor.`
+`Then, the doors to the kitchen and the dining hall came into sight...`
 `All of it brings back fond memories.`
 `......There was the honor and discipline of serving Kinzo directly.`
 `However, that man wasn't strict all the time.`
 `......When the family was out of sight and he didn't have to preserve that air of majesty,`
 ` his face could turn unbelievably childish, and he would sometimes ask me to take part in strange pranks.`
-`.........The {ruby:çeviri > Efendi:Master} let me shoot lots of guns, didn't he...`
+`.........The Master let me shoot lots of guns, didn't he...`
 `...That......was pretty fun.`
 `Krauss‐sama was actually surprisingly kind.`
-`He must have gotten the impression that the {ruby:çeviri > Efendi:Master} bullied me a lot.`
+`He must have gotten the impression that the Master bullied me a lot.`
 `Whenever I was the only one around, he would talk to me in a very familiar way, almost as if he was a classmate of mine.`
 `......I sort of regret that I held back and never did anything but nod in return...`
 `Madam was a really strict person...`
-`......Ever since a rumor spread about her being strict on female {ruby:çeviri > hizmetkarlar:servants} but soft towards male {ruby:çeviri > hizmetkarlar:servants},`
+`......Ever since a rumor spread about her being strict on female servants but soft towards male servants,`
 ` I get the feeling she viewed me as an enemy.`
 `However, she was also a woman to be pitied.`
 `......On many occasions when she was alone, I saw her shoulders sagging from her burdens.`
-`There were a lot of {ruby:çeviri > hizmetkarlar:servants}, weren't there...`
+`There were a lot of servants, weren't there...`
 `{n}......Some lasted a short while, others longer.`
 `Genji‐sama is the one person fit to be called my father.`
 `......I am both grateful and resentful towards him over many things.`
@@ -569,14 +569,14 @@
 `Thanks for teaching me that the ocean is blue......`
 `......Gohda?`
 ` .........I hate that guy.`
-`Still, when I complimented his {ruby:çeviri > hizmetkar:servant} stew,`
+`Still, when I complimented his servant stew,`
 ` he would sometimes turn red and tell me there was enough for seconds.`
 ` ......I didn't dislike that part of him.`
-`I wonder why such strong memories popped up in the short time it took me to ran past the {ruby:çeviri > yemek salonu:dining hall}...`
+`I wonder why such strong memories popped up in the short time it took me to ran past the dining hall...`
 `And then,`
 ` ......my memories of Jessica.`
 `......Ooh.`
-` ......S‐so you're a boy {ruby:çeviri > hizmetkar:servant}...`
+` ......S‐so you're a boy servant...`
 `{n}......How......old are you...?`
 `I think those were the first words she spoke to me.`
 `......Come to think about it, she was probably interested in me ever since then.`
@@ -595,10 +595,10 @@
 `I know why Shannon won the duel.`
 `God must have been watching.`
 `You had so much more courage than I did, and God didn't abandon you......`
-`I reached the hallway with the {ruby:çeviri > misafir odaları:guest rooms}.`
+`I reached the hallway with the guest rooms.`
 `{n}......There was someone lying on the ground.`
 `It was Battler.`
-` ......He was lying just outside the {ruby:çeviri > misafir odası:guest room}, a chain tied to his neck.`
+` ......He was lying just outside the guest room, a chain tied to his neck.`
 `......He had probably struggled to do something with the chain lock from the outside until he lost consciousness...`
 `His fingernails on both hands had been torn off, and they were stained with blood.`
 `......I could tell at a glance just how hard he had tried until the final moment when his heart had died.`
@@ -609,16 +609,16 @@
 `".................................ah..."`
 `Battler responded faintly.`
 `He'd probably never imagined that help would come to this eternal locked room.`
-`......He was so scared that this might be an auditory hallucination brought about by his fleeting {ruby:çeviri > kuruntular:delusions}...`
+`......He was so scared that this might be an auditory hallucination brought about by his fleeting delusions...`
 `...that he couldn't be easily roused...`
 `Kanon grabbed Battler from behind and dragged him into the room...`
 `The inside of the room......was terrible.`
 `The windows had been brutally shattered, and the wind and rain had made its way into the room.`
-`All kinds of tools and {ruby:çeviri > mobilya:furniture} lay broken there.`
+`All kinds of tools and furniture lay broken there.`
 `However, Battler hadn't smashed them out of rage.`
 `The curtain had been removed and torn to shreds which had been twisted together.`
 `......He had turned it into a rope,`
-` probably while experimenting to see if he could use it for some {ruby:çeviri > numara:trick}.`
+` probably while experimenting to see if he could use it for some trick.`
 `He had tried using everything in the room, exploring all possible options of escape.`
 `The traces could be seen throughout the room, and even in the bathroom.`
 `......The empty bathtub was stained with just a bit of blood,`
@@ -724,7 +724,7 @@
 `He ran to the end of the corridor and beyond,`
 ` ......beyond the light......`
 `Kanon, still connected to the chain,`
-` .........watched him go, then quietly returned to the {ruby:çeviri > misafir odası:guest room}.`
+` .........watched him go, then quietly returned to the guest room.`
 `Now, he only had to worry about his own job.`
 `Stay in this room...`
 `...and fix the error in logic.`
@@ -784,7 +784,7 @@
 ` Demons are very particular about style."`
 `Its form was similar to an actual old‐fashioned gun, but this was, of course, a demon's gun.`
 `This wasn't a gun that would propel a lead bullet with an explosion caused by gunpowder.`
-`......Like the pistols used in the duel between Shannon and Kanon, whose bullets had contained a {ruby:çeviri > büyü:magic} that would always kill,`
+`......Like the pistols used in the duel between Shannon and Kanon, whose bullets had contained a magic that would always kill,`
 ` these pistols also had bullets that were not made of lead...`
 `"......Beato......"`
 `"There's no need to worry.`
@@ -801,7 +801,7 @@
 `"......{f:5:Beatrice}‐sama is at a disadvantage in this duel."`
 `"Why...?!"`
 `"......Normally, a witch can put up a fight by piling mystery upon mystery.`
-` However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama's {ruby:çeviri > misafir odası:guest room}."`
+` However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama's guest room."`
 `"If Erika can just strike a blue wedge through that one mystery, it'll mean that she's solved everything!!"`
 `"We can win.`
 ` ......I believe in {f:5:Beatrice}‐sama...`
@@ -845,8 +845,8 @@
 `""*giggle*giggle*giggle*, ahahahahaha.""`
 `""Now, are you ready, duelists?!!""`
 `When the two demons clapped their hands, the duelists instantly returned to their bold, tense smiles.`
-`"The bullets to be loaded into those {ruby:çeviri > büyü:magic} guns are not lead!"`
-`"A shootout between mystery and fantasy should be fought with bullets of red and {ruby:çeviri > mavi gerçek:blue truth}!!"`
+`"The bullets to be loaded into those magic guns are not lead!"`
+`"A shootout between mystery and fantasy should be fought with bullets of red and blue truth!!"`
 `"As long as you possess truth, your bullets are endless!"`
 `"However, being hit by a single one means instant death!"`
 `""Are you both prepared?!""`
@@ -864,7 +864,7 @@
 ` I have inspected it and find its contents to be valid.`
 ` I declare the logic error averted!!`
 ` The chain lock is still set!`
-` And without any contradictions with any {ruby:çeviri > kırmızı gerçek:red truth} made up to this point!"`
+` And without any contradictions with any red truth made up to this point!"`
 `*chatter*chatter*chatter*...!!`
 `......The many goat attendees knew the details of Battler's locked room.`
 `They realized how difficult it was.`
@@ -873,10 +873,10 @@
 `And now......it was clear that {f:5:Beatrice} had already reached one.`
 `"Therefore, this duel is legitimate.`
 ` It will center around one, single point.`
-` The locked room of Battler's {ruby:çeviri > misafir odası:guest room}!`
+` The locked room of Battler's guest room!`
 ` Ushiromiya Battler disappeared from within a locked room sealed by a chain lock!"`
-`"Erika will load her weapon with {ruby:çeviri > mavi gerçek:blue truth} regarding this matter.`
-` {f:5:Beatrice} will load hers with {ruby:çeviri > kırmızı gerçek:red truth} to counter back.`
+`"Erika will load her weapon with blue truth regarding this matter.`
+` {f:5:Beatrice} will load hers with red truth to counter back.`
 ` ......The duel will continue until one side is victorious!!"`
 `"Splendid."`
 `"Perfect."`
@@ -884,8 +884,8 @@
 ` Well then, Beato.`
 ` Present your new, revised tale and riddle to Erika."`
 `"The cousins' room was also a locked room.`
-` Kanon used {ruby:çeviri > büyü:magic} to escape from there without breaking the seals.`
-` He then arrived at Battler's locked room and used {ruby:çeviri > büyü:magic} to allow Battler to escape."`
+` Kanon used magic to escape from there without breaking the seals.`
+` He then arrived at Battler's locked room and used magic to allow Battler to escape."`
 `".........Hmph,`
 ` what a foolish tale."`
 `"Good.`
@@ -906,10 +906,10 @@
 `"OK!`
 ` Let both sides load their bullets...!!"`
 `Erika turned around, pressed her finger against the barrel of the pistol,`
-` ......made her {ruby:çeviri > mavi gerçek:blue truth} into a bullet, and pushed it in.`
+` ......made her blue truth into a bullet, and pushed it in.`
 `There was no rule saying that she had to turn away, but she didn't want her expression to be read.`
 `......Or, it might have been because she couldn't stand the tension of looking at Beato's bold smile.`
-`Beato had already finished loading her {ruby:çeviri > kırmızı gerçek:red truth}.`
+`Beato had already finished loading her red truth.`
 `She waited for Erika to finish while calmly puffing on her pipe.`
 `Then, ......she looked at Battler, who sat on the throne of the territory lord, right next to the two witches who sat as witnesses to this duel.`
 `.........Battler's consciousness was still hazy.`
@@ -926,15 +926,15 @@
 `First, let's lay out the situation.`
 `Battler disappeared from that locked room.`
 `{n}The chain lock is set.`
-`Did he disappear by {ruby:çeviri > büyü:magic}?`
+`Did he disappear by magic?`
 ` Of course not!`
-` There has to be a {ruby:çeviri > numara:trick}!`
-`Kanon didn't save him with {ruby:çeviri > büyü:magic}.`
+` There has to be a trick!`
+`Kanon didn't save him with magic.`
 `He just came, took Battler's place, and set the chain.`
 `......Everyone knows that much!`
 `The problem is what comes next.`
 ` No, it's actually what comes before.`
-`Kanon was in the cousins' room in the {ruby:çeviri > konukevi:guesthouse}.`
+`Kanon was in the cousins' room in the guesthouse.`
 `That room was completely sealed with duct tape, and it has been proven that the seal was in effect until the time of the logic error.`
 `In other words, Kanon escaped from a locked room that was absolute, with no excuses or twisted logic possible.`
 `<Good>!`
@@ -973,31 +973,31 @@
 `So, humans with the name Hideyoshi or George...`
 `{i:don't need to be inside the cousins' room}!`
 `It seems that Kanon told Jessica that his real name was Yoshiya,`
-` ......but that was no {ruby:çeviri > kırmızı gerçek:red truth}.`
+` ......but that was no red truth.`
 `In other words, .........what if Kanon's real name is the same as one of those in the next room over?!`
 `They seem to be about the same age, so let's use George.`
 `So, what if there were two Georges in that room?!`
-`That doesn't violate the {ruby:çeviri > kırmızı gerçek:red truth} saying that...`
+`That doesn't violate the red truth saying that...`
 `Hideyoshi, George, Kumasawa, Shannon, and Nanjo are in the next room over.`
 `Let's say that Kanon's real name was Tanaka George.`
 `Both Ushiromiya George and Tanaka George could exist in that room at the same time!`
 `In other words, ......there were six humans with five names!`
 `It looked to my eyes as though there were only five people in the next room over, but a sixth person, Kanon, was hiding somewhere.`
 `I don't have the detective's authority, so it wouldn't be that difficult for him to fool my eyes and hide.`
-`I see, the double name {ruby:çeviri > numara:trick}......`
+`I see, the double name trick......`
 `{n}Stupid, so stupid...!!`
 `Alright, I've made my logic!!`
 `Kanon, who was hiding in the next room over, not the cousins' room, left by the window after the seals were placed—`
 `Bang!!`
 `"Ah, ......owww......"`
 `There was an explosion at the barrel of her gun, staining the tip of her finger red with blood.`
-`{n}The {ruby:çeviri > mavi gerçek:blue truth} gunpowder had exploded.`
+`{n}The blue truth gunpowder had exploded.`
 `......Ah,`
 ` ......dammit......`
 `......I...`
 `...had Dlanor seal that one...`
 `...a short while ago......`
-`I told her to "ban any {ruby:çeviri > mavi gerçek:blue truth} arguing about the windows of the next room over",`
+`I told her to "ban any blue truth arguing about the windows of the next room over",`
 ` so I can't use it......!!!`
 `"......Oh, an accidental discharge?`
 ` Careful now, guns can be dangerous.`
@@ -1005,7 +1005,7 @@
 `"Sh‐shut up!!`
 ` It's just a little mistake...!!"`
 `"............The windows of the next room over.`
-` You blocked them off with some inane {ruby:çeviri > numara:trick}, I hear. Gaap told me."`
+` You blocked them off with some inane trick, I hear. Gaap told me."`
 `"D‐......did she, now?`
 ` And so what if I did?!"`
 `"Dlanor. Remove that foolish seal.`
@@ -1033,7 +1033,7 @@
 ` Hold nothing back!"`
 `"Here I go!!"`
 `After holding the gun high and pointing it at Beato once more,`
-` Erika pulled the trigger with statements of red and {ruby:çeviri > mavi gerçek:blue truth}.`
+` Erika pulled the trigger with statements of red and blue truth.`
 `"{p:1:The cousins' room is guaranteed to be a perfect locked room until the end}.`
 ` {p:2:So, if Kanon really had been in that room, it would have been impossible for him to escape!`
 ` In other words, Kanon was not in the cousins' room at the time it was sealed!!`
@@ -1064,7 +1064,7 @@
 `There was a confident smile on her face.`
 `{n}It was as though she was offering to play with Erika a little longer.`
 `......In fact, that was Beato through and through.`
-`{f:5:Beatrice}, the witch who mocks others with unsolvable locked room {ruby:çeviri > numaralar:tricks}...!`
+`{f:5:Beatrice}, the witch who mocks others with unsolvable locked room tricks...!`
 `"{p:1:At the time the next room over was sealed,`
 ` Hideyoshi, George, Kumasawa, Shannon, and Nanjo were in it.`
 ` And the number of people in the next room over was five.`
@@ -1074,7 +1074,7 @@
 `...gkk...`
 `...`
 `............!!"`
-`It was a thoroughly merciless {ruby:çeviri > kırmızı gerçek:red truth}...`
+`It was a thoroughly merciless red truth...`
 ` It really was...severe......`
 `Now that it had been limited to five people, any leeway for Kanon hiding there had been completely denied.`
 `Since only those to whom those five names referred existed within the room,`
@@ -1086,7 +1086,7 @@
 ` ......How do you like the game of the Golden Wiiiiiiiiiitch...???"`
 `"That's insane...`
 ` ......A‐......are you saying...`
-`......that Kanon slipped out of the room by {ruby:çeviri > büyü:magic}......?!`
+`......that Kanon slipped out of the room by magic......?!`
 ` Ghh, ......gkk......`
 ` ......M‐more importantly,`
 ` why did you only knock my gun away...?!!"`
@@ -1097,7 +1097,7 @@
 `"I've decided that I'll make my victory condition be the destruction of all of your theories.`
 ` ......I've won the riddle of Kanon's escape, but there's one more!`
 ` Let's return to the first battleground, where you gave Battler so much trouble!!"`
-`When Beato snapped her fingers, that {ruby:çeviri > misafir odası:guest room} of Battler's was reconstructed.`
+`When Beato snapped her fingers, that guest room of Battler's was reconstructed.`
 `She meant to fight once more in the room that had threatened Battler with a logic error, determined to settle things once and for all.`
 `"Erika, pick up your gun.`
 ` ......We'll have this room be your coffin!"`
@@ -1110,29 +1110,29 @@
 ` A basis which doesn't need to be explained?`
 ` So, what are you going to let her do?"`
 `"I relieve Erika of her obligation to explain how Kanon escaped from his locked room...`
-`and permit her to involve him in {ruby:çeviri > mavi gerçekler:blue truths} concerning this "{ruby:çeviri > misafir odası:guest room} {ruby:çeviri > numara:trick}" without explanation."`
+`and permit her to involve him in blue truths concerning this "guest room trick" without explanation."`
 `If a theory for explaining how Kanon saved Battler...`
 `did not also explain how Kanon escaped from his own locked room, it would have no basis.`
 `Erika had already lost that basis.`
 `......Beato was giving her a handicap by saying that she didn't need to explain that part.`
 `"N‐......naturally!!`
-` You've already used the {ruby:çeviri > kırmızı gerçek:red truth} to guarantee that Kanon saved Battler!`
+` You've already used the red truth to guarantee that Kanon saved Battler!`
 ` It's only natural that I be given this privilege...!"`
 `Erika faced away again and concentrated even harder...!`
 `As though twisting the knob on a radio, she turned all noise and idle thoughts down to zero.`
 `Let's go, Furudo Erika.`
 `Detective, Furudo Erika!`
 `As long as Kanon reaches this place, rescuing Battler isn't hard.`
-`The {ruby:çeviri > numara:trick} is as follows.`
-`Kanon used some kind of escape {ruby:çeviri > numara:trick} X to reach the front of the {ruby:çeviri > misafir odası:guest room}.`
+`The trick is as follows.`
+`Kanon used some kind of escape trick X to reach the front of the guest room.`
 `While I was busy in the bathroom, ......Battler left the closet.`
 `Battler undid the chain lock.`
 `Battler went outside.`
 `Kanon entered in his place.`
 `Kanon set the chain lock.`
 `Kanon went into the closet. The end!`
-`......This satisfies the two {ruby:çeviri > kırmızı gerçekler:red truths} about the chain lock being set and Battler's absence.`
-`And, in exchange for this escape {ruby:çeviri > numara:trick}, Kanon remains inside the {ruby:çeviri > misafir odası:guest room}.`
+`......This satisfies the two red truths about the chain lock being set and Battler's absence.`
+`And, in exchange for this escape trick, Kanon remains inside the guest room.`
 `......There's no room for argument on how tightly this room can act as a locked room.`
 `That chain is cursed.`
 `In this demonic locked room, one person must remain as a sacrifice for it to be acceptable.`
@@ -1141,7 +1141,7 @@
 `And the rescuer is hiding in the closet.`
 `No other sort of theory is possible.`
 `{n}And yet, Beato thinks she can win.`
-`{n}In that case, ......does some other {ruby:çeviri > numara:trick} exist...?`
+`{n}In that case, ......does some other trick exist...?`
 `It's impossible!`
 `I swear on the history of the mystery genre that there's absolutely, definitely,`
 ` categorically no other way!!`
@@ -1149,21 +1149,21 @@
 `Consider, imagine, don't stop thinking...`
 ` That's how you drive blue wedges into witches!!`
 `......One thing I can think of......yes.`
-`A wordplay {ruby:çeviri > numara:trick}!`
+`A wordplay trick!`
 `It can only be some kind of "wordplay"...`
 `...that just barely slips through the net of words spoken in red...!`
 `In that case, I'll crush all possibilities!`
 `{n}I'll crush them all with repetition requests!!`
 `This final duel......has already begun, even though we haven't pulled our triggers yet...!!`
 `"Repetition requested.`
-` "At the time Battler was rescued, only Kanon entered the {ruby:çeviri > misafir odası:guest room}.""`
+` "At the time Battler was rescued, only Kanon entered the guest room.""`
 `"I acknowledge it.`
-` {p:1:At the time Battler was rescued, only Kanon entered the {ruby:çeviri > misafir odası:guest room}}.`
+` {p:1:At the time Battler was rescued, only Kanon entered the guest room}.`
 ` I believe that was the whole point..."`
 `"Repetition requested.`
 ` "From the time I entered the room to the time of the logic error, Battler, Kanon, and I were the only ones who entered or exited the room.""`
 `"{p:1:I acknowledge it.`
-` From the time you entered the room to the time of the logic error, you, Battler, and Kanon were the only ones who went in or out of the {ruby:çeviri > misafir odası:guest room}}."`
+` From the time you entered the room to the time of the logic error, you, Battler, and Kanon were the only ones who went in or out of the guest room}."`
 `"Repetition requested.`
 ` "This refers to three people.""`
 `"{p:1:I acknowledge it.`
@@ -1199,39 +1199,39 @@
 `Therefore, we know that Battler didn't escape by himself.`
 `And I'm not the rescuer.`
 `{n}Only Kanon can be the rescuer.`
-`Plus, Beato has already said that Kanon is the rescuer in the {ruby:çeviri > kırmızı gerçek:red truth}.`
+`Plus, Beato has already said that Kanon is the rescuer in the red truth.`
 `......There's nothing to doubt.`
 `There's no room for anyone but Kanon to be involved.`
 `......At least, so far!`
 `"Repetition requested.`
-` "The definition of "going in or out" is "crossing the boundary between the {ruby:çeviri > misafir odası:guest room} and the area outside it.""`
+` "The definition of "going in or out" is "crossing the boundary between the guest room and the area outside it.""`
 `"{p:1:I acknowledge it}."`
 `"Repetition requested.`
-` "The phrase "{ruby:çeviri > misafir odası:guest room}" includes all of:`
+` "The phrase "guest room" includes all of:`
 ` the bedroom,`
 ` the bathroom,`
 ` and the closet.""`
 `"{p:1:I acknowledge it}.`
-` I've no intention of wriggling out of this by saying the closet isn't part of the {ruby:çeviri > misafir odası:guest room}."`
+` I've no intention of wriggling out of this by saying the closet isn't part of the guest room."`
 `"Confirming definition.`
-` The inside of the {ruby:çeviri > misafir odası:guest room} is divided into three sections: the bedroom, the bathroom, and the closet."`
+` The inside of the guest room is divided into three sections: the bedroom, the bathroom, and the closet."`
 `"{p:1:I also recognize it as such.`
-` Furthermore, you have already confirmed with the {ruby:çeviri > kırmızı gerçek:red truth} that two of those sections, the bedroom and the bathroom,`
+` Furthermore, you have already confirmed with the red truth that two of those sections, the bedroom and the bathroom,`
 ` had no one hiding in them}."`
 `"Repetition requested.`
 ` "There is someone in the closet.""`
 `"I decline."`
 `"Why's that?!`
 ` Because Kanon is hiding there?!"`
-`"Kanon can use {ruby:çeviri > büyü:magic}.`
-` It's true that he hid himself in the closet for a time, but he then immediately vanished with his {ruby:çeviri > büyü:magic}...!`
+`"Kanon can use magic.`
+` It's true that he hid himself in the closet for a time, but he then immediately vanished with his magic...!`
 ` So, there is no one in the closet!`
 ` I cannot respond!"`
 `"I request for that to be repeated instead!!"`
-`"Fool, the witch side has no obligation to explain how they did things with {ruby:çeviri > büyü:magic}!"`
+`"Fool, the witch side has no obligation to explain how they did things with magic!"`
 `......No, it's completely obvious.`
-`{n}There's no way she can say that Kanon disappeared with {ruby:çeviri > büyü:magic} using the {ruby:çeviri > kırmızı gerçek:red truth}!`
-`After all, {ruby:çeviri > büyü:magic} doesn't exist!!`
+`{n}There's no way she can say that Kanon disappeared with magic using the red truth!`
+`After all, magic doesn't exist!!`
 `But......is this......enough?!`
 `......I've gone through every last minor detail.`
 `{n}And yet, there's an uncanny lack of dubious points.`
@@ -1250,28 +1250,28 @@
 `...my theory...`
 `...is set in stone.`
 `First, here are the details of the situation that are certain!`
-`{p:1:The game ended while I was inside the {ruby:çeviri > misafir odası:guest room},`
+`{p:1:The game ended while I was inside the guest room,`
 ` so I did not undo the chain lock that I had previously set.}`
 `{p:1:So, it can't be that he escaped behind my back after I left the room.}`
 `{p:1:Furthermore, the chain lock was set at the same time I entered the room.`
 `{n}No one could have left the room during the few seconds between the time I entered and the time I set the chain lock.}`
-`{p:1:I sealed the {ruby:çeviri > misafir odası:guest room} at the time I examined Battler's "corpse",`
+`{p:1:I sealed the guest room at the time I examined Battler's "corpse",`
 ` so until I came again and broke the seals, it was absolutely impossible for anyone to go in or out.}`
-`{p:1:Therefore, it's certain that Battler was hiding somewhere inside the {ruby:çeviri > misafir odası:guest room} at the time that I entered it.}`
+`{p:1:Therefore, it's certain that Battler was hiding somewhere inside the guest room at the time that I entered it.}`
 `{p:1:The only chance Battler had to escape was after I broke the seals.}`
 `{p:1:To be even more specific, he had no chance to escape except for the time I was in the bathroom}.`
-`By the above premises, Battler's {ruby:çeviri > numara:trick} to escape with the chain still set is as follows!`
+`By the above premises, Battler's trick to escape with the chain still set is as follows!`
 `{p:2:For the aforementioned reasons, the only one who could have set the chain lock, which can only be set from the inside, and allowed Battler's escape...`
 `is Kanon, the only person to enter the room except for me and Battler!}`
 `{p:2:After Kanon entered the room, he set the chain,`
-` hid in the one place that he could hide inside the {ruby:çeviri > misafir odası:guest room}, the closet—}`
+` hid in the one place that he could hide inside the guest room, the closet—}`
 `.........Ah?!`
 `Whoa, that was close!!`
 `They almost got me... They almost tricked me!!`
 `I thought that I had cornered him in the closet.`
 `It's the opposite!!`
 `{i:They're} trying to make {i:me} think he's in the closet!`
-`What was the order in which I searched the {ruby:çeviri > misafir odası:guest room}?!`
+`What was the order in which I searched the guest room?!`
 `First, the bedroom.`
 `{n}We confirmed with the red that there was nothing there.`
 `Then, the bathroom.`
@@ -1291,7 +1291,7 @@
 ` ......I've found it...`
 ` ......I've finally found it...`
 ` ......Your...`
-`{ruby:çeviri > numara:trick}...!!"`
+`trick...!!"`
 `"...................................."`
 `That was a close one.`
 `If I'd gone and said there was nowhere to hide except inside the closet,`
@@ -1299,22 +1299,22 @@
 `Huh? ......N‐no, wait...`
 `It works the same way in reverse......`
 `I see, now I get it...`
-`{n}It's an interchangeable logic {ruby:çeviri > numara:trick}...!`
-`Damn that Beato... So, in resolving the logic error, she's discovered this strange {ruby:çeviri > numara:trick}!!`
+`{n}It's an interchangeable logic trick...!`
+`Damn that Beato... So, in resolving the logic error, she's discovered this strange trick!!`
 `If I only notice the closet, she'll have Kanon hide under the bed.`
 `And if I only notice the bed, she'll have Kanon hide in the closet.`
 `Both are correct, and yet choosing either one means losing.`
 `{n}I have to expose both at the same time, or it isn't checkmate...!`
 `Incredible......`
-`{n}I've never heard of such an unfair {ruby:çeviri > numara:trick}......`
-`If this was a magician's stage {ruby:çeviri > numara:trick}, it'd just be a cheap one.`
+`{n}I've never heard of such an unfair trick......`
+`If this was a magician's stage trick, it'd just be a cheap one.`
 `If it was a mystery, ...it'd just be cheating......`
 `However, in this witch's game, it's a legitimate...`
-`...“logic {ruby:çeviri > numara:trick}”...`
+`...“logic trick”...`
 `In chess, it'd be called a double check.`
 `No, a discovered attack.`
 ` ......No no, a discovered double checkmate......?`
-`Even though this sort of logic would be a foul {ruby:çeviri > numara:trick} in the mystery genre,`
+`Even though this sort of logic would be a foul trick in the mystery genre,`
 ` ......in this world where witches wage war with mystery,`
 ` ............what a...regal position it is......`
 `The beautiful placement of the black pieces cornering my white king...`
@@ -1352,41 +1352,41 @@
 ` I've seen through your double check."`
 `"............Then come."`
 `"......`
-`{p:2:‘Battler's {ruby:çeviri > misafir odası:guest room} disappearance trick’ is as follows.`
+`{p:2:‘Battler's guest room disappearance trick’ is as follows.`
 ` ......While I searched the room, Battler was hiding in the closet.`
 ` Then, during the disturbance in the bathroom, he unset the chain and escaped from the room.`
 ` At that time, Kanon was waiting for him in the hallway.`
-` Kanon entered the {ruby:çeviri > misafir odası:guest room} in his place and set the chain.`
-` This is the {ruby:çeviri > numara:trick} to Battler's disappearance}."`
+` Kanon entered the guest room in his place and set the chain.`
+` This is the trick to Battler's disappearance}."`
 `"{p:2:......And, afterwards,`
 ` .........he hid in the bedroom.`
 ` This happened after I checked to see that there was no one unexpected in the bedroom, so it is valid.`
 ` In this way, Kanon the rescuer concealed himself in the bedroom}."`
 `Erika's blue bullet flew in a strange arc,`
-` became a wedge of the {ruby:çeviri > mavi gerçek:blue truth}, and pierced straight down through the bed and the floor beneath.`
+` became a wedge of the blue truth, and pierced straight down through the bed and the floor beneath.`
 `Beato didn't pull her trigger.`
-`......However, she did quietly argue back with the {ruby:çeviri > kırmızı gerçek:red truth}.`
+`......However, she did quietly argue back with the red truth.`
 `"{p:1:Kanon does not exist in the bedroom}."`
 `The goat attendees gasped.`
-`It had appeared as though Erika had been defeated, denied by the {ruby:çeviri > kırmızı gerçek:red truth}.`
+`It had appeared as though Erika had been defeated, denied by the red truth.`
 `......To goats who can't see more than a single truth, it probably looks as though I've lost...`
 `"Pft, ......*cackle*cackle*cackle*cackle*...`
 ` Next is the real one.`
 ` ......This is the answer from a {y:0:Human}{n:0:human} capable of understanding multiple truths.`
 ` ............It looks like the tale of fantasy will end with the second twilight.`
 ` ......So, why don't I carry out the remaining twilights...`
-`...and open the door to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+`...and open the door to the Golden Land.`
 ` .........If you are to disappear,`
 ` then it should be surrounded by your golden roses...!"`
-`The fires of {ruby:çeviri > mavi gerçek:blue truth} flashed at Erika's feet...`
-`...and she loaded a {ruby:çeviri > mavi gerçek:blue truth} bullet once more.`
+`The fires of blue truth flashed at Erika's feet...`
+`...and she loaded a blue truth bullet once more.`
 `That overflowing blue power was now making her entire gun burn with a blue flame......`
 `She wasn't aiming for Beato.`
 ` She was aiming behind Beato.`
 `.........At the closet...!!`
 `"Now that the bedroom has been denied, you've nowhere left to run!!`
 ` Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiee, Kanooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oonnn!!"`
-`The five wedges of {ruby:çeviri > mavi gerçek:blue truth} she released grazed Beato's cheeks, hair, and shoulders,`
+`The five wedges of blue truth she released grazed Beato's cheeks, hair, and shoulders,`
 ` ......then pin‐cushioned the door to the closet,`
 ` to gouge whatever human was inside to death......!`
 `The five wedges slammed into the door in a vertical line.`
@@ -1404,9 +1404,9 @@
 ` ......That is all!"`
 `When she proclaimed that she had finished, the five blue wedges piercing the closet disappeared.`
 `However, the many large, splintered holes left behind showed that it had indeed been pierced......`
-`Then, ......as though this had concluded the ceremony that led to the {ruby:çeviri > Altın Diyar:Golden Land},`
-` ......the space that was the constructed {ruby:çeviri > misafir odası:guest room}...became countless golden flower petals and drifted away...`
-`Now, the duelists and the crowd of attendees......were surrounded by the golden {ruby:çeviri > gül bahçesi:rose garden} of the {ruby:çeviri > Altın Diyar:Golden Land}......`
+`Then, ......as though this had concluded the ceremony that led to the Golden Land,`
+` ......the space that was the constructed guest room...became countless golden flower petals and drifted away...`
+`Now, the duelists and the crowd of attendees......were surrounded by the golden rose garden of the Golden Land......`
 `However, the closet behind Beato remained.`
 `......It stood there all by itself,`
 ` like a coffin...`
@@ -1419,8 +1419,8 @@
 `That figure was covered up to the head by what appeared to be a greenish‐gray robe.`
 `......Of course, that also had large holes showing that it had been stabbed into...`
 `Eventually, it became clear that this was not a robe, but a raincoat.`
-`......If he had rushed here from the {ruby:çeviri > konukevi:guesthouse},`
-` then there would be nothing strange about him wearing this into the {ruby:çeviri > misafir odası:guest room}...`
+`......If he had rushed here from the guesthouse,`
+` then there would be nothing strange about him wearing this into the guest room...`
 `......Then,`
 ` ......with...`
 `......a rustle,`
@@ -1434,12 +1434,12 @@
 `...way.................."`
 `Inside the coffin of the closet,`
 ` ......nothing remained except an empty darkness.........`
-`"{p:1:Kanon does not exist in the {ruby:çeviri > misafir odası:guest room}.`
+`"{p:1:Kanon does not exist in the guest room.`
 ` .........Of course, this includes all parts of the closet, the bedroom, and the bathroom}."`
 `"Ah..................`
 `........................ah..............."`
 `"Kanon let Battler escape and hid in the closet...`
-` .........And then, he used {ruby:çeviri > büyü:magic} to disappear.`
+` .........And then, he used magic to disappear.`
 ` ............This is the witch's truth.`
 ` .........That is all."`
 `"Th‐the duel is {f:5:decided}...!! Cease—"`
@@ -1460,10 +1460,10 @@
 `All of the Seven Sisters also crowded about him in delight.`
 `"......Heh,`
 ` ......heheh,`
-` ......that's a nasty {ruby:çeviri > numara:trick}...`
+` ......that's a nasty trick...`
 ` You sure something like this counts......?`
-` With a {ruby:çeviri > numara:trick} like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn't mystery......"`
-`"No, it's a splendid {ruby:çeviri > numara:trick}!`
+` With a trick like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn't mystery......"`
+`"No, it's a splendid trick!`
 ` That just can't be {y:1:‘seen’}{n:1:seen} by people without love...!`
 ` ......Battler‐san,`
 ` ........Battler‐san,`
@@ -1565,7 +1565,7 @@
 ` ......I thought that I should...`
 `...properly introduce myself......"`
 `What's she saying? This late into the game......`
-`No one could imagine what {ruby:çeviri > kırmızı gerçek:red truth} Erika had loaded...`
+`No one could imagine what red truth Erika had loaded...`
 `"............Beato.`
 ` ......Are you sure?"`
 `"........................`

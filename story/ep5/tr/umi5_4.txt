@@ -1,4 +1,4 @@
-`"This {ruby:çeviri > gül bahçesi:rose garden} really is a masterpiece.`
+`"This rose garden really is a masterpiece.`
 ` It's gotten even more awesome than it was six years ago.`
 ` You're so lucky to have this as your yard!"`
 `"Are you kidding?`
@@ -36,7 +36,7 @@
 ` ......It isn't even lunchtime yet, ...and I'm already tired."`
 `The sparks had been flying between them and Eva's group only a few moments earlier.`
 `The others had pounded on Krauss and Natsuhi over and over to get Kinzo out of his study...`
-`Apparently, they hadn't been fully tricked at last year's family {ruby:çeviri > konferans:conference} after all......`
+`Apparently, they hadn't been fully tricked at last year's family conference after all......`
 `".........There are......no problems with Father, I assume...?"`
 `"Correct.`
 ` ......Leave it to me.`
@@ -53,19 +53,19 @@
 ` The locked‐room barrier on the study is perfect.`
 ` As long as the barrier remains unbroken, no one will be able to expose Kinzo's secret."`
 `".........Yes, I understand.`
-` Still, you heard that conversation in the {ruby:çeviri > salon:parlor} just now, didn't you?"`
+` Still, you heard that conversation in the parlor just now, didn't you?"`
 `"......Mm.`
 ` It seems that some considerable suspicions were aroused last year.`
 ` The terrible toxin has accumulated and is being spread all around."`
-`"......It seems this year's {ruby:çeviri > konferans:conference} really will be crucial."`
+`"......It seems this year's conference really will be crucial."`
 `"We might be able to overcome this year somehow, ......but there is such a thing as pushing our luck.`
 ` It's probably best to assume that next year won't be manageable."`
 `".........With this much of the anti‐magic toxin filling up the place,`
-` it will probably be difficult to preserve Lord {f:5:Goldsmith}'s {ruby:çeviri > büyü:magic} for yet another family {ruby:çeviri > konferans:conference}."`
+` it will probably be difficult to preserve Lord {f:5:Goldsmith}'s magic for yet another family conference."`
 `"W‐......who are you?"`
 `"Oh,`
 ` no need to be surprised.`
-` This man serves as my head {ruby:çeviri > mobilya:furniture}."`
+` This man serves as my head furniture."`
 `"Greetings, Madam Natsuhi.`
 ` My name is Ronove.`
 ` It is a pleasure to meet you......"`
@@ -75,7 +75,7 @@
 ` I am Ushiromiya Natsuhi.`
 ` I thank you for your cooperation."`
 `"Of course, Madam.`
-` ......I will be aiding you from the {ruby:çeviri > büyü:magic} world.`
+` ......I will be aiding you from the magic world.`
 ` Please rely on me."`
 `"............In that case, I guess I'll introduce myself next.`
 ` <Hi>, Riiche.`
@@ -93,16 +93,16 @@
 `"Whenever you set something small down somewhere but can't find it later, it's always a good idea to suspect that it's one of her pranks.`
 ` ......Long ago, she used to tease me all the time!"`
 `"I‐...is that so?`
-` ......In any event, this is the Ushiromiya {ruby:çeviri > malikane:mansion}.`
+` ......In any event, this is the Ushiromiya mansion.`
 ` As long as you are here, you will obey us.`
 ` You understand, correct?"`
 `"Of course.`
 ` We understand.`
-` ......Think of me as a Genji of the {ruby:çeviri > büyü:magic} world, and please give me orders whenever you wish."`
+` ......Think of me as a Genji of the magic world, and please give me orders whenever you wish."`
 `".........I'm pretty sure I know how to be a good guest.`
 ` ...I won't let the landlord lose face."`
 `"You can count on Ronove and Gaap.`
-` However, the {ruby:çeviri > büyü:magic} world and the {y:0:Human}{n:0:human} world are two different sides of the same coin."`
+` However, the magic world and the {y:0:Human}{n:0:human} world are two different sides of the same coin."`
 `"I understand.`
 ` ......Of course, I will do all I can in the {y:0:Human}{n:0:human} world.`
 ` Let's work together and protect Father's secret."`
@@ -161,8 +161,8 @@
 ` Seems like it's finally started raining."`
 `"Sheesh...`
 ` I wish I could keep the downpour limited to the inside of my heart."`
-`The people in the {ruby:çeviri > salon:parlor} noticed that raindrops had started to drip down the window.`
-`"So now, we have nowhere to run until the family {ruby:çeviri > konferans:conference} ends."`
+`The people in the parlor noticed that raindrops had started to drip down the window.`
+`"So now, we have nowhere to run until the family conference ends."`
 `"......The same thing goes for Nii‐san and his accomplices.`
 ` ......I won't let them escape, you can be certain of that...`
 ` The cards we're holding aren't bad.`
@@ -179,7 +179,7 @@
 ` Well, guess there's nothin' wrong with taking a nap."`
 `"There's a chance we might be forced to spend all night on this.`
 ` Getting a nap in now is probably a smart idea."`
-`Out of consideration for Rosa, who had fallen asleep on a sofa, the others quietly left the {ruby:çeviri > salon:parlor}.`
+`Out of consideration for Rosa, who had fallen asleep on a sofa, the others quietly left the parlor.`
 `Rosa slept, unaware.`
 `After telling Maria to just stay where she was after that tantrum over not being able to find her rose,`
 ` Rosa slept, unaware that the rain had started to fall......`
@@ -210,7 +210,7 @@
 ` It must be something more urgent than a few sheets getting wet by the rain."`
 `"What is it?`
 ` Has there been some sort of blunder?"`
-`"......A short while ago, someone came to the {ruby:çeviri > malikane:mansion}...claiming to have drifted here after an accident at sea."`
+`"......A short while ago, someone came to the mansion...claiming to have drifted here after an accident at sea."`
 `Krauss and Natsuhi couldn't help but go wide‐eyed and look at each other.`
 `This was the first time they had ever heard of someone coming to this island uninvited.`
 `"Someone drifted here......?`
@@ -230,13 +230,13 @@
 `".........Genji.`
 ` ...Is this drifter.........a man?"`
 `"No.`
-` ......She is a young woman, about the same age as {ruby:çeviri > Leydim:Milady}."`
+` ......She is a young woman, about the same age as Milady."`
 `"...A woman...?`
 ` .........I see.`
 ` Very well. Back to your work."`
-`The {ruby:çeviri > salon:parlor} of the {ruby:çeviri > malikane:mansion} was bustling.`
+`The parlor of the mansion was bustling.`
 ` The adults gathered, concerned about the well‐being of this sudden guest...`
-`"Well, if she was able to walk all the way to the {ruby:çeviri > gül bahçesi:rose garden} by herself, her life probably isn't in danger."`
+`"Well, if she was able to walk all the way to the rose garden by herself, her life probably isn't in danger."`
 `"......It always helps to be prepared.`
 ` It's probably all thanks to the life jacket.`
 ` Without that, she might have drowned."`
@@ -311,7 +311,7 @@
 ` And they said they would get her some clothes afterwards."`
 `"In that case, they will probably arrive here soon.`
 ` ......Everyone.`
-` This may be the day of the family {ruby:çeviri > konferans:conference}, but we have a guest brought here by an unfortunate accident.`
+` This may be the day of the family conference, but we have a guest brought here by an unfortunate accident.`
 ` She wasn't invited, but I want you all to welcome her."`
 `"Who could disagree with that?`
 ` I'm all for it."`
@@ -322,7 +322,7 @@
 ` Let's all greet her together."`
 `"I'm not so sure...`
 ` Wouldn't that just make her feel more timid...?"`
-`Eva stood up and made a phone call to the {ruby:çeviri > konukevi:guesthouse}.`
+`Eva stood up and made a phone call to the guesthouse.`
 `At that moment, they heard the sound of a knock, followed by Genji's voice.`
 `"......It is Genji.`
 ` The guest has arrived..."`
@@ -330,7 +330,7 @@
 `Genji came in first, opening the door slowly,`
 ` .........then moved off to the side, bowing deeply and urging the guest forwards.`
 `The guest had Shannon and Kumasawa following by her side,`
-` ......and though she looked at the large amount of relatives waiting for her in the {ruby:çeviri > salon:parlor}, she didn't seem overawed in the slightest.`
+` ......and though she looked at the large amount of relatives waiting for her in the parlor, she didn't seem overawed in the slightest.`
 `Just this single point...`
 `showed that this girl possessed a dignity appropriate for a guest invited in by the Ushiromiya family...`
 `"......Furudo‐sama, allow me to introduce you.`
@@ -373,17 +373,17 @@
 ` I'll make a detective proclamation about this piece."`
 `"Detective proclamation......?"`
 `"{p:1:I proclaim that Furudo Erika is the detective}."`
-`"{p:1:The detective is not the {ruby:çeviri > suçlu:culprit}}.`
+`"{p:1:The detective is not the culprit}.`
 ` {p:1:No proof is needed to show this}.`
 ` ......In short, there is absolutely no need to suspect this girl.`
 ` With this guarantee, you can theorize the same way as you always did, even now that she's appeared as a {y:0:Human}{n:0:human} piece, right...?"`
 `"......That's Knox's seventh commandment.`
-` ‘It is forbidden for the detective to be the {ruby:çeviri > suçlu:culprit}’.`
+` ‘It is forbidden for the detective to be the culprit’.`
 ` There was an exception clause in the original, but for this game`
 ` ‘`
-`{p:1:the detective isn't the {ruby:çeviri > suçlu:culprit}}’ has been proclaimed in red, so you don't need to consider the exception.`
+`{p:1:the detective isn't the culprit}’ has been proclaimed in red, so you don't need to consider the exception.`
 ` I hate word games, so I'll say it in red too.`
-` {p:1:Furudo Erika is not the {ruby:çeviri > suçlu:culprit}}."`
+` {p:1:Furudo Erika is not the culprit}."`
 `"Repetition requested.`
 ` ......‘Furudo Erika had no influence on any of Beato's games before now’."`
 `"Sure, I'll respond.`
@@ -396,7 +396,7 @@
 ` {p:1:It has only increased by one person: Furudo Erika}.`
 ` {p:1:Besides her, the number of people on this island is exactly the same as it was in the previous games}."`
 `At that time, the loud sound of people running through the corridor could be heard.`
-`It was Battler, George, and Jessica, who had come from the {ruby:çeviri > konukevi:guesthouse} after being called here by Eva.`
+`It was Battler, George, and Jessica, who had come from the guesthouse after being called here by Eva.`
 `They immediately spotted a guest they didn't recognize, and their eyes went wide.`
 `"......Whoa...`
 ` ......Wh‐who are you.........?"`
@@ -418,13 +418,13 @@
 `Though Battler, George, and Jessica didn't have a clue what was going on and were utterly bewildered, they each introduced themselves...`
 `"......Isn't that convenient.`
 ` This way, the number of people is clear.`
-` The people in the {ruby:çeviri > konukevi:guesthouse} have joined up with the rest, and now, all of the pieces except for Kinzo—all of the {y:0:Human}{n:0:human}s—have gathered in the {ruby:çeviri > salon:parlor}."`
+` The people in the guesthouse have joined up with the rest, and now, all of the pieces except for Kinzo—all of the {y:0:Human}{n:0:human}s—have gathered in the parlor."`
 `"Looks like it.`
-` {p:1:In other words, the number of people in this {ruby:çeviri > salon:parlor} now is equal to the total number of people on this island}."`
+` {p:1:In other words, the number of people in this parlor now is equal to the total number of people on this island}."`
 `"There were supposedly 18 humans on the island, ...but since Grandfather was actually dead, that became 17.`
 ` ......And now that one piece of {f:5:Bernkastel}'s has been added......"`
 `The number of humans on this island has returned to 18......`
-`"I" glanced around at the humans in the {ruby:çeviri > salon:parlor}.`
+`"I" glanced around at the humans in the parlor.`
 `The guest, Furudo Erika.`
 ` And behind her, Kumasawa‐san and Shannon‐chan.`
 ` Off to the side was Genji‐san.`
@@ -432,8 +432,8 @@
 `Gohda‐san immediately started showing off,`
 ` and Kanon‐kun was being unsociable, wearing his usual blank expression.`
 `There was Dad and Kyrie‐san.`
-` {ruby:çeviri > Hala:Auntie} Eva and Uncle Hideyoshi.`
-` {ruby:çeviri > Hala:Auntie} Rosa and Maria.`
+` Auntie Eva and Uncle Hideyoshi.`
+` Auntie Rosa and Maria.`
 ` And Doctor Nanjo.`
 `And on either side of me...`
 `George‐aniki,`
@@ -448,13 +448,13 @@
 ` ......I'd be pleased if you would call me Erika."`
 `"Nice to meet you, Erika‐san...!"`
 `Erika was welcomed like a guest,`
-` and it was decided that she could borrow the bedroom next to the cousins' room on the upper floor of the {ruby:çeviri > konukevi:guesthouse}.`
+` and it was decided that she could borrow the bedroom next to the cousins' room on the upper floor of the guesthouse.`
 `In front of all the relatives, she had seemed dignified and a bit stiff.`
 `However, as she talked with George and Jessica, her expression began to soften gradually......`
 `{m:-5:——}And so,`
 ` the "detective", Furudo Erika, was placed on the game board......`
 `"I'm surprised that Jessica's old clothes suit her so well."`
-`"......Kumasawa made the decision on her own to use {ruby:çeviri > Leydim:Milady}'s old clothes.`
+`"......Kumasawa made the decision on her own to use Milady's old clothes.`
 ` Please forgive her."`
 `The clothes Erika was wearing were Jessica's old formal attire.`
 `Though the guest possessed a dignity that would put many adults to shame, her body was still physically similar to a middle‐schooler's.`
@@ -483,7 +483,7 @@
 ` ......This is the middle of a typhoon.`
 ` There is no place on this island where it would be possible to land a boat."`
 `Genji had already figured it out.`
-`Natsuhi almost certainly suspected that this mysterious guest, who had arrived during the already high‐stress family {ruby:çeviri > konferans:conference},`
+`Natsuhi almost certainly suspected that this mysterious guest, who had arrived during the already high‐stress family conference,`
 ` might be a pawn in someone's plot.`
 `Therefore, Genji had already checked to make sure that the accident was real, that Furudo Erika was her real name,`
 ` and that there was nothing suspicious going on......`
@@ -492,8 +492,8 @@
 ` Make sure that there are no blunders.`
 ` ......However.........you understand, don't you?"`
 `"Yes.`
-` ......We will not allow her anywhere near the family {ruby:çeviri > konferans:conference}.`
-` After dinner, I will see that she retires to the {ruby:çeviri > konukevi:guesthouse}."`
+` ......We will not allow her anywhere near the family conference.`
+` After dinner, I will see that she retires to the guesthouse."`
 `"Make sure that they don't start talking about letting her meet Father, or anything like that, either."`
 `"Of course.`
 ` I will keep that in mind."`
@@ -510,7 +510,7 @@
 ` {y:0:Human}{n:0:Human}s certainly cannot win against Gaap!"`
 `"............Thanks.`
 ` Still, it's not a good idea to overestimate yourself.`
-` ......The definition of a witch doesn't only imply the ability to use {ruby:çeviri > büyü:magic}."`
+` ......The definition of a witch doesn't only imply the ability to use magic."`
 `"True.`
 ` ......A joker and the eye of a typhoon.`
 ` That is what a witch is..."`

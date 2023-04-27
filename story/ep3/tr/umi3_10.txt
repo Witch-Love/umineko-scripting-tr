@@ -27,18 +27,18 @@
 ` Don't overdo it, rest."`
 `Hideyoshi looked around at everyone to see who wanted to sleep first, but no one volunteered.`
 `...Everyone was just as tired, but no one was bold enough to be able to sleep now.`
-` ......Their fear of the unknown {ruby:çeviri > suçlu:culprit} was just as strong as their sleepiness.`
+` ......Their fear of the unknown culprit was just as strong as their sleepiness.`
 `"......Nobody?`
 ` Well, don't overdo it, everyone."`
 `"If we get tired, we can think about it then.`
 ` ......I certainly am tired, but I'm not in the mood now."`
-`Eva spoke sharply, and then read once more over the second letter from {f:5:Beatrice}, which had been found in the {ruby:çeviri > kazan dairesi:boiler room}.`
-`{f:5:Beatrice} had sent them two letters, and had repeatedly told them to solve the riddle of the {ruby:çeviri > kitabe:epitaph}.`
+`Eva spoke sharply, and then read once more over the second letter from {f:5:Beatrice}, which had been found in the boiler room.`
+`{f:5:Beatrice} had sent them two letters, and had repeatedly told them to solve the riddle of the epitaph.`
 `And she had even provoked them by saying she would give up the inheritance, both assets and headship, if it could be solved...`
-`Eva took out a notebook and opened it to a page with the {ruby:çeviri > kitabe:epitaph} copied onto it.`
-`"............Is that the {ruby:çeviri > kitabe:epitaph}?"`
+`Eva took out a notebook and opened it to a page with the epitaph copied onto it.`
+`"............Is that the epitaph?"`
 `"Yes.`
-` ......Although it's annoying to do as the {ruby:çeviri > suçlu:culprit} says,`
+` ......Although it's annoying to do as the culprit says,`
 ` after all, we do have time to waste.`
 ` I think it's the perfect way to stave off boredom."`
 `"...Not a bad way to kill time.`
@@ -46,10 +46,10 @@
 `"......Can I borrow that?`
 ` I'll rewrite it just a little larger.`
 ` Natsuhi‐san, do you have a slightly larger piece of paper?"`
-`"There should be paper in the {ruby:çeviri > hizmetkar:servant} room.`
+`"There should be paper in the servant room.`
 ` I will bring some."`
-`Natsuhi immediately brought a B4 blank sheet of paper from the {ruby:çeviri > hizmetkar:servant} room.`
-`Kyrie borrowed Eva's notebook, wrote out the {ruby:çeviri > kitabe:epitaph} on the paper, and laid it out on the table.`
+`Natsuhi immediately brought a B4 blank sheet of paper from the servant room.`
+`Kyrie borrowed Eva's notebook, wrote out the epitaph on the paper, and laid it out on the table.`
 `Straight away, everyone peered down at it.`
 `{n}...A fence of people naturally formed.`
 `"I've heard about it, but...`
@@ -67,7 +67,7 @@
 ` ......She might be able to tackle it in an interesting way if we don't give her any strange preconceptions."`
 `".........Yes.`
 ` Kyrie‐san.`
-` Will you let us hear your honest thoughts having read the {ruby:çeviri > kitabe:epitaph}?"`
+` Will you let us hear your honest thoughts having read the epitaph?"`
 `"I think it probably won't be very useful to all of you.`
 ` You all give me too much credit."`
 `"No way, anything that comes to mind would be helpful.`
@@ -88,14 +88,14 @@
 `"Mmhm.`
 ` ......What did you mean in the beginning, about how, roughly speaking, it could be divided into three parts?"`
 `"Well...I just mean what I said.`
-` I think that overall, the {ruby:çeviri > kitabe:epitaph} can be divided into three parts."`
+` I think that overall, the epitaph can be divided into three parts."`
 `"First, there are the five lines up to and including "There the {loghint:kagi:key} to the {loghint:ougon:gold} sleeps".`
 ` Up until this point is the first part, which points to the location of the key."`
 `"And then there's the part formed by the eleven lines up until the tenth twilight, which refer to the location of the {loghint:ougonkyou:Golden Land} itself."`
-`"And the remaining six lines make up the part after the {ruby:çeviri > Altın Diyar:Golden Land} has been reached."`
+`"And the remaining six lines make up the part after the Golden Land has been reached."`
 `"I see.`
-` The key, the {ruby:çeviri > Altın Diyar:Golden Land},`
-` and the {ruby:çeviri > Altın Diyar:Golden Land}'s {loghint:takara:treasure}; it can be divided into these three parts."`
+` The key, the Golden Land,`
+` and the Golden Land's {loghint:takara:treasure}; it can be divided into these three parts."`
 `"Even we have been able to grasp that much.`
 ` The three sections that refer to the key, the door, and the treasure."`
 `"...Nii‐san, don't butt in any more than you have to!`
@@ -142,7 +142,7 @@
 `"......It probably isn't something like that."`
 `"What do you mean...?"`
 `".........Behold the sweetfish river, running through my beloved home of old.`
-` You who seek the {ruby:çeviri > Altın Diyar:Golden Land}, follow its path downstream in search of the key.`
+` You who seek the Golden Land, follow its path downstream in search of the key.`
 ` ...After these two lines, there is a single blank line."`
 `"...Something is being presented with just these two lines.`
 ` I would suppose the next three lines continue based upon that something."`
@@ -188,8 +188,8 @@
 ` I just made it Maria on my own.`
 ` Father was very mad about that."`
 `"......If you think about the history there,`
-` I just really couldn't imagine that he'd reference Maria's name in his precious {ruby:çeviri > kitabe:epitaph} about who would inherit his wealth and the family headship."`
-`"Have you ever let Maria‐chan read the {ruby:çeviri > kitabe:epitaph}?"`
+` I just really couldn't imagine that he'd reference Maria's name in his precious epitaph about who would inherit his wealth and the family headship."`
+`"Have you ever let Maria‐chan read the epitaph?"`
 `"Um, yes. Of course I have.`
 ` But she didn't seem to have a clue.`
 ` ......She didn't have a clue, and she kept going on about that same occult stuff, about how it was a {loghint:fukkatsu:resurrection} {loghint:gishiki:ceremony} for the witch."`
@@ -225,23 +225,23 @@
 ` ......Think not too deeply, about a river with {loghint:sakana:fish} swimming in it, or some kind of {loghint:nagare:flow},`
 ` ...something you can {loghint:kudaru:go down} or {loghint:noboru:go up},`
 ` keep those kinds of abstract images in mind, and we may be able to come up with more out‐of‐the‐box ideas."`
-`"And via the three lines that follow, the answer for the "sweetfish river" ends up at the "key to the {ruby:çeviri > Altın Diyar:Golden Land}"..."`
+`"And via the three lines that follow, the answer for the "sweetfish river" ends up at the "key to the Golden Land"..."`
 `"If you think about it this way, I wonder if it was a mistake to split it into three parts.`
 ` There's actually four parts.`
 ` ......‘Go down the sweetfish river’,`
-` "find the key to the {ruby:çeviri > Altın Diyar:Golden Land}",`
-` "journey to the {ruby:çeviri > Altın Diyar:Golden Land}",`
-` and "the treasure of the {ruby:çeviri > Altın Diyar:Golden Land}"."`
+` "find the key to the Golden Land",`
+` "journey to the Golden Land",`
+` and "the treasure of the Golden Land"."`
 `"Hmmm... ......Truly interesting.`
 ` While we have this opportunity,`
 ` would you mind continuing and telling us your opinion about the most central portion of the {loghint:hibun:epitaph},`
-` up until the {loghint:dai‐juu no ban:tenth twilight} where we arrive at the {ruby:çeviri > Altın Diyar:Golden Land}?"`
+` up until the {loghint:dai‐juu no ban:tenth twilight} where we arrive at the Golden Land?"`
 `"......That's the most symbolic, ...and also the most disturbing part."`
 `"Since it keeps mentioning the word {loghint:ikenie:sacrifice},`
 ` I can't help but think it has something to do with Father's occult {loghint:gishiki:rituals}...`
 ` .........How do you see it, Kyrie‐san?"`
 `Kyrie recrossed her arms several times,`
-` peering into the paper with the {ruby:çeviri > kitabe:epitaph} copied onto it as though she was looking through it...`
+` peering into the paper with the epitaph copied onto it as though she was looking through it...`
 `"...........................`
 ` .........This is...very difficult.`
 ` ...By starting with "You who laid {loghint:te:hand} upon the key",`
@@ -253,7 +253,7 @@
 ` There's also the possibility that it's a code or a keyword.`
 ` ......After all, this key isn't something to be stuck into a keyhole.`
 ` It's something that selects the six people to be sacrifices for the first twilight."`
-`"In that sense, we can state that this key isn't something to open the door to the {ruby:çeviri > Altın Diyar:Golden Land}."`
+`"In that sense, we can state that this key isn't something to open the door to the Golden Land."`
 `"......But what a disturbing key.`
 ` A key that can select six people to be sacrifices..."`
 `"How would a key {loghint:erabu:select} anything?`
@@ -295,7 +295,7 @@
 `"...............So maybe that "remove" part is actually represented by "{loghint:korosu:kill}"...?"`
 `"Yes.`
 ` I was just thinking that too.`
-` It's possible that the key to the {ruby:çeviri > Altın Diyar:Golden Land} is a word with {loghint:roku‐moji:six characters}."`
+` It's possible that the key to the Golden Land is a word with {loghint:roku‐moji:six characters}."`
 `"In other words, ...the "ta" from the Tanuki Notebook...is actually six characters here...?`
 ` Hmmm, ...this is gettin' complicated..."`
 `"Playing with letters, is it...`
@@ -332,14 +332,14 @@
 ` ...But I doubt there's enough for 18 people here, and for three meals."`
 `"You're right there.`
 ` It'll be a marathon to tomorrow.`
-` It might be better if we took a trip back to the {ruby:çeviri > malikane:mansion} and fished around for some canned food or something in the kitchen."`
+` It might be better if we took a trip back to the mansion and fished around for some canned food or something in the kitchen."`
 `"There's nothing more than crackers and snacks, but if that is alright, I can prepare them.`
 ` But with this many people, there might not be any left for lunch..."`
 `"That will be fine for now.`
 ` Sorry, but would you prepare it for us?"`
 `It looked like the men had been taken over with an appetite that stopped all thought.`
-`The atmosphere grew more peaceful, and the {ruby:çeviri > kitabe:epitaph} investigation meeting broke up for the time being.`
-`But Eva kept staring at the paper the {ruby:çeviri > kitabe:epitaph} was written on like she was going to burn a hole through it...`
+`The atmosphere grew more peaceful, and the epitaph investigation meeting broke up for the time being.`
+`But Eva kept staring at the paper the epitaph was written on like she was going to burn a hole through it...`
 `"............A word game was nothing more than my theory.`
 ` There is a chance that it's mistaken.`
 ` Eva‐san, don't take it too seriously, okay...?"`
@@ -357,7 +357,7 @@
 `".........Come {i:on}.`
 ` Why are you like this?"`
 `"......Huh?"`
-`"The Ushiromiya family inheritance will be given to the person who solves this {ruby:çeviri > kitabe:epitaph}.`
+`"The Ushiromiya family inheritance will be given to the person who solves this epitaph.`
 ` You seem to have given up from the beginning, as though it has nothing to do with you,`
 ` but if you could solve it, even you have the opportunity to inherit the family headship."`
 `"......This is a chance to steal everything from Nii‐san.`
@@ -366,7 +366,7 @@
 `Rosa hung her head, troubled over how she should answer.`
 `{n}...She regretted, for the first time in a while, carelessly speaking to her sister when she was in a bad mood.`
 `"If you've noticed anything, say so.`
-` Even though Kyrie‐san and I were seriously {ruby:çeviri > muhakeme:reasoning}, you just kept nodding your head, didn't you?`
+` Even though Kyrie‐san and I were seriously reasoning, you just kept nodding your head, didn't you?`
 ` Come on.`
 ` Isn't there anything you've noticed?`
 ` Come on!"`
@@ -377,14 +377,14 @@
 `"...Strange?`
 ` What is?"`
 `"Umm, ......this word, {loghint:ougonkyou:Golden Land}.`
-` The word {ruby:çeviri > Altın Diyar:Golden Land} comes up several times."`
+` The word Golden Land comes up several times."`
 `"So what?`
-` Do you get some keywords by splitting up the characters in "{ruby:çeviri > Altın Diyar:Golden Land}"?"`
+` Do you get some keywords by splitting up the characters in "Golden Land"?"`
 `"Um, umm, that's not it.`
 ` ......Look, isn't just the tenth twilight strange?"`
 `"...............Huh?`
 ` ......ah."`
-`"Even though they're all written the "{ruby:çeviri > Altın Diyar:Golden Land}" ({ruby:ougonkyou:{p:0:黄金郷}}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:{p:0:黄金の郷}}).`
+`"Even though they're all written the "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:{p:0:黄金の郷}}).`
 ` He explicitly mixed in the character {ruby:no:{p:0:の}}, changing the phrasing.`
 ` It vaguely bugged me that it's only said differently here..."`
 `".........ah, umm, ...it's not like it means anything.`
@@ -475,13 +475,13 @@
 ` Think about what it means by yourself, alright?"`
 `"Yeah, yeah!`
 ` I'll think about it myself, so please!`
-` Please, give me one that'll leave Battler down in the dumps, {ruby:çeviri > Efendi:Master}rrr."`
+` Please, give me one that'll leave Battler down in the dumps, Masterrrr."`
 `It was truly shameful how she behaved when Battler wasn't around, even though she acted utterly like a Great Witch in front of him.`
 `{f:5:Virgilia} sighed, lamenting under her breath that Beato never seemed to grow up.`
 `"Then just a hint.`
-` ......Do you know of Aesop's fable, {ruby:çeviri > Güneş ve Kuzey Rüzgarı:The North Wind and the Sun}?"`
+` ......Do you know of Aesop's fable, The North Wind and the Sun?"`
 `"Of course.`
-` It's a story about how {ruby:çeviri > güneş ve kuzey rüzgarı:the north wind and the sun} challenge each other to steal the cloak of a traveler, right?"`
+` It's a story about how the north wind and the sun challenge each other to steal the cloak of a traveler, right?"`
 `"That's right.`
 ` The moral is that violent or impatient methods aren't always necessarily the best decisions."`
 `"......You don't have to tell me that.`
@@ -508,9 +508,9 @@
 ` .........In any event, your moves up until now will not work on Battler‐kun.`
 ` A significant tactical conversion will probably be required."`
 `"...I know that even without you telling me.`
-` ......I don't have a clue what you mean by {ruby:çeviri > Güneş ve Kuzey Rüzgarı:the North Wind and the Sun},`
+` ......I don't have a clue what you mean by the North Wind and the Sun,`
 ` but anyway, I understand that I will have to change my direction.`
-` ......I'll showcase a clever scheme that will surprise even you, {ruby:çeviri > Efendi:Master}...!"`
+` ......I'll showcase a clever scheme that will surprise even you, Master...!"`
 `"Hoh‐hoh‐ho...`
 ` I look forward to it.`
 ` I wonder how Battler‐kun will tackle that.`
@@ -522,17 +522,17 @@
 `...As my consciousness grew vague and I pretended to fight my drowsiness, sinking deeper and deeper into the sofa,`
 ` "I" scolded "myself".`
 `"......Don't you remember how much you dreamed about stealing the position of family head from Krauss...?"`
-`"Even though I gave you that chance with my {ruby:çeviri > büyü:magic}, you're already throwing it away...?"`
+`"Even though I gave you that chance with my magic, you're already throwing it away...?"`
 `You say that, but...`
 ` ............This riddle is really difficult.`
 `Even a wire puzzle would be better.`
 `...At least in that case, you're assured that it definitely is solvable.`
-`But with this {ruby:çeviri > kitabe:epitaph} riddle, I don't know if I'm even assured that.`
+`But with this epitaph riddle, I don't know if I'm even assured that.`
 `......I might just be fighting a useless battle.`
 `...Still hazy, I looked at the notebook which I had been holding the whole time.`
-`It was opened to the page with the {ruby:çeviri > kitabe:epitaph}, which I had stared at, almost burned a hole through, on so many hundreds of nights I had lost count.`
+`It was opened to the page with the epitaph, which I had stared at, almost burned a hole through, on so many hundreds of nights I had lost count.`
 `......That...is truly a door.`
-`On the other side...is the "{ruby:çeviri > Altın Diyar:Golden Land}", that place which ever since I was a child I've wished to reach, I've spared no effort to reach,`
+`On the other side...is the "Golden Land", that place which ever since I was a child I've wished to reach, I've spared no effort to reach,`
 ` ...and I've never been able to reach.`
 `Here I am with both hands upon the door,`
 ` ...and even though the book, no, the door is open, I still cannot reach the other side?`
@@ -545,7 +545,7 @@
 ` ...Read the characters...`
 `written on the door..."`
 `Strain your eyes.`
-` ......See through to what lies further beyond the {ruby:çeviri > kitabe:epitaph} written in the notebook...`
+` ......See through to what lies further beyond the epitaph written in the notebook...`
 `"...The "beloved home of old" definitely won't betray our expectations.`
 ` ......The only past that Father held dear was his years as a boy."`
 `That's right......`
@@ -583,7 +583,7 @@
 `"......You really don't know?`
 ` Think deeply.`
 ` .........We're too smart for our own good, so our thoughts are inflexible."`
-`"Don't think of it like it's something as grandiose as "The Riddle of the {ruby:çeviri > Kitabe:Epitaph}", but like it's a child's puzzle.`
+`"Don't think of it like it's something as grandiose as "The Riddle of the Epitaph", but like it's a child's puzzle.`
 ` ......Men are always children, no matter how old they get.`
 ` Even if Father has advanced into old age,`
 ` that doesn't change the fact that he is essentially a child inside his heart."`
@@ -619,7 +619,7 @@
 ` I'll be right back."`
 `Leaving only those words behind, I left the lobby at a brisk pace.`
 `The lobby was partitioned off by a door, so as soon as I went into the corridor, they could no longer see me.`
-`......The archive was next to the {ruby:çeviri > hizmetkar:servant} room.`
+`......The archive was next to the servant room.`
 `Father always owned a vast book collection,`
 ` but after he started to become engrossed with his occult hobby, his library of those kinds of books grew even larger,`
 ` so that the normal books suitable for a normal study had been forced out as his study overflowed.`
@@ -704,11 +704,11 @@
 `"......I,`
 ` ......I found it.`
 ` ...This is...`
-`......the {ruby:çeviri > Altın Diyar:Golden Land}'s...`
+`......the Golden Land's...`
 `k‐`
 `......key.........!!"`
 `Yes.`
-` That is...the key to the {ruby:çeviri > Altın Diyar:Golden Land}.`
+` That is...the key to the Golden Land.`
 ` ......The key...to our childhood dreams.`
 `......The only keyhole to stick that key in...is that place.`
 `That...is definitely what offers the sacrifices.`

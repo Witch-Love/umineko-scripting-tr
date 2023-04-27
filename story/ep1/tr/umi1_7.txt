@@ -1,863 +1,863 @@
-`A news ticker popped up on top of the TV program we were watching.`
-`{n}The disaster report told how municipalities all over were continually sending out rain, flood, and wave warnings.`
-`Of course, the harshly beating raindrops on the window were much more convincing.`
-`"......This rain's incredible.`
-` Still, when it's raining this hard, it feels like it's going to stop soon."`
-`"You wish!`
-` They said the typhoon's moving slow, so it could be like this all day tomorrow.`
-` And even a little weather'd be enough to stop the boats."`
-`"It looks like we won't be able to head out on Sunday after all.`
-` ...I'm glad I was cautious and didn't make any appointments for Monday with the outside world."`
-`"I guess this means...ihihi...it looks like we'll be skipping school Monday~.`
-` Living on an island's starting to look pretty good!`
-` ......Come to think of it, Jessica, you have to take a boat to school every day, right?`
-` What do you do when the boats are closed down?`
-` Do you stay home when it rains and show up late when the wind's blowing, like King Kamehameha?"`
-`"If the boats don't come, I stay home.`
-` Still, it's not as good as it sounds.`
-` Most of the time, I get ordered to do private study, and they're super anal about checking it, so it's not like I can take it easy."`
-`"During the rainy season, when the weather stays bad for a long time,`
-` you must be forced to miss a bunch of days in a row?"`
-`"Yep, that happens.`
-` But then, every single day, I'll get a call from my homeroom teacher, sourly instructing me on what to study and what to turn in."`
-`"She can't slack off as easily as you're thinking, Battler‐kun.`
-` She has to follow the rules for people that travel to school by boat and get a good amount of studying done."`
-`"It'd actually be easier to just go to school.`
-` In my own room, I get distracted and can't concentrate.`
-` Plus, being made to do nothing but workbooks for several days straight is really mentally stressful."`
-`"......When I'm ready for college, I really just wanna go some place with dorms and say goodbye and good riddance to this pain‐in‐the‐ass island."`
+`İzlediğimiz televizyon programının üst kısmında bir haber bülteni belirdi.`
+`{n}Afet haberinde tüm belediyelerin nasıl sürekli yağmur, sel ve dalga uyarıları yaptığı anlatılıyordu.`
+`Tabii ki cama sertçe vuran yağmur damlaları çok daha ikna ediciydi.`
+`"......Bu yağmur inanılmaz.`
+` Yine de, bu kadar şiddetli yağdığında, yakında duracakmış gibi hissettiriyor."`
+`"Keşke!`
+` Tayfunun yavaş hareket ettiğini söylediler, yani yarın bütün gün böyle olabilirmiş.`
+` Ve küçük bir fırtına bile tekneleri durdurmaya yeter."`
+`"Görünüşe göre Pazar günü yola çıkamayacağız.`
+` ...Tedbirli davrandığım ve Pazartesi günü için herhangi bir randevu almadığım için memnunum."`
+`"Sanırım bunun anlamı...ihihi...Pazartesi günü okula gidemeyeceğiz gibi görünüyor~.`
+` Bir adada yaşamak oldukça iyi gelmeye başladı!`
+` ......Bir düşününce Jessica, her gün okula tekneyle gitmek zorundasın, değil mi?`
+` Tekne seferleri durdurulduğunda ne yapıyorsun?`
+` Yağmur yağdığında evde kalıp, rüzgar estiğinde Kral Kamehameha gibi geç mi gidiyorsun?"`
+`"Tekneler gelmezse evde kalıyorum.`
+` Yine de göründüğü kadar iyi değil.`
+` Çoğu zaman kendi başıma çalışmam isteniyor ve kontrol konusunda çok titizler, bu yüzden rahat edemiyorum."`
+`"Yağmurlu mevsimlerde, hava uzun süre kötü kaldığında,`
+` arka arkaya birkaç gün okulu kaçırmak zorunda mı kalıyorsun?"`
+`"Evet, öyle olduğu oluyor.`
+` Ama sonra, her gün sınıf öğretmenimden bir telefon alıyorum, bana ne çalışmam ve neyi teslim etmem gerektiği konusunda ekşi bir şekilde talimat veriyor."`
+`"O düşündüğün kadar kolay kaytaramaz, Battler-kun.`
+` Okula tekneyle giden insanların uyması gereken kurallara uymak ve derslerini iyi bir şekilde idare etmek zorunda."`
+`"Aslında sadece okula gitmek daha kolay olurdu.`
+` Kendi odamda dikkatim dağılıyor ve konsantre olamıyorum.`
+` Ek olarak, birkaç gün boyunca çalışma kitaplarından başka bir şeye bakmamak zorunda kalmak zihinsel olarak gerçekten stresli."`
+`"......Üniversiteye hazır olduğumda, gerçekten sadece yurtları olan bir yere gitmek ve bu baş belası adaya veda edip kurtulmak istiyorum."`
 `"Huh...`
-` So, by the way, what do you do when the weather's good in the morning, but then gets so bad on your way home that the boats are closed?`
-` Do you spend the night at school?"`
-`"That actually happens a lot.`
-` So they have some lodgings there for people who can't get back to the island.`
-` I stay over there.`
-` Sometimes, when it gets really bad, I can't get back home for a few days at a time."`
-`"If you look at it from the perspective of those people who have to go to school every day on a train packed to over 200% capacity,`
-` it's easy to irresponsibly think that going to school on a boat seems pretty interesting and fun.`
-` But it's actually hard work in a lot of ways."`
-`"Inconsiderate tourists say that kind of thing all the time.`
-` I've had enough of island life.`
-` I want to finish high school quick and leave this island behind."`
-`"There must've been a full boarding school you could've gone to.`
-` Why'd you go and choose the school on Niijima?"`
-`"That's what I wanted from the very beginning!!`
-` It's Mom, she's always going on about how I need to learn manners and discipline as the {ruby:çeviri > halef:successor} to the head."`
-`"...In the end, I got stuck with a high school close to home.`
-` Man, I hate this island.`
-` I just want to go live in a city.`
-` A city where it doesn't matter if rain or even spears fall from the sky, 'cause as long as you stick some casual clothes and sandals on,`
-` you can still get to a shop in less than five minutes..."`
+` Bu arada, sabah hava güzelken gittiğinde ve akşam eve dönerken hava kötüleşip tekneler durdurulduğunda ne yapıyorsun?`
+` Geceyi okulda mı geçiriyorsun?"`
+`"Aslında bu da çok oluyor.`
+` Adaya dönemeyen insanlar için orada bazı pansiyonlar var.`
+` Ben orada kalıyorum.`
+` Bazen hava çok kötüye gittiğinde birkaç gün eve dönemiyorum."`
+`"Olaya bir de her gün %200 kapasiteyle dolu bir trenle okula gitmek zorunda kalan insanların gözünden bakarsan,`
+` sorumsuzca bir tekneyle okula gitmenin oldukça ilginç ve eğlenceli göründüğünü düşünebilirsin.`
+` Ama aslında pek çok açıdan zor bir iş."`
+`"Düşüncesiz turistler her zaman böyle şeyler söyler.`
+` Ada hayatından bıktım artık.`
+` Bir an önce liseyi bitirip bu adayı geride bırakmak istiyorum."`
+`"Lise için bile gidebileceğin yatılı okullar olmalı.`
+` Neden Niijima'daki okulu seçtin?"`
+`"Benim en başından beri istediğim buydu!!`
+` Annem, her zaman reisin halefi olarak nasıl görgü ve disiplin öğrenmem gerektiğinden bahsedip durdu."`
+`"...İşin sonunda evime yakın bir liseye gitmek zorunda kaldım.`
+` Bu adadan nefret ediyorum.`
+` Gidip bir şehirde yaşamak istiyorum.`
+` Yağmurun ve hatta mızrakların gökten düşmesinin önemli olmadığı, üzerinize gündelik kıyafetlerinizi ve sandaletlerinizi giydiğiniz sürece,`
+` hala beş dakikadan daha kısa bir sürede bir dükkana gidebileceğiniz bir şehirde..."`
 `"Hahahaha.`
-` Hold out just a bit more.`
-` It's only a little longer until you graduate high school, right?"`
-`"I can't wait a little longer.`
+` Birazcık daha dayan.`
+` Liseden mezun olmana az kaldı, değil mi?"`
+`"Daha fazla bekleyemem.`
 ` Aaaaaah..."`
-`Jessica stretched out and reclined on the sofa.`
-`Maybe because now was a bad time slot, there weren't any interesting programs on,`
-` and we had nothing to do but languidly kill time until we were called for dinner.`
-`In the end, Maria had not returned to the cousins' room.`
-`She had probably been brought back to the {ruby:çeviri > malikane:mansion} by {ruby:çeviri > Hala:Auntie} Rosa.`
-`It had to be pretty boring for Maria, all by herself while the adults are having a confusing conversation.`
-`......We thought we might head over to the {ruby:çeviri > malikane:mansion} to see her, but after all, there was this lousy weather,`
-` and there wasn't much time until dinner, so we stayed where we were.`
-`At that time, we heard the sound of a humble knock.`
-`{n}Jessica answered.`
-`"Hello~!"`
-`".........The preparations for dinner are complete.`
-` Please come to the {ruby:çeviri > malikane:mansion}."`
-`It was Kanon‐kun's voice.`
-` He went to all the trouble of coming from the {ruby:çeviri > malikane:mansion} in this rain just to call us over?`
-`Couldn't he have just called us on the telephone?`
-`{n}......Oh well, maybe sometimes part of a {ruby:çeviri > hizmetkar:servant}'s duty is to go against common sense.`
-`"Just when I was getting hungry.`
-` Let's go."`
-`George‐aniki turned off the television and stood up.`
-`"My stomach's been growling for a~ges!`
-` Main family dinners were always fancy as hell, every time!`
-` And didn't Gohda‐san say it was calf steak or something?`
-` Oohh, I can't wai~t!!"`
-`"They get even more fabulous on the day of the family {ruby:çeviri > konferans:conference}.`
-` Even I'm looking forward to it!`
-` Let's go, let's go."`
-`As we left the room, Kanon‐kun bowed silently and respectfully.`
-`"Alright, let's go.`
-` Is the rain nasty out there?"`
-`"......Yes.`
-` Please take care not to get your garments wet."`
-`After seeing the three of us out, Kanon‐kun peered into the empty room.`
-`".........Is Maria‐sama not with you...?"`
-`"Nope?`
-` Isn't she with {ruby:çeviri > Hala:Auntie} Rosa?"`
-`Rosa, lying on a sofa in the empty {ruby:çeviri > salon:parlor}, had fallen asleep at some point.`
-`...She was bearing a burden on her shoulders that the children could never even imagine.`
-`Therefore, when she let herself relax, that exhaustion quickly led her into the world of sleep.`
-`Realizing this, Genji brought a blanket over to her.`
-`{n}When he tried to spread it over her, her eyes snapped open as though she had received an electric shock.`
+`Jessica gerindi ve kanepeye yaslandı.`
+`Belki de şu an kötü bir zaman dilimi olduğu için, ilginç bir program yoktu,`
+` ve akşam yemeği için çağrılana dek tembel tembel zaman öldürmekten başka yapacak bir şeyimiz yoktu.`
+`Maria hala kuzenlerin odasına dönmemişti.`
+`Muhtemelen Rosa Teyze tarafından malikaneye geri götürülmüştü.`
+`Yetişkinler kafa karıştırıcı bir konuşma yaparken Maria'nın tek başına kalması oldukça sıkıcı olmalıydı.`
+`......Malikaneye gidip onu görebileceğimizi düşündük ama ne de olsa hava berbattı,`
+` ve akşam yemeğine de fazla vakit kalmamıştı, biz de olduğumuz yerde kaldık.`
+`O sırada mütevazı bir kapı sesi duyduk.`
+`{n}Jessica cevap verdi.`
+`"Merhaba~!"`
+`".........Akşam yemeği için hazırlıklar tamamlandı.`
+` Lütfen malikaneye gelin."`
+`Bu Kanon-kun'un sesiydi.`
+` Sırf bizi çağırmak için mi bu yağmurda malikaneden buraya kadar gelmiş mi?`
+`Bizi sadece telefonla arayamaz mıydı?`
+`{n}......Belki de bazen bir hizmetkârın görevinin bir parçası da sağduyuya karşı gelmekti.`
+`"Tam da acıkmaya başlamıştım.`
+` Hadi gidelim."`
+`George-aniki televizyonu kapattı ve ayağa kalktı.`
+`"Karnım a~sırlardır gurulduyor!`
+` Baş ailenin yemekleri her zaman çok süslü oluyor, hem de her seferinde!`
+` Ve Gohda-san bunun dana bifteği falan olduğunu söylememiş miydi?`
+` Oohh, sabırsızlanıyorum~!!"`
+`"Aile konferansı gününde daha da muhteşem oluyorlar.`
+` Ben bile dört gözle bekliyorum!`
+` Gidelim, gidelim."`
+`Biz odadan çıkarken, Kanon-kun sessizce ve saygıyla eğildi.`
+`"Pekâlâ, gidelim.`
+` Dışarıda yağmur çok mu kötü?"`
+`"......Evet.`
+` Lütfen giysilerinizin ıslanmamasına dikkat edin."`
+`Üçümüzün dışarı çıktığını gördükten sonra Kanon-kun boş odaya baktı.`
+`".........Maria-sama sizinle değil mi...?"`
+`"Hayır, değil?`
+` Rosa Teyze'yle birlikte değil mi?"`
+`Boş salondaki kanepede yatan Rosa farkına bile varmadan uykuya dalmıştı.`
+`...Çocukların hayal bile edemeyeceği bir yükü omuzlarında taşıyordu.`
+`Bu nedenle, kendini gevşemeye bıraktığında, bu yorgunluk onu hızla uyku dünyasına sürükledi.`
+`Bunu fark eden Genji ona bir battaniye getirdi.`
+`{n}Battaniyeyi üzerine örtmeye çalıştığında, Rosa'nın gözleri elektrik çarpmış gibi birden açıldı.`
 `"..................ah...!`
 `.........`
-` ......Oh, it's you, Genji‐san......thank you."`
-`When she realized that the thing that had touched her was just a blanket, and that Genji had been considerately giving it to her, she let out a sigh of relief.`
-`"......Did I wake you?`
-` My sincere apologies."`
-`"No, it's okay.`
-` I hadn't planned on sleeping in the first place.`
-` ...What time is it now?"`
-`Asked for the time, Genji checked a pocket watch that he took out of his chest pocket.`
-`".........It is slightly after six o'clock."`
-`Rosa gave her head a little shake as she realized that, even though it had felt like she had slept for a long time, not much time had actually passed.`
-`...Even though she didn't feel rested at all, the drowsiness that wrapped around her felt very deep.`
-`"Thank you, I'll be fine without the blanket...`
-` I mustn't sleep at such a strange time.`
-` My sense of time has been completely thrown off.`
-` ..................The rain...`
-`has finally come down, I see."`
-`Rosa finally realized that the peaceful sound that had put her to sleep was actually the rain that had started falling.`
-`"The wind is blowing hard, too.`
-` ...Perhaps the typhoon is finally upon us?"`
-`"......That is what they are saying on television.`
-` The typhoon is moving slowly, and they expect it to be like this all throughout tomorrow."`
-`"I see...`
-` .........That wonderful {ruby:çeviri > gül bahçesi:rose garden}, that must have been my last chance to see it."`
-`From the window, what she could see of the {ruby:çeviri > gül bahçesi:rose garden} was completely blurred by the wind and the rain.`
+` ......Oh, teşekkür ederim......demek sendin Genji-san."`
+`Kendisine dokunan şeyin sadece bir battaniye olduğunu ve Genji'nin bunu ona iyi niyetle verdiğini fark ettiğinde rahat bir nefes aldı.`
+`"......Sizi uyandırdım mı?`
+` İçten özürlerimi sunarım."`
+`"Hayır, sorun değil.`
+` Zaten uyumayı planlamamıştım.`
+` ...Şu an saat kaç?"`
+`Saati sorduğunda, Genji göğüs cebinden çıkardığı cep saatini kontrol etti.`
+`".........Saat altıyı biraz geçiyor."`
+`Rosa başını hafifçe salladı, uzun süredir uyuyormuş gibi hissetmesine rağmen aslında çok fazla zaman geçmediğini fark etti.`
+`...Kendini hiç dinlenmiş hissetmese de, etrafını saran uyuşukluk çok derindi.`
+`"Teşekkür ederim, battaniye olmadan da iyi olacağım...`
+` Böyle garip bir zamanda uyumamalıyım.`
+` Zaman algım tamamen alt üst oldu.`
+` ..................Yağmur...`
+`sonunda başladı demek."`
+`Rosa sonunda onu uyutan huzurlu sesin aslında yağmaya başlayan yağmur olduğunu fark etti.`
+`"Rüzgar da sert esiyordu.`
+` ...Belki de tayfun nihayet üzerimize geliyordur?"`
+`"......Televizyonda da böyle söylüyorlar.`
+` Tayfun yavaş hareket ediyor ve yarın gün boyunca böyle olması bekleniyor."`
+`"Anlıyorum...`
+` .........O harika gül bahçesi, bu onu görmek için son şansım olmalı."`
+`Pencereden gül bahçesini görebildiği kadarıyla rüzgâr ve yağmur yüzünden tamamen bulanıklaşmıştı.`
 `"...Maria...`
-` ......That's right, where's Maria?!"`
-`"............I have not seen her.`
-` I would think she has returned to the {ruby:çeviri > konukevi:guesthouse}."`
-`Rosa knew her daughter's nature well.`
-`{n}And a chill ran up her back.`
-`Maria was stupidly straightforward, to the point that "stupidly" could be repeated seven times,`
-` ......and if she was ordered to find something that didn't exist, she would look forever and ever.`
-`......Even if rain was pouring down...!!`
-`"......No.`
-` The cousins left earlier, so Maria was alone...!`
-` Unless someone told her to stop, she would stay there even if spears fell down from the skies!`
-` Without even opening an umbrella!!`
-` .........Aaaah, what have I done, losing control of my emotions!!"`
-`As her mother, she had known about Maria's foolish straightforwardness better than anyone, yet she had once again lost control of her emotions, and done such a horrible thing...!!`
-`"Mariaaaaaaa!!"`
-`Rosa pushed Genji away and ran down the hallway.`
-`The outside really looked like a typhoon, and was pouring down magnificently.`
-`Maybe because of some figure of the terrain, the winds were not as strong as a typhoon, so an umbrella wouldn't be torn out of one's hands.`
-`Even so, it was enough to call it a storm.`
-`{n}There was no time to admire the roses being soaked by the rain.`
-`"Anyway, I'm getting pretty worried about Maria.`
-` .........You don't think she's still rebelliously searching for that rose alone, do you?"`
-`"...I wonder.`
-` Surely not with this much rain...`
-`...is what I'd like to think, but Maria‐chan is sometimes really stubborn and foolishly simple."`
-`We hadn't worried much, thinking that {ruby:çeviri > Hala:Auntie} Rosa had taken her back to the {ruby:çeviri > malikane:mansion}.`
-`...However, it was concerning that Kanon‐kun had thought that Maria was here when he came from the {ruby:çeviri > malikane:mansion} to call us.`
-`".........I did not see her in the {ruby:çeviri > malikane:mansion}, so I had assumed that she was here.`
-` Since Rosa‐sama was taking a nap..."`
-`"You didn't see her on your way over here?"`
-`".........My apologies.`
-` I opened my umbrella and ran as fast as I could, so I did not pay much attention."`
-`If he had cut through the {ruby:çeviri > gül bahçesi:rose garden} on the shortest line between the {ruby:çeviri > malikane:mansion} and the {ruby:çeviri > konukevi:guesthouse}, then he would have missed the place where Maria had been looking for her rose by a little.`
-`And it was raining this hard, too.`
-`{n}There was a good chance that Kanon‐kun had failed to notice her.`
-`"Enough debating around here, it'd be faster to just check it out directly.`
-` ......Aniki, you up for a little race?"`
-`"So you think that you can beat me now that you've had six years to grow?`
-` Alright, let's find out.`
-` ............Let's go!!"`
-`George‐aniki and I flew out into the rain.`
-`{n}Jessica and Kanon‐kun followed us.`
+` ......Doğru, Maria nerede?!"`
+`"............Onu görmedim.`
+` Konukevine dönmüştür diye düşünüyorum."`
+`Rosa kızının huyunu iyi bilirdi.`
+`{n}Ve sırtına bir ürperti yayıldı.`
+`Maria aptalca açık sözlüydü, öyle ki "aptalca" kelimesi yedi kez tekrarlanabilirdi,`
+` ......ve eğer var olmayan bir şeyi bulması istenseydi, sonsuza dek arardı.`
+`......Yağmur yağıyor olsa bile...!!`
+`"......Hayır.`
+` Kuzenleri erken ayrıldıkları için Maria yalnızdı...!`
+` Biri ona durmasını söylemediği sürece, gökten mızraklar yağsa bile orada kalırdı!`
+` Bir şemsiye bile açmadan!!`
+` .........Aaaah, ne yaptım ben, duygularımın kontrolünü kaybettim!!"`
+`Annesi olarak, Maria'nın aptalca açık sözlülüğünü herkesten daha iyi biliyordu, ancak bir kez daha duygularının kontrolünü kaybetti ve böyle korkunç bir şey yaptı...!`
+`"Mariaaaaaaa!!!"`
+`Rosa Genji'yi itti ve koridorda koşmaya başladı.`
+`Dışarısı gerçekten bir tayfuna benziyordu ve muhteşem bir şekilde yağıyordu.`
+`Belki de arazinin yapısından dolayı rüzgâr tayfun kadar güçlü değildi, bu yüzden şemsiye insanın elinden uçup gitmiyordu.`
+`Yine de fırtına demek için yeterliydi.`
+`{n}Yağmurun ıslattığı gülleri hayranlıkla seyredecek zaman yoktu.`
+`"Her neyse, Maria için oldukça endişelenmeye başladım.`
+` .........Hâlâ asi bir şekilde o gülü tek başına aradığını düşünmüyorsunuz, değil mi?"`
+`"...Emin değilim.`
+` Bu kadar yağmur yağarken aramıyordur...`
+`...düşünmek istediğim bu, ama Maria-chan bazen gerçekten inatçı ve aptalca basit."`
+`Rosa Teyze'nin onu malikaneye geri götürdüğünü düşünerek fazla endişelenmemiştik.`
+`...Ancak Kanon-kun'un bizi aramak için malikaneden geldiğinde Maria'nın burada olduğunu düşünmüş olması endişe vericiydi.`
+`".........Onu malikanede görmediğim için burada olduğunu varsaymıştım.`
+` Rosa-sama uyukladığı için..."`
+`"Buraya gelirken onu görmedin mi?"`
+`".........Özür dilerim.`
+` Şemsiyemi açtım ve olabildiğince hızlı koştum, bu yüzden fazla dikkat etmedim."`
+`Malikane ve konukevi arasındaki en kısa yoldan gül bahçesinden geçseydi, Maria'nın gülünü aradığı yeri küçük bir farkla kaçırmış olacaktı.`
+`Üstelik bu şiddetli yağmur yağıyordu.`
+`{n}Kanon-kun'un onu fark etmemiş olma ihtimali yüksekti.`
+`"Bu kadar tartışma yeter, doğrudan kontrol etmek daha hızlı olur.`
+` ......Aniki, küçük bir yarışa var mısın?"`
+`"Büyümek için altı yılın olduğundan beni yenebileceğini mi düşünüyorsun?`
+` Pekala, hadi öğrenelim.`
+` ............Haydi gidelim!!"`
+`Ben ve George-aniki yağmurun içine fırladık.`
+`{n}Jessica ve Kanon-kun bizi takip etti.`
 `"Mariaaaa!!`
-` If you're there, answer me!!`
+` Eğer oradaysan, cevap ver!!`
 ` Mariaaaaa!!"`
-`"It's {ruby:çeviri > Hala:Auntie} Rosa.`
-` {ruby:çeviri > Hala:Auntie}!!"`
-`When George‐aniki called back, {ruby:çeviri > Hala:Auntie} Rosa flew at him in what almost amounted to a tackle.`
-`"Where's Maria?!`
-` Isn't she with you?!"`
-`"No, we haven't seen Maria‐chan since then."`
+`"Bu Rosa Teyze.`
+` Teyze!!"`
+`George-aniki geri seslendiğinde, Rosa Teyze neredeyse bir mücadeledeymiş gibi ona doğru koştu.`
+`"Maria nerede?!`
+` Sizinle değil mi?!"`
+`"Hayır, önceki seferden beri Maria-chan'ı görmedik."`
 `"............Mariaaaaa!!!"`
-`............Six years ago, Maria had been three years old.`
-`{n}She had been a cute and pure kid who would just accept whatever anyone said.`
-`...But six years had passed since then!`
-`{n}She was nine now, and experiencing the good and bad parts of life should have taught her something.`
-`......And yet, she's still just as innocent and pure as she used to be...?!`
+`............Altı yıl önce, Maria üç yaşındaydı.`
+`{n}Kim ne derse desin kabul eden sevimli ve saf bir çocuktu.`
+`...Ama o zamandan bu yana altı yıl geçti!`
+`{n}Şimdi dokuz yaşındaydı ve hayatın iyi ve kötü yanlarını deneyimlemek ona bir şeyler öğretmeliydi.`
+`......Ve yine de, hala eskisi kadar masum ve saf mı...?!`
 `"Mariaaaaaaaaaaaa!!!"`
-`As I circled the rose bed, something white unexpectedly turned to face me.`
-`......It was a white umbrella.`
-`Maria, holding a white umbrella, was crouching, still searching for that rose...`
+`Gül yatağının etrafında dönerken, beyaz bir şey beklenmedik bir şekilde bana doğru döndü.`
+`......Bu beyaz bir şemsiyeydi.`
+`Maria, elinde beyaz bir şemsiyeyle çömelmiş, hala o gülü arıyordu...`
 `"............Uu."`
-`Her face, which had turned bright red from her crying her eyes out, was dirtied with water and mud. It was a truly pitiful sight.`
-`"You idiot,`
-` ......are you still looking?!"`
+`Ağlamaktan kıpkırmızı olmuş yüzü su ve çamurla kirlenmişti. Gerçekten acınacak bir manzaraydı.`
+`"Seni salak,`
+` ......hala arıyor musun?!"`
 `"......Uu......`
-` Can't find it...`
-` My rose...`
-` ...Can't find it......`
+` Bulamıyorum...`
+` Maria'nın gülü...`
+` ...Bulamıyorum......`
 ` ...Uu......"`
-`Maria had probably been here since the rain had started pouring down.`
-`{n}It looked like her shoulders were freezing.`
-`She looked tired to the bone, but fortunately, since she was holding an umbrella, she was not completely soaked.`
-`...It was probably an umbrella from the handbag that Maria was always walking around with.`
-`.........Thank goodness.`
-` Seriously, thank goodness.`
-`"Battler‐kun!`
-` Thank goodness, you found her!"`
+`Maria muhtemelen yağmur yağmaya başladığından beri buradaydı.`
+`{n}Omuzları donmuş gibi görünüyordu.`
+`İliklerine kadar yorgun görünüyordu ama neyse ki elinde bir şemsiye olduğu için tamamen ıslanmamıştı.`
+`...Muhtemelen Maria'nın her zaman yanında gezdirdiği el çantasından bir şemsiyeydi.`
+`.........Şükürler olsun.`
+` Cidden, şükürler olsun.`
+`"Battler-kun!`
+` Tanrıya şükür, onu buldun!"`
 `"Mariaaaaaaaaa!!`
-` I'm sorry, I'm so sorry...!!"`
-`{ruby:çeviri > Hala:Auntie} Rosa threw her own umbrella away and hugged Maria.`
+` Özür dilerim, çok özür dilerim...!!"`
+`Rosa Teyze kendi şemsiyesini fırlattı ve Maria'ya sarıldı.`
 `"......Uu.........`
-` It's not here.`
-` ...My rose isn't here...`
+` Burada değil.`
+` ...Maria'nın gülü burada değil...`
 ` ......Uu......"`
-`"Mama will look for it with you later...`
-` Okay?`
-` So just let it go for today.`
-` ......Okay?"`
+`"daha sonra annen seninle birlikte arayacak...`
+` Tamam mı?`
+` O yüzden bugünlük boş ver.`
+` ......Tamam mı?"`
 `"............Uu...`
-` Let it go for today........."`
-`It looked like Maria still wasn't able to accept it, but she no longer had enough energy left to resist.`
-`Jessica and Kanon‐kun caught up with us.`
-`"......I'll have a towel ready in the {ruby:çeviri > malikane:mansion} immediately."`
+` Bugünlük bu kadar yeter........."`
+`Maria hala kabullenememiş gibi görünüyordu ama artık direnecek enerjisi kalmamıştı.`
+`Jessica ve Kanon-kun bize yetişti.`
+`"......Hemen malikanede bir havlu hazırlatacağım."`
 `"Maria......`
-` Were you here the whole time......?"`
-`"I'm sorry......`
-` I'm sorry for being such a bad mother........."`
-`"......{ruby:çeviri > Hala:Auntie} Rosa, why don't we head back to the {ruby:çeviri > malikane:mansion} for the time being.`
-` Maria‐chan will catch a cold like this."`
-`".........You're right.`
-` Maria, let's go.`
-` If we don't get you cleaned up, Grandfather will get mad at you."`
+` Bunca zamandır burada mıydın......?"`
+`"Üzgünüm......`
+` Bu kadar kötü bir anne olduğum için üzgünüm........."`
+`"......Rosa teyze, neden şimdilik malikaneye dönmüyoruz?`
+` Maria-chan böyle giderse üşütecek."`
+`".........Haklısın.`
+` Maria, gidelim.`
+` Eğer seni temizlemezsek, Büyükbaban sana kızacak."`
 `"Uu...`
-` I'm hungry."`
-`"It's already time to eat.`
-` You did a good job searching.`
-` Once the weather gets better, we'll all go search together."`
-`We couldn't stay in the rain forever.`
-`{n}We took Maria with us as we headed back to the {ruby:çeviri > malikane:mansion}.`
-`Maria apparently wasn't as weak as I had thought.`
-`When she remembered that dinner was calf steak, she started chanting "I'm hungry, hungry, uu‐uu!", and returned to her usual healthy self.`
-`......{ruby:çeviri > Hala:Auntie} Rosa didn't chide Maria on her "uu‐uu".`
-`"So that's it.`
-` You had an umbrella.`
-` You sure are good at packing the right stuff."`
+` Acıktım."`
+`"Yemek vakti çoktan geldi.`
+` Maria, arayarak iyi iş çıkardın.`
+` Hava düzeldiğinde hep birlikte aramaya geliriz."`
+`Sonsuza kadar yağmurda kalamazdık.`
+`{n}Malikaneye dönerken Maria'yı da yanımıza aldık.`
+`Görünüşe göre Maria düşündüğüm kadar zayıf değilmiş.`
+`Akşam yemeğinin dana biftek olduğunu hatırlayınca "Acıktım, açım, uu-uu!" diye bağırmaya başladı ve her zamanki sağlıklı haline döndü.`
+`......Rosa Teyze Maria'yı "uu-uu" dediği için azarlamadı.`
+`"Demek öyle.`
+` Şemsiyen vardı.`
+` Doğru şeyleri taşımakta çok iyisin."`
 `"......Uu.`
-` I didn't bring an umbrella.`
+` Şemsiyem yoktu.`
 ` Uu."`
-`"What? Then how did you get that white umbrella you're holding?"`
+`"Ne? O zaman elindeki beyaz şemsiyeyi nereden buldun?"`
 `"Uu!`
-` Borrowed it!"`
-`It seemed that some caring person had brought her an umbrella.`
-`{n}A normal girl would look for shelter once it started raining, but there was no way Maria's stubbornness would be broken by something like that.`
-`...So maybe that person gave up recommending that she find shelter, and at least brought an umbrella for her.`
-`"Really?`
-` I will have to thank them.`
-` Who was it?"`
+` Ödünç aldım!"`
+`Görünüşe göre yardımsever biri ona bir şemsiye getirmişti.`
+`{n}Normal bir kız yağmur yağmaya başladığında sığınacak bir yer arardı ama Maria'nın inadının böyle bir şeyle kırılmasına imkan yoktu.`
+`...Belki de o kişi sığınacak bir yer bulmasını tavsiye etmekten vazgeçmiş ve en azından ona bir şemsiye getirmişti.`
+`"Gerçekten mi?`
+` Ona teşekkür etmeliyim.`
+` Peki kimdi?"`
 `"Uu!`
 ` {f:5:Beatrice}~!"`
-`The name that Maria mentioned very happily was that of the island's witch.`
-`Rosa took a deep breath and asked again, trying to avoid hurting Maria's feelings now that she was happy.`
-`"Really? That's nice.`
-` So, who was it...?`
-` The person who brought you that umbrella?"`
+`Maria'nın büyük bir mutlulukla bahsettiği isim adanın cadısıydı.`
+`Rosa derin bir nefes aldı ve tekrar sordu, şimdi mutlu olduğu için Maria'nın duygularını incitmekten kaçınmaya çalışıyordu.`
+`"Gerçekten mi? Bu çok güzel.`
+` Peki, kimdi o...?`
+` Sana o şemsiyeyi veren kişi?"`
 `"Uu.`
 ` {f:5:Bea}—`
 `{f:5:trice}~!`
-` Uu‐uu!"`
-`Maria, who quickly picked up that her mother didn't believe her, made an angry face once again.`
-`So Rosa stopped pursuing the subject.`
-`{n}It looked like it would be faster to ask the person who had lent Maria the umbrella during dinner rather than ask Maria herself...`
-`"Father.`
-` Please at least join us for dinner.`
-` It won't be a family {ruby:çeviri > konferans:conference} like this."`
-`Along with a dull pounding on the door, the sound of Krauss's entreaty could be heard.`
-`However, that voice seemed to harbor a sense of resignation, that its sound would not reach its intended ears.`
-`".........Kinzo‐san.`
-` Won't you at least go out for dinner?`
-` Haven't all of your children gathered here to see your face?"`
-`"Silence, Nanjo.`
-` ............So the bishop won't work.`
-` ..................One move short......"`
-`Apparently, Kinzo was completely focused on the final battle of his long‐lasting chess match with Nanjo.`
-`His brow wrinkled, he continued to glare at the game board through his spectacles; Krauss's voice didn't reach his ears.`
-`"............Kinzo‐san.`
-` I am also hungry.`
-` Won't you go down and eat?"`
-`"In that case, you can go by yourself.`
-` Let me consider this next move for a little longer.`
-` ...We are going to finish it tonight."`
-`"............Otherwise, it looks like this match will never in eternity be settled."`
-`Nanjo stood from his seat, hoping this would prompt Kinzo to do the same, but Kinzo's eyes never left the chessboard.`
-`He knew well that Kinzo always displayed a blind concentration when it came to chess,`
-` but he had never seen Kinzo as focused as he was now.`
-`...He was acting almost as though—just as he had said—if the game wasn't finished tonight, there would never be another chance for them to continue their contest...`
-`Further attempts to persistently call him would surely not reach his heart.`
-`Nanjo gave up and headed to the door that Krauss was still banging on...`
-`The door to the study opened.`
-`Krauss took a step back—surely Kinzo hadn't actually come out?!`
-`But it was Nanjo who stood at the door; Krauss breathed a sigh of relief...`
-`"......Doctor Nanjo.`
-` Is Father..."`
-`"...............I am sorry I couldn't be of service...`
-` ...Kinzo‐san's world is nothing but this room now."`
-`Nanjo shook his head with a completely defeated expression.`
-`{n}Krauss raised his fist once more and banged on the door, shouting.`
-`"......Father, can you hear me?!`
-` We are heading down now, but any time you feel like it, please join us.`
-` All of your children are waiting for you...!"`
-`The voice was very loud, and the door was being noisily pounded on.`
-`{n}There was no way that it wouldn't reach Kinzo's ears.`
-`............It was reaching him.`
-`{n}However, he was ignoring it anyway.`
-`However, unlike the time he was being called down for lunch, he did not get into a rage.`
-`{n}......Kinzo was now simply calm at heart, ...and it was almost as though he had attained peace by turning himself over to fate.`
-`"......I am not interested in dinner, nor in my sons' faces.`
-` ............I will only leave here when {f:5:Beatrice} is resurrected or when I am chosen as a sacrifice for the key...`
-` The {ruby:çeviri > İblislerin Ruleti:Demons' Roulette} has already started spinning.`
-` What meaning does dinner have at this point........."`
-`As though the painfully loud banging on the door had completely failed to enter his hearing,`
-`{n}Kinzo, in a state of total peace, silently thought about his next chess move...`
-`Just as always, Kinzo was the only one missing from the {ruby:çeviri > yemek salonu:dining hall}.`
-`{n}Krauss, wearing a bitter smile, returned with Nanjo.`
-`"Just as always, Father is not feeling well.`
-` He truly regrets missing this once‐a‐year opportunity to sit together with his gathered relatives."`
-`Eva and Rudolf snickered.`
-`Judging by Kinzo's character, he didn't regret it at all,`
-` ...and none of his relatives regretted that he hadn't appeared either.`
-`"Then why don't we start dinner.`
-` Gohda, get it started."`
-`"Certainly.`
-` Well then, ladies and gentlemen, we shall begin."`
-`Upon finally being told to begin the family {ruby:çeviri > konferans:conference} dinner, his highlight scene for the whole year, Gohda nodded, grinning broadly.`
-`"......Umm, I was wondering, who was it that lent Maria an umbrella?"`
-`When Rosa timidly cut through the silence of the {ruby:çeviri > yemek salonu:dining hall}, everyone there turned their attention to her at once.`
-`"...Umbrella?`
-` What's this about?"`
+` Uu-uu!"`
+`Annesinin kendisine inanmadığını hemen anlayan Maria bir kez daha kızgın bir yüz ifadesi takındı.`
+`Rosa da konunun peşini bıraktı.`
+`{n}Maria'nın kendisine sormaktansa, yemek sırasında Maria'ya şemsiyeyi ödünç veren kişiye sormak daha hızlı olacak gibi görünüyordu...`
+`"Baba.`
+` Lütfen en azından akşam yemeğinde bize katıl.`
+` Bu şekilde bir aile konferansı olmuyor."`
+`Krauss'un yalvaran sesi, kapıya vurulan sert bir yumrukla birlikte duyuldu.`
+`Ancak, bu ses, sesinin hedeflenen kulaklara ulaşamayacağına dair bir teslimiyet duygusu barındırıyor gibiydi.`
+`".........Kinzo-san.`
+` En azından akşam yemeği için dışarı çıkmayacak mısın?`
+` Bütün çocukların senin yüzünü görmek için burada toplanmadı mı?"`
+`"Sessizlik, Nanjo.`
+` ............Yani fil işe yaramayacak.`
+` ..................Bir hamle kaldı......"`
+`Görünüşe göre Kinzo tamamen Nanjo ile uzun süredir devam eden satranç maçının son savaşına odaklanmıştı.`
+`Alnı kırışmış, gözlüklerinin ardından oyun tahtasına bakmaya devam ediyordu; Krauss'un sesi kulaklarına ulaşmadı.`
+`"............Kinzo-san.`
+` Ben de acıktım.`
+` Aşağı inip yemek yemeyecek misin?"`
+`"Bu durumda, tek başına gidebilirsin.`
+` Bir sonraki hamleyi biraz daha düşüneyim.`
+` ...Bu gece bitireceğiz."`
+`"............Aksi takdirde, bu maç sonsuza dek sonuçlanmayacak gibi görünüyor."`
+`Nanjo, Kinzo'nun da aynı şeyi yapmasını umarak oturduğu yerden kalktı ama Kinzo'nun gözleri satranç tahtasından hiç ayrılmadı.`
+`Konu satranç olduğunda Kinzo'nun her zaman mutlak bir konsantrasyon sergilediğini çok iyi biliyordu,`
+` ama yine de Kinzo'yu hiç şimdiki kadar odaklanmış görmemişti.`
+`...Sanki—tıpkı söylediği gibi—bu gece oyun sonuçlanmazsa, oyunlarına devam etmeleri için bir daha asla şansları olmayacakmış gibi davranıyordu...`
+`Onu ısrarla çağırmaya yönelik daha fazla girişim kesinlikle kalbine ulaşamayacaktı.`
+`Nanjo pes etti ve Krauss'un hâlâ vurmakta olduğu kapıya yöneldi...`
+`Çalışma odasının kapısı açıldı.`
+`Krauss bir adım geri çekildi—Kinzo gerçekten dışarı çıkacak mıydı?!`
+`Ama kapıda duran Nanjo'ydu; Krauss rahat bir nefes aldı...`
+`"......Doktor Nanjo.`
+` Babam...?"`
+`"...............Yardımcı olamadığım için üzgünüm...`
+` ...Kinzo-san'ın dünyası artık bu odadan başka bir şey değil."`
+`Nanjo tamamen yenilmiş bir ifadeyle başını salladı.`
+`{n}Krauss yumruğunu bir kez daha kaldırdı ve bağırarak kapıya vurdu.`
+`"......Baba, beni duyuyor musun?!`
+` Şimdi aşağı iniyoruz, ama ne zaman istersen lütfen bize katıl.`
+` Bütün çocukların seni bekliyor...!"`
+`Ses çok yüksekti ve kapıya gürültülü bir şekilde vuruluyordu.`
+`{n}Kinzo'nun kulaklarına ulaşmaması mümkün değildi.`
+`............Ona ulaşıyordu.`
+`{n}Ancak, yine de görmezden geliyordu.`
+`Bununla birlikte, öğle yemeği için aşağı çağrıldığı zamanın aksine, öfkelenmedi.`
+`{n}......Kinzo'nun kalbi artık sadece sakindi, ...ve sanki kendini kadere teslim ederek huzura kavuşmuş gibiydi.`
+`"......Ben ne yemekle ne de oğullarımın yüzüyle ilgileniyorum.`
+` ............Burayı ancak {f:5:Beatrice} dirildiğinde ya da anahtar için kurban olarak seçildiğimde terk edeceğim...`
+` İblislerin Ruleti çoktan dönmeye başladı.`
+` Bu noktada akşam yemeğinin ne anlamı var ki........."`
+`Kinzo sanki kapıya vurulan gürültüyü duymamış gibi,`
+`tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
+`Her zaman olduğu gibi, yemek salonunda eksik olan tek kişi Kinzo'ydu.`
+`{n}Krauss, acı bir gülümsemeyle Nanjo'yla birlikte geri döndü.`
+`"Her zaman olduğu gibi, babam kendini iyi hissetmiyor.`
+` Yılda bir kez bir araya gelen akrabalarıyla birlikte oturma fırsatını kaçırdığı için çok üzgün."`
+`Eva ve Rudolf kıs kıs güldüler.`
+`Kinzo'nun karakterine bakılırsa, hiç de pişman değildi,`
+` ...ve hiçbir akrabası da o ortaya çıkmadığı için pişmanlık duymuyordu.`
+`"O zaman neden yemeğe başlamıyoruz?`
+` Gohda, başlayalım."`
+`"Elbette.`
+` Pekala, bayanlar ve baylar, başlayalım."`
+`Nihayet tüm yıl boyunca en önemli anı olan aile konferansı yemeğine başlaması söylendiğinde, Gohda genişçe sırıtarak başını salladı ve onayladı.`
+`"......Umm, merak ediyorum da, Maria'ya şemsiyeyi kim ödünç vermişti?"`
+`Rosa yemek salonunun sessizliğini ürkekçe bozup konuştuğunda, oradaki herkes dikkatini bir anda ona çevirdi.`
+`"...Şemsiye mi?`
+` O da ne demek?"`
 `"Umm......`
-` It started raining while Maria was in the {ruby:çeviri > gül bahçesi:rose garden} a short while back...`
-` It seems she borrowed a white umbrella from someone, and I wanted to thank them..."`
-`"It wasn't one of us.`
-` After you went out, Rosa, we changed rooms and continued our "friendly" chat the whole rest of the time."`
-`"Haha, ...that's right.`
-` Even after that, us siblings kept on with our friendly chat."`
-`The word friendly fell awkwardly from Hideyoshi's lips,`
-` so that even those that hadn't been there realized that it hadn't been a pleasant conversation.`
-`"At the very least, it certainly couldn't have been me, Eva, Rudolf, or even Hideyoshi‐san or Kyrie‐san."`
-`"We were together the whole time, even after Natsuhi nee‐san and Rosa‐san left.`
-` The whole time until the meal started."`
-`"Nii‐san went up to the study with Genji‐san to call Father.`
-` At that time, the rest of us went straight to the {ruby:çeviri > yemek salonu:dining hall}.`
-` So it wasn't one of us.`
-` ...For a consideration like lending an umbrella, wouldn't it be one of the {ruby:çeviri > hizmetkarlar:servants}?"`
-`"So, Gohda‐san?"`
-`"......I have been in the kitchen the whole time preparing.`
-` My sincere apologies..."`
-`Gohda looked slightly disappointed about missing this chance to show off.`
-`At that time, Shannon and Kumasawa appeared, pushing a serving cart loaded with hors d'oeuvres.`
-`"Then perhaps it was Kumasawa‐san or Shannon‐chan?"`
-`"...I'm sorry?`
-` Ha‐have I made some mistake...?"`
-`Shannon shrunk, mistakenly thinking that she was being accused of making some error, having come in partway.`
-`"No, you haven't.`
-` When Maria‐chan was alone in the {ruby:çeviri > gül bahçesi:rose garden}, it started to rain.`
-` Someone gave her an umbrella.`
-` {ruby:çeviri > Hala:Auntie} Rosa said that she wanted to thank that person."`
+` Maria kısa bir süre önce gül bahçesindeyken yağmur yağmaya başladı...`
+` Görünüşe göre birinden beyaz bir şemsiye ödünç almış ve ben de ona teşekkür etmek istedim..."`
+`"Bizden biri değildi.`
+` Rosa, sen dışarı çıktıktan sonra odamızı değiştirdik ve geri kalan tüm zaman boyunca "dostça" sohbetimize devam ettik."`
+`"Haha, ...bu doğru.`
+` Ondan sonra bile biz kardeşler dostça sohbetimize devam ettik."`
+`Dostça kelimesi Hideyoshi'nin dudaklarından garip bir şekilde döküldü,`
+` öyle ki orada bulunmayanlar bile bunun hoş bir sohbet olmadığını fark etti.`
+`"En azından ben, Eva, Rudolf, hatta Hideyoshi-san ya da Kyrie-san değildi."`
+`"Natsuhi nee-san ve Rosa-san gittikten sonra bile hep birlikteydik.`
+` Yemek başlayana kadar hep birlikteydik."`
+`"Nii-san babamı çağırmak için Genji-san ile birlikte çalışma odasına çıktı.`
+` O sırada geri kalanımız doğruca yemek salonuna geldik.`
+` Yani bizden biri değildi.`
+` ...Şemsiyesini ödünç verecek kadar nazik bir hizmetkar olamaz mı?"`
+`"O zaman, Gohda-san?"`
+`"......Bütün bu zaman boyunca mutfakta hazırlık yapıyordum.`
+` En içten özürlerimi sunarım..."`
+`Gohda bu gösteriş fırsatını kaçırdığı için biraz hayal kırıklığına uğramış görünüyordu.`
+`O sırada Shannon ve Kumasawa, mezelerle dolu bir servis arabasını iterek ortaya çıktılar.`
+`"O zaman belki de Kumasawa-san ya da Shannon-chan'dı?"`
+`"...Pardon?`
+` Bi-Bir hata mı yaptım...?"`
+`Shannon büzülerek, yanlışlıkla, yarı yolda geldiği için bir hata yapmakla suçlandığını düşündü.`
+`"Hayır, yapmadın.`
+` Maria-chan gül bahçesinde yalnızken yağmur yağmaya başladı.`
+` Birisi ona şemsiye verdi.`
+` Rosa Teyze o kişiye teşekkür etmek istediğini söyledi."`
 `"......Uu.`
 ` ......{f:5:Beatrice}..."`
-`Maria, her mouth a thin line, said the witch's name in a small voice.`
-`{ruby:çeviri > Hala:Auntie} Rosa explained the situation one more time.`
-`{n}As she did, Kumasawa‐san cackled.`
-`"Hoh‐hoh‐ho.`
-` It wasn't us.`
-` Shannon‐san and I were preparing the rooms together, so we did not go outside."`
-`"...Yes.`
-` ......I apologize for not being able to help......"`
-`"Preparing the rooms?`
-` What do you mean by that...?"`
-`"..................Because of this rain,`
-` I thought that it would be difficult for all of the guests to return to the {ruby:çeviri > konukevi:guesthouse},`
-` so I ordered the {ruby:çeviri > hizmetkarlar:servants} to prepare the {ruby:çeviri > misafir odaları:guest rooms} inside the {ruby:çeviri > malikane:mansion}."`
-`"...Reeally? How thoughtful!`
-` That's right, it would be rude to chase us outside in all this rain, wouldn't it?"`
-`"Could you give it a rest..."`
-`"Yes.`
-` We received the order from Madam, and I, Kumasawa‐san, and Kanon‐kun were preparing the rooms.`
-` ...Then it became time for dinner, and since we had received an order from Genji‐sama to go to the {ruby:çeviri > konukevi:guesthouse} and call the children,`
-` Kanon‐kun left on our behalf."`
-`"Yes.`
-` In that case, did Kanon‐san find Maria on the way to the {ruby:çeviri > konukevi:guesthouse} and hand her the umbrella?"`
+`Maria, ağzı ince bir çizgi halinde, küçük bir sesle cadının adını söyledi.`
+`Rosa Teyze durumu bir kez daha açıkladı.`
+`{n}O anlatırken Kumasawa-san kıkırdadı.`
+`"Hoh-hoh-ho.`
+` Biz değildik.`
+` Shannon-san ve ben odaları birlikte hazırlıyorduk, bu yüzden dışarı çıkmadık."`
+`"...Evet.`
+` ......Yardım edemediğim için özür dilerim......"`
+`"Odaları mı hazırlıyordunuz?`
+` Ne demek istiyorsunuz...?"`
+`"..................Bu yağmur yüzünden,`
+` tüm konukların konukevine dönmesinin zor olacağını düşündüm,`
+` ben de hizmetkarlara malikanenin içindeki misafir odalarını hazırlamalarını emrettim."`
+`"...Ciddeen mi? Ne kadar düşüncelisin!`
+` Doğru, bu yağmurda bizi dışarıda koşturmak kabalık olurdu, değil mi?"`
+`"Şunu keser misin..."`
+`"Evet.`
+` Madam'dan emri aldığımızda ben, Kumasawa-san ve Kanon-kun odaları hazırlıyorduk.`
+` ...Sonra akşam yemeği vakti geldi ve Genji-sama'dan konukevine gidip çocukları çağırmamız için bir emir aldık,`
+` Kanon-kun bizim adımıza gitti."`
+`"Evet.`
+` Bu durumda, Kanon-san konukevine giderken Maria'yı bulup şemsiyeyi ona mı verdi?"`
 `"......Uu.`
-` That's—not—it!!"`
-`The person who had actually received the umbrella denied it.`
-`{n}Rosa was troubled.`
-`All she wanted to do was give a word of thanks to the person who had lent the umbrella, but she couldn't find them.`
-`And she had thought that asking like this with everyone gathered for dinner would work immediately...`
-`"...Then, Natsuhi nee‐san?"`
-`"I'm sorry.`
-` After my "friendly" conversation with everyone, my headache was so bad that I have been resting in my room.`
-` Therefore, I did not go outside."`
-`".........Then who?`
-` George‐kun and the kids?`
-` ......That can't be right."`
-`"No, it wasn't us.`
-` We were watching television in the {ruby:çeviri > konukevi:guesthouse} the whole time."`
-`"Actually, we thought that Maria had just gone back to the {ruby:çeviri > malikane:mansion} with you..."`
-`"Then Kanon‐kun came, and he asked whether Maria was with us. That was when we first realized that she wasn't in the {ruby:çeviri > malikane:mansion}.`
-` In the first place, if it were me, before lending her an umbrella, I'd have grabbed her hand and pulled her under a roof."`
-`Rosa was completely baffled.`
-`{n}One by one, the relatives and the {ruby:çeviri > hizmetkarlar:servants} were claiming that it wasn't them.`
-`{n}...Even though it really wasn't something anyone would need to hide.`
-`With that, by process of elimination, the number of people it could have been wasn't large.`
-`"Of course, it wasn't me.`
-` Right after it began raining, I visited Kinzo‐san's room, and have been playing chess with him until just now."`
-`"......Which means that it also wasn't Grandfather."`
-`"Wait a sec...`
-` Isn't this starting to get a bit weird?`
-` Who's left?"`
-`"Then, ...who?`
-` ...Genji‐san?`
+` Öyle—değiiil!!"`
+`Şemsiyeyi gerçekten alan kişi bunu inkar etti.`
+`{n}Rosa sıkıntıdaydı.`
+`Tek yapmak istediği şemsiyeyi ödünç veren kişiye bir teşekkür etmekti ama onu bulamamıştı.`
+`Herkes akşam yemeği için toplanmışken bu şekilde sormanın hemen işe yarayacağını düşünmüştü...`
+`"...O zaman, Natsuhi nee-san?"`
+`"Özür dilerim.`
+` Herkesle yaptığım "dostça" sohbetten sonra başım o kadar kötü ağrıyordu ki odamda dinleniyordum.`
+` Bu yüzden dışarı çıkmadım."`
+`".........O zaman kim?`
+` George-kun ve çocuklar mı?`
+` ......Bu olamaz."`
+`"Hayır, biz değildik.`
+` Bütün o zaman boyunca konukevinde televizyon izliyorduk."`
+`"Aslında Maria'nın seninle birlikte malikaneye döndüğünü sanıyorduk..."`
+`"Sonra Kanon-kun geldi ve Maria'nın bizimle olup olmadığını sordu. Maria'nın malikanede olmadığını ilk o zaman anladık.`
+` Ben olsaydım, ona şemsiye vermeyi bırak elinden tutup bir çatının altına çekerdim."`
+`Rosa tamamen şaşkına dönmüştü.`
+`{n}Akrabalar ve hizmetkarlar teker teker kendilerinin olmadığını iddia ediyorlardı.`
+`{n}...Aslında kimsenin saklaması gereken bir şey olmamasına rağmen.`
+`Bununla birlikte, eleme sürecine göre kişi sayısı daralmıştı.`
+`"Tabii ki, ben de değildim.`
+` Yağmur yağmaya başladıktan hemen sonra Kinzo-san'ın odasını ziyaret ettim ve şimdiye kadar onunla satranç oynuyordum."`
+`"......Bu da Büyükbaba olmadığı anlamına geliyor."`
+`"Bir saniye...`
+` Bu biraz garipleşmeye başlamadı mı?`
+` Kim kaldı?"`
+`"O zaman, ...kim?`
+` ...Genji-san?`
 ` Huh?"`
-`"Um, wait a second, don't get me wrong.`
-` It's not like I'm searching for some {ruby:çeviri > suçlu:culprit} or anything.`
-` All I want to do is, as a mother, thank that person who gave Maria an umbrella in the middle of the rain......!"`
-`...Giving an umbrella to a girl loitering in the rain was something to be praised, not hidden.`
-`...Despite that, no one raised their hand.`
-`......Why?`
-`Everyone started whispering about how strange this had gotten...`
-`"......Calm down, Rosa.`
-` Why don't we just ask the person who borrowed the umbrella?"`
-`An idea that everyone would agree makes sense.`
-`{n}They were all scratching their heads at why she didn't just ask Maria, who had been given the umbrella.`
-`However, Rosa bit her lower lip.`
-`{n}After all, she already knew how Maria would answer if asked.`
-`"Of course!`
-` Rudolf‐kun here's got it right.`
-` Maria‐chan, tell your uncle!`
-` Who lent you the umbrella?"`
+`"Um, bekleyin bir saniye, beni yanlış anlamayın.`
+` Suçlu falan aradığım yok.`
+` Tek yapmak istediğim bir anne olarak yağmurun ortasında Maria'ya şemsiye veren o kişiye teşekkür etmek......!"`
+`...Yağmurun altında aylak aylak dolaşan bir kıza şemsiye vermek saklanacak değil, övülecek bir şeydi.`
+`...Buna rağmen kimse elini kaldırmadı.`
+`......Neden?`
+`Herkes bu işin ne kadar tuhaflaştığı hakkında fısıldaşmaya başladı...`
+`"......Sakin ol, Rosa.`
+` Neden şemsiyeyi ödünç alan kişiye sormuyoruz?"`
+`En başından beri herkes böyle düşünüyordu.`
+`{n}Hepsi neden sadece şemsiyeyi alan Maria'ya sorulmadığı konusunda kafalarını kaşıyordu.`
+`Ancak, Rosa alt dudağını ısırdı.`
+`{n}Ne de olsa Maria'nın sorulduğunda nasıl cevap vereceğini zaten biliyordu.`
+`"Tabii ki!`
+` Rudolf-kun doğru düşündü.`
+` Maria-chan, amcana söyle!`
+` Maria-chan, sana şemsiyeyi kim ödünç verdi?"`
 `"{f:5:Beatrice}!"`
-`The {ruby:çeviri > yemek salonu:dining hall} was wrapped in silence for an instant, but that soon broke and it was wrapped in laughter.`
+`Yemek salonu bir an için sessizliğe büründü, ancak bu kısa sürede bozuldu ve kahkahalar duyuldu.`
 `"Hahahaha.`
-` I see, {f:5:Beatrice}, the witch of the forest, felt pity and lent her an umbrella.`
-` What a nice story.`
-` Rosa, there you go."`
+` Görüyorum ki, ormanın cadısı {f:5:Beatrice} ona acımış ve bir şemsiye ödünç vermiş.`
+` Ne güzel bir hikâye.`
+` Rosa, işte öğrendin."`
 `"......nn...`
 `.........nnnn."`
-`Rosa didn't seem satisfied.`
-`{n}...She just wanted to say thanks for the umbrella; why did everything have to be so clouded in smoke...`
+`Rosa tatmin olmuş görünmüyordu.`
+`{n}...Sadece şemsiye için teşekkür etmek istemişti; neden her şey bu kadar dumanla kaplanmak zorundaydı ki...`
 `"Uu!`
-` Just like Uncle Krauss said.`
-` {f:5:Beatrice} lent it to me!`
-` Uu‐uu!"`
+` Krauss Amca'nın dediği gibi.`
+` {f:5:Beatrice} ödünç verdi!`
+` Uu-uu!"`
 `"Hahahahaha...`
-` Isn't that wonderful.`
-` Oh, innocence, such an enviable thing.`
-` Don't you all agree?`
+` Bu harika değil mi?`
+` Oh, masumiyet, ne kadar kıskanılacak bir şey.`
+` Hepiniz aynı fikirde değil misiniz?`
 ` Hahahaha..."`
-`Krauss was laughing with a face that was clearly mocking her,`
-` but Maria, apparently feeling that her claim was being believed, was overjoyed.`
-`"......What's going on?`
-` Don't tell me a witch really appeared and lent her an umbrella?"`
-`Jessica asked me in a small voice that wouldn't carry over to Maria, who was sitting across from me.`
-`"Has Maria ever been the type to joke?"`
-`If we had heard that kind of story pop out of that old bastard's mouth, we'd have just taken it as another joke.`
-`......However, coming from Maria's mouth, it became somewhat inexplicable, strangely unsettling...`
-`"No way.`
-` She's always been frank and serious.`
-` Hasn't she always just swallowed up jokes that were supposed to be obvious lies?`
-` I've never even heard of her cracking a joke."`
-`{ruby:çeviri > Hala:Auntie} Rosa probably knew that better than anyone.`
-`{n}It appeared that because of this weird situation, she had no idea what was going on anymore.`
-`"So, if Maria says that she borrowed an umbrella from {f:5:Beatrice}, that definitely was {f:5:Beatrice}?"`
-`".........We're talking about Maria here, so I can't imagine it was some kind of metaphor or joke.`
-` ...It might be best to take what she says at face value."`
-`"Then what's going on?`
-` Are you saying that Genji‐san or someone put on that fancy dress from the {ruby:çeviri > portre:portrait} and gave Maria the umbrella?"`
-`"...I have no idea...`
-` Actually, that's what I want to know."`
-`Jessica shrugged jokingly, but her expression wasn't completely joking.`
-`Once the hors d'oeuvres were set out and Gohda showed off his vast store of knowledge, the meal began.`
-`A couple casual chats broke out here and there, but they seemed somehow distant; it was a quiet dinner, granting no respite from the intrusive sound of rain that was creeping into the {ruby:çeviri > yemek salonu:dining hall}.`
-`Kumasawa and Shannon, pushing the serving cart, ran into Genji and Kanon on their way to the kitchen.`
-`"...Genji‐san, were you the one who lent Maria‐sama an umbrella?"`
-`".........Umbrella?`
-` What are you talking about?"`
-`"Right.`
-` ......I heard that when it started raining, Maria‐sama was alone in the {ruby:çeviri > gül bahçesi:rose garden}.`
-` ...And it seems that she borrowed an umbrella from someone there,`
-` but we don't know who it was."`
-`"......It wasn't me.`
-` After all, I thought that Maria‐sama was in the {ruby:çeviri > konukevi:guesthouse}.`
-` When Battler‐sama first found her, she was already holding a white umbrella."`
-`"My apologies, but it was not me either..."`
-`".........Then, you don't think it was...`
-`...the {ruby:çeviri > Efendi:Master},`
-` possibly?"`
-`Everyone in both the {ruby:çeviri > yemek salonu:dining hall} and the place where they were standing now had stated that it wasn't them.`
-`...Which meant that only Kinzo was left, but...`
-`"Maybe he went walking down the corridor for some reason, when, by coincidence, he saw Maria‐sama in the {ruby:çeviri > gül bahçesi:rose garden} without even an umbrella..."`
-`"...............The {ruby:çeviri > Efendi:Master}...`
-`does not particularly like Maria‐sama."`
-`"I agree.`
-` ............I can't imagine that, just for Maria‐sama, he would trouble himself to go all the way down the stairs to carry an umbrella to her directly."`
-`"Oh, my......how troublesome.`
-` So that means that the one who lent Maria‐sama an umbrella really was {f:5:Beatrice}‐sama?`
-` Hoh‐hoh‐hoh‐ho..."`
-`Kumasawa laughed, just like the relatives in the {ruby:çeviri > yemek salonu:dining hall} had laughed it off.`
-`{n}......She couldn't think of any other way to break through the smoke veiling the current situation.`
-`Just then, the crisp sound of hands clapping twice rang through the hallway.`
-`They all turned around at once to see that it was Gohda, who was coming out of the {ruby:çeviri > yemek salonu:dining hall}.`
-`"Chop‐chop, everyone.`
-` When serving a dinner, it is essential to make sure the dishes are served with the proper timing.`
-` Please immediately see to setting out the soup.`
-` Genji‐san, the women are in the middle of an important job, so please don't get in their way."`
+`Krauss açıkça onunla alay eden bir yüz ifadesiyle gülüyordu,`
+` ama iddiasına inanıldığını hisseden Maria çok sevinmişti.`
+`"......Neler oluyor?`
+` Sakın bana gerçekten bir cadının ortaya çıkıp ona şemsiye verdiğini söylemeyin."`
+`Jessica karşımda oturan Maria'nın duyamayacağı kadar kısık bir sesle sordu.`
+`"Maria hiç şaka yapacak bir tip oldu mu?"`
+`O yaşlı piçin ağzından böyle bir hikâye çıktığını duysaydık, bunu da bir şaka olarak kabul edebilirdik.`
+`......Ancak Maria'nın ağzından çıkınca biraz anlaşılmaz, garip bir şekilde rahatsız edici oldu...`
+`"İmkanı yok.`
+` O her zaman açık sözlü ve ciddi olmuştur.`
+` Yalan olduğu apaçık ortada olan şakalara sürekli kanmadı mı?`
+` Onun şaka yaptığını bile hiç duymadım."`
+`Rosa Teyze muhtemelen bunu herkesten daha iyi biliyordu.`
+`{n}Görünüşe göre bu garip durum yüzünden artık neler olup bittiğine dair hiçbir fikri yoktu.`
+`"Yani Maria, {f:5:Beatrice}'ten bir şemsiye ödünç aldığını söylüyorsa, bu gerçekten {f:5:Beatrice} miydi?"`
+`".........Burada Maria'dan bahsediyoruz, bu yüzden bunun bir tür metafor ya da şaka olduğunu düşünemiyorum.`
+` ...Söylediklerini olduğu gibi kabul etmek en iyisi olabilir."`
+`"O zaman neler oluyor?`
+` Genji-san'ın ya da birinin portredeki o süslü elbiseyi giydiğini ve Maria'ya şemsiyeyi verdiğini mi söylüyorsun?"`
+`"...Hiçbir fikrim yok...`
+` Aslında ben de bunu bilmek istiyorum."`
+`Jessica şakayla karışık omuz silkti ama ifadesi tamamen şaka değildi.`
+`Mezeler hazırlandıktan ve Gohda engin bilgi birikimini sergiledikten sonra yemek başladı.`
+`Arada birkaç sıradan sohbet döndü ama nedense mesafeliydiler; sessiz bir akşam yemeğiydi ve yemek salonuna sızan yağmurun rahatsız edici sesi aralıksız devam etti.`
+`Kumasawa ve Shannon servis arabasını iterek mutfağa doğru giderken Genji ve Kanon'a rastladılar.`
+`"...Genji-san, Maria-sama'ya şemsiye ödünç veren sen miydin?"`
+`".........Şemsiye mi?`
+` Sen neden bahsediyorsun?"`
+`"Evet.`
+` ......Yağmur yağmaya başladığında Maria-sama'nın gül bahçesinde yalnız olduğunu duydum.`
+` ...Ve görünüşe göre oradaki birinden şemsiye ödünç almış,`
+` ama kim olduğunu bilmiyoruz."`
+`"......Ben değildim.`
+` Ne de olsa Maria-sama'nın konukevinde olduğunu sanıyordum.`
+` Battler-sama onu ilk bulduğunda elinde beyaz bir şemsiye vardı."`
+`"Özür dilerim, ama ben de değildim..."`
+`".........O zaman, sizce...`
+`...Efendi,`
+` olabilir mi?"`
+`Hem yemek salonundaki hem de şu anda bulundukları yerdeki herkes onlar olmadığını söylemişti.`
+`...Bu da geriye sadece Kinzo'nun kaldığı anlamına geliyordu, ama...`
+`"Belki de bir nedenle koridorda yürürken tesadüfen Maria-sama'yı gül bahçesinde şemsiyesiz gördü..."`
+`"...............Efendi...`
+`Maria-sama'dan pek hoşlanmaz."`
+`"Katılıyorum.`
+` ............Sırf Maria-sama için merdivenlerden inip ona doğrudan bir şemsiye taşıma zahmetine katlanacağını düşünemiyorum."`
+`"Oh, ......ne sorun ama.`
+` Yani Maria-sama'ya şemsiyeyi ödünç veren kişi gerçekten {f:5:Beatrice}-sama mıydı?`
+` Hoh-hoh-hoh-ho..."`
+`Kumasawa güldü, tıpkı yemek salonundaki akrabalarının güldüğü gibi.`
+`{n}......Mevcut durumun üstünü örten dumanı dağıtmanın başka bir yolunu bulamamıştı.`
+`Tam o sırada, iki kez el çırpan ellerin keskin sesi koridorda çınladı.`
+`Hepsi birden arkalarını döndüklerinde yemek salonundan çıkanın Gohda olduğunu gördüler.`
+`"Marş-marş, millet.`
+` Yemek servisi yaparken, yemeklerin doğru zamanlamayla servis edildiğinden emin olmak çok önemlidir.`
+` Lütfen hemen çorbayı hazırlayın.`
+` Genji-san, kadınlar önemli bir işin ortasındalar, bu yüzden lütfen yollarına çıkmayın."`
 `"........................"`
-`Kanon glared at Gohda for being rude to Genji, a person Kanon respected.`
-`Genji, realizing this, patted Kanon once on the shoulder as if to warn him.`
-`Kanon reluctantly turned away, and returned his expression to normal.`
-`"......Obey Gohda's order.`
-` Let us now hurry to prepare the dinner table."`
-`"Come on, we have no time.`
-` Don't just dawdle around!`
-` Hurry...!"`
-`Gohda grabbed the serving cart from Shannon and drove it past her, heading towards the kitchen at pace.`
-`"...Then please allow us to return to the kitchen.`
-` ...After all, Gohda‐san's patience is very short, ...hoh‐hoh‐ho."`
-`"Ple‐please excuse me as well..."`
-`Kumasawa and Shannon left.`
-`{n}Only Genji and Kanon remained.`
-`{n}Through the window, the darkness of the rainy night could be seen, along with the occasional thunderbolt.`
-`"............Genji‐sama.`
-` Has {f:5:Beatrice}‐sama really...`
-`......returned?"`
-`"...........................I don't know."`
-`"......Should we inform the {ruby:çeviri > Efendi:Master}?"`
-`"There's no need.`
-` .........If she has truly returned, she will eventually appear before the {ruby:çeviri > Efendi:Master} of her own accord.`
-` .........Furthermore, she is a fickle person.`
-` It would be pointless to report to the {ruby:çeviri > Efendi:Master} only to find that she does not appear..."`
-`"..................I wonder if this means that the {ruby:çeviri > Efendi:Master}'s {ruby:çeviri > ritüel:ritual} has already begun."`
-`"...Probably.`
-` However, that has nothing to do with {ruby:çeviri > mobilya:furniture} like us.`
-` ......We must return the favor that we received from the {ruby:çeviri > Efendi:Master}...until our final moments."`
-`".........Yes.`
-` ...As {ruby:çeviri > mobilya:furniture}, that is our...`
-`............duty."`
-`The thunder crashed once more.`
-`Except for that instant when the lightning lit up the sky, all that could be seen out of the window was the darkness of night.`
-`Just as humans rule when the sun is up, the time when the sun is down is ruled by those that are not human.`
-`The darkness of night that now surrounded Rokkenjima was ruled not by the Ushiromiya family, but by another master.`
-`Did this master take pity on Maria when she was alone and pummeled by the rain in the {ruby:çeviri > gül bahçesi:rose garden}, and lend her an umbrella...?`
-`Kanon looked at the {ruby:çeviri > gül bahçesi:rose garden}'s lights, dimly visible beyond the window.`
-`{n}The dim lights were not enough to illuminate the surrounding area.`
-`Looking at those lights felt like making eye contact with the witch, and Kanon forcibly averted his gaze.`
-`...If he didn't, it felt like his eyes would be absorbed by that light......`
-`Perhaps the weather was also a factor.`
-`{n}You often hear stories about how things like atmospheric pressure can influence people's moods and physical health.`
-`For some time now, everyone had been making periodic attempts to clear the gloomy atmosphere,`
-` but any conversation was quickly cut off, and in the end the {ruby:çeviri > yemek salonu:dining hall} was simply buried by the sound of the rain.`
-`Dessert was some kind of chocolate cake accompanied by pear sherbet.`
-`Gohda‐san enthusiastically explained the recipe as if delivering the coup de grace, but I quickly forgot the details.`
-`The guest of honor, Grandfather, was absent; the weather was horrible; and the person who had lent Maria the umbrella was still a mystery.`
-`When dinner ended, no one felt even one bit refreshed.`
-`...It was too late now, but I realized painfully that taste wasn't the only important part of a meal. The whole atmosphere was also critical.`
-`Gohda‐san, the supposed conductor of this performance called dinner, did his best to enliven the place,`
-` dropping little jokes left and right, but it seemed they didn't quite get there.`
-`After taking orders for after‐dinner coffee, tea, and orange juice, he left for the kitchen.`
-`As soon as he disappeared, Uncle Krauss spoke.`
-`"......My, my.`
-` How truly irksome that this dinner, which Gohda worked so hard to create, has been so poorly received."`
-`".........Yes, seriously.`
-` It feels like nothing would taste good today. It's just that kind of mood."`
+`Kanon, saygı duyduğu Genji'ye kaba davrandığı için Gohda'ya ters ters baktı.`
+`Bunu fark eden Genji, Kanon'u uyarmak istercesine omzuna bir kez dokundu.`
+`Kanon isteksizce arkasını döndü ve yüz ifadesini normale döndürdü.`
+`"......Gohda'nın emrine itaat edin.`
+` Şimdi yemek masasını hazırlamak için acele edelim."`
+`"Hadi, zamanımız yok.`
+` Oyalanmayın!`
+` Acele edin...!"`
+`Gohda servis arabasını Shannon'dan kaptı ve onun yanından geçerek hızla mutfağa doğru ilerledi.`
+`"...O zaman lütfen mutfağa dönmemize izin verin.`
+` ...Ne de olsa Gohda-san'ın hiç sabrı yok, ...hoh‐hoh‐ho."`
+`"Lü-lütfen bana da müsaade edin..."`
+`Kumasawa ve Shannon gittiler.`
+`{n}Sadece Genji ve Kanon kaldı.`
+`{n}Pencereden yağmurlu gecenin karanlığı ve arada bir çakan şimşekler görünüyordu.`
+`"............Genji-sama.`
+` {f:5:Beatrice}-sama gerçekten...`
+`......döndü mü?"`
+`"...........................Bilmiyorum."`
+`"......Efendi'ye haber vermeli miyiz?"`
+`"Gerek yok.`
+` .........Eğer gerçekten döndüyse, eninde sonunda Efendi'nin huzuruna kendi isteğiyle çıkacaktır.`
+` .........Ne de olsa, o dönek bir kadın.`
+` Efendi'ye haber verip de onun görünmediğini fark etmek anlamsız olurdu..."`
+`"..................Bu, Efendi'nin ritüelinin çoktan başladığı anlamına mı geliyor acaba?"`
+`"...Muhtemelen.`
+` Ancak, bunun bizim gibi mobilyalarla hiçbir ilgisi yok.`
+` ......Son anlarımıza kadar Efendi'den gördüğümüz iyiliğin karşılığını vermeliyiz."`
+`".........Evet.`
+` ...Mobilya olarak, bu bizim...`
+`............görevimiz."`
+`Gök gürültüsü bir kez daha duyuldu.`
+`Şimşeklerin gökyüzünü aydınlattığı o an dışında, pencereden görülebilen tek şey gecenin karanlığıydı.`
+`Güneşin doğduğu zamanı insanların yönettiği gibi, güneşin battığı zamanı da insan olmayanlar yönetir.`
+`Şimdi Rokkenjima'yı saran gece karanlığı Ushiromiya ailesi tarafından değil, başka bir efendi tarafından yönetiliyordu.`
+`Bu efendi, Maria gül bahçesinde yalnızken ve yağmur altında ezilirken ona acıdı ve bir şemsiye ödünç verdi mi...?`
+`Kanon, pencerenin ötesinden loş bir şekilde görünen gül bahçesinin ışıklarına baktı.`
+`{n}Loş ışıklar etrafı aydınlatmak için yeterli değildi.`
+`Bu ışıklara bakmak cadıyla göz teması kuruyormuş gibi hissettirdi ve Kanon bakışlarını zorla kaçırdı.`
+`...Bunu yapmazsa gözlerinin o ışık tarafından emileceğini hissetti......`
+`Belki de hava durumu da bir etkendi.`
+`{n}Atmosfer basıncı gibi şeylerin insanların ruh hallerini ve fiziksel sağlıklarını nasıl etkileyebildiğine dair hikayeleri sık sık duyarsınız.`
+`Bir süredir herkes kasvetli havayı dağıtmak için periyodik girişimlerde bulunuyordu,`
+` ancak her türlü konuşma çabucak kesildi ve sonunda yemek salonu yağmurun sesine gömüldü.`
+`Tatlı olarak armut şerbeti eşliğinde bir çeşit çikolatalı kek vardı.`
+`Gohda-san sanki lütufta bulunuyormuş gibi heyecanla tarifini açıkladı ama ayrıntıları çabucak unuttum.`
+`Onur konuğu Büyükbaba kayıptı; hava korkunçtu ve Maria'ya şemsiyeyi ödünç veren kişi hâlâ bir muammaydı.`
+`Yemek sona erdiğinde, kimse kendini biraz bile yenilenmiş hissetmiyordu.`
+`...Artık çok geçti ama yemeğin tek önemli kısmının lezzet olmadığını acı bir şekilde fark ettim. Tüm atmosfer de çok önemliydi.`
+`Gohda-san, akşam yemeği adı verilen bu gösterinin sözde orkestra şefi, sağa sola küçük şakalar yaparak mekânı canlandırmak için elinden geleni yaptı,`
+` ancak görünüşe göre tam olarak başaramadı.`
+`Yemek sonrası kahve, çay ve portakal suyu siparişlerini aldıktan sonra mutfağa gitti.`
+`O gözden kaybolur kaybolmaz, Krauss Amca konuştu.`
+`"......Aman aman.`
+` Gohda'nın hazırlamak için çok uğraştığı bu yemeğin bu kadar kötü karşılanması gerçekten çok üzücü."`
+`".........Evet, gerçekten de.`
+` Bugün hiçbir şeyin tadı güzel olmayacakmış gibi geliyor. Öyle bir ruh hali işte."`
 `"Hoh.`
-` I would love to hear why you feel that way.`
-` Sometime later, allow me, as your older brother, to help cheer you up."`
-`{ruby:çeviri > Hala:Auntie} Eva grimaced slightly.`
-`{n}...I had already heard that she was not on good terms with Uncle Krauss, but now I could clearly feel it.`
-`When I looked around, I noticed that my dad and {ruby:çeviri > Hala:Auntie} Rosa were also grimacing.`
-`Anyhow, it looked like there was something besides the weather that was troubling all of them...`
-`"......{ruby:çeviri > Hala:Auntie} Eva and my dad,`
-` ...they both look like they're in a bad mood."`
-`"Really?`
-` I don't think so."`
-`I asked Aunt Natsuhi, who was sitting on my right, ...but it looked like she was also in a bad mood.`
-`She snapped back as though she was absolutely not interested.`
-`"Well, our adult conversation got a little complicated.`
-` It's not somethin' kids like you need to worry about, Battler‐kun.`
+` Neden böyle hissettiğini duymak isterim.`
+` Daha sonra, ağabeyin olarak seni neşelendirmeme izin ver."`
+`Eva Teyze hafifçe yüzünü buruşturdu.`
+`{n}...Krauss Amca ile arasının iyi olmadığını zaten duymuştum ama şimdi bunu açıkça hissedebiliyordum.`
+`Etrafıma baktığımda babamın ve Rosa Teyze'nin de yüzlerini buruşturduklarını fark ettim.`
+`Bir nedenden, hepsinin canını sıkan havadan başka bir şey varmış gibi görünüyordu...`
+`"......Eva Teyze ve babam,`
+` ...ikisi de kötü bir ruh halindeymiş gibi görünüyor."`
+`"Gerçekten mi?`
+` Hiç sanmıyorum."`
+`Sağımda oturan Natsuhi Teyze'ye sordum, ...ama onun da keyfi yok gibiydi.`
+`Sanki hiç ilgilenmiyormuş gibi tersledi.`
+`"Yetişkinlerin sohbeti biraz karmaşık bir hal aldı.`
+` Battler-kun, bu senin gibi çocukların endişelenmesi gereken bir şey değil.`
 ` Hahahahaha,`
-` right? Natsuhi‐san? Kyrie‐san?"`
-`Uncle Hideyoshi laughed as he spoke, but without his usual brightness,`
-` so I could vaguely imagine just how complicated their adult conversation had actually become.`
-`On top of that, even Aunt Natsuhi and Kyrie‐san, the people he had directed his comment to, ignored him as though they hadn't heard anything.`
-`...I didn't know what kind of conversation they had been having while we kids were away,`
-` but it reminded me of how Dad had said he had stomach cramps when we had arrived at the {ruby:çeviri > malikane:mansion}.`
-`The family {ruby:çeviri > konferans:conference} might have been a playful reunion to us kids, but it was definitely different for the adults...`
-`After Uncle Hideyoshi was ignored by the other adults, an awkward silence fell over the room; Kyrie‐san spoke up.`
-`"......We were talking about how the kids' careers would turn out.`
-` What will you do in the future, Battler‐kun?`
-` Just drift on to college?`
-` Wouldn't that be a little disheartening as a starting line for the long race of life?"`
-`"Hey! Wait a sec...`
-` Kyrie‐san, if you start talking about something like that in the middle of a meal, it won't digest well and we'll all get constipated, ri~ght?"`
+` öyle değil mi? Natsuhi-san? Kyrie-san?"`
+`Hideyoshi Amca konuşurken güldü ama her zamanki neşesi yoktu,`
+` bu yüzden yetişkin sohbetlerinin aslında ne kadar karmaşık hale geldiğini hayal meyal tahmin edebiliyordum.`
+`Üstelik, yorumunu yönelttiği kişiler olan Natsuhi Teyze ve Kyrie-san bile hiçbir şey duymamış gibi onu görmezden geldiler.`
+`...Biz çocuklar yokken ne tür bir konuşma yaptıklarını bilmiyordum,`
+` ama bu bana babamın malikaneye vardığımızda karnına kramplar girdiğini söylediğini hatırlattı.`
+`Aile konferansı biz çocuklar için eğlenceli bir buluşma olabilirdi ama yetişkinler için kesinlikle farklıydı...`
+`Hideyoshi Amca diğer yetişkinler tarafından görmezden gelindikten sonra odaya garip bir sessizlik çöktü; Kyrie-san konuştu.`
+`"......Çocukların kariyerlerinin nasıl olacağı hakkında konuşuyorduk.`
+` Gelecekte ne yapacaksın, Battler-kun?`
+` Sadece üniversiteye mi gideceksin?`
+` Uzun hayat yarışının başlangıç çizgisi olarak bu biraz cesaret kırıcı olmaz mı?"`
+`"Hey! Bekle bir saniye...`
+` Kyrie-san, yemeğin ortasında böyle bir şey hakkında konuşmaya başlarsan, yemeği iyi sindiremez ve hepimiz kabız oluruz, değil mi~?"`
 `"Wahahaha...!`
-` That's right, that's right! We were talking about Battler‐kun and Jessica‐chan's careers!`
-` You can't take the future too seriously!`
+` Bu doğru, bu doğru! Battler-kun ve Jessica-chan'ın kariyerleri hakkında konuşuyorduk!`
+` Geleceği bu kadar ciddiye alamazsın!`
 ` Wahahaha..."`
-`Hideyoshi heartily agreed as if they really had been talking about that, but they probably hadn't.`
-`Kyrie‐san had obviously been trying to avoid talking about something.`
-`{n}However, if Kyrie‐san had determined that this was the best course of action for now, then she was probably right.`
-`Taking this into account, I decided to cast aside my suspicions as to the cause behind {ruby:çeviri > Hala:Auntie} Eva and Dad's bad moods...`
-`At long last, the serving cart returned, filled with coffee and tea.`
-`Kumasawa‐san and Shannon‐chan served it to everyone.`
-`{n}Gohda‐san then explained that, with this, tonight's dinner was over.`
-`If I had been able to eat in a more cheerful mood, it might have been the best dinner of my life.`
-`It was a shame that this greatest of dinners couldn't have been had under the greatest of conditions.`
+`Hideyoshi sanki gerçekten bundan bahsediyorlarmış gibi içtenlikle onayladı ama muhtemelen bahsetmiyorlardı.`
+`Kyrie-san belli ki bir şeylerden bahsetmekten kaçınmaya çalışıyordu.`
+`{n}Bununla birlikte, Kyrie-san şu an için en iyi hareket tarzının bu olduğuna karar verdiyse, muhtemelen haklıydı.`
+`Bunu göz önünde bulundurarak, Eva Teyze ve babamın kötü ruh hallerinin ardındaki nedene ilişkin şüphelerimi bir kenara bırakmaya karar verdim...`
+`Nihayet servis arabası kahve ve çay dolu olarak geri döndü.`
+`Kumasawa-san ve Shannon-chan herkese servis yaptı.`
+`{n}Gohda-san daha sonra bununla birlikte bu akşamki yemeğin bittiğini açıkladı.`
+`Daha neşeli bir ruh haliyle yemek yiyebilseydim, hayatımın en güzel akşam yemeği olabilirdi.`
+`Bu en güzel yemeğin en güzel koşullar altında yenememiş olması çok yazık oldu.`
 `"Uu!`
-` George onii‐chan, is dinner over now?`
-` Over?"`
-`"Yes.`
-` We're all done now."`
-`"That's not ladylike.`
-` Stay in your seat, and calmly drink up."`
+` George onii-chan, yemek bitti mi?`
+` Bitti mi?"`
+`"Evet, bitti.`
+` Hepimiz bitirdik."`
+`"Bu hiç hanımefendice değil.`
+` Yerinde kal ve sakince iç."`
 `"...Uu."`
-`Maria looked like she was really excited about the occasionally crashing thunder.`
-`{n}Maybe she wanted to quickly finish eating and run over to the window.`
-`{n}She had been fidgeting for a while, waiting for the meal to end.`
-`......Some people are afraid of thunder, while others find it interesting, and Maria was apparently one of the latter.`
-`So, when she heard from George‐aniki that dinner was over, a huge smile broke across her face.`
-`She then stood from her seat, took out her handbag—which she had set under her seat, never having left it even while she was eating—and began fishing around inside of it.`
-`No one seemed particularly concerned with this behavior...`
-`".........What's...`
-`that?`
-` Where did you get it?"`
-`George was the first to notice it.`
-`{n}As he spoke, Battler also noticed.`
-`When they looked, they noticed that Maria was now holding a beautiful Western‐style envelope.`
-`On the front of the envelope, the Ushiromiya family crest—the One‐winged Eagle—was done in gold leaf.`
-`Furthermore, it was sealed with dark red wax, imbuing a level of class upon it that made it clear that this was not something that Maria should be carrying around for fun.`
-`"......Maria‐chan, what is that?"`
-`It seemed that Natsuhi had also noticed the strangeness of the envelope that Maria was holding.`
-`{n}Because her voice sounded too serious to be admonishing a small child, the other relatives around her finally noticed.`
-`"What's up, Natsuhi nee‐san?"`
-`"............What is...`
-`that?"`
+`Maria ara sıra çakan gök gürültüsü için gerçekten heyecanlanmış gibi görünüyordu.`
+`{n}Belki de bir an önce yemeğini bitirip pencereye koşmak istiyordu.`
+`{n}Bir süredir kıpırdanıyor, yemeğin bitmesini bekliyordu.`
+`......Bazı insanlar gök gürültüsünden korkarken, diğerleri onu ilginç bulur ve Maria da görünüşe göre ikincilerden biriydi.`
+`Bu yüzden George-aniki'den yemeğin bittiğini duyduğunda yüzünde kocaman bir gülümseme belirdi.`
+`Sonra oturduğu yerden kalktı, koltuğunun altına koyduğu—ve yemek yerken bile yanından ayırmadığı çantasını çıkardı—ve içinde bir şeyler aramaya başladı.`
+`Kimse bu davranışla özellikle ilgilenmiş görünmüyordu...`
+`".........O da...`
+`ne?`
+` Onu da nereden buldun?"`
+`Bunu ilk fark eden George oldu.`
+`{n}O konuştuğunda, Battler da fark etti.`
+`Baktıklarında Maria'nın elinde Batı tarzı güzel bir zarf olduğunu fark ettiler.`
+`Zarfın ön yüzünde Ushiromiya ailesinin arması olan—Tek Kanatlı Kartal—altın baskıyla işlenmişti.`
+`Ayrıca, koyu kırmızı balmumuyla mühürlenmişti ve bu da Maria'nın eğlence olsun diye yanında taşıması gereken bir şey olmadığını açıkça ortaya koyan bir klas seviyesi aşılıyordu.`
+`"......Maria-chan, o da ne?"`
+`Maria'nın elindeki zarfın tuhaflığını Natsuhi de fark etmiş görünüyordu.`
+`{n}Sesi küçük bir çocuğu uyarmak için fazla ciddi olduğundan, etrafındaki diğer akrabalar da sonunda fark etti.`
+`"Noluyor, Natsuhi nee-san?"`
+`"............Bu da...`
+`ne?"`
 `"Maria...`
-`where did you pick that up...?"`
-`"That envelope has...`
-`...Kinzo‐san's......"`
-`As Nanjo muttered that, even us kids could understand why everyone seemed to be frozen solid.`
-`The envelope that Maria held was one of the Ushiromiya family head's custom‐made envelopes for private use.`
-`......In other words, it could only mean one thing.`
-`{n}This envelope contained a message from Kinzo.`
+`bunu nereden aldın?"`
+`"Bu zarfta...`
+`...Kinzo-san'ın......"`
+`Nanjo bunları mırıldanırken, biz çocuklar bile herkesin neden donmuş gibi göründüğünü anlayabiliyorduk.`
+`Maria'nın elindeki zarf Ushiromiya aile reisinin özel kullanım için yaptırdığı zarflardan biriydi.`
+`......Başka bir deyişle, bunun tek bir anlamı olabilirdi.`
+`{n}Bu zarf Kinzo'dan bir mesaj içeriyordu.`
 `"Hoh.........`
-` ...What is an envelope like that doing here...?"`
-`"......It, ......it looks like something interesting has jumped out at us."`
-`".........J‐just let me have a peek...!"`
+` ...Böyle bir zarfın burada ne işi var...?"`
+`"......İl-, ......İlginç bir şey karşımıza çıkmış gibi görünüyor."`
+`".........B-Bir göz atmama izin ver...!"`
 `"Uu!!`
-` No, I'm reading it!`
-` I was told to read it to everyone!!"`
-`Uncle Hideyoshi tried to snatch the envelope out from Maria's hands, but she protected it as though hugging it, and didn't let go.`
-`"Hideyoshi nii‐san, you shouldn't take something from a child by brute force.`
-` .........Maria‐chan, where did you get this envelope?"`
+` Hayır, Maria okuyacak!`
+` Maria'nın herkese okuması söylendi!!"`
+`Hideyoshi Amca zarfı Maria'nın elinden almaya çalıştı ama Maria zarfı kucaklar gibi korudu ve bırakmadı.`
+`"Hideyoshi nii-san, bir çocuğun elinden kaba kuvvetle bir şey almamalısın.`
+` .........Maria-chan, bu zarfı nereden buldun?"`
 `"Uu!`
-` Got it from {f:5:Beatrice} when she gave me the umbrella.`
-` She told me to read it to everyone after the meal was over!`
-` I'm the witch's mes—`
-` mess—`
-` "messenger"!`
+` {f:5:Beatrice} bana şemsiyeyi verdiğinde ondan aldım.`
+` Yemek bittikten sonra herkese okumamı söyledi!`
+` Maria cadının El—`
+` El—`
+` {ruby:<Messenger>:Elçi}si!`
 ` Uu!"`
-`"Messenger...?`
-` Ihihihi, the witch of the island sure likes to mess around."`
-`Battler tried to joke about it, but no one went along with him.`
-`"..................I, I wonder what's written inside of it. Maria‐chan...?"`
+`"{ruby:<Messenger>:Elçi} mi...?`
+` Ihihihi, adanın cadısı ortalığı karıştırmayı gerçekten çok seviyor."`
+`Battler bu konuda şaka yapmaya çalıştı ama kimse ona gülmedi.`
+`"..................İ-İçinde ne yazdığını merak ediyorum. Maria-chan...?"`
 `"Uu.`
-` Reading!`
+` Okuyorum!`
 ` Uu!"`
-`Maria casually opened the envelope.`
-`...It was sealed only with wax, so she just had to remove the sealing wax to open it.`
-`...That sealing wax fell onto the desk.`
-`{n}Hideyoshi hastily picked it up and stared fixedly at it.`
-`He then set it in the center of the table, where Natsuhi, Kyrie, and Nanjo glared at it.`
-`Imprinted there in the sealing wax was the One‐winged Eagle—which was the Ushiromiya family crest, and also Kinzo's personal crest.`
-`"............This is the family head's personal crest..."`
-`".........I know because I have received letters from Kinzo‐san before.`
-` Without a doubt, this is Kinzo‐san's wax seal."`
-`"But, in this {ruby:çeviri > malikane:mansion}, couldn't there be several identical seals?`
-` For example, if there was some kind of stamp for wax seals, couldn't someone other than Kinzo‐san have sealed it?"`
-`"No, Kinzo‐san would always use a ring on his finger, his "Proof of the Ushiromiya Family Headship", when he sealed the wax.`
-` This shape and complex design is definitely Kinzo‐san's seal..."`
-`"That is not necessarily so.`
-` Anyone in the family must have received a letter from Dad at least once.`
-` We can't eliminate the possibility that someone, using that wax as a model, created a fake seal to pass themselves off as Father."`
-`"I agree with Aniki.`
-` No matter how the seal resembles Dad's, we can't prove that it is the real thing.`
-` Therefore, it doesn't prove that this envelope came from Dad."`
-`"I feel the same way.`
-` I cannot approve of arbitrarily deciding that this is Father's letter only by the seal in the wax.`
-` Doctor Nanjo, would you mind refraining from speaking such vague words...?!"`
-`"............I apologize...`
-` I said too much..."`
-`One after another, all of the siblings, from Krauss on downwards, rejected Nanjo's statement, saying that the envelope that Maria was holding had not necessarily been sent by Kinzo.`
-`They were afraid.`
-`Kinzo's intentions were written in there,`
-` and they feared from the bottoms of their hearts that it might be some decidedly unfavorable announcement regarding the inheritance.`
+`Maria zarfı gelişigüzel açtı.`
+`...Sadece balmumu ile mühürlenmişti, bu yüzden açmak için sadece mühür balmumunu çıkarması gerekiyordu.`
+`...Mühürlü balmumu masanın üzerine düştü.`
+`{n}Hideyoshi onu aceleyle aldı ve dikkatli bir şekilde baktı.`
+`Sonra da Natsuhi, Kyrie ve Nanjo'nun gözlerini dikip baktığı masanın ortasına koydu.`
+`Mühür balmumuna basılmış olan Tek Kanatlı Kartal—Ushiromiya ailesinin arması ve aynı zamanda Kinzo'nun kişisel armasıydı.`
+`"............Bu aile reisinin kişisel arması..."`
+`".........Biliyorum çünkü daha önce Kinzo-san'dan mektuplar almıştım.`
+` Hiç şüphesiz, bu Kinzo-san'ın balmumu mührü."`
+`"Ama bu malikanede aynı mühürden birkaç tane olamaz mı?`
+` Örneğin, balmumu mühürler için bir çeşit damga varsa, Kinzo-san'dan başka biri mühürlemiş olamaz mı?"`
+`"Hayır, Kinzo-san balmumunu mühürlerken her zaman parmağındaki "Ushiromiya Aile Reisliği Kanıtı" olan yüzüğünü kullanırdı.`
+` Bu şekil ve karmaşık tasarım kesinlikle Kinzo-san'ın mührü..."`
+`"Öyle olması şart değil.`
+` Ailedeki herkes babamdan en az bir kez mektup almış olmalı.`
+` Birinin bu balmumunu model olarak kullanarak, kendisini babam olarak tanıtmak için sahte bir mühür yaratmış olma ihtimalini ortadan kaldıramayız."`
+`"Aniki'ye katılıyorum.`
+` Mühür babamınkine ne kadar benzerse benzesin, gerçek olduğunu kanıtlayamayız.`
+` Bu nedenle, bu zarfın babamdan geldiğini kanıtlamaz."`
+`"Ben de aynı şekilde düşünüyorum.`
+` Sadece balmumundaki mühre bakarak bunun babamın mektubu olduğuna keyfi olarak karar vermeyi onaylayamam.`
+` Doktor Nanjo, böyle belirsiz kelimeler kullanmaktan kaçınır mısın?!"`
+`"............Özür dilerim...`
+` Çok fazla konuştum..."`
+`Krauss'tan aşağıya doğru tüm kardeşler birbiri ardına, Maria'nın elinde tuttuğu zarfın Kinzo tarafından gönderilmiş olması gerekmediğini söyleyerek Nanjo'nun ifadesini reddettiler.`
+`Korkuyorlardı.`
+`Kinzo'nun niyetleri orada yazılıydı,`
+` ve mirasla ilgili kesinlikle olumsuz bir duyuru olabileceğinden kalplerinin derinliklerine kadar korkuyorlardı.`
 `"...Maria...`
-` The person who gave you that envelope was the same person who lent you that umbrella, right...?"`
+` Sana o zarfı veren kişi, sana o şemsiyeyi ödünç veren kişiyle aynıydı, değil mi...?"`
 `"Uu!"`
-`"I don't know what "uu" means!`
-` Is it true?!"`
+`"Ben "uu" ne demek bilmiyorum!`
+` Bu doğru mu?!"`
 `"Uu...`
-` ......Yes.`
+` ......Evet.`
 ` Uu."`
-`"So, in other words,`
-` ...the witch,`
-` {f:5:Beatrice}, gave you that envelope along with the umbrella...?"`
+`"Yani, başka bir deyişle,`
+` ...cadı,`
+` {f:5:Beatrice}, şemsiyeyle birlikte o zarfı sana verdi...?"`
 `"Uu!"`
-`Maria nodded forcefully.`
-`"...I, I agree with my husband.`
-` It's a dubious letter handed over by some suspicious person.`
-` It's not even worth reading."`
-`"Oh, go on, what's the worst that could happen, right?"`
-`Battler said it to Jessica in a small voice, pretending to stir things up, but Natsuhi heard him clearly and glared at him with threatening eyes.`
-`"A‐and then,`
+`Maria başını güçlüce sallayarak onayladı.`
+`"...Ben, ben kocamla aynı fikirdeyim.`
+` Şüpheli biri tarafından verilmiş şüpheli bir mektup.`
+` Okumaya bile değmez."`
+`"Oh, okumaktan zarar gelmez, değil mi?"`
+`Battler bunu Jessica'ya küçük bir sesle, ortalığı karıştırmak istermiş gibi söyledi ama Natsuhi onu net bir şekilde duydu ve tehditkâr gözlerle ona baktı.`
+`"V-Ve sonra,`
 ` err,`
-` ...{f:5:Beatrice} told you to read it after the meal was over, right?"`
+` ...{f:5:Beatrice} bunu sana yemek bittikten sonra okumanı söyledi, öyle mi?"`
 `"Uu!"`
-`".........Why not, everyone.`
-` This isn't Grandfather's envelope, it's {f:5:Beatrice}'s.`
-` Who cares who wrote it, why can't we just hear what's inside before passing judgment?"`
-`"Th‐...that's right.`
-` Even if Father didn't necessarily write it, I'm still concerned about its contents.`
-` ......Maria‐chan, I'm sorry I tried to take it from you by force earlier!`
-` I apologize, so will you read it aloud in front of everyone?"`
+`".........Neden olmasın, millet.`
+` Bu Büyükbabanın zarfı değil, {f:5:Beatrice}'in.`
+` Kimin yazdığı kimin umurunda, neden yargılamadan önce içinde ne olduğunu duymuyoruz?"`
+`"Bu-...Bu doğru.`
+` Babam yazmamış olsa bile, yine de içeriği hakkında endişeliyim.`
+` ......Maria-chan, daha önce senden zorla almaya çalıştığım için üzgünüm!`
+` Özür dilerim, o yüzden herkesin önünde yüksek sesle okur musun?"`
 `"............Maria.`
-` Read it."`
+` Oku."`
 `"Uu."`
-`As all of the relatives stared fiercely at Maria, she spread the letter open with a rustle...`
-`"......Do you think it really is Dad's letter?"`
-`"Impossible.`
-` Whenever Father has announced something to us in the past, if he didn't do it directly, he would always send Genji‐san, right?`
-` ......I can't believe that he would use such a joke‐like approach."`
-`"That's right.`
-` Maria, a messenger?`
-` That's seriously not his style...`
-` Rosa, this must be Maria‐chan trying to surprise us with some kind of hidden talent, right...?"`
-`"I..................M‐Maria's not a kid capable of something so clever."`
-`"Reading.`
+`Tüm akrabalar hiddetle Maria'ya bakarken, Maria mektubu bir hışırtıyla açtı...`
+`"......Sence bu gerçekten babamın mektubu mu?"`
+`"İmkansız.`
+` Babam geçmişte bize ne zaman bir şey duyurduysa, bunu doğrudan yapmasa bile, her zaman Genji-san'ı gönderirdi, değil mi?`
+` ......Böyle şaka gibi bir yaklaşım kullandığına inanamıyorum."`
+`"Bu doğru.`
+` Maria mı, {ruby:<Messenger>:Elçi} mi?`
+` Bu cidden onun tarzı değil...`
+` Rosa, Maria-chan gizli bir yetenekle bizi şaşırtmaya çalışıyor olabilir, değil mi?"`
+`"Ben..................M-Maria bu kadar zekice bir şey yapabilecek bir çocuk değil."`
+`"Okuyorum.`
 ` Uu."`
-`The words came out of Maria's mouth, but for some reason it felt like her voice was different than usual.`
-`Everyone went suddenly silent...`
-`"Welcome to Rokkenjima, ladies and gentlemen of the Ushiromiya family.`
-` I am {f:5:Beatrice}, the alchemist for this family, under the employ of Kinzo‐sama."`
-`".........How absurd...!"`
-`"Quiet!"`
-`"I have served him for many years in accordance with our contract, but today, Kinzo‐sama has announced the termination of that contract.`
-` Therefore, I ask that you acknowledge my resignation from the position of family alchemist as of today."`
-`"......How foolish... What nonsense...!"`
-`"I, I can't stand to listen to it...!"`
-`"And now, there is one part of the contract that I must explain to you all.`
-` I, {f:5:Beatrice}, lent Kinzo‐sama a vast quantity of gold under certain terms.`
-` One of these terms specifies that all the gold is to be returned to me upon the termination of the contract.`
-` Furthermore, I am to receive everything of the Ushiromiya family as interest."`
-`"R‐ridiculous!!"`
-`"...I‐it's been ridiculous from the very beginning..."`
-`"So it's basically one of those things, right?`
-` Just like one of those contracts with the devil you always hear about?`
-` And, the contract has expired, so she's come to collect the interest.`
-` Is she trying to grab some retirement money for her old age or something?`
-` What a cheeky witch."`
-`"Battler‐kun, now is not the time to joke around..."`
-`Battler made a face as if to ask, "If I can't make fun of this, what can I make fun of?"`
-`At the same time, some of the adults' faces were pale, while others looked completely shocked.`
-`"After hearing this, you may feel as though Kinzo‐sama has been savagely ruthless.`
-` However, Kinzo‐sama did append a special clause to the contract so that you would have a chance to preserve your wealth and honor.`
-` If and only if that special clause is fulfilled, I will lose my rights to the gold and the interest for all eternity."`
-`"......A special clause...?"`
-`"Wh‐what is it...?!"`
-`{e:070:Special Clause.`
-`{f:5:Beatrice} has the right to collect the gold and accumulated interest upon the termination of the contract.`
-`However, if someone is able to discover the hidden gold of this contract,`
-` {f:5:Beatrice} must abandon these rights for all time.}`
-`{e:070:......The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause,`
-` I shall return everything, including the portion that has already been collected.`
-`Furthermore, as the first step in this collection of Kinzo‐sama's debt, I have taken possession of the "Ushiromiya Family Head's Ring", which signifies the passage of the Ushiromiya family headship from one individual to another.`
-`I ask that you confirm this for yourselves by examining the imprint on the wax seal.}`
-`".........You want me to accept this as real...?!`
-` That Dad would relinquish his ring is unthinkable...!"`
-`Krauss was staring at the sealing wax as though he was trying to burn a hole through it.`
-`{n}Eva and Rudolf were doing the same over his shoulder!`
-`"I, I did have the odd feeling that something was missing from Kinzo‐san's finger when we were playing chess........."`
-`"Doctor Nanjo!`
-` Don't say something so careless just because of a vague memory!"`
-`"We can't prove its authenticity here.`
-` The questions of whether Father really has handed over his ring, and whether this letter tells the truth, we can determine simply by asking him directly."`
-`"Th‐that's right.`
-` It's just as Kyrie‐san says..."`
-`".........Well now, I wonder.`
-` Will Kinzo‐san answer you...?`
-` After all, that person's thoughts are sometimes impossible to predict using common sense..."`
-`"In any event, this does not leave the realm of nonsense...!`
-` In the first place, the fiction of the gold is itself a deception by Father.`
-` If you want to talk about nonexistent gold, leave me out of it!"`
-`"But, you heard what the witch is saying, right?`
-` About how the headship and all of the assets would be handed over to the one who finds the gold?`
-` So, could this mean that {f:5:Beatrice}‐sama is Father's legal advisor, or maybe in charge of his funds...?"`
-`"W‐we can't possibly trust the kind of strange person who would entrust such a suspicious paper to a child!"`
-`"Aniki... Time for you to open up.`
-` Is it possible that someone you don't know is actually handling Dad's assets?!"`
-`"N‐no, that's impossible!`
-` As the agent to the head, I have total knowledge of all Father's assets!`
-` There shouldn't be anyone who can manipulate them without me knowing it!"`
-`"Then, there must be some assets that you do not have full knowledge of, mustn't there, Krauss nii‐san?"`
-`"Absurd, there's no such thing!"`
-`"..................Oh yes, there is.`
-` One asset of Father's that you know nothing about."`
-`"There is no way that something like that exists!!"`
-`"No, it does.`
-` ............That'd be Father's, no, {f:5:Beatrice}'s hidden gold!!"`
-`"Let's put things in order.`
-` In short, Dad has some trusted confidante that not even Aniki knows about.`
-` Furthermore, this person has always been in charge of watching and managing the gold.`
-` It's possible that this person is a dilettante of a very rich family who provided his financing in the first place through a mock devil's contract."`
-`".........Could it be that this confidante, this {f:5:Beatrice}‐san, is trying to test which of the sons and daughters is most fitting to be financed by her gold?"`
-`What Kyrie said was something that all of the siblings wanted clarified.`
-`Upon reflection, they realized that during the time Kinzo's strange {ruby:çeviri > kitabe:epitaph} had been displayed in the hall beneath the {ruby:çeviri > portre:portrait} of the witch,`
-` they had always whispered that the one who solved the puzzle would receive everything, ......yet no one had ever clearly stated it.`
-`It was just something that everyone had hoped might be true.`
-`{n}That had, right here, right now, been clearly expressed by {f:5:Beatrice}'s letter!`
-`It clearly specified that everything of the Ushiromiya family would be given to the one who found the gold.`
-`"Kinzo‐sama has already publicly displayed the location of the hidden gold within the {ruby:çeviri > kitabe:epitaph} under my {ruby:çeviri > portre:portrait}.`
-` The rules apply equally to all who can read the {ruby:çeviri > kitabe:epitaph}.`
-` If you discover the gold, I shall return everything to you."`
-`"Tonight, I ask that you enjoy your battle of wits with Kinzo‐sama to the fullest.`
-` I sincerely pray that this night will be both intellectual and elegant.`
-` {nobreak:—{f:5:Beatrice} the Golden}."`
-`"......Father, I know you can hear me!`
-` Please respond!"`
-`The door to Kinzo's study was being violently, violently beaten against over and over again like a percussion instrument.`
-`The screams coming from the other side were Krauss's, Rudolf's, and sometimes Eva's voices.`
-`It was the siblings, who were trying to intrude upon Kinzo's study to question him about the truth behind that mysterious letter.`
-`Kinzo was eating.`
-`An elegant tablecloth was set over the desk, and the fabulous dinner that had colored the table down in the {ruby:çeviri > yemek salonu:dining hall} was once again laid out.`
-`Kinzo continued his meal in silence.`
-`{n}...Shannon, taking away an empty plate, looked uncomfortably between the door being beaten on and Kinzo's face.`
-`"...............Everyone is calling for you, but...`
-`...what would you like me to do...?"`
-`"...Leave it.`
-` God values silence, and so do I during dinner."`
-`"............Should I silence them?"`
-`"There's no need.`
-` It does not even reach my ears."`
-`Kinzo coolly tasted his food.`
-`Genji quietly lowered his head and took a single step back.`
-`{n}...As he did, Kanon, who stood in reserve like a shadow behind and to the side of Genji, opened his mouth.`
-`".........Maria‐sama seems to have received a letter from {f:5:Beatrice}‐sama, so I assume they want to verify its authenticity."`
+`Kelimeler Maria'nın ağzından çıktı, ama nedense sesi her zamankinden farklıydı.`
+`Herkes aniden sessizleşti...`
+`"Rokkenjima'ya hoş geldiniz, Ushiromiya ailesinin hanımefendileri ve beyefendileri.`
+` Ben, Kinzo-sama'nın emrinde çalışan bu ailenin simyacısı, {f:5:Beatrice}."`
+`".........Ne kadar saçma...!"`
+`"Sessizlik!"`
+`"Sözleşmemiz gereğince uzun yıllar boyunca kendisine hizmet ettim, ancak Kinzo-sama bugün bu sözleşmenin feshedildiğini duyurdu.`
+` Bu nedenle, bugün itibariyle aile simyagerliği görevimden istifa ettiğimi bilmenizi rica ediyorum."`
+`"......Ne kadar aptalca... Ne saçmalık...!"`
+`"Ben, ben bunu dinlemeye dayanamıyorum...!"`
+`"Ve şimdi, sözleşmenin hepinize açıklamam gereken bir kısmı var.`
+` Ben, {f:5:Beatrice}, Kinzo-sama'ya belirli koşullar altında büyük miktarda altın ödünç verdim.`
+` Bu şartlardan biri, sözleşmenin feshi üzerine tüm altının bana iade edileceğini belirtmektedir.`
+` Bu sebepten ötürü Ushiromiya ailesinin her şeyini faiz olarak tahsil edeceğim."`
+`"S-Saçmalık!!"`
+`"...E-En başından beri saçmaydı..."`
+`"Yani temelde o şeylerden biri, değil mi?`
+` Hep duyduğunuz şu şeytanlarla yapılan anlaşmalardan biri gibi.`
+` Sözleşmenin süresi doldu, o da faizini almaya geldi.`
+` Yaşlılığı için emeklilik parası falan mı almaya çalışıyor?`
+` Ne arsız bir cadı."`
+`"Battler-kun, şimdi şaka yapmanın sırası değil..."`
+`Battler, "Bununla dalga geçemeyeceksem, neyle dalga geçeceğim?" diye sorar gibi bir yüz ifadesi takındı."`
+`Aynı anda, bazı yetişkinlerin yüzleri solgunlaşırken, diğerleri tamamen şok olmuş görünüyordu.`
+`"Bunu duyduktan sonra Kinzo-sama'nın son derece acımasız davrandığını düşünebilirsiniz.`
+` Ancak Kinzo-sama, servetinizi ve onurunuzu koruma şansına sahip olabilmeniz için sözleşmeye özel bir madde ekledi.`
+` Şayet ve ancak bu özel madde yerine getirilirse, altın ve faiz üzerindeki haklarımı sonsuza kadar yitireceğim."`
+`"......Özel bir madde mi...?"`
+`"Ne-Nedir o...?!"`
+`{e:070:Özel Madde.`
+`Sözleşmenin feshi üzerine {f:5:Beatrice} altını ve birikmiş faizi tahsil etme hakkına sahiptir.`
+`Fakat, eğer birisi bu sözleşmedeki gizli altını keşfedebilirse,`
+` {f:5:Beatrice} bu haklarından sonsuza kadar vazgeçecektir.}`
+`{e:070:......Faiz tahsilatı kısa bir süre içinde yapılacaktır, ancak herhangi biriniz bu özel maddenin şartlarını yerine getirebilirse,`
+` hali hazırda tahsil edilmiş olan kısım da dahil olmak üzere her şeyi iade edeceğim.`
+`Bununla birlikte, Kinzo-sama'nın borcunu tahsil etmenin ilk adımı olarak, Ushiromiya aile reisliğinin bir bireyden diğerine geçişini ifade eden "Ushiromiya Aile Reisi Yüzüğü"nü teslim almış bulunmaktayım.`
+`Balmumu mühürü üzerindeki damgayı inceleyerek bunu kendiniz için teyit etmenizi rica ediyorum.}`
+`".........Bunu gerçek olarak kabul etmemizi mi istiyorlar?!`
+` Babamın yüzüğünden vazgeçmesi düşünülemez bile...!"`
+`Krauss mühürlü balmumuna sanki bir delik açmaya çalışıyormuş gibi bakıyordu.`
+`{n}Eva ve Rudolf da onun omzunun üzerinden aynı şeyi yapıyorlardı!`
+`"Sa-satranç oynarken Kinzo-san'ın parmağında bir şeylerin eksik olduğunu hissetmiştim........."`
+`"Doktor Nanjo!`
+` Belirsiz bir hatıra yüzünden böyle dikkatsizce bir şey söylemeyin!"`
+`"Burada gerçekliğini kanıtlayamayız.`
+` Babamın yüzüğünü gerçekten devredip devretmediği ve bu mektubun gerçeği anlatıp anlatmadığı sorularını doğrudan kendisine sorarak öğrenebiliriz."`
+`"Bu-Bu doğru.`
+` Tıpkı Kyrie-san'ın dediği gibi..."`
+`".........Pekala, emin değilim.`
+` Kinzo-san size cevap verecek mi...?`
+` Ne de olsa o kişinin düşüncelerini sağduyu ile tahmin etmek bazen imkansızdır..."`
+`"Her halükarda, bu saçmalık dünyasından çıkmıyor...!`
+` Her şeyden önce, altın ilüzyonunun tamamı Babamızın bir aldatmacasından ibaret.`
+` Eğer var olmayan altınlar hakkında konuşmak istiyorsanız, beni bunun dışında tutun!"`
+`"Ama cadının ne dediğini duydunuz, değil mi?`
+` Reisliğin ve tüm mal varlığının altını bulana nasıl devredileceği hakkında?`
+` Yani bu {f:5:Beatrice}-sama'nın Babamın hukuk danışmanı olduğu ya da fonlarından sorumlu olduğu anlamına mı geliyor...?"`
+`"Böyle şüpheli bir kağıdı bir çocuğa emanet edecek kadar tuhaf bir insana güvenmemiz mümkün değil!"`
+`"Aniki... İtiraf etme vaktin geldi.`
+` Tanımadığın birinin babamın mal varlığını idare ediyor olması mümkün mü?!"`
+`"H-Hayır, bu imkansız!`
+` Ana temsilci olarak, babamın tüm mal varlığı hakkında tam bilgiye sahibim!`
+` Benim haberim olmadan onları manipüle edebilecek kimse olmamalı!"`
+`"O halde, tam bilgi sahibi olmadığınız bazı varlıklar olmalı, değil mi Krauss nii-san?"`
+`"Absürt, böyle bir şey yok!"`
+`"..................Oh evet, var.`
+` Babamın hiçbir şeyden haberdar olmadığınız bir varlığı."`
+`"Böyle bir şeyin var olmasına imkan yok!!"`
+`"Hayır, var.`
+` ............Bu babamın, hayır, {f:5:Beatrice}'in gizli altını olmalı!!"`
+`"Her şeyi baştan alalım.`
+` Kısacası, babamın Aniki'nin bile bilmediği güvenilir bir sırdaşı var.`
+` Dahası, bu kişi her zaman altınları izlemek ve yönetmekten sorumlu olmuştur.`
+` Bu kişinin, ilk etapta sahte bir şeytan sözleşmesi yoluyla finansmanını sağlayan çok zengin bir ailenin amatör bir üyesi olması mümkündür."`
+`".........Bu sırdaş, yani {f:5:Beatrice}-san, hangi oğlunun ya da kızının kendi altınlarıyla finanse edilmeye en uygun olduğunu test etmeye çalışıyor olabilir mi?"`
+`Kyrie'nin söyledikleri tüm kardeşlerin açıklığa kavuşturulmasını istediği bir konuydu.`
+`Düşündüklerinde, Kinzo'nun tuhaf kitabesinin salonda cadı portresinin altında sergilendiği süre boyunca,`
+` bilmeceyi çözenin her şeyi alacağını sürekli fısıldadıklarını fark ettiler, ......ancak hiç kimse bunu açıkça ifade etmemişti.`
+`Bu sadece herkesin doğru olabileceğini umduğu bir şeydi.`
+`{n}{f:5:Beatrice}'in mektubu işte tam burada, şu anda bunu açıkça ifade ediyordu!`
+`Ushiromiya ailesine ait her şeyin altını bulana verileceği açıkça belirtiliyordu.`
+`"Saklı altının konumu çoktan Kinzo-sama tarafından açıkça portremin altındaki kitabede belirtilmişti.`
+` Kurallar kitabeyi okuyabilen herkes için eşit şekilde geçerlidir.`
+` Altını keşfedecek olursanız, her şeyi size iade edeceğim."`
+`"Bu gece, Kinzo-sama ile olan zeka savaşınızın tadını sonuna kadar çıkarmanızı rica ediyorum.`
+` Bu gecenin hem zarif hem de aydınlık bir gece olması için içtenlikle dua ediyorum.`
+` {nobreak:—Altın {f:5:Beatrice}}."`
+`"......Baba, beni duyabildiğini biliyorum!`
+` Lütfen cevap ver!"`
+`Kinzo'nun çalışma odasının kapısı bir vurmalı çalgı gibi şiddetle, tekrar tekrar yumruklanıyordu.`
+`Diğer taraftan gelen çığlıklar Krauss'un, Rudolf'un ve bazen de Eva'nın sesleriydi.`
+`Kinzo'nun çalışma odasına izinsiz girmeye çalışan kardeşler, onu o gizemli mektubun ardındaki gerçek hakkında sorgulamaya çalışıyorlardı.`
+`Kinzo yemek yiyordu.`
+`Masanın üzerine zarif bir masa örtüsü serilmiş ve yemek salonunda masayı renklendiren muhteşem akşam yemeği bir kez daha ortaya konmuştu.`
+`Kinzo yemeğine sessizlik içinde devam etti.`
+`{n}...Shannon, boş bir tabağı alıp rahatsız bir şekilde kapıya vurulmakta olan kapı ile Kinzo'nun yüzü arasına baktı.`
+`"...............Herkes sizi çağırıyor, ama...`
+`...ne yapmamı istersiniz...?"`
+`"...Umursama.`
+` Tanrı sessizliğe değer verir, ben de yemek sırasında öyle yaparım."`
+`"............Onları susturmalı mıyım?"`
+`"Buna gerek yok.`
+` Kulaklarıma ulaşmıyor bile."`
+`Kinzo soğukkanlılıkla yemeğinin tadına baktı.`
+`Genji sessizce başını eğdi ve bir adım geri çekildi.`
+`{n}...O böyle yaparken, Genji'nin arkasında ve yanında bir gölge gibi yedekte duran Kanon ağzını açtı.`
+`".........Maria-sama, {f:5:Beatrice}-sama'dan bir mektup almış gibi görünüyor, bu yüzden gerçekliğini doğrulamak istediklerini varsayıyorum."`
 `"...Hahahaha...`
-` .........That daredevil, she has started already?"`
-`"............Come, {f:5:Beatrice}.`
-` There's nothing lacking in the coins that have been wagered.`
-` Shall we enjoy this night to the fullest?`
-` ......I have no intention of losing.`
-` Your smile is mine for all eternity.`
-` If I could see it one more time, I wouldn't regret losing my wealth, my honor, or even my life."`
-`".........Well then, the roulette has begun to spin.`
-` Which pocket will the ball fall into?`
-` Noir? Rouge?`
-` Or house takes all?`
-` Come, you may begin, {f:5:Beatrice}.`
-` I'll show you the power of miracles once more...!"`
+` .........Şu cüretkar, o şimdiden başladı mı?"`
+`"............Gel, {f:5:Beatrice}.`
+` Bahse girilen paralarda eksik bir şey yok.`
+` Bu gecenin tadını sonuna kadar çıkaralım mı?`
+` ......Kaybetmeye hiç niyetim yok.`
+` Gülümsemen sonsuza kadar benim.`
+` Onu bir kez daha görebilseydim, servetimi, onurumu ve hatta hayatımı kaybettiğime pişman olmazdım."`
+`".........O halde rulet dönmeye başladı.`
+` Top hangisine düşecek?`
+` Siyah mı? Kırmızı mı?`
+` Yoksa ev sahibi hepsini alacak mı?`
+` Gel, başlayabilirsin, {f:5:Beatrice}.`
+` Sana mucizelerin gücünü bir kez daha göstereceğim...!"`
