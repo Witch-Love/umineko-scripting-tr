@@ -308,7 +308,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Other ❌</summary>
 
    * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
-   * [header.txt](../../tree/master/script/tr/header.txt) ❌
+   * [header.txt](../../tree/master/script/tr/header.txt) ✅
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
    * Song Subtitles ✅
       * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌ (not used)

@@ -2035,10 +2035,10 @@ numalias settings_base_off7,1559
 numalias omake3_line_y,105
 
 ;quiz 8 episode
-stralias quiz_ask_auntie_eva,":a/2,0,3;graphics\menu_en\quiz\ask_auntie_eva.png"
+stralias quiz_ask_auntie_eva,":a/2,0,3;graphics\menu_tr\quiz\ask_auntie_eva.png"
 stralias quiz_letter,":a/2,0,3;graphics\menu_en\quiz\quizbtn"
-stralias m1,":c;graphics\menu_en\quiz\m1.png" ; Note: Shares filename (but not stralias, luckily) with a mask
-stralias m2,":c;graphics\menu_en\quiz\m2.png"
+stralias m1,":c;graphics\menu_tr\quiz\m1.png" ; Note: Shares filename (but not stralias, luckily) with a mask
+stralias m2,":c;graphics\menu_tr\quiz\m2.png"
 stralias quiz2_back,":c;graphics\menu_tr\quiz2\quiz2_back.png"
 stralias quiz2_front,":a;graphics\menu_tr\quiz2\quiz2_front.png"
 stralias quiz2_front_2,":a;graphics\menu_tr\quiz2\quiz2_front_2.png"
