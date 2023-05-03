@@ -1,4 +1,4 @@
-language turkish
+language english
 
 ; Game window caption 
 
