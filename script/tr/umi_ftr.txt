@@ -27707,7 +27707,7 @@ return
 	
 	;Op/Ed song subtitles button
 	if %BtnRes != 76 jumpf
-		if %op_ed_song_subtitles = 1 mov %op_ed_song_subtitles,5
+		if %op_ed_song_subtitles = 1 mov %op_ed_song_subtitles,6
 		dec %op_ed_song_subtitles : gosub *settings_op_ed_song_subtitles
 	~	
 	if %BtnRes != 77 jumpf
