@@ -310,6 +310,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
    * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
    * [header.txt](../../tree/master/script/tr/header.txt) ✅
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
+      * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494) ❌
+      * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1845) ❌
+      * [Trophies](../../blob/master/script/tr/menu.txt#L1943) ❌
    * Song Subtitles ✅
       * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌ (not used)
       * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/files/legacy/sub/tr.ass) ❌ (not used)
