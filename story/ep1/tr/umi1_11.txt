@@ -192,7 +192,7 @@
 ` Sadece{0}{nobreak:{m:-5:——}—}{0}tarafından{nobreak:{m:-5:——}—}."`
 `"Huh?`
 ` ...............Hey, Maria,`
-` Az önce bir şey mi söyledin?"`
+` az önce bir şey mi söyledin?"`
 `Maria az önce bir şey söylemişti,`
 ` ama kelimeler konuşmanın gidişatından ve içeriğinden o kadar uzaktı ki, bir an için onları anlayamadım.`
 `Ondan tam tekrar söylemesini isteyecekken,`

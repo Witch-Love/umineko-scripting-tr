@@ -1,6 +1,6 @@
 `"Hey millet, "Umineko no Naku Koro ni"yi bitirmekle iyi iş çıkardınız!`
 ` Dostum, hikaye bittiğinde neler olduğuna dair hala bir fikrim yoktu!"`
-`"Peki tam ne oldu?`
+`"Peki tam olarak ne oldu?`
 ` Bu basitçe suçlu ifşalanamadan önce zamanın tükendiği "kötü son" muydu?"`
 `"Uu.`
 ` Kesinlikle kötü bir son.`
@@ -162,7 +162,7 @@
 `"............Bu-`
 `......Bu mantıklı ama........."`
 `"Bu durumda, Battler-kun,`
-` Annemle babamın misafir odasında öldürülmesini nasıl açıklıyorsun?`
+` annemle babamın misafir odasında öldürülmesini nasıl açıklıyorsun?`
 ` Kapı kilit ve zincirle mühürlenmişti.`
 ` Tabii ki, pencereler de.`
 ` Bir insanın ailemi öldürmüş olabileceğini nasıl açıklarsın?"`
@@ -189,7 +189,7 @@
 ` Bu argümanla, dünyadaki çözülmemiş suçların hepsi, suçlunun bir cadı olduğu söylenerek çözülebilir!"`
 `"......Battler, konuyu saptırıyorsun ve hiçbir şeyi açıklamıyorsun.`
 ` ...Biz diyoruz ki "Bunu bir insan yapamaz.`
-` Bu yüzden suçlu insan olmayan bir şeydir.`
+` Bu yüzden suçlu insan olmayan bir şey.`
 ` Ve o şey de bir cadı."`
 ` Ama sen hiçbir şey açıklayamadığın halde keyfi olarak cadıların imkansız olduğuna karar kılmaya devam ediyorsun."`
 `"......Kihihihihihihihihihihihi, neredeyse insanlık karanlık çağlardaymış gibi.`
@@ -234,7 +234,7 @@
 ` Kilitli odayı kendileri yaptılar ve sadece ölü taklidi yapıyorlardı!"`
 `".........Battler...`
 ` .........senin...`
-`kafan...`
+`başın...`
 `iyi hissediyor musun......?"`
 `"......Umm, .........soğuk içecek getireyim mi...?"`
 `"B-Bana acıyan gözlerle bakma, o kadar çılgınca bir şey söylemiyorum...`
@@ -302,14 +302,14 @@
 `"......Yani?`
 ` Ve?`
 ` Bir insan bunu nasıl yapardı?`
-` Somut olarak?`
-` Sana ne zaman bu soruları sorsak, tek söylediğin "şu anda aklıma bir şey gelmiyor" ya da "bir tür cihazla" gibi soyut kelimeler kullanarak konudan kaçmak."`
+` Somut anlamda?`
+` Sana ne zaman bunları sorsak, tek cevabın "şu an aklıma bir şey gelmiyor" ya da "bir tür cihazla" gibi soyut kelimeler kullanarak konudan kaçmak oluyor."`
 `"......Aslında {i:sana} sormak istiyorum, Battler.`
 ` {i:Sen} neden {f:5:Beatrice}'e inanmıyorsun?`
 ` O "gerçek", peki neden inanmıyorsun?"`
 `"Çünkü "gerçek" değil!`
 ` Cadılar "gerçek" değil!!`
-` İmkânı yok!!"`
+` Bunun imkânı yok!!"`
 `......Neredeyse sebepsiz yere reddeden inatçı bir çocuk gibiydi.`
 `Acıyan bakışlar sessizce Battler'ın üzerini örttü ama onun inatçı kalbine ulaşamadılar.`
 `"............Tıpkı istediğini elde edemeyen bir çocuk gibi davranıyorsun..."`
@@ -331,7 +331,7 @@
 `"......Tek bir kişi bile inanmazsa, "mucize" gerçekleşmez.`
 ` ......Yani, cahil teorilerini gözden geçirmezsen, mucize, ......büyü tamamlanmayacak."`
 `"Heheh...`
-` Şimdii anlıyorum.`
+` Şiimdi anlıyorum.`
 ` ......Sonunda anladım.`
 ` ...Yani başka bir deyişle, siz bana cadının var olduğunu söyletmek istiyorsunuz?`
 ` Eğer herkes bu yalanı kabul ederse, bu "gerçek" olacak.`
@@ -371,12 +371,12 @@
 `"*cackle*cackle*cackle*...`
 ` Sorun değil.`
 ` ......Bin yıldan sonra çoğu cadı yaşamaktan yorulur.`
-` Arada bir, senin gibi omurgalı bir adamla tanışmak güzel."`
+` Arada bir senin gibi omurgalı bir adamla karşılaşmak güzel."`
 `"...............{f:5:Beatrice} kendini gösterdiğinde buna şahitlik etmek büyük bir onur, Battler."`
 `"......Heh,`
 ` .........heh-heh-heh-heh...!!`
 ` Şimdi bu...`
-` ......Bu boktan bir şey.`
+` ......Bu çok boktan.`
 ` ...Beni bir cadının, bir 19. kişinin suçlu olduğuna inandırmak için,`
 ` ...gerçekten bu kadar çaresiz misin...?"`
 `"Bu iş ilginçleşmeye başlıyor...!`
@@ -410,11 +410,11 @@
 ` ...*cackle*cackle*cackle*!"`
 `"İstediğin kadar saçma sapan konuş...!`
 ` Varlığını inkar ediyorum.`
-` Tüm olaylar "insan hileleri" ile açıklanabilir...!!`
+` Tüm olaylar "insan numaraları" ile açıklanabilir...!!`
 ` Büyünün ya da cadıların zerresine bile yer yok!!"`
-`"Mükemmel!`
+`"Harika!`
 ` ......Binlerce yıllık can sıkıntısından kurtulmam için ne mükemmel bir yol."`
-`"O zaman soruyorum.`
+`"O zaman sormama izin ver.`
 ` Kısa bir süre önce, kapıdaki aralığı kullanmanın Eva ve Hideyoshi'yi öldürmek için yeterli olacağını söylemiştin, değil mi...?`
 ` İnsan numaralarını kullanarak bunu nasıl yapacağını açıkla."`
 `"......Heh.`
@@ -431,7 +431,7 @@
 `"Şimdi.`
 ` Bana bu küçük aralıktan ne yapacağını göster, "Battler"."`
 `"Erk............`
-` ......Mu-Muhtemelen o "buz kıracaklarını" fırlatmak için bir aletleri vardı.`
+` ......Mu-Muhtemelen o "buz kıracaklarını" fırlatmak için bir alet vardı.`
 ` Eğer onu kullansalardı......"`
 `"Bu aralıktan o kadar uzağı göremezken yatağın üzerindeki Eva'ya nasıl nişan alırdın?`
 ` ......Ve kapısı kapalı banyodaki Hideyoshi'ye nasıl ulaşacaksın...?"`
@@ -444,17 +444,17 @@
 ` Büyük bir cadı bunu nasıl yapardı...`
 ` Hadi, küçük numaranı görelim..."`
 `"............Battler, {f:5:Beatrice}'e çok kaba davranıyorsun..."`
-`"Sorun değil, gayet iyi.`
+`"Sorun değil, böyle iyi.`
 ` Ne çekici bir adam.`
 ` ...Bu onu kırmayı daha da zevkli hale getirecek."`
 `"......Heh!`
 ` Gerçekten bana ayak parmaklarını öptürmeyi bu kadar çok mu istiyorsun...?!`
-` Sadece teslim olursam yaparım!`
+` Ancak teslim olursam!`
 ` Ama izle... bu numarayı kesinlikle ortaya çıkaracağım ve sonra sana kıçımı öptüreceğim!"`
 `"...............*cackle*.`
 ` Ne çekici bir adam.`
 ` Bu sözü unutmayacağım.`
-` ...Zayıf cadılar güç kazanmak için iblislerin arkasını öperler.`
+` ...Zayıf cadılar güç kazanmak için iblislerin arkalarını öperler.`
 ` Çünkü tam bir teslimiyet için daha büyük bir yemin yoktur.`
 ` Bu gibi sözler bana sana boyun eğdirme arzusu veriyor.`
 ` .........*cackle*cackle*...!"`
@@ -484,10 +484,10 @@
 ` Bu-......Bu delilik......!`
 ` B-Bu delilikle insanları öldürebileceğini mi sanıyorsun?!!"`
 `"Kesinlikle öldürebilirim.`
-` ......Onları aynen bu şekilde öldürebilirim...!`
+` ......Onları aynı bu şekilde öldürebilirim...!`
 ` *cackle*cackle*cackle*!"`
 `Birdenbire artık koridorda değil, önceki çay partisindelerdi.`
-`......Battler hariç herkes uysalca oturuyordu, ......ama Kanon ağzından taze kan çıkarken inliyordu.`
+`......Battler hariç herkes uysalca oturuyordu, ......ama Kanon ağzından taze kan süzülürken inliyordu.`
 `{n}Bir çay partisi için ne kadar kötü bir davranış.`
 `Satan'ın kazığı Kanon'un göğsünün derinliklerine gömülmüştü.`
 `"..................u...`
@@ -631,14 +631,14 @@
 ` Varlığımın her zerresiyle seni reddedeceğim...!!`
 ` Ne olacağı umurumda değil, seni asla kabul etmeyeceğim!!`
 ` Eğer beni bu kadar çok düşman olarak görmek istiyorsan, sana hak ettiğini vereceğim!!"`
-`"Seni bunun için haklayacağım, bunun bedelini ödeyeceksin, siktiğimin bedelini ödeyeceksin!!!!`
+`"Bunu sana ödeteceğim, bunun bedelini ödeyeceksin, sike sike ödeyeceksin!!!!`
 ` Beni, Ushiromiya Battler'ı düşmanın yaptığına pişman olacaksın!!`
-` Ne olursa olsun seni reddedeceğim!`
+` Ne olursa olsun seni reddedeceğim!!`
 ` Her imkansız şeyi "insanlarla" açıklayacağım!!!`
 ` Her bir hücreni bu dünyadan sileceğim!!!"`
-`"Sen iyi konuşuyorsun, "Battler"...!`
+`"İyi konuşuyorsun, "Battler"...!`
 ` Bu beni binlerce yıllık can sıkıntımdan uzaklaştıracak türden bir şey!"`
-`"Gel, açıkla.`
+`"Hadi, açıkla.`
 ` Sözde "insan numaraları" ile her şeyi açıklamaya çalış!`
 ` Ve insanların ne kadar aşağılık olduğunu öğren!!`
 ` İnsanlığın yüz yılda biriktirdiklerini benim bin yılıma karşı kullanmayı dene de görelim!!!`
@@ -654,6 +654,6 @@
 ` Natsuhi'nin intiharı?!`
 ` Kitabenin bilmecesi?!`
 ` Saklı altının yeri?!"`
-`"Evet, Battler, neden bana "insanların" gücünü göstermiyorsun?!`
+`"Evet, Battler, bana neden "insanların" gücünü göstermiyorsun?!`
 ` Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
 `"OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`

@@ -107,7 +107,7 @@
 ` Büyükbabanın henüz tanınmadığı ve hiçbir bağlantısının bulunmadığı o dönemde, kimsenin ona bedavaya yüklü miktarda külçe altın ödünç vermesinin imkanı yok.`
 ` ......Yine de, böyle bir kişi gerçekten var olsaydı, Büyükbabanın böyle bir sponsora cadı demesi mantıksız olmazdı."`
 `"Evet, ama bu 10 ton. 10 ton!`
-` Bunu paraya çevirdeydin, ne kadar ederdi?`
+` Bunu nakite çevirseydin, ne kadar ederdi?`
 ` Gülünç bir miktar olmalı, değil mi?!"`
 `".........Kesinlikle absürt bir miktar olurdu.`
 ` Tarihin başlangıcından bu yana insanoğlu tarafından çıkarılan toplam altın miktarının en fazla 100,000 ton olduğu söyleniyor.`
@@ -309,7 +309,7 @@
 `"Doğru ya, en başta sahile inmek istediğimizi söylememiş miydik?`
 ` Hadi gidelim, gidelim."`
 `"Shannon-chan.`
-` Kusura bakma ama bize oturacak bir battaniye ve birkaç şişe çay getirmeni rica edebilir miyim?"`
+` Kusura bakma ama bize oturacak bir battaniye ve birkaç bardak çay getirmeni rica edebilir miyim?"`
 `"Tabii...!`
 ` Elbette."`
 `Shannon-chan talimatlarını aldı ve adımlarını geri çekmeden önce zarifçe eğildi.`
@@ -552,7 +552,7 @@
 `Bu durum muhtemelen Krauss için ölümcül bir darbe olacaktı.`
 `{n}Bu zayıf noktayı yakalamışlardı ve uzlaşma perdesi altında kardeşlerini tehdit ederek büyük miktarda para koparmaya çalışıyorlardı.`
 `......Ancak, bir şeyi kaçırmışlardı.`
-`Üçü de, bir araya gelmedikleri sürece yenemeyecekleri en büyük kardeşlerinin kurnazlık konusunda çok kıvrak bir zekâya sahip olduğunu unutmuşlardı.`
+`{n}Üçü de, bir araya gelmedikleri sürece yenemeyecekleri en büyük kardeşlerinin kurnazlık konusunda çok kıvrak bir zekâya sahip olduğunu unutmuşlardı.`
 `Krauss, zaferinden o kadar emindi ki gülümsemesini gizleyemeyen Eva'yla konuşurken rahat bir kahkaha attı.`
 `"Hahaha.`
 ` Bunların hepsi bana harika geliyor.`
@@ -675,8 +675,8 @@
 `Ancak bu hakkı zorla kullanırlarsa eski yönetimi görevden alıp şirketi ele geçirebilirler.`
 `...Çünkü tüm hissedarların genel kurulu, yönetimi görevden alma ve yeni yönetim atama yetkisine sahiptir.`
 `Bu hak, hissedarlar tarafından çoğunluk kararıyla kullanılır.`
-`Ve daha fazla hisseye sahip olan kişiler daha fazla oy kullanma hakkına sahiptir.`
-`{n}Başka bir deyişle, eğer bir kişi ya da grup hisselerin çoğunluğunu elinde tutuyorsa, eski yönetimi serbestçe kovabilir ve istedikleri kişiyi başkan yapabilirler.`
+`{n}Ve daha fazla hisseye sahip olan kişiler daha fazla oy kullanma hakkına sahiptir.`
+`Başka bir deyişle, eğer bir kişi ya da grup hisselerin çoğunluğunu elinde tutuyorsa, eski yönetimi serbestçe kovabilir ve istedikleri kişiyi başkan yapabilirler.`
 `Hatta isterlerse kendilerini başkan yapmaları bile mümkündür.`
 `Birçok şirket, hisselerinin kötü niyetli kişiler tarafından satın alınmasını ve konumlarının tehdit edilmesini önlemek amacıyla,`
 ` düşman bir grubun çoğunluğu ele geçirmesini engellemek için kendi çalışanlarına veya kendilerine yakın kişilere çok sayıda hisse senedi satın aldırmak gibi bir tür savunma önlemi almaktadır.`

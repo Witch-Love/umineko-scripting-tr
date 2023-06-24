@@ -191,7 +191,7 @@
 ` Beni fena korkutuyorsunuz..."`
 `Ancak, üç hizmetkarın gözlerinde şakadan eser yoktu.`
 `Dışarıdan bakılınca gülüyordum ve ilgisiz görünmeye çalışıyordum ama hızla ciddiye almaya başlamıştım.`
-`...Onların gözleri de hızla ciddileşiyordu.`
+`{n}...Onların gözleri de hızla ciddileşiyordu.`
 `"......Battler-san... sana {f:5:Beatrice}-sama'ya saygısızlık etmeyi bırakman için yalvarıyorum.`
 ` Lütfen bana güven..."`
 `Kumasawa baa-chan, genellikle neşeli biriydi ve her zaman insanlara takılırdı,`
@@ -247,7 +247,7 @@
 `"O "gerçek" diyorsun.........ama nerede?"`
 `"Dediğim gibi, {f:5:Beatrice} "gerçek", tam burada."`
 `......Bu doğru.`
-`Şimdi düşününce, bir süredir diğerlerinin bakmaları gereken yöne bakmadığını hissediyordum.`
+`{n}Şimdi düşününce, bir süredir diğerlerinin bakmaları gereken yöne bakmadığını hissediyordum.`
 `...Herkesin sadece uzaklara baktığını düşünmüştüm ama......durum böyle değildi.`
 `Buradaki dört kişi—Genji-san,`
 ` Kanon-kun,`
