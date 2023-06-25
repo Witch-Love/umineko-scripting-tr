@@ -32,9 +32,9 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Kyrie-san, George-aniki gibi saygı ekleri
    * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
    * "Madam"
-3. Adım 4'te bulunan çoğu kelimenin karşılığı çevirmekte olduğumuz dosyalara rehber şeklinde eklenmiştir.  
-   Bu kelimelerle karşılaşınca yapmanız gereken tek şey kelimenin gösterilen karşılığını kullanmak.  
-   Bu kelimeler regex ile eklendiği için hatalı olabilirler. Gözden kaçırmadan aynı kelime karşılıklarını herkes kullansın diye böyle bir ekleme yaptık.
+3. ~~Adım 4'te bulunan çoğu kelimenin karşılığı çevirmekte olduğumuz dosyalara rehber şeklinde eklenmiştir.~~  
+   ~~Bu kelimelerle karşılaşınca yapmanız gereken tek şey kelimenin gösterilen karşılığını kullanmak.~~  
+   ~~Bu kelimeler regex ile eklendiği için hatalı olabilirler. Gözden kaçırmadan aynı kelime karşılıklarını herkes kullansın diye böyle bir ekleme yaptık.~~
 4. Bunlar bu şekilde:
    * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
@@ -69,6 +69,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Magic `->` Büyü
    * Mansion `->` Malikane
    * Master `->` Efendi
+   * Master Key `->` Master Anahtar
    * Milady `->` Leydim
    * North Wind and the Sun `->` Güneş ve Kuzey Rüzgarı
    * Parlor `->` Salon
