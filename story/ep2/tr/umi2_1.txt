@@ -516,8 +516,8 @@
 ` Gelecekte bir gün Ushiromiya ailesinin yükünü taşıyabilecek bir kişi."`
 `"Bu beklentiyi boşa çıkarmamak için yılmadan çalıştı, harika bir üniversiteye girdi ve harika sonuçlar aldı.`
 ` Kendini gerçekten onun seviyesinde mi sanıyorsun, seni beceriksiz, vasıfsız, kültürsüz hizmetkar?"`
-`Bu kötü niyetli sözlerin hepsi Shannon'un kulağına bir damlası bile dökülmeden girdi...`
-`......Shannon'a göre, kulağına soğuk su dökülüyor gibiydi.`
+`Bu kötü niyetli sözler, tek bir damlası bile dökülmeden Shannon'un kulağından içeri doldu...`
+`......Shannon için bu durum adeta kulağından içeri soğuk su dökülmesi gibiydi.`
 `".....................Ben, ben...`
 `...öyle demek..."`
 `Bunların hepsi gizlice fısıldanmıştı.`
@@ -674,14 +674,14 @@
 `Bu doğru.`
 ` Dünyadaki konumum mobilya, ...ve beni aşan bir hayalle sarhoş olmuştum...`
 `Koridoru temizlemeyi bitirdim ve resepsiyon salonuna gittim.`
-`Belki de açlık burnu daha da hassas yapıyordu.`
+`Belki de açlık, burnu daha da hassas yapıyordu.`
 `Mutfak uzaktaydı ama nedense oradan yayılan nefis kokular boş midemi daha da tahrik ediyordu.`
 `...Burada olan işim bitene kadar çorba içemezdim.`
 ` Sadece kendimi hazırlamam gerekiyordu.`
 `Resepsiyon salonunda birkaç portre asılıydı.`
 `Bu portrelerden birinin...hizmetkârlar arasında özel bir anlamı olduğu düşünülüyordu.`
-`......Bu cadının portresiydi.`
-`{n}Gerçek adı bu değildi ama malikânedeki herkes ona böyle sesleniyordu.`
+`......Bu, cadının portresiydi.`
+`{n}Gerçek adı bu değildi ama malikanedeki herkes ona böyle hitap ediyordu.`
 `Bu portrenin öznesi olarak çizilen zarif sarı saçlı kadının adı {f:5:Beatrice}'di.`
 `...Aile reisi Kinzo'nun eski metresi olabileceğinden bahsediliyordu.`
 `{n}......Ve ayrıca Kinzo'ya efsanevi altınını veren büyük cadı olduğundan da.`
@@ -726,7 +726,7 @@
 ` Bir şeyler mi duyuyorum?`
 ` Hayır.`
 `...Ne de olsa, sonraki kelimeler birer "ses" olmuştu ve ben onları kalbimle değil, kulaklarımla duyabiliyordum...`
-`"İnsanlar, Hıristiyanlık Dönemi öncesinden beri sürekli olarak dünyayı oluşturan unsurları araştırıyorlar.`
+`"İnsanlar, Hristiyanlık Dönemi öncesinden beri sürekli olarak dünyayı oluşturan unsurları araştırıyorlar.`
 ` Eski Yunanlıların dünyayı hava, ateş, su ve topraktan oluşan dört elementle açıklamaya çalıştıkları söylenir."`
 `"Ve ondan sonra, birkaç bin yıl boyunca, insanlar bu dördüne çeşitli unsurlar ekleyerek,`
 ` dünyayı bir dizi farklı yorumlarla açıklamaya çalıştılar—beş element, altı element, yedi element, sekiz element, on iki element—`
@@ -867,7 +867,7 @@
 ` Eğer benim için bu can sıkıcı aynayı kırmak için çaba gösterirsen,`
 ` ödül olarak dileğini yerine getireceğim."`
 `"......Bugün çok iyi bir ruh halindeyim.`
-` Arzu edersen dileğinizi değiştirebilir ve Kinzo'ya bahşettiğim altınların tamamını sana verebilirim...`
+` Arzu edersen dileğini değiştirebilir ve Kinzo'ya bahşettiğim altınların tamamını sana verebilirim...`
 ` *cackle*cackle*!"`
 `"Ben, ...............ben reddediyorum........."`
 `"......Ne dedin?"`
@@ -893,7 +893,7 @@
 `"Sana ödül olarak duygularını tatmin etme fırsatı vermekten başka bir şey yapmadım.`
 ` ......Kırıp kırmamak sana kalmış.`
 ` Eğer kırarsan, dileğini yerine getireceğim."`
-`"Eğer kırmazsam, bugüne kadar olan yarınlar sonsuza kadar devam edecek.`
+`"Eğer kırmazsan, bugüne kadar olan yarınlar sonsuza kadar devam edecek.`
 ` Dileğin sonsuza dek yerine getirilmeyecek.`
 ` ......Anlıyor musun?`
 ` Ne demek istediğimi?`
@@ -932,7 +932,7 @@
 ` Ancak, bu senin onun için en uygun kişi olduğun anlamına gelmez, değil mi...?"`
 `"Evlilik görüşmesini kiminle yapacağını {i:biliyorum}.`
 ` O kız {i:Ushiromiya George için} dünyadaki en uygun kişi."`
-`"İyi bir okuldan geldi, iyi derecelere imza attı, soğukkanlı ve sağduyulu."`
+`"İyi bir okuldan geldi, harika notlar almayı başardı, soğukkanlı ve sağduyulu."`
 `"Senden daha güzel, senden daha bilge, {i:senden daha uygun}."`
 `"Senin gibi cahil, beceriksiz, kültürsüz bir kız neden uygun olsun ki?`
 ` Sen herkesten daha iyi bilirsin.`
@@ -1005,8 +1005,8 @@
 `"N-Ne......`
 `yaptığını sanıyorsun...?!"`
 `Kanon direndi ama sol elinin özgürlüğünü geri kazanamadı.`
-`"Mücadele etme.`
-` Uzun sürmeyecek."`
+`"Karşı koyma.`
+` Fazla uzun sürmeyecek."`
 `{f:5:Beatrice} piposunu havaya kaldırdı ve dumanın içinden altın renkli köpüklü tozlar havada yükseldi.`
 `......Bu parıltı sonunda birkaç altın kelebeğe dönüştü.`
 `Güzel kelebekler resepsiyon salonu boyunca özgürce dans ederek fantastik ve güzel bir sahne yarattılar.`
