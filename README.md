@@ -16,7 +16,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 Çeviri çalışması hâlâ devam ettiği için scriptlerinizin güncel olduğundan emin olup oynamanız iyi olacaktır. Bir chapter çevirisi her bittiğinde yeni sürüm yayınlıyoruz.
 
 ## İletişim
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  Singularity#5411
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @\_singularity\_
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
 ## İlerleme

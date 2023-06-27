@@ -43,11 +43,13 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Butler `->` Uşak
    * Chapel `->` Kilise
    * Conference `->` Konferans
+   * Courtroom `->` Mahkeme Salonu
    * Culprit `->` Suçlu
    * Delusion `->` Kuruntu
    * Demon `->` İblis
    * Demons' Roulette `->` İblislerin Ruleti
    * Demon Stake `->` İblis Kazığı
+   * Detective Proclamation `->` Dedektiflik Bildirgesi
    * Devil `->` Şeytan
    * Devil's Proof `->` Şeytan'ın İspatı
    * Dining Hall `->` Yemek Salonu
@@ -65,6 +67,8 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Guesthouse `->` Konukevi
    * Guest room `->` Misafir odası
    * Incinerator `->` Çöp Fırını
+   * Locked Room `->` Kilitli Oda
+   * Logic Error `->` Mantık Hatası
    * Lounge `->` Bekleme Salonu
    * Magic `->` Büyü
    * Mansion `->` Malikane
@@ -86,6 +90,8 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Study `->` Çalışma Odası
    * Successor `->` Halef
    * Trick `->` Numara
+   * Trick or Treat `->` Şaka mı Şeker mi
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
    * Voyager `->` Gezgin
    * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
+   * Wolves and Sheep Puzzle `->` Kurtlar ve Koyunlar Bulmacası

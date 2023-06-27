@@ -30,7 +30,7 @@ At this point you will have a 27-digit passphrase you can use to unpack the arch
 
 Bu açıklamayı kabul ediyorsanız, lütfen "[Downloads](https://umineko-project.org/en/downloads/)" sayfasını açın.
 
-**NOT:** Android kurulumu için buraya bakabilirsiniz: https://uminekoprojectandroid.neocities.org
+**NOT:** Android kurulumu için [buraya](https://uminekoprojectandroid.neocities.org) bakabilirsiniz.
 
 ## Adım 1: "Resources" İndirmeleri
 
@@ -66,8 +66,8 @@ Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indir
 
 ## Adım 5: Artık oyunu başlatabilirsiniz!
 
-Klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabilirsiniz. Bazen hata alınabilmesi mümkün olduğundan yönetici olarak çalıştırmanız daha iyi olur.
+Klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabilirsiniz. Bazen sıkıntı çıkabildiğinden dolayı yönetici olarak çalıştırırsanız daha iyi olur.
 
-NOT: Çeviri çalışması hâlâ devam ettiğinden scriptlerinizin güncel olduğundan emin olup oynamanız iyi olacaktır. Bir chapter çevirisi her bittiğinde yeni sürüm yayınlıyoruz.
+**NOT:** Çeviri çalışması hâlâ devam ettiği için scriptlerinizin ve dosyalarınızın güncel olduğundan emin olup oynamanız daha iyi olacaktır. Bir chapter çevirisi her bittiğinde veya güncelleme yaptığımızda yeni sürüm yayınlıyoruz. Türkçe yamayı güncellemek için [Adım 4](#adım-4-türkçe-patch)'ü tekrarlamanız yeterlidir.
 
 ![](https://i.imgur.com/Xdar2Ha.png)
