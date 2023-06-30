@@ -55,6 +55,7 @@ $exclude = [
 	'/cn.cfg',
 	'/cht.file',
 	'/cht.cfg',	
+	'/tr.cfg',	
 	'/chiru.file',
 	'/game.hash',
 	'/game_tr.hash',
@@ -551,8 +552,8 @@ function main($argc, $argv) {
 				echo $fixture;
 			break;
 		case 'genhash':
-			if ($argc < 4) err(getUsage());
-			if (!file_exists($argv[4])) err('No such file '.$argv[4]);
+			if ($argc < 3) err(getUsage());
+			if (!file_exists($argv[2])) err('No such file '.$argv[2]);
 			//if (!file_exists($argv[2])) err('No such file '.$argv[2]);
 			//copy($argv[2], $argv[4]);
 			$hashes = [];
@@ -567,7 +568,7 @@ function main($argc, $argv) {
 					$output .= '"'.$file.'"="'.$hash.'"'.CRLF; 
 				}
 			}
-			file_put_contents($argv[4], $output, FILE_APPEND);
+			file_put_contents($argv[2], $output, FILE_APPEND);
 			break;
 		case 'dscript':
 			if ($argc < 5) err(getUsage());

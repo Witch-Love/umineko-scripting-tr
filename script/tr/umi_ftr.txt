@@ -33520,7 +33520,7 @@ return
 	fileexist %Free2,"fonts\usr\font5.ttf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
-	fileexist %Free2,"fonts\usr\font6_tr.ttf",%Free3
+	fileexist %Free2,"fonts\usr\font6.ttf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
 	fileexist %Free2,"fonts\usr\font7.ttf",%Free3
@@ -33550,7 +33550,7 @@ return
 	fileexist %Free2,"fonts\usr\font5.otf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
-	fileexist %Free2,"fonts\usr\font6_tr.otf",%Free3
+	fileexist %Free2,"fonts\usr\font6.otf",%Free3
 	itoa $Free2,%Free3
 	add $Free1,$Free2
 	fileexist %Free2,"fonts\usr\font7.otf",%Free3
