@@ -48,7 +48,7 @@ jobs:
           cd ciout
           zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash game_tr.hash default.cfg tr.cfg || exit 1
           cd ../extra/tr/
-          zip -qry ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
+          zip -qry ../../ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
           cd ../../
           echo ${{ inputs.desc }} >> release_notes.md
 
