@@ -87,7 +87,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L522) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073) ✅
-      * [Song: Melody](../../tree/master/extra/tr/files/video/sub/58_tr.ass) ✅
+      * [Song: Melody](../../tree/master/extra/tr/video/sub/58_tr.ass) ✅
 </details>
 
 * <details>
@@ -123,7 +123,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L561) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133) ❌
-      * [Song: activepain](../../tree/master/extra/tr/files/video/sub/83_tr.ass) ✅
+      * [Song: activepain](../../tree/master/extra/tr/video/sub/83_tr.ass) ✅
 </details>
 
 * <details>
@@ -160,7 +160,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L600) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1191) ❌
-      * [Song: Discode](../../tree/master/extra/tr/files/video/sub/109_tr.ass) ✅
+      * [Song: Discode](../../tree/master/extra/tr/video/sub/109_tr.ass) ✅
 </details>
 
 * <details>
@@ -193,8 +193,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279) ❌
-      * [Song: Promise](../../tree/master/extra/tr/files/video/sub/132_tr.ass) ❌ / ❓(this lyrics is not even used)
-      * [Song: WINGS(Ver hope)](../../tree/master/extra/tr/files/video/sub/134_tr.ass) ✅
+      * [Song: Promise](../../tree/master/extra/tr/video/sub/132_tr.ass) ❌ / ❓(this lyrics is not even used)
+      * [Song: WINGS(Ver hope)](../../tree/master/extra/tr/video/sub/134_tr.ass) ✅
 </details>
 
 * <details>
@@ -230,8 +230,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L674) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332) ❌
-      * [Song: birth of new witch(Short Ver)](../../tree/master/extra/tr/files/video/sub/160_tr.ass) ✅
-      * [Song: FISHYAROMA](../../tree/master/extra/tr/files/video/sub/161_tr.ass) ✅
+      * [Song: birth of new witch(Short Ver)](../../tree/master/extra/tr/video/sub/160_tr.ass) ✅
+      * [Song: FISHYAROMA](../../tree/master/extra/tr/video/sub/161_tr.ass) ✅
 </details>
 
 * <details>
@@ -267,7 +267,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402) ❌
-      * [Song: without a name ver.sakura ED-size](../../tree/master/extra/tr/files/video/sub/186_tr.ass) ✅
+      * [Song: without a name ver.sakura ED-size](../../tree/master/extra/tr/video/sub/186_tr.ass) ✅
 </details>
 
 * <details>
@@ -301,7 +301,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L752) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442) ❌
-      * [Song: Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr/files/video/sub/240_tr.ass) ✅
+      * [Song: Cocoon of White Dreams -Ricordando il passato-](../../tree/master/extra/tr/video/sub/240_tr.ass) ✅
 </details>
 
 * <details>
@@ -314,12 +314,12 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1845) ❌
       * [Trophies](../../blob/master/script/tr/menu.txt#L1943) ❌
    * Song Subtitles ✅
-      * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/files/video/sub/241_tr.ass) ❌ (not used)
-      * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/files/legacy/sub/tr.ass) ❌ (not used)
-      * [Opening 1: Igreja of Echoing Vows](../../tree/master/extra/tr/files/video/sub/tr.ass) ✅
-      * [Chiru Opening 1: The Witch of Occultics](../../tree/master/extra/tr/files/video/sub/op56_tr.ass) ✅
-      * [Chiru Opening 2: Inanna’s Dream](../../tree/master/extra/tr/files/video/sub/op4_tr.ass) ✅
-      * [Chiru Opening 3: The Pithos in the Fog](../../tree/master/extra/tr/files/video/sub/op78_tr.ass) ✅
+      * [PC Opening 1: When the Seagulls Cry](../../tree/master/extra/tr/video/sub/241_tr.ass) ❌ (not used)
+      * [PC Opening 1: When the Seagulls Cry (Legacy)](../../tree/master/extra/tr/legacy/sub/tr.ass) ❌ (not used)
+      * [Opening 1: Igreja of Echoing Vows](../../tree/master/extra/tr/video/sub/tr.ass) ✅
+      * [Chiru Opening 1: The Witch of Occultics](../../tree/master/extra/tr/video/sub/op56_tr.ass) ✅
+      * [Chiru Opening 2: Inanna’s Dream](../../tree/master/extra/tr/video/sub/op4_tr.ass) ✅
+      * [Chiru Opening 3: The Pithos in the Fog](../../tree/master/extra/tr/video/sub/op78_tr.ass) ✅
    * Omake ❌
       * [Omake 1 ❌](../../tree/master/story/omake/tr/umio1.txt)
       * [Omake 2 ❌](../../tree/master/story/omake/tr/umio2.txt)
