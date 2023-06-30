@@ -53,7 +53,7 @@ jobs:
           echo ${{ inputs.desc }} >> release_notes.md
 
       - name: Release
-        if: github.repository_owner == 'Singulariity'
+        if: github.repository_owner == 'Witch-Love'
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -66,7 +66,7 @@ jobs:
           prerelease: false
 
       - name: Upload Main
-        if: github.repository_owner == 'Singulariity'
+        if: github.repository_owner == 'Witch-Love'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -77,7 +77,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Upload TR Files
-        if: github.repository_owner == 'Singulariity'
+        if: github.repository_owner == 'Witch-Love'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

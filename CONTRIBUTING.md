@@ -8,7 +8,7 @@
 
 Katkıda bulunmak konusunda ciddi iseniz mutlaka her şeyden önce benimle iletişime geçin. [(İletişim)](../../tree/master/README.md#iletişim)
 
-1. [Bu repo'yu forklayın.](https://github.com/Singulariity/umineko-scripting-tr/fork)
+1. [Bu repo'yu forklayın.](https://github.com/Witch-Love/umineko-scripting-tr/fork)
 2. Çevirmekte olduğumuz Episode'un herhangi bir chapter'ını forkunuz üzerinde [Çeviri Kuralları](#çeviri-kuralları)'na uyarak düzeltin.
 3. Daha sonra bir pull request açın.
 
