@@ -9,9 +9,10 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
 ## Kurulum
 
 1. [Umineko Project](https://umineko-project.org/en/)'i kurun. [(Nasıl?)](../../tree/master/INSTALLATION.md)
-2. [Releases](../../releases) sayfasından son sürüm Türkçe dosyaları ve scriptleri indirin.
-3. Tüm dosyaları oyun klasörünün içine atın.
-4. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
+2. [Releases](../../releases) sayfasından son sürüm Türkçe scriptleri indirin.
+3. [Dosyalar](https://github.com/Witch-Love/umineko-scripting-tr-files/releases) sayfasından son sürüm Türkçe dosyaları indirin.
+4. Adım 2 ve 3'te indirdiğiniz tüm dosyaları oyun klasörünün içine atın.
+5. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
 
 Çeviri çalışması hâlâ devam ettiği için scriptlerinizin güncel olduğundan emin olup oynamanız iyi olacaktır. Bir chapter çevirisi her bittiğinde yeni sürüm yayınlıyoruz.
 

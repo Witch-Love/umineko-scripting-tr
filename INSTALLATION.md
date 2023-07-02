@@ -60,7 +60,8 @@ Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indir
 
 ## Adım 4: "Türkçe Patch"
 
-[Releases](../../releases) sayfasından son sürüm Türkçe dosyaları ve scriptleri indirin ve diğer adımlardaki gibi klasörünüze çıkarın.
+[Releases](../../releases) sayfasından son sürüm Türkçe scriptleri,  
+[Dosyalar](https://github.com/Witch-Love/umineko-scripting-tr-files/releases) sayfasından da Türkçe dosyaları indirin ve diğer adımlardaki gibi klasörünüze çıkarın.
 
 ![](https://i.imgur.com/kn5BPxq.png)
 

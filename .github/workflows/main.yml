@@ -38,18 +38,13 @@ jobs:
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
-          cp misc/game.hash misc/locale_tr_game.hash
-          php update-manager/update-manager.php genhash misc/locale_tr_game.hash "extra/tr/"
           cp misc/chiru.file ciout
           cp misc/game.hash ciout
-          cp misc/locale_tr_game.hash ciout
           cp misc/default.cfg ciout
           cp misc/tr.cfg ciout
           cd ciout
-          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash locale_tr_game.hash default.cfg tr.cfg || exit 1
-          cd ../extra/tr/
-          zip -qry ../../ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
-          cd ../../
+          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash default.cfg tr.cfg || exit 1
+          cd ..
           echo ${{ inputs.desc }} >> release_notes.md
 
       - name: Release
@@ -74,15 +69,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./ciout/umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
           asset_name: umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
-          asset_content_type: application/zip
-
-      - name: Upload TR Files
-        if: github.repository_owner == 'Witch-Love'
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-files_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-files_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
