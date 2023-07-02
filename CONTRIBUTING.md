@@ -24,6 +24,11 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
 
 ## Çeviri Kuralları
 
+```diff
+- DİKKAT!
+# Umineko'yu tamamen bitirmediyseniz aşağıdaki terimlerden bazılarını görmeniz (dolaylı olarak varlığını öğrenmiş oluyorsunuz) hikaye üzerindeki akıl yürütmenizi muhtemelen etkileyecek. Bu nedenle buraya yalnızca Umineko'ya hakimseniz bakmanızı öneriyoruz.
+```
+
 1. "sen" ve "siz" hitapları.
    * Battler'ın okuyuculara hitap ettiği cümleler "-siz" olmalı.
    * Anlatı genel olarak okuyuculara hitap ettiğinden "-siz" olmalı. Fakat bazı istisnalar var o yüzden akışı bozmamaya özen gösterin.
@@ -75,6 +80,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Master `->` Efendi
    * Master Key `->` Master Anahtar
    * Milady `->` Leydim
+   * Narrative `->` Anlatı
    * North Wind and the Sun `->` Güneş ve Kuzey Rüzgarı
    * Parlor `->` Salon
    * Portrait `->` Portre
