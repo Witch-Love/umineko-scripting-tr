@@ -33436,6 +33436,8 @@ if %Free1 == -2 || %Free1 == -3 mov $Free2,verification_unsupported
 if %Free1 == -4 mov $Free2,verification_outdated
 mov $Free3,verification_end
 
+goto *full_verify_locale_skip
+
 *full_verify_locale
 
 verify_files %Free1,"locale_tr_game.hash",$Free1
