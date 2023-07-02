@@ -38,15 +38,15 @@ jobs:
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
-          cp misc/game.hash misc/game_tr.hash
-          php update-manager/update-manager.php genhash misc/game_tr.hash "extra/tr/"
+          cp misc/game.hash misc/locale_tr_game.hash
+          php update-manager/update-manager.php genhash misc/locale_tr_game.hash "extra/tr/"
           cp misc/chiru.file ciout
           cp misc/game.hash ciout
-          cp misc/game_tr.hash ciout
+          cp misc/locale_tr_game.hash ciout
           cp misc/default.cfg ciout
           cp misc/tr.cfg ciout
           cd ciout
-          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash game_tr.hash default.cfg tr.cfg || exit 1
+          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash locale_tr_game.hash default.cfg tr.cfg || exit 1
           cd ../extra/tr/
           zip -qry ../../ciout/umineko-tr-files_r${BUILD}.zip * || exit 1
           cd ../../

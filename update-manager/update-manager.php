@@ -58,7 +58,7 @@ $exclude = [
 	'/tr.cfg',	
 	'/chiru.file',
 	'/game.hash',
-	'/game_tr.hash',
+	'/locale_tr_game.hash',
 	'/default.cfg'
 ];
 
@@ -559,16 +559,9 @@ function main($argc, $argv) {
 			$hashes = [];
 			hashDir($argv[3], $argv[3], $hashes, 'size');
 			
-			$output = '';
-			// IniCreate
-			global $exclude;
-			foreach ($hashes as $file => $hash) {
-				if (!hasIn($file, $exclude) && !strstr($file, 'game.hash')) {
-					if ($file[0] == '/') $file = substr($file, 1);
-					$output .= '"'.$file.'"="'.$hash.'"'.CRLF; 
-				}
-			}
-			file_put_contents($argv[2], $output, FILE_APPEND);
+			$output = filteredIniCreate($hashes, 'size');
+
+			file_put_contents($argv[2], $output);
 			break;
 		case 'dscript':
 			if ($argc < 5) err(getUsage());
