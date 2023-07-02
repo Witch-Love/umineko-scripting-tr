@@ -34,16 +34,12 @@ jobs:
           LAST=$(<current/last)
           if [ "$LAST" == "" ]; then LAST=1; fi
           if [ -f current/last_en ]; then LAST_EN=$(<current/last_en); else LAST_EN="$LAST" ; fi
-          php update-manager/update-manager.php dscript "ciout/en.txt" . en ${BUILD} || exit 1
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
-          php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" "$LAST_EN" || exit 1
-          cp misc/chiru.file ciout
           cp misc/game.hash ciout
-          cp misc/default.cfg ciout
           cp misc/tr.cfg ciout
           cd ciout
-          zip -qry umineko-tr-and-main-scripts_r${BUILD}.zip en.file tr.file chiru.file game.hash default.cfg tr.cfg || exit 1
+          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash tr.cfg || exit 1
           cd ..
           echo ${{ inputs.desc }} >> release_notes.md
 
@@ -67,6 +63,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-and-main-scripts_r${{ env.BUILD }}.zip
+          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
           asset_content_type: application/zip
