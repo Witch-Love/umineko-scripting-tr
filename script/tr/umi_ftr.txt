@@ -33302,6 +33302,8 @@ if %Free1==0 mov $Free1,verify_updates : gosub *verify_err : jumpf
 	if %Free1==0 || %Free2!=21406 mov $Free1,verify_updates : gosub *verify_err : jumpf
 	fileexist %Free1,"game.hash"
 	if %Free1==0 mov $Free1,verify_updates : gosub *verify_err : jumpf
+	fileexist %Free1,"locale_tr_game.hash"
+	if %Free1==0 mov $Free1,verify_updates : gosub *verify_err : jumpf
 ~
 
 api_compat %Free1,2,2,0
@@ -33443,7 +33445,7 @@ goto *full_verify_locale_skip
 verify_files %Free1,"locale_tr_game.hash",$Free1
 if %Free1 == 0 mov $Free2,verification_good : fileexist %Free3,"locale_tr_game.hash",%last_locale_gamehash
 if %Free1 == 1 mov $Free2,verification_bad
-if %Free1 == -1 mov $Free2,verification_nohash_locale
+if %Free1 == -1 mov $Free2,verification_nohash
 if %Free1 == -2 || %Free1 == -3 mov $Free2,verification_unsupported
 if %Free1 == -4 mov $Free2,verification_outdated
 mov $Free3,verification_end
