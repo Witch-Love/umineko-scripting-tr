@@ -32881,6 +32881,7 @@ if localisation == "pt" mov %game_language,2 : mov $Free3,"Português"
 if localisation == "cn" mov %game_language,3 : mov $Free3,"Chinese Simp."
 if localisation == "cht" mov %game_language,4 : mov $Free3,"Chinese Trad."
 if localisation == "it" mov %game_language,5 : mov $Free3,"Italiano"
+if localisation == "tr" mov %game_language,6 : mov $Free3,"Witch Love"
 
 getscriptnum %Free1
 for %Free2 = 0 to %Free1-1
@@ -32947,6 +32948,14 @@ if %game_language != 5 jumpf
 	lsp 302,":s;#FFFFFF`{p:8:Dimensione Finestra}",135,%y+100
 	lsp 303,":s;#FFFFFF`{p:8:Schermata}",135,%y+200
 	lsp 304,":s;#FFFFFF`{p:8:Interfaccia}",135,%y+300
+~
+
+if %game_language != 6 jumpf
+	lsp 300,":s;#FFFFFF`{p:10:——————}{p:9:{a:c: Oyun Ayarları }{p:10:——————}}",135,%y-100
+	lsp 301,":s;#FFFFFF`{p:8:Oyun dili}",135,%y
+	lsp 302,":s;#FFFFFF`{p:8:Pencere boyutu}",135,%y+100
+	lsp 303,":s;#FFFFFF`{p:8:Pencere modu}",135,%y+200
+	lsp 304,":s;#FFFFFF`{p:8:Oynanış}",135,%y+300
 ~
 
 *first_setting2
@@ -33154,6 +33163,14 @@ if %game_language != 5 jumpf
 	notif  %full_window_auto = 0 lsp 281,":s;#C7C7C7#FFFFFF`{p:8:Auto}",1559,%y+200
 	if %full_window_auto = 0 lsp 281,":s;#FFFFFF`{p:8:Auto}",1559,%y+200
 ~
+if %game_language != 6 jumpf
+	notif  %full_window_auto = 1 lsp 279,":s;#C7C7C7#FFFFFF`{p:8:Pencereli}",850,%y+200
+	if %full_window_auto = 1 lsp 279,":s;#FFFFFF`{p:8:Pencereli}",850,%y+200
+	notif  %full_window_auto = 2 lsp 280,":s;#C7C7C7#FFFFFF`{p:8:Tam Ekran}",1213,%y+200
+	if %full_window_auto = 2 lsp 280,":s;#FFFFFF`{p:8:Tam Ekran}",1213,%y+200
+	notif  %full_window_auto = 0 lsp 281,":s;#C7C7C7#FFFFFF`{p:8:Otomatik}",1559,%y+200
+	if %full_window_auto = 0 lsp 281,":s;#FFFFFF`{p:8:Otomatik}",1559,%y+200
+~
 return
 
 
@@ -33195,6 +33212,12 @@ if %game_language != 5 jumpf
 	notif %interface_kb_dual = 1 lsp 271,":s;#C7C7C7#FFFFFF`{p:8:DualShock}",1377,%y+300
 	if %interface_kb_dual = 1 lsp 271,":s;#FFFFFF`{p:8:DualShock}",1377,%y+300
 ~
+if %game_language != 6 jumpf
+	notif %interface_kb_dual = 0 lsp 270,":s;#C7C7C7#FFFFFF`{p:8:KB+Mouse}",1010,%y+300
+	if %interface_kb_dual = 0 lsp 270,":s;#FFFFFF`{p:8:KB+Mouse}",1010,%y+300 : vsp 100,0
+	notif %interface_kb_dual = 1 lsp 271,":s;#C7C7C7#FFFFFF`{p:8:DualShock}",1377,%y+300
+	if %interface_kb_dual = 1 lsp 271,":s;#FFFFFF`{p:8:DualShock}",1377,%y+300
+~
 return
 
 
@@ -33211,6 +33234,7 @@ return
 	if %game_language = 3 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}自定义}",1280,%y+100
 	if %game_language = 4 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}自定義}",1280,%y+100
 	if %game_language = 5 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Personalizzata}",1280,%y+100
+	if %game_language = 6 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Özel}",1280,%y+100
 	~
 	lsp 297,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,%y+112
 	lsp 298,":a/2,0,3;graphics\menu_en\config\config_right.png",1640,%y+112
@@ -33234,6 +33258,9 @@ if %game_language != 4 jumpf
 ~
 if %game_language != 5 jumpf
 	lsp 272,":s;#C7C7C7#FFFFFF`{p:8:Applica}",800,%y+500
+~
+if %game_language != 6 jumpf
+	lsp 272,":s;#C7C7C7#FFFFFF`{p:8:Onayla}",800,%y+500
 ~
 return
 
