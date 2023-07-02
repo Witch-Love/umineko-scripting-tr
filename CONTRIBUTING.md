@@ -24,10 +24,8 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
 
 ## Çeviri Kuralları
 
-```diff
-- DİKKAT!
-# Umineko'yu tamamen bitirmediyseniz aşağıdaki terimlerden bazılarını görmeniz (dolaylı olarak varlığını öğrenmiş oluyorsunuz) hikaye üzerindeki akıl yürütmenizi muhtemelen etkileyecek. Bu nedenle buraya yalnızca Umineko'ya hakimseniz bakmanızı öneriyoruz.
-```
+>**`DİKKAT!`**  
+>Umineko'yu tamamen bitirmediyseniz aşağıdaki terimlerden bazılarını görmeniz (dolaylı olarak varlığını öğrenmiş oluyorsunuz) hikaye üzerindeki muhakemenizi (akıl yürütmenizi) muhtemelen etkileyecek. Bu nedenle buraya yalnızca Umineko'ya hakimseniz bakmanızı öneriyoruz.
 
 1. "sen" ve "siz" hitapları.
    * Battler'ın okuyuculara hitap ettiği cümleler "-siz" olmalı.
