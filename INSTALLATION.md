@@ -70,4 +70,4 @@ Klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabi
 
 **NOT:** Çeviri çalışması hâlâ devam ettiği için scriptlerinizin ve dosyalarınızın güncel olduğundan emin olup oynamanız daha iyi olacaktır. Bir chapter çevirisi her bittiğinde veya güncelleme yaptığımızda yeni sürüm yayınlıyoruz. Türkçe yamayı güncellemek için [Adım 4](#adım-4-türkçe-patch)'ü tekrarlamanız yeterlidir.
 
-![](https://i.imgur.com/Xdar2Ha.png)
+![](https://i.imgur.com/g3vlw1d.png)
