@@ -46,8 +46,6 @@ $exclude = [
 	'language_cn',
 	'language_cht',
 	'/en.file',
-	'/wh.file',
-	'/tr.file',
 	'/ru.file',
 	'/pt.file',
 	'/pt.cfg',
@@ -55,10 +53,8 @@ $exclude = [
 	'/cn.cfg',
 	'/cht.file',
 	'/cht.cfg',	
-	'/tr.cfg',	
 	'/chiru.file',
 	'/game.hash',
-	'/locale_tr_game.hash',
 	'/default.cfg'
 ];
 
@@ -454,68 +450,6 @@ function main($argc, $argv) {
 	ini_set('memory_limit','2048M');
 
 	switch ($argv[1]) {
-		case 'script-check':
-			if ($argc < 3) err(getUsage());
-			$path = dirname(__FILE__, 2);
-			$story_tr = [];
-			$story_en = [];
-			$exit = false;
-			for ($i = 1; $i <= 8; $i++) {
-				$story_tr[$i] = readDirs("$path/story/ep$i/{$argv[2]}");
-				$story_en[$i] = readDirs("$path/story/ep$i/en");
-			}
-			for ($i = 1; $i <= count($story_tr); $i++) {
-				for ($x = 0; $x < count($story_tr[$i]); $x++) {
-					$chapter_tr = $story_tr[$i][$x];
-					$chapter_en = $story_en[$i][$x];
-
-					// check : line counts
-					$lines_tr = count(file($chapter_tr));
-					$lines_en = count(file($chapter_en));
-					if ($lines_tr != $lines_en) {
-						echo "==========================================".PHP_EOL;
-						echo "!! ERROR !!".PHP_EOL;
-						echo "Line counts don't match ";
-						$diff = $lines_en - $lines_tr;
-						if ($diff > 0) {
-							echo "( $diff missing line(s) )".PHP_EOL;
-						} else {
-							$diff = abs($diff);
-							echo "( $diff extra line(s) )".PHP_EOL;
-						}
-						echo "File: $chapter_tr".PHP_EOL;
-						echo "Default count: $lines_en".PHP_EOL;
-						echo "New count: $lines_tr".PHP_EOL;
-						$exit = true;
-					}
-
-					// check : backticks
-					$exp = "/(`)(.*)(`)(\n|)/";
-
-					$handle = fopen($chapter_tr, "r");
-					if ($handle) {
-						$n = 1;
-						while (($line = fgets($handle)) !== false) {
-							if (preg_match($exp, $line) == 0) {
-								echo "==========================================".PHP_EOL;
-								echo "!! ERROR !!".PHP_EOL;
-								echo "Missing backtick(s)".PHP_EOL;
-								echo "File: $chapter_tr".PHP_EOL;
-								echo "Line: $n".PHP_EOL;
-								$exit = true;
-							}
-							$n++;
-						}
-						fclose($handle);
-					}
-				}
-			}
-			if ($exit) {
-				echo "==========================================".PHP_EOL;
-				exit(1);
-			}
-			echo "All good.";
-			break;
 		case 'hash':
 		case 'adler':
 		case 'size':
@@ -551,18 +485,6 @@ function main($argc, $argv) {
 			else
 				echo $fixture;
 			break;
-		case 'genhash':
-			if ($argc < 3) err(getUsage());
-			if (!file_exists($argv[2])) err('No such file '.$argv[2]);
-			//if (!file_exists($argv[2])) err('No such file '.$argv[2]);
-			//copy($argv[2], $argv[4]);
-			$hashes = [];
-			hashDir($argv[3], $argv[3], $hashes, 'size');
-			
-			$output = filteredIniCreate($hashes, 'size');
-
-			file_put_contents($argv[2], $output);
-			break;
 		case 'dscript':
 			if ($argc < 5) err(getUsage());
 			$ver    = '8.2b' . ($argc > 5 ? ' r' . $argv[5] : '');
@@ -590,7 +512,7 @@ function main($argc, $argv) {
 			if ($locale == 'cn')
 				$footer = file_get_contents($scripting.'/script/cn/umi_ftr.txt');
 			if ($locale == 'cht')
-				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');
+				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');				
 			if ($locale == 'tr')
 				$footer = file_get_contents($scripting.'/script/tr/umi_ftr.txt');				
 			$script .= str_replace(CRLF, LF, $footer);

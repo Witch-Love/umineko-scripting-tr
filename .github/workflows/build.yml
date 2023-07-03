@@ -1,0 +1,65 @@
+name: Build
+
+on: 
+  workflow_dispatch:
+    inputs:
+      desc:
+        type: string
+        description: "Description for new release"
+        required: true
+        default: 'Kurulum detayları için [buraya](https://github.com/Witch-Love/umineko-scripting-tr#kurulum) bakın.'
+
+jobs:
+  build:
+    name: Build scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Script Check
+        run: |
+          php update-manager/script-check.php check tr || exit 1
+
+      - name: Compile
+        run: |
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
+          TODAY=$(date +"%d.%m.%y")
+          echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
+          echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
+          echo "Build number ${BUILD}"
+          mkdir -p ciout
+          php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
+          php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" 8 || exit 1
+          cp misc/game.hash ciout
+          cp misc/tr.cfg ciout
+          cd ciout
+          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash tr.cfg || exit 1
+          cd ..
+          echo ${{ inputs.desc }} >> release_notes.md
+
+      - name: Release
+        if: github.repository_owner == 'Witch-Love'
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: z${{ env.BUILD }}
+          release_name: Umineko Witch Love Scripts r${{ env.BUILD }}
+          body_path: release_notes.md
+          draft: false
+          prerelease: false
+
+      - name: Upload Main
+        if: github.repository_owner == 'Witch-Love'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_content_type: application/zip
