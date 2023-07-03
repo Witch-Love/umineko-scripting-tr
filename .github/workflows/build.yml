@@ -38,7 +38,7 @@ jobs:
           cd ciout
           zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash tr.cfg || exit 1
           cd ..
-          echo ${{ inputs.desc }} >> release_notes.md
+          echo "${{ inputs.desc }}" >> release_notes.md
 
       - name: Release
         if: github.repository_owner == 'Witch-Love'

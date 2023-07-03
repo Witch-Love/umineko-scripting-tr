@@ -428,21 +428,6 @@ function removeGrim($str) {
 	);
 }
 
-function readDirs($path) {
-	$dirHandle = opendir($path);
-	$list = [];
-	while ($item = readdir($dirHandle)) {
-		$newPath = $path."/".$item;
-		if ($item != '.' && $item != '..') {
-			if (is_dir($newPath)) {
-				readDirs($newPath);
-			} else {
-				array_push($list, "$path/$item");
-		 	}
-	  	}
-	}
-	return $list;
-}
 
 function main($argc, $argv) {
 	if ($argc < 2) err(getUsage());
