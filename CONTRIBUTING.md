@@ -103,4 +103,5 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Wolves and Sheep Puzzle `->` Kurtlar ve Koyunlar Bulmacası
 5. Diğer
    * Old Testament's Book of Psalms, Psalm x, verses y and z `->` Eski Ahit'in Mezmurlar Kitabı, x. Mezmur, ayet y ve z
+   * All it takes is the presence of x, and a deduction like this becomes trivial for Furudo Erika. Your thoughts, ladies and gentlemen? `->` Sadece x'in varlığı bile, Furudo Erika için böyle bir çıkarımın sıradan hale gelmesi için yeterli. Görüşleriniz, bayanlar ve baylar?
    * I am one yet many `->` Ben biriyim ve de birçoğuyum
