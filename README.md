@@ -1,6 +1,6 @@
 # Witch Love ~ Umineko Türkçe Çeviri Projesi
 
-[![Build Status](../../workflows/CI/badge.svg)](../../actions)
+[![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
 Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
 
