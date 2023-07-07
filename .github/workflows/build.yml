@@ -21,6 +21,9 @@ jobs:
       - name: Compile
         run: |
           BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
+          if git show-ref --tags ${BUILD} --quiet; then
+            git push origin :refs/tags/${BUILD}
+          fi
           TODAY=$(date +"%d.%m.%y")
           echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
           echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
