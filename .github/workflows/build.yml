@@ -21,12 +21,11 @@ jobs:
       - name: Compile
         run: |
           BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
-          LAST_TAG=$(($(git describe --abbrev=0 --tags)))
           TODAY=$(date +"%d.%m.%y")
           if git show-ref --tags z${BUILD} --quiet; then
-            echo "TAG=${LAST_TAG}.1" >> "$GITHUB_ENV"
+            echo "TAG=${BUILD}.1" >> "$GITHUB_ENV"
           else
-            echo "TAG=z${BUILD}" >> "$GITHUB_ENV"
+            echo "TAG=${BUILD}" >> "$GITHUB_ENV"
           fi
           echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
           echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
@@ -49,7 +48,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ env.TAG }}
+          tag_name: z${{ env.TAG }}
           release_name: Umineko Witch Love Scripts r${{ env.BUILD }}
           body_path: release_notes.md
           draft: false
