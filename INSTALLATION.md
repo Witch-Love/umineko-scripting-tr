@@ -63,7 +63,8 @@ Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indir
 [Releases](../../releases) sayfasından son sürüm Türkçe scriptleri,  
 [Dosyalar](https://github.com/Witch-Love/umineko-scripting-tr-files/releases) sayfasından da Türkçe dosyaları indirin ve diğer adımlardaki gibi klasörünüze çıkarın.
 
-![](https://i.imgur.com/kn5BPxq.png)
+![](https://i.imgur.com/VVuf607.png)
+![](https://i.imgur.com/ylfhA3d.png)
 
 ## Adım 5: Artık oyunu başlatabilirsiniz!
 
