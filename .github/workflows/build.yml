@@ -20,7 +20,7 @@ jobs:
 
       - name: Compile
         run: |
-          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500+${{ toJson(github.event.client_payload) }}))
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
           TODAY=$(date +"%d.%m.%y")
           echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
           echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
