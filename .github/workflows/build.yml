@@ -36,7 +36,8 @@ jobs:
           cp misc/game.hash ciout
           cp misc/tr.cfg ciout
           cd ciout
-          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash tr.cfg || exit 1
+          wget https://github.com/Witch-Love/umineko-scripting-tr-files/releases/latest/download/locale_tr_game.hash
+          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash locale_tr_game.hash tr.cfg || exit 1
           cd ..
           echo "${{ inputs.desc }}" >> release_notes.md
 
