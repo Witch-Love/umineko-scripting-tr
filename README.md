@@ -46,13 +46,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ✅
       * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ✅
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L2) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L296) ✅
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L57) ✅
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L349) ✅
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L829) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L485) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1030) ✅
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L2-L9) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L296-L303) ✅
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L57-L67) ✅
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L349-L359) ✅
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L829-L850) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L485-L521) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1030-L1071) ✅
 </details>
 
 * <details>
@@ -81,13 +81,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 19](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
       * [Chapter 20](../../tree/master/story/ep2/tr/umi2_20.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L11) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L305) ✅
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L69) ✅
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L362) ✅
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L522) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073) ✅
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L11-L18) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L305-L312) ✅
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L69-L73) ✅
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L362-L366) ✅
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L851-L872) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L522-L560) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1073-L1132) ✅
       * [Song: Melody](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
 </details>
 
@@ -117,13 +117,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 19](../../tree/master/story/ep3/tr/umi3_19.txt) ❌
       * [Chapter 20](../../tree/master/story/ep3/tr/umi3_20.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L20) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L81) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L561) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L20-L26) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314-L320) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L81-L85) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873-L894) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L561-L599) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ❌
       * [Song: activepain](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
 </details>
 
@@ -154,13 +154,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 20](../../tree/master/story/ep4/tr/umi4_20.txt) ❌
       * [Chapter 21](../../tree/master/story/ep4/tr/umi4_21.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L28) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L322) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L93) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L386) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L600) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1191) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L28-L35) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L322-L329) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L93-L102) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L386-L395) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L895-L917) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L600-L640) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1191-L1276) ❌
       * [Song: Discode](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/109_tr.ass) ✅
 </details>
 
@@ -187,13 +187,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 16](../../tree/master/story/ep5/tr/umi5_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep5/tr/umi5_17.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L38) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L331) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L105) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L398) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L641) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L38-L42) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L331-L335) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L105-L110) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L398-L403) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918-L936) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L641-L673) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279-L1331) ❌
       * [Song: Promise](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌ / ❓(this lyrics is not even used)
       * [Song: WINGS(Ver hope)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/134_tr.ass) ✅
 </details>
@@ -224,13 +224,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 19](../../tree/master/story/ep6/tr/umi6_19.txt) ❌
       * [Chapter 20](../../tree/master/story/ep6/tr/umi6_20.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L44) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L337) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L117) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L410) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L674) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L44-L46) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L337-L339) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L117-L119) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L410-L412) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937-L958) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L674-L712) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332-L1401) ❌
       * [Song: birth of new witch(Short Ver)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/160_tr.ass) ✅
       * [Song: FISHYAROMA](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/161_tr.ass) ✅
 </details>
@@ -261,13 +261,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 19](../../tree/master/story/ep7/tr/umi7_19.txt) ❌
       * [Chapter 20](../../tree/master/story/ep7/tr/umi7_20.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L48) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L341) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L129) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L423) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L713) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L48-L49) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L341-L342) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L129-L131) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L423-L425) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L959-L980) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L713-L732) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1402-L1441) ❌
       * [Song: without a name ver.sakura ED-size](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/186_tr.ass) ✅
 </details>
 
@@ -295,13 +295,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 17](../../tree/master/story/ep8/tr/umi8_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep8/tr/umi8_18.txt) ❌
    * Other
-      * [Tips Titles](../../blob/master/script/tr/menu.txt#L51) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344) ❌
-      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L141) ❌
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L435) ❌
-      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981) ✅
-      * [Chapter Names](../../blob/master/script/tr/menu.txt#L752) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442) ❌
+      * [Tips Titles](../../blob/master/script/tr/menu.txt#L51-L54) ✅
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344-L347) ❌
+      * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L141-L143) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L435-L437) ❌
+      * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981-L1000) ✅
+      * [Chapter Names](../../blob/master/script/tr/menu.txt#L752-L769) ✅
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442-L1493) ❌
       * [Song: Cocoon of White Dreams -Ricordando il passato-](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/240_tr.ass) ✅
 </details>
 
@@ -311,9 +311,10 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
    * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
    * [header.txt](../../tree/master/script/tr/header.txt) ✅
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
-      * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494) ❌
-      * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1845) ❌
-      * [Trophies](../../blob/master/script/tr/menu.txt#L1943) ❌
+      * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
+      * [EP8: Bern's Game Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ❌
+      * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
+      * [Trophies](../../blob/master/script/tr/menu.txt#L1943-L2024) ❌
    * Song Subtitles ✅
       * [PC Opening 1: When the Seagulls Cry](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/241_tr.ass) ❌ (not used)
       * [PC Opening 1: When the Seagulls Cry (Legacy)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/legacy/sub/tr.ass) ❌ (not used)
