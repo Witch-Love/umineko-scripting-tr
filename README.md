@@ -314,7 +314,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
       * [EP8: Bern's Game Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ❌
       * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
-      * [Trophies](../../blob/master/script/tr/menu.txt#L1943-L2024) ❌
+      * [Trophies](../../blob/master/script/tr/menu.txt#L1943-L2024) ✅
    * Song Subtitles ✅
       * [PC Opening 1: When the Seagulls Cry](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/241_tr.ass) ❌ (not used)
       * [PC Opening 1: When the Seagulls Cry (Legacy)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/legacy/sub/tr.ass) ❌ (not used)
