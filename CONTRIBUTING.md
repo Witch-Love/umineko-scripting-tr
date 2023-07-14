@@ -31,16 +31,21 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Battler'ın okuyuculara hitap ettiği cümleler "-siz" olmalı.
    * Anlatı genel olarak okuyuculara hitap ettiğinden "-siz" olmalı. Fakat bazı istisnalar var o yüzden akışı bozmamaya özen gösterin.
    * Hizmetkarların Ushiromiya aile bireylerine hitapları "-siz" olmalı. Bunda da bazı istisnalar var.
-2. Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
+2. Özel durumlar vs:
    * Noktalama işaretlerini tamamen aynı bırakmaya özen gösteriyoruz.
-   * Kyrie-san, George-aniki gibi saygı ekleri
-   * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
-   * \*giggle\* ve \*cackle\*
-   * Madam
-   * GHQ
-3. ~~Adım 4'te bulunan çoğu kelimenin karşılığı çevirmekte olduğumuz dosyalara rehber şeklinde eklenmiştir.~~  
-   ~~Bu kelimelerle karşılaşınca yapmanız gereken tek şey kelimenin gösterilen karşılığını kullanmak.~~  
-   ~~Bu kelimeler regex ile eklendiği için hatalı olabilirler. Gözden kaçırmadan aynı kelime karşılıklarını herkes kullansın diye böyle bir ekleme yaptık.~~
+   * Bunlar ve benzerleri olduğu gibi kalıyor, çevirmiyoruz:
+     * Kyrie-san, George-aniki gibi saygı ekleri
+     * "Gyah!", "Aaaahh", "Oooooohh!" ve benzerleri
+     * \*giggle\* ve \*cackle\*
+     * Madam
+     * GHQ
+   * Karakterlerin ingilizce olarak söylediği şeyler bazı istisnalar hariç ingilizce olarak kalıyor.
+   * İngilizce kelimeler (bazı istisnalar var) `<>` arasına yazılır. Örneğin: `<Good>`
+   * İngilizce söylenirse ingilizce bırakılacaklar:
+     * \<Happy Halloween\>
+     * \<Trick-or-treat\>
+     * \<Good\> / \<Very Good\>
+3. Seste ingilizce ise olduğu gibi
 4. Bunlar bu şekilde:
    * Alibi `->` Mazeret
    * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala

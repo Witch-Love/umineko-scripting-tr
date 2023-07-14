@@ -97,7 +97,7 @@
 ` Cadıların ve iblislerin gücünün en güçlü ve etkili olduğu dönem Ekim ayıdır!`
 ` Kihihihihihihihi, eminim {f:5:Beatrice} de gelecek!"`
 `"Sonra birlikte marşmelov şekerlemeleri yiyeceğiz ve Maria'yı da kendisiyle birlikte Altın Diyar'a götürecek!`
-` Birlikte büyüleyici şarkılar söyleyeceğiz, birlikte büyüler öğrenip, birlikte büyülü çemberler çizmeyi öğreneceğiz!`
+` Birlikte büyüleyici şarkılar söyleyeceğiz, birlikte büyüler öğrenip, birlikte büyü çemberleri çizmeyi öğreneceğiz!`
 ` Ve sonra Maria da rünlerin sırlarını öğrenip, çok ama çok hızlı bir şekilde çok büyük bir cadı olacak!"`
 `"Amanın, bu harika değil mi?`
 ` Çocukların hayallerinin olması çok iyi.`
@@ -519,7 +519,7 @@
 ` Bu rüzgarda fazla kalırsan üşüteceksin..."`
 `"O gelecek!`
 ` {f:5:Beatrice} gelecek!!!"`
-`"Ve geldiğinde, ona şeker vereceğim.`
+`"Ve {f:5:Beatrice} geldiğinde, ona şeker vereceğim.`
 ` <Trick-or-treat> yapacağım!`
 ` Ona bir jack‐o'‐lantern marşmelov şekerlemesi vereceğim ve <Happy Halloween> diyeceğim!!!`
 ` Uu!!"`
@@ -527,11 +527,11 @@
 `Rosa şaşkındı, Maria yine zorluk çıkarmaya başlayınca ne yapacağını bilemedi...`
 `Tam o sırada ani ve büyük bir gök gürültüsü duyuldu.`
 `Bu muhtemelen...bir işaretti.`
-` ......Bu adanın fırtına yüzünden kapandığını, sağduyudan ve gerçeklikten koptuğunu gösteren bir işaret.`
+` ......Bu adanın fırtına tarafından kapatıldığını, sağduyudan ve gerçeklikten koptuğunu gösteren bir işaret.`
 `Bu nedenle, şu andan itibaren, tüm sağduyu şüphesiz anlamsız olacaktı.`
 `Rüzgâr daha da kuvvetli esmeye başladı ve etrafa saçılan gül yapraklarından oluşan bir kar fırtınasının ortasında,`
 ` ......Rosa'nın bir an için bunun gerçek olduğuna inanamamasına neden olan bir figür belirdi.`
-`...Hayır, muhtemelen—kesinlikle—hayal ürünü olması gerekiyordu.`
+`...Bunun muhtemelen—hayır, kesinlikle—hayal ürünü olması gerekiyordu.`
 `Çünkü bu figürün şekli tıpkı................`
 `"{f:5:Beatrice}!!"`
 `Maria figüre doğru hızla koştu.`
@@ -551,7 +551,7 @@
 ` ...Ancak Maria ilk göründüğü anda ona seslenmişti.`
 `Dolayısıyla, Rosa onunla hiç tanışmamış olmasına ve onun Rosa'ya adını söylememiş olmasına rağmen, Rosa onun adını öğrenebilmişti.`
 `......Ancak bu ismin Rokkenjima'da ve Ushiromiya ailesinde özel bir anlamı vardı.`
-`......Bu kadar aptalca bir şeyin olmasına imkân yok......!`
+`......Bu kadar aptalca bir şeyin olmasına imkan yok......!`
 `"{f:5:Beatrice}!`
 ` <Happy Halloween>!`
 ` Bak, bunları aldım!`
@@ -660,7 +660,7 @@
 `Ve Ushiromiya reisi dışında kimsenin kullanamayacağı kişisel bir zarfla...!`
 `"......Maria,`
 ` hava gittikçe kötüleşiyor.`
-` konukevine dönün ve öğle yemeğini bekleyin."`
+` Konukevine dönün ve öğle yemeğini bekleyin."`
 `".........O zaman Rosa, daha sonra tekrar görüşeceğiz.`
 ` O vakit kendimi tekrar tanıtmama izin ver.`
 ` ...*cackle*cackle*cackle*."`
@@ -699,11 +699,11 @@
 ` ...ve üstelik bu kişi Ushiromiya ailesiyle o kadar iyi tanışmaktaydı ki Genji onun peşinden gitmekteydi.`
 `......Kyrie daha önce hiç karşılaşmadığı bu kişinin son derece önemli biri olduğunu hemen anladı.`
 `Kyrie cadıyla göz göze geldi.`
-`{n}......Fark etmemiş gibi davranmanın kabalık olacağını anlayarak cadıyı selamladı.`
+`{n}......Fark etmemiş gibi davranmanın kabalık olacağını fark ederek cadıyı selamladı.`
 `"............Tanıştığımıza memnun oldum."`
 `"Rudolf'un ikinci karısı mı?"`
 `"Evet, doğru.`
-` Bu Kyrie-sama, Rudolf-sama'nın şimdiki eşi."`
+` Bu Rudolf-sama'nın şimdiki eşi olan Kyrie-sama."`
 `Kyrie bu diyalogdan, bu kadının Ushiromiya ailesi içinde oldukça yüksek rütbeli bir misafir olduğunu anladı.`
 `.........Ve bu seviyede bir misafir olduğu gerçeği,`
 ` ......arkadaki girişte asılı olan portrenin yüzüyle birleşince, ......Kyrie'nin gözleri bir anda fal taşı gibi açıldı...`
@@ -718,16 +718,16 @@
 `......Hoşlanabileceği bir insan gibi görünmüyordu.`
 `...Ama eğer Kyrie'nin hayal gücü yanılmıyorsa, ......bu "cadı" muhtemelen kocasının en çok ilgilendiği şeyle ilgili büyük bir role sahipti,`
 ` ve bu akşamki aile konferansını etkileme şansı çok yüksekti...`
-`Bu yüzden karşılık vermeden, sessizce kadının merdivenlerden ikinci kata çıkışını ve Genji'nin de onu takip edişini izlemekle yetindi.`
+`Bu yüzden karşılık vermeden, kadının sessizce merdivenlerden ikinci kata çıkışını ve Genji'nin de onu takip edişini izlemekle yetindi.`
 `Biri arkasından omzuna dokunduğunda o kadar şaşırdı ki neredeyse nefesi kesilecekti.`
 `Bu Natsuhi'ydi...`
 `".........Kyrie-san,`
-` neden böyle bir yerde öylece duruyorsun?`
+` böyle bir yerde neden öylece duruyorsun?`
 ` Kötü mü hissediyorsun...?"`
 `"Ö-Özür dilerim.`
 ` ......Ben sadece cadının portresinden biraz etkilenmiştim."`
 `"......Altın Cadı {f:5:Beatrice}, değil mi?`
-` Şöyle bir şey—Ushiromiya ailesinin bugünkü haline ulaşması, onun verdiği altınlar olmadan asla mümkün olamazdı...`
+` Ushiromiya ailesinin bugün sahip olduğu konuma gelmesi, onun sağladığı altınlar olmadan asla mümkün olamazdı—gibi bir şey...`
 ` ......Babama fazlasıyla uyan fantastik bir hikaye."`
 `Natsuhi ondan her zamanki gibi bahsetti.`
 `{n}...Bir cadı fikrinin aptalca olduğunu ve sonuçta Kinzo'nun saçmalıklarından başka bir şey olmadığını söyledi.`
