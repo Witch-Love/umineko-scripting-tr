@@ -142,7 +142,7 @@
 ` Küçük tekneler daha çok sallanır derler, sanırım aynı kural uçaklar için de geçerli.`
 `...Aaah.`
 `"Haahahaha, endişelenme, Battler-kun.`
-` O tekneden çok daha az sallanacaktır."`
+` O tekneye kıyasla çok daha az sallanacaktır."`
 `"Gyah?! ...S-sen misin, George-{c:86EF9C:aniki}?!"`
 `"Heheh, beni böyle korkutma... Az önce hayatımdan üç yıl çaldın.`
 ` Her neyse, sallanmanın ne alakası var?"`
@@ -153,7 +153,7 @@
 ` Artık çocuk değilsin.`
 ` Hahahahaha."`
 `"Ah, bir de sana bak, sigara ve içki içebilecek yaştasın.`
-` Sigara ile hiç ilgilenmiyorum, ama hep içki içmek istemişimdir, heheheh!`
+` Sigara ile hiç ilgilenmiyorum ama hep içki içmek istemişimdir, heheheh!`
 ` Eğer babanın genlerini taşıyorsan, bahse girerim içki içmeye gelince kendini tutabilirsin, değil mi?"`
 `"Ben genelde zevkten ziyade iş için içerim.`
 ` Japonya'da onsuz iş yapmak oldukça zor."`
@@ -247,7 +247,7 @@
 ` Rudolf-san'ı gördün mü?"`
 `"Huh?`
 ` Bir süre önce tuvalete gitti.`
-` {i:Hala} dönmedi mi?`
+` {i:Hâlâ} dönmedi mi?`
 ` Heh, belki de zavallı moruk düşüp ölmüştür... {c:86EF9C:Namunamunamu}."`
 `"Kendi baban hakkında böyle konuşmamalısın.`
 ` Yine de lavaboda ilk kez bu kadar uzun kalmıyor."`
@@ -342,7 +342,7 @@
 ` Kafanın yan tarafına böyle bir darbenin seni bayıltacağını biliyor muydun?`
 ` Kısa bir süre önce bir antrenman maçında kazara böyle bir darbe atmıştım ve rakibim bayılmıştı."`
 `"...Ah, ne acı ama.`
-` Sanırım ayaklarıyla saldırma eğilimi için de özür dilemem gerekiyor."`
+` Sanırım ayaklarını etrafa savurma huyu için de özür dilemem gerekiyor."`
 `Babam hiç etkilenmeden omuz silkti ve Hideyoshi Amca'ya alaycı bir şekilde gülümsedi.`
 `"Wahahaha, benim hiç erkek ya da kız kardeşim olmadı.`
 ` Bu yüzden siz ikinizi birbirinizle didişirken gördüğümde içim sıcacık oluyor.`
