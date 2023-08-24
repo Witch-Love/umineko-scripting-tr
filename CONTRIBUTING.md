@@ -48,7 +48,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
 3. Seste ingilizce ise olduğu gibi
 4. Bunlar bu şekilde:
    * Alibi `->` Mazeret
-   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
+   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Teyze / Rosa Teyze / Natsuhi Teyze
    * Blue Truth `->` Mavi Gerçek
    * Boiler Room `->` Kazan Dairesi
    * Book of Psalms `->` Mezmurlar Kitabı
@@ -67,6 +67,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Dining Hall `->` Yemek Salonu
    * Entrance Hall `->` Giriş
    * Epitaph `->` Kitabe
+   * Excuse Me `->` İzninizle
    * Family Head `->` Aile Reisi
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
