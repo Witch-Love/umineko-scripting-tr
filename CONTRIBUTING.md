@@ -45,10 +45,9 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
      * \<Happy Halloween\>
      * \<Trick-or-treat\>
      * \<Good\> / \<Very Good\>
-3. Seste ingilizce ise olduğu gibi
-4. Bunlar bu şekilde:
+3. Bunlar bu şekilde:
    * Alibi `->` Mazeret
-   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Hala / Rosa Hala / Natsuhi Hala
+   * Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Teyze / Rosa Teyze / Natsuhi Teyze
    * Blue Truth `->` Mavi Gerçek
    * Boiler Room `->` Kazan Dairesi
    * Book of Psalms `->` Mezmurlar Kitabı
@@ -57,6 +56,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Conference `->` Konferans
    * Courtroom `->` Mahkeme Salonu
    * Culprit `->` Suçlu
+   * Crest `->` Arma
    * Delusion `->` Kuruntu
    * Demon `->` İblis
    * Demons' Roulette `->` İblislerin Ruleti
@@ -65,8 +65,10 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Devil `->` Şeytan
    * Devil's Proof `->` Şeytan'ın İspatı
    * Dining Hall `->` Yemek Salonu
+   * Disciple `->` Mürit
    * Entrance Hall `->` Giriş
    * Epitaph `->` Kitabe
+   * Excuse Me `->` İzninizle
    * Family Head `->` Aile Reisi
    * Fragment (Kakera olan) `->` Kakera
    * Furniture `->` Mobilya
@@ -75,6 +77,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Great Demon `->` Yüce İblis
    * Guesthouse `->` Konukevi
    * Guest room `->` Misafir odası
+   * Head's Ring `->` Aile Reisi Yüzüğü
    * Incinerator `->` Çöp Fırını
    * Locked Room `->` Kilitli Oda
    * Logic Error `->` Mantık Hatası
@@ -84,14 +87,17 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Master `->` Efendi
    * Master Key `->` Master Anahtar
    * Milady `->` Leydim
+   * Mistress `->` Metres
    * Narrative `->` Anlatı
    * North Wind and the Sun `->` Güneş ve Kuzey Rüzgarı
    * Old Testament `->` Eski Ahit
    * Parlor `->` Salon
+   * Piece `->` Taş
    * Portrait `->` Portre
    * Reasoning `->` Muhakeme
    * Red Truth `->` Kırmızı Gerçek
    * Register `->` Nüfus
+   * Resign `->` Pes Etmek
    * Ritual `->` Ritüel
    * Rose Garden `->` Gül Bahçesi
    * Servant `->` Hizmetkar
@@ -104,9 +110,11 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Trick or Treat `->` Şaka mı Şeker mi
    * Ushiromiya Head Family `->` Ushiromiya Baş Ailesi
    * Voyager `->` Gezgin
+   * Western Envelope `->` Batı Tarzı Zarf
    * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
    * Wolves and Sheep Puzzle `->` Kurtlar ve Koyunlar Bulmacası
-5. Diğer
+4. Diğer
    * Old Testament's Book of Psalms, Psalm x, verses y and z `->` Eski Ahit'in Mezmurlar Kitabı, x. Mezmur, ayet y ve z
    * All it takes is the presence of x, and a deduction like this becomes trivial for Furudo Erika. Your thoughts, ladies and gentlemen? `->` Sadece x'in varlığı bile, Furudo Erika için böyle bir çıkarımın sıradan hale gelmesi için yeterli. Görüşleriniz, bayanlar ve baylar?
    * I am one yet many `->` Ben biriyim ve de birçoğuyum
+   * It's no good, it's no goddamn good `->` Bu hiç iyi değil, hiç de iyi değil
