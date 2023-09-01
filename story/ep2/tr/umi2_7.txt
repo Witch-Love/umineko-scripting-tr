@@ -11,12 +11,12 @@
 `Belki de her hafta izlediği bir animenin başlama saati falan gelmişti.`
 ` Muhtemelen malikanenin salonunda kalmaya karar vermişti.`
 `"Belki Battler-sama uyanmıştır ve birlikte oyun oynuyorlardır."`
-`"Maria-chan, Battler-kun'u yeni bir arkadaş olarak düşünüyor.`
-` ...Havaalanında Battler-kun ile Cadılar Bayramı oynarken çok eğlenmiş olmalı."`
+`"Maria-chan, Battler-kun'u yeni bir arkadaş olarak görüyor olmalı.`
+` ...Havaalanında Battler-kun ile Cadılar Bayramı oynarken çok eğlendiğine eminim."`
 `"Battler da çok eğleniyormuş gibi duruyordu.`
 ` Adam kocaman olmuş, ama eski halinin tıpatıp aynısı, içten içe hiç değişmemiş."`
 `"Gerçekten de.`
-` ...Battler-sama'nın altı yıl önceki haliyle kalacak kadar kibar olduğunu hissediyorum."`
+` ...Battler-sama'nın altı yıl önceki hali olarak kalacak kadar kibar olduğunu hissediyorum."`
 `"Shannon, Battler-kun'un altı yıl önceki halini hatırlıyor musun?"`
 `"Evet.`
 ` Çünkü o, nasıl desem, çok enerjikti.`
@@ -31,7 +31,7 @@
 `"......Bu profesyonel tavırlara hiç gerek yok.`
 ` İşin bir yana, şu anda olduğu gibi mola verdiğinde, o zamanlar olduğu gibi hep birlikte arkadaşça davranabilirsek sevinirim."`
 `"Evet, kesinlikle.`
-` ...Hizmetkar Shannon'u görevde olmayan Sayo'dan ayrı tutmaman için hiçbir neden yok.`
+` ...Hizmetkâr Shannon'u görevde olmayan Sayo'dan ayrı tutmaman için hiçbir neden yok.`
 ` ......Sen köle değilsin, sadece hizmetkar olarak çalışıyorsun, değil mi?"`
 `".........Shannon ben seni,`
 ` ...hayır, Sayo'yu en eski arkadaşım olarak görüyorum."`
@@ -65,10 +65,10 @@
 `{n}...Muhtemelen yalnız olduklarında genellikle böyle flört ediyorlardı.`
 `{n}Jessica sadece garip bir şekilde gülümseyip "evet, evet, teşekkür ederim, bu kadar yeter" diyebildi.`
 `"Benim bir hayalim var.`
-` Sadece iş dünyasında kendi alanımın lideri olma hırsım değil.`
+` İş dünyasında çalıştığım alanın lideri olmak tek hedefim değil.`
 ` Aynı zamanda hayatımı birlikte geçirebileceğim bir eşle birlikte bir aile kurma hayalim de var."`
-`"En az iki çocuk istiyorum.`
-` Ve tüm ailenin birlikte yapabileceği bazı sporlar yapmak istiyorum.`
+`"...En az iki çocuk istiyorum.`
+` Ve ailecek yapabileceğimiz bazı sporları yapmak istiyorum.`
 ` Ve bunun dışında daha pek çok şey.`
 ` Bu tür şeyleri Shannon'la sık sık konuşurum.`
 ` .........Gerçi ne zaman bu tür şeylerden bahsetsem, Shannon hep güler ve aceleci davrandığımı söyler."`
@@ -76,7 +76,7 @@
 ` ......Sağlıklı yetişkin çocuklarım, ve etrafta koşuşturan torunlarım ile beraber.`
 ` Son yıllarımı yavaş bir tempoda, bununla çevrili olarak ve Shannon'la sonsuza dek birlikte geçirmenin ne kadar güzel olacağı hakkında."`
 `"Kesinlikle aceleci davranıyorsun.`
-` ......Ama nasıl desem, George nii-san, tam senin isteyeceğin bir şey."`
+` ......Ama, nasıl desem, George nii-san, tam senin isteyeceğin bir şey."`
 `"Öyle bir aileyle çevrili olmak muhtemelen harika olurdu.`
 ` ......Gençken zihnimde çizdiğim ideal aile de böyleydi."`
 `...Bir sosyal yardım enstitüsünde büyümüş olan Shannon için, bu uyumlu aile imajı muhtemelen özlemini duyduğu bir şeydi.`
@@ -107,7 +107,7 @@
 ` Seni eşim olarak tüm aileye kabul ettirebileceğimi sana göstereceğim."`
 `"Harika...`
 ` Shannon seni kıskanıyorum gerçekten!"`
-`"......E-Eğer bu kadar ileri gidecekseniz,`
+`"......E-Eğer bu kadar ileri götüreceksen,`
 ` .........o zaman ben, ben çok minnettarım..."`
 `"Bekle bir saniye, ...burada fazlalık gibi hissetmeye başladım.`
 ` Belki de gitsem daha iyi oluur?"`
@@ -136,7 +136,7 @@
 `......19'du.`
 `{n}Bu sayı her yıl aile konferansı sırasında dizilenden 1 fazlaydı.`
 `"Bunu kabul edemem...!`
-` Neden doğrudan götüremiyorum?!"`
+` Neden doğrudan ben götüremiyorum?!"`
 `Gohda-san, taşmakta olan tencereye aldırmadan Genji'ye öfkeleniyordu.`
 `Efendi yemeğini çalışma odasında tek başına yemekten hoşlanır, bu sebeple yemek çalışma odasında servis edilmelidir.`
 ` Elbette anlayacağınız üzere bu yeni bir şey değil.`
@@ -390,15 +390,15 @@
 ` Gerisini sana bırakıyorum.`
 ` ...Benim sesim artık ona ulaşmıyor."`
 `Krauss başını hafifçe salladı, ve hızla çalışma odasının kapısına sırtını döndü.`
-`......Bunun faydasız olduğunu bildiği halde, yalnızca kardeşlerinin hatrı için seslenmişti.`
+`......Faydası olmayacağını bildiği halde, yalnızca kardeşlerinin hatrı için seslenmişti.`
 `Genji, Krauss'un merdivenlerden inişini izledikten sonra, kapıdan tekrar seslendi.`
 `"...Lordum.`
-` Buraya taşınacak yemek için hazırlıklarımızı tamamladık.`
+` Yemeğin buraya taşınması için hazırlıklarımızı tamamladık.`
 ` .........Doktor Nanjo'nun servisini ne yapalım?"`
 `Nanjo da çalışma odasındaydı.`
 ` Kinzo uzun süredir devam eden satranç oyununu bitirmeleri için onu çok sıkıştırdığından, Nanjo önceki akşamdan beri Kinzo'nun rakibiydi.`
 `Nanjo bir doktor olarak Kinzo'nun günlerinin sayılı olduğunu belirtmişti.`
-`{n}...Bu koşullar altında, Kinzo hala hayattayken satranç oyununu bitirmesi için onu sıkıştırırsa, Nanjo bunu reddedemezdi.`
+`{n}...Bu koşullar altında, Kinzo hâlâ hayattayken satranç oyununu bitirmesi için onu sıkıştırırsa, Nanjo bunu reddedemezdi.`
 `Kinzo hamlesini derinlemesine düşünüyor, her zamankinden daha fazla konsantre oluyordu.`
 ` ......Sıra uzun süredir Kinzo'daydı ve beklemekten sıkılan Nanjo, anlamadığı büyü kitaplarını rastgele çıkarıp göz gezdirmeye başlamıştı.`
 `".........Kinzo-san.`
@@ -464,7 +464,7 @@
 ` Ve bir daha bu odaya gelme.`
 ` ......Bu maça Altın Diyar'da devam edelim."`
 `"..............................`
-` ...Pekala, ama baştan oynayacağız.`
+` ...Pekâlâ, ama en baştan oynayacağız.`
 ` O kaleyi kaybetmek ciddi bir darbeydi."`
 `"......O zaman, sonra görüşürüz."`
 `"Evet, görüşürüz.`
@@ -648,7 +648,7 @@
 ` Yani size teşekkür edecek bir şeyim yok.`
 ` ......Başka bir arzunuz var mı?"`
 `".........George'dan yüzüğü almayı planlıyor musun?`
-` Eğer bunu yaparsan, Kanon'a verdiğim sözden, yani senin kurban olarak seçilmeyeceğine dair sözden vazgeçeceğimi unutma."`
+` Eğer bunu yaparsan, Kanon'a verdiğim sözden, yani senin kurban olarak seçilmeyeceğine dair verdiğim sözden vazgeçeceğimi unutma."`
 `"Eğer başka bir arzunuz olursa, sizin için başka birini gönderirim.`
 ` İzninizle."`
 `Açık bir söz kesme.`
@@ -673,7 +673,7 @@
 ` ancak o zamana kadar Kinzo kendini çalışma odasına kapatmaya başlamıştı ve artık akşam yemeğine gelmiyordu—belki buna ironik diyebilirsiniz...`
 `Bu gecenin ana yemeği, dana biftek ortaya konduğunda, Gohda bununla övünmeye başladı, ve herkesin iştahını daha da kabarttı.`
 `"Bu sos Bordelaise."`
-`"Elbette, kullandığım kırmızı şarap bazı Bordeaux'da yapılanlar arasında bile mükemmeldi, ancak buna ek olarak,`
+`"Elbette, kullandığım kırmızı şarap Bordeaux'da yapılanlar arasında bile mükemmeldi, ancak buna ek olarak,`
 ` tadı daha da derinleştirmek için dünyanın dört bir yanından seçilmiş alkollerin bir karışımı olan bu evin orijinal bir karışımını hazırladım."`
 `"Bu sos bu yıla özel.`
 ` Keyfini çıkarmanız, beni çok memnun eder."`
@@ -693,7 +693,7 @@
 ` Wahahahahaha!"`
 `"*giggle*.`
 ` Hadi ama, Nii-san.`
-` Sorduğun soruya tamamen hazırlıklı değil miydi?"`
+` Sorduğun soruya tamamen hazırlıklı, değil miydi?"`
 `"Hiç şüphesiz.`
 ` Gohda-san'ın senin zamanlamanla parlamasına izin verdin."`
 `"Öyle mi?`
@@ -709,7 +709,7 @@
 `"......Hayır, hepsi Gohda'nın fikriydi.`
 ` Ben sadece tarifi dinledim ve onayladım."`
 `Görünüşe göre kardeşler sos gibi önemsiz bir şey hakkında hızlıca gürültülü bir tartışmaya girmişlerdi,`
-` ...ancak akşam yemeği genel olarak barışçıl bir şekilde ilerledi.`
+` ...ancak bunu saymazsak, akşam yemeği barışçıl bir şekilde ilerledi.`
 `......Fakat, hepsinin asıl öğrenmek istediği şey her birinin yüreğini yakıyordu.`
 `......Ve bu ziyaretçiydi, 19. kişi.`
 `{n}............Altın Cadı.`
@@ -792,7 +792,7 @@
 `"Neden bahsettiğiniz hakkında en ufak bir fikrim yok!`
 ` Gohda, şaka değil mi bu şimdi?!"`
 `"Ben, ben, umm......`
-` Az önce Genji-san'dan emir aldım, umm...!"`
+` Genji-san'dan az önce emir aldım, umm...!"`
 `"Genji'yi çağır.`
 ` Hemen şimdi!!"`
 `Natsuhi bağırdığında, Gohda koridora fırladı.`
@@ -801,8 +801,8 @@
 ` Onu kim çağırdı?`
 ` Babam mı?!"`
 `"......Bu konuda hiçbir şey bilmiyorum.`
-` Görünüşe göre sizler perde arkasında ipleri elinde tutanın ben olduğuma inanıyorsunuz, ama bu büyük bir yanlış anlama."`
-`"Sakin ol, Krauss nii-san.`
+` Görünüşe göre sizler perde arkasında ipleri elinde tutanın ben olduğuma inanıyorsunuz, ama bu büyük bir yanlış anlaşılma."`
+`"Krauss nii-san, sakin ol.`
 ` Artık birbirimizin nabzını yoklayacak bir aşamada değiliz.`
 ` Eğer bu gizemli kişiyi senin de tanımadığını söylüyorsan, bu durum gülünç bir hal almaya başlıyor...!"`
 `"Hideyoshi-san, sözlerinizle biraz daha sağduyulu olamaz mısınız?`
@@ -823,13 +823,13 @@
 `"Neler olduğu hakkında en ufak bir fikrim yok...`
 ` Neler oluyor?`
 ` Büyükbabama altını veren cadı bu yılki aile konferansına özel bir konuk olarak mı katılıyor...?!"`
-`"Ama... Bu gerçek mi?`
+`"Ama... Gerçekten mi?`
 ` Rosa Teyze yanlış görmedi, değil mi...?"`
 `"Maria da karşılaştıııı!!`
 ` Uu‐uu‐uu‐uu‐uu‐uu‐uu!!!"`
 `"Rosa Teyze, ......karıştırmadığına...emin misin?"`
 `"............Evet.`
-` .........Maria ve ben onunla karşılaştık, ......ve hatta onunla konuştuk."`
+` .........Ben ve Maria onunla karşılaştık, ......ve hatta onunla konuştuk."`
 `"......Onunla karşılaştım!!`
 ` O hiç şüphesiz bir cadıydı...!`
 ` İnanın bana!!`
@@ -865,7 +865,7 @@
 ` Kanıtlayamazsın!`
 ` Başka bir teknenin "{i:gelmediğini}" kanıtlayamazsın!"`
 `"Doğru.`
-` ......Başka bir botun "geldiğini" kanıtlayabilirsin.`
+` ......Başka bir teknenin "geldiğini" kanıtlayabilirsin.`
 ` Onu gören birinin bunu söylemesi yeterli.`
 ` Ama "gelmediğini" kanıtlayamazsın."`
 `"Herkes gelmediğini—yani onu görmediğini söylese bile—"gizlice gelmiş olabileceğini" inkar edemezsin.`
@@ -873,11 +873,11 @@
 `Bir şeytanın "var olduğunu" kanıtlamak kolaydır.`
 `{n}Tek yapmanız gereken bir şeytanla karşılaşmak.`
 `{n}Ancak şeytanların "var olmadığını" kanıtlamak imkansızdır.`
-`Hiç kimsenin bir şeytanla karşılaşmamış olması, onların insanların gidemeyeceği bir yerde saklanıyor olma olasılığını inkar edebileceğiniz anlamına gelmez.`
-`......Aynı sebeplerden ötürü uzaylıların varlığını da inkar edemezsiniz.`
+`Hiç kimsenin bir şeytanla karşılaşmamış olması, onların insanların gidemeyeceği bir yerde saklanıyor olma olasılığını inkâr edebileceğiniz anlamına gelmez.`
+`......Aynı sebeplerden ötürü uzaylıların varlığını da inkâr edemezsiniz.`
 `İnsanlık tüm uzayı araştırıp uzaylıların var olmadığını mükemmel bir şekilde gösterene kadar, onların var olmadığından emin olamazsınız.`
 `Ve uzayın tamamını uzaylıların varlığı için kontrol etmemiz kesinlikle imkansızdır.`
-`...Bu nedenle, uzaylıların var olduğunu kanıtlamanın çeşitli yolları olsa da, varlıklarını inkar eden bir kanıt göstermek imkansızdır.`
+`...Bu nedenle, uzaylıların var olduğunu kanıtlamanın çeşitli yolları olsa da, varlıklarını inkâr eden bir kanıt göstermek imkansızdır.`
 `"......Bu durumda, bindiğimiz tekneden ayrı bir teknenin adaya gelip gelmediğini tartışarak zamanımızı boşa harcamış oluruz.`
 ` ......O, bizimle birlikte teknede değildi.`
 ` Bu kadarı kesin, ve o zaman adaya başka bir yolla gelmiş olmalı."`
@@ -908,7 +908,7 @@
 `".........Şimdilik tüm bildiklerimiz bunlar!`
 ` Bize söyleyecek bir şeyi varsa, kendini hemen gösterebilir!`
 ` Bilmek istediğim şey, neden bizi selamlamadan kendini odasına kapadığı."`
-`"Bu, bu aile konferansını zaten hiç umursamayan babamın buraya gizlice yeni bir metres çağırdığı anlamına mı geliyor?`
+`"Bu, aile konferansını zaten hiç umursamayan babamın buraya gizlice yeni bir metres çağırdığı anlamına mı geliyor?`
 ` Ve ona ideal cadısının kıyafetlerini mi giydirdi?`
 ` ............Hayır, bu gün bu sonuca varılamayacak kadar önemli bir gün."`
 `"Bunun tek bir nedeni olabilir.`
@@ -971,7 +971,7 @@
 `"Uu!`
 ` Ve hâlâ tatlı yemediiik!!`
 ` Uuu!!"`
-`"Tatlıları Gohda-san'a konukevine götürmesini söyleriz!`
+`"Gohda-san'a tatlıları konukevine götürmesini söyleriz!`
 ` Bu yüzden gidin hadi!!"`
 `"Jessica.`
 ` Şu andan itibaren, yetişkinler birlikte konuşuyor olacaklar.`
@@ -1028,7 +1028,7 @@
 `"Çocuğun olmadığına emin misin?`
 ` Buna çok alışkınsın, ihihi!"`
 `George'un sözleri üzerine Maria'nın ruh hali tamamen normale döndü ve hatta herkesi aceleyle konukevine götürmek için harekete geçti.`
-`Görünüşe göre Gohda da kovulmaktan hoşlanmamıştı ama Natsuhi'ye itaatsizlik edemedi ve Battler ve diğerleriyle birlikte kapıyı kapatarak odadan çıktı...`
+`Görünüşe göre Gohda da kovulmaktan hoşlanmamıştı ama Natsuhi'ye itaatsizlik edemedi ve Battler ile diğerleriyle birlikte kapıyı kapatarak odadan çıktı...`
 `"......Yardımcı olabileceğim bir şey var mı?"`
 `"Evet, var.`
 ` Hem de bir sürü.`
