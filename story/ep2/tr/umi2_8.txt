@@ -1,7 +1,7 @@
 `...Hideyoshi'nin "sunumun lezzeti iki katına çıkardığı" iddiası görünüşe göre doğruydu.`
 `Konukevine kovulan çocuklar ve Nanjo kuzenlerin odasında toplanmış,`
 ` Kumasawa'nın tatlı olarak getirdiği pastayı yiyorlardı.`
-`Hem harikaydı hem de son derece lükstü, kreması boldu ve meyvelerle nefis bir şekilde süslenmişti,`
+`Hem harikaydı hem de son derece lükstü, kreması da boldu ve meyvelerle nefis bir şekilde süslenmişti,`
 ` ama lezzetli olmasına rağmen, nedense tadı pek de iyi değildi...`
 `"Haha, Gohda-san'ın sunumları olmadan tadı o kadar da güzel olmuyor."`
 `"Ve eğer Kumasawa baa-chan'dan bunu tanıtmasını isteseydik, sadece uskumrudan yapıldığını söyleyecekti."`
@@ -278,7 +278,7 @@
 ` ......Bazıları sanki Efendi'den etkilendiğimiz için bu söylentiyi yaymışız gibi konuşuyor, ama..."`
 `"......Burada çalışmaya başladığımdan beri, {f:5:Beatrice}-sama'nın hikayesi çoktan ağızdan ağıza yayılmıştı."`
 `"Bunu daha önce de duymuştum.`
-` ...Ona saygı göstermezsen lanetleneceğin, ve hatta gerçekten de en az bir hizmetkârın bu şekilde bir kaza geçirmiş olması, değil mi?"`
+` ...Ona saygı göstermezsen lanetleniyorsun ve hatta gerçekten de en azından bir hizmetkâr bu şekilde bir kaza geçirmişti, değil mi?"`
 `"Evet...`
 ` ......Fakat bazı insanların diğerlerinden daha az ya da daha çok inandığı da doğru.`
 ` ...Ben, umm, ...bu tür şeylere saygı duyulmasının unutulmaması gerektiğine inanıyorum, bu yüzden onun varlığından asla şüphe duymadım."`
@@ -330,7 +330,7 @@
 ` Bu nedenle önce bağımsız bir adam olup, ancak ondan sonra seni gururla evime götürmek istiyorum."`
 `"Uzak bir gelecekten bahsetmiyorum.`
 ` Sadece üç yıl gibi kısa bir süre beklemeni istiyorum.`
-` ......Ama böyle olsa bile, önümüzdeki üç yıl boyunca duygularım yokmuş gibi davranmak istemiyorum."`
+` ......Ama böyle olsa bile, önümüzdeki üç yıl boyunca duygularım hakkında rol yapmak istemiyorum."`
 `"Bu yüzden, ......sana bir nişan yüzüğü vermeye karar verdim.`
 ` ......Bu bir erkek olarak utanç verici bir sebep olabilir.`
 ` Bir eşi ve bir işi birlikte sürdüremeyeceğim için beklemeni istemem utanç verici olabilir.`
@@ -552,7 +552,7 @@
 `"...Natsuhi.`
 ` Kelimelerini daha dikkatli seç.`
 ` O, bu ailenin en onurlu konuğu."`
-`"............B-biz de kabul ediyoruz.`
+`"............B-Biz de kabul ediyoruz.`
 ` ...Karşı çıkamam."`
 `"Evet.`
 ` ...Kabul ediyorum.`
