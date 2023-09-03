@@ -954,7 +954,7 @@
 ` O zamana kadar, bu konuda konuşmayı bırakalım!!"`
 `"Hey, çocuklar!`
 ` Üzgünüm, ama biz yetişkinler biraz karmaşık bir şey hakkında konuşmaya başlamalıyız!`
-` Konukevine geri dönün!!"`
+` Konukevine dönün!!"`
 `Rosa biraz duygusal bir şekilde çocuklara bağırdı.`
 `Çocuklar neden birdenbire kendilerine bağırıldığını anlayamadılar ama Eva ve diğerleri de bir süre sonra Rosa ile ortak bir fikre vardılar.`
 `Çocukların önünde miras gibi iğrenç bir konu hakkında hararetle konuşuyorlardı.`
@@ -1038,4 +1038,4 @@
 `"Hiç şüphesiz.`
 ` .........Genji-san.`
 ` Bize dürüstçe cevap ver.`
-` ...Şu anda VIP odasında {f:5:Beatrice} adında bir kadın var... Kim bu kadın?"`
+` ...Şu anda VIP odasında olan...{f:5:Beatrice} adındaki bu kadın da kim?"`
