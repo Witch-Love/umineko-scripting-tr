@@ -236,7 +236,7 @@
 `"............Tabii.`
 ` ......Eğer görmeme izin verirse, inanırım."`
 `"Bu, cadı ve senin aranda bir satranç mücadelesi, Battler.`
-` Eğer şah mat olursan Battler, cadıya inanacaksın."`
+` .........Eğer şah mat olursan Battler, cadıya inanacaksın."`
 `"Oh, bu çok şık bir benzetme.`
 ` ......Cadı büyüsünü gösteriyor.`
 ` Şahıma şah çekildi."`
@@ -351,7 +351,7 @@
 `George utanç verici kişiliğini biliyordu.`
 ` Shannon'a aşık olduğunda ve mükemmel bir adam olmaya yemin ettiğinde, o utanç verici yanıyla yollarını ayırmaya da yemin etmişti.`
 `......Yani, bilerek biraz kabaca bir cevap vermeyi seçti.`
-`{n}Shannon'un bunu güven verici bulacağına inanıyordu.`
+`{n}...Shannon'un bunu güven verici bulacağına inanıyordu.`
 `".........Hayır, ...tam olarak öyle olabilir.`
 ` .........Sayo.`
 ` Seni eşim yapacağım.`
@@ -497,7 +497,7 @@
 `"Eğer bu duygular hiçbir şeye varamayacaksa, hiç olmamasının daha iyi olacağını düşündüm!!`
 ` Sadece bir gün ortadan kaybolacağıma karar verdim ve bu kesinlikle onu incitecekti, .........hayır, bu yanlış!!"`
 `"Ben sadece korkuyordum!!`
-` Ben...sadece korkuyordum, ve ebedi olamayacağını bildiğim bir aşktan kaçınmanın en iyisi olduğunu düşünmüştüm!!"`
+` Ben......sadece korkuyordum, ve ebedi olamayacağını bildiğim bir aşktan kaçınmanın en iyisi olduğunu düşünmüştüm!!"`
 `"......Ağustos böcekleri tüm yaşamları boyunca sadece birkaç hafta boyunca aşık olurlar ve sonra da kaybolup giderler.`
 ` .........Sırf birkaç hafta içinde sona ereceği için aşık olmayan ağustos böceği olduğunu sanmıyorum."`
 `"Uuuuuuuuuuughhh!!`
@@ -551,7 +551,7 @@
 `......gerçek......bu, öyle değil mi...?"`
 `"...Natsuhi.`
 ` Kelimelerini daha dikkatli seç.`
-` O, bu ailenin en onurlu konuğu."`
+` .........O, bu ailenin en onurlu konuğu."`
 `"............B-Biz de kabul ediyoruz.`
 ` ...Karşı çıkamam."`
 `"Evet.`
@@ -579,7 +579,7 @@
 ` Beni herkesin kabul etmesi gerek.`
 ` Eğer sadece sen bile varlığımı kabul etmezsen..."`
 `Cadı küstahça gülünce kardeşler paniklemeye başladı.`
-`{n}Cadının keyfini kaçırmaktan korkuyorlardı.`
+`{n}...Cadının keyfini kaçırmaktan korkuyorlardı.`
 `Kyrie hafifçe gözlerini kapattı, ...ve bir süre sessiz kaldıktan sonra ağzını açtı.`
 `"...Özür dilerim.`
 ` ......Pes ediyorum."`

@@ -80,7 +80,7 @@
 `"...Sizden biraz su istemeye gelmişken oldukça ilginç bir şeye kulak misafiri oldum.`
 ` ......Başınızı eğmenize falan gerek yok.`
 ` Lütfen, gerisini dinleyeyim."`
-`"Az önceki......pek de önemli......"`
+`"............Az önceki......pek de önemli......"`
 `"Bir süredir sizi dinliyordum.`
 ` Şimdi saklamaya çalışma."`
 `"............Bu yüzden doğrudan soracağım.`
@@ -89,7 +89,7 @@
 `"........................"`
 `Kanon-kun bakışlarını kaçırdı.`
 `...Bu konu hakkında konuşmak istemediği çok açıktı,`
-` bu da bende sadece daha fazla sorma isteği uyandırdı.`
+` ...bu da bende sadece daha fazla sorma isteği uyandırdı.`
 `Gülümsemek için çaba sarf ederken Kanon'un gömleğinin yakasını kavradım.`
 `"......Eğer dün gece olsaydı, bu beni ilgilendirmezdi.`
 ` Ama bu sabahtan itibaren her şey tersine döndü.`
@@ -221,7 +221,7 @@
 `"......Dün {f:5:Beatrice}'in mektubunu okumadım mı?`
 ` O gerçekti.`
 ` ...Ama yine de, sanırım seni inanman için zorlamam anlamsız."`
-`"Ne de olsa altıncı hissinden eser bile olmadan doğmuşsun gibi görünüyor.`
+`"...Ne de olsa altıncı hissinden eser bile olmadan doğmuşsun gibi görünüyor.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
 `"......Sen neyden bahsediyorsun?`
 ` Cadılar mı, şeytanlar mı?`
@@ -429,8 +429,8 @@
 ` kızlar da büyüme dönemine girdiklerinde bu tür şeylerle ilgilenmeye başlarlar.`
 ` ......Ben pek ilgilenmemiştim ama!"`
 `"......Yani Maria'nın okültizme bu kadar ilgi duyması onun yaşındaki kızlar arasında nadir görülen bir şey değil, öyle mi?"`
-`...Bunu doğru kabul etseniz bile, ...acaba bu ürpertici çift kişilik olayını açıklıyor mu?`
-`............Pekala, sanırım bu açıklamayı az çok kabul edebilirim.`
+`...Bunu doğru kabul etseniz bile, ...acaba bu ürpertici çift kişilik olayını açıklıyor mu...?`
+`............Pekâlâ, sanırım bu açıklamayı az çok kabul edebilirim.`
 `"Daha önce de söylediğim gibi, yetişkin olmak bilgi ve deneyim kazanmak demektir.`
 ` Bu yüzden çocuklar bilgi edinmek ve gerçekten uyanmak için çeşitli şeyleri öğrenmelidir."`
 `"...Bunun için yararlı olan ve çocukların dünyasında her zaman çok etkili olan özel bir fantezi türü vardır.`
@@ -650,7 +650,7 @@
 ` {f:5:Beatrice}'in mektubu.`
 ` ......{f:5:Beatrice}'in faiz alacağını söylüyordu.`
 ` Ve bu faizin ne olduğuna gelince, şöyle diyordu: Ushiromiya ailesinin her şeyi."`
-`Jessica ve ben Maria'nın önceki gece yüksek sesle okuduklarını düşündük.`
+`Jessica ve ben Maria'nın önceki gece yüksek sesle okuduklarını düşündük...`
 `"...Öyle diyordu.`
 ` Kesinlikle öyle diyordu.`
 ` Faizin toplanması gerçekleşecekti, ancak altının bilmecesi çözülebilirse, bu hakkı kaybedecekti."`
@@ -805,7 +805,7 @@
 `Natsuhi Teyze "en yüksek rütbeli üyesi" kısmından biraz rahatsız olmuş görünüyordu,`
 ` ama şimdilik ağzını kapalı tuttu ve Genji'nin cevabını bekledi.`
 `......Kendimi biraz rahatsız hissetmekten alıkoyamadım.`
-`{n}Neden sürekli gizli kapılardan bahsedip duruyordu?`
+`{n}Neden sürekli gizli kapılardan bahsedip duruyordu...??`
 `"Siz de, Kanon-kun, Kumasawa-san—eğer biliyorsanız, bana söylemeyecek misiniz?`
 ` Eğer varsa, söyleseniz iyi olur."`
 `"...Eğer yoksa, o zaman birileri bir saniye içinde köşeye sıkışacak.`
@@ -925,7 +925,7 @@
 `"Unutmayın, dün geceye kadar onu gördüğünü söyleyen birden fazla kişi vardı.`
 ` Ama bu sabahtan beri Babamı gördüğünü iddia eden tek kişi Natsuhi nee-san."`
 `"......Ve bir de fişten öğrendiğimiz şu garip gerçek var.`
-` Peki, bu noktaları nasıl birleştirebiliriz?"`
+` ...Peki, bu noktaları nasıl birleştirebiliriz...?"`
 `Eva Teyze herkesi hayal güçlerini zorlamaya çağırdı...`
 `......Elbette, o fiş önemli bir noktaya dönüşebilir.`
 `{n}...Ama başka hangi noktaya doğru bir çizgi çekebileceğimi bilmiyordum...!`
@@ -1008,7 +1008,7 @@
 ` Neden bu kadar telaşlanıyorsun...?"`
 `"...Bu-...Bu doğru.`
 ` Natsuhi-san yalan söylemiyor.`
-` Bunun sona erdirmeniz gerekmiyor mu?"`
+` Bunun sona erdirmeniz gerekmiyor mu...?"`
 `"O zaman açıklama istiyorum.`
 ` Babam odadan kaybolmayı nasıl başardı?`
 ` ...Pencereler içeriden sıkıca kilitlenmişti.`
@@ -1037,7 +1037,7 @@
 `"Pencere!`
 ` Pencereden dışarı çıktı.`
 ` ......Natsuhi nee-san, Babamı çalışma odasının üçüncü kat penceresinden avluya ittin!!!"`
-`"S—SENİİİİİİİİİİİİİİİİ!!!"`
+`"....S—SENİİİİİİİİİİİİİİİİ!!!"`
 `"Madam, lütfen sakin kalın...!!!"`
 `"Eva-sama... Lütfen buna son verin.....!!"`
 `"Babam avluya düşerek öldü,`
@@ -1057,7 +1057,7 @@
 `"Ihihihi.`
 ` ...Bu iyi değil. {i:Hiç iyi değil},`
 ` Eva Teyze."`
-`"...Bu-...Bu "iyi değil" ile ne demek istiyorsun Battler?"`
+`"...Bu-...Bu "iyi değil" ile ne demek istiyorsun Battler...?"`
 `Jessica başını kaldırıp bana baktı, her kelimemi dikkatle dinliyordu.`
 `{n}Eva Teyze'nin ifadesi her zamanki gibi sakindi.`
 `"......Hiç iyi değil mi diyorsun? Neymiş o?`
@@ -1150,7 +1150,7 @@
 `Doktor Nanjo kanepenin üzerinde duran kendi çantasından bir astım spreyi çıkardı ve Kanon-kun'a uzattı.`
 `......Bir düşündüm de, altı yıl önce de Jessica bazen şiddetli öksürük krizlerine girip bunu kullanmak zorunda kalmıyor muydu...?`
 `Ama altı yıl önce Jessica'nın bu kadar acı çekiyormuş gibi göründüğünü hiç görmemiştim.`
-`"......Aniki, Jessica'nın astımı hep bu kadar kötü müydü?"`
+`"......Aniki, Jessica'nın astımı hep bu kadar kötü müydü...?"`
 `"Son birkaç yıldır çok daha kötüleşti...`
 ` Normal olduğunda sorun olmuyor...`
 ` Ama aniden bir atak geldiğinde, öksürmeden duramıyor."`
@@ -1201,7 +1201,7 @@
 `"...............Eva.`
 ` Sence de kafamızı sakinleştirmemiz gerekmiyor mu?`
 ` ...Bence fiş babamın nerede olduğunu bulmak için önemli bir ipucu olacak.`
-` Polise geldiklerinde bundan bahsetmeliyiz."`
+` Polise geldiklerinde bundan bahsetmeliyiz..."`
 `"...Evet, haklısın.`
 ` ...Evet.`
 ` Fişle ilgili kısmı çözdüğümde biraz zafer kazanmış gibi hissettim.`
@@ -1249,7 +1249,7 @@
 `"Bize bir şey olmaz.`
 ` İşin sonunda, katilin bana eşlik etmiş olmasını istemiyorum.`
 ` Aslında, biz odamıza ulaşana kadar kimse bu odadan çıkmazsa daha rahat hissederim.`
-` Gidelim, George."`
+` .........Gidelim, George."`
 `"...............Ben burada herkesle kalacağım."`
 `"George...!`
 ` Katil bu odada.`
@@ -1260,7 +1260,7 @@
 ` ......Hayatım, ona bir şey söyle...!"`
 `".........George zaten bir yetişkin.`
 ` ...Eğer kuralları ona bu odadan çıkmamasını söylüyorsa, o zaman bu ona kalmış.`
-` Bırak ne istiyorsa yapsın."`
+` Bırak ne istiyorsa yapsın..."`
 `"...Baba..."`
 `Eva Teyze ve Hideyoshi Amca gittiler.`
 `{n}Arkalarından seslenen tek ses yağmurun sesiydi.`
@@ -1275,7 +1275,7 @@
 `"Mektup, cinayetler, her şey—hepsi {f:5:Beatrice}'in işiydi.`
 ` ...Hayır, aslında keşke ortaya çıkıp bunun doğru olduğunu söyleseydi.`
 ` .........Bunun 19. kişinin işi olmasını istiyorum.`
-` Aksi takdirde, 18'imiz birbirimizden şüphe etmeye devam edeceğiz.`
+` Aksi takdirde, 18'imiz birbirimizden şüphe etmeye devam edeceğiz...`
 ` ...Bence 19. kişiye inanmak bundan daha iyi..."`
 `".............................."`
 `"...Büyükbabamı kapıları ya da pencereleri açmadan dışarı çıkarmak {f:5:Beatrice} için çocuk oyuncağı olmalı, öyle değil mi...?"`

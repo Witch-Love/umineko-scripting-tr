@@ -11,7 +11,7 @@
 ` Sen rezil bir adamsın."`
 `"......Urgh, kapa çeneni.`
 ` O şey cidden çok fazla sallanıyordu...`
-` Böyle küçük bir uçağa ilk kez bindiğim için biraz stresliydim."`
+` Böyle küçük bir uçağa ilk kez bindiğim için biraz stresliydim..."`
 `"Sen buna "biraz stresli" mi diyorsun?`
 ` Heheheh, seninle denizaşırı bir tatile çıkmak eğlenceli olur gibi geliyor, Battler-kun.`
 ` Teyzenle Mısır'a gitmek ister misin?`
@@ -30,7 +30,7 @@
 ` Uu!"`
 `Gyah, kahretsin!`
 ` Uçaklardan korkmak bu kadar komik bir şey mi?`
-`{n}Belli ki herkes benim koca bir hödük olduğumu düşünüyor.`
+`{n}Belli ki herkes benim koca bir hödük olduğumu düşünüyor...`
 ` Tch!`
 `Ayrıldık ve havaalanından limana kadar ayrı taksilere bindik.`
 `{n}Oradan da bir tekneye binip adaya geçecektik.`
@@ -115,7 +115,7 @@
 ` George nii-san, bunun kafasında bir sorun mu var?"`
 `"Yakında anlayacaksın.`
 ` Çok yakında."`
-`O zaman, Aniki'nin o kocaman gülümsemesiyle ne demek istediğini anlamamıştım.`
+`O zaman, Aniki'nin o kocaman gülümsemesiyle ne demek istediğini anlamamıştım...`
 `"Burada ne varmış......oooh!`
 ` Battler-san, ne kadar da büyümüşsün...!"`
 `Bu seferki kim?`
@@ -185,8 +185,8 @@
 ` Buna tedavisi olmayan bir hastalık deniyor, hoh-hoh-ho!"`
 `"Gittikçe güzelleşmen beni şaşırtıyor, Jessica-chan.`
 ` Sonunda Natsuhi nee-san gibi olduğun için mutlu ol."`
-`"Gerçekten mi?`
-` Şahsen, ona benzediğimi hiç sanmıyorum.`
+`"G-Gerçekten mi...?`
+` Şahsen, ona benzediğimi hiç sanmıyorum...`
 ` Yani, ailem gibi olmak bile istemiyorum.`
 ` Çünkü onlara hiç saygım yok."`
 `"Böyle şeyler söylememelisin.`
@@ -196,7 +196,7 @@
 ` Burnunun benimkine benzemesi zaten beni kızdırıyor."`
 `"Sen neden bahsediyorsun?`
 ` Birbirinize—ve babana bu kadar benzemen çok saçma."`
-`"Hadi ama, ciddi olamazsın.`
+`"Hadi ama, ciddi olamazsın...`
 ` Babama nasıl benziyorum?"`
 `"Kibir ve kendini beğenmişlikte onun kopyasısın.`
 ` Babamın kanı özellikle sende ve Nii-san'da çok güçlü.`
@@ -304,7 +304,7 @@
 `...Ama az önceki tamamen çılgıncaydı...`
 `Bütün tekne sallanıyordu!`
 `{n}Okyanusun yüzeyinde kayıyor ve sıçrıyordu!`
-`{n}Sanki uçan bir balığın sırtına binmiş gibiydim.`
+`{n}Sanki uçan bir balığın sırtına binmiş gibiydim...`
 `Ben yorgun ve cesaretsiz bir şekilde korkuluğa yaslanırken Jessica hâlâ bana kahkahalarla gülüyordu.`
 `"Az önceki güç yarışmasını kaybettim ama asıl önemli olan yerde üstünlük sağladığımı bilmek beni sevindirdi.`
 ` Ama cidden, pfffahahahah!"`
@@ -489,7 +489,7 @@
 `"Ha?`
 ` Peki nereden yaklaşıyor?"`
 `Havadaki gerginliği kırmaya çalışarak neşeyle cevap verdim.`
-`...Maria cevap olarak bir parmağını ve sonra kolunu havaya kaldırdı ve gökyüzünü işaret etti.`
+`...Maria cevap olarak bir parmağını ve sonra kolunu havaya kaldırdı, ...ve gökyüzünü işaret etti.`
 `Yukarı baktığımda gökyüzünün hala bulutlu olduğunu gördüm, ama sabahkinden çok daha kapalı bir hal almıştı.`
 `Bu doğru—bir tayfunun yaklaşmakta olduğunu söylüyorlardı.`
 `...Adada bir gece geçirmeyi planlamıştık ama bu fırtına hemen geçmezse Pazartesi günü okula yetişemeyeceğim.`
