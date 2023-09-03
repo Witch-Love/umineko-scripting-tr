@@ -28,7 +28,7 @@
 `İnsani arzularının farkına vardı ve onları engelledi.`
 `{n}Bir insanın yapmak istediği şeylere direniyordu.`
 `......Bu egzantrik ve isyankâr his ona kesinlikle eşsiz bir zekâ kazandırmıştı,`
-` ve bu da Ushiromiya ailesini bir nesil içinde yeniden canlandırırken başarıya ulaşmasını sağlamış olmalıydı...`
+` ve bu da Ushiromiya ailesini tek kuşak içinde yeniden canlandırırken başarıya ulaşmasını sağlamış olmalıydı...`
 `"Pekâlâ, {f:5:Beatrice}.`
 ` Aldığın altı taş hangileriydi?`
 ` ......Ve bir sonraki hamlen ne olacak?`
@@ -46,7 +46,7 @@
 `Genji, işleri Shannon ve Kanon ile paylaştı ve çeşitli görevleri yerine getirdiler.`
 `Shannon yemek salonuna yöneldi ve kapıyı çaldı.`
 `...Geçen yıl aile toplantısı gecenin ilerleyen saatlerine kadar devam etmişti.`
-` Bu yılki konferansın da ertesi sabaha kadar devam etmesi hiç de garip olmazdı.`
+` Bu yılki konferansın da ertesi sabaha kadar sürmesi hiç de garip olmazdı.`
 `Bu yüzden içeride hâlâ konuşmakta oldukları ihtimalini göz önünde bulundurarak kapıyı çalmıştı.`
 `Ama cevap gelmeyince kapıyı açtı ve günaydın dedi.`
 `"...Günaydın.`
@@ -79,7 +79,7 @@
 ` Şimdi geliyorum."`
 `Bu Genji'nin sesiydi.`
 `{n}Saate baktığında saat yedi bile değildi.`
-`......Misafirleri uyandırmak için çok erken olduğu ortadaydı.`
+`......Misafirleri uyandırmak için fazla erken olduğu ortadaydı.`
 `{n}...Buna neden olacak kadar kötü bir şey mi olmuştu?`
 `Bu uğursuz önsezi sayesinde uykulu halinin giderek kaybolduğunu hissetti.`
 `Genji, Rosa'nın çocukluk günlerinden beri tanıdığı bir hizmetkâr olduğu için, pijamalarının içinde biraz güç durumda olmasına rağmen kapıyı hafifçe aralayıp cevap verdi.`
@@ -91,7 +91,7 @@
 `Genji Rosa'nın kulağına doğru eğildi ve kısık bir sesle ona bir şeyler söyledi.`
 `Rosa, söylenenleri ilk defa duyduğunda kendisine söylenenleri anlayamamış gibi görünüyordu,`
 ` ve bu sözler birkaç kez tekrarladıktan sonra nihayet garip bir şeyler olduğunu fark etti.`
-`Rosa bir an için kapısını kapattı ve kıyafetlerini değiştirdikten sonra hızla Genji'ye katıldı ve birlikte malikaneye doğru yola koyuldular...`
+`Rosa bir an için kapısını kapattı ve kıyafetlerini değiştirdikten sonra hızla Genji'ye katıldıktan sonra birlikte malikaneye doğru yola koyuldular...`
 `Kilisenin biraz açıklanması gerekiyor.`
 ` Kilise malikanede değil, malikanenin arkasında, kısa bir yürüyüşün ardından ulaşılabilen bir koruluktaydı.`
 `Rokkenjima'daki malikane ile aynı zamanda inşa edilmişti,`
@@ -167,7 +167,7 @@
 ` ...ama onu bulamadık..."`
 `"Madam da odasında değildi.`
 ` ...Çarşafların durumuna bakılırsa, dün gece yatağına hiç uğramamış olabilir."`
-`Rosa sırtında ürkütücü bir şeyin yavaşça yükseldiğini hissetti.`
+`Rosa sırtında ürkütücü bir şeyin yavaşça yükseldiğini hissetti...`
 `".........Ki-...Kilisenin içini kontrol ettiniz mi?"`
 `"Hayır, henüz değil.`
 ` İçeriyi kontrol etmeye çalıştık ama..."`
@@ -187,7 +187,7 @@
 ` ......gül bahçesinde o cadıyla karşılaştığımda,`
 ` ...Maria'ya bir zarf vermemiş miydi?`
 ` Evet, eminim, verdi.`
-`Maria zarfı açmaya çalıştığında, o cadı ona bunu henüz yapmamasını ve ardından kesinlikle şöyle demişti:`
+`Maria zarfı açmaya çalıştığında, o cadı ona bunu henüz yapmamasını tembihlemiş, ve ardından da kesinlikle şöyle demişti:`
 ` "{i:Yakında onu açacağın zaman gelecek}"...`
 `Rosa ikna olmuştu.`
 `{n}......Buna hiç şüphe yoktu.`
@@ -208,13 +208,13 @@
 `Ancak, Maria'yı zorla durdurmaya çalıştıktan sonra, büyük bir kavgaya tutuşmuşlardı ve o da bu işi oluruna bırakmaya karar vermişti.`
 `"........................... ...İşte burada.`
 ` .........İşte bu........."`
-`Üzerinde altın kartal arması olan Batı tarzı bir zarf.`
+`Üzerinde altın kartal arması olan Batı tarzı bir zarf...`
 `Zarfı aldığında içinde ağır, silindirik bir cisim olduğunu fark etti.`
 `...Hissinden ve ağırlığından anlayabiliyordu.`
 `{n}......Şüphe yoktu.`
 `{n}Bu......bir anahtardı.`
 `Arkasına bakıp Maria'nın hâlâ mışıl mışıl uyuduğunu kontrol ettikten sonra,`
-` Rosa zarfı yırtarak açtı ve içindekileri avucuna döktü.`
+` Rosa zarfı yırtarak açtı ve içindekileri avucuna boşalttı.`
 `......Eski ve karmaşık bir tasarımı olan bir anahtardı...`
 `{n}Rosa anahtarı kavradı ve dışarı fırladı.`
 `...Battler bu sesleri fark etmiş gibi görünüyordu ama homurdanıp uykusunda döndükten sonra tekrar horlamaya başladı...`
@@ -229,7 +229,7 @@
 `"...............Orada......kimse var mı............?!"`
 `Sesi devasa salonun her yerinde yankılandı.`
 `{n}...Tabii ki cevap yoktu.`
-`Kilisenin yüksek bir tavanı vardı ve hava soğuktu.`
+`Kilisenin yüksek bir tavanı vardı ve içerisi soğuktu.`
 `...Ve bu yağmurlu, tedirgin edici günde bile, bir nedenden dolayı, kutsal hissettiriyordu...`
 `Hizmetkârlar çekingen bir şekilde Rosa'nın peşinden gittiler.`
 `"......Rosa-sama, şuna bakın."`
@@ -242,8 +242,8 @@
 ` Onlar muhtemelen......Cadılar Bayramı süslemeleriydi.`
 `Ve masada oturan insanlar vardı.`
 `{n}Her iki tarafta karşılıklı olarak üçer kişi sandalyelerde oturuyordu.`
-`Bir bakışta tanınabiliyorlardı.`
-`{n}Krauss ve karısı, Eva ve kocası ve Rudolf ve karısı.`
+`Bir bakışta tanıyabiliyordunuz.`
+`{n}Krauss ve karısı, Eva ve kocası, ve Rudolf ve karısı.`
 `Ancak size bunların kesinlikle onlar olup olmadığı sorulsaydı, kontrol etmek için daha da yaklaşmanız gerekirdi.`
 `......Çünkü neredeyse oyuncak bebeklere benziyorlardı.`
 `Rosa ve diğerleri kapıyı açmış, çok sayıda ayak sesiyle bir anda içeri girmiş ve seslenerek orada kimsenin olup olmadığını sormuşlardı.`
@@ -253,7 +253,7 @@
 `Bu nedenle ilk başta, birileri onlara çok benzeyen bazı bebekleri oraya yerleştirmiş gibi hissettirdi...`
 `......Artık Rosa'dan başkaları da vardı.`
 `{n}......Shannon, Kanon ve hatta Gohda.`
-`...Hepsi kalplerini sıkıca kavrayan, yükselen ürkütücü duygulara karşı çılgınca mücadele ediyorlardı.`
+`...Hepsi kalplerini sıkıca kavrayan, giderek artan ürpertici duyguya karşı çılgınca mücadele ediyorlardı.`
 `"......Nii-san...?`
 ` .........Nee-san.........?"`
 `Sunağa çıkarken yeniden seslendi ama yine de hiçbir tepki alamadı.`
@@ -283,14 +283,14 @@
 `Öldüklerini ve sadece uyumadıklarını nasıl anlayabilirdiniz?`
 `Çünkü onlar...`
 `......göğüs bölgelerinden,`
-` ......midelerine kadar,`
+` ......karınlarına kadar,`
 ` .........d-`
 `...dikey olarak...`
 `......kesilmişlerdi.........!`
 `"K‐......Krauss‐sama............!!`
 ` HiiiIIIiiiiiiiii......!"`
 `".....................Ne kadar......acımasızca..."`
-`Altısı da bir Cadılar Bayramı partisinde, ...öldürülmüş ve mideleri yarılmış halde oturuyorlardı.`
+`Altısı da bir Cadılar Bayramı partisinde, ...öldürülmüş ve karınları yarılmış halde oturuyorlardı.`
 `Yerleri kaplayan o reçel, midelerinden taşan ve...yemeyi bitiremedikleri bir şey miydi...?`
 `......Hayır!!`
 `Midelerindeki her şey etrafa saçılmıştı!!`
@@ -299,10 +299,10 @@
 `{n}Dökülmüş gibiydiler!!`
 ` Şe-...Şekerlemeler!`
 `Şekerler ve kurabiyeler, jelibonlar ve çikolatalar...`
-`......etrafa saçılmış, kanla kaplanmış ve zemine dağılmıştı!!`
+`......dışarı taşmış, kana bulanmış ve etrafa dağılmıştı!!`
 `Buna sebep olacak ne olmuş olabilir?!`
 `Sanki midelerinin içi şekerle doldurulmuş,`
-` ......ve mideleri kesildiğinde hepsi dışarı akmış gibiydi!!`
+` ......ve karınları kesildiğinde hepsi dışarı akmış gibiydi!!`
 `Rosa, genç bir kızken kendi doğum gününde servis edilen iğrenç bir yemeği, bir hindiyi hatırladı.`
 `Bıçağı sapladığında, ......içinden en sevdiği yiyeceklerden biri olan—ama ona kimse bundan bahsetmemişti—`
 `parlak—kırmızı—ketçaplı—pilavlı omlet...kana bulanmış kurtçuklar gibi,`
@@ -318,7 +318,7 @@
 `...Kendini tutamayarak yere kustu.`
 `Boş midesi mide asidinden başka bir şey kusamıyordu.`
 `Önündeki bu sahne artık hiçbir şekilde eğlenceli bir Cadılar Bayramı partisi değildi...!`
-`Üç çift, mideleri dikey olarak açılmış bir şekilde,`
+`Üç çift, karınları dikey olarak yarılmış bir şekilde,`
 ` oraya yerleştirilmişti.`
 `İçlerine de bol miktarda şeker tıkıştırılmıştı, posalı,`
 ` ve yumuşacık.`
@@ -411,7 +411,7 @@
 ` ...Ama madem bu kadar önemliydi, neden cadı onu Maria'ya verdi?`
 ` ...Hiçbir fikrim yok."`
 `Sabahın ferahlatıcı atmosferi, ara sıra duyulan gök gürültüsü sesleriyle tamamen yok olmuştu.`
-`Bu çok doğaldı.`
+`...Bu çok doğaldı.`
 ` Uyandıklarından beri kendilerinden başka kimseyle karşılaşmamışlardı.`
 `Sanki malikane, arkasında sadece onları bırakarak boş bir kabuğa dönüşmüştü.`
 `"......Heeeeey!`
@@ -422,28 +422,28 @@
 `"Seni duyabiliyoruum.`
 ` ...Bir şey mi oldu?"`
 `"Bu Doktor Nanjo.`
-` ...Sevindim.`
-` Görünüşe göre bizden başka herkes bu adadan kaybolmamış."`
+` ...Güzel.`
+` Görünüşe göre bizim dışımızdaki herkes bu adadan kaybolmamış."`
 `"Doktor Nanjo, günaydın.`
 ` ...Umm, üzgünüm ama ailemizin nereye gittiğini biliyor musunuz...?"`
 `"Bakalım.`
 ` ...Uyandıktan hemen sonra buraya geldim.`
 ` Korkarım, hiçbir fikrim yok."`
-`Bu çok doğal.`
+`Bu çok doğaldı.`
 ` Nanjo da diğerleri gibi misafirdi.`
 ` Kahvaltıya kadar salonda vakit geçirmek için gelmişti.`
 `"Uu-uu-uu!!`
 ` Doktor Nanjo, annem aldı, annem Maria'nın mektubunu aldı!!`
 ` Geri ver, geri ver, uu-uu-uu!!!"`
 `Maria yüzünü Nanjo'nun dolgun karnına gömmüş, hıçkıra hıçkıra ağlıyordu.`
-`...Nanjo sabahın bu erken saatinde olup bitenler karşısında hayrete düşmekten başka bir şey yapamadı.`
+`...Nanjo sabahın bu erken saatinde olup bitenler karşısında hayrete kapılmaktan başka bir şey yapamadı.`
 `".........nn.`
 ` Biri bu tarafa doğru koşuyor.`
 ` Jessica!`
 ` Biri geliyor!"`
-`Koridorun ilerisinden insanların telaş içinde koşuşturduklarını hissedebiliyorlardı.`
+`Koridorun ilerisinde insanların telaş içinde koşuşturduklarını hissedebiliyorlardı.`
 `Karşılarına çıkanların Gohda ve Kanon olduğunu gördüler.`
-`......Malikanenin içinde koşturmak bir hizmetkar için uygunsuz olmalıydı.`
+`......Malikanenin içinde koşturmak bir hizmetkâr için uygunsuz olmalıydı.`
 `{n}Ama yine de Battler ve diğerleri şu anda bunu sorgulamayı akıllarından bile geçirmiyorlardı.`
 `Maria'nın ağlaması o kadar kontrol edilemez hale gelmişti ki, Rosa'nın nerede olduğunu birilerine, herhangi birine sormak istiyorlardı.`
 `Ancak Jessica elini salladığında iki hizmetkâr da onu görmezden geldi.`
@@ -470,7 +470,7 @@
 `{n}Battler ve diğerleri, Kanon ve Nanjo'nun peşinden gittiler...`
 `Aaah......ve sonra farkına vardık.`
 ` Kanon-kun Doktor Nanjo'yu çağırmıştı ama bizi çağırmamıştı.`
-`...Yani asla takip etmemeliydik.`
+`...Yani hiç takip etmemeliydik.`
 `Acaba Alice elinde saat tutan tavşanın peşine düştüğünde aşırı merakından dolayı hiç pişmanlık hissetti mi......`
 `"Hayır, gelmemelisiniz!!`
 ` Bakmamalısınız!!`
@@ -479,22 +479,22 @@
 `"Hii...`
 `......n...`
 `haaaaaaaaaaayıııııııııııııırrrrrrrrrrrr!!!"`
-`"Anne, baba!`
+`"Anne, Baba!`
 ` Ne, ......ne oldu!!`
 ` Uuuuuuuuuuuughhh!!"`
 `"......Bu da ne böyle...`
 ` ......Ne kadar dejenere olabileceğinin de bir sınırı var...`
 ` Birinin canını almak yeterli değil mi...`
 ` ......Bu da ne böyle!!"`
-`"Onları öldürdükten sonra sandalyelere oturtup bir de karınlarını deşmişsiniz!!`
-` Ve içine de tonlarca şeker mi doldurdunuz?!!`
+`"Onları öldürdükten sonra bir de sandalyelere oturtup, karınlarını deşmişsiniz!!`
+` Ve içlerine de tonlarca şeker mi doldurdunuz?!!`
 ` Neden, ......neden böyle iğrenç bir şey yaptınız?`
 ` Sikeyim, sikeyim!`
 ` Harika iş, göt herif, harika görünüyor, harika görünüyor!!`
 ` Uwoooooooooooooohhh!!"`
 `".........Hepiniz dışarı çıksanız daha iyi olacak...!`
 ` Onları bu şekilde görmenizi istemelerine imkan yok..."`
-`Nanjo çocuklara dışarı çıkmalarını söyledi ama kimse ona kulak vermedi.`
+`Nanjo çocuklara dışarı çıkmalarını söyledi ama kimse ona kulak asmadı.`
 `"Rosa-san, lütfen onlara söyle.`
 ` Eğer böyle bir şeye bakmaya devam ederlerse...bu onlara zarardan başka bir şey getirmez...!"`
 `".................."`
@@ -505,7 +505,7 @@
 `{n}Görmüşlerdi...!`
 `Şüphesiz, tam şu anda, Rosa'nın gençliğinde gördüğü iğrenç yiyeceklerden çok daha grotesk bir manzara...`
 `gözlerinin önüne serilmişti...`
-`Rosa, korkunç manzaraya şaşkın şaşkın bakarken duygularını unutmuş gibi görünen Maria'ya sarılırken,`
+`Rosa, korkunç manzaraya şaşkın bir şekilde bakakalıp duygularını unutmuş gibi görünen Maria'ya sarılırken,`
 ` hem onlar hem de onların aileleri için bol bol gözyaşı döktü.`
 `Ağlayan ve yakınan dört ses, ...Tanrı'nın sevgisinin bilinmesi gereken bu yerde yankılanmaya devam etti......`
 `"Seni şerefsiz!!`
@@ -519,7 +519,7 @@
 `"Neden bu son derece boktan öldürme yöntemin için "Oh, çok teşekkür ederim {f:5:Beatrice}-sama~" demek zorundayım?! Seni ölene kadar döveceğim!!!"`
 `"Son oyunda,`
 ` sanırım ailen öldüğünde yüzlerini göremediğin için üzgündün?`
-` Bu yüzden onları bıraktım.`
+` Bu yüzden oldukları gibi bıraktım.`
 ` Onlara dokunmadım!!"`
 `"{i:İyice bak ve gör, baban ve diğerleri hiç şüphesiz öldürüldü}!!"`
 `"G......erçekten, ne güzel bir sürpriz, çok mutluyum!!`
@@ -540,8 +540,8 @@
 ` Gizem romanlarında bu tür muayeneleri yapan doktorun suç ortağı olması adetten değil midir?"`
 `"Muayene işini Nanjo'ya bırakma; kendin yap.`
 ` Altı cesedin iddia edilen kişiler olduğundan, ölü taklidi yapmadıklarından, gerçekten ama gerçekten ölü olduklarından kesinlikle emin ol!!"`
-`"Anne ve babanın gerçekten mideleri deşilerek ve bağırsakları dışarı çıkarılarak öldürüldüklerinden emin olmak için,`
-` elini midelerinin içine sokup içlerini yoklamanı öneririm!!!`
+`"Anne ve babanın gerçekten karınları deşilerek ve bağırsakları dışarı çıkarılarak öldürüldüklerinden emin olmak için,`
+` elini karınlarının içine sokup içlerini yoklamanı öneririm!!!`
 ` Kuhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, kiiihaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"AĞLAMAYACAĞIM!!!`
 ` Kahretsin, kahretsin, ...ağlamayacağım...!!"`
@@ -562,27 +562,27 @@
 `değişmeyecek."`
 `"Kahretsin... Kahretsin kahretsin kahretsin, ......kahretsin kahretsin kahretsin!!`
 ` O zaman ne yapmam gerekiyor?!`
-` Benim annem ve babam için ne yapmam gerekiyor?!!"`
+` Benim annem ve babam için...ne yapmam gerekiyor?!!"`
 `"......Rosa-sama...`
 ` Geri döndüm..."`
 `"Gohda-san, polis ne dedi?`
-` Ne yapmamı söylediler?`
+` Ne yapılmasını söylediler?`
 ` Buraya ne zaman gelebileceklerini söylediler mi?"`
 `"...Buna gelince, ......telefonlar arızalı gibi görünüyor...`
 ` Acil durum telsizini de denedim, ama...şey, sanırım havadan dolayı o da çalışmıyor..."`
 `"Ne dedin sen...?!`
 ` Yani, polise ulaşamadığımızı mı söylüyorsun?!"`
-`"Bu o!`
+`"O yaptı!`
 ` Telefon hattına bir şey yaptı ve polise ulaşmamızı engelledi!!"`
 `Telefonların çalışmadığını duyunca, Jessica bunun hemen o gizemli konuğun işi olduğuna karar verdi.`
-`O kadar ağladıktan sonra gözleri kıpkırmızıydı ve öfkeden daha da kızarmaya başladı.`
+`O kadar ağladıktan sonra gözleri kıpkırmızı olmuştu, ve öfkeden daha da kızarıyordu.`
 `"...Evet, artık tartışmaya gerek bile yok!`
 ` Her şeyi anladım, gerçeği biliyorum!`
 ` Annemi ve babamı kim öldürdü?!"`
 `"Çok açık, o!!`
 ` Dün gelen cadı ya da her neyse o olmalı!!!`
 ` Onu yakasından tutacağım!!`
-` Kahretsin kahretsin kahretsin!!"`
+` Kahretsin kahretsin kahretsiiiiiiiiiiiin!!"`
 `"Jessica-chan...!`
 ` Bekle!`
 ` Gohda-san, Kanon-kun, gidin!"`
@@ -597,7 +597,7 @@
 `"......Kimsenin davet etmediği konuk {f:5:Beatrice} suçlu olabilir mi...?"`
 `"Jessica'nın nasıl hissettiğini anlıyorum.`
 ` ...Ben de kendime bunu düşündürtmek istiyorum.`
-` Kim olduğu önemli değil, birini suçlu yapmak ve suratına bir tane patlatmak istiyorum!!"`
+` Kim olduğu önemli değil, birini suçlu bilmek ve suratına bir tane patlatmak istiyorum!!"`
 `"......Ama bundan önce, bazı şeyleri net bir şekilde anlamalıyız.`
 ` ...{f:5:Beatrice} kimin nesi?`
 ` Yüzünü bile görmedim!!"`
@@ -626,9 +626,9 @@
 ` Bu süre zarfında, bu adanın bağlantısı kesilmiş, sağduyunun geçerliliğini yitirdiği farklı bir dünyaya mı hapsolmuştu...?`
 `{f:5:Beatrice} denen bu kişi de kim?`
 `{n}Dün akşam yemeğinde bizimkilerin çıldırdığı gibi, miras sorununa karışmaya çalışan bilinmeyen biri mi?`
-`......Yoksa suçlu Maria'nın dediği gibi Altın Efsanesi'ndeki cadı mı?!`
+`......Yoksa suçlu, Maria'nın dediği gibi Altın Efsanesi'ndeki cadı mı?!`
 `Eğer Jessica çabuk öfkelenmesine izin vermemiş olsaydı bile, bu durumda o konuk muhtemelen en şüpheli kişiydi.`
-`Ama sonuçlara öylece atlamamalıyız.`
+`Ama öylece sonuca atlamamalıyız.`
 `{n}Evet, bu hiç iyi değil, hiç iyi değil, hiç de iyi değil...!!!`
 `İki elimle yüzüme tekrar vurarak beynimi aşırı yüklenmeden önce soğumasını sağladım.`
 ` Her ne kadar boşa bir çaba olsa da...`
@@ -670,7 +670,7 @@
 ` cinayetleri durdurmanın şartı büyükbabaya verdiği saklı altının bulunması, ...diyor.`
 ` Ayrıca bunun sırrının o portredeki kitabede gizli olduğunu söylüyor."`
 `"Yani......bu cadıdan gelen bir meydan okuma mektubu mu?`
-` Eğer yapabilirseniz, saklı altının yerini tarif eden şifreli metni kırın!`
+` Eğer yapabilirseniz, saklı altının yerini tarif eden şifreli metni kırın?!`
 ` Ve eğer başaramazsak, faiz tahsilatının planlandığı gibi devam edeceğini mi söylüyor?"`
 `"Seni ölene kadar döverim, sorun değil!!!"`
 `"...Ba-Battler-kun!`
