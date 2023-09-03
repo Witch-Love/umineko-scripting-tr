@@ -5,7 +5,7 @@
 `".....................Hmm...`
 ` ......Sabah...oldu mu...?"`
 `Perdedeki aralıktan içeriye vuran ışık zayıftı ama hiç değilse ona güneşin doğduğunu söylüyordu.`
-`Kinzo, hâlâ uyandığı andaki pozisyonunda, ...koltuğunda oturmuş tavana bakarken, ...kanının vücudunda yavaşça dolaştığını hissediyordu....`
+`Kinzo, hâlâ uyandığı andaki pozisyonunda, ...koltuğunda oturmuş tavana bakarken, ...kanının vücudunda yavaşça dolaştığını hissediyordu...`
 `...Saate bakılırsa daha sabahın erken saatleriydi, 6:00.`
 ` ......Ne kadar yorgun olursa olsun, ne kadar derin uyursa uyusun, sanki bir kum saatine bağlıymış gibi tam bu saatte uyanırdı.`
 `Böyle bir şeyin övünülecek bir şey olmadığını düşünüyordu ama kendi kendine hâlâ böyle bir şey yapabiliyorsa sağlığının yerinde olduğunu söylüyordu.`
@@ -142,7 +142,7 @@
 `{n}Ürpertici bir büyülü çember.`
 ` Maria için.`
 `{n}<Happy Halloween>.`
-`Dün sadece bir kişi Maria'ya <Happy Halloween> demişti...`
+`Dün sadece bir kişi Maria'ya <Happy Halloween> demişti......`
 `Anahtar kelimeler eşleşti.`
 ` ......Altın Cadı, {f:5:Beatrice}...!`
 `"M-Maria nerede?!`
@@ -279,7 +279,7 @@
 `Rosa ve diğerleri.........nihayet durumun ne olduğunu anladılar......`
 `Bu bir...Cadılar Bayramı partisiydi.`
 `{n}Bu dünyadan olmayanlar için bir ziyafet...!`
-`Krauss, Natsuhi, Eva, Hideyoshi, Rudolf ve Kyrie, toplam altı kişi sandalyelere oturmuş, sanki uyuyorlarmış gibi ölü duruyorlardı.`
+`Krauss, Natsuhi, Eva, Hideyoshi, Rudolf ve Kyrie, toplam altı kişi sandalyelere oturmuş, sanki uyuyorlarmış gibi, ......ölü duruyorlardı.`
 `Öldüklerini ve sadece uyumadıklarını nasıl anlayabilirdiniz?`
 `Çünkü onlar...`
 `......göğüs bölgelerinden,`
@@ -366,7 +366,7 @@
 `Şimdiye kadar tüm vücudunun ter içinde kaldığını fark etti...`
 `"Ge-...Genji-san ve Shannon-chan, lütfen babamdan talimatları isteyin.`
 ` Gohda-san, Kanon-kun ile birlikte git ve polisi ara.`
-` Sonra, Doktor Nanjo buraya gelsin ve..."`
+` ...Sonra, Doktor Nanjo buraya gelsin ve..."`
 `Nanjo buraya gelsin ve...{i:ya sonra}?`
 `{n}Tıbbi yardım için çok geç......!`
 `Hizmetkârlar emirleri aldılar ve dışarı fırladılar.`

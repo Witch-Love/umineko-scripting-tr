@@ -50,7 +50,7 @@
 `"Ye-Yemek, .........yemek salonunda, ......kan, .........kan...!"`
 `Salondaki herkes dinlemek için ona doğru döndü.`
 `Herkes aynı şeyi düşündü.`
-` “Umarım yanlış duymuşumdur.”`
+` ...“Umarım yanlış duymuşumdur.”`
 `......Tıpkı herhangi bir kutunun içine koyabileceğiniz şeylerin bir sınırı olması gibi,`
 ` ...hiç kimse zaten yaşananların ötesinde daha fazla trajediyi kaldırabileceğini düşünmüyordu.`
 `Bu yüzden hepsi bunu düşündü.`
@@ -137,7 +137,7 @@
 ` Niijima Polis Departmanı'na küçük bir seyahat yapamaz mıyız?!"`
 `"...Hideyoshi-san, bu havada bu imkansız...`
 ` En azından tayfun adayı geçene kadar bir şey yapamayız."`
-`"Krauss-sama'nın teknesi şu an tamirde ve adada değil.`
+`"Krauss-sama'nın teknesi şu an tamirde ve adada değil...`
 ` Bu nedenle korkarım Pazartesi günkü tekneyi beklemekten başka seçeneğimiz yok......"`
 `"B-Bu nasıl olabilir...?!`
 ` Altı kişi öldü!!`
@@ -342,7 +342,7 @@
 ` ......Ama bir erkek tarafından evlenme teklifi almak,`
 ` .........bir bakıma,`
 ` bir kızın hayatının doruk noktasıdır.`
-` ......Bu yüzden eminim...`
+` ......Bu yüzden eminim.`
 ` dün gece, bence Shannon...`
 `kalbinin derinliklerinden mutluydu...`
 `...hayır, doğduğundan beri hiç bu kadar mutlu olmamıştı..."`
@@ -378,7 +378,7 @@
 `{n}Jessica Aniki'nin yanına oturdu ve sessizce kolunu ona doladı.`
 `.........Belki de sadece Aniki ve Shannon'un aşkını başından beri bilen,`
 ` ve Shannon'la bu ilişkiyi tartışan Jessica, ...şimdi Aniki'yi teselli edebilirdi.`
-`Eva teyzenin yanına gittim ve karşı kanepeye oturdum.`
+`Eva teyzenin yanına gittim ve karşı kanepeye oturdum...`
 `"Battler-kun, gerçekten çok güçlüsün...`
 ` Görünüşe göre kendini iyi tutmuşsun."`
 `"...Umm, pekala, sevginin derinliği yaranın derinliğine dönüşür, değil mi?`
@@ -479,7 +479,7 @@
 `...hizmetkarlardan biri......"`
 `"Üzgünüm, ama teyzen bile bundan fazlasını söyleyemez.`
 ` ......Ancak sana bir şey söyleyeceğim."`
-`"Neymiş o?"`
+`"......Neymiş o?"`
 `"Suçlu, ......çoğul olarak suçlu olduklarını söylemeliyiz ve dahası, iyi silahlanmışlardı.`
 ` Anlıyorsun, değil mi?"`
 `"Yemek salonunda dört kişiye saldırıp hepsini birden öldürebilmeleri, toplam altı cesedi de gül bahçesinin ötesindeki ambara kadar sürüklemeleri ve yüzlerine o iğrenç makyajı yapmaları gerekiyordu.`
@@ -694,7 +694,7 @@
 ` Bu kulağa anlamsız gelmeye başladı......"`
 `Tartışmaya atlamaya hazırlanırken hepsine göz atarken, ......bir şey beni şok etti.`
 `Maria... sırıtıyordu, suratındaki ürkütücü ifade tarif edilemezdi.`
-`Sanki herkesin cehaletiyle dalga geçiyormuş gibi bir sırıtıştı.`
+`...Sanki herkesin cehaletiyle dalga geçiyormuş gibi bir sırıtıştı.`
 ` ......Maria'nın yapabileceğine asla inanmayacağım bir ifadeydi...`
 `Ve sonra,`
 ` ......güldü.`
@@ -738,7 +738,7 @@
 `"Ay-...Ayrıca çemberin etrafına yazılmış karakterler de vardı......"`
 `"Biliyorum.`
 ` .................................Bunun gibi, değil mi?"`
-`Maria çemberin çevresine İbranice karakterler yazmaya başladı.`
+`Maria çemberin çevresine İbranice karakterler yazmaya başladı...`
 `"Eski Ahit'in Mezmurlar Kitabı'ndan, 116. Mezmur, ayet 16 ve 17.`
 ` ......En azından İncil okumuş olmalısın.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hihi......"`
@@ -795,14 +795,14 @@
 `......Dünden beri bir şeyler deliye dönmüştü.`
 `Maria'nın dün akşamki yemekte yüksek sesle okuduğu cadı {f:5:Beatrice}'den gelen mektup.`
 `...O noktadan beri, bizim...`
-`...hayır, tüm bu malikâne ve tüm bu adanın...bir tür tuhaf dünyanın içine çekilmeye başladığını hissediyor gibiyim.`
+`...hayır, tüm bu malikâne ve tüm bu adanın...bir tür tuhaf dünyanın içine çekilmeye başladığını hissediyor gibiyim...`
 `Bu doğru.`
 ` Tekrar düşündüğümde, o mektup cadıdan gelen bir davetiyeydi.`
 `Gece adasının hakimi biz gündüz sakinlerini başka bir dünyaya davet etmişti.`
 `Telefonun ve radyonun kesildiği ve adanın tayfun yüzünden kapandığı bu adaya artık gerçek dünyadan kopmuş başka bir dünya diyebilirsiniz.`
 `......Evet, şu anda bu adada cadıların mektup göndermesi ve büyülü çemberlere kurbanlar sunulması son derece normal.`
 `.........Peki bundan sonra ne olacak?`
-`{n}Keçi maskesi takan bazı garip elemanlar Bon Festivali dansı yapmaya falan mı başlayacak?!`
+`{n}Keçi maskesi takan bazı garip elemanlar Bon Festivali dansı yapmaya falan mı başlayacak...?!`
 `...Aah, bu iyi değil, bu iyi değil, anlayamıyorum...`
 `{n}Kafamın içi allak bullak oldu ve ne düşüneceğimi bile bilmiyorum...`
 `Öfke, üzüntü.`
@@ -913,7 +913,7 @@
 ` ...ve yine de hizmetkarlardan birinin katil olabileceğini inkar edemezdik.`
 `.........Herhangi biri kötü adam olabilir.`
 `Yine de Natsuhi Teyze ve diğerleri çok yavaş...`
-`Elbette küçük bir malikane değil ama sadece etrafta dolaşmak, pencereleri ve kapıları kontrol etmek biraz fazla uzun sürmüyor mu?`
+`Elbette küçük bir malikane değil ama sadece etrafta dolaşmak, pencereleri ve kapıları kontrol etmek biraz fazla uzun sürmüyor mu...?`
 `Tam bunu düşünürken, Natsuhi Teyze ve diğerleri geri döndü.`
 `Kimse eksik değildi.`
 `{n}......Ama yaşadığımız rahatlama kısa sürdü.`
