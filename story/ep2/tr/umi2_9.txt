@@ -80,7 +80,7 @@
 `Bu Genji'nin sesiydi.`
 `{n}Saate baktığında saat yedi bile değildi.`
 `......Misafirleri uyandırmak için fazla erken olduğu ortadaydı.`
-`{n}...Buna sebep olacak kadar kötü bir şey mi olmuştu?`
+`{n}...Buna neden olacak kadar kötü bir şey mi olmuştu?`
 `Bu uğursuz önsezi sayesinde uykulu halinin giderek kaybolduğunu hissetti.`
 `Genji, Rosa'nın çocukluk günlerinden beri tanıdığı bir hizmetkâr olduğu için, pijamalarının içinde biraz güç durumda olmasına rağmen kapıyı hafifçe aralayıp cevap verdi.`
 `"Günaydın.`
@@ -91,11 +91,11 @@
 `Genji Rosa'nın kulağına doğru eğildi ve kısık bir sesle ona bir şeyler söyledi.`
 `Rosa, söylenenleri ilk defa duyduğunda kendisine söylenenleri anlayamamış gibi görünüyordu,`
 ` ve bu sözler birkaç kez tekrarladıktan sonra nihayet garip bir şeyler olduğunu fark etti.`
-`Rosa bir an için kapısını kapattı ve kıyafetlerini değiştirdikten sonra hızla Genji'ye katılarak birlikte malikaneye doğru yola koyuldular...`
+`Rosa bir an için kapısını kapattı ve kıyafetlerini değiştirdikten sonra hızla Genji'ye katıldıktan sonra birlikte malikaneye doğru yola koyuldular...`
 `Kilisenin biraz açıklanması gerekiyor.`
 ` Kilise malikanede değil, malikanenin arkasında, kısa bir yürüyüşün ardından ulaşılabilen bir koruluktaydı.`
 `Rokkenjima'daki malikane ile aynı zamanda inşa edilmişti,`
-` bu nedenle dış duvarlarının birçok kez onarılmış olması nedeniyle dışarıdan yeni görünmesine rağmen çok eski bir binaydı.`
+` bu nedenle dış duvarları birçok kez onarılmış olsa da, dışarıdan yeni görünmesine rağmen çok eski bir binaydı.`
 `Rosa, Genji ile birlikte yağmurun altında hızla ilerledi.`
 `{n}Tıpkı önceki akşam olduğu gibi, yağmur tüm şiddetiyle devam ediyordu.`
 `Sonunda, seyrek bir koruluğun ardındaki kiliseyi görmeye başladılar...`
@@ -242,7 +242,7 @@
 ` Onlar muhtemelen......Cadılar Bayramı süslemeleriydi.`
 `Ve masada oturan insanlar vardı.`
 `{n}Her iki tarafta karşılıklı olarak üçer kişi sandalyelerde oturuyordu.`
-`İlk bakışta tanıyabiliyordunuz.`
+`Bir bakışta tanıyabiliyordunuz.`
 `{n}Krauss ve karısı, Eva ve kocası, ve Rudolf ve karısı.`
 `Ancak size bunların kesinlikle onlar olup olmadığı sorulsaydı, kontrol etmek için daha da yaklaşmanız gerekirdi.`
 `......Çünkü neredeyse oyuncak bebeklere benziyorlardı.`
@@ -253,7 +253,7 @@
 `Bu nedenle ilk başta, birileri onlara çok benzeyen bazı bebekleri oraya yerleştirmiş gibi hissettirdi...`
 `......Artık Rosa'dan başkaları da vardı.`
 `{n}......Shannon, Kanon ve hatta Gohda.`
-`...Hepsi kalplerini sıkıca kavrayan, giderek artan ürkütücü duyguya karşı çılgınca mücadele ediyorlardı.`
+`...Hepsi kalplerini sıkıca kavrayan, giderek artan ürpertici duyguya karşı çılgınca mücadele ediyorlardı.`
 `"......Nii-san...?`
 ` .........Nee-san.........?"`
 `Sunağa çıkarken yeniden seslendi ama yine de hiçbir tepki alamadı.`
@@ -314,7 +314,7 @@
 `"Uerreeeeeeeeeeeeeeeeeeeechgh!!`
 ` Eeeeeeaaaaaaaaaaaaaaaaaaaaaa!!"`
 `Gençliğinde yaşadığı travma yeniden canlanmıştı.`
-` Rosa, içinden bir canavar çıkıyormuşçasına midesindeki asit yükselmeye başlamıştı.`
+` Rosa, midesindeki asit yükselmeye başladığında içinde bir canavarın alevlendiğini hissetti.`
 `...Kendini tutamayarak yere kustu.`
 `Boş midesi mide asidinden başka bir şey kusamıyordu.`
 `Önündeki bu sahne artık hiçbir şekilde eğlenceli bir Cadılar Bayramı partisi değildi...!`
@@ -422,8 +422,8 @@
 `"Seni duyabiliyoruum.`
 ` ...Bir şey mi oldu?"`
 `"Bu Doktor Nanjo.`
-` ...Harika.`
-` Sanki biz hariç herkes tatile çıkmış."`
+` ...Güzel.`
+` Görünüşe göre bizim dışımızdaki herkes bu adadan kaybolmamış."`
 `"Doktor Nanjo, günaydın.`
 ` ...Umm, üzgünüm ama ailemizin nereye gittiğini biliyor musunuz...?"`
 `"Bakalım.`
@@ -483,10 +483,10 @@
 ` Ne, ......ne oldu!!`
 ` Uuuuuuuuuuuughhh!!"`
 `"......Bu da ne böyle...`
-` ......Ne kadar ahlaksız olabileceğinin de bir sınırı var...`
+` ......Ne kadar dejenere olabileceğinin de bir sınırı var...`
 ` Birinin canını almak yeterli değil mi...`
 ` ......Bu da ne böyle!!"`
-`"Onları öldürdükten sonra bıkmadan bir de sandalyelere oturtup, karınlarını deşmişsiniz!!`
+`"Onları öldürdükten sonra bir de sandalyelere oturtup, karınlarını deşmişsiniz!!`
 ` Ve içlerine de tonlarca şeker mi doldurdunuz?!!`
 ` Neden, ......neden böyle iğrenç bir şey yaptınız?`
 ` Sikeyim, sikeyim!`
@@ -554,7 +554,7 @@
 `"Aaaah, bu hiç iyi değil, hiç de iyi değil!!`
 ` Eğer ağlayabilecek kadar boş vaktin varsa, o zaman düşün!`
 ` Gözyaşı bezlerini çalıştırmanın zamanı değil!!"`
-`Saf nefretten ziyade, belki de üzüntüsünü saklamak için duyulan kaçamak bir nefretti.`
+`Saf nefretten ziyade, belki de üzüntüsünü gölgelemek için duyulan kaçamak bir nefretti.`
 `......Ancak, hüznün altında ezilen George ve Jessica'ya biraz cesaret verdi.`
 `"......Bu doğru.`
 ` ...Ağlasak bile,`
@@ -628,7 +628,7 @@
 `{n}Dün akşam yemeğinde bizimkilerin çıldırdığı gibi, miras sorununa karışmaya çalışan bilinmeyen biri mi?`
 `......Yoksa suçlu, Maria'nın dediği gibi Altın Efsanesi'ndeki cadı mı?!`
 `Eğer Jessica çabuk öfkelenmesine izin vermemiş olsaydı bile, bu durumda o konuk muhtemelen en şüpheli kişiydi.`
-`Ama öylece hüküm vermemeliyiz.`
+`Ama öylece sonuca atlamamalıyız.`
 `{n}Evet, bu hiç iyi değil, hiç iyi değil, hiç de iyi değil...!!!`
 `İki elimle yüzüme tekrar vurarak beynimi aşırı yüklenmeden önce soğumasını sağladım.`
 ` Her ne kadar boşa bir çaba olsa da...`
