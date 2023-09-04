@@ -110,7 +110,7 @@
 `...Boy olarak Aniki'yi geçmiş olsam da, büyüğüm olarak hala saygı görüyordu.`
 ` İtaatkar bir şekilde özür dilemekten başka çarem yoktu.`
 `"H-hey,`
-` Benim hatam, benim hatam.`
+` Benim hatam, benim hatam...`
 ` Maria, az önceki bir şakaydı.`
 ` Sadece bugün martılar yuvalarında sessizler."`
 `"......Battler yalan mı?`
@@ -230,7 +230,7 @@
 `Özel bir nedeni yoktu.`
 `{n}Bazı güller açar, bazıları ise solar.`
 `Hepsi bu kadardı, ama Maria sağlıklı bir grup gülün içinde sadece bir tane sağlıksız gül olmasından dolayı çok endişeli görünüyordu.`
-`Bir şekilde dışlanmış gibi hissediyor olmalı.`
+`...Bir şekilde dışlanmış gibi hissediyor olmalı.`
 `"Yani sağlıklı olmayan tek gül bu olduğundan onun için üzülüyorsun...?"`
 `"......Uu.`
 ` Diğerlerinin hepsi sağlıklı ama bu üzgün."`
@@ -333,7 +333,7 @@
 `{n}...Ama burada da Jessica devam etti.`
 `"Um, uhh...!`
 ` Yanlış hatırlamıyorsam bizden iki yaş küçük, yani...16, değil mi?"`
-`"............Evet, bu doğru."`
+`"............Evet, ...bu doğru."`
 `Seçme şansı olsaydı bize yaşını söylememeyi tercih eder gibi görünüyordu.`
 `Yaşını söylemek istememesinin nedeni muhtemelen yaşının küçümseneceğini düşünmesiydi.`
 `...Onun yaşlarındayken, yetişkinler tarafından kaç yaşında olduğumun sorulmasından nefret ettiğimi hatırlıyorum.`
@@ -359,7 +359,7 @@
 `{n}Ve görünüşe göre biraz bile gelişmemiş.`
 `Gohda-san iş gülümsemesini korudu, ancak küçük bir iç çekmeden duramadı.`
 `"......Öyleyse, hala yapacak işlerim var.`
-` .........İzin verirseniz."`
+` .........İzninizle."`
 `Kanon'un kendisi de burada daha fazla sessiz kalmaktan rahatsız olmuşa benziyordu.`
 `Göstermelik bir selam daha verdikten sonra topuklarının üzerinde döndü ve el arabasını tekrar itmeye başladı.`
 `Tam o sırada, aniden, el arabası yalpaladı ve yükü dağıtarak düştü.`
@@ -750,7 +750,7 @@
 `......Elbette Shannon'un salonda neler olup bittiğini bilmesine imkân yoktu.`
 `Çay fincanlarıyla dolu bir bulaşık arabasını iterek içeri girdiğinde,`
 ` Natsuhi görünürde bir neden olmaksızın ona acı dolu bir bakış attı ve Shannon neyi yanlış yaptığını bilmeden irkilmekten kendini alamadı.`
-`"......Ö-Özür dilerim.`
+`"......İ-İzninizle.`
 ` Sizin için biraz çay hazırlayayım."`
 `"Oh, Shannon-chan, uzun zaman oldu!`
 ` Seni her gördüğümde daha da güzelleşiyorsun!"`
@@ -775,7 +775,7 @@
 `Ushiromiya baş ailesinin işlerinden sorumlu kişi olarak, bu beceriksizliğin bugün olmasına izin vermek kesinlikle tam bir aşağılanmadan başka bir şey değildi.`
 `"Kes şunu, Natsuhi nee-san.`
 ` Elinden gelenin en iyisini yapmaya çalışan Shannon-chan'a zorbalık etmek sence de biraz acımasızca değil mi?"`
-`"Ben kimseye zorbalık yapmıyorum!"`
+`"Ben kimseye zorbalık yapmıyorum...!"`
 `"Ne güzel bir koku.`
 ` Bu çayın markasını sorabilir miyim?"`
 `"............Umm...`
@@ -804,7 +804,7 @@
 `"Gümüşe zehir değerse kararır derler.`
 ` ...*giggle*, bir şeyler öğrendin, değil mi Shannon-chan?"`
 `Çay, zehir testi yapılmadığı sürece içilemez olarak değerlendiriliyordu.`
-`Natsuhi'nin gözünde bu hem çaya hem de onu servis ettiği için kendisine yapılmış bir hakaretti.`
+`Natsuhi'nin gözünde bu hem çaya...hem de onu servis ettiği için kendisine yapılmış bir hakaretti.`
 `Rudolf kayıtsızca gülerek Eva'nın omzunu sıvazladı.`
 `"Haha, gümüş çatal bıçağa ihtiyacın yok.`
 ` Zehirli dilinin bir yalamasıyla gümüş bir tabak bile simsiyah olur."`
@@ -852,7 +852,7 @@
 `"..................Burada ne yapıyorsunuz?`
 ` ...Shannon, hemen mutfağa dön."`
 `"E-Evet.`
-` ......İzin verirseniz......"`
+` ......İzninizle......"`
 `"................................."`
 `Shannon alçakgönüllülükle itaat etti ve hemen arabayı itip gitmeye hazırlandı.`
 `Ancak Kanon, gözlerinde kelimelerle ifade edilemeyecek bir şey barındırarak sessizce Genji'ye baktı.`
@@ -861,7 +861,7 @@
 `"...Sha-`
 `......Shannon yanlış bir şey yapmadı,`
 ` ama onlar—"`
-`"Kes şunu, Kanon-kun."`
+`"Kes şunu, Kanon-kun..."`
 `"......İzninizle.`
 ` Hemen işe döneceğim.`
 ` Kanon-kun, sen de görevinin başına dön.`
@@ -870,15 +870,15 @@
 `"..................`
 ` ...Hepsi bu kadarsa, gidebilirsin."`
 `"......Evet.`
-` ......İzin verirseniz."`
-`Koridordaki gölgelerin arasından, önlük giymiş yaşlı bir kadın onları izliyordu. O Kumasawa'ydı.`
+` ......İzninizle."`
+`Koridordaki gölgelerin arasından, önlük giymiş yaşlı bir kadın onları izliyordu. O Kumasawa'ydı...`
 `......Ne kadar yürek parçalayıcı, Shannon-san, Kanon-san...`
 `Bu ikisine sataşılması için hiçbir sebep yok.`
 ` ...Ama Gohda-san tarafından sevilmedikleri inkar edilemez...`
 `Gohda-san, Ushiromiya baş ailesi tarafından alınmadan önce, bir yerlerde muhteşem bir otel için çalıştığını duydum.`
 `Orada öğrendiği iş tarzının oldukça iyi olduğunu düşünüyorum.`
 `Sadece...Gohda-san buradaki en yeni hizmetkar.`
-`Önceki görevlerinden çok gurur duyuyor olmalı.`
+`...Önceki görevlerinden çok gurur duyuyor olmalı.`
 `Shannon-san ve Kanon-kun onun malikanedeki kıdemlileri olmasına rağmen tecrübesiz oldukları ve hayatta kendisinden çok daha az şey yaşadıkları için her fırsatta onlara sataşıyor...`
 `Ve ayrıca, ...yeterince korkunç olmasına rağmen, Madam Natsuhi de onlardan nefret ediyor...`
 `Tabii ki, deneyim açısından, Madam ailede çok daha uzun süredir var.`

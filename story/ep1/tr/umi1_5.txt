@@ -6,7 +6,7 @@
 `"............Cadı...{f:5:Beatrice}...demek.`
 ` ......Doğru olup olmadığını merak ediyorum."`
 `"Uu?`
-` Battler inanmıyor mu?"`
+` Battler inanmıyor mu...?"`
 `Battler bu resmin ne olduğunu sorduğunda, onun {f:5:Beatrice} olduğunu söyleyen ilk kişi Maria olmuştu.`
 `Bu nedenle, Battler şüpheyle yaklaştığında, Maria Battler'ın kendisine inanmadığını kastetmiş olmalı.`
 `...Ama tabii ki Battler'ın demek istediği bu değildi.`
@@ -370,7 +370,7 @@
 ` Muhtemelen hayatının kumarıydı."`
 `"......Neyse ki, bu fonları kullanması başarıya ulaştı.`
 ` Kore savaşı talepleri gelmeseydi ve Ushiromiya ailesi yeniden kurulmasaydı, muhtemelen yüzyılın dolandırıcısı olarak babamın peşine düşülecekti."`
-`"Bu durumda, altının hiç var olmadığını ve babamın hepsini uydurduğunu mu söylüyorsun?"`
+`"Bu durumda Krauss nii-san, altının hiç var olmadığını, ...ve babamın hepsini uydurduğunu mu söylüyorsun?"`
 `"Tabii ki.`
 ` Bu nedenle, yeterince başarıya ulaştıktan sonra, altın kurgusu bir rahatsızlıktan başka bir şey değildi.`
 ` Bu yüzden babam cadı ve kara büyüyle ilgili o saçma hikayeyi uydurdu ve her şeyin daha az inandırıcı görünmesini sağladı."`
@@ -636,7 +636,7 @@
 `"......Hoh?`
 ` Yani pazarlık yapma hakkım yok.`
 ` ...Benim pozisyonumun eşit bir ilişki içinde olmadığımız kadar zayıf olduğunu mu iddia ediyorsunuz...?"`
-`Rudolf'un sırtında bir ürperti başladı.`
+`Rudolf'un sırtında bir ürperti başladı...`
 `Çocukluğundan beri, kendisini ağabeyinden ayıran duvarın yüksekliğini hiçbir zaman aşamamıştı,`
 ` ve şimdi bir kez daha kendinin, onun ve onun yarattığı uzun gölgenin içine çekildiğini hissetmeye başladı...`
 `"Anlaşmaların eşit şartlarda yapılması gerekmez mi?`
@@ -647,7 +647,7 @@
 `Krauss kardeşlerin her birine baktı.`
 `{n}...İçgüdüsel olarak bakışlarından kaçındılar.`
 `Sadece Hideyoshi kaçınmak için yavaş kalmıştı.`
-`{n}O da Krauss'un bakışlarına yakalandı.`
+`{n}...O da Krauss'un bakışlarına yakalandı.`
 `"Hideyoshi nii-san.`
 ` Şirketinizin son zamanlarda son derece iyi gittiğini duydum.`
 ` Hisse senedi olarak listelenmesinde herhangi bir sorun yaşamamışsınız ve hem performansı hem de hisse senedi fiyatları sürekli artıyor.`
@@ -697,7 +697,7 @@
 `Kapitalizmin kesin kurallarından biri, her iki taraf da aynı şey için rekabet ettiğinde değerin yükseleceğidir.`
 `Demokrasinin kesin kurallarından biri de çoğunluğun her şeyi kontrol etmesidir.`
 `Yani işin sonunda, kim en çok hisseyi satın almayı başarırsa o kazanır.`
-`Yani kim daha çok paraya sahipse o kazanır.`
+`...Yani kim daha çok paraya sahipse o kazanır.`
 `Hideyoshi bu kritik zamanda büyük miktarda para elde edebilirse, biriktirdiği her şeyi kaybetmekten kurtulabilirdi...`
 `{a:c:`
 `BU NEDENLE ŞU ANDA,`
@@ -889,7 +889,7 @@
 ` ...Doğru.`
 ` Bu durumda, beni yalnız bırak."`
 `"İstediğiniz gibi.`
-` ......İzin verirseniz."`
+` ......İzninizle."`
 `Kanon eğilerek selam verdi ve çalışma odasından ayrıldı.`
 `{n}Kapı kapanırken ağır bir kilit sesi yankılandı.`
 `Ama bu ses Kanon'un kapıyı kilitleme sesi değildi.`
@@ -938,7 +938,7 @@
 ` Altın ve mal benim için işe yaramaz."`
 `"Vay vay, sen alçakgönüllü bir insansın.`
 ` ...Muhtemelen Kinzo-san'ın sana bu kadar güvenmesinin nedeni budur."`
-`"Eğer öyleyse, onur duyarım."`
+`"Eğer öyleyse, onur duyarım..."`
 `Nanjo hafifçe gülerek karşılık verirken bir kez daha kitabeye baktı.`
 `"......Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen.`
 ` Anahtarın arayışında, akıntı yönündeki patikayı takip edeceksiniz, Altın Diyar'ın peşinde olan sizler..."`

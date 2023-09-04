@@ -30,7 +30,7 @@
 `George-aniki'nin gözleri yine yaşlarla dolmuştu.`
 `{n}...Jessica'nın ağlayarak yıkıldığını görmek muhtemelen ailesini kaybetmenin acısını tekrar hatırlatmıştı.`
 `............Ben zaten hüngür hüngür ağlamıştım.`
-`{n}Bu yüzden daha fazla ağlamak istemedim.`
+`{n}...Bu yüzden daha fazla ağlamak istemedim.`
 `...Ancak, kalplerindeki acıyı ben de hissettim.`
 `"............Her şey yolunda, Jessica onee-chan.`
 ` .........Kanon'la yakında tekrar görüşebileceksin."`
@@ -128,7 +128,7 @@
 `Natsuhi Teyze korkutucu gözlerle Maria'ya baktı.`
 `...Maria, Rosa Teyze'nin yüksek sesle azarlama tarzına alışkındı, ama görünüşe göre bu tür sessiz bir azarlamaya karşı bir direnç geliştirmemişti.`
 ` ...Omuz silkti ve çenesini kapadı.`
-`Etrafı kasvetli bir his kapladı.`
+`Etrafı kasvetli bir his kapladı...`
 `{n}Sanki birisi ağzını açsa işler daha da karışacakmış gibi hissediliyordu.`
 `......Şimdiye kadar kaç kişi ölmüştü?`
 `Babamın grubundaki altı kişi.`
@@ -166,7 +166,7 @@
 `"Öldürülen hizmetkarlardan birinin cebinden bir anahtar destesi aldıklarını varsayarsak,`
 ` o anahtarların bile açamayacağı güvenli bir yer var mı...?"`
 `".........İşimizin doğası gereği, bize bütün odaların anahtarları verildi...`
-` Malikanedeki ve konukevindeki tüm odaların."`
+` Malikanedeki ve konukevindeki tüm odaların..."`
 `"Yani, ......nereye saklanırsak saklanalım kendimizi kilitlememiz anlamsız.`
 ` ...Bana uyar, kimin kilide ihtiyacı var ki?! Eğer geleceksen, hadi gel, lanet olası!`
 ` Önce ben seni öldüreceğim!!"`
@@ -200,7 +200,7 @@
 `"...Normalde Efendi'nin anahtarını polise bırakmam gerekirdi,`
 ` ......ama bana her zaman çalışma odasının güvenliğini korumamı emrettiği için şimdilik ödünç aldım."`
 `".........Anlıyorum...`
-` Bu da Kinzo'nun çalışma odasının şu anda tek güvenli yer olduğu anlamına geliyor."`
+` Bu da Kinzo'nun çalışma odasının şu anda tek güvenli yer olduğu anlamına geliyor..."`
 `"...Öyle görünüyor.`
 ` ......Bütün gece o tuhaf kokularla dolu odada kapalı kalmayı düşünmek bile istemiyorum,`
 ` ama görünüşe göre şu anda odasının başka bir yerden daha güvenli olduğunu kabul etmeliyiz."`
@@ -415,7 +415,7 @@
 `{n}...Bu yüzden kapıyı kırıp geçemedi.`
 ` Bu yüzden de sinirlendi.`
 `{n}...Yani, bu yüzden kapıyı mı tırmaladı...?`
-`"Kes şunu, bu konu hakkında konuşma.`
+`"Kes şunu, bu konu hakkında konuşma...`
 ` Cadılar gerçek değil.`
 ` Ama katil öyle.`
 ` Ve o da bizim gibi bir insan."`
@@ -460,7 +460,7 @@
 `......her şeye rağmen bu maçı tamamlayamadık..."`
 `".........Doktor Nanjo..."`
 `"...Uzun zamandır Kinzo-san'ın dostuydum, ......ama onun hakkında neredeyse hiçbir şey bilmiyordum.`
-` ...Kinzo-san'ın her zaman, bilge olan Kinzo-san ile birlikte bir delilik tarafından tuzağa düşürülmüş olan Kinzo-san olarak iki tane olduğuna inanmışımdır...."`
+` ...Kinzo-san'ın her zaman, bilge olan Kinzo-san ile birlikte bir delilik tarafından tuzağa düşürülmüş olan Kinzo-san olarak iki tane olduğuna inanmışımdır..."`
 `"............Ben, Kinzo-san hakkında hiçbir şeyi anlamadım..."`
 `"...Konu özellikle {f:5:Beatrice}-sama olduğunda, kişiliği değişiyor gibi görünürdü..."`
 `Kumasawa-san'ın yukarı doğru baktığı yönde {f:5:Beatrice}'in bir portresi görülebiliyordu.`
@@ -484,7 +484,7 @@
 `......Ne de olsa bu, ailesinin öldürüldüğü yere bırakılmış bir mektuptu.`
 `{n}...İçeriğinin Aniki için dayanılmaz şeyler söyleme ihtimali yüksekti...`
 `Görünüşe göre Natsuhi Teyze de bunun farkındaydı.`
-`{n}Bu yüzden yüksek sesle okumadan önce içeriğine bir göz attı.`
+`{n}...Bu yüzden yüksek sesle okumadan önce içeriğine bir göz attı.`
 `Şok edici bir şey okuyup yüzünü buruşturacağından biraz korktuk, ama sadece mutsuz bir şekilde kaşlarını çattı.`
 `"......Ne...diyor...?"`
 `"...Hoş olmayan bir cümle var.`
@@ -587,13 +587,13 @@
 `benim gibi bir kadını bile kıskandıracak kadar derin mi derin bir aşktı."`
 `"......Kinzo-san Ushiromiya ailesinin başına geçtiğinde,`
 ` ...rahmetli eşiyle evlenmesine ailenin hayatta kalan birkaç büyüğü karar verdi."`
-`"Demek Ushiromiya ailesinin yararına olacak bir kadınla evlendi,`
+`"...Demek Ushiromiya ailesinin yararına olacak bir kadınla evlendi,`
 ` ......çünkü buna zorlandı?"`
 `"......Bu doğru.`
 ` ......Kinzo-san aileyi yeniden canlandıracak kişi olarak atandı ve tüm bu ağır sorumluluğu üstlenmek zorunda kaldı.`
 ` .........Ben...Kinzo-san'ın {f:5:Beatrice} ile ilk kez ne zaman ve nerede tanıştığının ayrıntılarını bildiğimi iddia etmiyorum."`
 `"............Bundan fazlasını söylemek kabalık olur."`
-`Büyükbabam ilk kez o zaman gerçekten aşık oldu.`
+`Büyükbabam ilk kez o zaman gerçekten aşık oldu...`
 `Bu sevgi gerçekten de çok derin olmalı.`
 `{n}...Etrafımıza bakarak bunu anlamak çok kolaydı.`
 `......Bu oda kara büyüyle ilgili yığınla şeyle doluydu.`
@@ -641,7 +641,7 @@
 ` ......Kihihihi."`
 `"......Keşke Büyükbabam burada olsaydı.`
 ` Eminim mutlu olurdu.`
-` {f:5:Beatrice} dirilmek üzere olduğu için sevinçten havalara uçacağına eminim."`
+` {f:5:Beatrice} dirilmek üzere olduğu için sevinçten havalara uçacağına eminim..."`
 `"...Bu durumda, inanacağım.`
 ` ...Eğer hayatının yarısını araştırmalara harcamak Büyükbabayı hayata döndürdüyse ve sevdiği kadının ruhunun dirildiğine inanmak onun bu yaşa kadar yaşamasını sağladıysa, ...ben de inanacağım."`
 `".........Battler........................"`
@@ -739,7 +739,7 @@
 ` Hızlıca okusam bile, 6+2+5...`
 `...13 kişinin ölmesi gerekiyor...!"`
 `"...Bu adada normalde kaç kişi var?!"`
-`"Hi-Hizmetkarların vardiyalarına göre değişiyor ama Babam, kocam, ben ve Jessica var.`
+`"Hi-Hizmetkarların vardiyalarına göre değişiyor... ama Babam, kocam, ben ve Jessica var.`
 ` Ve iki ya da üç hizmetkar.`
 ` ...Bugün ve dün beş kişiydiler ama normalde bu kadar çok değiller."`
 `"Bu da demek oluyor ki,`
@@ -776,7 +776,7 @@
 `......Bir insan bunu algılayamazdı.`
 `Tılsım insan olmayan birini durdurmak içindi...ve tam da bunu yapmıştı...!!`
 ` İmkansız, imkansız, imkansız!!!`
-`"Ancak, Natsuhi-san.`
+`"Ancak, Natsuhi-san...`
 ` Bakın, ......kitabe takip eden olayların izlerini de taşıyor..."`
 `"İ-İkinci alacakaranlıkta geride kalanlar yakın olan ikisini birbirinden ayıracak...`
 ` ...Bu Eva-sama ve Hideyoshi-sama'dan bahsediyor olabilir mi...?"`
@@ -866,7 +866,7 @@
 `Eğer birisi Büyükbabanın sakladığı altının yerini keşfederse, bu hak kaybolacaktı.`
 `Mektubun okunduğu sırada Büyükbaba hala hayattaydı.`
 `{n}...Ancak o sırada mektup çoktan Reis'in Yüzüğü tarafından balmumuyla mühürlenmişti.`
-`Bu da Büyükbabanın yüzüğü {f:5:Beatrice}'e henüz hayattayken teslim ettiği anlamına geliyordu.`
+`...Bu da Büyükbabanın yüzüğü {f:5:Beatrice}'e henüz hayattayken teslim ettiği anlamına geliyordu.`
 `.........Bunu doğrudan düşünecek olursak,`
 ` muhtemelen {f:5:Beatrice}'in o garip sözleşmeyi yerine getirdiğini ve Büyükbabanın ona bu hakkı güvence altına aldığını kabul etmeliyiz.`
 `......Basitçe söylemek gerekirse, Büyükbabanın bu mektubun içeriğini bildiğini ve onayladığını söylemekle aynı şeydi.`
@@ -949,7 +949,7 @@
 ` Ama öldürüldüklerinde hizmetkarlar dışında herkesin bir mazereti vardı."`
 `"......Sadece hizmetkarların yoktu...`
 ` Ama, ...onlardan şüphelenmek gerçekten doğru mu...?!"`
-`".....G-...Gerçekten, şimdi sen söyleyince hiçbir olay için mazeretleri yok, ama...`
+`"......G-...Gerçekten, şimdi sen söyleyince hiçbir olay için mazeretleri yok, ama...`
 ` .........nghh!!"`
 `Gerçekten bu kadar çabuk mu karar vermeliyiz?!`
 `{n}Ama bu sefer...bu odada, bu yerde, bu anda...bu küçük zaman ve mekan parçasında, bu çok açık.`
@@ -1042,7 +1042,7 @@
 ` Ama bu basit bir barbarlık olurdu.`
 ` Suçların yargılanmasını kanuna bırakacağım!`
 ` Yani ne kadar şüpheli olurlarsa olsunlar, o tetiği çekmemelisin!!"`
-`"Ben, ben de George-aniki gibi hissediyorum.`
+`"Ben, ben de George-aniki gibi hissediyorum...`
 ` Natsuhi Teyze.`
 ` Bir saniyeliğine kendine gel...`
 ` Ateş edersen kötü olur, ihihi...!`
@@ -1077,7 +1077,7 @@
 `"..................Eğer gerçekten bununla bir ilginiz yoksa, ...yaptığım şeyin kabalığın ötesinde olduğunu biliyorum.`
 ` .........Ancak, ...lütfen bu seferlik anlayış gösterin."`
 `".........Anladım.`
-` Odadan ayrılalım.`
+` ...Odadan ayrılalım.`
 ` .........Ne diyorsun Genji-san?`
 ` ...Salona dönüp satranç oyunumuza devam edelim mi?"`
 `"........................Eğer istediğin buysa, ......elbette."`
@@ -1116,7 +1116,7 @@
 ` ...Genji, sana bırakıyorum."`
 `".........Anlaşıldı."`
 `"...Ho......hohoho...`
-` Elden bir şey gelmez, değil mi?`
+` Elden bir şey gelmez, değil mi...?`
 ` Her zaman en korkutucu ayıların yavrularıyla birlikte olanlar olduğunu söylerler."`
 `"......Genji, Kumasawa, gerçekten çok üzgünüm.`
 ` ......Yarın yeniden görüşelim.`
