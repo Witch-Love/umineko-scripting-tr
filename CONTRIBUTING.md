@@ -97,6 +97,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Reasoning `->` Muhakeme
    * Red Truth `->` Kırmızı Gerçek
    * Register `->` Nüfus
+   * Repetition Request `->` Tekrarla
    * Resign `->` Pes Etmek
    * Ritual `->` Ritüel
    * Rose Garden `->` Gül Bahçesi
