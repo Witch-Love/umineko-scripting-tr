@@ -24,7 +24,7 @@
 `Jessica tüm gücüyle bağırarak VIP odasının kapısına vurdu.`
 `Kesinlikle tıklama denilecek bir ses değildi.`
 ` ...Bu ses öfkesinin çekicinin vuruşuydu, sanki açılmazsa kapıyı kırmaya kararlıydı.`
-`"Aç, {f:5:Beatrice}!!`
+`"Aç şunu, {f:5:Beatrice}!!`
 ` Çık dışarı!!`
 ` Duyuyorsun, değil mi?!`
 ` Aç kapıyı!!!"`
@@ -64,7 +64,7 @@
 `Ama ortalıkta yoktu.`
 `Gerçekte, ne Jessica ne de Gohda henüz {f:5:Beatrice} ile karşılaşmamıştı.`
 `...Sadece onunla karşılaşanlardan, portredeki kişinin tıpatıp aynısı olduğunu duymuşlardı.`
-`Bu yüzden, yüzünün gerçekte neye benzediği konusunda şüpheleri vardı.`
+`...Bu yüzden, yüzünün gerçekte neye benzediği konusunda şüpheleri vardı.`
 `...Ancak, Kanon onunla karşılaşmıştı.`
 ` Ve o cadının nasıl bir varlık olduğunu, ......nasıl bir karaktere sahip olduğunu anlamıştı.`
 `Bu yüzden, onu bulmak için buraya zorla girecek olurlarsa, işlerin planladıkları gibi gitmesine izin vermeyeceğini biliyordu.`
@@ -98,7 +98,7 @@
 ` Benden bu kadar mı korkuyorsun?!`
 ` Seni öldüreceğim, seni öldüreceğim!!`
 ` Göster kendini de seni öldürene kadar dövebileyim!!!`
-` Sana beni bırakmanı söyledim mi, kahretsiiiiiiin!"`
+` Sana beni bırakmanı söyledim, kahretsiiiiiiin!"`
 `Kağıtta yazanlar şunlardı...`
 `{e:070:—Buraya paldır küldür gelmeni bekleyerek vaktimi boşa harcayacağımı mı sanıyordun?`
 ` Bu entelektüel geceye uygun olamayacak kadar vahşisin.`
@@ -149,7 +149,7 @@
 `Jessica'nın ağlayıp çığlıklar atması astım krizini tetiklendi...`
 ` Ona göz kulak olan hizmetkârlar telaşla yanına koşup sırtını sıvazladılar ama bu sadece Jessica'nın öfkesini körükledi...`
 `"*öksürme*öksürme*!!`
-` "Ne bu?!`
+` Ne bu?!`
 ` Eğer bunu yapacak vaktiniz varsa, o orospuyu arayın!!`
 ` Onu bulun ve bana getirin!!"`
 `"Eğer siz gitmezseniz, ben gideceğim!!`
@@ -197,7 +197,7 @@
 ` sessizce Jessica'nın arkasından onu izledi...`
 `Sonunda, Jessica kendi odasının kapısının önünde çömelip kalmıştı.`
 `......Astım krizi tüm gücünü tüketmişti.`
-` Ve oksijen eksikliği yüzünden düşünceleri bulanıklaşmıştı, öyle ki artık ayağa bile kalkamıyordu.`
+` Ve oksijensizlik yüzünden düşünceleri bulanıklaşmıştı, öyle ki artık ayağa bile kalkamıyordu.`
 `......Ama şu anda, Jessica birinin ona yardım etmesini istemiyordu.`
 ` Çünkü hâlâ öfke alevlerinin üstesinden gelememişti.`
 `...Çünkü biri ona iyi niyetle elini uzatsa bile, şu anda Jessica o eli tutup kırmak isteyecekti.`
@@ -262,8 +262,8 @@
 ` ...Küçük bir sesle.`
 `".........Üzgünüm.`
 ` .........Bir şey yok.`
-` ...............Bir süre yalnız kalmak istediğimi benim için...Rosa Teyze'ye söyler misin...?"`
-`"Yalnız kalmanıza....izin vermeyeceğim."`
+` ...............Bir süre yalnız kalmak istediğimi, benim için...Rosa Teyze'ye söyler misin...?"`
+`"Yalnız kalmanıza...izin vermeyeceğim."`
 `"........................huh..."`
 `"Yalnız kalmana...izin vermeyeceğim.`
 ` ..................Yani, koridorda olacağım.`
@@ -315,7 +315,7 @@
 ` ......Kadınların canını en çok senin gibi mesafeli adamlar yakar!`
 ` Anlayamazsın.`
 ` Jessica'yı ne kadar incittiğin hakkında en ufak bir fikrin bile yok."`
-`"......Mobilya olduğun içib!`
+`"......Mobilya olduğun için!`
 ` *cackle*cackle*cackle*cackle*cackle*!"`
 `"S-Senin saçmalıklarını dinlemeye niyetim yok!`
 ` ...Sadece benimle alay etmek için mi ortaya çıktın?!!"`
@@ -332,7 +332,7 @@
 ` ...Siz ikiniz gerçekten de çok uygunsunuz...!!"`
 `"B-......Bekle...!`
 ` Yanlış anlama......!`
-` Leydim ve ben....`
+` Leydim ve ben...`
 `...öyle bir ilişki içinde değiliz...!`
 ` İkinci alacakaranlığın kurbanı olamayız!"`
 `"*cackle*cackle*cackle*cackle*hahahahahahahahahahahahahahahaha!!`
@@ -342,7 +342,7 @@
 ` ......Ama Jessica'yı öldüreceğim!!"`
 `"Neden?!"`
 `"Seni aptal!!`
-` Belli değil mi?!!"`
+` Bariz değil mi?!!"`
 `"{i:Onu öldürmek ve yüzündeki acı dolu ifadeyi görmek eğlenceli olacak, başka ne sebebi olabilir ki}?!!"`
 `"Ritüelin kurallarını izleyerek, keyfime göre on üç kişiyi kurban olarak seçeceğim.`
 ` Ancak, daha fazla öldüremeyeceğimi söyleyen bir kural yok."`
@@ -359,8 +359,8 @@
 `{n}En ufak bir tereddüt ya da gereksiz düşünce yoktu.`
 `...Korumak istediği bir kişi vardı ve yardım istiyordu.`
 ` .........Dolayısıyla, o anda, gerçekten orada onunla birlikte olan kişi olmak istediğini hissetti.`
-`Jessica'nın odasına daldığında gözleri tuhaf bir manzarayla karşılaştı.`
-`Oda, sanki bir kar küresinin içine altın varaklar serpiştirilmiş gibi, altın tozundan bir kar fırtınasının dans ettiği fantastik bir dünyaydı.`
+`Jessica'nın odasına daldığında, gözleri tuhaf bir manzarayla karşılaştı.`
+`Oda, sanki bir kar küresinin içine altın yapraklar serpiştirilmiş gibi, altın tozundan bir kar fırtınasının dans ettiği fantastik bir dünyaydı.`
 `.........Hayır, öyle değil.`
 `{n}Bu manzarayı daha önce de görmüştüm.`
 `{n}Bunlar altın yapraklar değil.`
@@ -389,7 +389,7 @@
 `"*cackle*cackle*cackle*hahahahaha!!`
 ` Şimdi her şey olay örgüsünü takip ediyor.`
 ` Artık kesme tahtasındaki sazanlarsınız."`
-`"Hayır, ikiniz de birlikte olduğunuza göre, {c:86EF9C:ördek ve soğan} mı demeliyim?`
+`"Hayır, ikiniz de birlikte olduğunuza göre, {c:86EF9C:ördek ve yeşil soğan} mı demeliyim?`
 ` Hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"S-......Sen,`
 ` ......B-{f:5:Beatrice}...!!"`
@@ -398,9 +398,9 @@
 `"Prenses ve şövalye beraberken cadının ortaya çıkması şarttır.`
 ` ......Evet, neden bana Kinzo'nun mobilyalarının ne kadar güçlü olabileceğini göstermiyorsun?"`
 `Cadı parmağını şıklattı ve kulak tırmalayan bir ses çıktı.`
-`Parmağını şıklattığında, aaltın kelebeklerden oluşan bir kar fırtınası oluştu ve bir çember şeklinde dönerek adeta küçük bir dağ oluşturmaya başladılar.`
+`Parmağını şıklattığında, altın kelebeklerden oluşan bir kar fırtınası oluştu ve bir çember şeklinde dönerek adeta küçük bir dağ oluşturmaya başladılar.`
 `...Tıpkı soğuk, kış rüzgârlarının girdaplar oluşturup yapraklardan bir dağ yaratması gibiydi.`
-`O altın dağından, ...sanki aşağıdaki dünyanın bir sakini sürünerek, ...dışarı çıkıyormuş gibi bir el uzandı.`
+`O altın dağından, ...sanki aşağıdaki dünyanın bir sakini sürünerek, ......dışarı çıkıyormuş gibi bir el uzandı.`
 `"Bu-.........Bu ne......?`
 ` Neler oluyor......?!"`
 `Jessica şu anda ne gördüğünü kavrayamıyordu ve ağzını sürekli açıp kapatıyordu...`
@@ -462,7 +462,7 @@
 `"........................Kapa çeneni."`
 `"......Hmph.`
 ` ......Öfkeden yanıp tutuşuyor olmana rağmen soğukkanlıymış gibi mi davranıyorsun?`
-` ...Anlıyorum, sıcak alevlerin soğuk maviyi yaktığını söylerler.`
+` ...Anlıyorum, gerçekten sıcak alevlerin soğuk bir mavi renkte yandığını söylerler.`
 ` Şu an olduğun durum bu mu?"`
 `"Seni güçlerimle öldürebilmemin imkânı yok.`
 ` ......Sen Ay'sın.`
