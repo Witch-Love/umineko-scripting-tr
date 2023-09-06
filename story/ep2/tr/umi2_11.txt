@@ -48,8 +48,8 @@
 ` ...............Ev‐............evet......!"`
 `Nanjo, sağlığı nedeniyle Kinzo'ya sık sık bir vasiyet yazmasını önermişti ama her seferinde Kinzo öfkeden deliye dönüyordu.`
 `......O zamandan beri Kinzo'nun en çok tepki gösterdiği kelime "vasiyet" olmuştu.`
-`Bu kelime bizzat onun ağzından çıktığı için Shannon bir an için duyduğu şeyden şüphe etmekten kendini alamadı.`
-`Shannon aceleyle yan masayı ve biraz da kağıt hazırladı.`
+`Bu kelime bizzat onun ağzından çıktığı için Shannon bir anlığına duyduğu şeyden şüphe etmekten kendini alamadı.`
+`Shannon aceleyle yan masayı ve bir de kağıt hazırladı.`
 ` Genji de kendisine emredildiği gibi her zamanki yeşil şeytanını hazırlamaya başladı...`
 `"Ben hazırım."`
 `".........Hmm.`
@@ -127,7 +127,7 @@
 `Kilisenin kapısı kapandığında, o tüyler ürpertici grafitiyi ilk kez gördük.`
 `"Biz buraya geldiğimizde çoktan buradaydı.`
 ` ...Suçlu tarafından çizildiğine şüphe yok..."`
-`"...Sözde suçlu bir cadı ve bu da bir şeytanı çağırmak için kullanılan büyülü bir çember falan mı......?"`
+`"...Sözde suçlu bir cadı, ve bu da bir şeytanı çağırmak için kullanılan büyülü bir çember falan mı......?"`
 `"Kihihihihihihihihihihi...`
 ` Bu güneşin yedinci büyülü çemberi.`
 ` Bunu bile bilmiyorsun, heh...`
@@ -186,7 +186,7 @@
 `"Bilmiyorum.`
 ` ......Babam bu kiliseyi çok kutsal görüyordu ve ona o kadar değer veriyordu ki birkaç kez yeniden dekore ettirdi."`
 `"...Ama hepinizin bildiği gibi,`
-` babam sadece kara büyüyü çok seviyordu—yani dindar bir mümin olduğu için değil.`
+` babam sadece kara büyüyü çok seviyordu—yani dini bütün biri olduğu için değil.`
 ` ......Tanrı'ya dua etmek için buraya geldiğini hiç duymadım."`
 `"......Benim bildiğim kadarıyla bile, Efendi buraya hiç gelmedi.`
 ` Hatta buraya "yasak kilise" adını vermiştik, ...umm,`
@@ -203,7 +203,7 @@
 `"......Bir gün o da orada bir kutsama görebilecekti.`
 ` Ama bir mucize gerçekleşmediği sürece, o gün asla gelmeyecekti."`
 `"Acaba bu ne demek?`
-` .........Kilisenin içinde ne oluyor?`
+` .........Kilisenin içinde ne yapılır?`
 ` Kendi cenazesini kastediyor olamaz, değil mi?"`
 `"Kinzo-san'ın böyle düşündüğünü sanmam.`
 ` ...O, ölümün sonrasından ziyade, hâlâ yaşarken, şu ana odaklanmış bir adamdı.`
@@ -400,7 +400,7 @@
 ` ...Kısa bir süre önce, ben de içeride biraz zaman geçirdim ve evet, gerçekten de kapı dışında herhangi bir giriş veya çıkış yolu bulamadım."`
 `"......Ama bu, {i:sadece bulamadığım anlamına gelir}—kilitli bir oda olduğunu kanıtlamaz!!"`
 `"Eğer bulamadığım bir "gizli geçit" ya da başka bir şey varsa, dayanak noktaların tamamen uçup gider!`
-` Başka bir deyişle, gizli bir geçit bulsam da bulamasam da, kilitli odaya girilmesini sağlayacak bir X yöntemini asla inkar edemezsin!"`
+` Başka bir deyişle, gizli bir geçit bulsam da bulamasam da, kilitli odaya girilmesini sağlayacak bir X yöntemini asla inkâr edemezsin!"`
 `"Ve bu X yöntemi büyü olmadan da gerçekleştirilebilir.`
 ` Ne de olsa bu bir "gizli geçit"!`
 ` Eminim bu kilisede bulunması imkansız gizli bir geçit vardır.`
@@ -439,13 +439,13 @@
 ` Kapı kilitliydi, bunu nasıl yaptılar?!!"`
 `"Büyüyle açtım ve onları içeri davet ettim!!"`
 `"Böyle bir şey olamaz!!`
-` Büyüyü kabul edemem, o yüzden bunu kabul etmemin imkanı yok!!`
+` Büyüyü kabul edemem, o yüzden bunu kabul etmemin imkânı yok!!`
 ` Yalan söylüyorsun!!`
 ` O kapı bir numara ile açılabilir.`
 ` Ya da belki gizli bir kapı var—başka türlüsünü kabul etmem!!"`
 `"......<Perpetual>!!`
 ` Satrançta sonsuz hamle tekrarı denilen şey budur.`
-` Her iki tarafın da birbirlerinin iddialarının temelini inkar etmesi ve tartışmayı ilerletememesi, bizim oyunumuzda hamlelerin bitmek bilmeyen bir şekilde tekrarlanmasıyla aynı şeydir."`
+` Her iki tarafın da birbirlerinin iddialarının temelini inkâr etmesi ve tartışmayı ilerletememesi, bizim oyunumuzda hamlelerin bitmek bilmeyen bir şekilde tekrarlanmasıyla aynı şeydir."`
 `"......Çoğu oyunda bu durum beraberlikle sonuçlanırdı, ancak bu durum bu oyuna olan ilgiyi korkunç derecede azaltırdı!!`
 ` Oyunumuzda beraberlik olmayacak.`
 ` Özetle, ya beni kabul edecek ve bana boyun eğeceksin ya da eğmeyeceksin!"`
@@ -473,7 +473,7 @@
 `"B-Bu da ne demek......?!`
 ` Açıklamaya devam et!"`
 `"Hangi büyülü hamleyi kullanırsam kullanayım,`
-` her zaman "bilgi eksikliği" ve "dayanağı inkar etme"yi tekrarlayarak kaçmaya devam edebilirsin."`
+` her zaman "bilgi eksikliği" ve "dayanağı inkâr etme"yi tekrarlayarak kaçmaya devam edebilirsin."`
 `"...Bu şekilde eninde sonunda kazanacak olsam da, bu son derece sıkıcı olurdu.`
 ` ......Bu nedenle, sana arzu ettiğin "bilgiyi" ve "dayanağı" vereceğim."`
 `"Ancak yine de, muhtemelen söylediğim her kelimeden şüphe duyacaksın.`
@@ -505,7 +505,7 @@
 ` Bu sadece bir gerçektir ve doğrudur!!"`
 `"Nedeni basit.`
 ` Tüm suçları büyü ile işliyorum.`
-` Yani herhangi bir imkansız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
+` Yani herhangi bir imkânsız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
 `"Ama bu bir oyun olmaz!`
 ` Bu, bir satranç oyununda zafer ve yenilgiyi görmezden gelip rakibini yumruklamak gibi bir barbarlık olur!"`
 `"G-......Gerçekten, bu doğru.`
@@ -558,7 +558,7 @@
 `"Öyleyse <Resign> vakti!!`
 ` Teslim olan oyuncunun böyle bağırması ve şahını devirmesi adettendir.`
 ` Hadi, pes ediyor musun?!`
-` Öyleyse teslim olduğunu ilan et ve kralını devirir gibi diz çök!!"`
+` Öyleyse teslim olduğunu ilan et ve kralını devirirmiş gibi diz çök!!"`
 `"Ve sonra da ayakkabılarımı öp!`
 ` Senin gibi bir adamı ayakkabılarımı yalamaya zorlamaktan daha büyük bir zevk olamaz, *cackle*cackle*cackle*cackle*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
 `.........Kahretsiiiiiiin...`
@@ -574,7 +574,7 @@
 ` Ushiromiya Battleeeeeeeeeeer...????"`
 `Kahretsin, ne yapmalıyım, ne?!!`
 ` Görebiliyorum, kendimi mat olurken görebiliyorum...!!`
-`Aaaaaaaaah, hiç iyi değil, hiç iyi değil, güçlükle yaptığım tüm o hamleler şahımı umutsuzca hareket ettirip, şahtan kaçmaktan başka bir işe yaramıyor.`
+`Aaaaaaaaah, hiç iyi değil, hiç iyi değil, güçlükle yaptığım tüm o hamleler şahımı umutsuzca hareket ettirip, mattan kaçmaktan başka bir işe yaramıyor.`
 ` ......Ne kadar hareket edersem edeyim şah çekilmekten kurtulamıyorum.`
 ` Yani sonraki birkaç hamleyi beklemeden bile, mat olacağımı görebiliyorum!!`
 ` Aaaaaaaaaaaaaaaaaaaaahhh, kahretsiiiiiiiiiin.........!!`
@@ -623,7 +623,7 @@
 ` ......İnsanların yüzyıl önce ortaya çıkardığı düşünme tekniği.`
 ` Denemekten çekinme, *cackle*cackle*!!"`
 `"...Bunu benim için kırmızıyla söyle.`
-` Eğer imkansızsa, reddet.`
+` Eğer imkânsızsa, reddet.`
 ` ...İşte geliyor."`
 `......Bu adam...savunma pozisyonunu tersine çevirmeye mi çalışıyor?`
 `{n}Küstahlık...`
@@ -677,7 +677,7 @@
 ` ......Kırmızı ile tekrar edebilir misin?`
 ` ......‘O zarf, Rosa Teyze onu açana kadar tamamen Maria'nın gözetimi altındaydı’."`
 `".........................................."`
-`"...Eğer imkansızsa, o zaman reddettiğini söyle.`
+`"...Eğer imkânsızsa, o zaman reddettiğini söyle.`
 ` Şah."`
 `"............kh, ...............Reddediyorum."`
 `"Şimdi bir turluk avantaj tersine döndü.`
