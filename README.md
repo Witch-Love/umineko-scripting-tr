@@ -194,7 +194,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L918-L936) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L641-L673) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1279-L1331) ❌
-      * [Song: Promise](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌ / ❓(this lyrics is not even used)
+      * [Song: Promise](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌ / (lyrics only appears in omake)
       * [Song: WINGS(Ver hope)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/134_tr.ass) ✅
 </details>
 
@@ -303,6 +303,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L752-L769) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1442-L1493) ❌
       * [Song: Cocoon of White Dreams -Ricordando il passato-](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/240_tr.ass) ✅
+      * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
+      * [EP8: Bern's Game Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ❌
+      * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
 </details>
 
 * <details>
@@ -311,11 +314,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
    * [credits.txt](../../tree/master/script/tr/credits.txt) ✅
    * [header.txt](../../tree/master/script/tr/header.txt) ✅
    * [menu.txt](../../tree/master/script/tr/menu.txt) ❌
-      * [EP8: Bern's Game](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
-      * [EP8: Bern's Game Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ❌
-      * [EP8: Bern's Game Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
       * [Trophies](../../blob/master/script/tr/menu.txt#L1943-L2024) ✅
-   * Song Subtitles ✅
+   * Opening Lyrics ✅
       * [PC Opening 1: When the Seagulls Cry](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/241_tr.ass) ❌ (not used)
       * [PC Opening 1: When the Seagulls Cry (Legacy)](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/legacy/sub/tr.ass) ❌ (not used)
       * [Opening 1: Igreja of Echoing Vows](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/tr.ass) ✅

@@ -158,7 +158,7 @@
 `"...Epey bilgilisin.`
 ` ......Maria'dan mı duydun?"`
 `"......Evet, öyle bir şey."`
-`"Yani, Kilise.`
+`"Demek, kilise.`
 ` ......Onları öldürmeden önce kiliseye çağırmak için onca zahmete girmişler...`
 ` ............Roza Teyze,`
 ` bu kilisenin özel bir anlamı falan var mı...?"`
@@ -326,7 +326,7 @@
 ` .........bu çok garip değil mi?"`
 `"...Bu olamaz.`
 ` .........Bu iş garipleşmeye başladı."`
-`"N-Nee demek istiyorsunuz...?`
+`"N-Ne demek istiyorsunuz...?`
 ` Neyden bahsettiğiniz hakkında en ufak bir fikrim yok..."`
 `"Benim de.`
 ` ......Birisi bize açıklama nezaketinde bulunabilir mi...?"`
@@ -502,7 +502,7 @@
 ` Kuralı tamamlayacağım."`
 `"......Gerçeği söylediğimde kırmızı kullanacağım,`
 ` ve {i:bunu yaptığımda kanıt göstererek bunu kanıtlama sorumluluğunu taşımıyorum}!`
-` Bu sadece bir gerçektir ve doğrudur!!"`
+` Bu açıkça bir doğrudur ve gerçektir!!"`
 `"Sebebi basit.`
 ` Tüm suçları büyü ile işliyorum.`
 ` Yani herhangi bir imkânsız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
@@ -664,7 +664,7 @@
 ` Maria'ya bir anahtar emanet ettiğimde, o anahtarın sahte olduğu mu?`
 ` Ve sonra, Rosa onu elde ettiğinde, gerçek olanla mı değiştirilmişti...?"`
 `"Evet, işte o.`
-` ......Neyin var, {f:5:Beatrice}-sama?`
+` ......Neyiniz var, {f:5:Beatrice}-sama?`
 ` Bir süredir kendinizi iyi hissetmiyor gibisiniz...?"`
 `"......Bana yakın olanlar bana Beato derler.`
 ` Beato daha iyi."`
