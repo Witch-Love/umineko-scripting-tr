@@ -850,7 +850,7 @@ stralias save_1_ura,":s;#FFFFFF`{p:30:Episode 1. Altın Cadı'nın Efsanesi.{n}?
 stralias save_1_xx,":s;#FFFFFF`{p:30:Episode 1. Altın Cadı'nın Efsanesi.{n}Omake 1}`"
 ;ep2
 stralias save_2_op,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}Prolog}`"
-stralias save_2_01,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}{qt}Mobilya{qt}`"
+stralias save_2_01,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}{qt}Mobilya{qt}}`"
 stralias save_2_02,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}Muhteşem Ütopya}`"
 stralias save_2_03,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}Okul Kültür Festivali}`"
 stralias save_2_04,":s;#FFFFFF`{p:30:Episode 2. Altın Cadı'nın Hamlesi.{n}4/10 (Cmt) Satranç Tahtası Hazırlıkları}`"
@@ -900,7 +900,7 @@ stralias save_4_03,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}
 stralias save_4_04,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Kırmızı Gerçek, Mavi Gerçek}`"
 stralias save_4_05,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Ange'in Hatıraları}`"
 stralias save_4_06,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Mariage Sorcière}`"
-stralias save_4_07,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Fanteziye Davetiye"	
+stralias save_4_07,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Fanteziye Davetiye}`"	
 stralias save_4_08,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Benim Dünyam}`"
 stralias save_4_09,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Sakutaro}`"
 stralias save_4_10,":s;#FFFFFF`{p:30:Episode 4. Altın Cadı'nın İttifakı.{n}Cadı'nın Adasına}`"
@@ -1008,7 +1008,7 @@ stralias saveload_load_button_b,":a/2,0,3;graphics\menu_en\save\saveload_load_bu
 stralias sess_real_world,"Gerçek zaman"
 stralias sess_total_clicks,"Toplam tıklama"
 stralias sess_total_time,"Toplam oyun süresi"
-stralias sess_current_track,"Güncel Müzik"
+stralias sess_current_track,"Çalan Müzik"
 
 ;Captions
 stralias chars_caption,":a;graphics\menu_tr\chars\chars_caption.png"
