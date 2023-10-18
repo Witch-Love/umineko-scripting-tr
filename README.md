@@ -323,13 +323,13 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chiru Opening 2: Inanna’s Dream](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/op4_tr.ass) ✅
       * [Chiru Opening 3: The Pithos in the Fog](https://github.com/Witch-Love/umineko-scripting-tr-files/tree/master/files/video/sub/op78_tr.ass) ✅
    * Omake ❌
-      * [Omake 1 ❌](../../tree/master/story/omake/tr/umio1.txt)
+      * [Omake 1 ✅](../../tree/master/story/omake/tr/umio1.txt)
       * [Omake 2 ❌](../../tree/master/story/omake/tr/umio2.txt)
-      * [Omake 3 ❌](../../tree/master/story/omake/tr/umio3.txt)
+      * [Omake 3 ✅](../../tree/master/story/omake/tr/umio3.txt)
       * [Omake 4 ❌](../../tree/master/story/omake/tr/umio4.txt)
       * [Omake 5 ❌](../../tree/master/story/omake/tr/umio5.txt)
-      * [Omake 6 ❌](../../tree/master/story/omake/tr/umio6.txt)
-      * [Omake 7 ❌](../../tree/master/story/omake/tr/umio7.txt)
+      * [Omake 6 ✅](../../tree/master/story/omake/tr/umio6.txt)
+      * [Omake 7 ✅](../../tree/master/story/omake/tr/umio7.txt)
       * [Omake 8 ❌](../../tree/master/story/omake/tr/umio8.txt)
       * [Omake 9 ❌](../../tree/master/story/omake/tr/umio9.txt)
 </details>

@@ -53,6 +53,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Book of Psalms `->` Mezmurlar Kitabı
    * Butler `->` Uşak
    * Chapel `->` Kilise
+   * Circumstantial Evidence `->` Dolaylı Kanıt
    * Conference `->` Konferans
    * Courtroom `->` Mahkeme Salonu
    * Culprit `->` Suçlu
