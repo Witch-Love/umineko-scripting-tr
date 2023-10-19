@@ -220,6 +220,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 16](../../tree/master/story/ep6/tr/umi6_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep6/tr/umi6_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep6/tr/umi6_18.txt) ❌
+         * [Song: birth of new witch(Short Ver)](../../../umineko-scripting-tr-files/tree/master/files/video/sub/160_tr.ass) ✅
       * [Chapter 19](../../tree/master/story/ep6/tr/umi6_19.txt) ❌
       * [Chapter 20](../../tree/master/story/ep6/tr/umi6_20.txt) ❌
          * [Song: FISHYAROMA](../../../umineko-scripting-tr-files/tree/master/files/video/sub/161_tr.ass) ✅
@@ -231,7 +232,6 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L937-L958) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L674-L712) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1332-L1401) ❌
-      * [Song: birth of new witch(Short Ver)](../../../umineko-scripting-tr-files/tree/master/files/video/sub/160_tr.ass) ✅
 </details>
 
 * <details>
@@ -327,10 +327,10 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Omake 3 ✅](../../tree/master/story/omake/tr/umio3.txt)
       * [Omake 4 ❌](../../tree/master/story/omake/tr/umio4.txt)
       * [Omake 5 ❌](../../tree/master/story/omake/tr/umio5.txt)
-         * [Song: Promise](../../../umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌
       * [Omake 6 ✅](../../tree/master/story/omake/tr/umio6.txt)
       * [Omake 7 ✅](../../tree/master/story/omake/tr/umio7.txt)
       * [Omake 8 ❌](../../tree/master/story/omake/tr/umio8.txt)
+         * [Song: Promise](../../../umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌
       * [Omake 9 ❌](../../tree/master/story/omake/tr/umio9.txt)
 </details>
 
