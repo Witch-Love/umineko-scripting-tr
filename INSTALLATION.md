@@ -1,8 +1,8 @@
 # KURULUM
 
-## Önemli Telif Hakkı Uyarısı
+### Önemli Telif Hakkı Uyarısı
 
-Alttaki metin [Umineko Project](https://umineko-project.org/)'in sitesinden alınmıştır.
+Alttaki metin [Umineko Project](https://umineko-project.org/en/copyright-message/)'in sitesinden alınmıştır.
 
 ```
 This game may violate various copyrights of Ryukishi07, Alchemist, artists, musicians, voice actors, translators, and more.
@@ -32,44 +32,70 @@ Bu açıklamayı kabul ediyorsanız, lütfen "[Downloads](https://umineko-projec
 
 **NOT:** Android kurulumu için [buraya](https://uminekoprojectandroid.neocities.org) bakabilirsiniz.
 
-## Adım 1: "Resources" İndirmeleri
+-----
+
+## Umineko Project Kurulumu
+
+> [!NOTE]
+> Eğer Umineko Project'i çoktan kurduysanız [Türkçe Patch Kurulumu](#türkçe-patch-kurulumu)'na atlayabilirsiniz.
+
+### Adım 1: "Resources" İndirmeleri
 
 **İlk olarak:** Bilgisayarınızın herhangi bir yerinde yeni bir klasör oluşturun. İsmi önemli değil, istediğinizi yapabilirsiniz. İndirdiğiniz dosyaları bu klasörde toplayacak ve oyunu bu klasörden açacaksınız.
 
 **İkincisi:** İndirme sayfasında "Resources" başlıklı bir kısım göreceksiniz. Burada indirmeniz gereken toplam on iki (12) dosya mevcut. Her dosya için seçebileceğiniz üç farklı indirme kaynağı var. Burada 3. kaynağı kullanmanızı öneririm çünkü en hızlı olanı o.
 
-![](https://i.imgur.com/0a5u0Or.png)
+<img src="https://i.imgur.com/0a5u0Or.png" width="1000">
 
-Şimdi burada önemli bir kısım var. Bu indirdiğiniz 12 dosyanın hepsi aslında tek bir dosyanın bölünmüş hali. Yani, hepsini tamamen indirene kadar bu dosyaları (yani dosyayı) açamazsınız. SADECE AMA SADECE bu 12 dosyanın hepsi indikten ve hepsini aynı klasörde topladıktan sonra *`umiproj_31.12.19.7z.001`* adlı dosyayı açabileceksiniz.
+Şimdi burada önemli bir kısım var. Bu indirdiğiniz 12 dosyanın hepsi aslında tek bir dosyanın bölünmüş hali. Yani, hepsini tamamen indirene kadar bu dosyaları (yani dosyayı) açamazsınız. **SADECE AMA SADECE** bu 12 dosyanın hepsini indirdikten ve hepsini aynı klasörde topladıktan sonra *`umiproj_31.12.19.7z.001`* adlı dosyayı açabileceksiniz.
 
-**Üçüncüsü:** On iki dosyanın tamamı indirildikten sonra yapmanız gereken şey WinRAR gibi bir program kullanarak *`umiproj_31.12.19.7z.001`* adlı dosyayı açmaktır. Şifre: `035646750436634546568555050`
+**Üçüncüsü:** On iki dosyanın tamamı indirildikten sonra yapmanız gereken şey WinRAR gibi bir arşiv programı kullanarak *`umiproj_31.12.19.7z.001`* adlı dosyayı açmaktır. Şifre: `035646750436634546568555050`
 
 Dosyayı açtıktan sonra dosyayı önceden oluşturmuş olduğunuz klasöre çıkarın. Bu adım neredeyse oyunun tüm dosyalarını içerdiğinden bilgisayarınızın hızına bağlı olarak biraz zaman alacaktır.
 
-## Adım 2: "Script" İndirmesi
+-----
+
+### Adım 2: "Script" İndirmesi
 
 Bu adım basit. Sadece "Scripts" başlıklı kısımdaki tek dosyayı indirin ve klasörünüze çıkarın.
 
-![](https://i.imgur.com/GIp8Gdp.png)
+<img src="https://i.imgur.com/GIp8Gdp.png" width="700">
 
-## Adım 3: "Game Engine" İndirmesi
+-----
+
+### Adım 3: "Game Engine" İndirmesi
 
 Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indirin ve klasörünüze çıkarın.
 
-![](https://i.imgur.com/F35o4lp.png)
+Bu adımla beraber Umineko Project kurulumu tamamlanıyor. Türkçe Patch'i kurmak için bir sonraki adımı da tamamlayın.
 
-## Adım 4: "Türkçe Patch"
+> [!NOTE]
+> Windows kullananlar `Windows XP` ve `32-bit` yazdığına aldırış etmesinler. Bunu indirmeniz gerekiyor.
 
-[Releases](../../releases) sayfasından son sürüm Türkçe scriptleri,  
-[Dosyalar](https://github.com/Witch-Love/umineko-scripting-tr-files/releases) sayfasından da Türkçe dosyaları indirin ve diğer adımlardaki gibi klasörünüze çıkarın.
+<img src="https://i.imgur.com/F35o4lp.png" width="700">
 
-![](https://i.imgur.com/VVuf607.png)
-![](https://i.imgur.com/ylfhA3d.png)
+-----
 
-## Adım 5: Artık oyunu başlatabilirsiniz!
+## Türkçe Patch Kurulumu
 
-Klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabilirsiniz. Bazen sıkıntı çıkabildiğinden dolayı yönetici olarak çalıştırırsanız daha iyi olur.
+[Releases](../../releases/latest) sayfasından Türkçe scriptleri,  
+[Dosyalar](../../../umineko-scripting-tr-files/releases/latest) sayfasından da Türkçe dosyaları indirin.
 
-**NOT:** Çeviri çalışması hâlâ devam ettiği için scriptlerinizin ve dosyalarınızın güncel olduğundan emin olup oynamanız daha iyi olacaktır. Bir chapter çevirisi her bittiğinde veya güncelleme yaptığımızda yeni sürüm yayınlıyoruz. Türkçe yamayı güncellemek için [Adım 4](#adım-4-türkçe-patch)'ü tekrarlamanız yeterlidir.
+İndirdiğiniz bu iki arşiv dosyasını da önceki adımlardaki gibi klasörünüze çıkarın.
 
-![](https://i.imgur.com/g3vlw1d.png)
+<img src="https://i.imgur.com/VVuf607.png" width="600">
+
+<img src="https://i.imgur.com/ylfhA3d.png" width="600">
+
+-----
+
+### Kurulum Tamamlandı
+
+Artık klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabilirsiniz!  
+Oyunu açtıktan sonra oyun dilini `Witch Love` olarak ayarladığınızda oyununuz Türkçe olacaktır. İyi okumalar!
+
+**Notlar:**
+- Oyunda herhangi bir sorunla karşılaşırsanız yönetici olarak çalıştırmayı deneyin.
+- Çeviri çalışması hâlâ devam ettiği için scriptlerinizin ve dosyalarınızın güncel olduğundan emin olup oynamanız daha iyi olacaktır. Bir chapter çevirisi her bittiğinde veya önemli bir güncelleme yaptığımızda yeni sürüm yayınlıyoruz. Türkçe yamayı güncellemek için [Türkçe Patch Kurulumu](#türkçe-patch-kurulumu) adımını tekrarlamanız yeterlidir.
+
+<img src="https://i.imgur.com/g3vlw1d.png" width="700">

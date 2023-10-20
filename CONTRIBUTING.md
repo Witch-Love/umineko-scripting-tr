@@ -1,8 +1,8 @@
-[guncel-dosya]: ../../tree/master/README.md#ilerleme
+[ilerleme]: ../../tree/master/README.md#ilerleme
 
 # Çeviriye Katkıda Bulunmak
 
-Çevirmekte olduğumuz güncel dosya: [**Tıkla**][guncel-dosya]
+Çeviri İlerlemesi: [**Tıkla**][ilerleme]
 
 ## Nasıl Katkıda Bulunabilirsiniz?
 
@@ -24,8 +24,8 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
 
 ## Çeviri Kuralları
 
->**`DİKKAT!`**  
->Umineko'yu tamamen bitirmediyseniz aşağıdaki terimlerden bazılarını görmeniz (dolaylı olarak varlığını öğrenmiş oluyorsunuz) hikaye üzerindeki muhakemenizi (akıl yürütmenizi) muhtemelen etkileyecek. Bu nedenle buraya yalnızca Umineko'ya hakimseniz bakmanızı öneriyoruz.
+> [!WARNING]
+> **`DİKKAT!`** *Umineko'yu tamamen bitirmediyseniz aşağıdaki terimlerden bazılarını görmeniz (dolaylı olarak varlığını öğrenmiş oluyorsunuz) hikaye üzerindeki muhakemenizi (akıl yürütmenizi) muhtemelen etkileyecek. Bu nedenle buraya yalnızca Umineko'ya hakimseniz bakmanızı öneriyoruz.*
 
 1. "sen" ve "siz" hitapları:
    * Battler'ın okuyuculara hitap ettiği cümleler "-siz" olmalı.
@@ -58,6 +58,7 @@ Düzenli olarak katkıda bulunmayı düşünüyorsanız [Discord sunucumuz](http
    * Courtroom `->` Mahkeme Salonu
    * Culprit `->` Suçlu
    * Crest `->` Arma
+   * Crime Scene `->` Suç Mahalli
    * Delusion `->` Kuruntu
    * Demon `->` İblis
    * Demons' Roulette `->` İblislerin Ruleti

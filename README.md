@@ -2,22 +2,15 @@
 
 [![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok. Gönüllü çevirmenler ara ara çeviriye katkıda bulunursa yavaş yavaş çevirilerimizi ilerletebiliriz.
+Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok, acele etmek yerine kaliteli çeviri yapmak önceliğimiz. Gönüllü çevirmenler vakit buldukça çeviriye katkıda bulunursa çevirilerimizi ilerletebiliriz.
 
-Çeviriye katkıda bulunmak istiyorsanız [**buraya**](../../tree/master/CONTRIBUTING.md) göz atabilirsiniz.
+Çeviriye katkıda bulunmak / bizimle beraber çeviri yapmak istiyorsanız [**buraya**](../../tree/master/CONTRIBUTING.md) göz atabilirsiniz.
 
-## Kurulum
+### Kurulum
+Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından ulaşabilirsiniz.
 
-1. [Umineko Project](https://umineko-project.org/en/)'i kurun. [(Nasıl?)](../../tree/master/INSTALLATION.md)
-2. [Releases](../../releases) sayfasından son sürüm Türkçe scriptleri indirin.
-3. [Dosyalar](../../../umineko-scripting-tr-files/releases) sayfasından son sürüm Türkçe dosyaları indirin.
-4. Adım 2 ve 3'te indirdiğiniz tüm dosyaları oyun klasörünün içine atın.
-5. Oyunu başlattıktan sonra oyun dilini `Witch Love` olarak ayarlayın. Hepsi bu!
-
-Çeviri çalışması hâlâ devam ettiği için scriptlerinizin güncel olduğundan emin olup oynamanız iyi olacaktır. Bir chapter çevirisi her bittiğinde yeni sürüm yayınlıyoruz.
-
-## İletişim
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @\_singularity\_
+### İletişim
+- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
 ## İlerleme
@@ -25,7 +18,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 1 ✅</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
       * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅
       * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅
       * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅
@@ -43,8 +36,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ✅
       * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ✅
       * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ✅
-      * [Chapter 18](../../tree/master/story/ep1/tr/umi1_18.txt) ✅
-      * [Chapter 19](../../tree/master/story/ep1/tr/umi1_19.txt) ✅
+      * [Chapter 18 (Tea Party)](../../tree/master/story/ep1/tr/umi1_18.txt) ✅
+      * [Chapter 19 (Hidden Tea Party)](../../tree/master/story/ep1/tr/umi1_19.txt) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2-L9) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L296-L303) ✅
@@ -59,7 +52,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 2 ✍️</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
       * [Chapter 1](../../tree/master/story/ep2/tr/umi2_1.txt) ✅
       * [Chapter 2](../../tree/master/story/ep2/tr/umi2_2.txt) ✅
       * [Chapter 3](../../tree/master/story/ep2/tr/umi2_3.txt) ✅
@@ -78,9 +71,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ❌
-      * [Chapter 19](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
-      * [Chapter 20](../../tree/master/story/ep2/tr/umi2_20.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11-L18) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305-L312) ✅
@@ -95,7 +88,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 3 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep3/tr/umi3_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ❌
@@ -114,8 +107,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 16](../../tree/master/story/ep3/tr/umi3_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep3/tr/umi3_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep3/tr/umi3_18.txt) ❌
-      * [Chapter 19](../../tree/master/story/ep3/tr/umi3_19.txt) ❌
-      * [Chapter 20](../../tree/master/story/ep3/tr/umi3_20.txt) ❌
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep3/tr/umi3_19.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep3/tr/umi3_20.txt) ❌
          * [Song: activepain](../../../umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L20-L26) ✅
@@ -131,7 +124,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 4 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep4/tr/umi4_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep4/tr/umi4_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep4/tr/umi4_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep4/tr/umi4_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep4/tr/umi4_3.txt) ❌
@@ -151,9 +144,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 17](../../tree/master/story/ep4/tr/umi4_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep4/tr/umi4_18.txt) ❌
       * [Chapter 19](../../tree/master/story/ep4/tr/umi4_19.txt) ❌
-      * [Chapter 20](../../tree/master/story/ep4/tr/umi4_20.txt) ❌
+      * [Chapter 20 (Tea Party)](../../tree/master/story/ep4/tr/umi4_20.txt) ❌
          * [Song: Discode](../../../umineko-scripting-tr-files/tree/master/files/video/sub/109_tr.ass) ✅
-      * [Chapter 21](../../tree/master/story/ep4/tr/umi4_21.txt) ❌
+      * [Chapter 21 (Hidden Tea Party)](../../tree/master/story/ep4/tr/umi4_21.txt) ❌
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L28-L35) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L322-L329) ❌
@@ -168,7 +161,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 5 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep5/tr/umi5_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep5/tr/umi5_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep5/tr/umi5_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep5/tr/umi5_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep5/tr/umi5_3.txt) ❌
@@ -184,8 +177,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 13](../../tree/master/story/ep5/tr/umi5_13.txt) ❌
       * [Chapter 14](../../tree/master/story/ep5/tr/umi5_14.txt) ❌
       * [Chapter 15](../../tree/master/story/ep5/tr/umi5_15.txt) ❌
-      * [Chapter 16](../../tree/master/story/ep5/tr/umi5_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep5/tr/umi5_17.txt) ❌
+      * [Chapter 16 (Tea Party)](../../tree/master/story/ep5/tr/umi5_16.txt) ❌
+      * [Chapter 17 (Hidden Tea Party)](../../tree/master/story/ep5/tr/umi5_17.txt) ❌
          * [Song: WINGS(Ver hope)](../../../umineko-scripting-tr-files/tree/master/files/video/sub/134_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L38-L42) ✅
@@ -201,7 +194,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 6 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep6/tr/umi6_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep6/tr/umi6_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep6/tr/umi6_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep6/tr/umi6_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep6/tr/umi6_3.txt) ❌
@@ -221,8 +214,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 17](../../tree/master/story/ep6/tr/umi6_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep6/tr/umi6_18.txt) ❌
          * [Song: birth of new witch(Short Ver)](../../../umineko-scripting-tr-files/tree/master/files/video/sub/160_tr.ass) ✅
-      * [Chapter 19](../../tree/master/story/ep6/tr/umi6_19.txt) ❌
-      * [Chapter 20](../../tree/master/story/ep6/tr/umi6_20.txt) ❌
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep6/tr/umi6_19.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep6/tr/umi6_20.txt) ❌
          * [Song: FISHYAROMA](../../../umineko-scripting-tr-files/tree/master/files/video/sub/161_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L44-L46) ✅
@@ -238,7 +231,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 7 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep7/tr/umi7_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep7/tr/umi7_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep7/tr/umi7_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep7/tr/umi7_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep7/tr/umi7_3.txt) ❌
@@ -257,8 +250,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 16](../../tree/master/story/ep7/tr/umi7_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep7/tr/umi7_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep7/tr/umi7_18.txt) ❌
-      * [Chapter 19](../../tree/master/story/ep7/tr/umi7_19.txt) ❌
-      * [Chapter 20](../../tree/master/story/ep7/tr/umi7_20.txt) ❌
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep7/tr/umi7_19.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep7/tr/umi7_20.txt) ❌
          * [Song: without a name ver.sakura ED-size](../../../umineko-scripting-tr-files/tree/master/files/video/sub/186_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L48-L49) ✅
@@ -274,7 +267,7 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
   <summary>Episode 8 ❌</summary>
 
    * Story
-      * [Chapter 0](../../tree/master/story/ep8/tr/umi8_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep8/tr/umi8_op.txt) ❌
       * [Chapter 1](../../tree/master/story/ep8/tr/umi8_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep8/tr/umi8_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep8/tr/umi8_3.txt) ❌
@@ -282,9 +275,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 5](../../tree/master/story/ep8/tr/umi8_5.txt) ❌
       * [Chapter 6](../../tree/master/story/ep8/tr/umi8_6.txt) ❌
       * [Chapter 7](../../tree/master/story/ep8/tr/umi8_7.txt) ❌
-         * [EP8: Bern's Puzzle](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
-         * [EP8: Bern's Puzzle Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ✅
-         * [EP8: Bern's Puzzle Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
+         * [Bern's Puzzle](../../blob/master/script/tr/menu.txt#L1494-L1505) ❌
+         * [Bern's Puzzle Menu](../../blob/master/script/tr/menu.txt#L1848-L1878) ✅
+         * [Bern's Puzzle Hints](../../blob/master/script/tr/menu.txt#L1880-L1940) ❌
       * [Chapter 8](../../tree/master/story/ep8/tr/umi8_8.txt) ❌
       * [Chapter 9](../../tree/master/story/ep8/tr/umi8_9.txt) ❌
       * [Chapter 10](../../tree/master/story/ep8/tr/umi8_10.txt) ❌
@@ -294,8 +287,8 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Chapter 14](../../tree/master/story/ep8/tr/umi8_14.txt) ❌
       * [Chapter 15](../../tree/master/story/ep8/tr/umi8_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep8/tr/umi8_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep8/tr/umi8_17.txt) ❌
-      * [Chapter 18](../../tree/master/story/ep8/tr/umi8_18.txt) ❌
+      * [Chapter 17 (Tea Party)](../../tree/master/story/ep8/tr/umi8_17.txt) ❌
+      * [Chapter 18 (Hidden Tea Party)](../../tree/master/story/ep8/tr/umi8_18.txt) ❌
          * [Song: Cocoon of White Dreams -Ricordando il passato-](../../../umineko-scripting-tr-files/tree/master/files/video/sub/240_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L51-L54) ✅
@@ -334,7 +327,9 @@ Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabil
       * [Omake 9 ❌](../../tree/master/story/omake/tr/umio9.txt)
 </details>
 
-### Credits
+-----
+
+## Credits
 - Umineko Project
 - Knox Translations
 - SNS Team
