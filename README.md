@@ -64,8 +64,8 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 9](../../tree/master/story/ep2/tr/umi2_9.txt) ✅
       * [Chapter 10](../../tree/master/story/ep2/tr/umi2_10.txt) ✅
       * [Chapter 11](../../tree/master/story/ep2/tr/umi2_11.txt) ✅
-      * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) `<- Burdayız`
-      * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) ❌
+      * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) ✅
+      * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) `<- Burdayız`
       * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ❌
       * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ❌
