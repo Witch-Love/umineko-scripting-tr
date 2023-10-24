@@ -688,7 +688,7 @@
 `Her biri tam on kilogram ağırlığında olan üç altın külçesi...masanın tam ortasına yığılmıştı!`
 ` Eğer bir doğum günü partisi olsaydı pastanın konulacağı yerdelerdi.`
 `...Başka bir deyişle, bu hiç şüphesiz aile konferansı olarak bilinen partinin doğum günü pastasıydı!`
-`"Eğer bunlar gerçekten dört-dokuz saflıkta külçeler ise...`
+`"Eğer bunlar gerçekten {ruby:99.99%:dört dokuz} saflıkta külçeler ise...`
 ` ...nn, *yutkunma*.`
 ` Onlar, onlar yaklaşık 60 milyon yen değerinde!"`
 `"Seni şerefsiiiiz!!`

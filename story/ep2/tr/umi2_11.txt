@@ -158,7 +158,7 @@
 `"...Epey bilgilisin.`
 ` ......Maria'dan mı duydun?"`
 `"......Evet, öyle bir şey."`
-`"Yani, Kilise.`
+`"Demek, kilise.`
 ` ......Onları öldürmeden önce kiliseye çağırmak için onca zahmete girmişler...`
 ` ............Roza Teyze,`
 ` bu kilisenin özel bir anlamı falan var mı...?"`
@@ -326,7 +326,7 @@
 ` .........bu çok garip değil mi?"`
 `"...Bu olamaz.`
 ` .........Bu iş garipleşmeye başladı."`
-`"N-Nee demek istiyorsunuz...?`
+`"N-Ne demek istiyorsunuz...?`
 ` Neyden bahsettiğiniz hakkında en ufak bir fikrim yok..."`
 `"Benim de.`
 ` ......Birisi bize açıklama nezaketinde bulunabilir mi...?"`
@@ -422,7 +422,7 @@
 ` Christie muhtemelen mezarında dişlerini gıcırdatıyordur!"`
 `"Hmph!!`
 ` Ama ben farklıyım.`
-` Ben gerçek bir kilitli oda doğurdum!`
+` Ben gerçek bir kilitli oda yarattım!`
 ` Ve bunu kanıtlayabilirim.`
 ` Nasıl mı?`
 ` Ben bir cadı olduğum için!!"`
@@ -468,7 +468,7 @@
 `"Kapıdan geçtiklerini söyledin, ve ben de bunun mümkün olamayacağını söyleyerek reddettim.`
 ` ......Bunun kaçamak bir cevap olduğunu mu söylüyorsun?"`
 `"Evet.`
-` Şu andan itibaren,`
+` Yani şimdiden itibaren,`
 ` {p:1:gerçeği söylediğimde kırmızı kullanacağım}."`
 `"B-Bu da ne demek......?!`
 ` Açıklamaya devam et!"`
@@ -481,7 +481,7 @@
 ` Ayrıca boyun eğmen için mümkün olan her şeyi yapacağım.`
 ` Kendi hedeflerimiz için en iyi hamlelerimizi arayıp bulma konusundaki tutumumuzdan hoşlanmıyor değilim."`
 `"......Ama bu bir oyun olmaz.`
-` Bu yüzden bu kuralı koydum."`
+` Bu nedenle bu kuralı koydum."`
 `"`
 `{p:1:Kırmızıyla söylediğim her şey gerçektir}!`
 ` Bundan şüphe duymaya kesinlikle gerek yok!"`
@@ -502,8 +502,8 @@
 ` Kuralı tamamlayacağım."`
 `"......Gerçeği söylediğimde kırmızı kullanacağım,`
 ` ve {i:bunu yaptığımda kanıt göstererek bunu kanıtlama sorumluluğunu taşımıyorum}!`
-` Bu sadece bir gerçektir ve doğrudur!!"`
-`"Nedeni basit.`
+` Bu açıkça bir doğrudur ve gerçektir!!"`
+`"Sebebi basit.`
 ` Tüm suçları büyü ile işliyorum.`
 ` Yani herhangi bir imkânsız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
 `"Ama bu bir oyun olmaz!`
@@ -583,7 +583,7 @@
 `......Pes etme, Ushiromiya Battler.`
 `{n}Eğer kendimi kapana kısılmış görürsem...`
 `......O zaman satranç tahtasını ters çevirebilir...... ve bir sonraki hamleyi tahmin edebilirim, değil mi...?`
-`Kyrie-san'ın dediğini hatırla.`
+`Kyrie-san'ın dediğini hatırla...`
 ` Bir şeyi düşünürken, sona ne kadar, ne kadar yakın olursan, ......onu tahmin etmek de o kadar kolaylaşır.`
 `Ters çevir.`
 `{n}......Satranç tahtasını...ters çevir...!!`
@@ -664,13 +664,13 @@
 ` Maria'ya bir anahtar emanet ettiğimde, o anahtarın sahte olduğu mu?`
 ` Ve sonra, Rosa onu elde ettiğinde, gerçek olanla mı değiştirilmişti...?"`
 `"Evet, işte o.`
-` ......Neyin var, {f:5:Beatrice}-sama?`
+` ......Neyiniz var, {f:5:Beatrice}-sama?`
 ` Bir süredir kendinizi iyi hissetmiyor gibisiniz...?"`
-`"......Yakınlarım bana bazen Beato derler.`
-` Beato iyi."`
+`"......Bana yakın olanlar bana Beato derler.`
+` Beato daha iyi."`
 `"Beato, senin sıran."`
-`"<Turn of the golden witch!>`
-` ......Bunu nasıl yendiğini göster bana."`
+`"<{ruby:Altın Cadı'nın Hamlesi:Turn of the Golden Witch}!>`
+` ......Bunu nasıl yeneceğini göster."`
 `"............Pekâlâ.`
 ` ...{p:1:Maria'ya verdiğim zarfın içindeki nesne gerçekten de kilisenin anahtarıydı}."`
 `"Devam ediyorum.`
@@ -680,7 +680,7 @@
 `"...Eğer imkânsızsa, o zaman reddettiğini söyle.`
 ` Şah."`
 `"............kh, ...............Reddediyorum."`
-`"Şimdi bir turluk avantaj tersine döndü.`
+`"Şimdi bir turluk avantajın tersine döndü.`
 ` ...Şimdi senin kralının kaçma vakti, Beato."`
 `"......Ehh, reddetmemin bir sebebi var.`
 ` Bu, "onun gözetimi altında" ifadesinin tanımıyla ilgili.`
@@ -696,10 +696,10 @@
 ` Kadınları incitmem.`
 ` {i:Bir kadının beklentilerine ihanet etmem}!"`
 `".........Benim için kırmızıyla tekrarla—tabii eğer yapabiliyorsan.`
-` "Maria'nın çantasına, Rosa Teyze zarfı alıncaya kadar kimse dokunamadı"."`
+` "Maria'nın çantasına, Rosa Teyze zarfı alıncaya kadar kimse dokunmadı"."`
 `"........................Bunu da......reddediyorum.`
 ` ...Nedenini açıklamayacağım."`
-`"Bu yanlış.`
+`"Yanlış.`
 ` ......Açıklamayacağından değil.`
 ` Açıklayamazsın.`
 ` .........Bu hamleyle şah mat oldu, değil mi...?"`
@@ -711,7 +711,7 @@
 ` Maria çantayı tamamen gözetim altında tutmuyordu!`
 ` Büyüye gerek yok.`
 ` Bu bir insan için mümkün olan bir kilitli oda numarası!"`
-`"{y:0:İnsan}{n:0:insan} suçlu Maria'ya anahtarı verdi,`
+`"Suçlu {y:0:İnsan}{n:0:insan}, Maria'ya anahtarı verdi,`
 ` ve ertesi sabah Rosa Teyze'nin anahtarı kullanmasını sağlayarak ortada kilitli bir oda olduğu illüzyonunu yarattı."`
 `"Bu süre zarfında Maria'nın çantasından anahtarı alan suçlunun anahtarı kullanmış,`
 ` ve sabaha karşı çantaya geri koymuş olma ihtimalini inkâr edemezsin!!"`
@@ -726,10 +726,10 @@
 `"Tekrarla!!`
 ` "Dün öğle saatlerinde teslim edilen zarf ile Rosa Teyze'nin açtığı zarf aynı zarftı"."`
 `"B-Bunu tekrarlayabilirim.`
-` {p:1:Maria'ya verdiğim zarf ile Rosa'nın açtığı zarf aynı zarf}!!"`
+` {p:1:Maria'ya verdiğim zarf ile Rosa'nın açtığı zarf aynı zarftı}!!"`
 `"......Haah...!`
 ` ...Aaaaah, bu hiç iyi değil, hiç de iyi değil.`
-` Bu artık kimin umurunda?"`
+` Bu artık kimin umrunda?"`
 `"...Senden beklentilerim vardı.`
 ` ......Eğer burada teslim olmuş olsaydın, senin satır aralarını okumakta oldukça iyi biri olduğunu düşünebilirdim.`
 ` ......Bu yüzden hayal kırıklığına uğradım.`
@@ -761,10 +761,10 @@
 ` Gerçek bu."`
 `"Maria'nın anahtarı bu sabah Rosa Teyze'nin eline geçmeden önce, bir noktada başka birinin eline geçti."`
 `"Sonra onu kullandılar, zarfı tekrar mühürlediler ve Maria'nın çantasına geri koyarak hiç kullanılmamış gibi gösterdiler!"`
-`"Bu, mühürlü balmumu bozulmadığı için anahtarın kullanılmadığı varsayımına dayanan ucuz bir hile!"`
+`"Bu, mühürlü balmumu bozulmadığı için anahtarın kullanılmadığı iddiasına dayanan ucuz bir hile!"`
 `"Şah mat!!`
 ` Büyü falan yok, insanlar için mümkün olan bir numaradan başka bir şey değil!!"`
-`"Bu durumda... Anahtarı kim çaldı diyorsun?!`
+`"O zaman... Anahtarı kim çaldı diyorsun?!`
 ` Cevap vermeyi dene!`
 ` Bu sefer, sen tekrar etmeyi dene...!!"`
 `"Evet, sana sürekli bir şeyleri tekrar ettiriyorum.`
