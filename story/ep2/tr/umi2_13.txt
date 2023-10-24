@@ -44,7 +44,7 @@
 ` "Kurtlar ve Koyunlar Bulmacası" mı?`
 ` ..................Bir bakalım."`
 `"Kurtlar ve Koyunlar Bulmacası".`
-`{n}Bu, Rosa Teyze'nin bu sabah Jessica'yı kontrole gittiğimiz sırada söylediği bir ifadeydi.`
+`{n}Bu, Rosa Teyze'nin bu sabah Jessica'yı kontrol etmeye sırada söylediği bir ifadeydi.`
 `...O sırada bunun ne anlama geldiğini bilmiyordum ve daha sonra Jessica'nın cesedi bulunduğunda çıkan kargaşadan dolayı bunu tamamen unutmuştum.`
 `Maria'nın bana uzattığı kitap yabancı bir resimli kitaba ya da çevrilmiş bir şeye benziyordu.`
 `Kitabı açtığımda içinde çeşitli bulmacalar olduğunu gördüm.`
@@ -198,7 +198,7 @@
 ` Diğer hizmetkârlar bir yana, en azından Kanon-kun'un kapıyı kilitleyememesi gerekirdi!"`
 `"......Anladım.`
 ` ...Rosa Teyze, demek bu yüzden Jessica'nın odasına girdikten hemen sonra bize dolabı ve diğer her yeri aramamızı söyledin.`
-` ......Rosa Teyze, ...aklın normal görünüşüne bakarak düşündüğümden daha hızlı çalışıyor."`
+` ......Rosa Teyze, ...zihnin bir bakışta tahmin edebileceğimden daha hızlı çalışıyor."`
 `"Küçük bir kız kardeşin beyin hızı her zaman büyük kız kardeşin eksi 1'i kadardır.`
 ` ...Artık endişelenmem gereken kimse olmadığı için mutluyum."`
 `George-aniki onun Eva Teyze'den bahsettiğini fark etti,`
@@ -210,7 +210,7 @@
 `"Öyle değil, Aniki.`
 ` ......Eğer Rosa Teyze'nin hayal ettiği şekilde yapıldıysa, ......bu numara sadece Kanon-kun tarafından uygulanabilir."`
 `"...Ve Jessica'nın cebinde hâlâ master anahtar varken kapı anahtarsız kilitlenebilirdi.`
-` ......Ve sonuç olarak cesedi de ortadan kaybolurdu."`
+` ......Ve, sonuç olarak, cesedi de ortadan kaybolurdu."`
 `"N-......Nasıl?!`
 ` Anahtar olmadan kapıyı nasıl kilitleyecek?!"`
 `"Çok basit.`
@@ -250,8 +250,8 @@
 `"......O ikisini öldürüp kapıyı içeriden kilitlediğini düşündüm.`
 ` Ve Kanon-kun'un cesedini normal insanların fark etmeyeceği gizli bir yöntemle taşıdın.`
 ` ......Yani, kaçmak için gizli bir kapı kullandın."`
-`"Ancak bunu bana kırmızıyla söyledin.`
-` ...O odada hiç gizli kapı olmadığını söylemiştin."`
+`"Ancak bunu bana kırmızıyla söylemiştin.`
+` ...O odada hiç gizli kapı olmadığını belirttin."`
 `"Evet.`
 ` Sizin bilmediğiniz gizli bir geçit yok.`
 ` Knox muydu, yoksa Van Dine mıydı?`
@@ -261,7 +261,7 @@
 ` .........*cackle*cackle*, insanların küçük dedektiflik oyunlarıyla işleri çok kolay."`
 `"Kahretsin, büyük konuşuyorsun...`
 ` Teşekkürler.`
-` Kudretli cadı çok diplomatik davranması sayesinde, her yeri aramadan odanın gizli kapısı olmadığı sonucuna varabiliyorum."`
+` Kudretli cadı'nın çok diplomatik davranması sayesinde, her yeri aramadan odanın gizli kapısı olmadığı sonucuna varabiliyorum."`
 `"Kesinlikle.`
 ` {p:1:Bu odada hiç gizli kapı yok}.`
 ` {p:1:Kapı ve pencereler dışında içeri girmenin ya da dışarı çıkmanın hiçbir yolu yok}."`
@@ -286,7 +286,7 @@
 ` Bundan başka yok!"`
 `".............................."`
 `"George-kun, Shannon-chan ile iyi bir ilişkiniz vardı, değil mi?`
-` Bu yüzden tüm hizmetkarların suçlu olduğunu kabul etmenin senin için zor olacağını düşünüyorum."`
+` Bu yüzden tüm hizmetkârların suçlu olduğunu kabul etmenin senin için zor olacağını düşünüyorum."`
 `"Ben de Shannon-chan'ın suçlulardan biri olduğuna inanmak istemiyorum.`
 ` .........Ancak hepsi olmasa da, suçlunun kendisi ya da belki de bir suç ortağı kesinlikle o grubun içinde.`
 ` Bunu görmemezlikten gelemezsin!"`
@@ -377,7 +377,7 @@
 `...Kendimi, dün gelen ve kendisine cesurca Altın Cadı diyen o 19. kişiyi,`
 ` konuk {f:5:Beatrice}'i çabucak unutmuş buluyorum.`
 `Yüzünü hiç görmedim.`
-`O portredeki cadının ikizi gibi olduğunu duydum,`
+`O portredeki cadının tıpatıp aynısı olduğunu duydum,`
 ` ama onu doğrudan görmediğim için, ne kadar çabalarsam çabalayayım, bu adada gerçekten 19 kişi varmış gibi hissedemiyorum.`
 `...Bu yüzden suçlunun kolayca 18 kişiden biri olduğu yanılsamasına kapılıyorum...`
 `Kahretsin......`
@@ -431,7 +431,7 @@
 `Shannon, Gohda'nın ara sıra yaptığı sahtekârlıklardan hoşlanmasa da,`
 ` yemek pişirirken yüzünde beliren çocuksu gülümsemede,`
 ` ya da insanların yemeklerinden keyif almasını istemesinde bir sahtekârlık olmadığını biliyordu.`
-`Bulaşıkları yıkamak zorunda kalmak biraz sinir bozucu olsa da,`
+`Bulaşıkları yıkamak zorunda bırakılması biraz sinir bozucu olsa da,`
 ` ondan gerçekten nefret etmiyordu.`
 `Ancak, tam da böyle huzur dolu bir şekilde vakit geçirdikleri bir anda Rosa'nın salonda onları kurt ilan ettiğini hayal bile edemezlerdi......`
 `Bu sırada, hizmetkârlardan birkaçı bir şeyin sürüklenmesine benzer bir ses ve ardından da bir gümbürtü duydu.`
@@ -523,7 +523,7 @@
 ` E-Eğer ciğerlerine ulaşmadıysa, bir şeyler yapabilirim......`
 ` Her halükarda, kanamayı durdurmalıyız......!"`
 `"u...guo......aaaaga!!!"`
-`Nanjo fışkırmakta olan koyu kırmızı kanı ne kadar temizlemeye çalışırsa çalışsın, ...temizleyemedi, temizleyemedi, tamamen temizleyemedi...!`
+`Nanjo fışkırmakta olan koyu kırmızı kanı ne kadar temizlemeye çalışırsa çalışsın, ...temizleyemedi temizleyemedi tamamen temizleyemedi...!`
 ` Ve her seferinde yara daha da kötüleşerek Kanon'un acı içinde kıvranmasına neden oluyordu...`
 `"Kanon-kun, Kanon-kun Kanon-kun!`
 ` Dayan... Dayan...!!"`
@@ -663,7 +663,7 @@
 ` ......Bak.`
 ` Gördün mü...?`
 ` Ciddi bir...yara...değil, değil mi...?"`
-`Kanon hâlâ yavaşça fışkıran köpüklü kanıyla açık yarasını gösterdi.`
+`Kanon hâlâ yavaşça köpüklü kan fışkıran açık yarasını gösterdi.`
 `...Herkes refleks olarak gözlerini kaçırdı.`
 `"Bakın, size bunun ciddi bir yara olmadığını söylemiştim..."`
 `"Ya-......Yapma şunu... Yaranla oynamamalısın......"`
@@ -672,9 +672,9 @@
 ` .........Bak.`
 ` ..................Bak."`
 `Kanon iki parmağını kaldırıp herkese gösterdi ve yavaşça göğsünün tam ortasındaki korkunç yaraya sokmaya başladı...`
-`......Daldıyor, sümüksü, yumuşak, sulu.`
+`......Daldırıyor, sümüksü, yumuşak, sulu.`
 `{n}Parmakları...en derine...kadar girdi...`
-` ......Squich, gloop, blorp...`
+` ......Bloop, gloop, blorp...`
 `"Hiiiiiiiiiiiiiiiiiiii...!!`
 ` K-K-K-Kanon-san, dur, dur...!!"`
 `Parmaklarını göğsünün dibine kadar soktuktan sonra......aynı şekilde,`
