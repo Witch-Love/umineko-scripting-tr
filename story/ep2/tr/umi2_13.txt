@@ -67,16 +67,16 @@
 `Örneğin, oyunun başında:`
 `{n}Her iki koyun da kayığa biner ve diğer tarafa gider.`
 `{n}Sonra koyunlardan biri iner ve diğeri ilk kıyıya geri döner.`
-`......Bunu yaptığında, ilk kıyıda iki kurt vardır.`
+`......Bunu yaptığınız sırada, ilk kıyıda iki kurt vardır.`
 `{n}Ve tek bir koyun oraya geri dönmüş olur.`
-`Bu yaşandığında, kurtların sayısı daha fazla olmuş olur, bu yüzden koyun saldırıya uğrar ve oyun biter.`
-`Her iki kıyıda da, hatta kayıkta da koyundan fazla kurt olmamalı.`
+`Bu yaşandığında, kurtların sayısı daha fazla olmuş olur, bu yüzden koyun saldırıya uğrar ve oyun sona erer.`
+`Her iki kıyıda da, hatta kayıkta da koyundan fazla kurt olmamalıdır.`
 `Bu, bu koşullar altında koyunların kayıkla nasıl karşıya geçirileceği ile ilgili bir bulmaca.`
 `Bu arada, doğru cevap şu: İlk turda her iki kurdu da karşı kıyıya geçirirsiniz.`
 `{n}Sonrasında bir kurt geri gelir.`
 `İkinci turda, iki koyunu karşı kıyıya taşırsınız.`
 `{n}Sonrasında bir kurt geri gelir.`
-`Sonra üçüncü turda, sağ kıyıdaki son kurdu kayığa bindirir ve karşı kıyıya geçirirsiniz ve tebrikler, nakliye başarılı.`
+`Ve üçüncü turda, sağ kıyıdaki son kurdu da kayığa bindirir ve karşı kıyıya geçirirsiniz ve tebrikler, nakliye başarılı.`
 `Yarı yolda, kayıkta ya da her iki tarafta aynı sayıda kurt ve koyun olabilir ama bu bir sorun teşkil etmez.`
 `Yalnızca kurt sayısı daha fazla olduğunda kaybedersiniz.`
 `Bu kitap bunu kurtlar ve koyunlar aracılığıyla sembolize ediyor, ama muhtemelen aynı oyunu farklı bir sembolizmle bilen pek çok insan vardır...`
@@ -305,7 +305,7 @@
 ` Bu durumda, mutfağa gönderdiğin Shannon tehlikede değil mi?!!`
 ` Hemen biz de mutfağa gitmeliyiz!`
 ` Kimin kurt olup olmadığının önemi yok!`
-` Eğer bir araya gelerek bir denge oluşturabilirsek, bence bunu sürdürmeliyiz!!"`
+` Eğer bir araya gelerek bir denge oluşturabiliyorsak, bence bunu sürdürmeliyiz!!"`
 `"......Shannon-chan, Genji-san ile birlikte babamı görmeye gitti.`
 ` O sırada izole olmuştu ama öldürülmedi."`
 `"Genji-san da kurt olmadığı için mi?"`
@@ -314,7 +314,7 @@
 `"Shannon bir suça ortak olacak türden bir insan değil!!`
 ` Sen olsan bile, Rosa Teyze, bunu görmezden gelemem.`
 ` Şimdi söylediklerini geri almanı istiyorum...!"`
-`"...Aniki, önünde bunu söylemekten nefret ediyorum, ama bu argüman tıpkı...`
+`"...Aniki önünde bunu söylediğim için üzgünüm, ama bu argüman tıpkı...`
 `...Eva Teyze'nin söyleyeceği bir şeye benziyor.`
 ` Karşılık veremezsek, otomatik olarak haklı olduğunu varsayıyorsun.`
 ` ......Görünüşe göre kendi soyundan gelen kana karşı koyamıyorsun, Teyze."`
@@ -351,7 +351,7 @@
 ` Ben de ona iki el ateş ettiğimi iddia eder ve iki mermi kovanını yere atardım."`
 `"Bu çok çılgınca bir argüman ama gerçekten mantıklı. Ihihihi!"`
 `"Krauss nii-san'ın sık sık söylediği bir şey vardı.`
-` Güçlü olan doğrudur.`
+` Güçlü olan haklıdır.`
 ` .........Bu bunu kanıtlıyor mu acaba?"`
 `".........Özür dilerim, ikinizden de.`
 ` Sabahtan beri işlenen tüm bu suçlardan sonra soğukkanlılığımı büyük ölçüde kaybettim.`
