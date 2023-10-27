@@ -1,16 +1,16 @@
 `"Doktor Nanjo ve Kumasawa-san mı?!`
-` Neler oluyor burada?!"`
+` Siz neyden bahsediyorsunuz?!"`
 `"Aaah, Shannon!`
 ` Çok şükür güvendesin...!`
 ` Eğer sana bir şey olsaydı, ben...!"`
 `"......George-sama......`
 ` ......uuuuughh........."`
 `"George-kun, bir saniye sessiz ol!`
-` Gözlerinin önünde bir cinayet işlendi, değil mi?!`
-` Suçluyu gördün mü?!`
-` Ya da görmedin mi?"`
-`"B-......bu, umm,`
-` ......nasıl açıklayayım...?!`
+` Sizin gözlerinizin önünde bir cinayet işlendi, değil mi?!`
+` Suçluyu gördünüz mü?!`
+` Görmediniz mi?!!"`
+`"B-......Bu, umm,`
+` ......nasıl açıklayabilirim...?!`
 ` G-Genji-san."`
 `"..................Biz bile gördüklerimizi çok iyi açıklayamıyoruz."`
 `"Kesinlikle, umm, ...gözlerimizin önünde oldu!`
@@ -21,171 +21,171 @@
 ` Ben bile anlamıyorum!"`
 `"Ne diyorsun sen?!`
 ` Dün geceden beri nerede olduğu bilinmeyen cadı {f:5:Beatrice}'den...`
-` ...ya da kaybolan Kanon-kun'dan başka biriyle tanışmış olmanız imkansız,!`
-` Kadın mıydı erkek mi?!`
-` Bana en azından bu kadarını söyleyebilmelisin, değil mi?!"`
+` ...ya da kaybolan Kanon-kun'dan başka biriyle karşılaşmış olmanız imkansız!`
+` Kadın mıydı, erkek mi?!`
+` Bana en azından bu kadarını söyleyebilmelisiniz, değil mi?!"`
 `"Rosa Teyze, biraz sakin ol...!`
 ` İki kişi gözlerinin önünde öldürülse kim olsa kafası karışır!`
 ` Gohda-san, Genji-san.`
 ` Acele etmenize gerek yok.`
-` Bize ne olduğunu anlat, teker teker."`
+` Bize ne olduğunu, teker teker anlatın."`
 `"...............Bu konuda... ...Nasıl söylesem......"`
 `".............................."`
 `Doktor Nanjo ve Kumasawa-san öldürülmüştü.`
-`{n}O kadarını anladık.`
-`...Ve bu onların gözleri önünde gerçekleşmiş gibi görünüyordu.`
+`{n}Bu kadarını anladık.`
+`...Ve bu, onların gözleri önünde gerçekleşmiş gibi görünüyordu.`
 `{n}Ama yine de garip bir şekilde konuştular.`
 `Cinayeti kesinlikle kendi gözleriyle gördüklerini itiraf ettiler.`
-`{n}Ama ne gördüklerini açıklamaları istendiğinde ağızları birden kapandı.`
+`{n}Ama ne gördüklerini açıklamaları istendiğinde ağızlarını bıçak açmıyordu.`
 `Rosa Teyze'nin neden sinirlendiğini ve sabrının tükendiğini anlayabiliyordum...`
 `"...Shannon.`
 ` Sen de gördün mü?`
-` Doktor Nanjo saldırıya uğradığında."`
-`"Ev-.........evet."`
+` Doktor Nanjo'nun saldırıya uğrayışını."`
+`"Ev-.........Evet."`
 `"Anlat bana.`
-` ...Sadece ne anladığını.`
-` Ne oldu böyle?"`
+` ...Sadece anladığın kadarıyla.`
+` Ne yaşandı böyle?"`
 `"..................Arka kapı............`
 ` ......Oradan geldi."`
-`"...B-bu doğru.`
+`"...B-Bu doğru.`
 ` Arka kapıya biri geldi.`
-` Sonra kim olduğunu merak edip kapıyı açtım."`
+` Sonra, kim olduğunu merak edip kapıyı açtım..."`
 `"Arka kapıda biri mi vardı?`
 ` Kimdi o?!"`
-`"Bırak bitirsinler!`
+`"Bitirmelerine izin ver!`
 ` Ya sonra?!"`
-`".........Bu kişi...kanla lekelenmişti ve büyük bir yarası vardı.`
+`".........Bu kişi...kanla kaplıydı ve derin bir yarası vardı.`
 ` ...Onu hizmetkar odasına taşıdık ve Doktor Nanjo hemen ilk yardıma başladı.`
-` ......Çok derin bir yaraydı."`
+` ......Çok...derin bir yaraydı."`
 `"Son kez soruyorum, {i:kimden} bahsediyorsun?!"`
 `"...Bilmiyorum!`
-` Elbette, başlangıçta bildiğimi sanıyordum.`
-` Hayır, hala öyle olduğunu düşünüyorum!`
-`Ama.........bu da neydi böyle!!`
-` ...Bilmiyorum... ...Bilmiyorum!!"`
-`Gohda iri gövdesine hiç uymayan bir tavırla başını tuttu ve kaşıdı...`
-`Hatırlayamadığı için mi, yoksa korkunç bir şey gördüğü ve bunu kabullenemediği için mi kafası karışıktı,`
-` buna dair herhangi bir fikrim yoktu.`
+` Elbette, ...başlangıçta bildiğimi sanıyordum.`
+` Hayır, hâlâ öyle olduğunu düşünüyorum!`
+`Ama.........o da neydi öyle!!`
+` ...Bilmiyorum... ...bilmiyorum!!"`
+`Gohda, iri bedenine hiç de uymayan bir tavırla başını tuttu ve kaşımaya başladı...`
+`Hatırlayamadığı için mi, yoksa korkunç bir şey gördüğü,`
+` ve bunu kabullenemediği için mi kafasının karıştığı konusunda hiçbir fikrim yoktu.`
 `Shannon da aynı şekilde bakıyordu.`
-`Gardını düşürürse, kısa bir süre önce gördükleri bir hayal gibi hızla eriyip gidecek,`
-` ve ne gördüğünü bile hatırlayamayacak.`
-`......İşte böyle görünüyordu.`
+`Eğer gardını düşürürse, kısa bir süre önce gördükleri bir hayal gibi hızla uçup gidecek,`
+` ve ne gördüğünü bile hatırlayamayacaktı.`
+`......İşte Shannon böyle görünüyordu.`
 `Sadece Genji her zamanki gibi sakin görünüyordu.`
 `...Bu yüzden sorular doğal olarak Genji'ye yöneltildi.`
-`Ama Genji bile ağzını açmadan önce düşüncelerini toparlamak için epey zaman harcamak zorunda kaldı.`
+`Ancak Genji bile ağzını açmadan önce düşüncelerini toparlamak için epey zaman harcamak zorunda kaldı.`
 `"Genji-san.`
 ` Gördün, değil mi?`
-` Arka kapıdan giren kişi kimdi?!"`
-`"............İlk başta, o kişinin... Kanon olduğuna inandık."`
-`"Gördünüz mü!!`
-` Her şeye rağmen yaşıyordu!`
+` Arka kapıdan gelen kişi kimdi?!"`
+`"............İlk başta, ...o kişinin...Kanon olduğuna inandık."`
+`"Bakın!!`
+` Gerçekten de yaşıyormuş!`
 ` Benim çıkarımım doğruydu!!"`
-`"......"İlk başta" derken, izleniminizin sonradan değiştiğini kastediyorsunuz değil mi......?"`
+`"......"İlk başta" derken, izleniminizin sonradan değiştiğini mi kastediyorsunuz......?"`
 `"Evet.`
-` .........Ondan sonra ne olduğunu kelimelerle açıklayamam.`
+` .........Sonrasında ne olduğunu kelimelerle açıklayamam.`
 ` ......Doktor Nanjo ve Kumasawa'yı öldürdü, ......sonra ortadan kayboldu.`
-` O zaman kesinlikle Kanon değildi."`
+` O anda, o kesinlikle Kanon değildi."`
 `"Evet!`
 ` Bu doğru!`
-` Tıpkı Genji-san'ın dediği gibi!!`
+` Tıpkı Genji-san'ın söylediği gibi!!`
 ` Gerçekten bunu kelimelerle açıklayamazsın!"`
-`"......Sen de aynı fikirde misin?"`
+`"......Sen de mi aynı fikirdesin?"`
 `"...Evet............`
-` Ben de......sadece aynı şeyi söyleyebilirim......"`
+` Ben de......sadece aynı şeyleri söyleyebilirim......"`
 `"..........................."`
-`...Eğer onların söylediklerini olumlu yorumlarsak,`
-` ......Bu, Rosa Teyze'nin vardığı çıkarımın en başından beri doğru olduğu anlamına geliyordu.`
-`Kanon-kun mutfağın arka kapısından ciddi bir yaralanmayla çıkmıştı.`
-`{n}Daha sonra hizmetkar odasına götürülmüş ve bakımı yapılmıştı.`
-`......Sonra korkunç bir şey oldu.`
-`Bu insanlar Kanon-kun'un bunu başarabileceğini hayal bile edemedikleri için, bunun gerçekten Kanon-kun olup olmadığından şüphelenmeye başlamışlardı.`
-` İşler böyle mi yürüyor?`
-`Başka bir deyişle......Kanon-kun ortaya çıkmıştı.`
-`{n}Kafaları ne kadar karışık olursa olsun, kelimeleri ne kadar dolandırırsa dolandırsınlar, sonuçta bunun anlamı buydu.`
-`Yani Kanon-kun gerçekten de oda kilitliyken kaçmak için bir numara mı yapmıştı?`
+`...Eğer onların söylediklerini iyimser bir şekilde yorumlayacak olursak,`
+` ......bu, Rosa Teyze'nin vardığı sonucun başından beri doğru olduğu anlamına geliyordu.`
+`Kanon-kun mutfağın arka kapısında ciddi bir yarayla ortaya çıkmıştı.`
+`{n}Daha sonra hizmetkar odasına götürülmüştü ve ilk yardım yapılmıştı.`
+`......Daha sonra, korkunç bir şey oldu.`
+`Bu insanlar Kanon-kun'un bunu yapabileceğini hayal dahi edemedikleri için, bunun gerçekten Kanon-kun olup olmadığından şüphelenmeye başlamışlardı.`
+` Durum bu mu?`
+`Başka bir deyişle, bu......Kanon-kun'un ortaya çıktığı anlamına geliyordu.`
+`{n}Kafaları ne kadar karışık olursa olsun, kelimeleri ne kadar dolandırırsa dolandırsınlar, bunun anlamı sonuç olarak buydu.`
+`Yani Kanon-kun gerçekten de kilitli olduğu halde odadan kaçmak için bir yöntem mi kullanmıştı?!`
 ` Hayır, artık bunun bir önemi yok.`
 `Asıl sorun Doktor Nanjo ve Kumasawa-san'ın öldürülmüş olması.`
 `Rosa Teyze en başından beri bu işin arkasında Kanon-kun'un olduğunu iddia etmişti.`
-`Kafaları ne kadar karışırsa karışsın ve ne kadar inkar etmeye çalışırlarsa çalışsınlar, ...yarı yarıya bunun gerçek olduğunu söylüyorlardı.`
-`......Ama yine de, nedense, garipliklerinin sadece kafa karışıklığıyla açıklanamayacağını hissettim...`
+`Kafaları ne kadar karışmış olursa olsun ve bunu ne kadar inkâr etmeye çalışırlarsa çalışsınlar, ...yarı yarıya gerçeğin bu olduğunu söylüyorlardı.`
+`......Ama yine de, nedense, onların bu garipliklerinin sadece kafa karışıklığıyla açıklanamayacağını hissettim...`
 `......Ne görmüşlerdi?`
-`Dedikleri gibi, {i:gerçekten kelimelerle anlatılamayacak bir şey} mi görmüşlerdi...?`
-`Rosa Teyze, onlardan daha fazla bir şey öğrenemeyeceğine karar vererek sorgulamasını bitirdi,`
+`Gerçekten de dedikleri gibi, {i:kelimelerle anlatılamayacak bir şey} mi görmüşlerdi...?`
+`Rosa Teyze, onlardan daha fazla bir şey öğrenemeyeceğine karar verince sorgulamayı bıraktı,`
 ` ve iki cesedi kontrol etmek istediğini söyledi.`
-`Bu da ilgimi çekti.`
+`Bununla ben de ilgileniyordum.`
 `Bu insanların kafa karışıklığı içinde neler olup bittiğine dair en ufak bir fikirleri olmasa bile,`
-` ...eğer olay yerinde bulunmayan bizler sakin bir şekilde cesetlere bakarsak, bir şeyler bulabiliriz.`
+` ...eğer olay yerinde olmayan bizler sakin bir şekilde cesetlere bakarsak, bir şeyler bulabilirdik.`
 `.........Ama Rosa Teyze'nin de tıpkı benim gibi cesetler konusunda endişeli olması biraz şaşırtıcıydı.`
-`Bu noktada bile, eğer bir ipucu bulabilirsek, suçluyu ve gerçeği kendim ortaya çıkarmak istiyordum.`
-`Ama Rosa Teyze farklı olmalıydı.`
+`Bu noktada bile, eğer herhangi bir ipucu bulabilirsek, suçluyu ve gerçeği kendim ortaya çıkarmak istiyordum.`
+`Ama Rosa Teyze'nin durumu farklı olmalıydı.`
 ` ......Rosa Teyze'nin planında güvende kalmak, suçluyu bulmaktan daha öncelikli değil miydi?`
-`Rosa Teyze'nin cesetleri kontrol etmeyi neden bu kadar çok istediğini ve bizim kaleyi bile bile salonda bıraktığını anlayamıyordum.`
+`Rosa Teyze'nin cesetleri kontrol etmeyi neden bu kadar çok istediğini ve salondaki bu kalemizi bilinçli olarak neden bıraktığını anlayamıyordum.`
 `"Hep birlikte hizmetkar odasına gideceğiz.`
 ` Hep birlikte hareket edersek, güvenli olur.`
-` Maria, şu karalamayı kes artık!"`
+` Maria, şu karalamayı şimdilik kes!"`
 `"Uu.`
-` Karalama değil.`
-` {f:5:Beatrice}'in sorununu çözüyorum.`
+` Karalama değiiil.`
+` {f:5:Beatrice}'in sorusunu çözüyoruum.`
 ` Uu..."`
-`"{f:5:Beatrice}'in sorunu mu?`
+`"{f:5:Beatrice}'in sorusu mu?`
 ` Neymiş o? Bana da söyle."`
-`"...Rosa Teyze, Maria-chan'ı da mı...umm...getiriyorsun?"`
-`George-aniki'nin Maria'yı kanlı suç mahalline getirmeye biraz direnç gösterdiği anlaşılıyordu.`
-`...Ama Maria'nın burada yalnız kalacağı gerçeğini göz önünde bulundurursak, Maria'yı yanımıza almamız kesinlikle çok daha güvenli olacaktır.`
-`......Nihayetinde, bu sadece Aniki'nin sorumsuz hümanizmiydi.`
+`"...Rosa Teyze, Maria-chan'ı da mı...umm...götürüyorsun?"`
+`George-aniki'nin Maria'yı kanlı suç mahalline getirmeye biraz direndiği anlaşılıyordu.`
+`...Fakat Maria'nın burada yalnız kalacağı gerçeğini göz önünde bulundurursak, Maria'yı yanımıza almamız kesinlikle çok daha güvenli olacaktır.`
+`......Nihayetinde, bu sadece Aniki'nin düşüncesiz hümanizmiydi.`
 `{n}Hepimiz, Maria da dahil olmak üzere, hizmetkar odasına gitmeye karar verdik.`
-`Hizmetkar odasındaki yatak kıpkırmızı kanla lekelenmişti.`
+`Hizmetkar odasındaki yatak kıpkırmızı kanla kaplanmıştı.`
 `...Hayır, sadece yatak değil.`
-` Tüm oda sayısız kan lekesinden oluşan dehşet bir boyayla kaplıydı.`
-`Sadece bu tüyler ürpertici sahne bile, anlatmaya çalıştıkları iğrenç manzara hakkında bir fikir edinmemiz için yeterliydi...`
+` Odanın tamamı sayısız kan lekesinden oluşan korkunç bir renk tonuyla kaplıydı.`
+`Sadece bu tüyler ürpertici sahne bile, anlatmaya çalıştıkları tiksindirici görüntü hakkında bir fikir edinmemiz için yeterliydi...`
 `"......Uu.`
 ` Maria da bakmak istiyor!"`
-`"Maria-chan, burada benimle bekle, tamam mı?"`
-`George-aniki sırtı odaya bakarak, Maria'nın gözlerini kapatmış, girişte duruyordu.`
-`......Muhtemelen masum bir kızın retinasını bu odadaki iğrenç kırmızıyla kirletmek istemiyordu.`
+`"Maria-chan, burada benimle bekle, olur mu?"`
+`George-aniki sırtı odaya dönük bir şekilde odanın girişinde duruyor ve Maria'nın gözlerini kapatıyordu.`
+`......Muhtemelen masum bir kızın retinasını bu odadaki tiksinti verici kırmızılıkla kirletmek istemiyordu.`
 `Bu kesinlikle doğru bir karardı.`
-`......Şu anda güçlü davranıyordum, bu yüzden aldırmadım,`
-` ......ama muhtemelen hayatımın geri kalanı boyunca bu odayı hatırlar,`
-` ve etrafa saçılmış kırmızı boyayı her gördüğümde kusmaya başlardım.`
-`......Retinalarıma bu oda çoktan kazınmıştı.`
+`......Şu anda cesur davrandığım için umursamadım,`
+` ......ama muhtemelen hayatımın sonuna kadar bu odayı hatırlayacak,`
+` ve ne zaman etrafta kırmızı renkte boya görsem kusmaya başlayacaktım.`
+`......Bu oda retinama çoktan kazınmıştı.`
 `{n}Başka bir deyişle, benim için çok geçti...`
-`"...............Huh......"`
+`"...............Heh......"`
 `"Ne-...Nereye...!"`
-`Hizmetkar odasına girdikten hemen sonra, Gohda-san ve Shannon-chan telaşlı göründüler.`
+`Hizmetkâr odasına girdikten hemen sonra Gohda-san ve Shannon-chan telaşlandılar.`
 `...Onları ikinci kez telaşlandıran yeni, korkunç durumun ne olduğunu merak ederek sarsıldık.`
 `"Ne oldu?`
-` Nedir sorun?"`
-`Rosa Teyze de ürperdi, silahını havaya kaldırdı, ve onları sarsan şeyin ne olduğunu aradı.`
+` Sorun nedir?"`
+`Rosa Teyze de ürpererek silahını yukarı kaldırdı ve onları etkileyen her neyse onu aramaya koyuldu.`
 `......Ama bulamadı.`
 ` ...Bu da şaşırtıcı değildi.`
 `{n}...Bulamadıkları {i:için} sarsılmışlardı.`
 `"Hey, hey, bu da neyin nesi..."`
-`".........İki ceset...burada değil."`
+`".........İkisinin cesedi...burada değil."`
 `"Ne demek istiyorsun?"`
 `"......B-Bu olamaz...!`
 ` O ikisi kesinlikle...buradaydı......!"`
 `"...Bekle bekle bekle.`
-` Ne yani—Cesetlerin bir yerlere kalkıp yürüdüğünü mü söylüyorsun?`
+` Ne yani—cesetlerin öylece ayaklanıp gittiklerini mi söylüyorsunuz?`
 ` Bu nasıl olabilir?`
 ` Yani, hizmetkar odası kilitli değil miydi?`
-` Az önce içeri girdiğinde kapının kilidini açmadın mı, Gohda-san?!"`
+` Az önce, Gohda-san içeri girerken kapının kilidini açmadı mı?!"`
 `"......Peki o zaman, ne?`
 ` ...Burası Jessica'nın odasıyla aynı değil mi?!`
-` Yine kilitli bir odanın içinden kayboldular mı?!`
-` Bu çok saçma!!"`
-`"Ben de ne olduğu hakkında hiçbir fikrim yok!!`
-` Bu odayı terk ettiğimizde, kesinlikle kilitlemiştik, ve......!!`
-` Artık neler olduğuna dair hiçbir fikrim yok...!!!"`
-`Gohda-san'ın yüzünde normalde kesinlikle göstermeyeceği ürkek ve acınası bir gülümseme vardı.`
+` Tekrar kilitli bir odanın içinden mi kayboldular?!`
+` Bu saçmalık!!"`
+`"Benim de ne olduğuna dair en ufak bir fikrim yok!!`
+` Bu odadan çıkarken, kesinlikle kilitlemiştik, ve......!!`
+` Artık neler olduğuna dair hiçbir fikrim yok...!!"`
+`Gohda-san'ın yüzünde normalde kesinlikle göstermeyeceği ürkek ve acınası bir tebessüm vardı.`
 `Shannon da aynıydı.`
 `"İkisinin de cesedi ortadan kayboldu!`
 ` Ve dahası, kapı kilitliyken ortadan kayboldular!`
-` Suçlu Kanon-kun olsa bile, artık elinde bir master anahtar olmamalıydı!!"`
+` Kanon-kun suçlu olsa bile, artık Kanon-kun'da bir master anahtar olmamalı!!"`
 `"Bu yanlış...!`
-` Suçlu Kanon-kun değil...!!!"`
+` Kanon-kun suçlu değil...!!"`
 `"......Shannon...`
-` Shannon'a inanıyorum.`
-` Suçlu Kanon-kun değil.`
+` Ben Shannon'a inanıyorum.`
+` Kanon-kun suçlu değil.`
 ` Bunu ona çok benzeyen biri yapmış olmalı."`
 `"Hayır.`
 ` Kanon-kun bir master anahtar almış olabilir.`
@@ -193,247 +193,247 @@
 ` ...Peki o anahtarı kim aldı?"`
 `"!!`
 ` B-Bu doğru!`
-` Doktor Nanjo'ydu......!!"`
+` Doktor Nanjo almıştı......!!"`
 `Bu doğru.`
 ` O sırada, Jessica'nın kıyafetlerini arayan ve master anahtarı bulan kesinlikle Doktor Nanjo'ydu...!`
 `Yani, eğer birisi Doktor Nanjo'nun cesedini arama fırsatı bulsaydı, master anahtarı geri alması kolay olurdu...`
 `Rosa Teyze yatağın altını ve dolabı aradı.`
-`...Artık bunun ne anlama geldiğini de anlamıştım.`
+`...Artık, ben de bunun ne anlama geldiğini anlamıştım.`
 `{n}Eğer iki suçlu olduğunu varsayarsak, bu kolayca açıklanabilir.`
-`İlk kişi Kanon-kun, ya da belki ona benzeyen bir sahtekârdı.`
-`{n}Doktor Nanjo'nun canını almış ve bir yerlere kaçmıştı.`
-`İkinci kişi...... muhtemelen 19. kişi, nerede olduğu bilinmeyen {f:5:Beatrice} idi.`
-`Önceden hizmetkar odasındaki yatağın altına saklanmış, ve Doktor Nanjo'nun cesedi hala buradayken Genji-san, Genji-San ve diğerlerinin gitmesini beklemişti.`
-`Daha sonra, sürünerek dışarı çıkmış, Doktor Nanjo'nun cebinden master anahtarı geri almış, ve nedense iki cesedi alıp götürmüştü.`
-`Bu sırada master anahtarla kapıyı kilitlediyse, bu kilitli oda yaratılmış olacaktı.`
+`Birinci kişi Kanon-kun'du ya da belki de ona benzeyen bir taklitçiydi.`
+`{n}Doktor Nanjo'yu öldürmüş ve bir yerlere kaçmıştı.`
+`İkinci kişi de......muhtemelen nerede olduğu bilinmeyen {f:5:Beatrice}—yani 19. kişiydi.`
+`Öncesinde hizmetkâr odasındaki yatağın altına saklandı ve Doktor Nanjo'nun cesedi hâlâ buradayken Genji-san ve diğerlerinin gitmesini bekledi.`
+`Daha sonra sürünerek oradan çıktı, Doktor Nanjo'nun cebinden master anahtarı geri aldı ve bir sebepten ötürü iki cesedi de götürdü.`
+`Ardından da master anahtarla kapıyı kilitlemiş olsaydı, bu kilitli oda yaratılmış olacaktı.`
 `"*cackle*cackle*.`
-` Jessica'nın odasını temel alarak bu muhakemeyi oldukça hızlı bir şekilde inşa ettiniz.`
-` Bu yöntemle, büyü olmadan da kilitli bir oda yaratabilirdiniz.`
+` Jessica'nın odasını temel alarak bu muhakemeyi oldukça hızlı bir şekilde inşa ettin.`
+` Bu yöntemle, büyü olmadan da kilitli bir oda yaratabilirdin.`
 ` Sana geçer not vermeli miyim?`
-` Ancak, her ne kadar gerçekten etkileyici olsa da...... unutmamanız gereken bir şey var."`
-`"...Eğer suçlu master anahtarı dediğiniz yöntemle geri almış olsaydı,`
-` ......bu suçlu...`
+` Ancak, her ne kadar gerçekten etkileyici olsa da, ......unutmaman gereken bir şey var."`
+`"...Eğer suçlu master anahtarı dediğin şekilde geri almış olsaydı,`
+` ......bu suçlunun...`
 `{i:Nanjo'nun Jessica'nın cesedinden master anahtarı aldığını bilmesi gerekirdi}."`
 `"......Bunu bana söylemek zorunda değilsin...`
 ` Muhtemelen bunun sadece o yerdeki, o zamandaki insanların bilebileceği bir bilgi olduğunu söylemeye çalışıyorsun..."`
 `"......Heh!`
-` Bu üçüncü kilitli oda o kadar hızlı ezildi ki yakınmaktan başka bir şey yapamıyorsun.`
-` Aynı içeriği tekrarlamakta sanat yok..."`
-`Her ne kadar sert davransam da, cadının o hareketi canımı çok yaktı...`
-`{n}......En çok inkar etmek istediğim şeyde çatlaklar oluştuğunu hissedebiliyordum.`
-`Bana iki yönden yaklaşmaya çalışıyor.`
+` Bu üçüncü kilitli oda o kadar hızlı yıkıldı ki, sızlanmaktan başka bir şey yapamıyorsun.`
+` Aynı içeriği tekrarlamak sanat değildir..."`
+`Her ne kadar sert davransam da, cadının bu hareketi canımı çok yaktı...`
+`{n}......En çok inkâr etmek istediğim şeyde çatlaklar oluştuğunu hissedebiliyordum.`
+`Beni iki yönden sıkıştırmaya çalışıyor.`
 `Bir yandan, sadece bir cadının yapabileceği kilitli oda numaralarını kullanarak, beni cadılara inanmaya zorlamaya çalıştığı, bir önden saldırı var.`
-`......Öte yandan, yakınımdakilere dair şüphelerimi güçlendirerek, beni bir cadı olmasının daha iyi olacağı düşüncesine çekmeye çalıştığı, bir arkadan saldırı.`
-`İlk kilitli oda, kilisede, önden saldırıyı kullanmıştı, ama bende işe yaramamıştı.`
-`Kuşkusuz, bu nedenle ikinci kilitli odada, ve şimdi de üçüncü kilitli odada, saldırısının yönünü değiştirmeye başladı...`
-`Halbuki, saldırısının yönünü değiştiriyor olması, direncimin biraz işe yaradığını da kanıtlıyordu.`
-`...Ve muhakkak önden saldırıdan vazgeçmişti çünkü doğrudan onunla kazanamazdı...`
+`......Öte yandan da, yakınımdakilere dair şüphelerimi güçlendirerek, beni bir cadı olmasının daha iyi olacağı düşüncesine çekmeye çalıştığı, bir arkadan saldırı.`
+`İlk kilitli odada—kilisede—önden saldırıyı kullanmıştı, ama bende işe yaramamıştı.`
+`Şüphesiz ki bu yüzden, ikinci kilitli odada, ve şimdi de üçüncü kilitli odada, saldırısının yönünü değiştirmeye başladı...`
+`Halbuki, saldırısının yönünü değiştiriyor olması da direncimin kısmen işe yaradığını kanıtlıyordu.`
+`...Ve kesinlikle önden saldırıdan vazgeçmişti çünkü doğrudan onunla kazanamazdı...`
 `.........Bunu düşünerek kendimi, kendi pozisyonumu kabullenmeye zorlamaya çalıştım.`
 `{n}Ama görünen o ki cadı bu düşüncelerimi uzun zaman önce fark etmişti.`
 `"*cackle*cackle*.`
 ` Önden saldırı vazgeçilmezdir.`
-` ...Arkadan saldırının ancak önden saldırıyla aynı anda ilerlerlediği için bir anlamı vardır.`
-` Eğer sadece arkadan saldırıyı kullanacak kadar yozlaşırsam, bu, vasıtalarım hedefim haline geldiğinde ortaya çıkan ahmakça bir plandan başka bir şey olmaz."`
+` ...Arka saldırı yalnızca ön saldırıyla beraber ilerlediği için bir anlam taşır.`
+` Eğer sadece arkadan saldırıyı kullanacak kadar yozlaşırsam, bu, yöntemlerim amacım haline geldiğinde ortaya çıkan ahmakça bir plandan başka bir şey olmaz."`
 `"...Ihihi, gerçekten mi?`
 ` Peki o zaman, çokça gurur duyduğun o kırmızıyla "hizmetkar odasında kimse saklanmıyordu" cümlesini tekrarlar mısın?"`
 `"Buna gerek yok.`
-` Muhakemenizin temeli yok olmak üzere."`
+` Muhakemenin temeli yıkılmak üzere."`
 `"Oh, oh?!`
-` Ret mi ediyorsun?!`
-` Yani biri gerçekten saklanıyor mu?!"`
-`"Rosa temelini hemen şimdi yok edecek.`
+` Red mi ediyorsun?!`
+` Yani biri gerçekten de saklanıyor mu?!"`
+`"Rosa senin temelini hemen şimdi yok edecek.`
 ` ...*cackle*cackle*!`
-` Peki, dinlemeyi dene."`
+` Hadi, dinlemeyi dene."`
 `"Lütfen bize inanın, Rosa-sama...!!`
 ` İki ceset kesinlikle burada yatıyordu!`
 ` Yerdeki kıpkırmızı kan onlara ait...!!"`
-`Rosa Teyze, Gohda-san yalvarırcasına bağırırken ona arkası dönük bir şekilde, odanın etrafındaki çeşitli nesneleri aramaya başladı.`
-`......Sonunda, bir şey buldu, ve bir süreliğine, hareket etmeyi bıraktı.`
-`"Rosa-sama, kesinlikle yalan söylemiyoruz...!!`
+`Rosa Teyze, Gohda-san yalvarırcasına bağırırken ona arkası dönük bir şekilde, odanın içinde çeşitli eşyaları karıştırmaya başladı.`
+`......Nihayetinde, bir şey buldu, ve bir süreliğine hareket etmeyi bıraktı.`
+`"Rosa-sama, biz gerçekten yalan söylemiyoruz...!!`
 ` İki ceset kesinlikle buradaydı!!"`
 `"Sessiz olun.`
 ` .........Cesetleri saklayan kişi onları başka bir yere götürdüklerini itiraf etti.`
 ` .........Bununla."`
-`Rosa onlara omzunun üzerinden tek bir parça kağıt gösterdi.`
+`Rosa onlara omzunun üzerinden tek parça bir kağıt gösterdi.`
 `"Bu da ne böyle?!`
-` Olamaz.....Tıpkı kilisedeki gibi, armalı bir zarfın içinde bir mektup olamaz mıydı?"`
+` Yoksa.....tıpkı kilisedeki gibi, armalı ve mühürlü bir zarfın içindeki bir mektup mu?!"`
 `"......Evet, bu doğru.`
 ` Burada, açıkta bırakılmış.`
 ` Okuyacağım."`
-`{e:070:―Ushiromiya ailesinin fertleri.`
-`Acaba altın için kitabenin bilmecesini çözme çabalarınız doruğa mı ulaşıyor?`
-`Kitabenin bilmecesini çözmek sizlerin beni durdurabileceğiniz tek yöntem.}`
-`{e:070:Başka hiçbir yöntemle beni, ya da ritüeli, durduramayacaksınız.`
-`Hepinizden amacınızı karıştırmamanızda özen göstermenizi rica ediyorum.}`
+`{e:070:—Ushiromiya ailesinin hanımefendileri ve beyefendileri.`
+`Altın kitabesinin bilmecesini çözme çabalarınızın doruk noktasına ulaşıp ulaşmadığını merak ediyorum.`
+`Kitabenin bilmecesini çözmek beni durdurabilmenizin tek yoludur.}`
+`{e:070:Başka hiçbir yöntemle beni ya da ritüeli durduramazsınız.`
+`Hepinizden amacınızı yanlış anlamamaya özen göstermenizi önemle rica ediyorum.}`
 `{e:070:Beni bulmaya çalışmak faydasızdır.`
 `Benden kaçmaya çalışmak faydasızdır.`
-`Beni inkâr etmeye çalışmak—da faydasızdır.`
+`Beni inkâr etmeye çalışmak da—faydasızdır.`
 `—Altın {f:5:Beatrice}.}`
-`"......"Not,`
-` İki bedeni ritüel için ödünç aldım.`
-` Onları daha sonra iade edeceğim, bu yüzden lütfen özürlerimi kabul edin.`
-` ...Ayrıca, bu anahtarlar hepinize ait olduğu için, onları iade edeceğim.""`
+`"......P.S.`
+` Ritüel için bu iki bedeni ödünç aldım.`
+` Onları daha sonra geri teslim edeceğim, lütfen özürlerimi kabul edin.`
+` ...Ayrıca, bu anahtarlar hepinize ait olduğu için, onları iade ediyorum."`
 `Rosa bunu yüksek sesle okurken, zarfın içindekiler avucunun içinde açıkta duruyordu.`
 `Bunlar iki master anahtardı.`
-`{n}Nanjo'nun Jessica'nın cebinde bulduğu aslında Kanon'a ait olan master anahtarı, ve Kumasawa'nın master anahtarı.`
-`"Bu da ne demeeeeeeek......?!`
-` Peki bu ne anlama geliyor...`
-` Lanet olsun, yine mi?!`
-` Yine sadece anahtarları tutan hizmetkarlardan şüphelenebileceğimi mi söylüyorsun?!"`
-`"Bunu kırmızıyla söylemedim, biliyorsun...?`
-` Kapıyı kilitleyip gittikleri sırada, bu odada birinin saklanıyor olma ihtimalini reddetmedim...`
+`{n}Nanjo'nun Jessica'nın cebinde bulduğu, aslında Kanon'a ait olan master anahtar, ve Kumasawa'nın master anahtarı.`
+`"Ne dediiiiiin......?!`
+` Peki bu...ne demek oluyor...`
+` Dalga mı geçiyorsun, yine mi?!`
+` Yine sadece master anahtarları olan hizmetkarlardan şüphelenebileceğimi mi söylüyorsun?!"`
+`"Biliyorsun, bunu kırmızıyla söylemedim...?`
+` Kapıyı kilitleyip gittikleri esnada, bu odada birinin saklanıyor olma ihtimalini reddetmedim...`
 ` *cackle*cackle*cackle*!"`
-`"...... Yatağın altına saklanmış olsalardı, cesetleri başka bir yere taşımış olmaları imkansız olmazdı.`
+`"......Yatağın altına saklanmış olsalardı, cesetleri başka bir yere taşımış olmaları imkansız olmazdı.`
 ` Ama bu şekilde kapıyı kilitleyemezlerdi!`
 ` Ellerine geçirmek için onca zahmete katlandıkları master anahtar tam burada duruyordu!"`
 `"......Doğru ya, unutmuşum.`
-` Peki ya bu oda için özel anahtarlar, hizmetkar odası anahtarları?!"`
+` Peki ya bu odanın özel anahtarları, hizmetkâr odasının anahtarları?!"`
 `"Mmhm.`
-` Onlar {p:1:hizmetkar odasının ortasındaki anahtar kutusunda}.`
+` Onlar {p:1:hizmetkar odasının ortasındaki anahtar kutusundalar}.`
 ` Birkaç hizmetkar odası anahtarı var, ama {p:1:hepsi anahtar kutusunun içinde}."`
 `"Bu da, durumun Jessica'nın odasının anahtarıyla olan zamandan farksız olduğu anlamına geliyor...`
-` Hizmetkârlar ellerinde çokça elverişli master anahtarlar varken gereksiz bir anahtarla dolaşacak değiller ya.`
-` Hepsinin hala anahtar kutusunda kapalı olduğunu kabul edebilirim."`
+` Hizmetkârlar, o kullanışlı master anahtarlara sahipken gereksiz bir anahtarla dolaşacak değiller ya.`
+` Hepsinin hâlâ anahtar kutusunda kapalı olduğunu kabul edebilirim..."`
 `"Diğer koşullarda da değişen bir şey yok.`
 ` {p:1:Tek kapı ve tek pencere dışında giriş ve çıkış mümkün değil}.`
-` Dolayısıyla, gizli kapılar ve düzensiz giriş yöntemleri var olamaz.`
+` Dolayısıyla, gizli kapılar ve olağan dışı giriş çıkış yöntemleri var olamaz.`
 ` Sevinin, büyük dedektifler.`
 ` *cackle*!"`
 `"`
 `{p:1:Ve ikisi de kilitliydi}.`
-` {p:1:Kapı ve pencere kilitli olduklarında herhangi bir giriş ya da çıkışa izin vermezler}.`
-` Yani kilit devam ederken, kapıyı sökmek, içeri girmek için bir çatlak açmak, ya da buna benzer bir şey yapmak işe yaramayacaktır.`
-` Ve bariz ama, {p:1:hizmetkar odası anahtarı veya master anahtar olmadan kapının kilidini açmak mümkün değildir}."`
-`"...Tüm bunları her seferinde yüksek sesle okumak zorunda kalmak çok zahmetli.`
-` Er ya da geç, tüm bunları tek bir cümle halinde kısaltacak bir kelime bulmalıyım."`
-`"Ama bu odada kimsenin saklanmadığını tekrarlayamazsınız!`
-` ......Ancak bu tek başına kilitli bir odanın kapısını kırmaya yetmez...`
+` {p:1:Kapı ve pencere kilitli olduğunda herhangi bir giriş veya çıkışa izin vermezler}.`
+` Bu nedenle, kilit korunurken kapıyı sökmek, içeri girmek için bir delik açmak ya da buna benzer bir şey yapmak işe yaramayacaktır.`
+` Ve kuşkusuz, {p:1:hizmetkar odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansızdır}."`
+`"...Tüm bunları her seferinde sesli olarak söylemek zorunda kalmak büyük bir acı.`
+` Er ya da geç, tüm bunları kısaltarak tek bir cümle haline getirecek bir ifade bulmalıyım."`
+`"Ama, bu odada kimsenin saklanmadığını tekrarlayamazsın!`
+` ......Ancak bu da, tek başına kilitli bir odayı kırmaya yetmez...`
 ` Aaah, kahretsin, kahretsin!!`
 ` Bu hiç iyi değil, hiç iyi değil, hiç de hiç iyi değil...!"`
 `"*cackle*cackle*!`
 ` O çok gurur duyduğun satranç tahtasını ters çevirme olayına ne oldu...?`
-` Lütfen, övündüğünüz garip teorinizi açıklayın."`
-`"...............Satranç tahtasını...ters çevirmek.`
+` Lütfen, övündüğün garip teorini açıkla."`
+`"...............Satranç tahtasını...ters çevir.`
 ` ............Suçlu ben olsaydım ne yapardım?`
-` Cesetleri bir yere taşırdım.`
-` ......Bir mektup bırakırdım.`
-` .........Kapıyı içeriden kilitlerim.`
-` ......O zaman bu odadan bir şekilde kaçmam gerekir."`
-`".........Lanet olsun, bu mümkün mü?!`
-` Bana kapı ya da pencere dışında dışarı çıkamayacağımı kırmızı renkte söylendi...!"`
+` Cesetleri bir yere taşıdım.`
+` ......Bir mektup bıraktım.`
+` .........Kapıyı içeriden kilitledim.`
+` ......Sonra da bu odadan bir şekilde kaçmam gerekirdi."`
+`".........Kahretsin, bu mümkün mü ki?!`
+` Kapı ya da pencere dışında dışarı çıkılamayacağı kırmızıyla söylendi...!"`
 `"..................ah—"`
-`......O anda, ......Anladım.`
+`......O anda, ......anladım.`
 ` Bu doğru.`
-`......Cesetleri taşıyın, mektubu bırakın.`
-`{n}......"Gizli bir kapıya" güvenme—{i:başka bir deyişle, kaçama bile}.`
-`...İşte bu kadar.`
-` Bu bir soru değil, bir cevap......`
+`......Cesetleri taşı, mektup bırak.`
+`{n}......"Gizli bir kapıya" bağlı kalma—{i:diğer bir deyişle, kaçama bile}.`
+`...İşte bu.`
+` Bu bir soru değil, bu bir cevap......`
 `"Beato.`
-` ......Tekrarlama isteğimden önce, bahsettiğin {i:bu gizli kapıların tanımı}nı kontrol etmek istiyorum."`
+` ......Tekrarlama isteğimden önce, bahsettiğin {i:bu gizli kapıların tanımı}nı doğrulamak istiyorum."`
 `"Ne düşündün?`
-` Pekala, açıklayayım.`
-` Gizli kapı, bu kapıyı bilmeyenler tarafından fark edilemeyen bir giriş veya çıkış anlamına gelir.`
-` Bunu çocuklar bile bilir."`
-`"......Yani başka bir deyişle, eğer onunla odanın dışına çıkılamıyorsa, o gizli bir kapı değil mi?"`
+` Pekâlâ, açıklayayım.`
+` Bir gizli kapı, onu bilmeyenler tarafından fark edilemeyen bir giriş veya çıkış anlamına gelir.`
+` Bu kadarını çocuklar bile bilir."`
+`"......Yani, eğer bununla odanın dışına çıkılamıyorsa, bu gizli bir kapı sayılmaz, değil mi?"`
 `"Hoh.`
-` .........Bu açıdan demek."`
+` .........Bu bakış açısı demek."`
 `"Suçlunun kilitli odadan kaçtığını düşünüp duruyordum."`
 `"......Bu yanlış.`
 ` Suçlu bile kilitli odadan kaçamadı!`
-` Bu yüzden suçlu biz geçene kadar saklanmaya karar verdi!"`
-` Bu teoriyi ikinci kilitli oda için de kullanmıştım, ve bunu Kanon-kun'un yapmış olabileceğini düşündüm.`
-`......Ama bana kırmızı renkle "Kanon-kun öldürüldü" dendiğinde bu mantıktan vazgeçmiştim.`
-`Ve sonrasında, odada üçüncü bir kişi olsaydı, gizli bir kapıdan kaçmasının mümkün olabileceğini düşündüm.`
-`İşte o zaman, ilk kez, kırmızı renkle "gizli kapı yoktur" gerçeği öne sürülmüştü.`
+` Bu yüzden suçlu biz buradan gidene kadar saklanmaya karar verdi!"`
+` Bu teoriyi ikinci kilitli oda için de kullanmıştım, ve bunu Kanon-kun'un yapmış olabileceğini düşünmüştüm.`
+`......Ama bana kırmızıyla "Kanon-kun öldürüldü" dendiğinde bu muhakemeden vazgeçmiştim.`
+`Ve sonrasında, odada üçüncü bir kişi olsaydı, gizli bir kapıdan kaçmasının mümkün olabileceğini düşünmüştüm.`
+`İşte o zaman, ilk kez, kırmızıyla "gizli kapı yok" gerçeği öne sürülmüştü.`
 `Ve az önce öğrendiğim şey.`
 ` Cadının bahsettiği bu "gizli kapılar", odaya girmeyi veya odadan çıkmayı mümkün kılan şeylere atıfta bulunuyordu.`
 `......Başka bir deyişle, dışarıya giriş çıkışa izin vermeyen, ve bunları bilmeyen insanlar tarafından da fark edilmeyecek şeyler "gizli kapı" tanımına girmezdi.`
 `Başka bir deyişle, örneğin, "gizli raf" veya "gizli dolap" gibi bir şey olsaydı, bunlar "gizli kapı" olarak tanımlanmayacaktı!`
-`Başka bir deyişle, Jessica'nın odasındaki üçüncü kişi burada saklanıyor, bizim gitmemizi bekliyordu!`
-`Heh, ne kadar acınası, sadece küçük bir kelime oyunu!`
+`Yani, Jessica'nın odasındaki üçüncü kişi burada saklanıyor, bizim gitmemizi bekliyordu!`
+`Heh, ne kadar acınası, yalnızca küçük bir kelime oyunu!`
 `{n}Bu yöntemle, üçüncü kilitli oda, hizmetkar odasını bile halledebilirim gibi görünüyor.`
 `Yatağın altında gizli bir raf ya da onun gibi bir şey varsa, bu yeterli olacaktır.`
 `{n}Suçlu bir yere saklanmış, gitmemizi bekliyor.`
 `.........Suçlu şu anda bile kilitli odada kapana kısılmış durumda!!`
-`Bu da demek oluyor ki......tam şu anda!`
-`Suçlu hala hizmetkar odasında saklanıyor, nefesini tutuyor...!!!`
-`Bu da demek oluyor ki.........Ne yani?`
-`Üç kez kilitli odalarla işkence görmemize rağmen,`
-` ......aslında tam şu anda, suçluyu şah mat ettik!!`
+`Yani......tam şu anda!`
+`Suçlu hala hizmetkar odasında nefesini tutarak saklanıyor...!!!`
+`Bu da demek oluyor ki......... Ne yani...`
+`Üç kez kilitli oda işkencesine maruz kalmış olsak da,`
+` ......aslında tam da şu anda, suçluyu şah mat ettik!!`
 `"Sonunda görmeye başladım.`
 ` ......Al bunu, Beato!!"`
-`"Tekrarlama istendi!`
-` ""Bu odada bizden başka kimse yok!"`
+`"Tekrarla!`
+` "Bu odada bizden başka kimse yok"!`
 ` Biz derken, ben, George-aniki, Maria, Rosa Teyze, Genji-san, Gohda-san ve Shannon-chan'ı kastediyorum, tamam mı?!`
-` Eee?!! Bunu söyleyemezsin, değil mi?!"`
+` Nasıl?!! Bunu söyleyemezsin, değil mi?!"`
 `".........Hoh......`
 ` .........Hoh......!"`
-`"Bahse girerim canını yaktığı yerden vurdum!!`
-` Reddedersen, reddettiğini söyle, lanet olsun!!`
+`"Bunun canını yaktığına bahse girerim!!`
+` Reddediyorsan, reddettiğini söyle!!`
 ` İşte bir sonraki geliyor!!`
-` Tekrarlama istendi!"`
+` Tekrarla!!"`
 `Bu odada nasıl saklandıklarını bilmiyorum.`
-`Ama bu bir gerçekse, o zaman bu aynı zamanda ikinci kilitli odayı, Jessica'nın odasını da çözer!!`
+`Ama eğer durum buysa, bu aynı zamanda ikinci kilitli oda olan Jessica'nın odasını da çözer!!`
 `Sonunda onu kuyruğundan yakaladım!`
-`{n}Bununla beraber, her şeyi açıklayabilirim!`
-`{n}Cadılar yoktur, kimseden şüphe etmeme gerek yok!!`
+`{n}Bununla birlikte, her şeyi açıklayabilirim!`
+`{n}Cadılar gerçek değil, kimseden şüphe etmeme gerek yok!!`
 `Pekala, şu andan itibaren, tahtayı ters çevireceğim!`
 ` Ondan tekrarlamasını isteyeceğim bir sonraki şey—`
 `"`
 `{p:1:Bu odada sizin grubunuz dışında kimse yok}.`
-` {p:1:"Grubunuz" Battler, George, Maria, Rosa, Genji, Gohda ve Shannon'ı ifade etmektedir}."`
-`"......Wha-............"`
+` {p:1:"Grubunuz" Battler, George, Maria, Rosa, Genji, Gohda ve Shannon'u kapsar}."`
+`"......Ne-............"`
 `"Jessica'nın odasına geri dönelim.`
-` {p:1:Jessica'nın cesedinin bulunduğu sırada,`
-` Jessica'nın odasında sadece Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa ve Nanjo vardı}."`
-`"Oops, {p:1:Jessica'nın cesedi de tabii ki buna dahildir}.`
-` {p:1:Dolayısıyla, hem Jessica'nın odasında hem de bu hizmetkar odasında, sizin bilmediğiniz hiçbir insan yok}.`
+` {p:1:Jessica'nın cesedinin bulunduğu sırada, Jessica'nın odasında yalnızca,`
+` Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa ve Nanjo vardı}."`
+`"Uups, tabii ki {p:1:Jessica'nın cesedi de buna dahil}.`
+` {p:1:Dolayısıyla, hem Jessica'nın odası hem de bu hizmetkâr odası vakasında, sizin farkında olmadığınız hiçbir insan yoktur}.`
 ` {p:1:Kimse saklanmıyor}."`
-`"Ve daha fazlasını söyleyeceğim.`
-` {p:1:Kapıların anahtar kullanılmadan dışarıdan kilitlenebileceği bir yöntem yok}.`
-` {p:1:Pencerelere gelince, dışarıdan bir şekilde kilitlenebilecekleri bir yöntem yok}."`
-`"Ve hazır başlamışken.`
-` {p:1:Sen beceriksizsin}!"`
+`"Ve dahasını da söyleyeceğim.`
+` {p:1:Kapıların anahtar kullanılmadan dışarıdan kilitlenebileceği bir yöntem bulunmuyor}.`
+` {p:1:Pencerelere gelince, dışarıdan bir şekilde kilitlenmelerini sağlayacak herhangi bir yöntem yoktur}."`
+`"Ve şunu da söylemeliyim.`
+` {p:1:Tam bir beceriksizsin}!"`
 `"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
-`"Ş-.........şerefsiiiiiz......`
-` O zaman.........bu gerçekten......kilitli bir oda, değil mi............"`
-`"By, ...bunu düşünmek de çok zordu, oysaki.`
-` Eğer saklanıyor olsaydın...bu açıklama her şeye uyardı.`
-` Tam da numarayı çözdüğümü düşünürken... .........Lanet olsun..."`
-`".........u............uoooooooooooooooooooooooohhh!!"`
-`Bu iyi değil, iyi değil, iyi değil, hiç de hiç iyi değil!`
-`{n}Bir an için, bulduğumu sandım!`
-` Hiç de hiç yeterli değildi!!`
-`{f:5:Beatrice}, seni kaltak,`
-` Kırmızı rengi zekice kullanarak kelime oyunları oynayarak kandırmaya çalıştığını sanıyordum,`
-` Beni zekice kandırdığından emindim...!!`
-`......Karanlıkta bir ışık gördüğümü sandığım anda,`
+`"Ş-.........Şerefsiiiiiz......`
+` O zaman.........bu gerçekten de......kilitli bir oda............"`
+`"Ve, ...Ve nihayet bir yol düşünmeyi başarmışken.`
+` Eğer saklanıyor olsaydın...bu açıklama her şeye uyabilirdi.`
+` Tam da hileyi ortaya çıkardığımı düşünürken... .........Kahretsiiin..."`
+`".........u............uoooooooooooooooooooooohhh!!"`
+`Bu iyi değil iyi değil iyi değil hiç de iyi değil!!`
+`{n}Bir an için, çözdüğümü sandım!`
+` Hiç ama hiç iyi değildi!!`
+`{f:5:Beatrice}, seni orospu,`
+` kırmızıyı zekice kullanarak kelime oyunları oynadığını sanıyordum,`
+` beni zekice kandırdığından emindim...!!`
+`......Tam da karanlıkta bir ışık gördüğümü sandığım anda,`
 ` ............kayboldu,`
 ` .........sadece kayboldu.........`
-`yutuldu...`
-`...kan kırmızısı bir deniz tarafından.........!`
+`kar kırmızısı bir deniz tarafından...`
+`...yutulup gitti.........!`
 `Kırmızı,`
 ` ...`
 `...`
 `kırmızı`
 ` kırmızı`
 ` kırmızı`
-` Kırmızı!!`
+` kırmızı!!`
 `Kimse saklanmıyor!`
-` Ve gizli bir kapı yok, kilitliyken kapıların ya da pencerelerin bir numarası da yok!!`
-`Tüm bunların imkansız olduğunu kanıtladın mı?!`
+` Ve gizli bir kapı yok, kilitliyken kapıları veya pencereleri açmanın bir yolu da yok!!`
+`Her şeyin imkânsız olduğunu kanıtlamadın mı?!`
 `Şeytan'ın İspatı...`
-`...önden bir saldırı ile...`
-`...başarıldı mı?!`
+`...önden bir saldırı ile mi...`
+`...ortadan kaldırıldı?!`
 `İmkansız,`
 ` ......bu imkansız!!`
 `"Sorun ne, Ushiromiya Battlerr?`
-` Cadıları reddedebileceğinden bu kadar emin değil miydin?`
-` Neden böyle bir yerde sürünüyor ve acı gözyaşları döküyorsun?"`
+` Cadıları inkâr edebileceğinden çok emin değil miydin?`
+` Neden böyle bir yerde sızlanıp gözyaşı döküyorsuuun?"`
 `"Ah, evet, bu gerçekten harika bir yöntem.`
-` Beni gülmekten yerlere yatırıp kendi kahkahalarımın gözyaşları denizinde boğmaya çalışman gerçekten harika.`
-` Gerçekten yapmaya çalıştığın şey bu, değil mi?`
-` Beni güldürmeye, güldürmeye ve ölene kadar güldürmeye çalışıyorsun, değil mii?`
+` Beni gülmekten yerlere yatırıp kendi kahkahalarımdan oluşan bir gözyaşı denizinde boğmaya çalışman gerçekten harikulade.`
+` Gerçekten de yapmaya çalıştığın şey bu, değil miii?`
+` Beni güldürmeye, güldürmeye ve ölene kadar güldürmeye çalışıyorsun, değil mii,`
 ` U`
 `shiro`
 `miya`
@@ -442,38 +442,38 @@
 `e`
 `rr`
 `???"`
-`"Ne sihiri be?! Cadıların varlığını kesinlikle inkar edeceğim!!`
+`"Buna büyü mü diyorsun?! Cadıların varlığını kesinlikle inkâr edeceğim!!`
 ` Sana asla inanmayacağım!`
 ` Büyünün gücünü kullandın,`
-` ......ve eğlence için herkese zorbalık edip öldürdün?`
+` ......ve herkesi eğlencesine zorbalıkla öldürdün, öyle mi?`
 ` ......Bunu asla kabul etmeyeceğiiiiiiiim!!"`
 `"Hey, Battler?`
-` Sana çok fazla zorbalık yaptığım için özür dilerim.`
+` Sana çok fazla zorbalık ettiğim için üzgünüm.`
 ` Kendi tarafımdan "satranç tahtasını ters çevireceğim".`
-` Senin yerine, senin tarafına en iyi hamleyi öğreteceğim.`
-` Duymak ister misin?"`
-`"Siktir git, duymak istemiyorum, duymak istemiyorum!!"`
+` Senin yerine, senin tarafına en iyi hamleyi sana öğreteceğim.`
+` Duymak ister misiiiin??"`
+`"Siktir git, duymak istemiyorum, istemiyorum!!"`
 `"Jessica'nın odası davası.`
-` Gerçekten iyi bir noktadan vurdun, biliyor musun?`
-` Saklanmaya çalışıyor ve senin gitmeni bekliyor.`
-` Bu gerçekten iyi bir gözlemdi."`
-`"...Ama neden bunun sadece Kanon, ya da ben, 19. kişi olabileceğini düşündün......?`
-` Anlıyorum, "saklan ve geçmeni bekle" cümlesinin "saklan" kısmı araya girmiş olmalı, bu yüzden o kadarını düşünmedin."`
+` Gerçekten iyi bir noktadan vurdun, biliyorsun değil mi...?`
+` Saklanmaya çalışıp gitmelerini beklemek.`
+` Bu gerçekten iyi bir tespitti."`
+`"...Ama neden bunun sadece Kanon, ya da 19. kişi olan ben olabileceğini düşündün......?`
+` Anlıyorum, "saklanıp gitmelerini bekle" ifadesinin "saklan" kısmı araya girmiş olmalı, bu yüzden o kadarını düşünmedin."`
 `"...Baaaaak, şimdi anladın mı?`
-` Suçlu Jessica.`
+` Jessica'ydı.`
 ` Jeeeessicaaaaaa!!"`
-`Eğer suçlu Jessica olsaydı, ......bunun gibi bir maskara kolayca inşa edilebilirdi!!`
+`Eğer suçlu Jessica olsaydı, ......bunun gibi bir maskara kolayca yaratılabilirdi!!`
 `Kanon-kun'u öldürdü, ve onu bir yere götürdü!`
-`{n}Sonra ölü taklidi yaptı ve bizim geçip gitmemizi sağladı!`
+`{n}Sonrasında, ölü taklidi yaptı ve bizim geçip gitmemizi bekledi!`
 `Ama bu çok saçma!!`
-` Doktor Nanjo kesinlikle onun öldüğünü kontrol etmişti!`
+` Doktor Nanjo onun ölü olduğunu kesinlikle kontrol etmişti!`
 ` Yani Doktor Nanjo da mı suç ortağı?!`
-`Bu çok yanlış!`
+`Bu çok yanlış!!`
 ` Ben de Jessica'nın gerçekten öldüğünden emin olmuştum!`
-` Elbette, daha önce hiç ceset muayenesi yapmamıştım, ama kesinlikle ölmüştü!`
+` Elbette, daha önce hiç bir ceset üzerinde inceleme yapmamıştım, ama o kesinlikle ölmüştü!`
 `Bence ölmüştü!`
-` Hayır, muhtemelen, muhakkak, kesinlikle, en azından ben öyle düşünüyorum ama öyle olmalı, hayır, hayır......`
-` ...Ölmüştü!!!`
+` Hayır, o muhtemelen, muhakkak, kesinlikle, en azından ben öyle düşünüyorum ama öyle olmalı, hayır, hayır......`
+` ...Ölmüştü!!`
 ` Ölmüştü!!!`
 `"Jessica da suç ortağıydı.`
 ` Ve cesedi inceleyen Nanjo da suç ortağıydı.`
@@ -482,134 +482,134 @@
 `Evet, o halde çok basit.`
 ` Doktor Nanjo suç ortağıydı, yani başka bir deyişle suçluların tarafındaydı, yani başka bir deyişle...`
 `O en başından hiç öldürülmedi mi?!`
-`Öldürüldüğünü ve cesedinin ortadan kaybolduğunu sanıyorduk, ama en başından hizmetkar odasında değil miydi?!`
+`Öldürüldüğünü ve cesedinin ortadan kaybolduğunu düşündük, ama en başından beri hizmetkâr odasında değil miydi?`
 `O zaman onunla birlikte ortadan kaybolan Kumasawa baa-chan da mı suç ortağı?!`
 `......Hepsi bu değil hepsi bu değil!`
-`{n}Bu hikayeye eşlik eden hizmetkarlar—Genji-san ve Gohda-san ve hatta Shannon-chan bile suç ortağı!`
+`{n}Bu hikayeye eşlik eden hizmetkârlar—Genji-san ve Gohda-san ve hatta Shannon-chan bile suç ortağı!`
 `O halde, Maria'nın çantasından anahtarı çalan kişi de Jessica'ydı,`
 ` ...hayır, hayır, George-aniki olması da mümkün!`
-`Ne de olsa, Shannon-chan suçlunun tarafındaysa, George-aniki de otomatik olarak suçlunun tarafında olacaktır!`
+`Ne de olsa, Shannon-chan suçlunun tarafındaysa, George-aniki de otomatik olarak suçlunun tarafında olacaktır!!`
 `Bekle bir saniye bekle bir saniye, onların hepsi kurt...`
 `{n}Hepsi kurt!!`
 `Sadece kıpkırmızı bir kan okyanusunda boğulmakla kalmıyorum,`
-` Kıyılarda yaygara koparan kurt sürüleri var, alev alev yanan gözleri sürünürsem beni yiyeceklerini söylüyor!!!`
+` aynı zamanda kıyılarda, alev alev yanan gözleriyle dışarı çıkarsam beni yiyeceklerini söyleyen kurt sürüleri var!!`
 `Ne şekilde ölmeliyim?!`
-`{n}Her şeyi inkar edip, kıpkırmızı bir denizde boğulacak mıyım?`
-`{n}Gerçeği öğrenip, tüm vücudum kurtlar tarafından parçalanacak mı?`
+`{n}Her şeyi inkâr edip, kıpkırmızı bir denizde boğulacak mıyım?`
+`{n}Gerçeği öğreneceğim ve tüm bedenim kurtlar tarafından parçalara mı ayrılacak?!`
 `Ya bir cehennem ya da diğeri!!`
 ` Seçemiyorum!`
 `{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!`
-`"İşte bu yüzden buradayım!!!`
+`"İşte bu yüzden buradayım...!!`
 ` {p:1:Hadi, Ushiromiya Battler, diz çök}.`
-` Sonra sonsuz sadakat yemini et ve ayakkabılarımı yala!!!"`
+` Sonra da ebedi sadakatin için yemin et ve ayakkabılarımı yala...!!"`
 `"{p:1:Beni kabul edersen, tüm bilmeceler çözülecek}.`
 ` {p:1:Benim gücümle, her türlü kilitli oda yaratılabilir veya yok edilebilir}!!"`
-`"Battler, kendini güçlü birine teslim etmenin mutluluğuna bırakmak istemez misin?`
+`"Battler, kendini güç sahibi birine teslim etmenin mutluluğuna bırakmak istemez misiiiin??`
 ` {p:1:Seni en sevdiğim mobilyam yapacağım}.`
-` {p:1:Seni çok seveceğim ve küle dönene kadar oyuncağım yapacağım}..."`
+` {p:1:Seni çok ama çok seveceğim ve seni küle dönene dek oyuncağım yapacağım}..."`
 `"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"`
-`".........Şimdi anlaşıldı.`
+`".........Şimdi çok açık.`
 ` Artık şüphe etmek için bir neden yok."`
 `"Hm...?`
 ` ......Ne demek istiyorsunuz......?"`
-`"Öldüğünü söyleyip durduğun o ikisi burada değil.`
+`"Sizin öldüğünü söyleyip durduğunuz o ikisi burada değil.`
 ` ...Ve şimdi elimizde {f:5:Beatrice}'in cesetleri kendisinin taşıdığını itiraf etme nezaketini gösterdiği mektubu var.`
-` ......İşte bu manaya geliyor."`
+` ......İşte bu kadar basit."`
 `"Bu saçmalıktan bıktım artık!!"`
-`Rosa Teyze bunu bağırırken, sert bir ifadeyle herkese baktı.`
+`Rosa Teyze böyle bağırırken sert bir ifadeyle herkese baktı.`
 `"Sa-`
-`......saçmalık?`
+`......Saçmalık mı?`
 ` ......Ne demek istiyorsunuz...?!"`
-`"Jessica-chan'ın odasında söyledim.`
+`"Bunu Jessica-chan'ın odasında söyledim.`
 ` ......Kendinden ve cesetleri bulunanlardan başka kimseye güvenemezsin."`
 `"Ve cesetleri bulamadığımıza göre, o ikisinin öldürüldüğünü kabul etmemiz için hiçbir neden yok."`
-`"......L-lütfen bekle, Rosa Teyze.`
-` Ne demek istiyorsunuz...?!"`
+`"......L-Lütfen bekle, Rosa Teyze.`
+` Ne demek istiyorsun...?!"`
 `"Doktor Nanjo ve Kumasawa-san ölmedi, yaşıyorlar!`
 ` Öldürülmüş gibi gösterdiler, ve bu malikanede bir yerde saklanıyorlar.`
 ` Böylece bize saldırabilecekler!!"`
 `"Bunu nasıl bilebilirsin?!`
 ` Gohda-san ve diğerlerinin yalan söylediğini mi söylüyorsun?!"`
 `"......Rosa-sama!!`
-` Ben—hayır, Ushiromiya ailesinin tüm hizmetkârları yemin eder!`
-` Hepimiz böyle bir şey yapmayacağımıza yemin ederiz!"`
+` Ben Gohda—hayır, Ushiromiya ailesinin tüm hizmetkârları,`
+` hepimiz böyle bir şey yaşanmadığına yemin ederiz!"`
 `"Hepiniz o ikisinin öldürüldüğünü söylüyorsunuz.`
 ` Ama ortada ceset olmadığına göre, buna inanmak için bir sebep yok.`
-` Önceden bir hikaye uydurmuş, ve bu konuda yalan söylüyor olma ihtimaliniz var!!"`
+` Sizin önceden bir hikaye uydurmuş, ve bu konuda yalan söylüyor olma ihtimaliniz var!!"`
 `"Masumiyetinizi kanıtlamanın iyi bir yolu var, değil mi?`
-` Doktor Nanjo ve Kumasawa-san'ın cesetlerinin bulunması için!!"`
-`"Onları bulursak, belki o zaman hikayeni dinlemeye başlayabilirim.`
-` Ama bunu yapana kadar, hepinizin kurt olduğunu inkar edemezsiniz!!"`
+` Doktor Nanjo ve Kumasawa-san'ın cesetlerini bularak!!"`
+`"Onları bulursak, belki o zaman hikayenizi dinlemeye başlayabilirim.`
+` Ama bulana kadar, hepinizin kurt olduğunu inkar edemezsiniz!!"`
 `"Sen de!`
-` Ve sen!!`
-` Muhtemelen o cadı tarafından satın alındın, gözlerin altınla kör edilmiş!!`
-` Gerçekten parayı bu kadar çok mu istiyorsun?!`
+` Ve sen de!!`
+` Bahse girerim hepiniz o cadı tarafından satın alınmış, gözleriniz altın yüzünden kör olmuştur!!`
+` Parayı gerçekten bu kadar çok mu istiyorsunuz?!`
 ` Öyle, değil mi?!`
-` Hayatının geri kalanı boyunca oyun mu oynamak istiyorsun?!`
-` Böyle bir hayatın değeri nedir ki?"`
+` Ömrünüz boyunca kolay bir hayat mı yaşamak istiyorsunuz?!`
+` Böyle bir hayatın değeri nedir ki?!!"`
 `"Rosa-sama...!!`
-` Biz......biz asla...!"`
+` Biz...... Biz asla...!"`
 `"Sessiz olun!`
 ` Ve Shannon, daha fazla yaklaşma!!`
-` On yıllık minnet borcunu ihanetle ödeyeceğine inanamıyorum!`
-` Merhamet etmeden tetiği çekeceğim!"`
+` On yıllık minnet borcunu ihanetle ödeyeceğine inanamıyorum!!`
+` Merhamet etmeden tetiği çekerim!!"`
 `"Nasıl......`
-` .........Nasıl yaparsın...`
+` .........Nasıl olur...`
 ` .........Bu çok......`
 `acımasız......"`
 `"......R-Rosa Teyze!!`
 ` Bu korkunç!!`
 ` Bu odada bir cinayet işlendi!`
-` Sonra da suçlu cesetleri taşımış!`
+` Sonra da suçlu cesetleri taşıdı!`
 ` Bunu bize sadece dürüstçe bildiriyorlar!!"`
-`".........uuu, ......uuuUUUUUuughhu!!!"`
+`".........uuu, ......uuuUUuuUUuughhu!!!"`
 `Shannon sonunda gözyaşlarına boğulmuştu...`
 `Ushiromiya ailesi için on yılını feda etmişti.`
 `{n}Hayatının en parlak on yılını feda etmişti.`
-`.........Ve Rosa ile de dostane bir ilişki kurduğuna inanmıştı.`
-`...Ve ona böyle davranıldı!!!`
+`.........Ve Rosa ile de dostane bir ilişki kurduğuna inanıyordu.`
+`...Ve ona böyle muamele yapılmıştı!!`
 `{n}Bir insanı bıçak kullanmadan da öldürebilirdiniz...`
-`Sadece George-aniki değildi;`
-` ...Shannon-chan'ın kalbinin derinliklerinden bıçaklandığını, gözyaşı adlı kan akarken ben bile anlayabiliyordum...`
-`"Shannon-san, geri çekil...`
+`Sadece George-aniki değil;`
+` ...ben bile Shannon-chan'ın kalbinin derinliklerinden bıçaklandığını, gözyaşı adı verilen kanın aktığını anlayabiliyordum...`
+`"Shannon-san, geri dur...`
 ` ......Rosa-sama, uzun yıllardır hizmet etmediğim doğru, ve güveninizi kazanamadığımın farkındayım..."`
 `"...Ancak, ......en azından Shannon-san'a inanamaz mısınız...?!`
-` Tam on yılını Ushiromiya ailesine hizmet etmeye adadı...!"`
+` O, tam on yılını Ushiromiya ailesine hizmet etmeye adadı...!"`
 `"Bana inanmanızı söylemiyorum...!`
-` En azından Shannon-san'a inanamaz mısınız?"`
+` En azından Shannon-san'a inansanız olmaz mı...?!!"`
 `...Ama......artık anlamıyorum!!`
 `{n}Anlamıyorum!!`
 `Onlardan şüphelenmeden bir cevap arayamayız!!!`
 `İşte böyle, yavaş yavaş anlamaya başlıyorum...`
-`......Bir cevap aradığımız için; ...bu yüzden her şey daha da garipleşiyor...`
+`......Çünkü bir cevap arıyoruz; ...bu yüzden her şey daha da garipleşiyor...`
 `Bir cevaba...ihtiyacımız yok.`
 ` Bunların hepsi 19. kişi olan cadı {f:5:Beatrice} tarafından, tüyler ürpertici bir ritüeli takip ederken, tuhaf büyülerle işlenen garip cinayetler.`
 `............Bu yeterince......iyi değil mi.........`
 `Artık...kimseden...şüphelenmek istemiyorum.........`
-`Shannon-chan ve Gohda-san yarı gözyaşları içinde masumiyetlerini protesto ediyorlardı.`
+`Shannon-chan ve Gohda-san yarı gözyaşları içinde masumiyetlerini kanıtlamaya çalışıyorlardı.`
 `Genji-san bunu sessizce durdurdu.`
 `"............Durun.`
 ` ...Rosa-sama'nın söyledikleri çok doğru.`
 ` ...Cesetleri bulana kadar,`
-` {i:Doktor Nanjo ve Kumasawa'nın masum olduğunu kanıtlayamayız}."`
+` {i:Doktor Nanjo...ve Kumasawa'nın masum olduğunu...kanıtlayamayız}."`
 `Bu doğru.`
-` ...... Rosa-san'ın argümanına göre, cesetler bulunabilseydi, en azından bu kişilerin masumiyeti kanıtlanabilirdi.`
-`Ama sadece ceset olan kişiler.`
-` Malikanenin etrafını arayıp cesetleri bulsalar bile, sonuçta, kendi masumiyetleri kanıtlanamayacaktı.`
-`Doktor Nanjo ve Kumasawa-san'ı kaçırmış, başka bir yerde öldürmüş, ve odayı kendi master anahtarıyla kilitlemişti.`
-`Tabii kilitli oda başka bir yöntemle kırılmadığı takdirde,`
+` ......Rosa-san'ın argümanına göre, cesetler bulunabilirse, en azından bu insanların masumiyeti kanıtlanabilirdi.`
+`Ama bu sadece cesetler için geçerliydi.`
+` Malikanenin her tarafını arayıp cesetleri bulsalar bile, sonuçta kendi masumiyetleri kanıtlanamayacaktı.`
+`"Doktor Nanjo ve Kumasawa-san'ı kaçırdılar, onları başka bir yerde öldürdüler ve odayı kendi master anahtarlarıyla kilitlediler."`
+`Kilitli oda bu yöntem dışında bir yöntemle kırılmadığı sürece,`
 ` ......masumiyetlerini kanıtlamak imkansız olurdu...`
-`......Ama, .........bu yapılamazdı!!`
+`......Ama, .........bu olamaz!!`
 `Masumiyetlerini kanıtlamak için sadece bir şansları var.`
-`......Bu da ancak suçlu ile buluştuklarında, ceset olduklarında, ve Rosa Teyze ile yeniden bir araya geldiklerinde gerçekleşebilir.`
+`......Bu ancak suçlu ile karşılaştıklarında, ceset olduklarında ve Rosa Teyze ile yeniden karşılaştıklarında gerçekleşebilir.`
 `Bu durum berbat!!`
-` Ölürlerse masum, yaşadıkları sürece suçlu, neredeyse bir cadı mahkemesi gibi!`
+` Eğer ölürlerse masum, yaşıyorlarsa da suçlular, neredeyse bir cadı avı gibi!`
 `...Oh, doğru, düşman bir cadı.`
-`{n}Yani bu sorun teşkil etmez mi...?`
+`{n}Yani o zaman sorun yok mu...?`
 `"......Rosa-sama.`
-` Biz Ushiromiya ailesi için çalışan mobilyalarız.`
-` ......Sizin tarafınızdan güvenilip güvenilmediğimiz, bizi ilgilendirmez.`
-` Bize nasıl bir değer biçerseniz biçin, son saatimize kadar hizmet etmeye devam edeceğiz."`
+` Bizler Ushiromiya ailesi için çalışan mobilyalarız.`
+` ......Sizin tarafınızdan güvenilip güvenilmediğimiz, bizi ilgilendirmeyen bir konudur.`
+` Bize nasıl bir değer biçerseniz biçin, son anlarımıza kadar hizmet etmeye devam edeceğiz."`
 `"Sen gerçekten örnek bir hizmetkârsın.`
 ` ...Babamın sana neden güvendiğini gerçekten anlıyorum.`
 ` Senden bile şüphelenmek zorunda kalmam gerçekten çok üzücü."`
@@ -617,52 +617,52 @@
 `Genji-san elini cebine soktu ve bir master anahtar çıkardı.`
 `...Sonra onu yakındaki bir masaya koydu.`
 `"......Bunu bir güven kanıtı olarak tuttuğuma inanıyorum.`
-` Eğer bu kaybolmuşsa, geri vermemin bariz olduğunu düşünüyorum."`
+` Eğer bu güven kaybolmuşsa, iade etmemin çok doğal olduğunu düşünüyorum."`
 `"..................`
-` ......Bu iyi bir hüküm.`
-` Bu master anahtarlar, bugün birkaç kez şüpheli duruma düşmenize neden olan en büyük dayanak.`
-` Bu şüpheyi ortadan kaldırmak için onlardan vazgeçmek yalnızca bir ilk adım olabilir,`
-` ama, yani, bence fena bir başlangıç değil."`
+` ......Bu iyi bir karar.`
+` Bugün defalarca şüpheli duruma düşmenizin en büyük sebebi bu master anahtarlar.`
+` Bu şüpheyi ortadan kaldırmak için onlardan vazgeçmek sadece ilk adım olabilir,`
+` ama bence kötü bir başlangıç değil."`
 `"...............Siz ikiniz."`
 `Genji-san, Gohda-san ve Shannon-chan'a baktı.`
 `......İkisi de başlarını salladı, ve kendi master anahtarlarını masanın üzerine koydular.`
 `Rosa Teyze de zarfın içinden çıkan iki master anahtarı masanın üzerine koydu.`
 `Böylece beş master anahtar da bu yerde toplanmış oldu.`
-`Başka bir deyişle, bu, hizmetkârların bugüne kadar yaptıkları tüm hizmetlerin boşa gittiğinin kanıtıydı,`
-` ve onlara tanınması gereken son onur bile ellerinden alınmıştı...`
-`"Maria, ver şu çantayı bana."`
+`Başka bir deyişle bu, hizmetkârların bugüne kadarki tüm hizmetlerinin boşa gittiğinin,`
+` ve kendilerine tanınması gereken son onurun bile ellerinden alındığının kanıtıydı...`
+`"Maria, şu çantayı bana ver."`
 `"......Uu!!`
-` Geri ver!!"`
-`Rosa Teyze Maria'nın el çantasını kaptı, tüm master anahtarları gürültüyle içine attı, sonra birini çıkardı ve herkesin görmesi için havaya kaldırdı.`
+` Geri veeer!!"`
+`Rosa Teyze Maria'nın el çantasını kaptı, tüm ana anahtarları gürültülü bir şekilde içine attı, sonra birini çıkarıp herkesin görmesi için yukarı kaldırdı.`
 `Tüm master anahtarların kendisinde olduğunu ilan ediyordu.`
-`"Ş-.........Şimdi tatmin oldun mu Rosa Teyze?`
-` ......Şimdi tek master anahtarlar senin elinde olanlar.`
+`"Ş-.........Şimdi tatmin oldun mu, Rosa Teyze?`
+` ......Şimdi tüm master anahtarlar senin elinde olanlar.`
 ` ......Umarım tatmin olmuşsundur!!"`
-`"Evet, memnunum.`
+`"Evet, tatmin oldum.`
 ` Kimseye güvenemesem bile, en azından kendime güvenebilirim!"`
-`"Silahı ve tüm master anahtarları kendim için alabildim!`
+`"Kendim için silahı ve tüm master anahtarları alabildim!`
 ` Artık, kimseden şüphelenmeme gerek yok.`
-` Siz de mutlusunuz, değil mi?`
-` Artık şüphelenmenize gerek yok!`
-` Ahahahahahahahaha, hah-hah-hah-hah-hah-ha!"`
+` Siz de mutlu değil missiniz?`
+` Artık şüphelenilmenize gerek yok!`
+` Ahahahahahahahahaha, hah‐hah‐hah‐hah‐hah‐hah‐ha!"`
 `".........Kihihihihi."`
-`Ardından, tek başına bir seyirci gibi görünen Maria, annesiyle alay etti.`
-`...Rosa Teyze bu gülüşe kaygılı bir tepki verdi ve arkasını döndü.`
-`"......Anahtarlar önemli değil.`
-` ......{f:5:Beatrice} kapıları sihirle açabilir.`
+`Ardından, kendi başına bir seyirci gibi görünen Maria, annesine alaycı bir ses tonuyla güldü.`
+`...Rosa Teyze bu gülüşe sinirli bir tepki verdi ve arkasını döndü.`
+`"......Anahtarlar önemliz.`
+` ......{f:5:Beatrice} büyüyle kapıları açabilir.`
 ` Anahtara ihtiyacı yok.`
 ` ...Böyle bir şeye kimin sahip olup olmadığı önemli değil.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
-`"Sana hep böyle gülmeyi kes demiyor muyum?!!`
+`"Sana her zaman böyle gülmeyi kesmeni söylemiyor muyum?!!`
 ` ......?`
 ` Ne oldu, Battler-kun?"`
-`...Az önce ikisinin arasına girmiştim.`
-`......Hayır, sadece bu değil.`
-`...Dizlerimin üzerindeydim, ve Maria'nın kafasına sarılmıştım.`
+`...İkisinin arasına girmiştim.`
+`......Hayır, öyle değildi.`
+`...Dizlerimin üzerindeydim ve Maria'nın kafasına sarılmıştım.`
 `{n}......Ben......ağlıyordum.`
 `"Sadece...dur artık, Rosa Teyze......`
 ` ...Maria...haklıydı......"`
-`"......Ne-...neden bahsediyorsun......?"`
+`"......Ne-...Neyden bahsediyorsun......?"`
 `".........Maria...`
 ` Şüphe ettiğim için...`
 `......özür dilerim.`
@@ -673,92 +673,92 @@
 `...cadının işiydi...`
 ` ......Cadının...`
 `...işiydi......`
-` ...Numaralar ve kilitli odalarla ilgili tüm o şeyler hiçbir zaman önemli değildi..."`
+` ...Tüm o hileler ve kilitli odaların hiçbir önemi yoktu..."`
 `".........Sadece, sadece...`
-`.........bu cadı {f:5:Beatrice}'in gerçekten var olduğu,`
-` .........ve onun gerçekten bir cadı olması...`
-` ......Ben buna inanmadığım için,`
+`.........bu cadı {f:5:Beatrice}'in gerçekten var,`
+` .........ve o gerçekten bir cadıydı...`
+` ......Buna inanmadığım için,`
 ` ............bu kadar acı verici,`
 ` ............bu kadar üzücüydü............"`
 `".........Battler, ......sen {f:5:Beatrice}'e inanıyor musun......?"`
 `"Evet...!`
 ` İnanıyorum.`
-` ...{f:5:Beatrice} "var".`
-` Ve o garip büyüler kullanan bir cadı...!"`
+` ...{f:5:Beatrice} "gerçek".`
+` Ve o, garip büyüler kullanan bir cadı...!"`
 `"Battler......"`
-`Maria elimi bıraktı, ...ve sonrasında başımı tutan o oldu.`
+`Maria elimi bıraktı, ...ve sonrasında başımı tutmaya başlayan o oldu.`
 `"......Böylesi iyi, Battler.`
-` ............{f:5:Beatrice} "vardı".`
-` ......Sadece buna kolayca inanamadın, bu yüzden onu göremedin.`
-` ............Cadı "var".`
-` ""Var".`
-` Yakında "gelecek"."`
-`".........Beato'ya inandın, bu yüzden Altın Diyar'a davet edileceğinden eminim.`
+` ............{f:5:Beatrice} "gerçek".`
+` ......Battler, sen sadece buna kolayca inanamadın, bu yüzden onu göremedin.`
+` ............Cadı "gerçek".`
+` "Gerçek".`
+` Çok yakında "gelecek"."`
+`".........Battler, Beato'ya inandın, bu yüzden Altın Diyar'a davet edileceğinden eminim.`
 ` ......Çok yakında.`
-` ......Çok yakında olacak.`
+` ......Çok yakında gelecek.`
 ` Artık korkacak bir şey yok."`
 `"............Korkma, tamam mı?`
-` Her zaman yanımda ol, el ele tutuşalım, tamam mı...?`
+` Her zaman Maria'nın yanında ol, el ele tutuş, tamam mı...?`
 ` Hadi kitabenin bilmecesini birlikte çözelim.`
-` Beato'nun problemini düşünelim.`
-` .........Beato başından beri bunu söylüyor.`
-` Hadi oynayalım ve problemi çözelimden başka bir şey söylemedi."`
+` Beato'nun sorusunu düşünelim.`
+` .........Beato en başından beri bunu söylüyor.`
+` Hadi oynayalım ve soruyu çözelimden başka bir şey söylemedi."`
 `"Doğru...... Öyle demişti......`
 ` Suçluyu aramak tamamen zaman kaybıydı...`
 ` ......Keşke biz...`
 `...sadece cadıya...`
-`...inansaydık........."`
-`Gözyaşlarım damlamaya devam ederken yanağımı usulca sildikten sonra,`
-` ......Maria alnıma bir tüy kadar yumuşak bir öpücük kondurdu.`
-`Sadece o an için, ......Maria'nın bir zamanlar ürkütücü olduğunu düşündüğüm gülümsemesi, bir meleğe benzedi...`
-`"Master anahtarları geri verdik, ...ama Ushiromiya ailesine olan bağlılığımız değişmeyecek.`
+`...inanmış olsaydık........."`
+`Maria, gözyaşlarım damlamaya devam ederken yanağımı usulca okşadıktan sonra,`
+` ......alnıma bir tüy kadar yumuşak bir öpücük kondurdu.`
+`Sadece o an için, ......Maria'nın bir zamanlar ürkütücü olduğunu düşündüğüm gülümsemesi bir meleğe dönüşmüştü...`
+`"Master anahtarları iade ettik, ...ancak Ushiromiya ailesine olan bağlılığımız değişmeyecek.`
 ` .........Şu andan itibaren, salona izinsiz girmeyeceğiz.`
-` Rosa-sama, lütfen salonu içeriden kilitleyin."`
+` Lütfen Rosa-sama, siz de salonu içeriden kilitleyin."`
 `"......Gerçekten takdire şayan bir insansın.`
-` Tayfun geçtiğinde...... martıların çığlıkları tekrar bu adaya dönerse,`
-` .........Birbirimize bir kez daha güvenebilecek miyiz merak ediyorum."`
-`"......Eğer bize bir kez daha güvenirseniz, bundan daha büyük bir zevk olamaz."`
+` Tayfun geçtiğinde, ......martıların ağlamaları bu adaya yeniden döndüğünde,`
+` .........acaba birbirimize bir kez daha güvenebilecek miyiz?"`
+`"......Eğer, güveninizi bir kez daha bize bahşederseniz, bundan daha büyük bir zevk olamaz."`
 `"Haklısın.`
 ` ......Birbirimizi kesinlikle anlayabileceğiz.`
 ` ......{ruby:When the seagulls cry:{i:Martılar ağladığında.}}"`
 `".........Polis gelene kadar bu odayı olduğu gibi bıraksak muhtemelen daha iyi olur.`
-` Rosa-sama, lütfen kilitleyebilirseniz.`
+` Rosa-sama, lütfen kilitleyebilir misiniz?`
 ` ......Biz mutfağa döneceğiz.`
-` Bir şeye ihtiyacınız olursa, lütfen istediğiniz zaman bize emredin."`
+` Bir şeye ihtiyacınız olursa, lütfen bize istediğiniz zaman bildirin."`
 `"Teşekkürler.`
 ` ............Eğer bir kurtsan,`
-` ne kadar utanmazca konuşuyorsun."`
+` hiç utanmadan konuşabiliyorsun."`
 `"......Ve eğer bir koyunsan,`
-` .........Seni kurt kafesine attığım için özür dilerim."`
+` .........seni kurt kafesine attığım için özür dilerim."`
 `"......Mobilya kaderini aileye emanet eder.`
-` ......Bu hayattan vazgeçmek söz konusu olsa bile, eğer bu sayede güveniniz yeniden kazanılabilirse,`
+` ......Bu hayatı bir kenara atmak söz konusu olsa bile, bu sayede güveniniz yeniden kazanılabilecek ise,`
 ` bu büyük bir onur olur."`
 `".....................`
-` Umarım tayfun geçene kadar, eğer mümkünse, hepiniz sağlıklı kalabilirsiniz.`
+` Umarım tayfun geçene kadar, eğer mümkünse, hepiniz hayatta kalabilirsiniz.`
 ` Tüm bunlar tayfunun estirdiği rüzgarların ve yağan yağmurun bir çılgınlığı.`
 ` ......Gösteri sona erdiğinde, ve perde kapandığında,`
-` ......ellerimizi yeniden birbirine kenetleyebileceğiz."`
+` ......kesinlikle yeniden el ele tutuşabileceğiz."`
 `"......{ruby:When the seagulls cry:{i:Martılar...ağladığında.}}"`
 `Rosa Teyze cevap olarak başını salladı...`
 `Genji-san topuklarının üzerinde döndü.`
-`{n}Hizmetkar odasından çıktı.`
-`Gohda-san'ın yüzü hala gözyaşlarıyla kaplıydı,`
-` ......ama Genji-san'ın sözlerini dinlerken, belki de kalbini düzene sokmayı başarmıştı.`
-`......Yüzünde gerçekten utanç verici bir ifade vardı,`
-` ......ama iyi tanıdığımız Gohda-san'ın yüzüne geri dönmüştü.`
+`{n}Ve hizmetkar odasından çıktı.`
+`Gohda-san'ın yüzü hâlâ gözyaşlarıyla kaplıydı,`
+` ......ama Genji-san'ın sözlerini dinlerken belki de kalbini biraz olsun toparlamayı başarmıştı.`
+`......Yüzünde gerçekten üzücü bir ifade vardı,`
+` ......ama iyi tanıdığımız Gohda-san'ın yüzü geri dönmüştü.`
 `".........Ben de mutfakta bekliyor olacağım.`
 ` ......Bir şeye ihtiyacınız olursa, lütfen istediğiniz zaman bana emredin.`
-` .........Eğer sıcak bir yemek isterseniz, sizin için en iyisini hazırlayacağıma söz veriyorum."`
+` .........Eğer sıcak bir şeyler yemek isterseniz, sizin için en iyisini hazırlayacağıma söz veriyorum."`
 `"............Teşekkür ederim.`
-` Yarın sizi kahvaltıya davet etmek istiyorum.`
+` Yarınki kahvaltın için sabırsızlanıyorum.`
 ` ......Ve tekne muhtemelen yarın öğlene doğru gelecek.`
 ` ...Şimdiye kadar her şey için teşekkürler.`
-` Yemekleriniz Rokkenjima'daki tek zevkimdi."`
-`"...Elbette.`
-` Size söz veriyorum, mükemmel bir kahvaltı hazırlayacağım.`
+` Rokkenjima'daki tek zevkim, senin yemeklerindi."`
+`"...Anlaşıldı.`
+` Ben Gohda, size söz veriyorum, mükemmel bir kahvaltı hazırlayacağım.`
 ` Lütfen, yarın sabahı dört gözle bekleyin."`
 `"Teşekkür ederim.`
-` ............Shannon-chan da.`
+` ............Ve Shannon-chan.`
 ` Yarın sabah, ...lezzetli bir kahve içerek barışalım."`
 `"............"`
 `"......?`
@@ -766,57 +766,57 @@
 `"......Ben de...onlarla gidiyorum."`
 `"...Sorun değil, George-sama...`
 ` Lütfen, salona dönünüz.`
-` Artık master anahtar yok.`
-` Yani Rosa-sama ile salonda olursanız, kimse tarafından tehdit edilmezsiniz."`
+` Artık master anahtarlar yok.`
+` Yani Rosa-sama ile birlikte salonda olursanız, kimse sizden endişe etmeyecektir."`
 `"Bu doğru.`
 ` ...İşler böyle yürüyor.`
 ` ...Objektif olarak konuşmak gerekirse, salonda benimle olmanın en güvenli yol olacağını düşünüyorum."`
 `"......Ama seni bizimle kalmaya zorlamayacağım.`
 ` George-kun, güvenli olduğunu düşündüğün herhangi bir yerde kalabilirsin.`
-` .........Sen zaten bir yetişkinsin.`
-` Yarın sabaha kadar nerede ve kiminle vakit geçireceğin sana kalmış."`
+` .........George-kun, sen zaten bir yetişkinsin.`
+` Yarın sabaha kadar nerede, ve kiminle vakit geçireceğin sana kalmış."`
 `".........Evet.`
-` Kendi başıma karar vereceğim...`
-`geceyi kiminle geçireceğime."`
+` Geceyi kiminle geçireceğime...`
+`kendim karar vereceğim."`
 `"A-.........Aniki......"`
-`"Battler-kun, Rosa Teyze ile salonda kal.`
-` Eminim en güvenlisi budur.`
-` ......Buna kıyasla, bence salonun dışında olmak o kadar da güvenli değil.`
+`"Battler-kun, sen Rosa Teyze ile salonda kal.`
+` Eminim en güvenlisi bu olur.`
+` ......Buna karşın, salonun dışında olmanın o kadar da güvenli olmadığını düşünüyorum.`
 ` ......Bu yüzden onu öyle bir yerde yalnız bırakamam."`
-`"...... Shannon-chan ve diğer hizmetkarlardan şüphelendiğim gibi değil—`
-`Hayır, hiç kimseden......`
-` Kimseden şüphelenmek istemiyorum..."`
-`"Miras?`
-` Altın?`
+`"......Bu......Shannon-chan ve diğer hizmetkarlardan şüphelendiğimden değil—`
+`hayır, hiç kimseden......`
+` kimseden şüphelenmek istemiyorum..."`
+`"Miras mı?`
+` Altın mı?`
 ` ...Bu çok aptalca...`
-` ...İnsanların bunun için birbirlerini öldürmelerine imkan yok......"`
+` ...İnsanların bunun için birbirlerini öldürmelerine imkân yok......"`
 `"Evet.`
-` Kalbinin ne kadar temiz olduğunu herkesten iyi biliyorum, Battler-kun.`
+` Battler-kun, kalbinin ne kadar temiz olduğunu herkesten iyi biliyorum.`
 ` ......Kimse seni suçlamayacak.`
 ` Hiç kimse."`
 `"..................Anikii..."`
 `"...Sorun yok.`
-` Maria seni koruyacak.`
+` Battler, Maria seni koruyacak.`
 ` ......Eğer Maria ile olursan, {f:5:Beatrice} bile sana el süremez.`
 ` Çünkü Maria küçük olsa da, bir cadı."`
 `"Evet.`
 ` .........Maria-chan.`
 ` Battler-kun'u sana emanet ediyorum.`
-` .........Pekala, Shannon.`
+` .........Pekâlâ, Shannon.`
 ` Hadi gidelim."`
 `"Evet......`
 ` ......Rosa-sama, o halde izninizle.`
-` Bir emriniz varsa, lütfen beni istediğiniz zaman arayın."`
+` Bir emriniz olursa, lütfen beni istediğiniz zaman çağırın."`
 `".........Az önce çok acımasızca bir şey söylediğim için özür dilerim.`
 ` ............Yarın sabaha kadar beni affetmeni beklemiyorum.`
 ` Ama yarın sabah olduğunda, tekrar özür dilememe izin ver."`
 `"Evet...`
 ` ............Çok teşekkür ederim."`
-`George-aniki ve Shannon-chan birlikte hizmetkar odasından çıktılar.`
-`.........Şimdi bu iğrenç, kan lekeli odada sadece Maria, Rosa Teyze ve ben kalmıştık.`
-`Genji-san ortadan kaybolana kadar—Gohda-san ortadan kaybolana kadar—George-aniki ve Shannon-chan ortadan kaybolana kadar—orada öylece, şaşkınlık içinde durduk...`
-`Varlıkları ve ayak sesleri tamamen kaybolduktan sonra, Rosa Teyze sanki hoş bir şey hatırlamış gibi onlara kıkırdadı.`
-`".........Onlara hiç de güvenemezsin.`
+`George-aniki ve Shannon-chan birlikte hizmetkâr odasından çıktılar.`
+`.........Artık bu iğrenç, kan içindeki odada sadece Maria, Rosa Teyze ve ben kalmıştık.`
+`Genji-san gözden kaybolana kadar—Gohda-san gözden kaybolana kadar—George-aniki ve Shannon-chan gözden kaybolana kadar—orada öylece, şaşkınlık içinde durduk...`
+`Onların varlıkları ve ayak sesleri tamamen kesildikten sonra, Rosa Teyze sanki hoş bir şey hatırlamış gibi kıkırdadı.`
+`".........Onlara hiçbir şekilde güvenemezsin.`
 ` Lanet olası mobilyalar."`
 `Bu tek cümle.`
 `...beni boğdu.`
@@ -824,58 +824,58 @@
 `.........Neden...`
 `.........böyle bir şey...`
 `söylüyorsun......?"`
-`"Toplamda beş master anahtar mı var?`
+`"Master anahtarlardan toplam beş tane mi var?`
 ` Buna kim inanır ki?`
-` Bazı yedek anahtarların var olduğu çok açık.`
-` ......Sırf ceplerinden anahtar çıkardılar diye onlara güvenebilirmişiz gibi...!!!"`
+` Bazı yedek anahtarların olduğu çok açık.`
+` ......Sırf ceplerinden anahtar çıkardılar diye onlara güvenebilecek değiliz...!!"`
 `"B-......Bu hiç adil değil.........`
-` O......o anahtarları koyarak, ......sadece anahtarları bırakmıyorlardı..."`
-`"......Sen...onların tüm emeklerini boşa çıkardın, rezil ettin, ayaklar altına aldın,`
-` .........ve her şeyin sonunda anahtarları bırakmalarına neden oldun......"`
-`"Bu ayrılık cümlesi de neyin nesi...?`
-` Bu kadar ileri gitmeye istekli olduklarını gösterdiler, ......ve hala onlara güvenemiyor musun?!`
+` O, ......o anahtarları koyarak, ......sadece anahtarları bırakmıyorlardı..."`
+`"......Sen...onların tüm emeklerini hiçe saydın, rezil ettin, ayaklar altına aldın,`
+` .........ve en sonunda anahtarlardan vazgeçmelerine neden oldun......"`
+`"Bu ayrılık konuşması da neyin nesi...?`
+` Bu kadar ileri gidebileceklerini gösterdiler, ......ve sen hâlâ onlara güvenemiyor musun?!`
 ` Çok fazla... Bu kadarı da çok fazla......!"`
 `"Bu bir Şeytan'ın İspatı!`
-` Hepsinde beş master anahtar mı var?!`
+` Master anahtarlardan beş tane mi var?!`
 ` Böyle bir şeyi kanıtlamak imkansız!!`
-` Buraya yerleştirerek beş master anahtar olduğunu gösterebilirsin!`
-` Ama beşten fazla olmadığını kanıtlayamazsın!!`
+` Master anahtarları buraya koyarak beş tane olduğunu gösterebilirsin!`
+` Ama beş taneden fazla olmadığını kanıtlayamazsın!!`
 ` Sadece bir şeytan ya da cadı böyle bir şeyi kanıtlayabilir, anlıyor musun?!"`
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
-` Kes şunu artık, kes şunu...!!!"`
-`"Lütfen, {f:5:Beatrice}, şu an kendini göster,`
+` Kes şunu artık, kes şunu...!!"`
+`"Lütfen, {f:5:Beatrice}, hemen şimdi kendini göster,`
 ` ve Rosa Teyze'ye kırmızıyla "sadece beş master anahtar olduğunu" söyle!!`
-` Lütfen, sana yalvarıyorum, bunu ancak şeytanlar kanıtlayabilir, senin gibi bir cadı kanıtlayabilir!"`
-`"Lütfen, Beato, burada kendini göster ve Rosa Teyze'ye söyle...`
-`bunların tüm master anahtarlar olduğunu, ve artık kimseden şüphelenmeye gerek olmadığını söyle...!!!"`
+` Lütfen, yalvarıyorum, bunu ancak şeytanlar kanıtlayabilir, senin gibi bir cadı kanıtlayabilir!"`
+`"Lütfen, Beato, burada kendini göster ve Rosa Teyze'ye...`
+`tüm master anahtarların bunlar olduğunu, ve artık kimseden şüphelenmeye gerek olmadığını söyle...!!!"`
 `"`
 `{p:1:Sadece beş master anahtar var}.`
 ` {p:1:Sadece beş master anahtar var}."`
-`"...*cackle*, problem ne olabilir acaba?`
-` Ne kadar sık söylesem de Rosa'nın kulağına gitmiyor.`
-` Görünüşe göre hala varlığımı inkar eden birileri olmalı, öyle değil miiiii?`
+`"...*cackle*, problem ne acaba?`
+` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmayacak.`
+` Görünüşe göre hâlâ benim varlığımı inkar eden birileri var, öyle değil miiiii?`
 ` Ushiromiya Battleeeeeeeer???"`
 `"Kabul ediyorum!!`
-` Kabul ediyorum, sen varsın, varsın, kesinlikle varsın!`
+` Kabul ediyorum, sen varsın varsın kesinlikle varsın!`
 ` Bu yüzden, yalvarıyorum, kes şunu artık!!`
 ` Kes şunu artık! Kes şunu artık!!`
-` HiiiiIIIiiiiiiiiiiiiiiii!!"`
-`"Sözlerin tek başına bana ulaşamaz; bunu eylemlerinle göster.`
+` HiiiiIIIiiiiiIiiiiiiii!!"`
+`"Kelimelerin tek başına bana ulaşamaz; bunu davranışlarınla göster.`
 ` Benim mobilyam olacağına tüm kalbinle yemin et."`
 `"Yapabilir misin?`
-` Giysilerini çıkarı, çıplak kal, sonra iki elini yere koy ve yerde sürün.`
+` Kıyafetlerini çıkar, çıplak kal, sonra iki elin üzerinde düz dur ve yerde sürün.`
 ` Kıyafet; kişinin insanlığının kanıtıdır.`
-` Şu andan itibaren mobilya olacaksın, bu yüzden bu hakkını kaybedeceksin, gayet bariz!!!"`
-`"Sonra diz çök, dilini ayakkabılarımın üzerinde gezdir.`
+` Şu andan itibaren mobilya olacaksın, bu yüzden bu hakkını kaybedeceksin, bu çok doğal!!"`
+`"Ardından diz çök, dilini ayakkabılarımın üzerinde gezdir.`
 ` Yapabilir misin?`
-` Yapabilirsin, değil miiiiiiiii?`
-` Onda sonra ortaya çıkarım, kırmızıyla söylerim, tabii ki!`
+` Yapabilirsin, değil miiiiiiiii??`
+` Daha sonra tabii ki ortaya çıkacağım ve kırmızıyla söyleyeceğim!`
 ` Rosa'ya {p:1:sadece beş master anahtar olduğunu} söyleyeceğim!!"`
-`"Oh, ama anlıyorum, asil gururunu hayatta bir kenara atamazsın.`
-` Ama sorun değil, bu kadarı yeter de artar bile, biraz tereddüt etmeye başladın, değil mii?"`
+`"Oh, ama anlıyorum, o asil gururunu bir kenara atmanın imkânı yok.`
+` Ama böylesi iyi, bu kadarı yeter de artar bile, biraz sarsılmaya başladın, değil mii?"`
 `"Bir an için, ayakkabılarımı yalamanın sorun olmayacağını düşündün, değil miii?`
-` Ve hemen inkar edip utandın, değil miiiiiii?`
-` Bu ifadeye bakmak bile kendimi haaaaaarika hissettiriyor!"`
+` Ve hemen inkâr edip utandın, değil miiiiiii?`
+` Bu ifadeye bakmak bile kendimi haaaaaarika hissettiriyor!!"`
 `"Yüzün çok acınası, git bir aynaya bak,`
-` Ne kadar alçakta olduğunu, çıplak ve ayakkabılarımı yaladığını görüyor musuuuuuuun?`
-` Görebiliyor musun, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeeeer???"`
+` ne kadar alçaldığını, çıplak olduğunu ve ayakkabılarımı yaladığını görüyor musuuuuuuun?`
+` Görebiliyor musun, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???"`
