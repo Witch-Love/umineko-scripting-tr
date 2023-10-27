@@ -119,7 +119,7 @@
 `Bu noktada bile, eğer herhangi bir ipucu bulabilirsek, suçluyu ve gerçeği kendim ortaya çıkarmak istiyordum.`
 `Ama Rosa Teyze'nin durumu farklı olmalıydı.`
 ` ......Rosa Teyze'nin planında güvende kalmak, suçluyu bulmaktan daha öncelikli değil miydi?`
-`Rosa Teyze'nin cesetleri kontrol etmeyi neden bu kadar çok istediğini ve salondaki bu kalemizi bilinçli olarak neden bıraktığını anlayamıyordum.`
+`Rosa Teyze'nin salondaki bu kalemizi neden bilinçli olarak terk edecek kadar cesetleri kontrol etme isteği duyduğunu anlayamıyordum.`
 `"Hep birlikte hizmetkar odasına gideceğiz.`
 ` Hep birlikte hareket edersek, güvenli olur.`
 ` Maria, şu karalamayı şimdilik kes!"`
@@ -381,7 +381,7 @@
 ` Ondan tekrarlamasını isteyeceğim bir sonraki şey—`
 `"`
 `{p:1:Bu odada sizin grubunuz dışında kimse yok}.`
-` {p:1:"Grubunuz" Battler, George, Maria, Rosa, Genji, Gohda ve Shannon'u kapsar}."`
+` {p:1:"Grubunuz" Battler, George, Maria, Rosa, Genji, Gohda ve Shannon'u kapsıyor}."`
 `"......Ne-............"`
 `"Jessica'nın odasına geri dönelim.`
 ` {p:1:Jessica'nın cesedinin bulunduğu sırada, Jessica'nın odasında yalnızca,`
@@ -450,7 +450,7 @@
 `"Hey, Battler?`
 ` Sana çok fazla zorbalık ettiğim için üzgünüm.`
 ` Kendi tarafımdan "satranç tahtasını ters çevireceğim".`
-` Senin yerine, senin tarafına en iyi hamleyi sana öğreteceğim.`
+` Senin yerine, senin tarafından yapılacak en iyi hamleyi sana öğreteceğim.`
 ` Duymak ister misiiiin??"`
 `"Siktir git, duymak istemiyorum, istemiyorum!!"`
 `"Jessica'nın odası davası.`
@@ -482,7 +482,7 @@
 `Evet, o halde çok basit.`
 ` Doktor Nanjo suç ortağıydı, yani başka bir deyişle suçluların tarafındaydı, yani başka bir deyişle...`
 `O en başından hiç öldürülmedi mi?!`
-`Öldürüldüğünü ve cesedinin ortadan kaybolduğunu düşündük, ama en başından beri hizmetkâr odasında değil miydi?`
+`Öldürüldüğünü ve cesedinin ortadan kaybolduğunu düşündük, ama en başından beri hizmetkâr odasında değil miydi?!`
 `O zaman onunla birlikte ortadan kaybolan Kumasawa baa-chan da mı suç ortağı?!`
 `......Hepsi bu değil hepsi bu değil!`
 `{n}Bu hikayeye eşlik eden hizmetkârlar—Genji-san ve Gohda-san ve hatta Shannon-chan bile suç ortağı!`
@@ -633,7 +633,7 @@
 `"Maria, şu çantayı bana ver."`
 `"......Uu!!`
 ` Geri veeer!!"`
-`Rosa Teyze Maria'nın el çantasını kaptı, tüm ana anahtarları gürültülü bir şekilde içine attı, sonra birini çıkarıp herkesin görmesi için yukarı kaldırdı.`
+`Rosa Teyze Maria'nın el çantasını kaptı, tüm master anahtarları gürültülü bir şekilde içine attı, sonra birini çıkarıp herkesin görmesi için yukarı kaldırdı.`
 `Tüm master anahtarların kendisinde olduğunu ilan ediyordu.`
 `"Ş-.........Şimdi tatmin oldun mu, Rosa Teyze?`
 ` ......Şimdi tüm master anahtarlar senin elinde olanlar.`
@@ -642,18 +642,18 @@
 ` Kimseye güvenemesem bile, en azından kendime güvenebilirim!"`
 `"Kendim için silahı ve tüm master anahtarları alabildim!`
 ` Artık, kimseden şüphelenmeme gerek yok.`
-` Siz de mutlu değil missiniz?`
+` Siz de mutlu değil misiniz?`
 ` Artık şüphelenilmenize gerek yok!`
 ` Ahahahahahahahahaha, hah‐hah‐hah‐hah‐hah‐hah‐ha!"`
 `".........Kihihihihi."`
 `Ardından, kendi başına bir seyirci gibi görünen Maria, annesine alaycı bir ses tonuyla güldü.`
 `...Rosa Teyze bu gülüşe sinirli bir tepki verdi ve arkasını döndü.`
-`"......Anahtarlar önemliz.`
+`"......Anahtarlar önemsiz.`
 ` ......{f:5:Beatrice} büyüyle kapıları açabilir.`
 ` Anahtara ihtiyacı yok.`
 ` ...Böyle bir şeye kimin sahip olup olmadığı önemli değil.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
-`"Sana her zaman böyle gülmeyi kesmeni söylemiyor muyum?!!`
+`"Sana her zaman böyle gülmeni kesmeni söylemiyor muyum?!!`
 ` ......?`
 ` Ne oldu, Battler-kun?"`
 `...İkisinin arasına girmiştim.`
@@ -702,7 +702,7 @@
 ` Hadi kitabenin bilmecesini birlikte çözelim.`
 ` Beato'nun sorusunu düşünelim.`
 ` .........Beato en başından beri bunu söylüyor.`
-` Hadi oynayalım ve soruyu çözelimden başka bir şey söylemedi."`
+` "Hadi oynayalım ve soruyu çözelim" dışında bir şey söylemedi."`
 `"Doğru...... Öyle demişti......`
 ` Suçluyu aramak tamamen zaman kaybıydı...`
 ` ......Keşke biz...`
@@ -751,7 +751,7 @@
 ` .........Eğer sıcak bir şeyler yemek isterseniz, sizin için en iyisini hazırlayacağıma söz veriyorum."`
 `"............Teşekkür ederim.`
 ` Yarınki kahvaltın için sabırsızlanıyorum.`
-` ......Ve tekne muhtemelen yarın öğlene doğru gelecek.`
+` ......Tekne muhtemelen yarın öğlene doğru gelecek.`
 ` ...Şimdiye kadar her şey için teşekkürler.`
 ` Rokkenjima'daki tek zevkim, senin yemeklerindi."`
 `"...Anlaşıldı.`
@@ -863,7 +863,7 @@
 `"Kelimelerin tek başına bana ulaşamaz; bunu davranışlarınla göster.`
 ` Benim mobilyam olacağına tüm kalbinle yemin et."`
 `"Yapabilir misin?`
-` Kıyafetlerini çıkar, çıplak kal, sonra iki elin üzerinde düz dur ve yerde sürün.`
+` Kıyafetlerini çıkar, çıplak kal, sonra iki elinin üzerine çök ve yerde sürün.`
 ` Kıyafet; kişinin insanlığının kanıtıdır.`
 ` Şu andan itibaren mobilya olacaksın, bu yüzden bu hakkını kaybedeceksin, bu çok doğal!!"`
 `"Ardından diz çök, dilini ayakkabılarımın üzerinde gezdir.`
