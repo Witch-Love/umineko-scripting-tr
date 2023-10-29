@@ -66,8 +66,8 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 11](../../tree/master/story/ep2/tr/umi2_11.txt) ✅
       * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) ✅
       * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) ✅
-      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ✅
-      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) `<- Burdayız`
+      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) `<- Burdayız`
+      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ❌
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ❌
@@ -285,8 +285,6 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 12](../../tree/master/story/ep8/tr/umi8_12.txt) ❌
       * [Chapter 13](../../tree/master/story/ep8/tr/umi8_13.txt) ❌
       * [Chapter 14](../../tree/master/story/ep8/tr/umi8_14.txt) ❌
-         * [Song: When the Seagulls Cry](../../../umineko-scripting-tr-files/tree/master/files/video/sub/241_tr.ass) ❌
-         * [Song: When the Seagulls Cry (Legacy)](../../../umineko-scripting-tr-files/tree/master/files/legacy/sub/tr.ass) ❌
       * [Chapter 15](../../tree/master/story/ep8/tr/umi8_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep8/tr/umi8_16.txt) ❌
       * [Chapter 17 (Tea Party)](../../tree/master/story/ep8/tr/umi8_17.txt) ❌
@@ -310,6 +308,8 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
    * [menu.txt](../../tree/master/script/tr/menu.txt) ✅
       * [Trophies](../../blob/master/script/tr/menu.txt#L1943-L2024) ✅
    * Opening Lyrics ✅
+      * [PC Opening 1: When the Seagulls Cry](../../../umineko-scripting-tr-files/tree/master/files/video/sub/241_tr.ass) ❌ (not used)
+      * [PC Opening 1: When the Seagulls Cry (Legacy)](../../../umineko-scripting-tr-files/tree/master/files/legacy/sub/tr.ass) ❌ (not used)
       * [Opening 1: Igreja of Echoing Vows](../../../umineko-scripting-tr-files/tree/master/files/video/sub/tr.ass) ✅
       * [Chiru Opening 1: The Witch of Occultics](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op56_tr.ass) ✅
       * [Chiru Opening 2: Inanna’s Dream](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op4_tr.ass) ✅
