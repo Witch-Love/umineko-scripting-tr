@@ -917,7 +917,7 @@
 `Bu oyun sadece benim ya da sizin zaferinizle sona erebilir.`
 `Zaman tükendiğinde varsayılan olarak ben kazanacağım.`
 ` Beraberlik olmayacak.`
-`Mevcut durumunuzu yanlış değerlendirmediğinizden emin olun.}`
+`Mevcut durumunuzu yanlış değerlendirmediğinizden emin olunuz.}`
 `"İşte böyle yazıyor......"`
 `".........Bu mektubu oraya kimin koyduğu belli değil.`
 ` Ancak, şüpheliler listesini daraltmayı başardım.`
@@ -925,8 +925,8 @@
 `"......M-Madam...`
 ` Bu sadece......çok korkunç......"`
 `"Portreye doğru gitmeden hemen önce, buraya bir kutu yiyecek koydum.`
-` O an, burada kesinlikle bu mektup kadar garip bir şey yoktu!!"`
-`"Ve o sırada Jessica, George-kun ve Battler-kun çoktan portrenin önündeydiler!!`
+` O sırada, burada kesinlikle bu mektup kadar garip bir şey yoktu!!"`
+`"Ve o esnada Jessica, George-kun ve Battler-kun çoktan portrenin önündeydiler!!`
 ` Ve mektup ortaya çıkana kadar portrenin önünden ayrılmadılar!`
 ` Yani mektubu bırakan kişi dördünüzden biri!!!`
 ` {f:5:Beatrice} burada!!!"`

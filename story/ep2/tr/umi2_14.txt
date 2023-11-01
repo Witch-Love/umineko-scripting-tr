@@ -516,7 +516,7 @@
 ` ...Ve şimdi elimizde {f:5:Beatrice}'in cesetleri kendisinin taşıdığını itiraf etme nezaketini gösterdiği mektubu var.`
 ` ......İşte bu kadar basit."`
 `"Bu saçmalıktan bıktım artık!!"`
-`Rosa Teyze böyle bağırırken sert bir ifadeyle herkese baktı.`
+`Rosa Teyze böyle bağırırken, herkese sert bir ifadeyle baktı.`
 `"Sa-`
 `......Saçmalık mı?`
 ` ......Ne demek istiyorsunuz...?!"`
@@ -548,7 +548,7 @@
 ` Ömrünüz boyunca kolay bir hayat mı yaşamak istiyorsunuz?!`
 ` Böyle bir hayatın değeri nedir ki?!!"`
 `"Rosa-sama...!!`
-` Biz...... Biz asla...!"`
+` Biz...... biz asla...!"`
 `"Sessiz olun!`
 ` Ve Shannon, daha fazla yaklaşma!!`
 ` On yıllık minnet borcunu ihanetle ödeyeceğine inanamıyorum!!`
@@ -721,7 +721,7 @@
 `"Haklısın.`
 ` ......Birbirimizi kesinlikle anlayabileceğiz.`
 ` ......{ruby:When the seagulls cry:{i:Martılar ağladığında.}}"`
-`".........Polis gelene kadar bu odayı olduğu gibi bıraksak muhtemelen daha iyi olur.`
+`".........Polis gelene kadar bu odayı olduğu gibi bırakmamız muhtemelen daha iyi olur.`
 ` Rosa-sama, lütfen kilitleyebilir misiniz?`
 ` ......Biz mutfağa döneceğiz.`
 ` Bir şeye ihtiyacınız olursa, lütfen bize istediğiniz zaman bildirin."`
@@ -844,15 +844,15 @@
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
 ` Kes şunu artık, kes şunu...!!"`
 `"Lütfen, {f:5:Beatrice}, hemen şimdi kendini göster,`
-` ve Rosa Teyze'ye kırmızıyla "sadece beş master anahtar olduğunu" söyle!!`
+` ve Rosa Teyze'ye kırmızıyla "master anahtarların sadece beş tane olduğunu" söyle!!`
 ` Lütfen, yalvarıyorum, bunu ancak şeytanlar kanıtlayabilir, senin gibi bir cadı kanıtlayabilir!"`
 `"Lütfen, Beato, burada kendini göster ve Rosa Teyze'ye...`
 `tüm master anahtarların bunlar olduğunu, ve artık kimseden şüphelenmeye gerek olmadığını söyle...!!!"`
 `"`
-`{p:1:Sadece beş master anahtar var}.`
-` {p:1:Sadece beş master anahtar var}."`
+`{p:1:Master anahtarlardan beş tane var}.`
+` {p:1:Master anahtarlardan beş tane var}."`
 `"...*cackle*, problem ne acaba?`
-` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmayacak.`
+` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmıyor.`
 ` Görünüşe göre hâlâ benim varlığımı inkar eden birileri var, öyle değil miiiii?`
 ` Ushiromiya Battleeeeeeeer???"`
 `"Kabul ediyorum!!`
@@ -870,7 +870,7 @@
 ` Yapabilir misin?`
 ` Yapabilirsin, değil miiiiiiiii??`
 ` Daha sonra tabii ki ortaya çıkacağım ve kırmızıyla söyleyeceğim!`
-` Rosa'ya {p:1:sadece beş master anahtar olduğunu} söyleyeceğim!!"`
+` {p:1:Master anahtarların sadece beş tane olduğunu} Rosa'ya söyleyeceğim!!"`
 `"Oh, ama anlıyorum, o asil gururunu bir kenara atmanın imkânı yok.`
 ` Ama böylesi iyi, bu kadarı yeter de artar bile, biraz sarsılmaya başladın, değil mii?"`
 `"Bir an için, ayakkabılarımı yalamanın sorun olmayacağını düşündün, değil miii?`
