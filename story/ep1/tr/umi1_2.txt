@@ -33,7 +33,7 @@
 `"Benim için bir zevk.`
 ` Ben Battler."`
 `"Dönüşünüz merakla bekleniyordu efendim.`
-` Evvelki yıldan bu yana Ushiromiya baş ailesi için çalışıyorum; adım Gohda ({p:0:郷田}), hizmetkarınızım."`
+` Evvelki yıldan bu yana Ushiromiya baş ailesi için çalışıyorum; adım Gohda ({p:0:郷田}), hizmetkârınızım."`
 `"Sizinle tanışmak benim için bir zevk.`
 ` İhtiyacınız olan bir şey olursa, lütfen bana iletmekten çekinmeyin."`
 `"Gohda-san, uzun zaman oldu."`
@@ -297,7 +297,7 @@
 `"..................`
 ` .........İyi günler."`
 `...Muhtemelen benden daha genç olduğunu düşündüm.`
-`{n}Etrafındaki genel havadan onun da bir hizmetkar olduğunu anladım.`
+`{n}Etrafındaki genel havadan onun da bir hizmetkâr olduğunu anladım.`
 `Hideyoshi Amca'ya selam vermesine rağmen, kendisi çekingen biri gibi görünüyordu.`
 `Duygudan yoksun bir selamlamaydı.`
 `Gohda-san ilgimizin ona kaydığını fark edince çocuğun yanına gitti ve onu bizimle tanıştırdı.`
@@ -305,7 +305,7 @@
 ` Kendisi Ushiromiya'ya hizmet eden hizmetkârlardan biridir.`
 ` ...Kanon-san, misafirimizi selamla."`
 `"..................Sizinle tanıştığıma memnun oldum.`
-` Ben hizmetkar............`
+` Ben hizmetkâr............`
 `Kanon ({p:0:嘉音})."`
 `Evet, ilk izlenimimde yanılmamışım—çekingen ya da biraz kötü konuşan biri olduğu hissini verdi.`
 `Bir hizmetkâr olarak olağanüstü kibar olan Gohda-san'ın aksine,`
@@ -404,7 +404,7 @@
 `"............Böyle bir çirkinliği görmenize izin verdiğim için affınıza sığınıyorum."`
 `"Pekala, bu kadar yeter.`
 ` Lütfen, git."`
-`Böyle utanç verici bir şeyin hoş karşılanması gereken konuklar tarafından görülmesine izin vermek...bir hizmetkar olarak çok utanç verici olmalı.`
+`Böyle utanç verici bir şeyin hoş karşılanması gereken konuklar tarafından görülmesine izin vermek...bir hizmetkâr olarak çok utanç verici olmalı.`
 `Gohda'nın acele etmesi ve gitmesi yönündeki baskısı üzerine Kanon-kun gitti.`
 `"Gohda-san, ona karşı çok acımasızsın.`
 ` Zorbalık etmek yerine ona yardım etseydin daha iyi olmaz mıydı?"`
@@ -416,10 +416,10 @@
 ` Çok yazık."`
 `"Huysuz bir yaş.`
 ` Ona karşı nazik ol.`
-` Ağzını sıkı tutmak tam da bir hizmetkarda olması gereken şeydir.`
+` Ağzını sıkı tutmak tam da bir hizmetkârda olması gereken şeydir.`
 ` Değil mi, Kumasawa-san?"`
 `"Hoh-hoh-hoh-ho, Rudolf-sama, gerçekten çok acımasızsınız!`
-` Benim kadar sessiz bir hizmetkar yoktur elbette!"`
+` Benim kadar sessiz bir hizmetkâr yoktur elbette!"`
 `Bu utanmaz yalan karşısında herkes alaycı bir şekilde gülümsedi.`
 `{n}Kendisi bile buna inanmıyordu, en çılgın rüyalarında bile.`
 `{n}Bunu hepimizi gevşetmek için söyledi.`
@@ -644,7 +644,7 @@
 ` Hmm~?`
 ` Şey, nasıl olduğunu bilirsin.`
 ` En son buraya geleli bir yıl oldu.`
-` Görünüşe göre bu süre zarfında işe girmiş veya işten ayrılmış olabilecek hizmetkarlara merhaba demek için can atıyor, anlıyor musun?"`
+` Görünüşe göre bu süre zarfında işe girmiş veya işten ayrılmış olabilecek hizmetkârlara merhaba demek için can atıyor, anlıyor musun?"`
 `"......Uu?`
 ` Merhaba de, Maria da merhaba desin!"`
 `"Ne olacak ki, bunda suçluluk duyulacak bir şey yok, Aniki.`
@@ -666,7 +666,7 @@
 ` ......Shannon.`
 ` ......Aaaaaaaaahh...`
 ` O kızı hatırlıyorum!`
-` O hala hizmetkar mı?`
+` O hala hizmetkâr mı?`
 ` O nasıl?!"`
 `"Bu arada, Natsuhi nee-san.`
 ` Son zamanlarda baş ağrın nasıl?`
@@ -745,7 +745,7 @@
 `{n}...Kyrie ve Rosa hemen anladılar ve itaatkâr bir şekilde yerlerine döndüler.`
 `Misafirler çoktan karşılanmıştı, bu yüzden onlar için çay hazırlama zamanı gelmişti.`
 `...Çay gecikmişti ve misafirlerin kendi çaylarını yapmaktan bahsetmeleri ev sahibi için utanç vericiydi.`
-`Natsuhi alt dudağını ısırdı, çayı getirmeleri çok uzun süren hizmetkarların beceriksizliğine sinirlenmişti.`
+`Natsuhi alt dudağını ısırdı, çayı getirmeleri çok uzun süren hizmetkârların beceriksizliğine sinirlenmişti.`
 `...Onun yüzünü gören Eva, hiç tereddüt etmeden kıkırdamaya başladı.`
 `......Elbette Shannon'un salonda neler olup bittiğini bilmesine imkân yoktu.`
 `Çay fincanlarıyla dolu bir bulaşık arabasını iterek içeri girdiğinde,`
@@ -771,7 +771,7 @@
 `".........Shannon, masayı hazırlamayı bitir, çabuk."`
 `"Ben, ben özür dilerim Madam......"`
 `Natsuhi'nin sinirlenmeye başladığı belliydi.`
-`...Çayı geciktiren beceriksizlik, hizmetkarın sakarlığı, her şey Natsuhi'nin günlük rehberliğinin yetersizliğine işaret ediyor ve yüzünü kaybetmesine neden oluyordu.`
+`...Çayı geciktiren beceriksizlik, hizmetkârın sakarlığı, her şey Natsuhi'nin günlük rehberliğinin yetersizliğine işaret ediyor ve yüzünü kaybetmesine neden oluyordu.`
 `Ushiromiya baş ailesinin işlerinden sorumlu kişi olarak, bu beceriksizliğin bugün olmasına izin vermek kesinlikle tam bir aşağılanmadan başka bir şey değildi.`
 `"Kes şunu, Natsuhi nee-san.`
 ` Elinden gelenin en iyisini yapmaya çalışan Shannon-chan'a zorbalık etmek sence de biraz acımasızca değil mi?"`
@@ -874,10 +874,10 @@
 `Koridordaki gölgelerin arasından, önlük giymiş yaşlı bir kadın onları izliyordu. O Kumasawa'ydı...`
 `......Ne kadar yürek parçalayıcı, Shannon-san, Kanon-san...`
 `Bu ikisine sataşılması için hiçbir sebep yok.`
-` ...Ama Gohda-san tarafından sevilmedikleri inkar edilemez...`
+` ...Ama Gohda-san tarafından sevilmedikleri inkâr edilemez...`
 `Gohda-san, Ushiromiya baş ailesi tarafından alınmadan önce, bir yerlerde muhteşem bir otel için çalıştığını duydum.`
 `Orada öğrendiği iş tarzının oldukça iyi olduğunu düşünüyorum.`
-`Sadece...Gohda-san buradaki en yeni hizmetkar.`
+`Sadece...Gohda-san buradaki en yeni hizmetkâr.`
 `...Önceki görevlerinden çok gurur duyuyor olmalı.`
 `Shannon-san ve Kanon-kun onun malikanedeki kıdemlileri olmasına rağmen tecrübesiz oldukları ve hayatta kendisinden çok daha az şey yaşadıkları için her fırsatta onlara sataşıyor...`
 `Ve ayrıca, ...yeterince korkunç olmasına rağmen, Madam Natsuhi de onlardan nefret ediyor...`
