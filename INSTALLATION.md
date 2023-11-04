@@ -78,8 +78,8 @@ Bu adımla beraber Umineko Project kurulumu tamamlanıyor. Türkçe Patch'i kurm
 
 ## Türkçe Patch Kurulumu
 
-[Releases](../../releases/latest) sayfasından Türkçe scriptleri,  
-[Dosyalar](../../../umineko-scripting-tr-files/releases/latest) sayfasından da Türkçe dosyaları indirin.
+1. [Releases](../../releases/latest/download/umineko-tr-scripts.zip) linkinden Türkçe scriptleri,  
+2. [Dosyalar](../../../umineko-scripting-tr-files/releases/latest/download/umineko-tr-files.zip) linkinden de Türkçe dosyaları indirin.
 
 İndirdiğiniz bu iki arşiv dosyasını da önceki adımlardaki gibi klasörünüze çıkarın.
 
