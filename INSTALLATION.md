@@ -39,6 +39,8 @@ Bu açıklamayı kabul ediyorsanız, lütfen "[Downloads](https://umineko-projec
 > [!NOTE]
 > Eğer Umineko Project'i çoktan kurduysanız [Türkçe Patch Kurulumu](#türkçe-patch-kurulumu)'na atlayabilirsiniz.
 
+Kurulum işlemi karışık görünüyor olsa da aslında oldukça basit. Adım adım takip etmeye dikkat ederseniz sıkıntısız bir şekilde kurabileceksiniz. Kurulumun tamamı yalnızca indirdiğiniz arşiv dosyalarını çıkartıp tek bir klasöre toplamaktan ibarettir.
+
 ### Adım 1: "Resources" İndirmeleri
 
 **İlk olarak:** Bilgisayarınızın herhangi bir yerinde yeni bir klasör oluşturun. İsmi önemli değil, istediğinizi yapabilirsiniz. İndirdiğiniz dosyaları bu klasörde toplayacak ve oyunu bu klasörden açacaksınız.
@@ -51,21 +53,19 @@ Bu açıklamayı kabul ediyorsanız, lütfen "[Downloads](https://umineko-projec
 
 **Üçüncüsü:** On iki dosyanın tamamı indirildikten sonra yapmanız gereken şey WinRAR gibi bir arşiv programı kullanarak *`umiproj_31.12.19.7z.001`* adlı dosyayı açmaktır. Şifre: `035646750436634546568555050`
 
-Dosyayı açtıktan sonra dosyayı önceden oluşturmuş olduğunuz klasöre çıkarın. Bu adım neredeyse oyunun tüm dosyalarını içerdiğinden bilgisayarınızın hızına bağlı olarak biraz zaman alacaktır.
+Dosyayı açtıktan sonra dosyayı önceden oluşturmuş olduğunuz klasöre çıkartın. Bu adım neredeyse oyunun tüm dosyalarını içerdiğinden bilgisayarınızın hızına bağlı olarak biraz zaman alacaktır.
 
 -----
 
 ### Adım 2: "Script" İndirmesi
 
-Bu adım basit. Sadece "Scripts" başlıklı kısımdaki tek dosyayı indirin ve klasörünüze çıkarın.
-
-<img src="https://i.imgur.com/GIp8Gdp.png" width="700">
+Bu adım basit. [Buradan](https://github.com/umineko-project/umineko-scripting/releases/download/z4050/umineko-main-scripts_r4050.zip) oyunun scriptlerinin bulunduğu dosyayı indirin ve klasörünüze çıkartın.
 
 -----
 
 ### Adım 3: "Game Engine" İndirmesi
 
-Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indirin ve klasörünüze çıkarın.
+Bu adım da oldukça basit. Kendi işletim sisteminize uygun olanı seçip indirin ve klasörünüze çıkartın.
 
 Bu adımla beraber Umineko Project kurulumu tamamlanıyor. Türkçe Patch'i kurmak için bir sonraki adımı da tamamlayın.
 
@@ -78,19 +78,16 @@ Bu adımla beraber Umineko Project kurulumu tamamlanıyor. Türkçe Patch'i kurm
 
 ## Türkçe Patch Kurulumu
 
-1. [Releases](../../releases/latest/download/umineko-tr-scripts.zip) linkinden Türkçe scriptleri,  
-2. [Dosyalar](../../../umineko-scripting-tr-files/releases/latest/download/umineko-tr-files.zip) linkinden de Türkçe dosyaları indirin.
+1. [Türkçe Script](../../releases/latest/download/umineko-tr-scripts.zip) linkinden Türkçe scriptleri,  
+2. [Türkçe Dosyalar](../../../umineko-scripting-tr-files/releases/latest/download/umineko-tr-files.zip) linkinden de Türkçe dosyaları indirin.
 
-İndirdiğiniz bu iki arşiv dosyasını da önceki adımlardaki gibi klasörünüze çıkarın.
-
-<img src="https://i.imgur.com/VVuf607.png" width="600">
-
-<img src="https://i.imgur.com/ylfhA3d.png" width="600">
+İndirdiğiniz bu iki arşiv dosyasını da önceki adımlarda olduğu gibi klasörünüze çıkartın.
 
 -----
 
 ### Kurulum Tamamlandı
 
+Kurulum tamamlandıktan sonra klasörünüz aşağıdaki şekilde görünmeli. Eğer ekstra bir klasör bulunuyorsa ya da eksik varsa bir şeyleri yanlış yapmış olma ihtimaliniz yüksek.  
 Artık klasörünüzün içindeki `onscripter-ru.exe` dosyasından oyununuzu başlatabilirsiniz!  
 Oyunu açtıktan sonra oyun dilini `Witch Love` olarak ayarladığınızda oyununuz Türkçe olacaktır. İyi okumalar!
 
