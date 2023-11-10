@@ -66,6 +66,7 @@
 * Fragment (Kakera olan) `->` Kakera
 * Furniture `->` Mobilya
 * Game Master `->` Oyun Yöneticisi
+* Goat Attendant `->` Keçi Uşağı
 * Golden Land `->` Altın Diyar
 * Great Demon `->` Yüce İblis
 * Gruesome `->` Dehşet verici
@@ -77,6 +78,7 @@
 * Locked Room `->` Kilitli Oda
 * Logic Error `->` Mantık Hatası
 * Lounge `->` Bekleme Salonu
+* Love `->` Aşk *`(büyüye yönelik söylenmiyorsa duruma bağlı)`*
 * Magic `->` Büyü
 * Mansion `->` Malikane
 * Master `->` Efendi
