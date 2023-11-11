@@ -2,10 +2,10 @@
 `{n}Sabahın bu erken saatinde böylesine korkunç bir şey olmuştu.`
 `{n}Doğal olarak çok gergindiler...`
 `Ailelerinin trajik bedenlerini gördüklerinde gözyaşlarına boğulan, öfkelenen ve içlerindeki duyguların patlamasına izin veren Battler ve George salona geri döndüler,`
-`koltuklara oturdular ve sanki o ana kadar her şey bir rüyadan ibaretmiş gibi zihinlerinin bulanıklaşmasına izin verdiler...`
+` koltuklara oturdular ve sanki o ana kadar her şey bir rüyadan ibaretmiş gibi zihinlerinin bulanıklaşmasına izin verdiler...`
 `Yalnızca Maria hiç değişmemişti ve tamamen normal görünüyordu.`
 `......Yaramazlık yapmadığı zamanlarda, aslında kendi kendine sessiz sakin oynayabilen bir çocuktu,`
-` bu yüzden zihni boş olsa bile muhtemelen olduğu gibi görünürdü.`
+` bu yüzden zihni boş olsa bile muhtemelen normalde olduğu gibi görünürdü.`
 `...Ama televizyonu açıp kanallarda gezerken, onunla ilgili hiçbir şey normalden farklı değilmiş gibi görünüyordu.`
 `Normal insanlardan açıkça farklı olan bu tutum hakkında Rosa'nın muhtemelen bazı düşünceleri vardı.`
 `......Maria'nın sırtına pek de hoş olmayan bir bakışla baktı.`
@@ -81,8 +81,8 @@
 `Sessizliğe gömülen salondaki tek ses, Maria'nın tek başına izlediği televizyonun sesiydi.`
 `Bunun dışında duyulabilen bir şey varsa, o da dün geceden beri aralıksız devam eden yağmurun sesiydi.`
 `O doğaüstü ve dehşet verici sahneyi gören insanların hepsi, sanki bu sabah yaşananların bir rüya olması için dua edercesine sessiz kaldılar.`
-`Sadece Kumasawa bunu görmemişti ve bu yüzden biraz farklı davrandı.`
-`...Herkesin aksine bu sessizliğe katlanmakta zorlandı ve herkesi neşelendirme arzusuyla hareketlendi.`
+`Sadece Kumasawa bunu görmemişti ve bu yüzden biraz farklı davranıyordu.`
+`...Herkesin aksine bu sessizliğe katlanmakta zorlandı ve herkesi neşelendirmeye gayret ediyordu.`
 `...Ancak, gerektiğinden fazlasını söyleyemediğinden, nasıl faydalı olabileceği konusunda kafa yoruyor gibi görünüyordu...`
 `Normalde kahvaltı vakti gelmiş olmalıydı.`
 ` ......Ancak, muhtemelen böyle bir olay yaşandığı için Gohda yemek hazırlamayı unutmuş görünüyordu.`
@@ -155,8 +155,8 @@
 ` Bu henüz kesin değil..."`
 `"Ama ne yazık ki bu olasılığı inkâr edemeyiz. Ihihi."`
 `"......Bu mektup kilisedeydi.`
-` Buna bakılırsa, suçlu cadı,`
-` ve eğer büyükbabamın kitabesindeki bilmeceyi çözüp altını bulamazsak, tüm aileyi katledecek...ya da öyle bir şey."`
+` Bu açıklamaya göre, suçlu bir cadı,`
+` ve eğer büyükbabamın kitabesinin bilmecesini çözüp altını bulamazsak, tüm ailemizi topluca katledecek...gibi bir şeyler söylüyor."`
 `"Bu doğru mu...!`
 ` Umm, benim de okumama izin verir misiniz...?"`
 `"Hii...{0}hi...{0}hi...{0}hieee{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}eeee...{0}eeee{0}e{0}e{0}eeee...{0}hh..."`
@@ -487,14 +487,14 @@
 `"Sizin master anahtarlarınızla açılamaz mı?"`
 `"......Açabilir."`
 `"Master anahtarlardan kaç tane var?`
-` Bütün hizmetkarlarda var mı?`
+` Bütün hizmetkârlarda var mı?`
 ` Yedekler var mı?"`
 `"Evet, var.`
 ` Hepimizde bir tane var.`
 ` .........Yedeklere gelince, ...bilmiyorum."`
 `"Eskiden birkaç tane vardı, ...ama Madam bunun dikkatsizce olduğu konusunda bizi sert bir şekilde azarladığından, onların ortadan kaldırıldığına inanıyorum."`
 `"......Bu doğru.`
-` Her hizmetkarın elinde sadece bir tane var.`
+` Her hizmetkârın elinde sadece bir tane var.`
 ` Daha fazlası yok."`
 `"...nn?`
 ` Bekle bir saniye.`
@@ -526,9 +526,9 @@
 ` Peki kim?!"`
 `"...Yoksa...Rosa Teyze, Kanon-kun'dan bahsetmiyorsun, değil mi...?"`
 `"......Huh, ......huuuh?!`
-` K-Kanon-kun mu, neden?!"`
+` K-Kanon-kun mu, peki neden?!"`
 `"Bu oda kilitliydi.`
-` Ve bu odayı sadece her hizmetkârın taşıdığı master anahtarlar ve Jessica'nın sahip olduğu anahtar açabilir."`
+` Ve bu odayı sadece her hizmetkârın taşıdığı master anahtarlar ve Jessica-chan'ın sahip olduğu anahtar açabilir."`
 `"......Ama Jessica-chan'ın anahtarı burada kapalıydı.`
 ` ...Bu da, bu odayı kilitleyebilecek tek anahtarların master anahtarlar olduğu anlamına geliyor."`
 `"............Aynı söylediğiniz gibi."`
@@ -545,7 +545,7 @@
 `"B-Benim Leydi'nin odasına girdiğimi,`
 ` ve böyle korkunç bir şey yaptığımı mı söylüyorsunuz?!`
 ` Ben, ben, ben böyle bir şey yapmadım!`
-` Hayır, öyle bir şey yok!!"`
+` Hayır, öyle bir şey olmadı!!"`
 `"Gohda-san, peki ya sen?`
 ` Bize, Jessica-chan'ı Kanon-kun'a emanet edip döndüğünü söylemiştin."`
 `"...Ama acaba bu doğru mu?`
@@ -572,7 +572,7 @@
 ` Kurbanın sırtından bıçaklanması gibi suçlarda, suçlunun kurbanın tanıdığı biri olma ihtimali yüksektir.`
 ` O güvenmediği birini odasına davet etmez ve sırtını kesinlikle savunmasız bırakmaz."`
 `"Y-......Yoksa Rosa-sama, siz...`
-`.........onun Kanon-kun olduğunu mu söylüyorsunuz...?"`
+`.........bunu Kanon-kun'un yaptığını mı söylüyorsunuz...?"`
 `"Evet.`
 ` Hepimiz öldürülmeden hemen önce Jessica-chan'ın ne durumda olduğunu çok iyi biliyoruz."`
 `"......Anne ve babasının trajik vücutlarını gördükten sonra Jessica-chan çok paniklemişti.`
@@ -733,7 +733,7 @@
 `{n}...Burada kimseden şüphelenmek istemiyorlardı.`
 `Kalplerindeki bu zayıflık, burada olmayanlardan bir cevap bekliyordu...`
 `"Şüpheli olmadığından emin olabileceğiniz sadece iki grup insan var.`
-` .........Kendiniz ve çoktan ölmüş olanlar.`
+` .........Kendiniz, ve çoktan ölmüş olanlar.`
 ` .........Aynısı Kanon-kun için de geçerli."`
 `"Biz onun cesedini görene kadar, Jessica-chan'ın cinayetindeki en olası şüpheli o!!`
 ` Bu yüzden dikkatli olun.`
@@ -1166,7 +1166,7 @@
 ` Şey, ......Kanon-kun adına tüm bunlar için,`
 ` ...çok teşekkür ederim...!"`
 `"......Teşekkür istemiyorum.`
-` Ne de olsa, ......bu sizin de şüpheli konumunda olduğunuz anlamına geliyor."`
+` Ne de olsa, ......Shannon-chan, bu sizin de şüpheli konumunda olduğunuz anlamına geliyor."`
 `"....................."`
 `"...Ve Rosa Teyze, üzgünüm.`
 ` ......Sana karşı gelmek istediğimden falan değil.`
@@ -1179,7 +1179,7 @@
 ` ............Değil mi?"`
 `Rosa Teyze silahı bir eline aldı ve diğer elini uzattı.`
 `...Ben de elimi uzattım ve bir süreliğine el sıkıştık.`
-`Teyze'min bakışları keskindi.`
+`Teyzemin bakışları keskindi.`
 `{n}......Cadıyı inkâr etmek uğruna herkesi kurban edebilirdi.`
 `{n}...Gözleri bana bunu söylüyordu.`
 `Peki ya ben...?`

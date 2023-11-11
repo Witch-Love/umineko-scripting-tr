@@ -53,7 +53,7 @@
 `"Shannon, içeri gel!`
 ` Battler'ı hatırlıyorsun, değil mi?!"`
 `Jessica yataktan kalktı ve kapıyı açtı.`
-`Karşısında bizim yaşlarımızda olduğu belli olan bir hizmetkar kız duruyordu.`
+`Karşısında bizim yaşlarımızda olduğu belli olan bir hizmetkâr kız duruyordu.`
 `"Son görüşmemizden bu yana epey zaman geçti, Battler-sama.`
 ` Altı yıl sonra sizi görmek güzel... Ben Shannon."`
 `Varlığımı fark edip biraz titreyerek derin bir selam verdi.`
@@ -119,7 +119,7 @@
 `Shannon-chan zarif bir şekilde önümde eğilirken böyle dedi.`
 `Yüz ifadesi ışıl ışıldı.`
 `{n}"bu işi kaptın" anlamında baş parmağımı kaldırdım.`
-`"Altı yıl önce, bazen yardım etmek için gelen bir hizmetkarın kızı sanılabilirdin,`
+`"Altı yıl önce, bazen yardım etmek için gelen bir hizmetkârın kızı sanılabilirdin,`
 ` ......ama şimdi tam teşekküllü ergin bir hizmetkârsın.`
 ` Kaç yıl oldu?"`
 `"Düşününce,`
@@ -129,9 +129,9 @@
 `{n}Bu da bir Japon için alışılmadık bir isim.`
 `O günlerde bir çocuk olarak, onun adını çok fazla dikkat etmeden kabul etmiştim,`
 ` ancak Ushiromiya ailesinin bir üyesi bile olmadığı düşünüldüğünde böyle bir isimle çağrılması oldukça sıra dışı.`
-`...Belki de bir hizmetkarın "mesleki ismi" gibi bir şeydir.`
+`...Belki de bir hizmetkârın "mesleki ismi" gibi bir şeydir.`
 `...Eğer durum öyleyse, Kanon-kun'un adının da kulağa neden böyle geldiğini de anlayabiliyorum.`
-`Shannon altı yaşından beri burada hizmet eden uzun süreli bir hizmetkar.`
+`Shannon altı yaşından beri burada hizmet eden uzun süreli bir hizmetkâr.`
 `Vücudu kökten değiştiği için anılarımla uyuşmuyordu ama birbirimizi altı yıl önce tanıyorduk.`
 `Geçmişte olduğu kadar utangaç görünüyordu, ama onun yaşındaki bir kıza yakışan bir çekiciliğe büründüğünü hissettim.`
 `Özellikle de göğüsleri, göğüsleri.`
@@ -183,9 +183,9 @@
 `Görünüşte bina görkemliydi, ancak bu kadar eski olduğu için klima gibi modern olanaklardan yoksun görünüyordu.`
 `Jessica'ya göre, kış ortaları hava akımları yüzünden özellikle zor geçiyormuş.`
 `...{c:86ef9c:Kotatsu}'ları çıkaramayacak değiller ya.`
-`Girişe girdiğimizde bizi yaşlı bir hizmetkar karşıladı.`
+`Girişe girdiğimizde bizi yaşlı bir hizmetkâr karşıladı.`
 `{n}Onu şimdi hatırladım.`
-`Personelin en kıdemli üyesi olan Genji-san ({p:0:源次}) hizmetkarların başı olarak görev yapıyordu.`
+`Personelin en kıdemli üyesi olan Genji-san ({p:0:源次}) hizmetkârların başı olarak görev yapıyordu.`
 `"............Battler-sama, uzun zamandır görüşmemiştik."`
 `Gözlerimiz buluştuğunda, sakin bir sesle bizi selamladı.`
 `Gohda'nınki kadar zarif bir selam değildi,`
@@ -290,7 +290,7 @@
 `".........Hmpf, tüylerim diken diken oldu."`
 `"........................Leydim.`
 ` ...Efendi için bu önemli bir portre.`
-` ......Onun önünde böyle bir şey söylememenizi önemle rica ediyorum."`
+` ......Efendi'nin önünde böyle bir şey söylememenizi önemle rica ediyorum."`
 `".........Biliyorum.`
 ` Bana yalvarsan bile söyletemezsin."`
 `Jessica portreye bir saniye baktıktan sonra arkasını döndü.`
@@ -522,7 +522,7 @@
 `Ve çoğu zaman gerçek bir sohbet bile edemeyeceklerdi.`
 `Ancak bu durum aile için özel bir sorun teşkil etmiyordu.`
 `Çünkü huysuz ve yaşlı reisin emekliliğine müdahale etmek için hiçbir sebepleri yoktu; tamamen tuhaf araştırmalarına dalmış olması ve her zaman gizlendiği yerde kilitli kalması bir avantajdı.`
-`......Çalışma odasından çıkmayı reddetmesinden en iyi şekilde yararlandılar, kendileri mesafelerini korurken onu hizmetkarların ellerine emanet ettiler.`
+`......Çalışma odasından çıkmayı reddetmesinden en iyi şekilde yararlandılar, kendileri mesafelerini korurken onu hizmetkârların ellerine emanet ettiler.`
 `"Genji, her zamanki gibi.`
 ` Meşgulüm."`
 `"......Evet."`
@@ -688,7 +688,7 @@
 ` Doğrudan babama sormayı deneyebilirsin.`
 ` ...Yine de, onu rahatsız etmezsek ruh halinin daha hızlı düzeleceğini düşünüyorum."`
 `"Büyükbabanın öfkesini kontrol altına alabilecek tek kişi Genji-san.`
-` Kendi ebeveyninizin kötü ruh haliyle başa çıkmak için bir hizmetkara sahip olmanız oldukça acınası."`
+` Kendi ebeveyninizin kötü ruh haliyle başa çıkmak için bir hizmetkâra sahip olmanız oldukça acınası."`
 `"Jessica.`
 ` Yersiz konuşma."`
 `Şikâyetinin sadece kuzenleri tarafından duyulmasını planlamıştı ama Krauss'un kulaklarına bile ulaşmıştı.`

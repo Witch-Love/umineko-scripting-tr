@@ -79,7 +79,7 @@
 ` ......Bunlar sadece dokuz yaşındaki bir kızın saçmalıkları olamaz mı?"`
 `Ben bile bunu söyleyerek yüzsüzlük ettiğimi düşündüm...`
 `{n}Ben de bugün birkaç kez Maria'nın ürkütücü olduğunu düşünmüş ve onun gerçek doğasından şüphe etmiştim.`
-`......Ve Maria bu odadan atıldığında, biraz rahatladığımı inkar edemezdim...`
+`......Ve Maria bu odadan atıldığında, biraz rahatladığımı inkâr edemezdim...`
 `"..................Eğer durum böyleyse,`
 ` yarın yaptığım şey için özür dileyeceğim.`
 ` ...Onları bu odadan atmanın tüm sorumluluğunu üstleneceğim.`
@@ -569,7 +569,7 @@
 ` Ama {f:5:Beatrice} seçti.`
 ` ......Ve bunu yaptığında, {f:5:Beatrice} Maria'ya iyi olacağını söyledi.`
 ` .........Sence neden?"`
-`"Battler'ın güvenliğim için üzerine dua ettiği ve duygularını içine döktüğü Mars'ın beşinci büyülü çemberinin bulunduğu akrep tılsımına sahiptim.`
+`"Maria, Battler'ın güvenliği için üzerine dua ettiği ve duygularını içine döktüğü Mars'ın beşinci büyülü çemberinin bulunduğu akrep tılsımına sahipti.`
 ` Bu güç sayesinde {f:5:Beatrice} Maria'ya hiçbir şey yapamadı."`
 `"Bu yüzden diğer üçünü kurban olarak kullanmaya karar verdi.`
 ` Ve sonra bana şunu söyledi."`

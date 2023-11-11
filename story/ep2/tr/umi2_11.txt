@@ -34,7 +34,7 @@
 ` Bugüne kadar bana iyi hizmet ettin."`
 `"S-...Sözleriniz için teşekkür ederim......`
 ` ...Ama, umm........."`
-`"...............Biz size hizmet etmeye yemin etmiş mobilyalarız lordum.`
+`"...............Biz size hizmet etmeye yemin etmiş mobilyalarız, lordum.`
 ` ......Her zaman ve her halükarda, yanınızda bekliyor olacağız.`
 ` ......En sonuna kadar."`
 `"..................`
@@ -59,7 +59,7 @@
 `".........Yüzyıllar öncesine ait eski oyunların kayıtlarını incelemek, ...bu oyuncuların zihinlerinde bir yolculuğa çıkmak gerçekten eğlenceli olabilir.`
 ` .........Öyleyse benim hayatımın skor tablosu da gelecekte insanları fikirlerimi keşfetmek için bir yolculuğa çıkmaya çağıracak mı?`
 ` ......Hmph."`
-`Kinzo bir süre elleri arkasında odanın içinde dolanarak konuşmaya nereden başlaması gerektiğini düşündü...`
+`Kinzo bir süre elleri arkasında, odanın içinde dolanarak konuşmaya nereden başlaması gerektiğini düşündü...`
 `"Lordum.`
 ` .........Buyrun."`
 `"Güzel.`
@@ -505,7 +505,7 @@
 ` Bu açıkça bir doğrudur ve gerçektir!!"`
 `"Sebebi basit.`
 ` Tüm suçları büyü ile işliyorum.`
-` Yani herhangi bir imkânsız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
+` Yani herhangi bir imkansız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
 `"Ama bu bir oyun olmaz!`
 ` Bu, bir satranç oyununda zafer ve yenilgiyi görmezden gelip rakibini yumruklamak gibi bir barbarlık olur!"`
 `"G-......Gerçekten, bu doğru.`
@@ -528,7 +528,7 @@
 ` Ne olduğunu bilmiyorum, ama belki bir tel!`
 ` Kilit açmak için bir alet!!"`
 `"Bu safça hareket de ne?`
-` {p:1:Kilisenin kilidini, kilisenin anahtarından başka bir şeyle açmak imkânsız}!!`
+` {p:1:Kilisenin kilidini, kilisenin anahtarından başka bir şeyle açmak imkansız}!!`
 ` Elbette büyü gücüyle açılabilmesine rağmen...?"`
 `"Peki ya bu!!`
 ` Kapının kendisinde bir sorun var!`
@@ -623,7 +623,7 @@
 ` ......İnsanların yüzyıl önce ortaya çıkardığı düşünme tekniği.`
 ` Denemekten çekinme, *cackle*cackle*!!"`
 `"...Bunu benim için kırmızıyla söyle.`
-` Eğer imkânsızsa, reddet.`
+` Eğer imkansızsa, reddet.`
 ` ...İşte geliyor."`
 `......Bu adam...savunma pozisyonunu tersine çevirmeye mi çalışıyor?`
 `{n}Küstahlık...`
@@ -677,7 +677,7 @@
 ` ......Kırmızı ile tekrar edebilir misin?`
 ` ......‘O zarf, Rosa Teyze onu açana kadar tamamen Maria'nın gözetimi altındaydı’."`
 `".........................................."`
-`"...Eğer imkânsızsa, o zaman reddettiğini söyle.`
+`"...Eğer imkansızsa, o zaman reddettiğini söyle.`
 ` Şah."`
 `"............kh, ...............Reddediyorum."`
 `"Şimdi bir turluk avantajın tersine döndü.`

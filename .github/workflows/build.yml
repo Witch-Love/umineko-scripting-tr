@@ -34,10 +34,11 @@ jobs:
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" 8 || exit 1
           cp misc/game.hash ciout
+          cp misc/default.cfg ciout
           cp misc/tr.cfg ciout
           cd ciout
           wget https://github.com/Witch-Love/umineko-scripting-tr-files/releases/latest/download/locale_tr_game.hash
-          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash locale_tr_game.hash tr.cfg || exit 1
+          zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash locale_tr_game.hash default.cfg tr.cfg || exit 1
           cd ..
           echo "Kurulum detayları için [buraya](https://github.com/Witch-Love/umineko-scripting-tr/tree/master/INSTALLATION.md) bakınız." >> release_notes.md
 
@@ -62,5 +63,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./ciout/umineko-tr-scripts_r${{ env.BUILD }}.zip
-          asset_name: umineko-tr-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-tr-scripts.zip
           asset_content_type: application/zip
