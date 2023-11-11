@@ -8,13 +8,13 @@
 ` ...Sonuçta, ...kendi gözlerimle gördüğüme emin olmama rağmen, ne gördüğümü hâlâ bilmiyorum..."`
 `"Gördüğüme eminim.`
 ` Ve hatta onunla itişip kakıştığıma bile eminim!`
-` Ve yine de, ......Sanki tüm bunlar bir illüzyonmuş gibi hissediyorum..."`
+` Yine de, ......tüm bunlar bir illüzyonmuş gibi hissediyorum..."`
 `"...Anlıyorum.`
 ` ......Demek Rosa Teyze'nin önünde bu yüzden ayrıntılara giremedin."`
-`"......Eğer bana anlattıklarını ona da anlatmış olsaydın, bu daha büyük sorunlar doğururdu.`
+`"......Eğer bana bu anlattıklarını ona da anlatmış olsaydın, bu daha büyük sorunlar doğururdu.`
 ` ...Evet, şimdi anlıyorum ki Genji-san tüm bunları son derece soğukkanlı bir şekilde halletmiş."`
 `"...............Keşke bunu açıklayabilecek gücüm olsaydı."`
-`George bunu gerçekten görmemişti, bu yüzden inanması için ısrar edildiğinde bile bunu hayal bile edemiyordu.`
+`George bunu gerçekten görmemişti, bu yüzden inanması için ısrar edildiğinde bile bunu hayal edemiyordu.`
 `......Bu çok doğaldı.`
 ` Çünkü bunu gerçekten gören insanlar bile bunun ne olduğu konusunda kendilerini sorgulamaya başlamışlardı...`
 `"...Biraz geriye dönelim.`
@@ -25,7 +25,7 @@
 `"Bir keresinde Kumasawa-san'dan duymuştum.`
 ` ......Uzun zaman önce Rokkenjima'da kötü ruhlar yaşarmış, ve şey, onlar örümcek ağlarından korkarlarmış.`
 ` Ve de efsaneye göre insanlar örümcek ağlarının büyüye karşı koruyucu olduğunu düşünüyorlarmış."`
-`"......Bu yüzden, şey, ......sadece bu.`
+`"......Bu yüzden, şey, ......hepsi bu.`
 ` Sanırım benim de biraz kafam karışmıştı..."`
 `"............İlginç bir hikaye.`
 ` ...Kumasawa bu tür masallar hakkında çok bilgiliydi."`
@@ -33,7 +33,7 @@
 ` ......Kesinlikle, böyle bir inancın varlığı hiç de garip değil."`
 `"............Eminim...`
 `...o torii tapınağı kötü ruhların gücünü hapsediyordu.`
-` ...Ve ruh aynası kırıldığından beri, bu güç yeniden dirildi...`
+` ...Ve ruh aynası kırıldığından dolayı, bu güç yeniden dirildi...`
 ` ......{f:5:Beatrice}-sama'yı diriltecek güç haline geldiğinden hiç şüphem yok..."`
 `"............Eğer ben,`
 ` ......o aciz durumdayken ben,`
@@ -42,7 +42,7 @@
 `"...Shannon.`
 ` Artık bunun için endişelenmene gerek yok.`
 ` ......Bunun için seni suçlamıyorum."`
-`Shannon uzun zaman önceden beri George'la nasıl tanıştığına dair belli bir gizli yönü olduğunu sık sık ima ediyordu.`
+`Shannon uzun zaman önceden beri George'la nasıl tanıştığına dair belli bir okült yönü olduğunu sık sık ima ediyordu.`
 `George onun anlattıklarına kulak verse de, aşkı kader, şans ve mucizelerle ilişkilendiren bir kız için her zaman bunun tipik bir durum olduğunu düşünmüştü.`
 `......George, torii tapınağında bulunan ruh aynasını kırmanın biraz fazla ileri gitmek olduğunu düşünmüş olsa da onu affetmiş,`
 ` ve kendisiyle ciddi bir ilişki kurmak istediği için yaptığı küçük bir şaka olarak kabul edip gülmüştü.`
@@ -77,7 +77,7 @@
 `".........George-sama, muhtemelen anlayamıyorsunuz.`
 ` ...İyi tanıdığınızı sandığınız bir kişinin aslında başka biri olduğunu ortaya çıkardığı o anın dehşetini...`
 ` .........Açıklayamam.`
-` ...Bunu hiç açıklayamam..."`
+` ...Bunu açıklamam mümkün değil..."`
 `"Anlıyorum.`
 ` ......Gohda-san, böyle bir şok yaşamana neden olabilecek şeyin ne kadar korkunç bir şey olduğunu anlayabiliyorum."`
 `"......Çok teşekkür ederim,`
@@ -137,8 +137,8 @@
 `"A-Ama Madam'ın odasının kilitli olduğuna inanıyorum...!`
 ` Master anahtarları Rosa-sama'ya teslim ettik,`
 ` ...ve anahtar kutusunun bulunduğu hizmetkâr odası bile kilitlendi..."`
-`"......Öyleyse Natsuhi Teyze'nin anahtarla dolaşıyor olmalıydı.`
-` ...Natsuhi Teyze'nin cesedi hâlâ kilisede olmalı.`
+`"......Öyleyse Natsuhi Teyze anahtarla dolaşıyor olmalı.`
+` ...Natsuhi Teyze'nin cesedi de hâlâ kilisede olmalı.`
 ` Polis gelmeden önce bizim müdahale etmemiz kötü olur ama bunu açıklayabiliriz."`
 `"Ancak...kilisenin girişi de kilitli durumda..."`
 `"Hahaha, Gohda-san, fiziksel gücünle bir camı kırabilecek kadar güçlü değil misin?`
@@ -509,7 +509,7 @@
 `George ve Gohda Shannon'a doğru koşarak kelebek sürüsünü uzaklaştırdılar.`
 `{n}Ve kelebekler dağılmışken, hep beraber kırık pencereye doğru koştular!`
 `Ancak, kırık cam parçalarıyla çevrili pencereden çıkmak için düzgün bir şekilde tutunmaları gerekiyordu.`
-`İçeri girdiklerinde buna hazırlanacak yeterli zamanları vardı ama şu anda hiç yoktu.`
+`İçeri girdiklerinde buna hazırlanacak yeterli zamanları vardı, ama şu anda hiç yoktu.`
 `"Kapıdan çıkalım!!`
 ` Basacak yer arayacak zaman yok!"`
 `"......A-`
@@ -758,7 +758,7 @@
 `".........Eğlenceli mi?"`
 `"Evet, eğlenceli.`
 ` Ölümün ayırdığı iki kişiyi yeniden bir araya getirmek her zaman eğlencelidir.`
-` Çünkü üç kez keyfini çıkarabiliyorsum—ikisini bir kez ölümle ayırıyorum, bir kez daha bir araya getiriyorum ve bir kez daha ayırıyorum."`
+` Çünkü üç kez keyfini çıkarabiliyorum—ikisini bir kez ölümle ayırıyorum, bir kez daha bir araya getiriyorum ve bir kez daha ayırıyorum."`
 `"Hadi, Kanonnn, kız kardeşinle oyna.`
 ` Eğer sana zarar verirse, ona olabildiğince acı dolu bir yüz ifadesi göster.`
 ` *cackle*cackle*cackle*cackle*cackle*cackle*!!"`
