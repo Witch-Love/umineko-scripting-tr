@@ -69,7 +69,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ✅
       * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ✅
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) `<- Burdayız`
-      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ❌
+      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ❌
       * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
