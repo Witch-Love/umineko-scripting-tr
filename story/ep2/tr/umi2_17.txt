@@ -1,210 +1,210 @@
 `Battler, yemek salonunda görülebiliyordu.`
-`Bu yağmurun ortasında misafirhaneye dönmek için gerekli iradeyi bulamamış,`
-` oturacak rastgele bir yer aramak için malikanenin içinde gönülsüzce dolaşmış, ...ve yemek salonuna yerleşmişti.`
-`Kapıyı kilitlemeye zahmet etmemişti.`
-`Artık yalnız kaldığı için, şekilsiz katilin ya da Altın Cadı'nın, onu öldürmeye gelebileceği aklından geçmişti,`
+`Bu yağmurun ortasında konukevine dönecek iradeyi kendisinde bulamayınca,`
+`oturacak rastgele bir yer bulmak için gönülsüzce malikanenin içinde dolaşmış, ...ve yemek salonuna yerleşmişti.`
+`Kapıyı kilitlemeye zahmet bile etmemişti.`
+`Artık izole olduğu için formsuz katilin ya da Altın Cadı'nın onu öldürmeye gelebileceği aklından geçmişti,`
 ` ama artık buna direnmeyi düşünmüyordu.`
 `Aksine, suçluyu bir kilitle engellemeye hiç niyeti yoktu.`
-`{n}O kişinin üzerine açıktan, önden gelmesini istiyordu.`
-`...Eğer bir katilse, ondan veda hatırası olarak o harika kilitli oda numaralarından bazılarını anlatmasını isteyeceğini düşündü.`
-`Ve eğer bir cadıysa, ondan en azından harika bir sihirle canını almasını isteyeceğini düşündü.`
-`......Ancak, ironik bir şekilde, bu ikisi de Battler'la buluşmaya gelmedi...`
-`Battler içki dolabını tek başına açtı ve likörün tadını doyasıya çıkardı.`
-`{n}Artık hiçbir yerde onun alkol içmesini sorun edecek kimse kalmamıştı.`
-`İki bacağını da küstahça abartılı masa örtüsünün üzerine koydu ve muhtemelen akıl almaz bir fiyatı olan yüksek kaliteli likörün tadını, şişeyi dikleyerek çıkardı....`
-`O sırada, ......birisi kapıyı çaldı.`
-`Battler yaratıcısıyla karşılaşmak üzere olduğunu anladı...`
-`"Heee~yy, kilitli değil.`
+`{n}Söz konusu kişinin üzerine açık bir şekilde, doğrudan gelmesini istiyordu.`
+`...Eğer bu kişi bir katilse, ondan hoşça kal hediyesi olarak o harika kilitli oda numaralarından bazılarını anlatmasını isteyebileceğini düşündü.`
+`Ve eğer bir cadıysa, ondan en azından harika bir büyüyle canını almasını isteyebileceğini düşündü.`
+`......Ancak, ironik bir şekilde, hiç kimse Battler'la yüzleşmeye gelmedi...`
+`Battler içki dolabını kendi başına açtı ve dilediği içkinin tadını doyasıya çıkardı.`
+`{n}Artık onun alkol içmesiyle ilgili bir problemi olabilecek kimse yoktu.`
+`Her iki ayağını da küstah bir şekilde lüks masa örtüsünün üzerine uzattı ve muhtemelen dudak uçuklatacak bir fiyata sahip olan yüksek kaliteli içkinin tadını doğrudan şişeyi kafasına dikerek çıkardı....`
+`Bu sırada, ......biri kapıyı çaldı.`
+`Battler, yaratıcısıyla tanışmak üzere olduğunun farkındaydı...`
+`"Heee~yy, kapı kilitli değil.`
 ` Her kimsen, içeri gel.`
 ` Ve lütfen kendini tanıt.`
 ` Eğer insansan, bana adını söyle.`
-` Ve eğer {f:5:Beatrice} isen, üç beden ölçütünü söyle."`
-`"Buna inanmayabilirsiniz ama ben oldukça ünlü bir göğüs avuçlayıcısıyım, anlıyor musun?"`
+` {f:5:Beatrice} isen, üç beden ölçünü söyle."`
+`"Öyle görünmeyebilirim, ama bir göğüs uzmanı olarak tanınırım."`
 `".........Ben Genji, Battler-sama."`
-`"...Genji-san, huh.`
+`"...Huh, Genji-san demek.`
 ` ......Üzgünüm, ama senin göğüs ölçünle ilgilenmiyorum.`
 ` Lütfen, içeri gel. Kapı açık."`
-`".........Afedersiniz."`
+`".........İzninizle."`
 `Genji-san kapıyı açtı ve selam verdi.`
-`.........Yani işin sonunda, Genji‐san suçlu, ...ya da belki bir suç ortağı mıydı?`
+`.........Yani, Genji‐san suçlu muydu, ...yoksa suç ortağı mı?`
 ` ......Bu teori muhtemelen numaraların çoğunu açıklardı...`
 `"Bana son duamı okutmaya mı geldin?"`
-`".........Öyle bir şey değil.`
+`".........Öyle bir şey söz konusu değil.`
 ` ......Sizi rahatsız ediyorsam, çekilebilirim."`
 `"...Bekle, bekle, bana ne istediğini bile söylemeden gitmek ürkütücü olmaktan başka bir işe yaramaz.`
 ` ...Ne istiyorsun?`
-` ...Lütfen, zaten her şey bitecekken istediğimi yapmama izin ver."`
-`".........Battler-sama, gerçekten dilediğiniz şey...`
-`kalan az zamanınızı böyle miskin bir halde geçirmek mi?"`
+` ...Lütfen, zaten her şey bitmeden önce istediğimi yapmama izin ver."`
+`".........Battler-sama, kalan kısıtlı zamanınızı...`
+`gerçekten böyle tembel bir şekilde mi geçirmek istiyorsunuz?"`
 `Bu sözler...acıttı...`
-`{n}......Tabii ki değildi.`
+`{n}......Tabii ki istemiyordum.`
 `"...............................`
 ` Şu noktada ne yapabilirim ki?`
 ` ......Her an ölmeye hazırım..."`
-`"......Aynı efendi gibisiniz.`
-` Hakikaten, efendi'nin kanını çok güçlü bir şekilde miras almışsınız."`
-`"Büyükbabamın, o hayattan büyük adamın, aslında her an ölmeye hazır olduğunu mu söylüyorsun?`
+`"......Tıpkı Efendi gibisiniz.`
+` Gerçekten de Efendi'nin kanı size güçlü bir şekilde aktarılmış...."`
+`"Büyükbabamın, o olağanüstü adamın, aslında her an ölmeye hazır olduğunu mu ima ediyorsun?`
 ` Bunu ilk kez duyuyorum."`
-`".........Efendi'nin hayatı,`
-` ......bir dizi üzücü olaydan sonra,`
-` ......tamamen kefaret bulmaya indirgendi."`
-`"...Ne biliyorsun?"`
-`"............{f:5:Beatrice}-sama'nın ritüeli sekizinci alacakaranlık bittiğinde tamamlandı.`
-` ...Sanırım...artık size her şeyi anlatabilirim."`
-`"Ne-...... ne dedin...?"`
-`Sarhoşluğum tamamen uçup gitmişti.`
+`".........Efendi'nin yaşantısı,`
+` ......bir dizi üzücü hadiseden sonra,`
+` ......tamamen kefaret ödemeye yönelikti."`
+`"...Neler biliyorsun?"`
+`"............{f:5:Beatrice}-sama'nın ritüeli sekizinci alacakaranlık sona erdiğinde tamamlandı.`
+` ...Artık...size her şeyi anlatabileceğime inanıyorum."`
+`"N-......Ne dedin...?"`
+`Sarhoşluğum tamamen uçup gitti.`
 ` Ayaklarımı masadan indirdim ve Genji-san'ın bundan sonra ne tür sözler söyleyeceğini duymak için dikkatle dinledim...`
 `"Battler-sama.`
-` ......Size efendi'nin çalışma odasına kadar eşlik edeceğim.`
-` ......Bunu doğrudan onlardan duymak muhtemelen daha iyi olacaktır."`
-`"Onlardan...?`
-` H-hey, o da ne demek...!!"`
-`"......Gelin, bu taraftan.`
+` ......Size Efendi'nin çalışma odasına kadar eşlik edeceğim.`
+` ......Bunları doğrudan onlardan duymak muhtemelen daha iyi olacaktır."`
+`"Onlardan......mı...?`
+` H-Hey, bununla ne demek istiyorsun...!!"`
+`"......Lütfen, bu taraftan.`
 ` Size eşlik edeceğim.`
 ` Battler-sama."`
 `Genji-san onu takip etmemi söyledikten sonra koridorda yürümeye başladı.`
-`Tamamen ayıldım ve peşinden gittim...`
-`Büyük merdiveni tırmandık, .........üçüncü kata doğru.`
+`Tamamen ayıldım ve onun peşinden gitmeye başladım...`
+`Üçüncü kata doğru uzanan, .........geniş merdivenleri çıktık.`
 `{n}Genji-san yarı yolda yürümeyi bıraktı.`
-`{n}Sonra bana döndü ve konuştu.`
+`{n}Daha sonra bana doğru döndü ve konuştu.`
 `".........Battler-sama.`
-` ......Bu andan itibaren...`
-`......muhtemelen anlayamayacağınız şeyler göreceksiniz."`
-`"Beni korkutmaya çalışma.`
-` .........Bugün zaten anlayamadığım pek çok şey gördüm."`
+` ......Buradan itibaren...`
+`......muhtemelen anlamakta güçlük çekeceğiniz şeyler göreceksiniz."`
+`"Beni ürkütmeye çalışma.`
+` .........Bugün, anlayamadığım pek çok şey gördüm zaten."`
 `".........Lütfen gördüklerinizi gördüğünüz gibi,`
-` ve duyduklarınızı da duyduğunuz gibi kabul edin."`
+` duyduklarınızı da duyduğunuz gibi kabul edin."`
 `""Neden?" veya,`
-` "Ne?" gibi sorular,`
-` ...böyle şeylere gerek yok.`
-` ...Battler-sama, gerçeği öğreneceksiniz.`
-` Kabul etmek, inanmak,`
-` ya da inkar etmek, tamamen size bıraktığım seçimler."`
+` "Ne?" gibi,`
+` ...sorulara ihtiyaç yoktur.`
+` ...Battler-sama, sadece gerçekleri öğreneceksiniz.`
+` Bunları kabul edip etmemek,`
+` inanmak ya da inkâr etmek tamamen sizin kararınız, Battler-sama."`
 `"....................................."`
-`Genji-san gerçeği öğrenmeye hazır olup olmadığımı son bir kez daha kontrol etti.`
+`Genji-san gerçeği öğrenmeye hazır olup olmadığımı anlamak için son bir kez daha kontrol etti.`
 `Sekizinci alacakaranlık çoktan sona ermişti.`
-` Dokuzuncu alacakaranlıkta, cadı dirilecek...... ve hiçbiri hayatta kalmayacak.`
-`Bu {f:5:Beatrice}'in çoktan dirildiği anlamına geliyordu.`
-`{n}...Ve muhtemelen, hiçbirimizin canlı dönmesine izin verilmeyecekti.`
-`Her halükarda hayatımı kaybedeceksem, ......sonunda gerçeği öğrenmek istiyordum.`
-`{n}...Kabul etmesi ne kadar zor olursa olsun.`
+` Dokuzuncu alacakaranlıkta cadı dirilecek, ......ve hiçbiri hayatta kalmayacak.`
+`Bu, {f:5:Beatrice}'in çoktan dirildiği anlamına geliyordu.`
+`{n}...Ve muhtemelen, hiçbirimizin hayatta kalmasına izin verilmeyecekti.`
+`Her halükârda hayatımı kaybedeceksem, ......ölmeden önce gerçeği öğrenmek isterdim.`
+`{n}...Kabullenmenin ne kadar zor olduğu önemli değildi.`
 `"..................Evet.`
-` ......Bir iblis ya da cadı bile ortaya çıksa, ...ben hazırım."`
-`".........Gerçekten de efendi'nin gençliğindeki gibisin.`
-` ......Battler-sama, lütfen derslerinizde gayretli olun.`
-` Gelecekte, kesinlikle büyük hedefleriniz olacak.`
-` Ve o zaman, akademik bilgi eksikliği nedeniyle ömür boyu pişmanlık duymak zorunda kalmayacağınızdan emin olun."`
-`".........Eğer derslerime çalışma fırsatım olursa, o zaman sorun yok."`
+` ......Bir iblis ya da cadı ortaya çıksa bile, ...buna hazırım."`
+`".........Gerçekten de Efendi'nin gençliğine benziyorsunuz.`
+` ......Battler-sama, lütfen derslerinize özen gösterin.`
+` Gelecekte, kesinlikle büyük idealleriniz olacak.`
+` Ve o noktada, akademik bilgi eksikliğinin sizi ömür boyu sürecek bir pişmanlığa itmediğinden emin olun."`
+`".........Eğer derslerime sıkı çalışma fırsatım olursa, o zaman sorun yok."`
 `".............................."`
-`Genji-san'ın sessizliği, beni bu pes edişimi daha derinlemesine düşünmeye zorladı...`
-`Ve, .........büyükbabamın çalışma odasının kapısı, tatlı bir kokuyla kaplı halde, görüş alanımıza girdi.`
-`Genji-san, cebinden zarif tasarımlı altın bir anahtar çıkardı.`
-`Master anahtarlara Rosa Teyze tarafından el konulmuştu, ama çalışma odasının anahtarını üzerinde tutmuştu.`
-`Anahtarı deliğine soktu, .........ve ağır bir takırtı sesi çıktı.`
+`Genji-san'ın sessizliği, içimdeki belli belirsiz teslim olmuşluk hissini teyit ediyormuş gibiydi...`
+`Ve sonra, .........büyükbabanın çalışma odasının tatlı bir kokuyla sarmalanmış kapısı görüş alanımıza girdi.`
+`Genji-san cebinden zarif bir tasarıma sahip altın bir anahtar çıkardı.`
+`Rosa Teyze tüm master anahtarlara el koymuştu, ama yalnızca Genji bu çalışma odasının anahtarını üzerinde taşıyordu.`
+`Anahtarı anahtar deliğine soktu, .........ve ağır bir takırtı sesi çıktı.`
 `".........Lordum.`
 ` Ben Genji.`
-` Battler-sama'yı da yanımda getirdim."`
-`Cevap gelmedi, ama içeri girme izni verilmiş gibi görünüyordu...`
-`"Gelin, Battler-sama.`
+` Battler-sama'yı getirdim."`
+`Yanıt gelmemişti ama içeri girme izni verilmiş gibi görünüyordu...`
+`"Buyrun, Battler-sama.`
 ` ......Lütfen içeri girin."`
 `"..................Evet.`
 ` ......Giriyorum."`
 `Kendimi hazırladım, ......ve kapıyı savurarak açtım...`
-`O anda, ..........göz kamaştırıcı altın bir ışıltı yüzünden başım döndü..........`
-`O parıltı.........bir şekilde,`
-` ......altın renginde parlayan bir kelebek sürüsüydü.`
-`Çalışma odasının içini tamamen dolduran altın kelebekler bir anda dışarı döküldü....`
+`O anda, ...göz kamaştırıcı altın bir ışıltı yüzünden hafifçe başım döndü..........`
+`O ışıltı, .........nasıl oluyorsa,`
+` ......altın rengiyle parıldayan bir kelebek sürüsüydü.`
+`Çalışma odasının tamamını doldurmuş olan altın kelebekler bir anda dışarı fırladılar.......`
 `"B-............`
-` ......bu da...`
+` ......Bu da...`
 `......neee.................."`
 `Neredeyse altın yapraklardan oluşan bir konfeti gibiydi.`
-`{n}Büyükbabanın çalışma odasının içi altın bir parıltıyla dolmuştu...`
-`Ve......çalışma masasının önünde resepsiyon koltukları ile misafirler için bir masa vardı,`
+`{n}Büyükbabanın çalışma odasının içi altın bir parıltıyla doluydu...`
+`Ve......çalışma masasının önünde misafirler için bir masa ve resepsiyon koltukları vardı,`
 ` .........ve büyükbabamın sırtını görebiliyordum.`
-`Büyükbabamın karşısında biri vardı.`
-`{n}...Gölgede olduğu için iyi göremedim...`
-`"......Efendim.`
+`Büyükbabamın karşı tarafında biri vardı.`
+`{n}...Gölgede kaldığı için, pek iyi göremedim...`
+`"......Lordum.`
 ` Battler-sama'yı getirdim."`
 `"............Battler, öyle mi?`
-` Şu an düşünmekle meşgulüm.`
+` Şu an düşünmekle meşgulüm...`
 ` Bir süre sessiz ol......"`
-`Kinzo bunu arkası hala dönük bir şekilde, hoşnutsuzluk içinde söyledi.`
-`Görünüşe göre bir ziyaretçiyle satranç oynuyordu...`
+`Kinzo bunu keyifsiz ve arkası dönük bir şekilde söyledi.`
+`Görünüşe göre bir ziyaretçisiyle satranç oynamanın keyfini çıkarıyordu...`
 `Anlaşılan, rakip mükemmel bir hamleyle karşı atağa geçmişti.`
-`{n}Kinzo derin düşüncelere dalmış, ara sıra gülerek ve sızlanarak eğleniyor gibiydi...`
-`"Otuz yıl boyunca düşündüm.`
-` ......Otuz yıl boyunca bu hamleye nasıl cevap vereceğimi düşündüm...`
-` Eğlen, otuz yıl boyunca hazırladığım hamleyle eğlen."`
+`{n}Kinzo derin düşüncelere dalmış, ara sıra gülerek ve söylenerek eğleniyor gibi görünüyordu...`
+`"30 yıl boyunca düşündüm.`
+` ......Bu hamleye nasıl karşılık vereceğimi 30 yıl boyunca düşündüm...`
+` Tadını çıkar, 30 yıl boyunca mayaladığım hamlenin tadını çıkar."`
 `"......Heheheheheheheh.`
-` Gerçekten, bu son derece olgunlaşmış bir hamle.`
-` ......Çok eğlenceli, çok eğlenceli... *cackle*cackle*cackle*cackle*, hahahahahaha...!!`
+` Gerçekten de bu son derece gelişmiş bir hamle.`
+` ......Çok eğlenceli, çok eğlenceli... *cackle*cackle*cackle*cackle*, hahahahahahaha...!!`
 ` Yenilmez, yenilmez."`
-`"......Bu-`
-`............bu da...`
-`......ne........."`
+`"......B-`
+`............Bu da...`
+`......ne böyle........."`
 `"Demek geldin, Battler.`
-` Bir dakika bekle.`
-` Kinzo'nun hatırı için sessiz ol.`
+` Biraz bekle.`
+` Kinzo'nun hatrına sessiz ol.`
 ` ...Pes etmek için çok erken değil mi, Kinzo?`
-` Karşı saldırı için birkaç hamle görebiliyorum.`
+` Ben bu hamleye birçok şekilde karşı koyabilirdim.`
 ` *cackle*cackle*cackle*...!"`
-`Bu...`
-`...o cadı ile ilk karşılaşmam olmalıydı.`
-`Ancak, bu cadıyı tanıyordum.`
+`Bu, benim...`
+`...bu cadıyla olan ilk karşılaşmam olmalıydı.`
+`Ancak, ...bu cadıyı tanıyordum.`
 `{n}İlk karşılaşmamız olmasına rağmen,`
-` ...onu tanıyordum,`
-` ......portreden......!`
+` ...onu portreden,`
+` ......biliyordum......!`
 `"Genji.`
-` Battler için bir şeyler hazırla.`
-` Bu adam için en uygun şey ne olur...?"`
-`"......Efendinin gençlik günlerinden beri sevdiği şey."`
+` Battler'a bir şeyler ikram et.`
+` Bu adam için en uygun seçenek ne olabilir...?"`
+`"......Efendi'nin gençlik günlerinden beri sevdiği."`
 `"Bu ideal; ona servis et.`
-` ......Buraya gelmekle iyi yaptın, Ushiromiya Battler.`
-` Önce, otur."`
-`".........Adımı birçok kez söyledin, değil mi?`
-` Buna hürmeten, benimle görüşmene izin verdim.`
+` ......Buraya gelerek iyi iş başardın, Ushiromiya Battler.`
+` Öncelikle, otur."`
+`".........Adımı defalarca kez andın, haksız mıyım?`
+` Buna istinaden, benimle görüşmene izin verdim.`
 ` ...Peki, bana ne soracaksın?`
-` Ne öğrenmek isteyeceksin?"`
-`"......Altın Diyar'ın kapısı yakında açılacak.`
-` Yakında, yeniden canlanmamı kutlamak için, cadıları ağırladığım bir ziyafet vereceğiz.`
-` ...O zamana kadar, sorularını yanıtlıyor olacağım, istediğin kadar sorabilirsin."`
-`"Benim, ......Benim sormak istediğim bir sürü şey var!!`
-` Bu adada ne oldu?!`
-` Ve bu olaylar neden yaşandı?!"`
+` Ne talep edeceksin?"`
+`"......Altın Diyar'ın kapısı çok yakında açılacak.`
+` Yakında, yeniden dirilişimi kutlamak için cadıları ağırlayacağım bir ziyafet vereceğiz.`
+` ...O vakte kadar, dilediğin kadar soruyu yanıtlayacağım."`
+`"Benim, ......benim sormak istediğim bir sürü şey var!!`
+` Bu adada ne yaşandı?!`
+` Ve bu cinayetler neden gerçekleşti?!"`
 `"Kilitli odaları da sormak istiyorum!!`
 ` Peki ya Kilise?!`
 ` Jessica'nın odası?`
-` Ve hizmetçi odası?!`
+` Ve hizmetkâr odası?!`
 ` Ve Natsuhi Teyze'nin odası?!`
 ` Ve salon?!"`
-`"Sormak istediğim daha çok şey var!`
+`"Daha sormak istediğim başka şeyler de var!!`
 ` Cadının gerçek doğası hakkında!!`
-` Sen gerçekten bir cadı mısın?`
-` Amacın ne, bize ne yaptırmak istiyorsun ve beni neden buraya çağırdın?`
-` Bana cevap ver, hepsini cevapla!!!"`
+` Sen {f:5:Beatrice}, gerçekten bir cadı mısın?!!`
+` Amacın ne, bize ne yaptırmak istiyorsun ve beni neden buraya çağırdın?!!`
+` Bana cevap ver, hepsine!!!"`
 `"Arrrrghhh, sessiz ol!!`
-` Sadece sormakla cevap alacağını mı sanıyorsun?!?!"`
-`"Öyle deme, Kinzo.`
-` Kırılgan ve geçici bir örümcek ağı bir zamanlar Kral Herod'dan korudu.`
-` ......Bu dünyada işe yaramaz hiçbir şey olmadığı gibi, işe yaramaz hiçbir soru da yoktur."`
-`"Pekala, tüm sorularını cevaplayacağım.`
-` ......Ama, bir şartım var."`
-`"Ne?"`
-`"Her şeyi duyduktan sonra, eğer benim varlığımdan tatmin olduysan,`
-` ............diz çök ve ayakkabılarımı öp.`
+` Sadece öylece sorarak cevap alacağını mı sanıyorsun?!?!"`
+`"Böyle deme, Kinzo.`
+` Kırılgan ve uçucu bir örümcek ağı bir zamanlar Kral Hirodes'e karşı koruma sağlamıştı.`
+` ......Bu dünyada işe yaramaz hiçbir şey olmadığı gibi, anlamsız hiçbir soru da yoktur."`
+`"Pekâlâ, tüm sorularını yanıtlayacağım.`
+` ......Fakat, yalnızca bir şartım var."`
+`"Nedir?"`
+`"Şayet her şeyi öğrendiğinde, benim varlığımı kabullenebilecek olursan,`
+` ............diz çöküp ayakkabılarımı öpeceksin.`
 ` Seni buraya çağırdım çünkü bana boyun eğmeni istedim."`
-`"...Kinzo ve ben bir iddiaya girdik.`
-` Hangisinin önce yaşanacağına dair bahse girdik, Kinzo'nun yeni bir hareket düşünmesi mi, yoksa benim seni boyun eğmeye zorlamam mı?`
-` Kaybedeceğimi sanmıyorum.`
+`"...Kinzo ve ben bir bahse girdik.`
+` Hangisinin önce yaşanacağına dair bahse girdik; Kinzo'nun yeni bir hamle düşünmesi mi, yoksa benim sana boyun eğdirmem mi?`
+` Kaybedeceğimi düşünmüyorum.`
 ` *cackle*cackle*cackle*cackle*...!"`
-`"...L-............Lanet olsun, çok sert konuşuyorsun!!`
+`"...K-............Kahrolası, çok emin konuşuyorsun!!`
 ` Tamam, kabul.`
 ` Bana kabul ettirmeye çalış.`
-` ...Bana bir cadı olduğunu ve garip, müthiş ve harika büyüler kullanabildiğini kabul ettirmeye çalış!!"`
-`"Eğer pes edersem, ayakkabılarını öpmeyi de istediğin her şeyi de yaparım!!!"`
+` ...Bana bir cadı olduğunu ve tuhaf, müthiş ve harika büyüler kullanabildiğini kabul ettirmeye çalış!!"`
+`"Eğer teslim olursam, ayakkabılarını öper ya da başka ne istersen yaparım!!!"`
 `Cadı keyifle kıkırdadı.`
-`{n}Sonra, bir adamın sözünden dönemeyeceğini söyleyen gözlerle ona hoş olmayan bir şekilde baktı...`
+`{n}Sonra, bir erkeğin sözünden geri dönemeyeceğini söylercesine hoş olmayan gözlerle ona baktı...`
 `"İyi dedin!!`
 ` Peki, hangi sorudan başlayayım?!`
 ` Her şeye cevap vereceğim!!`
-` Hadi, ilki ne olacak?!?!"`
+` Hadi, ilki hangisi olacak?!?!"`
