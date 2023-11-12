@@ -487,14 +487,14 @@
 `"Sizin master anahtarlarınızla açılamaz mı?"`
 `"......Açabilir."`
 `"Master anahtarlardan kaç tane var?`
-` Bütün hizmetkarlarda var mı?`
+` Bütün hizmetkârlarda var mı?`
 ` Yedekler var mı?"`
 `"Evet, var.`
 ` Hepimizde bir tane var.`
 ` .........Yedeklere gelince, ...bilmiyorum."`
 `"Eskiden birkaç tane vardı, ...ama Madam bunun dikkatsizce olduğu konusunda bizi sert bir şekilde azarladığından, onların ortadan kaldırıldığına inanıyorum."`
 `"......Bu doğru.`
-` Her hizmetkarın elinde sadece bir tane var.`
+` Her hizmetkârın elinde sadece bir tane var.`
 ` Daha fazlası yok."`
 `"...nn?`
 ` Bekle bir saniye.`

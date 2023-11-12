@@ -66,14 +66,14 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 11](../../tree/master/story/ep2/tr/umi2_11.txt) ✅
       * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) ✅
       * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) ✅
-      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) `<- Burdayız`
-      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ❌
-      * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ❌
-      * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ❌
+      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ✅
+      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ✅
+      * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) `<- Burdayız`
+      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅
+      * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅
       * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
-      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11-L18) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305-L312) ✅
@@ -315,16 +315,16 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chiru Opening 2: Inanna’s Dream](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op4_tr.ass) ✅
       * [Chiru Opening 3: The Pithos in the Fog](../../../umineko-scripting-tr-files/tree/master/files/video/sub/op78_tr.ass) ✅
    * Omake ❌
-      * [Omake 1 ✅](../../tree/master/story/omake/tr/umio1.txt)
-      * [Omake 2 ❌](../../tree/master/story/omake/tr/umio2.txt)
-      * [Omake 3 ✅](../../tree/master/story/omake/tr/umio3.txt)
-      * [Omake 4 ❌](../../tree/master/story/omake/tr/umio4.txt)
-      * [Omake 5 ❌](../../tree/master/story/omake/tr/umio5.txt)
-      * [Omake 6 ✅](../../tree/master/story/omake/tr/umio6.txt)
-      * [Omake 7 ✅](../../tree/master/story/omake/tr/umio7.txt)
-      * [Omake 8 ❌](../../tree/master/story/omake/tr/umio8.txt)
+      * [Omake 1](../../tree/master/story/omake/tr/umio1.txt) ✅
+      * [Omake 2](../../tree/master/story/omake/tr/umio2.txt) ✅
+      * [Omake 3](../../tree/master/story/omake/tr/umio3.txt) ✅
+      * [Omake 4](../../tree/master/story/omake/tr/umio4.txt) ❌
+      * [Omake 5](../../tree/master/story/omake/tr/umio5.txt) ❌
+      * [Omake 6](../../tree/master/story/omake/tr/umio6.txt) ✅
+      * [Omake 7](../../tree/master/story/omake/tr/umio7.txt) ✅
+      * [Omake 8](../../tree/master/story/omake/tr/umio8.txt) ❌
          * [Song: Promise](../../../umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌
-      * [Omake 9 ❌](../../tree/master/story/omake/tr/umio9.txt)
+      * [Omake 9](../../tree/master/story/omake/tr/umio9.txt) ❌
 </details>
 
 -----
