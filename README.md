@@ -73,7 +73,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅
       * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ❌
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
-      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11-L18) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305-L312) ✅
