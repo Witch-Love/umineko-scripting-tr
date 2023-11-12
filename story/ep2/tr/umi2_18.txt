@@ -1,4 +1,4 @@
-`"Neredesin, {f:5:Beatrice}!!`
+`"Nerdesin, {f:5:Beatrice}!!`
 ` Göster kendini!!`
 ` {f:5:Beatriceee}!!"`
 `Rosa sonunda kiliseye varmıştı.`
@@ -8,7 +8,7 @@
 `{n}İçlerinden birini bir örtüye sardı ve omzunun arkasına attı.`
 `"En azından...sadece bu......`
 ` Sadece bu bile on milyondan fazla ediyor olmalı..."`
-`Rosa silahını da elinden bırakmadı, silahına ek olarak altını da taşıyordu.`
+`Rosa silahını elinden bırakmadı, silahına ek olarak altını da taşıyordu.`
 `{n}...Omuzları çığlıklar atıyordu ama Rosa'nın umurunda değildi.`
 `"......Kihihihihihihihihihihihihihihihihi.`
 ` Çok yakında gerçekleşecek.`
@@ -19,18 +19,18 @@
 ` Biliyorsun, değil mi?!`
 ` Nerede?!"`
 `"Kihihihihihihihihihihihi.`
-` Biiilmiyoruuum.`
-` Onu aramasan bile, Altın Diyar'da onunla görüşebilirsin.`
+` Biiilmeeem.`
+` Onu aramasan bile, Altın Diyar'da onunla görüşebileceksin.`
 ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
 ` ahh."`
 `"Kes şu gülmeyi!!`
-` ......Aaah, neredeyse {i:benim} bile gülesim geliyor!!`
+` ......Aaah, {i:benim} bile neredeyse gülesim geliyor!!`
 ` Bu doğru, o kesinlikle bir cadıydı, kesinlikle bir cadıydı!!`
 ` Ben anlamamıştım, kendine cadı diyen bir insan olduğunu sanmıştım, ama yanılmışım!!!"`
 `"...O gerçekten bir cadıydı!!`
 ` Böyle bir şeye kanmayacağım!!`
 ` Buradasın, değil mi?!`
-` Ortaya çık, göster kendini!!`
+` Çık ortaya, göster kendini!!`
 ` {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"`
 `"Sana söyledim, çok yakında ortaya çıkacak.`
 ` Altın Diyar'ın kapısı açılacak.`
@@ -242,7 +242,7 @@
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaah...!!!"`
 `Gapupogyugukigukiboryu.`
-`Artık gül bahçesi bir gül ve altın bahçesine dönüşmüştü.`
+`Gül bahçesi, artık güller ve altınlarla kaplı bir bahçeye dönüşmüştü.`
 ` Altın kelebeklerin, altın perilerin, altın kertenkelelerin cirit attığı ve çılgınca uçuştuğu altın renklerle kaplı bir bahçe.`
 `"Maria, çabuk!!`
 ` Koş!!`
@@ -264,7 +264,7 @@
 `Rosa'nın öz çocuğu ayağa kalkmaya çalışırken,`
 ` ilk ısırığı almak için koşarak gelen keçi kafası çocuğun saçlarından tutarak onu arkadan yukarı çekti...!!`
 `"Anneeeeeeeeeeeeeeeeeee,`
-` hayıııı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ııııı!!"`
+` hayıııı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ııııır!!"`
 `Rosa omzuyla keçi kafasına çarptı,`
 ` döndü,`
 ` dirseğinin arkasıyla keçinin çenesine vurdu,`
@@ -286,7 +286,7 @@
 `"T-Tamam...!`
 ` Topla, topla...!!"`
 `"Maria.`
-` Anne düşerse,`
+` Annen düşerse,`
 ` koş.`
 ` Kıyıya git.`
 ` Ve yüz, ve yüz, ve yüz!`
@@ -296,8 +296,8 @@
 ` Uuu!!"`
 `Rosa'nın silahı dört kez kükredi.`
 ` Ama yaklaşmakta olan devasa keçilerin göğsüne tam dört el ateş etmiş olmasına rağmen, keçiler yerinden bile kıpırdamadı!!`
-`Keçiler, devasa gövdeleriyle Rosa ve Maria'yı ezmeyi planlıyormuş gibi şiddetli bir güçle koşuyorlardı!!`
-`"Kurşunları yerleştir!!`
+`Keçiler, devasa gövdeleriyle Rosa ve Maria'yı ezmeyi planlıyorlarmış gibi şiddetli bir güçle koşuyorlardı!!`
+`"Mermileri yerleştir!!`
 ` Çabuk!!"`
 `"U-uu!!"`
 `Rosa külçenin bulunduğu örtüyü iki eliyle birden kavradı,`
@@ -313,12 +313,12 @@
 ` Ama onu ters tutuyordu.`
 ` Avucunun içine,`
 ` orta parmağı ile yüzük parmağı arasındaki aralığa yerleştirdi, böylece yumruk yaptığında adeta bir iğne gibi dışarı çıkıyordu.`
-`Keçi kafası öne doğru devrilirken iğnesini keçi kafasının sol gözüne sapladı.`
+`Keçi kafası öne doğru devrilirken, Rosa yaptığı iğneyi keçi kafasının sol gözüne sapladı.`
 ` Keçi kafasının kükremesi bir çığlık mıydı?`
 `Ama Rosa'nın kükremesi farklıydı.`
-`Yumruğunu geri çekti ve hâlâ keçi kafasının gözüne saplanmış olan dolma kalemine yumruk attı.`
-` Keskin ucu kafasının derinliklerine doğru korkunç bir şekilde oyulmuştu...!`
-`"Anne, mermileri koydum!!"`
+`Yumruğunu geri çekti ve hâlâ keçi kafasının gözüne saplanmış olan dolma kalemine yumruk atmaya başladı.`
+` Kalemin keskin ucu, kafasının derinliklerine korkunç bir şekilde oyulmuştu...!`
+`"Anne, mermileri doldurdum!!"`
 `"İyi iş!!"`
 `Maria'nın fırlattığı silahı kaptığımda, nihayet devin yere çakılırken çıkardığı gürültülü sesi duydum.`
 `Ancak tam o sırada gül çalılıklarının diğer tarafındaki keçi kafalı takipçilerin sayılarının arttığını gördüm.`
@@ -383,8 +383,8 @@
 `"Evet...!`
 ` ......Annemle olmak istiyorum...`
 ` Annemle olmak istiyorum...!"`
-`"...Seni ön planda tutuyormuşum gibi görünüyordum,`
-` ...ama seni hep erteliyordum.`
+`"...Seni ön planda tutuyormuş gibi davranıyordum,`
+` ...ama seni sürekli erteliyordum.`
 ` Spor günlerine katıldım,`
 ` veli toplantılarına geldim,`
 ` ...ama ben sadece dışarıya nasıl göründüğümü düşünüyordum ve seni hiç umursamıyordum."`
@@ -394,13 +394,13 @@
 `"Hey, anne.`
 ` ...Biliyor musun?`
 ` Dünyada sadece bir tane Annem var.`
-` İyi Anne ya da kötü Anne diye bir şey yok.`
+` İyi Anne ya da kötü Anne yok.`
 ` ...Sadece bir tane Annem var.`
-` Bu yüzden tek isteğim annemin, dünyadaki tek annemin burada olması.`
+` Bu yüzden Maria'nın tek isteği annemin, dünyadaki tek annemin yanımda olması.`
 ` Ve ben de Annemin tek Maria'sı olmak istiyorum."`
 `".........Keyfi yerinde olan ve şımartmak istediğin Maria ile baş belası olan ve yanında olmasını istemediğin Maria farklı insanlar değil.`
 ` Sadece bir Maria var.`
-` ......Yani korkutucu anne ve iyi anne tıpkı bunun gibi.`
+` ......Yani korkutucu anne ve iyi anne de tıpkı bunun gibi.`
 ` ......Maria'ya göre,`
 ` ...sadece bir tane...`
 `...Anne var......"`

@@ -113,6 +113,11 @@
 * Witch Legend Serial Murder Case `->` Cadı'nın Seri Cinayet Efsanesi
 * Wolves and Sheep Puzzle `->` Kurtlar ve Koyunlar Bulmacası
 
+### Cadıların Adları
+
+* Witch of Certainty `->` Kesinliğin Cadısı
+* Witch of Miracles `->` Mucizelerin Cadısı
+
 ### Diğer
 
 * Old Testament's Book of Psalms, Psalm x, verses y and z `->` Eski Ahit'in Mezmurlar Kitabı, x. Mezmur, ayet y ve z
