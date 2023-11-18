@@ -18,7 +18,7 @@
 `"................................."`
 `"Sakladığını mı sanıyordun?`
 ` Sırf aleyhime bahse girmek için onca yolu kat edip senin olmayan bir bölgeye gelmek ne kadar küstahça.`
-` Buraya oyunumu kenardan izlemeyi planlarken, yenilgime büyük bir kazık çakmayı planlayarak geldin.`
+` Buraya yenilgim için büyük bir bahse girmişken, oyunumu kenardan izlemeyi planlayarak geldin.`
 ` Doğru tahmin ettim, değil mi...?"`
 `"...........................`
 ` Öyleyse nolmuş?"`
@@ -42,7 +42,7 @@
 ` ...Can sıkıntısını hiç sevmeyen bizlerin, yeniden karşılaşmış olması kaderin bir oyunu mu acaba...?"`
 `"Ne aptal bir çocuk.`
 ` Neden bana karşı kazanmanın tek nedeninin biraz şans ve pek de iyi olmayan bir eşleşmeden kaynaklandığını anlayamıyorsun?`
-` Bu seni çok kibirli yaptı ve şimdi de {f:5:Beatrice} ile savaşmaya mı başladın? Haddini bilmen gerekmiyor mu?"`
+` Bu seni çok kibirli yaptı, ve şimdi de {f:5:Beatrice} ile savaşmaya mı başladın? Haddini bilmen gerekmiyor mu?"`
 `"*giggle*, {f:5:Beatrice} güçlüdür.`
 ` Ve benden daha da acımasız.`
 ` Sadece birazcık!"`
@@ -50,7 +50,7 @@
 `".........Beato, sen de bir aptalsın.`
 ` Eğer bu çocuk senin oyununda olursa, her şeyi saçma bir maskaralığa çevirecek."`
 `"Leydi {f:5:Lambdadelta}'yı buraya sadece kenardan izlesin diye çağırmadım."`
-`"Senin bana karşı bahis oynadığını söyledikten sonra, sana karşı bahis oynayacağını söyledi."`
+`"Senin bana karşı bahis oynadığını öğrendikten sonra, sana karşı bahis oynayacağını söyledi."`
 `"..............................Hâlâ kin tutuyorsun, değil mi?"`
 `"Hoh‐hoh‐hoh‐ho!!`
 ` Çünkü ben evrendeki en güçlü cadıyım.`
