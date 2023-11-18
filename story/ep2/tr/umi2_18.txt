@@ -132,7 +132,7 @@
 `Cadı yeniden bir araya gelmenin mutluluğunu yaşarken, ...cadının mobilyası da sürekli onu takip ediyordu.`
 `.........Boynunda bir zincir vardı.`
 `{n}Diğer ucu ise eğitimli bir köpeği tutar gibi cadının elindeydi.`
-`Zincir onu zapt etmek için yoktu.`
+`Zincir onu zapt etmek için değildi.`
 `{n}...Zapt edici aletin tek amacı mobilyanın onurunu zedelemekti...`
 `Vücuduna başka bir şey giymesine izin verilmiyordu.`
 `Keçi soyluların arasına karışmış genç kadın keçilerden biri,`
@@ -179,12 +179,12 @@
 ` Beni hemen Altın Diyar'a götür!`
 ` Altın Diyaaa{-}a{-}a{-}a{-}a{-}a{-}aaar'a!!!`
 ` Oooo{0}o{0}o{0}o{0}ooohhh{0}h{0}hhhhh, aaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhh!!!"`
-`Keçi soylular aniden Kinzo'nun etrafına üşüştüler.`
+`Keçi soyluları aniden Kinzo'nun etrafına üşüştüler.`
 `...Sanki ünlü bir film yıldızından imza isteyen çocuklar gibiydiler.`
 `Arada iki fark vardı.`
 ` Birincisi, onlar cadılardı, çocuk değillerdi.`
 ` Ve ikincisi, cadıların istedikleri şey imza değildi.`
-`Kinzo keçi soylular denizinde boğulmaya başladı.`
+`Kinzo, keçi soylular denizinde boğulmaya başladı.`
 `{n}Yalnızca Kinzo'nun kahkahalarla dolu sesi alanda yankılanıyordu.`
 `Bu, kahkaha ve ölüm sancılarının muhteşem bir karışımıydı.`
 `{n}Ve Kinzo şarap, et ve ekmeğe dönüştü.`
@@ -295,7 +295,7 @@
 ` Annemle birlikte!!`
 ` Uuu!!"`
 `Rosa'nın silahı dört kez kükredi.`
-` Ama yaklaşmakta olan devasa keçilerin göğsüne tam dört el ateş etmiş olmasına rağmen, keçiler yerinden bile kıpırdamadı!!`
+` Ama yaklaşmakta olan devasa keçilerin göğsüne tam dört el ateş etmiş olmasına rağmen, keçiler irkilmemişti bile!!`
 `Keçiler, devasa gövdeleriyle Rosa ve Maria'yı ezmeyi planlıyorlarmış gibi şiddetli bir güçle koşuyorlardı!!`
 `"Mermileri yerleştir!!`
 ` Çabuk!!"`
@@ -316,7 +316,7 @@
 `Keçi kafası öne doğru devrilirken, Rosa yaptığı iğneyi keçi kafasının sol gözüne sapladı.`
 ` Keçi kafasının kükremesi bir çığlık mıydı?`
 `Ama Rosa'nın kükremesi farklıydı.`
-`Yumruğunu geri çekti ve hâlâ keçi kafasının gözüne saplanmış olan dolma kalemine yumruk atmaya başladı.`
+`Yumruğunu geri çekti ve hâlâ keçi kafasının gözüne saplı olan dolma kaleme yumruk atmaya başladı.`
 ` Kalemin keskin ucu, kafasının derinliklerine korkunç bir şekilde oyulmuştu...!`
 `"Anne, mermileri doldurdum!!"`
 `"İyi iş!!"`
@@ -391,7 +391,7 @@
 `"......Böyle bir anneyle...bile birlikte olmak istediğini mi söylüyorsun......?`
 ` Bu kadar...`
 `...kötü bir anne olmama rağmen............!!"`
-`"Hey, anne.`
+`"Hey, Anne.`
 ` ...Biliyor musun?`
 ` Dünyada sadece bir tane Annem var.`
 ` İyi Anne ya da kötü Anne yok.`
@@ -400,7 +400,7 @@
 ` Ve ben de Annemin tek Maria'sı olmak istiyorum."`
 `".........Keyfi yerinde olan ve şımartmak istediğin Maria ile baş belası olan ve yanında olmasını istemediğin Maria farklı insanlar değil.`
 ` Sadece bir Maria var.`
-` ......Yani korkutucu anne ve iyi anne de tıpkı bunun gibi.`
+` ......Yani korkutucu Anne ve iyi Anne de tıpkı bunun gibi.`
 ` ......Maria'ya göre,`
 ` ...sadece bir tane...`
 `...Anne var......"`
