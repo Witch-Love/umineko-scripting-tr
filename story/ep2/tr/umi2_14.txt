@@ -55,7 +55,7 @@
 `"Bitirmelerine izin ver!`
 ` Ya sonra?!"`
 `".........Bu kişi...kanla kaplıydı ve derin bir yarası vardı.`
-` ...Onu hizmetkar odasına taşıdık ve Doktor Nanjo hemen ilk yardıma başladı.`
+` ...Onu hizmetkâr odasına taşıdık ve Doktor Nanjo hemen ilk yardıma başladı.`
 ` ......Çok...derin bir yaraydı."`
 `"Son kez soruyorum, {i:kimden} bahsediyorsun?!"`
 `"...Bilmiyorum!`
@@ -96,7 +96,7 @@
 `...Eğer onların söylediklerini iyimser bir şekilde yorumlayacak olursak,`
 ` ......bu, Rosa Teyze'nin vardığı sonucun başından beri doğru olduğu anlamına geliyordu.`
 `Kanon-kun mutfağın arka kapısında ciddi bir yarayla ortaya çıkmıştı.`
-`{n}Daha sonra hizmetkar odasına götürülmüştü ve ilk yardım yapılmıştı.`
+`{n}Daha sonra hizmetkâr odasına götürülmüştü ve ilk yardım yapılmıştı.`
 `......Daha sonra, korkunç bir şey oldu.`
 `Bu insanlar Kanon-kun'un bunu yapabileceğini hayal dahi edemedikleri için, bunun gerçekten Kanon-kun olup olmadığından şüphelenmeye başlamışlardı.`
 ` Durum bu mu?`
@@ -120,7 +120,7 @@
 `Ama Rosa Teyze'nin durumu farklı olmalıydı.`
 ` ......Rosa Teyze'nin planında güvende kalmak, suçluyu bulmaktan daha öncelikli değil miydi?`
 `Rosa Teyze'nin salondaki bu kalemizi neden bilinçli olarak terk edecek kadar cesetleri kontrol etme isteği duyduğunu anlayamıyordum.`
-`"Hep birlikte hizmetkar odasına gideceğiz.`
+`"Hep birlikte hizmetkâr odasına gideceğiz.`
 ` Hep birlikte hareket edersek, güvenli olur.`
 ` Maria, şu karalamayı şimdilik kes!"`
 `"Uu.`
@@ -133,8 +133,8 @@
 `George-aniki'nin Maria'yı kanlı suç mahalline getirmeye biraz direndiği anlaşılıyordu.`
 `...Fakat Maria'nın burada yalnız kalacağı gerçeğini göz önünde bulundurursak, Maria'yı yanımıza almamız kesinlikle çok daha güvenli olacaktır.`
 `......Nihayetinde, bu sadece Aniki'nin düşüncesiz hümanizmiydi.`
-`{n}Hepimiz, Maria da dahil olmak üzere, hizmetkar odasına gitmeye karar verdik.`
-`Hizmetkar odasındaki yatak kıpkırmızı kanla kaplanmıştı.`
+`{n}Hepimiz, Maria da dahil olmak üzere, hizmetkâr odasına gitmeye karar verdik.`
+`Hizmetkâr odasındaki yatak kıpkırmızı kanla kaplanmıştı.`
 `...Hayır, sadece yatak değil.`
 ` Odanın tamamı sayısız kan lekesinden oluşan korkunç bir renk tonuyla kaplıydı.`
 `Sadece bu tüyler ürpertici sahne bile, anlatmaya çalıştıkları tiksindirici görüntü hakkında bir fikir edinmemiz için yeterliydi...`
@@ -167,7 +167,7 @@
 `"...Bekle bekle bekle.`
 ` Ne yani—cesetlerin öylece ayaklanıp gittiklerini mi söylüyorsunuz?`
 ` Bu nasıl olabilir?`
-` Yani, hizmetkar odası kilitli değil miydi?`
+` Yani, hizmetkâr odası kilitli değil miydi?`
 ` Az önce, Gohda-san içeri girerken kapının kilidini açmadı mı?!"`
 `"......Peki o zaman, ne?`
 ` ...Burası Jessica'nın odasıyla aynı değil mi?!`
@@ -235,7 +235,7 @@
 ` ...Arka saldırı yalnızca ön saldırıyla beraber ilerlediği için bir anlam taşır.`
 ` Eğer sadece arkadan saldırıyı kullanacak kadar yozlaşırsam, bu, yöntemlerim amacım haline geldiğinde ortaya çıkan ahmakça bir plandan başka bir şey olmaz."`
 `"...Ihihi, gerçekten mi?`
-` Peki o zaman, çokça gurur duyduğun o kırmızıyla "hizmetkar odasında kimse saklanmıyordu" cümlesini tekrarlar mısın?"`
+` Peki o zaman, çokça gurur duyduğun o kırmızıyla "hizmetkâr odasında kimse saklanmıyordu" cümlesini tekrarlar mısın?"`
 `"Buna gerek yok.`
 ` Muhakemenin temeli yıkılmak üzere."`
 `"Oh, oh?!`
@@ -279,7 +279,7 @@
 `"Ne dediiiiiin......?!`
 ` Peki bu...ne demek oluyor...`
 ` Dalga mı geçiyorsun, yine mi?!`
-` Yine sadece master anahtarları olan hizmetkarlardan şüphelenebileceğimi mi söylüyorsun?!"`
+` Yine sadece master anahtarları olan hizmetkârlardan şüphelenebileceğimi mi söylüyorsun?!"`
 `"Biliyorsun, bunu kırmızıyla söylemedim...?`
 ` Kapıyı kilitleyip gittikleri esnada, bu odada birinin saklanıyor olma ihtimalini reddetmedim...`
 ` *cackle*cackle*cackle*!"`
@@ -289,8 +289,8 @@
 `"......Doğru ya, unutmuşum.`
 ` Peki ya bu odanın özel anahtarları, hizmetkâr odasının anahtarları?!"`
 `"Mmhm.`
-` Onlar {p:1:hizmetkar odasının ortasındaki anahtar kutusundalar}.`
-` Birkaç hizmetkar odası anahtarı var, ama {p:1:hepsi anahtar kutusunun içinde}."`
+` Onlar {p:1:hizmetkâr odasının ortasındaki anahtar kutusundalar}.`
+` Birkaç hizmetkâr odası anahtarı var, ama {p:1:hepsi anahtar kutusunun içinde}."`
 `"Bu da, durumun Jessica'nın odasının anahtarıyla olan zamandan farksız olduğu anlamına geliyor...`
 ` Hizmetkârlar, o kullanışlı master anahtarlara sahipken gereksiz bir anahtarla dolaşacak değiller ya.`
 ` Hepsinin hâlâ anahtar kutusunda kapalı olduğunu kabul edebilirim..."`
@@ -303,7 +303,7 @@
 `{p:1:Ve ikisi de kilitliydi}.`
 ` {p:1:Kapı ve pencere kilitli olduğunda herhangi bir giriş veya çıkışa izin vermezler}.`
 ` Bu nedenle, kilit korunurken kapıyı sökmek, içeri girmek için bir delik açmak ya da buna benzer bir şey yapmak işe yaramayacaktır.`
-` Ve kuşkusuz, {p:1:hizmetkar odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansızdır}."`
+` Ve kuşkusuz, {p:1:hizmetkâr odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansızdır}."`
 `"...Tüm bunları her seferinde sesli olarak söylemek zorunda kalmak büyük bir acı.`
 ` Er ya da geç, tüm bunları kısaltarak tek bir cümle haline getirecek bir ifade bulmalıyım."`
 `"Ama, bu odada kimsenin saklanmadığını tekrarlayamazsın!`
@@ -351,12 +351,12 @@
 `Başka bir deyişle, örneğin, "gizli raf" veya "gizli dolap" gibi bir şey olsaydı, bunlar "gizli kapı" olarak tanımlanmayacaktı!`
 `Yani, Jessica'nın odasındaki üçüncü kişi burada saklanıyor, bizim gitmemizi bekliyordu!`
 `Heh, ne kadar acınası, yalnızca küçük bir kelime oyunu!`
-`{n}Bu yöntemle, üçüncü kilitli oda, hizmetkar odasını bile halledebilirim gibi görünüyor.`
+`{n}Bu yöntemle, üçüncü kilitli oda, hizmetkâr odasını bile halledebilirim gibi görünüyor.`
 `Yatağın altında gizli bir raf ya da onun gibi bir şey varsa, bu yeterli olacaktır.`
 `{n}Suçlu bir yere saklanmış, gitmemizi bekliyor.`
 `.........Suçlu şu anda bile kilitli odada kapana kısılmış durumda!!`
 `Yani......tam şu anda!`
-`Suçlu hala hizmetkar odasında nefesini tutarak saklanıyor...!!!`
+`Suçlu hala hizmetkâr odasında nefesini tutarak saklanıyor...!!!`
 `Bu da demek oluyor ki......... Ne yani...`
 `Üç kez kilitli oda işkencesine maruz kalmış olsak da,`
 ` ......aslında tam da şu anda, suçluyu şah mat ettik!!`
@@ -421,7 +421,7 @@
 ` kırmızı!!`
 `Kimse saklanmıyor!`
 ` Ve gizli bir kapı yok, kilitliyken kapıları veya pencereleri açmanın bir yolu da yok!!`
-`Her şeyin imkânsız olduğunu kanıtlamadın mı?!`
+`Her şeyin imkansız olduğunu kanıtlamadın mı?!`
 `Şeytan'ın İspatı...`
 `...önden bir saldırı ile mi...`
 `...ortadan kaldırıldı?!`
@@ -516,7 +516,7 @@
 ` ...Ve şimdi elimizde {f:5:Beatrice}'in cesetleri kendisinin taşıdığını itiraf etme nezaketini gösterdiği mektubu var.`
 ` ......İşte bu kadar basit."`
 `"Bu saçmalıktan bıktım artık!!"`
-`Rosa Teyze böyle bağırırken sert bir ifadeyle herkese baktı.`
+`Rosa Teyze böyle bağırırken, herkese sert bir ifadeyle baktı.`
 `"Sa-`
 `......Saçmalık mı?`
 ` ......Ne demek istiyorsunuz...?!"`
@@ -539,7 +539,7 @@
 `"Masumiyetinizi kanıtlamanın iyi bir yolu var, değil mi?`
 ` Doktor Nanjo ve Kumasawa-san'ın cesetlerini bularak!!"`
 `"Onları bulursak, belki o zaman hikayenizi dinlemeye başlayabilirim.`
-` Ama bulana kadar, hepinizin kurt olduğunu inkar edemezsiniz!!"`
+` Ama bulana kadar, hepinizin kurt olduğunu inkâr edemezsiniz!!"`
 `"Sen de!`
 ` Ve sen de!!`
 ` Bahse girerim hepiniz o cadı tarafından satın alınmış, gözleriniz altın yüzünden kör olmuştur!!`
@@ -548,7 +548,7 @@
 ` Ömrünüz boyunca kolay bir hayat mı yaşamak istiyorsunuz?!`
 ` Böyle bir hayatın değeri nedir ki?!!"`
 `"Rosa-sama...!!`
-` Biz...... Biz asla...!"`
+` Biz...... biz asla...!"`
 `"Sessiz olun!`
 ` Ve Shannon, daha fazla yaklaşma!!`
 ` On yıllık minnet borcunu ihanetle ödeyeceğine inanamıyorum!!`
@@ -721,7 +721,7 @@
 `"Haklısın.`
 ` ......Birbirimizi kesinlikle anlayabileceğiz.`
 ` ......{ruby:When the seagulls cry:{i:Martılar ağladığında.}}"`
-`".........Polis gelene kadar bu odayı olduğu gibi bıraksak muhtemelen daha iyi olur.`
+`".........Polis gelene kadar bu odayı olduğu gibi bırakmamız muhtemelen daha iyi olur.`
 ` Rosa-sama, lütfen kilitleyebilir misiniz?`
 ` ......Biz mutfağa döneceğiz.`
 ` Bir şeye ihtiyacınız olursa, lütfen bize istediğiniz zaman bildirin."`
@@ -741,7 +741,7 @@
 `"......{ruby:When the seagulls cry:{i:Martılar...ağladığında.}}"`
 `Rosa Teyze cevap olarak başını salladı...`
 `Genji-san topuklarının üzerinde döndü.`
-`{n}Ve hizmetkar odasından çıktı.`
+`{n}Ve hizmetkâr odasından çıktı.`
 `Gohda-san'ın yüzü hâlâ gözyaşlarıyla kaplıydı,`
 ` ......ama Genji-san'ın sözlerini dinlerken belki de kalbini biraz olsun toparlamayı başarmıştı.`
 `......Yüzünde gerçekten üzücü bir ifade vardı,`
@@ -783,7 +783,7 @@
 ` Eminim en güvenlisi bu olur.`
 ` ......Buna karşın, salonun dışında olmanın o kadar da güvenli olmadığını düşünüyorum.`
 ` ......Bu yüzden onu öyle bir yerde yalnız bırakamam."`
-`"......Bu......Shannon-chan ve diğer hizmetkarlardan şüphelendiğimden değil—`
+`"......Bu......Shannon-chan ve diğer hizmetkârlardan şüphelendiğimden değil—`
 `hayır, hiç kimseden......`
 ` kimseden şüphelenmek istemiyorum..."`
 `"Miras mı?`
@@ -844,16 +844,16 @@
 `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
 ` Kes şunu artık, kes şunu...!!"`
 `"Lütfen, {f:5:Beatrice}, hemen şimdi kendini göster,`
-` ve Rosa Teyze'ye kırmızıyla "sadece beş master anahtar olduğunu" söyle!!`
+` ve Rosa Teyze'ye kırmızıyla "master anahtarların sadece beş tane olduğunu" söyle!!`
 ` Lütfen, yalvarıyorum, bunu ancak şeytanlar kanıtlayabilir, senin gibi bir cadı kanıtlayabilir!"`
 `"Lütfen, Beato, burada kendini göster ve Rosa Teyze'ye...`
 `tüm master anahtarların bunlar olduğunu, ve artık kimseden şüphelenmeye gerek olmadığını söyle...!!!"`
 `"`
-`{p:1:Sadece beş master anahtar var}.`
-` {p:1:Sadece beş master anahtar var}."`
+`{p:1:Master anahtarlardan beş tane var}.`
+` {p:1:Master anahtarlardan beş tane var}."`
 `"...*cackle*, problem ne acaba?`
-` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmayacak.`
-` Görünüşe göre hâlâ benim varlığımı inkar eden birileri var, öyle değil miiiii?`
+` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmıyor.`
+` Görünüşe göre hâlâ benim varlığımı inkâr eden birileri var, öyle değil miiiii?`
 ` Ushiromiya Battleeeeeeeer???"`
 `"Kabul ediyorum!!`
 ` Kabul ediyorum, sen varsın varsın kesinlikle varsın!`
@@ -870,7 +870,7 @@
 ` Yapabilir misin?`
 ` Yapabilirsin, değil miiiiiiiii??`
 ` Daha sonra tabii ki ortaya çıkacağım ve kırmızıyla söyleyeceğim!`
-` Rosa'ya {p:1:sadece beş master anahtar olduğunu} söyleyeceğim!!"`
+` {p:1:Master anahtarların sadece beş tane olduğunu} Rosa'ya söyleyeceğim!!"`
 `"Oh, ama anlıyorum, o asil gururunu bir kenara atmanın imkânı yok.`
 ` Ama böylesi iyi, bu kadarı yeter de artar bile, biraz sarsılmaya başladın, değil mii?"`
 `"Bir an için, ayakkabılarımı yalamanın sorun olmayacağını düşündün, değil miii?`

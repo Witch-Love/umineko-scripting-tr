@@ -141,7 +141,7 @@
 ` Sözünü geri al,`
 ` geri al!!"`
 `Ah evet, onları gördüm, tıpkı senin gibi muhteşem aptal suratları vardı.`
-`{n}imdi karınları tıka basa dolu hâlde Şeker Diyarı'ndalar!!`
+`{n}Şimdi karınları tıka basa dolu hâlde Şeker Diyarı'ndalar!!`
 `"Ooooooooooooooohhh, kahretsiiiiin!!`
 ` Onu öldüreceğim, onu öldüreceğim, onun karnını yaracağım ve aynı şekilde ölmesini sağlayacağım!!`
 ` Uuuuaaa{0}a{0}a{0}a{0}a{0}a{0}aaaa, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa......!!!`
@@ -306,7 +306,7 @@
 ` Biri bıçakla yaralamaktır.`
 ` Diğeri kalbinden incitmektir."`
 `"...Sonuncusu ise incitmenin en zor ve en etkili yoludur.`
-` Ve üstelik sen farkına bile varmadan bile onu incitebilir.`
+` Ve üstelik sen farkına bile varmadan onu incitebilir.`
 ` Bunun ne olduğunu biliyor musun...?"`
 `"...N-Nereden bilebilirim...? Bilmek bile istemiyorum!!"`
 `"Bu onun umutlarına ihanet etmektir.`
@@ -521,7 +521,7 @@
 ` Buna saygımdan dolayı gitmenize izin verecektim ama şimdi yaptığın kabalık fikrimi değiştirmeme neden oldu..."`
 `"Yalan söyleme!`
 ` Leydi'yi öldürmene izin vermeyeceğim!`
-` ......Bu imkânsız olsa bile, ......onu benden önce öldürmene izin vermeyeceğim!"`
+` ......Bu imkansız olsa bile, ......onu benden önce öldürmene izin vermeyeceğim!"`
 `"O kadarını bile yapamazsın.`
 ` Konuşma, mobilya.`
 ` Sessiz ol, mobilya.`
@@ -632,7 +632,7 @@
 `Bir ağaçkakan sesi tüm odayı doldurdu,`
 ` ...ve gözünü kırpmasına bile fırsat vermeden,`
 ` ......göğsünün tam ortasına saplandı...`
-`Satrançta bir taşı aldığınızda, rakibinizin taşını koruması kurallar gereği imkânsızdır.`
+`Satrançta bir taşı aldığınızda, rakibinizin taşını koruması kurallar gereği imkansızdır.`
 `Yani, bu bariz bir sonuçtu, ve kurallar tarafından bile belirtilmişti.`
 `Kanon dizlerinin üzerine çöktü.`
 ` Ve özür diledi.`

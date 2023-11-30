@@ -75,7 +75,7 @@
 ` Büyükanne ya da birileri cadının ormanda yaşadığı ve oraya yaklaşmanın çok tehlikeli olduğu hikayesini yaymaya başladı...`
 `"......Bu eski hikayeyi hatırlıyorum.`
 ` Küçükken ailelerimiz bize anlatırdı ve biz de adanın her yerine hazine aramaya giderdik.`
-` .........Ormanda kaybolup hizmetkarlardan biri bizi bulana kadar ağlamamış mıydık? Ailelerimiz bize çok kızmıştı.`
+` .........Ormanda kaybolup hizmetkârlardan biri bizi bulana kadar ağlamamış mıydık? Ailelerimiz bize çok kızmıştı.`
 ` ...Bu beni geçmişe götürdü."`
 `"Ne kadar da aptalmışız, değil mi?`
 ` Yani, hadi ama, Büyükbabam o parayla işin sonunda bu adayı satın aldı, değil mi?`
@@ -896,7 +896,7 @@
 `{n}Kapı otomatik olarak kilitleniyordu.`
 `Kinzo'nun izni olmadan kimse içeri giremezdi ve bir kez çıktıklarında bir daha giremezlerdi.`
 `......Bu, kan bağı olan akrabalarına güvenemeyen Kinzo'nun kendini çalışma odasına kilitlemek ve dış dünyadan soyutlamak için yarattığı bir mekanizmaydı.`
-`......Artık güvenebileceği tek kişiler kanını paylaştığı oğulları değil, kendilerine mobilya diyen hizmetkarlardı...`
+`......Artık güvenebileceği tek kişiler kanını paylaştığı oğulları değil, kendilerine mobilya diyen hizmetkârlardı...`
 `"..................Doktor Nanjo, bir sorun mu var?"`
 `"...Ah, Genji-san.`
 ` Oh, sadece artık orada bulunmamam gerekiyordu."`
@@ -949,16 +949,16 @@
 `{n}Sizler, düşün peşine ve ilerleyin, köydeki o ikilinin size bahsettiği kıyıya.`
 `{n}Orada yatmaktadır, Altın Diyar'ın anahtarı.`
 `{n}{n}Bu kurallara uyarak Altın Diyar'a seyahat etmelidir, anahtarı uyandıran kişi.}`
-`{e:070:İlk alacakaranlıkta anahtar tarafından seçilen altı kişi kurban olarak sunulacak.`
-`{n}İkinci alacakaranlıkta geride kalanlar yakın olan ikisini birbirinden ayıracak.`
-`{n}Üçüncü alacakaranlıkta hayatta kalanlar asil ismimi yüceltecek.`
-`{n}Dördüncü alacakaranlıkta kafasını oy ve öldür.`
-`{n}Beşinci alacakaranlıkta göğsünü oy ve öldür.`
-`{n}Altıncı alacakaranlıkta karnını oy ve öldür.`
-`{n}Yedinci alacakaranlıkta dizini oy ve öldür.`
-`{n}Sekizinci alacakaranlıkta bacağını oy ve öldür.`
-`{n}Dokuzuncu alacakaranlıkta cadı dirilecek ve hiçbiri hayatta kalmayacak.`
-`{n}Onuncu alacakaranlıkta yolculuk sona erecek ve Altın Diyar'ın hazinelerinin gücünü ilk ve son kez elde edeceksin.}`
+`{e:070:İlk alacakaranlıkta, anahtar tarafından seçilen altısı kurban olarak sunulacak.`
+`{n}İkinci alacakaranlıkta, geride kalanlar yakın olan ikisini birbirinden ayıracak.`
+`{n}Üçüncü alacakaranlıkta, hayatta kalanlar asil ismimi yüceltecek.`
+`{n}Dördüncü alacakaranlıkta, kafasını oy ve öldür.`
+`{n}Beşinci alacakaranlıkta, göğsünü oy ve öldür.`
+`{n}Altıncı alacakaranlıkta, karnını oy ve öldür.`
+`{n}Yedinci alacakaranlıkta, dizini oy ve öldür.`
+`{n}Sekizinci alacakaranlıkta, bacağını oy ve öldür.`
+`{n}Dokuzuncu alacakaranlıkta, cadı dirilecek, ve hiçbiri hayatta kalmayacak.`
+`{n}Onuncu alacakaranlıkta, yolculuk sona erecek, ve Altın Vatan'a kavuşacaksın.}`
 `{e:070:Cadı bilgeleri övecek ve dört hazine bahşedecek.`
 `{n}{n}Biri Altın Diyar'ın bütün altınları olacak.`
 `{n}Biri tüm ölü ruhların dirilişi olacak.`
