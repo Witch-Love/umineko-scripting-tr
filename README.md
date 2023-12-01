@@ -49,7 +49,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
 </details>
 
 * <details>
-  <summary>Episode 2 ✍️</summary>
+  <summary>Episode 2 ✅</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
@@ -71,7 +71,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ✅
       * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅
-      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) `<- Burdayız`
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ✅
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
       * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅
    * Other
@@ -85,10 +85,10 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
 </details>
 
 * <details>
-  <summary>Episode 3 ❌</summary>
+  <summary>Episode 3 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) `<- Burdayız`
       * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ❌
       * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ❌
