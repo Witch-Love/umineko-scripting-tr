@@ -112,9 +112,9 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
          * [Song: activepain](../../../umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L20-L26) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314-L320) ❌
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314-L320) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L81-L85) ✅
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ✅
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873-L894) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L561-L599) ✅
       * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ✅
@@ -294,7 +294,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
          * [Song: Cocoon of White Dreams -Ricordando il passato-](../../../umineko-scripting-tr-files/tree/master/files/video/sub/240_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L51-L54) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344-L347) ❌
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344-L347) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L141-L143) ✅
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L435-L437) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981-L1000) ✅
