@@ -99,7 +99,9 @@
 * Resign `->` Pes Etmek
 * Ritual `->` Ritüel
 * Rose Garden `->` Gül Bahçesi
-* Servant `->` Hizmetkar
+* Servant `->` Hizmetkâr
+* Servant Room `->` Hizmetkâr Odası
+* Servants' Quarters `->` Hizmetkâr Koğuşu
 * Seven Stakes of Purgatory `->` Araf'ın Yedi Kazığı
 * Shutter `->` Kepenk
 * Storehouse `->` Ambar

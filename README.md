@@ -117,7 +117,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873-L894) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L561-L599) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ❌
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ✅
 </details>
 
 * <details>
