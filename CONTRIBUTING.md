@@ -58,7 +58,7 @@
 * Devil `->` Şeytan
 * Devil's Proof `->` Şeytan'ın İspatı
 * Dining Hall `->` Yemek Salonu
-* Disciple `->` Mürit
+* Disciple `->` Öğrenci
 * Entrance Hall `->` Giriş
 * Epitaph `->` Kitabe
 * Excuse me `->` İzninizle
@@ -81,7 +81,8 @@
 * Love `->` Aşk *`(büyüye yönelik söylenmiyorsa duruma bağlı)`*
 * Magic `->` Büyü
 * Mansion `->` Malikane
-* Master `->` Efendi
+* Master `->` Efendi *`(Kinzo için)`*
+  * Master `->` Usta *`(Virgilia için)`*
 * Master Key `->` Master Anahtar
 * Milady `->` Leydim
 * Mistress `->` Metres
@@ -90,8 +91,9 @@
 * Objection `->` İtiraz
 * Old Testament `->` Eski Ahit
 * Parlor `->` Salon
-* Piece `->` Taş
+* Piece `->` Taş *`(Satranç taşı olarak bahsediliyorsa)`*
 * Portrait `->` Portre
+* Predecessor `->` Selef
 * Reasoning `->` Muhakeme
 * Red Truth `->` Kırmızı Gerçek
 * Register `->` Nüfus
