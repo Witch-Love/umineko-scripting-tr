@@ -88,8 +88,8 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
   <summary>Episode 3 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) `<- Burdayız`
-      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅
+      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) `<- Burdayız`
       * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ❌
       * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ❌
       * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ❌

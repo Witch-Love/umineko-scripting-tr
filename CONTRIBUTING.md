@@ -73,6 +73,7 @@
 * Guesthouse `->` Konukevi
 * Guest room `->` Misafir odası
 * Head's Ring `->` Aile Reisi Yüzüğü
+* Hempel's Raven `->` Hempel'in Kuzgunu
 * Horrible `->` Korkunç
 * Incinerator `->` Çöp Fırını
 * Locked Room `->` Kilitli Oda
@@ -121,6 +122,7 @@
 
 * Witch of Certainty `->` Kesinliğin Cadısı
 * Witch of Miracles `->` Mucizelerin Cadısı
+* Endless Witch `->` Sonsuz Cadı
 
 ### Diğer
 
