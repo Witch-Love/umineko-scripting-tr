@@ -14,7 +14,7 @@
 `......gözden kayboldu, düştü ve paramparça oldu.`
 `Kendi aptalca merakım yüzünden geri dönüşü olmayan bir şey yaptığımı fark ettim.`
 `Ne kadar pişman olursam olayım, ne kadar özür dilersem dileyeyim.`
-`{n}Kırılan vazo eski haline dönmeyecekti.`
+`{n}Kırılan vazo eski haline dönmeyecekti...`
 `Büyük ihtimalle büyükbabamdan azar işitecektim.`
 `{n}Muhtemelen çok ağır bir şekilde.`
 `Korkudan gözyaşlarına boğularak hıçkıra hıçkıra ağlamaya başladım...`
@@ -162,7 +162,7 @@
 `Başımı hafifçe salladım.`
 `Eğer buna en yüksek seviye deniyorsa, bu daha yüksek bir şey olmadığı anlamına gelir.`
 `{n}Ebedi bir çıkmaz sokak, ebedi can sıkıntısının başlangıcı.`
-`"Usta'm bir keresinde söylemişti.`
+`"Ustam bir keresinde söylemişti.`
 ` Kişinin tüm üzüntülerden kurtulması, ebedi mutlulukla aynı anlama gelir.`
 ` ......İşte bu sebepten...`
 `Ustamın {i:o seviyeye ulaşamadığını} düşünüyorum."`
@@ -329,5 +329,5 @@
 ` *cackle*cackle*cackle*cackle*!`
 ` Wahhahahahahahahahahahaha!!`
 ` Seni tekrar tekrar dirilteceğim, tekrar tekrar öldüreceğim!"`
-`"Pekâlâ, bir sonraki oyun tahtasında nasıl bir cinayet çılgınlığına imza atacağım?`
+`"Pekâlâ, bir sonraki oyun tahtasında nasıl bir cinayet çılgınlığına imza atmalıyım?`
 ` Gel, yeni oyun tahtasını getir. Neden bir sonraki oyuna başlamıyoruz, Ushiromiya Battler!!"`

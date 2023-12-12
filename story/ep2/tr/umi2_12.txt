@@ -998,12 +998,12 @@
 ` Her açıdan engelleneceğime eminim, ...ama önce bu odanın kilitli bir oda olmasının ne anlama geldiğini teyit edeceğim."`
 `"Pekâlâ.`
 ` İlk olarak,`
-` {p:1:herhangi bir gizli kapı türü kesinlikle bulunmamaktadır}.`
-` {p:1:Bu kapı içeri girmenin ya da dışarı çıkmanın tek yoludur}.`
-` {p:1:Bu kapıyı kilitlemenin tek yolu Jessica'nın tek kendi anahtarı ya da her hizmetkârda sadece bir tane bulunan master anahtarlardır}."`
-`"Oda ikinci katta, fakat muhtemelen pencereden girip çıkmak mümkündür.`
+` {p:1:herhangi bir gizli kapı türü kesinlikle bulunmuyor}.`
+` {p:1:Bu kapı içeri girmenin ya da dışarı çıkmanın tek yolu}.`
+` {p:1:Bu kapıyı kilitlemenin tek yolu Jessica'nın tek kendi anahtarı ya da her hizmetkârda sadece bir adet bulunan master anahtarlar}."`
+`"Oda ikinci katta, lakin muhtemelen pencereden girip çıkmak mümkündür.`
 ` Ancak,`
-` {p:1:pencere içeriden kilitlidir}."`
+` {p:1:pencere içeriden kilitli}."`
 `"......Hemen satranç tahtasını ters çevirmeme izin ver.`
 ` ...Kapı ve kilit üzerine tartışmaya başlarsam, muhtemelen avucunun içinden çıkamam."`
 `"Nasıl istersen öyle yap.`

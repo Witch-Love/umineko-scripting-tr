@@ -269,9 +269,9 @@
 `...Rosa Teyze'nin o kadar emin olduğu teori...`
 `...yanlış."`
 `"...Üstelik, sinir bozucu bir şekilde, bu teoriyi çürütmek imkansız.`
-` ......Eğer cadı sen, kırmızıyla`
+` ......Eğer cadı olan sen, kırmızıyla`
 ` "`
-`{p:1:hiç gizli kapı yok}" dersen, mesele hallolur."`
+`{p:1:hiç gizli kapı yok}" dersen, tüm mesele hallolur."`
 `"......Ancak, benim gibi bir insan, Rosa Teyze'ye ne kadar karşı çıkıp tartışmaya çalışırsa çalışsın, muhtemelen bunu kabul etmeyecektir.`
 ` {i:İnsanlar gizli bir kapının olmadığını kanıtlayamaz}."`
 `"Bu bir Şeytan'ın İspatı.`

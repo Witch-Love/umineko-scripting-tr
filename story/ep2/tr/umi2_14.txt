@@ -295,7 +295,7 @@
 ` Hizmetkârlar, o kullanışlı master anahtarlara sahipken gereksiz bir anahtarla dolaşacak değiller ya.`
 ` Hepsinin hâlâ anahtar kutusunda kapalı olduğunu kabul edebilirim..."`
 `"Diğer koşullarda da değişen bir şey yok.`
-` {p:1:Tek kapı ve tek pencere dışında giriş ve çıkış mümkün değil}.`
+` {p:1:Tek kapı ve tek pencere haricinde içeriye giriş ve çıkış mümkün değil}.`
 ` Dolayısıyla, gizli kapılar ve olağan dışı giriş çıkış yöntemleri var olamaz.`
 ` Sevinin, büyük dedektifler.`
 ` *cackle*!"`
@@ -303,7 +303,7 @@
 `{p:1:Ve ikisi de kilitliydi}.`
 ` {p:1:Kapı ve pencere kilitli olduğunda herhangi bir giriş veya çıkışa izin vermezler}.`
 ` Bu nedenle, kilit korunurken kapıyı sökmek, içeri girmek için bir delik açmak ya da buna benzer bir şey yapmak işe yaramayacaktır.`
-` Ve kuşkusuz, {p:1:hizmetkâr odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansızdır}."`
+` Ve kuşkusuz, {p:1:hizmetkâr odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansız}."`
 `"...Tüm bunları her seferinde sesli olarak söylemek zorunda kalmak büyük bir acı.`
 ` Er ya da geç, tüm bunları kısaltarak tek bir cümle haline getirecek bir ifade bulmalıyım."`
 `"Ama, bu odada kimsenin saklanmadığını tekrarlayamazsın!`
@@ -387,11 +387,11 @@
 ` {p:1:Jessica'nın cesedinin bulunduğu sırada, Jessica'nın odasında yalnızca,`
 ` Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa ve Nanjo vardı}."`
 `"Uups, tabii ki {p:1:Jessica'nın cesedi de buna dahil}.`
-` {p:1:Dolayısıyla, hem Jessica'nın odası hem de bu hizmetkâr odası vakasında, sizin farkında olmadığınız hiçbir insan yoktur}.`
+` {p:1:Dolayısıyla, hem Jessica'nın odası hem de bu hizmetkâr odası vakasında, sizin farkında olmadığınız hiçbir insan yok}.`
 ` {p:1:Kimse saklanmıyor}."`
 `"Ve dahasını da söyleyeceğim.`
 ` {p:1:Kapıların anahtar kullanılmadan dışarıdan kilitlenebileceği bir yöntem bulunmuyor}.`
-` {p:1:Pencerelere gelince, dışarıdan bir şekilde kilitlenmelerini sağlayacak herhangi bir yöntem yoktur}."`
+` {p:1:Pencerelere gelince, dışarıdan bir şekilde kilitlenmelerini sağlayacak herhangi bir yöntem yok}."`
 `"Ve şunu da söylemeliyim.`
 ` {p:1:Tam bir beceriksizsin}!"`
 `"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
@@ -503,7 +503,7 @@
 ` {p:1:Hadi, Ushiromiya Battler, diz çök}.`
 ` Sonra da ebedi sadakatin için yemin et ve ayakkabılarımı yala...!!"`
 `"{p:1:Beni kabul edersen, tüm bilmeceler çözülecek}.`
-` {p:1:Benim gücümle, her türlü kilitli oda yaratılabilir veya yok edilebilir}!!"`
+` {p:1:Benim gücümle, her türlü kilitli oda yaratılabilir ve yok edilebilir}!!"`
 `"Battler, kendini güç sahibi birine teslim etmenin mutluluğuna bırakmak istemez misiiiin??`
 ` {p:1:Seni en sevdiğim mobilyam yapacağım}.`
 ` {p:1:Seni çok ama çok seveceğim ve seni küle dönene dek oyuncağım yapacağım}..."`

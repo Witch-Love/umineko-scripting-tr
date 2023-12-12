@@ -438,7 +438,7 @@
 ` {p:1:Kapı ve pencereler içeriden kilitliydi}."`
 `"{p:1:Hiçbir hile ya da numara, hiçbir gizli geçit ya da saklanacak yer yoktu}!`
 ` {p:1:Natsuhi'nin kendi anahtarı George'un cebindeydi ve odanın içinde kilit altındaydı}.`
-` {p:1:Geriye sadece beş master anahtar kalıyor ve "Rosa" bunların hepsini elinde tutuyordu}!"`
+` {p:1:Geriye sadece beş master anahtar kalıyor, ve "Rosa" bunların hepsini elinde tutuyordu}!"`
 `"{p:1:Ve hazır başlamışken, salon da aynı}.`
 ` {p:1:Salonun anahtarı hizmetkâr odasında mühürlü}.`
 ` {p:1:Bu nedenle salonun kilidini master anahtar dışında bir şeyle açmak imkansız}! {p:1:Odanın kilitli oda tanımı her zamanki gibi aynı}!"`
