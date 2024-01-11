@@ -38,7 +38,7 @@
 
 * Alibi `->` Mazeret
 * As you command `->` Emredersiniz
-* Aunt Eva / Aunt Rosa / Aunt Natsuhi `->` Eva Teyze / Rosa Teyze / Natsuhi Teyze
+* Aunt `->` Teyze
 * Blue Truth `->` Mavi Gerçek
 * Boiler Room `->` Kazan Dairesi
 * Book of Psalms `->` Mezmurlar Kitabı
@@ -63,7 +63,7 @@
 * Epitaph `->` Kitabe
 * Excuse me `->` İzninizle
 * Family Head `->` Aile Reisi
-* Fragment (Kakera olan) `->` Kakera
+* Fragment `->` Kakera *`(kakera olan için)`*
 * Furniture `->` Mobilya
 * Game Master `->` Oyun Yöneticisi
 * Goat Attendant `->` Keçi Uşağı
@@ -82,8 +82,7 @@
 * Love `->` Aşk *`(büyüye yönelik söylenmiyorsa duruma bağlı)`*
 * Magic `->` Büyü
 * Mansion `->` Malikane
-* Master `->` Efendi *`(Kinzo için)`*
-  * Master `->` Usta *`(Virgilia için)`*
+* Master `->` Efendi *`(Kinzo için)`* - Usta *`(Virgilia için)`*
 * Master Key `->` Master Anahtar
 * Milady `->` Leydim
 * Mistress `->` Metres
