@@ -2,12 +2,12 @@
 
 [![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok, acele etmek yerine kaliteli çeviri yapmak önceliğimiz. Gönüllü çevirmenler vakit buldukça çeviriye katkıda bulunursa çevirilerimizi ilerletebiliriz.
+Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği zaman katkıda bulunabilir! Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Bu nedenle süre sınırı gibi kısıtlamalarımız da bulunmamaktadır.
 
-Çeviriye katkıda bulunmak / bizimle beraber çeviri yapmak istiyorsanız [**buraya**](../../tree/master/CONTRIBUTING.md) göz atabilirsiniz.
+Katkıda bulunmak istiyorsanız lütfen [wiki sayfamızı](https://witch-love.github.io/wiki/umineko/contributing/info) inceleyin!
 
 ### Kurulum
-Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından ulaşabilirsiniz.
+Detaylı kuruluma [buradan](https://witch-love.github.io/wiki/umineko/installation) ulaşabilirsiniz.
 
 ### İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
