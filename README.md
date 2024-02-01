@@ -6,10 +6,10 @@ Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği 
 
 Katkıda bulunmak istiyorsanız lütfen [wiki sayfamızı](https://witch-love.github.io/wiki/umineko/contributing/info) inceleyin!
 
-### Kurulum
+## Kurulum
 Detaylı kuruluma [buradan](https://witch-love.github.io/wiki/umineko/installation) ulaşabilirsiniz.
 
-### İletişim
+## İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
