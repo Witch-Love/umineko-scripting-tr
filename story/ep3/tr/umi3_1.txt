@@ -36,7 +36,7 @@
 ` Bu sadece ismen bir aile konferansı, aslında kardeşler arasında bir kavgadan fazlası değil."`
 `Önlerindeki aile konferansı için, Krauss dışındaki üç kardeş gizli bir anlaşma yapmıştı.`
 `Her birinin halletmesi gereken acil bir durumu vardı ve acilen yüklü miktarda paraya ihtiyaçları vardı.`
-`Ve Kinzo çalışma odasına kapandığı için onlara yardım edebilecek tek kişi Ushiromiya reisi adına konuşabilen Krauss'tu.`
+`Ve Kinzo çalışma odasına kapandığı için onlara yardım edebilecek tek kişi, Ushiromiya reisi adına konuşabilen Krauss'tu.`
 `Uzun zamandır Krauss'un Kinzo'nun kendi servetine olan ilgisini kaybetmesinden faydalanmaya başladığını,`
 ` ve bu serveti kendi kullanımı için zimmetine geçirdiğini düşünüyorlardı.`
 `Kardeşler için her şey yolunda giderken, bunu tiksindirici bulsalar da fark etmemiş gibi davranmışlardı,`
@@ -51,7 +51,7 @@
 `"...Artık yönetim kurulunun önünde elimi taşın altına koyduğuma göre, dizlerimin üzerine çökmem ve hatta çamur içinde yuvarlanmam gerekse bile parayı getirmeliyim."`
 `"Aynı şekilde.`
 ` ...Bana güvenen ve uzun süredir beni takip eden çalışanlarıma ihanet edemem.`
-` ......Bu yüzden Krauss nii-san'dan onu boynundan tutmam gerekse bile biraz para almam gerek."`
+` ......Bu yüzden Krauss nii-san'ı boynundan tutmam gerekse bile biraz para almam gerek."`
 `"Aneki her zaman Aniki ile anlaşmazlık içinde olmuştur.`
 ` ...Ve şimdi onunla tamamen yüzleşmek zorunda.`
 ` Bu muhtemelen onu huysuzlaştırmaya yeter."`
@@ -65,7 +65,7 @@
 ` Buna kıyasla, Aniki ortalamaydı.`
 ` ...Sadece yanında olması bile yeterli bir baskı yaratmalıydı ama Aneki böbürlenmeye ve Aniki'yi köşeye sıkıştırmaya devam ediyordu."`
 `"......Şapşal kız...`
-` Neden böyle açıkça düşmanca davranıp onu köşeye sıkıştırıyorsun?`
+` Neden böyle apaçık düşmanca davranıp onu köşeye sıkıştırıyor?`
 ` Bu kurnazlık değil."`
 `"Hahaha, cidden."`
 `".........Aneki kadın olarak doğduğuna pişmandı.`
@@ -89,7 +89,7 @@
 ` Daha sonra babam, dahiyane yeteneğiyle kontrolü ele geçirmiş ve eskisinden daha da büyük olacak şekilde yeniden canlandırmıştı.`
 `O büyük Ushiromiya Kinzo'nun kızı olmanın ne demek olduğunu bir kez bile olsun unutmamıştım.`
 `Bu nedenle, her zaman bu isme layık olmak için her türlü çabayı gösterdim.`
-`Ushiromiya ailesine yakışır bir sınıf.`
+`Ushiromiya ailesine yakışır bir mevki.`
 ` Eğitim.`
 ` Görgü.`
 ` Ve liderlik.`
@@ -190,7 +190,7 @@
 `"Baba."`
 `"Baba!"`
 `Kardeş kavgamız muhtemelen duyulmuştur.`
-`{n}Peder, açıkça hoşnutsuz bir yüz ifadesiyle içeri girdi.`
+`{n}Babam, açıkça hoşnutsuz bir yüz ifadesiyle içeri girdi.`
 `"Krauss.`
 ` Yine kardeşlerinle kavga mı ediyorsun?`
 ` Neden kardeşlerine liderlik etme haysiyetine sahip değilsin?`
@@ -474,7 +474,7 @@
 `".........nh.`
 ` .........Ah,`
 ` ......Üzgünüm.`
-` Yarı uyuyordum."`
+` Dalmışım."`
 `"Şaşırttığım için özür dilerim."`
 `"Eva Teyze, bayılmıştın.`
 ` Bu sabah erken mi kalktın?"`
@@ -521,7 +521,7 @@
 ` ...Hasta mı hissediyorsun...?"`
 `"George.`
 ` Bavulları al ve önden git.`
-` Annen muhtemelen durgun, ona yardım edeceğim."`
+` Annen muhtemelen kansız, ona yardım edeceğim."`
 `"Öyle mi...?`
 ` Anladım, ben önden gidiyorum."`
 `Hideyoshi, Eva'nın tuhaf yüz ifadesine bakarak bunun tatsız bir uyanma olduğunu anladı ve George'a önden gitmesini söyledi.`
