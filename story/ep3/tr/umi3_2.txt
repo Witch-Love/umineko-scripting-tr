@@ -1,5 +1,5 @@
 `"...Altı yıl öncesi mi dedin?`
-` Sonuçta o zamanlar hala ilkokuldaydım, değil mi?`
+` Sonuçta o zamanlar hâlâ ilkokuldaydım, değil mi?`
 ` Benden hatırlamamı beklemek pek de adil değil, öyle değil mi?"`
 `"Katılıyorum.`
 ` Özellikle de çok genç olduğumuz için; bu altı yıl içinde çok büyüdük.`
@@ -10,10 +10,10 @@
 `"Uu.`
 ` Maria onunla ilk kez bir araya geldi.`
 ` Altı yıl öncesini bilmiyorum."`
-`"Bu doğru.`
+`"Bu normal.`
 ` Maria-sama o zamanlar sadece üç yaşındaydı."`
 `"Sen böyle söyleyince, ben de aynıydım.`
-` Maria'yı sadece üç yaşındayken tanıyordum ve bu kadar büyüdüğü için, evet, onu tanıyamadığıma şaşmamalı."`
+` Maria'yı en son o üç yaşındayken görmüştüm ve bu kadar büyüdüğü için, evet, onu tanıyamadığıma şaşmamalı."`
 `Öğle yemeğinden sonra hepimiz dolaşmak, konuşmak ve keyifli vakit geçirmek için sahile geldik.`
 `Ailelerimiz biraz gergin görünüyor ve halletmeleri gereken işleri varmış gibi davranıyorlardı, bu yüzden bizler de yanlarından uzaklaşmaya karar verdik.`
 `...Tam da tahmin edebileceğiniz gibi, aradan altı yıl geçtiği için, sohbet benim üzerimde yoğunlaştı.`
@@ -21,7 +21,7 @@
 ` Kendime kısa diyemem ama yine de boyun beni şaşırttı."`
 `"Evet. Battler-sama'nın altı yıl önceki halini çok iyi hatırlıyorum fakat yine de şaşırdım."`
 `"Değil mi?`
-` Battler'ın altı yıl önceki halinden bunu hayal etmem mümkün değildi."`
+` Battler'ın altı yıl önceki haline bakarak bunu hayal etmem mümkün değildi."`
 `"Hepinizin altı yıl öncesini bu kadar çok hatırlamasına şaşırdım.`
 ` Benim hafızam bulanık."`
 `"Şaşırmadım.`
@@ -175,7 +175,7 @@
 ` ......konuşma tarzım...`
 `...o kadar kötü mü?"`
 `"...Hmm?`
-` Yani, uhh, konuşma tarzın her şey demek değil, ama senin gibi genellikle kaba konuşma tarzına sahip insanlar aniden daha normal konuşmak için çok çabalamaya başladığında...`
+` Yani, uhh, konuşma tarzın her şey demek değil, ama senin gibi genellikle kaba konuşan insanlar aniden daha normal konuşmak için çok çabalamaya başladığında...`
 ` etrafta ne kadar kararlı olduğunu gördüklerinde kalpleri yerinden fırlayacak erkekler var."`
 `"Ö-Öyle mi...?`
 ` Anlıyorum......`
@@ -233,7 +233,7 @@
 ` Waaah, benimle dalga geçme, benimle dalga geçme!!"`
 `"Maria duydu, Maria duydu!`
 ` <See you aga~in>, <see you aga~in>!!"`
-`Bir süreliğine rüzgârın şiddetlendiğini unutup sahilde takıldık.`
+`Bir süreliğine şiddetlenen rüzgârı unutup sahilde takıldık.`
 `......Geçtiğimiz altı yıl içinde çok büyümüş olan ve gençliklerinin tadını çıkaran kuzenlerimle buluşmak gerçekten ferahlatıcı bir deneyimdi.`
 `......Artık biraz geç olmuştu ama herkesle çok daha önce bir araya gelmem ve Ushiromiya ailesine geri dönmem gerektiğini fark ettim...`
 `"Arada bir kuzenler olarak birlikte vakit geçirmek çok güzel..."`
@@ -299,7 +299,7 @@
 `{n}......Lütfen bitsin artık......!`
 `"Rüüüüyaaaanda!`
 ` Kyah‐hahah‐hah‐hah‐haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
-`"Kahretsiiiiin!`
+`"Kahretsiiiiin!!`
 ` Gelme, görünme!!`
 ` Kahretsinkahretsinkahretsiin!!"`
 `"Beklettiğim için üzgünüm.`
@@ -728,14 +728,14 @@
 ` Ruh halinin kötü olduğunu ya da kendini iyi hissetmediğini söyleyerek paçayı kurtarabileceğin bir noktada değiliz, biliyorsun değil mi?!"`
 `"Mühürlü balmumu bu mektubun Babamın temsilcisinden geldiğini açıkça gösteriyor!`
 ` Eğer bundan şüphe ediyorsan, o zaman bir kanıt göster, Nii-san.`
-` Bu mektubun babamın isteklerinin bir beyanı olmadığını kanıtla!!"`
+` Bu mektubun Babamın isteklerinin bir beyanı olmadığını kanıtla!!"`
 `"P-Pekâlâ.`
 ` Tam da dediğin gibi.`
 ` Artık babamın keyfinin yerinde olup olmamasının bir önemi yok...`
 ` Doğrudan gidip ona soralım."`
 `"Hadi soralım.`
 ` Doğrudan Babama soracağız.`
-` Burada babamın da suçu var, neden böyle dolambaçlı bir yol seçti ki?`
+` Burada Babamın da suçu var, neden böyle dolambaçlı bir yol seçti ki?`
 ` Yani, bu tam da onun tarzı!"`
 `"B-Babamın mektubu olduğunu varsayarak bu şekilde konuşmanın doğru olup olmadığını merak ediyorum..."`
 `"Aptal Rosa!!`
@@ -753,14 +753,14 @@
 `Rudolf ve Rosa da bunu fark etmiş ve kabul etmişlerdi.`
 `"Rezillik!!`
 ` Sizin gibi yetişkinler böyle önemsiz bir şakayı nasıl bu kadar ciddiye alabilir...!`
-` Ben babam olmasam da, onun kızgınlığını çok iyi anlıyorum!!"`
+` Ben Babam olmasam da, onun kızgınlığını çok iyi anlıyorum!!"`
 `"Hop hop hop hop!`
 ` Natsuhi-san, sadece babama sorsak her şey yoluna girmez mi...?!`
 ` Babam sadece mektuptan haberi olmadığını söylerse her şey yoluna girer!"`
 `"Nii-san.`
 ` Sorumluluğu üstlen ve ona mektuptan haberi olmadığını söylet.`
 ` Sırf morali bozuk diye korkacak zaman değil, farkındasın değil mi?!"`
-`Bu yaşta hâlâ babamdan korkuyor, ne aptal ama.`
+`Bu yaşta hâlâ Babamdan korkuyor, ne aptal ama.`
 ` Neden vazgeçip sonsuza dek ölmüyooor...?`
 `"T-Tamam!`
 ` Durumu net bir şekilde açıklığa kavuşturalım.`
