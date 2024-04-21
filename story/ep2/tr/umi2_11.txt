@@ -469,7 +469,7 @@
 ` ......Bunun kaçamak bir cevap olduğunu mu söylüyorsun?"`
 `"Evet.`
 ` Yani şimdiden itibaren,`
-` {p:1:gerçeği söylediğimde kırmızı kullanacağım}."`
+` {p:1:gerçeği söylerken kırmızı kullanacağım}."`
 `"B-Bu da ne demek......?!`
 ` Açıklamaya devam et!"`
 `"Hangi büyülü hamleyi kullanırsam kullanayım,`
@@ -495,12 +495,12 @@
 ` Tekrar ediyorum.`
 ` "Babam ve diğerleri kiliseye gizli bir kapıyı kullanarak girdiler ya da bir kapıdan içeri taşındılar"!"`
 `"O zaman söylediklerimi tekrarlayacağım.`
-` "{p:1:Ölü ya da canlı olmalarına bakılmaksızın,`
-` altısı kesinlikle kapıdan girdi}"!"`
+` "{p:1:Ölü ya da hayatta olmalarına bakılmaksızın,`
+` altısı içeriye kesinlikle kapıdan girdi}"!"`
 `".........H-Herhangi bir kanıt var mı?!"`
 `"<Stop>!!`
 ` Kuralı tamamlayacağım."`
-`"......Gerçeği söylediğimde kırmızı kullanacağım,`
+`"......Gerçeği söylerken kırmızı kullanacağım,`
 ` ve {i:bunu yaptığımda kanıt göstererek bunu kanıtlama sorumluluğunu taşımıyorum}!`
 ` Bu açıkça bir doğrudur ve gerçektir!!"`
 `"Sebebi basit.`
@@ -521,7 +521,7 @@
 ` Genji-san ve diğerleri sadece bir tane anahtar olduğunu söylediler ama bunu kanıtlamak imkansız!`
 ` Suçlu gizlice anahtarı kopyaladı...!"`
 `"*cackle*cackle*cackle*cackle*!`
-` {p:1:Kilisenin sadece bir anahtarı var}!"`
+` {p:1:Kilisenin yalnızca bir anahtarı var}!"`
 `"Arg......`
 ` O-O zaman peki ya bu?`
 ` Suçlu, kapıyı açmak için orijinal bir anahtardan başka bir şey kullandı!`
@@ -538,7 +538,7 @@
 ` İçeri girmeden önce menteşeleri söküp daha sonra tüm kapıyı yerinden çıkarmış olmaları da mümkün!!"`
 `"Wahahahahahahahahahaha!`
 ` İnsanlığın yüz yıllık zekası bu mu, Battleeeeeeer?!`
-` {p:1:Kilisenin kapısı kilitlendiğinde, her türlü giriş veya çıkış yöntemi engellenmiş olur}!!"`
+` {p:1:Kilisenin kapısı kilitlendiğinde, her türlü giriş ve çıkış yöntemi engellenmiş olur}!!"`
 `"Tabii büyü kullanamadığın sürece...?`
 ` *cackle*!`
 ` Şah mat zamanı geldi mi?!"`
@@ -547,7 +547,7 @@
 ` Başka bir gizli kapıdan girmiş olabilirler!!"`
 `"Çok konuşuyorsun, seni beceriksiz aptal.`
 ` O zaman daha önceki hamlemi biraz daha ilerleteyim.`
-` {p:1:altısı kesinlikle {i:bu ön kapıdan} girdi}!!"`
+` {p:1:altısı içeriye kesinlikle {i:bu ön kapıdan} girdi}!!"`
 `"Bu saçmalık!!`
 ` Kapı kilitliydi, bu tek anahtarı kullanmadan kilidi açmak olanaksızdı ama yine de altı kişi de bu kapıdan mı içeri girdi?!?!`
 ` Bunu nasıl yaptılar?!!`
@@ -645,7 +645,7 @@
 ` ......Maria'ya verilen zarfın içindeki sahteydi."`
 `"...Bunca zaman bu saçmalık için mi bekledim?`
 ` {p:1:Rosa bu sabah Maria'nın çantasından kesinlikle bir zarf aldı,}`
-` {p:1:ve içinden kilisenin gerçek anahtarını elde etti}.`
+` {p:1:ve içinden kilisenin orijinal anahtarını elde etti}.`
 ` ...İddia ettiğin gibi sahte değildi."`
 `"Heheh...`
 ` O kadarını biliyorum.`

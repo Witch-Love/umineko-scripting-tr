@@ -2,14 +2,14 @@
 
 [![Build Status](../../workflows/Build/badge.svg)](../../actions)
 
-Bu proje herkese açıktır ve isteyen herkes istediği zaman katkıda bulunabilir. Süre sınırımız yok, acele etmek yerine kaliteli çeviri yapmak önceliğimiz. Gönüllü çevirmenler vakit buldukça çeviriye katkıda bulunursa çevirilerimizi ilerletebiliriz.
+Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği zaman katkıda bulunabilir! Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Bu nedenle süre sınırı gibi kısıtlamalarımız da bulunmamaktadır.
 
-Çeviriye katkıda bulunmak / bizimle beraber çeviri yapmak istiyorsanız [**buraya**](../../tree/master/CONTRIBUTING.md) göz atabilirsiniz.
+Katkıda bulunmak istiyorsanız lütfen [wiki sayfamızı](https://witch-love.com/wiki/umineko/contributing/info) inceleyin!
 
-### Kurulum
-Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından ulaşabilirsiniz.
+## Kurulum
+Detaylı kuruluma [buradan](https://witch-love.com/wiki/umineko/installation) ulaşabilirsiniz.
 
-### İletişim
+## İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
 
@@ -49,7 +49,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
 </details>
 
 * <details>
-  <summary>Episode 2 ✍️</summary>
+  <summary>Episode 2 ✅</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
@@ -71,7 +71,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
       * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ✅
       * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅
-      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) `<- Burdayız`
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ✅
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
       * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅
    * Other
@@ -85,13 +85,13 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
 </details>
 
 * <details>
-  <summary>Episode 3 ❌</summary>
+  <summary>Episode 3 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ❌
-      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ❌
-      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ❌
-      * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅
+      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ✅
+      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ✅
+      * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) `<- Burdayız`
       * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ❌
       * [Chapter 5](../../tree/master/story/ep3/tr/umi3_5.txt) ❌
       * [Chapter 6](../../tree/master/story/ep3/tr/umi3_6.txt) ❌
@@ -112,12 +112,12 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
          * [Song: activepain](../../../umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L20-L26) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314-L320) ❌
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L314-L320) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L81-L85) ✅
-      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ❌
+      * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L374-L378) ✅
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L873-L894) ✅
       * [Chapter Names](../../blob/master/script/tr/menu.txt#L561-L599) ✅
-      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ❌
+      * [Characters Menu](../../blob/master/script/tr/menu.txt#L1133-L1189) ✅
 </details>
 
 * <details>
@@ -294,7 +294,7 @@ Detaylı kuruluma [**Kurulum**](../../tree/master/INSTALLATION.md) sayfasından 
          * [Song: Cocoon of White Dreams -Ricordando il passato-](../../../umineko-scripting-tr-files/tree/master/files/video/sub/240_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L51-L54) ✅
-      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344-L347) ❌
+      * [Tips Texts](../../blob/master/script/tr/menu.txt#L344-L347) ✅
       * [Grimoire Titles](../../blob/master/script/tr/menu.txt#L141-L143) ✅
       * [Grimoire Texts](../../blob/master/script/tr/menu.txt#L435-L437) ❌
       * [Save/Load Menu](../../blob/master/script/tr/menu.txt#L981-L1000) ✅
