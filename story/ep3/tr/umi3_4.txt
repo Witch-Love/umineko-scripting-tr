@@ -1,871 +1,871 @@
-`"...I see...`
-` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
-`"......So there can be more than 18 people!`
-` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
-` ......That's some big information."`
-`"Excuse me.`
-` Battler‐sama, would you care for some black tea and cookies?"`
-`Beato's butler, who called himself Ronove, appeared out of nowhere in particular.`
-`Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.`
-`...I really don't like this guy's smile.`
-`{n}For some reason, it doesn't look like a smile used to warmly greet a guest.`
-`{n}It feels like he's making fun of me for some reason.`
-`...I don't know whether he really takes me for an idiot,`
-` or whether it's just a joke or something, but it's really irritating me.`
-`"......I don't want any.`
-` I'm busy right now.`
-` Leave me alone."`
-`"Oh, my.`
-` That is a shame, when the cookies have turned out oh so very delicious.`
-` Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."`
-`"I'll eat some when I feel like it.`
-` Set it down somewhere over there and get out of here."`
-`"Will that be acceptable?`
-` Then I shall do so.`
-` You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked."`
-`".........You really are annoying.`
-` ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."`
-`"Oh, yes, yes, that is quite true.`
-` There are times when Milady's laughter becomes quite undignified.`
-` Every time I hear it, I think of my noble rank,`
-` and struggle to comprehend why I must have such a person as my master.`
+`"...Anlıyorum...`
+` Yani adada bir cadı değil de {f:5:Beatrice} adında bir metres vardı..."`
+`"......Yani 18'den fazla insan olabilir!`
+` Bu da 18 kişi için imkansız olan herhangi bir suçun büyü içermesi gerektiğini öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
+` ......İşte bu büyük bir bilgi."`
+`"İzninizle.`
+` Battler-sama, biraz siyah çay ve kurabiye ister misiniz?"`
+`Ronove adındaki Beato'nun uşağı bir anda ortaya çıktı.`
+`Elindeki gümüş tepsinin üzerinde, nefis görünümlü, dumanı tüten siyah çay ve kurabiyelerle dolu bir tabak vardı.`
+`...Bu adamın gülümsemesini hiç sevmedim.`
+`{n}Nedense, bir misafiri sıcak bir şekilde karşılamak için kullanılan bir gülümsemeye benzemiyor.`
+`{n}Sanki benimle alay ediyor gibi hissediyorum.`
+`...Beni gerçekten aptal mı sanıyor,`
+` yoksa sadece bir şaka falan mı bilmiyorum ama bu beni gerçekten rahatsız ediyor.`
+`"......İstemiyorum.`
+` Şu an meşgulüm.`
+` Beni yalnız bırak."`
+`"Amanın.`
+` Kurabiyeler bu kadar lezzetli olmuşken bu çok yazık oldu.`
+` O kadar muhteşem piştiler ki, basit bir {y:0:İnsan}{n:0:insan}ın bunları ziyan etmesi utanç verici, gerçekten harika kurabiyeler."`
+`"Canım isterse biraz yerim.`
+` Şuraya bir yere koy ve git buradan."`
+`"Böylesi uygun mu?`
+` O halde öyle yapacağım.`
+` Soğuyup bayatladıklarında yiyebilir ve daha sonra taze pişmişken yemediğiniz için dilediğiniz kadar pişman olabilirsiniz."`
+`".........Gerçekten sinir bozucusun.`
+` ...Yani, kulağımın dibinde o ürpertici kıkırdamayı yapıp duran Beato'dan çok daha iyisin."`
+`"Oh, evet, evet, bu oldukça doğru.`
+` Leydinin kahkahalarının oldukça yakışıksız olduğu zamanlar oluyor.`
+` Her duyduğumda, asil rütbemi düşünüyor,`
+` ve neden böyle bir kişinin efendim olması gerektiğini anlamakta zorlanıyorum.`
 ` Pu ku ku ku..."`
-`"......Man you're weird.`
-` If you don't like it, then couldn't you just not work for her?"`
-`"To continue serving despite that is furniture's joy.`
-` One could not serve as furniture without such an attitude."`
-`"......Let us set that aside.`
-` How has the game been proceeding?`
-` Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.`
-` Well now, I wonder what your shallow wit has thought up."`
-`As Ronove made fun of me and giggled,`
-` he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.`
-`"......I imagine it is because you have gained increased confidence in the existence of a 19th person?`
-` Would you be gracious enough to allow me to hear your opinion?"`
+`"......Sen çok tuhafsın.`
+` Madem hoşuna gitmiyor, o zaman onun için çalışmasan olmaz mı?"`
+`"Bunlara rağmen hizmet etmeye devam etmek bir mobilyanın işidir.`
+` Böyle bir duruş sergilenmeden mobilya olarak hizmet verilemez."`
+`"......Bunu bir kenara bırakalım.`
+` Oyun nasıl ilerliyor?`
+` Az önce, bazı iyi bilgiler bulduğunuzu ve bundan oldukça memnun olduğunuzu söylediğinizi duyduğumu sanıyorum.`
+` Şimdi, sığ aklınızın ne düşündüğünü merak ediyorum."`
+`Ronove benimle alay edip kıkırdarken,`
+` az önce söylediklerimi harfiyen uyguladı ve siyah çay ile kurabiyeleri yakınlarda gelişigüzel bir yere koydu.`
+`"......Sanırım bunun nedeni 19. kişinin varlığına olan inancınızın artmış olması?`
+` Fikrinizi duymama izin verme nezaketini gösterir misiniz?"`
 `"..................`
-` ......Yeah, sure.`
-` I'm just going to say it again in front of Beato anyway.`
-` No reason to hide it."`
-`"......Alright.`
-` It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.`
-` In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved."`
-`"Although you deny witches,`
-` you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."`
-`"...The easiest way to deny the witch would be to doubt one of the 18.`
-` ......It's not so easy for every one of the 18 to have an alibi.`
-` You always find at least one person with a fragile alibi.`
-` ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."`
-`"However, I will steadfastly refuse to do that!!`
-` Yeah, that's no good, that's no goddamn good at all!`
-` Every one of those 18 people is either a parent, a relative or a cousin to me!`
-` And those reliable servants, who are sometimes serious and sometimes funny.`
-` I won't let myself use any one of them as a sacrifice!!"`
-`"In the past, my resolve wavered.`
-` That's how Beato hit me where my heart was weak."`
-`"......Accepting and understanding your own weaknesses.`
-` That is not something which can often be accomplished.`
-` Battler‐sama, you are using this theory about a 19th person as a spear.`
-` ...Or should I say, a shield?"`
-`"In any event, unlike how unprepared you were in the games up until now,`
-` let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.`
-` With this, you need not doubt any of the 18 you love and respect,`
-` and can easily suspect a 19th person, and pursue your theory that the culprit is a human."`
-`"That's it exactly.`
-` Like in the first game, when Kanon‐kun was killed in the boiler room,`
-` ...and a bunch of other places,`
-` there are countless tricks I can use without hesitation if a 19th person existed."`
-`In the very first game, Kanon‐kun had been killed in the boiler room.`
-`One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,`
-` or maybe that someone who had appeared to be dead earlier was actually faking,`
-` and had ambushed Kanon‐kun in the boiler room.`
-` Either way, it was a move that forced me to suspect one of the 18.`
-`However, by simply proposing that a 19th person exists,`
-` there's no longer any need to suspect one of the 18 for that murder in the boiler room.`
-`"In short!`
-` "Impossible for any of the 18 = The culprit is a witch"...`
-` is an equation that I can now deny."`
-`Using this argument, we can take, for example, the question which has been raised once again in this game,`
-` "who gave Maria the letter?",`
-` and come up with an easy explanation.`
-` Even if all 18 people have alibis,`
-` I can easily explain everything by saying that a 19th person visited her and gave her the letter.`
+` ......Evet, elbette.`
+` Zaten Beato'nun önünde tekrar söyleyeceğim.`
+` Saklamaya gerek yok."`
+`"......Tamam.`
+` Görünüşe göre bu adada bir yerlerde gizli bir malikane varmış ve Büyükbabamın metresi orada yaşıyormuş.`
+` Bu durumda, bana 18 mi yoksa 19 kişi mi olduğu konusunda acı çektiren sorun kolayca çözülebilir."`
+`"Battler-sama, cadıları inkâr etmenize rağmen,`
+` ...18 kişi arasında bir suçlu aramayı reddederek ikili bir yaklaşım sergiliyor ve kendinizi çıkmaza sürüklüyorsunuz."`
+`"...Cadıyı inkâr etmenin en kolay yolu 18 kişinin birinden şüphe etmek olurdu.`
+` ......Bu 18 kişiden her birinin mazereti olması o kadar kolay değil.`
+` Her zaman en az bir kişinin zayıf bir mazereti olur.`
+` ......Bu kişiyi bir kurban olarak kullansaydım muhtemelen cadıyı sonsuza dek inkâr etmeye devam edebilirdim."`
+`"Ancak, bunu yapmayı kesinlikle reddediyorum!!`
+` Evet, bu hiç iyi değil, hiç de iyi değil!`
+` Bu 18 kişinin her biri benim ya ailemden biri, ya akrabam ya da kuzenim!`
+` Ve bazen ciddi bazen de komik olan güvenilir hizmetkârlar.`
+` Hiçbirini kurban olarak kullanmayacağım!!"`
+`"Önceden kararlılığım sarsılmıştı.`
+` Beato beni kalbimin zayıf noktasından böyle vurdu."`
+`"......Kendi zaaflarını fark etmek ve kabullenebilmek.`
+` Bu çoğu zaman başarılması mümkün olan bir şey değildir.`
+` Battler-sama, 19. kişi hakkındaki bu teoriyi bir mızrak şeklinde kullanıyorsunuz.`
+` ...Yoksa, kalkan mı demeliydim?"`
+`"Her halükarda, şimdiye kadarki oyunlarda ne kadar hazırlıksız olduğunuz gerçeğinin aksine,`
+` şimdi nasıl savaşacağınıza dair bir yöne sahip olmanızın...dramatik bir sıçrama olduğunu söylemek mümkün.`
+` Bu sayede, sevdiğiniz ve güvendiğiniz 18 kişinin hiçbirinden şüphe etmenize gerek kalmadan,`
+` kolayca 19. kişiden şüphelenebilir ve suçlunun bir insan olduğuna dair teorinizin peşinden gidebilirsiniz."`
+`"Aynen öyle.`
+` İlk oyunda, Kanon-kun'un kazan dairesinde öldürüldüğü zamanki gibi,`
+` ...ve diğer birçok yerde de,`
+` 19. kişinin var olması durumunda, çekinmeden kullanabileceğim sayısız numara var."`
+`İlk oyunda, Kanon-kun kazan dairesinde öldürülmüştü.`
+`Kendisiyle birlikte kazan dairesine inen Kumasawa-san tarafından saldırıya uğradığı,`
+` ya da daha önce ölmüş gibi görünen birinin aslında numara yaptığı,`
+` ve Kanon-kun'u kazan dairesinde pusuya düşürdüğü düşünülebilir.`
+` Her iki durumda da, bu beni 18 kişinin birinden şüphelenmeye zorlayan bir hamleydi.`
+`Ancak, basitçe 19. kişinin var olduğunu öne sürerek,`
+` kazan dairesindeki cinayet için 18 kişinin herhangi birinden şüphelenmeye gerek kalmıyor.`
+`"Kısacası!`
+` "18 kişiden herhangi biri için olanaksız = Suçlu bir cadı"...`
+` denklemi, artık inkâr edebileceğim bir denklem."`
+`Bu argümanı kullanarak, örneğin bu oyunda bir kez daha gündeme gelen,`
+` "Maria'ya mektubu kim verdi?",`
+` sorusunu ele alabilir ve ortaya kolay bir açıklama çıkarabiliriz.`
+` 18 kişinin de mazereti olsa bile,`
+` 19. bir kişinin onun yanına geldiğini ve mektubu ona verdiğini söyleyerek her şeyi kolayca açıklayabilirim.`
 `".........Hmm, hmm.`
-` I think that is quite a good move.`
-` How would I strike back?"`
-`"......Battler‐sama, despite your understanding, there are still plenty of weak points.`
-` Perhaps the "18 people attack" will be an effective move.`
-` As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."`
-`"Then how would you do it,`
-` demon butler...?!"`
-`"......I believe it would be appropriate to attack this 19th piece that you have played.`
-` Battler‐sama, have you ever met this 19th person?`
-` May I ask you for some proof that this 19th person exists?"`
-`"How naive.`
-` Of course, I knew you'd probably try that move...!"`
-`"My, my.`
-` Please respond to it."`
-`"Witches and demons and the like...`
-` There's no move more appropriate for you than this one.`
-` ......And that is—"`
-`"The "Devil's Proof"!"`
-`When we humans are accused of something, we always counterattack by saying to show some evidence.`
-` Because that's a human move.`
-`But I'm fighting with a witch.`
-`{n}I'm taking part in a battle with someone who isn't human!`
-`And some moves exist which can only be used in a game against a witch.`
-`{n}There are cheap moves!`
-`And that's what this "Devil's Proof" is.`
-`{n}Therefore, evidence is unnecessary!`
-`Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,`
-` and that a woman named {f:5:Beatrice} is living there.`
-`In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.`
-`That's called actual proof in the human world.`
-`However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.`
-`Because it's impossible to prove that something doesn't exist.`
-`......That's right, this "Devil's Proof", which tormented me so much before, I've finally managed to use to my own advantage.`
-`Those guys were always trying to force me to accept the existence of the witch by using the "Devil's Proof".`
-`That was because, in response to Beato's professions that witches do exist,`
-` I physically could not offer any proof that "witches don't exist".`
-`That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.`
-`And that's why I'll flip over the chessboard right now!`
-`If I can't disprove that witches exist, then that means,`
-` if I suggest that a 19th human exists, you can't disprove that either.`
-`In other words, the enigmatic mistress in question is craftily hiding herself, so it's perfectly natural that you can never find her no matter how hard you look.`
-`So you can't say that "The 19th person can't be found = The 19th person doesn't exist".`
-`Therefore, it is impossible to disprove a 19th person.`
-`{n}Beato used the "Devil's Proof" to make denying her existence impossible,`
-` but this time it's become my weapon.`
-`If we can get away with this argument, then never mind a 19th person,`
-` this island could be full of people we don't know about,`
-` and even if there are ten or a hundred of them hiding, she still can't disprove that they exist.`
-`In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.`
-`It's very difficult to imagine that a single culprit could have set all of those up.`
-`However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn't be any problem at all.`
-`If they all split up the work, they could handle any job in a short period of time.`
-`Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,`
-` but those are all settled by the "Devil's Proof".`
-`Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.`
-`Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!`
-` However, it's because it's such a dirty‐as‐hell move that makes it the perfect one to use against a witch.`
-`Well, we're only imagining here,`
-` ...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......`
-` That goes beyond "funny", makes me think of cockroaches.`
-`If you see one, it means there's a hundred hiding in the shadows.`
-`"......Well, I do think this is a ridiculous argument that's horribly twisted.`
-` If my opponent was human, I'm sure they'd yell at me like I was out of my mind."`
-`"......But my opponent is a witch.`
-` And after all, that is the kind of competition we're having, isn't it?`
-` I'll use any kind of reckless argument to explain it using humans, and deny the witch!!"`
-`"......Anyway, with this move, I'll never again have to doubt any of the 18 who are close to me.`
-` I will never again repeat the defeat I suffered last time...!!"`
-`"......I see.`
-` You have learned from your defeat last time.`
-` That is good.`
-` It is no surprise that by the third game you have become quite devious."`
-`".........You first strengthen your own defense.`
-` That is truly a solid first step.`
-` Quite a spectacular move, I think."`
-`"Well, even if we do assume that there is a 19th person,`
-` there are still a few tricks left that I can't get past no matter how many humans I add, like the number of master keys.`
-` ...Still, it isn't bad as a first step, for the time being."`
-`"This is your trump card, the important piece known as the 19th person.`
-` ......You countered my move of asking for evidence by using the "Devil's Proof".`
-` ......A good skirmish."`
-`"Although I have no excuse for making moves by myself when Milady is absent,`
-` .........I find that I too have become slightly interested.`
-` ...I wonder if you would permit me to make yet another move on Milady's behalf?"`
-`"......Go for it.`
-` I don't care if you're a witch or a demon, I'll take you all on!"`
-`"The move that you made, the "Devil's Proof".`
-` It is a specialty of us demons, but there are also various other moves available to us.`
-` ......Do you know of a move called "Hempel's Raven"?"`
-`"Hempel's Raven...??`
-` What are you talking about?"`
+` Bunun oldukça iyi bir hamle olduğunu düşünüyorum.`
+` Buna nasıl karşılık verirdim?"`
+`"......Battler-sama, kavrayışınıza rağmen hâlâ pek çok zayıf nokta var.`
+` Muhtemelen "18 kişi saldırısı" etkili bir hamle olacaktır.`
+` Savunmanızın ne kadar sağlam olduğunu ölçmek için bu açıdan bir kez daha saldırmak faydalı olabilir."`
+`"Peki bunu nasıl yapacaksın,`
+` şeytan uşak...?!"`
+`"......Battler-sama, bahsettiğiniz bu 19. kişiyi yansıtan taşa baskı yapmanın uygun olacağına inanıyorum.`
+` Battler-sama, siz bu 19. kişiyle hiç karşılaştınız mı?`
+` Bu 19. kişinin var olduğuna dair sizden bir kanıt rica edebilir miyim?"`
+`"Çok safsın.`
+` Elbette, bu hamleyi deneyeceğini biliyordum...!"`
+`"Amanın.`
+` Lütfen karşılık verin."`
+`"Cadılar ve iblisler...`
+` Sizin için bundan daha uygun bir hamle olamaz.`
+` ......Ve bu—"`
+`""Şeytan'ın İspatı"!"`
+`Biz insanlar bir konuda suçlandığımızda, her zaman kanıt gösterilmesini isteyerek karşı saldırıya geçeriz.`
+` Çünkü bu insanların yaptığı bir hamledir.`
+`Ama ben bir cadıyla savaşıyorum.`
+`{n}İnsan olmayan biriyle bir savaştayım!`
+`Ve yalnızca bir cadıya karşı oynanan bir oyunda kullanılabilecek bazı hamleler vardır.`
+`{n}Ucuz hamleler!`
+`Ve "Şeytan'ın İspatı" da işte bu.`
+`{n}Dolayısıyla, kanıt gerekli değildir!`
+`Rokkenjima'da Ushiromiya ailesinin malikanesinden ayrı gizli bir malikane bulunduğunu,`
+` ve orada {f:5:Beatrice} adında bir kadının yaşadığını varsayalım.`
+`Bu varsayımı kanıtlamak için bu malikaneyi bulmalı ve {f:5:Beatrice}'i görmeliyiz.`
+`İnsan dünyasında buna somut delil denir.`
+`Fakat "Şeytan'ın İspatı" ilkesini takip edersek, var olduğuna dair hiçbir kanıt olmasa bile, var olmadığını kanıtlayamazsınız.`
+`Çünkü bir şeyin var olmadığını kanıtlamak imkansızdır.`
+`......Doğru, daha önce bana çok sıkıntı çektiren bu "Şeytan'ın İspatı" ilkesini nihayet kendi avantajıma göre kullanmayı başardım.`
+`Onlar sürekli "Şeytan'ın İspatı" ilkesini kullanarak beni cadının varlığını kabul etmem için zorluyorlardı.`
+`Bunun nedeni, Beato'nun cadıların var olduğu yönündeki iddialarına karşılık olarak,`
+` benim fiziksel olarak "cadıların var olmadığı" yönünde herhangi bir kanıt sunamamış olmamdı.`
+`İşte bu yüzden cadıların var olduğu saçmalığına maruz kaldım ve bu nedenle karşı saldırıya geçemedim.`
+`Ve işte bu yüzden satranç tahtasını hemen şimdi ters çevireceğim!`
+`Eğer cadıların var olmadığını kanıtlayamıyorsam,`
+` bu durumda 19. kişinin var olduğunu öne sürdüğümde bunun da aksi kanıtlanamaz.`
+`Başka bir deyişle, bu esrarengiz metres kendini gizlemekte usta olduğu için, ne kadar aranırsa aransın onu bulamamak son derece doğal olurdu.`
+`Yani, "19. kişi etrafta bulunamadı = 19. kişi yok" diyemezsiniz.`
+`Bu sebeple 19. kişinin varlığını inkâr etmek mümkün değildir.`
+`{n}Beato, varlığının inkâr edilmesini imkansız hale getirmek için "Şeytan'ın İspatı"nı kullandı,`
+` ama bu sefer bu benim silahım oldu.`
+`Bu argümanla paçayı kurtarabilirsek, o zaman 19. kişiyi bir kenara bırakın,`
+` tüm ada bilmediğimiz insanlarla dolu olabilir,`
+` ve saklanan kişi sayısı 10 ya da 100 olsa bile, yine de var olmadıklarını kanıtlayamaz.`
+`Son oyunda ve ondan öncekinde, karşımıza çıkan cinayet sahneleri arasında son derece karmaşık olan ve kurgulanması çok çaba gerektirmiş olması gereken birkaç tane vardı.`
+`Tek bir suçlunun bunların hepsini kurgulamış olabileceğini hayal etmek çok zor.`
+`Ancak, sadece 19. kişi değil de 10 ya da 100 kişi bir yere saklanmış olsaydı, bu hiç de sorun olmazdı.`
+`Hepsi işi paylaşırsa, her işi kısa sürede halledebilirler.`
+`Doğal olarak, böyle büyük bir grubun fark edilmeden malikanenin içinde ve etrafında gizlice dolaşıp dolaşamayacağı konusunda bazı şüpheler olacaktır,`
+` ancak bunların hepsi "Şeytan'ın İspatı" ile çözüme kavuşur.`
+`Çünkü malikanenin içinde 100 kişiyi görmemek ya da fark etmemek onların orada olmadığını kanıtlamaz.`
+`Bunu kendim söylüyor olsam da, bu o kadar aptalca bir argüman ki kusasım geliyor!`
+` Ancak, bir cadıya karşı kullanmak için mükemmel bir hamle olmasını sağlayan da bu kadar pis bir hamle oluşu.`
+`Yani, burada sadece tahmin yürütüyoruz,`
+` ...ama gölgelerde saklanan keçi maskeli yaklaşık 100 şüpheli adamın olduğu düşüncesi......`
+` Böyle bir şey gülünç olmaktan da öte, neredeyse hamamböcekleri gibiler.`
+`Eğer bir tane gördüyseniz, gölgelerde saklanan yüzlercesi var demektir.`
+`"......Aslında, bunun korkunç derecede çarpıtılmış saçma bir argüman olduğunu düşünüyorum.`
+` Eğer rakibim bir insan olsaydı, eminim bana aklımı kaçırmışım gibi kızardı."`
+`"......Ama benim rakibim bir cadı.`
+` Ve sonuçta, bu tür bir rekabetin içindeyiz, öyle değil mi?`
+` Her türlü akıl almaz argümanı kullanarak bunu insan yollarıyla açıklayacağım ve cadıyı inkâr edeceğim!!"`
+`"......Her neyse, bu hamleyle birlikte bana yakın olan 18 kişinin hiçbirinden bir daha şüphe duymak zorunda kalmayacağım.`
+` Geçen sefer yaşadığım yenilgiyi bir daha asla tekrarlamayacağım...!!"`
+`"......Anlıyorum.`
+` Geçen seferki yenilginizden ders çıkarmışsınız.`
+` Bu iyi bir şey.`
+` Üçüncü oyunda oldukça kurnaz olmanız hiç de şaşırtıcı değil."`
+`".........Önce savunmanızı güçlendiriyorsunuz.`
+` Bu gerçekten sağlam bir ilk adım.`
+` Oldukça muhteşem bir hareket olduğunu düşünüyorum."`
+`"Pekâlâ, 19. kişinin olduğunu varsaysak bile,`
+` geriye master anahtar sayısı gibi ne kadar insan ilave edersem edeyim aşamayacağım birkaç numara kalıyor.`
+` ...Yine de, ilk adım olarak şimdilik fena değil."`
+`"Battler-sama, bu 19. kişi olarak bilinen önemli taş, sizin kozunuz.`
+` ......Kanıt isteme hamleme karşılık olarak, "Şeytan'ın İspatı" kullanarak karşılık verdiniz.`
+` ......İyi bir karşılık."`
+`"Leydim yokken kendi başıma hamle yapmam için hiçbir gerekçem olmamasına rağmen,`
+` .........bunun benim de biraz ilgimi çekmeye başladığını fark ettim.`
+` ...Leydim adına bir hamle daha yapmama izin verir miydiniz?"`
+`"......Devam et.`
+` Cadı ya da iblis olmanız umrumda değil, hepinizi yeneceğim!"`
+`""Şeytan'ın İspatı" adında sunduğunuz bu hamle...`
+` Bu biz iblislerin bir özelliğidir, ancak kullanabileceğimiz çeşitli başka hamleler de vardır.`
+` ......"Hempel'in Kuzgunu" adında bir hamle biliyor musunuz?"`
+`"Hempel'in Kuzgunu mu...??`
+` Sen neyden bahsediyorsun?"`
 `"...*cackle*cackle*.`
 ` Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
-`Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.`
-`The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.`
-`"Why, if it isn't Milady.`
-` Good morning."`
-`"I thought you might be doing something interesting while I was away."`
-`"......‘Hempel's Raven’, was it?`
-` What an amusing and nostalgic move.`
-` To think the day would come when it would be introduced to Battler.`
-` It's a classic move to use against the "Devil's Proof"."`
-`"......Ronove, I will make this move.`
-` Do not get in the way of my fun."`
-`"So you've finally shown up, you guffawing witch.`
-` I see you still have that undignified laugh.`
-` ......This guy was talking behind your back just now, telling me about how your laughing lacks class.`
-` Right?"`
-`"I am offended.`
-` Is that true?"`
-`"By no means.`
-` I have only words of the highest heartfelt respect for Milady;`
-` why would I speak such gossip?"`
-`"...I can't believe you can say that so brazenly.`
-` Doesn't look like we'll be getting along well together..."`
+`Tam o anda, ...aah, her duyduğumda sinirlerimi hoplatan o kahkaha etrafta yankılanmaya başladı.`
+`Oda göz kamaştıran altın kelebeklerle doldu ve bu fırtınanın merkezinde Altın Cadı belirdi.`
+`"Bu Leydim değil mi?`
+` Günaydın."`
+`"Ben ortalıkta yokken ilginç bir şeyler yapabileceğini düşünmüştüm."`
+`"......‘Hempel'in Kuzgunu’, demek.`
+` Ne kadar eğlenceli ve nostaljik bir hamle.`
+` Bunu Battler'a göstereceğim gün geldi.`
+` "Şeytan'ın İspatı"na karşı kullanılabilecek tipik bir hamle."`
+`"......Ronove, bu hamleyi yapacağım.`
+` Eğlenceme engel olma."`
+`"Nihayet ortaya çıktın, seni geveze cadı.`
+` Görüyorum ki hâlâ o rezil kahkahayı atıyorsun.`
+` ......Bu adam az önce arkandan konuşup gülüşünün ne kadar nezaketsiz olduğunu söylüyordu.`
+` Değil mi?"`
+`"Ne kadar kaba.`
+` Bu doğru mu?"`
+`"Kesinlikle değil.`
+` Leydim için yalnızca en içten saygı dolu sözler söyleyebilirim;`
+` böyle dedikoduları neden yapayım ki?"`
+`"...Bunu böyle pişkince söyleyebildiğine inanamıyorum.`
+` Pek iyi anlaşamayacağız gibi görünüyor..."`
 `"*cackle*cackle*cackle*.`
-` Well, that is fine.`
-` Let us return to the conversation.`
-` "Hempel's Raven" is used to show proof using the contrapositive."`
-`"......Essentially, it is a move like this:`
-` What must you do to prove that ravens are black?"`
-`"Huh?`
-` What are you talking about??`
-` Prove that ravens are black...`
-` ...Wouldn't you just have to catch the ravens and check to see if they're black?"`
-`"That is right.`
-` You must simply prove that "if it is a raven, it is black".`
-` And do you see that, if you prove that "if a bird is not black, it is not a raven", you would reach the same argument?"`
-`"If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,`
-` then as a result, you can claim that "therefore, birds that are black are ravens".`
-` This is called an argument by the contrapositive.`
-` ...Is that difficult for you?"`
-`"Yeah, no kidding.`
-` ...I have no idea what you're saying."`
-`"Battler‐sama.`
-` What about this example?`
-` Let us say that you have two boxes, and one of them is the winner, with a cookie inside.`
-` Of course, the other one is the loser, and is empty."`
-`For example, let us say that we have two boxes here,`
-` one being the winner with a cookie inside, and the other being the loser, which is empty.`
-`Now, it holds that "if there is a cookie inside, it is the winner",`
-` and at the same time, it also holds that "if it is not the winner, there is no cookie inside".`
-`When such a relationship exists, we call the latter the contrapositive...`
-`When "if A then B" is true, then at the same time, "if not B then not A" is also true.`
-`"...Well, that's obvious.`
-` If the one you picked was the loser, then you would automatically know that the other one was the winner."`
-`"...In other words, if you choose the box at random, whether it's the winner or the loser,`
-` you'll be able to figure out which box has the cookie in it after your first move."`
-`"That is correct.`
-` If the cookie is in the box you open, then the "Devil's Proof" is satisfied.`
-` You can prove directly that "this box is the winner = this box has a cookie in it"."`
-`"However, if the box that you open is empty, then the reverse, "Hempel's Raven", is satisfied.`
-` Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."`
-`"And that means, as long as we accept the premise that there are no more than two boxes,`
-` the contrapositive shows that the other box is automatically the winner."`
-`"......Well, I think I'm starting to see your reasoning.`
-` Only poison can stop poison, and only twisted logic can stop twisted logic."`
-`"...Then what?`
-` How does that overturn my claim that "no doubt there is a 19th human hidden on this island,`
-` so even if all of the 18 people have alibis,`
-` that does not amount to an acceptance of witches"......?"`
-`"Very well.`
-` I will tell you my move.`
-` First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person"."`
+` Peki, sorun değil.`
+` Konuşmamıza geri dönelim.`
+` "Hempel'in Kuzgunu", karşıt argüman kullanarak gerçek ispatı göstermek için kullanılır."`
+`"......Temelde, şöyle bir hamledir:`
+` Kuzgunların siyah olduğunu kanıtlamak için ne yapman gerekir?"`
+`"Ha?`
+` Neyden bahsediyorsun??`
+` Kuzgunların siyah olduğunu kanıtlamak...`
+` ...Kuzgunları yakalayıp siyah olup olmadıklarını kontrol etmek yetmez mi?"`
+`"Bu doğru.`
+` Kısaca, "kuzgun = siyah" ifadesini kanıtlaman gerekir.`
+` Peki, "siyah olmayan kuşlar = kuzgun değildir" ifadesini kanıtlayacak olursan da aynı sonuca ulaşacağını düşünüyor musun?"`
+`"Dünyanın dört bir yanına gidip kuzgun olmayan tüm kuşları inceler ve hiçbirinin siyah olmadığını kanıtlarsan,`
+` o zaman sonuç olarak, "öyleyse siyah olan kuşlar kuzgundur" iddiasında bulunabilirsin.`
+` Buna karşıt argüman denir.`
+` ...Bu senin için zor mu?"`
+`"Evet, gerçekten.`
+` ...Ne dediğiniz hakkında hiçbir fikrim yok."`
+`"Battler-sama.`
+` Peki ya bu örneğe ne dersiniz?`
+` İki kutunuz olduğunu ve bunlardan birinin içinde kurabiye olan bir ödül olduğunu varsayalım.`
+` Tabii ki diğeri yanlış olan ve boş."`
+`Örneğin, diyelim ki burada iki kutumuz var,`
+` birinin içinde kurabiye var ve kazandığın anlamına geliyor...diğeri ise boş ve kaybettiğin anlamına geliyor.`
+`Bu durumda, "içinde kurabiye var = kazandın",`
+` ve aynı zamanda, "kaybettin = içinde kurabiye yok" anlamına gelir.`
+`Böyle bir bağlantı söz konusu olduğunda, ikincisine karşıt argüman denilir...`
+`Şayet "A varsa B de vardır" ifadesi doğruysa, "B yoksa A da yoktur" ifadesi de doğrudur.`
+`"...Bu apaçık ortada.`
+` Eğer seçtiğin yanlış olansa, otomatik olarak diğerinin kazanan olduğunu bilirsin."`
+`"...Başka bir deyişle, kutuyu rastgele seçersen, ister doğru ister yanlış olsun,`
+` ilk hamleden sonra hangi kutuda kurabiye olduğunu çözebilirsin."`
+`"Doğru.`
+` Eğer kurabiye açtığın kutudaysa, o zaman "Şeytan'ın İspatı" yerine getirilmiş demektir.`
+` Doğrudan "bu kutu doğru olan = bu kutunun içinde kurabiye var" şeklinde kanıtlayabilirsin."`
+`"Ancak, açtığın kutu boşsa, o zaman bunun tersi olan "Hempel'in Kuzgunu" sağlanır.`
+` Çünkü o zaman, "bu kutunun içinde kurabiye yok = bu kutu doğru olan değil" geçerli olur."`
+`"Bu da, ikiden fazla kutu olmadığı varsayımını kabul ettiğimiz sürece,`
+` karşıt argüman, diğer kutunun otomatik olarak doğru olan olduğunu ortaya koyar."`
+`"......Pekâlâ, sanırım mantığınızı anlamaya başlıyorum.`
+` Sadece bir zehir bir zehri durdurabilir ve sadece çarpık bir mantık çarpık bir mantığa karşı koyabilir."`
+`"...O zaman ne?`
+` Bu benim "bu adada gizlenmiş bir 19. kişinin olduğuna şüphe yok,`
+` dolayısıyla 18 kişinin hepsinin mazereti olsa bile,`
+` bu cadıların olduğunu anlamına gelmez" iddiamı nasıl geçersiz kılıyor......?"`
+`"Pekâlâ.`
+` Sana hamlemi anlatacağım.`
+` Öncelikle, "suçlu 18 kişiden biri değil = suçlu 19. kişi" iddiasını kullanıyorsun."`
 `"*cackle*cackle*!`
-` ...So if you use the contrapositive, it ends up like this.`
-` In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!"`
-`"Whaah?!`
-` What the, what does that mean?!"`
-`"All I have done is turn your move on its head.`
-` It shouldn't be that difficult to understand.`
-` Ronove, explain.`
-` It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand."`
-`"Then forgive my presumption.`
-` Allow me to explain using my earlier example once more."`
-`Allow me to repeat once more my earlier story,`
-` about two treasure chests, one of which has a cookie in it.`
-`In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".`
-`So the cookie would represent the "culprit".`
-`Battler‐sama, you open the 18 box.`
-`{n}Because the cookie is not there,`
-` you have proven from the opposite direction that "therefore, the cookie is in the 19 box".`
-`In that case, if we reverse things further, we can also say the following.`
-`Namely, if it was first shown that the 19 box was empty,`
-` it would prove in just the same way that "the cookie is in the 18 box".`
-`Battler‐sama, this move you played in order to avoid having to doubt any of the 18,`
-` has in fact been used against you to launch the "18 person attack"...!"`
-`"......Huh,`
-` ......what did you say........."`
+` ...Yani karşıt argümanı kullanırsak, ortaya şöyle bir sonuç çıkar.`
+` Kısaca, "suçlu 19. kişi değil = suçlu 18 kişiden biri"!"`
+`"Haaah?!`
+` Bu da ne demek oluyor?!"`
+`"Tek yaptığım senin hamleni tersine çevirmekti.`
+` Anlaması bu kadar zor olmamalı.`
+` Ronove, açıkla.`
+` Daha önce kullandığın kutudaki kurabiye benzetmesi Battler'ın anlamasını kolaylaştıracak gibi görünüyor."`
+`"O halde küstahlığımı bağışlayın.`
+` Az önceki örneğimi kullanarak bir kez daha açıklamama izin verin."`
+`Birinin içinde kurabiye olan,`
+` iki kutuyla ilgili hikayeyi bir kez daha tekrarlayayım.`
+`Bu durumda kutulardan biri "18 kişiyi", diğer kutu ise "19. kişiyi" temsil etmektedir.`
+`Yani kurabiye "suçluyu" temsil ediyor.`
+`Battler-sama, 18 kişiyi temsil eden kutuyu açtığınızı varsayalım.`
+`{n}Kurabiye orada olmadığı için,`
+` ters açıdan "bu nedenle kurabiyenin 19. kişi kutusunda" olduğunu kanıtlamış oldunuz.`
+`Bu durumda, işleri daha da tersine çevirirsek, şunu da söyleyebiliriz.`
+`Yani, ilk olarak 19. kişi kutusunun boş olduğu görülseydi,`
+` bu sefer de "kurabiyenin 18 kişi kutusunda olduğu" kanıtlanmış olacaktı.`
+`Battler-sama, 18 kişinin herhangi birinden şüphe duymamak için oynadığınız bu hamle,`
+` aslında "18 kişi saldırısını" başlatmak için size karşı kullanıldı...!"`
+`"......Hah,`
+` ......ne dedin........."`
 `"*cackle*cackle*cackle*cackle*!`
-` If I go first and prove that the inside of the 19 box is empty,`
-` automatically,`
-` you will be forced to accept that the cookie is in the 18 box.`
-` All you have done is say this the other way around, you see?"`
-`"So, ......that move that I was so confident in, ...was actually a double‐edged sword?"`
-`"That's right.`
-` Your move to explain everything with a 19th person carries the risk that, if it is thwarted,`
-` you will be forced to accept that you can only explain things by using the 18."`
-`I see...`
-` "Hempel's Raven".`
-`{n}......So this is a countering technique?!`
-`...Wait, if I really think about it, this countering technique is far more disadvantageous for me than for her.`
-`The problem is in thinking about it like a cookie.`
-`{n}If I imagine that just one of the treasure chests is a "losing" chest with a bomb in it, I can begin to understand it quite well.`
-`And if I think of it not as two treasure chests,`
-` but as 18, one for each person, plus one more for the 19th person,`
-` for a total of 19 boxes, it gets even easier to understand.`
-`First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.`
-`Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "Devil's Proof",`
-` and created the 19th box so that I could throw the bomb in there.`
-` ......That much was alright.`
-`But Beato had struck back like this:`
-`If, then, the 19th box was empty inside,`
-` that would automatically mean that the bomb was set in one of the other 18 boxes.`
-`If I could examine the contents of each of the 18's boxes,`
-` and show that the bomb was not in any one of those boxes,`
-` I would be able to safely show that the 18 people were innocent.`
-`If that was possible, I would be feeling confident!`
-`However, in reality, that's as close as you can get to impossible.`
-`The police wouldn't come here in this typhoon.`
-`{n}There would be no scientific investigations, no autopsies, no nothing.`
-`{n}In short, I can't show anything decisively!`
-`It's impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.`
-`In that case, I have to confirm their innocence both personally and perfectly.`
-`Like staying with someone the whole time, never letting them out of my sight for a second.`
-`If I do that, I can probably be sure of that person's innocence,`
-` and that the bomb is not in that box.`
-`...However, in reality, something like that is impossible!`
-`{n}In other words, I have to expend an incredible effort just to check the contents of one box.`
-`And there are 18 of them!`
-` In other words, unless I bind all 18 of them in chains and watch over them,`
-` it's impossible to prove that all of them have empty boxes.`
-`However, Beato only has to open one box, the 19th box,`
-` and show that it is empty, to prove that the bomb is in one of the other 18 boxes.`
-` (Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!)`
-`I have 18 times more work to do to explain my pet theory than Beato does for hers......`
-`"Just as you know from the "Devil's Proof",`
-` there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."`
-`"However, "Hempel's Raven" turns that problem around, and makes it possible to prove things easily!"`
-`"By using "Hempel's Raven", various reckless arguments become possible to prove."`
-`"......For example, let us say that I make the proposition "All humans except me are foolish".`
-` Normally, in order to prove this, I would have to examine all of humanity except myself and show that they are all foolish."`
-`"...However, in reality, it would be impossible to investigate billions of people.`
-` It is exactly the same kind of effort you would need to open all 18 boxes."`
+` Şayet önce ben gider ve 19. kişi kutusunun içinin boş olduğunu kanıtlarsam,`
+` otomatik olarak,`
+` kurabiyenin 18 kişi kutusunda olduğunu kabul etmek zorunda kalacaksın.`
+` Tek yaptığın bunu tersinden söylemek, anlıyor musun?"`
+`"Yani, ......kendime çok güvendiğim bu hamle, ......aslında iki ucu keskin bir kılıç mıydı?"`
+`"Doğru.`
+` Tüm olanları 19. kişi ile açıklama hamlesi, eğer engellenirse,`
+` bazı şeyleri ancak 18 kişiyi kullanarak açıklayabileceğini kabul etmek zorunda kalma riskini taşır."`
+`Anlıyorum.`
+` "Hempel'in Kuzgunu".`
+`{n}......Yani bu bir karşı saldırı tekniği mi?!`
+`...Bekle, eğer gerçekten biraz düşünecek olursam, bu karşı saldırı tekniği ona kıyasla benim için çok daha dezavantajlı.`
+`Sorun bunu bir kurabiye gibi düşünmekte.`
+`{n}Kutulardan sadece birinin içinde bomba olan bir "game over" kutusu olduğunu hayal edersem, bunu daha iyi anlamaya başlayabilirim.`
+`Ve eğer bunu iki kutu olarak değil de,`
+` her kişi için bir tane olmak üzere 18 ve 19. kişi için bir tane daha olmak üzere toplam 19 kutu olarak düşünürsem,`
+` anlamak daha da kolaylaşıyor.`
+`Her şeyden önce, insan suçlu teorisinin dayanaklarından biri, bombanın kesinlikle o kutulardan birinde olacağıydı.`
+`Bombayı 18 kutudan herhangi birine yerleştirmek istemediğim için "Şeytan'ın İspatı"nı kullanarak 19'uncu kutuyu yarattım,`
+` ve böylece bombayı oraya atabildim.`
+` ......Buraya kadar tamam.`
+`Ama Beato bu şekilde karşılık vermişti:`
+`Eğer 19. kutunun içi boş çıksaydı,`
+` bu otomatik olarak bombanın diğer 18 kutudan birine yerleştirildiği anlamına gelirdi.`
+`Eğer 18 kutunun her birinin içeriğini inceleyebilseydim,`
+` ve bombanın bu kutuların hiçbirinde olmadığını gösterebilseydim,`
+` 18 kişinin masum olduğunu rahatlıkla gösterebilirdim.`
+`Eğer bu mümkün olsaydı, kendime güveniyor olurdum!`
+`Ancak, gerçekte, bu imkansıza en yakın şey.`
+`Bu tayfunda polis buraya gelmez.`
+`{n}Ne soruşturma, ne de otopsi, hiçbir şey olamaz.`
+`{n}Kısacası, kesin bir şey gösteremiyorum!`
+`Benim için 18 kişinin her birinin sunduğu mazeretlere inanmaktan başka bir kanıt bulmak imkansız.`
+`Bu da onların masumiyetini bizzat kanıtlamam ve bunu mükemmel bir şekilde yapmam gerektiği anlamına geliyor.`
+`Birinin yanında sürekli kalmak, onu bir saniye bile gözümün önünden ayırmamak gibi.`
+`Bunu yaparsam, muhtemelen o kişinin masum olduğundan,`
+` ve bombanın o kutuda olmadığından emin olabilirim.`
+`...Ancak, gerçekte böyle bir şey mümkün değil!`
+`{n}Başka bir deyişle, sadece bir kutunun içeriğini kontrol etmek için bile inanılmaz bir çaba sarf etmem gerekiyor.`
+`Ve 18 kutu var!`
+` Yani, 18'ini de zincire vurup gözetim altında tutmadığım sürece,`
+` tamamının boş kutulara sahip olduğunu kanıtlamam imkansız.`
+`Ancak Beato'nun bombanın diğer 18 kutudan birinde olduğunu kanıtlamak için sadece bir kutuyu,`
+` 19. kutuyu açması ve boş olduğunu göstermesi gerekiyor.`
+` (Üstelik 18 kutunun {i:hangisinde} bomba olduğunu göstermesine de gerek yok!)`
+`Kendi amatör teorimi savunmak için Beato'nun kendi teorisi için yaptığından 18 kat daha fazla çalışmam gerekiyor......`
+`"Tıpkı "Şeytan'ın İspatı"ndan bildiğin gibi,`
+` bu dünyada bir şeyi çürütmenin muazzam miktarda çaba gerektirdiği ve pratikte imkansız olduğu pek çok durum mevcut."`
+`"Ancak "Hempel'in Kuzgunu" bu problemi tersine çeviriyor ve bir şeyleri kolayca kanıtlamayı mümkün kılıyor!"`
+`""Hempel'in Kuzgunu" kullanılarak, akıl almaz çeşitli argümanların kanıtlanması mümkün hale gelebilmekte."`
+`"......Örneğin, "Benim dışımdaki tüm insanlar aptaldır" önermesinde bulunduğumu varsayalım.`
+` Normal şartlarda bunu kanıtlayabilmek için kendim dışındaki tüm insanları incelemem ve tümünün aptal olduğunu ispat etmem gerekirdi."`
+`"...Ancak, milyarlarca insanı incelemek gerçekten imkansız olurdu.`
+` Bu, 18 kutunun tamamını açmak için ihtiyaç duyacağınız çabanın aynısı olacaktır."`
 `"*cackle*cackle*!`
-` However, by using "Hempel's Raven", the contrapositive of that proposition would change it as follows."`
-`"Essentially, take this "All humans except me are foolish", and to use your style of phrase,`
-` flip over the chessboard, and you merely need prove that "not foolish = me".`
-` ......And what do you think that means?"`
+` Fakat, "Hempel'in Kuzgunu" kullanıldığında, bu önermenin karşıt argümanı şu şekilde olacaktır."`
+`"Senin tabirinle, satranç tahtasını "Ben hariç tüm insanlar = aptal" iddiası etrafında çevirirsen,`
+` "aptal olmayan = ben" iddiasını kanıtlamaktan fazlasını yapman gerekmez.`
+` ......Ve sence bu ne anlama geliyor?"`
 `"*cackle*cackle*!`
-` As soon as I know the fact that "I am wise",`
-` I finish proving in an instant that every one of the billions of people in the human race is foolish.`
-` In less than a second, I can finish proving that the entire human race is more foolish than me!!"`
-`"It's the strongest and fastest QED in the world.`
-` This...`
-`is "Hempel's Raven"!"`
-`"Wha‐.........what a ridiculous argument.........!!!"`
-`"It is a very, very convenient move.`
-` Not only demons, but gods also use it.`
-` When you propose "blessed = God's servant",`
-` the contrapositive is "if a human is not a servant of God, then he must not be blessed"."`
-`"So in order for servants of God to prove that they are granted fortune by their divine protection,`
-` they only have to prove that those who don't receive that divine protection suffer misfortune."`
-`".........Therefore,`
-` by bringing misfortune down upon those people who don't believe in their own god, they prove their own blessedness."`
-`"It takes an enormous cost to give humans happiness.`
-` ...However, the necessary cost to bring humans misfortune is much cheaper."`
+` "Bilge olduğum" gerçeğini öğrendiğim anda,`
+` insan ırkındaki milyarlarca insanın her birinin aptal olduğunu bir anda kanıtlayabileceğim.`
+` Bir saniyeden daha kısa bir sürede, tüm insan ırkının benden daha aptal olduğunu kanıtlayabilirim!!"`
+`"Dünyanın en güçlü ve en hızlı QED'si.`
+` İşte bu...`
+`"Hempel'in Kuzgunu"!"`
+`"N-.........Ne kadar saçma bir argüman.........!!!"`
+`"Bu çok, çok kullanışlı bir hamle.`
+` İblisler kadar tanrılar da bunu kullanır.`
+` "Kutsanmış = Tanrı'nın kulu" ifadesini öne sürdüğünüzde,`
+` bunun karşıtı "Tanrı'nın kulu olmayan bir insan = kutsanmamış" olacaktır."`
+`"Dolayısıyla, tanrılar kullarının ilahi korumayla kutsandıklarını kanıtlamak için,`
+` yalnızca bu korumadan yoksun olan insanların başına uğursuzluk getirmeleri gerekir."`
+`".........Böylelikle,`
+` kendilerine inanmayanların başına uğursuzluk indirerek kutsallıklarını kanıtlamış olurlar."`
+`"İnsanlara mutluluk bahşetmek için muazzam bedeller gerekir.`
+` ...Ancak, insanları felakete sürüklemek için gereken bedel çok daha düşüktür."`
 `"*cackle*cackle*cackle*cackle*cackle*.`
-` So by using "Hempel's Raven", gods can actually give believers the joy of divine protection at the lowest cost."`
-`"Y‐......you demon.`
-` It's a demon's argument...`
-` ...That's messed up...!!!"`
-`"It seems that we've gone off‐topic.`
-` Let us return to it."`
-`"I have finished describing the move for my counterattack.`
-` ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn't exist" is:`
-` "In that case, if I can prove that the culprit is not some 19th person,`
-` do we agree that the culprit must either be one of the 18, or a witch?".`
-` I await your answer."`
-`For a while, I just stood there, shocked, completely forgetting to close my mouth...`
-`Just when I'd thought that I'd got my own back on them by using their favorite move against them,`
-` the counterattack to that had been this reckless argument that I could not even have begun to imagine...!`
-`Was it really...impossible...?!`
-`To continue denying the witch on an island with no more than 18 people,`
-` and yet still believe in the innocence of those 18 people...`
-` .........Was that just a delusion?!`
-` Was I just trying to escape reality?!`
-`Not yet...`
-` ......Don't give up this struggle yet.`
-`Who cares about "Whoever's Raven"?`
-`{n}They're just trying to speak in riddles by bringing up some weird bits of trivia...`
-`I had used the "Devil's Proof".`
-`{n}Don't feel doubt in something once you've used it.`
-`{n}Believe in the spear you've lunged forward with.`
-`Apply even more force......and gouge it in......!`
-`"......The game is still in the opening.`
-` Do you already intend to spend this long thinking?"`
+` Yani tanrılar "Hempel'in Kuzgunu"nu kullanarak inananlara en düşük bedelle ilahi korumanın mutluluğunu yaşatabilirler."`
+`"İ-......İblis.`
+` Bu bir iblisin argümanı...`
+` ...Bu saçmalık...!!!"`
+`"Görünüşe göre konunun dışına çıktık.`
+` Tekrardan konuya dönelim."`
+`"Karşı saldırı hamlemi açıklamayı bitirdim.`
+` ......Senin "Suçlu 19. bir kişidir; bu nedenle 18 kişi masumdur ve cadı diye bir şey yoktur" argümanına karşılığım:`
+` "Bu durumda, eğer suçlunun 19. bir kişi olmadığını kanıtlayabilirsem,`
+` suçlunun ya 18 kişiden biri ya da bir cadı olduğu konusunda hemfikir olacak mıyız?".`
+` Cevabını bekliyorum."`
+`Bir süre öylece kalakaldım, ağzımı kapatmayı unutmuş, şok olmuş bir hâlde...`
+`Tam da onların en sevdiği hareketi onlara karşı kullanarak kendi sırtımı sağlama aldığımı düşünürken,`
+` karşı saldırıda hayal bile edemeyeceğim bu pervasız argümanla karşılaşmıştım...!`
+`Bu gerçekten de...imkansız mıydı...?!`
+`Sadece 18 kişinin yaşadığı bir adada cadıyı inkâr etmeye devam etmek,`
+` ve yine de o 18 kişinin masum olduğuna inanmak...`
+` .........Bu sadece bir hayal miydi?!`
+` Gerçeklerden mi kaçmaya çalışıyordum?!`
+`Henüz değil...`
+` ......Bu mücadeleden henüz vazgeçme.`
+`"Bilmem kimin Kuzgun'u" kimin umrunda?`
+`{n}Sadece bazı garip ıvır zıvırları dile getirerek bilmece gibi konuşmaya çalışıyorlar...`
+`"Şeytan'ın İspatı"nı kullanmıştım.`
+`{n}Bir şeyi kullandıktan sonra ondan şüphe duyma.`
+`{n}İleriye fırlattığın mızrağa inan.`
+`Ve daha da fazla güç uygulayıp......iyice sapla......!`
+`"......Oyun hâlâ açılış aşamasında.`
+` Şimdiden bu kadar uzun süre düşünmeye niyetli misin?"`
 `"........................`
 ` Ah,`
-` ......wait a sec,`
-` I want to be sure."`
-`"While yes, I did use the phrasing of a "19th person" to make it easy to understand,`
-` if I can use the "Devil's Proof" to raise the number of people above 18,`
-` then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred."`
-`"{i:Always one more than you assume}.`
-` ...Understand?"`
-`She had returned my twisted logic with something even more twisted.`
-`{n}So the only thing that could counter that would be even crazier twisted logic...!`
-`"Hmm, I see.`
-` .........Even if I somehow prove an alibi for the 19th person,`
-` as soon as I do, you will think up a 20th person, and claim that they are the culprit.`
-` By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity."`
-`"......I see, I see, *cackle*cackle*!`
-` Just like a demon king summoning a plague of locusts.`
-` I wouldn't expect anything less from Kinzo's grandchild.`
-` It looks like you have been gifted with a talent in summoning."`
-`"......In short!`
-` It is impossible to continually prove an alibi for the "X" existing outside of the first 18!`
-` ......How do you like that, Beato...?!`
-` Now that I know we're having a battle with twisted logic, I won't lose!"`
+` ......bir saniye,`
+` Emin olmak istiyorum."`
+`"Evet, anlaşılmasını kolaylaştırmak için "19. kişi" ifadesini kullandım,`
+` ancak "Şeytan'ın İspatı"nı kullanarak kişi sayısını 18'in üzerine çıkarabilirsem,`
+` o zaman 10 kişi mi, 100 kişi mi veya belirsiz sayıda ne kadar kişi olduğunu bilmemizin hiçbir yolu kalmaz."`
+`"{i:Her zaman sandığından bir fazla}.`
+` ...Anladın mı?"`
+`Benim çarpık mantığıma daha da çarpık bir şeyle karşılık vermişti.`
+`{n}Yani buna karşı koyabilecek tek şey daha da çılgınca bir çarpık mantık olacaktı...!`
+`"Hmm, anlıyorum.`
+` .........Bir şekilde 19. kişi için bir mazeret bulsam bile,`
+` ben bunu yapar yapmaz, sen de 20. bir kişi uyduracak ve suçlunun o olduğunu iddia edeceksin.`
+` Bunu sonsuza kadar tekrarlayarak, sonsuza kadar onların mazeretlerini aramaya devam etmemi sağlayacaksın."`
+`"......Anlıyorum, anlıyorum, *cackle*cackle*!`
+` Tıpkı bir iblis kralın çekirge salgını başlatması gibi.`
+` Kinzo'nun torunundan daha azını beklemezdim.`
+` Görünüşe göre ruh çağırma konusunda doğuştan bir yeteneğin var."`
+`"......Kısaca!`
+` İlk 18'in dışında varolan "X" için sürekli olarak bir mazeret kanıtlamak imkansızdır!`
+` ......Bunu nasıl buldun, Beato...?!`
+` Artık çarpık mantıkla savaştığımızı bildiğime göre, kaybetmeyeceğim!"`
 `"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
-` How foolish...`
-` Who do you think I am?`
-` I am the Endless Witch, the Infinite Witch!`
-` For you to challenge me at infinity is absurd.`
-` Having control over infinity means also that I am able to kill infinity."`
-`"......When your 19th person folds, you will call a 20th,`
-` and when your 20th person folds, you will call a 21st,`
-` and when your 21st person folds and your 22nd person folds,`
-` you will call a 23rd, a 34th, a 64358223579673204th,`
-` you think you can trifle with me for all eternity?!"`
-`"I laugh at "infinite regress",`
-` the {i:infinite} doesn't affect me!!"`
-`"Hoh, well then, how will you kill my "infinity"? Just try and show me!!"`
+` Ne kadar aptalca...`
+` Benim kim olduğumu sanıyorsun?`
+` Ben Sonsuz Cadı'yım!`
+` Sonsuzlukta bana meydan okuman çok gülünç.`
+` Sonsuzluk üzerinde kontrol sahibi olmam, aynı zamanda sonsuzluğu öldürebileceğim anlamına da geliyor."`
+`"......Ben 19. kişiyi ortadan kaldırdığımda, 20. kişiyi,`
+` 20. kişiyi kaldırdığımda, 21. kişiyi,`
+` 21. kişiyi ve 22. kişiyi kaldırdığımda,`
+` 23., 34., 64358223579673204. kişiyi ortaya atacaksın,`
+` Benimle sonsuza dek uğraşabileceğini mi sanıyorsun?!"`
+`""Sonsuz gerileme"ye gülüyorum,`
+` {i:sonsuzluk} beni etkilemez!!"`
+`"Hoh, peki o zaman, benim "sonsuzluğumu" nasıl öldüreceksin? Sadece dene ve bana göster!!"`
 `"`
-`{p:1:I have the power to speak the truth in red}!!!"`
+`{p:1:Kırmızıyla gerçeği söyleme gücüne sahibim}!!!"`
 `".....................!!`
-` .........Here it comes............"`
-`"When I speak in red, it contains absolutely no illusions.`
-` If I say once in red that there are no more than 100 people on this island,`
-` you will no longer be permitted to create a 101st person."`
+` .........İşte geliyor............"`
+`"Kırmızıyla konuştuğumda, kesinlikle hiçbir yanılsama içermez.`
+` Eğer bir kez kırmızıyla bu adada 100'den fazla insan olmadığını söylersem,`
+` artık 101. kişiyi yaratma iznin olmayacak."`
 `"*cackle*cackle*!`
-` Come now, Battlerrr.`
-` What truth shall I tell in red this time?`
-` Where shall I strike for the kill and force you into hopelessness?`
+` Hadi, Battlerrr.`
+` Bu sefer kırmızıyla hangi gerçeği söyleyeyim?`
+` Seni öldürmek ve umutsuzluğa sürüklemek için nereye saldırmalıyım?`
 ` *cackle*cackle*cackle*!`
-` Come, show me your usual frightened face......"`
+` Hadi, bana her zamanki korkmuş yüzünü göster......"`
 `".............................."`
-`"..................What?"`
+`"..................Ne?"`
 `"......Ihihihihi."`
-`"...Why...are you laughing...?"`
-`I wonder what kind of creepy look I had on my face as I laughed right then.`
-`{n}That red sure is scary.`
-` ...Every time it jumps out, I'm driven into the depths of hopelessness.`
-`But......I had already realized it.`
-`{n}...There was no need to be unnecessarily afraid of the red.`
-`".........You've brought out your secret weapon again.`
-` So...?`
-` What and how will the great {f:5:Beatrice}‐sama speak in red this time?"`
+`"...Neden...gülüyorsun...?"`
+`O anda gülerken yüzümde ne tür ürkütücü bir ifade olduğunu merak ediyorum.`
+`{n}Bu kırmızı renk kesinlikle korkutucu.`
+` ...Ne zaman ortaya atılsa, umutsuzluğun derinliklerine sürükleniyorum.`
+`Ama......çoktan fark etmiştim.`
+`{n}...Kırmızıdan anlamsız yere korkmaya gerek yoktu.`
+`".........Gizli silahını yine ortaya çıkardın.`
+` Yani...?`
+` Büyük {f:5:Beatrice}-sama bu kez kırmızıyla ne ve nasıl konuşacak?"`
 `"......Hoh.`
-` What do you mean by this?`
-` Suddenly looking so relaxed..."`
-`"Sorry, but I've been waiting for you to take out that blood‐red treasured sword.`
-` ......Let's see, what will you proclaim in red this time?"`
-`"You aren't going to say "the culprit was one of the 18", are you?`
-` Let me warn you, that would be self‐destruction, remember?`
-` That would be the same as throwing away your own witch theory yourself.`
-` A complete resignation."`
-`That's right.`
-` The red isn't always necessarily to Beato's advantage.`
-` On the contrary, if she used it the wrong way, it's dangerous enough that she could bring about her own death.`
-` If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.`
-`"Of course,`
-` it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.`
-` ......No matter who the culprit actually was, it would surely bring me some tough emotions..."`
-`"But before that, it would mean your defeat!`
-` Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!`
-` If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.`
-` However, this battle will end in my victory!!"`
-`{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.`
-` The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.`
-`They had cut me down to size many times now, rending in two any supports my heart had to lean on.`
-`However, if she used it carelessly, then I could also find a little information about the truth.`
-`...In the last game, especially during the chapel's locked room trick, I had taken advantage of that,`
-` and had once closed her in almost completely.`
-`But she was also pretty sly.`
-` She had learned from experience, and since then, had started using discretion in the timing of the red...`
-`This feeling of tension was almost literally like a battle with real swords.`
-`...This was a battle of high intelligence.`
-`{n}......No, not of intelligence.`
-`{n}It really was twisted logic.`
-`This was the world's craziest and worst battle of twisted logic...!!`
-`"So, now it's your move.`
-` ......That's right.`
-` To use your "Hempel's Raven",`
-` first, you'll have to confirm in red how many humans there are other than the 18."`
-`"And after that, if you proclaim in red that none of the people in that group are the culprit,`
-` ......that's right, that might be a fatal wound to me."`
-`".........I'm surprised that you no longer have even an atom of fear for that red which you feared so much...`
-` You're quite sturdy."`
-`"Unsheathe it.`
-` Your treasured blade.`
-` ......A single perfect swing, and you might be able to break me this time, who knows...?"`
+` Bununla ne demek istiyorsun?`
+` Birdenbire çok rahatlamış görünüyorsun..."`
+`"Üzgünüm ama ben de senin o kan kırmızısı kıymetli kılıcı çıkarmanı bekliyordum.`
+` ......Şimdi, bakalım bu sefer kırmızı ile ne ilan edeceksin?"`
+`""Suçlu 18 kişiden biri" demeyeceksin, değil mi?`
+` Dikkatli ol, çünkü bu senin için kendini yok etmek olur.`
+` Bu, kendi cadı teorini bizzat kendinin çöpe atması gibi olur.`
+` Tam bir teslimiyet."`
+`Bu doğru.`
+` Kırmızı her zaman Beato'nun avantajına olmayabilir.`
+` Aksine, eğer yanlış bir şekilde kullanırsa, kendi ölümüne neden olabilecek kadar tehlikeli.`
+` Eğer dikkatsizce kullanır ve sonunda kendini inkâr edecek bir şey söylerse, bu tamamen kendi kendini yok etmekle aynı şey olur.`
+`"Tabii ki,`
+` eğer bana 18 kişiden birinin suçlu olduğunu kırmızıyla söyleseydin, bu benim için üzücü ve kabullenmesi zor bir durum olurdu.`
+` ......Suçlu gerçekte kim olursa olsun, bu bana kesinlikle zorlu duygular yaşatırdı..."`
+`"Ama ondan önce, bu senin yenilgin anlamına gelir!`
+` Kırmızıyla suçlunun bir insan olduğunu söylemek, teslimiyet ilan etmekle eşdeğerdir!!`
+` Eğer benimle aynı anda ölmeyi göze alacak kadar kötü bir darbe vurmak istiyorsan, bence bu oldukça ilginç bir hareket.`
+` Ancak, bu savaş benim zaferimle sonuçlanacak!!"`
+`{f:5:Beatrice}'in kırmızısı gerçekten de onun gizli silahı, kıymetli kılıcıydı.`
+` Kırmızıyla söylediği şeyler gerçek olarak yerini alır ve hiçbir kanıt ya da karşı argüman onları değiştiremezdi.`
+`Şimdiye kadar birçok kez beni parçalara ayırmış, kalbimin dayandığı tüm destekleri ikiye bölmüştü.`
+`Ancak eğer onu dikkatsizce kullanırsa, o zaman gerçek hakkında küçük bir bilgi de bulabilirdim.`
+`...Önceki oyunda, özellikle kilisenin kilitli oda numarası sırasında, bundan yararlanmış,`
+` ve bir keresinde onu neredeyse tamamen köşeye sıkıştırmıştım.`
+`Ama aynı zamanda oldukça kurnazdı.`
+` Yaşadıklarından ders çıkarmış ve o zamandan beri kırmızının zamanlamasında ihtiyatlı davranmaya başlamıştı...`
+`Bu gergin hissiyat neredeyse tam anlamıyla gerçek kılıçlarla yapılan bir savaş gibiydi.`
+`...Bu bir yüksek zeka savaşıydı.`
+`{n}......Hayır, zeka değil.`
+`{n}Bu gerçekten çarpık bir mantıktı.`
+`Bu dünyanın en çılgın ve en berbat çarpık mantık savaşıydı...!!`
+`"Hadi, şimdi sıra sende.`
+` ......Doğru.`
+` Şu "Hempel'in Kuzgunu"nu kullanabilmek için,`
+` öncelikle, 18 kişiden başka kaç insan olduğunu kırmızıyla doğrulaman gerekecek."`
+`"Ve bundan sonra, o gruptaki hiçbir insanın suçlu olmadığını kırmızıyla belirtirsen,`
+` ......bu doğru, bu benim için ölümcül bir yara olabilir."`
+`".........O çok korktuğun kırmızıdan artık bir nebze bile korkmamana şaşırdım...`
+` Oldukça sağlamsın."`
+`"Çıkarmayı dene.`
+` Şu kıymetli kılıç kozunu.`
+` ......Tek bir mükemmel vuruşla belki bu sefer beni alt edebilirsin, kim bilir...?"`
 `"......*cackle*cackle*cackle*.`
-` ...Interesting.`
-` I wouldn't have it any other way..."`
-`Agitate her.`
-` Provoke her.`
-`{n}Drive her into a corner to make her speak in red...`
-`Of course her red has always cut right through my only threads of hope.`
-` But......don't be afraid of that.`
-`On this island overcome with falsehoods and illusions, the only thing I can trust...`
-`is the information that she speaks in red.`
-`It is my only way across the chasm of Hell.`
-` Just a single tightrope.`
-`Her merciless blood‐red blade is the only way I can survive.`
-`...This isn't just walking on a tightrope, it's literally like walking on the edge of a blade...`
-`Of course I'm afraid.`
-` In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.`
-`But I didn't want to search for the culprit amid the 18.`
-`...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.`
-` Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.`
-`......But that's alright.`
-`{n}Let her hit me.`
-` Let her attack.`
-` No problem...`
-`Someone said it once in an old sword‐fighting movie.`
-`{n}That "a good fortress has one, and only one, intentionally weak point".`
-`The enemy would gather there.`
-` They would be lured there.`
-`{n}And that would be where the actual battle took place.`
-`...As long as I understand my weak points,`
-` and as long as she wants to attack those weak points,`
-` ......it's as if I've induced her to attack there...`
-`Carefully judge the distance from your enemy, ...and retreat step by step.`
-` Make them draw their sword first.`
-`The more she recklessly flourishes that red, the more chances I'll have to strike back.`
-`Don't be afraid of the red.`
-`{n}Keep the pressure on, so that she is forced to refute with the red......!`
-`No matter how oppressively she speaks in red,`
-` ......yes, that red itself is the same as fresh blood spurting from her wounds.`
-`"Come on.`
-` ...What's wrong?`
-` ......First of all, why don't you tell me in red how many people are on this island total?`
-` If you don't, your raven can't cut me up......!"`
+` ...İlginç.`
+` Başka türlüsünü istemezdim."`
+`Onu sinir et.`
+` Onu kışkırt.`
+`{n}Kırmızıyla konuşmasını sağlamak için onu köşeye sıkıştır...`
+`Elbette onun kırmızısı her zaman benim yegane umutlarımı kesip attı.`
+` Ama......bundan korkma.`
+`Yalanlar ve illüzyonlarla dolu bu adada güvenebileceğim tek şey...`
+`onun kırmızıyla konuştuğu bilgidir.`
+`Cehennem uçurumunu geçmenin tek yolu bu.`
+` Sadece tek bir ip.`
+`Onun acımasız kan kırmızısı kılıcı hayatta kalmamın tek yolu.`
+`...Bu sadece bir ipin üzerinde yürümek değil, kelimenin tam anlamıyla bir bıçağın ucunda yürümek gibi...`
+`Elbette korkuyorum.`
+` Onun karşıt argümanına göre, benim zafer koşulum—yani cadının inkârı—suçlunun bir insan olduğu anlamına geliyordu.`
+`Ama suçluyu 18 kişinin içinde aramak istemedim.`
+`...Bu nedenle, cadıyı ve 18'i aynı anda inkâr etmek zorunda kaldığım için zayıf bir noktaya tutundum.`
+` Son seferinde bunu anlayamadığım için beni oradan vurmuş ve beni paramparça edip bozguna uğratmıştı.`
+`......Ama sorun değil.`
+`{n}Bırak bana vursun.`
+` Bırak saldırsın.`
+` Sorun değil...`
+`Eski bir kılıç savaşı filminde biri söylemişti.`
+`{n}"İyi bir kalenin tek ve sadece tek bir zayıf noktası vardır".`
+`Düşman orada toplanırdı.`
+` Oraya çekileceklerdi.`
+`{n}Ve asıl savaşın gerçekleştiği yer orası olacaktı.`
+`...Ben zayıf noktalarımı anladığım,`
+` ve o da bu zayıf noktalara saldırmak istediği sürece,`
+` ......sanki onu oraya saldırması için kışkırtıyordum...`
+`Düşmanınla arandaki mesafeyi dikkatlice değerlendir, ...ve adım adım geri çekil.`
+` Önce kılıçlarını çekmelerini sağla.`
+`O kırmızıyı ne kadar pervasızca savurursa, benim de karşılık verme şansım o kadar artar.`
+`Kırmızıdan korkma.`
+`{n}Baskıyı sürdür ki kırmızı ile reddetmek zorunda kalsın......!`
+`Ne kadar ezici bir şekilde kırmızıyla konuşursa konuşsun,`
+` ......evet, o kırmızının kendisi onun yaralarından fışkıran taze kanla aynı.`
+`"Hadi ama.`
+` ...Sorun ne?`
+` ......Öncelikle neden bana bu adada toplam kaç kişi olduğunu kırmızıyla söylemiyorsun?`
+` Söylemezsen senin kuzgunun beni parçalayamaz......!"`
 `".....................Hmph.`
-` ...How surprising that you can be this desperate and yet this difficult.`
-` ...One cannot make light of someone putting their life on the line, no matter what the era."`
-`"......It's no surprise you're Kinzo's grandchild.`
-` The more cornered you are,`
-` ............the bolder you become!"`
+` ...Hem bu kadar çaresiz hem de bu kadar zor olman ne kadar şaşırtıcı.`
+` ...Hangi çağda olursa olsun, hayatını ortaya koyan biri hafife alınamaz."`
+`"......Kinzo'nun torunu olman şaşırtıcı değil.`
+` Ne kadar köşeye sıkışırsan bir o kadar da,`
+` ............cesur olursun!"`
 `"...Ihihihi..."`
-`Ronove cleared his throat.`
-`"You appear to be at a standstill.`
-` That black tea I worked so hard to make is getting cold,`
+`Ronove boğazını temizledi.`
+`"Bir çıkmaza girilmiş gibi görünüyor.`
+` O kadar uğraşıp yaptığım siyah çay soğuyor,`
 ` Milady."`
 `".........kh."`
-`Ronove, who was supposed to be her ally, roguishly rushed her next move.`
-`Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn't hide the sweat building up on her forehead.`
-`By now she had completely lost that relaxedness which had allowed her to turn her nose up at her worthless opponent.`
-`Of course, she probably wasn't really cornered by something like this.`
-` ...She was just...being cautious.`
-`Until now, I had been inexperienced.`
-`{n}I didn't have a good grasp on how to fight, and I was underpowered as an opponent.`
-`However, now that we had reached the third game, she realized that I was starting to become skilled,`
-` and she had grown more cautious, thinking every move over carefully......`
-`Sure, that's just fine, {f:5:Beatrice}.`
-`{n}And sorry to have kept you waiting.`
-`{n}Are you happy now...?`
-`"......Now things are starting to get interesting, right......?`
+`Müttefiki olması gereken Ronove, onun bir sonraki hamlesini sinsice aceleye getiriyordu.`
+`Beato gülümseyerek karşılık verdi, muhtemelen hâlâ sakin olduğunu göstermek istiyordu, ......ama alnında oluşan teri gizleyemedi.`
+`Artık değersiz rakibine ters ters bakabilmesini sağlayan o rahatlığı tamamen kaybetmişti.`
+`Elbette, muhtemelen böyle bir şey yüzünden gerçekten tamamen köşeye sıkışmamıştı.`
+` ...O sadece...temkinli davranıyordu.`
+`Şimdiye kadar deneyimsizdim.`
+`{n}Nasıl dövüşüleceğini iyi kavrayamamıştım ve bir rakip olarak güçsüzdüm.`
+`Ancak üçüncü oyuna geldiğimizde artık giderek ustalaşmaya başladığımı fark etti,`
+` ve daha temkinli davranmaya, her hamleyi dikkatle düşünmeye başladı......`
+`Elbette, sorun değil {f:5:Beatrice}.`
+`{n}Ve seni beklettiğim için özür dilerim.`
+`{n}Şimdi mutlu musun...?`
+`"......Şimdi işler ilginçleşmeye başlıyor, değil mi......?`
 ` Hihihihi!"`
 `"*cackle*cackle*cackle*!`
 ` ...Battleeeeerrrrr......"`
-`"This isn't going anywhere...`
-` Then, should I just dive right in and go with the usual?"`
+`"Bu hiçbir yere gitmiyor...`
+` O zaman, hemen konuya girip her zamanki gibi mi devam etmeliyim?"`
 `"......Hoh.`
-` The usual, you say.`
-` ...Then by all means.`
-` If I don't hear that, I guess I just won't get the sense that we've started..."`
-`The first move was mine......`
-`"Here I come, Beato."`
-`"Repetition requested.`
-` ......‘There are only 18 people on this island’."`
+` Her zamanki mi dedin?`
+` ...O hâlde elbette.`
+` Eğer bunu duymazsam, sanırım başladığımız hissine kapılamayacağım..."`
+`İlk hamle benimdi......`
+`"İşte geliyor, Beato."`
+`"Tekrarla.`
+` ......‘Bu adada yalnızca 18 kişi var’."`
 `"....................."`
-`"...If I hear you say this in red, I will have no choice but to doubt one of the 18.`
-` ......Since it could no longer be the work of a 19th person, all doors will be closed to me."`
-`".........But I believe that the culprit is definitely not one of the 18!`
-` There's no way that any of those 18 could commit such brutal murders...!!"`
+`"...Bunu kırmızıyla söylediğini duyarsam, 18 kişinin birinden şüphe etmekten başka çarem kalmayacak.`
+` ......Bu artık bir 19. bir kişinin işi olamayacağı için, tüm kapılar bana kapanacaktır."`
+`".........Ama ben suçlunun kesinlikle 18 kişiden biri olmadığına inanıyorum!`
+` Böylesine vahşi cinayetleri bu 18 kişiden herhangi birinin işlemesine imkân yok...!!"`
 `"....................."`
-`"I'll say it again.`
-` Repetition requested!`
-` "There are only 18 people on this island"."`
+`"Yeniden söylüyorum.`
+` Tekrarla!`
+` "Bu adada yalnızca 18 kişi var"."`
 `"..............................`
-` .........I decline.`
-` I won't say why."`
-`Whew...!`
-` I had avoided what would have been the worst red for me.`
-`If she had repeated that,`
-` I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,`
-` like last time all over again...`
-`But Beato had not proclaimed my ultimate and greatest weakness in red.`
-`She had declined to repeat it—even though there was no reason why she shouldn't have struck—even though it was a weakness she should have been drooling at.`
-`She hadn't sliced me up with red by using that move, which should have been as good as forking a rook and the king...!`
-`......This was a big sign of my advantage.`
-`That's right.`
-` The culprit isn't one of the 18 people.`
-`{n}I won't doubt anyone...!`
-`And since the culprit isn't a witch either,`
-` .........it means that a 19th person exists on this island.`
-`And that's you.`
-`A person who, as Grandfather's mistress of thirty years,`
-` has been living secretly in a hidden mansion in the forest for a long, long time.`
-`The {i:human} {f:5:Beatrice}.........!!`
-`"That's right.`
-` You aren't a witch or anything like it.`
-` ......You're just a human...who's been living on this island in hiding for several decades...!"`
+` .........Reddediyorum.`
+` Nedenini söylemeyeceğim."`
+`Peh...!`
+` Benim için olabilecek en kötü kırmızıdan kurtulmuştum.`
+`Eğer bunu tekrarlasaydı,`
+` cadıyı kabul etmek ya da 18 kişinin birinden şüphelenmek gibi iki kötü seçenekle karşı karşıya kalacaktım,`
+` tıpkı geçen seferki gibi...`
+`Ama Beato benim nihai ve en büyük zayıflığımı kırmızıyla beyan etmemişti.`
+`Saldırmaması için hiçbir neden olmamasına ve ağzının suyu akması gereken bir zayıflık olmasına rağmen bunu tekrarlamayı reddetmişti.`
+`Bir kale ve şaha çatal atmak kadar iyi olabilecek bu hamleyi kullanarak beni kırmızıyla kesmemişti...!`
+`......Bu benim avantajım için büyük bir işaretti.`
+`Bu doğru.`
+` Suçlu 18 kişiden biri değil.`
+`{n}Kimseden şüphe etmeyeceğim...!`
+`Ve suçlu bir cadı da olmadığına göre,`
+` .........bu adada 19. bir kişinin var olduğu anlamına geliyor.`
+`Ve o da sensin.`
+`Büyükbabamın otuz yıllık metresi olarak uzun,`
+` çok uzun zamandır ormandaki saklı bir malikanede gizlice yaşayan bir kişi.`
+`{i:İnsan} {f:5:Beatrice}.........!!`
+`"Bu doğru.`
+` Sen cadı ya da onun gibi bir şey değilsin.`
+` ......Sen sadece onlarca yıldır...bu adada saklanarak yaşayan bir insansın...!"`
 `".........*cackle*cackle*.`
 ` *cackle*cackle*cackle*...`
-` ...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?`
+` ...Az önce bana, bin yılı aşkın bir süredir yaşayan Sonsuz Cadı'ya sıradan bir insan mı dedin?`
 ` ......*cackle*cackle*cackle*cackle*cackle*cackle*!"`
-`For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.`
-`"...Are you ready? I'll keep going.`
-` ...Again, repetition requested."`
-`"‘There are at least 19 people on this island’!"`
+`Bir süre boyunca {f:5:Beatrice} tatsız bir şekilde, böbürlenerek ya da belki de kindarca gülmeye devam etti.`
+`"...Hazır mısın? Devam ediyorum.`
+` ...Yeniden, tekrarlamanı istiyorum."`
+`"‘Bu adada en az 19 kişi var’!"`
 `".............................."`
-`{f:5:Beatrice} fell silent once again.`
-`The feeling that confirming the number of humans on this island...`
-`might possibly stand to give her some large disadvantage,`
-` was probably making her extremely cautious.`
-`The red had already become a foothold for my counterattack.`
-` With that in mind, the red had become a risk for the witch.`
-`But if she couldn't repeat this, her "Hempel's Raven" wouldn't work.`
-`In order to break my "Devil's Proof",`
-` first, the existence of and number of people outside the 18...`
-`needed to be confirmed in red.`
-`That's right.`
-` She couldn't break the existence of a 19th person unless she used red.`
-`I had {i:closed Beato in}, giving her no choice but to speak in red...!`
-`There really was...`
-`.........a way to fight,`
-` ......in this witch's game!`
-`"It's alright to decline.`
-` ...If you can't say it in red, then that will mean the total number of people on this island will be 18+X."`
-`"......That X is a pretty huge piece to allow me to have on the first move, isn't it?`
-` After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...`
-`will become explainable with a human X outside of the 18 people.`
-` ......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!"`
-`It was just like...`
-`a bishop in chess, which can cut a thin line through enemy forces as long as there's a slight gap.`
-` It only exerts an effect over squares of the same color, but it has a great ability to control the board.`
+`{f:5:Beatrice} bir kez daha sessizliğe gömüldü.`
+`Bu adadaki insan sayısını doğrulamanın...`
+`kendisine büyük bir dezavantaj sağlayabileceği hissi,`
+` muhtemelen onu son derece temkinli yapıyordu.`
+`Kırmızı çoktan benim karşı saldırım için bir dayanak noktası haline gelmişti.`
+` Bunu göz önünde bulundurduğumda, kırmızı cadı için bir risk haline gelmişti.`
+`Ama bunu tekrarlayamazsa, "Hempel'in Kuzgunu" işe yaramayacaktı.`
+`Kullandığım "Şeytan'ın İspatı"nı çürütebilmesi için öncelikle,`
+` 18 kişinin dışındaki insanların varlığının ve sayısının...`
+`kırmızıyla doğrulanması gerekiyordu.`
+`Bu doğru.`
+` Kırmızıyı kullanmadığı sürece 19. kişinin varlığını engelleyemezdi.`
+`{i:Beato'yu sıkıştırmıştım}, ona kırmızıyla konuşmaktan başka seçenek bırakmamıştım...!`
+`Gerçekten de...`
+`.........cadının oyununda,`
+` ......savaşmanın bir yolu vardı!`
+`"Reddetmende bir sakınca yok.`
+` ...Eğer bunu kırmızıyla söyleyemiyorsan, o zaman bu, adadaki toplam insan sayısının 18+X olacağı anlamına geliyor."`
+`"......Bu X, ilk hamlede sahip olmama izin vermek için oldukça büyük bir taş, öyle değil mi?`
+` Sonuçta, bundan sonra, "18 kişiden herhangi biri için imkânsız" temeli olan tüm numaralar...`
+`18 kişinin dışında kalan bir X kişisiyle açıklanabilir hale gelecek.`
+` ......Herkesin bir mazereti olduğu için kapalı olduğunu söylediğin odaların hepsini bu devasa taş kırıp açabilir...!"`
+`Bu tıpkı...`
+`satrançta ufak bir boşluk olduğu sürece düşman kuvvetleri arasından ince bir hat çizebilen bir fil gibiydi.`
+` Sadece aynı renkteki kareler üzerinde etkilidir, ancak tahtayı kontrol etmede büyük bir kabiliyeti vardır.`
 `"..............................`
 ` ..................kh."`
-`It looked like Beato also well understood her current plight.`
-`She couldn't just let such an important piece go, especially this close to the beginning of the game...`
-`If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.`
-`......But Beato was completely aware that I was expecting it.`
-` She was afraid that a careless red truth might end up strangling her own neck...!`
-`Because, ...in the first place, a witch was something which should be {i:denied} in red.`
-`Believe.`
-` Don't doubt!`
-` Witches don't exist!`
-`{n}Something like that can't exist in this world.`
-`They can only exist in the cracks in reality.`
-`...They are a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,`
-` and they can only barely exist like a mirage by surviving on falsehoods and fantasy.`
-`In other words, the red, which only witches can use, is the very reality by which they risk denying themselves.`
-`......The more they brandish their red words...`
-`the more they begin to lose, bit by bit, that crack in reality inside which they can endure.`
-`That is why they don't want, through the red,`
-` ......to carelessly lose that crack in reality which is based on fuzzy information, or in other words, fantasy.`
-`Because they understand that they would be gradually cornering themselves.`
-`Of course, she would never admit it.`
-`Because, if she did,`
-` it would be the same as admitting that she is something that can't exist in this world, like an imaginary number.`
-`Don't be afraid.`
-` Stay strong...!`
-`{n}She knows this deep down, and better than anyone.`
-`That her red treasured sword can't easily be used without considerable resolve...!`
-`"...What's wrong.`
-` I'll say it again.`
-` ......Repetition requested!"`
-`"‘There are at least 19 people on this island’!"`
+`Görünüşe göre Beato da içinde bulunduğu durumu oldukça iyi anlamıştı.`
+`Böylesine önemli bir taşı öylece bırakamazdı, özellikle de oyunun başlangıcına bu kadar yakınken...`
+`Kıymetli kırmızı kılıcını çıkarırsa, o taşı almak o kadar da zor olmazdı.`
+`......Ama Beato bunu beklediğimin tamamen farkındaydı.`
+` Dikkatsizce söyleyeceği kırmızı bir gerçeğin kendi boynunu keseceğinden korkuyordu...!`
+`Çünkü, ...her şeyden önce, bir cadının kendisi kırmızıyla {i:inkâr} edilmesi gereken bir şeydi.`
+`İnan.`
+` Şüphe etme!`
+` Cadı diye bir şey yok!`
+`{n}Böyle bir şey bu dünyada var olamaz.`
+`Onlar sadece gerçekliğin çatlaklarında var olabilirler.`
+`...Onlar bu çatlaklarda kıvrılmış, kendilerini gerçeğin acımasız rüzgârlarından çılgınca korumaya çalışan kırılgan varlıklardır,`
+` ve ancak yalanlar ve fantezilerle hayatta kalarak bir serap misali zar zor var olabilirler.`
+`Başka bir deyişle, yalnızca cadıların kullanabildiği kırmızı, kendilerini inkâr etme riskini aldıkları gerçekliğin bizzat kendisidir.`
+`......Kırmızı kelimelerini ne kadar çok kullanırlarsa...`
+`içinde dayanabilecekleri gerçeklikteki o çatlağı yavaş yavaş yitirmeye başlarlar.`
+`İşte bu nedenle, kırmızılar nedeniyle,`
+` ......gerçekliğin belirsiz bilgilere ya da diğer bir deyişle fanteziye dayanan o çatlağını dikkatsizce yitirmek istemiyorlar.`
+`Çünkü yavaş yavaş kendilerini köşeye sıkıştıracaklarını biliyorlar.`
+`Elbette bunu asla kabul etmez.`
+`Çünkü, eğer kabul etseydi,`
+` bu dünyada var olamayacak bir şey, sanal bir sayı olduğunu kabul etmekle aynı şey olurdu.`
+`Korkma.`
+` Güçlü kal...!`
+`{n}Bunu içten içe ve herkesten daha iyi biliyor.`
+`Kıymetli kırmızı kılıcını büyük bir kararlılığı olmadan kolay kolay kullanılamaz...!`
+`"...Sorun ne?`
+` Tekrar söylüyorum.`
+` ......Tekrarla!"`
+`"‘Bu adada en az 19 kişi var’!"`
 `"........................`
 ` ......Hmh.`
-` ...I decline."`
-`At the end of a long, long time spent deliberating,`
-` ......letting a single deep breath escape, she quietly proclaimed her refusal.`
-`......I had thought that she'd use it.`
-`But Beato refused to speak in red, even though it would cost her victory in the opening part of the game.`
-`"You declined, yes......?`
-` Which means that, from now on,`
-` I can create as many fictional character Xs outside of the 18 as I want...?"`
-`"Do as you wish.`
-` ...I have declined your repetition.`
-` Isn't that enough for now?`
-` ......The reason I declined was...`
+` ...Reddediyorum."`
+`Uzun, çok uzun bir süre düşündükten sonra,`
+` ......derin bir nefes vererek, sessizce reddetti.`
+`......Kullanacağını düşünmüştüm.`
+`Ama Beato, oyunun başlangıç kısmında galibiyetine neden olacak olsa da kırmızı renkte konuşmayı reddetti.`
+`"Reddettin, değil mi......?`
+` Bu da şu andan itibaren,`
+` 18 kişinin dışında istediğim kadar kurgusal X karakteri yaratabileceğim anlamına geliyor..."`
+`"Nasıl istersen öyle yap.`
+` ...Tekrarlama isteğini reddettim.`
+` Şimdilik bu kadarı yeterli değil mi?`
+` ......Reddetmemin sebebi...`
 `......`
-` ...No, I will not reveal that for now.`
-` You will know soon in any case."`
+` ...Hayır, bunu şimdilik paylaşmayacağım.`
+` Her halükarda yakında öğreneceksin."`
 `"...Ihihi.`
-` Still acting tough, I see..."`
-`"......Red that I deliberately don't use is in itself a fitting use of red.`
-` You called it my red treasured sword.`
-` A pleasant analogy.`
-` I will use it too.`
-` ......A treasured sword is at its best when it is sheathed.`
-` In fact, there are times it can instill even more fear because it is sheathed."`
-`"That's right.`
-` ...As I fight, I always have to keep in mind when you might turn everything over with those red words.`
-` It's some pretty serious pressure."`
-`"......And there are times when having a repetition declined makes things harder for me.`
-` ...Those times, I can't tell whether you can't repeat because my guess was right,`
-` or whether you're just misleading me and letting me think whatever I want."`
-`"...In that sense, yes, I see.`
-` A sheathed treasured sword."`
-`"............What does it matter?`
-` If I'm going to push you off a cliff anyway, I might as well let you climb a little higher first.`
-` ...We have still barely begun.`
-` Much is left to come..."`
-`"I'll resign from this challenge.`
-` ...Go and get drunk on your faint victory for now.`
-` ......Only for now."`
-`That bitter comment did, in fact, appear to have marked the end of the game's opening battle.`
-` Even so, I couldn't relax my guard at all.`
-`...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove's applause...`
-`"......Spectacular, Battler‐sama.`
-` I suppose we could say that this game has started with at least the opening unfolding to your advantage?"`
-`"No idea...`
-` I still don't know whether this piece was something I tore from her with my own hands,`
-` or whether she guided me into taking it."`
-`"......After all, knowing you...`
-`you probably know that I'm being led into a trap, and that clapping is just a barefaced lie, right...?"`
-`"How could you think that?`
-` I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.`
-` ...After all, Milady is a person who is quick to become arrogant.`
-` I believe that a little stimulation such as that makes for a good medicine every once in a while."`
-`"...This butler of yours sure has a vicious tongue..."`
-`"Isn't that so?`
-` Sometimes he enrages even me."`
-`"My, my, how incredibly rude of me."`
-`"Well then, Milady, Battler‐sama.`
-` Would you care for some more black tea?`
-` The game has still barely begun.`
-` Please leave any tea or pastries that might adorn this game to me.`
-` Please, do not hesitate to advance further in the game."`
-`"I will.`
-` Let's move forward.`
-` Now is when it really starts."`
+` Gördüğüm kadarıyla hala sert davranıyorsun..."`
+`"......Kasıtlı olarak kullanmadığım kırmızı, başlı başına uygun bir kullanım.`
+` Ona benim kıymetli kırmızı kılıcım demiştin.`
+` Hoş bir benzetme.`
+` Ben de kullanacağım.`
+` ......Kıymetli bir kılıç, kınında olduğu zaman en iyi halindedir.`
+` Aslında, kınında olduğu için bazen daha da fazla korku uyandırabilir."`
+`"Bu doğru.`
+` ...Mücadele ederken, kırmızıyla her şeyi tersine çevirebileceğini her zaman aklımda bulundurmak zorundayım.`
+` Bu oldukça ciddi bir baskı."`
+`"......Ayrıca tekrarlamayı reddederek işleri oldukça zorlaştırdığın zamanlar da oluyor.`
+` ...O anlarda, tahminim doğru olduğu için mi tekrar edemediğini,`
+` yoksa beni yanlış yönlendirerek istediğimi düşünmeme izin mi verdiğini anlayamıyorum."`
+`"...Bu anlamda, evet, anlıyorum.`
+` Kınında, kıymetli bir kılıç."`
+`"............Bunun ne önemi var?`
+` Madem seni uçurumdan aşağı iteceğim, bari önce biraz daha yukarı tırmanmana izin vereyim.`
+` ...Daha yeni başladık.`
+` Daha çok şey var..."`
+`"Bu seferki mücadeleden çekiliyorum.`
+` ...Git ve şimdilik zayıf zaferinin sarhoşluğu yaşa.`
+` ......Yalnızca şimdilik."`
+`Bu acı yorum aslında oyunun açılış savaşının sonunu işaret ediyor gibi görünüyordu.`
+` Yine de gardımı hiç düşüremedim.`
+`...Ronove'nin alkış sesiyle kendime gelene kadar gerginliğimi üzerimden atamadım...`
+`"......Olağanüstü, Battler-sama.`
+` Sanırım bu oyunun en azından açılışının sizin avantajınıza olacak şekilde başladığını söyleyebiliriz?"`
+`"Kim bilir...`
+` Bu taş ondan kendi ellerimle kopardığım bir şey miydi,`
+` yoksa onu almam için beni o mu yönlendirdi, hâlâ bilmiyorum."`
+`"......Sonuçta, seni tanıdığımdan...`
+`muhtemelen bir tuzağa düşürüldüğümü biliyorsun ve bu alkış da senin benimle açıkça alay etmenden kaynaklanıyor, değil mi...?"`
+`"Bunu nasıl düşünebilirsiniz?`
+` Leydiye bir kez olsun darbe vurabilmenizi sağlayan yeteneğinizi masumca kutluyorum, ancak bunun sadece bir başlangıç olduğunu kabul ediyorum.`
+` ...Ne de olsa Leydim çabuk kibirlenebilen bir kişi.`
+` Bunun gibi küçük bir uyarının arada bir iyi bir ilaç olduğuna inanıyorum."`
+`"...Senin bu uşağın çok kötü bir ağıza sahip..."`
+`"Değil mi?`
+` Bazen beni bile öfkelendiriyor."`
+`"Amanın, ne kadar da kabayım."`
+`"Peki o zaman, Leydim, Battler-sama.`
+` Biraz daha siyah çaya ne dersiniz?`
+` Oyun henüz yeni başladı.`
+` Lütfen bu oyunu süsleyebilecek çay ve hamur işlerini bana bırakın.`
+` Lütfen oyunu ilerletmekten çekinmeyin."`
+`"İlerleteceğim.`
+` Hadi devam edelim.`
+` Şimdi gerçekten başlıyor."`
 `"............Hmph.`
-` Very well.`
-` Let us advance the clock.`
-` Ronove, black tea, please."`
-`"Certainly.`
-` What about a cookie?"`
-`"No need.`
-` Give it to Beelzebub to keep her happy.`
-` ............Remain silent for now."`
-`While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.`
-`......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.`
-`"Very well.`
-` ............Why don't I inform you now why I declined to speak in red for the first move."`
-`"......What...?`
-` Bring it on.`
-` Show me what you've got."`
+` Pekâlâ.`
+` Saati ilerletelim.`
+` Ronove, siyah çay lütfen."`
+`"Elbette.`
+` Kurabiyeye ne dersiniz?"`
+`"Gerek yok.`
+` Mutlu olması için Beelzebub'a ver.`
+` ............Şimdilik sessiz ol."`
+`Cadı, iblis uşağın çay doldururken çıkardığı sesi dinlerken gözlerini hafifçe kapadı ve sessizliğe gömüldü.`
+`......Bir süre derin düşüncelere daldı, ama sonunda gözlerinde kurnaz bir parıltı belirdi.`
+`"Pekâlâ.`
+` ............İlk hamlede neden kırmızıyla konuşmayı reddettiğimi şimdi açıklamama ne dersin?"`
+`"......Ne...?`
+` Göster bakalım.`
+` Neyin var göster bana."`
 `"*cackle*cackle*...`
-` It really is a big piece that you'd hate to miss."`
-`"......It may be hasty, but allow me to move.`
-` I won't use red, but from here on, Rosa will explain on my behalf.`
-` Listen."`
-`"Of course, I agree as well.`
-` You too, right, Rosa?`
+` Gerçekten de kaçırmak istemeyeceğin kadar büyük bir taş."`
+`"......Aceleci olabilirim ama hamlemi yapmama izin ver.`
+` Kırmızı kullanmayacağım ama buradan itibaren benim adıma Rosa açıklama yapacak.`
+` Dinle."`
+`"Elbette, ben de aynı fikirdeyim.`
+` Sen de, değil mi Rosa?`
 ` ...............Rosa?"`
-`"Huh, ah, sorry...`
-` M‐me too.`
-` I agree."`
-`".........What's wrong, Rosa‐san.`
-` ...You've been really quiet for a while now.`
-` Are you feelin' sick...?"`
-`From the beginning, Rosa had never been one to willingly cut in on the siblings' fights.`
-`...But even so, she seemed unmotivated,`
-` and had said almost nothing at all during this night's conference.`
-`The whole time, she had been hanging her head, and appeared to be thinking of something else...`
-`"You've been in a daze for a while now.`
-` Do you think you can protect the inheritance like that?`
-` You are also the mother of your child, so get a stronger hold on yourself."`
-`"I, I'm sorry......"`
-`"I imagine you woke up quite early this morning?`
-` If you feel sick, you shouldn't overdo it."`
-`"......The beds have been prepared in the guest rooms.`
-` How about taking a rest?`
-` I will guide you."`
-`"No, ...I'm fine.`
-` Thank you."`
-`"...What is it?`
-` Is there something you're worrying about?"`
-`".........No, not really........."`
-`"Are you sure...?`
-` It feels like your mind has been elsewhere this whole time.`
-` ...I wonder if that has anything to do with what we've been talking about...?"`
-`At those words, everyone stared at Rosa together.`
-`As if in response, Rosa's shoulders quivered.`
-`Apparently Kyrie's guess hadn't been wrong.`
-`{n}...Nor did Rosa deny it...`
-`"..................No, umm...`
+`"Huh, ah, üzgünüm...`
+` B-Ben de.`
+` Katılıyorum."`
+`".........Neyin var, Rosa-san.`
+` ...Bir süredir gerçekten çok sessizsin.`
+` Kendini hasta mı hissediyorsun...?"`
+`Rosa hiçbir zaman kardeşlerin kavgalarına gönüllü olarak karışan biri olmamıştı.`
+`...Ancak yine de motivasyonu yokmuş gibi görünüyordu,`
+` ve bu geceki konferans sırasında neredeyse hiçbir şey söylememişti.`
+`Tüm bu süre boyunca başını öne eğmiş ve başka bir şey düşünüyor gibi görünüyordu...`
+`"Bir süredir dalıp gitmiş gibisin.`
+` Mirası bu şekilde koruyabileceğini mi sanıyorsun?`
+` Sen aynı zamanda çocuğunun annesisin, bu nedenle kendine çeki düzen ver."`
+`"Ö-Özür dilerim......"`
+`"Bu sabah oldukça erken uyandın diye tahmin ediyorum.`
+` Eğer kendini hasta hissediyorsan, aşırıya kaçmamalısın."`
+`"......Misafir odalarındaki yataklar hazırlandı.`
+` Biraz dinlenmeye ne dersin?`
+` Sana rehberlik edeceğim."`
+`"Hayır, ...ben iyiyim.`
+` Teşekkürler."`
+`"...Sorun ne?`
+` Endişe ettiğin bir şey mi var?"`
+`".........Hayır, pek sayılmaz........."`
+`"Emin misin...?`
+` Sanki aklın bunca zamandır başka bir yerdeymiş gibi hissettiriyor.`
+` ...Acaba bunun konuştuğumuz şeyle bir ilgisi var mı...?"`
+`Bu sözler üzerine herkes gözlerini Rosa'ya çevirdi.`
+`Sanki cevap verir gibi, Rosa omuzlarını silkti.`
+`Görünüşe göre Kyrie'nin tahmini yanlış değildi.`
+`{n}...Rosa da inkâr etmedi...`
+`"..................Hayır, şey...`
 ` ................................."`
-`She swallowed whatever it was she had been about to say, and went silent again.`
-`By now, even the other siblings were also beginning to realize that something about her demeanor was different from usual...`
-`"What is it?`
-` ...You've been weird for a while.`
-` Do you have something on your mind...?"`
-`"All of us've just sworn to remain united, haven't we?`
-` Don't be all unfriendly now, worryin' by yourself.`
-` Let's talk it over."`
+`Söylemek üzere olduğu şeyi yutkundu ve tekrar sessizliğe gömüldü.`
+`Artık diğer kardeşler de onun tavırlarında her zamankinden farklı bir şeyler olduğunu fark etmeye başlamışlardı...`
+`"Ne oldu?`
+` ...Bir süredir garip davranıyorsun.`
+` Aklında bir şey mi var...?"`
+`"Hepimiz birlik olmaya yemin ettik, değil mi?`
+` Şimdi tek başına endişelenerek düşmanca davranma.`
+` Hadi konuşalım."`
 `"......Rosa.`
-` Tell us."`
-`Pressed by the men one after the other, Rosa made up her mind, and nervously began to open up...`
-`It was almost...`
-`as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...`
-`such was the atmosphere in the room.`
-`"No, umm......`
-` ......Th‐this mistress of Grandfather's, this {f:5:Beatrice},`
-` ......is she really, um,`
-` .........still alive, I was wondering..."`
-`"Huh?`
-` Obviously she's alive.`
-` She's sending letters to us, what more do you want?"`
-`"Whether she's healthy or not is a different story though.`
-` The lovely woman in that portrait must be getting up there in age by now."`
-`"I'd think she's healthy.`
-` People who are crafty when it comes to money are healthy no matter how old they are!`
-` Evil plans might even be the best rejuvenating agent.`
+` Anlat bize."`
+`Erkeklerin birbiri ardına sıkıştırdığı Rosa kararını verdi ve endişeli bir şekilde ağzını açmaya başladı...`
+`Sanki...`
+`istemeden ciddi bir duruma yol açan küçük bir şakayı itiraf etmeye çalışıyormuş gibi...`
+`bir hali vardı, odadaki atmosfer böyleydi.`
+`"Hayır, şey......`
+` ......B-{f:5:Beatrice} olan Babamın bu metresi,`
+` ......o gerçekten, şey,`
+` .........hala hayatta mı diye, merak ediyordum..."`
+`"Ha?`
+` Hayatta olduğu çok açık.`
+` Bize mektup gönderiyor, daha ne istiyorsun?"`
+`"Sağlığının yerinde olup olmadığı ise farklı bir hikâye.`
+` O portredeki güzel kadın artık yaşlanmış olmalı."`
+`"Sağlığının yerinde olduğunu düşünürdüm.`
+` Para söz konusu olduğunda kurnaz olan insanlar kaç yaşında olurlarsa olsunlar sağlıklıdırlar!`
+` Şeytani planlar en iyi gençleştirici etken bile olabilir.`
 ` Wahahaha."`
-`"......She can't be...`
-`......alive."`
-`"Huh?`
-` ......What did you just say?"`
-`"{f:5:Beatrice} is...`
-`...dead...`
-` .........I,`
-` ...I killed her...!"`
-`"Wh‐......what did you say......?!"`
-`"...Wh‐...what do you mean, Rosa...?!"`
-`"B‐but, it's not like I was the one who kill—`
-` ......But, but I was the one that brought her to a place like that!`
-` ...I really did kill her...`
-` I tried to make myself believe it was a dream!!"`
-`"......But......it really wasn't after all!`
-` Which means this is......a letter from {f:5:Beatrice}'s ghost!!`
+`"......Hayatta...`
+`......olamaz."`
+`"Heh?`
+` ......Demin ne dedin?"`
+`"{f:5:Beatrice}...`
+`...öldü...`
+` .........Onu,`
+` ...ben öldürdüm...!"`
+`"N-......Ne dedin......?!"`
+`"...N-...Ne demek istiyorsun, Rosa...?!"`
+`"A-Ama onu öldüren ben değildim—`
+` ......Ama, ama onu öyle bir yere götüren bendim!`
+` ...Onu gerçekten ben öldürdüm...`
+` Kendimi bunun bir rüya olduğuna inandırmaya çalıştım!!"`
+`"......Ama......gerçekte rüya değildi!`
+` Yani bu......{f:5:Beatrice}'in hayaletinden gelen bir mektup!!`
 ` Uwaaaaaaaaaaaaaaa!!"`
-`It was so sudden that everyone was lost for words.`
-` Rosa kept on talking, unable to stop, holding her head as her hair flew all about...`
-`"Please, calm yourself...!`
-` Rosa‐san...!"`
-`"I, I have absolutely no clue what's goin' on...!`
-` Already dead?`
-` What do you mean...?!"`
-`"......I think it means two things.`
-` First, ...its literal meaning.`
-` ...And second, it substantiates that our earlier guess was correct."`
-`"Which means......`
-` .........Rosa, ......you have met with {f:5:Beatrice}?"`
-`"I, I've never heard Rosa speak about that once.`
-` ...Rosa, when was it?`
-` When could you possibly have met {f:5:Beatrice}?!"`
-`"Long ago!`
-` Long, long, long ago!!`
-` We had just moved over to the island and I was young!!`
-` It wasn't my fault, it's not like {i:I} killed her...!!`
+`O kadar ani olmuştu ki herkes ne diyeceğini şaşırmıştı.`
+` Rosa durmaksızın konuşmaya devam etti, saçları savrulurken başını tutuyordu...`
+`"Lütfen, sakin ol...!`
+` Rosa-san...!"`
+`"N-Neler olduğuna dair hiçbir fikrim yok...!`
+` Çoktan öldü mü?`
+` Ne demek istiyorsun...?!"`
+`"......Bence bunun iki anlamı var.`
+` Birincisi, ...gerçek anlamı.`
+` ...Ve ikincisi, daha önceki tahminimizin doğru olduğunu kanıtlıyor."`
+`"Yani......`
+` .........Rosa, ......{f:5:Beatrice} ile karşılaştın mı?"`
+`"B-Ben Rosa'nın bundan bahsettiğini hiç duymadım.`
+` ...Rosa, ne zamandı?`
+` {f:5:Beatrice} ile ne zaman karşılaşmış olabilirsin?!"`
+`"Uzun zaman önce!`
+` Uzun, uzun, uzun zaman önce!`
+` Adaya yeni taşınmıştık ve ben çok gençtim!!`
+` Benim hatam değildi, onu {i:ben} öldürmedim...!!`
 ` Uuuuuuuuughhhuuu!!"`
-`"...Calm down!`
-` Nobody's blaming you for anything, alright?`
-` First, drink some water.`
-` Okay?`
-` Natsuhi‐san, the pitcher, please."`
-`"Y‐yes.`
-` .........Here you go, Rosa‐san.`
-` Please, calm yourself......"`
+`"...Sakin ol!`
+` Kimse seni bir şey için suçlamıyor, tamam mı?`
+` Önce biraz su iç.`
+` Tamam mı?`
+` Natsuhi-san, sürahi lütfen."`
+`"E-Evet.`
+` .........İşte buyur, Rosa-san.`
+` Lütfen, sakin ol......"`
 `".........................................."`
-`Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...`
+`Rosa düzensiz nefes alış verişleri arasında sakinliğini yeniden kazanana kadar, ......kimse tek kelime edemedi...`
