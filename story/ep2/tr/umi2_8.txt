@@ -119,7 +119,7 @@
 `"............Hm?`
 ` ....Bu da bizi başka bir Şeytan'ın İspatı ile baş başa bırakıyor."`
 `"......Evet.`
-` ......Metresinden çocuğu "olmadığını" kanıtlamak imkansız.`
+` ......Metresinden çocuğu "olmadığını" kanıtlamak imkânsız.`
 ` ......Şimdi gerçekten ortaya çıktığına göre, "olduğunu" varsaymak zorundayız."`
 `"Bu biraz aceleye getirilmiş bir argüman.`
 ` ......Birilerinin Ushiromiya'nın miras meselesiyle ilgili sorunlardan haberdar olması,`
@@ -217,7 +217,7 @@
 ` ......Bir şeytan getirecek olursan, bu iş hemen son bulabilir."`
 `"...Bizim durumumuzda, kendisine {f:5:Beatrice} diyen bu bayan gelip...`
 `sadece asasıyla parlayan yıldızlar saçmak gibi muhteşem bir büyü yapmalı,`
-` {i:ve bize {y:0:İnsan}{n:0:insan}lar için imkansız olan bir şeyi göstermeli},`
+` {i:ve bize {y:0:İnsan}{n:0:insan}lar için imkânsız olan bir şeyi göstermeli},`
 ` değil mi?"`
 `"......Hadi ama, siz ikiniz.`
 ` Lütfen sakinleşin..."`
@@ -230,7 +230,7 @@
 `"Kihihihihihihihihihihi, kihihihihihihihihihihihihi."`
 `"....................."`
 `"......Eğer istediğin buysa, {f:5:Beatrice} eminim ki sana gösterecektir.`
-` {i:{y:0:İnsan}{n:0:İnsan}lar için imkansız olan bir şey}.`
+` {i:{y:0:İnsan}{n:0:İnsan}lar için imkânsız olan bir şey}.`
 ` Ve sonra Battler, sen de inanacaksın, değil mi?`
 ` {f:5:Beatrice}'e."`
 `"............Tabii.`
@@ -569,7 +569,7 @@
 ` {i:Şeytanları kanıtladın!}`
 ` Sen kazandın...!"`
 `"*cackle*cackle*cackle*...!`
-` Şeytan'ın İspatı, bir şeyi kanıtlamanın imkansız olduğunu göstermek için kullanmayı sevdiğiniz kullanışlı bir bahaneydi, ......ama şimdi can düşmanınız haline geldi, değil mi?"`
+` Şeytan'ın İspatı, bir şeyi kanıtlamanın imkânsız olduğunu göstermek için kullanmayı sevdiğiniz kullanışlı bir bahaneydi, ......ama şimdi can düşmanınız haline geldi, değil mi?"`
 `"......Bana zulmetme, büyük cadı.`
 ` .........Ben seni çoktan kabul ettim.`
 ` Pes ediyorum."`

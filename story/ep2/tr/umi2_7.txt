@@ -41,7 +41,7 @@
 `".................."`
 `Anlaşılan George da aşağı yukarı bu konuda bilgilendirilmişti.`
 `George pencereye yaklaştı, ve kararan yağmurlu gökyüzüne baktı...`
-`"...Kanon-kun hala genç ve bence bazı açılardan olgun bir düşünce tarzına sahip olmak için biraz fazla çaba sarf ediyor."`
+`"...Kanon-kun hâlâ genç ve bence bazı açılardan olgun bir düşünce tarzına sahip olmak için biraz fazla çaba sarf ediyor."`
 `"Uhh, hahahaha...`
 ` Hadi ama, bırak şunu."`
 `"Şey, umm, benim de hatam var, sanırım atmosferin beni içine çekmesine izin verdim...`
@@ -810,7 +810,7 @@
 `"Gerçekten de.`
 ` Siz neyden bahsediyorsunuz?`
 ` Portredeki cadının çerçevesinden ayrılıp canlandığını mı söylüyorsunuz?!`
-` ......Kimsenin bu cadıyla karşılaşmış olmasına imkan yok."`
+` ......Kimsenin bu cadıyla karşılaşmış olmasına imkân yok."`
 `"Ben...onunla karşılaştım...!"`
 `Eva ve Rudolf, Rosa'nın açıklamasına başlarıyla onay verdiler.`
 `"Uu!`
@@ -872,12 +872,12 @@
 ` "Şeytan'ın İspatı" dedikleri şey bu."`
 `Bir şeytanın "var olduğunu" kanıtlamak kolaydır.`
 `{n}Tek yapmanız gereken bir şeytanla karşılaşmak.`
-`{n}Ancak şeytanların "var olmadığını" kanıtlamak imkansızdır.`
+`{n}Ancak şeytanların "var olmadığını" kanıtlamak imkânsızdır.`
 `Hiç kimsenin bir şeytanla karşılaşmamış olması, onların insanların gidemeyeceği bir yerde saklanıyor olma olasılığını inkâr edebileceğiniz anlamına gelmez.`
 `......Aynı sebeplerden ötürü uzaylıların varlığını da inkâr edemezsiniz.`
 `İnsanlık tüm uzayı araştırıp uzaylıların var olmadığını mükemmel bir şekilde gösterene kadar, onların var olmadığından emin olamazsınız.`
-`Ve uzayın tamamını uzaylıların varlığı için kontrol etmemiz kesinlikle imkansızdır.`
-`...Bu nedenle, uzaylıların var olduğunu kanıtlamanın çeşitli yolları olsa da, varlıklarını inkâr eden bir kanıt göstermek imkansızdır.`
+`Ve uzayın tamamını uzaylıların varlığı için kontrol etmemiz kesinlikle imkânsızdır.`
+`...Bu nedenle, uzaylıların var olduğunu kanıtlamanın çeşitli yolları olsa da, varlıklarını inkâr eden bir kanıt göstermek imkânsızdır.`
 `"......Bu durumda, bindiğimiz tekneden ayrı bir teknenin adaya gelip gelmediğini tartışarak zamanımızı boşa harcamış oluruz.`
 ` ......O, bizimle birlikte teknede değildi.`
 ` Bu kadarı kesin, ve o zaman adaya başka bir yolla gelmiş olmalı."`
@@ -958,7 +958,7 @@
 `Rosa biraz duygusal bir şekilde çocuklara bağırdı.`
 `Çocuklar neden birdenbire kendilerine bağırıldığını anlayamadılar ama Eva ve diğerleri de bir süre sonra Rosa ile ortak bir fikre vardılar.`
 `Çocukların önünde miras gibi iğrenç bir konu hakkında hararetle konuşuyorlardı.`
-`...Çocuklarının burada kalmalarını istemelerine imkan yoktu.`
+`...Çocuklarının burada kalmalarını istemelerine imkân yoktu.`
 `{n}Bu yüzden hepsi Rosa'nın planını hemen kabul etti.`
 `"Ev-Evet, Rosa-san'ın dediği gibi!`
 ` George!`

@@ -12,7 +12,7 @@
 ` Bir adada yaşamak oldukça iyi gelmeye başladı!`
 ` ......Bir düşününce Jessica, her gün okula tekneyle gitmek zorundasın, değil mi?`
 ` Tekne seferleri durdurulduğunda ne yapıyorsun?`
-` Yağmur yağdığında evde kalıp, rüzgar estiğinde Kral Kamehameha gibi geç mi gidiyorsun?"`
+` Yağmur yağdığında evde kalıp, rüzgâr estiğinde Kral Kamehameha gibi geç mi gidiyorsun?"`
 `"Tekneler gelmezse evde kalıyorum.`
 ` Yine de göründüğü kadar iyi değil.`
 ` Çoğu zaman kendi başıma çalışmam isteniyor ve kontrol konusunda çok titizler, bu yüzden rahat edemiyorum."`
@@ -47,7 +47,7 @@
 ` Bu adadan nefret ediyorum.`
 ` Gidip bir şehirde yaşamak istiyorum.`
 ` Yağmurun ve hatta mızrakların gökten düşmesinin önemli olmadığı, üzerinize gündelik kıyafetlerinizi ve sandaletlerinizi giydiğiniz sürece,`
-` hala beş dakikadan daha kısa bir sürede bir dükkana gidebileceğiniz bir şehirde..."`
+` hâlâ beş dakikadan daha kısa bir sürede bir dükkana gidebileceğiniz bir şehirde..."`
 `"Hahahaha.`
 ` Birazcık daha dayan.`
 ` Liseden mezun olmana az kaldı, değil mi?"`
@@ -56,7 +56,7 @@
 `Jessica gerindi ve kanepeye yaslandı.`
 `Belki de şu an kötü bir zaman dilimi olduğu için, ilginç bir program yoktu,`
 ` ve akşam yemeği için çağrılana dek tembel tembel zaman öldürmekten başka yapacak bir şeyimiz yoktu.`
-`Maria hala kuzenlerin odasına dönmemişti.`
+`Maria hâlâ kuzenlerin odasına dönmemişti.`
 `Muhtemelen Rosa Teyze tarafından malikaneye geri götürülmüştü.`
 `Yetişkinler kafa karıştırıcı bir konuşma yaparken Maria'nın tek başına kalması oldukça sıkıcı olmalıydı.`
 `......Malikaneye gidip onu görebileceğimizi düşündük ama ne de olsa hava berbattı,`
@@ -113,7 +113,7 @@
 ` ..................Yağmur...`
 `sonunda başladı demek."`
 `Rosa sonunda onu uyutan huzurlu sesin aslında yağmaya başlayan yağmur olduğunu fark etti.`
-`"Rüzgar da sert esiyordu.`
+`"Rüzgâr da sert esiyordu.`
 ` ...Belki de tayfun nihayet üzerimize geliyordur?"`
 `"......Televizyonda da böyle söylüyorlar.`
 ` Tayfun yavaş hareket ediyor ve yarın gün boyunca böyle olması bekleniyor."`
@@ -177,15 +177,15 @@
 `{n}Kim ne derse desin kabul eden sevimli ve saf bir çocuktu.`
 `...Ama o zamandan bu yana altı yıl geçti!`
 `{n}Şimdi dokuz yaşındaydı ve hayatın iyi ve kötü yanlarını deneyimlemek ona bir şeyler öğretmeliydi.`
-`......Ve yine de, hala eskisi kadar masum ve saf mı...?!`
+`......Ve yine de, hâlâ eskisi kadar masum ve saf mı...?!`
 `"Mariaaaaaaaaaaaa!!!"`
 `Gül yatağının etrafında dönerken, beyaz bir şey beklenmedik bir şekilde bana doğru döndü.`
 `......Bu beyaz bir şemsiyeydi.`
-`Maria, elinde beyaz bir şemsiyeyle çömelmiş, hala o gülü arıyordu...`
+`Maria, elinde beyaz bir şemsiyeyle çömelmiş, hâlâ o gülü arıyordu...`
 `"............Uu."`
 `Ağlamaktan kıpkırmızı olmuş yüzü su ve çamurla kirlenmişti. Gerçekten acınacak bir manzaraydı.`
 `"Seni salak,`
-` ......hala arıyor musun?!"`
+` ......hâlâ arıyor musun?!"`
 `"......Uu......`
 ` Bulamıyorum...`
 ` Maria'nın gülü...`
@@ -212,7 +212,7 @@
 ` ......Tamam mı?"`
 `"............Uu...`
 ` Bugünlük bu kadar yeter........."`
-`Maria hala kabullenememiş gibi görünüyordu ama artık direnecek enerjisi kalmamıştı.`
+`Maria hâlâ kabullenememiş gibi görünüyordu ama artık direnecek enerjisi kalmamıştı.`
 `Jessica ve Kanon-kun bize yetişti.`
 `"......Hemen malikanede bir havlu hazırlatacağım."`
 `"Maria......`
@@ -244,7 +244,7 @@
 `"Uu!`
 ` Ödünç aldım!"`
 `Görünüşe göre yardımsever biri ona bir şemsiye getirmişti.`
-`{n}Normal bir kız yağmur yağmaya başladığında sığınacak bir yer arardı ama Maria'nın inadının böyle bir şeyle kırılmasına imkan yoktu.`
+`{n}Normal bir kız yağmur yağmaya başladığında sığınacak bir yer arardı ama Maria'nın inadının böyle bir şeyle kırılmasına imkân yoktu.`
 `...Belki de o kişi sığınacak bir yer bulmasını tavsiye etmekten vazgeçmiş ve en azından ona bir şemsiye getirmişti.`
 `"Gerçekten mi?`
 ` Ona teşekkür etmeliyim.`
@@ -457,7 +457,7 @@
 `"Maria hiç şaka yapacak bir tip oldu mu?"`
 `O yaşlı piçin ağzından böyle bir hikâye çıktığını duysaydık, bunu da bir şaka olarak kabul edebilirdik.`
 `......Ancak Maria'nın ağzından çıkınca biraz anlaşılmaz, garip bir şekilde rahatsız edici oldu...`
-`"İmkanı yok.`
+`"İmkânı yok.`
 ` O her zaman açık sözlü ve ciddi olmuştur.`
 ` Yalan olduğu apaçık ortada olan şakalara sürekli kanmadı mı?`
 ` Onun şaka yaptığını bile hiç duymadım."`
@@ -730,7 +730,7 @@
 `"Uu."`
 `Tüm akrabalar hiddetle Maria'ya bakarken, Maria mektubu bir hışırtıyla açtı...`
 `"......Sence bu gerçekten babamın mektubu mu?"`
-`"İmkansız.`
+`"İmkânsız.`
 ` Babam geçmişte bize ne zaman bir şey duyurduysa, bunu doğrudan yapmasa bile, her zaman Genji-san'ı gönderirdi, değil mi?`
 ` ......Böyle şaka gibi bir yaklaşım kullandığına inanamıyorum."`
 `"Bu doğru.`
@@ -790,7 +790,7 @@
 ` Tıpkı Kyrie-san'ın dediği gibi..."`
 `".........Pekala, emin değilim.`
 ` Kinzo-san size cevap verecek mi...?`
-` Ne de olsa o kişinin düşüncelerini sağduyu ile tahmin etmek bazen imkansızdır..."`
+` Ne de olsa o kişinin düşüncelerini sağduyu ile tahmin etmek bazen imkânsızdır..."`
 `"Her halükarda, bu saçmalık dünyasından çıkmıyor...!`
 ` Her şeyden önce, altın ilüzyonunun tamamı Babamızın bir aldatmacasından ibaret.`
 ` Eğer var olmayan altınlar hakkında konuşmak istiyorsanız, beni bunun dışında tutun!"`
@@ -800,14 +800,14 @@
 `"Böyle şüpheli bir kağıdı bir çocuğa emanet edecek kadar tuhaf bir insana güvenmemiz mümkün değil!"`
 `"Aniki... İtiraf etme vaktin geldi.`
 ` Tanımadığın birinin babamın mal varlığını idare ediyor olması mümkün mü?!"`
-`"H-Hayır, bu imkansız!`
+`"H-Hayır, bu imkânsız!`
 ` Ana temsilci olarak, babamın tüm mal varlığı hakkında tam bilgiye sahibim!`
 ` Benim haberim olmadan onları manipüle edebilecek kimse olmamalı!"`
 `"O halde, tam bilgi sahibi olmadığınız bazı varlıklar olmalı, değil mi Krauss nii-san?"`
 `"Absürt, böyle bir şey yok!"`
 `"..................Oh evet, var.`
 ` Babamın hiçbir şeyden haberdar olmadığınız bir varlığı."`
-`"Böyle bir şeyin var olmasına imkan yok!!"`
+`"Böyle bir şeyin var olmasına imkân yok!!"`
 `"Hayır, var.`
 ` ............Bu babamın, hayır, {f:5:Beatrice}'in gizli altını olmalı!!"`
 `"Her şeyi baştan alalım.`

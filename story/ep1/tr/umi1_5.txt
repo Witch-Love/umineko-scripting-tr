@@ -58,7 +58,7 @@
 `Büyükbabam işçi bir aileden geliyordu ve iş dünyasında ya da finans dünyasında hiçbir bağlantısı yoktu.`
 ` Daha sonra işgalci güçlerle bağlantılar kurmuş olsa da, başlangıçta henüz kimsenin güvenini kazanmamış isimsiz bir kişiydi.`
 `Para ancak güvene dayalı olarak toplanabilir.`
-`{n}Kimsenin güvenilmez birine borç para vermesine imkan yoktur.`
+`{n}Kimsenin güvenilmez birine borç para vermesine imkân yoktur.`
 `......Güvenilirliği sıfır olan Büyükbaba, ilk etapta büyük miktarda fon elde etmeyi nasıl başardı?`
 `......Bu soru sorulduğunda Büyükbabanın şöyle cevap verdiği söylenir:`
 `{i:Kaderin bir günü, Altın Cadı }{f:7:Beatrice}{i: ile karşılaştım.}`
@@ -80,7 +80,7 @@
 `"Ne kadar da aptalmışız, değil mi?`
 ` Yani, hadi ama, Büyükbabam o parayla işin sonunda bu adayı satın aldı, değil mi?`
 ` Demek ki buraya gelmeden önce altını vardı.`
-` Altının burada, adada olmasına imkan yok."`
+` Altının burada, adada olmasına imkân yok."`
 `"......Böyle olması şart değil.`
 ` Belki de altın en başından beri adada saklıydı ve sırf kendisine ait olduğundan emin olmak için tüm adayı satın aldı.`
 ` On ton altın vardı, değil mi?`
@@ -104,7 +104,7 @@
 ` Büyükbabamın kara büyü hobisine gülse bile, bu saklı altın hikayesine inanıyordur.`
 ` Kulağa çok hoş geliyor."`
 `"......Pekala, bu kesinlikle gerçekçi bir hikâye değil.`
-` Büyükbabanın henüz tanınmadığı ve hiçbir bağlantısının bulunmadığı o dönemde, kimsenin ona bedavaya yüklü miktarda külçe altın ödünç vermesinin imkanı yok.`
+` Büyükbabanın henüz tanınmadığı ve hiçbir bağlantısının bulunmadığı o dönemde, kimsenin ona bedavaya yüklü miktarda külçe altın ödünç vermesinin imkânı yok.`
 ` ......Yine de, böyle bir kişi gerçekten var olsaydı, Büyükbabanın böyle bir sponsora cadı demesi mantıksız olmazdı."`
 `"Evet, ama bu 10 ton. 10 ton!`
 ` Bunu nakite çevirseydin, ne kadar ederdi?`
@@ -184,7 +184,7 @@
 `"Hehehe, belki de zengin bir adamın zengin karısı cömertçe Büyükbabaya bağışlamıştır.`
 ` Belki de o zaman bu kadına cadı demeye başlamıştır?"`
 `Hmm, Jessica'nın örneği hiç fena değil.`
-`...Eğer birisi Büyükbabanın güvenilirliği hala sıfırken ona büyük miktarda borç verecek kadar cömert olsaydı,`
+`...Eğer birisi Büyükbabanın güvenilirliği hâlâ sıfırken ona büyük miktarda borç verecek kadar cömert olsaydı,`
 ` kesinlikle cadı olarak adlandırılmaya layık biri olurdu.`
 `......Dahası, Büyükbaba daha sonra bu parayı büyük miktarda servet inşa etmek için kullandı.`
 `...İnsanları değerlendirebilme konusunda böylesine inanılmaz bir yeteneğe sahip olduğu için,`
@@ -317,7 +317,7 @@
 `Herkes grup halinde girişe yöneldi.`
 `...Sanki o cadı arkamızdan bakıyormuş gibi hissederek bir kez daha arkamı döndüm.`
 `"...Uu.`
-` ......Battler, hala inanmıyor musun...?"`
+` ......Battler, hâlâ inanmıyor musun...?"`
 `"Oh, hayır inanıyorum.`
 ` ......Bu şekilde daha fantastik!`
 ` Altın Cadı {f:5:Beatrice} Büyükbabama 10 ton altın verdi!"`
@@ -358,7 +358,7 @@
 ` Bunun kesin kar elde etmek için bir şans olduğunu düşünerek teminat olarak kabul ettiler ve sonuç olarak Babam dev bir kredi alabildi..."`
 `"Bu şimdiye kadar duyduğum en saçma sapan şey.`
 ` ...Siz kaç yaşındasınız?`
-` Hala çocukken duyduğunuz masallara inanıyor musunuz?"`
+` Hâlâ çocukken duyduğunuz masallara inanıyor musunuz?"`
 `"Bu "10 ton altının" var olduğunun kanıtı nerede?`
 ` Bu sadece babamın ve ona en yakın olanların yalanları değil mi?"`
 `"......Tabii ki sadece bir hikaye.`
@@ -471,7 +471,7 @@
 ` ......Akıl almaz!"`
 `"Sonuna kadar dinle!`
 ` Bu kadar paranın bir anda ortaya çıkamayacağını biliyoruz.`
-` Sizden imkansız bir anlaşma yapmanızı istemiyoruz!`
+` Sizden imkânsız bir anlaşma yapmanızı istemiyoruz!`
 ` Tabii ki, altın kısımları ile ilgili olarak, hesaplamalarımızda şimdiye kadarki sıkı çalışmanız için sizi yeterince ödüllendirmeyi planlıyoruz."`
 `"Üçüncü şartımız:`
 ` Ushiromiya baş ailesinin varisi ünvanını taşıyan kişiye verilecek altın payı %50 olacaktır. Geri kalanı ise tüm kardeşler arasında adil bir şekilde paylaştırılacaktır.`
@@ -491,7 +491,7 @@
 ` Ancak, depozito olarak, payımızın %10'u bize derhal ödenecek.`
 ` Ödeme gelecek yılın Mart ayından önce yapılmalı."`
 `"......Ne düşünüyorsun, Krauss nii-san? Bu, babamın mal varlığını yönetmek için ihtiyaç duyduğun güveni yeniden kazanabilmen için ideal bir fırsat değil mi?!`
-` Elbette, babam ölmeden önce 7,5 milyarın tamamını ödemek imkansız olabilir.`
+` Elbette, babam ölmeden önce 7,5 milyarın tamamını ödemek imkânsız olabilir.`
 ` Ancak, 750 milyonluk bir depozitoyu ayarlayamayacağını söyleyemezsin, değil mi?"`
 `"700 milyonu altı ayda ödemek biraz can sıkıcı olabilir,`
 ` ama senin gibi siyaset ve iş dünyasında pek çok dostu olan biri bunu başarabilir."`
@@ -905,7 +905,7 @@
 `Çoğunlukla, Genji de ailenin durumunu anlıyordu.`
 `...Şu anda salonda, hizmet ettiği efendisinin bu kadar saygısızca tartışıldığını bilmek kaşlarını çatmak istemesine neden olmuş olmalı.`
 `Ancak kayıtsız ifadesinden bunu anlamak çok zor olurdu.`
-`".........Hala,`
+`".........Hâlâ,`
 ` ...benim için açık değil.`
 ` ...Kinzo-san'ın neden bu kadar kışkırtıcı bir şey yazdırdığını merak ediyorum."`
 `Nanjo, {f:5:Beatrice}'in portresine baktı.`
@@ -914,7 +914,7 @@
 ` Çok derin olduklarını hissediyorum."`
 `"......Hatırlayabildiğim kadarıyla, Kinzo-san ne zaman satranç oynasa, hamlelerini hep tahtanın uzak görüşlü bir analizine dayanarak yapardı.`
 ` Evet, bazen anlaşılmaz hamleler bile yapardı.`
-` ......Benim gibi ortalama bir insan için, planladığı şeyin ne olduğunu anlamak imkansız..."`
+` ......Benim gibi ortalama bir insan için, planladığı şeyin ne olduğunu anlamak imkânsız..."`
 `"Ben şahsen bunun Efendi'nin bir tür vasiyeti olabileceğinden şüpheleniyorum.`
 ` .........Büyük olasılıkla mal varlığını ve aile reisliğini bunu anlamayı başaran kişiye emanet etme niyetinde."`
 `"......Benim gibi bir yabancının bunu çözme tehlikesinin...`

@@ -10,7 +10,7 @@
 `Felsefi bir bakış açısına mı sahipti, yoksa sadece teslimiyet miydi?`
 `Genji, kendisini bekleyen kader kaçınılmaz olduğundan,`
 ` görevini son ana kadar sistematik bir şekilde yerine getirmeyi bir erdem olarak görmüş olmalıydı.`
-`Kendisi anlatmadığı sürece, kalbinin derinliklerini algılamak muhtemelen sonsuza dek imkansız olacaktı......`
+`Kendisi anlatmadığı sürece, kalbinin derinliklerini algılamak muhtemelen sonsuza dek imkânsız olacaktı......`
 `Master anahtarı Rosa'ya geri verdiği için gidebileceği yerler son derece sınırlıydı.`
 `Tek yapabildiği koridorlarda dolaşmak, pencerelerin kapalı olup olmadığını kontrol etmekti.`
 `{n}Bu yüzden normalden çok daha hızlı bir şekilde bu rotayı dolaşabildi.`
@@ -274,7 +274,7 @@
 `"Yanlış.`
 ` Çünkü o bir koyun değildi."`
 `"Genji-san'ın....bir kurt olduğunu mu söylüyorsun...?"`
-`"Mutfakta yalnız olduğunu söyledi, ama bunu kanıtlamak imkansız.`
+`"Mutfakta yalnız olduğunu söyledi, ama bunu kanıtlamak imkânsız.`
 ` Doktor Nanjo ve Kumasawa-san'ın cesetlerini taşıyabilecek ve George ile diğerlerini öldürebilecek tek kişiler, o ve {f:5:Beatrice}'ti, değil mi?"`
 `"B-Bekle, bu argümanla, herhangi biri—"`
 `"......Battler-sama.`
@@ -441,7 +441,7 @@
 ` {p:1:Geriye sadece beş master anahtar kalıyor, ve "Rosa" bunların hepsini elinde tutuyordu}!"`
 `"{p:1:Ve hazır başlamışken, salon da aynı}.`
 ` {p:1:Salonun anahtarı hizmetkâr odasında mühürlü}.`
-` {p:1:Bu nedenle salonun kilidini master anahtar dışında bir şeyle açmak imkansız}! {p:1:Odanın kilitli oda tanımı her zamanki gibi aynı}!"`
+` {p:1:Bu nedenle salonun kilidini master anahtar dışında bir şeyle açmak imkânsız}! {p:1:Odanın kilitli oda tanımı her zamanki gibi aynı}!"`
 `"Hadi amaaaaa, şimdi sadece bir şüpheli vaaaaar,`
 ` yoksa hâlâ aptalı mı oynuyorsun, Ushiromiya Battleeee{-}e{-}e{-}e{-}e{-}e{-}e{-}eeeer?!"`
 `"Kapa çeneniiiiiii!!`
@@ -487,8 +487,8 @@
 `hepsi, hepsi aptalcaydı!!"`
 `"Cadının işi olmasına rağmen, insanlar olarak birbirimize bile güvenemedik...!!`
 ` Değil mi, Rosa Teyze? Başından beri, {y:0:İnsan}{n:0:insan} bir suçlu yoktu, hepsi...cadının işiydi."`
-`"Yani Rosa Teyze, senin suçlu olmana imkan yok,`
-` ve suçlunun ben, Maria, Genji-san ya da herhangi biri olmasına imkan yooook!!`
+`"Yani Rosa Teyze, senin suçlu olmana imkân yok,`
+` ve suçlunun ben, Maria, Genji-san ya da herhangi biri olmasına imkân yooook!!`
 ` Neden bu hâle geldi?!!"`
 `"Neden, ......sevdiğim Rosa Teyze'ye bağırıyorum?!`
 ` Sevdiğim nazik teyzemle...`

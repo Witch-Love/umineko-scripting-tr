@@ -21,7 +21,7 @@
 ` Ben bile anlamıyorum!"`
 `"Ne diyorsun sen?!`
 ` Dün geceden beri nerede olduğu bilinmeyen cadı {f:5:Beatrice}'den...`
-` ...ya da kaybolan Kanon-kun'dan başka biriyle karşılaşmış olmanız imkansız!`
+` ...ya da kaybolan Kanon-kun'dan başka biriyle karşılaşmış olmanız imkânsız!`
 ` Kadın mıydı, erkek mi?!`
 ` Bana en azından bu kadarını söyleyebilmelisiniz, değil mi?!"`
 `"Rosa Teyze, biraz sakin ol...!`
@@ -283,7 +283,7 @@
 `"Biliyorsun, bunu kırmızıyla söylemedim...?`
 ` Kapıyı kilitleyip gittikleri esnada, bu odada birinin saklanıyor olma ihtimalini reddetmedim...`
 ` *cackle*cackle*cackle*!"`
-`"......Yatağın altına saklanmış olsalardı, cesetleri başka bir yere taşımış olmaları imkansız olmazdı.`
+`"......Yatağın altına saklanmış olsalardı, cesetleri başka bir yere taşımış olmaları imkânsız olmazdı.`
 ` Ama bu şekilde kapıyı kilitleyemezlerdi!`
 ` Ellerine geçirmek için onca zahmete katlandıkları master anahtar tam burada duruyordu!"`
 `"......Doğru ya, unutmuşum.`
@@ -303,7 +303,7 @@
 `{p:1:Ve ikisi de kilitliydi}.`
 ` {p:1:Kapı ve pencere kilitli olduğunda herhangi bir giriş veya çıkışa izin vermezler}.`
 ` Bu nedenle, kilit korunurken kapıyı sökmek, içeri girmek için bir delik açmak ya da buna benzer bir şey yapmak işe yaramayacaktır.`
-` Ve kuşkusuz, {p:1:hizmetkâr odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkansız}."`
+` Ve kuşkusuz, {p:1:hizmetkâr odasının anahtarı veya master anahtar olmadan kapının kilidini açmak imkânsız}."`
 `"...Tüm bunları her seferinde sesli olarak söylemek zorunda kalmak büyük bir acı.`
 ` Er ya da geç, tüm bunları kısaltarak tek bir cümle haline getirecek bir ifade bulmalıyım."`
 `"Ama, bu odada kimsenin saklanmadığını tekrarlayamazsın!`
@@ -356,7 +356,7 @@
 `{n}Suçlu bir yere saklanmış, gitmemizi bekliyor.`
 `.........Suçlu şu anda bile kilitli odada kapana kısılmış durumda!!`
 `Yani......tam şu anda!`
-`Suçlu hala hizmetkâr odasında nefesini tutarak saklanıyor...!!!`
+`Suçlu hâlâ hizmetkâr odasında nefesini tutarak saklanıyor...!!!`
 `Bu da demek oluyor ki......... Ne yani...`
 `Üç kez kilitli oda işkencesine maruz kalmış olsak da,`
 ` ......aslında tam da şu anda, suçluyu şah mat ettik!!`
@@ -421,12 +421,12 @@
 ` kırmızı!!`
 `Kimse saklanmıyor!`
 ` Ve gizli bir kapı yok, kilitliyken kapıları veya pencereleri açmanın bir yolu da yok!!`
-`Her şeyin imkansız olduğunu kanıtlamadın mı?!`
+`Her şeyin imkânsız olduğunu kanıtlamadın mı?!`
 `Şeytan'ın İspatı...`
 `...önden bir saldırı ile mi...`
 `...ortadan kaldırıldı?!`
-`İmkansız,`
-` ......bu imkansız!!`
+`İmkânsız,`
+` ......bu imkânsız!!`
 `"Sorun ne, Ushiromiya Battlerr?`
 ` Cadıları inkâr edebileceğinden çok emin değil miydin?`
 ` Neden böyle bir yerde sızlanıp gözyaşı döküyorsuuun?"`
@@ -598,7 +598,7 @@
 ` Malikanenin her tarafını arayıp cesetleri bulsalar bile, sonuçta kendi masumiyetleri kanıtlanamayacaktı.`
 `"Doktor Nanjo ve Kumasawa-san'ı kaçırdılar, onları başka bir yerde öldürdüler ve odayı kendi master anahtarlarıyla kilitlediler."`
 `Kilitli oda bu yöntem dışında bir yöntemle kırılmadığı sürece,`
-` ......masumiyetlerini kanıtlamak imkansız olurdu...`
+` ......masumiyetlerini kanıtlamak imkânsız olurdu...`
 `......Ama, .........bu olamaz!!`
 `Masumiyetlerini kanıtlamak için sadece bir şansları var.`
 `......Bu ancak suçlu ile karşılaştıklarında, ceset olduklarında ve Rosa Teyze ile yeniden karşılaştıklarında gerçekleşebilir.`
@@ -735,7 +735,7 @@
 ` bu büyük bir onur olur."`
 `".....................`
 ` Umarım tayfun geçene kadar, eğer mümkünse, hepiniz hayatta kalabilirsiniz.`
-` Tüm bunlar tayfunun estirdiği rüzgarların ve yağan yağmurun bir çılgınlığı.`
+` Tüm bunlar tayfunun estirdiği rüzgârların ve yağan yağmurun bir çılgınlığı.`
 ` ......Gösteri sona erdiğinde, ve perde kapandığında,`
 ` ......kesinlikle yeniden el ele tutuşabileceğiz."`
 `"......{ruby:When the seagulls cry:{i:Martılar...ağladığında.}}"`
@@ -837,7 +837,7 @@
 ` Çok fazla... Bu kadarı da çok fazla......!"`
 `"Bu bir Şeytan'ın İspatı!`
 ` Master anahtarlardan beş tane mi var?!`
-` Böyle bir şeyi kanıtlamak imkansız!!`
+` Böyle bir şeyi kanıtlamak imkânsız!!`
 ` Master anahtarları buraya koyarak beş tane olduğunu gösterebilirsin!`
 ` Ama beş taneden fazla olmadığını kanıtlayamazsın!!`
 ` Sadece bir şeytan ya da cadı böyle bir şeyi kanıtlayabilir, anlıyor musun?!"`

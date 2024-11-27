@@ -110,7 +110,7 @@
 `"Muhtemelen.`
 ` Ne de olsa tayfun geçene kadar bir tekne gelmeyecek."`
 `"E-...Evet, doğru!`
-` Tekneler biraz rüzgar olsa bile gelmezler.`
+` Tekneler biraz rüzgâr olsa bile gelmezler.`
 ` Tayfun olduğu sürece kesinlikle bir tekneye binemezler, evet!"`
 `"......Bu beni ürkütüyor."`
 `"Aniki, sen de mi öyle düşünüyorsun?`
@@ -124,14 +124,14 @@
 `"Bununla......ne demek istiyorsunuz......?"`
 `"Çok basit.`
 ` Tıpkı Kumasawa baa-chan'ın biraz önce söylediği gibi.`
-` Şu anda bu ada tayfunun tam ortasında ve kaçmak imkansız.`
+` Şu anda bu ada tayfunun tam ortasında ve kaçmak imkânsız.`
 ` Aynı şey suçlu için de geçerli.`
 ` .........Bu durumda, suçlunun en çok kaçınmak isteyeceği şey işlediği suçun ortaya çıkması olmalıydı."`
 `"......Bu doğru.`
 ` ...Kilisenin kapısına o ürkütücü büyülü çemberi çizmeye ve cesetlerin orada olduğu bilgisini vermeye gerek yoktu."`
 `"Doğru, aynen öyle.`
 ` Dahası, o altı kişiye bu kadar korkunç bir şey yapmak için zaman ve çaba harcayabiliyorlarsa,`
-` ......altı cesedi bulunması imkansız olacağı bir yere saklamaları da aynı oranda mümkün olmalıydı."`
+` ......altı cesedi bulunması imkânsız olacağı bir yere saklamaları da aynı oranda mümkün olmalıydı."`
 `"Katılıyorum. O vahşi Cadılar Bayramı partisi muhtemelen ölenlere yönelik değildi.`
 ` ......Eninde sonunda onu keşfedecek olan insanlara—bize—yönelikti.`
 ` Muhtemelen büyülü çemberin bunu bize göstermek için orada olduğunu söyleyebilirsiniz."`
@@ -243,7 +243,7 @@
 `Televizyona bakmaya devam ederken, ...bize neyi unuttuğumuzu çok basit bir şekilde anlattı.`
 `"{f:5:Beatrice} altını istediğine dair tek kelime etmedi.`
 ` ......{f:5:Beatrice}, kitabenin bilmecesini sizin çözüp çözemeyeceğinizi merak ediyor."`
-`"...Yine de sizin için imkansız olduğunu düşündüğüne şüphem yok.`
+`"...Yine de sizin için imkânsız olduğunu düşündüğüne şüphem yok.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `"......Maria, yani bunu çözebileceğini mi söylüyorsun?"`
 `"...Umrumda değiil.`
@@ -289,7 +289,7 @@
 `"......Bu babamın.`
 ` Şu anki durumdan dolayı özel olarak ödünç aldım.`
 ` .........Sizin de benim kadar farkında olduğunuzdan eminim.`
-` Suçlu hala yakınlarda.`
+` Suçlu hâlâ yakınlarda.`
 ` Neler olabileceğini bilmiyoruz."`
 `"...............Katılıyorum.`
 ` ......Suçlunun ne planladığını anlamaya çalışmak yerine, önce kendi güvenliğimizi düşünmek daha iyi olabilir."`
@@ -589,7 +589,7 @@
 ` Ama yine de, umm..."`
 `"Öyleyse, Gohda-san sanırım hâlâ şüphelisin.`
 ` Gohda-san'ın muhtemelen, Jessica-chan tarafından sevilmediğini düşünüyordum, bu yüzden Jessica-chan'ın onu odasına almayacağına inanıyordum."`
-`"Bu yüzden suçlunun sen olmasının imkansız olduğunu düşünmüştüm, ama...?"`
+`"Bu yüzden suçlunun sen olmasının imkânsız olduğunu düşünmüştüm, ama...?"`
 `"Hayır, umm...!`
 ` .........Leydi tarafından pek kabul edilmemiş olabileceğimi söylemekten çekiniyorum.`
 ` ...K-Kumasawa-san, peki ya sen?"`
@@ -606,7 +606,7 @@
 ` Onun savunmasız sırtına erişebilecek biri.`
 ` Ve o kişinin master anahtarı vardı.`
 ` Bu sadece bir kişiyi işaret ediyor.`
-` ......Kanon-kun dışında biri için bu imkansızdı."`
+` ......Kanon-kun dışında biri için bu imkânsızdı."`
 `"Lüt-......Lütfen, bekleyin...!`
 ` Kanon-kun kesinlikle böyle bir şey yapmaz...!"`
 `"Oh, o zaman, başka biri mi?`
@@ -622,7 +622,7 @@
 `"Ama sen babamın yanındaydın.`
 ` .........Ama yoksa,`
 ` ......suçlu sen misin...............?"`
-`"Sha-......Shannon'un suçlu olması imkansız!`
+`"Sha-......Shannon'un suçlu olması imkânsız!`
 ` Az önce onun büyükbabamla önemli bir iş yaptığını söyledin!"`
 `"Evet, bunu biliyorum.`
 ` Shannon-chan ve Genji-san suçlu değil.`
@@ -694,7 +694,7 @@
 ` *cackle*hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
 `"Kahretsin!!`
 ` Seni kabul etmeyeceğim!!!`
-` Ama......Kanon-kun'un suçlu olması, ......bu imkansız!!"`
+` Ama......Kanon-kun'un suçlu olması, ......bu imkânsız!!"`
 `"..........Kimseden şüphelenmek istemiyorum.`
 ` ...Ancak, bazen "ateş olmayan yerden duman çıkmaz" sözü doğru çıkabiliyor.`
 ` ......Her halükarda, muhtemelen tedbirli olmaktan iyisi yoktur..."`
@@ -892,7 +892,7 @@
 `"Bekle.`
 ` ......Bunu tartışmadan önce, açıklığa kavuşturmak istediğim bir şey var.`
 ` Eğer şu ya da bu kişi suçlu değilse, o zaman şu ya da bu kişi suçludur hakkında konuşmak istemiyorum.`
-` ...Ben sadece Kanon-kun'un suçlu olmasının nasıl tamamen imkansız olduğundan bahsetmek istiyorum."`
+` ...Ben sadece Kanon-kun'un suçlu olmasının nasıl tamamen imkânsız olduğundan bahsetmek istiyorum."`
 `"Suçlunun Kanon olmadığını kanıtlayabileceğini mi söylüyorsun?`
 ` *cackle*, nasıl?!"`
 `"Gerçekten çok basit.`
@@ -924,7 +924,7 @@
 ` Ancak, Gohda bakmıyorken geri vermiş olabilir!`
 ` Bunun kesin olarak gerçekleşmediğini nasıl kanıtlayabilirsin?!"`
 `"*cackle*cackle*cackle*, Kanon'un cesedinin cebini kontrol edebiliyor olsaydın, muhtemelen bunu tespit edebilirdin, ama edemezsin!!`
-` Kanıtlamak imkansız!!"`
+` Kanıtlamak imkânsız!!"`
 `"Hiç iyi değil.`
 ` Kanıtlamak gerçekten çok kolay değil mi?"`
 `"......Nasıl...!`
@@ -948,7 +948,7 @@
 `"Bu Kanon-kun'un master anahtarı.`
 ` .........Tekrar söyleyeceğim."`
 `"‘Kanon-kun'un master anahtarı yok’.`
-` Bu nedenle, kapıyı kilitlemiş olmasına imkan yok!!"`
+` Bu nedenle, kapıyı kilitlemiş olmasına imkân yok!!"`
 `"......Gerçekten de...öyle görünüyor.`
 ` ......Ama Kanon-kun Jessica-chan'ı gören son kişiydi.`
 ` Şüpheli olduğu gerçeği değişmedi."`
@@ -1033,7 +1033,7 @@
 `"Bunu da reddediyorum.`
 ` *cackle*cackle*."`
 `"......Bu reddetme olayı gerçekten anlaşılmaz.`
-` Tekrarlanması imkansız olduğu için mi reddediyorsun, yoksa tekrarlayabiliyorsun ama bilerek mi reddediyorsun anlayamıyorum..."`
+` Tekrarlanması imkânsız olduğu için mi reddediyorsun, yoksa tekrarlayabiliyorsun ama bilerek mi reddediyorsun anlayamıyorum..."`
 `"Kilisenin kilidini tartışırken, durumu tamamen tersine çevirmiştin.`
 ` Bir avantajım olduğunda, risk taşıyan kırmızıyla konuşup yolumdan sapmama gerek yok.`
 ` Hepsi bundan ibaret."`

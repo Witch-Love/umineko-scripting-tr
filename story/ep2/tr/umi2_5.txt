@@ -189,7 +189,7 @@
 ` Aniki'ye selam vermeye gidiyoruz."`
 `"Hmm?`
 ` Maria-chan'a ne oldu?`
-` Hala çiçek yataklarının başında mı?"`
+` Hâlâ çiçek yataklarının başında mı?"`
 `"...Evet.`
 ` Anlaşılan sevdiği bir gül vardı ve ona göz kulak olmak istediğini söyleyip beni dinlemedi.`
 ` Bir süreliğine istediğini yapmasına izin vermeye karar verdim."`
@@ -346,7 +346,7 @@
 `Shannon servis arabasını iterek salona girdi.`
 `Herkes şimdilik rahatlamaya ve biraz siyah çayın tadını çıkarmaya karar verdi...`
 `Harika bir aroma tüm salona yayılmaya başladı.`
-`Bu görüntüye bakarak, Shannon içeri girmeden hemen öncesine kadar var olan gergin atmosferi tahmin etmek imkansızdı.`
+`Bu görüntüye bakarak, Shannon içeri girmeden hemen öncesine kadar var olan gergin atmosferi tahmin etmek imkânsızdı.`
 `...Elbette, çayı servis eden Shannon muhtemelen bunun farkına bile varmamıştı.`
 `......Kyrie herkesin yetişkin görünümüne gülüyormuş gibi bir el hareketi yaptı.`
 `Rudolf, Kyrie'nin inisiyatif alıp aile konferansında konuşmasından hoşlanmamıştı.`
@@ -363,7 +363,7 @@
 `...Buraya kirli ve kanlı bir şekilde kavga etmeye gelmişlerdi, her biri diğerinden mirası çalmaya çalışıyordu.`
 `Muhtemelen bu aşamada komplo arkadaşıymış gibi davranmak istemiyordu.`
 `......Ya da belki de bunun için hâlâ çok tecrübesizdi.`
-`"...Dışarıda rüzgar şiddetlenmeye başlamış gibi görünüyor.`
+`"...Dışarıda rüzgâr şiddetlenmeye başlamış gibi görünüyor.`
 ` ...Bitkiler çok fazla sallanıyor."`
 `"Tayfun muhtemelen oldukça yaklaştı.`
 ` ......Bu gece çok yağmur yağacak mı merak ediyorum."`
@@ -493,7 +493,7 @@
 `...Ancak, ikisini çevreleyen şey gittikçe kötüleşen gökyüzüydü.`
 `{n}Gök gürültüsüyle karışan şiddetli rüzgârlar üzüntü vericiydi.`
 `Rosa, Maria'nın burnunu çekerken çıkardığı sesi fark etti.`
-`{n}...Eğer uzun süre rüzgara maruz kalırsa, muhtemelen üşütecekti.`
+`{n}...Eğer uzun süre rüzgâra maruz kalırsa, muhtemelen üşütecekti.`
 `"......Hadi, Maria.`
 ` Çok yakında öğle yemeği hazır olacak.`
 ` Annenle malikaneye gel."`
@@ -516,7 +516,7 @@
 `"Uu!"`
 `"Demek öyle...`
 ` O zaman burada beklemek yerine neden malikanede beklemiyoruz?`
-` Bu rüzgarda fazla kalırsan üşüteceksin..."`
+` Bu rüzgârda fazla kalırsan üşüteceksin..."`
 `"O gelecek!`
 ` {f:5:Beatrice} gelecek!!!"`
 `"Ve {f:5:Beatrice} geldiğinde, ona şeker vereceğim.`
@@ -551,7 +551,7 @@
 ` ...Ancak Maria ilk göründüğü anda ona seslenmişti.`
 `Dolayısıyla, Rosa onunla hiç tanışmamış olmasına ve onun Rosa'ya adını söylememiş olmasına rağmen, Rosa onun adını öğrenebilmişti.`
 `......Ancak bu ismin Rokkenjima'da ve Ushiromiya ailesinde özel bir anlamı vardı.`
-`......Bu kadar aptalca bir şeyin olmasına imkan yok......!`
+`......Bu kadar aptalca bir şeyin olmasına imkân yok......!`
 `"{f:5:Beatrice}!`
 ` <Happy Halloween>!`
 ` Bak, bunları aldım!`
@@ -580,7 +580,7 @@
 `......Rosa olanları hayretler içinde izlemekten başka bir şey yapamadı.`
 `{n}...Bu kişi şekerin acınası bir şekilde ayaklar altına alındığı gerçeğini Maria'yı tatmin edecek şekilde nasıl görmezden gelebiliyordu...?`
 `Maria şekerin eskisi kadar iyi olacak şekilde düzeltebileceğine inanmış gibi görünüyordu.`
-`...Gerçek bir "büyü" olmadan bunun yapılmasına imkan yoktu...!`
+`...Gerçek bir "büyü" olmadan bunun yapılmasına imkân yoktu...!`
 `"Şuna bir bak, oldukça kötü ezilmiş, değil mi?`
 ` ......Hadi, Maria.`
 ` Gözlerini kapat ve hatırlamaya çalış."`

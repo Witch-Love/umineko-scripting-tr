@@ -1,7 +1,7 @@
 `"...Anlıyorum...`
 ` Yani adada bir cadı değil de {f:5:Beatrice} adında bir metres vardı..."`
 `"......Yani 18'den fazla insan olabilir!`
-` Bu da 18 kişi için imkansız olan herhangi bir suçun büyü içermesi gerektiğini öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
+` Bu da 18 kişi için imkânsız olan herhangi bir suçun büyü içermesi gerektiğini öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
 ` ......İşte bu büyük bir bilgi."`
 `"İzninizle.`
 ` Battler-sama, biraz siyah çay ve kurabiye ister misiniz?"`
@@ -17,7 +17,7 @@
 ` Beni yalnız bırak."`
 `"Amanın.`
 ` Kurabiyeler bu kadar lezzetli olmuşken bu çok yazık oldu.`
-` O kadar muhteşem piştiler ki, basit bir {y:0:İnsan}{n:0:insan}ın bunları ziyan etmesi utanç verici, gerçekten harika kurabiyeler."`
+` O kadar muhteşem piştiler ki, onları basit bir {y:0:İnsan}{n:0:insan}a vererek ziyan ediyor olmam utanç verici, gerçekten harika kurabiyeler."`
 `"Canım isterse biraz yerim.`
 ` Şuraya bir yere koy ve git buradan."`
 `"Böylesi uygun mu?`
@@ -32,8 +32,8 @@
 ` Pu ku ku ku..."`
 `"......Sen çok tuhafsın.`
 ` Madem hoşuna gitmiyor, o zaman onun için çalışmasan olmaz mı?"`
-`"Bunlara rağmen hizmet etmeye devam etmek bir mobilyanın işidir.`
-` Böyle bir duruş sergilenmeden mobilya olarak hizmet verilemez."`
+`"Bunlara rağmen hizmet etmeye devam etmek bir mobilyanın neşesidir.`
+` Böyle bir duruş sergilenmeden mobilya olarak hizmet edilemez."`
 `"......Bunu bir kenara bırakalım.`
 ` Oyun nasıl ilerliyor?`
 ` Az önce, bazı iyi bilgiler bulduğunuzu ve bundan oldukça memnun olduğunuzu söylediğinizi duyduğumu sanıyorum.`
@@ -50,7 +50,7 @@
 ` Görünüşe göre bu adada bir yerlerde gizli bir malikane varmış ve Büyükbabamın metresi orada yaşıyormuş.`
 ` Bu durumda, bana 18 mi yoksa 19 kişi mi olduğu konusunda acı çektiren sorun kolayca çözülebilir."`
 `"Battler-sama, cadıları inkâr etmenize rağmen,`
-` ...18 kişi arasında bir suçlu aramayı reddederek ikili bir yaklaşım sergiliyor ve kendinizi çıkmaza sürüklüyorsunuz."`
+` ...18 kişi arasında bir suçlu aramayı reddederek çifte standart sergiliyor ve kendinizi çıkmaza sürüklüyorsunuz."`
 `"...Cadıyı inkâr etmenin en kolay yolu 18 kişinin birinden şüphe etmek olurdu.`
 ` ......Bu 18 kişiden her birinin mazereti olması o kadar kolay değil.`
 ` Her zaman en az bir kişinin zayıf bir mazereti olur.`
@@ -121,7 +121,7 @@
 `Bu varsayımı kanıtlamak için bu malikaneyi bulmalı ve {f:5:Beatrice}'i görmeliyiz.`
 `İnsan dünyasında buna somut delil denir.`
 `Fakat "Şeytan'ın İspatı" ilkesini takip edersek, var olduğuna dair hiçbir kanıt olmasa bile, var olmadığını kanıtlayamazsınız.`
-`Çünkü bir şeyin var olmadığını kanıtlamak imkansızdır.`
+`Çünkü bir şeyin var olmadığını kanıtlamak imkânsızdır.`
 `......Doğru, daha önce bana çok sıkıntı çektiren bu "Şeytan'ın İspatı" ilkesini nihayet kendi avantajıma göre kullanmayı başardım.`
 `Onlar sürekli "Şeytan'ın İspatı" ilkesini kullanarak beni cadının varlığını kabul etmem için zorluyorlardı.`
 `Bunun nedeni, Beato'nun cadıların var olduğu yönündeki iddialarına karşılık olarak,`
@@ -133,7 +133,7 @@
 `Başka bir deyişle, bu esrarengiz metres kendini gizlemekte usta olduğu için, ne kadar aranırsa aransın onu bulamamak son derece doğal olurdu.`
 `Yani, "19. kişi etrafta bulunamadı = 19. kişi yok" diyemezsiniz.`
 `Bu sebeple 19. kişinin varlığını inkâr etmek mümkün değildir.`
-`{n}Beato, varlığının inkâr edilmesini imkansız hale getirmek için "Şeytan'ın İspatı"nı kullandı,`
+`{n}Beato, varlığının inkâr edilmesini imkânsız hale getirmek için "Şeytan'ın İspatı"nı kullandı,`
 ` ama bu sefer bu benim silahım oldu.`
 `Bu argümanla paçayı kurtarabilirsek, o zaman 19. kişiyi bir kenara bırakın,`
 ` tüm ada bilmediğimiz insanlarla dolu olabilir,`
@@ -308,11 +308,11 @@
 ` ve bombanın bu kutuların hiçbirinde olmadığını gösterebilseydim,`
 ` 18 kişinin masum olduğunu rahatlıkla gösterebilirdim.`
 `Eğer bu mümkün olsaydı, kendime güveniyor olurdum!`
-`Ancak, gerçekte, bu imkansıza en yakın şey.`
+`Ancak, gerçekte, bu imkânsıza en yakın şey.`
 `Bu tayfunda polis buraya gelmez.`
 `{n}Ne soruşturma, ne de otopsi, hiçbir şey olamaz.`
 `{n}Kısacası, kesin bir şey gösteremiyorum!`
-`Benim için 18 kişinin her birinin sunduğu mazeretlere inanmaktan başka bir kanıt bulmak imkansız.`
+`Benim için 18 kişinin her birinin sunduğu mazeretlere inanmaktan başka bir kanıt bulmak imkânsız.`
 `Bu da onların masumiyetini bizzat kanıtlamam ve bunu mükemmel bir şekilde yapmam gerektiği anlamına geliyor.`
 `Birinin yanında sürekli kalmak, onu bir saniye bile gözümün önünden ayırmamak gibi.`
 `Bunu yaparsam, muhtemelen o kişinin masum olduğundan,`
@@ -321,18 +321,18 @@
 `{n}Başka bir deyişle, sadece bir kutunun içeriğini kontrol etmek için bile inanılmaz bir çaba sarf etmem gerekiyor.`
 `Ve 18 kutu var!`
 ` Yani, 18'ini de zincire vurup gözetim altında tutmadığım sürece,`
-` tamamının boş kutulara sahip olduğunu kanıtlamam imkansız.`
+` tamamının boş kutulara sahip olduğunu kanıtlamam imkânsız.`
 `Ancak Beato'nun bombanın diğer 18 kutudan birinde olduğunu kanıtlamak için sadece bir kutuyu,`
 ` 19. kutuyu açması ve boş olduğunu göstermesi gerekiyor.`
 ` (Üstelik 18 kutunun {i:hangisinde} bomba olduğunu göstermesine de gerek yok!)`
 `Kendi amatör teorimi savunmak için Beato'nun kendi teorisi için yaptığından 18 kat daha fazla çalışmam gerekiyor......`
 `"Tıpkı "Şeytan'ın İspatı"ndan bildiğin gibi,`
-` bu dünyada bir şeyi çürütmenin muazzam miktarda çaba gerektirdiği ve pratikte imkansız olduğu pek çok durum mevcut."`
+` bu dünyada bir şeyi çürütmenin muazzam miktarda çaba gerektirdiği ve pratikte imkânsız olduğu pek çok durum mevcut."`
 `"Ancak "Hempel'in Kuzgunu" bu problemi tersine çeviriyor ve bir şeyleri kolayca kanıtlamayı mümkün kılıyor!"`
 `""Hempel'in Kuzgunu" kullanılarak, akıl almaz çeşitli argümanların kanıtlanması mümkün hale gelebilmekte."`
 `"......Örneğin, "Benim dışımdaki tüm insanlar aptaldır" önermesinde bulunduğumu varsayalım.`
 ` Normal şartlarda bunu kanıtlayabilmek için kendim dışındaki tüm insanları incelemem ve tümünün aptal olduğunu ispat etmem gerekirdi."`
-`"...Ancak, milyarlarca insanı incelemek gerçekten imkansız olurdu.`
+`"...Ancak, milyarlarca insanı incelemek gerçekten imkânsız olurdu.`
 ` Bu, 18 kutunun tamamını açmak için ihtiyaç duyacağınız çabanın aynısı olacaktır."`
 `"*cackle*cackle*!`
 ` Fakat, "Hempel'in Kuzgunu" kullanıldığında, bu önermenin karşıt argümanı şu şekilde olacaktır."`
@@ -372,7 +372,7 @@
 `Bir süre öylece kalakaldım, ağzımı kapatmayı unutmuş, şok olmuş bir hâlde...`
 `Tam da onların en sevdiği hareketi onlara karşı kullanarak kendi sırtımı sağlama aldığımı düşünürken,`
 ` karşı saldırıda hayal bile edemeyeceğim bu pervasız argümanla karşılaşmıştım...!`
-`Bu gerçekten de...imkansız mıydı...?!`
+`Bu gerçekten de...imkânsız mıydı...?!`
 `Sadece 18 kişinin yaşadığı bir adada cadıyı inkâr etmeye devam etmek,`
 ` ve yine de o 18 kişinin masum olduğuna inanmak...`
 ` .........Bu sadece bir hayal miydi?!`
@@ -407,7 +407,7 @@
 ` Kinzo'nun torunundan daha azını beklemezdim.`
 ` Görünüşe göre ruh çağırma konusunda doğuştan bir yeteneğin var."`
 `"......Kısaca!`
-` İlk 18'in dışında varolan "X" için sürekli olarak bir mazeret kanıtlamak imkansızdır!`
+` İlk 18'in dışında varolan "X" için sürekli olarak bir mazeret kanıtlamak imkânsızdır!`
 ` ......Bunu nasıl buldun, Beato...?!`
 ` Artık çarpık mantıkla savaştığımızı bildiğime göre, kaybetmeyeceğim!"`
 `"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
@@ -639,7 +639,7 @@
 ` ......Herkesin bir mazereti olduğu için kapalı olduğunu söylediğin odaların hepsini bu devasa taş kırıp açabilir...!"`
 `Bu tıpkı...`
 `satrançta ufak bir boşluk olduğu sürece düşman kuvvetleri arasından ince bir hat çizebilen bir fil gibiydi.`
-` Sadece aynı renkteki kareler üzerinde etkilidir, ancak tahtayı kontrol etmede büyük bir kabiliyeti vardır.`
+` Sadece aynı renkteki kareler üzerinde etkilidir, ancak tahtayı kontrol etmede büyük bir etkisi vardır.`
 `"..............................`
 ` ..................kh."`
 `Görünüşe göre Beato da içinde bulunduğu durumu oldukça iyi anlamıştı.`
@@ -678,7 +678,7 @@
 `Uzun, çok uzun bir süre düşündükten sonra,`
 ` ......derin bir nefes vererek, sessizce reddetti.`
 `......Kullanacağını düşünmüştüm.`
-`Ama Beato, oyunun başlangıç kısmında galibiyetine neden olacak olsa da kırmızı renkte konuşmayı reddetti.`
+`Ama Beato, oyunun başlangıç kısmında galibiyetine neden olacak olsa da kırmızıyla konuşmayı reddetti.`
 `"Reddettin, değil mi......?`
 ` Bu da şu andan itibaren,`
 ` 18 kişinin dışında istediğim kadar kurgusal X karakteri yaratabileceğim anlamına geliyor..."`
@@ -690,9 +690,9 @@
 ` ...Hayır, bunu şimdilik paylaşmayacağım.`
 ` Her halükarda yakında öğreneceksin."`
 `"...Ihihi.`
-` Gördüğüm kadarıyla hala sert davranıyorsun..."`
+` Gördüğüm kadarıyla hâlâ sert davranıyorsun..."`
 `"......Kasıtlı olarak kullanmadığım kırmızı, başlı başına uygun bir kullanım.`
-` Ona benim kıymetli kırmızı kılıcım demiştin.`
+` Onun benim kıymetli kırmızı kılıcım olduğunu söylemiştin.`
 ` Hoş bir benzetme.`
 ` Ben de kullanacağım.`
 ` ......Kıymetli bir kılıç, kınında olduğu zaman en iyi halindedir.`
@@ -702,7 +702,7 @@
 ` Bu oldukça ciddi bir baskı."`
 `"......Ayrıca tekrarlamayı reddederek işleri oldukça zorlaştırdığın zamanlar da oluyor.`
 ` ...O anlarda, tahminim doğru olduğu için mi tekrar edemediğini,`
-` yoksa beni yanlış yönlendirerek istediğimi düşünmeme izin mi verdiğini anlayamıyorum."`
+` yoksa beni yanlış yönlendirerek istediğimi düşünmeme mi izin verdiğini anlayamıyorum."`
 `"...Bu anlamda, evet, anlıyorum.`
 ` Kınında, kıymetli bir kılıç."`
 `"............Bunun ne önemi var?`
@@ -810,9 +810,9 @@
 `istemeden ciddi bir duruma yol açan küçük bir şakayı itiraf etmeye çalışıyormuş gibi...`
 `bir hali vardı, odadaki atmosfer böyleydi.`
 `"Hayır, şey......`
-` ......B-{f:5:Beatrice} olan Babamın bu metresi,`
+` ......B-{f:5:Beatrice} denen Babamın bu metresi,`
 ` ......o gerçekten, şey,`
-` .........hala hayatta mı diye, merak ediyordum..."`
+` .........hâlâ hayatta mı diye, merak ediyordum..."`
 `"Ha?`
 ` Hayatta olduğu çok açık.`
 ` Bize mektup gönderiyor, daha ne istiyorsun?"`

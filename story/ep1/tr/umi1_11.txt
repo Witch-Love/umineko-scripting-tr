@@ -135,7 +135,7 @@
 ` Pazartesi sabahı bir tekne gelecek ve onların iletişim ekipmanlarını ödünç alabiliriz diye düşünüyorum."`
 `"Bu adada hiç tekne yok mu?!`
 ` Niijima Polis Departmanı'na küçük bir seyahat yapamaz mıyız?!"`
-`"...Hideyoshi-san, bu havada bu imkansız...`
+`"...Hideyoshi-san, bu havada bu imkânsız...`
 ` En azından tayfun adayı geçene kadar bir şey yapamayız."`
 `"Krauss-sama'nın teknesi şu an tamirde ve adada değil...`
 ` Bu nedenle korkarım Pazartesi günkü tekneyi beklemekten başka seçeneğimiz yok......"`
@@ -147,8 +147,8 @@
 `...sadece biz değil,`
 ` ...herkesi öldüren suçlu da bu adaya hapsoldu..."`
 `"......Bu kesinlikle doğru.`
-` ......Herkesi öldüren suçlu hala adada."`
-`"Ö-......Öyleyse Babamı ve diğerlerini öldüren piç adadan ayrılamıyor ve hala bir yerlerde saklanıyor...`
+` ......Herkesi öldüren suçlu hâlâ adada."`
+`"Ö-......Öyleyse Babamı ve diğerlerini öldüren piç adadan ayrılamıyor ve hâlâ bir yerlerde saklanıyor...`
 ` ......Kahretsin, kahretsin{0}kahretsin{0}kahretsin!!!`
 ` Seni bulacağım, seni piç, seni öylece polise teslim edeceğimi mi sanıyorsun?!!"`
 `"Seni kendim parçalara ayıracağım...!!!`
@@ -186,7 +186,7 @@
 ` Nasıl bu kadar zalimce bir şey yapabildin!!`
 ` Eğer insansan, ne kadar zalim olabileceğinin de bir sınırı vardır...!`
 ` Kim olduğunu bilmiyorum, ama katil insan değil!!`
-` Kanının kırmızı olmasına imkan yok!!"`
+` Kanının kırmızı olmasına imkân yok!!"`
 `"............Uu.`
 ` Katil insan değil.`
 ` Sadece{0}{nobreak:{m:-5:——}—}{0}tarafından{nobreak:{m:-5:——}—}."`
@@ -224,7 +224,7 @@
 `Natsuhi bunu söylerken Genji ve Kanon'a baktı.`
 `...Muhtemelen Tek Kanatlı Kartal'ı takmalarına izin verilen ve doğrudan onun emrinde çalışan hizmetkârların onun olabileceği bir yeri bilebileceklerini düşünmüştü.`
 `.........Ancak durum tam tersi gibi görünüyordu.`
-`{n}...Kinzo'yu en iyi tanıyanların, onun için odasından çıkmanın ne kadar imkansız olduğunu herkesten daha iyi anladıkları yüzlerinden anlaşılıyordu.`
+`{n}...Kinzo'yu en iyi tanıyanların, onun için odasından çıkmanın ne kadar imkânsız olduğunu herkesten daha iyi anladıkları yüzlerinden anlaşılıyordu.`
 `".........Bizim bile hiçbir fikrimiz yok."`
 `"...Hepinizin bildiği gibi, Efendi'nin o çalışma odasında yatağından banyosuna kadar her şeyi var.`
 ` Çok istisnai durumlar dışında o odadan çıkmış olabileceğini düşünemiyorum."`
@@ -263,7 +263,7 @@
 ` Rosa Teyze,`
 ` Gohda-san ve Shannon-chan...`
 `gül bahçesi ambarında acımasızca parçalanmış cesetler olarak bulunmuştu.`
-`Ve buna rağmen telefon ya da telsiz kullanamıyor ve hala polise ulaşamıyorduk.`
+`Ve buna rağmen telefon ya da telsiz kullanamıyor ve hâlâ polise ulaşamıyorduk.`
 `......Yani tayfun geçene kadar yapabileceğimiz hiçbir şey yoktu.`
 `Dahası, bu tür bir durumda biraz olsun önderlik gösterebileceğini umduğumuz Büyükbaba da bir noktada ortadan kaybolmuştu.`
 `......Gohda-san kahvaltı hazırlamadığı için Büyükbabanın midesi boş olmalıydı ve eğer öylesine bir yürüyüşe çıkmış olsaydı,`
@@ -405,7 +405,7 @@
 `Yapmak istediğim şey gerçekten buydu.`
 ` Burada öylece oturup, üzüntüden kahrolup dizlerime sarılmayı kendime yediremiyordum.`
 `"......Babam ve diğer herkes öldüğünden beri bu ada tayfunun etkisi altında kaldı.`
-` ......Kısacası bu, bu aşağılık, tiksindirici saçmalığı yapan pisliğin hala bu adada bir yerlerde olduğu anlamına geliyor."`
+` ......Kısacası bu, bu aşağılık, tiksindirici saçmalığı yapan pisliğin hâlâ bu adada bir yerlerde olduğu anlamına geliyor."`
 `"Kesinlikle öyle.`
 ` .........Şimdi bile o karanlık ormanda bir yerlerde saklanıyorlar mı acaba?"`
 `.........Bir gece önce Kyrie-san ile...`
@@ -419,7 +419,7 @@
 `"...Aah, o şey?`
 ` ............Şey, emin değilim.`
 ` Biz kardeşler, gizemli mektubun babamın miras sorununu daha da karmaşık hale getirmek için gönderildiği konusunda hemfikir olsak da,`
-` .........bunun ve bu sabahki olayın birbiriyle bağlantılı olup olmadığını şu aşamada söylemek imkansız..."`
+` .........bunun ve bu sabahki olayın birbiriyle bağlantılı olup olmadığını şu aşamada söylemek imkânsız..."`
 `"O mektup gerçekten Maria'ya {f:5:Beatrice} adında bir cadı tarafından mı verildi?"`
 `"Nasıl olabilir ki?`
 ` Hepsi Babam tarafından tasarlanmış bir maskaralıktı, değil mi?`
@@ -484,7 +484,7 @@
 ` Anlıyorsun, değil mi?"`
 `"Yemek salonunda dört kişiye saldırıp hepsini birden öldürebilmeleri, toplam altı cesedi de gül bahçesinin ötesindeki ambara kadar sürüklemeleri ve yüzlerine o iğrenç makyajı yapmaları gerekiyordu.`
 ` ......Bütün bunları tek bir suçlunun tek başına yapmasına imkân yok, değil mi?"`
-`Bu imkansızdı.`
+`Bu imkânsızdı.`
 ` Tek bir kişi yeterince zaman harcasaydı mümkün olabilirdi ama bu da yıllar alırdı.`
 `Muhtemelen en mantıklı düşünce, ciddi sayıda insanın bu işin bir parçası olduğunu düşünmekti.`
 `"...............Whoo.`
@@ -538,7 +538,7 @@
 `{n}{i:Herkesin varabileceği bir muhakeme.}`
 ` ...Ve ben bunu kabul edemezdim.`
 `...Kyrie-san'dan öğrendiğim gibi "satranç tahtasını ters çevirmeyi" deneseydim,`
-` ......işte tam da bu yüzden hizmetkârların suçlu olması imkansızdı.`
+` ......işte tam da bu yüzden hizmetkârların suçlu olması imkânsızdı.`
 `Eğer suçlular gerçekten hizmetkârlar olsaydı, cesetleri kendilerine bağlı bir yere saklamazlardı.`
 `Hele ki anahtarı kendilerinin kontrolünde olan gül bahçesi ambarına hiç.`
 `Polis muhtemelen anahtarı kontrol eden kişinin peşine düşerdi.`
@@ -639,7 +639,7 @@
 `Eva Teyze acı bir gülümsemeyle omuz silkti.`
 `......Hizmetkârların şüpheli olduğunu düşünmek ne kadar kolaysa, Eva Teyze'nin şüpheli olduğunu düşünmek de o kadar kolaydı.`
 `Yani "satranç tahtasını ters çevirirsek",`
-` ......bu, suçlunun kolayca şüphe edilebilen Eva Teyze olmasının imkansız olduğu anlamına mı geliyordu...?`
+` ......bu, suçlunun kolayca şüphe edilebilen Eva Teyze olmasının imkânsız olduğu anlamına mı geliyordu...?`
 `Ancak, bu mantık bu kadar kolayca aşılabilseydi, motivasyonun hiçbir önemi kalmazdı.`
 `Hayır, bu doğru olamaz...`
 `{n}Motivasyonunu bilmek, suçluyu tanımak için büyük bir ipucu olmalı.`
@@ -707,7 +707,7 @@
 ` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
 `Herkes korkudan aklını kaçırmışken, Maria tek başına neşe içinde kıkırdamaya devam ediyordu...`
 `Bir süre sonra, bu kahkaha aniden ve beklenmedik bir şekilde kesildi.`
-`Ama ifadesi hala Maria'dan tamamen farklı biriymiş gibiydi.`
+`Ama ifadesi hâlâ Maria'dan tamamen farklı biriymiş gibiydi.`
 `"Bu, Güneş'in yedinci büyü çemberi.`
 ` ......Karakterler İbranice.`
 ` Şunu ver."`

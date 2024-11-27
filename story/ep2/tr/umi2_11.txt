@@ -171,7 +171,7 @@
 ` {i:altı kişinin ölümünü istemesinin} sebebi ne olabilir......?"`
 `"......Haklısın.`
 ` Bu kadar ayrıntılı bir şey yapıldığında, polis geldiğinde aleyhine bir kanıt bulunma ihtimali son derece yüksek olacaktır."`
-`"......Suçlunun bunu dikkate almamış olmasına imkan yok.`
+`"......Suçlunun bunu dikkate almamış olmasına imkân yok.`
 ` ...O hâlde, suçlunun bunu yapmak için neden bu kadar çaba sarf ettiği,`
 ` sorusuyla karşı karşıyayız..."`
 `"Bu noktada, sorulması gereken bir soru var.`
@@ -232,7 +232,7 @@
 ` ..............."`
 `"......Her neyse, bu inanılmaz.`
 ` İki elin parmaklarıyla bile buna yakın bir sayı sayamazsınız.`
-` Bir mucize gerçekleşmediği sürece bu gerçekten imkansız olurdu."`
+` Bir mucize gerçekleşmediği sürece bu gerçekten imkânsız olurdu."`
 `"......Gerçekten de.`
 ` Kinzo-san'ın her şeyi kumarla ilişkilendirme eğiliminde olduğu zamanlardaki konuşmasına çok benziyor."`
 `"Hey, hey, hepiniz okuyabiliyor musunuz?`
@@ -369,13 +369,13 @@
 ` Eğer bir insansa, bunu yenmek için nasıl bir numara kullanabilirdi, hmm~?"`
 `"Bu tıpkı geçen seferki kilitli odalar gibi.`
 ` ...Yeterli bilgi yok!!`
-` Bu şekilde mantık yürütmek imkansız!`
+` Bu şekilde mantık yürütmek imkânsız!`
 ` Her türlü bahane bulunabilir, her türlü numara işe yarayabilir!!`
 ` Mantık yürütmenin bir anlamı yok!"`
 `"Ha!`
 ` Yine mi bu?`
 ` Yeterli bilgi yok, bu yüzden bekleyip görecek misin?`
-` Bilgi net değil, bu yüzden muhakeme imkansız mı...?`
+` Bilgi net değil, bu yüzden muhakeme imkânsız mı...?`
 ` Ha, siz insanların düşünmeyi bırakmak için kullandığı bahaneler hep bunlar.`
 ` Seni aşağılık insan, bu bahane de ne?!"`
 `"Laplace'ın şeytanı gibi olmadığın sürece düşünemeyeceğini mi söylüyorsun, seni beceriksiz aptal?!!`
@@ -384,14 +384,14 @@
 ` Bu sadece seni sıkıştıran kompresörün gücünün artmasına neden olacaktır!`
 ` *cackle*cackle*cackle*cackle*cackle*!!"`
 `"Hoh, o zaman, şunu söyleyeyim.`
-` İlk etapta buranın "kilitli bir oda" olduğunu doğrulamak bile imkansız!!`
+` İlk etapta buranın "kilitli bir oda" olduğunu doğrulamak bile imkânsız!!`
 ` Eğer şeytanlardan bahsediyorsak, o oyunu da oynayabilirim."`
 `"......Bunun kilitli bir oda olmadığını kanıtlamak mümkün.`
 ` Sadece birinin nasıl girip çıkabileceğini göstermen gerekiyor!"`
-`"Ama, kilitli bir oda {i:olduğunu} kanıtlamak imkansız!!`
+`"Ama, kilitli bir oda {i:olduğunu} kanıtlamak imkânsız!!`
 ` İçeri girmek için sonsuz sayıda yöntem olduğunu inkâr edemezsin.`
 ` Yani, bu da Şeytan'ın İspatlarından biri!!!`
-` Kilitli bir oda tanımını kanıtlamak gerçekte imkansızdır!!"`
+` Kilitli bir oda tanımını kanıtlamak gerçekte imkânsızdır!!"`
 `"Yani, bilgi eksikliğini bir bahane olarak düşünmeyi bıraktıktan sonra, sırada bu var.`
 ` ......Peki.`
 ` Eğer hamlen buysa, kabul ediyorum.`
@@ -403,8 +403,8 @@
 ` Başka bir deyişle, gizli bir geçit bulsam da bulamasam da, kilitli odaya girilmesini sağlayacak bir X yöntemini asla inkâr edemezsin!"`
 `"Ve bu X yöntemi büyü olmadan da gerçekleştirilebilir.`
 ` Ne de olsa bu bir "gizli geçit"!`
-` Eminim bu kilisede bulunması imkansız gizli bir geçit vardır.`
-` Bu yüzden tahminde bulunmaya başlamama bile gerek yok ve büyünün imkansız olduğunu söyleyebilirim!!"`
+` Eminim bu kilisede bulunması imkânsız gizli bir geçit vardır.`
+` Bu yüzden tahminde bulunmaya başlamama bile gerek yok ve büyünün imkânsız olduğunu söyleyebilirim!!"`
 `".........Hohoh, demek bu muhakeme tarzını kullanıyorsun.`
 ` *cackle*cackle*, ne kadar safça."`
 `"Beklenen bir hamle.`
@@ -505,7 +505,7 @@
 ` Bu açıkça bir doğrudur ve gerçektir!!"`
 `"Sebebi basit.`
 ` Tüm suçları büyü ile işliyorum.`
-` Yani herhangi bir imkansız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
+` Yani herhangi bir imkânsız suç için tek yapmam gereken gözlerinin önünde büyülü asamı sallamak."`
 `"Ama bu bir oyun olmaz!`
 ` Bu, bir satranç oyununda zafer ve yenilgiyi görmezden gelip rakibini yumruklamak gibi bir barbarlık olur!"`
 `"G-......Gerçekten, bu doğru.`
@@ -518,7 +518,7 @@
 ` Kilidi büyüyle açtım.`
 ` ......Bu büyüyü, bu kilitli odayı nasıl yeneceksin?!"`
 `"......A-Anahtar!`
-` Genji-san ve diğerleri sadece bir tane anahtar olduğunu söylediler ama bunu kanıtlamak imkansız!`
+` Genji-san ve diğerleri sadece bir tane anahtar olduğunu söylediler ama bunu kanıtlamak imkânsız!`
 ` Suçlu gizlice anahtarı kopyaladı...!"`
 `"*cackle*cackle*cackle*cackle*!`
 ` {p:1:Kilisenin yalnızca bir anahtarı var}!"`
@@ -528,7 +528,7 @@
 ` Ne olduğunu bilmiyorum, ama belki bir tel!`
 ` Kilit açmak için bir alet!!"`
 `"Bu safça hareket de ne?`
-` {p:1:Kilisenin kilidini, kilisenin anahtarından başka bir şeyle açmak imkansız}!!`
+` {p:1:Kilisenin kilidini, kilisenin anahtarından başka bir şeyle açmak imkânsız}!!`
 ` Elbette büyü gücüyle açılabilmesine rağmen...?"`
 `"Peki ya bu!!`
 ` Kapının kendisinde bir sorun var!`
@@ -623,7 +623,7 @@
 ` ......İnsanların yüzyıl önce ortaya çıkardığı düşünme tekniği.`
 ` Denemekten çekinme, *cackle*cackle*!!"`
 `"...Bunu benim için kırmızıyla söyle.`
-` Eğer imkansızsa, reddet.`
+` Eğer imkânsızsa, reddet.`
 ` ...İşte geliyor."`
 `......Bu adam...savunma pozisyonunu tersine çevirmeye mi çalışıyor?`
 `{n}Küstahlık...`
@@ -677,7 +677,7 @@
 ` ......Kırmızı ile tekrar edebilir misin?`
 ` ......‘O zarf, Rosa Teyze onu açana kadar tamamen Maria'nın gözetimi altındaydı’."`
 `".........................................."`
-`"...Eğer imkansızsa, o zaman reddettiğini söyle.`
+`"...Eğer imkânsızsa, o zaman reddettiğini söyle.`
 ` Şah."`
 `"............kh, ...............Reddediyorum."`
 `"Şimdi bir turluk avantajın tersine döndü.`
@@ -771,7 +771,7 @@
 ` Muhtemelen arada bir benim de cevap vermem gerekiyor......"`
 `"{i:Ama reddediyorum}!!!`
 ` Benim zafer şartım cadıların varlığını inkâr etmek.`
-` Senin imkansız suçlarının insan eliyle işlenebileceğini kanıtladıktan sonra işim bitti!!"`
+` Senin imkânsız suçlarının insan eliyle işlenebileceğini kanıtladıktan sonra işim bitti!!"`
 `"Kilitli odanı insanlar için bile mümkün olan bir şeyle darmadağın ettim.`
 ` Fakat, suçlunun kim olduğunu özellikle araştırmayacağım."`
 `"Çünkü ben insanlara inanıyorum!!`

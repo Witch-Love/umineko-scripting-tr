@@ -5,7 +5,7 @@
 ` insanların birbirlerinden şüphelenmek zorunda kalmadıkları bu cennetten kovmuştuk.`
 `Ancak onları kovma sebebimiz, bir insan için en kötü suç türü olan—kendi dostlarımızdan şüphelenmekti.`
 `......Eğer 19. bir kişinin, yani cadının varlığını kabul edebilseydik,`
-` ......o zaman hepimiz hala yüz yüze konuşuyor ve birbirimize güveniyor olabilirdik.`
+` ......o zaman hepimiz hâlâ yüz yüze konuşuyor ve birbirimize güveniyor olabilirdik.`
 `Bir anda,`
 ` tüm şüpheli insanları atmaya karar vermiştik.`
 `......Ama bu yapılacak doğru şey miydi?`
@@ -44,7 +44,7 @@
 ` İnanılmaz biri."`
 `"Battler-kun, yorulmadın mı?`
 ` ......Başkası senin için uyanık kalırken sen biraz dinlenmelisin.`
-` Natsuhi Teyze bütün gece uyanık kalacağını söylüyor olabilir ama vücudunun bunu kaldırabilmesine imkan yok.`
+` Natsuhi Teyze bütün gece uyanık kalacağını söylüyor olabilir ama vücudunun bunu kaldırabilmesine imkân yok.`
 ` Sırayla uyumalıyız."`
 `"O zaman Aniki, önce sen uyu.`
 ` .........Yorulana kadar küçük araştırmamı sürdüreceğim."`
@@ -291,7 +291,7 @@
 `...Hepimiz nefeslerimizi tutmuş, telefonun diğer ucundaki kişinin kim olduğunu anlamaya çalışıyorduk...`
 `Ama Natsuhi Teyze bir süre "alo" diyip durdu.`
 `.........Sessiz bir telefon araması mı...?`
-`{n}Maria ve diğerlerinin bu kadar ürkütücü bir şey yapmasına imkan yok.`
+`{n}Maria ve diğerlerinin bu kadar ürkütücü bir şey yapmasına imkân yok.`
 `......Bu da demek oluyor ki...`
 `...bu telefon görüşmesi...`
 ` .........Muhtemelen,`
@@ -382,7 +382,7 @@
 `Bu hareket temkinden ziyade korkudan kaynaklanıyor gibiydi...`
 `Ama elbette elinde tuttuğu tüfek de katilin korktuğu kozumuz olacaktı...`
 `"......Bunca zamandır düşünüyordum da.`
-` ...Kanon-kun'un durumunda olduğu gibi, o "buz kıracaklarından" birini birinin göğsüne saplamak imkansız olmazdı.`
+` ...Kanon-kun'un durumunda olduğu gibi, o "buz kıracaklarından" birini birinin göğsüne saplamak imkânsız olmazdı.`
 ` ......Ama kafatasını yarmak ve annemle babamda olduğu gibi alnına saplamak o kadar da kolay olmazdı."`
 `"Suçlunun o tür bir hayvani güce sahip olduğunu mu düşünüyorsun...?!"`
 `"...Muhtemelen ateş edebilen ya da o "buz kıracaklarını" fırlatabilen bir tür silahları ya da bir cihazları vardır.`
@@ -500,7 +500,7 @@
 `......Maria'ya şiddetli bir sesle bağırdım.`
 `{n}......Ama hiç tepki vermedi.`
 `{n}Sadece şarkıyı söylemeye devam etti...!!`
-`Şamdanı hala hazır tutuyorken ona doğru koştum ve elimi güçlüce—hayır, şiddetle omzuna vurdum.`
+`Şamdanı hâlâ hazır tutuyorken ona doğru koştum ve elimi güçlüce—hayır, şiddetle omzuna vurdum.`
 ` Sonra omzundan çekerek onu arkasını dönmeye zorladım!`
 `"......Uuoa.`
 ` ............Uu."`
@@ -540,7 +540,7 @@
 ` ...{f:5:Beatrice} duvara bakmamı ve uzun süre şarkı söylemeye devam etmemi söyledi.`
 ` Uu."`
 `"Demek {f:5:Beatrice} buraya geldi?!`
-` Genji-san ve diğerleri o sırada hala hayattaydı, değil mi?!"`
+` Genji-san ve diğerleri o sırada hâlâ hayattaydı, değil mi?!"`
 `"......Uu.`
 ` Hep birlikte salona geldik ve oturduk.`
 ` ......Genji-san kapıyı kilitlediğinden emin oldu."`
@@ -550,7 +550,7 @@
 ` Kelebeklere dönüştü ve kapıdaki çatlaktan içeri girdi."`
 `"Haaahh?!`
 ` Lanet olası şakalarına son ver artık!!!`
-` Böyle bir şeyin imkanı yok!`
+` Böyle bir şeyin imkânı yok!`
 ` Sen neden bahsediyorsun?!"`
 `"Kihhihihihihihihihihihihihihihihihihihi!!`
 ` Buna inanamıyor musun?`
@@ -755,7 +755,7 @@
 `...portrenin öznesiyle...`
 `sarıldı.`
 `Şaka yapıyor olmalısın,`
-` ......bu...saçmalık, imkansız...`
+` ......bu...saçmalık, imkânsız...`
 `...Bu çılgınlık {i:gerçek} olamaz,`
 ` ...cadılar "gerçek" değildir, bunu kabul etmeyeceğim...!`
 `Senin gibi şeyler "gerçek" olmamalı,`

@@ -128,7 +128,7 @@
 ` ......Zor bir durumda kullandığınızda, size o ana kadar aklınıza bile gelmemiş bir çözüm sunar.`
 ` ......Basitçe söylemek gerekirse, gözlem ve ayırt etme, ilham ve sezgi güçleri verir."`
 `"............Kihihihihihihihihihi.`
-` {f:5:Beatrice} siz aşağılık insanları kışkırtmaya çalışıyor, çünkü bu kapının nasıl açıldığını anlamanıza imkan olmadığını düşünüyor.`
+` {f:5:Beatrice} siz aşağılık insanları kışkırtmaya çalışıyor, çünkü bu kapının nasıl açıldığını anlamanıza imkân olmadığını düşünüyor.`
 ` Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
 `"A-Ah."`
 `"Tamam, iyi iş, şimdi kapa çeneni.`
@@ -273,7 +273,7 @@
 `"Kanon!`
 ` Cevap ver bana!!`
 ` ......Genji, Doktor Nanjo'yu buraya getir!!"`
-`Natsuhi, Kanon'un ölümün eşiğinde olmasına rağmen hala bilincinin yerinde olduğunu fark etti ve Genji'yi doktoru getirmesi için gönderdi.`
+`Natsuhi, Kanon'un ölümün eşiğinde olmasına rağmen hâlâ bilincinin yerinde olduğunu fark etti ve Genji'yi doktoru getirmesi için gönderdi.`
 `...Tüfeği havada tutan Natsuhi, kazan dairesinin ortasındaki karanlığa baktı ve bağırdı!`
 `"......Orada saklanan da kim?!!!`
 ` Sessizce dışarı çık!!`
@@ -297,7 +297,7 @@
 `Natsuhi de Battler'ın peşinden merdivenleri koşarak çıktı.`
 `Yukarısı avluydu.`
 `{n}...Malikanenin avlusu sadece aydınlatma amacıyla inşa edilmişti, bu yüzden çok şık bir yer değildi.`
-`Her tarafı çevrili olduğu için, güçlü rüzgarların sesini duyabilseler de hava tamamen sakin ve rahatsız edilmemişti.`
+`Her tarafı çevrili olduğu için, güçlü rüzgârların sesini duyabilseler de hava tamamen sakin ve rahatsız edilmemişti.`
 `Sadece hafif, kederli bir yağmur vardı...`
 `Battler, soğuk yağmur damlalarının arasından hızla merdivenlerden çıkıp avluya girdi ve her yöne baktı.`
 `......Elbette, etrafta öylece duran şüpheli bir tip bulma ihtimali neredeyse sıfırdı...`
@@ -349,7 +349,7 @@
 ` ......Kendimizi korumak, suçluyu bulmaktan daha öncelikli.`
 ` Tekne yarın gelecek.`
 ` Bu gerçekleştikten sonra polis gelecek ve her şey gün ışığına çıkarılacak.`
-` .........Katilin bu adadan ne kadar uğraşırsa uğraşsın kaçmasına imkan yok...!!!"`
+` .........Katilin bu adadan ne kadar uğraşırsa uğraşsın kaçmasına imkân yok...!!!"`
 `"......Doğru.`
 ` ...Polis geldiğinde..."`
 `{ruby:When the seagulls cry:Martılar ağladığında}, ...suç çözülecek.`
@@ -463,7 +463,7 @@
 `......Eğer suçlu, Büyükbabayı fişle mühürlenmiş kapıdan çıkarabildiyse,`
 ` Eva Teyze ve Hideyoshi Amca'yı zincirle mühürlenmiş bir kapının diğer tarafından öldürebildilerse,`
 ` ......o zaman garip hileler ve cihazlarla hayali bir 19. kişi yaratmaları bile mümkün müdür...?!?!`
-`Eğer hala suçlunun aramızda olduğuna inanmak istiyorsak,`
+`Eğer hâlâ suçlunun aramızda olduğuna inanmak istiyorsak,`
 ` ......bu durumda şüpheli listesi oldukça kısa.`
 `Biz dört çocuk, Natsuhi Teyze.`
 `{n}Genji‐san,`
@@ -478,7 +478,7 @@
 `yüzü tamamen kaybolmuştu, sanki derisi soyulmuş gibiydi...`
 `Hangi cesedin hangisi olduğunu sadece kıyafetlerinden ve bulundukları ortamdan anlayabildik...`
 `Suçlu önceden sahte bir ceset hazırlamış ve ölmüş gibi görünmesi için kılık değiştirmiş...sonra da bir yere saklanıp öldürme çılgınlığına devam etmiş olabilir miydi...?`
-`...Kulağa saçma geliyor ama bu imkansız bir numara olduğu anlamına gelmiyor.`
+`...Kulağa saçma geliyor ama bu imkânsız bir numara olduğu anlamına gelmiyor.`
 `......Bu 19. kişiye teslim olmak için çok erken,`
 ` ......hayır, .........bu cadıya......!`
 `"Maria-chan, artık öyle gözlerini dikip bakmamalısın.`
@@ -527,7 +527,7 @@
 ` ......Onu sana kim verdi...?!"`
 `"Uu.`
 ` ...Dediğim gibi, {f:5:Beatrice}.`
-` ...Battler hala inanmıyor.`
+` ...Battler hâlâ inanmıyor.`
 ` Uu."`
 `Maria sadece daha önce söylediklerini tekrarladı.`
 `......Maria 19. kişiyle, cadıyla buluşmuştu.`
