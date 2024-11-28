@@ -38,7 +38,7 @@
 `Hiç şüphe yoktu.`
 ` En ufak bir şüphe bile...`
 `{n}Bu şüphesiz o günkü cadı, {f:5:Beatrice}'di...`
-`Bir zamanlar sadece onun ve Shannon'un görebildiği cadı, şimdi nihayet bir forma bürünmüş ve bir konuk olarak açıkça malikanenin kapısından içeri girmişti...`
+`Bir zamanlar sadece onun ve Shannon'un görebildiği cadı, şimdi nihayet bir forma bürünmüş ve bir konuk olarak açıkça malikânenin kapısından içeri girmişti...`
 `".........{f:5:Bea}...{f:5:trice}......`
 `......sama."`
 `"Uzun zaman oldu.`
@@ -398,7 +398,7 @@
 ` Daha yeni başladı, Cadı'nın Hamlesi!!"`
 `Battler'ın horlamalarını duymaya başladıklarında, akrabalar salondan ayrılarak kendi odalarına çekildiler ve Battler'ın sessizce uyumasına izin verdiler.`
 `Salonda o kadar çok insan toplanmış olmasına rağmen,`
-` ......hepsi bir anda dağılıp uçsuz bucaksız malikanenin içine çekilince, yağmurun sesi dışında hiçbir sesin duyulmadığı ürkütücü bir sessizlik oluştu...`
+` ......hepsi bir anda dağılıp uçsuz bucaksız malikânenin içine çekilince, yağmurun sesi dışında hiçbir sesin duyulmadığı ürkütücü bir sessizlik oluştu...`
 `"Hayır.`
 ` Daha önce hiç öyle biriyle karşılaşmadım.`
 ` ...Ya sen, Aneki?"`
@@ -421,7 +421,7 @@
 `"......Aneki.`
 ` Gerçekten böyle birini tanımıyor musun?"`
 `"Bana bunu sormayı bırak.`
-` Bu malikaneye böyle sarışın bir kadının girip çıktığını hiç görmedim!"`
+` Bu malikâneye böyle sarışın bir kadının girip çıktığını hiç görmedim!"`
 `"Bunların hiçbir önemi yok.`
 ` ...Asıl sorun, o kadın kendine {f:5:Beatrice} demeye başlarsa, ve kendini babamın mal varlığının sorumlusu olarak ilan ederse ne olacağı."`
 `"Ya da, ...belki de kendisine metresinin kızı demeyi ve mirastan kendine düşeni almayı planlıyordur.`
@@ -574,7 +574,7 @@
 `......tüm muhakeme yöntemleri faydasız olur.`
 `{n}Cadı bugün buraya hangi nedenle davet edildi?`
 `.........Kesin olan tek bir şey var.`
-` ...Tam şu anda, bu büyük malikanede bir yerde duruyor...`
+` ...Tam şu anda, bu büyük malikânede bir yerde duruyor...`
 `"......Maria.`
 ` ......Bugün öğle saatlerinde, biz.........dışarıda biriyle karşılaştık, değil mi?`
 ` Bir kadınla.`
@@ -586,7 +586,7 @@
 `"Uu.`
 ` Onu her yıl görüyorum."`
 `"Her yıl mı...?`
-` Rokkenjima'daki bu malikanede mi?"`
+` Rokkenjima'daki bu malikânede mi?"`
 `"Uu."`
 `"..."Uu" ne demek bilmiyorum!`
 ` Bu doğru mu?!"`
@@ -602,7 +602,7 @@
 `"......Ondan daha uzun.`
 ` ......Uu."`
 `Rosa dehşete düşmüştü.`
-` ...Bu adada sadece Ushiromiya malikanesi vardı.`
+` ...Bu adada sadece Ushiromiya malikânesi vardı.`
 ` Yani bu adada kendilerinden başka insan olmasına imkân yoktu.`
 `Yine de Maria, aile konferansı sırasında her yıl o şüpheli kadınla görüştüğünü söylüyordu......`
 `Eğer Maria'nın söyledikleri doğruysa,`
@@ -658,7 +658,7 @@
 `{n}Buna inanamıyorum, buna inanamıyorum...!`
 `Bu bilinmeyen cadı ne zamandır bu adada yaşıyor?!`
 `Eskiden bu adada yaşardım.`
-`{n}Bu adada yaşadım, zamanımı malikanede, gül bahçesinde geçirdim.`
+`{n}Bu adada yaşadım, zamanımı malikânede, gül bahçesinde geçirdim.`
 `Ve buna rağmen, böyle bir cadıyla hiç ama hiç,`
 ` ......karşılaşmadım,`
 ` ......galiba.....................`

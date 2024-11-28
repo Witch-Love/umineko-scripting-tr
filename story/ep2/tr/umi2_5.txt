@@ -120,7 +120,7 @@
 `Battler bunu gördüğünde, bunun bu adanın cadısının adı olduğunu anında hatırladı ama artık iş işten geçmişti.`
 `...Maria'nın ruh hali düzelene kadar, Altın Cadı ile ilgili birçok gizemli ve masalsı olay beynine kazındı...`
 `"Bu kadar yeter, Maria.`
-` Battler-kun, onun hikayelerine ayak uydurduğun için teşekkürler."`
+` Battler-kun, onun hikâyelerine ayak uydurduğun için teşekkürler."`
 `"...Kanon-kun, senin yapacak işin yok mu?`
 ` Lütfen şimdi git.`
 ` Gohda-san, sanırım herkes şimdilik valizlerini yerleştirmek istiyor.`
@@ -335,7 +335,7 @@
 ` ......Sadece yılda bir kez burada toplanabiliyoruz.`
 ` Elimizdeki bu değerli zamanın kıymetini bilmeli ve birbirimizle samimi bir şekilde konuşmalıyız."`
 `Henüz çay bile gelmemiş olmasına rağmen, ...çok azimliydiler.`
-`"Ama, öncesinde malikanenin muhteşem mobilyalarıyla çevrili salonunda,`
+`"Ama, öncesinde malikânenin muhteşem mobilyalarıyla çevrili salonunda,`
 ` keyifle siyah çay içmek için yeterince boş zamanımız var mı diye merak ediyorum..."`
 `Kyrie'nin sözleri, orada toplanan herkese yönelik hafif bir öğüt içeriyor gibiydi.`
 `Hepsi durumu anladı ve boğazlarını temizleyip kravatlarını düzeltirken odadaki atmosfer bir anlığına normale döndü.`
@@ -397,7 +397,7 @@
 ` Değil mi Rudolf?"`
 `"Evet, doğru.`
 ` ...Bunca yolu sadece biraz tozlu çay içmek için gelmedik."`
-`"......Pekala.`
+`"......Pekâlâ.`
 ` Neden konuşmak için çırpındığınız bu konuyu dinlemiyoruz?"`
 `".........Amanın.`
 ` Bu insanlar kesinlikle azimli.`
@@ -411,7 +411,7 @@
 ` ...Özür dilemesi gereken kişi benim.`
 ` İkimiz de kızları olan anneleriz, bu yüzden bu tür konuşmaları daha sık yapmalıyız.`
 ` Ama her görüştüğümüzde garip şeyler hakkında konuşuyoruz..."`
-`"......Bunun için malikanedeki bu atmosferi suçlayabilirsin.`
+`"......Bunun için malikânedeki bu atmosferi suçlayabilirsin.`
 ` Bu havayı soluduktan sonra herkes çok gerginleşiyor.`
 ` ......Rosa-san, bir kez olsun, aile konferansında olmadığımız bir zamanda seninle güzel, uzun bir fincan çay içmek istiyorum.`
 ` Ginza'da benim favorim olan harika bir kahve dükkanı var.`
@@ -455,9 +455,9 @@
 `Rosa gül bahçesine doğru yöneldi.`
 `{n}Kısa bir süre önce Maria'yı azarladığı yere doğru ilerledi.`
 `...Neredeyse öğle yemeği vakti gelmişti.`
-`Çocuklara öğle yemeği vaktinde malikaneye gelebilecekleri söylenmişti,`
+`Çocuklara öğle yemeği vaktinde malikâneye gelebilecekleri söylenmişti,`
 ` bu yüzden muhtemelen konukevinde çağrılmayı bekliyorlardı.`
-`...Maria oraya gitmese bile, onu da yanımda malikaneye götürdüğümü düşünecekler ve fazla endişelenmeyeceklerdi.`
+`...Maria oraya gitmese bile, onu da yanımda malikâneye götürdüğümü düşünecekler ve fazla endişelenmeyeceklerdi.`
 `......Ne de olsa annesiyle birlikteydi, bu yüzden endişelenecek bir şey olmamalıydı.`
 `Ancak ben buradaydım ve kızımı dışarıda kötüleşen havada tek başına bırakmıştım...!`
 `"Mariaaa!!`
@@ -496,7 +496,7 @@
 `{n}...Eğer uzun süre rüzgâra maruz kalırsa, muhtemelen üşütecekti.`
 `"......Hadi, Maria.`
 ` Çok yakında öğle yemeği hazır olacak.`
-` Annenle malikaneye gel."`
+` Annenle malikâneye gel."`
 `"Uu.`
 ` Gelmiyorum."`
 `"Ne-...Neden...?"`
@@ -510,12 +510,12 @@
 `".........Maria..."`
 `Rosa bir an için söyleyecek kelime bulmakta zorlandı, sonra sessizliğe gömüldü.`
 `...Az önce birbirleriyle barışmak için büyük çaba harcamışlardı.`
-`{n}Kelimelerini dikkatle seçiyor, cadıyı tamamen reddetmeden Maria'nın kendisiyle malikaneye gelmesini sağlamaya çalışıyordu.`
+`{n}Kelimelerini dikkatle seçiyor, cadıyı tamamen reddetmeden Maria'nın kendisiyle malikâneye gelmesini sağlamaya çalışıyordu.`
 `"......{f:5:Beatrice} mi...`
 `geliyor?"`
 `"Uu!"`
 `"Demek öyle...`
-` O zaman burada beklemek yerine neden malikanede beklemiyoruz?`
+` O zaman burada beklemek yerine neden malikânede beklemiyoruz?`
 ` Bu rüzgârda fazla kalırsan üşüteceksin..."`
 `"O gelecek!`
 ` {f:5:Beatrice} gelecek!!!"`
@@ -665,7 +665,7 @@
 ` O vakit kendimi tekrar tanıtmama izin ver.`
 ` ...*cackle*cackle*cackle*."`
 `Cadı gülerek ona arkasını döndü.`
-`{n}...Ve soğukkanlı bir şekilde malikaneye doğru yola koyuldu.`
+`{n}...Ve soğukkanlı bir şekilde malikâneye doğru yola koyuldu.`
 `Maria enerjik bir şekilde cevap vererek onu uğurladı ve Rosa'yı olduğu yerde öylece bırakarak konukevine doğru koşmaya başladı.`
 `......Sanki cadıyla buluşma konusundaki şansını diğer kuzenlerine anlatmak için bir saniye bile kaybetmek istemiyordu.`
 `Nihayetinde Rosa, rüzgâr şiddetlendikçe gül bahçesinde tek başına kalakalmış,`
@@ -690,7 +690,7 @@
 `"Öyleyse onu selamlayalım.`
 ` 30 yıl sonra birbirimize küfürler savurmak iyi gelecektir."`
 `Cadı sırıtarak Genji'yi arkasında bırakıp yürümeye başladı.`
-`{n}......Yürüyüşü, malikanenin içini iyi bilen bir aile üyesinin yürüyüşü gibiydi.`
+`{n}......Yürüyüşü, malikânenin içini iyi bilen bir aile üyesinin yürüyüşü gibiydi.`
 `Genji sanki ona hizmet ediyormuş gibi onu takip etti.`
 `Tam o anda, Kyrie salondan çıktı.`
 `{n}...Muhtemelen makyajını falan düzeltmek gibi bir şey için dışarı çıkmıştı.`
@@ -728,7 +728,7 @@
 ` ......Ben sadece cadının portresinden biraz etkilenmiştim."`
 `"......Altın Cadı {f:5:Beatrice}, değil mi?`
 ` Ushiromiya ailesinin bugün sahip olduğu konuma gelmesi, onun sağladığı altınlar olmadan asla mümkün olamazdı—gibi bir şey...`
-` ......Babama fazlasıyla uyan fantastik bir hikaye."`
+` ......Babama fazlasıyla uyan fantastik bir hikâye."`
 `Natsuhi ondan her zamanki gibi bahsetti.`
 `{n}...Bir cadı fikrinin aptalca olduğunu ve sonuçta Kinzo'nun saçmalıklarından başka bir şey olmadığını söyledi.`
 `...Ancak, bir nedenden dolayı, bu artık Kyrie'ye doğru gelmiyordu.`

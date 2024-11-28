@@ -24,7 +24,7 @@
 `Kumasawa, uzmanlık alanı olan uskumru şakalarıyla ortamı gerçekten neşelendiriyordu.`
 ` ...Ancak sağanak yağmurun sesi tüm dikkatlerini gizemli konuğa yöneltiyordu.`
 `Neticede, burada {f:5:Beatrice} ile tanışan tek kişi olduğu için Maria'yı yine soru yağmuruna tuttular.`
-`".........Bu hikayenin doğru olabileceğine...hiç inancım yoktu."`
+`".........Bu hikâyenin doğru olabileceğine...hiç inancım yoktu."`
 `"Söylediklerinize bakılırsa, inanmıyor olsanız bile Maria'nın bir cadıyla buluştuğunu ilk kez duymuyormuşsunuz gibi duruyor."`
 `"...Evet.`
 ` O yaştaki hayal gücü geniş çocuklar için oldukça tipik bir peri masalı olduğunu düşünmüştüm."`
@@ -41,7 +41,7 @@
 `Bu geçmişi bilen aile üyeleri için Altın Cadı masalının pek bir önemi yoktu.`
 ` ...Ancak bunu Kinzo'nun önünde söyleyemezlerdi.`
 `Dolayısıyla, örneğin Maria gibi bu geçmişi bilmeyenler için,`
-` ...bu hikaye kesinlikle asılsız değil, ...gerçek bir cadı efsanesiydi.`
+` ...bu hikâye kesinlikle asılsız değil, ...gerçek bir cadı efsanesiydi.`
 `Bu yüzden Maria cadı efsanesine inanıyordu.`
 ` Tamamen kabullenmişti.`
 `...Cadılara inanan hayalperest bir kız için bu gayet doğaldı.`
@@ -274,9 +274,9 @@
 ` ......Bilmiyorum."`
 `Bu, bunu söylemenin biraz garip bir yoluydu.`
 `{n}Hafızasının bulanık olduğunu ima ediyormuş gibi değildi.`
-`"......Biz hizmetkârlar için {f:5:Beatrice}-sama bu malikanenin bir başka efendisi.`
+`"......Biz hizmetkârlar için {f:5:Beatrice}-sama bu malikânenin bir başka efendisi.`
 ` ......Bazıları sanki Efendi'den etkilendiğimiz için bu söylentiyi yaymışız gibi konuşuyor, ama..."`
-`"......Burada çalışmaya başladığımdan beri, {f:5:Beatrice}-sama'nın hikayesi çoktan ağızdan ağıza yayılmıştı."`
+`"......Burada çalışmaya başladığımdan beri, {f:5:Beatrice}-sama'nın hikâyesi çoktan kulaktan kulağa yayılmıştı."`
 `"Bunu daha önce de duymuştum.`
 ` ...Ona saygı göstermezsen lanetleniyorsun ve hatta gerçekten de en azından bir hizmetkâr bu şekilde bir kaza geçirmişti, değil mi?"`
 `"Evet...`
@@ -294,7 +294,7 @@
 `"Demek öyle.`
 ` ...Yine de, yemek yiyen bir cadı...nedense kulağa pek gerçekçi gelmiyor.`
 ` Belki de bu adadaki cadı efsanesini bilen biri {f:5:Beatrice}'in adını kullanıyordur."`
-`".........Shannon-chan, bence {f:5:Beatrice}'e muhtemelen saygı duymaya başladın ve onu malikanenin koruyucu tanrıçası gibi bir şey olarak görüyorsun.`
+`".........Shannon-chan, bence {f:5:Beatrice}'e muhtemelen saygı duymaya başladın ve onu malikânenin koruyucu tanrıçası gibi bir şey olarak görüyorsun.`
 ` Ve gerçekten kendine böyle diyen bir kişi ortaya çıktığında, muhtemelen biraz rahatsız olmuşsundur."`
 `".........`
 ` .........Evet.`

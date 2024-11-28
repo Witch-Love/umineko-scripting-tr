@@ -138,7 +138,7 @@
 `Yarımızdan fazlası öldürülmüştü.`
 ` ......Ve bu aşamada, kalan sekiz kişinin öldürülmeyeceğinin hiçbir garantisi yoktu...`
 `"......Her neyse, şimdi kavganın zamanı değil.`
-` ......Artık katilin malikaneye istediği gibi girip çıkabileceğinden ve aniden saldırabileceğinden emin olduğumuza göre,`
+` ......Artık katilin malikâneye istediği gibi girip çıkabileceğinden ve aniden saldırabileceğinden emin olduğumuza göre,`
 ` tüm dikkatimizi yarına kadar hayatta kalmaya vermeliyiz."`
 `"...Natsuhi Teyze'ye kesinlikle katılıyorum.`
 ` ......Suçluyu bulmak için gecenin ilerleyen saatlerinde kafa patlatabiliriz.`
@@ -166,7 +166,7 @@
 `"Öldürülen hizmetkârlardan birinin cebinden bir anahtar destesi aldıklarını varsayarsak,`
 ` o anahtarların bile açamayacağı güvenli bir yer var mı...?"`
 `".........İşimizin doğası gereği, bize bütün odaların anahtarları verildi...`
-` Malikanedeki ve konukevindeki tüm odaların..."`
+` Malikânedeki ve konukevindeki tüm odaların..."`
 `"Yani, ......nereye saklanırsak saklanalım kendimizi kilitlememiz anlamsız.`
 ` ...Bana uyar, kimin kilide ihtiyacı var ki?! Eğer geleceksen, hadi gel, lanet olası!`
 ` Önce ben seni öldüreceğim!!"`
@@ -231,7 +231,7 @@
 ` Bütün bir adayı satın alan ve tüm hayallerini gerçekleştiren Büyükbabamız gibi birinin evi için oldukça küçük bir yer."`
 `"........................`
 ` Evet, öyle.`
-` ......Bir noktadan sonra Babam malikanenin içinde bile başka bir yere güvenmez oldu."`
+` ......Bir noktadan sonra Babam malikânenin içinde bile başka bir yere güvenmez oldu."`
 `".........Kendini oraya nasıl kapattığını hep eleştirirdik, ama bu sefer kendimizi oraya kapatacak olan biziz.`
 ` ...Ha!"`
 `Jessica kelimelerini tutmadı.`
@@ -262,7 +262,7 @@
 `............Teyzem şimdi burada olsaydı, muhtemelen bu iddiayı açıkça dile getirir ve benim tuhaf teorimi havaya uçururdu.`
 `...Ama her neyse.`
 `Kabul etmeliydim ki, sekiz kişinin birden içine girebileceği, hem yatağı hem de tuvaleti olan ve sadece iki anahtarı bulunan bir oda,`
-` ...şu anda malikanedeki en güvenli yer olmalıydı...`
+` ...şu anda malikânedeki en güvenli yer olmalıydı...`
 `En azından, bunun kendimizi tekrar salona kapatıp "daha önce oradayken hiçbir şey ters gitmedi" demekten daha iyi olacağını düşündüm.`
 `Hayır, dur, ......sadece salona kapandığımız için mi güvendeydik?`
 `{n}Ya o odadan çıkıp keşfedilmemiş bir yere gitmek aslında daha tehlikeliyse...?`
@@ -522,7 +522,7 @@
 `Genji-san cevap vermedi.`
 ` ...Bildiği halde sessiz mi kalıyordu, yoksa hiçbir şey bilmiyor muydu?`
 `...Yine de iyi bir tahminim vardı.`
-` ...Cadı {f:5:Beatrice}'in hayalet hikayesi hizmetkârlar arasında uzun zamandır konuşuluyordu.`
+` ...Cadı {f:5:Beatrice}'in hayalet hikâyesi hizmetkârlar arasında uzun zamandır konuşuluyordu.`
 `......O da muhtemelen Büyükbabama ve onun okült merakına yakından tanık olmuştu.`
 `Bu yüzden ona daha da tuhaf şeyler aşılanmış ve giderek cadıyı tanrılaştırmaya başlamış olma ihtimali yüksekti.`
 `Büyükbabanın en güvendiği ve ona sadakat yemini etmiş hizmetkârı olarak,`
@@ -548,11 +548,11 @@
 ` ......Her zaman Büyükbabamın kafasındaki cadıdan bahsettiğini düşünmüştüm ama..."`
 `"...Bu gerçekten ilginçleşmeye başladı.`
 ` ......Genji-san bana söylememiş miydin?`
-` {f:5:Beatrice}'in malikane inşa edilmeden önce bile Büyükbaba için çalıştığını söylemiştin."`
-`"Malikanenin inşaatının 1952'de tamamlandığını duymuştum."`
+` {f:5:Beatrice}'in malikâne inşa edilmeden önce bile Büyükbaba için çalıştığını söylemiştin."`
+`"Malikânenin inşaatının 1952'de tamamlandığını duymuştum."`
 `"Bu da {f:5:Beatrice} denen kişinin otuz yılı aşkın bir süredir Büyükbaba ile ilişki içinde olduğu anlamına gelir..."`
 `"Otuz yıl önceki o metres...ya da onun bir akrabası veya gizli çocuğu...bir tür kin besliyor ve intikam planlıyor olabilir mi?`
-` ...Ihihi, anlıyorum, bu standart Batı malikanesi gizemi gibi gelmeye başladı."`
+` ...Ihihi, anlıyorum, bu standart Batı malikânesi gizemi gibi gelmeye başladı."`
 `"............Bu iğrenç bir konu ama kabul edilmesi en kolay muhakeme.`
 ` ...Ne diyorsun Genji?"`
 `"..............................`
@@ -561,7 +561,7 @@
 `"......{f:5:Beatrice} denen bu kişi de kim?!`
 ` Ve şimdi ne yapıyor?!"`
 `"..................`
-` ......Malikane tamamlanmadan önce vefat ettiğini duydum."`
+` ......Malikâne tamamlanmadan önce vefat ettiğini duydum."`
 `"Çoktan öldü mü...?"`
 `"......Evet.`
 ` ......Efendi onun için çok yas tuttu,`
@@ -581,7 +581,7 @@
 ` ilaçlar,`
 ` ...hepsi.`
 `......Hepsi, otuz uzun yıl önce bu dünyayı terk etmiş olan tek bir kadının yüzünü bir kez daha canlandırmak istediği içindi...`
-`"............Bir keresinde Efendi bana {f:5:Beatrice}-sama'nın hikayesini çok sarhoşken anlattı.`
+`"............Bir keresinde Efendi bana {f:5:Beatrice}-sama'nın hikâyesini çok sarhoşken anlattı.`
 ` .........Ayrıntıları unutmuş olsam da.`
 ` ......Bu...`
 `benim gibi bir kadını bile kıskandıracak kadar derin mi derin bir aşktı."`
@@ -605,18 +605,18 @@
 `"Ben, ......hep Büyükbabanın ürkütücü kara büyü hobisinden etkilendiğiniz için...cadıya körü körüne inandığınızı düşünmüştüm.`
 ` ......Ama bu yanlışmış..."`
 `Belki de Büyükbabanın kalbini rahatlatmak için en azından {f:5:Beatrice}'in ruhu geri gelmiş,`
-` ......ve bu malikanenin içinde,`
+` ......ve bu malikânenin içinde,`
 ` ......yaşıyormuş gibi davranıyorlardı...`
 `Gözleri kapalı ve sanki uzak geçmişten bir şeyler hatırlıyormuş gibi bir ifadeyle,`
 ` ......Genji sessizliğini korudu.`
 `............Muhtemelen bunu itiraf etmenin biricik efendisine en ciddi şekilde ihanet etmek anlamına geleceğini düşündü, üstelik o kişi çoktan ölmüş olsa bile.`
-`......{f:5:Beatrice} bir cadı olarak yeniden dirildi ve şu anda bile malikanede.`
+`......{f:5:Beatrice} bir cadı olarak yeniden dirildi ve şu anda bile malikânede.`
 `......Bu onun felsefesiydi,`
 ` kendisinin inandığı,`
 ` ...ve başkalarını da inandırdığı şeydi.`
 `{n}.........Ve Genji bunu mezara kadar yanında götürecekti.`
 `Bu, efendisine sunabileceği son hizmet olabilirdi.`
-`Cadı efsanesi, hizmetkârlar arasında hâlâ kulaktan kulağa konuşulan gizemli Rokkenjima hikayesi.`
+`Cadı efsanesi, hizmetkârlar arasında hâlâ kulaktan kulağa konuşulan gizemli Rokkenjima hikâyesi.`
 `......Bunun gerçek doğası...`
 `...üzücü bir yalandı.`
 ` ...Hayır, her şeyden çok sevdiği kişiyi kaybetmiş olan Büyükbabaya karşı bir iyilik eylemiydi.`
@@ -664,7 +664,7 @@
 ` Bunu hoş göstermenin bir yolu yok..."`
 `"......Bu da doğru.`
 ` Zavallı Büyükannem."`
-`"Peki, ......{f:5:Beatrice} ile Büyükbaba arasında bir çocuk hikayesi var mı...?"`
+`"Peki, ......{f:5:Beatrice} ile Büyükbaba arasında bir çocuk hikâyesi var mı...?"`
 `Anahtar kelime "{f:5:Beatrice}" bu olayın her köşesine gizlenmiş durumda.`
 `Bu yüzden {f:5:Beatrice}'in herhangi bir akrabasından şüphelenmek doğal.`
 `"Hayır.`
@@ -678,7 +678,7 @@
 ` Bu, Babamın onurunu lekeleyecek bir iftiradan başka bir şey değil."`
 `"Anlat bize Natsuhi Teyze.`
 ` ...Birbirimizden bir şeyler saklamamamız gerektiği konusunda hemfikir değil misin?"`
-`"...............Bu önemsiz bir hikaye.`
+`"...............Bu önemsiz bir hikâye.`
 ` Babam bu enstitüyü büyük ölçüde destekledi ve sosyal çalışmalarının bir parçası olarak onlara bu evde hizmetkârlık pozisyonları açtı.`
 ` ...Bazı aptal insanlar Babamın kötü niyetli olduğuna dair söylentiler yaymaya başladılar—hepsi bu."`
 `"Bir noktada, kara büyüsü için kurban topladığına dair bir söylenti ortaya çıktı...`
@@ -1049,7 +1049,7 @@
 ` Böyle zamanlarda başını arkaya eğip üç kere "Sakin kal" demeliymişsin..."`
 `"...............Şunu açıklığa kavuşturayım.`
 ` Cadı diye bir şey yok!`
-` Ne Rokkenjima'da, ne de Ushiromiya malikanesinde!"`
+` Ne Rokkenjima'da, ne de Ushiromiya malikânesinde!"`
 `"Ushiromiya ailesinin temsilcisi, Ushiromiya Natsuhi olarak ilan ediyorum!!`
 ` Burada cadı falan yok!`
 ` {f:5:Beatrice}'i kabul etmeyeceğim!!`
@@ -1128,7 +1128,7 @@
 `"Madam, bu odanın anahtarları.`
 ` ......İkisini de size teslim ediyorum."`
 `Genji-san cebinden iki altın anahtarı çıkardı ve Natsuhi Teyze'ye uzattı...`
-`"...Ayrıca malikanenin anahtarlarını da teslim ediyorum."`
+`"...Ayrıca malikânenin anahtarlarını da teslim ediyorum."`
 `Çeşitli şekillerde yaklaşık on anahtardan oluşan bir deste çıkardı ve uzattı.`
 `.........Hizmetkârlar için bu anahtarlar muhtemelen konumlarının kanıtıydı.`
 `{n}Bu anahtarlardan sorumlu olmak, onlara güvenildiği ve onlara emniyet edildiği anlamına geliyordu.`

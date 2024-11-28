@@ -32,7 +32,7 @@
 `"Uu!`
 ` Maria biliyor!`
 ` Altının saklı olduğu yer!"`
-`"......Bekle, Ushiromiya ailesinin saklı altınıyla ilgili hikaye mi?`
+`"......Bekle, Ushiromiya ailesinin saklı altınıyla ilgili hikâye mi?`
 ` Beni geçmişe götüren başka bir şey daha...`
 ` ......Bekle, Aniki, ...bu gerçek mi?"`
 `"Büyükbabam bunu yazdırdı ama bu resim ya da kitabe hakkında bir şey söylemeyi reddediyor.`
@@ -49,8 +49,8 @@
 ` ama Ushiromiya ailesinin "Altın Efsanesi"nden de bahsetmeme izin verin.`
 `Büyükbaba, Ushiromiya ailesi Büyük Kanto Depremi'nde neredeyse tamamen yok olduktan sonra ailenin başına geçti,`
 ` ve savaştan sonra fırtınalı denizlerde başarılı bir şekilde ilerleyerek büyük bir servet biriktirmeyi başardı.`
-`...Hikayenin bu kısmını herkes biliyor.`
-`{n}Ancak hikayenin tuhaf kısmı burada başlıyor.`
+`...Hikâyenin bu kısmını herkes biliyor.`
+`{n}Ancak hikâyenin tuhaf kısmı burada başlıyor.`
 `...Bir kısmı Büyükbabanın kara büyü hobisiyle yakından bağlantılı, bu yüzden inandırıcılığı son derece düşük, ama......`
 `......Saçmalık olduğunu düşünmeden ya da dalga geçmeden önce sonuna kadar bekleyin.`
 `Savaştan sonra Büyükbaba geleceğin ne getireceğini başarıyla tahmin etmiş, oynadığı büyük kumar tutmuş ve büyük bir servet biriktirmişti,`
@@ -68,12 +68,12 @@
 `Cadı da daha sonra Büyükbabaya on ton altın verdi.`
 `Büyükbaba bu altını büyük miktarda fon hazırlamak için teminat olarak kullandı,`
 ` sonra da bunu servetini birkaç katına çıkarmak ve Ushiromiya ailesini yeniden canlandırmak için kullandı...`
-`Görünüşe göre bu hikaye o kadar eski ki anne ve babamıza daha çocukken anlatılmış.`
+`Görünüşe göre bu hikâye o kadar eski ki anne ve babamıza daha çocukken anlatılmış.`
 `Yani ailelerimiz küçükken,`
 ` Büyükbabanın cadıdan aldığı altınların bir yerlerde saklı olabileceğine inanarak bu adayı çeşitli şekillerde araştırdılar.`
 `Ancak, balta girmemiş ormanda kaybolma tehlikesi de vardı,`
-` Büyükanne ya da birileri cadının ormanda yaşadığı ve oraya yaklaşmanın çok tehlikeli olduğu hikayesini yaymaya başladı...`
-`"......Bu eski hikayeyi hatırlıyorum.`
+` Büyükanne ya da birileri cadının ormanda yaşadığı ve oraya yaklaşmanın çok tehlikeli olduğu hikâyesini yaymaya başladı...`
+`"......Bu eski hikâyeyi hatırlıyorum.`
 ` Küçükken ailelerimiz bize anlatırdı ve biz de adanın her yerine hazine aramaya giderdik.`
 ` .........Ormanda kaybolup hizmetkârlardan biri bizi bulana kadar ağlamamış mıydık? Ailelerimiz bize çok kızmıştı.`
 ` ...Bu beni geçmişe götürdü."`
@@ -101,9 +101,9 @@
 `"Ve altının varlığını ima ederken bile, saklandığı yer konusuna değinmeyi reddediyor.`
 ` .........Bu da ailemizin hayal gücünün çılgına dönmesine neden oldu ve buna Büyükbabanın zeka savaşı adını verdi..."`
 `"...Bahse girerim bu saçmalığı olduğu gibi kabul eden tek kişi babamdır, böyle bir şeyi bu kadar ciddiye alabilecek kadar açgözlü.`
-` Büyükbabamın kara büyü hobisine gülse bile, bu saklı altın hikayesine inanıyordur.`
+` Büyükbabamın kara büyü hobisine gülse bile, bu saklı altın hikâyesine inanıyordur.`
 ` Kulağa çok hoş geliyor."`
-`"......Pekala, bu kesinlikle gerçekçi bir hikâye değil.`
+`"......Pekâlâ, bu kesinlikle gerçekçi bir hikâye değil.`
 ` Büyükbabanın henüz tanınmadığı ve hiçbir bağlantısının bulunmadığı o dönemde, kimsenin ona bedavaya yüklü miktarda külçe altın ödünç vermesinin imkânı yok.`
 ` ......Yine de, böyle bir kişi gerçekten var olsaydı, Büyükbabanın böyle bir sponsora cadı demesi mantıksız olmazdı."`
 `"Evet, ama bu 10 ton. 10 ton!`
@@ -124,7 +124,7 @@
 `Bu benim de o anda cevaplanmasını istediğim bir soruydu.`
 `İster 10 kilo ister 10 ton olsun, yine de çok büyük bir miktar gibi geliyordu ama tam olarak ne kadar büyük olduğu hakkında hiçbir fikrim yoktu.`
 `George-aniki kollarını kavuşturdu ve altının piyasa fiyatını hatırlamaya çalıştı.`
-`".........Pekala,`
+`".........Pekâlâ,`
 ` altının değeri bile piyasadan etkilenir ve fiziksel altının değeri saflığına ve dökümhanenin güvenilirliğine bağlı olarak değişebilir.`
 ` Ayrıca onu paraya dönüştürmek için bir komisyon ödemeniz gerekir.`
 ` Ancak bu durum altının değerli bir metal olduğu gerçeğini değiştirmiyor ve bazı insanlar altın madenciliğinin mevcut hızıyla devam etmesi halinde insanlığın yarım yüzyıl içinde dünyadaki tüm altını çıkaracağını tahmin ediyor."`
@@ -163,7 +163,7 @@
 `"Dediğim gibi, altın son derece ağırdır ve birikmiş tüm servetinizi saklamak için çok uygun bir yöntem değildir.`
 ` Eğer tüm servet yüksek değerli hisse senetleri ya da gerçekten pahalı değerli taşlarda olsaydı, bu saçma bir şey olmazdı."`
 `"...Savaşın kaotik dönemlerinde, servetlerini yanlarında taşıyabilmek için değerli taşlarla takas eden insanları sık sık duyarsınız.`
-` ......Ama servetlerini altınla değiştiren insanların hikayelerini pek duymazsınız."`
+` ......Ama servetlerini altınla değiştiren insanların hikâyelerini pek duymazsınız."`
 `"Gerçekten ağır olabilir ancak uluslararası alanda en güvenilir ve istikrarlı olanı—belki bununla alakalı bir şeydir?`
 ` Örneğin hisse senetleri, eğer ülke yok edilseydi kağıt parçalarından başka bir şey olmazlardı."`
 `"Bu şekilde de düşünebilirsiniz.`
@@ -195,7 +195,7 @@
 `aslında doğru bir tanımlama olabilir.`
 `"Anlıyorum.`
 ` ............Başka bir deyişle, bu cadı Ushiromiya ailesini yeniden canlandırmak için gerekli fonları sağladı ve Büyükbaba ona büyük borçlandı.`
-` ...Eğer durum buysa ve Büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...anlıyorum, bu o kadar da garip bir hikaye olmayabilir."`
+` ...Eğer durum buysa ve Büyükbaba minnettarlık duygularıyla o devasa resmi çizdirip sergilediyse...anlıyorum, bu o kadar da garip bir hikâye olmayabilir."`
 `"Hey, ya bu kişi yaşlı bir cadıya benziyorsa?`
 ` Ve sonra Büyükbabam onun görünüşünü idealleştirdi ve resmi çizdirdiğinde onu bu güzelliğe dönüştürdü.`
 ` Hahahahaha, bahse girerim bu kişiyle tanışsaydık, bu kadar güzel olmazdı!"`
@@ -249,7 +249,7 @@
 `".........Uhh, üzgünüm.`
 ` Hayallerinle dalga geçmeye çalışmıyordum. Özür dilerim.`
 ` {f:5:Beatrice} tabii ki gerçek.`
-` Şimdi bile ormanda yaşıyor ve her gece herkesin ne yaptığını görmek için malikaneye geliyor."`
+` Şimdi bile ormanda yaşıyor ve her gece herkesin ne yaptığını görmek için malikâneye geliyor."`
 `"......Bu yüzden ormana gitmemelisin.`
 ` Ve geceleri, karanlık ormana bakarak uyumamalısın.`
 ` ......Ormanın cadısı {f:5:Beatrice} tarafından görülebilirsin.`
@@ -323,7 +323,7 @@
 ` Altın Cadı {f:5:Beatrice} Büyükbabama 10 ton altın verdi!"`
 `"Ve o altın bir yerlerde duruyor olabilir.`
 ` Ayrıca, Büyükbabanın o garip kitabeyi, bulabilirsek bulmamız için bize meydan okurcasına yazdığını söylüyorlar.`
-` Bence böyle romantik bir hikaye çok daha iyi."`
+` Bence böyle romantik bir hikâye çok daha iyi."`
 `"20 milyyyaaar yen değerinde altın!`
 ` Dördümüz arasında bölüştürsek bile, yine de gülünç bir para!"`
 `"Her birimiz için 5 milyar yen...`
@@ -336,13 +336,13 @@
 ` Yine de, 5 milyar yen, bu bir rüya gibi!"`
 `"Saçmalık.`
 ` ......Hepinizin babamın Altın Efsanesi'ne inanıyor olması gerçekten mümkün mü?"`
-`"............Ona altınları veren cadı ve benzeri hikayelere tabii ki inanmıyoruz.`
+`"............Ona altınları veren cadı ve benzeri hikâyelere tabii ki inanmıyoruz.`
 ` Ancak, altın konusunda bir hata yok."`
 `"Birden fazla kaynak Babamın bilinmeyen bir kaynaktan gelen altın külçelerine sahip olduğu gerçeğini doğruladı.`
 ` Marusoo şirketinin başkanının ölmeden önce babamın ona bir yerlerde büyük miktarda altın gösterdiğini duyduk.`
 ` Babam ona açıkça 10 ton değerinde altın olduğunu söylemiş."`
 `"Bu sadece bunamış yaşlı bir adamın saçmalıkları.`
-` Babamla birlikte sadece bir hikaye uyduruyordu.`
+` Babamla birlikte sadece bir hikâye uyduruyordu.`
 ` Bunu ciddiye alamazsınız."`
 `"Eğer o altın olmasaydı, bu kadar çok fon toplayamazdı...!`
 ` Başkan ölmeden önce, samimi kişiliğiyle iş dünyasındaki pek çok kişinin saygısını kazanmış biriydi.`
@@ -361,7 +361,7 @@
 ` Hâlâ çocukken duyduğunuz masallara inanıyor musunuz?"`
 `"Bu "10 ton altının" var olduğunun kanıtı nerede?`
 ` Bu sadece babamın ve ona en yakın olanların yalanları değil mi?"`
-`"......Tabii ki sadece bir hikaye.`
+`"......Tabii ki sadece bir hikâye.`
 ` Ama yine de, Aniki.`
 ` Babamın topladığı para miktarı uygun miktarda teminat gerektiriyordu.`
 ` Altın sadece bir söylenti olsa bile, onlara karşılaştırılabilir değerde bir hazine göstermiş olması gerektiği açık bir gerçek, öyle değil mi?"`
@@ -373,7 +373,7 @@
 `"Bu durumda Krauss nii-san, altının hiç var olmadığını, ...ve babamın hepsini uydurduğunu mu söylüyorsun?"`
 `"Tabii ki.`
 ` Bu nedenle, yeterince başarıya ulaştıktan sonra, altın kurgusu bir rahatsızlıktan başka bir şey değildi.`
-` Bu yüzden babam cadı ve kara büyüyle ilgili o saçma hikayeyi uydurdu ve her şeyin daha az inandırıcı görünmesini sağladı."`
+` Bu yüzden babam cadı ve kara büyüyle ilgili o saçma hikâyeyi uydurdu ve her şeyin daha az inandırıcı görünmesini sağladı."`
 `"Başka bir deyişle, altının tamamen bir kurgu olduğunu ortaya çıkardı.`
 ` Altını bir cadıdan aldığını söylerse, kimse altının var olduğuna inanmaz, değil mi?"`
 `"Hatta bunu hepinizin iyiliği için söylemiş bile olabilir.`
@@ -383,7 +383,7 @@
 `"......Ancak, babamın dört çocuğundan biri olarak, hakkım olan payı almak istiyorum."`
 `"Hoh...`
 ` Rosa bile görünüşe göre bile kendini savunmayı öğrenmiş.`
-` Pekala, belki de hepinizin söylemek istediği şey buydu:`
+` Pekâlâ, belki de hepinizin söylemek istediği şey buydu:`
 ` tüm altını kendime saklamaya çalıştığımı söylüyorsunuz..."`
 `"Nii-san, gerçek şu ki çok büyük miktarda fon elde ettiniz.`
 ` Babamın kişisel fonlarını zimmetine geçirmiş olma ihtimalini göz ardı edersek,`

@@ -27,7 +27,7 @@
 ` Ve de efsaneye göre insanlar örümcek ağlarının büyüye karşı koruyucu olduğunu düşünüyorlarmış."`
 `"......Bu yüzden, şey, ......hepsi bu.`
 ` Sanırım benim de biraz kafam karışmıştı..."`
-`"............İlginç bir hikaye.`
+`"............İlginç bir hikâye.`
 ` ...Kumasawa bu tür masallar hakkında çok bilgiliydi."`
 `"Ne de olsa örümcekler yararlıdır.`
 ` ......Kesinlikle, böyle bir inancın varlığı hiç de garip değil."`
@@ -49,13 +49,13 @@
 `......Küflü bir tapınakta bir ayna kırmak birlikteliğimizin kaderini değiştirmeyecekti.`
 `Ve bu asla bir lanete neden olmazdı.`
 `{n}Bunun sadece tozla kaplı küflü bir ayna olduğunu söyleyerek onu neşelendirdiğimi hatırlıyorum.`
-`"...{f:5:Beatrice}-sama adında bir ruhun hikayesini, birkaç iş arkadaşımdan, bu adada çalışmaya başladıktan sonra dinledim."`
+`"...{f:5:Beatrice}-sama adında bir ruhun hikâyesini, birkaç iş arkadaşımdan, bu adada çalışmaya başladıktan sonra dinledim."`
 `"Başlangıçta bunun saçmalık olduğunu düşünmüştüm,`
 ` ancak bu konuda yorum yapmak düşüncesizce göründüğünden,`
 ` ...dışarıdan bakıldığında ben de buna inanıyormuşum gibi davrandım.`
 ` ......Ama bu şaşırtıcı, o gerçekten—"`
 `"Var.`
-` ...{f:5:Beatrice}-sama en başından beri bu malikanedeydi.`
+` ...{f:5:Beatrice}-sama en başından beri bu malikânedeydi.`
 ` ......Ama {f:5:Beatrice}-sama güçlerini kaybettiğinden, ...bizlerin önümüzde kendini gösteremiyordu.`
 ` En başından beri "gerçekti".`
 ` ...Biz yalnızca onu {y:1:‘göremiyorduk’}{n:1:göremiyorduk}."`
@@ -99,8 +99,8 @@
 `Shannon'un aynayı kırmasının her şeyi başlatan şey olup olmadığını bilmiyordu.`
 `Hizmetkârlar Shannon'u suçlayacak kadar ileri gitmemişlerdi ama tetikleyicinin o olduğuna inanıyor gibiydiler.`
 `...Ama şimdi bile George'un bu kadarına inanmasına imkân yoktu.`
-`......Ona cadılar ve kötü ruhlar hakkında bir hikaye anlatılsa bile, bu ona uydurma geliyordu.`
-`Yine de Shannon'un hikayesini ciddiyetle dinledi ve kalbindeki acıyı en azından biraz olsun dindirebilecek bir ipucu bulmaya çalıştı.`
+`......Ona cadılar ve kötü ruhlar hakkında bir hikâye anlatılsa bile, bu ona uydurma geliyordu.`
+`Yine de Shannon'un hikâyesini ciddiyetle dinledi ve kalbindeki acıyı en azından biraz olsun dindirebilecek bir ipucu bulmaya çalıştı.`
 `"Aklıma geldi de, .........sanırım o torii'dekinden biraz farklı ama,`
 ` ...Madam'ın bir ruh aynasını tılsım niyetine sakladığını duymuştum."`
 `"......Oh?`
@@ -108,7 +108,7 @@
 `"Evet.`
 ` Sanırım onu büyükbabasından bir hatıra olarak almıştı ve çok güçlü bir büyü kovma gücüne sahip, "tarihi açıdan zengin"(?)`
 ` bir ruh aynası ya da onun gibi bir şeydi..."`
-`"............Aynı hikayeyi ben de duydum.`
+`"............Aynı hikâyeyi ben de duydum.`
 ` ......Aynanın iyi olmayan şeyleri yansıtma ve geri püskürtme gücüne sahip olmasıyla ilgili bir şey."`
 `"Eğer o ruh aynasına sahip olsaydık, ......cadı {f:5:Beatrice}'e karşı koyabilir miydik?"`
 `"Heh......"`
@@ -181,7 +181,7 @@
 `".........Ben sizinle gelemem.`
 ` ......Bir emir verileceği zaman hepimizin burada olmaması, Ushiromiya ailesinin baş hizmetkârı olarak benim için utanç kaynağı olur."`
 `"N-...Ne oluyor, Genji-san?!`
-` Şu anda bu malikanede yalnız olmanın ne kadar tehlikeli olacağını senin bile biliyor olman gerek...!"`
+` Şu anda bu malikânede yalnız olmanın ne kadar tehlikeli olacağını senin bile biliyor olman gerek...!"`
 `"......Gidemem.`
 ` ......Efendi'nin beni her an çağırabilmesi için burada kalmalıyım."`
 `"Genji-sama......"`
@@ -543,7 +543,7 @@
 `Tıpkı diğer hizmetkârların da söylediği gibi, bu kesinlikle, kesinlikle...portrenin cadısının ta kendisiydi...!`
 `"*cackle*cackle*cackle*cackle*, hahahahahahahahahahahaha!!`
 ` Neredeyse akşam yemeği vakti geldi, değil mi?`
-` ......Ben zaten bu malikanenin ev sahibiyim.`
+` ......Ben zaten bu malikânenin ev sahibiyim.`
 ` Bu yüzden size harika bir akşam yemeği ile sıcak bir karşılama yapmalıyım.`
 ` ......Ve ne kadar da ideal, tam {i:üç} kişisiniz!!`
 ` ......Amanın, amanın, ne kadar, ne kadar elverişli!!"`
@@ -571,7 +571,7 @@
 `{n}Üçü birden sağanak yağmurun ortasına fırladılar.`
 `Arkalarına hiç dönmedikleri için fark etmemişlerdi,`
 ` ama görünen o ki altın kelebekler yağmurla pek iyi başa çıkamıyorlardı ve bu da üçlünün peşinden gitmelerini engelliyordu.`
-`Üçlü, altın takipçilerinden kaçarak malikaneye daldılar...`
+`Üçlü, altın takipçilerinden kaçarak malikâneye daldılar...`
 `"............*cackle*cackle*cackle*cackle*.`
 ` Harika, harika.`
 ` Eğer böyle olmasaydı, ilginç olmazdı!"`
@@ -623,7 +623,7 @@
 `...Ama bunları tanımıyordu.`
 `{n}Ancak, onlar kesinlikle hizmetkârlardı...!!`
 `Ushiromiya Kinzo ya da Ushiromiya Krauss için çalışan hizmetkârlar değillerdi.`
-`...Onlar, malikanenin yeni efendisi Altın Cadı {f:5:Beatrice} için çalışan,`
+`...Onlar, malikânenin yeni efendisi Altın Cadı {f:5:Beatrice} için çalışan,`
 ` keçi kafalı ve parlak kırmızı, kaynayan lav gözlü yeni hizmetkârlardı!`
 `Yeni efendi yüksek sesle kahkahalar atarak altı yeni hizmetkârı yönlendirirken,`
 ` kadının karanlığı delerek geldiğini gördü.`

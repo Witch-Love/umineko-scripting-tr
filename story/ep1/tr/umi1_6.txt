@@ -18,7 +18,7 @@
 `"İlk satırla başlayalım.`
 ` Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen.`
 ` Büyükbabamın eski evi neredeydi?"`
-`"Savaştan önce Ushiromiya ailesinin Odawara yakınlarında bir malikanesi olduğunu duymuştum.`
+`"Savaştan önce Ushiromiya ailesinin Odawara yakınlarında bir malikânesi olduğunu duymuştum.`
 ` Bundan dolayı Odawara'dan geçen tatlı balık nehrinin hangisi olduğunu merak edersin, değil mi?"`
 `"Evet, çünkü o nehir başlangıç noktası olmalı.`
 ` Ve sonra, anahtarın arayışında, akıntı yönündeki patikayı takip edeceksiniz, Altın Diyar'ın peşinde olan sizler.`
@@ -41,7 +41,7 @@
 `Sorduğumda bana yatılı bir çalışan olduğunu söyledi.`
 `{n}Yani normalde yaşı ona yakın olan tek kişi Jessica'ydı.`
 `Anlıyorum, bu oldukça yorucu olmalı.`
-`"Pekala, Odawara yakınlarındaki tatlı balık dolu nehrin Hayakawa olduğunu anladım.`
+`"Pekâlâ, Odawara yakınlarındaki tatlı balık dolu nehrin Hayakawa olduğunu anladım.`
 ` Bu durumda, aşağı inmeliyiz!`
 ` Hayakawa'dan aşağı doğru gidersen bir şey bulamaz mısın?"`
 `"Ummm,`
@@ -62,7 +62,7 @@
 ` Bence kaleler çok sıkıcııı.`
 ` Tema parkları daha iyi.`
 ` Uu!"`
-`"Anladım, anladım. Pekala, pekala!`
+`"Anladım, anladım. Pekâlâ, pekâlâ!`
 ` Altını bulursak, yüce Battler-sama cömertçe bir günlüğüne bütün bir tema parkını rezerve edecek ve istediğin kadar oynamana izin verecek!"`
 `".........Yine de, Odawara Kalesi.`
 ` Odawara Kalesi'nin gizli altını...`
@@ -73,7 +73,7 @@
 ` Odawara'da tatlı balıkların yüzdüğü nehrin aşağısındaki köy.`
 ` Muhtemelen Odawara Kalesi yakınlarında bir yer olduğunu düşündük."`
 `"Sorun bir sonraki satırda.`
-` Pekala, bakalım garip mantığın seni nereye götürecek."`
+` Pekâlâ, bakalım garip mantığın seni nereye götürecek."`
 `Jessica genişçe sırıttı.`
 `{n}Sanki bilmece bu kadar kolay çözülebilseydi çoktan bulmuş olacağını söylüyor gibiydi.`
 `...Kahretsin,`
@@ -123,7 +123,7 @@
 ` Büyükbabamın çocukken yaşadığı, bizim bilmediğimiz bir ev olabilir.`
 ` Yani, ilk satırda eski sevgili evinden bahsediyordu."`
 `"...Shannon, Büyükbabam senden sık sık içki falan istiyor, değil mi?`
-` Sana hiç kendi geçmişinden hikayeler anlatmadı mı?"`
+` Sana hiç kendi geçmişinden hikâyeler anlatmadı mı?"`
 `"......Efendi geçmişinden neredeyse hiç bahsetmez.`
 ` ...Ancak, Ushiromiya ailesini neredeyse yok eden Büyük Kanto Depremi'nden sanki kendisiyle hiçbir ilgisi yokmuş gibi bahsettiğini duydum,`
 ` bu yüzden Kanto bölgesinden uzakta yaşıyor olabilir."`
@@ -149,7 +149,7 @@
 ` İlk beş satırı atıp gerisini çözmeye başlayamaz mıyız?"`
 `"Ooh...`
 ` Bunu düşünmemiştim."`
-`"Oh pekala, nasıl olsa sadece zaman öldürüyoruz.`
+`"Oh pekâlâ, nasıl olsa sadece zaman öldürüyoruz.`
 ` Geri kalan muhakemeni de duyalım!"`
 `"......Ama bir sonraki kısımda durum hızla rahatsız edici bir hal alıyor..."`
 `Shannon-chan hafif şekilde kaşlarını çattı.`
@@ -244,24 +244,24 @@
 ` Shannon, bize anlatsana.`
 ` Ben tam olarak bilmiyorum, ama görünüşe göre hizmetkârlar arasında oldukça meşhur."`
 `"O nedir?`
-` Bir hayalet hikayesi mi?"`
+` Bir hayalet hikâyesi mi?"`
 `"Evet.`
-` Görünüşe göre biz doğmadan öncesine ait bir hikaye.`
+` Görünüşe göre biz doğmadan öncesine ait bir hikâye.`
 ` Ben de annemden duymuştum."`
 `"......Evet.`
-` Malikane bu adada inşa edildiğinden beri dilden dile dolaşıyor.`
-` ......O zamanın hizmetkârları, malikanenin biri gündüz, diğeri gece olmak üzere iki efendisi olduğunu söylerlermiş."`
-`Shannon'un anlattığı hikaye...`
-`tipik bir kamp ateşi hayalet hikayesi gibiydi.`
+` Malikâne bu adada inşa edildiğinden beri dilden dile dolaşıyor.`
+` ......O zamanın hizmetkârları, malikânenin biri gündüz, diğeri gece olmak üzere iki efendisi olduğunu söylerlermiş."`
+`Shannon'un anlattığı hikâye...`
+`tipik bir kamp ateşi hayalet hikâyesi gibiydi.`
 `Eğer içinde cadının yaşadığı bir orman olsaydı,`
-` ...elbet, kaçınılmaz olarak, cadı malikaneyi ziyaret edecekti.`
-`Bir noktada, bu hayalet hikayesi doğal olarak hizmetkârlar arasında filizlendi.`
+` ...elbet, kaçınılmaz olarak, cadı malikâneyi ziyaret edecekti.`
+`Bir noktada, bu hayalet hikâyesi doğal olarak hizmetkârlar arasında filizlendi.`
 `"Kapattıklarından ya da kilitlediklerinden emin oldukları kapılar ve pencereler, tekrar kontrol etmek için geldiklerinde açık olurdu.`
 ` Kesinlikle kapattıkları ışıklar açık olurdu,`
 ` ve kesinlikle açtıkları ışıklar sönerdi.`
 ` Eşyalar yerleştirildikleri yerden kaybolurdu,`
 ` ve hiç kimsenin oraya koyduğunu hatırlamadığı şeyler etrafta beliriyordu."`
-`"......Böyle bir şey olduğunda, yaşlı hizmetkârlar cadının malikaneyi ziyaret ettiğini, görünmez olduğunu ve şakalar yaptığını söylerlerdi."`
+`"......Böyle bir şey olduğunda, yaşlı hizmetkârlar cadının malikâneyi ziyaret ettiğini, görünmez olduğunu ve şakalar yaptığını söylerlerdi."`
 `"Uu!`
 ` Bakın, o gerçek!`
 ` {f:5:Beatrice} gerçek!!"`
@@ -269,23 +269,23 @@
 ` Okula gitmeden önce sık sık çantamı bulamadığımı hatırlıyorum..."`
 `Maria sanki bu cadının varlığının son kanıtıymış gibi göğsünü "uu-uu" diye kabarttı.`
 `Bunu yüksek sesle söyleseydim, Maria muhtemelen yine incinecekti, bu yüzden söylemedim ama...`
-`...Yani, demek istediğim, bu tür hikayeleri her yerde duyarsınız.`
+`...Yani, demek istediğim, bu tür hikâyeleri her yerde duyarsınız.`
 `Yerine göre periler ya da başka bir şey suçlanabilir.`
 `{n}Sadece bu adada buna cadı diyorlar.`
-`Elbette, geceleri büyük, zarif bir malikanede dolaşmanın biraz tedirgin edici olmasını beklersiniz.`
+`Elbette, geceleri büyük, zarif bir malikânede dolaşmanın biraz tedirgin edici olmasını beklersiniz.`
 `Burası insanlardan yoksun bir ada.`
-` Malikane çok esintili olduğu için, fırtınalı bir gecede etrafta dolaşmak kesinlikle ürkütücü olurdu.`
+` Malikâne çok esintili olduğu için, fırtınalı bir gecede etrafta dolaşmak kesinlikle ürkütücü olurdu.`
 `"Buna ek olarak, bazı hizmetkârlar etrafta dans eden hayaletler ve ışıltılı kelebekler de görmüşlerdir.`
 ` ......Kanon-kun da bir gece vardiyasına çıktığında böyle bir şey gördüğünü söyledi."`
-`"Ve son zamanlarda, hizmetkârlar gece yarısına doğru malikanenin içinde duydukları garip ayak seslerinden bahsediyorlardı.`
-` Portredeki {f:5:Beatrice}-sama'nın bazen kendini görünmez kıldığını ve malikanenin içinde gezdiğininden aramızda bahsederdik."`
+`"Ve son zamanlarda, hizmetkârlar gece yarısına doğru malikânenin içinde duydukları garip ayak seslerinden bahsediyorlardı.`
+` Portredeki {f:5:Beatrice}-sama'nın bazen kendini görünmez kıldığını ve malikânenin içinde gezdiğininden aramızda bahsederdik."`
 `"...Bu uzun zaman önce oldu,`
 ` ama bu tür ayak seslerini geceleri devriye gezerken ben de duydum."`
 `"......Whew.`
 ` Bu korkutucu..."`
 `"Ah, ...ama,`
 ` korkacak hiçbir şey yok.`
-` {f:5:Beatrice}-sama sadece bu malikanenin Efendiden ayrı diğer bir yöneticisi.`
+` {f:5:Beatrice}-sama sadece bu malikânenin Efendiden ayrı diğer bir yöneticisi.`
 ` Yani, ona saygı duyduğunuz ve garip bir şekilde korkmuş gibi davranmadığınız sürece kötü bir şey yapmayacaktır."`
 `"Ancak, ona saygı duymazsanız korkutucu olur, değil mi?"`
 `"...Evet.`
@@ -407,7 +407,7 @@
 ` ...Sizinle birlikte geçirdiğim bu zamandan çok keyif aldım.`
 ` Çok teşekkür ederim."`
 `"Kumasawa-san'a kurabiyeler için teşekkür ettiğimi söyle.`
-` Pekala millet, temizliğe yardım edin."`
+` Pekâlâ millet, temizliğe yardım edin."`
 `Shannon-chan bunun bir hizmetkârın işi olduğunu söyleyerek yardımımızı reddetti,`
 ` ama düşen bir çatalı garsondan önce almak benim hayattaki amacım gibi.`
 `Battaniyeyi katladık, çöpleri topladık ve her şeyin temizlenmesine yardım ettik.`
@@ -523,7 +523,7 @@
 `Elini salladığı yönde Rosa Teyze'nin figürü görünüyordu.`
 `Belki de tayfun gelmeden önce bahçeye bir kez daha bakmak istiyordu,`
 ` ya da belki konukevinde bir işi vardı.`
-`Rosa Teyze malikaneden geliyordu.`
+`Rosa Teyze malikâneden geliyordu.`
 `{n}Kızının sesini hemen fark etti ve yanına geldi.`
 `"Ne oldu millet?`
 ` Bir şey mi arıyorsunuz?"`
@@ -624,7 +624,7 @@
 `{n}Ama ben böyle bir şeyi sessizce izleyebilecek şekilde yetiştirilmedim...`
 `"Sence de garip değil mi, Battler-kun?`
 ` Senin okulunda hiç "uu-uu" diye mırıldanan kız var mı?"`
-`"Pekala, ben lisedeyim...`
+`"Pekâlâ, ben lisedeyim...`
 ` Ama bir ilkokul öğrencisi için "uu-uu" demek bence oldukça şirin..."`
 `"Şirin mi?`
 ` "Uu-uu" demek şirin mi?`
@@ -655,7 +655,7 @@
 `"Bu şekilde toplumun düzgün bir üyesi olamazsın.`
 ` ...İzlemesi hoş bir sahne olmasa da,`
 ` ......bu anne ve çocuk arasındaki bir sorun."`
-`".........Pekala,`
+`".........Pekâlâ,`
 ` annem de konuşma tarzım yüzünden bana hep kızar."`
 `Bu açıdan bakarsanız, belki de izlemesi acı verici olsa da dışarıdan biri buna karışmamalı...`
 `"Battler-kun, çocukken düzeltemediğin ve başını belaya sokan kötü alışkanlıkların olmadı mı hiç?"`
@@ -683,7 +683,7 @@
 ` Annem umursamasa bile arayacağım!`
 ` Uu-uu-uu-uu-uu!!"`
 `"İstediğin gibi olsun!!"`
-`Rosa, Maria'yı bu son birkaç kelimeyle patakladıktan sonra topuklarının üzerinde döndü ve hızla malikaneye döndü.`
+`Rosa, Maria'yı bu son birkaç kelimeyle patakladıktan sonra topuklarının üzerinde döndü ve hızla malikâneye döndü.`
 `Maria muhtemelen bunu soğuk ve incitici bir hareket olarak gördü.`
 `Ama Rosa'nın bakış açısına göre, onun niyeti bu değildi.`
 `...Çünkü Maria'nın yanağına duygusal bir şekilde vurduğu eli hâlâ uyuşuktu.`

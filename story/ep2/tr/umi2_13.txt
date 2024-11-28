@@ -3,7 +3,7 @@
 `Teknenin telsizi de var.`
 `{n}Muhtemelen onun sayesinde hemen polisle irtibata geçebileceğiz.`
 `Hepimiz salonda toplandık ve yarına kadar sessizce beklemeye karar verdik.`
-`Suçlu hakkında ipucu bulmak için malikanenin her tarafını araştırmamızı önerdim,`
+`Suçlu hakkında ipucu bulmak için malikânenin her tarafını araştırmamızı önerdim,`
 ` ancak Rosa Teyze bunu reddetti ve suçluya baskı yaparsak ya da onu kışkırtırsak,`
 ` üçüncü bir cinayete yol açabileceğimizi söyledi.`
 `...Yapılacak en doğru şey muhtemelen buydu.`
@@ -442,7 +442,7 @@
 ` ............Herkesin ya mutfakta ya da salonda olduğu bir sırada, arka kapıda biri nasıl olabilirdi...?!`
 `Hizmetkârlar birbirlerine bakarak, içlerinden birinin bu sesin ne anlama geldiğini bilip bilmediğini kontrol ettiler.`
 `"Kim, ..........kim olabilir......?"`
-`Hizmetkârlar malikanenin planını iyi biliyorlardı.`
+`Hizmetkârlar malikânenin planını iyi biliyorlardı.`
 `Dolayısıyla, salondan birinin bu tayfunda dışarı çıkmasının, tüm yolu dolaşmasının,`
 ` ve bu arka kapıya kadar gelmesinin ne kadar olanaksız olduğunu anladılar.`
 `Kinzo muydu?`
@@ -577,7 +577,7 @@
 `...Yüz ifadesi şaşkın ve trajikti, sanki neye inanacağını bilemiyordu...`
 `Shannon koştu.`
 ` Nereye?`
-`......Malikanenin içi özenle temizlendiğinden, bulmak muhtemelen kolay olmayacaktı.`
+`......Malikânenin içi özenle temizlendiğinden, bulmak muhtemelen kolay olmayacaktı.`
 `Gül bahçesini ararsa belki birkaçını bulabilirdi ama muhtemelen hepsi bu rüzgâr ve yağmur yüzünden kaybolup gitmişti...`
 `Doğru, ......kazan dairesi çok sık temizlenmiyor.`
 `{n}...Oraya giderse, ......belki biraz bulabilirdi...`
@@ -640,7 +640,7 @@
 ` {f:5:Neden} bana inanmıyorsun?"`
 `"A-Ayağa kalkma...`
 ` Yaranı daha da kötüleştireceksin..."`
-`Kanon yatakta doğruldu ve Kanon'un hikayesine inanmak için hiçbir çaba göstermeyen Genji ile konuştu.`
+`Kanon yatakta doğruldu ve Kanon'un hikâyesine inanmak için hiçbir çaba göstermeyen Genji ile konuştu.`
 `"O kesinlikle hepimizi öldürecek.`
 ` Şimdiye kadar salondaki herkesi öldürmüştür.`
 ` Eğer onu ilk biz öldürmezsek, ilk öldürülen kesinlikle biz olacağız.`

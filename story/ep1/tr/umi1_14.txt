@@ -147,7 +147,7 @@
 `".........Kazan dairesi..."`
 `"......Acaba kazanda yine bir sorun mu var...?"`
 `Bu merdivenler yeraltındaki kazan dairesine çıkıyordu.`
-`Malikanenin kazanı eskiydi ve son zamanlarda sorun çıkarıyordu.`
+`Malikânenin kazanı eskiydi ve son zamanlarda sorun çıkarıyordu.`
 `{n}Her ikisi de birkaç kez kazanın sorunlarına tanık olmuştu ama daha önce hiç böyle pis bir koku yaydığını görmemişlerdi.`
 `*çarpma*`
 `"Bu-Bu ses de neydi......?!"`
@@ -163,7 +163,7 @@
 `Az önce kapanan bir kapının sesini duyduklarına ve merdivenlerden çıkan birine rastlamadıklarına göre bu, kapıyı kapatan kişinin şu anda kazan dairesinin içinde olduğu anlamına geliyordu.`
 `Eğer kazan dairesi çıkmaz bir sokak olsaydı, Kanon bu kadar aceleyle içeri girmezdi.`
 `...Ama Kanon bir hizmetkârdı, o yüzden biliyordu.`
-`{n}Biri malikaneye, diğeri avluya açılan iki giriş vardı.`
+`{n}Biri malikâneye, diğeri avluya açılan iki giriş vardı.`
 `Onu şimdi kovalamazsa, kaçabilirdi...!`
 `Kumasawa da Kanon'dan çok sonra aynı sonuca varmıştı.`
 `{n}...Ama onun yalnız gitmesine izin veremezdi...!`
@@ -296,7 +296,7 @@
 ` Yalnız olmak tehlikeli!!"`
 `Natsuhi de Battler'ın peşinden merdivenleri koşarak çıktı.`
 `Yukarısı avluydu.`
-`{n}...Malikanenin avlusu sadece aydınlatma amacıyla inşa edilmişti, bu yüzden çok şık bir yer değildi.`
+`{n}...Malikânenin avlusu sadece aydınlatma amacıyla inşa edilmişti, bu yüzden çok şık bir yer değildi.`
 `Her tarafı çevrili olduğu için, güçlü rüzgârların sesini duyabilseler de hava tamamen sakin ve rahatsız edilmemişti.`
 `Sadece hafif, kederli bir yağmur vardı...`
 `Battler, soğuk yağmur damlalarının arasından hızla merdivenlerden çıkıp avluya girdi ve her yöne baktı.`
@@ -306,9 +306,9 @@
 `{n}Neredeyse yön duygusunu kaybedene kadar dönmeye devam etti.`
 `{n}Suçluyu bu manzaranın içinde bir yerlerde görebilmek için dua etti...!`
 `Ama hiç şansı yoktu.`
-` Döndükçe gördüğü tek şey malikanenin kalpsiz duvarları ve pencereleriydi...!`
-`Dahası, avludan malikaneye iki giriş vardı ve ikisi de kilitli değildi.`
-`Avluya malikanenin dışından girilemediği için kapılar kilitsiz inşa edilmişti.`
+` Döndükçe gördüğü tek şey malikânenin kalpsiz duvarları ve pencereleriydi...!`
+`Dahası, avludan malikâneye iki giriş vardı ve ikisi de kilitli değildi.`
+`Avluya malikânenin dışından girilemediği için kapılar kilitsiz inşa edilmişti.`
 `......Hangisinden çıktıklarını anlayamıyordu!`
 `{n}Pes etmek zorunda kaldı.`
 `Battler küfürler savurarak yumruğunu duvara vurdu...`
@@ -451,8 +451,8 @@
 `Ancak, Genji-san'a göre, kazan dairesi genellikle kilitliymiş.`
 `......Grubumuzun dışından birinin suç işlemek için etrafta dolaşıyor olma ihtimali artık çok yüksekti,`
 ` ve bu kişinin elinde master anahtar gibi bir şeyle dolaşıyor olma ihtimali de çok yüksekti.`
-`...Ne de olsa malikanenin tüm kapı ve pencereleri kontrol edilmişti.`
-`Ama buna rağmen, suçlu malikanede rahatça dolaşıyordu.`
+`...Ne de olsa malikânenin tüm kapı ve pencereleri kontrol edilmişti.`
+`Ama buna rağmen, suçlu malikânede rahatça dolaşıyordu.`
 `Bu son suçtan sonra artık 19. kişinin varlığından emin olabilir miyiz?`
 `{n}Kendilerini bir kez bile göstermediler ama yine de varlıklarını duyurmaya çalışıyorlar.`
 `Kyrie-san'ın satranç tahtası teorisiyle birlikte, bu çelişkiyi 19. kişinin varlığını inkâr etmek için kullanıyordum.`

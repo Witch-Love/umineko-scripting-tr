@@ -70,7 +70,7 @@
 ` Bu adada 19. bir kişi olduğunu mu söylüyorsun?"`
 `"Maria-chan'ın söylediklerini ciddiye alırsak, o zaman bu sonuca ulaşabiliriz."`
 `"Hayır, demek istediğim o değil.`
-` ......Bilmediğimiz birinin uzun zamandan beri bu adada yaşadığına dair hikayeden bahsediyorum."`
+` ......Bilmediğimiz birinin uzun zamandan beri bu adada yaşadığına dair hikâyeden bahsediyorum."`
 `"Yaşamak derken, nerede?"`
 `"...Ormanın içinde."`
 `Yetişkinler yemek salonunda toplanmış, {f:5:Beatrice}'in mektubuyla başlayan tartışmayı sürdürerek çok uzun zaman harcıyorlardı...`
@@ -140,7 +140,7 @@
 ` ......Yağmurdan korunabilirdi ama hava da oldukça soğuk."`
 `".........Esrarengiz bir 19. ziyaretçi.`
 ` Kulağa oldukça ilginç geliyor, tıpkı bir gizem romanı gibi.`
-` Normalde, bu tür bir hikayede, bu kişinin var olmadığına ve 18'imizden birinin numara yapıyor olduğuna dair güçlü bir ihtimal vardır."`
+` Normalde, bu tür bir hikâyede, bu kişinin var olmadığına ve 18'imizden birinin numara yapıyor olduğuna dair güçlü bir ihtimal vardır."`
 `"...Ben Genji ve diğerlerinden şüpheleniyorum.`
 ` Tek Kanatlı Kartal'ı olan tüm hizmetkârları görevden almak için bulabileceğimiz her türlü bahaneyi aramalıydık."`
 `"Hadi ama, böyle söyleme.`
@@ -211,31 +211,31 @@
 `Natsuhi hemen ona çıkıştı ama kocası Krauss da dahil olmak üzere dört kardeşin bu şekilde düşünmediği anlaşılıyordu.`
 `...Aksine, Kinzo'nun tam da böyle bir işe kalkışacak türden biri olduğunu düşündükleri anlaşılıyordu.`
 `Kinzo'yu büyüsü altına alan bir metresin varlığı...`
-`Kinzo'nun bu adadaki malikaneyi inşa ettiği ilk günden beri kulaktan kulağa dolanıyordu......`
+`Kinzo'nun bu adadaki malikâneyi inşa ettiği ilk günden beri kulaktan kulağa dolanıyordu......`
 `"......Özür dilerim Natsuhi-san, Babama ne kadar saygı duyduğunu biliyorum ama bu söylenti uzun zamandır ortalıkta dolaşıyor.`
 ` Babam Rokkenjima'daki tüm binaları bizzat kendisi inşa ettirdi."`
-`"...Başından beri bu malikanenin sadece Babamın bildiği bazı gizli numaraları veya gizli odaları olabileceğinden şüpheleniliyordu,`
-` ve ayrıca bu adada bir yerlerde saklı, hiçbirimizin bilmediği gizli bir malikanenin olabileceği de hep konuşuluyordu."`
+`"...Başından beri bu malikânenin sadece Babamın bildiği bazı gizli numaraları veya gizli odaları olabileceğinden şüpheleniliyordu,`
+` ve ayrıca bu adada bir yerlerde saklı, hiçbirimizin bilmediği gizli bir köşkün olabileceği de hep konuşuluyordu."`
 `"Evet, öyle.`
 ` Bu ada haritada küçük görünüyor olabilir, ...ama sadece Ushiromiya ailesinin yaşaması için oldukça büyük."`
-`"......Bu yüzden insanlar, metresinin içinde yaşayabileceği medeni olmayan ormanda bir yerde gizli bir malikane inşa edip etmediğini merak ettiler.`
-` Bu oldukça geniş çaplı bir hikaye."`
-`"İlk başlarda, bu malikanenin içinde bir yerlerde olabileceğini düşünüyorduk.`
+`"......Bu yüzden insanlar, metresinin içinde yaşayabileceği vahşi ormanda bir yerlerde gizli bir köşk inşa edip etmediğini merak ettiler.`
+` Bu oldukça geniş çaplı bir hikâye."`
+`"İlk başlarda, bu malikânenin içinde bir yerlerde olabileceğini düşünüyorduk.`
 ` ......Bu portredeki cadının gizlice saklandığı, muhteşem bir gizli odası olan, gizli bir bodrum olabilir diye."`
 `"...Babamın çalışma odasındaki o karmaşık otomatik kilidi gördükten sonra bunu hayal etmek çok da zor olmaz, değil mi?"`
 `"......Gerçekten de Babam, yüklü miktarda altını gizli bir yerde sakladığı ve gizli bir mekanizma tarafından korunduğu söylentisini yaydı.`
-` Bu malikanenin içinde henüz hiçbirimizin bilmediği gizli bir oda olduğunu öğrenmek beni şaşırtmaz."`
-`"Annem hayattayken, Babam etrafta olmadığında sık sık tüm malikaneyi dolaşıp onu arardı.`
+` Bu malikânenin içinde henüz hiçbirimizin bilmediği gizli bir oda olduğunu öğrenmek beni şaşırtmaz."`
+`"Annem hayattayken, Babam etrafta olmadığında sık sık tüm malikâneyi dolaşıp onu arardı.`
 ` ......Rudolf'un az önce söylediklerinden Annem de şüpheleniyordu.`
 ` Bir yerlerde gizli bir kapının ya da merdivenin olduğuna ve sarı saçlı metresinin de onun arkasında saklandığına inanıyordu."`
 `İnanması zor ama başka ülkelerde, insanların birilerini gizli bir tavan arasında yaşatarak onlarca yıl boyunca eşlerini aldattıklarına dair bazı gerçek örnekler var.`
-`Ve üstelik böylesine abartılı bir malikaneye sahip olan Kinzo'dan bahsediyorduk.`
+`Ve üstelik böylesine abartılı bir malikâneye sahip olan Kinzo'dan bahsediyorduk.`
 `{n}......Gizli odaların varlığından şüphelenmek için sonsuz olasılık vardı...`
 `"Rokkenjima cadısının efsanesi,`
 ` ...bildiğim kadarıyla, çocukları korkutarak vahşi ormana girmelerini önlemek için uydurulmuş bir masaldan ibaretti..`
-` ...Ama kulağa hikayenin biraz daha fazlası varmış gibi gelmeye başladı."`
+` ...Ama kulağa hikâyenin biraz daha fazlası varmış gibi gelmeye başladı."`
 `"Evet, öyle denebilir.`
-` Bildiğiniz gibi, burası Ushiromiya malikanesinden başka hiçbir şeyin olmadığı ıssız bir ada."`
+` Bildiğiniz gibi, burası Ushiromiya malikânesinden başka hiçbir şeyin olmadığı ıssız bir ada."`
 `"Rosa ve ben küçükken, fırtınalı gecelerde ormandan duyduğumuz ağaç hışırtılarından çok korkardık.`
 ` O ağaçların arasından tuhaf bir şeyin bize bakıyor olabileceği gibi çılgınca bir düşünceye kapılırdık.`
 ` Her veledin böyle bir şey düşünmesi gayet doğaldır."`
@@ -245,7 +245,7 @@
 ` Ben ve Nii-san, tesadüfen bu adada gizlice yaşayan Babamın metresini kimsenin olmadığı bir zamanda yürüyüşe çıkarken yakalayabileceğimizi düşündük.`
 ` Tabii ki, annem de düşündü."`
 `"...Yaşlı hizmetkârlar arasında da, portredeki cadının gece yarısı malikânede nasıl dolaştığına dair o hayalet hikâyesini sık sık duyardınız.`
-` Dışarıdan, bunu sadece bir hayalet hikayesi olarak düşünerek gülüp geçmiştim, ama içten içe bunun gizli bir metresin varlığına işaret ettiğinden şüpheleniyordum."`
+` Dışarıdan, bunu sadece bir hayalet hikâyesi olarak düşünerek gülüp geçmiştim, ama içten içe bunun gizli bir metresin varlığına işaret ettiğinden şüpheleniyordum."`
 `"Bu durumda, .........bu adada 19. bir kişinin varlığının...`
 `tamamen saçmalık olamayacağını mı söylüyorsunuz?`
 ` ...Aslında buralarda bir yerde olabilir mi......?"`
@@ -286,12 +286,12 @@
 ` bu yüzden bazı hizmetkârlar olayı abartarak onun kelebeklere dönüşüp gül bahçesinin etrafında dolaşmış olabileceğini söylüyorlardı."`
 `"Kısacası, Babam sık sık ortadan kayboluyordu ve kimse nereye gittiğini bilmiyordu."`
 `"Evet.`
-` Malikanenin içinde ne kadar ararsak arayalım onu bulamadığımız için, Babamın malikanenin dışında bir yere gitmiş olabileceği düşüncesi de giderek güçlendi.`
+` Malikânenin içinde ne kadar ararsak arayalım onu bulamadığımız için, Babamın malikânenin dışında bir yere gitmiş olabileceği düşüncesi de giderek güçlendi.`
 ` Ama malikânenin dışındaki alanda bahsedilecek pek bir şey yok.`
 ` ......Bu da geriye sadece geniş bir orman bırakıyor."`
 `"Ve bunu ormandaki cadı efsanesiyle birleştirirseniz, şöyle bir teori elde edersiniz:`
 ` Babam aslında ormanın içinde bir yerlerde,`
-` içinde {f:5:Beatrice} adında bir metresin yaşadığı gizli bir malikane inşa etmişti ve ara sıra onu görmeye giderdi."`
+` içinde {f:5:Beatrice} adında bir metresin yaşadığı gizli bir köşk inşa etmişti ve ara sıra onu görmeye giderdi."`
 `"...O zamanlar ben de gençtim.`
 ` Bir noktada, Babamı aldatırken yakalamaya niyetlendim ve dışarı çıktığında onu takip etmeye çalıştım."`
 `"...Tabii ki, başarısız oldum.`
@@ -305,20 +305,20 @@
 `"...Yani, her neyse.`
 ` Bu ada, Batı takıntısı olan Babamın tüm hayallerini çizebildiği bir karalama defteri gibiydi.`
 ` ......Bu adayla ilgili her şey tam da Babamın istediği gibiydi.`
-` Metresinin yaşaması için gizli bir malikane olması hiç de garip olmazdı..."`
+` Metresinin yaşaması için gizli bir köşk olması hiç de garip olmazdı..."`
 `Eva'nın sözleri tüm kardeşlerin düşüncelerini yansıtıyordu.`
 `Bir süre için oda tekrar sessizliğe gömüldü ve herkes rüzgârın ve yağmurun sesini dinledi...`
-`......Bu adada gizli bir malikane var mıydı ve Kinzo'nun metresi çok, çok uzun zamandır orada saklanarak mı yaşıyordu......?`
+`......Bu adada gizli bir köşk var mıydı ve Kinzo'nun metresi çok, çok uzun zamandır orada saklanarak mı yaşıyordu......?`
 `Her biri fazla şüpheci davrandıklarını düşünmüş ve uzun süre boyunca bunu dillendirmekten kaçınmışlardı, ama...`
 `......bu herkesin paylaştığı ortak bir görüştü.`
 `Tüm bu süre boyunca gözleri kapalı bir şekilde onları dinleyen Kyrie, kimseye bir şey söylemedi.`
 `"...Babamın metresi hakkındaki bu söylenti ne zamandır ortalıkta dolaşıyor?"`
 `"Biz bu adaya taşındıktan hemen sonra, yani yaklaşık otuz yıl önceden beri."`
-`"Bir düşünün, biz buraya geldikten sonra gizli bir malikane inşa ettirmesi imkânsız olurdu.`
+`"Bir düşünün, biz buraya geldikten sonra gizli bir köşk inşa ettirmesi imkânsız olurdu.`
 ` İnsanların ve malzemelerin girip çıkması gerekirdi.`
 ` Kısa sürede anlardık."`
 `"Yani, eğer böyle bir şey varsa, bunun biz buraya taşınmadan önce gerçekleşmiş olması gerek.`
-` ...Muhtemelen biz hâlâ Odawara'da yaşarken bu malikane ile birlikte inşa edilmiş olabilir."`
+` ...Muhtemelen biz hâlâ Odawara'da yaşarken bu malikâne ile birlikte inşa edilmiş olabilir."`
 `"Muhtemelen en başından beri ailesi ve metresiyle ikili bir hayat kurmayı planladığını varsaymak yanlış olmaz.`
 ` Ve metresiyle olan ilişkisi muhtemelen Odawara'da yaşadığımız günlere kadar uzanıyordu."`
 `"Muhtemelen.`
@@ -331,10 +331,10 @@
 `"Bu şekilde düşünürseniz, bundan sonra yakın bir ilişkileri olacağı açıktır.`
 ` Bir metresle yaşanan ahlaksız bir ilişkiden ziyade, muhtemelen Ushiromiya ailesini krizden kurtaran kişiye duyulan bir minnettarlık ilişkisiydi."`
 `"......Natsuhi-san'ın söylediklerinde doğruluk payı olup olmadığını bilemiyorum.`
-` Ancak, bu durumda bile, gizli bir malikane inşa etmek ve onun içinde yaşamasını sağlamak biraz fazla ileri gitmek değil mi?`
+` Ancak, bu durumda bile, gizli bir köşk inşa etmek ve onun içinde yaşamasını sağlamak biraz fazla ileri gitmek değil mi?`
 ` Bu, minnettarlığın ötesinde bazı duyguların devrede olduğu anlamına gelmez mi?"`
 `"Yani, bunların hepsi bir spekülasyon.`
-` ......İşin aslı, hiç kimse o gizli malikaneyi bulamadı."`
+` ......İşin aslı, hiç kimse o gizli köşkü bulamadı."`
 `"...Aniki, bu adayı bir tatil köyüne dönüştürmeyi planlıyorsun, değil mi?`
 ` Bu süreçte belki tesadüfen bulursun, kim bilir?`
 ` Belki orada beklenmedik bir şekilde altını bile bulabilirsin."`
@@ -346,29 +346,29 @@
 `"Neyden bahsettiğinizi bilmiyorum, ama yanlış anladınız.`
 ` Bu adayı araştırmanın, onu bir tatil köyüne dönüştürmenin ilk adımı olması son derece doğal değil mi?"`
 `Krauss salağa yatmaya çalışsa da, onu çok iyi tanıyan kardeşleri için her şey apaçık ortadaydı.`
-`...Krauss gizli bir malikanenin varlığından kesinlikle emindi.`
+`...Krauss gizli bir köşkün varlığından kesinlikle emindi.`
 `Ve bir tatil köyü açma bahanesiyle adayı detaylı bir şekilde araştırıyor, saklı altının yerine dair bir ipucu arıyordu.`
 `Bu inancın sadece onun fazla düşünmesinden mi kaynaklandığını yoksa fiziksel bir kanıta mı dayandığını bilemiyorlardı.`
 `......Ancak, eğer Krauss tüm kurnazlığına rağmen bundan eminse,`
 ` bu diğer kardeşlerin de emin olması için yeterli bir kanıttı...`
 `"......Ormanda yaşayan bir cadı hakkındaki hikâye peri masallarından fırlamış gibi,`
-` ama ormanın ortasında kimsenin bilmediği bir malikanede gizlice yaşayan sarı saçlı bir kızla ilgili bir hikâye de...pek iyi sayılmaz."`
+` ama ormanın ortasında kimsenin bilmediği bir köşkte gizlice yaşayan sarı saçlı bir kızla ilgili bir hikâye de...pek iyi sayılmaz."`
 `"Kesinlikle.`
-` Kendi başına ele alındığında, kulağa bir tür çocuk hikayesi gibi geliyor.`
+` Kendi başına ele alındığında, kulağa bir tür çocuk hikâyesi gibi geliyor.`
 ` Rosa, böyle şeyleri seviyorsun, değil mi?"`
 `"......Huh, ......ş-...şey, evet..."`
-`"Malikane bu adada inşa edildiğinde, Babam zenginliğinin doruğundaydı.`
+`"Malikâne bu adada inşa edildiğinde, Babam zenginliğinin doruğundaydı.`
 ` Parasıyla muhtemelen her şeyi elde edebilir, hayallerini gerçeğe dönüştürebilirdi.`
-` ...Ormanın içinde bir cadının sessizce beklediği bir malikane...`
+` ...Ormanın içinde bir cadının sessizce beklediği bir köşk...`
 ` ......Babamın seveceği türden bir duruma benziyor."`
 `"......Değil mi?`
 ` Okültten bir şey ya da bir peri masalı gibi.`
 ` ...Babamın hoşuna giderdi gibi geliyor."`
 `Ushiromiya ailesinin otuz yıldır yaşadığı bu adada,`
-` kimsenin bilmediği gizli bir malikane sessizce inşa edilmişti ve içinde sadece portresiyle tanınan bir cadı yaşıyordu...`
+` kimsenin bilmediği gizli bir köşk sessizce inşa edilmişti ve içinde sadece portresiyle tanınan bir cadı yaşıyordu...`
 `Kinzo'nun tüm tuhaf alışkanlıkları ve muazzam serveti düşünüldüğünde...`
-`bu inanılması zor hikaye bile tamamen hayal ürünü olmayabilirdi...`
-`"......Babamın böyle bir hayali gerçekleştirmek için gizli bir malikane inşa ettirmesi imkânsız olmayabilirdi."`
+`bu inanılması zor hikâye bile tamamen hayal ürünü olmayabilirdi...`
+`"......Babamın böyle bir hayali gerçekleştirmek için gizli bir köşk inşa ettirmesi imkânsız olmayabilirdi."`
 `"......Ancak, gerçekçi olalım.`
 ` Acaba sevdiği kadını on yıllar boyunca o gizli malikânede herhangi bir sıkıntı yaşamadan saklayabilmesi mümkün olabilir miydi...?"`
 `"......Yani,`
@@ -396,7 +396,7 @@
 ` Babamı asla hafife almamalısın.`
 ` ......Babamın deliliği normal insanlar tarafından anlaşılamaz."`
 `Bunu {i:Ushiromiya Kinzo}'nun yapması beni şaşırtmazdı.`
-`...Bu kelime onun ismine eşlik edebildiği sürece, ne kadar absürt olursa olsun, her hikayenin hatırı sayılır bir inandırıcılığı vardı.`
+`...Bu kelime onun ismine eşlik edebildiği sürece, ne kadar absürt olursa olsun, her hikâyenin hatırı sayılır bir inandırıcılığı vardı.`
 `Ancak bu durum Kyrie'nin söylediklerinin önemini sarsmıyordu.`
 `Bu, karton bir kutuda gizlice bir kedi yavrusu yetiştirmekten ve bunu ailenizden saklamaktan farklıydı.`
 `Otuz yıl boyunca bir kişiye gizlice bakmak inanılmaz ölçüde büyük bir görev olurdu...`
@@ -405,7 +405,7 @@
 `"Bu onu kaç yaşında yapar?`
 ` En kötü ihtimalle bizim yaşımızda ya da daha büyük olabilir, değil mi?"`
 `"...O yaşa geldiğinde, vücut çökmeye başlar.`
-` Malikanenin nasıl olduğu umurumda değil, insanların gözlerinin ulaşamayacağı bir yerde, neredeyse ev hapsindeymiş gibi yaşamaya hoş diyemem..."`
+` Malikânenin nasıl olduğu umurumda değil, insanların gözlerinin ulaşamayacağı bir yerde, neredeyse ev hapsindeymiş gibi yaşamaya hoş diyemem..."`
 `"Bu doğru.`
 ` ...Eğer Babamın bize {f:5:Beatrice} hakkında söyledikleri doğruysa, bu ilişki otuz yıldan fazla bir süredir devam ediyor demektir."`
 `"......O zamanlar çekici genç bir kadın olabilir, ancak şimdi bizim gibi yaşlı bir çuval olduğunu düşünmek muhtemelen yerinde olur.`
@@ -430,7 +430,7 @@
 `Başka bir deyişle,`
 ` ...bu...`
 ` Kinzo'nun gerçekten aşık olduğu bir kadınla tanıştığı anlamına gelebilir.`
-`Eğer o da Kinzo'nun tüm hikayesini biliyorsa,`
+`Eğer o da Kinzo'nun tüm hikâyesini biliyorsa,`
 ` evli olmasalar bile, kalbinin derinliklerinde kendisini onun gerçek eşi olarak görmesi garip olmazdı.`
 `...Ve şimdi, gerçek eşi olarak kayıtlı olan kişi çoktan ölmüştü...`
 `"...Bu durumda, sadece malvarlığı üzerindeki haklara değil, aynı zamanda reislik konusundaki mücadeleye de tamamen müdahale etme niyetinde olabilir."`

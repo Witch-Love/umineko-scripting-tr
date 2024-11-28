@@ -377,7 +377,7 @@
 `Sonunda onu kuyruğundan yakaladım!`
 `{n}Bununla birlikte, her şeyi açıklayabilirim!`
 `{n}Cadılar gerçek değil, kimseden şüphe etmeme gerek yok!!`
-`Pekala, şu andan itibaren, tahtayı ters çevireceğim!`
+`Pekâlâ, şu andan itibaren, tahtayı ters çevireceğim!`
 ` Ondan tekrarlamasını isteyeceğim bir sonraki şey—`
 `"`
 `{p:1:Bu odada sizin grubunuz dışında kimse yok}.`
@@ -485,7 +485,7 @@
 `Öldürüldüğünü ve cesedinin ortadan kaybolduğunu düşündük, ama en başından beri hizmetkâr odasında değil miydi?!`
 `O zaman onunla birlikte ortadan kaybolan Kumasawa baa-chan da mı suç ortağı?!`
 `......Hepsi bu değil hepsi bu değil!`
-`{n}Bu hikayeye eşlik eden hizmetkârlar—Genji-san ve Gohda-san ve hatta Shannon-chan bile suç ortağı!`
+`{n}Bu hikâyeye eşlik eden hizmetkârlar—Genji-san ve Gohda-san ve hatta Shannon-chan bile suç ortağı!`
 `O halde, Maria'nın çantasından anahtarı çalan kişi de Jessica'ydı,`
 ` ...hayır, hayır, George-aniki olması da mümkün!`
 `Ne de olsa, Shannon-chan suçlunun tarafındaysa, George-aniki de otomatik olarak suçlunun tarafında olacaktır!!`
@@ -526,7 +526,7 @@
 `"......L-Lütfen bekle, Rosa Teyze.`
 ` Ne demek istiyorsun...?!"`
 `"Doktor Nanjo ve Kumasawa-san ölmedi, yaşıyorlar!`
-` Öldürülmüş gibi gösterdiler, ve bu malikanede bir yerde saklanıyorlar.`
+` Öldürülmüş gibi gösterdiler, ve bu malikânede bir yerde saklanıyorlar.`
 ` Böylece bize saldırabilecekler!!"`
 `"Bunu nasıl bilebilirsin?!`
 ` Gohda-san ve diğerlerinin yalan söylediğini mi söylüyorsun?!"`
@@ -535,10 +535,10 @@
 ` hepimiz böyle bir şey yaşanmadığına yemin ederiz!"`
 `"Hepiniz o ikisinin öldürüldüğünü söylüyorsunuz.`
 ` Ama ortada ceset olmadığına göre, buna inanmak için bir sebep yok.`
-` Sizin önceden bir hikaye uydurmuş, ve bu konuda yalan söylüyor olma ihtimaliniz var!!"`
+` Sizin önceden bir hikâye uydurmuş, ve bu konuda yalan söylüyor olma ihtimaliniz var!!"`
 `"Masumiyetinizi kanıtlamanın iyi bir yolu var, değil mi?`
 ` Doktor Nanjo ve Kumasawa-san'ın cesetlerini bularak!!"`
-`"Onları bulursak, belki o zaman hikayenizi dinlemeye başlayabilirim.`
+`"Onları bulursak, belki o zaman hikâyenizi dinlemeye başlayabilirim.`
 ` Ama bulana kadar, hepinizin kurt olduğunu inkâr edemezsiniz!!"`
 `"Sen de!`
 ` Ve sen de!!`
@@ -595,7 +595,7 @@
 `Bu doğru.`
 ` ......Rosa-san'ın argümanına göre, cesetler bulunabilirse, en azından bu insanların masumiyeti kanıtlanabilirdi.`
 `Ama bu sadece cesetler için geçerliydi.`
-` Malikanenin her tarafını arayıp cesetleri bulsalar bile, sonuçta kendi masumiyetleri kanıtlanamayacaktı.`
+` Malikânenin her tarafını arayıp cesetleri bulsalar bile, sonuçta kendi masumiyetleri kanıtlanamayacaktı.`
 `"Doktor Nanjo ve Kumasawa-san'ı kaçırdılar, onları başka bir yerde öldürdüler ve odayı kendi master anahtarlarıyla kilitlediler."`
 `Kilitli oda bu yöntem dışında bir yöntemle kırılmadığı sürece,`
 ` ......masumiyetlerini kanıtlamak imkânsız olurdu...`

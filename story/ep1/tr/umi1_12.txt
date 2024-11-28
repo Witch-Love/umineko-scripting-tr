@@ -85,7 +85,7 @@
 ` Şimdi saklamaya çalışma."`
 `"............Bu yüzden doğrudan soracağım.`
 ` ...Kim bu {f:5:Beatrice}?`
-` Bir çocuk hikayesindeki cadı olması gerekiyordu, ama şimdi pek de öyle görünmüyor."`
+` Bir çocuk hikâyesindeki cadı olması gerekiyordu, ama şimdi pek de öyle görünmüyor."`
 `"........................"`
 `Kanon-kun bakışlarını kaçırdı.`
 `...Bu konu hakkında konuşmak istemediği çok açıktı,`
@@ -94,7 +94,7 @@
 `"......Eğer dün gece olsaydı, bu beni ilgilendirmezdi.`
 ` Ama bu sabahtan itibaren her şey tersine döndü.`
 ` Artık Babam ve diğerleri öldürüldüğüne göre, bu beni tamamen ilgilendirir.`
-` .........Bu şüpheli hikayeyi dinlemeye hakkım var, öyle değil mi...?"`
+` .........Bu şüpheli hikâyeyi dinlemeye hakkım var, öyle değil mi...?"`
 `Gözlerimi Kanon-kun'un gözlerine dikmiş bakıyordum, o ise acı içinde uzaklara bakmaya devam ediyordu.`
 `...Boylarımız arasında büyük bir fark olduğu için Kanon-kun ayak parmaklarının üzerinde durmak zorunda kaldı ve biraz canı yanıyor gibi görünüyordu.`
 `"............Battler-san...`
@@ -111,7 +111,7 @@
 ` Sır olarak saklamak daha da iğrenç."`
 `"......Bana anlat.`
 ` Yarından önce yapacak daha iyi bir işim yok.`
-` Birazcık korkutucu bir hikaye can sıkıntısını gidermenin en iyi yolu olabilir."`
+` Birazcık korkutucu bir hikâye can sıkıntısını gidermenin en iyi yolu olabilir."`
 `Genji-san ve Kanon-kun birbirlerine baktıktan sonra konuşmaya karar vermişler gibi başlarını salladılar...`
 `"......Anlaşıldı.`
 ` İstediğiniz şeyi sorabilirsiniz.`
@@ -120,7 +120,7 @@
 ` O zaman soruyorum."`
 `"......{f:5:Beatrice} de kim oluyor?`
 ` ...Tek bildiğim Rokkenjima ormanında yaşayan bir cadı olduğu.`
-` ...Büyükannemin ya da birilerinin insanları tehlikeli ormandan uzak tutmak için uydurduğu bir hikaye olduğunu duymuştum.`
+` ...Büyükannemin ya da birilerinin insanları tehlikeli ormandan uzak tutmak için uydurduğu bir hikâye olduğunu duymuştum.`
 ` ......Bu yanlış mı?"`
 `"............Hayır, ...yanlış değil.`
 ` Dediğiniz gibi.`
@@ -141,7 +141,7 @@
 ` ...Gerçekten de aklı başında olan herkes bunu kötü karşılardı.`
 ` ............Yani {f:5:Beatrice} adında birinin gerçekten var olduğunu söylüyorsun?"`
 `"......Evet.`
-` Bu adada malikane inşa edilmeden önce de Efendi için çalışıyordu.`
+` Bu adada malikâne inşa edilmeden önce de Efendi için çalışıyordu.`
 ` ...Büyük ihtimalle benden bile daha uzun süredir onun için çalışıyor."`
 `"Demek öyle, Kyrie-san'ın teorisi yanlıştı...`
 ` ......Büyükbabamın gerçekten de {f:5:Beatrice} adında bir sırdaşı varmış.`
@@ -170,7 +170,7 @@
 ` ......Onun sık sık portrenin önünde durup eski haline hasret kaldığını duydum...`
 ` ...Hoh-hoh-ho..."`
 `"{f:5:Beatrice}-sama bazen formunu değiştirerek ışıltılı kelebeklere dönüşür ve kendini gösterirmiş.`
-` ......Onları malikanede bir yerde gördüğünüz nadir durumlarda, kesinlikle peşlerinden gitmemeniz gerektiğine dair bir kural vardır."`
+` ......Onları malikânede bir yerde gördüğünüz nadir durumlarda, kesinlikle peşlerinden gitmemeniz gerektiğine dair bir kural vardır."`
 `"Peşlerinden giderseniz felaketle karşılaşacağınız söylenir.`
 ` ...Aslında, bu kuralı çiğneyen ve büyük bir yaralanma nedeniyle istifa eden bir hizmetkâr vardı."`
 `"......Durun durun, ciddi misiniz?`
@@ -179,7 +179,7 @@
 ` Böyle konuşmak akıllıca olmayabilir."`
 `"{f:5:Beatrice}-sama ona saygısızlık edenleri sevmez.`
 ` ......Eğer onun varlığından şüphe ederseniz, kesinlikle felakete sürüklenirsiniz."`
-`"Battler-san... Muhtemelen bu hikayeyi tatsız buluyorsunuz.`
+`"Battler-san... Muhtemelen bu hikâyeyi tatsız buluyorsunuz.`
 ` Ama biliyor musunuz?`
 ` {f:5:Beatrice}-sama "gerçek", tamam mı?"`
 `"......O "gerçek".`
@@ -196,7 +196,7 @@
 ` Lütfen bana güven..."`
 `Kumasawa baa-chan, genellikle neşeli biriydi ve her zaman insanlara takılırdı,`
 ` ......şimdi ise daha önce hiç görmediğim bir yüz ifadesiyle konuşuyordu.`
-`".........P-......Pekala...`
+`".........P-......Pekâlâ...`
 ` Onun gerçek olduğunu söylüyorsun...`
 ` Ama ben hiçbir şey göremiyorum...`
 ` Şu an tam da yanımda durduğunu falan mı söylemeye çalışıyorsun?`
@@ -334,7 +334,7 @@
 `Ne de olsa, sabahın erken saatlerinden itibaren on bir kişi aynı odaya kapatılırsa, ortam boğucu olmaya başlayacaktır.`
 `...Aradan biraz zaman geçtikten sonra,`
 ` herkes o sabahın şokunu atlatmaya başlamış—belki de tehlike algıları zamanla zayıflamıştı.`
-`...... Ancak, bu malikanede altı kişinin öldürüldüğü kesin bir gerçekti,`
+`...... Ancak, bu malikânede altı kişinin öldürüldüğü kesin bir gerçekti,`
 ` yani kimse tamamen ihmalkâr değildi.`
 `Bu yüzden cesur davranmaya çalışarak temiz hava almak için koridora çıktıklarında,`
 ` ......orada izole bir şekilde durmaktan korkuyorlar ve soluğu yeniden salonda alıyorlardı.`
@@ -502,7 +502,7 @@
 `Biraz huzursuz hissetmeye başlamıştım...`
 `Eva Teyze 19. kişinin var olmadığını iddia etmiş,`
 ` aile içinden birinin, aralarındaki fena kavgayla bağlantılı olarak bu suçu işlediğini söylemişti.`
-`Öte yandan, Natsuhi Teyze de suçlunun malikanenin dışında bir yerde saklandığını iddia etmişti.`
+`Öte yandan, Natsuhi Teyze de suçlunun malikânenin dışında bir yerde saklandığını iddia etmişti.`
 `Bu, suçun bizden biri tarafından işlendiğini inkâr ettiği ve 19. kişinin varlığını kabul ettiği anlamına geliyordu.`
 `Mutfakta Maria ve hizmetkârlar da 19. kişinin var olduğu konusunda hemfikirdi.`
 `Ama onlara göre bu 19. kişi bir insan değildi.`
@@ -512,16 +512,16 @@
 `Bir sebepten dolayı, hiçbir olasılığa gülüp geçemiyordum.`
 `{n}...Cadı hakkındaki en saçma olana bile.`
 `"......Jessica,`
-` {f:5:Beatrice} hikayesi hakkında bildiğim tek şey, çocukları ormana girmekten korkutmak için yetişkinler tarafından uydurulmuş bir hikaye olduğuydu, ama...`
-`...burada, malikanede durum farklı mı...?"`
+` {f:5:Beatrice} hikâyesi hakkında bildiğim tek şey, çocukları ormana girmekten korkutmak için yetişkinler tarafından uydurulmuş bir hikâye olduğuydu, ama...`
+`...burada, malikânede durum farklı mı...?"`
 `"............Hmmm...`
 ` Bu konuda sana katılıyorum."`
-`"Bence bu sadece ebeveynlerin çocuklarının onları dinlemesi için uydurdukları aptalca bir hayalet hikayesi.`
-` ......Ama malikanenin içindeki atmosferin bunu yüksek sesle söylemeyi biraz zorlaştırdığını inkâr edemem..."`
+`"Bence bu sadece ebeveynlerin çocuklarının onları dinlemesi için uydurdukları aptalca bir hayalet hikâyesi.`
+` ......Ama malikânenin içindeki atmosferin bunu yüksek sesle söylemeyi biraz zorlaştırdığını inkâr edemem..."`
 `"......Çünkü Büyükbabam {f:5:Beatrice}'in var olduğunu açıkça söyledi.`
 ` Ve pozisyonlarından dolayı, hizmetkârlar bundan şüphe edemezler.`
 ` Jessica'nın annesi ve babası da onunla kavga etmek istemiyor, bu yüzden görünüşte bunu kabul ediyorlar."`
-`"......Yani bu malikanede {f:5:Beatrice}'in varlığından şüphe duymanın bir tür tabu olduğunu söyleyebiliriz.`
+`"......Yani bu malikânede {f:5:Beatrice}'in varlığından şüphe duymanın bir tür tabu olduğunu söyleyebiliriz.`
 ` Buraya yılda sadece bir kez gelen bizlerin aksine.`
 ` ......Doğru mu?"`
 `Jessica hayranlıkla üfledi...`
@@ -535,9 +535,9 @@
 ` Onları çalıştıran Büyükbabam onun "var olduğunu" söylediği için, bunu kabul etmek zorunda oldukları doğru mu...?"`
 `"Şey...`
 ` Detayları gerçekten bilmiyorum,`
-` ......ama hizmetkârlar arasında, {f:5:Beatrice} ile ilgili hikaye biraz hayalet hikayesi gibi ele alındı."`
+` ......ama hizmetkârlar arasında, {f:5:Beatrice} ile ilgili hikâye biraz hayalet hikâyesi gibi ele alındı."`
 `"...Dün Shannon'un sahilde bizimle konuştuğu zamanı hatırlıyor musun?`
-` Geceleri malikanede dolaşırken nasıl rahatsız edici şeyler gördüklerini anlatıyordu."`
+` Geceleri malikânede dolaşırken nasıl rahatsız edici şeyler gördüklerini anlatıyordu."`
 `Gerçekten de bunun gibi bir şey söylemişti...`
 `O vakit, buna pek kafa yormamış, sadece hoşnutsuz Maria'ya uyduğunu varsaymıştım,`
 ` ...ama şimdi bir düşününce, bunu gerçekten tamamen ciddi bir şekilde söylemişti.`
@@ -546,14 +546,14 @@
 `...Kesinlikle Genji-san ve diğerlerinin mutfakta oybirliğiyle ilan ettikleri türden bir şey söyledi...`
 `"Buna ek olarak, bazı hizmetkârlar etrafta dans eden hayaletler ve ışıltılı kelebekler de görmüşlerdir.`
 ` ......Kanon-kun da bir gece vardiyasına çıktığında böyle bir şey gördüğünü söyledi."`
-`"Ve son zamanlarda, hizmetkârlar gece yarısına doğru malikanenin içinde duydukları garip ayak seslerinden bahsediyorlardı.`
-` Portredeki {f:5:Beatrice}-sama'nın bazen kendini görünmez kıldığını ve malikanenin içinde gezdiğininden aramızda bahsederdik."`
+`"Ve son zamanlarda, hizmetkârlar gece yarısına doğru malikânenin içinde duydukları garip ayak seslerinden bahsediyorlardı.`
+` Portredeki {f:5:Beatrice}-sama'nın bazen kendini görünmez kıldığını ve malikânenin içinde gezdiğininden aramızda bahsederdik."`
 `"...Bu uzun zaman önce oldu, ama bu tür ayak seslerini geceleri devriye gezerken ben de duydum."`
 `......Bu doğru.`
 ` Bunu kesinlikle söyledi.`
 `{n}Az önce bana söylenenle tamamen aynı şey.`
 `"Ah, ...ama korkacak hiçbir şey yok.`
-` {f:5:Beatrice}-sama sadece bu malikanenin Efendiden ayrı diğer bir yöneticisi.`
+` {f:5:Beatrice}-sama sadece bu malikânenin Efendiden ayrı diğer bir yöneticisi.`
 ` Yani, ona saygı duyduğunuz ve garip bir şekilde korkmuş gibi davranmadığınız sürece kötü bir şey yapmayacaktır."`
 `"Ancak, ona saygı duymazsanız korkutucu olur, değil mi?"`
 `"...Evet.`
@@ -562,7 +562,7 @@
 ` Bu nedenle, hizmetkârlar arasında {f:5:Beatrice}-sama'nın öfkesinin bu kişiye yöneldiğine dair bir söylenti vardı..."`
 `"......Eğer ona saygı göstermezsen, öfkesi sana yansıyacak ve yaralanacaksın.`
 ` ...Yani, hizmetkârlar için {f:5:Beatrice}'in varlığı...`
-`{c:86EF9C:Inari‐san} hakkında şaka yaparsan, {c:86EF9C:kitsune} tarafından lanetleneceğin hikayesi kadar inandırıcı."`
+`{c:86EF9C:Inari‐san} hakkında şaka yaparsan, {c:86EF9C:kitsune} tarafından lanetleneceğin hikâyesi kadar inandırıcı."`
 `Elbette herkes modern çağda lanet ve benzeri şeylerin var olmadığını kabul etse de,`
 ` ...insanlar hâlâ onlardan korkuyor ve onlara hâlâ biraz saygı duyuyorlar.`
 `Bunu yerleşim bölgelerinde bile sıkça görebilirsiniz, örneğin birisi bir ev inşa ederken o arsanın tanrısını onurlandırmak için bir tören düzenlemek üzere bir Şinto rahibi çağırır.`
@@ -592,9 +592,9 @@
 `"......Ve doğru hatırlıyorsam, Jessica, sabahları evden çıkarken bazen çantanı bulamamanın {f:5:Beatrice}'in suçu olduğunu söyleyip şaka yapıyordun."`
 `"Hafızan oldukça iyi.`
 ` ...Normalde, onları bir perinin aldığını söyleyebilirdin, ama bu adada bu {f:5:Beatrice}'in işi.`
-` Dostum, ne salak bir hikaye."`
-`"Bu malikane yaklaşık otuz yıldır ayakta, değil mi?`
-` Bu kadar eski şeylerin hayalet ve okült hikayelerden payını alması doğaldır.`
+` Dostum, ne salak bir hikâye."`
+`"Bu malikâne yaklaşık otuz yıldır ayakta, değil mi?`
+` Bu kadar eski şeylerin hayalet ve okült hikâyelerden payını alması doğaldır.`
 ` Bir okuldaki yedi gizem gibi."`
 `"...............Bu yüzden...`
 `burası "satranç tahtasını ters çevirdiğimiz" yer."`
@@ -631,7 +631,7 @@
 ` ...Yine de, birisi Maria'ya mektubu verdi ve herkes bunu inkâr edecek olsa da kendisine cadı dedi."`
 `"Yani, ......18 kişiden birinin {f:5:Beatrice} adında bir 19. kişiyi gerçekten varmış gibi göstermeye çalıştığını mı söylemeye çalışıyorsun...?"`
 `"Bu çok çılgınca......`
-` ...Bence annemin birinin malikanenin dışında saklandığına dair teorisi biraz daha inandırıcı...`
+` ...Bence annemin birinin malikânenin dışında saklandığına dair teorisi biraz daha inandırıcı...`
 ` ...Battler, sakın bana gerçekten bu odadaki birinin suçlu olduğundan şüphelendiğini söyleme...?"`
 `"Evet.`
 ` ...Birisi bizi {f:5:Beatrice}'in varlığını kabul etmeye zorluyor.`
@@ -1227,7 +1227,7 @@
 `her şey kesinlikle çözülecek.`
 `"...Natsuhi nee-san, artık yüzümü bile görmek istemediğini varsayıyorum?`
 ` Ben de öyle hissediyorum.`
-` ...Yanlış hatırlamıyorsam dün, konukevine geri dönmemize gerek kalmasın diye bizim için malikanede bazı odalar hazırlatmıştınız?"`
+` ...Yanlış hatırlamıyorsam dün, konukevine geri dönmemize gerek kalmasın diye bizim için malikânede bazı odalar hazırlatmıştınız?"`
 `"Orada bir banyo ve tuvaletin yanı sıra kapıyı kilitlemek için bir kilit ve bir zincir olmalı.`
 ` Hatta yatacak bir yatak bile var ve kocam hangi kanalı izleyeceği konusunda Maria-chan'la kavga etmek zorunda kalmadan televizyon izleyebilecek."`
 `"....................................`
@@ -1291,14 +1291,14 @@
 ` ......ve beni 19. bir kişinin,`
 ` ......hayır, bir cadının var olduğuna inandırmasını söyle."`
 `".................................Kihihi.`
-` ......Pekala.`
+` ......Pekâlâ.`
 ` Eğer onunla karşılaşırsam, ona söylerim."`
 `Kahretsin...`
 ` Artık kendi düşüncelerimi bile anlamıyorum...`
 `Bir 19. kişiye inanmaya yönlendirildiğimde, bunu reddediyorum ve sadece 18 kişi olduğuna inanmaya yönlendirildiğimde, bunu da reddediyorum.`
 `Buradaki 18 kişiden daha fazlası olmasını dilesem de, o 19. kişinin varlığını kabul edemiyorum.`
 `......Kısacası, 18'den fazla kişi olsa da 19'dan az kişi var.`
-`{n}......Bu malikanedeki insan sayısı 19>X>18.`
+`{n}......Bu malikânedeki insan sayısı 19>X>18.`
 `{n}Yani kişi sayısı bir tamsayı ile gösterilemez.`
 `......Bununla birlikte, ondalık noktadan sonra herhangi bir şey olması imkânsızdır.`
 `{n}İnsan sayısını bir tam sayıdan başka bir şeyle temsil edemiyor olmanız gerekir.`

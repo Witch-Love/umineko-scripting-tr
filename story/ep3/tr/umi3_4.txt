@@ -1,11 +1,11 @@
 `"...Anlıyorum...`
 ` Yani adada bir cadı değil de {f:5:Beatrice} adında bir metres vardı..."`
 `"......Yani 18'den fazla insan olabilir!`
-` Bu da 18 kişi için imkânsız olan herhangi bir suçun büyü içermesi gerektiğini öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
+` Bu da, eğer 18 kişinin hepsi için imkânsızsa, suçun büyü içermek zorunda olduğunu öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
 ` ......İşte bu büyük bir bilgi."`
 `"İzninizle.`
 ` Battler-sama, biraz siyah çay ve kurabiye ister misiniz?"`
-`Ronove adındaki Beato'nun uşağı bir anda ortaya çıktı.`
+`Kendine Ronove diyen Beato'nun uşağı bir anda ortaya çıktı.`
 `Elindeki gümüş tepsinin üzerinde, nefis görünümlü, dumanı tüten siyah çay ve kurabiyelerle dolu bir tabak vardı.`
 `...Bu adamın gülümsemesini hiç sevmedim.`
 `{n}Nedense, bir misafiri sıcak bir şekilde karşılamak için kullanılan bir gülümsemeye benzemiyor.`
@@ -36,7 +36,7 @@
 ` Böyle bir duruş sergilenmeden mobilya olarak hizmet edilemez."`
 `"......Bunu bir kenara bırakalım.`
 ` Oyun nasıl ilerliyor?`
-` Az önce, bazı iyi bilgiler bulduğunuzu ve bundan oldukça memnun olduğunuzu söylediğinizi duyduğumu sanıyorum.`
+` Az önce, bazı iyi bilgiler bulduğunuzu söylediğinizi ve bundan oldukça memnun olduğunuzu duyduğumu sanıyorum.`
 ` Şimdi, sığ aklınızın ne düşündüğünü merak ediyorum."`
 `Ronove benimle alay edip kıkırdarken,`
 ` az önce söylediklerimi harfiyen uyguladı ve siyah çay ile kurabiyeleri yakınlarda gelişigüzel bir yere koydu.`
@@ -47,8 +47,8 @@
 ` Zaten Beato'nun önünde tekrar söyleyeceğim.`
 ` Saklamaya gerek yok."`
 `"......Tamam.`
-` Görünüşe göre bu adada bir yerlerde gizli bir malikane varmış ve Büyükbabamın metresi orada yaşıyormuş.`
-` Bu durumda, bana 18 mi yoksa 19 kişi mi olduğu konusunda acı çektiren sorun kolayca çözülebilir."`
+` Görünüşe göre bu adada bir yerlerde gizli bir köşk varmış ve Büyükbabamın metresi orada yaşıyormuş.`
+` Bu durumda, 18 kişi mi yoksa 19 kişi mi olduğu konusunda bana acı çektiren bu soru, kolayca çözülebilir."`
 `"Battler-sama, cadıları inkâr etmenize rağmen,`
 ` ...18 kişi arasında bir suçlu aramayı reddederek çifte standart sergiliyor ve kendinizi çıkmaza sürüklüyorsunuz."`
 `"...Cadıyı inkâr etmenin en kolay yolu 18 kişinin birinden şüphe etmek olurdu.`
@@ -86,18 +86,18 @@
 ` denklemi, artık inkâr edebileceğim bir denklem."`
 `Bu argümanı kullanarak, örneğin bu oyunda bir kez daha gündeme gelen,`
 ` "Maria'ya mektubu kim verdi?",`
-` sorusunu ele alabilir ve ortaya kolay bir açıklama çıkarabiliriz.`
+` sorusunu ele alabilir ve basit bir açıklama elde edebiliriz.`
 ` 18 kişinin de mazereti olsa bile,`
 ` 19. bir kişinin onun yanına geldiğini ve mektubu ona verdiğini söyleyerek her şeyi kolayca açıklayabilirim.`
 `".........Hmm, hmm.`
 ` Bunun oldukça iyi bir hamle olduğunu düşünüyorum.`
 ` Buna nasıl karşılık verirdim?"`
-`"......Battler-sama, kavrayışınıza rağmen hâlâ pek çok zayıf nokta var.`
+`"......Battler-sama, durumu kavrayışınıza rağmen hâlâ pek çok zayıf nokta var.`
 ` Muhtemelen "18 kişi saldırısı" etkili bir hamle olacaktır.`
 ` Savunmanızın ne kadar sağlam olduğunu ölçmek için bu açıdan bir kez daha saldırmak faydalı olabilir."`
 `"Peki bunu nasıl yapacaksın,`
-` şeytan uşak...?!"`
-`"......Battler-sama, bahsettiğiniz bu 19. kişiyi yansıtan taşa baskı yapmanın uygun olacağına inanıyorum.`
+` iblis uşak...?!"`
+`"......Battler-sama, bahsettiğiniz bu 19. kişiyi temsil eden taşa baskı yapmanın uygun olacağına inanıyorum.`
 ` Battler-sama, siz bu 19. kişiyle hiç karşılaştınız mı?`
 ` Bu 19. kişinin var olduğuna dair sizden bir kanıt rica edebilir miyim?"`
 `"Çok safsın.`
@@ -111,14 +111,14 @@
 `Biz insanlar bir konuda suçlandığımızda, her zaman kanıt gösterilmesini isteyerek karşı saldırıya geçeriz.`
 ` Çünkü bu insanların yaptığı bir hamledir.`
 `Ama ben bir cadıyla savaşıyorum.`
-`{n}İnsan olmayan biriyle bir savaştayım!`
+`{n}İnsan olmayan biriyle savaştayım!`
 `Ve yalnızca bir cadıya karşı oynanan bir oyunda kullanılabilecek bazı hamleler vardır.`
 `{n}Ucuz hamleler!`
 `Ve "Şeytan'ın İspatı" da işte bu.`
 `{n}Dolayısıyla, kanıt gerekli değildir!`
-`Rokkenjima'da Ushiromiya ailesinin malikanesinden ayrı gizli bir malikane bulunduğunu,`
+`Rokkenjima'da Ushiromiya ailesinin malikânesinden ayrı gizli bir köşk bulunduğunu,`
 ` ve orada {f:5:Beatrice} adında bir kadının yaşadığını varsayalım.`
-`Bu varsayımı kanıtlamak için bu malikaneyi bulmalı ve {f:5:Beatrice}'i görmeliyiz.`
+`Bu varsayımı kanıtlamak için bu köşkü bulmalı ve {f:5:Beatrice}'i görmeliyiz.`
 `İnsan dünyasında buna somut delil denir.`
 `Fakat "Şeytan'ın İspatı" ilkesini takip edersek, var olduğuna dair hiçbir kanıt olmasa bile, var olmadığını kanıtlayamazsınız.`
 `Çünkü bir şeyin var olmadığını kanıtlamak imkânsızdır.`
@@ -141,10 +141,10 @@
 `Son oyunda ve ondan öncekinde, karşımıza çıkan cinayet sahneleri arasında son derece karmaşık olan ve kurgulanması çok çaba gerektirmiş olması gereken birkaç tane vardı.`
 `Tek bir suçlunun bunların hepsini kurgulamış olabileceğini hayal etmek çok zor.`
 `Ancak, sadece 19. kişi değil de 10 ya da 100 kişi bir yere saklanmış olsaydı, bu hiç de sorun olmazdı.`
-`Hepsi işi paylaşırsa, her işi kısa sürede halledebilirler.`
-`Doğal olarak, böyle büyük bir grubun fark edilmeden malikanenin içinde ve etrafında gizlice dolaşıp dolaşamayacağı konusunda bazı şüpheler olacaktır,`
+`Hepsi işi bölüşürse, her işi kısa sürede halledebilirler.`
+`Doğal olarak, böyle büyük bir grubun fark edilmeden malikânenin içinde ve etrafında gizlice dolaşıp dolaşamayacağı konusunda bazı şüpheler olacaktır,`
 ` ancak bunların hepsi "Şeytan'ın İspatı" ile çözüme kavuşur.`
-`Çünkü malikanenin içinde 100 kişiyi görmemek ya da fark etmemek onların orada olmadığını kanıtlamaz.`
+`Çünkü malikânenin içinde 100 kişiyi görmemek ya da fark etmemek onların orada olmadığını kanıtlamaz.`
 `Bunu kendim söylüyor olsam da, bu o kadar aptalca bir argüman ki kusasım geliyor!`
 ` Ancak, bir cadıya karşı kullanmak için mükemmel bir hamle olmasını sağlayan da bu kadar pis bir hamle oluşu.`
 `Yani, burada sadece tahmin yürütüyoruz,`
@@ -161,9 +161,9 @@
 `"......Anlıyorum.`
 ` Geçen seferki yenilginizden ders çıkarmışsınız.`
 ` Bu iyi bir şey.`
-` Üçüncü oyunda oldukça kurnaz olmanız hiç de şaşırtıcı değil."`
+` Üçüncü oyunda bu denli kurnaz olmanız hiç de şaşırtıcı değil."`
 `".........Önce savunmanızı güçlendiriyorsunuz.`
-` Bu gerçekten sağlam bir ilk adım.`
+` Bu gerçekten de sağlam bir ilk adım.`
 ` Oldukça muhteşem bir hareket olduğunu düşünüyorum."`
 `"Pekâlâ, 19. kişinin olduğunu varsaysak bile,`
 ` geriye master anahtar sayısı gibi ne kadar insan ilave edersem edeyim aşamayacağım birkaç numara kalıyor.`
@@ -227,7 +227,7 @@
 `"Battler-sama.`
 ` Peki ya bu örneğe ne dersiniz?`
 ` İki kutunuz olduğunu ve bunlardan birinin içinde kurabiye olan bir ödül olduğunu varsayalım.`
-` Tabii ki diğeri yanlış olan ve boş."`
+` Tabii ki diğeri yanlış olan ve içi boş."`
 `Örneğin, diyelim ki burada iki kutumuz var,`
 ` birinin içinde kurabiye var ve kazandığın anlamına geliyor...diğeri ise boş ve kaybettiğin anlamına geliyor.`
 `Bu durumda, "içinde kurabiye var = kazandın",`
@@ -266,7 +266,7 @@
 `"O halde küstahlığımı bağışlayın.`
 ` Az önceki örneğimi kullanarak bir kez daha açıklamama izin verin."`
 `Birinin içinde kurabiye olan,`
-` iki kutuyla ilgili hikayeyi bir kez daha tekrarlayayım.`
+` iki kutuyla ilgili hikâyeyi bir kez daha tekrarlayayım.`
 `Bu durumda kutulardan biri "18 kişiyi", diğer kutu ise "19. kişiyi" temsil etmektedir.`
 `Yani kurabiye "suçluyu" temsil ediyor.`
 `Battler-sama, 18 kişiyi temsil eden kutuyu açtığınızı varsayalım.`
@@ -495,7 +495,7 @@
 ` ......Tek bir mükemmel vuruşla belki bu sefer beni alt edebilirsin, kim bilir...?"`
 `"......*cackle*cackle*cackle*.`
 ` ...İlginç.`
-` Başka türlüsünü istemezdim."`
+` Başka türlüsünü istemezdim..."`
 `Onu sinir et.`
 ` Onu kışkırt.`
 `{n}Kırmızıyla konuşmasını sağlamak için onu köşeye sıkıştır...`
@@ -516,7 +516,7 @@
 `{n}Bırak bana vursun.`
 ` Bırak saldırsın.`
 ` Sorun değil...`
-`Eski bir kılıç savaşı filminde biri söylemişti.`
+`Eski bir kılıç dövüşü filminde biri söylemişti.`
 `{n}"İyi bir kalenin tek ve sadece tek bir zayıf noktası vardır".`
 `Düşman orada toplanırdı.`
 ` Oraya çekileceklerdi.`
@@ -545,7 +545,7 @@
 `Ronove boğazını temizledi.`
 `"Bir çıkmaza girilmiş gibi görünüyor.`
 ` O kadar uğraşıp yaptığım siyah çay soğuyor,`
-` Milady."`
+` Leydim."`
 `".........kh."`
 `Müttefiki olması gereken Ronove, onun bir sonraki hamlesini sinsice aceleye getiriyordu.`
 `Beato gülümseyerek karşılık verdi, muhtemelen hâlâ sakin olduğunu göstermek istiyordu, ......ama alnında oluşan teri gizleyemedi.`
@@ -601,7 +601,7 @@
 ` .........bu adada 19. bir kişinin var olduğu anlamına geliyor.`
 `Ve o da sensin.`
 `Büyükbabamın otuz yıllık metresi olarak uzun,`
-` çok uzun zamandır ormandaki saklı bir malikanede gizlice yaşayan bir kişi.`
+` çok uzun zamandır ormandaki saklı bir köşkte gizlice yaşayan bir kişi.`
 `{i:İnsan} {f:5:Beatrice}.........!!`
 `"Bu doğru.`
 ` Sen cadı ya da onun gibi bir şey değilsin.`
