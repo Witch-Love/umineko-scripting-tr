@@ -64,7 +64,7 @@
 ` Bir bakıma, senin geçmişin gibi görünüyor, öyle mi?"`
 `"Görünüşe göre öyle.`
 ` ...Bu kadar geriye gidebileceğimizi düşünmek..."`
-`"Kim olduğunu merak ediyordum...`
+`"Kim olduğunu merak ediyordun...`
 ` ...Görünüşe göre oldukça büyük endişelerin varmış."`
 `"......Bu tahmin edilebilir.`
 ` O zamanlar kim olduğumu,`
@@ -108,7 +108,7 @@
 ` Bu doğru.`
 ` ...Sonra da sözleşme sona erene kadar kendimi saklamam gerekiyordu.`
 ` Ama, .........popüler bir kadın olmak zor.`
-` .........Kinzo bazı olaylar sonucu bana aşık oldu."`
+` .........Kinzo beklenmedik bir şekilde bana aşık oldu."`
 `"...Büyükbabamın miyopluğu oldukça kötüleşmiş olmalı.`
 ` Astigmatı da var, ihihi.`
 ` Her şey bir yana, sana aşık olmak."`
@@ -120,7 +120,7 @@
 ` ...Ne kadar baskıcı bir adam."`
 `"Harika değil mi?`
 ` Büyükbabamın okültizmle kafayı bozduğunu herkes bilir, ama...`
-`...Büyük Cadı {f:5:Beatrice}-sama'nın kökünü kazıyacak güce sahip olduğunu kim bilebilirdi?"`
+`...Büyük Cadı {f:5:Beatrice}-sama'yı zincirleyecek güce sahip olduğunu kim bilebilirdi?"`
 `"......Heh, saçmalık.`
 ` Böyle garip bir hikâyeye inanacağımı mı sanıyorsun?"`
 `"...Düşündüğüm gibi, inanmıyorsun."`
@@ -138,10 +138,10 @@
 ` ......Kinzo'nun karşılıksız aşkı demek daha doğru olur.`
 ` Kısa süre önce bundan bahsetmiştim, değil mi?`
 ` Bana kendi iradesiyle aşık oldu.`
-` Daha sonra bana kur yaptı ama ben onu geri çevirdim."`
-`"......Ardından, bu gizli köşke hapsoldum.`
-` .........Hayır, köşke hapsolduğumu söylemek doğru olmaz.`
-` ......Bu vücuda mahkum edildiğimi söylemek daha doğru olur."`
+` Daha sonra bana kur yaptı fakat ben onu reddettim."`
+`"......Ardından, bu gizli köşke hapsedildim.`
+` .........Hayır, köşke hapsedildiğimi söylemek doğru olmaz.`
+` ......Bu bedene hapsedildiğimi söylemek daha doğru olur."`
 `"............En sonda ne dediğin hakkında hiçbir fikrim yok."`
 `"Sadece alay edecek ve dinlemeyeceksin, değil mi?`
 ` Ne de olsa cadılara ve büyüye inanmadığını söylüyorsun.`
@@ -230,7 +230,7 @@
 ` ...Kahretsin, böyle bir şeyi söylemek için gerçekten dolambaçlı bir yol seçmişsin."`
 `"Hayır, bu yanlış.`
 ` Ruhum bir homunculus içine hapsedildi,`
-` ve ben bir tüp bebekten dünyaya geldim."`
+` ve ben bir deney tüpünden dünyaya geldim."`
 `"Hah?!`
 ` Saçmalık...!`
 ` Bu imkânsız ve bunu sen de biliyorsun!"`
@@ -246,7 +246,7 @@
 ` ...Bu çirkin tavır da neyin nesi?"`
 `"Heh,`
 ` başlangıçta, belki gizli büyük bir ipucu olabilir düşüncesiyle biraz ilgi gösteriyordum,`
-` ama dinledikçe bu hikâye daha da tuhaflaşmaya başladı.`
+` ama bu hikâye dinledikçe daha da tuhaflaşmaya başladı.`
 ` Bunun cadıları reddetmekle ilgili bir oyun olması gerekiyordu,`
 ` ama birdenbire bir cadı hikâyesini kabullenmeye zorlandığım hissine kapıldım."`
 `"Üzgünüm ama artık bunu dinlemek istemiyorum.`
@@ -257,14 +257,14 @@
 `Soğuk bir tavır sergilemeye başladığımda, Beato alışılmadık bir şekilde hevesini kaybetmiş gibi davranmaya başladı.`
 `Elbette yüzünde hâlâ utanmaz bir ifade vardı,`
 `ama anlaşılması gerçekten kolay olan bu ifadesinde,`
-` geçmiş hikâyesini ilginç bulmadığım için hissettiği yalnızlığı bir anlığına da olsa yakalayabildiğimi hissettim.`
+` geçmişini ilginç bulmadığım için hissettiği yalnızlığı bir anlığına da olsa yakalayabildiğimi hissettim.`
 `......Nedense, bu hafif tepkisi onu acınacak bir duruma düşürdü,`
 ` bu yüzden umursamaz tavrımı sürdürsem de, onu biraz neşelendirmeye karar verdim.`
 `Kahretsin, sinir bozucu bir cadı olmasına rağmen, kromozomları XX olduğu için ona karşı hâlâ zayıfım...`
 `"......Sana inanmak gibi bir niyetim yok ama,`
 ` ............devam et.`
 ` Kurabiye yerine senin hikâyeni dinleyeceğim."`
-`"Yani geçmiş hikâyeme kurabiye muamelesi yapıyorsun.`
+`"Yani geçmişime kurabiye muamelesi yapıyorsun.`
 ` ......Beni bu şekilde aşağıladıktan sonra, sana öylece anlatmamı mı bekliyorsun...?"`
 `Ben onunla dalga geçtikten sonra Beato biraz duygusal bir tepki verdi.`
 `Görünüşe göre, insanlarla dalga geçmek onun uzmanlık alanı olsa da, diğer insanların kendisiyle dalga geçmesi karşısında bocalıyordu.`
@@ -536,7 +536,7 @@
 `......O jilet gibi bıçaklar elimin arkasından ve parmaklarımdan kıl payı uzaklıkta masaya saplanmıştı...`
 `O üç bıçak yüzünden, sağ elimin dikkatsizce titremesine bile izin veremiyordum ve artık tek yapabildiğim şey soğuk ter damlalarının süzülmesine izin vermekti.`
 `"............Wooow.`
-` ...Tırnaklarını kesmenin zamanı gelmedi mi güzelim?"`
+` ...Güzelim, tırnaklarını kesmenin zamanı gelmedi mi?"`
 `"Lucifer.`
 ` ......Bu benim soylu ismim.`
 ` {f:5:Beatrice}-sama'ya hizmet eden onurlu mobilya ve Araf'ın Yedi Kazığı'nın en büyük kız kardeşi."`
@@ -571,7 +571,7 @@
 ` O zamanlar ona sempati duyuyordum."`
 `"Hmm.`
 ` Her zaman onun arkasından konuştuğun hâlde bunu söyleyebiliyorsun."`
-`"Şunu keser misin Eva?`
+`"Şunu kes Eva.`
 ` Yani?`
 ` Rosa-san, {f:5:Beatrice} ile nerede tanıştın?!"`
 `"Hideyoshi-san, onu acele ettirmemelisin.`
@@ -595,7 +595,7 @@
 ` kaçmak gibi üçüncü bir seçeneğim olduğunu fark ettim.`
 `Her ne kadar kaçmak desem de Rokkenjima'yı terk edip başka bir yere gitmem mümkün değildi.`
 `Ama yine de malikâneden ve o anki hâlimden kaçmak istiyordum.`
-`......Bir bakıma evden kaçmak gibiydi, ya da belki yarı yarıya bir intihar...`
+`......Bir bakıma evden kaçmak gibiydi, ya da belki de gönülsüz bir intihar...`
 `"......Ortadan kaybolmak istedim.`
 ` Ya da belki de ortadan kaybolarak ailemi endişelendirmeye çalıştığım çocuksu bir direniş biçimiydi..."`
 `".........Çocukça bir düşünceyle eğer ormanın derinliklerine gidersem Ushiromiya evinden kurtulabileceğimi,`
@@ -640,7 +640,7 @@
 `Acele ettikleri için,`
 ` cadının kitabesiyle ilgili bir ipucunun, hatta belki de altının kendisinin o gizli köşkte saklı olabileceğini düşündükleri çok açıktı.`
 `"Rokkenjima'nın imara hazır hâle getirilen tek bölümü malikânenin etrafındaki alandır.`
-` ...Geri kalan kısım ise tamamen doğal ve adanın tamamını araştırmak muhtemelen büyük bir çaba gerektirecektir."`
+` ...Geri kalanı tamamen el değmemiş durumda ve adanın tamamını araştırmak muhtemelen çok fazla çalışma gerektirecektir."`
 `"Ama aslında gerçekten var olduğunu bilmek bile faydalı.`
 ` Bunun için biraz para gerekebilir, ancak bir hava fotoğrafçılığı şirketinden araştırma yapmasını istersek,`
 ` ya da bu köşkü inşa eden müteahhitlere o dönemde neler olduğunu sorarsak,`
@@ -805,7 +805,7 @@
 `"Kapa çeneni.`
 ` Sadece bir çocuktum."`
 `"......Her neyse.`
-` Eğer {f:5:Beatrice}'i oraya kapatan kişi Babamsa, aynı kurt hikayesini kullanması da gayet mantıklı.`
+` Eğer {f:5:Beatrice}'i oraya kapatan kişi Babamsa, aynı kurt hikâyesini kullanması da gayet mantıklı.`
 ` Ona göre, Rokkenjima'nın uçsuz bucaksız ormanı aşılmaması gereken bir duvardı,`
 ` ve Ushiromiya ailesi ile metresinin köşkü gibi iki zıt dünyayı birbirinden ayırıyordu."`
 `"Çitin yüksekliğini düşünecek olursanız, Babamın bahçesiyle birlikte tüm araziyi dev bir hapishaneye çevirdiğini görürsünüz.`
@@ -815,7 +815,7 @@
 `"Rokkenjima'da kurt ya da başıboş köpek yok.`
 ` Tıpkı Nii-san ve Kyrie-san'ın söylediği gibi,`
 ` o çitler muhtemelen bizimle {f:5:Beatrice} arasında bir sınırdı."`
-`"Ancak, kurtlarla ilgili hikayeye masumca inanmışsa, bu oldukça...safça.`
+`"Ancak, kurtlarla ilgili hikâyeye masumca inanmışsa, bu oldukça...safça.`
 ` Bu benim hayal gücümdeki cadıya hiç benzemiyor."`
 `"......Evet.`
 ` Bunu ben de hissettim.`
@@ -1021,7 +1021,7 @@
 `......Ne de olsa buraya rastgele yürüyerek gelmiştim.`
 `{n}Yani malikâneye giden yolu bilmemin imkânı yoktu.`
 `Ormanda hiç ışık yoktu ve yanımda el feneri de getirmemiştim.`
-`{n}Biz bu hâldeyken havanın kararmasının çok korkunç bir şey olacağını fark ettim ve sabırsızlanmaya başladım.`
+`{n}Biz bu hâldeyken havanın kararmasının çok korkunç bir şey olacağını fark ettim ve sabrımı yitirmeye başladım.`
 `O çok masumdu,`
 ` ve belli ki ormanın içinde geceyle yüzleşmenin ne kadar korkutucu olacağını hiç kavrayamıyordu.`
 `Ama onu dışarı çıkaran bendim.`
@@ -1190,7 +1190,7 @@
 ` Onun kesinlikle öldüğünü!!`
 ` Yaşıyor olmalı, değil mi?!`
 ` Bu çok açık!!"`
-`"{i:Bu} sana nasıl {i:yaşıyor} gibi görünüyor?`
+`"{i:Bu} sana nasıl {i:hayatta} gibi görünüyor?`
 ` {p:1:O kesinlikle öldü}!"`
 `".................................mgghhhh..."`
 `19. kişinin Büyükbaba'nın metresi, yani insan {f:5:Beatrice} olduğuna dair teorim çöktü.`
@@ -1292,8 +1292,8 @@
 `"......Ah, şu.`
 ` Gerçi bu yıl gitmişti.`
 ` Uzun zaman önce dağcı bir münzevi tarafından inşa edilmiş küçük bir tapınaktı, değil mi?"`
-`"Bu ada aslında bir çarpıklıklar adasıydı.`
-` Büyülü ve benzer türdeki diğer varlıklar buraya çekilirdi.`
+`"Rokkenjima en başından beri çarpıklıkla sarmalanmış bir ada olmuştur.`
+` Büyülü güce sahip varlıkları ve diğer bağlantılı şeyleri cezbediyordu.`
 ` ......Leydimin de onlardan biri olduğunu tahmin ediyorum.`
 ` Biraz daha çaya ne dersiniz?"`
 `"*cackle*cackle*, lütfen.`
@@ -1309,12 +1309,12 @@
 ` Ama Doğu büyüsü benim uzmanlık alanımın dışında.`
 ` Sanki içmeye çalıştığım çorba için bana kaşık yerine yemek çubukları verilmiş gibiydi."`
 `"Doğu büyüsü tarafından güçlü bir şekilde kontrol edilen bir alanda, Batı büyüsü gücünün büyük bir kısmını kaybeder.`
-` Normal şartlar altında bile gücünü yeniden kazanması muhtemelen bin gün alacaktı,`
-` ve şimdi çok çok daha uzun sürecekti."`
-`"......Yani gücünü yeniden kazanmanın yirmi yılını aldığını ve şimdi hepimizin açıkça görebileceği şekilde yeniden canlandığını mı söylüyorsun?"`
-`"O yıllar korkunç derecede uzun yıllardı...`
-` Altın kelebekler şeklinde birçok gün geçirdim, Kinzo'nun malikânesini buldum ve her gün onu izledim.`
-` O günler boyunca, ondan nasıl intikam alacağımı düşünmek dışında hiçbir şekilde eğlenmeden yaşadım."`
+` Normal şartlar altında bile gücünü yeniden kazanması muhtemelen bin gün alabilirdi,`
+` ama artık çok çok daha uzun zaman alacaktı."`
+`"......Yani gücünü yeniden kazanmanın yirmi yılını aldığını ve şimdi hepimizin açıkça görebileceği şekilde yeniden dirildiğini mi söylüyorsun?"`
+`"O yıllar korkunç geçen uzun yıllardı...`
+` Altın kelebekler formunda birçok gün geçirdim, Kinzo'nun malikânesini buldum ve her gün onu izledim.`
+` O günler boyunca, ondan nasıl intikam alacağımı düşünmek dışında hiçbir şekilde zevk alamadan yaşadım."`
 `"......Benim için şans olan şey, bu yirmi yıl boyunca,`
 ` Kinzo'nun beni bulmak ve yakalamak için her büyüyü denemesi ve hepsinde başarısız olmasıydı."`
 `"Bir insanın meydana getirebileceği mucizelerin bir sınırı vardır.`
@@ -1332,25 +1332,25 @@
 ` İkinci alacakaranlıkta iki kişi.`
 ` Ve sonra dördüncüden sekizinci alacakaranlığa kadar beş kişi daha.`
 ` Toplam on üç kişinin kurbanlar olarak sunulacağı yasak bir ritüel...`
-` Bu kurbanlar rastgele seçilmek zorundaydı ve töreni düzenleyen Kinzo'nun kendisi de bir istisna değildi."`
+` Bu kurbanlar rastgele seçiliyordu ve ritüeli düzenleyen Kinzo'nun kendisi de bir istisna değildi."`
 `"Şerefsiz...`
 ` Bu adada meydana gelen korkunç cinayetlerin hepsinin garip bir ritüelin parçası olduğunu mu söylüyorsun?!!"`
 `Böyle bir ihtimalin olabileceğini aklımdan geçiriyordum...`
 `Ama bunun gerçek olduğunu bir cadıdan ve bir iblisten duyup "Oh, öyle mi?" diyerek kabul edemem!`
 `"Rokkenjima'da on sekiz kişi var.`
 ` On üç kişi kurban edilir; sadece beş kişi hayatta kalır.`
-` Böylece diriliyorum."`
+` Böylece dirilmiş olurum."`
 `"......Yani, Kinzo'nun benimle yeniden bir araya gelebilme ihtimali yaklaşık üçte bir civarında.`
 ` Kalan ömrünün son demlerinde,`
-` benimle yeniden bir araya gelmeyi dileyerek kendi hayatını bu olasılıklara bahse girdi."`
+` benimle yeniden bir araya gelmeyi dileyerek kendi hayatını bu olasılıklar üstüne bahse girdi."`
 `".........Yani onun tüm ailemizi bu boktan ritüel uğruna mı bir araya getirdiğini söylüyorsun?!`
 ` Benimle kafa bulma!!`
 ` Böyle şeyler söylemeye kalkma!!"`
-`"Başından beri anlaşmaya göreydi.`
+`"Her şey en başından sözleşmemizde belirtilmişti.`
 ` Kinzo'nun yaşamı sona erdiğinde,`
 ` ona ödünç verdiğim tüm altını ve Kinzo'nun yarattığı tüm serveti teslim alacaktım."`
-`"......Kinzo bana kabus gibi bir dönem yaşattı,`
-` ama şimdi geriye dönüp baktığımda, geçen bin yıl içinde bile sıradışı bir dönem olduğunu görüyorum.`
+`"......Kinzo bana kâbus gibi bir çile yaşatmış olsa da,`
+` şimdi geriye dönüp baktığımda, geçen bin yıl içinde bile sıradışı bir dönem olduğunu söyleyebilirim.`
 ` Ne de olsa bir cadının en doğal düşmanı can sıkıntısıdır.`
 ` Bana onlarca yıl boyunca bundan kaçma şansı sunan Kinzo'ya,`
 ` evet, bunun için ona borçlu olduğumu söyleyebilirsin."`
