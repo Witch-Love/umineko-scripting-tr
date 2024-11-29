@@ -1,1420 +1,1420 @@
 `"......{f:5:Beatrice}.`
-` I have been calling to you for a while.`
-` Did you not hear me...?"`
+` Bir süredir sana sesleniyorum.`
+` Beni duymadın mı...?"`
 `"......Hmm.`
-` Were you?`
-` My apologies.`
-` I was lost in my thoughts.`
-` Forgive me."`
-`"The weather is pleasant.`
-` ...I see, I can understand how the weather has stolen your heart.`
-` Will you drink your black tea here...?"`
-`"...............Who...am I?"`
+` Öyle mi?`
+` Üzgünüm.`
+` Düşüncelere dalmışım.`
+` Beni affet."`
+`"Hava çok hoş.`
+` ...Anlıyorum, havanın kalbini nasıl çaldığını görebiliyorum.`
+` Siyah çayını burada mı içeceksin...?"`
+`"...............Ben...kimim?"`
 `".................................`
-` ......I will bring some black tea now.`
-` Wait here for a while."`
-`"Forget about the black tea.`
-` Talk with me."`
-`"......Very well."`
-`Kinzo had used the excuse of going to bring some black tea to try and interrupt the conversation for the time being.`
-` ...But his attempt had been very transparent.`
-`I sat in the garden chair, and beckoned Kinzo to do the same.`
-`{n}Kinzo sat down heavily, exaggerating his age.`
-`For a while, we sat, appreciating the silence...`
-`"......Who am I?`
-` To this day, no one has answered me this question.`
-` ......For some reason, everyone averts their gaze and evades me."`
+` ......Şimdi siyah çay getireceğim.`
+` Bir süre burada bekle."`
+`"Siyah çayı unut.`
+` Benimle konuş."`
+`"......Pekâlâ."`
+`Kinzo, siyah çay getirme bahanesini kullanarak konuşmayı o an için kesmeye çalışmıştı.`
+` ...Ama bu girişimi çok barizdi.`
+`Bahçedeki sandalyeye oturdum ve Kinzo'ya da aynı şekilde oturmasını işaret ettim.`
+`{n}Kinzo yaşını abartarak ağır ağır oturdu.`
+`Bir süre sessizliğin tadını çıkararak oturduk...`
+`"......Ben kimim?`
+` Bugüne kadar kimse bana bu sorunun cevabını vermedi.`
+` ......Nedense herkes bakışlarını kaçırıyor ve benden kaçıyor."`
 `"........................"`
-`"......I have known you for a long time.`
-` I think of you as my best friend, even as a father.`
-` ......That is why I want so much for you to tell me.`
-` You must know.`
-` ...Who I am."`
+`"......Seni uzun zamandır tanıyorum.`
+` Seni en iyi arkadaşım, hatta babam olarak görüyorum.`
+` ......İşte bu nedenle bana anlatmanı çok istiyorum.`
+` Biliyor olmalısın.`
+` ...Benim kim olduğumu."`
 `"..................`
-` ............Why do you worry about something like that?`
-` You are {f:5:Beatrice}.`
-` The master of this mansion, is that not so?`
-` ......What more could you want to know?"`
-`"............I do not know."`
-`"What's this?`
-` ......Don't you even understand yourself what it is you want to know?`
-` That is baffling.`
-` In my younger days, I sometimes found myself wanting to play in the maze of thought that has no exit.`
-` Maybe that is what your worries are..."`
-`Kinzo laughed as though it was a trivial matter.`
-` ...However, I couldn't help but feel that this behavior was nothing but another attempt to force me to stop my further questioning.`
+` ............Neden böyle bir şey için endişeleniyorsun?`
+` Sen {f:5:Beatrice}'sin.`
+` Bu köşkün efendisi, öyle değil mi?`
+` ......Daha ne bilmek istiyorsun?"`
+`"............Bilmiyorum."`
+`"Bu da ne?`
+` ......Neyi bilmek istediğini kendin bile bilmiyor musun?`
+` Bu çok hayret verici.`
+` Gençlik günlerimde, bazen kendimi çıkışı olmayan düşünceler labirentinin içinde oynarken bulurdum.`
+` Belki de endişelerinin sebebi budur..."`
+`Kinzo önemsiz bir meseleymiş gibi güldü.`
+` ...Ancak, bu davranışın beni daha fazla sorgulamadan vazgeçirmeye yönelik bir girişimden başka bir şey olmadığını hissetmekten kendimi alamadım.`
 `"...........................`
 ` ...Hmph.`
-` ......So not even you will tell me that...after all."`
-`"There is nothing to tell.`
-` You are {f:5:Beatrice}.`
-` Isn't that more than enough?"`
-`"......No, that's not it.`
-` ............What I wish to know is not my name.`
-` It is...`
-`who...`
-`I am."`
-`"......Who am I, what am I?`
-` ...How long have I been here, ...and how long will I continue my days here?"`
+` ......Yani...sen bile bunu bana söylemeyeceksin."`
+`"Söyleyecek bir şey yok.`
+` Sen {f:5:Beatrice}'sin.`
+` Bu fazlasıyla yeterli değil mi?"`
+`"......Hayır, o değil.`
+` ............Benim bilmek istediğim şey adım değil.`
+` Benim...`
+`kim...`
+`olduğum."`
+`"......Kimim ben, neyim ben?`
+` ...Ne kadar zamandır buradayım, ...ve burada geçirdiğim günler daha ne kadar devam edecek?"`
 `"........................`
-` ...I really should bring some black tea.`
-` Do you not think it a waste of all this fine weather?"`
+` ...Gerçekten siyah çay getirmeliyim.`
+` Sence de bu güzel havaya yazık değil mi?"`
 `"................................."`
-`".........What is this all about...?`
-` Somehow, it looks like the story of your past, right?"`
-`"It appears so.`
-` ...To think that we would go this far back..."`
-`"Wondering who you were...`
-` ...It looks like you had some pretty high‐minded worries."`
-`"......That is to be expected.`
-` At the time, I was unable to understand who I was,`
-` or why I was alive."`
-`"Well, in puberty,`
-` everyone is captured by those philosophical worries, wondering what meaning there is to their life, at least once.`
-` Doesn't this just mean that you had this kind of charming period once in your life?"`
+`".........Bütün bunlar ne hakkında...?`
+` Bir bakıma, senin geçmişin gibi görünüyor, öyle mi?"`
+`"Görünüşe göre öyle.`
+` ...Bu kadar geriye gidebileceğimizi düşünmek..."`
+`"Kim olduğunu merak ediyordum...`
+` ...Görünüşe göre oldukça büyük endişelerin varmış."`
+`"......Bu tahmin edilebilir.`
+` O zamanlar kim olduğumu,`
+` ya da neden hayatta olduğumu anlayamıyordum."`
+`"Yani, ergenlik çağında,`
+` herkes en az bir kez hayatının ne anlama geldiğini merak ederek bu tür felsefi endişelere kapılır.`
+` Bu yalnızca senin de hayatında bir kez böyle büyüleyici bir dönem geçirdiğin anlamına gelmiyor mu?"`
 `".....................`
-` ...I had been in that mansion since the time I was born.`
-` And I lived only inside the mansion.`
-` Of course, I was able to go out into the garden, but the area around the mansion was surrounded by a very tall fence, which I was unable to leave through,`
-` and I would be told severely that I mustn't leave."`
-`"......I could walk freely throughout the mansion and the garden,`
-` but my desire to take just one step outside those of my own accord was never granted."`
-`"...............What do you mean by that?`
-` ...Are you trying to say that, for as long as you can remember, you were always a bird in a cage?"`
-`"......I thought that was just how things were.`
-` After all, I had been living like that as far back as I could remember.`
-` I didn't even think to question it."`
-`"What in the world............are you?"`
-`"That's it.`
-` That is what I also hoped to know."`
+` ...Ben doğduğumdan beri o köşkteydim.`
+` Ve sadece köşkün içinde yaşadım.`
+` Elbette bahçeye çıkabiliyordum ama köşkün etrafı çok yüksek bir çitle çevriliydi ve buradan çıkmam mümkün değildi,`
+` üstelik buradan çıkmamam gerektiği bana sert bir şekilde söyleniyordu."`
+`"......Köşkte ve bahçede özgürce dolaşabiliyordum,`
+` ama bunların dışına kendi isteğimle bir adım atma arzum asla kabul edilmedi."`
+`"...............Bununla ne demek istiyorsun?`
+` ...Kendini bildin bileli hep kafesteki bir kuş olduğunu mu söylemeye çalışıyorsun?"`
+`"......Ben her şeyin böyle olduğunu sanıyordum.`
+` Ne de olsa kendimi bildim bileli böyle yaşıyordum.`
+` Bunu sorgulamak aklıma bile gelmedi."`
+`"Sen............nesin böyle?"`
+`"İşte bu.`
+` Benim de bilmek istediğim buydu."`
 `"............Heh.`
-` I'm sure you'll say something like "I wasn't a human, I was a witch", right?"`
-`"No, that's not correct.`
-` Not {i:yet} correct.`
-` ......Or, should I say, it was {i:once} correct.`
-` ......I was constructed by Kinzo, a human built by a human.`
-` ...No, maybe I should call it a cage made of flesh."`
-`"What's that supposed to mean...?`
-` ...This is starting to sound weird."`
-`"......You probably won't believe it anyway.`
-` Listen first.`
-` .........I was a great witch who had lived for one thousand years.`
-` But at some time, I was summoned by Kinzo,`
-` ...and by his hidden arts, I was bound as his prisoner for eternity."`
-`"............Never heard that before.`
-` From what we hear in the Ushiromiya family, you were summoned by Grandfather,`
-` made something like a devil's contract with him, and gave him the gold."`
-`"Yes.`
-` That is correct.`
-` ...Then I was supposed to hide myself until the contract was over.`
-` But, .........well, it's tough being a popular woman.`
-` .........By some turn of events, Kinzo fell in love with me."`
-`"...Grandfather's nearsightedness must have gotten pretty bad.`
-` With astigmatism too, ihihi.`
-` To fall in love with you, of all things."`
+` Eminim "ben insan değildim, cadıydım" gibi bir şey söyleyeceksin, değil mi?"`
+`"Hayır, bu doğru değil.`
+` {i:Henüz} doğru değil.`
+` ......Ya da, {i:bir zamanlar} doğruydu mu demeliyim?`
+` ......Ben Kinzo tarafından yaratıldım, bir insan tarafından yaratılmış bir insan.`
+` ...Hayır, belki de etten yapılmış bir kafes demeliyim."`
+`"Bu da ne demek oluyor...?`
+` ...Bu kulağa garip gelmeye başladı."`
+`"......Muhtemelen buna inanmayacaksın.`
+` Önce dinle.`
+` .........Ben bin yıldır yaşayan büyük bir cadıydım.`
+` Ama bir gün Kinzo tarafından çağrıldım,`
+` ...ve onun gizli sanatları sayesinde sonsuza dek onun tutsağı hâline geldim."`
+`"............Bunu daha önce hiç duymamıştım.`
+` Ushiromiya ailesinden duyduğumuza göre, sen Büyükbaba tarafından çağrılmış,`
+` onunla şeytan sözleşmesi gibi bir şey yapmış ve ona altın vermişsin."`
+`"Evet.`
+` Bu doğru.`
+` ...Sonra da sözleşme sona erene kadar kendimi saklamam gerekiyordu.`
+` Ama, .........popüler bir kadın olmak zor.`
+` .........Kinzo bazı olaylar sonucu bana aşık oldu."`
+`"...Büyükbabamın miyopluğu oldukça kötüleşmiş olmalı.`
+` Astigmatı da var, ihihi.`
+` Her şey bir yana, sana aşık olmak."`
 `".........Hmph.`
-` Well, to me it was supremely annoying."`
-`"...However, the power of {y:0:Human}{n:0:human}s is a frightening thing.`
-` He exhibited fearsome power and rooted me to this place.`
-` ...He said I wouldn't be freed until I nodded my head in agreement.`
-` ...Such an overbearing man."`
-`"Isn't that awesome.`
-` Everyone knows Grandfather's obsessed with the occult, but...`
-`...who knew he had the power to root down the Great Witch {f:5:Beatrice}‐sama."`
-`"......Heh, ridiculous.`
-` You think I'd believe such a weird story?"`
-`"...As I thought, you don't believe."`
-`"All I believe is the fact that you lived in this hidden mansion in the middle of the forest.`
-` You are the 19th person on Rokkenjima, right?!"`
-`"......Indeed.`
-` Just as you imagine, this is deep in the forest of Rokkenjima.`
-` A hidden mansion not to be found from the outside world.`
-` Its name is {ruby:Nine Birds' Retreat:Kuwadorian}."`
-`"......Come to think of it, I heard that the guesthouse's real name was {ruby:Visitor's Retreat:Toraian}.`
-` ...I see, the naming sense is similar.`
-` ......So, you were Grandfather's lover, who lived here in secret.`
-` Isn't that right?!"`
-`"Lover isn't the right way to say it.`
-` ......You should probably call it Kinzo's unrequited love.`
-` I spoke of it just recently, correct?`
-` He fell in love with me of his own accord.`
-` He then courted me, but I rejected him."`
-`"......Then, I was shut up in this hidden mansion.`
-` .........No, I shouldn't say that I was shut up in the mansion.`
-` ......It would be more correct to say that I was shut up in this body."`
-`"............I have no idea what you just said at the end there."`
-`"You will just make fun of it and not listen, right?`
-` After all, you say that you don't believe in witches or magic.`
-` If you have no ears to hear what I tell you,`
-` saying it would be the pinnacle of foolishness."`
+` Açıkçası benim için son derece sinir bozucuydu."`
+`"...Ancak, {y:0:İnsan}{n:0:insan}ların gücü korkutucu bir şey.`
+` Korkunç bir güç sergiledi ve beni buraya hapsetti.`
+` ...Başımı sallayıp onaylayana kadar serbest kalamayacağımı söyledi.`
+` ...Ne kadar baskıcı bir adam."`
+`"Harika değil mi?`
+` Büyükbabamın okültizmle kafayı bozduğunu herkes bilir, ama...`
+`...Büyük Cadı {f:5:Beatrice}-sama'nın kökünü kazıyacak güce sahip olduğunu kim bilebilirdi?"`
+`"......Heh, saçmalık.`
+` Böyle garip bir hikâyeye inanacağımı mı sanıyorsun?"`
+`"...Düşündüğüm gibi, inanmıyorsun."`
+`"İnandığım tek şey, ormanın ortasındaki bu gizli köşkte yaşadığın gerçeği.`
+` Sen Rokkenjima'daki 19. kişisin, değil mi?!"`
+`"......Kesinlikle.`
+` Tam da düşündüğün gibi, burası Rokkenjima ormanının derinliklerinde.`
+` Dış dünyadan bakıldığında görülemeyen gizli bir köşk.`
+` Adı da {ruby:Dokuz Kuşun Sığınağı:Kuwadorian}."`
+`"......Düşününce, konukevinin gerçek adının {ruby:Misafirhane:Toraian} olduğunu duymuştum.`
+` ...Anlıyorum, isimlendirme anlayışı birbirine benziyor.`
+` ......Yani, sen burada gizlice yaşayan Büyükbabamın aşkıydın.`
+` Öyle değil mi?!"`
+`"Aşkı demek doğru bir ifade şekli değil.`
+` ......Kinzo'nun karşılıksız aşkı demek daha doğru olur.`
+` Kısa süre önce bundan bahsetmiştim, değil mi?`
+` Bana kendi iradesiyle aşık oldu.`
+` Daha sonra bana kur yaptı ama ben onu geri çevirdim."`
+`"......Ardından, bu gizli köşke hapsoldum.`
+` .........Hayır, köşke hapsolduğumu söylemek doğru olmaz.`
+` ......Bu vücuda mahkum edildiğimi söylemek daha doğru olur."`
+`"............En sonda ne dediğin hakkında hiçbir fikrim yok."`
+`"Sadece alay edecek ve dinlemeyeceksin, değil mi?`
+` Ne de olsa cadılara ve büyüye inanmadığını söylüyorsun.`
+` Eğer sana söylediklerimi dinleyecek kadar kulağın yoksa,`
+` bunları anlatmak aptallığın zirvesi olur."`
 `"...........................`
-` ......I'll decide whether I believe or not.`
-` ...After all, if I don't hear it, the story won't move on.`
-` Tell me.`
-` ...The story of your past."`
-`"Alright.`
-` .........I refused Kinzo when he courted me, but he was not a man to lose heart just because of that.`
-` He wanted to get my consent no matter what.`
-` He shut me up in this mansion, and spent an eternity trying to win my heart."`
-`"...He really is overbearing.`
-` No one likes a man who can't take a hint, right?"`
+` ......İnanıp inanmayacağıma kendim karar veririm.`
+` ...Zaten dinlemezsem hikâye de ilerlemeyecek.`
+` Anlat.`
+` ...Hadi şu geçmişini dinleyelim."`
+`"Pekâlâ.`
+` .........Kinzo bana kur yaptığında onu reddetmiştim ama o sırf bu yüzden umudunu yitirecek bir adam değildi.`
+` Ne pahasına olursa olsun rızamı almak istiyordu.`
+` Beni bu köşke kapattı ve kalbimi kazanmak için sonsuza değin çabaladı."`
+`"...O gerçekten baskıcı biri.`
+` Sanırım kimse dikkafalı erkeklerden hoşlanmıyor."`
 `".........*cackle*cackle*.`
-` Regardless of whether I responded to his courting or not,`
-` to make a man so desperate for me was...well, as a woman, it wasn't unpleasant."`
-`"......However, I never nodded my head.`
-` I tried what I could to escape his restrictions,`
-` but that barrier was firm, and I couldn't break it."`
-`"......And then?"`
-`"After trying to resist in various ways,`
-` I eventually reached the conclusion that, to escape from Kinzo's barrier, I would have to throw away my body of flesh.`
-` ......The physical body is a vessel which carries many restrictions in terms of magic."`
-`"Throw away your body of flesh......?`
-` What's that?`
-` Something like an out‐of‐body experience?"`
-`"Well, if you want to think of it that way.`
-` However, I am not a spirit.`
-` Even though I am a witch, in the beginning, I was born with a human's body of flesh.`
-` So for me, throwing away that physical body,`
-` while it didn't mean the same thing as death, did require a corresponding level of resolve."`
-`"So in other words,`
-` ......you made up your mind that you couldn't be released except by suicide, is that what you mean?"`
-`"It wasn't suicide.`
-` It was nothing more than throwing away my body of flesh.`
-` ......Of course, becoming nothing more than soul is a precarious situation.`
-` When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun.`
-` It was not easy even for me to maintain myself and avoid being scattered by them."`
-`"It was a final measure that I wanted to avoid if I could.`
-` However, there was no other way to break through Kinzo's barrier."`
-`"......*cackle*, after all, I am a free spirit.`
-` I couldn't stand being kept in a cage until Kinzo's life was over."`
-`I couldn't understand this story Beato kept going on about, about throwing away her body of flesh,`
-` as anything more than suicide.`
-`Grandfather persistently courted her, and to escape from that,`
-` ......she chose her own death...?`
-`"...............So you're saying you committed suicide?`
-` What are you saying?`
-` Isn't that you, sitting carefree there in the garden chair?"`
-`"......That's right.`
-` That is the new cage I was given by Kinzo."`
-`"............Cage?`
-` You mean this mansion?"`
-`"No.`
-` I mean my body, relaxing in the garden chair over there.`
-` .........After I became a soul and tried to escape,`
-` even then, Kinzo had no intention of allowing me to escape."`
-`"...Yes, indeed, he is a frightening person.`
-` Normally, seeing the woman of your one‐sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.`
-` ......I suppose it makes him somewhat of a mage after all.`
+` Kurlarına karşılık verip vermediğimden ziyade,`
+` bir erkeğin benim için bu kadar çaresiz kalması...bir kadın olarak hiç de hoş değildi."`
+`"......Ancak, asla başımı sallayıp onaylamadım.`
+` Kısıtlamalarından kurtulabilmek için elimden geleni yaptım,`
+` ama bu bariyer oldukça sağlamdı ve onu yıkamadım."`
+`"......Ve sonra?"`
+`"Çeşitli biçimlerde karşı koymaya çalıştıktan sonra,`
+` nihayetinde Kinzo'nun bariyerinden kaçabilmek için etten bedenimi bir kenara atmam gerektiği sonucuna vardım.`
+` ......Fiziksel beden büyü açısından pek çok kısıtlama getiren bir kap gibidir."`
+`"Etten bedenini atmak mı......?`
+` O da ne?`
+` Beden dışına çıkmak gibi bir şey mi?"`
+`"Tabii, bu şekilde de düşünebilirsin.`
+` Ancak, ben bir ruh değilim.`
+` Bir cadı olsam da, başlangıçta etten bir insan bedeniyle doğdum.`
+` Dolayısıyla fiziksel bedenimi bir kenara atmak,`
+` benim için her ne kadar ölümle aynı anlama gelmese de, aynı ölçüde bir irade gerektiriyordu."`
+`"Yani başka bir deyişle,`
+` ......intihar etmedikçe serbest kalamayacağına karar verdiğini mi söylemek istiyorsun?"`
+`"İntihar değildi.`
+` Bu, etten bedenimi bir kenara atmaktan başka bir şey değildi.`
+` ......Elbette, ruhtan ibaret olmak tehlikeli bir durumdur.`
+` Ruh etten bedenini terk ettiğinde sürekli güneşin sert rüzgârlarına maruz kalır.`
+` Kendimi korumak ve rüzgârlar tarafından paramparça olmaktan kaçınmak benim için bile kolay değildi."`
+`"Mümkün olduğunca kaçınmak istediğim nihai bir uygulamaydı.`
+` Ancak Kinzo'nun bariyerini aşmanın başka bir yolu yoktu."`
+`"......*cackle*, ne de olsa ben özgür bir ruhum.`
+` Kinzo'nun ömrü bitene kadar bir kafeste tutulmaya tahammül edemezdim."`
+`Beato'nun anlatıp durduğu, etten bedenini bir kenara atma hikâyesini,`
+` intihardan başka bir şey olarak algılayamıyordum.`
+`Büyükbabam ısrarla ona kur yaptı ve o da bundan kurtulmak için,`
+` ......kendi ölümünü mü seçti...?`
+`"...............Yani intihar ettiğini mi söylüyorsun?`
+` Sen ne diyorsun?`
+` Şu bahçedeki sandalyede rahatça oturan sen değil misin?"`
+`"......Doğru.`
+` Bu Kinzo'nun bana verdiği yeni kafes."`
+`"............Kafes mi?`
+` Bu köşkü mü kastediyorsun?"`
+`"Hayır.`
+` Şuradaki bahçe sandalyesinde dinlenen bedenimi kastediyorum.`
+` .........Ruh hâline geldikten ve kaçmaya çalıştıktan sonra,`
+` o zaman dahi Kinzo'nun kaçmama izin vermeye niyeti yoktu."`
+`"...Evet evet, gerçekten de korkutucu bir insan.`
+` Normalde, tek taraflı arzular beslediğin kadının kendi canına kıydığını görmek, aşkı yüz yıllık bile olsa herkesin aklını başına getirmeye yeter.`
+` ......Sanırım onu büyücü yapan da tam olarak bu.`
 ` ......*cackle*."`
-`"Don't try to speak in riddles with that incomprehensible witch‐girl talk.`
-` ...In short, what are you trying to say?"`
-`"That Kinzo didn't let me escape even after I became a soul.`
-` ......Human emotions are terrifying.`
-` That he would be able to exhibit this much power..."`
-`"Tying down a spirit of the dead...`
-`is not a level readily attained, even for a mage seeking that as his specialty.`
-` Because I knew that, Kinzo's fearful magical power shocked me then for the first time."`
-`"............Then Kinzo seized my soul and brought me back.`
-` However, a cage to hold a seized soul cannot be made, not from iron nor from lead.`
-` ......There is but one exception."`
-`"............What?`
-` You aren't going to say it was a magical cage or something, are you?"`
-`"Wrong.`
-` That body of flesh over there, just like yours or mine.`
-` ...Only a cage made of flesh and blood can tie a spirit down to this world.`
-` ......Kinzo shut my soul up once more into a cage of flesh built to be exactly like me."`
+`"O anlaşılmaz cadı-kız konuşmalarıyla bilmece gibi konuşmaya çalışma.`
+` ...Kısacası, ne söylemeye çalışıyorsun?"`
+`"Kinzo, ruh olduktan sonra bile kaçmama izin vermedi.`
+` ......İnsan duyguları ürkütücü.`
+` Bu kadar güç gösterebilmesi..."`
+`"Bir ölünün ruhunu bağlamak...`
+`bunu uzmanlık alanı olarak seçen bir büyücü için bile kolayca ulaşılabilecek bir seviye değil.`
+` Bunu bildiğim için, Kinzo'nun korkutucu büyü gücü beni ilk kez o zaman şok etti."`
+`"............Ardından Kinzo ruhumu ele geçirdi ve beni geri getirdi.`
+` Ancak, ele geçirilmiş bir ruhu tutacak bir kafes ne demirden ne de kurşundan olamaz.`
+` ......Bunun tek bir istisnası var."`
+`"............Ne?`
+` Büyülü bir kafes falan olduğunu söylemeyeceksin, değil mi?"`
+`"Yanlış.`
+` Şuradaki etten beden, tıpkı seninki ve benimki gibi.`
+` ...Yalnızca etten ve kandan oluşan bir kafes bir ruhu bu dünyaya bağlayabilir.`
+` ......Kinzo ruhumu bir kez daha tıpkı benim gibi etten yapılmış bir kafesin içine kapattı."`
 `".....................`
-` ...So in summary, is it something like this?`
-` Grandfather persistently courted you, you started to hate it, and you committed suicide,`
-` but you weren't clever enough to finish the job?`
-` ...Damn, you really took a roundabout way to say something like that."`
-`"No, that's wrong.`
-` My soul was shut up in the seed of a homunculus,`
-` and I was born out of a test tube."`
-`"Huh?!`
-` Ridiculous...!`
-` That's goddamn impossible and you know it!"`
-`"Kinzo accomplished even the miracle of creating life.`
-` And only to shut my soul up in that cage.`
-` ......That he would show such magical power simply because of his own love...`
-` A thoroughly terrifying person."`
-`"Aah, okay, it's really gotten to the point of ridiculousness now!`
-` Say whatever you want.`
-` I won't believe a word of it.`
-` Just do what you like, for hell's sake."`
+` ...Yani özetle, şöyle bir şey mi?`
+` Büyükbabam sana ısrarla kur yaptı, sen de bu durumdan nefret etmeye başladın ve intihara kalkıştın,`
+` ama sonunu getirecek kadar becerikli değildin, öyle mi?`
+` ...Kahretsin, böyle bir şeyi söylemek için gerçekten dolambaçlı bir yol seçmişsin."`
+`"Hayır, bu yanlış.`
+` Ruhum bir homunculus içine hapsedildi,`
+` ve ben bir tüp bebekten dünyaya geldim."`
+`"Hah?!`
+` Saçmalık...!`
+` Bu imkânsız ve bunu sen de biliyorsun!"`
+`"Kinzo hayat yaratma mucizesini bile başardı.`
+` Ve sırf ruhumu o kafese kapatmak için.`
+` ......Sadece kendi aşkı yüzünden böylesine büyülü bir güç sergilemesi...`
+` Son derece korkunç bir insan."`
+`"Aah, tamam, şimdi gerçekten gülünç bir noktaya geldi!`
+` Ne istersen anlat.`
+` Tek kelimesine bile inanmayacağım.`
+` Ne istersen onu yap."`
 `"...............mh.`
-` ...What is this unpleasant attitude?"`
+` ...Bu çirkin tavır da neyin nesi?"`
 `"Heh,`
-` in the beginning, I showed a little interest, thinking there might be some huge hint hidden,`
-` but the more I hear, the weirder this story starts to get.`
-` This is supposed to be a game about denying witches,`
-` but I get the feeling that I'm suddenly being made to just swallow a witch story."`
-`"Sorry, but I don't feel like listening to this any more.`
-` Just keep rambling on to yourself as much as you want.`
-` I'll just be here digging out some earwax or something."`
+` başlangıçta, belki gizli büyük bir ipucu olabilir düşüncesiyle biraz ilgi gösteriyordum,`
+` ama dinledikçe bu hikâye daha da tuhaflaşmaya başladı.`
+` Bunun cadıları reddetmekle ilgili bir oyun olması gerekiyordu,`
+` ama birdenbire bir cadı hikâyesini kabullenmeye zorlandığım hissine kapıldım."`
+`"Üzgünüm ama artık bunu dinlemek istemiyorum.`
+` Sen istediğin kadar kendi kendine saçmalamaya devam et.`
+` Ben burada kulağımın kirini falan temizliyor olacağım."`
 `".....................`
 ` ......Hmph."`
-`When I started showing a cold attitude, Beato acted unusually discouraged.`
-`Of course, her expression was still brazen...`
-`but I had the feeling that I was able to catch a glimpse of loneliness because I hadn't found the story of her past interesting,`
-` in that really easy to understand expression of hers.`
-`......For some reason, that slight reaction made her seem pitiful,`
-` so even though I kept my couldn't‐care‐less attitude, I decided to humor her slightly.`
-`Damn it, even though she's an irritating witch, I'm still weak against her because her chromosomes are XX...`
-`"......Well, I have absolutely no desire to believe you, but,`
-` ............keep going.`
-` I'll listen to your story in place of cookies."`
-`"So you treat the story of my past like cookies.`
-` ......You think that if you abuse me like that, I will just casually tell you...?"`
-`After I made fun of her, Beato reacted a little sensitively.`
-`It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by other people.`
-`Just then, my cup of black tea suddenly made a sound, surprising me.`
-`"......Milady's soul was seized and breathed into a cage of new life.`
-` In other words, Milady received life as a human once more."`
-`Before I had realized it, the demon butler had appeared and taken my cup, and was adding more black tea to it.`
+`Soğuk bir tavır sergilemeye başladığımda, Beato alışılmadık bir şekilde hevesini kaybetmiş gibi davranmaya başladı.`
+`Elbette yüzünde hâlâ utanmaz bir ifade vardı,`
+`ama anlaşılması gerçekten kolay olan bu ifadesinde,`
+` geçmiş hikâyesini ilginç bulmadığım için hissettiği yalnızlığı bir anlığına da olsa yakalayabildiğimi hissettim.`
+`......Nedense, bu hafif tepkisi onu acınacak bir duruma düşürdü,`
+` bu yüzden umursamaz tavrımı sürdürsem de, onu biraz neşelendirmeye karar verdim.`
+`Kahretsin, sinir bozucu bir cadı olmasına rağmen, kromozomları XX olduğu için ona karşı hâlâ zayıfım...`
+`"......Sana inanmak gibi bir niyetim yok ama,`
+` ............devam et.`
+` Kurabiye yerine senin hikâyeni dinleyeceğim."`
+`"Yani geçmiş hikâyeme kurabiye muamelesi yapıyorsun.`
+` ......Beni bu şekilde aşağıladıktan sonra, sana öylece anlatmamı mı bekliyorsun...?"`
+`Ben onunla dalga geçtikten sonra Beato biraz duygusal bir tepki verdi.`
+`Görünüşe göre, insanlarla dalga geçmek onun uzmanlık alanı olsa da, diğer insanların kendisiyle dalga geçmesi karşısında bocalıyordu.`
+`Tam o sırada, siyah çay bardağım birdenbire bir ses çıkararak beni şaşırttı.`
+`"......Leydimin ruhu ele geçirildi ve yeni bir hayat kafesinin içine alındı.`
+` Başka bir deyişle, Leydim bir kez daha insan olarak hayata gözlerini açtı."`
+`Ben farkına bile varmadan, iblis uşak fincanımı almış ve üzerine biraz daha siyah çay ilave etmeye başlamıştı.`
 `"Ronove.`
-` That is enough of that story.`
-` He says that it is too ridiculous to listen to.`
-` I now also feel ridiculous and have no intention of speaking."`
-`"Some new cookies are currently being baked.`
-` I thought that, until then, the story of Milady's past would be a perfect substitute.`
+` Bu kadar hikâye yeter.`
+` Bunun dinlenemeyecek kadar saçma olduğunu söylüyor.`
+` Artık ben de kendimi gülünç hissediyorum ve konuşmaya niyetim yok."`
+`"Yeni kurabiyeler şu anda pişiyor.`
+` O vakte kadar Leydimin geçmişini anlatmanın mükemmel bir alternatif olacağını düşünüyorum.`
 ` Pu ku ku...!"`
-`"I, ...I already said that I've had enough of talking about me!`
-` You are both unpleasant people.`
-` I'm leaving!`
-` Ronove, leave as soon as you are done serving.`
-` No idle talking with Battler."`
-`"Certainly.`
-` I will make an effort."`
-`Beato's confusing female short temper took hold of her, and she turned her body into gold butterflies, scattered, and disappeared.`
-`After that, only Ronove and the scent of the black tea were left...`
-`"......I feel kind of bad for making her angry."`
-`"It appears that you are aware of it, so there is nothing more to be said."`
-`"Wait a second.`
-` Weren't you the one that pushed her over the edge?"`
+`"Ben, ...ben zaten kendim hakkında konuşmaktan bıktığımı söyledim!`
+` İkiniz de sevimsiz insanlarsınız.`
+` Ben gidiyorum!`
+` Ronove, servisin bittiği anda git.`
+` Battler ile gereksiz yere konuşmak yok."`
+`"Anlaşıldı.`
+` Çaba göstereceğim."`
+`Beato'nun kafa karıştırıcı kadınsı asabiliği onu ele geçirdi ve vücudunu altın kelebeklere dönüştürerek dağıldı ve ortadan kayboldu.`
+`Ondan sonra geriye sadece Ronove ve siyah çayın kokusu kalmıştı...`
+`"......Onu kızdırdığım için kendimi biraz kötü hissediyorum."`
+`"Öyle görünüyor ki bunun bilincindesiniz, dolayısıyla söylenecek fazla bir şey yok."`
+`"Dur bir saniye.`
+` Son darbeyi vuran sen değil miydin?"`
 `"Pu ku ku ku.`
-` My, whatever could you mean?`
-` Would you care for some sugar and milk?"`
-`"...Just milk will be fine.`
-` ............And I also want some cookies."`
-`".........You are aware that baking the cookies will take some more time?"`
-`"There's a substitute, you said?"`
-`"......Certainly.`
-` If you would listen quietly, I will continue the story."`
-`"She said something about a homunculus.`
-` ...I know a bit about that.`
-` It's that thing, right?`
-` A manufactured human created with alchemy or something?"`
-`"Yes.`
-` Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby.`
-` ......However, because she was a baby,`
-` even if Kinzo tried to profess his love to her, it would be useless."`
+` Amanın, ne demek istiyorsunuz?`
+` Biraz şeker ve süt ister misiniz?"`
+`"...Sadece süt yeterli.`
+` ............Bir de biraz kurabiye istiyorum."`
+`".........Kurabiyelerin hazır olması biraz daha zaman alacak."`
+`"Alternatif başka bir şey var mı demiştin?"`
+`"......Kesinlikle.`
+` Eğer sessizce dinlerseniz, hikâyeye devam edeceğim."`
+`"Homunculus hakkında bir şeyler söyledi.`
+` ...Onun hakkında biraz bilgim var.`
+` Şu şey, değil mi?`
+` Simya ya da onun gibi bir şeyle yaratılmış bir insan mı?"`
+`"Evet.`
+` Leydimin ruhu bir homunculus'a hapsedildi ve bu dünyada bir bebek olarak yeniden hayat buldu.`
+` ......Ancak, bebek olduğu için,`
+` Kinzo ona aşkını ifade etmeye çalışsa bile faydasız olacaktı."`
 `"........................`
-` .........You aren't saying...`
-`......Grandfather shut that baby up in this hidden mansion,`
-` until it grew to reach the same age?!"`
-`"Yes.`
-` That is what I am saying.`
-` However, while her soul was the same, a human spirit receives a strong influence from its vessel.`
-` Milady lost all of her memories of the past, and grew up as a very normal human girl."`
-`"And you're saying......that's the Beato sitting in the garden chair?"`
-`"Yes.`
-` That is correct.`
-` She grew to be completely identical.`
-` However, she did not possess her power as a witch.`
-` ......I must stress that Milady was a human."`
+` .........Sakın bana...`
+`......Büyükbabamın o bebeği büyüyüp aynı yaşa gelene kadar,`
+` bu gizli köşke kapattığını söyleme?!"`
+`"Evet.`
+` Demek istediğim de bu.`
+` Ancak ruhu aynı olsa da, bir insan ruhu içinde bulunduğu bedenden güçlü bir şekilde etkilenir.`
+` Leydim geçmişe dair tüm anılarını kaybetti ve çok normal bir insan kızı olarak büyüdü."`
+`"Ve sen de......bahçedeki sandalyede oturan Beato'nun bu olduğunu mu söylüyorsun?"`
+`"Evet.`
+` Bu doğru.`
+` Tamamen aynı şekilde büyütüldü.`
+` Ancak, bir cadı olarak kendi gücüne sahip değildi.`
+` ......Leydimin orada tamamen bir insan olduğunu vurgulamalıyım."`
 `"................................."`
-`Beato, who was sitting in the garden chair, looking up at the sky, asked that same question again.`
-`She asked who she was.`
-`...The meaning of those words was finally starting to click.`
-` She couldn't understand why she was living here, all locked up.`
-`Grandfather had seized {f:5:Beatrice}'s soul, shut it up in a body of flesh,`
-` and then shut that up in a hidden mansion.`
-`However, since she had lived here since the time she was born, she couldn't even understand who she was,`
-` or why she lived shut up in there...`
-`......W‐...wait, wait.`
-`{n}Who would take such a stupid story seriously?`
-`Why don't I change my interpretation?`
-`{n}...Essentially, couldn't it be something like this?`
-`Grandfather met {f:5:Beatrice}.`
-`{n}He then fell in love with her and courted her, but she didn't nod her head in agreement.`
-`{n}And so he got angry, and shut her up inside this hidden mansion.`
-`{f:5:Beatrice} tried to escape, but no matter what she did, she couldn't succeed,`
-` ......so she finally chose her own death.`
-`......And then, .........hmm.`
-`...Maybe there was a girl that looked just like {f:5:Beatrice}, ...no, a baby.`
-`And Grandfather raised this child with care.`
-`But maybe Grandfather didn't view this child as his daughter.`
-`"Shut my soul up once more into a cage of flesh".`
-`Those words probably meant...`
-`...that he didn't view this kid as her child, but as her reincarnation.`
-` Maybe that's what it meant.`
-`If you interpret it that way, even a story that weird might make a little sense...`
-`...No no no.`
-` This might be some bullshit Beato cooked up to confuse me.`
-`As if I could accept any of this...!`
-`{n}In the first place, ...Kuwadorian, was it?`
-`{n}There's no proof whatsoever that a hidden mansion actually existed.`
-`Couldn't this be something she just fabricated on the spot?`
+`Bahçedeki sandalyede oturmuş gökyüzüne bakan Beato aynı soruyu tekrar sordu.`
+`Kim olduğunu sordu.`
+`...Bu kelimelerin anlamı nihayet yerine oturmaya başlamıştı.`
+` Neden burada kilit altında yaşadığını anlayamıyordu.`
+`Büyükbabam {f:5:Beatrice}'in ruhunu ele geçirmiş, onu etten bir bedene hapsetmiş,`
+` ve sonra da onu gizli bir köşke kapatmıştı.`
+`Ancak doğduğundan beri burada yaşadığı için kim olduğunu,`
+` ya da neden burada kapana kısılmış bir şekilde yaşadığını bile anlayamıyordu...`
+`......B-...Bekle, bekle.`
+`{n}Böyle aptalca bir hikâyeyi kim ciddiye alır ki?`
+`Neden yorumlayışımı değiştirmiyorum?`
+`{n}...İşin aslı şöyle bir şey olamaz mı?`
+`Büyükbabam {f:5:Beatrice} ile tanıştı.`
+`{n}Daha sonra ona aşık oldu ve ona kur yaptı, ancak {f:5:Beatrice} onu reddetti.`
+`{n}Bunun üzerine sinirlendi ve onu bu gizli köşke kapattı.`
+`{f:5:Beatrice} kaçmaya çalıştı ama ne yaparsa yapsın başaramadı,`
+` ......ve en nihayetinde kendi ölümünü seçti.`
+`......Ve sonra, .........hmm.`
+`...Belki de tıpkı {f:5:Beatrice}'e benzeyen bir kız vardı, ...hayır, bir bebek.`
+`Ve Büyükbabam bu çocuğu özenle büyüttü.`
+`Ama belki de Büyükbabam bu çocuğu kendi kızı olarak görmüyordu.`
+`"Ruhumu bir kez daha etten yapılmış bir kafesin içine kapattı".`
+`Bu sözler muhtemelen...`
+`...bu çocuğu kendi çocuğu olarak değil, onun reenkarnasyonu olarak gördüğü anlamına geliyordu.`
+` Belki de bu anlama geliyordu.`
+`Bu şekilde yorumladığınızda, bu kadar tuhaf bir hikâye bile biraz mantıklı gelmeye başlıyor...`
+`...Hayır hayır hayır.`
+` Bu Beato'nun kafamı karıştırmak için uydurduğu bir bok olmalı.`
+`Sanki bunları kabul ederim de...!`
+`{n}Her şeyden önce, ...Kuwadorian mıydı?`
+`{n}Gizli bir köşkün gerçekten var olduğuna dair hiçbir kanıt yok.`
+`Bu, o anda uydurduğu bir şey olamaz mı?`
 `"`
-`{p:1:A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima}.`
-` That is the place we were just talking about."`
-`".........Huh?`
-` R‐...red?!"`
-`Ronove used the red to say that Kuwadorian actually existed.`
-`...Did that mean the same thing as the red Beato used?`
-`"Even if I am not much of one, I am a demon all the same.`
-` ...Please keep this a secret from Milady, yes?"`
-`"...Y‐......yeah!"`
-`Beato, who knew I would try to trip her up, had grown extremely cautious when using red.`
-`To think that Ronove could also use that red...`
-`Of course, it's the red of a crafty man.`
-` I don't know how far I can accept it,`
-` but anyway, I might be able to get some hint out of it......`
-`"So that Beato relaxing in the garden of Kuwadorian, ...and that conversation she had with Grandfather, were the truth?"`
-`"Yes.`
-` It is the truth.`
-` In the past,`
-` {p:1:the pair actually had a conversation like that in this place}."`
-`"Th‐thanks a lot.`
-` I'll ask for some more red.`
-` She said that she was born from a homunculus,`
-` but does that kind of unscientific, magical thing actually exist?!"`
-`"I am unable to answer that question.`
-` The reason is that it would cause a stalemate."`
-`"......A stalemate??`
-` What do you mean?"`
-`"It's a chess term referring to a state in which, similar to a "perpetual check",`
-` any further progress in a game becomes impossible.`
-` This is the opposite of an endless repetition of moves,`
-` and refers to a situation in which all moves disappear, resulting in a kind of deadlock."`
-`"In chess this would lead to a draw, just as if there were a perpetual check.`
-` ...However, there is no draw in the game between you and Milady.`
-` Therefore, I am unable to answer in red any question that would bring about a stalemate."`
-`".........You're speaking in riddles by saying something I don't really understand,`
-` but when it comes down to it, you're just trying to trick me because you can't say in red that something magical like a homunculus exists, right?"`
-`"If I were to say in red that "witches exist", what would you do, Battler‐sama?"`
+`{p:1:Rokkenjima ormanında Kuwadorian adında gizli bir köşk var}.`
+` Az önce bahsi geçen yer de orasıydı."`
+`".........Heh?`
+` K-...Kırmızı mı?!"`
+`Ronove, Kuwadorian'ın gerçekten var olduğunu söylemek için kırmızıyı kullandı.`
+`...Bu Beato'nun kullandığı kırmızıyla aynı anlama mı geliyordu?`
+`"Çok üstün bir iblis olmasam da, yine de bir iblisim.`
+` ...Lütfen bunu Leydimden bir sır olarak saklayın, olur mu?"`
+`"...T-......Tabii!"`
+`Ona tuzak kurmaya çalışacağımı bilen Beato, kırmızıyı kullanırken son derece temkinli davranmaya başlamıştı.`
+`Ronove'nin de bu kırmızıyı kullanabileceğini düşünmek...`
+`Tabii ki, bu kurnaz bir adamın kırmızısı.`
+` Bunu ne kadar doğru kabul edebilirim bilmiyorum,`
+` ama yine de belki buradan bir ipucu yakalayabilirim......`
+`"Yani Kuwadorian'ın bahçesinde oturan Beato ile Büyükbabamın yaptığı o konuşma gerçek miydi?"`
+`"Evet.`
+` Bu gerçek.`
+` Geçmişte,`
+` {p:1:ikili gerçekten de burada böyle bir konuşma yaptı}."`
+`"Ç-Çok teşekkürler.`
+` Biraz daha kırmızı istiyorum.`
+` Bir homunculus'tan dünyaya geldiğini söyledi,`
+` ama bu tür bilim dışı, büyülü bir şey gerçekten var mı?!"`
+`"Bu soruya cevap veremem.`
+` Zira bu bir pat'a neden olacaktır."`
+`"......Pat mı?`
+` O da ne?"`
+`"Bir satranç terimi olan bu terim, "sürekli şah" benzeri bir durumu,`
+` oyuna daha fazla devam etmenin imkânsız hâle geldiği bir durumu ifade eder.`
+` Bu, hamlelerin sonsuz tekrarının tam tersidir,`
+` ve tüm hamlelerin geçersiz kalarak bir tür kilitlenmeye yol açtığı bir durumu ifade eder."`
+`"Satrançta bu durum, tıpkı sürekli şah durumunda olduğu gibi, bir beraberliğe yol açar.`
+` ...Fakat, Leydim ile aranızdaki oyunda beraberlik söz konusu değil.`
+` Bu nedenle, bir pat'a yol açacak herhangi bir soruya kırmızıyla cevap veremem."`
+`".........Gerçekten anlayamadığım bir şey söyleyerek bilmece gibi konuşuyorsun,`
+` ama işin aslı, homunculus gibi büyülü bir şeyin var olduğunu kırmızıyla söyleyemeyeceğin için beni kandırmaya çalışıyorsun, değil mi?"`
+`"Eğer kırmızıyla "cadılar gerçektir" deseydim, ne yapardınız, Battler-sama?"`
 `"...............mh.`
-` ......That's what we're having this big fight over whether or not to believe, right?`
-` If you told me that outright, there'd be nothing more to discuss.`
-` It'd be game over."`
-`"If I said "witches exist" in red, you would have no room for argument.`
-` However, since the reason would never have been made clear to you, Battler‐sama, you probably wouldn't accept it.`
-` However, after being told that in red, you would have no room for argument and would not have been shown any proof."`
-`"In this situation, Battler‐sama,`
-` even though you wouldn't be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.`
-` Even though checkmate would not have been reached, no more moves would exist."`
-`"Since you would not be able to make your next move, it would never become Milady's turn,`
-` and the game would stop there for all eternity.`
-` As a result, Milady would be unable to force you to submit.`
-` ......That would be a deadlock situation."`
-`"In order to avoid that,`
-` I am unable to answer questions of this form in red."`
-`"......So, to cut to the chase, you mean that questions that leave no room for discussion are prohibited?`
-` Well, that makes sense, I guess.`
-` If I was told "witches exist" in red, I'd have to give up from the start."`
-`"I am pleased that you understand.`
-` I believe we might be able to work together if you ask a question of a different form."`
-`"......Can you respond to the repetition request she dodged?`
-` About the number of people on this island."`
-`"If Milady held back on the request, then of course I cannot respond.`
-` As Milady's furniture, I am unable to act too forward."`
-`Ronove made an exaggerated gesture, trying to act like a loyal retainer.`
-` This guy's so shameless.`
-`"Tch.`
-` Just when I thought you might be useful."`
-`"......I'll give up on that and search for a different question.`
-` ...That's right.`
-` I was forgetting to check something important.`
-` .........This is a story about Beato's memories, right?`
-` When did it happen?`
-` It couldn't be happening right now, right?"`
-`"Correct.`
-` {p:1:This is the world of 1967}.`
-` It is the world of 19 years ago."`
+` ......İnanmak ya da inanmamak konusunda verdiğimiz büyük mücadele de bu, öyle değil mi?`
+` Bunu bana açıkça söyleseydin, daha fazla tartışacak bir şey olmazdı.`
+` Oyun biterdi."`
+`""Cadılar gerçektir" diye kırmızıyla belirtseydim, tartışabileceğiniz hiçbir şey kalmazdı.`
+` Ancak, Battler-sama, nedeni size hiçbir zaman açıkça belirtilmediği için, muhtemelen bunu kabul etmezdiniz.`
+` Fakat, bunu kırmızıyla söyledikten sonra tartışmaya yeriniz kalmayacak ve size herhangi bir kanıt sunulmayacaktı."`
+`"Bu durumda, Battler-sama,`
+` yenilgiyi kabul etmeyecek olsanız bile, karşıt bir argüman öne sürmenizin hiçbir yolu olmayacak ve bu bir çıkmaza dönüşecektir.`
+` Şah mat olmamış olsa bile, başka bir hamlenin yapılması mümkün olmazdı."`
+`"Battler-sama, bir sonraki hamlenizi yapamayacağınız için sıra asla Leydime gelmeyecek,`
+` ve oyun sonsuza dek bu noktada kalacaktır.`
+` Sonuç olarak, Leydim sizi teslim olmaya zorlayamaz.`
+` ......Bu bir kördüğüm durumu olurdu."`
+`"Bundan kaçınmak için,`
+` bu tür sorulara kırmızıyla cevap veremem."`
+`"......Yani, lafı dolandırmadan söylemek gerekirse, tartışmaya yer bırakmayan soruların yasak olduğunu mu söylemeye çalışıyorsun?`
+` Yani, bu sanırım mantıklı.`
+` Eğer bana kırmızıyla "cadılar gerçektir" denilseydi, en baştan vazgeçmek zorunda kalırdım."`
+`"Anladığınıza memnun oldum.`
+` Farklı bir formda soru sorduğunuz takdirde birlikte çalışabileceğimize inanıyorum."`
+`"......Geçiştirdiği tekrarlama talebine cevap verebilir misin?`
+` Bu adadaki insan sayısı ile ilgili olana."`
+`"Eğer Leydim bu tekrarlama isteğini reddettiyse, o zaman elbette cevaplayamam.`
+` Leydimin mobilyası olarak, fazla ileri gidemem."`
+`Ronove sadık bir hizmetkâr gibi davranmaya çalışarak abartılı bir jest yaptı.`
+` Bu adam çok utanmaz.`
+`"Cık.`
+` Tam da işe yarayabileceğini düşünürken."`
+`"......Bundan vazgeçip başka bir soru bulacağım.`
+` ...Ah, doğru.`
+` Önemli bir şeyi kontrol etmeyi unutuyordum.`
+` .........Bu Beato'nun anıları hakkında bir hikâye, değil mi?`
+` Bu ne zaman oldu?`
+` Şu anda gerçekleşiyor olamaz, değil mi?"`
+`"Haklısınız.`
+` {p:1:Burası 1967'nin dünyası}.`
+` Bu 19 yıl önceki dünya."`
 `"............Hmmmmm..."`
-`Let's go through the story one more time.`
-`{n}I wonder if it couldn't be something like this.`
-`Grandfather had a person with whom he fell in unrequited love, called {f:5:Beatrice}.`
-`{n}And he confined her in this hidden mansion and continually courted her.`
-`{n}But she was stubborn and didn't say yes.`
-`Eventually, she grew pessimistic about being unable to escape from here...`
-`and probably, committed suicide.`
-`......And then,`
-` ......her soul was put in a homunculus and......`
-`No, no, if I accept that, it's the same as accepting the witch.`
-`I can interpret that part like this.`
-`{n}She probably......left a daughter behind when she died.`
-`That talk about the soul being put in a new body...probably meant...`
-`that Grandfather raised that child believing it to be the reincarnation of {f:5:Beatrice}...`
-`...In that case, Beato must have existed on this island for at least the last 19 years as the 19th person, and then...`
-`...umm......`
-`"......I'm starting to get confused.`
-` ...In any event, none of this leaves the realm of guesswork.`
-` The only thing that I can definitely say in red,`
-` is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human.`
-` That's all."`
-`"That is correct.`
-` {p:1:In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}."`
-`"Oh, thank you.`
-` That really helps."`
-`"Congratulations.`
-` With this, you have made clear the existence of the piece known as the 19th person.`
-` The 19th human outside of the 18 who you can blame, just as you longed for."`
-`"......A sacrificial sheep that you can shift the blame of any crime onto.`
-` And you must be so glad that it is Milady.`
+`Hikâyeyi bir kez daha gözden geçirelim.`
+`{n}Acaba şöyle bir şey olamaz mı?`
+`Büyükbabamın {f:5:Beatrice} adında karşılıksız aşık olduğu biri vardı.`
+`{n}Ve onu bu gizli köşke hapsetti ve ona devamlı olarak kur yaptı.`
+`{n}Ama kadın inatçıydı ve bir türlü pes etmiyordu.`
+`En nihayetinde, buradan kaçamayacağı konusunda karamsarlığa kapıldı...`
+`ve muhtemelen intihar etti.`
+`......Ve sonra,`
+` ......ruhu bir homunculus'a kondu ve......`
+`Hayır, hayır, eğer bunu kabul edersem, bu cadıyı kabul etmekle aynı şey olur.`
+`Bu kısmı şu şekilde yorumlayabilirim.`
+`{n}Muhtemelen......öldüğünde arkasında bir kız çocuğu bıraktı.`
+`Ruhun yeni bir bedene yerleştirilmesinden...bahsedilmesi muhtemelen...`
+`Büyükbabamın o çocuğu {f:5:Beatrice}'in reenkarnasyonu olduğuna inanarak yetiştirdiği anlamına geliyordu...`
+`...Bu durumda, Beato en azından son 19 yıldır bu adada 19. kişi olarak var olmuş olmalı ve sonra...`
+`...şey......`
+`"......Kafam karışmaya başladı.`
+` ...Her hâlükarda, bunların hiçbiri tahminden öteye gidemiyor.`
+` Kırmızıyla ifade edilebilecek tek şey,`
+` 1967 yılında, Rokkenjima'daki gizli bir köşkte, {f:5:Beatrice}'in bir insan olarak var olduğu.`
+` Hepsi bu."`
+`"Tamamen doğru.`
+` {p:1:1967 yılında, Rokkenjima'daki gizli bir köşkte, {f:5:Beatrice}-sama bir insan olarak var oldu}."`
+`"Oh, teşekkürler.`
+` Bu gerçekten yardımcı oluyor."`
+`"Tebrik ederim.`
+` Bununla, 19. kişi olarak bilinen taşın varlığını açıklığa kavuşturdunuz.`
+` Battler-sama, tıpkı arzuladığınız gibi, 18 kişinin dışında suçlayabileceğiniz 19. bir kişi."`
+`"......Herhangi bir suçun sorumluluğunu üzerine yıkabileceğiniz kurbanlık bir koyun.`
+` Ve onun Leydim olması ne kadar ilginç.`
 ` Pu ku ku ku."`
-`Ronove laughed indiscreetly.`
-`Somehow, I didn't like his phrasing, so I didn't feel like laughing along with him.`
-`"......That's right.`
-` Auntie Rosa said it.`
-` ......‘{f:5:Beatrice} is dead’?`
-` "I killed her"?`
-` What does that mean...?"`
-`"As for that, it may be faster to see the actual circumstances rather than listen to me tell you.`
-` Let us advance the clock a little more."`
-`Ronove pulled a stylish pocket watch from his pocket, and made to wind the crown.`
-`As soon as he did, I saw gold butterflies gather behind Ronove's back and take the form of a person.`
-`...Was it Beato?!`
-` I quickly realized that it was someone else.`
-`It was her.`
-` That oldest sister of the Seven Stakes, who loved tormenting me more than anything else.`
-`......If I don't think myself lucky to see that sexy ass, I won't be able to play along with their torture game...`
-`"Ronove‐sama.`
-` So, you were still here.`
-` This is an urgent call from {f:5:Beatrice}‐sama."`
-`"My, my,`
-` what kind of urgent business could it be?`
-` ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.`
-` Well then, Battler‐sama, if you will excuse me.`
-` Please continue to enjoy your game with Milady."`
-`"Yeah, yeah.`
-` I'll enjoy it as best as I can.`
-` ...'Cause the conversations are more lively with you than with Beato.`
-` And you use the red more graciously.`
-` Come talk again any time."`
-`"............Battler‐sama.`
-` Despite how I look, I am Milady's furniture.`
-` ...I cannot do something that Milady does not wish.`
-` What I said in red was something that normally should have come from Milady's mouth.`
-` ...I did nothing more than announce the red truth in Milady's place as she sulked."`
-`"So she really was sulking then?`
+`Ronove patavatsızca güldü.`
+`Nedense üslubu hoşuma gitmedi, bu yüzden onunla birlikte gülmek istemedim.`
+`"......Doğru.`
+` Rosa Teyze söylemişti.`
+` ......‘{f:5:Beatrice} öldü’ mü?`
+` "Onu ben öldürdüm" mü?`
+` Bunlar da ne demek oluyor...?"`
+`"Buna gelince, benim anlattıklarımı dinlemek yerine gerçek olayları görmeniz daha faydalı olabilir.`
+` Zamanı biraz daha ilerletelim."`
+`Ronove cebinden şık bir cep saati çıkardı ve kurmaya başladı.`
+`Kurduğu sırada, Ronove'nin arkasında altın kelebeklerin toplandığını ve birinin şeklini aldığını gördüm.`
+`...Beato muydu?!`
+` Hemen başka biri olduğunu fark ettim.`
+`Bu oydu.`
+` Bana işkence etmeyi her şeyden çok seven Yedi Kazığın en büyük kız kardeşi.`
+`......Eğer o seksi kalçayı gördüğüm için kendimi şanslı saymazsam, onların işkence oyunlarına eşlik edemezdim...`
+`"Ronove-sama.`
+` Demek hâlâ buradaydın.`
+` {f:5:Beatrice}-sama'dan acil bir çağrı var."`
+`"Amanın,`
+` ne tür bir acil iş olabilir acaba?`
+` ......Görünüşe göre sizinle biraz fazla uzun süre sohbet etmişim, Battler-sama.`
+` O hâlde, Battler-sama, izninizle.`
+` Lütfen Leydim ile olan oyununuzun tadını çıkarmaya devam edin."`
+`"Evet, evet.`
+` Elimden geldiğince tadını çıkaracağım.`
+` ...Çünkü sohbetler seninleyken Beato'yla olduğundan daha canlı.`
+` Ve kırmızıyı daha centilmence kullanıyorsun.`
+` İstediğin zaman tekrar konuşuruz."`
+`"............Battler-sama.`
+` Görünüşüme rağmen, ben Leydimin mobilyasıyım.`
+` ...Leydimin istemediği bir şeyi yapamam.`
+` Kırmızıyla söylediğim şeyler, normalde Leydimin ağzından çıkması gereken şeylerdi.`
+` ...O somurturken ben Leydimin yerine kırmızı gerçeği söylemekten başka bir şey yapmadım."`
+`"O hâlde gerçekten de surat mı asıyordu?`
 ` Ihihihi!"`
-`"Pu ku kuku."`
-`Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.`
-`"Ronove‐sama.`
-` We are keeping {f:5:Beatrice}‐sama waiting.`
-` Let us hurry."`
-`"Yes, I will come immediately.`
-` Well then, Battler‐sama, I shall see you later.`
-` ......It appears that we have finally started getting along.`
-` As I thought, I have the feeling that we can become good friends."`
-`"If by that you mean partners at gossiping behind Beato's back."`
-`"Ronove‐sama!"`
-`"Yes, yes.`
-` Then, if you will excuse me."`
-`Maybe it was because she really didn't like seeing him act friendly with me, or maybe it was because she had really been told to hurry.`
-`The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...`
+`"Pu ku ku ku."`
+`Beni ve Ronove'yi anlaşılmaz bir şekilde yakın gören Yedi Kazığın çıtırı hafifçe başını eğdi.`
+`"Ronove-sama.`
+` {f:5:Beatrice}-sama'yı bekletiyoruz.`
+` Acele edelim."`
+`"Evet, hemen geliyorum.`
+` Peki o zaman, Battler-sama, görüşmek üzere.`
+` ......Görünüşe göre nihayet iyi geçinmeye başladık.`
+` Düşündüğüm gibi, iyi arkadaş olabileceğimizi hissediyorum."`
+`"Beato'nun arkasından dedikodu yapan ortakları kastediyorsan, elbette."`
+`"Ronove-sama!"`
+`"Evet, evet.`
+` O zaman, izninizle."`
+`Belki de onun bana bu kadar dostça davranmasından hoşlanmamıştı ya da belki de gerçekten acele etmesi söylenmişti.`
+`Yedi Kazık güzeli Ronove'ye sertçe çıkıştı, Ronove de aptalca güldü ve sanki kaçıyormuş gibi ortadan kayboldu...`
 `"......Hmph.`
-` How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!`
-` ...{f:5:Beatrice}‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"`
-`"Why so grumpy, girl?`
-` If you're hungry, eat a cookie or something.`
-` Why don't I give you the last one?`
+` Araf'ın Yedi Kazığı'nın en büyük kız kardeşi olan ben nasıl olur da bu düzeyde bir iş için çağrılabilirim!`
+` ...{f:5:Beatrice}-sama böyle bir şey için çok fazla boş vakti olan küçük kız kardeşlerimden birine kolayca söyleyebilirdi. Tanrım...!"`
+`"Neden bu kadar huysuzsun, tatlım?`
+` Acıktıysan kurabiye falan ye.`
+` Sonuncuyu sana vereyim mi?`
 ` Ihihi!"`
 `"......Hummmmm?`
-` How thoughtful.`
-` Then, shall I take one?"`
-`I lightly pushed the snack plate with the last remaining cookie on it over to her.`
-`"Thank you"`
-`As though coming as a replacement for the period at the end of the sentence, a sharp sound pierced the table...`
-`The nails on three of her fingers had sharply extended, and were stuck...`
-`a hair's breadth into the gaps between my fingers on the hand I had used to push the plate.`
-`......It had happened in an instant, ...so for a while, I didn't even realize that her fingernails had grown.`
-`The tips of those sharp nails were like blades with a red manicure.`
-`......The spaces between the bases of my fingers prickled.`
-`......Those razor‐like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...`
-`By those three blades, my carelessly outstretched right hand was not even permitted to shake, and all I could do now was allow a single line of cold sweat to drip down.`
-`"............Wowee.`
-` ...Isn't it about time you cut your nails, babe?"`
+` Ne kadar düşüncelisin.`
+` Öyleyse, bir tane alayım mı?"`
+`Üzerinde son kalan kurabiyenin bulunduğu atıştırmalık tabağını hafifçe ona doğru ittim.`
+`"Teşekkürler"`
+`Cümlenin sonundaki noktanın yerine geçercesine keskin bir ses masayı delip geçti...`
+`Tırnaklarından üçü birden keskin bir şekilde uzamıştı...`
+`ve tabağı itmek için kullandığım elimin parmakları arasındaki boşluklara bir saç teli inceliğinde saplanmıştı.`
+`......Her şey bir anda olmuştu, ...bu yüzden bir süre tırnaklarının uzadığını bile fark etmemiştim.`
+`O keskin tırnakların uçları kırmızı manikürlü bıçaklar gibiydi.`
+`......Parmak uçlarımın arasındaki boşluklar karıncalandı.`
+`......O jilet gibi bıçaklar elimin arkasından ve parmaklarımdan kıl payı uzaklıkta masaya saplanmıştı...`
+`O üç bıçak yüzünden, sağ elimin dikkatsizce titremesine bile izin veremiyordum ve artık tek yapabildiğim şey soğuk ter damlalarının süzülmesine izin vermekti.`
+`"............Wooow.`
+` ...Tırnaklarını kesmenin zamanı gelmedi mi güzelim?"`
 `"Lucifer.`
-` ......That is my noble name.`
-` Honored furniture serving {f:5:Beatrice}‐sama, and the eldest sister of the Seven Stakes of Purgatory."`
-`".........I'm not like my disgraceful and cretinous younger sisters.`
-` If you don't show the proper respect, you will regret it."`
-`"...How would I regret it?`
-` I don't have a clue."`
+` ......Bu benim soylu ismim.`
+` {f:5:Beatrice}-sama'ya hizmet eden onurlu mobilya ve Araf'ın Yedi Kazığı'nın en büyük kız kardeşi."`
+`".........Ben küçük ve rezil kız kardeşlerim gibi değilim.`
+` Eğer gereken saygıyı göstermezsen, pişman olursun."`
+`"...Nasıl pişman olurum?`
+` Hiçbir fikrim yok."`
 `".........Heheheheheh.`
-` Stupid kid.`
-` ...Do you really want me to play with you that much?`
-` You really can't get me out of your mind?"`
-`"I'll thrust my stake deep, deep into you and make you really enjoy being gouged, got it......?`
+` Aptal çocuk.`
+` ...Seninle oynamamı gerçekten bu kadar çok mu istiyorsun?`
+` Beni gerçekten aklından çıkaramıyor musun?"`
+`"Kazığımı sana derin, derin saplayacağım ve oyulmaktan gerçekten zevk almanı sağlayacağım, anladın mı......?`
 ` Hehehe{0}he{0}heh{0}heheh{0}he{0}hehehhh......!"`
-`".........You bitch.`
-` One day I'll push you down and say that back to you."`
-`"Oh, really?`
-` I'll be looking forward to that, then?`
+`".........Seni şerefsiz.`
+` Bir gün seni yere yatırıp aynı şeyi sana söyleyeceğim."`
+`"Oh, öyle mi?`
+` Bunu dört gözle bekleyeceğim o zaman?`
 ` Ehhehe{0}heh{0}heheheh......`
 ` ...Ahhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"`
-`Rosa eventually regained her calm.`
-`The men wanted to hurry her into talking faster, but Kyrie intervened.`
-`...If something like she had just mentioned really had happened, ......it was an abominable past that she wouldn't want to remember.`
-`After taking several deep breaths with her hand over her chest, it seemed that she had more or less gathered the resolve to talk...`
-`"......How old was I then, I wonder...`
-` ...Probably...middle school, or... ...I don't remember well.`
-` Anyway, I think I was about that old..."`
-`"Which means... Maybe about twenty years ago?"`
-`"Back then, my grades weren't very good, and Mother was always angry at me.`
-` ......I was trying to do my best in my own way,`
-` but I couldn't respond to Mother's expectations at all..."`
-`"......Mother was always very strict with Rosa.`
-` I sympathized with her at the time."`
+`Rosa eninde sonunda sakinliğini yeniden kazandı.`
+`Erkekler onu daha hızlı konuşması için acele ettirmek istediler fakat Kyrie araya girdi.`
+`...Eğer az önce bahsettiği gibi bir şey gerçekten yaşandıysa, ......bu hatırlamak istemeyeceği berbat bir geçmişti.`
+`Elini göğsünün üzerine koyarak birkaç defa derin nefes alıp verdikten sonra, konuşmak için az çok cesaretini toplayabilmiş gibi görünüyordu...`
+`"......Acaba...o zamanlar kaç yaşındaydım...`
+` ...Muhtemelen...ortaokul, ya da... ...pek hatırlamıyorum.`
+` Her neyse, sanırım yaklaşık o yaşlardaydım..."`
+`"Bunun anlamı... Yaklaşık yirmi yıl öncesi mi?"`
+`"O zamanlar notlarım pek iyi değildi ve Annem bana hep kızardı.`
+` ......Kendi çapımda elimden gelenin en iyisini yapmaya çalışıyordum,`
+` ama Annemin beklentilerini bir türlü karşılayamıyordum..."`
+`"......Annem Rosa'ya karşı her zaman çok katıydı.`
+` O zamanlar ona sempati duyuyordum."`
 `"Hmm.`
-` You say that even though you were always talking behind her back."`
-`"Would you give it a rest, Eva.`
-` So?`
-` Where did you meet {f:5:Beatrice}, Rosa‐san?!"`
-`"Hideyoshi‐san, you mustn't rush her now.`
-` ......It's alright, Rosa‐san.`
-` Tell us at your leisure."`
-`".........Thank you.`
-` ...It was a day when I had been scolded particularly harshly by Mother."`
-`Even though my tutor had promised to keep it a secret,`
-` ...apparently, they told Mother all about how I had complained.`
-`Mother scolded me horribly, saying that I was a disgrace to the Ushiromiya family.`
-`......Of course, I was doing the best I could.`
-`But I had none of Krauss nii‐san's dignity,`
-` I couldn't get excellent grades like Eva nee‐san,`
-` and I had no leadership like Rudolf nii‐san.`
-`...I never stood out, didn't particularly excel at anything,`
-` and I almost wanted to ask myself why I had even been born into the Ushiromiya family.`
-`I didn't know why I had been born.`
-`{n}...On that day, I had the experience of my mind going blank for the first time......`
-`For the first time since I was born,`
-` ...I realized that in addition to facing or surrendering to my problems,`
-` I had the third choice of running away.`
-`Even though I say run away, there was no way I could have left Rokkenjima and gone somewhere else.`
-`But, anyway, I wanted to run away from the mansion and the way I was at the time.`
-`......In a way, it was like running away from home, or maybe a half‐hearted suicide...`
-`"......I wanted to disappear.`
-` Or maybe it was that child‐like form of resistance where I tried to make my parents worry by disappearing..."`
-`".........I thought childishly that if I went into the center of the forest, I could escape from the Ushiromiya house,`
-` or maybe I could get back at them by getting lost and making them worry."`
-`"So then, ......you went into the forest that you'd been told not to go into?"`
-`"......Yes.`
-` After reaching the beach, I followed alongside the ocean.`
-` ......I didn't have any particular reason,`
-` ......but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about,`
-` which might become a hidden house just for me."`
-`"Starting by the beach, it'd be impossible to go all the way around.`
-` It becomes a cliff partway, right?`
-` There's no way you could pass that way."`
-`"...Of course.`
-` So, I kept going wherever I could, and kept going deeper and deeper in.`
-` ......It was a horrible forest without any paths, but that was comforting to me then.`
-` ...If I could make it through such a dangerous forest, then it would be that much greater of an escape from the Ushiromiya family,`
-` ...which made me feel good."`
-`".........How shameful.`
-` If you were scolded because of your grades, all you had to do was work harder."`
-`"You mustn't say that.`
-` Doesn't Rosa have her talent as a designer instead?"`
-`Literally this could be taken as him covering for Rosa,`
-` but everyone knew that Rosa's company was not making any profits.`
-`"Quit it.`
-` Now isn't the time for sarcasm.`
-` ......And then you arrived there by coincidence...?`
-` ...{f:5:Beatrice}'s...`
-`hidden mansion."`
-`Rosa nodded weakly......`
-`"About how far did you walk.`
-` Could you show it to us on a map...?`
-` Natsuhi‐san, is there a map of this island?"`
-`"No, not right here and now..."`
-`"That would be impossible.`
-` I was just walking randomly.`
-` Even if you showed me a map, I wouldn't know.`
-` ......And twenty years have passed since then.`
-` I probably couldn't reach it again even if I went into the forest..."`
+` Her zaman onun arkasından konuştuğun hâlde bunu söyleyebiliyorsun."`
+`"Şunu keser misin Eva?`
+` Yani?`
+` Rosa-san, {f:5:Beatrice} ile nerede tanıştın?!"`
+`"Hideyoshi-san, onu acele ettirmemelisin.`
+` ......Sorun yok, Rosa-san.`
+` Rahatça anlatabilirsin."`
+`".........Teşekkür ederim.`
+` ...Annem tarafından çok sert bir şekilde azarlandığım bir gündü."`
+`Öğretmenim bunu bir sır olarak tutacağına söz vermiş olsa da,`
+` ...görünüşe göre Anneme benim nasıl şikayette bulunduğumla ilgili her şeyi anlatmışlar.`
+`Annem beni korkunç bir şekilde azarladı ve Ushiromiya ailesinin yüz karası olduğumu söyledi.`
+`......Tabii ki elimden gelenin en iyisini yapıyordum.`
+`Ama Krauss nii-san'ın asaletine sahip değildim,`
+` Eva nee-san gibi mükemmel notlar alamıyordum,`
+` ve Rudolf nii-san gibi liderlik yeteneğim yoktu.`
+`...Hiçbir zaman göze çarpmadım, özel olarak başarılı olduğum bir şey yoktu,`
+` ve kendime neredeyse neden Ushiromiya ailesinde doğduğumu sormak istiyordum.`
+`Neden doğduğumu bilmiyordum.`
+`{n}...O gün ilk kez zihnimin karardığı bir deneyim yaşadım......`
+`Doğduğumdan beri ilk kez,`
+` ...sorunlarımla yüzleşmek ya da onlara boyun eğmenin yanı sıra,`
+` kaçmak gibi üçüncü bir seçeneğim olduğunu fark ettim.`
+`Her ne kadar kaçmak desem de Rokkenjima'yı terk edip başka bir yere gitmem mümkün değildi.`
+`Ama yine de malikâneden ve o anki hâlimden kaçmak istiyordum.`
+`......Bir bakıma evden kaçmak gibiydi, ya da belki yarı yarıya bir intihar...`
+`"......Ortadan kaybolmak istedim.`
+` Ya da belki de ortadan kaybolarak ailemi endişelendirmeye çalıştığım çocuksu bir direniş biçimiydi..."`
+`".........Çocukça bir düşünceyle eğer ormanın derinliklerine gidersem Ushiromiya evinden kurtulabileceğimi,`
+` ya da kaybolup onları endişelendirerek onlardan intikam alabileceğimi düşündüm."`
+`"Sonra da, ......sana girmemen söylenen ormana mı gittin?"`
+`"......Evet.`
+` Sahile ulaştıktan sonra deniz kıyısını takip ettim.`
+` ......Özel bir nedenim yoktu,`
+` ......ama adanın diğer tarafına geçersem, orada kimsenin bilmediği bir yer olabileceğini,`
+` ve sadece benim için gizli bir ev hâline gelebileceğini hissettim."`
+`"Sahilden başlayarak tüm çevreyi dolaşmak imkânsız olurdu.`
+` Bir yerden sonra kayalıklar başlıyor, değil mi?`
+` Oralardan geçmenin imkânı yok."`
+`"...Tabii ki.`
+` Bu yüzden gidebildiğim her yere gitmeye ve daha da derinlere gitmeye devam ettim.`
+` ......Hiçbir patikası bulunmayan korkunç bir ormandı ama o zamanlar bu benim için rahatlatıcıydı.`
+` ...Böylesine tehlikeli bir ormandan geçmeyi başarabilirsem, Ushiromiya ailesinden çok daha iyi bir şekilde kaçmış olacaktım,`
+` ...bu da kendimi iyi hissetmemi sağladı."`
+`".........Ne kadar utanç verici.`
+` Eğer notların yüzünden azarlandıysan, tek yapman gereken daha çok çalışmaktı."`
+`"Böyle konuşmamalısın.`
+` Bunun yerine Rosa'nın bir tasarımcı olarak yeteneği yok mu?"`
+`Bu tam anlamıyla Rosa'yı kolladığı şeklinde algılanabilir,`
+` ama herkes Rosa'nın şirketinin kâr etmediğini biliyordu.`
+`"Kesin şunu.`
+` Kinaye yapmanın sırası değil.`
+` ......Ve sonra da tesadüfen oraya mı vardın...?`
+` ...{f:5:Beatrice}'in...`
+`gizli köşküne."`
+`Rosa hafifçe başını salladı......`
+`"Yaklaşık ne kadar yürüdün?`
+` Bize bir harita üzerinde gösterebilir misin...?`
+` Natsuhi-san, bu adanın bir haritası var mı?"`
+`"Hayır, şu anda burada yok."`
+`"Bu imkânsız olurdu.`
+` Sadece rastgele yürüyordum.`
+` Bana bir harita gösterseniz bile bilemem.`
+` ......Ve o zamandan beri yirmi yıl geçti.`
+` Ormana girsem bile muhtemelen bir daha oraya ulaşamam..."`
 `".........Hmmmmmm..."`
-`Several people let out dejected sighs.`
-`It was vividly clear that in their haste,`
-` they had thought that some hint related to the witch's epitaph, or maybe even the gold itself, might be resting there in that hidden mansion.`
-`"The only part of Rokkenjima that got made ready for development is the area around the mansion.`
-` ...The rest is completely uncultivated, and it would probably take considerable effort to survey the entire island."`
-`"But just knowing that it actually exists is helpful.`
-` It would take some money, but if we enlisted an aerial photography company to investigate,`
-` or asked the contractors who constructed this mansion about what happened at the time,`
-` we could probably find some way to search for it."`
-`"Yes.`
-` ...There should be more ways to do it now that there isn't a question about whether it exists or not."`
+`Birkaç kişi çaresiz bir şekilde iç çekti.`
+`Acele ettikleri için,`
+` cadının kitabesiyle ilgili bir ipucunun, hatta belki de altının kendisinin o gizli köşkte saklı olabileceğini düşündükleri çok açıktı.`
+`"Rokkenjima'nın imara hazır hâle getirilen tek bölümü malikânenin etrafındaki alandır.`
+` ...Geri kalan kısım ise tamamen doğal ve adanın tamamını araştırmak muhtemelen büyük bir çaba gerektirecektir."`
+`"Ama aslında gerçekten var olduğunu bilmek bile faydalı.`
+` Bunun için biraz para gerekebilir, ancak bir hava fotoğrafçılığı şirketinden araştırma yapmasını istersek,`
+` ya da bu köşkü inşa eden müteahhitlere o dönemde neler olduğunu sorarsak,`
+` muhtemelen onu bulmanın bir yolunu keşfedebiliriz."`
+`"Evet.`
+` ...Artık var olup olmadığına dair bir şüphe olmadığına göre bunu başarmanın başka yolları da olmalı."`
 `"......Mmhm.`
-` It is probably worth investigating right away."`
-`"We will do that investigation together as siblings.`
-` We won't let you do it alone, Nii‐san."`
-`It wasn't certain that the gold was hidden in that secret mansion,`
-` but it seemed that the fireworks between Krauss and Eva had already begun.`
-`"Give it a rest for now, you two.`
-` ...Rosa, please continue."`
-`"..................Yes."`
-`Blindly, randomly, I kept running, on and on.`
-`Suddenly, it felt like I had come across something like an animal trail.`
-`I had no idea how far I'd walked, and I was very tired,`
-` so by then, I was just naturally taking the easiest path to walk on.`
-`As I did, .........suddenly, right before my eyes, a very, very tall fence appeared.`
-`It was a fence wonderfully adorned in a gothic style.`
-`For an instant, I spun around, thinking that I might have returned to the original mansion.`
-`Of course, there were fences around the mansion to stop us from entering the forest.`
-` But this fence was decorated differently, ......and most of all, it was very tall.`
-`It probably reached a full two stories up.`
-`It was covered with ivy, and created a mysterious, solemn atmosphere...`
-`At the time, ......I believed the legend of the witch of the forest, {f:5:Beatrice}.`
-`I had been told that she was frightening,`
-` but some of the servants told me that she would sometimes help you if you respected her.`
-`......Since I had started to lose confidence in how my life was going,`
-` I believed that the only way I could be saved was by receiving her help.`
-`So that's what made me think it.`
-` ......I believed that this was the fence of the mansion of {f:5:Beatrice}, the witch of the forest.`
-`I thought that if I could meet with {f:5:Beatrice}, she would definitely save me.`
-`So I thought I would try to go in.`
-`But that fence was very, very tall, and it didn't look like I could go over it.`
-`So I decided to walk around it.`
-`{n}I thought that if I did, I would eventually reach a gate.`
-`But it wasn't that easy.`
-` The fence had a length to match its height, and no matter how far I went, I didn't reach a corner.`
-`It might have been enclosing a very massive area,`
-` ...or maybe it just felt that way because my child's legs made it difficult to walk in the forest.`
-`Anyway, because I couldn't find a gate for a while,`
-` I started to feel sad, as though the witch had rejected me...`
-`As I did, I eventually came upon a large tree, whose twisted root had bent the fence.`
-`I might get my clothes dirty, but if I crawled, it looked like I would be able to sneak in...`
-`".........And that was the hidden mansion?"`
-`"I don't know whether it was the hidden mansion we've been talking about...`
-` Still, at the very least, it wasn't a place that we know of."`
-`It wasn't as though I came out into a garden as soon as I passed the fence.`
-`{n}I had to continue through a lot more uncultivated forest after that.`
-`And then......the forest suddenly opened up.`
-` And what appeared there was an unbelievably...`
-`.........fantastical scene.`
-`To think that Rokkenjima, where I had believed no one other than us lived,`
-` ...had been hiding such a wonderful mansion...`
-`A beautiful flower garden spanned the front of the mansion.`
-`{n}It was a flower garden of a completely different design from the rose garden we know so well, and was very lovely.`
-`Of course, the mansion was also wonderful.`
-`...It was one or two sizes smaller than ours,`
-` but it was a very elegant, and yet lovely mansion.`
-`Then, ...............I saw her.`
-`{n}I saw her sitting in a garden chair, positioned to give a view of the flower garden, wearing an elegant dress.`
-`It was that black dress embroidered in gold that we would later know from that portrait.`
-`......I hadn't seen an elegant dress like that except in fairy tales and on the stage of musicals.`
-`...That a person would be wearing it as their normal clothes... That in itself seemed quite fantastical.`
-`That magical scene was enough to make me lose my sense of reality.`
-`If someone had told me then that it was a dream,`
-` I might have nodded obediently, and waited to wake up in my bed...`
-`Since, in my shock, I had forgotten to hide myself, she eventually noticed me.`
-`At first, her expression was quite listless,`
-` but when she noticed me, her eyes opened very wide.`
-`...It was only natural—a guest that she didn't know had suddenly appeared.`
-`I automatically bowed my head, feeling that I should greet her and apologize for entering without permission...`
-`"............Who are you?`
-` A new gardener?"`
-`Those were the first words she said to me.`
-`{n}...That calmed me down a little bit.`
-`{n}Because I realized that she could be talked with.`
-`Because I hadn't been turned into a frog just by meeting her eyes, like the terrifying witch in that fairy tale.`
-`"......I,`
-` ......I'm sorry.`
-` ...I shouldn't have entered the garden without permission..."`
+` Muhtemelen bir an önce araştırılmaya değer."`
+`"Bu araştırmayı kardeşler olarak birlikte yapacağız.`
+` Nii-san, bunu tek başına yapmana izin vermeyeceğiz."`
+`Altının o gizli köşkte saklı olduğu kesin değildi,`
+` ama Krauss ve Eva arasındaki ateşli çatışmalar çoktan başlamış gibi görünüyordu.`
+`"Siz ikiniz, şimdilik şunu bırakın.`
+` ...Rosa, lütfen devam et."`
+`"..................Evet."`
+`Körü körüne, rastgele, koşmaya devam ettim ve ettim.`
+`Birdenbire sanki bir hayvanın izine rastlamışım gibi hissettim.`
+`Ne kadar yürüdüğüm hakkında hiçbir fikrim yoktu ve çok yorgundum,`
+` bu yüzden o sırada doğal olarak yürümek için en kolay yolu seçiyordum.`
+`Yürüdüğüm sırada birden, .........gözlerimin önünde çok ama çok uzun bir çit belirdi.`
+`Bu, gotik tarzda harika bir şekilde süslenmiş bir çitti.`
+`Bir an için, orijinal malikâneye dönmüş olabileceğimi düşünerek kendi etrafımda döndüm.`
+`Elbette ormana girmemizi engellemek için malikânenin etrafında çitler vardı.`
+` Ancak bu çit farklı bir şekilde dekore edilmişti, ......ve en önemlisi de çok yüksekti.`
+`Muhtemelen tam iki kat yüksekliğindeydi.`
+`Sarmaşıklarla kaplıydı ve gizemli, ciddi bir atmosfer yaratıyordu...`
+`O zamanlar, ......ormanın cadısı {f:5:Beatrice} efsanesine inanıyordum.`
+`Bana onun korkutucu olduğu söylenmişti,`
+` ama bazı hizmetkârlar, ona saygı duyarsanız zaman zaman size yardımcı olabileceğini söylerlerdi.`
+`......Hayatımın gidişatı konusunda güvenimi kaybetmeye başladığım için,`
+` kurtuluşumun tek yolunun onun yardımını almak olduğuna inandım.`
+`Bu yüzden böyle düşündüm.`
+` ......Bunun ormanın cadısı {f:5:Beatrice}'in köşkünün çitleri olduğuna inandım.`
+`Eğer {f:5:Beatrice} ile karşılaşırsam, beni kesinlikle kurtaracağını düşündüm.`
+`Bu yüzden içeri girmeyi deneyebileceğimi düşündüm.`
+`Ama çit çok ama çok yüksekti ve üstünden geçebileceğimi sanmıyordum.`
+`Ben de etrafından dolaşmaya karar verdim.`
+`{n}Böyle yaparsam sonunda bir kapıya ulaşacağımı düşündüm.`
+`Ama o kadar kolay değildi.`
+` Çitin uzunluğu yüksekliğine uyuyordu ve ne kadar ilerlersem ilerleyeyim bir köşeye ulaşamıyordum.`
+`Çok büyük bir alanı çevreliyor olabilirdi,`
+` ...ya da belki de çocuk bacaklarım ormanda yürümemi zorlaştırdığı için öyle hissettiriyordu.`
+`Her neyse, bir süre boyunca bir kapı bulamadığım için,`
+` sanki cadı beni reddetmiş gibi hissetmeye ve üzülmeye başladım...`
+`Bu şekilde ilerlerken, nihayetinde kökü çitleri yamultmuş büyük bir ağaca rastladım.`
+`Elbiselerim kirlenebilirdi ama sürünerek gizlice içeri girebilirim gibi görünüyordu...`
+`".........Ve gizli köşk orada mıydı?"`
+`"Bahsettiğimiz gizli köşk müydü, değil miydi emin değilim...`
+` Yine de, en azından, bizim bildiğimiz bir yer değildi."`
+`Çitleri aşar aşmaz bir bahçeye çıkmadım.`
+`{n}Sonrasında daha da sık bir ormandan geçerek devam etmek zorunda kaldım.`
+`Ve sonra......orman aniden bitiverdi.`
+` Ve orada beliren şey inanılmaz derecede...`
+`.........fantastik bir manzaraydı.`
+`Bizden başka kimsenin yaşamadığına inandığım Rokkenjima'nın,`
+` ...böylesine muhteşem bir köşkü sakladığını düşünmek...`
+`Güzel bir çiçek bahçesi köşkün ön tarafını kaplıyordu.`
+`{n}Bildiğimiz gül bahçesinden tamamen farklı bir tasarıma sahip bir çiçek bahçesiydi ve çok hoştu.`
+`Tabii ki, köşk de muhteşemdi.`
+`...Bizimkinden bir ya da iki kat daha küçüktü,`
+` ama çok zarif ve bir o kadar da sevimli bir köşktü.`
+`Ardından, ...............onu gördüm.`
+`{n}Onu, çiçek bahçesini görebilecek şekilde konumlandırılmış bir bahçe sandalyesinde oturmuş, şık bir elbise giyerken gördüm.`
+`Bu, daha sonra o portreden hatırlayacağımız altın işlemeli siyah elbiseydi.`
+`......Peri masalları ve müzikal sahneleri dışında böyle zarif bir elbise görmemiştim.`
+`...Bir insanın bunu normal kıyafeti olarak giyiyor olması... Bu başlı başına oldukça fantastik görünüyordu.`
+`O büyülü manzara gerçeklik duygumu kaybetmeme yetmişti.`
+`Eğer biri bana bunun bir rüya olduğunu söyleseydi,`
+` itaatkâr bir şekilde başımı sallayabilir ve yatağımda uyanmayı bekleyebilirdim...`
+`Yaşadığım şok nedeniyle kendimi saklamayı unuttuğum için sonunda beni fark etti.`
+`İlk başta ifadesi oldukça durgundu,`
+` ama beni fark ettiğinde gözleri kocaman açıldı.`
+`...Bu çok doğaldı—tanımadığı bir misafir aniden çıkagelmişti.`
+`Otomatik olarak başımı eğdim, onu selamlamam ve içeri izinsiz girdiğim için özür dilemem gerektiğini hissettim...`
+`"............Sen de kimsin?`
+` Yeni bir bahçıvan mı?"`
+`Bana söylediği ilk sözler bunlardı.`
+`{n}...Bu beni biraz sakinleştirdi.`
+`{n}Çünkü onunla konuşulabileceğini anladım.`
+`Çünkü o peri masalındaki korkunç cadı gibi, sadece onunla göz göze gelmekle bir kurbağaya dönüşmemiştim.`
+`"......Ben,`
+` ......ben üzgünüm.`
+` ...Bahçeye izin almadan girmemeliydim..."`
 `"........................`
-` ......Who are you?`
-` Name yourself."`
-`"I, ...I am Ushiromiya Rosa."`
+` ......Sen de kimsin?`
+` Adını söyle."`
+`"Ben, ...ben Ushiromiya Rosa."`
 `"......Ushiromiya.`
 ` .....................Hoh.`
-` ...So you are one of Kinzo's family."`
-`"Huh?`
-` Ah, ...yes!`
-` I'm Kinzo's daughter.`
-` G‐good afternoon...!"`
-`I was just a little surprised.`
-`{n}...After all, Father was a great man feared by everyone.`
-`And she had referred to him without using honorifics.`
-`{n}So she quickly became frightening.`
-`...After all,`
-` if she could refer to my fearsome father that way, she must be a witch with incredible power.`
-`After staring at me curiously, she beckoned me to come over to her.`
-`And I obeyed, although filled with belated trepidation.`
-`{n}......After all, I thought I really might be turned into a frog.`
-`...And the closer and closer I got, the stronger that fear became.`
-`After all, ...I said it several times already, but,`
-` ............that woman and her dress and the flower garden and the mansion,`
-` ......that entire harmony was so fantastical and beautiful that it seemed separate from reality.`
-`It surely wouldn't have surprised me even if she was actually a witch...`
-`And I was truly lucky.`
-`{n}She didn't turn me into a frog.`
-`As I awkwardly stood there stock still, she motioned to an open chair, and urged me to sit down.`
-`"Sit.`
-` Welcoming and speaking to those who visit this garden for the first time is my only pleasure.`
-` .........That said, I have nothing else to find pleasure in."`
-`As she said that, she showed an unhappy smile for just an instant.`
-`Because I was full of a strange mix of tension and excitement, I rudely asked her a question suddenly.`
-`"...Umm,`
-` ............are you the witch of the forest,`
-` ...{f:5:Beatrice}......?"`
-`"Indeed.`
-` I am {f:5:Beatrice}."`
-`"As I thought.`
-` {f:5:Beatrice} actually existed..."`
-`"...Did she look just like the portrait?"`
-`"......Yes.`
-` Exactly like the portrait."`
-`"So she wasn't just...`
-`...a witch from Father's imagination..."`
-`"And then, what did you talk with her about?"`
-`"...As she prepared some tea, she asked me various things about myself.`
-` ......First, she was surprised that I had come through the forest.`
-` It seems she believed that many dangerous wolves lived outside the fence."`
-`"...So when I told her I had reached this place by going through the forest, she was very surprised.`
-` She asked how I had managed to escape from the wolves—did I give them biscuits and they let me go?`
-` Or did I cover myself in a magic cloak, or...`
-` Those kinds of things, I think."`
+` ...Demek Kinzo'nun ailesinden birisin."`
+`"Heh?`
+` Ah, ...evet!`
+` Ben Kinzo'nun kızıyım.`
+` İ-İyi öğlenler...!"`
+`Sadece biraz şaşırmıştım.`
+`{n}...Ne de olsa Babam herkes tarafından korkulan büyük bir adamdı.`
+`Ve o, ona saygı ifadeleri kullanmadan hitap etmişti.`
+`{n}Bu yüzden hızla korkutucu olmaya başladı.`
+`...Sonuçta,`
+` korkutucu Babamdan bu şekilde bahsedebildiğine göre, inanılmaz güce sahip bir cadı olmalıydı.`
+`Bana merakla baktıktan sonra yanına gelmem için işaret etti.`
+`Korkmuş olsam da itaat ettim.`
+`{n}......Sonuçta, gerçekten bir kurbağaya dönüştürülebileceğimi düşünmüştüm.`
+`...Ve ben yaklaştıkça bu korku daha da şiddetlendi.`
+`Sonuçta, ...daha önce birkaç kez söyledim ama,`
+` ............bu kadın ve elbisesi, çiçek bahçesi ve köşk,`
+` ......tüm bu uyum o kadar fantastik ve güzellik doluydu ki gerçeklikten kopmuş gibi görünüyordu.`
+`Gerçekten bir cadı olsaydı bile bu beni kesinlikle şaşırtmazdı...`
+`Ve ben gerçekten şanslıydım.`
+`{n}Beni bir kurbağaya dönüştürmedi.`
+`Ben orada tuhaf bir şekilde kıpırdamadan dururken, eliyle boş bir sandalyeyi işaret etti ve oturmamı istedi.`
+`"Otur.`
+` Bu bahçeyi ilk kez ziyaret edenleri ağırlamak ve onlarla konuşmak benim tek zevkim.`
+` .........Bununla birlikte, zevk alabileceğim başka bir şey de yok."`
+`Bunu söylerken, bir an için mutsuz bir gülümseme takındı.`
+`Garip bir gerginlik ve heyecan karışımıyla dolu olduğum için, ona aniden kabaca bir soru sordum.`
+`"...Şey,`
+` ............sen ormanın cadısı,`
+` ...{f:5:Beatrice} misin......?"`
+`"Kesinlikle.`
+` Ben {f:5:Beatrice}'im."`
+`"Düşündüğüm gibi.`
+` {f:5:Beatrice} gerçekten varmış..."`
+`"...Tıpkı portredeki gibi mi görünüyordu?"`
+`"......Evet.`
+` Tam olarak portredeki gibi."`
+`"Yani o sadece...`
+`...Babamın hayalindeki bir cadı değildi..."`
+`"Peki onunla ne hakkında konuştunuz?"`
+`"...Çay ikram ederken bana kendimle ilgili çeşitli sorular sordu.`
+` ......İlk olarak, ormandan geçip gelmeme şaşırdı.`
+` Görünüşe göre çitlerin dışında birçok tehlikeli kurdun yaşadığına inanıyordu."`
+`"...Bu nedenle ona ormanın içinden geçerek buraya ulaştığımı söylediğimde çok şaşırdı.`
+` Kurtlardan kaçmayı nasıl başardığımı sordu—onlara bisküvi verdim de gitmeme izin mi verdiler?`
+` Yoksa kendimi büyülü bir pelerinle mi gizledim, ya da...`
+` Sanırım bu tür şeyler."`
 `"Wahahaha.`
-` ...That sure sounds like a witch.`
-` What an interestin' person."`
-`"Quiet, honey.`
-` ............It was a long time ago,`
-` but didn't Father threaten us, saying that wolves lived in the forest, so we shouldn't get close to there?"`
-`"Yes, there was a time like that.`
-` Ridiculous.`
-` Even though Japanese wolves went extinct long ago.`
-` What a childish trick."`
-`"I don't remember, though...?`
-` Did Dad really tell us something like that...?`
-` It was the witch of the forest, right?`
-` I don't think I've ever heard about wolves."`
-`"You were still in elementary school.`
-` Don't you remember?"`
-`"You actually went and replied that you'd want to try petting the wolves.`
-` So Father immediately gave up the wolf story and changed it to the story about the witch.`
-` Such obvious lies, ahahahahaha."`
+` ...Bu kesinlikle bir cadıya benziyor.`
+` Ne ilginç bir insan."`
+`"Hayatım, sessiz ol.`
+` ............Bu uzun zaman önceydi,`
+` ama Babam bizi ormanda kurtların yaşadığını, bu yüzden oraya yaklaşmamamız gerektiğini söyleyerek korkutmamış mıydı?"`
+`"Evet, öyle bir zaman vardı.`
+` Çok saçma.`
+` Japon kurtlarının soyu uzun zaman önce tükenmiş olsa bile.`
+` Ne çocukça bir numara."`
+`"Ben hatırlamıyorum...?`
+` Babam bize gerçekten böyle bir şey söyledi mi...?`
+` Ormanın cadısı değil miydi?`
+` Kurtlar hakkında bir şey duyduğumu hiç hatırlamıyorum."`
+`"Sen hâlâ ilkokuldaydın.`
+` Hatırlamıyor musun?"`
+`"Hatta gidip kurtları sevmek istediğini bile söyledin.`
+` Babam da bu yüzden hemen kurt hikâyesinden vazgeçti ve onu cadı hikâyesiyle değiştirdi.`
+` Ne bariz yalanlar ama, ahahahahaha."`
 `"Hahahaha.`
-` At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves.`
-` I remember it well.`
-` Don't you remember those nights when you clung to my back?"`
+` Rudolf, o zamanlar cadı hikâyesi senin üzerinde kurtlardan çok daha büyük bir etki yaratmıştı.`
+` Çok iyi hatırlıyorum.`
+` Sırtıma yapıştığın o geceleri hatırlamıyor musun?"`
 `"...*giggle*.`
-` I see, even Rudolf‐san used to have that cute period."`
-`"Oh, put a lid on it.`
-` I was just a kid."`
-`"......Well, anyway.`
-` If Father was the one who shut {f:5:Beatrice} up in there, it makes sense that he would use the same wolf story.`
-` To him, the vast forest of Rokkenjima was a wall that shouldn't be crossed,`
-` dividing his two incompatible worlds: the Ushiromiya family and his mistress's mansion."`
-`"If you think about the height of that fence, it does seem that Father had turned the whole area, garden and all, into a giant jail cell.`
-` ......Just like a national border dividing his two separate worlds."`
-`"...Forget the wolves, were there any kinds of stray dogs there at the time?`
-` It could have been a fence to protect against those."`
-`"There are no wolves or stray dogs on Rokkenjima.`
-` Just as Nii‐san and Kyrie‐san are saying,`
-` that fence was probably a border between us and {f:5:Beatrice}."`
-`"However, if she innocently believed the story about the wolves, that's pretty...naive.`
-` That's nothin' like the way I'd imagine a witch."`
-`"......That's right.`
-` I also sensed that.`
-` ...She was very pompous, just like my image of a witch,`
-` ...but she was somehow very childish, and...`
-`...how should I say it, too honest?`
-` ......She gave me the impression that she didn't know anything about the world."`
-`"If I had to describe it, ...it was almost as though she had come from a fairy‐tale land.`
-` ......She was a truly mysterious person."`
-`"......What happened after that?`
-` ...Did you end up talking about Dad at all?"`
-`"Yes.`
-` Once every few days, sometimes on an arranged day and sometimes suddenly,`
-` Father would appear casually, and they would drink tea together, or take a walk together or something, she said.`
-` And that, by coincidence, she was by herself on the day I visited."`
-`"I see.`
-` Truly a mistress, then.`
-` ...My, my.`
-` I don't know how much younger she was, but... not bad, Father."`
-`"......I remain firmly convinced that it was not an indecent relationship."`
-`"Gosh, you are an idiot. There's no way a lover's meeting between a man and a woman wouldn't have {i:some} sensuality.`
-` What happened next?`
-` What did you talk about after that?"`
-`".........Because I had introduced myself, I then asked her about herself."`
-`"...When I did, the atmosphere quickly grew depressing.`
-` ......How should I say it, she seemed very listless and lonely.`
-` ...It was the same expression as the one I had first seen on her face."`
-`"Well, that's because she was his hidden mistress.`
-` If she just walked around wherever she liked, she might have been discovered by Mother.`
-` ......I'm sure the situation was almost like house arrest."`
-`"Even though she had beautiful clothes, a beautiful mansion, and a garden, she must have felt very constrained.`
-` No surprise she felt it hard.`
-` .........And then?"`
-`"There was definitely something on her mind.`
-` ......I remember getting the impression that it wasn't something that I could resolve just by talking to her,`
-` and feeling very sad about it as well."`
-`".........She seemed to have forgotten that I was even there.`
-` ...She was gazing vaguely off into the distance, and was silent for a long, long time."`
-`"...I thought that I must have said something wrong,`
-` ......but it didn't seem to be the type of atmosphere where I could offer words of apology...`
-` ......So, I too remained silent for a long, long time, until she remembered that I was there..."`
-`When she did, ......she muttered unexpectedly.`
-`".........Are there really no wolves beyond the fence?"`
+` Rudolf-san'ın bile böyle sevimli bir dönemi varmış demek."`
+`"Kapa çeneni.`
+` Sadece bir çocuktum."`
+`"......Her neyse.`
+` Eğer {f:5:Beatrice}'i oraya kapatan kişi Babamsa, aynı kurt hikayesini kullanması da gayet mantıklı.`
+` Ona göre, Rokkenjima'nın uçsuz bucaksız ormanı aşılmaması gereken bir duvardı,`
+` ve Ushiromiya ailesi ile metresinin köşkü gibi iki zıt dünyayı birbirinden ayırıyordu."`
+`"Çitin yüksekliğini düşünecek olursanız, Babamın bahçesiyle birlikte tüm araziyi dev bir hapishaneye çevirdiğini görürsünüz.`
+` ......Tıpkı iki ayrı dünyasını birbirinden ayıran bir ülke sınırı gibi."`
+`"...Kurtları bir kenara bırakın, o sırada bölgede başıboş köpekler var mıydı?`
+` Onlardan korunmak için bir çit olabilir."`
+`"Rokkenjima'da kurt ya da başıboş köpek yok.`
+` Tıpkı Nii-san ve Kyrie-san'ın söylediği gibi,`
+` o çitler muhtemelen bizimle {f:5:Beatrice} arasında bir sınırdı."`
+`"Ancak, kurtlarla ilgili hikayeye masumca inanmışsa, bu oldukça...safça.`
+` Bu benim hayal gücümdeki cadıya hiç benzemiyor."`
+`"......Evet.`
+` Bunu ben de hissettim.`
+` ...Tıpkı benim kafamdaki cadı imajı gibi çok görkemliydi,`
+` ...ama bir şekilde çok çocuksuydu ve...`
+`...nasıl desem, fazla mı dürüsttü?`
+` ......Bana dünya hakkında hiçbir şey bilmediği izlenimini vermişti."`
+`"Bunu tarif etmem gerekirse, ...sanki bir masal diyarından gelmiş gibiydi.`
+` ......Gerçekten gizemli bir insandı."`
+`"......Ondan sonra ne oldu?`
+` ...Babam hakkında hiç konuştunuz mu?"`
+`"Evet.`
+` Birkaç günde bir, bazen önceden kararlaştırılmış bir günde, bazen de aniden,`
+` Babamın gelişigüzel ortaya çıktığını ve birlikte çay içtiklerini ya da yürüyüşe çıktıklarını söyledi.`
+` Ve tesadüfe bakın ki, ziyaret ettiğim gün yalnız başınaydı."`
+`"Anlıyorum.`
+` Gerçekten bir metres o zaman.`
+` ...Amanın.`
+` Onun ne kadar genç olduğunu bilmiyorum ama.... hiç fena değil Baba."`
+`"......Bunun uygunsuz bir ilişki olmadığına olan inancım tam."`
+`"Tanrım, sen bir aptalsın. Bir kadınla bir erkeğin buluşmasının {i:biraz} şehvet içermemesine imkân yok.`
+` Sonra ne oldu?`
+` Ondan sonra ne konuştunuz?"`
+`".........Kendimi tanıttıktan sonra ona kendini sordum."`
+`"...Sorduğumda ise, ortam hızla iç karartıcı bir hâl aldı.`
+` ......Nasıl desem, çok durgun ve yalnız görünüyordu.`
+` ...Yüzünde onu ilk kez gördüğüm ifadenin aynısı vardı."`
+`"Yani, çünkü onun gizli metresiydi.`
+` Eğer istediği gibi etrafta dolaşsaydı, Annem onu yakalayabilirdi.`
+` ......Eminim durum neredeyse ev hapsi gibidir."`
+`"Güzel kıyafetleri, güzel bir köşkü ve bahçesi olmasına rağmen kendini çok kısıtlanmış hissetmiş olmalı.`
+` Zorlanmasına şaşırmamak gerek.`
+` .........Ya sonra?"`
+`"Kesinlikle bir şey için endişeleniyordu.`
+` ......Bunun sadece onunla konuşarak çözebileceğim bir şey olmadığı izlenimine kapıldığımı,`
+` ve bu konuda çok üzgün hissettiğimi hatırlıyorum."`
+`".........Benim orada olduğumu bile unutmuş gibiydi.`
+` ...Bakışlarını uzaklara çevirdi ve uzun, çok uzun bir süre sessiz kaldı."`
+`"...Yanlış bir şey söylemiş olmalıyım diye düşündüm,`
+` ......ama özür dileyebileceğim bir atmosfer yok gibiydi...`
+` ......Bu nedenle ben de uzun, çok uzun bir süre sessiz kaldım, ta ki o benim orada olduğumu tekrar hatırlayana kadar..."`
+`Hatırladığında, ......birdenbire mırıldandı.`
+`".........Çitlerin ötesinde gerçekten hiç kurt yok mu?"`
 `"...Hmm?`
-` Y‐yes.`
-` I've never seen wolves even in a zoo."`
-`"What is this "zoo"?"`
-`"Ah, ...it's a place where they keep all kinds of animals.`
-` They're full of rare animals like elephants and giraffes and pandas."`
+` E-Evet.`
+` Kurtları hayvanat bahçesinde bile görmedim."`
+`"Bu "hayvanat bahçesi" de ne?"`
+`"Ah, ...her türden hayvanı barındırdıkları bir yer.`
+` Filler, zürafalar ve pandalar gibi nadir hayvanlarla dolu."`
 `"..............................`
-` ...Are there no wolves in a zoo?`
-` Then, umm, ...that might not be scary."`
-`"Even if there were wolves, all of the animals are put in cages, so it's safe.`
-` So you can feel safe as you look at and learn about them."`
-`The witch of the forest, of all people, was for some reason scared of and didn't like wolves.`
-`I remember it looked pretty comical.`
+` ...Hayvanat bahçesinde hiç kurt yok mu?`
+` O zaman, şey, ...o kadar da korkutucu olmayabilir."`
+`"Kurtlar olsaydı bile, tüm hayvanlar kafeslere konuluyor, bu nedenle güvenli.`
+` Bu sayede onlara güvenle bakabilir ve onlar hakkında bilgi edinebilirsin."`
+`Ormanın cadısı, nedense kurtlardan korkuyor ve onları sevmiyordu.`
+`Oldukça komik göründüğünü hatırlıyorum.`
 `"..................`
-` ...How does that differ from myself?"`
-`"............Huh?"`
-`She didn't even know about zoos.`
-`I explained how fun zoos could be,`
-` but it was very difficult to get a person like her, who had never been to one, to understand...`
-`Quite the opposite, as I explained it to her, her expression grew increasingly dismal.`
-`...She couldn't see the difference.`
-`It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,`
-` she couldn't see how she was different from the animals shut up in cages...`
-`"Who am I?`
-` ......Everyone calls me {f:5:Beatrice}.`
-` ...And that does certainly seem to be the name of a great witch, as you say."`
-`"......But that is not me.`
-` I cannot use any magic.`
-` ......I simply have the soul of that witch sealed inside my body."`
+` ...Bunun benden ne farkı var?"`
+`"............Heh?"`
+`Hayvanat bahçelerinden bile haberi yoktu.`
+`Hayvanat bahçelerinin ne kadar eğlenceli olabileceğini anlattım,`
+` ama onun gibi hiç hayvanat bahçesine gitmemiş birine bunu anlatmak çok zordu...`
+`Aksine, ben ona anlattıkça yüz ifadesi giderek daha da iç karartıcı bir hâl aldı.`
+`...Aradaki farkı göremiyordu.`
+`Etrafı yüksek çitlerle çevrili bu köşk, bir bakışta ona tamamen konforlu bir yaşam sunuyormuş gibi görünse de,`
+` kafeslere kapatılmış hayvanlardan ne farkı olduğunu anlayamıyordu...`
+`"Ben kimim?`
+` ......Herkes bana {f:5:Beatrice} diyor.`
+` ...Ve gerçekten de dediğin gibi bu büyük bir cadının adı gibi görünüyor."`
+`"......Ama o ben değilim.`
+` Ben büyü kullanamam.`
+` ......Ben sadece o cadının ruhunu bedenimde taşıyorum."`
 `"..................?"`
-`There was definitely something mysterious about her.`
-` It wasn't just that she was somehow at odds with the world,`
-` but it seemed that she truly believed that a thing called magic actually exists.`
-`I think she talked about various weird things, but I don't remember the details.`
-`All I thought was:`
-` ......this might be a pitiful person.`
-`She was unable to leave this mansion of her own will, a prisoner without even realizing it.`
-`......And she didn't know anything about the outside world, didn't even understand who she was.`
-`......She probably vaguely understood herself that she was pitiful.`
-`But since she didn't know anything, it seemed that she couldn't realize that this was unhappiness.`
-`Nee‐san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.`
-`"A bird that only knows the inside of a cage doesn't long for the outside".`
-`But she wasn't a bird.`
-`{n}She was, ultimately, a human.`
-`Even if she had never been outside the cage, she understood that it wasn't the whole world.`
-`So,`
-` .........I invited her.`
-`"Do you want to try...`
-`...going outside the fence?"`
-`".........Th‐there really aren't any wolves?"`
-`"There aren't.`
-` You'll definitely be safe."`
+`Onda kesinlikle gizemli bir şeyler vardı.`
+` Bu yalnızca dünyayla bir şekilde uyumsuz olmasından ibaret değildi,`
+` aynı zamanda büyü denen şeyin gerçekten var olduğuna inanıyor gibiydi.`
+`Sanırım çeşitli tuhaf şeylerden bahsetmişti ama detayları hatırlamıyorum.`
+`Tek düşündüğüm...`
+` ......onun acınacak bir insan olduğuydu.`
+`Farkında bile olmadan tutsağı olduğu bu köşkten kendi iradesiyle ayrılamıyordu.`
+`......Ve dış dünya hakkında hiçbir şey bilmiyor, kim olduğunu bile anlamıyordu.`
+`......Muhtemelen acınacak hâlde olduğunu kendisi de az çok anlıyordu.`
+`Ama hiçbir şey bilmediği için bunun mutsuzluk demek olduğunu fark edememiş gibi görünüyordu.`
+`Nee-san, uzun zaman önce sana kafesteki bir kuş için üzüldüğümü söylediğimde bana şöyle dediğini hatırlıyorum.`
+`"Sadece kafesin içini bilen bir kuş, dışarıyı özleyemez".`
+`Ama o bir kuş değildi.`
+`{n}O, sonuçta bir insandı.`
+`Kafesin dışına hiç çıkmamış olsa bile, kafesin tüm dünya olmadığını anlıyordu.`
+`Bu yüzden,`
+` .........ben de ona teklif ettim.`
+`"Çitlerin dışına çıkmayı...`
+`...denemek ister misin?"`
+`".........G-Gerçekten hiç kurt yok mu?"`
+`"Yok.`
+` Kesinlikle güvende olacaksın."`
 `"..............................`
-` ......I want to leave.`
-` But the gate is always closed."`
-`"There's the place I came in through.`
-` There's a crack you can slip through."`
-`"......If we go through there, is there a world outside?"`
-`"Yes."`
-`"........................There really aren't any wolves?"`
+` ......Çıkmak istiyorum.`
+` Ama kapı hep kapalı."`
+`"İçeri girdiğim bir yer var.`
+` Arasından geçebileceğin bir delik var."`
+`"......Oradan geçersek, dış dünyaya mı çıkacağız?"`
+`"Evet."`
+`"........................Kurtlar gerçekten yok mu?"`
 `"*giggle*.`
-` No, none at all."`
+` Evet, hiç yok."`
 `".............................."`
-`I had only planned to invite her for a short walk,`
-` ...but she kept looking over her shoulder at the mansion, as though she were seriously deliberating over something.`
-`Then I learned what she was preparing herself for.`
-`"...............I...have had enough of this place.`
-` ......I want to go...outside.`
-` And I want to know...who I am, what's happening in this world,`
-` ...and the purpose for which I was born."`
-`I didn't know what her life had been like until then.`
-`It was probably something that she couldn't express easily.`
-`If it was harsh, she just had to say that she wanted to escape.`
-`{n}If it was sweet, she just had to say that she would stay.`
-`To liken it to something,`
-` perhaps it was similar to how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache...?`
-`Even though you know that you shouldn't keep things the way they are, you still need the courage to open the window and be tormented by the cold wind...`
-`She was starting to realize that she couldn't stay there forever.`
-`She was starting to realize that she had to go outside sometime.`
-`But, since she didn't know about the outside world,`
-` to take that first step outside must have required an unimaginable amount of courage...`
-`And she had taken that into consideration, and resolved herself.`
-`She had put that resolution to go outside into words, for what was surely the first time in her entire life.`
-`...I hesitated slightly.`
-`{n}It had been decided that she would live here by Father.`
-`{n}It was as if she were Father's beloved bird in a cage.`
-`If I just let her escape,`
-` ......wouldn't I be harshly scolded by Father...?`
-`"I want to see."`
+`Onu sadece kısa bir gezintiye çıkarmayı planlamıştım,`
+` ...ama o sanki bir şeyi ciddi ciddi düşünüyormuş gibi omzunun üzerinden köşke bakmaya devam etti.`
+`Sonra kendini neye hazırladığını öğrendim.`
+`"...............Ben...bu yerden bıktım.`
+` ......Dışarı...çıkmak istiyorum.`
+` Ve kim olduğumu...bu dünyada neler olduğunu,`
+` ...ve hangi amaçla doğduğumu bilmek istiyorum."`
+`O zamana kadar yaşantısının nasıl olduğunu bilmiyordum.`
+`Muhtemelen kolayca ifade edemediği bir şeydi.`
+`Eğer acı verici olsaydı, sadece kaçmak istediğini söylerdi.`
+`{n}Eğer hoş olsaydı, sadece kalacağını söylemesi gerekirdi.`
+`Bir şeye benzetecek olursak,`
+` belki de bir kış günü yanan şöminenin havayı gittikçe yoğunlaştırıp baş ağrısı yapmasına benziyordu...?`
+`Her ne kadar her şeyi bu şekilde sürdürmemen gerektiğini bilsen de, yine de pencereyi açıp soğuk rüzgârın pençesine düşebilmek için cesarete ihtiyacın var...`
+`Sonsuza kadar orada kalamayacağını anlamaya başlamıştı.`
+`Bir gün dışarı çıkması gerektiğini anlamaya başlamıştı.`
+`Ama dış dünya hakkında hiçbir şey bilmediği için,`
+` dışarıya ilk adımı atmak akıl almaz bir cesaret gerektirmiş olmalıydı...`
+`Ve o da bunu göz önünde bulundurmuş ve kararını vermişti.`
+`Hayatında ilk defa dışarı çıkma konusundaki kararlılığını kelimelere dökmüştü.`
+`...Bir an tereddüt ettim.`
+`{n}Onun burada yaşamasına Babam karar vermişti.`
+`{n}Sanki Babamın kafesindeki çok sevdiği bir kuş gibiydi.`
+`Eğer onun kaçmasına izin verseydim,`
+` ......Babamdan sert bir azar işitmez miydim...?`
+`"Görmek istiyorum."`
 `".........Hm?`
-` See what?"`
-`"I want to see...a zoo."`
+` Neyi?"`
+`"Bir hayvanat bahçesi...görmek istiyorum."`
 `".....................ah."`
-`I was just a little surprised when she finally showed me a very soft smile.`
-`That might have been...`
-`an inner peace, coming from her newfound readiness to venture out from her cage.`
-`A soft smile which I wouldn't have imagined could have come out of that dark face...`
-`"......When I speak with you, I keep hearing about things I don't know.`
-` ...I don't know about this thing called school, nor about zoos.`
-` I don't know about movie theaters.`
-` I don't know about amusement parks."`
-`".........And I think, from the bottom of my heart, that I want to know about them.`
-` ...Will you take me there?"`
-`"Huh? ......Y‐yes."`
-`...I was nervous about how I would do it and keep it a secret from Father,`
-` ...but her face looked so happy, so I went along with her and nodded.`
-`But it seemed that the meaning behind my vague expression was not communicated to her.`
-`It seemed that she believed that I would really take her to all of those places if we left.`
-`She was pure and genuine.`
-` ......She had probably never been tricked by anyone.`
-` No, ......maybe it should be said that she hadn't been taught how to doubt.`
-`Her face was somewhat radiant, and yet pathetic.`
-`{n}...I wanted to somehow grant her modest wish.`
-`"I...have had enough of {f:5:Beatrice}.`
-` I want to know who I am.`
-` I want to start out as a new human, not {f:5:Beatrice}."`
-`"So, I want you to take me from here.`
-` .........I don't need tea anymore.`
-` I don't need this dress.`
-` I won't meet with Kinzo again.`
-` ......Please, take me from here.`
+`Sonunda bana çok masum bir gülümseme gösterdiğinde biraz şaşırdım.`
+`Bu belki de...`
+`kafesinden dışarı çıkmaya yeni yeni hazır olmasından kaynaklanan bir içsel huzurdu.`
+`O kasvetli yüzünden gelebileceğini hayal dahi edemeyeceğim yumuşak bir gülümseme...`
+`"......Seninle konuştuğumda, bilmediğim şeyler duymaya devam ediyorum.`
+` ...Ne okul denen şeyi ne de hayvanat bahçelerini biliyorum.`
+` Sinema salonlarını bilmiyorum.`
+` Lunaparkları bilmiyorum."`
+`".........Ve sanırım, tüm kalbimle, bunları bilmek istiyorum.`
+` ...Beni onları görmeye götürür müsün?"`
+`"Ha? ......O-Olur."`
+`...Bunu nasıl yapacağım ve Babamdan nasıl saklayacağım konusunda tedirgindim,`
+` ...ama yüzü çok mutlu görünüyordu, bu nedenle başımı sallayarak ona uydum.`
+`Ancak görünen o ki, belirsiz ifadelerimin ardındaki gerçek duygular ona ulaşmamıştı.`
+`Eğer buradan ayrılırsak onu gerçekten o yerlere götüreceğime inanmış gibiydi.`
+`O, saf ve içten biriydi.`
+` ......Muhtemelen hiç kimse tarafından kandırılmamıştı.`
+` Hayır, ......belki de şüphe etmeyi hiç öğrenemediğini söylemek daha doğru olurdu.`
+`Yüzü biraz ışıltılı ama yine de acınasıydı.`
+`{n}...Onun bu mütevazı dileğini bir şekilde yerine getirmek istedim.`
+`"Ben...{f:5:Beatrice}'ten bıktım artık.`
+` Ben kim olduğumu bilmek istiyorum.`
+` {f:5:Beatrice} olarak değil, yeni bir insan olarak başlamak istiyorum."`
+`"Bu yüzden beni buradan götürmeni istiyorum.`
+` .........Artık çaya ihtiyacım yok.`
+` Bu elbiseye ihtiyacım yok.`
+` Kinzo ile bir daha görüşmeyeceğim.`
+` ......Lütfen, beni buradan götür.`
 ` Rosa."`
-`However, that responsibility was one that a child such as me couldn't possibly bear fully.`
-`But her serious gaze and her brilliant smile,`
-` ...almost as though an evil spirit had lifted from her,`
-` ......made me feel a little courage start to rise up inside myself.`
-`This was definitely something that would get me in a lot of trouble.`
-`{n}......But it was definitely the right thing to do.`
-`I don't know how it will turn out, but......`
-` ......I'll take her out.`
-`Of course, I won't be able to ask help from Father, and not Mother either.`
-`.........Should I talk to Onii‐sama or Onee‐sama?`
-`{n}No, what about that reliable Genji‐san, or...`
-`that's right, what about Kumasawa‐san, to whom I can always talk when I'm in trouble.`
-`I'm sure they'll be able to do something.`
-`Anyway, for now, I'll take her out of here.`
-`{n}Because this is no longer a place where she wishes to be.`
-`......And so, I took her to the crack in the fence and led her outside.`
-`She was all nervous, checking to make sure there were no wolves around,`
-` but after that fear disappeared,`
-` she seemed somehow to be having fun even just walking around this dense forest.`
-`Every time she found something, she would ask me about it.`
-`{n}And they were all really minor things.`
-`......What's that flower?`
-` What's that leaf?`
-` And that sound?`
-` And that smell?`
-`It was really like...the inside of that fence had been her entire world.`
-`So, to her, who had stepped {i:out} of the world, this was.........`
-`......You know, it's strange.`
-`In the beginning, when I first saw her, I thought that she was the absolute incarnation of a witch relaxing by a witch's mansion.`
-`But now it was different.`
-` Or actually, the complete opposite.`
-`......She had gone out of a world she had believed to be finite, and was full of joy at realizing for the first time that the world was endless.`
-`So everything she saw was new.`
-`{n}......It was almost as though she was the one who had been thrown into a fairy tale.`
-`If she was Alice, then I felt almost like a rabbit holding a watch......`
-`To her, it was probably a really fun walk, filled to the brim with excitement.`
-` ...But as for me, the truth was, I was completely bewildered.`
-`......After all, I had walked randomly to get there.`
-`{n}So there was no way I could have known the way back to the mansion.`
-`There were no lights in the forest, and I hadn't brought a flashlight.`
-`{n}I realized that it would be terrible if it got dark while we were still like this, and grew impatient.`
-`She was too innocent,`
-` and apparently, she couldn't understand at all how frightening it would be to face the night inside the forest.`
-`But I was the one who had brought her outside.`
-`{n}...Somehow, I had to take responsibility, and resolve this situation.`
-`So I thought.`
-` ......That for now we should just go out to the sea.`
-`{n}If we then followed the coast around, eventually we should definitely be able to make it back to the mansion.`
-`However, that was much more of a problem than I had imagined.`
-`{n}...After all, I didn't have a map or a compass.`
-`There was no way I could walk in a straight line through an uncultivated forest, and I had immediately lost my sense of direction.`
-`I already had no clue which trail I had come by, and was completely lost...`
-`At this rate, night would definitely fall before I even knew where I was walking.`
-`But I didn't have the luxury to complain.`
-`Because that woman following behind me was so innocent and having so much fun.`
-` ...Therefore, for the sake of her smile if nothing else,`
-` I absolutely had to guide her out of this forest.`
-`Gritting my teeth so that I didn't show her a troubled face,`
-` I pushed my way onward through the pathless woods.`
-`And, although we had various troubles, we were lucky enough to make it to the sea...`
-`At that time, I still didn't even have a clue where I was on the island,`
-` but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the mansion.`
-`Of course, although I said that we reached the sea, we were on the top of a rocky cliff.`
-` The beach was far below us.`
-`I was tired from walking around the forest for so long,`
-` so I thought that even though it was a rocky beach, an open area would probably be much easier to walk in.`
-`So I planned to somehow go down the rocky cliff.`
-`{n}...It did look pretty dangerous, and I wondered if there was some other way.`
-`However, {f:5:Beatrice} agreed with my plan without any doubts.`
-`......Even though she was probably older than me,`
-` ...she obeyed me truly obediently, almost as though she were some kind of chick who believed I was a mother bird.`
-`I searched to see if there wasn't some place where I could go down the cliff.`
-` ...Then I found a place where the cliff had crumbled into a slope.`
-`.......It looked a little dangerous,`
-` but if I went down on both hands and both legs, like I was crawling, I thought it would probably be okay.`
-`"......Let's go down here.`
-` It'll be dangerous if you aren't careful,`
-` but for now, if we go down to the beach and walk along it, I think we can avoid getting lost any more."`
+`Fakat, bu sorumluluk benim gibi bir çocuğun tam olarak kaldıramayacağı bir sorumluluktu.`
+`Ama onun ciddi bakışları,`
+` ...ve sanki üzerinden şeytani bir ruh kalkmış gibi duran parlak gülümsemesi,`
+` ......içimde küçük bir cesaretin yükselmeye başladığını hissetmeme neden oldu.`
+`Bu kesinlikle başımı çok büyük belaya sokacak bir şeydi.`
+`{n}......Ama kesinlikle yapılacak en doğru şeydi.`
+`Nasıl sonuçlanacağını bilmiyorum, ama......`
+` ......onu dışarı çıkaracağım.`
+`Elbette ne Babamdan ne de Annemden yardım isteyemeyeceğim.`
+`.........Onii-sama ya da Onee-sama ile konuşmalı mıyım?`
+`{n}Hayır, peki ya o güvenilir Genji-san, ya da...`
+`doğru ya, başım sıkıştığında her zaman konuşabildiğim Kumasawa-san peki?`
+`Eminim bir şeyler yapabilirler.`
+`Her neyse, şimdilik onu buradan götüreceğim.`
+`{n}Çünkü burası artık onun bulunmak istediği bir yer değil.`
+`......Ve böylece, onu çitlerdeki boşluğa götürdüm ve dışarı çıkardım.`
+`Çok gergindi, etrafta kurt olmadığından emin olmak için etrafı kontrol ediyordu,`
+` ama korkusu geçtikten sonra,`
+` bu yoğun ormanda dolaşırken bile bir şekilde eğleniyor gibiydi.`
+`Ne zaman bir şey bulsa bana soruyordu.`
+`{n}Ve hepsi gerçekten önemsiz, basit şeylerdi.`
+`......Bu çiçek ne?`
+` Şu yaprak ne?`
+` Bu ses?`
+` Bu koku?`
+`Gerçekten de...o çitlerin içi onun tüm dünyası gibiydi.`
+`Yani, dünyadan {i:dışarı} adım atmış olan onun için bu.........`
+`......Anlarsınız, çok enteresandı.`
+`Başlangıçta, onu ilk gördüğümde, onun bir cadı köşkünde istirahat eden bir cadının kusursuz bir reenkarnasyonu olduğunu düşünmüştüm.`
+`Ama şimdi durum farklıydı.`
+` Ya da aslında, tam tersiydi.`
+`......Sınırlı olduğuna inandığı bir dünyanın dışına çıkmıştı ve ilk kez dünyanın sonsuz olduğunu fark etmenin sevinciyle doluydu.`
+`Yani gördüğü her şey yeniydi.`
+`{n}......Adeta bir peri masalının içine fırlatılmış gibiydi.`
+`Eğer o Alice gibiyse, ben de kendimi elinde saat tutan tavşan gibi hissediyordum......`
+`Ona göre, bu muhtemelen heyecan dolu, gerçekten eğlenceli bir yürüyüştü.`
+` ...Ama bana gelince, gerçek şu ki, tamamen şaşkınlık içindeydim.`
+`......Ne de olsa buraya rastgele yürüyerek gelmiştim.`
+`{n}Yani malikâneye giden yolu bilmemin imkânı yoktu.`
+`Ormanda hiç ışık yoktu ve yanımda el feneri de getirmemiştim.`
+`{n}Biz bu hâldeyken havanın kararmasının çok korkunç bir şey olacağını fark ettim ve sabırsızlanmaya başladım.`
+`O çok masumdu,`
+` ve belli ki ormanın içinde geceyle yüzleşmenin ne kadar korkutucu olacağını hiç kavrayamıyordu.`
+`Ama onu dışarı çıkaran bendim.`
+`{n}...Bir şekilde sorumluluk almalı ve bu durumu çözmeliydim.`
+`Ben de şöyle düşündüm.`
+` ......Şimdilik sadece denize doğru gitmeliyiz.`
+`{n}Daha sonra sahili takip edersek, eninde sonunda malikâneye varabiliriz.`
+`Ancak bu düşündüğümden çok daha büyük bir sorundu.`
+`{n}...Ne de olsa elimde bir harita ya da pusula yoktu.`
+`Balta girmemiş bir ormanda düz bir doğrultuda ilerleyebilmenin imkânı yoktu ve yön duygumu hemen kaybetmiştim.`
+`Hangi patikadan geldiğime dair zaten hiçbir fikrim yoktu ve tümüyle kaybolmuştum...`
+`Bu gidişle nereye yürüdüğümü bile anlayamadan gece çökecekti.`
+`Ama şikayet etme lüksüm yoktu.`
+`Çünkü arkamdan gelen o kadın çok masumdu ve çok eğleniyordu.`
+` ...Bu nedenle, hiç değilse gülümsemesinin hatrına,`
+` ona bu ormandan çıkması için kesinlikle rehberlik etmeliydim.`
+`Ona endişeli bir yüz ifadesi göstermemek için dişlerimi sıkarak,`
+` patikası olmayan ormanda ilerlemeye devam ettim.`
+`Ve çeşitli sıkıntılar yaşamamıza rağmen, denize ulaşacak kadar şanslıydık...`
+`O sırada hâlâ adanın neresinde olduğuma dair en ufak bir fikrim bile yoktu,`
+` ama şimdilik biraz rahatlamıştım ve bu yönde ilerlersem kesinlikle malikâneye dönebileceğimi fark etmiştim.`
+`Tabii her ne kadar denize ulaştığımızı söylesem de kayalık bir tepenin üzerindeydik.`
+` Sahil çok aşağılarımızdaydı.`
+`Ormanda bu kadar uzun süre dolaşmaktan yorulmuştum,`
+` bu nedenle kayalık bir sahil olsa da açık bir alanda yürümenin muhtemelen çok daha kolay olacağını düşündüm.`
+`Bu sebeple bir yol bulup kayalıklardan aşağı inmeyi planladım.`
+`{n}...Oldukça tehlikeli görünüyordu ve başka bir yolu olup olmadığını merak ediyordum.`
+`Ancak, {f:5:Beatrice} hiç tereddüt etmeden planımı kabul etti.`
+`......Muhtemelen benden yaşça büyük olmasına rağmen,`
+` ...neredeyse benim anne bir kuş olduğuma inanan bir tür civcivmiş gibi bana itaat ediyordu.`
+`Kayalıklardan aşağıya doğru inebileceğim bir yer olup olmadığını aramaya başladım.`
+` ...Ardından uçurumun bir yamaca dönüştüğü bir yer keşfettim.`
+`.......Biraz tehlikeli görünüyordu,`
+` ama sürünüyormuş gibi iki elimi ve iki bacağımı kullanarak aşağı inersem muhtemelen sorun olmayacağını düşündüm.`
+`"......Hadi şuradan aşağı inelim.`
+` Dikkatli olmazsak tehlikeli olabilir,`
+` ama şimdilik sahile inip sahil boyunca yürürsek sanırım daha fazla kaybolmaktan kurtulabiliriz."`
 `"Mmhm.`
-` If you will do that, then let's go.`
-` I find this getting lost to be fun also.`
-` I'm very happy."`
-`.........She really had no sense of danger.`
-`{n}There was probably no mistake that she had lived a life without discomfort.`
-`Even though she knew it would get dark when night fell,`
-` she couldn't imagine how dangerous the inside of a forest could be without a light.`
-`Furthermore, it seemed that she couldn't grasp at all how dangerous it might be if she fell from the cliff.`
-`I warned her once more to be careful.`
-`I cautiously examined the place where we could go down.`
-`{n}...It looked......pretty high up.`
-`{n}I think it might have been about ten meters down.`
-`If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion.`
-` But looking from the top, it felt almost like staring down from the Tokyo Tower's observation room.`
-`But {f:5:Beatrice} still appeared to be completely without fear.`
-` ...It felt as though she had never even been taught that high places were dangerous.`
-`......No, maybe she truly believed that she was a witch,`
-` and that she could fly, so there wasn't anything dangerous.`
-`"Please be careful.`
-` ...It's pretty...high."`
+` Eğer yapacağın buysa, ben de geleceğim.`
+` Kaybolmak bile benim için eğlenceli.`
+` Çok mutluyum."`
+`.........Gerçekten hiç tehlike duygusu yoktu.`
+`{n}Sıkıntısız bir hayat yaşadığına muhtemelen hiç şüphe yoktu.`
+`Gece çöktüğünde havanın kararacağını bilse de,`
+` bir ormanın içinin ışık olmadan ne kadar tehlikeli olabileceğini hayal bile edemiyordu.`
+`Dahası, kayalıktan düşmesinin ne kadar tehlikeli olabileceğini de kavrayamıyor gibiydi.`
+`Onu dikkatli olması konusunda defalarca uyardım.`
+`Aşağı ineceğimiz yeri dikkatle inceledim.`
+`{n}...Burası......oldukça yüksek görünüyordu.`
+`{n}Sanırım yaklaşık on metre kadar olabilirdi.`
+`Eğer aşağıdan yukarıya doğru baksaydınız, muhtemelen malikâneden daha kısa görünürdü.`
+` Ama tepeden bakınca, Tokyo Kulesi'ndeki gözlem odasından aşağı bakıyormuşsunuz gibi hissediyordunuz.`
+`Ama {f:5:Beatrice} hâlâ tamamen korkusuz görünüyordu.`
+` ...Sanki ona yüksek yerlerin tehlikeli olduğu hiç öğretilmemiş gibiydi.`
+`......Hayır, belki de gerçekten bir cadı olduğuna,`
+` ve uçabildiğine inanıyordu, yani tehlikeli bir durum yoktu.`
+`"Lütfen dikkatli ol.`
+` ...Oldukça...yüksek."`
 `"Mmhm.`
-` I will be careful.`
-` I see there's a beach if we go down there.`
-` Is there an aquarium there?"`
-`"No, there are no aquariums on this island.`
-` But I think there are lots of fish in the sea."`
-`"I see.`
-` So there are fish.`
-` Are there, ...umm, whales and dolphins and penguins, like you talked about?"`
-`"No, you would have to go to an aquarium for those.`
-` ......And there aren't any aquariums unless you leave this island."`
-`"Is that so?`
-` ......But I look forward to it.`
-` What kind of fish are whales?"`
-`"Umm, ...they're really big fish and...huh, aren't they mammals?`
-` And they spit out seawater."`
+` Dikkatli olacağım.`
+` Aşağı inersek okyanusa ulaşabiliriz gibi görünüyor.`
+` Orada bir akvaryum var mı?"`
+`"Hayır, bu adada akvaryum yok.`
+` Ama denizde bir sürü balık olduğunu düşünüyorum."`
+`"Anladım.`
+` Demek balık var.`
+` Bahsettiğin gibi, ...şey, balinalar, yunuslar ve penguenler var mı?"`
+`"Hayır, onları görmek için bir akvaryuma gitmen gerekir.`
+` ......Ve bir akvaryuma gitmek için de bu adadan ayrılman gerekir."`
+`"Öyle mi?`
+` ......Ama dört gözle bekliyorum.`
+` Balinalar ne tür balıklar?"`
+`"Şey, ...onlar gerçekten büyük balıklar ve...ha, memeli miydiler?`
+` Ve deniz suyu püskürtüyorlar."`
 `"Hoh.`
-` Then the dolphins?"`
-`"Umm, they're really smart fish and...{0}huh...{0}aren't they also mammals?`
-` They're really smart and they can be taught tricks and stuff."`
+` Peki ya yunuslar?"`
+`"Şey, onlar gerçekten akıllı balıklar ve...{0}heh...{0}onlar da memeli, değil mi?`
+` Gerçekten akıllılar ve onlara bazı numaralar falan öğretilebiliyor."`
 `"Hohhoh.`
-` Then what about penguins?"`
-`"Umm, ...huh, weren't they birds...?"`
-`"What's this?`
-` Didn't you say that there were fish in aquariums?"`
-`"Ummm, ummm...`
-` Well, um, there isn't only fish, they're full of all kinds of things that live in the ocean."`
+` Peki ya penguenler?"`
+`"Şey, ...heh, onlar kuş muydu...?"`
+`"Neler oluyor?`
+` Akvaryumlarda balıklar olduğunu söylememiş miydin?"`
+`"Şey, uhhh...`
+` Yani, şey, sadece balıklar yok, okyanusta yaşayan her türden şeyle dolu."`
 `"Hohhoh.`
-` I am really looking forward to that!`
+` Bunu gerçekten dört gözle bekliyorum!`
 ` .........nn—"`
 `{a:c:`
 `Wa, hyaa.}`
-`She made...some might have described it as a funny,`
-` ...rushed and short voice,`
-` ...no, probably it was a scream, I think.`
-`She suddenly made a sound like that.`
-`......Her body separated from the cliff, and gently fell down.`
-`I immediately thought to say to her.`
-`{n}"How many times did I warn you to be careful!"`
-`......It was the thought of a child.`
-` It was how a child immediately gets mad when something happens, trying to show that they are not at fault.`
-`Of course, I said it too.`
-`{n}Are you alright?`
-` How many times did I warn you......`
-`"...............So,`
-` ...after she fell from the cliff,`
-` ...what happened?"`
+`Kimilerine göre...komik,`
+` ...telaşlı ve kısık bir ses çıkardı,`
+` ...hayır, muhtemelen bir çığlıktı, sanırım.`
+`Aniden böyle bir ses çıkardı.`
+`......Bedeni kayalıktan ayrıldı ve yavaşça aşağı düştü.`
+`Hemen ona şunu söylemeyi düşündüm.`
+`{n}"Dikkatli olman için seni kaç defa uyardım!"`
+`......Bu bir çocuğun düşüncesiydi.`
+` Bir çocuk kötü bir şey olduğunda nasıl hemen sinirlenir ve bunun kendi hatası olmadığını göstermek için bir bahane bulmaya çalışırsa öyleydi.`
+`Elbette, ben de sesli şekilde söyledim.`
+`{n}İyi misin?`
+` Seni kaç kez uyardım......`
+`"...............Yani,`
+` ...o uçurumdan düştükten sonra,`
+` ...ne oldu?"`
 `"..........................."`
-`"......What happened to her?`
+`"......Ona ne oldu?`
 ` ...Rosa."`
-`Rosa fell silent.`
-` ...Her gaze fell to her feet, ...as though she were seeing through the floor to some disgusting memory...`
-`"She...died, right......?"`
-`Eva's brutal words were the ones that Rosa had most wanted to avoid.`
-`And when she was hit with them, ......she screamed in resignation.`
-`"Yes, she died!!`
-` It was a rocky beach, many sharp and dangerous rocks lay exposed!!`
-` Her eyes were still open, the blood kept pouring out... Suddenly a red carpet was spreading out...!"`
-`"I spoke to her, shook her!!`
-` But she refused to respond, not even a blink, ......no, she wouldn't even close her eyelids!!"`
-`"It was my fault!`
-` She was wearing a dress, remember?!`
-` Even though I knew that her outfit was difficult to move in, I said that we should go down the cliff!!`
-` She was incredibly innocent, so she obeyed what I said without any doubts...!!"`
-`"......How long do you plan on remaining dead?`
-` Open your eyes already.`
-` Honestly, just turning into a lump of meat without me."`
-`"I was just flirting with your friend the sexy‐assed chick.`
-` ......More importantly, what is all this?"`
+`Rosa sessizliğe gömüldü.`
+` ...Bakışları ayaklarına kaydı, ...sanki zeminin altından iğrenç bir anıyı görüyormuş gibiydi...`
+`"O...öldü, değil mi......?"`
+`Eva'nın zalim sözleri Rosa'nın en çok kaçınmak istediği sözlerdi.`
+`Ve bu sözlere maruz kaldığında, ......çaresizlik içinde bağırdı.`
+`"Evet, öldü!!`
+` Taşlık bir sahildi, çok sayıda keskin ve tehlikeli kaya açıktaydı!`
+` Gözleri hâlâ açıktı ve inanılmaz miktarda kan dışarı akmaya devam ediyordu, ...kırmızı bir halı gibi görünene dek hızla yayıldı...!"`
+`"Onunla konuştum, onu salladım!!`
+` Ama o cevap vermiyordu, gözünü bile kırpmıyordu, ......hayır, göz kapaklarını bile kapatmıyordu!!"`
+`"Bu benim hatamdı!`
+` O bir elbise giyiyordu, hatırlıyor musunuz?!`
+` Kıyafetinin içinde hareket etmenin ne kadar zor olduğunu bilmeme rağmen, uçurumdan aşağı inmemiz gerektiğini söyledim!!`
+` O inanılmaz derecede masumdu, bu yüzden söylediklerimden hiç şüphe duymadan bana itaat etti...!!"`
+`"......Daha ne kadar ölü kalmayı planlıyorsun?`
+` Artık gözlerini aç.`
+` Gerçekten, ben yokken kendi başına bir et yığınına dönüşüyorsun."`
+`"Sadece şu seksi hatun arkadaşınla flörtleşiyordum.`
+` ......Daha da önemlisi, tüm bunlar da ne?"`
 `"Mmm.`
-` It is as you see.`
-` ......I missed my footing, fell down,`
-` {i:and died}."`
-`"What did you say...`
-` .........Even though you appeared as the 19th person,`
-` ......you say you died......?"`
-`"Don't mess with me, that can't be...!`
-` Auntie Rosa was a kid, and she was panicking.`
-` It's not like there was a doctor.`
-` She probably made a mistake, thinking you were dead, and you probably, umm, ......were in a state of apparent death, or something, but actually alive.`
-` Right?!"`
-`It can't be.`
-` She's obviously alive.`
-`{n}Otherwise, she wouldn't be here in front of me, right...?!`
-`...The kid‐aged Auntie Rosa was shaking {f:5:Beatrice}'s body, crying.`
-`I too stared into that face,`
-` ...............but her eyes were still open, and it really was a corpse.`
-`...I wanted to brush it off with something vague like a state of apparent death,`
-` ......but from any angle, there was nothing "apparent" about it; ...she really didn't look anything but dead...`
-`{f:5:Beatrice} had fallen upside‐down from a cliff of that height,`
-` ......and her head had smashed against the pointed tip of those sharp rocks.`
-`............You would die, wouldn't you,`
-` ......from that height,`
-` ......on those rocks......`
-`But I can't accept that...`
-`No matter how dead she looks, ......she has to be alive...!`
-` And she became this damn irritating witch!`
-` That way, all of the inconsistencies fit.`
-`She'd been confined by Grandfather in a hidden mansion the whole time.`
-`And then to avenge herself, she planned out her revenge,`
-` ......and would go on to commit a number of atrocious murders!`
-`Auntie Rosa probably just mistakenly thought that she was dead.`
-` But she was really alive, and as soon as Auntie Rosa left, she miraculously started breathing again.`
-`......And then she somehow lived until today, and would open the curtain on the scene of her revenge.`
-`Otherwise, the facts don't fit together!!`
-`"......I won't let you trick me so easily.`
-` Can you repeat it in red?!`
-` That she died for certain!!`
-` She has to be alive, right?!`
-` It's obvious!!"`
-`"How does {i:that} look like {i:being alive} to you?`
-` {p:1:She's definitely dead}!"`
+` Gördüğün gibi.`
+` ......Ayağım kaydı, düştüm,`
+` {i:ve öldüm}."`
+`"Ne dedin...`
+` .........19. kişi olarak ortaya çıkmana rağmen,`
+` ......öldüğünü mü söylüyorsun......?"`
+`"Benimle kafa bulma, bu olamaz...!`
+` Rosa Teyze bir çocuktu ve panikliyordu.`
+` Doktor falan yoktu.`
+` Muhtemelen senin öldüğünü düşünerek bir hata etti ve sen muhtemelen, şey, ......görünürde ölü gibi duruyordun ama aslında hayattaydın.`
+` Değil mi?!"`
+`Bu olamaz.`
+` Yaşadığı ortada.`
+`{n}Aksi takdirde, burada karşımda olamazdı, değil mi...?!`
+`...Çocuk yaştaki Rosa Teyze ağlayarak {f:5:Beatrice}'in bedenini sallıyordu.`
+`O yüze ben de baktım,`
+` ...............ama gözleri hâlâ açıktı ve gerçekten de ölüydü.`
+`...Görünürde ölü olması gibi bir şeyle geçiştirmek istedim,`
+` ......ama hangi açıdan bakarsam bakayım, hiç de sahte görünmüyordu, ...gerçekten de ölmüş gibi görünüyordu...`
+`{f:5:Beatrice} o yükseklikteki bir kayalıktan baş aşağı düşmüş,`
+` ......ve kafası o keskin kayaların sivri ucuna çarpmıştı.`
+`............Bu yükseklikten,`
+` ......o kayaların üzerine düşersen,`
+` ......ölürsün, değil mi......`
+`Ama ben bunu kabul edemem...`
+`Ne kadar ölü görünürse görünsün, ......yaşıyor olmalı...!`
+` Ve sonra da bu lanet olası sinir bozucu cadıya dönüştü!`
+` Bu şekilde, tüm taşlar yerine oturuyor.`
+`Bunca zamandır Büyükbabam tarafından gizli bir köşkte hapsedilmişti.`
+`Ve sonra intikamını almak için planlar yaptı,`
+` ......ve bir dizi korkunç cinayet işledi!`
+`Rosa Teyze muhtemelen yanılıp onun öldüğünü düşündü.`
+` Ama o aslında yaşıyordu ve Rosa Teyze gider gitmez mucizevi bir şekilde yeniden nefes almaya başladı.`
+`......Ve sonra bir şekilde bugüne kadar hayatta kaldı ve intikam sahnesinin perdesini açtı.`
+`Aksi takdirde, gerçekler birbirine uymuyor!!`
+`"......Beni bu kadar kolay kandırmana izin vermeyeceğim.`
+` Kırmızıyla tekrarlayabilir misin?!`
+` Onun kesinlikle öldüğünü!!`
+` Yaşıyor olmalı, değil mi?!`
+` Bu çok açık!!"`
+`"{i:Bu} sana nasıl {i:yaşıyor} gibi görünüyor?`
+` {p:1:O kesinlikle öldü}!"`
 `".................................mgghhhh..."`
-`My theory that the 19th person was Grandfather's mistress, who was a human {f:5:Beatrice}, broke down.`
-`...I thought I had managed to segue from a defensive position into a counterattack, but......`
-`"......Then, ......who are you?`
-` You just died, this very minute!`
-` You aren't going to say that you revived yourself with magic, are you?!"`
+`19. kişinin Büyükbaba'nın metresi, yani insan {f:5:Beatrice} olduğuna dair teorim çöktü.`
+`...Defansif pozisyonumdan karşı atağa geçmeyi başardığımı sanmıştım ama......`
+`"......O hâlde, ......sen de kimsin?`
+` Sen az önce öldün, tam şu anda!`
+` Sakın bana kendini büyüyle dirilttiğini falan söyleme!!"`
 `"*cackle*cackle*.`
-` I think that I've already explained it, though."`
-`"......The me that is lying over there definitely has my soul,`
-` but that body was nothing more than a cage of flesh tying me to the physical world.`
-` And that cage of flesh was thus broken.`
-` ......Do you understand what that means?"`
-`"...............I don't have a clue anymore.`
-` ......Keep having fun with your witch‐girl talk.`
-` I'll listen instead of eating a cookie!`
-` What the... It's empty.`
-` Hey, could I get some more black tea?"`
+` Sanırım bunu zaten açıklamıştım."`
+`"......Orada yatan ben, kuşkusuz ruhumu taşıyor,`
+` ama o beden, beni fiziksel dünyaya bağlayan etten bir kafesten başka bir şey değildi.`
+` Ve bu etten kafes böylece kırıldı.`
+` ......Bunun ne anlama geldiğini anlıyor musun?"`
+`"...............Artık hiçbir fikrim yok.`
+` ......Cadı-kız numaralarınla eğlenmeye devam et.`
+` Kurabiye yemek yerine dinleyeceğim!`
+` Bu da ne... Bu boş.`
+` Hey, biraz daha siyah çay alabilir miyim?"`
 `"*cackle*cackle*!`
 ` Ronove.`
-` Our guest wants some black tea."`
-`When Beato clapped her hands, Ronove appeared.`
-`......Butlers sure are convenient.`
-`"A refill, is it?`
-` Certainly.`
-` How much shall I pour you?"`
-`"Well, I've got more than enough to go with it.`
-` Half will be fine."`
-`"Filling it to the brim regardless is the English custom."`
-`Even though just enough to wet my throat would have been fine, he filled it to the top with tea.`
-`I turned my back to Beato, sipping it in silence...`
-`"Wait... Open your eyes...!!`
+` Misafirimiz siyah çay istiyor."`
+`Beato ellerini çırptığında Ronove ortaya çıktı.`
+`......Uşaklar kesinlikle kullanışlı.`
+`"Doldurayım mı?`
+` Tabii ki.`
+` Ne kadar doldurayım?"`
+`"Yani, yeterince atıştırmalığım var.`
+` Yarım yeterli olur."`
+`"Öyle olsa bile, ağzına kadar doldurmak İngiliz geleneğidir."`
+`Boğazımı ıslatacak kadar doldurması yeterli olsa da, ağzına kadar doldurdu.`
+`Sırtımı Beato'ya döndüm ve sessizce yudumladım...`
+`"Bekle... Gözlerini aç...!!`
 ` {f:5:Beatrice}...!!"`
-`Rosa shook me,`
-` ............no, shook the corpse that had once been me.`
-`I watched over her from a short distance away.`
-`Ah, ...so I fell from there and died.........`
-`I believed that was true for a while.`
-` ...After that, I saw Rosa spend a long time beside my corpse, then watched her as she ran away.`
-`......Eventually, I realized that I was a different individual from that corpse...`
-`".....................That's right.`
-` I am......me.`
-` ...So, I have finally been able to escape from Kinzo's restrictions..."`
-`Eventually, I felt the memory returning...`
-`{n}The fact that I was an Endless Witch who had lived for one thousand years.`
-`And then I remembered that I had been summoned by Kinzo, and for a long time, had been imprisoned by him...`
-`While I had been imprisoned in a cage of flesh, I had completely lost my memory as a witch.`
-`However, thanks to Rosa, if you could say that...`
-`Thanks to my accidental but fortunate death, I had now finally brought myself together......`
+`Rosa beni salladı,`
+` ............hayır, bir zamanlar ben olan cesedi salladı.`
+`Kısa bir mesafe öteden onu izledim.`
+`Ah, ...yani oradan düştüm ve öldüm.........`
+`Bir süre için, doğru olanın bu olduğuna inandım.`
+` ...Rosa'nın cesedimin yanında uzun bir süre geçirdiğini gördüm, sonra uzaklaşırken onu izledim.`
+`......Nihayetinde, o cesetten bambaşka bir birey olduğumu fark ettim...`
+`".....................Doğru.`
+` Ben......benim.`
+` ...Yani, sonunda Kinzo'nun kısıtlamalarından kaçabildim..."`
+`Zamanla hafızamın geri geldiğini fark ettim...`
+`{n}Bin yıldır yaşayan bir Sonsuz Cadı olduğum gerçeği.`
+`Ve sonra Kinzo tarafından çağrıldığımı ve uzun bir süre boyunca onun tarafından hapsedildiğimi hatırladım...`
+`Etten bir kafese hapsedilmişken, bir cadı olduğuma dair hafızamı tamamen kaybetmiştim.`
+`Ancak Rosa sayesinde, eğer öyle denebilirse...`
+`Kazayla ama talihli ölümüm sayesinde sonunda kendimi bir araya getirebilmiştim......`
 `"......Rosa.`
-` You are probably regretting that you brought about my death.`
-` But as for me, I could even thank you.`
+` Muhtemelen ölümüme sebep olduğun için pişmanlık hissediyorsundur.`
+` Ama sana teşekkür etmeliyim.`
 ` *cackle*cackle*...!"`
-`Rosa was already nowhere to be seen.`
-` Had she gone to call a doctor, or had she escaped from a scene which had become frightening?`
-`...That no longer matters.`
-`{n}That soulless shell is no longer worth anything.`
-`All that aside, ......how frail I am now.`
-`{n}Even this glorious midday sun is agony to me now.`
-`I destroyed my human form.`
-`{n}Then I changed it to several gold butterflies.`
-`......Yes, with my magic power as frail as it is now, this form is easier.`
-`And to escape even a little from the light of the sun, I rode the wind and lightly passed over the cliff.`
-`It will probably be somewhat cooler in the forest.`
-`Anyway, I'll take some time to recuperate, and regain my original power.`
-`......As I think of how I will pay Kinzo back for all he has done.`
-`Dancing alone through the air, I looked down at the shore one more time.`
-`On the rocky shore lay the figure I had once possessed, ......and that I would eventually regain.`
-`To regain the form of that physical body I have thrown away,`
-` ...it will probably take more than one hundred, two hundred days.`
-`...It might require one thousand days, or maybe even more.`
-`However, I am the Endless Witch.`
-`{n}The Golden Witch who has lived for one thousand years.`
-`{n}Waiting any countable number of days is no problem at all.`
+`Rosa artık ortalarda görünmüyordu.`
+` Doktor çağırmaya mı gitmişti, yoksa korkutucu bir hâl alan bu sahneden kaçmış mıydı?`
+`...Bunun artık bir önemi yok.`
+`{n}O ruhsuz bedenin artık hiçbir değeri yok.`
+`Her şey bir yana, ......şu an ne kadar da zayıfım.`
+`{n}Bu görkemli öğle güneşi bile artık bana acı veriyor.`
+`İnsan formumu yok ettim.`
+`{n}Sonra onu çeşitli altın kelebeklere dönüştürdüm.`
+`......Evet, büyü gücüm şu anki kadar zayıfken, bu formda olmak daha kolay.`
+`Ve güneşin ışığından biraz da olsa kaçmak için rüzgâra atlayıp kayalığın üzerinden hafifçe süzüldüm.`
+`Ormanda hava muhtemelen biraz daha serin olacaktır.`
+`Her neyse, iyileşmek ve orijinal gücümü yeniden kazanmak için biraz zamana ihtiyacım var.`
+`......Kinzo'ya bütün yaptıklarını nasıl geri ödeteceğimi düşünüyordum.`
+`Havada tek başıma dans ederken, sahile bir kez daha baktım.`
+`Kayalık sahilde bir zamanlar sahip olduğum, ......ve eninde sonunda geri kazanacağım figür yatıyordu.`
+`Bir kenara attığım o fiziksel bedenin formunu yeniden kazanmak,`
+` ...muhtemelen yüz, iki yüz günden fazla sürecektir.`
+`...Bin gün ya da belki daha da fazla süre bile gerektirebilir.`
+`Ancak, ben Sonsuz Cadı'yım.`
+`{n}Bin yıldır yaşayan Altın Cadı.`
+`{n}Sayılabilir herhangi bir sayıda gün beklemek bir sorun teşkil etmiyor.`
 `*cackle*cackle*. Oh, Kinzo.`
-`{n}You may regret that you are not here now.`
-`{n}No longer will you be able to capture me.`
+`{n}Şu anda burada olmadığın için pişman olabilirsin.`
+`{n}Artık beni yakalayamayacaksın.`
 `{n}...*cackle*cackle*!`
-`".........And then, you changed into gold butterflies, hid in the forest, and waited for your magic power to be restored? Is that what you're saying?"`
-`"That is correct.`
-` I take this form to sneer at you, but normally, it is easier magically for me to keep my form as gold butterflies."`
-`"Don't stress yourself and stay in an easy form.`
-` I wouldn't mind not hearing your irritating laugh."`
+`".........Ve sonra da altın kelebeklere dönüşerek ormanda saklandın ve büyü gücünün geri gelmesini mi bekledin? Bunu mu demek istiyorsun?"`
+`"Evet, doğru.`
+` Bu formu seni aşağılamak için kullanıyorum ama normalde altın kelebekler olarak formumu sürdürmek benim için büyü açısından daha kolay."`
+`"Kendini zorlama ve kolay formunu kullan.`
+` Sinir bozucu kahkahalarını duymasam da olur."`
 `"*cackle*cackle*.`
-` When I turned into butterflies and slipped into the forest, it was already no longer possible for Kinzo to find me.`
-` ......However, Kinzo was not about to stand there doing nothing.`
-` Still, he would be unable to immediately prepare a way to catch me."`
-`"Therefore, he first moved immediately to prevent me from leaving this island,`
-` and to keep me from regaining my power."`
-`".........My, my. All I can say is that Kinzo's tenacity does defy the imagination.`
-` ...It is pretty tough to be loved by someone like that.`
+` Kelebeklere dönüşüp ormana karıştığımda Kinzo'nun beni bulabilmesi artık mümkün değildi.`
+` ......Ancak Kinzo hiç bir şey yapmadan öylece duracak değildi.`
+` Yine de beni hemen yakalayabilmek için bir plan yapamazdı."`
+`"Böylece, ilk olarak benim bu adadan ayrılmamı,`
+` ve gücümü yeniden kazanmamı engellemek için harekete geçti."`
+`".........Ah, ah. Tek söyleyebileceğim Kinzo'nun azminin hayal gücüne meydan okuduğu.`
+` ...Böyle biri tarafından seviliyor olmak oldukça zor.`
 ` *cackle*cackle*!"`
-`"A way to keep you from leaving after you became butterflies?`
-` What, did he put a bug net around the entire forest?"`
-`"Indeed.`
-` He did the magical equivalent.`
-` .........Did you know?`
-` On the sea in front of the harbor floats a reef, on which sits a small shrine of Eastern magic."`
-`"......Ah, that.`
-` It was gone this year, though.`
-` It was a small shrine built long ago by a mountaineering ascetic, right?"`
-`"This island was originally an island of distortions.`
-` Magical beings and other beings of similar ilk were attracted to it.`
-` ......Milady herself is one of them, I imagine.`
-` How about some more tea?"`
-`"*cackle*cackle*, please.`
-` ......They did harm to humans, and probably left several eerie legends behind them."`
-`"That small shrine was built in ancient times by an Eastern mage who heard of them.`
-` A long time passed, and that power was lost.`
-` By repairing it, Kinzo restored this island's barrier, and once again tied me to this island."`
-`"......Can Eastern magic work on a Western witch like you?"`
-`"Normally the affinity is poor.`
-` However, for the purpose of sealing me there, in a way, it might have been suitable."`
-`"If it was Western magic, I would have some knowledge.`
-` For any barrier, there would have been some measures I could have taken.`
-` But Eastern magic is outside my area of expertise.`
-` It was as if I had been given chopsticks instead of a spoon for some soup I was trying to eat."`
-`"In a space strongly controlled by Eastern magic, Western magic loses much of its power.`
-` It would likely have taken her a thousand days to regain her power even under normal circumstances,`
-` and now it would take her much, much longer."`
-`"......So you're trying to say that it took you twenty years to regain your power, and now you are revived, like this?"`
-`"Those were horribly long years...`
-` I spent many days in the form of gold butterflies, found Kinzo's mansion, and watched over him every day.`
-` I lived through those days with no means to enjoy myself except to ponder how I would get back at him."`
-`"......What was fortunate for me was that during those twenty years,`
-` Kinzo tried to use every magic to find and capture me, and failed in them all."`
-`"A human cannot bring about miracles very many times.`
-` Even simply holding me captive for that long had been a miracle far above his place.`
-` It would be unthinkable for me to be captured like that multiple times."`
-`".........Grandfather said something in the previous game.`
-` It was something like, magic dwells in probabilistic miracles."`
+`"Kelebeklere dönüştükten sonra gitmeni engellemenin bir yolu mu?`
+` Ne yani, tüm ormanın etrafına böcek ağı mı ördü?"`
+`"Aynen öyle.`
+` Büyü ile buna eşdeğer bir şey yaptı.`
+` .........Biliyor musun?`
+` Limanın önündeki denizde, üzerinde küçük bir Doğu büyüsü tapınağı olan bir resif bulunur."`
+`"......Ah, şu.`
+` Gerçi bu yıl gitmişti.`
+` Uzun zaman önce dağcı bir münzevi tarafından inşa edilmiş küçük bir tapınaktı, değil mi?"`
+`"Bu ada aslında bir çarpıklıklar adasıydı.`
+` Büyülü ve benzer türdeki diğer varlıklar buraya çekilirdi.`
+` ......Leydimin de onlardan biri olduğunu tahmin ediyorum.`
+` Biraz daha çaya ne dersiniz?"`
+`"*cackle*cackle*, lütfen.`
+` ......İnsanlara zarar verdiler ve muhtemelen arkalarında birkaç ürkütücü efsane bıraktılar."`
+`"Bu küçük tapınak çok eski zamanlarda onlardan haberdar olan Doğulu bir büyücü tarafından inşa edilmiş.`
+` Uzun zaman geçti ve bu güç kayboldu.`
+` Kinzo onu onararak bu adanın bariyerini yeniledi ve beni bir kez daha bu adaya bağladı."`
+`"......Doğu büyüsü senin gibi Batılı bir cadı üzerinde işe yarıyor mu?"`
+`"Normalde, etkisi zayıf olurdu.`
+` Ancak, beni buraya mühürleme amacı için, bir bakıma oldukça elverişli olabilir."`
+`"Batı büyüsü olsaydı, biraz bilgi sahibi olurdum.`
+` Herhangi bir bariyer için alabileceğim bazı önlemler olurdu.`
+` Ama Doğu büyüsü benim uzmanlık alanımın dışında.`
+` Sanki içmeye çalıştığım çorba için bana kaşık yerine yemek çubukları verilmiş gibiydi."`
+`"Doğu büyüsü tarafından güçlü bir şekilde kontrol edilen bir alanda, Batı büyüsü gücünün büyük bir kısmını kaybeder.`
+` Normal şartlar altında bile gücünü yeniden kazanması muhtemelen bin gün alacaktı,`
+` ve şimdi çok çok daha uzun sürecekti."`
+`"......Yani gücünü yeniden kazanmanın yirmi yılını aldığını ve şimdi hepimizin açıkça görebileceği şekilde yeniden canlandığını mı söylüyorsun?"`
+`"O yıllar korkunç derecede uzun yıllardı...`
+` Altın kelebekler şeklinde birçok gün geçirdim, Kinzo'nun malikânesini buldum ve her gün onu izledim.`
+` O günler boyunca, ondan nasıl intikam alacağımı düşünmek dışında hiçbir şekilde eğlenmeden yaşadım."`
+`"......Benim için şans olan şey, bu yirmi yıl boyunca,`
+` Kinzo'nun beni bulmak ve yakalamak için her büyüyü denemesi ve hepsinde başarısız olmasıydı."`
+`"Bir insanın meydana getirebileceği mucizelerin bir sınırı vardır.`
+` Beni bu kadar uzun süre esir tutabilmesi bile onun boyunu çok aşan bir mucizeydi.`
+` Bu şekilde defalarca kez yakalanmam söz konusu olamazdı."`
+`".........Büyükbabam bir önceki oyunda bir şey söylemişti.`
+` "Mucizeler olasılıklara dayanır" gibi bir şeydi."`
 `"Mmhm.`
-` While Kinzo searched for a hidden art to capture me again, he ended up at that.`
-` ...............Then, he finally worked out the ritual involving the offering of thirteeen sacrifices to revive me again."`
-`"Thirteen......sacrifices..."`
-`"That is the witch's epitaph.`
-` It is a poem of sacrifices.`
-` ......Six people on the first twilight.`
-` Two people on the second twilight.`
-` And then five more people on the fourth through eighth twilights.`
-` A forbidden ritual, involving the offering of a total of thirteen people as sacrifices...`
-` Those sacrifices are chosen randomly, and the one holding the ritual, Kinzo himself, is not an exception."`
-`"You're out of your mind...`
-` Are you saying that all of the gruesome murders that occurred on this island were all part of a weird ritual?!!"`
-`I was vaguely thinking that this might be a possibility...`
-`But I can't just hear that this is the truth from a witch and a demon and say "Oh, really?" and accept it!`
-`"There are eighteen people on Rokkenjima.`
-` Thirteen are sacrificed; only five are left alive.`
-` Then I revive."`
-`"......In other words, the odds that Kinzo will be able to meet me again are probably around one third.`
-` He bet his own life on those odds,`
-` wishing for a reunion with me for the last bit of his remaining life."`
-`".........You're saying he gathered our family for the sake of that fucked‐up ritual?!`
-` Oh, yeah, real fucking funny!!`
-` Don't say stuff like that, damn it!!"`
-`"It was according to the contract from the beginning.`
-` When Kinzo's life ended,`
-` all of the gold I had lent him, and all of the assets that Kinzo had created, were to be received by me."`
-`"......Kinzo put me through a nightmareish ordeal,`
-` but thinking back on it now, it was an extraordinary period, even amid the past thousand years.`
-` After all, the natural enemy of a witch is boredom.`
-` To Kinzo, who offered me a chance to run away from that for several decades,`
-` yes, considering that among other things, I might have a slight debt to him."`
-`"I decided to go along with Kinzo's game.`
-` And so, first off, Kinzo returns to me the Ushiromiya family Head's Ring.`
-` It is the house revived by my gold, you see."`
-`".........Then I choose thirteen people arbitrarily as sacrifices.`
-` And as that unfolds, you people are thrown into total confusion,`
-` and show me various aspects of the fabric of human relationships as you stand against me, which gives me great pleasure.`
-` I really do like this game of Kinzo's!`
+` Kinzo beni tekrar yakalamak için gizli bir sanat ararken, sonunda bunu başardı.`
+` ...............Ardından, nihayet beni tekrar canlandırmak için on üç kurban sunmayı içeren ritüeli çözdü."`
+`"On üç......kurban..."`
+`"Bu cadının kitabesi.`
+` Bu bir kurban şiiri.`
+` ......İlk alacakaranlıkta altı kişi.`
+` İkinci alacakaranlıkta iki kişi.`
+` Ve sonra dördüncüden sekizinci alacakaranlığa kadar beş kişi daha.`
+` Toplam on üç kişinin kurbanlar olarak sunulacağı yasak bir ritüel...`
+` Bu kurbanlar rastgele seçilmek zorundaydı ve töreni düzenleyen Kinzo'nun kendisi de bir istisna değildi."`
+`"Şerefsiz...`
+` Bu adada meydana gelen korkunç cinayetlerin hepsinin garip bir ritüelin parçası olduğunu mu söylüyorsun?!!"`
+`Böyle bir ihtimalin olabileceğini aklımdan geçiriyordum...`
+`Ama bunun gerçek olduğunu bir cadıdan ve bir iblisten duyup "Oh, öyle mi?" diyerek kabul edemem!`
+`"Rokkenjima'da on sekiz kişi var.`
+` On üç kişi kurban edilir; sadece beş kişi hayatta kalır.`
+` Böylece diriliyorum."`
+`"......Yani, Kinzo'nun benimle yeniden bir araya gelebilme ihtimali yaklaşık üçte bir civarında.`
+` Kalan ömrünün son demlerinde,`
+` benimle yeniden bir araya gelmeyi dileyerek kendi hayatını bu olasılıklara bahse girdi."`
+`".........Yani onun tüm ailemizi bu boktan ritüel uğruna mı bir araya getirdiğini söylüyorsun?!`
+` Benimle kafa bulma!!`
+` Böyle şeyler söylemeye kalkma!!"`
+`"Başından beri anlaşmaya göreydi.`
+` Kinzo'nun yaşamı sona erdiğinde,`
+` ona ödünç verdiğim tüm altını ve Kinzo'nun yarattığı tüm serveti teslim alacaktım."`
+`"......Kinzo bana kabus gibi bir dönem yaşattı,`
+` ama şimdi geriye dönüp baktığımda, geçen bin yıl içinde bile sıradışı bir dönem olduğunu görüyorum.`
+` Ne de olsa bir cadının en doğal düşmanı can sıkıntısıdır.`
+` Bana onlarca yıl boyunca bundan kaçma şansı sunan Kinzo'ya,`
+` evet, bunun için ona borçlu olduğumu söyleyebilirsin."`
+`"Kinzo'nun oyununa katılmaya karar verdim.`
+` Ve ilk olarak, Kinzo bana Ushiromiya Aile Reisi Yüzüğü'nü iade etti.`
+` Gördüğün üzere bu ev benim altınımla hayat buldu."`
+`".........Ardından keyfime göre on üç kişiyi kurban olarak seçiyorum.`
+` Ve bunlar olurken, siz insanlar tam bir karmaşaya sürükleniyor,`
+` bana karşı çıkmaya çalışırken bana her türlü insan etkileşimini gösteriyor ve beni çok eğlendiriyorsunuz.`
+` Kinzo'nun bu oyununu gerçekten seviyorum!`
 ` *cackle*cackle*."`
 `"Aaaaaaaaaahh!!`
-` I definitely won't believe in that kind of magic story!`
-` ......Then who are you?!`
-` You fell off a cliff and died, dammit!`
-` Your soul slipped out, became butterflies, and went to the forest?`
-` That's all a load of bullshit!!"`
-`"But you are here!`
-` Who are you?!!`
-` Aren't you the 19th person?!"`
-`"That is true, I most surely am the 19th person.`
+` Bu tür bir büyü hikâyesine kesinlikle inanmayacağım!`
+` ......O zaman sen de kimsin?!`
+` Bir uçurumdan düştün ve öldün!`
+` Ruhun dışarı çıktı, kelebeğe dönüştü ve ormana mı gitti?`
+` Bunların hepsi saçmalık!!"`
+`"Ama sen buradasın!`
+` Kimsin sen?!!`
+` Sen 19. kişi değil misin?!"`
+`"Bu doğru, ben kesinlikle 19. kişiyim.`
 ` *cackle*cackle*cackle*!`
-` But it's no good, I'm afraid...?`
-` It's no goddamn good at all!!"`
+` Ama bu iyi değil, değil mi...?`
+` Hiç de iyi değil!!"`
 `"`
-`{p:1:There are no more than 18 humans on this Rokkenjima}!"`
-`"Wha, ...............what did you saaaaaaay......`
-` So you're saying......the X of the 18+X doesn't exist?!`
-` Are you saying the piece that I took...{0}{nobreak:the X}...{0}doesn't exist?!"`
+`{p:1:Bu Rokkenjima'da 18'den fazla insan yok}!"`
+`"Ne, ...............Ne dediiiiin......`
+` Yani......18+X'in, X'inin var olmadığını mı söylüyorsun?!`
+` Aldığım taşın...yani {0}{nobreak:X}'in...{0}var olmadığını mı söylüyorsun?!"`
 `"Pu ku ku ku...`
-` That is what it means.`
-` You have my condolences.`
-` ...However, Milady, you truly are a fast worker.`
-` I thought you would let him flounder around a little more before turning everything over at the end.`
-` Well then, Battler‐sama, would some more tea be agreeable to you?"`
-`"I, I don't want any, damn it!!`
-` I don't believe!`
-` The culprit can't be one of the 18!"`
-`"Then, what the hell are you, why are you here?!!`
-` If the 19th person doesn't exist, then are you saying you're one of the 18 in disguise?!"`
+` Bu anlama geliyor.`
+` Başınız sağ olsun.`
+` ...Ancak, Leydim, gerçekten hızlı hareket ediyorsunuz.`
+` Sonunda her şeyi tersine çevirmeden önce biraz daha debelenmesine izin verirsiniz diye düşünmüştüm.`
+` Peki o zaman, Battler-sama, biraz daha çay alır mıydınız?"`
+`"İ-İstemez, kahretsin!!`
+` İnanmıyorum!`
+` Suçlu 18 kişiden biri olamaz!"`
+`"O zaman nesin sen, neden buradasın?`
+` Eğer 19. kişi yoksa, o zaman kılık değiştirmiş 18 kişiden biri olduğunu mu söylüyorsun?!"`
 `"*cackle*cackle*!`
-` For you, although you are reluctant to use it,`
-` doubting one of the 18 will serve as a final escape route, much like castling."`
-`".........However, for me, the hard part is just beginning.`
-` You need only throw away appearances,`
-` and you can prepare a culprit freely amid the 18 people!`
-` Finding a route through those 18 pieces,`
-` in order to checkmate you and force you to accept me,`
-` .........will be truly difficult."`
-`"Like hell I'd do that!!`
-` I won't doubt any of the 18!`
-` I don't want to doubt!!`
-` Have I really been cornered here again...?!`
-` Damn it, damn it damn it!!"`
-`"It looks like my game with you, which has lasted three rounds, is finally entering the endgame, doesn't it?`
-` There's nowhere to run anymore, you know?`
+` Her ne kadar kullanmak konusunda isteksiz olsan da,`
+` senin için 18 kişinin birinden şüphe etmek, tıpkı rok atmak gibi son bir kaçış yolu işlevi görebilir."`
+`".........Ancak benim için işin zor kısmı daha yeni başlıyor.`
+` Eğer dürüstlüğü bir kenara bırakmayı seçersen,`
+` 18 kişinin arasından suçluyu özgürce arayabilirsin!`
+` Seni mat etmek ve beni kabul etmeye zorlamak için,`
+` bu 18 taşın arasından bir yol bulmak,`
+` .........gerçekten zor olacak."`
+`"Sanki bunu yapardım da!!`
+` 18 kişinin hiçbirinden şüphe etmeyeceğim!`
+` Şüphe etmek istemiyorum!!`
+` Gerçekten yine burada köşeye mi sıkıştım...?!`
+` Kahretsin, kahretsin kahretsin!!"`
+`"Görünüşe göre seninle üç raunt süren oyunum nihayet sona eriyor, değil mi?`
+` Artık kaçacak bir yerin kalmadı.`
 ` *cackle*cackle*!`
-` You don't want to doubt any of those beloved people in the 18, riiight? I can take that burden from you if you want?`
-` And yet, why do you refuse me?"`
-`"They say you should play the opening like a book, the middle game like a magician,`
-` and the endgame like a machine.`
-` I'll corner you from here on.`
-` Slowly, carefully, ...surely.`
-` Or, on the other hand, would it be better if I pressed you all at once, as would be fitting for you?"`
-`"That should suit you, let's do that.`
-` I already have a thorough knowledge of which methods of attack you cannot handle!`
+` O çok sevdiğin 18 kişinin hiçbirinden şüphe duymak istemiyorsun, değil mi? Bu yükü senden almamı istemiyor musun?`
+` Buna rağmen neden beni inkâr ediyorsun?"`
+`"Açılışın bir kitap gibi, oyun ortasının bir büyücü gibi,`
+` ve oyun sonunun bir makine gibi oynanması gerektiğini söylerler.`
+` Bundan böyle seni köşeye sıkıştıracağım.`
+` Yavaşça, dikkatlice, ...emin şekilde.`
+` Ya da öte yandan, tarzına daha çok uygun olacak şekilde hepinizi tek seferde sıkıştırsam daha mı iyi olur?"`
+`"Bu sana uyar, öyle yapalım.`
+` Hangi saldırı yöntemleriyle baş edemeyeceğini zaten çok iyi biliyorum!`
 ` *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
