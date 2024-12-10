@@ -53,8 +53,8 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep2/tr/umi2_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep2/tr/umi2_2.txt) ✅
+      * [Chapter 1](../../tree/master/story/ep2/tr/umi2_1.txt) ✅<sup>1</sup>
+      * [Chapter 2](../../tree/master/story/ep2/tr/umi2_2.txt) ✅<sup>1</sup>
       * [Chapter 3](../../tree/master/story/ep2/tr/umi2_3.txt) ✅
       * [Chapter 4](../../tree/master/story/ep2/tr/umi2_4.txt) ✅
       * [Chapter 5](../../tree/master/story/ep2/tr/umi2_5.txt) ✅
@@ -88,12 +88,12 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 3 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ✅
-      * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ✅
-      * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ✅
-      * [Chapter 5](../../tree/master/story/ep3/tr/umi3_5.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅<sup>1</sup>
+      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ✅<sup>1</sup>
+      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ✅<sup>1</sup>
+      * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ✅<sup>1</sup>
+      * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ✅<sup>1</sup>
+      * [Chapter 5](../../tree/master/story/ep3/tr/umi3_5.txt) ✅<sup>1</sup>
       * [Chapter 6](../../tree/master/story/ep3/tr/umi3_6.txt) `<- Burdayız`
       * [Chapter 7](../../tree/master/story/ep3/tr/umi3_7.txt) ❌
       * [Chapter 8](../../tree/master/story/ep3/tr/umi3_8.txt) ❌
@@ -326,6 +326,8 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
          * [Song: Promise](../../../umineko-scripting-tr-files/tree/master/files/video/sub/132_tr.ass) ❌
       * [Omake 9](../../tree/master/story/omake/tr/umio9.txt) ❌
 </details>
+
+<sub>**Not:** *Sayılar, o chapter için çeviren kişi dışında kaç farklı kişi tarafından yeniden gözden geçirilip, hata düzeltmesi yapıldığını belirtmektedir.*</sub>
 
 -----
 
