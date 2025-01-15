@@ -4,10 +4,10 @@
 
 Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği zaman katkıda bulunabilir! Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Bu nedenle süre sınırı gibi kısıtlamalarımız da bulunmamaktadır.
 
-Katkıda bulunmak istiyorsanız lütfen [wiki sayfamızı](https://witch-love.com/wiki/umineko/contributing/info) inceleyin!
+Katkıda bulunmak istiyorsanız lütfen [sitemizi](https://witch-love.com/umineko/contributing/info) inceleyin!
 
 ## Kurulum
-Detaylı kuruluma [buradan](https://witch-love.com/wiki/umineko/installation) ulaşabilirsiniz.
+Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşabilirsiniz.
 
 ## İletişim
 - <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
