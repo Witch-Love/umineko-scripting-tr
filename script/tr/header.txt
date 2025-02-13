@@ -97,7 +97,7 @@ stralias op0104,":c;graphics\locale_en\op0104.png"
 stralias op0105,":c;graphics\locale_en\op0105.png"
 stralias op0106,":c;graphics\locale_en\op0106.png"
 stralias op0107,":c;graphics\locale\op0107.png"
-stralias op0108,":c;graphics\locale_en\op0108.png"
+stralias op0108,":c;graphics\locale_tr\op0108.png"
 stralias op0201,":c;graphics\locale_tr\op0201.png"
 stralias op0202,":c;graphics\locale_en\op0202.png"
 stralias op0203,":c;graphics\locale_en\op0203.png"
@@ -105,7 +105,7 @@ stralias op0204,":c;graphics\locale_en\op0204.png"
 stralias op0205,":c;graphics\locale_en\op0205.png"
 stralias op0206,":c;graphics\locale_en\op0206.png"
 stralias op0207,":c;graphics\locale_en\op0207.png"
-stralias op0208,":c;graphics\locale_en\op0208.png"
+stralias op0208,":c;graphics\locale_tr\op0208.png"
 
 stralias system1,":c;graphics\locale_tr\system1.png"
 stralias system2,":c;graphics\locale_tr\system2.png"
@@ -298,7 +298,7 @@ stralias verify_video,"'video' klasörünü doğruladığınızdan emin olun. Ba
 stralias verify_updates,"Lütfen tüm dosyaları yüklediğinizden emin olun. Bazı dosyalar bulunamadı."
 stralias verify_engine,"Oyun motorunun ve scriptlerin son sürümlerini kullandığınızdan emin olun. Mevcut oyun motoru ve scriptler uyumsuz."
 
-stralias verification_title,"Oyun dosyaları doğrulaması"
+stralias verification_title,"Oyun Dosyaları Doğrulaması"
 stralias verification_verifying,"Dosyalar doğrulanıyor...{n}Bu işlem birkaç dakika sürebilir.{n}"
 stralias verification_legend,"Yazı: "
 stralias verification_modified," Değiştirilmiş dosya"
@@ -310,6 +310,7 @@ stralias verification_unsupported,"Desteklenmeyen game.hash dosyası bulundu!{n}
 stralias verification_outdated,"Eski sürüm game.hash dosyası bulundu!{n}"
 stralias verification_end,"Devam etmek için sağ-tık!"
 
-stralias verification_ancient,"Oyununuz 6 aydan daha eski, eski sürüm kullanıyor olabilirsiniz!"
+stralias verification_uptodate,"Türkçe oyun versiyonu güncel."
+stralias verification_ancient,"Türkçe oyun versiyonu 1 aydan daha eski.{n}Güncel olmayan bir versiyon kullanıyor olabilirsiniz!{n}Oyunun güncel dosyalarını sitemizden indirebilirsiniz:{n}witch-love.com"
 
 ;--System-text-end--
