@@ -1676,9 +1676,9 @@ numalias config_main_lsp2,%0 : inc %0
 ;8061 - animated rain
 
 if %init_done = 1 jumpf 
-	mov %bgm_vol,100 
-	mov %sfx_vol,100
-	mov %dlg_vol,100 
+	mov %bgm_vol,60 
+	mov %sfx_vol,60
+	mov %dlg_vol,60 
 	mov %textspeed,5
 	mov %textspeed2,5
 	mov %automodespeed,-20
@@ -14703,8 +14703,8 @@ lsp 100,project_logo,0,0
 aspt blur,100,5000
 aspt alpha,100,0
 print 1
-dwaveloop 16,"sound\se\umilse_016.ogg"
-ach_prop 16,%sfx_vol,700
+dwaveloop 16,"sound\se\umilse_005.ogg"
+ach_prop 16,%sfx_vol*40/100,700
 aspt blur,100,1,3000
 aspt alpha,100,255,2000
 aspt alpha,100,255,3000
@@ -33437,12 +33437,15 @@ goto *switch_game_q
 *verify_script_date
 	timestamp %Free1
 
-	if releasedate + 15552000 > %Free1 return
-
-	; border_pad_push 10
-	; lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,920
-	; border_pad_pop
-	debug_string "This release may be outdated, assuming final version"
+	border_pad_push 10
+	if releasedate + 2592000 < %Free1 jumpf
+		lsph t_warning_lsp,":s;#86EF9C`{c:86EF9C:{o:10:"+verification_uptodate+"}}",70,920
+	~
+	if releasedate + 2592000 > %Free1 jumpf
+		lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,740
+		debug_string "This release may be outdated, assuming final version"
+	~
+	border_pad_pop	
 return
 
 *full_verify
