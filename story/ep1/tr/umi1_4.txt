@@ -54,7 +54,7 @@
 `Bu gerçekten yola çıkarak, Büyükbabamın durumunun çok daha kötüye gittiğini tahmin ediyorum,`
 ` ve hatta aile konferansının ana tartışma konularından biri olabilir...`
 `George-aniki de tam bunu söylüyordu.`
-`{n}Son bir yıldır, Büyükbabaya sürekli olarak çok az ömrü kaldığı söyleniyor.`
+`{n}Son bir yıldır, Büyükbabama sürekli olarak çok az ömrü kaldığı söyleniyor.`
 `...Konuşması bile korkunç ama Büyükbaba son derece zengin bir adam.`
 `{n}Ölümünden sonra serveti, ebeveynlerimizin mide asidiyle birlikte aniden serbest kalacak ve kesinlikle ciddi ülserlere yol açacaktır.`
 `Bu tür bir şey ne kadar çok parçaya ayrılırsa, parçalanması da o kadar büyük sorunlara yol açacaktır.`
@@ -67,11 +67,11 @@
 `Keşke adı "gold" ve "vault" ile aynı karakterlerle yazılsaydı ve ona "Goldsmith" ya da onun gibi bir şey dememize izin verseydi,`
 ` bu harika olurdu!`
 `Hakkında konuşulanlardan da anlayabileceğiniz gibi, son derece çabuk sinirlenen, korkutucu bir insan.`
-`...Ben sadece torunu olduğum ve altı yıl önce ilkokula başladığımdan beri onunla tanışmadığım için,`
+`...Ben sadece torunu olduğum ve altı yıl önce ilkokula gittiğim dönemden beri onunla görüşmediğim için,`
 ` ondan dayak yediğimi hiç hatırlamıyorum, ancak görünen o ki ebeveynlerimiz demir yumruklarla yetiştirilmiş.`
 `Babam ve Krauss Amca arasındaki şu konuşma,`
-` Büyükbabayı ortaya çıkması için kimin ikna etmesi gerektiği konusu, bunu dikkate alırsanız garip bir şekilde komik görünüyor.`
-`Büyükbabanın hikâyesini anlayabilmek için kendinizi {ruby:1926–1989:Showa} dönemi öncesine götürmeniz ve Ushiromiya ailesinin hikâyesini tekrar gözden geçirmeniz gerekiyor.`
+` Büyükbabamı dışarı çıkması için kimin ikna etmesi gerektiği konusu, bunu dikkate alırsanız garip bir şekilde komik görünüyor.`
+`Büyükbabamın hikâyesini anlayabilmek için kendinizi {ruby:1926–1989:Showa} dönemi öncesine götürmeniz ve Ushiromiya ailesinin hikâyesini tekrar gözden geçirmeniz gerekiyor.`
 `{ruby:1868–1912:Meiji} ve {ruby:1912–1926:Taisho} dönemlerine kadar Ushiromiya ailesi büyük ve müreffeh bir aileydi.`
 `Çok sayıda iplik fabrikasına sahiptiler ve çok varlıklı insanlardı, para akarken sadece gülmekle yetiniyorlardı.`
 `Bu arada, Büyükbaba, bir şube ailesinin üyesi olarak, aslında baş aileyle hiçbir bağlantısı yoktu.`
@@ -81,7 +81,7 @@
 ` ve Ushiromiya ailesi servetinin ve aile üyelerinin çoğunu bir anda kaybetti.`
 `Bundan sonra baş ailenin varisi kim olacak sorusu ortaya çıktı ve baş aile soyundan olabildiğince uzak olan Kinzo dışında kimse kalmadı.`
 `Kinzo'nun kendisi daha sonra bunun çok iyi bir şans olduğunu, sanki kaderin tersine döndüğünü söyledi.`
-`Bununla birlikte, Büyükbabanın sıradan hayatı 180 derece değişti.`
+`Bununla birlikte, Büyükbabamın sıradan hayatı 180 derece değişti.`
 `{n}Ölmek üzere olan Ushiromiya ailesinin neredeyse tamamen kaybettiği serveti yeniden canlandırmakla görevlendirildi.`
 `Elbette, birine aniden bir görev vermeniz, onun bu görevi yerine getirmek için hiçbir şey yapamayacağı anlamına gelmez.`
 `{n}Etrafındaki insanların çok şey beklediğinden şüpheliyim.`
@@ -153,7 +153,7 @@
 `Eğer öyle olsaydı, muhtemelen burada hepimizle birlikte oturuyor ve bize boktan patronunun hikâyelerini anlatıyor olurdu.`
 `Hayır, hayır—burada, bir malikânenin yemek salonunda değil—bir barda bir masanın etrafında olabilirdik.`
 `Eğer öyle olsaydı, eminim bu daha rahat bir aile konferansı olurdu.`
-`Pekâlâ, bu kadar konuşmak yeter.`
+`Pekâlâ, bu kadar konuşma yeter.`
 `{n}Daha da önemlisi, şu muhte~şem öğle yemeğinden bahsedelim!`
 `"Sashimi salatası beni çoktan kendimden geçirdi!`
 ` Gohda-san müthiş bir şef!`
@@ -236,7 +236,7 @@
 `"Ekşi kısmı aslında, şey...`
 ` ......Aslında, uskumrunun sıkılmış suyu, hoh-hoh-ho!"`
 `"""NE, uskumru mu?!?!"""`
-`"Saçmalama" diye düşündük hepimiz, dehşete düşmüş bir şekilde.`
+`Hepimiz dehşete düşmüş bir şekilde "saçmalama" diye düşündük.`
 `{n}Sadece Maria "uh-huh" diye başını sallayarak kabul etti.`
 `"Uu?`
 ` Uskumrular ekşi.`
@@ -246,10 +246,10 @@
 `"Yanlış anladın, o sirkeli uskumru!"`
 `Rosa Teyze kıpkırmızı kesilirken küçük bir sesle Maria'ya böyle dedi.`
 `Ahhhh, şimdi çok iyi hatırlıyorum.`
-`{n}Kumasawa-san hep böyle biriydi, değil mi?`
-`{n}Sanırım ben de küçükken beni her türlü konuda kandırdığını hatırlıyorum!`
+`{n}Kumasawa-san hep böyle biri değil miydi?`
+`{n}Sanırım küçükken beni her türlü konuda kandırdığını ben de hatırlıyorum!`
 `Hepsi arasında en acı verici olanı bu olsa gerek!`
-`{n}Çin yemeklerinde satılan şu dayanıksız siyah şey!`
+`{n}Çin yemeklerinde satılan şu uyduruk siyah şey!`
 ` Kikurage mantarları!`
 `{n}Bana penguen eti olduğunu söylemişti ve ben de ukala gibi bütün okulu dolaşıp herkese anlatmıştım, değil mi?!`
 `"Kumasawa baa-chan, hiç değişmemişsin...!`
