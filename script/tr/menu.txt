@@ -1506,37 +1506,37 @@ stralias chars_bernquiz_kum_1,":s;#FFFFFF`{p:3:• First twilight{n}“{p:42:Tha
 
 ;menu settings
 stralias set_restarted_apply,":s;#FFFFFF`{w:1920:}{p:1:{a:c:Değişikliklerin uygulanabilmesi için oyunu baştan başlatınız.}}"
-stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:On}"
-stralias set_on2,":s;#FFFFFF`{p:8:On}"
-stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Off}"
-stralias set_off2,":s;#FFFFFF`{p:8:Off}"
+stralias set_on,":s;#C7C7C7#FFFFFF`{p:8:Açık}"
+stralias set_on2,":s;#FFFFFF`{p:8:Açık}"
+stralias set_off,":s;#C7C7C7#FFFFFF`{p:8:Kapalı}"
+stralias set_off2,":s;#FFFFFF`{p:8:Kapalı}"
 ;page 1
-stralias set_game_language,":s;#FFFFFF`{p:8:Oyun dili}"
+stralias set_game_language,":s;#FFFFFF`{p:8:Oyun Dili}"
 stralias set_game_language_ru,":s;#C7C7C7#FFFFFF`{p:8:Rusça}"
 stralias set_game_language_ru_on,":s;#FFFFFF`{p:8:Rusça}"
 stralias set_game_language_en,":s;#C7C7C7#FFFFFF`{p:8:İngilizce}"
 stralias set_game_language_en_on,":s;#FFFFFF`{p:8:İngilizce}"
-stralias set_bgm_title_language,":s;#FFFFFF`{p:8:BGM adları}"
+stralias set_bgm_title_language,":s;#FFFFFF`{p:8:BGM Adları}"
 stralias set_bgm_title_language_en,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}İngilizce}"
 stralias set_bgm_title_language_tl,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Rusça}"
 stralias set_bgm_title_language_jp,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Japonca}"
 stralias set_bgm_title_language_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romaji}"
-stralias set_window_size,":s;#FFFFFF`{p:8:Pencere boyutu}"
+stralias set_window_size,":s;#FFFFFF`{p:8:Pencere Boyutu}"
 stralias set_window_size_custom,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Özel}"
-stralias set_display_mode,":s;#FFFFFF`{p:8:Pencere modu}"
+stralias set_display_mode,":s;#FFFFFF`{p:8:Pencere Modu}"
 stralias set_display_mode_win,":s;#C7C7C7#FFFFFF`{p:8:Pencereli}"
 stralias set_display_mode_win_on,":s;#FFFFFF`{p:8:Pencereli}"
 stralias set_display_mode_full,":s;#C7C7C7#FFFFFF`{p:8:Tam Ekran}"
 stralias set_display_mode_full_on,":s;#FFFFFF`{p:8:Tam Ekran}"
 stralias set_display_mode_auto,":s;#C7C7C7#FFFFFF`{p:8:Otomatik}"
 stralias set_display_mode_auto_on,":s;#FFFFFF`{p:8:Otomatik}"
-stralias set_video_resolution,":s;#FFFFFF`{p:8:Ekran çözünürlüğü}"
+stralias set_video_resolution,":s;#FFFFFF`{p:8:Ekran Çözünürlüğü}"
 stralias set_interface,":s;#FFFFFF`{p:8:Oynanış}"
-stralias set_interface_kb_mouse,":s;#C7C7C7#FFFFFF`{p:8:KB+Mouse}"
-stralias set_interface_kb_mouse_on,":s;#FFFFFF`{p:8:KB+Mouse}"
+stralias set_interface_kb_mouse,":s;#C7C7C7#FFFFFF`{p:8:Klavye+Fare}"
+stralias set_interface_kb_mouse_on,":s;#FFFFFF`{p:8:Klavye+Fare}"
 stralias set_interface_dualshock,":s;#C7C7C7#FFFFFF`{p:8:DualShock}"
 stralias set_interface_dualshock_on,":s;#FFFFFF`{p:8:DualShock}"
-stralias set_object_caching,":s;#FFFFFF`{p:8:Object caching}"
+stralias set_object_caching,":s;#FFFFFF`{p:8:Önbellekleme}"
 stralias set_render,":s;#FFFFFF`{p:8:Renderer}"
 stralias set_render_1,":s;#FF0000`{p:8:{w:375:}{a:c:}{fit}Hata}"
 stralias set_render_2,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}DirectX 9}"
@@ -1545,18 +1545,18 @@ stralias set_render_4,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}OpenGL 2.1}"
 stralias set_render_5,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}OpenGLES 2}"
 stralias set_render_6,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}OpenGLES 3}"
 ;page 2
-stralias set_bgm_volume,":s;#FFFFFF`{p:8:BGM sesleri}"
-stralias set_effect_volume,":s;#FFFFFF`{p:8:Efekt sesleri}"
-stralias set_voice_volume,":s;#FFFFFF`{p:8:Karakter sesleri}"
+stralias set_bgm_volume,":s;#FFFFFF`{p:8:BGM Seviyesi}"
+stralias set_effect_volume,":s;#FFFFFF`{p:8:Ses Efektleri}"
+stralias set_voice_volume,":s;#FFFFFF`{p:8:Karakterler}"
 ;page 3
 stralias set_rumble_strength,":s;#FFFFFF`{p:8:Titreşim}"
-stralias set_text_speed,":s;#FFFFFF`{p:8:Yazı hızı}"
-stralias set_automode_speed,":s;#FFFFFF`{p:8:Otomatik okuma hızı}"
-stralias set_textbox_window,":s;#FFFFFF`{p:8:Metin kutusu çerçevesi}"
+stralias set_text_speed,":s;#FFFFFF`{p:8:Yazı Hızı}"
+stralias set_automode_speed,":s;#FFFFFF`{p:8:Otomatik Okuma Modu}"
+stralias set_textbox_window,":s;#FFFFFF`{p:8:Metin Kutusu Tipi}"
 stralias set_alchemist_wording_edits,":s;#FFFFFF`{p:8:Alchemist wording edits}"
-stralias set_lip_synchronization,":s;#FFFFFF`{p:8:Dudak senkronizasyonu}"
-stralias set_bgm_chapter_display,":s;#FFFFFF`{p:8:BGM/Chapter gösterme}"
-stralias set_song_subtitles,":s;#FFFFFF`{p:8:Müzik altyazıları}"
+stralias set_lip_synchronization,":s;#FFFFFF`{p:8:Dudak Senkronizasyonu}"
+stralias set_bgm_chapter_display,":s;#FFFFFF`{p:8:BGM/Chapter İsimleri}"
+stralias set_song_subtitles,":s;#FFFFFF`{p:8:Müzik Altyazıları}"
 stralias set_song_subtitles_no,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Kapalı}"
 stralias set_song_subtitles_trans,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}İngilizce}"
 stralias set_song_subtitles_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romaji}"
@@ -1571,8 +1571,8 @@ stralias log_prev,":s;#FFFFFF#FF0000`{p:11:Önceki Chapter}"
 stralias log_next,":s;#FFFFFF#FF0000`{p:11:Sonraki Chapter}"
 stralias log_hint_text,":s;#FFFFFF`{p:11:Mesajın sesini dinlemek için sol tıklayın, tek parmakla dokunun veya Enter'a basın.{n}Mesaja atlamak için orta tıklayın, üç parmakla dokunun veya Z tuşuna basın.{n}Hızlıca kaydırmak için Page Up/Page Down tuşlarını kullanabilirsiniz.}`"
 stralias tips_hint_text,":s;#FFFFFF`{p:11:Yazı kutusunun üst ve alt tarafında oklar varsa, kaydırarak metnin tamamını okuyabilirsiniz.}`"
-stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu sıfırlamak istiyor musunuz?{n}Bu işlem kazanılan kupalarla beraber tüm kayıtlarınızı silecektir.}"
-stralias jump_hint_text,":s;#FFFFFF`{p:11:Buraya atlamak istiyor musunuz?{n}Bu işlem biraz zaman alabilir. Atlamadan oyunu kayıt etmek isteyebilirsiniz.}"
+stralias reset_hint_text,":s;#FFFFFF`{p:11:Oyunu sıfırlamak istediğinize emin misiniz?{n}Bu işlem kazanılan kupalarla beraber tüm kayıtlarınızı silecektir.}"
+stralias jump_hint_text,":s;#FFFFFF`{p:11:Buraya atlamak istiyor musunuz?{n}Bu işlem biraz zaman alabilir. Atlamadan önce oyunu kayıt etmek isteyebilirsiniz.}"
 stralias action_yes,":s;#C7C7C7#FFFFFF`{p:11:Evet}"
 stralias action_no,":s;#C7C7C7#FFFFFF`{p:11:Hayır}"
 
@@ -1581,7 +1581,7 @@ stralias save_btn_b,":s;#FF0000`{p:11:Kaydet}"
 stralias load_btn,":s;#FFFFFF#FF0000`{p:11:Yükle}"
 stralias load_btn_b,":s;#FF0000`{p:11:Yükle}"
 stralias set_ctrl,":s;#FFFFFF#FF0000`{p:11:Kontroller}"
-stralias set_reset,":s;#FFFFFF#FF0000`{p:11:Oyunu sıfırla}"
+stralias set_reset,":s;#FFFFFF#FF0000`{p:11:Oyunu Sıfırla}"
 
 ;r_click_chapters (images with chapter names that appear when you enter r_menu)
 
@@ -2025,12 +2025,12 @@ stralias trophy_text_96,"{p:18:Altın Kupa{n}Müzik Avcısı{n}Müzik Kutusunda 
 
 ; ugly temporary config fix
 
-numalias settings_base_off1,1478
-numalias settings_base_off2,1605
-numalias settings_base_off3,1010
+numalias settings_base_off1,1353
+numalias settings_base_off2,1520
+numalias settings_base_off3,965
 numalias settings_base_off4,1377
-numalias settings_base_off5,850
-numalias settings_base_off6,1213
+numalias settings_base_off5,865
+numalias settings_base_off6,1185
 numalias settings_base_off7,1559
 numalias omake3_line_y,105
 
