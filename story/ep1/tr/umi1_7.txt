@@ -206,7 +206,7 @@
 ` Burada değil.`
 ` ...Maria'nın gülü burada değil...`
 ` ......Uu......"`
-`"daha sonra annen seninle birlikte arayacak...`
+`"Daha sonra annen de seninle birlikte arayacak...`
 ` Tamam mı?`
 ` O yüzden bugünlük boş ver.`
 ` ......Tamam mı?"`
@@ -312,7 +312,7 @@
 ` İblislerin Ruleti çoktan dönmeye başladı.`
 ` Bu noktada akşam yemeğinin ne anlamı var ki........."`
 `Kinzo sanki kapıya vurulan gürültüyü duymamış gibi,`
-`tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
+` tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
 `Her zaman olduğu gibi, yemek salonunda eksik olan tek kişi Kinzo'ydu.`
 `{n}Krauss, acı bir gülümsemeyle Nanjo'yla birlikte geri döndü.`
 `"Her zaman olduğu gibi, babam kendini iyi hissetmiyor.`
@@ -655,8 +655,8 @@
 `"Hideyoshi nii-san, bir çocuğun elinden kaba kuvvetle bir şey almamalısın.`
 ` .........Maria-chan, bu zarfı nereden buldun?"`
 `"Uu!`
-` {f:5:Beatrice} bana şemsiyeyi verdiğinde ondan aldım.`
-` Yemek bittikten sonra herkese okumamı söyledi!`
+` Bana şemsiyeyi verdiğinde {f:5:Beatrice}'den aldım.`
+` Yemek bittikten sonra Maria'ya herkese okumasını söyledi!`
 ` Maria cadının El—`
 ` El—`
 ` {ruby:<Messenger>:Elçi}si!`
