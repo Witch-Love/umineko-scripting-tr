@@ -422,15 +422,15 @@
 `{n}...Kinzo her zaman çalışma odasına kapanır ve ailesinin bile odaya girmesine izin vermezdi.`
 `Bu nedenle Krauss'un koridordan seslenmekten başka çaresi yoktu...`
 `"Beni rahatsız etmeyin!!`
-` Herkes mi? "Herkes" kim?! Beni buradan çıkarmaya çalışan aptalları mı kastediyorsun?"`
+` Herkes mi? "Herkes" de kim?! Beni buradan çıkarmaya çalışan aptalları mı kastediyorsun?!!"`
 `"O zaman hepsini öldürün!`
-` Onları doğrayın, yakacak odun yapın, cadının ateşine atın!!`
-` O ateşe de bir tencere koyup pelin otu kaynatın!`
-` Ve eğer hâlâ beni buradan çıkarmaya cüret edecek aptallar kalırsa, onları kıyametin suyunu içmeye zorlayın!`
-` Kalanları likörde saklayın!"`
+` Onları doğrayın, yakacak odun olarak kullanın ve cadının ateşine atın!!`
+` O ateşe de bir kazan koyup pelin otu kaynatın!`
+` Beni buradan çıkarmaya cüret eden embesilleri Kıyametin suyunu içmeye zorlayın!`
+` Posalarıyla içki yapacağım!"`
 `"Aah, Genji, neredesin?!`
 ` Genji'yi çağırın!!`
-` İçkimi hazırla!`
+` Şeytani absentimi hazırla!`
 ` Yeşil perinin fısıltısı artık bana ulaşmıyor!!`
 ` Aah, Genji nerede, GenjiiIii'yi çağırın!!!"`
 `...Kapının önünde Krauss, Nanjo ve Genji, dışarı çıkmayan evin efendisini beklemeye devam ettiler.`
@@ -438,38 +438,46 @@
 ` ......Benden iliklerine kadar nefret ediyor gibi görünüyor.`
 ` Sesim artık ona ulaşmıyor."`
 `Krauss "Faydası yok" der gibi omuz silkti ve acı acı gülümsedi.`
-`...Kendisi de babasının çağrılarına cevap vereceğine bir an bile inanmamıştı.`
-`{n}Ancak, bu en büyük oğlun görevi olduğu için, ricada bulunmuştu.`
+`...Babasının bir an olsun çağrılarına cevap vereceğine kendisi de inanmamıştı.`
+`{n}Yine de, bu en büyük oğulun görevi olduğu için, formalite icabı denemişti.`
 `"......Kinzo-san.`
-` Oğulların, kızların ve torunların seni görmeye geldi, biliyorsun...`
-` Birazcık yüzünü göstermeye ne dersin...?"`
+` Oğulların, kızların ve torunların seni görmeye geldiler...`
+` Biraz yüzünü göstermeye ne dersin...?"`
 `"Kapa çeneni, sessiz ol!!!`
+<<<<<<< Updated upstream
 ` Ne cüretle beni azarlarsın, Nanjo?!!`
 ` Ben seni değil, Genji'yi çağırdım!!`
 ` Şimdi acele et, hemen çağır onu!`
 ` Zaman daralıyor—havariler trompetlerini hazırlamaya başladılar bile—bunu neden anlamıyorsun, seni aptal koyun!!"`
 `Kinzo eski, ağır kitabı masaya defalarca vurdu.`
+=======
+` Ne cüretle bena öğüt verirsin, Nanjo?!!`
+` Ben seni değil, Genji'yi çağırdım!!`
+` Şimdi acele et, hemen onu çağır!`
+` Zaman daralıyor—havariler trompetlerini hazırlamaya başladılar—seni aptal koyun, bunu neden anlamıyorsun?!!"`
+`Kinzo eski, ağır kitabı defalarca masaya vurdu.`
+>>>>>>> Stashed changes
 `{n}Bu gürültü belli ki onun en büyük hoşnutsuzluğunu gösteriyordu.`
 `Kinzo gözlüklerini indirdi ve sandalyesinden fırladı.`
-`Sanki tıklım tıklım dolu bir opera salonunda şarkı söyleyecekmiş gibi kollarını iki yana açtı ve birine seslenir gibi bağırdı.`
+`Sanki tıklım tıklım dolu bir opera salonunda şarkı söyleyecekmiş gibi kollarını iki yana açtı ve birine seslenircesine bağırdı.`
 `"Neden?!`
-` Neden her zaman yoluma bir şey çıkıyor?!`
+` Neden her zaman yoluma bir şeyler çıkıyor?!`
 ` Her şeyi bir kenara atabilirim, her şeyi sunabilirim ve karşılığında istediğim tek bir şey var!"`
-`"Ohh, {f:5:Beatrice}, eğer gülüşünü bir kez daha görebilseydim, Dünya'nın gülüşlerini yağmalar ve hepsini sana sunardım!`
-` Oooh, çekirge lejyonlarının komutanları, Dünya'nın gülümsemelerini toplayın, *coughcough*, *haaack* *kofkof*!!!`
-` Ahh, her şey pis, her şey can sıkıcı!!"`
-`"Neden bu en değerli günlerde bu engeli çekmek zorundayım?!?!`
+`"Ohh, {f:5:Beatrice}, eğer gülüşünü bir kez daha görebilseydim, Dünyanın tüm gülüşlerini yağmalar ve hepsini sana sunardım!!`
+` Oooh, çekirge lejyonlarının komutanları, Dünyanın gülüşlerini hasat edin, *coughcough*, *haaack* *kofkof*!!!`
+` Ahh, her şey iğrenç, her şey sinir bozucu!!"`
+`"Neden bu en değerli günde bu engellere katlanmak zorundayım?!?!`
 ` *haaack*kofkofkof*!!`
 ` *cough*cough*!!!`
 ` GenjiiIii'yi çağırın!!!`
 ` *haaack*kofkof*!!"`
 `"......Neye bağırdığı hakkında hiçbir fikrim yok.`
-` Sanırım sonunda kafayı yedi."`
+` Sanırım nihayet aklını kaçırdı."`
 `"Krauss-san...`
-` Bu biraz sert değil mi, öz babana..."`
+` Kendi babanız hakkında böyle bir şey söylemek biraz acımasızca değil mi..."`
 `"Benim babam çoktan öldü.`
-` ......Burada olan şey bir zamanlar olduğu şeyin hayaleti.`
-` Her halükarda, o odadan çıkmaya niyeti olmadığı sürece yapabileceğimiz bir şey yok."`
+` ......Burada olan şey, onun bir zamanlar olduğu şeyin hayaleti.`
+` Öyle ya da böyle, o odadan çıkmaya niyeti olmadığı sürece yapabileceğimiz bir şey yok."`
 `".....................Kinzo-san."`
 `Çalışma odasından boğulurcasına öksürükler gelmeye devam ediyordu...`
 `"Ben aşağı iniyorum.`
@@ -477,27 +485,27 @@
 ` Diğerlerinin burada dört gözle beklediği birkaç şeyden biri.`
 ` ...Hmph."`
 `Krauss topukları üzerinde döndü.`
-`Kol saatine baktı, mırıldandı ve boşuna olacağını bildiği bir şey yaparak zaman kaybetmiş gibi davrandı.`
+`Kol saatine baktı, boşuna vakit kaybedeceğini bildiği bir şey yaptığı düşüncesiyle mırıldandı.`
 `"Genji-san.`
 ` ......Babam seni çağırıyor.`
 ` Ona eşlik et."`
-`".........Kesinlikle."`
+`".........Anlaşıldı."`
 `"Doktor Nanjo.`
 ` Hadi yemeğe gidelim.`
 ` ......Burada daha fazla kalırsak, bu tatlı kokudan dolayı tat alma duyumuz bile kaybolacak."`
 `Krauss, Nanjo'yu beklemeden aşağı indi.`
 `Genji, Nanjo'yu gidip yemek yemesi için ısrar etti.`
-`...Nanjo merdivenlerden inerken önce Krauss'un arkasına, sonra da çalışma odasının kapısına baktı ve derin bir iç çekti.`
-`"......Özür dilerim, Genji-san.`
-` Lütfen."`
-`"Evet, ......lütfen bana bırakın."`
-`"Mümkünse ona alkol vermeyin.`
-` ......Çok güçlü bir alışkanlık."`
+`...Nanjo merdivenlerden inerken önce Krauss'un sırtına, sonra da çalışma odasının kapısına baktı ve derin bir iç çekti.`
+`"......Üzgünüm, Genji-san.`
+` Sana bırakıyorum."`
+`"Evet, ......bana bırakın."`
+`"Mümkünse ona alkol verme.`
+` ......Vazgeçilmesi çok zor bir alışkanlık."`
 `"Genji hâlâ gelmedi mi?!!!`
 ` Genji'nin gelmesini engellemeye kim cüret eder?!!`
 ` Ahh, Genji nerede, Genji'yi çağırın!!!"`
 `"Şimdi,`
-` ......lütfen bana bırakın."`
+` ......sonrasını bana bırakın."`
 `"...Mm.`
 ` .........Özür dilerim."`
 `Nanjo başını hafifçe eğdi ve merdivenlerden indi...`
@@ -506,17 +514,17 @@
 ` Ben Genji."`
 `"Genji!!`
 ` Neden beni bu kadar bekletiyorsun?!!`
-` Orada kimse yok değil mi?!"`
+` Orada kimse yok, değil mi?!"`
 `"Evet.`
 ` Yalnızım."`
-`Kinzo çalışma odasındaki yerine döndü ve masanın üzerindeki eski moda bir düğmeye bastı.`
+`Kinzo çalışma odasındaki sandalyesine döndü ve masanın üzerindeki eski moda bir düğmeye bastı.`
 `...Küçük bir gecikmeden sonra kapının ağır sesi duyuldu.`
 `Kinzo, ailesinin çalışma odasına zorla girmeye çalışabileceğini düşünürdü.`
-`Belki de birileri hava almak için pencereyi açmış ve bazı önemli belgeleri etrafa saçmıştı,`
-` ve bu onu son derece üzmüştü.`
+`Ya da belki de birileri bir keresinde hava almak için pencereyi açmış ve onun için önemli araştırma materyalleri olan şeyler etrafa saçılmıştı,`
+` ve bu onu son derece kızdırmıştı.`
 `...Kinzo odasına güvenli bir kilit yerleştirmiş,`
-` kendi izni olmadan kimsenin giremeyeceği bir hale getirmiş ve kendisini kendi yarattığı zindana kilitlemişti.`
-`En çok güvendiği kişi olan Genji odaya girmekte nispeten özgürdü, ancak bu bile mutlak değildi.`
+` kendi izni olmadan kimsenin giremeyeceği bir hâle getirmiş ve kendisini kendi yarattığı zindana kilitlemişti.`
+`En çok güvendiği kişi olan Genji odaya girmekte nispeten özgürdü, ama bu bile her zaman geçerli değildi.`
 `Kinzo kötü bir ruh halindeyse, o bile giremezdi.`
 `.........Diğer herkes onun yüzünü bile görmeden kapıdan konuşmakla sınırlı kalırdı.`
 `Ve çoğu zaman gerçek bir sohbet bile edemeyeceklerdi.`
