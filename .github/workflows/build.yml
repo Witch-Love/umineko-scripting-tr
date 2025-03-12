@@ -40,7 +40,7 @@ jobs:
           wget https://github.com/Witch-Love/umineko-scripting-tr-files/releases/latest/download/locale_tr_game.hash
           zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash locale_tr_game.hash default.cfg tr.cfg || exit 1
           cd ..
-          echo "Kurulum detayları için [buraya](https://witch-love.com/wiki/umineko/installation) bakınız." >> release_notes.md
+          echo "Kurulum detayları için [buraya](https://witch-love.com/umineko/installation) bakınız." >> release_notes.md
 
       - name: Release
         if: github.repository_owner == 'Witch-Love'
