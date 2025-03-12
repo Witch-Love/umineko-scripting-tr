@@ -28308,82 +28308,82 @@ return
 
 *settings_voice_vol
 	;Voice vol
-	notif %dlg_vol = 100 lsp 201,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,405 
-	notif %dlg_vol = 90 lsp 202,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,405 ; x:-40 от 100%
-	notif %dlg_vol = 80 lsp 203,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,405
-	notif %dlg_vol = 70 lsp 204,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,405
-	notif %dlg_vol = 60 lsp 205,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,405
-	notif %dlg_vol = 50 lsp 206,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,405
-	notif %dlg_vol = 40 lsp 207,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,405
-	notif %dlg_vol = 30 lsp 208,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,405
-	notif %dlg_vol = 20 lsp 209,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,405
-	notif %dlg_vol = 10 lsp 210,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,405
-	notif %dlg_vol = 0 lsp 211,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,405
-	if %dlg_vol = 100 lsp 201,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,405
-	if %dlg_vol = 90 lsp 202,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,405
-	if %dlg_vol = 80 lsp 203,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,405
-	if %dlg_vol = 70 lsp 204,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,405
-	if %dlg_vol = 60 lsp 205,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,405
-	if %dlg_vol = 50 lsp 206,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,405
-	if %dlg_vol = 40 lsp 207,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,405
-	if %dlg_vol = 30 lsp 208,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,405
-	if %dlg_vol = 20 lsp 209,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,405
-	if %dlg_vol = 10 lsp 210,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,405
-	if %dlg_vol = 0 lsp 211,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,405
+	notif %dlg_vol = 100 lsp 201,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,434 
+	notif %dlg_vol = 90 lsp 202,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,434 ; x:-40 от 100%
+	notif %dlg_vol = 80 lsp 203,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,434
+	notif %dlg_vol = 70 lsp 204,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,434
+	notif %dlg_vol = 60 lsp 205,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,434
+	notif %dlg_vol = 50 lsp 206,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,434
+	notif %dlg_vol = 40 lsp 207,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,434
+	notif %dlg_vol = 30 lsp 208,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,434
+	notif %dlg_vol = 20 lsp 209,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,434
+	notif %dlg_vol = 10 lsp 210,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,434
+	notif %dlg_vol = 0 lsp 211,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,434
+	if %dlg_vol = 100 lsp 201,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,434
+	if %dlg_vol = 90 lsp 202,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,434
+	if %dlg_vol = 80 lsp 203,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,434
+	if %dlg_vol = 70 lsp 204,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,434
+	if %dlg_vol = 60 lsp 205,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,434
+	if %dlg_vol = 50 lsp 206,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,434
+	if %dlg_vol = 40 lsp 207,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,434
+	if %dlg_vol = 30 lsp 208,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,434
+	if %dlg_vol = 20 lsp 209,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,434
+	if %dlg_vol = 10 lsp 210,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,434
+	if %dlg_vol = 0 lsp 211,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,434
 	;End
 return
 	
 *settings_sfx_vol
 	;Effect vol
-	notif %sfx_vol = 100 lsp 212,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,325 ; x:-40 от 100% y:-80 от нижней
-	notif %sfx_vol = 90 lsp 213,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,325 
-	notif %sfx_vol = 80 lsp 214,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,325
-	notif %sfx_vol = 70 lsp 215,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,325
-	notif %sfx_vol = 60 lsp 216,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,325
-	notif %sfx_vol = 50 lsp 217,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,325
-	notif %sfx_vol = 40 lsp 218,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,325
-	notif %sfx_vol = 30 lsp 219,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,325
-	notif %sfx_vol = 20 lsp 220,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,325
-	notif %sfx_vol = 10 lsp 221,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,325
-	notif %sfx_vol = 0 lsp 222,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,325
-	if %sfx_vol = 100 lsp 212,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,325
-	if %sfx_vol = 90 lsp 213,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,325
-	if %sfx_vol = 80 lsp 214,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,325
-	if %sfx_vol = 70 lsp 215,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,325
-	if %sfx_vol = 60 lsp 216,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,325
-	if %sfx_vol = 50 lsp 217,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,325
-	if %sfx_vol = 40 lsp 218,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,325
-	if %sfx_vol = 30 lsp 219,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,325
-	if %sfx_vol = 20 lsp 220,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,325
-	if %sfx_vol = 10 lsp 221,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,325
-	if %sfx_vol = 0 lsp 222,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,325
+	notif %sfx_vol = 100 lsp 212,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,347 ; x:-40 от 100% y:-80 от нижней
+	notif %sfx_vol = 90 lsp 213,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,347 
+	notif %sfx_vol = 80 lsp 214,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,347
+	notif %sfx_vol = 70 lsp 215,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,347
+	notif %sfx_vol = 60 lsp 216,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,347
+	notif %sfx_vol = 50 lsp 217,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,347
+	notif %sfx_vol = 40 lsp 218,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,347
+	notif %sfx_vol = 30 lsp 219,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,347
+	notif %sfx_vol = 20 lsp 220,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,347
+	notif %sfx_vol = 10 lsp 221,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,347
+	notif %sfx_vol = 0 lsp 222,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,347
+	if %sfx_vol = 100 lsp 212,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,347
+	if %sfx_vol = 90 lsp 213,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,347
+	if %sfx_vol = 80 lsp 214,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,347
+	if %sfx_vol = 70 lsp 215,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,347
+	if %sfx_vol = 60 lsp 216,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,347
+	if %sfx_vol = 50 lsp 217,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,347
+	if %sfx_vol = 40 lsp 218,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,347
+	if %sfx_vol = 30 lsp 219,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,347
+	if %sfx_vol = 20 lsp 220,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,347
+	if %sfx_vol = 10 lsp 221,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,347
+	if %sfx_vol = 0 lsp 222,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,347
 	;End
 return
 
 *settings_bgm_vol
 	;BGM vol
-	notif %bgm_vol = 100 lsp 223,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,245 ; x:-40 от 100% y:-80 от нижней
-	notif %bgm_vol = 90 lsp 224,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,245 
-	notif %bgm_vol = 80 lsp 225,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,245
-	notif %bgm_vol = 70 lsp 226,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,245
-	notif %bgm_vol = 60 lsp 227,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,245
-	notif %bgm_vol = 50 lsp 228,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,245
-	notif %bgm_vol = 40 lsp 229,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,245
-	notif %bgm_vol = 30 lsp 230,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,245
-	notif %bgm_vol = 20 lsp 231,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,245
-	notif %bgm_vol = 10 lsp 232,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,245
-	notif %bgm_vol = 0 lsp 233,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,245 ;1385
-	if %bgm_vol = 100 lsp 223,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,245
-	if %bgm_vol = 90 lsp 224,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,245
-	if %bgm_vol = 80 lsp 225,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,245
-	if %bgm_vol = 70 lsp 226,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,245
-	if %bgm_vol = 60 lsp 227,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,245
-	if %bgm_vol = 50 lsp 228,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,245
-	if %bgm_vol = 40 lsp 229,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,245
-	if %bgm_vol = 30 lsp 230,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,245
-	if %bgm_vol = 20 lsp 231,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,245
-	if %bgm_vol = 10 lsp 232,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,245
-	if %bgm_vol = 0 lsp 233,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,245
+	notif %bgm_vol = 100 lsp 223,":a/2,0,3;graphics\menu\SystemBtn\circle_100.png",1650+%mcoord_add,260 ; x:-40 от 100% y:-80 от нижней
+	notif %bgm_vol = 90 lsp 224,":a/2,0,3;graphics\menu\SystemBtn\circle_90.png",1610+%mcoord_add,260 
+	notif %bgm_vol = 80 lsp 225,":a/2,0,3;graphics\menu\SystemBtn\circle_80.png",1570+%mcoord_add,260
+	notif %bgm_vol = 70 lsp 226,":a/2,0,3;graphics\menu\SystemBtn\circle_70.png",1530+%mcoord_add,260
+	notif %bgm_vol = 60 lsp 227,":a/2,0,3;graphics\menu\SystemBtn\circle_60.png",1490+%mcoord_add,260
+	notif %bgm_vol = 50 lsp 228,":a/2,0,3;graphics\menu\SystemBtn\circle_50.png",1450+%mcoord_add,260
+	notif %bgm_vol = 40 lsp 229,":a/2,0,3;graphics\menu\SystemBtn\circle_40.png",1410+%mcoord_add,260
+	notif %bgm_vol = 30 lsp 230,":a/2,0,3;graphics\menu\SystemBtn\circle_30.png",1370+%mcoord_add,260
+	notif %bgm_vol = 20 lsp 231,":a/2,0,3;graphics\menu\SystemBtn\circle_20.png",1330+%mcoord_add,260
+	notif %bgm_vol = 10 lsp 232,":a/2,0,3;graphics\menu\SystemBtn\circle_10.png",1290+%mcoord_add,260
+	notif %bgm_vol = 0 lsp 233,":a/2,0,3;graphics\menu\SystemBtn\circle_0.png",1250+%mcoord_add,260 ;1385
+	if %bgm_vol = 100 lsp 223,":a/2,0,3;graphics\menu\SystemBtn\circle_100_b.png",1650+%mcoord_add,260
+	if %bgm_vol = 90 lsp 224,":a/2,0,3;graphics\menu\SystemBtn\circle_90_b.png",1610+%mcoord_add,260
+	if %bgm_vol = 80 lsp 225,":a/2,0,3;graphics\menu\SystemBtn\circle_80_b.png",1570+%mcoord_add,260
+	if %bgm_vol = 70 lsp 226,":a/2,0,3;graphics\menu\SystemBtn\circle_70_b.png",1530+%mcoord_add,260
+	if %bgm_vol = 60 lsp 227,":a/2,0,3;graphics\menu\SystemBtn\circle_60_b.png",1490+%mcoord_add,260
+	if %bgm_vol = 50 lsp 228,":a/2,0,3;graphics\menu\SystemBtn\circle_50_b.png",1450+%mcoord_add,260
+	if %bgm_vol = 40 lsp 229,":a/2,0,3;graphics\menu\SystemBtn\circle_40_b.png",1410+%mcoord_add,260
+	if %bgm_vol = 30 lsp 230,":a/2,0,3;graphics\menu\SystemBtn\circle_30_b.png",1370+%mcoord_add,260
+	if %bgm_vol = 20 lsp 231,":a/2,0,3;graphics\menu\SystemBtn\circle_20_b.png",1330+%mcoord_add,260
+	if %bgm_vol = 10 lsp 232,":a/2,0,3;graphics\menu\SystemBtn\circle_10_b.png",1290+%mcoord_add,260
+	if %bgm_vol = 0 lsp 233,":a/2,0,3;graphics\menu\SystemBtn\circle_0_b.png",1250+%mcoord_add,260
 	;End
 return
 
@@ -28759,14 +28759,14 @@ return
 
 *settings_textbox
 	;Type
-	notif %msgwnd_type = 2 lsp 247,":s;#C7C7C7#FFFFFF`{p:9:TypeN}",925+%mcoord_add,497
-	if %msgwnd_type = 2 lsp 247,":s;#FFFFFF`{p:9:TypeN}",925+%mcoord_add,497
-	notif %msgwnd_type = 1 lsp 248,":s;#C7C7C7#FFFFFF`{p:9:TypeB}",1135+%mcoord_add,497
-	if %msgwnd_type = 1 lsp 248,":s;#FFFFFF`{p:9:TypeB}",1135+%mcoord_add,497
-	notif %msgwnd_type = 0 lsp 249,":s;#C7C7C7#FFFFFF`{p:9:TypeL}",1335+%mcoord_add,497
-	if %msgwnd_type = 0 lsp 249,":s;#FFFFFF`{p:9:TypeL}",1335+%mcoord_add,497
-	notif %msgwnd_type = 3 lsp 250,":s;#C7C7C7#FFFFFF`{p:9:TypeT}",1530+%mcoord_add,497
-	if %msgwnd_type = 3 lsp 250,":s;#FFFFFF`{p:9:TypeT}",1530+%mcoord_add,497
+	notif %msgwnd_type = 2 lsp 247,":s;#C7C7C7#FFFFFF`{p:9:TipN}",1100+%mcoord_add,497
+	if %msgwnd_type = 2 lsp 247,":s;#FFFFFF`{p:9:TipN}",1100+%mcoord_add,497
+	notif %msgwnd_type = 1 lsp 248,":s;#C7C7C7#FFFFFF`{p:9:TipB}",1265+%mcoord_add,497
+	if %msgwnd_type = 1 lsp 248,":s;#FFFFFF`{p:9:TipB}",1265+%mcoord_add,497
+	notif %msgwnd_type = 0 lsp 249,":s;#C7C7C7#FFFFFF`{p:9:TipL}",1420+%mcoord_add,497
+	if %msgwnd_type = 0 lsp 249,":s;#FFFFFF`{p:9:TipL}",1420+%mcoord_add,497
+	notif %msgwnd_type = 3 lsp 250,":s;#C7C7C7#FFFFFF`{p:9:TipT}",1575+%mcoord_add,497
+	if %msgwnd_type = 3 lsp 250,":s;#FFFFFF`{p:9:TipT}",1575+%mcoord_add,497
 	;End
 return
 
@@ -32956,10 +32956,10 @@ if %game_language != 5 jumpf
 
 if %game_language != 6 jumpf
 	lsp 300,":s;#FFFFFF`{p:10:——————}{p:9:{a:c: Oyun Ayarları }{p:10:——————}}",135,%y-100
-	lsp 301,":s;#FFFFFF`{p:8:Oyun dili}",135,%y
-	lsp 302,":s;#FFFFFF`{p:8:Pencere boyutu}",135,%y+100
-	lsp 303,":s;#FFFFFF`{p:8:Pencere modu}",135,%y+200
-	lsp 304,":s;#FFFFFF`{p:8:Oynanış}",135,%y+300
+	lsp 301,set_game_language,135,%y
+	lsp 302,set_window_size,135,%y+100
+	lsp 303,set_display_mode,135,%y+200
+	lsp 304,set_interface,135,%y+300
 ~
 
 *first_setting2
@@ -33169,12 +33169,12 @@ if %game_language != 5 jumpf
 	if %full_window_auto = 0 lsp 281,":s;#FFFFFF`{p:8:Auto}",1559,%y+200
 ~
 if %game_language != 6 jumpf
-	notif  %full_window_auto = 1 lsp 279,":s;#C7C7C7#FFFFFF`{p:8:Pencereli}",850,%y+200
-	if %full_window_auto = 1 lsp 279,":s;#FFFFFF`{p:8:Pencereli}",850,%y+200
-	notif  %full_window_auto = 2 lsp 280,":s;#C7C7C7#FFFFFF`{p:8:Tam Ekran}",1213,%y+200
-	if %full_window_auto = 2 lsp 280,":s;#FFFFFF`{p:8:Tam Ekran}",1213,%y+200
-	notif  %full_window_auto = 0 lsp 281,":s;#C7C7C7#FFFFFF`{p:8:Otomatik}",1559,%y+200
-	if %full_window_auto = 0 lsp 281,":s;#FFFFFF`{p:8:Otomatik}",1559,%y+200
+	notif  %full_window_auto = 1 lsp 279,set_display_mode_win,settings_base_off5,%y+200
+	if %full_window_auto = 1 lsp 279,set_display_mode_win_on,settings_base_off5,%y+200
+	notif  %full_window_auto = 2 lsp 280,set_display_mode_full,settings_base_off6,%y+200
+	if %full_window_auto = 2 lsp 280,set_display_mode_full_on,settings_base_off6,%y+200
+	notif  %full_window_auto = 0 lsp 281,set_display_mode_auto,settings_base_off7,%y+200
+	if %full_window_auto = 0 lsp 281,set_display_mode_auto_on,settings_base_off7,%y+200
 ~
 return
 
@@ -33218,10 +33218,10 @@ if %game_language != 5 jumpf
 	if %interface_kb_dual = 1 lsp 271,":s;#FFFFFF`{p:8:DualShock}",1377,%y+300
 ~
 if %game_language != 6 jumpf
-	notif %interface_kb_dual = 0 lsp 270,":s;#C7C7C7#FFFFFF`{p:8:KB+Mouse}",1010,%y+300
-	if %interface_kb_dual = 0 lsp 270,":s;#FFFFFF`{p:8:KB+Mouse}",1010,%y+300 : vsp 100,0
-	notif %interface_kb_dual = 1 lsp 271,":s;#C7C7C7#FFFFFF`{p:8:DualShock}",1377,%y+300
-	if %interface_kb_dual = 1 lsp 271,":s;#FFFFFF`{p:8:DualShock}",1377,%y+300
+	notif %interface_kb_dual = 0 lsp 270,set_interface_kb_mouse,settings_base_off3,%y+300
+	if %interface_kb_dual = 0 lsp 270,set_interface_kb_mouse_on,settings_base_off3,%y+300 : vsp 100,0
+	notif %interface_kb_dual = 1 lsp 271,set_interface_dualshock,settings_base_off4,%y+300
+	if %interface_kb_dual = 1 lsp 271,set_interface_dualshock_on,settings_base_off4,%y+300
 ~
 return
 
@@ -33239,7 +33239,7 @@ return
 	if %game_language = 3 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}自定义}",1280,%y+100
 	if %game_language = 4 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}自定義}",1280,%y+100
 	if %game_language = 5 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Personalizzata}",1280,%y+100
-	if %game_language = 6 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Özel}",1280,%y+100
+	if %game_language = 6 lsp 299,set_window_size_custom,1280,%y+100
 	~
 	lsp 297,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,%y+112
 	lsp 298,":a/2,0,3;graphics\menu_en\config\config_right.png",1640,%y+112

@@ -7,8 +7,7 @@ if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Gerçek ve İllüzyo
 
 ;--Textboxes--
 
-if %CHIRU_MODE == 0 stralias msgwnd,":a;graphics\system\wnd\msgwnd_en.png"
-if %CHIRU_MODE == 1 stralias msgwnd,":a;graphics\system\wnd\msgwnd_ep5_en.png"
+stralias msgwnd,":a;graphics\system\wnd\msgwnd.png"
 stralias msgwnd2,":a;graphics\system\wnd\msgwnd2.png"
 stralias msgwnd3,":a;graphics\system\wnd\msgwnd3.png"
 stralias msgwnd4,":a;graphics\system\wnd\msgwnd4.png"
