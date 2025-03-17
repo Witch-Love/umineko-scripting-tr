@@ -12,7 +12,7 @@
 ` Oh, tanrım, evet, bu pasta da öyle, uskumrunun sıkılmış suyunu un ve yumurtayla karıştırıp pişirdiğinizde yumuşacık oluyor.`
 ` Hoh-hoh-hoh-ho."`
 `"Bu doğru olsaydı inanılmaz olurdu.`
-` Belki de uskumru pastası babamın dükkanlarındaki yeni menüde yer alır."`
+` Belki de uskumru pastası Babamın dükkanlarındaki yeni menüde yer alır."`
 `"Wahahaha!`
 ` Ne de olsa uskumru besleyici ve de oldukça sağlıklı bir imaja sahip.`
 ` Kadınlar ve yaşlılar arasında gerçekten popüler olabilir!`
@@ -89,10 +89,10 @@
 `"Dahası, ailelerimizin yaygarasına bakılırsa, davetli bir misafir değil gibi gözüküyor.`
 ` ......Bu kulağa ilginç geliyor."`
 `"Aslında {f:5:Beatrice} adında bir kadının var olmadığını söyleyebilmek için hiçbir kanıt yok.`
-` ......Rudolf Dayı'nın Şeytan'ın İspatı dediği şey bu.`
+` ......Rudolf Dayımın Şeytan'ın İspatı dediği şey bu.`
 ` ......Hiçbirimiz kendisine {f:5:Beatrice} diyen bir kadının varlığından haberdar değildik."`
 `"...Ama bu {f:5:Beatrice}'in var olma ihtimalini inkâr edebileceğimiz anlamına gelmiyor."`
-`"......Doktor Nanjo, büyükbabamla uzun zamandır arkadaşsınız, değil mi?"`
+`"......Doktor Nanjo, Büyükbabamla uzun zamandır arkadaşsınız, değil mi?"`
 `".....................`
 ` ...Aile konferanslarında Krauss-san ve diğerleri tarafından bu konuda oldukça fazla sorgulandığım bir dönem oldu.`
 ` ......Uzun zaman önce Kinzo-san'ın {f:5:Beatrice} adında bir metresi ve ondan gayrimeşru bir çocuğu olup olmadığını öğrenmek istiyorlardı."`
@@ -104,8 +104,8 @@
 `"......Genji-san'ın onlara bir şey söylediğini zannetmiyorum.`
 ` ......Ve sanırım, bir sonraki en eski dostu olan bana yöneldiler..."`
 `"Ve?`
-` ......Nihayetinde, Doktor Nanjo,`
-` ......büyükbabamın {f:5:Beatrice} adında bir metresi {i:var mıydı}?"`
+` ......Tüm bunlar konuşulduğuna göre, Doktor Nanjo,`
+` ......Büyükbabamın {f:5:Beatrice} adında bir metresi {i:var mıydı}?"`
 `"...............Vardı.`
 ` ...Hayır, onunla hiç tanışmadım.`
 ` ...Ancak böyle bir kadınla ilişkisi olduğunu Kinzo-san'dan duydum.`
@@ -123,7 +123,7 @@
 ` ......Şimdi gerçekten ortaya çıktığına göre, "olduğunu" varsaymak zorundayız."`
 `"Bu biraz aceleye getirilmiş bir iddia.`
 ` ......Birilerinin Ushiromiya'nın miras meselesiyle ilgili sorunlardan haberdar olması,`
-` Büyükbaba'nın uzun zaman önceki metresiyle ilişkisini öğrenmesi,`
+` Büyükbabamın uzun zaman önceki metresiyle ilişkisini öğrenmesi,`
 ` ve onun kimliğine bürünerek miras meselesine dahil olmaya çalışması daha gerçekçi."`
 `"......Evet, bu daha gerçekçi.`
 ` ...Ancak, onun gerçekten de izole bir şekilde yaşamış, büyükbaba tarafından unutulmuş,`
@@ -161,10 +161,10 @@
 `"Ihihi!`
 ` Sanki miras için ailelerimiz arasındaki savaş hiç korkunç değilmiş gibi."`
 `"......Haklısın.`
-` ...Babam ve Rudolf Amca oldukça sertler ve Eva Hala dövüş sanatları eğitimi bile aldı.`
+` ...Babam ve Rudolf Amca oldukça güçlüler ve Eva Hala bile dövüş sanatları eğitimi aldı.`
 ` ......Bir şey olmaz.`
 ` Evet..."`
-`Jessica söylememişti ama kendi babasının miras konusunda diğer tüm kardeşlere karşı çıktığını az çok fark etmişti.`
+`Jessica söylememişti ama kendi Babasının miras konusunda diğer tüm kardeşlere karşı çıktığını az çok fark etmişti.`
 `Çocukların önünde her şey yolundaymış gibi davranıyorlardı ama akşam yemeğinde olduğu gibi bu rolü bir kenara bıraktıklarında ortalık birbirine giriyordu.`
 `Bunu fark eden Jessica'nın,`
 ` babası ve annesinin başlarının bir tür belaya girmiş olmasından,`
@@ -254,7 +254,7 @@
 ` O bir cadı.`
 ` ......Taşlarını {y:0:İnsan}{n:0:insan}ların hareket ettiremeyeceği şekilde hareket ettirebilir.`
 ` .........Battler, şu anda bu konudaki algın yanlış.`
-` ...Battler, Kyrie Teyze'nin satranç tahtası düşüncesini seviyorsun, değil mi?"`
+` ...Battler, Kyrie Yengenin satranç tahtası düşüncesini seviyorsun, değil mi?"`
 `".........Evet.`
 ` Rakibinin konumunda durduğun bu düşünce tarzını seviyorum."`
 `"İşte bu yüzden takılıp kalıyorsun.`
@@ -275,7 +275,7 @@
 `Bu, bunu söylemenin biraz garip bir yoluydu.`
 `{n}Hafızasının bulanık olduğunu ima ediyormuş gibi değildi.`
 `"......Biz hizmetkârlar için {f:5:Beatrice}-sama bu malikânenin bir başka efendisi.`
-` ......Bazıları sanki Efendi'den etkilendiğimiz için bu söylentiyi yaymışız gibi konuşuyor, ama..."`
+` ......Bazıları sanki Efendiden etkilendiğimiz için bu söylentiyi yaymışız gibi konuşuyor, ama..."`
 `"......Burada çalışmaya başladığımdan beri, {f:5:Beatrice}-sama'nın hikâyesi çoktan kulaktan kulağa yayılmıştı."`
 `"Bunu daha önce de duymuştum.`
 ` ...Ona saygı göstermezsen lanetleniyorsun ve hatta gerçekten de en azından bir hizmetkâr bu şekilde bir kaza geçirmişti, değil mi?"`
@@ -340,7 +340,7 @@
 `"T-Tabii ki.`
 ` Nişan yüzüğü basit bir aksesuar değil.`
 ` Sevenler arasında bir yemin, bir yüzük şeklinde verilen değerli bir söz."`
-`".........*giggle*.`
+`".........*kıkırdar*.`
 ` ...Bu durumda, hemen evlenirsek, anlamını kaybeder, değil mi?"`
 `"O-O zaman nişan yüzüğü olmazdı.`
 ` Sana evlilik yüzüğü olarak verirdim.`
@@ -376,7 +376,7 @@
 `"Bu, ...bunda bir sorun yok mu...?`
 ` Tanrı'nın onayı olmadan, umm, evliliğimizi ilan etmemiz doğru mu......?"`
 `"Evet.`
-` Tanrı'ya, babama ve anneme bunu daha sonra anlatmamız yeterli olacaktır.`
+` Tanrıya, Babama ve Anneme bunu daha sonra anlatmamız yeterli olacaktır.`
 ` İkimizin evlendiğini ilan edeceğiz.`
 ` ..........Kimse bunu bozamaz."`
 `".........George-san......"`
@@ -425,7 +425,7 @@
 `George kafasının içinde defalarca prova ettiği o cümleyi söyledi.`
 `"Ben, ......Ben bu yüzüğü istediğin parmağına takmanı, ve bunun senin cevabın olmasını istiyorum.`
 ` Umm, yani, yarın sabaha kadar......"`
-`"......*giggle*."`
+`"......*kıkırdar*."`
 `Shannon gülümsedi, yüzüğü aldı,`
 ` ......ve tamamen doğal bir hareketle sol elinin yüzük parmağına taktı.`
 `Gerçekten de, ......çok ama çok doğal bir hareket gibi görünmüştü,`
@@ -456,7 +456,7 @@
 `"......Neden Altın Diyar'a gitmeni sağlayacak vaadi bir kenara attın...?!!"`
 `"Oh evet.`
 ` Yüzüğü kabul ederek, ......{f:5:Beatrice}-sama'nın verdiği söz boşa gitmiş oldu, değil mi?`
-` ......*giggle*, üzgünüm."`
+` ......*kıkırdar*, üzgünüm."`
 `"............Şimdi, ben, sen, George-sama, Efendi, her birimiz aynı durumdayız.`
 ` 13 kişi kurban edilecek.`
 ` Sadece 5 kişi Altın Diyar'a davet edilecek.`
@@ -514,7 +514,7 @@
 ` Hayat yolculuğunda varılması gereken yerdir...`
 `İşte böyle, Kanon.`
 `Uğruna çok uğraştığın o söz şimdi boşa gitti.`
-`*cackle*cackle*cackle*cackle*cackle*!`
+`*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!`
 `Pekâlâ, şimdi.`
 ` Bununla birlikte, tüm taşlar eşit koşullarda.`
 `18 taş var! 13'ü kurban edilecek!`
@@ -568,7 +568,7 @@
 ` ...Ama, .........ne yapabiliriz ki?`
 ` {i:Şeytanları kanıtladın!}`
 ` Sen kazandın...!"`
-`"*cackle*cackle*cackle*...!`
+`"*kıKIr*kıKIr*kıKIr*...!`
 ` Şeytan'ın İspatı, bir şeyi kanıtlamanın imkânsız olduğunu göstermek için kullanmayı sevdiğiniz kullanışlı bir bahaneydi, ......ama şimdi can düşmanınız haline geldi, değil mi?"`
 `"......Bana zulmetme, büyük cadı.`
 ` .........Ben seni çoktan kabul ettim.`

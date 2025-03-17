@@ -102,7 +102,7 @@
 ` Ama bir gün Kinzo tarafından çağrıldım,`
 ` ...ve onun gizli sanatları sayesinde sonsuza dek onun tutsağı hâline geldim."`
 `"............Bunu daha önce hiç duymamıştım.`
-` Ushiromiya ailesinden duyduğumuza göre, sen Büyükbaba tarafından çağrılmış,`
+` Ushiromiya ailesinden duyduğumuza göre, sen Büyükbabam tarafından çağrılmış,`
 ` onunla şeytan sözleşmesi gibi bir şey yapmış ve ona altın vermişsin."`
 `"Evet.`
 ` Bu doğru.`
@@ -158,7 +158,7 @@
 ` Beni bu köşke kapattı ve kalbimi kazanmak için sonsuza değin çabaladı."`
 `"...O gerçekten baskıcı biri.`
 ` Sanırım kimse dikkafalı erkeklerden hoşlanmıyor."`
-`".........*cackle*cackle*.`
+`".........*kıKIr*kıKIr*.`
 ` Kurlarına karşılık verip vermediğimden ziyade,`
 ` bir erkeğin benim için bu kadar çaresiz kalması...bir kadın olarak hiç de hoş değildi."`
 `"......Ancak, asla başımı sallayıp onaylamadım.`
@@ -185,7 +185,7 @@
 ` Kendimi korumak ve rüzgârlar tarafından paramparça olmaktan kaçınmak benim için bile kolay değildi."`
 `"Mümkün olduğunca kaçınmak istediğim nihai bir uygulamaydı.`
 ` Ancak Kinzo'nun bariyerini aşmanın başka bir yolu yoktu."`
-`"......*cackle*, ne de olsa ben özgür bir ruhum.`
+`"......*kıKIr*, ne de olsa ben özgür bir ruhum.`
 ` Kinzo'nun ömrü bitene kadar bir kafeste tutulmaya tahammül edemezdim."`
 `Beato'nun anlatıp durduğu, etten bedenini bir kenara atma hikâyesini,`
 ` intihardan başka bir şey olarak algılayamıyordum.`
@@ -205,7 +205,7 @@
 `"...Evet evet, gerçekten de korkutucu bir insan.`
 ` Normalde, tek taraflı arzular beslediğin kadının kendi canına kıydığını görmek, aşkı yüz yıllık bile olsa herkesin aklını başına getirmeye yeter.`
 ` ......Sanırım onu büyücü yapan da tam olarak bu.`
-` ......*cackle*."`
+` ......*kıKIr*."`
 `"O anlaşılmaz cadı-kız konuşmalarıyla bilmece gibi konuşmaya çalışma.`
 ` ...Kısacası, ne söylemeye çalışıyorsun?"`
 `"Kinzo, ruh olduktan sonra bile kaçmama izin vermedi.`
@@ -467,7 +467,7 @@
 `Ronove patavatsızca güldü.`
 `Nedense üslubu hoşuma gitmedi, bu yüzden onunla birlikte gülmek istemedim.`
 `"......Doğru.`
-` Rosa Teyze söylemişti.`
+` Rosa Hala söylemişti.`
 ` ......‘{f:5:Beatrice} öldü’ mü?`
 ` "Onu ben öldürdüm" mü?`
 ` Bunlar da ne demek oluyor...?"`
@@ -800,7 +800,7 @@
 ` Rudolf, o zamanlar cadı hikâyesi senin üzerinde kurtlardan çok daha büyük bir etki yaratmıştı.`
 ` Çok iyi hatırlıyorum.`
 ` Sırtıma yapıştığın o geceleri hatırlamıyor musun?"`
-`"...*giggle*.`
+`"...*kıkırdar*.`
 ` Rudolf-san'ın bile böyle sevimli bir dönemi varmış demek."`
 `"Kapa çeneni.`
 ` Sadece bir çocuktum."`
@@ -919,7 +919,7 @@
 `"......Oradan geçersek, dış dünyaya mı çıkacağız?"`
 `"Evet."`
 `"........................Kurtlar gerçekten yok mu?"`
-`"*giggle*.`
+`"*kıkırdar*.`
 ` Evet, hiç yok."`
 `".............................."`
 `Onu sadece kısa bir gezintiye çıkarmayı planlamıştım,`
@@ -1157,14 +1157,14 @@
 ` .........19. kişi olarak ortaya çıkmana rağmen,`
 ` ......öldüğünü mü söylüyorsun......?"`
 `"Benimle kafa bulma, bu olamaz...!`
-` Rosa Teyze bir çocuktu ve panikliyordu.`
-` Doktor falan yoktu.`
-` Muhtemelen senin öldüğünü düşünerek bir hata etti ve sen muhtemelen, şey, ......görünürde ölü gibi duruyordun ama aslında hayattaydın.`
+` Rosa Hala o zaman daha çocuktu ve panikliyordu.`
+` Doktor falan da yoktu.`
+` Muhtemelen senin öldüğünü düşünerek bir hata etti ve sen muhtemelen, şey, ......görünürde ölü gibiydin ama aslında hayattaydın.`
 ` Değil mi?!"`
 `Bu olamaz.`
 ` Yaşadığı ortada.`
-`{n}Aksi takdirde, burada karşımda olamazdı, değil mi...?!`
-`...Çocuk yaştaki Rosa Teyze ağlayarak {f:5:Beatrice}'in bedenini sallıyordu.`
+`{n}Aksi takdirde burada karşımda olamazdı, değil mi...?!`
+`...Çocuk yaştaki Rosa Hala ağlayarak {f:5:Beatrice}'in bedenini sallıyordu.`
 `O yüze ben de baktım,`
 ` ...............ama gözleri hâlâ açıktı ve gerçekten de ölüydü.`
 `...Görünürde ölü olması gibi bir şeyle geçiştirmek istedim,`
@@ -1181,8 +1181,8 @@
 `Bunca zamandır Büyükbabam tarafından gizli bir köşkte hapsedilmişti.`
 `Ve sonra intikamını almak için planlar yaptı,`
 ` ......ve bir dizi korkunç cinayet işledi!`
-`Rosa Teyze muhtemelen yanılıp onun öldüğünü düşündü.`
-` Ama o aslında yaşıyordu ve Rosa Teyze gider gitmez mucizevi bir şekilde yeniden nefes almaya başladı.`
+`Rosa Hala muhtemelen yanılıp onun öldüğünü düşündü.`
+` Ama o aslında yaşıyordu ve Rosa Hala gider gitmez mucizevi bir şekilde yeniden nefes almaya başladı.`
 `......Ve sonra bir şekilde bugüne kadar hayatta kaldı ve intikam sahnesinin perdesini açtı.`
 `Aksi takdirde, gerçekler birbirine uymuyor!!`
 `"......Beni bu kadar kolay kandırmana izin vermeyeceğim.`
@@ -1192,13 +1192,13 @@
 ` Bu çok açık!!"`
 `"{i:Bu} sana nasıl {i:hayatta} gibi görünüyor?`
 ` {p:1:O kesinlikle öldü}!"`
-`".................................mgghhhh..."`
-`19. kişinin Büyükbaba'nın metresi, yani insan {f:5:Beatrice} olduğuna dair teorim çöktü.`
+`".................................ıııhhhh..."`
+`19. kişinin Büyükbabamın metresi, yani insan {f:5:Beatrice} olduğuna dair teorim çöktü.`
 `...Defansif pozisyonumdan karşı atağa geçmeyi başardığımı sanmıştım ama......`
 `"......O hâlde, ......sen de kimsin?`
 ` Sen az önce öldün, tam şu anda!`
 ` Sakın bana kendini büyüyle dirilttiğini falan söyleme!!"`
-`"*cackle*cackle*.`
+`"*kıKIr*kıKIr*.`
 ` Sanırım bunu zaten açıklamıştım."`
 `"......Orada yatan ben, kuşkusuz ruhumu taşıyor,`
 ` ama o beden, beni fiziksel dünyaya bağlayan etten bir kafesten başka bir şey değildi.`
@@ -1209,7 +1209,7 @@
 ` Kurabiye yemek yerine dinleyeceğim!`
 ` Bu da ne... Bu boş.`
 ` Hey, biraz daha siyah çay alabilir miyim?"`
-`"*cackle*cackle*!`
+`"*kıKIr*kıKIr*!`
 ` Ronove.`
 ` Misafirimiz siyah çay istiyor."`
 `Beato ellerini çırptığında Ronove ortaya çıktı.`
@@ -1243,7 +1243,7 @@
 `"......Rosa.`
 ` Muhtemelen ölümüme sebep olduğun için pişmanlık hissediyorsundur.`
 ` Ama sana teşekkür etmeliyim.`
-` *cackle*cackle*...!"`
+` *kıKIr*kıKIr*...!"`
 `Rosa artık ortalarda görünmüyordu.`
 ` Doktor çağırmaya mı gitmişti, yoksa korkutucu bir hâl alan bu sahneden kaçmış mıydı?`
 `...Bunun artık bir önemi yok.`
@@ -1265,16 +1265,16 @@
 `Ancak, ben Sonsuz Cadı'yım.`
 `{n}Bin yıldır yaşayan Altın Cadı.`
 `{n}Sayılabilir herhangi bir sayıda gün beklemek bir sorun teşkil etmiyor.`
-`*cackle*cackle*. Oh, Kinzo.`
+`*kıKIr*kıKIr*. Oh, Kinzo.`
 `{n}Şu anda burada olmadığın için pişman olabilirsin.`
 `{n}Artık beni yakalayamayacaksın.`
-`{n}...*cackle*cackle*!`
+`{n}...*kıKIr*kıKIr*!`
 `".........Ve sonra da altın kelebeklere dönüşerek ormanda saklandın ve büyü gücünün geri gelmesini mi bekledin? Bunu mu demek istiyorsun?"`
 `"Evet, doğru.`
 ` Bu formu seni aşağılamak için kullanıyorum ama normalde altın kelebekler olarak formumu sürdürmek benim için büyü açısından daha kolay."`
 `"Kendini zorlama ve kolay formunu kullan.`
 ` Sinir bozucu kahkahalarını duymasam da olur."`
-`"*cackle*cackle*.`
+`"*kıKIr*kıKIr*.`
 ` Kelebeklere dönüşüp ormana karıştığımda Kinzo'nun beni bulabilmesi artık mümkün değildi.`
 ` ......Ancak Kinzo hiç bir şey yapmadan öylece duracak değildi.`
 ` Yine de beni hemen yakalayabilmek için bir plan yapamazdı."`
@@ -1282,7 +1282,7 @@
 ` ve gücümü yeniden kazanmamı engellemek için harekete geçti."`
 `".........Ah, ah. Tek söyleyebileceğim Kinzo'nun azminin hayal gücüne meydan okuduğu.`
 ` ...Böyle biri tarafından seviliyor olmak oldukça zor.`
-` *cackle*cackle*!"`
+` *kıKIr*kıKIr*!"`
 `"Kelebeklere dönüştükten sonra gitmeni engellemenin bir yolu mu?`
 ` Ne yani, tüm ormanın etrafına böcek ağı mı ördü?"`
 `"Aynen öyle.`
@@ -1296,7 +1296,7 @@
 ` Büyülü güce sahip varlıkları ve diğer bağlantılı şeyleri cezbediyordu.`
 ` ......Leydimin de onlardan biri olduğunu tahmin ediyorum.`
 ` Biraz daha çaya ne dersiniz?"`
-`"*cackle*cackle*, lütfen.`
+`"*kıKIr*kıKIr*, lütfen.`
 ` ......İnsanlara zarar verdiler ve muhtemelen arkalarında birkaç ürkütücü efsane bıraktılar."`
 `"Bu küçük tapınak çok eski zamanlarda onlardan haberdar olan Doğulu bir büyücü tarafından inşa edilmiş.`
 ` Uzun zaman geçti ve bu güç kayboldu.`
@@ -1361,7 +1361,7 @@
 ` Ve bunlar olurken, siz insanlar tam bir karmaşaya sürükleniyor,`
 ` bana karşı çıkmaya çalışırken bana her türlü insan etkileşimini gösteriyor ve beni çok eğlendiriyorsunuz.`
 ` Kinzo'nun bu oyununu gerçekten seviyorum!`
-` *cackle*cackle*."`
+` *kıKIr*kıKIr*."`
 `"Aaaaaaaaaahh!!`
 ` Bu tür bir büyü hikâyesine kesinlikle inanmayacağım!`
 ` ......O zaman sen de kimsin?!`
@@ -1372,7 +1372,7 @@
 ` Kimsin sen?!!`
 ` Sen 19. kişi değil misin?!"`
 `"Bu doğru, ben kesinlikle 19. kişiyim.`
-` *cackle*cackle*cackle*!`
+` *kıKIr*kıKIr*kıKIr*!`
 ` Ama bu iyi değil, değil mi...?`
 ` Hiç de iyi değil!!"`
 `"`
@@ -1391,7 +1391,7 @@
 ` Suçlu 18 kişiden biri olamaz!"`
 `"O zaman nesin sen, neden buradasın?`
 ` Eğer 19. kişi yoksa, o zaman kılık değiştirmiş 18 kişiden biri olduğunu mu söylüyorsun?!"`
-`"*cackle*cackle*!`
+`"*kıKIr*kıKIr*!`
 ` Her ne kadar kullanmak konusunda isteksiz olsan da,`
 ` senin için 18 kişinin birinden şüphe etmek, tıpkı rok atmak gibi son bir kaçış yolu işlevi görebilir."`
 `".........Ancak benim için işin zor kısmı daha yeni başlıyor.`
@@ -1407,7 +1407,7 @@
 ` Kahretsin, kahretsin kahretsin!!"`
 `"Görünüşe göre seninle üç raunt süren oyunum nihayet sona eriyor, değil mi?`
 ` Artık kaçacak bir yerin kalmadı.`
-` *cackle*cackle*!`
+` *kıKIr*kıKIr*!`
 ` O çok sevdiğin 18 kişinin hiçbirinden şüphe duymak istemiyorsun, değil mi? Bu yükü senden almamı istemiyor musun?`
 ` Buna rağmen neden beni inkâr ediyorsun?"`
 `"Açılışın bir kitap gibi, oyun ortasının bir büyücü gibi,`
@@ -1417,4 +1417,4 @@
 ` Ya da öte yandan, tarzına daha çok uygun olacak şekilde hepinizi tek seferde sıkıştırsam daha mı iyi olur?"`
 `"Bu sana uyar, öyle yapalım.`
 ` Hangi saldırı yöntemleriyle baş edemeyeceğini zaten çok iyi biliyorum!`
-` *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
+` *kıKIr*kıKIr*kıKIr* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
