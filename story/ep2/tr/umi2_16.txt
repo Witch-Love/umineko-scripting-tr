@@ -17,7 +17,7 @@
 `".......................................`
 ` ......mgh."`
 `Hafif bir kapı çalma sesinin ardından,`
-` kısa bir süre önce uykuya dalmış olan Rosa Teyze sıçrayarak uyandı ve silahının namlusunu kapıya doğrultarak bağırdı.`
+` kısa bir süre önce uykuya dalmış olan Rosa Hala sıçrayarak uyandı ve silahının namlusunu kapıya doğrultarak bağırdı.`
 `"Kim o?!"`
 `Kanepede kestiriyordum, ve o ses beni de kendime getirdi.`
 `"......Rosa-sama.`
@@ -38,15 +38,15 @@
 ` Maria'yla birlikte olursan, kesinlikle iyi olacaksın."`
 `Belki de yüzüm gerginlikten gölgelenmişti.`
 `{n}...Maria küçük eliyle elimi kavradı ve bana cesaret vermeye çalışarak yumuşak bir şekilde konuştu.`
-`Silahı hazır edip tetikte olmak Rosa Teyze'nin görevi olduğundan, kanepelerden oluşan barikatı kaldırmak bana düştü.`
-`İşimi bitirdiğimde, silahın namlusunu omzuma doğrultmuş olan Rosa Teyze'ye şöyle bir baktıktan sonra kapıyı açtım.`
+`Silahı hazırda tutup tetikte olmak Rosa Halanın görevi olduğundan, kanepelerden oluşan barikatı kaldırmak bana düştü.`
+`İşimi bitirdiğimde, silahın namlusunu omzuma doğrultmuş olan Rosa Halaya şöyle bir baktıktan sonra kapıyı açtım.`
 `"Genji-san, cesetleri nerede...?"`
 `".........Avluda.`
 ` Size rehberlik edeceğim."`
 `"Battler-kun, bekle!`
 ` Her ihtimale karşı, gitmeden önce bu odanın kapı ve pencerelerini kontrol edeceğim.`
 ` Bekle bir saniye."`
-`Rosa Teyze ilerlememi önlemek için beni durdurdu ve pencerelerin kilitlerini dikkatle kontrol etmeye başladı.`
+`Rosa Hala ilerlememi önlemek için beni durdurdu ve pencerelerin kilitlerini dikkatle kontrol etmeye başladı.`
 `......Ama o kilitler zaten bir kez kontrol edilmişti.`
 `......Kendisi bakmıyorken gizlice kilitlerini açmış olabileceğimi düşünüyormuş gibi tatsız bir his uyandırdı.`
 `...Hayır, belki de bu kadar temkinli olmakta haklıydı...`
@@ -54,11 +54,11 @@
 `Aksine, dört bir yanı malikâne ile çevrili olduğu için,`
 ` dışarı çıkmaya çalışsanız bile malikâneden kaçamayacağınızı söylermiş gibi biraz rahatsız hissetmenize neden oluyordu.`
 `Öte yandan, bu sayede şiddetli rüzgârlar duyulabilse de rüzgârın kendisini engelliyordu.`
-`Genji-san bir şemsiye uzattı, ama Rosa Teyze onu görmezden geldi.`
+`Genji-san bir şemsiye uzattı, ama Rosa Hala onu görmezden geldi.`
 `...Muhtemelen silahı iki eliyle tuttuğunu, bu yüzden şemsiyeyi almasının tehlikeli olacağını çünkü silahı ateşleyemeyeceğini belirtmek istedi.`
 `Fark etmemiz için Genji-san'ın işaret etmesine gerek yoktu.`
 `Avlunun tam ortasında, ......Doktor Nanjo ve Kumasawa-san'ın yattıklarını görebiliyorduk...`
-`Rosa Teyze avluya şemsiye bile olmadan girmişti.`
+`Rosa Hala avluya şemsiye bile olmadan çıkmıştı.`
 `{n}...Genji-san ve ben de şemsiye açmadan avluya girdik.`
 `{n}Sadece Maria'nın şemsiyesi normal bir şekilde açıktı.`
 `"..................Maria...`
@@ -121,9 +121,9 @@
 `Genji-san gerçekten bu denli robot muydu?!`
 `Bu kötü, bu kötü, gerçekten kötü...!!`
 `Doktor Nanjo ve Kumasawa-san'ın {i:bu şekilde öldürülmüş olması}, üç kişinin daha çoktan öldürülmüş olduğu anlamına geliyordu...!!`
-`Natsuhi Teyze'nin odasına doğru koştuk.`
+`Natsuhi Yengenin odasına doğru koştuk.`
 `{n}.........Biraz endişe, ve bir o kadar da teslimiyetle.`
-`Natsuhi Teyze'nin odasının içini bile göremeden,`
+`Natsuhi Yengenin odasının içini bile göremeden,`
 ` ...kesin bir teslimiyetin pençesine düştük.`
 `Kapıda acayip bir...`
 `grafiti—`
@@ -136,16 +136,16 @@
 `Bunun ne anlama gelebileceğini bilmiyordum.`
 `{n}...Üstüne sürülen parlak kırmızı boya aşağıya damlıyordu ve kimse bunu söylememiş olsa da bize kanı çağrıştırıyordu.`
 `"...G-...Genji-san, lütfen aç."`
-`Rosa Teyze silahını havaya kaldırdı ve Genji-san'a kapıyı açmasını emretti.`
+`Rosa Hala silahını havaya kaldırdı ve Genji-san'a kapıyı açmasını emretti.`
 `Genji-san, kapının üzerindeki şeylerden pek de rahatsız olmadan kapıya yaklaştı ve tokmağı çevirdi,`
 ` ancak hemen arkasını dönerek başını salladı.`
 `Kapı kilitliydi.`
-`Şu anda, bu malikânede kapıları istediği gibi kilitleyip açabilen yalnızca bir kişi vardı: Rosa Teyze.`
-`Bu kez Genji-san, Rosa Teyze'den kapının kilidini açmasını istedi.`
-`Rosa Teyze biraz hoşnutsuz bir yüz ifadesinden sonra bana bir master anahtar uzattı ve kapıyı açmamı söyledi.`
+`Şu anda, bu malikânede kapıları istediği gibi kilitleyip açabilen yalnızca bir kişi vardı: Rosa Hala.`
+`Bu kez Genji-san, Rosa Haladan kapının kilidini açmasını istedi.`
+`Rosa Hala hoşnutsuz bir yüz ifadesi yaptıktan sonra bana bir master anahtar uzattı ve kapıyı açmamı söyledi.`
 `"......Battler-kun, benim için bununla açar mısın?"`
 `"En azından Genji-san'a böyle bir şey için güvenemez..."`
-`Rosa Teyze sert gözlerle bana baktı.`
+`Rosa Hala sert gözlerle bana baktı.`
 `{n}......Burada kavgaya tutuşmak ortamı daha da ekşitmekten başka bir işe yaramazdı.`
 `Daha fazla karşılık vermeden o ürkütücü kapıya yaklaştım ve tokmağı denedim.`
 ` ......Açılmadı.`
@@ -153,7 +153,7 @@
 `{n}Master anahtarı anahtar deliğine soktum.`
 `*tık*.`
 ` Hafif bir direnç.`
-`Rosa Teyze'nin temkinli olmamı söylemesini dinlerken, hiç de temkinli davranmadan kapıyı açtım.`
+`Rosa Haladan temkinli olmamı söylemesini dinlerken, hiç de temkinli davranmadan kapıyı açtım.`
 `Ve karşımızda.........beklentilerimize en ufak bir şekilde ihanet etmeyen bir sahne vardı.`
 `"...........................!`
 ` Ne kadar...korkunç......"`
@@ -161,8 +161,8 @@
 `"Tahmin ettiğim gibi, ......dördüncü, beşinci ve altıncı alacakaranlıkların kopyası."`
 `".........Uu."`
 `Odanın içi sanki bir hırsız içeriye dalmış gibi görünüyordu.`
-`Çekmeceler açılmış, sökülmüş, içindekiler yere saçılmış, oda harabeye dönmüştü,`
-` öyle ki, düzenli olan Natsuhi Teyze'nin odasına hiç benzemiyordu.`
+`Çekmeceler açılmış, sökülmüş, içindekiler etrafa saçılmış, oda harabeye dönmüştü,`
+` öyle ki, çok düzenli olan Natsuhi Yengenin odasına hiç benzemiyordu.`
 `Ama hepsinden önce göze çarpan şey...`
 `......Gohda-san'ın kapının hemen önünde yüzüstü yatan cesediydi...`
 `İblis kazıklarından biri göğsünün tam ortasına saplanmıştı, sanki bir vampirin işini bitirmek için oraya saplanmış gibiydi.`
@@ -193,8 +193,8 @@
 ` Polis gelene kadar her şeyi kendi haline bırakmalıyız!!`
 ` Ne yaptığını sanıyorsun, dokunuyor musun?!`
 ` Suç mahallindeki önemli deliller bozulursa ne yapacaksın?!!"`
-`Rosa Teyze bana öfkelenerek bağırdı ve yakamın arkasından tutarak çekiştirdi.`
-`Sendeleyerek kıç üstü yere düştüm, ......ve donuk gözlerle tavana baktım...`
+`Rosa Hala öfkelenerek bana bağırdı ve yakamın arkasından tutarak çekiştirdi.`
+`Sendeleyerek kıç üstü yere düştüm, ......ve donuk gözlerle tavana bakakaldım...`
 `"......Maria."`
 `"Uu......?"`
 `"......Şimdi sekizinci alacakaranlık bile sona erdi.`
@@ -234,20 +234,20 @@
 ` Bu yüzden, korkma."`
 `".........Teşekkür ederim.`
 ` ......Bu sadece beni rahatlatmak için bile olsa, ...beni mutlu ediyor."`
-`Rosa Teyze onların ölümlerini incelemeyi bitirdikten sonra, bu odayı tekrar mühürleyeceğini ilan etti,`
-` hepimizi dışarı çıkardı, bana ödünç verdiği master anahtarı geri aldı ve kapıyı tekrar kilitledi.`
-`George-aniki'nin elinde Natsuhi Teyze'nin odasının orijinal anahtarı varmış gibi görünüyordu.`
-` Rosa Teyze onu da almıştı.`
+`Rosa Hala onların ölümlerini incelemeyi bitirdikten sonra, bu odayı tekrar mühürleyeceğini ilan etti,`
+` hepimizi dışarı çıkardı ve bana ödünç verdiği master anahtarı geri alarak kapıyı tekrar kilitledi.`
+`George-aniki'nin elinde Natsuhi Yengenin odasının orijinal anahtarı varmış gibi görünüyordu.`
+` Rosa Hala onu da almıştı.`
 `............Bir dakika.`
-`{n}Tüm master anahtarlar Rosa Teyze'nin elindeydi.`
+`{n}Tüm master anahtarlar Rosa Halanın elindeydi.`
 `Ve eğer orijinal anahtar da odada bulunuyorsa,`
 ` ......bu da başka bir kilitli oda değil miydi?`
 `Yani bu, dördüncü kilitli oda mı......?`
 `Artık bu üç kişiye karşı taşıdığımız şüphelerden kurtulduğumuza göre, ......bir kez daha salona döndük.`
 `Artık neler döndüğü hakkında hiçbir fikrim yok.`
 `......Eğer sadece ölüler temiz, ve yaşayan herkes kurtsa,`
-` ......o zaman geriye sadece ben, Rosa Teyze, Maria ve Genji-san kalıyoruz.`
-`......Ve bizim dışımızda sadece Büyükbaba ile o 19. kişi—daha varlığını sezemediğim konuk— {f:5:Beatrice} var.`
+` ......o zaman geriye sadece ben, Rosa Hala, Maria ve Genji-san kalıyoruz.`
+`......Ve bizim dışımızda sadece Büyükbabam ile o 19. kişi—daha varlığını sezemediğim konuk— {f:5:Beatrice} var.`
 `On üç kişi ölmüştü ve geriye altı kişi kalmıştı.`
 ` ......Sadece altı kişiyle kurtlar ve koyunlar bulmacası nasıl sona erecekti...?`
 ` İçinde on dokuz kişi olan bulmaca sadece altı kişiye düşmüş olsa da,`
@@ -261,7 +261,7 @@
 ` Lütfen günün kalanında dinlen."`
 `"......Anlaşıldı.`
 ` ...O zaman, dinlenmeme izin verirseniz."`
-`"H-...Hey, Rosa Teyze.`
+`"H-...Hey, Rosa Hala.`
 ` ......Böyle bir durumda bile Genji-san'ı yalnız bırakacağını mı söylüyorsun...?"`
 `"......Haklısın.`
 ` Bunun çok tehlikeli olduğunu düşünüyorum."`
@@ -296,7 +296,7 @@
 `Tüm bunları duyduktan sonra söyleyecek bir şey kalmamıştı.`
 `{n}Genji-san saygıyla eğildi ve koridorun sonuna doğru uzaklaştı...`
 `Ve biz de odaya girdik.`
-`...Rosa Teyze tüm master anahtarlar hâlâ kendisinde olmasına rağmen, salonun içini bir kez daha baştan aşağı kontrol etmeye başladı.`
+`...Rosa Hala tüm master anahtarlar hâlâ kendisinde olmasına rağmen, salonun içini bir kez daha baştan aşağı kontrol etmeye başladı.`
 `Perdeleri açtı ve pencerelerin kilitli olduğundan emin olmak için tekrar kontrol etti.`
 `{n}Bunları izlerken, ......nasıl desem, artık gerçekten bir önemi yokmuş gibi hissettim.`
 `Gereksiz bir şey söylersem, bu başka bir kavgaya dönüşecekti.`
@@ -358,10 +358,10 @@
 ` Neden!!"`
 `".................................`
 ` ......Maria, buraya gel."`
-`Rosa Teyze gözlerini hafifçe yumdu ve sessizce bir şeyler düşündükten sonra Maria'ya yanına gelmesini söyledi.`
+`Rosa Hala gözlerini hafifçe yumdu ve sessizce bir şeyler düşündükten sonra Maria'ya yanına gelmesini söyledi.`
 `Maria annesinin sözlerine itaat etti.`
-`Maria bunu yaptığında inanılması güç bir şey oldu.`
-`Rosa Teyze silahın namlusunu bana doğrulttu.`
+`Maria annesinin yanına gittikten sonra inanılması güç bir şey yaşandı.`
+`Rosa Hala silahın namlusunu bana doğrulttu.`
 `"Battler-kun, senin bir "kurt" olduğun sonucuna vardım."`
 `"N-.........Neden?!?!"`
 `"Az önce odaya girdiğimde, masada hiçbir şey olmadığını gözlerimle gördüm.`
@@ -391,7 +391,7 @@
 ` ......Peki ya Battler-kun, senin gözünde Rudolf nii-san ve Kyrie-san ailen değillerse?"`
 `"...H-......Heeee?!?!`
 ` Ne dediğini bir düşün!!"`
-`"Babam babamdır!!`
+`"Babam Babamdır!!`
 ` Elbette Kyrie-san'la kan bağım yok, ama o benim ablam gibi!!`
 ` Sakın aksini söylemeye cüret etme, seni adi!!"`
 `"Uu-uu-uu!!`
@@ -415,7 +415,7 @@
 ` Ben kendimim, başkası değilim!!`
 ` Evet, doğru, aynen dediğin gibi, cesetler dışında güvenebileceğin tek kişi kendinsin!!!"`
 `"Eğer bu kadar ileri gideceksen, benim de karşılık vermemin zamanı geldi!"`
-`"George-aniki ve diğerlerinin öldüğü, Natsuhi Teyze'nin odasının kapısı kilitliydi!`
+`"George-aniki ve diğerlerinin öldüğü, Natsuhi Yengenin odasının kapısı kilitliydi!`
 ` O odanın anahtarı George-aniki'nin üzerinde değil miydi?!`
 ` Ve şu anda, master anahtarları olan tek kişi sensin!`
 ` O odayı kilitleyebilecek tek kişi sen değil miydin?!?!"`
@@ -449,7 +449,7 @@
 `"Asıl susması gereken sensin, o mektubun senden başkası tarafından oraya bırakıldığını nasıl iddia edebilirsin?!`
 ` Bunu kanıtlayamadığın sürece, sen bir kurtsun!!"`
 `"Benden şüphelenilebiliyorsa, senden de şüphelenilebilir, bana biraz kanıt göstermeyi dene,`
-` odaya ilk giren ve pencereleri kontrol etmeye başlayan sen değil miydin, Rosa Teyze?!"`
+` odaya ilk giren ve pencereleri kontrol etmeye başlayan sen değil miydin, Rosa Hala?!"`
 `"Sonrasında, daha önceden oturduğum yere döneceğimi tahmin ettin ve mektubu gizlice yerleştirdin.`
 ` Bunun senin tuzağın olduğundan da şüphelenebilirim, değil mi?!"`
 `"Neden böyle bir tuzak kullanayım ki?!!`
@@ -459,10 +459,10 @@
 `"Master anahtarların hepsi senin elinde!`
 ` Yani burası ve az önceki oda tamamen senin eserin, öyle değil mi?!!`
 ` Eğer konuşarak bu işten sıyrılabiliyorsan, o zaman mazeretini duyayım!!"`
-`"Doğru, Rosa Teyze, sen en başından beri şüpheliydin!`
+`"Doğru, Rosa Hala sen en başından beri şüpheliydin!`
 ` Neden aile konferansındaki yetişkinlerden altısı öldürüldü ve tek istisna sendin?`
-` Rosa Teyze, neden o kilisede olmayan tek kişi sendin?!"`
-`"Tek bir nedeni olabilir, Rosa Teyze, babamı ve diğerlerini oraya çağırıp öldürdün!!`
+` Rosa Hala, neden o kilisede olmayan tek kişi sendin?!"`
+`"Tek bir nedeni olabilir Rosa Hala, Babamı ve diğerlerini oraya çağırıp öldürdün!!`
 ` Kahretsin, kahretsin,`
 ` bu her şeyi açıklıyor, değil mi? Benimle taşak geçme, benimle taşak geçme,`
 ` anlamsız şeyler söylemeyi keeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eees!!"`
@@ -476,7 +476,7 @@
 ` Büyüyle yaptı!!`
 ` Kimsenin suçu değiiiil!!`
 ` Uu-uuuu!!"`
-`Maria, kan beynimize sıçramaya başlarken kendini Rosa Teyze ile benim arama soktu.`
+`Maria, kan beynimize sıçramaya başlarken kendini Rosa Hala ile benim arama soktu.`
 `Maria'nın ağlama sesiyle afalladım ve kendime geldim.`
 `{n}...O anda içim utançla doldu.`
 `{n}Gözlerimden yaşlar aktı.`
@@ -486,15 +486,15 @@
 ` Tüm bu anahtarlar, numaralar ve mazeretler......`
 `hepsi, hepsi aptalcaydı!!"`
 `"Cadının işi olmasına rağmen, insanlar olarak birbirimize bile güvenemedik...!!`
-` Değil mi, Rosa Teyze? Başından beri, {y:0:İnsan}{n:0:insan} bir suçlu yoktu, hepsi...cadının işiydi."`
-`"Yani Rosa Teyze, senin suçlu olmana imkân yok,`
+` Değil mi, Rosa Hala? Başından beri, {y:0:İnsan}{n:0:insan} bir suçlu yoktu, hepsi...cadının işiydi."`
+`"Yani Rosa Hala, senin suçlu olmana imkân yok,`
 ` ve suçlunun ben, Maria, Genji-san ya da herhangi biri olmasına imkân yooook!!`
 ` Neden bu hâle geldi?!!"`
-`"Neden, ......sevdiğim Rosa Teyze'ye bağırıyorum?!`
-` Sevdiğim nazik teyzemle...`
+`"Neden, ......sevdiğim Rosa Halama bağırıyorum?!`
+` Sevdiğim nazik halamla...`
 `...neden bu kavgayı yapıyorum?!"`
 `"Neden, neden herkes birbirinden şüphelenmek zorunda?!?!`
-` Teyzemden şüphe etmeyeceğim, kimseden şüphe etmeyeceğim,`
+` Halamdan şüphe etmeyeceğim, kimseden şüphe etmeyeceğim,`
 ` hepsi cadının işi, hepsi {f:5:Beatrice}'in işi,`
 ` hepsi, hepsi {f:5:Beatrice}'in büyü ile işlediği bir suç!!"`
 `"{f:5:Beatriceeeeee}, lütfen, burada kendini göster,`

@@ -103,7 +103,7 @@
 `"Şşşt!`
 ` Sesin çok çıkıyor!`
 ` ...Görünüşe göre şimdilik bunu gizli tutuyorlar, tamam mı?`
-` Kimse duymasa daha iyi olur, özellikle de Eva Teyze."`
+` Kimse duymasa daha iyi olur, özellikle de Eva Hala."`
 `"A-Anlıyorum...`
 ` Bir hizmetkârla aşk..."`
 `"...T-Tamam, ama, ne zamandan beri?`
@@ -205,11 +205,11 @@
 ` Yani tepkisine bakılırsa, muhtemelen haklıyım.`
 `Ushiromiya ailesini pek de soylu bir aile olarak görmüyorum ama...hizmetkârlara aşık iki insan...`
 ` İki çift Romeo ve Juliet'in hemen yanımda olacağını asla tahmin edemezdim...`
-`Eva Teyze muhtemelen George-aniki ve Shannon-chan'ın aşkına bir engel olacak.`
-`Eğer Eva Teyze, gözbebeği olan tek oğlunun partnerinin {i:Shannon-chan} olduğunu öğrenirse,`
+`Eva Hala muhtemelen George-aniki ve Shannon-chan'ın aşkına bir engel olacak.`
+`Eğer Eva Hala, gözbebeği olan tek oğlunun partnerinin {i:Shannon-chan} olduğunu öğrenirse,`
 ` muhtemelen ona aşağılık hizmetkâr ve yuva yıkıcı gibi hakaretler ile bağıracaktır.`
 `Ve Jessica ile Kanon-kun arasındaki bir ilişki de muhtemelen aynı güçlüklerle dolu olacaktır.`
-`{n}Natsuhi Teyze de bu tür konularda katı bir tipe benziyordu.`
+`{n}Natsuhi Yenge de bu tür konularda katı bir tipe benziyordu.`
 `......Ne de olsa Jessica'nın kocası muhtemelen gelecekte Ushiromiya ailesinin reisi olacak.`
 ` Eğer bu kişi bir zamanlar aile için çalışan bir hizmetkâr olsaydı, ......yani, hiç şüphesiz işler çok karışırdı.`
 `"Eh, aşkta herkes kendi yolunu bulur.`
@@ -280,7 +280,7 @@
 ` Hep birlikte buna inanacağımıza yemin edelim, tamam mı?`
 ` Her zaman dost olacağımıza, her zaman mutlu olacağımıza."`
 `Sonumuz ailelerimiz gibi olmayacak.`
-`Birbirlerinin zayıflıklarını aramak, büyükbabanın servetinin peşine düşmek, her şeyi sonsuza dek mahvetmek...`
+`Birbirlerinin zayıflıklarını aramak, Büyükbabamın servetinin peşine düşmek, her şeyi sonsuza dek mahvetmek...`
 `"Tamamdır!`
 ` Biz her zaman dost ve mutlu olacağız.`
 ` Hepimiz buna inanalım."`
@@ -503,7 +503,7 @@
 ` Benim, Ronove'nin, size hizmet ettiğimi unuttuğum tek bir gün bile olmadı, Leydim."`
 `"Doğrusu, daha çok beni unutmuş olmanızdan korkuyordum, Leydim.`
 ` Ne de olsa, sizin oldukça unutkan olduğunuzu biliyorum."`
-`"*cackle*cackle*...!`
+`"*kıKIr*kıKIr*...!`
 ` Anlıyorum, evet, kesinlikle unutkanım.`
 ` Tekrar duyana kadar alaycı konuşmanı bile hatırlayamadım."`
 `"Leydim, sizin için."`
@@ -526,7 +526,7 @@
 ` Sizinle tanışmak gerçekten bir zevk."`
 `"Gördün mü?`
 ` Ağzı açık kaldı ve kapatamıyor, değil mi?`
-` *cackle*cackle*!"`
+` *kıKIr*kıKIr*!"`
 `"Bu çok açık değil mi, bir akıl almaz adam daha türedi!!`
 ` Keçi kafalı insanlar Bon dansı yapmaya başlayacak diye söyleniyordum, sonra keçi kafaları sürüler halinde ortaya çıkmaya başladı,`
 ` ve o andan itibaren, o yedi seksi hatun bir yana, şimdi bir uşak bile ortaya çıktı!!`
@@ -538,19 +538,19 @@
 ` Ne demek istiyorsun...?"`
 `"Öyle görünmüyor olabilir ama bu adam gerçek bir iblis ve adı 72'ler arasında yer alıyor.`
 ` Yani, tam karşına bir iblis getirdim ki, bu da onların var olduğunu gerçekten kanıtlıyor."`
-`"*cackle*cackle*cackle*cackle*!!`
+`"*kıKIr*kıKIr*kıKIr*kıKIr*!!`
 ` Ronove Cehennem'de soylu bir rütbeye sahip, 27. en yüksek rütbeli Yüce İblis.`
 ` Oldukça kullanışlı bir adam.`
 ` Onu yüksek bir bedelle çağırdım ve bana hizmet etmesini sağladım."`
 `"Sizinle tanıştırılmak benim için bir onurdur.`
 ` Adım Cehennem'in soyluları arasında yer alsa da,`
 ` artık sıradan {y:0:İnsan}{n:0:insan}ların ve iblislerin bile korkudan kaçıştıkları Büyük Cadı'nın, {f:5:Beatrice}-sama'nın baş mobilyası olarak hizmet veriyorum."`
-`"*cackle*cackle*cackle*cackle*. Çok kullanışlı bir adam ama kelimeleriyle küstahlık yapıyor.`
+`"*kıKIr*kıKIr*kıKIr*kıKIr*. Çok kullanışlı bir adam ama kelimeleriyle küstahlık yapıyor.`
 ` Bazen efendisine saygı göstermeyi unutması biraz sinir bozucu."`
 `"Sözleşmemde nasıl konuşmam gerektiğine dair bir madde yok.`
 ` Sözleşmeyi değiştirmek ister misiniz?"`
 `"Beni sıkmıyor, o yüzden sorun yok.`
-` *cackle*cackle*!"`
+` *kıKIr*kıKIr*!"`
 `{f:5:Beatrice} kıkırdayarak ona sırtını döndü.`
 `Ronove onun arkasından bir kez selam verdikten sonra Battler'a döndü ve masum bir gülümsemeyle sağ elini uzattı.`
 ` Normalde bu, el sıkışmak istediği anlamına gelirdi.`
@@ -598,7 +598,7 @@
 ` Ne baş belası çocuklar..."`
 `"Eğer sorun buysa, endişelenme.`
 ` Aslında efendilerine çok yakışan bir şekilde davranıyorlar..."`
-`"*cackle*cackle*cackle*!`
+`"*kıKIr*kıKIr*kıKIr*!`
 ` Cesaretini toplamaya başlamışsın!"`
 `"Ancak, karşılıklı konuşmak, karşındaki kişiyi kabul etmek anlamına gelir.`
 ` Artık boş konuşmalarıma karşılık vermeye başlamış olman, varlığımı yavaş yavaş kabul etmeye başladığının bir kanıtıdır."`
@@ -609,7 +609,7 @@
 `Cadı ve uşağı birlikte kıkırdadılar, misafirlerinin iradesini yeni bir oyuna başlayacak kadar geri kazandığını,`
 ` ve hazırlıkların tamamlandığını fark ettiler...`
 `Ronove, {f:5:Beatrice} ile karşılıklı birkaç şey konuştuktan sonra Battler'ın önünde sessizce eğilerek altın kelebekler halinde dağıldı ve gözden kayboldu.`
-`"*cackle*cackle*.`
+`"*kıKIr*kıKIr*.`
 ` Her şeyin böylesine hareketli olması gerçekten mutluluk verici."`
 `"......Bu adada tek başıma kapana kısıldığım, gücümü geri toplayamadığım ve konuşacak kimsemin olmadığı o günler ne kadar da sıkıcıydı."`
 `"......O ürkütücü adamın uşağın olarak ne kadar uygun olduğunu fark edebiliyorum."`
@@ -632,7 +632,7 @@
 ` Sonra da tüm eski arkadaşlarımı davet etmeyi ve üç gün üç gece boyunca birlikte içip dans etmeyi planlıyorum."`
 `"......Ayrıca tabii ki Kinzo'nun ailesini de davet etmeyi planlıyorum.`
 ` İstersen seni de.`
-` *cackle*cackle*...!"`
+` *kıKIr*kıKIr*...!"`
 `"......Şunu açıklığa kavuşturalım.`
 ` Gücünü kaybettiğinden beri, uzun bir süredir onları çağıramıyordun."`
 `"...Ve büyü gücün yavaş yavaş toparlanıyor, bu yüzden giderek daha fazla canavar çağırabilir hale geldin.`
@@ -647,7 +647,7 @@
 ` Yavaş yavaş, yavaş yavaş, bana teslim oluyorsun...!`
 ` Son oyunda yaşadığın tüm o aşağılanma bana bu kadar derinden boyun eğmenin bir sonucu değil mi?"`
 `"Ayaklarım uğruna sırtını feda etmek zorunda kalman harika değil miydi?`
-` *cackle*cackle*cackle*cackle*!!"`
+` *kıKIr*kıKIr*kıKIr*kıKIr*!!"`
 `"...K-`
 `......Kahretsin.......`
 ` ...Seni kabul etmediğim sürece yoluma devam edebileceğimi sanıyordum.`
@@ -667,7 +667,7 @@
 ` Beni asla kabul etmeyeceğin, bunun bana işkence edecek sonsuz bir işkence olacağıyla ilgili bir şey.`
 ` Sadece sonsuzluk seviyesine ulaşmış cadılar sonsuzluk hakkında konuşabilir.`
 ` Bu niteliğe hiçbir zaman sahip değildin.`
-` *cackle*cackle*cackle*, hah‐hah‐hah‐hah‐hah‐hah‐hah‐ha!!"`
+` *kıKIr*kıKIr*kıKIr*, hah‐hah‐hah‐hah‐hah‐hah‐hah‐ha!!"`
 `"Saklı altının konumu çoktan Kinzo-sama tarafından açıkça portremin altındaki kitabede belirtilmişti.`
 ` Kurallar kitabeyi okuyabilen herkes için eşit şekilde geçerlidir.`
 ` Altını keşfedecek olursanız, her şeyi size iade edeceğim."`
@@ -679,7 +679,7 @@
 `"S-Saçmalık.`
 ` Ne kadar anlamsız, kötü bir şaka!"`
 `"Tüm kalbimle katılıyorum.`
-` Babamın Aile Reisi Yüzüğü'nden vazgeçmesine imkân yok.`
+` Babamın Aile Reisi Yüzüğünden vazgeçmesine imkân yok.`
 ` {f:5:Beatrice} mi?`
 ` Ha!`
 ` Ne kadar da bariz bir şaka, sadece bu ismi gündeme getirerek kafamızı karıştırmaya çalışıyor."`
@@ -705,7 +705,7 @@
 `"Emin olamayız.`
 ` Bu gerçekten de Babamın bayat şakalarından biri olabilir.`
 ` Mirasının paylaşımını onsuz tartıştığımız için bunu bizi biraz şok etmek için planlamış olabilir..."`
-`"Eğer bunu planlayan babamsa,`
+`"Eğer bunu planlayan Babamsa,`
 ` ......o hâlde Maria-chan'ın yüksek sesle okuduğu şeyi bir şaka olarak kabul edemeyiz, değil mi...?"`
 `"......Bu doğru.`
 ` Eğer içeriği harfi harfine yorumlayacak olursak, ...o zaman bunun Babamın bir testi olduğu anlamına gelir.`
@@ -716,7 +716,7 @@
 `"Saçmalık, böyle bir şey yok!!`
 ` Kocamın Ushiromiya aile reisliğinin halefi olacağı sarsılmaz bir gerçek!!"`
 `"Bu mektup da onu sarsan şeyin ta kendisi!`
-` Bu mektup, babamın {i:tüm} serveti üzerinde tam hak sahibi olan kişiden gelen bir mesaj!"`
+` Bu mektup, Babamın {i:tüm} serveti üzerinde tam hak sahibi olan kişiden gelen bir mesaj!"`
 `"Nii-san'ın reis olma hakkı boş bir çerçeveye geri döndü.`
 ` Bilmeceyi çözen kişi,`
 ` ......{f:5:Beatrice}'in altınını bulan kişi Ushiromiya ailesinin bir sonraki reisi olacak!!"`
@@ -731,7 +731,7 @@
 ` Bu mektubun Babamın isteklerinin bir beyanı olmadığını kanıtla!!"`
 `"P-Pekâlâ.`
 ` Tam da dediğin gibi.`
-` Artık babamın keyfinin yerinde olup olmamasının bir önemi yok...`
+` Artık Babamın keyfinin yerinde olup olmamasının bir önemi yok...`
 ` Doğrudan gidip ona soralım."`
 `"Hadi soralım.`
 ` Doğrudan Babama soracağız.`
@@ -740,7 +740,7 @@
 `"B-Babamın mektubu olduğunu varsayarak bu şekilde konuşmanın doğru olup olmadığını merak ediyorum..."`
 `"Aptal Rosa!!`
 ` Babamın mektubu olduğu belli değil mi?!`
-` O mektup Babamın!!`
+` Bu mektup Babamın!!`
 ` Halef olabilmemiz için dördümüze de eşit şans verdiği çok açık değil mi?!!"`
 `"Aptal, öl, seni işe yaramaz kadın!!"`
 `Rosa gerçekten aptal.`
@@ -755,7 +755,7 @@
 ` Sizin gibi yetişkinler böyle önemsiz bir şakayı nasıl bu kadar ciddiye alabilir...!`
 ` Ben Babam olmasam da, onun kızgınlığını çok iyi anlıyorum!!"`
 `"Hop hop hop hop!`
-` Natsuhi-san, sadece babama sorsak her şey yoluna girmez mi...?!`
+` Natsuhi-san, sadece Babama sorsak her şey yoluna girmez mi...?!`
 ` Babam sadece mektuptan haberi olmadığını söylerse her şey yoluna girer!"`
 `"Nii-san.`
 ` Sorumluluğu üstlen ve ona mektuptan haberi olmadığını söylet.`
@@ -826,13 +826,13 @@
 ` Ben de inanacağım.`
 ` Mutlu olabiliriz."`
 `"Uu!`
-` Kyrie Teyze, teşekkür ederim!!"`
+` Kyrie Yenge, teşekkür ederim!!"`
 `"Battler ve Jessica onee-chan, siz de inanın!`
 ` {f:5:Beatrice} her zaman, eğer inanmazsan büyünün hiçbir gücü olmayacağını söyler.`
 ` Uu!"`
 `Kyrie-san sessizce oturduğu yerden kalktı, Maria'nın yanına gitti ve gözleri birbirine temas edecek şekilde eğildi.`
 `"......Uu.`
-` Kyrie Teyze, sen inandın.`
+` Kyrie Yenge, sen inanıyorsun.`
 ` Şimdi Battler ve Jessica onee-chan da inanmak zorunda."`
 `"İkisi de güçlü insanlar.`
 ` Yakında kendilerini daha iyi hissedecekler ve bunu senin için yapacaklar."`

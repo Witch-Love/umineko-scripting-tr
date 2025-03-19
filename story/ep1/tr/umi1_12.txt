@@ -128,7 +128,7 @@
 `"......Battler-sama.`
 ` .........Buna birden inanmanızı beklemiyorum ama...`
 `{f:5:Beatrice}-sama gerçekten var.`
-` ...O, Efendi'ye büyük miktarda altın veren ve uzun yıllar boyunca onun yanında çalışmış olan gerçek bir kişi."`
+` ...O, Efendiye büyük miktarda altın veren ve uzun yıllar boyunca onun yanında çalışmış olan gerçek bir kişi."`
 `"Ha...?`
 ` Ah, kes şunu, kes şunu...`
 ` Büyükbabam sana her dediğini tekrarlaman için para mı ödüyor...?"`
@@ -328,7 +328,7 @@
 ` Kihihihihihihihihihi...!"`
 `Bazı insanlar genellikle yemekten sonra lavaboya gider; bazıları da kısa bir şekerleme yapmayı tercih eder.`
 `Görünüşe göre birkaç kişi benim su içmek için mutfağa gittiğim zaman yaptığım gibi salondan dışarı çıkmıştı.`
-`Nihayetinde, Natsuhi Teyze'nin herkesi salonda bir arada tutma emri, şu koşullar altında gönülsüzce iptal edildi:`
+`Nihayetinde, Natsuhi Yengemin herkesi salonda bir arada tutma emri, şu koşullar altında gönülsüzce iptal edildi:`
 ` kimse yalnız başına kalmayacak,`
 ` ve kimse salondan fazla uzaklaşmayacaktı.`
 `Ne de olsa, sabahın erken saatlerinden itibaren on bir kişi aynı odaya kapatılırsa, ortam boğucu olmaya başlayacaktır.`
@@ -343,7 +343,7 @@
 `{n}Birini kapalı kalmaya zorlarsanız direnir, ama ona ne isterse yapmasını söylerseniz itaatkar bir şekilde geri döner.`
 `İnsanlar gerçekten de ikiyüzlü.`
 `.........Hizmetkârlar yemek sonrası temizlik işlerini bitirdikten sonra,`
-` Natsuhi Teyze'nin onlara söylediği gibi itaatkâr bir şekilde salona döndüler ve girişe yakın bir kanepeye oturarak sabırla emirleri beklemeye başladılar.`
+` Natsuhi Yengenin onlara söylediği gibi itaatkâr bir şekilde salona döndüler ve girişe yakın bir kanepeye oturarak sabırla emirleri beklemeye başladılar.`
 `Maria, sanki birdenbire cadıcılık oynamayı bırakmış gibi,`
 ` "uu-uu" diyen, iyi tanıdığım saf Maria'ya geri dönmüştü.`
 `...Oradaki durum da neydi öyle?`
@@ -418,7 +418,7 @@
 `"Ama biliyor musun? O yaşlardaki kızlar daha çok duygusal şeylere odaklanıyorlar.`
 ` ......Battler'ın sınıfında bahse girerim falcılık ve ruhani şeylerle gerçekten ilgilenen kız grupları vardı."`
 `"Evet, evet! Vardı, vardı!`
-` Yanıma gelip burcumu ve kan grubumu sorarlardı! Ve sonra da "Aah, ben de öyle düşünmüştüm, *giggle*giggle*!" diye gülerlerdi."`
+` Yanıma gelip burcumu ve kan grubumu sorarlardı! Ve sonra da "Aah, ben de öyle düşünmüştüm, *kıkır*kıkır*!" diye gülerlerdi."`
 ` Bu gerçekten sinirlerimi bozuyordu."`
 `"Hangi sınıfa gidersen git, kızlar fal bakmayı severler.`
 ` Her zaman ruhsal duyuların güçlü ya da zayıf olmasından, "hassasiyetten" ya da görülemeyen şeyleri görmekten bahseden bir grup vardır."`
@@ -472,9 +472,9 @@
 ` ...Yine de bunu tamamen kabul etmek bir ebeveynin toleransını gerektirir."`
 `"......Aniki, evli olmadığına inanamıyorum...`
 ` Ortaokula kadar çocuk yetiştirmişsin gibi konuşuyorsun.`
-` .........O zaman, Rosa Teyze'nin de Maria'nın çift kişiliğini bilip bilmediğini merak ediyorum."`
+` .........O zaman, Rosa Halamın da Maria'nın çift kişiliğini bilip bilmediğini merak ediyorum."`
 `"Biliyor.`
-` .........Aramızda kalsın, Rosa Teyze bundan gerçekten nefret ediyor.`
+` .........Aramızda kalsın, Rosa Hala bundan gerçekten nefret ediyordu.`
 ` Bunun ürkütücü olduğunu ve Maria'yı sınıfın geri kalanından giderek daha fazla ayırdığını söylüyordu."`
 `"Bu yüzden Maria ne zaman okült hakkında konuşmaya ya da bir cadı gibi gülmeye başlasa onu tokatlardı.`
 ` ...Ve görünüşe göre Maria onun önünde bu şekilde konuşmayı bırakmış."`
@@ -500,9 +500,9 @@
 `Hiçbiri Maria'nın söylediklerini inkâr etmemişti.`
 `.........{f:5:Beatrice}'in "var olduğunu" sessizce kabul etmişlerdi.`
 `Biraz huzursuz hissetmeye başlamıştım...`
-`Eva Teyze 19. kişinin var olmadığını iddia etmiş,`
+`Eva Hala 19. kişinin var olmadığını iddia etmiş,`
 ` aile içinden birinin, aralarındaki fena kavgayla bağlantılı olarak bu suçu işlediğini söylemişti.`
-`Öte yandan, Natsuhi Teyze de suçlunun malikânenin dışında bir yerde saklandığını iddia etmişti.`
+`Öte yandan, Natsuhi Yenge de suçlunun malikânenin dışında bir yerde saklandığını iddia etmişti.`
 `Bu, suçun bizden biri tarafından işlendiğini inkâr ettiği ve 19. kişinin varlığını kabul ettiği anlamına geliyordu.`
 `Mutfakta Maria ve hizmetkârlar da 19. kişinin var olduğu konusunda hemfikirdi.`
 `Ama onlara göre bu 19. kişi bir insan değildi.`
@@ -615,7 +615,7 @@
 ` Cinayet gece yarısından sonra, hava hâlâ karanlıkken işlenmedi mi?`
 ` İnsanlar gece yarısına kadar birlikte konuşuyorlardı, bazı insanlar gece vardiyasındaydı ve bazı insanlar odalarına dönmüş ve uyuyorlardı."`
 `"...Herkesin mazereti gerçekten belirsiz ve suçun içimizden biri tarafından işlendiğinden şüphelenmek için çok fazla boşluk var.`
-` George-aniki, Eva Teyze muhtemelen sana da söylemiştir.`
+` George-aniki, Eva Hala muhtemelen sana da söylemiştir.`
 ` Suçlunun aramızdan biri olma ihtimalinin yüksek olduğunu?"`
 `"...mh......evet.`
 ` ...Sanırım."`
@@ -654,7 +654,7 @@
 `"...Öyle diyordu.`
 ` Kesinlikle öyle diyordu.`
 ` Faizin toplanması gerçekleşecekti, ancak altının bilmecesi çözülebilirse, bu hakkı kaybedecekti."`
-`"...Büyükbabaya altın verildi ve Ushiromiya evi zenginleşti.`
+`"...Büyükbabama altın verildi ve Ushiromiya evi zenginleşti.`
 ` Basitçe, o altından yaratılan her şeyin faiz olarak sayıldığını {f:5:Beatrice}'in kendisi söyledi.`
 ` ......Yani—"`
 `".........Bu bir şaka için oldukça korkutucu, Aniki...`
@@ -679,7 +679,7 @@
 `"............Özel madde.`
 ` ...Eğer birisi altın bilmecesini çözmeyi başarırsa, faiz hakkı kaybedilecek.`
 ` ......Ve mektubun son bölümünün nasıl bittiğini hatırlıyor musunuz?`
-` ...Herkesin Büyükbabanın altınlarının bilmecesini çözmeye çalışmasını söylüyordu."`
+` ...Herkesin Büyükbabamın altınlarının bilmecesini çözmeye çalışmasını söylüyordu."`
 `"<Jesus>...!`
 ` ......Görünüşe göre sonunda suçlunun mesajını anlamaya yaklaşıyoruz...`
 ` Başka bir deyişle, suçlu bize Büyükbabamın kitabeye koyduğu bilmeceyi çözmeye çalışmamızı söylüyor.`
@@ -709,7 +709,7 @@
 `Şimdi birbirine daha sonradan bağlayabileceğimiz noktaları bulma zamanı...!`
 `Şimdilik 19. kişinin var olup olmadığını bir kenara bıraktım,`
 ` ve suçlunun amacının kitabenin bilmecesini çözmemizi sağlamak olabileceği teorisini ortaya attım.`
-`Hideyoshi Amca gerçekten ilgilenmiş gibi görünüyordu ama Natsuhi Teyze bunun saçma olduğunu düşünüyordu.`
+`Hideyoshi Enişte gerçekten ilgilenmiş gibi görünüyordu ama Natsuhi Yenge bunun saçma olduğunu düşünüyordu.`
 `"Tabii ki.`
 ` Bu şekilde düşünürsen, dünkü mektup bile mantıklı geliyor.`
 ` Bu motivasyon, olaylarla oldukça iyi uyuşuyor gibi görünüyor...!`
@@ -720,7 +720,7 @@
 `Dünden beri yaptığı gibi sevimli şekilde yanaklarını şişiriyor olsa da, ...bunu sevimli olarak düşünemedim.`
 `...Eğer hafife alırsam, aniden ürpertici bir kahkahaya dönüşebilirdi...`
 `"...Gizli altın diye bir şey yok.`
-` Ancak, aptalca aksini düşünen ve babamın altınını isteyen bir suçlunun olabileceği fikri,`
+` Ancak, aptalca aksini düşünen ve Babamın altınını isteyen bir suçlunun olabileceği fikri,`
 ` ve amaçlarının bize bilmeceyi çözdürüp ardından da altını çalmak olması gerçekten de mantıklı."`
 `"Ancak, bu durumda, neden önce Ushiromiya ailesindeki en yüksek rütbeli kişileri öldürdüler?"`
 `".........İyi bir nokta.`
@@ -729,7 +729,7 @@
 ` Ayrıca, bu argümanı takip edersek, en başta Babamı tehdit etseler daha mantıklı olmaz mıydı?`
 ` Bizi çözmeye zorlamak yerine, bunu yazan kişiye bizzat sormanın daha mantıklı olacağını düşünürsünüz."`
 `"Bu da iyi bir nokta.`
-` ...Tabii ki, babamın sıradan bir tehditten etkileneceğini sanmıyorum."`
+` ...Tabii ki, Babamın sıradan bir tehditten etkileneceğini sanmıyorum."`
 `"Kinzo-san'ı iyi tanıyan herkes onun sıradan tehditlere boyun eğmeyeceğini çok iyi bilir..."`
 `"......O Ushiromiya ailesinin ve tüm servetinin yükünü taşıyan adam.`
 ` Geçmişte birçok tehdit ve saldırıya maruz kalmıştı.`
@@ -752,25 +752,25 @@
 `"Eğer suçlu gizli altının peşindeyse, bizi bilmeceyi çözmeye zorlamaları çok anlamsız olurdu.`
 ` İlk etapta bunu yapan kişiye sormak çok daha hızlı ve kolay olurdu."`
 `".........Bu durumda soru şu,`
-` ...tüm bunlar Büyükbabaya yönelik bir mesaj mı?"`
-`Başka bir deyişle, bu cinayetler Büyükbabaya yönelik bir tehditti.`
+` ...tüm bunlar Büyükbabama yönelik bir mesaj mı?"`
+`Başka bir deyişle, bu cinayetler Büyükbabama yönelik bir tehditti.`
 `{n}......Eğer suçluya altının yerini söylemezse, aile üyeleri teker teker öldürülecekti.`
 `Ya bu bilmeceyi çözmek zorunda kalan sadece biz değilsek...`
 ` ...Ya Büyükbabam da çözmek zorundaysa?!`
 `Eğer bu şekilde düşünürseniz, bu Büyükbabamın gizemli kayboluşunu açıklar.`
-`Eğer suçlu Büyükbabaya saldırmış olsaydı, altı cesedin bırakıldığı duruma bakıldığında,`
+`Eğer suçlu Büyükbabama saldırmış olsaydı, altı cesedin bırakıldığı duruma bakıldığında,`
 ` kesinlikle o korkunç makyajla bir yerde sergilenmiş olurdu.`
 `Ama buna rağmen onu hâlâ bulamamıştık.`
 ` ......Bu, Büyükbabamın kaçırıldığı ve bir yerde tutulduğu anlamına mı geliyordu?!`
 `".........Nasıl olur...`
 ` .........Demek istediğin, nasıl olur......!"`
-`"*giggle*giggle*.`
+`"*kıkır*kıkır*.`
 ` Kulağa ilginç geliyor.`
 ` ...Yani Babam bir yerde kapalı tutuluyor,`
 ` ve onlara altının yerini söylemezse teker teker öldürüleceğimiz tehdidine mi maruz kalıyor?"`
 `"Bunun nesini ilginç bulduğunu anlamakta güçlük çekiyorum...!"`
-`Natsuhi Teyze onu tehdit etti ama Eva Teyze sakince gülümsedi.`
-`"......Bunca zaman geçmesine rağmen onu hâlâ görmediğimize göre, Büyükbabanın da bu suça karışmış olması neredeyse kesin gibi.`
+`Natsuhi Yenge onu tehdit etti ama Eva Hala sakince gülümsedi.`
+`"......Bunca zaman geçmesine rağmen onu hâlâ görmediğimize göre, Büyükbabamın da bu suça karışmış olması neredeyse kesin gibi.`
 ` Bunu düşündüğünüzde, Battler-kun'un teorisini görmezden gelemezsiniz, değil mi...?"`
 `"George, sessiz ol.`
 ` ......İlk olarak, Babam tam olarak ne zaman kayboldu?"`
@@ -780,15 +780,15 @@
 ` ve ben de odasını kontrol etmeye gittim ve onu selamladım."`
 `".........Bir düşününce, çalışma odasının anahtarı bunca zamandır bendeydi.`
 ` Genji, bunu sana geri vereyim."`
-`Natsuhi Teyze altın anahtarı çıkardı ve Genji-san'a uzattı...`
-`Anahtara bakan Eva Teyze kıkırdadı...`
+`Natsuhi Yenge altın anahtarı çıkardı ve Genji-san'a uzattı...`
+`Anahtarı gören Eva Hala kıkırdadı...`
 `"...Hey, Genji-san.`
-` Eminim polis babamın odasını didik didik arayacaktır.`
+` Eminim polis Babamın odasını didik didik arayacaktır.`
 ` ...Ne sakladığın önemli değil, nasıl olsa ortaya çıkacak.`
 ` ......Bu yüzden bize hemen şimdi, burada anlatabilirsin, öyle değil mi?"`
 `"............Neyden bahsediyorsunuz?"`
 `"Çok basit.`
-` .........Unutma, babamın çalışma odası kilitli bir oda, anahtar dışında giriş çıkış yok.`
+` .........Unutma, Babamın çalışma odası kilitli bir oda, anahtar dışında giriş çıkış yok.`
 ` Bunun nasıl ifade edildiğini ikinci bir kez kontrol etmek istiyorum.`
 ` Babamın çalışma odasının tek bir girişi var.`
 ` Peki ya pencereler?`
@@ -802,7 +802,7 @@
 ` Bunun farkında ol ve bana cevap ver."`
 `"O odaya ana kapıdan başka giriş veya çıkış yolu var mı?`
 ` ......Babamın en yakın yardımcısı olarak, eminim biliyorsundur."`
-`Natsuhi Teyze "en yüksek rütbeli üyesi" kısmından biraz rahatsız olmuş görünüyordu,`
+`Natsuhi Yenge "en yüksek rütbeli üyesi" kısmından biraz rahatsız olmuş görünüyordu,`
 ` ama şimdilik ağzını kapalı tuttu ve Genji'nin cevabını bekledi.`
 `......Kendimi biraz rahatsız hissetmekten alıkoyamadım.`
 `{n}Neden sürekli gizli kapılardan bahsedip duruyordu...??`
@@ -810,8 +810,8 @@
 ` Eğer varsa, söyleseniz iyi olur."`
 `"...Eğer yoksa, o zaman birileri bir saniye içinde köşeye sıkışacak.`
 ` ......Eğer bana gizli bir kapı olduğunu söylerseniz, o zaman tüm argümanım boşa gider."`
-`Eva Teyze hangi kişinin köşeye sıkışmak üzere olduğunu belirtmedi,`
-` ...ama konuşmanın akışını takip ettiğimde, Natsuhi Teyze'den bahsettiğini hissetmek zorunda kaldım.`
+`Eva Hala hangi kişinin köşeye sıkışmak üzere olduğunu belirtmedi,`
+` ...ama konuşmanın akışını takip ettiğimde, Natsuhi Yengeden bahsettiğini hissetmek zorunda kaldım.`
 `"......Anne, ...neyden bahsediyorsun?"`
 `"George, bir süre sessiz kal.`
 ` .........Ne diyorsunuz?`
@@ -820,24 +820,24 @@
 ` Ve Kumasawa-san?`
 ` Gizli bir kapı var mı?`
 ` Yoksa yok mu?`
-` Genji-san, babamın çalışma odasını yeniden düzenlediğinde, inşaatı denetlemiş olmalısın.`
+` Genji-san, Babamın çalışma odasını yeniden düzenlediğinde, inşaatı denetlemiş olmalısın.`
 ` Bilmediğini söylemene izin vermeyeceğim."`
-`"............Efendi'nin çalışma odasında öyle bir şey yok."`
+`"............Efendinin çalışma odasında öyle bir şey yok."`
 `"Emin misin?`
 ` Peki ya Tek Kanatlı Kartal'ı takmasına izin verilen Kanon-kun?"`
 `"......Evet.`
 ` Eminim.`
-` ......Efendi'nin çalışma odasında gizli kapı gibi bir şey yok."`
+` ......Efendinin çalışma odasında gizli kapı gibi bir şey yok."`
 `"Kumasawa-san?"`
 `"H-......Hayır, böyle bir şey duymadım..."`
-`"Peki ya babamla yakın bir ilişkisi olan Doktor Nanjo?"`
+`"Peki ya Babamla yakın bir ilişkisi olan Doktor Nanjo?"`
 `"......Ben, ben de böyle bir şeyi hiç duymadım..."`
 `"Harika!`
 ` O zaman hazır mısınız?`
 ` Başlayayım.`
 ` Gerçekten çok basit."`
-`Herkes Eva Teyze'nin gururla anlatmaya başlayacağı şeyin ne olduğunu merak ederek başını şüpheyle yana eğdi.`
-`...Eva Teyze sanki sadece kendisinin bildiği bir sırrı açıklamak üzereymiş gibi zafer edasıyla güldü.`
+`Herkes Eva Halamın gururla anlatmaya başlayacağı şeyin ne olduğunu merak ederek başını şüpheyle yana eğdi.`
+`...Eva Hala sanki sadece kendisinin bildiği bir sırrı açıklamak üzereymiş gibi zafer edasıyla güldü.`
 `"Babamı gören son kişi Natsuhi nee-san'dı, değil mi?`
 ` ...Tam saatini unuttum ama sanırım sabah dokuzdan biraz önceydi."`
 `"......Nee-san, hatırlıyor musun?`
@@ -857,12 +857,12 @@
 `"......Bazı çöpler topladığımı hatırlıyor gibiyim.`
 ` Bunun ne ile ilgisi var...?"`
 `"O fişi havaalanındaki bir dükkandan şeker alırken almıştım."`
-`Eva Teyze çantasından küçük bir şeker torbası çıkardı.`
+`Eva Hala çantasından küçük bir şeker torbası çıkardı.`
 `"...Aah, o şekeri aldığın zamanki fiş mi?`
-` ...Ama anne, bu fişin buradaki bir şeyle ne ilgisi var...?"`
+` ...Ama Anne, bu fişin buradaki bir şeyle ne ilgisi var...?"`
 `"George, sessiz ol ve biraz daha dinle..."`
-`Hideyoshi Amca'nın ifadesi biraz katıydı.`
-`{n}...Her nasılsa, Eva Teyzenin ne demek istediğini anlamış gibiydi.`
+`Hideyoshi Eniştenin ifadesi biraz katıydı.`
+`{n}...Her nasılsa, Eva Halanın ne demek istediğini anlamış gibiydi.`
 `"Gerçekten sadece bir anda aklıma geldi.`
 ` Herhangi bir öngörüden kaynaklanmıyordu,`
 ` ve kesinlikle sana tuzak kurmayı falan planlamıyordum."`
@@ -870,8 +870,8 @@
 ` Nee-san, Babamla konuşup odadan ayrıldıktan hemen sonra benimle karşılaştığını hatırlıyorsun, değil mi?`
 ` Bunu çalışma odasının kapısına o zaman sıkıştırmıştım."`
 `"......Peki, bu ne anlama geliyor?`
-` Natsuhi Teyze o fişi yerden alana kadar kapıyı kimsenin açmadığı anlamına mı geliyor...?"`
-`"B-Bekle bir saniye, Eva Teyze...!`
+` Natsuhi Yenge o fişi yerden alana kadar kapıyı kimsenin açmadığı anlamına mı geliyor...?"`
+`"B-Bekle bir saniye, Eva Hala...!`
 ` Fişi sıkıştırmak çok bariz olurdu!`
 ` Büyükbabam kapıyı açtığında bunu fark etmiş, ilginç bulmuş ve kapıya geri sıkıştırmış olabilir..."`
 `Jessica aceleyle karşılık verdi.`
@@ -905,33 +905,33 @@
 ` Dün gece ona yemeğini ben götürdüm."`
 `"......Evet.`
 ` Shannon ve ben de onunlaydık."`
-`"Yani o zamana kadar babam kesinlikle odasındaydı.`
+`"Yani o zamana kadar Babam kesinlikle odasındaydı.`
 ` ...Ama, Natsuhi nee-san.`
 ` Orada olmadığını öğrendiğinde, çalışma odasına olan giriş ve çıkışlar tamamen kilitli gibi görünmüyor muydu?`
 ` ......Ama böyle bile olsa, bu sabah onunla konuştuğunu söyledin."`
 `"......Ben, ......herkesin neden bu kadar kasvetli olduğunu anlayamıyorum.`
 ` ...Biri bana bunu açıklayabilir mi...?"`
-`"A-......Anne, baba, siz...`
-`......Natsuhi Teyze'nin bu sabah Büyükbabayla görüştüğünü söylemesinin...`
+`"A-......Anne, Baba, siz...`
+`......Natsuhi Yengemin bu sabah Büyükbabamla görüştüğünü söylemesinin...`
 `...yalan olduğunu mu söylüyorsunuz?"`
 `"Ne-Neden yalan söylesin ki? Annem masum!!`
 ` Neden yalan söylesin ki!!"`
 `"Jessica!`
 ` Sana diline dikkat etmeni söyleyip duruyorum!"`
 `Bir anda her şey karıştı...`
-`Salon masasının karşısından Eva Teyze ve Natsuhi Teyze birbirleriyle karşı karşıya gelirken,`
+`Salon masasının karşısından Eva Hala ve Natsuhi Yenge birbirleriyle karşı karşıya gelirken,`
 ` George-aniki de Jessica ile yüzleşiyordu...`
 ` ......Ne haltlar dönüyor...?!!`
 `"Unutmayın, dün geceye kadar onu gördüğünü söyleyen birden fazla kişi vardı.`
 ` Ama bu sabahtan beri Babamı gördüğünü iddia eden tek kişi Natsuhi nee-san."`
 `"......Ve bir de fişten öğrendiğimiz şu garip gerçek var.`
 ` ...Peki, bu noktaları nasıl birleştirebiliriz...?"`
-`Eva Teyze herkesi hayal güçlerini zorlamaya çağırdı...`
+`Eva Hala herkesi hayal güçlerini zorlamaya çağırdı...`
 `......Elbette, o fiş önemli bir noktaya dönüşebilir.`
 `{n}...Ama başka hangi noktaya doğru bir çizgi çekebileceğimi bilmiyordum...!`
-`Eva Teyze'nin beklediği cevap...`
-`......Natsuhi Teyze'nin, Büyükbabanın bu sabah o odadaymış gibi görünmesi için yalan söylediğiydi.`
-`Ve Eva Teyze'nin bir anlığına aklına gelen bu yaptığı şey......bunu ortaya mı çıkarmıştı?`
+`Eva Halanın beklediği cevap...`
+`......Natsuhi Yengenin, Büyükbabamın bu sabah o odadaymış gibi görünmesi için yalan söylediğiydi.`
+`Ve Eva Halanın bir anlığına aklına gelen bu yaptığı şey......bunu ortaya mı çıkarmıştı?`
 `"Bu lanet şey hiç mantıklı değil!!`
 ` Annem neden yalan söylesin ki?!!`
 ` Bunun için hiçbir sebebi yok!!"`
@@ -947,12 +947,12 @@
 `"...O noktada, ölüm zamanı üzerinde sahtecilik yapılabilirse, Natsuhi nee-san bir mazeret yaratabilir.`
 ` ......Anladınız mı?`
 ` Millet?"`
-`...Bu sabah, Natsuhi Teyze Büyükbabamın orada olup olmadığını kontrol etmeye gittiğinde yalan söyledi,`
+`...Bu sabah, Natsuhi Yenge Büyükbabamın orada olup olmadığını kontrol etmeye gittiğinde yalan söyledi,`
 ` ...ve Büyükbabam o sırada çoktan ölmüş müydü?`
 `...Ve, cesedi bir yere taşıdı ve orada öldürülmüş gibi görünmesi için örtbas etti.`
 `......Ve sonra diğer herkesle birlikte kalıp bir mazeret yaratabilirdi.`
 `......Ve sonra, "Birinin bağırdığını duydum!"`
-` ...ya da onun gibi bir şey söyleyip oraya koşabilir ve herkesle birlikte cesedi bulan ilk kişi olabilirdi... Eva Teyze'nin söylemeye çalıştığı şey bu muydu......?`
+` ...ya da onun gibi bir şey söyleyip oraya koşabilir ve herkesle birlikte cesedi bulan ilk kişi olabilirdi... Eva Halanın söylemeye çalıştığı şey bu muydu......?`
 `"Ne kadar gülünç.`
 ` Dedektiflik romanları hoş bir eğlenceden başka bir şey değil!`
 ` Böyle düşüncesiz bir fikri ancak onları sürekli okuduğun için aklına getirebilirsin!"`
@@ -982,7 +982,7 @@
 ` ......Bunu söylediğini de mi inkâr ediyorsun?!!"`
 `"Buna kesinlikle izin vermeyeceğim!!`
 ` Babamın bu sözleri söylediğini inkâr etmenize izin vermeyeceğim!!"`
-`"......Ya da belki de babamın bedeni hiç ortaya çıkmayacak?`
+`"......Ya da belki de Babamın bedeni hiç ortaya çıkmayacak?`
 ` Normalde bir kişinin resmi olarak öldüğünün ilan edilmesi için yedi yıl boyunca kayıp olması gerekir.`
 ` Bu, Babamın neredeyse bitmek üzere olan ömrünü yedi yıl daha uzatmanın ve tüm servetini kendinize saklamanın akıllıca bir yolu olmaz mıydı!?"`
 `"B-Bunu söyleyip paçayı sıyırmana izin veremem!!`
@@ -997,8 +997,8 @@
 ` Bir çıkış yolu bulamadığın için çaresizsin, değil mi?!`
 ` Yap hadi, ve gerçeği şiddetle gizlemeye çalış...!!"`
 `"S-......Seniiiiiiii!!!!"`
-`Natsuhi Teyze'nin silahı hazırda tutup birilerini tehdit ettiği falan yoktu.`
-`{n}Ama Eva Teyze ona böyle yapmasını söyledikten sonra silahını hazır şekilde tuttu!`
+`Natsuhi Yengenin silahı hazırda tutup birilerini tehdit ettiği falan yoktu.`
+`{n}Ama Eva Hala ona böyle yapmasını söyledikten sonra silahını kaldırdı!`
 `...Şaşırtıcı olmayan bir şekilde, işler bu aşamaya geldiğinde Jessica ve Genji-san onu durdurmaya çalıştı.`
 `"...Madam, lütfen kendinizi sakinleştirin......!"`
 `"Anne, sen yalan söylemiyorsun!`
@@ -1013,7 +1013,7 @@
 ` Babam odadan kaybolmayı nasıl başardı?`
 ` ...Pencereler içeriden sıkıca kilitlenmişti.`
 ` Ve unutma, kapı da!"`
-`"......Eğer bu sabah gerçekten babamla konuştuysan,`
+`"......Eğer bu sabah gerçekten Babamla konuştuysan,`
 ` ...Natsuhi nee-san, o zaman onun bu "açılmamış kapı" kilitli oda senaryosundan nasıl kaybolduğunu açıklamalısın.`
 ` Eğer açıklamazsan, bu senin bir yalancı olduğun anlamına gelmez mi?"`
 `"Benimle daha ne kadar alay etmeyi planlıyorsun......?!!!"`
@@ -1025,7 +1025,7 @@
 `"Gerçekten mi?`
 ` O zaman ben açıklayayım!`
 ` Benim ve senin bakış açımızdan en iyi kısımları alıp daha dostane bir açıklama bulacağız!`
-` ......Dediğin gibi, babamın bu sabah hâlâ odasında olduğuna inanacağım."`
+` ......Dediğin gibi, Babamın bu sabah hâlâ odasında olduğuna inanacağım."`
 `"Ama bir sonraki sefer kapı açıldığında Babam orada değildi.`
 ` Buraya kadar herhangi bir itirazın var mı?"`
 `"Söyleyeceğin başka hiçbir şeyi dinlemek istemiyorum!!`
@@ -1056,14 +1056,14 @@
 ` ...Görünüşe göre herkes söyleyeceğini söyledi.`
 `"Ihihihi.`
 ` ...Bu iyi değil. {i:Hiç iyi değil},`
-` Eva Teyze."`
+` Eva Hala."`
 `"...Bu-...Bu "iyi değil" ile ne demek istiyorsun Battler...?"`
 `Jessica başını kaldırıp bana baktı, her kelimemi dikkatle dinliyordu.`
-`{n}Eva Teyze'nin ifadesi her zamanki gibi sakindi.`
+`{n}Eva Halanın ifadesi her zamanki gibi sakindi.`
 `"......Hiç iyi değil mi diyorsun? Neymiş o?`
 ` Battler-kun,`
 ` açıkla."`
-`"Bunu sadece tek bir açıdan görebiliyorsun—bu yüzden Natsuhi Teyze olması gerektiğine ikna oldun.`
+`"Bunu sadece tek bir açıdan görebiliyorsun—bu yüzden Natsuhi Yenge olması gerektiğine ikna oldun.`
 ` ...Onu savunduğumdan değil ama şah mat blöfü yapmak işe yaramayacak."`
 `"Bence bu fiş üzerine kurduğun teori kabul edilebilir.`
 ` Kötü bir mantık örgüsü değil.`
@@ -1072,19 +1072,19 @@
 ` Ihihi!"`
 `"...Amanın. Peki, fişle mühürlenmiş bir kapıyı benim teorim dışında nasıl kırıp da Babamın ortadan kaybolmasını sağlayabilirsin?!"`
 `"Teorinin ilginç olduğunu itiraf ediyorum.`
-` Ve eğer Büyükbabayı ortadan kaldırmanın seninkinden başka bir yolu olmadığını kesin olarak söyleyebilirsek,`
-` o zaman onu son gören kişinin, Natsuhi Teyze'nin sorumlu olması gerektiğini kesin olarak söyleyebiliriz."`
+` Ve eğer Büyükbabamı ortadan kaldırmanın seninkinden başka bir yolu olmadığını kesin olarak söyleyebilirsek,`
+` o zaman onu son gören kişinin, Natsuhi Yengenin sorumlu olması gerektiğini kesin olarak söyleyebiliriz."`
 `"Ancak, onun hâlâ masum olma ve bu suçlamaların yanlış olma ihtimali olduğu için, bu iddiada bulunamazsın!!"`
-`"......Hmm...... O halde, Battler-kun, Natsuhi nee-san dışında Büyükbabanı ortadan kimin kaldırmış olabileceğini söylüyorsun?`
+`"......Hmm. O halde, Battler-kun, Natsuhi nee-san dışında Büyükbabanı ortadan kimin kaldırmış olabileceğini söylüyorsun?`
 ` Nee-san dışında başka birinin bunu yapması imkânsız.`
 ` Fişim bunu kanıtlamadı mı?"`
 `"O çalışma odasını Natsuhi nee-san,`
 ` ilk ziyaret ettiği andan birlikte ziyaret ettiğimiz ikinci ana kadar, çalışma odası mükemmel bir kilitli odaydı ve kilitli odanın mührü kırıldığında, o çoktan kaybolmuştu!`
 ` Eğer bu onun suçlu olduğunu kanıtlamıyorsa, ne tür bir numara kullanmış olabilirler?!"`
-`"Dediğim gibi sadece 65 puan Eva Teyze.`
+`"Dediğim gibi sadece 65 puan Eva Hala.`
 ` O zaman "satranç tahtasını ters çevirmeyi" deneyelim mi?`
-` Mesele Büyükbabayı dışarıdan nasıl yok ettikleri değil.`
-` Büyükbabanın içeriden nasıl kaybolduğunu düşünün."`
+` Mesele Büyükbabamı dışarıdan nasıl yok ettikleri değil.`
+` Büyükbabamın içeriden nasıl kaybolduğunu düşün."`
 `"Kapıya fiş sıkıştırılmıştı, bu yüzden kullanılamazdı.`
 ` Ayrıca pencereden de çıkmış olamaz, çünkü pencereler dışarıdan kilitlenemez ve çalışma odasını ziyaret ettiğinizde kilitli olup olmadıklarını kontrol ettiniz.`
 ` Yani pencereler de kullanılmamıştı.`
@@ -1092,42 +1092,42 @@
 ` Bunu kabul etmek zorundayız!"`
 `"Ancak, çalışma odası sonsuza kadar kilitli bir oda olarak kalmadı.`
 ` Fiş tarafından oluşturulan mühür kaldırıldığında, kapıyı kullanmak ve kapıdan kaçmak mümkün hale geldi."`
-`"...Başka bir deyişle, mesele Natsuhi Teyze'nin Büyükbabayı nasıl ortadan kaldırdığı değil.`
-` ...Aksine Büyükbabanın nasıl kaçabildiğini düşünmeliyiz!"`
-`"Büyükbabanın çalışma odası sıradan bir çalışma odası değil, doğru muyum?`
+`"...Başka bir deyişle, mesele Natsuhi Yengenin Büyükbabamı nasıl ortadan kaldırdığı değil.`
+` ...Aksine Büyükbabamın nasıl kaçabildiğini düşünmeliyiz!"`
+`"Büyükbabamın çalışma odası sıradan bir çalışma odası değil, doğru muyum?`
 ` Genji-san'ın dediğine göre, tuvalet, mutfak ve hatta yatak odası bile var, neredeyse küçük bir ev gibi.`
 ` ......Örneğin yatağın altına saklanırsa, ikinizi de ortadan kaybolduğunu düşünmeniz için kandıramaz mı?"`
-`"Eva Teyze, sen bile bu kadar dikkatli kontrol etmedin değil mi?`
+`"Eva Hala, sen bile bu kadar dikkatli kontrol etmedin değil mi?`
 ` Ve sonra ikiniz onun orada olmadığını düşünerek merdivenlerden geri aşağı indiniz."`
 `"O vakitte, fiş çoktan gitmişti!`
-` Başka bir deyişle, eğer Büyükbaba kilitli olduğu süre boyunca odasında saklandıysa,`
+` Başka bir deyişle, eğer Büyükbabam kilitli olduğu süre boyunca odasında saklandıysa,`
 ` ve ikinizin gelip gitmesini bekledikten sonra kaçtıysa, bu kilitli odayı hemen kırıp açabiliriz!!"`
 `"O-O da ne?!`
 ` Babam neden böyle garip bir şey yapıp sonra da odadan kaçmak istesin ki?!`
 ` Bu kadar absürtleşme!"`
 `"Evet, absürt olabilir.`
-` Ama yine de Natsuhi Teyze'nin haksız yere suçlanma ihtimali olduğunu gösteriyor.`
-` Eva Teyze, fişin mükemmel değildi.`
+` Ama yine de Natsuhi Yengenin haksız yere suçlanma ihtimali olduğunu gösteriyor.`
+` Eva Hala, fişin mükemmel değildi.`
 ` Satrançta buna şah diyebiliriz,`
 ` ama bu bir şah mat değil!!"`
 `"Ve en hoşuma gitmeyen şey,`
-` Natsuhi Teyze'ye bunu açıklaması için nasıl baskı kurduğunuz ve sonra da açıklamazsa suçlu olması gerektiğini düşünmeniz!`
+` Natsuhi Yengeme bunu açıklaması için nasıl baskı kurduğunuz ve sonra da açıklamazsa suçlu olması gerektiğini düşünmeniz!`
 ` Bu mantık olarak sayılıyorsa, neden bana, Ushiromiya Battler'a......"`
 `"...satranç tahtasını bir kez daha ters çevirmesine izin vermiyorsun!!"`
-`"Eva Teyze, senin mantığına göre,`
-` ......bize burada hemen şimdi, sen ve Hideyoshi Amca'nın neden dün gece o altı kişiyi öldürüp sonra da konukevine dönmüş olamayacağınızı açıklamalısın...!"`
-`"Natsuhi Teyze'yi açıklama yapmaya zorluyorsun.`
+`"Eva Hala, senin mantığına göre,`
+` ......bize burada hemen şimdi, sen ve Hideyoshi Eniştemin neden dün gece o altı kişiyi öldürüp sonra da konukevine dönmüş olamayacağınızı açıklamalısın...!"`
+`"Natsuhi Yengemi açıklama yapmaya zorluyorsun.`
 ` Eminim kendi masumiyetini de kanıtlayabilirsin, değil mi?!`
-` Büyükbabanın tüm serveti bir anda avuçlarının içine düşen Eva Teyze!!"`
-`"Do-Doğru ya, Eva Teyze, sen de oldukça şüpheli değil misin?!!`
+` Büyükbabamın tüm serveti bir anda avuçlarının içine düşen Eva Hala!!"`
+`"Do-Doğru ya, Eva Hala, sen de oldukça şüpheli değil misin?!!`
 ` Annemin onu en son gören kişi olduğu için şüpheli olduğunu söylüyorsan,`
-` Eva Teyze, o zaman babamı ve diğerlerini en son gören kişi olan sana ne demeli?!!`
+` Eva Hala, o zaman Babamı ve diğerlerini en son gören kişi olan sana ne demeli?!!`
 ` Battler'ın dediği gibi, onları öldürenin sen olmadığını kanıtla!!!"`
 `".........Anne, ben de senin mantığının biraz fazla aceleci olduğunu düşünüyorum.`
 ` ......Fiş eminim önemli bir ipucuydu."`
-`"Ancak, Battler-kun'un da dediği gibi, bu Natsuhi Teyze'nin suçlu olduğunu kanıtlamak için yeterli değil.`
+`"Ancak, Battler-kun'un da dediği gibi, bu Natsuhi Yengenin suçlu olduğunu kanıtlamak için yeterli değil.`
 ` ......Hepimiz eşit derecede şüpheliyiz.`
-` Sadece Natsuhi Teyze'ye baskı yapılması doğru değil."`
+` Sadece Natsuhi Yengeye baskı yapılması doğru değil."`
 `"Asil Babamız yatağının altında yerde mi sürünüyordu?`
 ` Böyle bir saçmalığa açıklama mı diyorsun?!"`
 `"O zaman neden önce sen açıklamıyorsun?!!`
@@ -1186,9 +1186,9 @@
 `".........Bunu inkâr etmeyeceğim.`
 ` Bu iğrenç saçmalığı yapan piçin gitmesine izin vermek için bir gün bile çok yeterli bir süre olabilir."`
 `"......Ama bu 18 kişiden birinden şüphe duymak istediğim anlamına gelmiyor.`
-` Biraz önce söylediklerime rağmen, senden şüphe etmek bile istemiyorum Eva Teyze.`
-` ...Benim için sen her zaman haylaz ve eğlenceli olan harika bir teyzesin."`
-`"......Böyle bir teyzeye kötü söz söylemek istemem.`
+` Biraz önce söylediklerime rağmen, senden şüphe etmek bile istemiyorum Eva Hala.`
+` ...Benim için sen her zaman haylaz ve eğlenceli olan harika bir halasın."`
+`"......Böyle bir halaya kötü söz söylemek istemem.`
 ` Buradaki tek bir kişi bile bunu yapmak istemez.`
 ` .........Öyle değil mi?`
 ` Millet?"`
@@ -1200,7 +1200,7 @@
 ` Söylemesi kolay olabilir ama bence hepimiz mümkün olduğunca sakinleşmeliyiz..."`
 `"...............Eva.`
 ` Sence de kafamızı sakinleştirmemiz gerekmiyor mu?`
-` ...Bence fiş babamın nerede olduğunu bulmak için önemli bir ipucu olacak.`
+` ...Bence fiş Babamın nerede olduğunu bulmak için önemli bir ipucu olacak.`
 ` Polise geldiklerinde bundan bahsetmeliyiz..."`
 `"...Evet, haklısın.`
 ` ...Evet.`
@@ -1213,7 +1213,7 @@
 ` Ve bunun ne anlama geldiğini derinlemesine düşünmeye çalış, tamam mı...?"`
 `"....................."`
 `"...................................."`
-`Eva Teyze ve Hideyoshi Amca ayağa kalktı.`
+`Eva Hala ve Hideyoshi Enişte ayağa kalktı.`
 `{n}Salondan ayrılmayı planlıyorlarmış gibi görünüyordu.`
 `"Ne de olsa, dedektifçilik oynamaya devam etmemiz anlamsız.`
 ` Her halükarda polis eninde sonunda her şeyi ortaya çıkaracak."`
@@ -1262,7 +1262,7 @@
 ` ...Eğer kuralları ona bu odadan çıkmamasını söylüyorsa, o zaman bu ona kalmış.`
 ` Bırak ne istiyorsa yapsın..."`
 `"...Baba..."`
-`Eva Teyze ve Hideyoshi Amca gittiler.`
+`Eva Hala ve Hideyoshi Enişte gittiler.`
 `{n}Arkalarından seslenen tek ses yağmurun sesiydi.`
 `Salon vahşi atmosferinin altına gömülüyordu...`
 `{n}Saate baktığımda çoktan akşam olduğunu görünce şaşırdım.`

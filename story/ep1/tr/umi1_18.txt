@@ -41,7 +41,7 @@
 `"......İnanmak istemiyorum ama bu, {f:5:Beatrice}'in kendine cadı diyen bir suçlu olduğunu kanıtlıyor."`
 `"Bu doğru...`
 ` Bir insanın yapamayacağı birçok garip şey oldu..."`
-`"Uu. Eva Teyze'nin kilitli oda cinayeti gibi şeyleri sadece bir cadı yapabilir.`
+`"Uu. Eva Teyzenin kilitli oda cinayeti gibi şeyleri sadece bir cadı yapabilir.`
 ` Bir insan bunu yapamaz!`
 ` Uu!"`
 `"............Sadece 19. kişinin var olduğu açık değil, aynı zamanda bu kişinin insanların hayal bile edemeyeceği bir güce sahip olduğu da açık."`
@@ -154,10 +154,10 @@
 `...şey..."`
 `"O zaman, Battler...`
 ` Büyükbabamın kilitli çalışma odasından kaybolmasını nasıl açıklıyorsun...?`
-` Büyükbaba kapı mühürlü olduğu halde aniden ortadan kayboldu, hatırladın mı...?"`
+` Büyükbabam kapı mühürlü olduğu halde aniden ortadan kayboldu, hatırladın mı...?"`
 `"Hikâye sırasında bunu da konuşmuştuk.`
-` Büyükbabanın fişi atlatmak için bir numara yapmış olması imkânsız değil.`
-` Pencereden atlamış ya da düşmüş ve Natsuhi Teyze de kapıyı içeriden kilitlemiş olabilir.`
+` Büyükbabamın fişi atlatmak için bir numara yapmış olması imkânsız değil.`
+` Pencereden atlamış ya da düşmüş ve Natsuhi Yenge de kapıyı içeriden kilitlemiş olabilir.`
 ` Büyüye sırt dayamadan kullanabileceğin bir sürü numara düşünebilirim...anlıyor musun?"`
 `"............Bu-`
 `......Bu mantıklı ama........."`
@@ -216,7 +216,7 @@
 ` Kanon-kun, sen kazan dairesine indikten hemen sonra peşinden geldiğini söyledi ama bildiğimiz kadarıyla bu bir yalan olabilir."`
 `"Seninle birlikte kazan dairesine girmiş ve seni gafil avlamış olabilir!`
 ` Ya da belki de kazan dairesine girdiğinde o buz kıracaklarından birini fırlatmak için ayarlanmış olabilecek bir tür tuzağı harekete geçirdin."`
-`"Ne de olsa Büyükbabanın cesedinin kokusu çöp fırınından geliyordu.`
+`"Ne de olsa Büyükbabamın cesedinin kokusu çöp fırınından geliyordu.`
 ` Birinin gelmesi kaçınılmazdı, bu yüzden suçlunun yapması gereken tek şey bir tuzak kurup oradan uzak durmak ve ölüm saatin için bir mazeret yaratmaktı...!"`
 `"......Kazan dairesinde bir tuzaktan bahsediyorsunuz...ama ne tür bir tuzak?"`
 `"Aynen öyle.`
@@ -230,7 +230,7 @@
 `ya da buna ne dersin?!"`
 `"Kanon-kun, ya her şey senin rol yapmandan ibaretse?!`
 ` İş-İşte bu, rol yapıyordun!!`
-` Eva Teyze ve Hideyoshi Amca da rol yapıyorlardı.`
+` Eva Hala ve Hideyoshi Enişte de rol yapıyorlardı.`
 ` Kilitli odayı kendileri yaptılar ve sadece ölü taklidi yapıyorlardı!"`
 `".........Battler...`
 ` .........senin...`
@@ -247,7 +247,7 @@
 `"Ama bu sadece hayatta kalanlar için geçerli.`
 ` ......Eğer suçlu ölmüş gibi davransaydı, kendini gizlemek için gerçek kurbanların arasına karışsaydı ve daha sonra kendi başına harekete geçseydi, o zaman her şey açıklanmış olurdu!"`
 `"............Ha...`
-` Yani, Eva Teyze'nin ya da diğerlerinden birinin suçlu olduğunu mu söylemeye çalışıyorsun...?`
+` Yani, Eva Halanın ya da diğerlerinden birinin suçlu olduğunu mu söylemeye çalışıyorsun...?`
 ` Ama Doktor Nanjo bir doktor olarak herkesin ölümünü onayladı, hatırlıyor musun?"`
 `"......Doğru.`
 ` Doktor Nanjo tüm kurbanları doğruladı.`
@@ -363,12 +363,12 @@
 `......kimsin...?"`
 `"......Yani davet edildiğin çay partisinin ev sahibini bile tanımıyorsun.`
 ` ......Tek kelimeyle muhteşem.`
-` *cackle*cackle*...!"`
+` *kıKIr*kıKIr*...!"`
 `"...Bin yıldır yaşayan Altın Cadı {f:5:Beatrice}-sama'nın varlığıyla şereflendirildiniz."`
 `"Sizi görmekten büyük onur duyuyorum, {f:5:Beatrice}-sama..."`
 `"......Lütfen Battler-kun'un saçmalıklarını bağışlayın."`
 `"B-Bu adam sadece dikkafalı, ve, şey, içinde bulunduğu durumu hâlâ anlayamıyor......!"`
-`"*cackle*cackle*cackle*...`
+`"*kıKIr*kıKIr*kıKIr*...`
 ` Sorun değil.`
 ` ......Bin yıldan sonra çoğu cadı yaşamaktan yorulur.`
 ` Arada bir senin gibi omurgalı bir adamla karşılaşmak güzel."`
@@ -394,7 +394,7 @@
 ` {i:bize asla inanmayacaksın.}`
 ` {i:Bu yüzden büyü sana karşı yetersiz kalacak.}`
 ` ...Bu tavır çok mantıklı.`
-` *cackle*cackle*...!"`
+` *kıKIr*kıKIr*...!"`
 `"Ne dediğin hakkında hiçbir fikrim yok, ihihi!`
 ` Bize kendini gösterme zahmetine girmen çok nazik bir davranış,`
 ` ama senin var olduğuna zerre inanmıyorum."`
@@ -407,7 +407,7 @@
 ` Seni kırmak için harcayacağım zamana değecek..."`
 `"......Sen tam da ismimi övmeye zorlamak isteyeceğim türden bir adamsın......`
 ` Sen tam da ayak parmaklarımı öpmeye zorlamak isteyeceğim türden bir adamsın.`
-` ...*cackle*cackle*cackle*!"`
+` ...*kıKIr*kıKIr*kıKIr*!"`
 `"İstediğin kadar saçma sapan konuş...!`
 ` Varlığını inkâr ediyorum.`
 ` Tüm olaylar "insan numaraları" ile açıklanabilir...!!`
@@ -438,7 +438,7 @@
 `".................................Kahretsin.........`
 ` ...Bir aralık var...`
 ` Bir yolu olmalı......"`
-`"*cackle*cackle*.`
+`"*kıKIr*kıKIr*.`
 ` Aklına bir şey gelmiyorsa, bana bırak."`
 `"......Oh?`
 ` Büyük bir cadı bunu nasıl yapardı...`
@@ -451,13 +451,13 @@
 ` Gerçekten bana ayak parmaklarını öptürmeyi bu kadar çok mu istiyorsun...?!`
 ` Ancak teslim olursam!`
 ` Ama izle... bu numarayı kesinlikle ortaya çıkaracağım ve sonra sana kıçımı öptüreceğim!"`
-`"...............*cackle*.`
+`"...............*kıKIr*.`
 ` Ne çekici bir adam.`
 ` Bu sözü unutmayacağım.`
 ` ...Zayıf cadılar güç kazanmak için iblislerin arkalarını öperler.`
 ` Çünkü tam bir teslimiyet için daha büyük bir yemin yoktur.`
 ` Bu gibi sözler bana sana boyun eğdirme arzusu veriyor.`
-` .........*cackle*cackle*...!"`
+` .........*kıKIr*kıKIr*...!"`
 `Battler'ın kaba laf kalabalığına aldırış etmeyen {f:5:Beatrice} bir kez daha altın piposunu salladı.`
 `......Evet, çünkü o altın pipo onun değerli büyülü değneğiydi.`
 `"Gelin, uyanın, çocuklar.`
@@ -485,7 +485,7 @@
 ` B-Bu delilikle insanları öldürebileceğini mi sanıyorsun?!!"`
 `"Kesinlikle öldürebilirim.`
 ` ......Onları aynı bu şekilde öldürebilirim...!`
-` *cackle*cackle*cackle*!"`
+` *kıKIr*kıKIr*kıKIr*!"`
 `Birdenbire artık koridorda değil, önceki çay partisindelerdi.`
 `......Battler hariç herkes uysalca oturuyordu, ......ama Kanon ağzından taze kan süzülürken inliyordu.`
 `{n}Bir çay partisi için ne kadar kötü bir davranış.`
@@ -509,7 +509,7 @@
 ` Kanon-kun'un yeterince tövbe ettiğini düşünüyorum......!"`
 `"Muhteşem.`
 ` Bana saygı duyanlara karşı cömertimdir.`
-` ......*cackle*cackle*...!"`
+` ......*kıKIr*kıKIr*...!"`
 `"Şu saçmalığı kes!!!`
 ` Bu boktan tiyatro gösterisinin beni senin zavallı varlığına ikna edeceğini bir an bile düşünme!`
 ` Sanki bin yıllık cadısın da!`
@@ -517,7 +517,7 @@
 `"Bunlar büyü değil!!`
 ` Büyü olmalarına imkân yok!!`
 ` Tüm bu suçlar "insan numaraları" ile açıklanabilir!!"`
-`"*cackle*cackle*!`
+`"*kıKIr*kıKIr*!`
 ` Benim bin yılımı insanların yüz yılıyla mı açıklayacaksın...?`
 ` Güzel, güzel, işte bu yüzden seni sevdim...!"`
 `"...............Aptal Battler...`
@@ -597,7 +597,7 @@
 `"Ma-Maria, senin de vücudunun her yerinde var......!!!"`
 `"Ben büyümle tüm ölüleri diriltiyorum.`
 ` ......Ama inanmadığın sürece, bu büyünün gerçek bir gücü olmayacak.`
-` *cackle*cackle*cackle*!`
+` *kıKIr*kıKIr*kıKIr*!`
 ` Ama senin kadar nitelikli bir adam böyle bir şeyle yıkılmaz, değil mi...?"`
 `"Ba-`
 `...Battler......!`
