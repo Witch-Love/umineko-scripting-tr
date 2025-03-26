@@ -49,14 +49,14 @@
 `Nanjo, sağlığı nedeniyle Kinzo'ya sık sık bir vasiyet yazmasını önermişti ama her seferinde Kinzo öfkeden deliye dönüyordu.`
 `......O zamandan beri Kinzo'nun en çok tepki gösterdiği kelime "vasiyet" olmuştu.`
 `Bu kelime bizzat onun ağzından çıktığı için Shannon bir anlığına duyduğu şeyden şüphe etmekten kendini alamadı.`
-`Shannon aceleyle yan masayı ve bir de kağıt hazırladı.`
+`Shannon aceleyle yan masayı ve yazı kağıdı hazırladı.`
 ` Genji de kendisine emredildiği gibi her zamanki yeşil şeytanını hazırlamaya başladı...`
 `"Ben hazırım."`
 `".........Hmm.`
 ` .........Nereden başlamalıyım?`
 ` ...Sanırım hayatımdan da bahsedebilirim.`
 ` ......Unutulmaz oyunlarımın bir kaydını bırakmak eğlenceli olurdu."`
-`".........Yüzyıllar öncesine ait eski oyunların kayıtlarını incelemek, ...bu oyuncuların zihinlerinde bir yolculuğa çıkmak gerçekten eğlenceli olabilir.`
+`".........Yüzyıllar öncesine ait eski oyunların kayıtlarını incelemek, ...bu oyuncuların zihinlerinde bir yolculuğa çıkmak gerçekten eğlencelidir.`
 ` .........Öyleyse benim hayatımın skor tablosu da gelecekte insanları fikirlerimi keşfetmek için bir yolculuğa çıkmaya çağıracak mı?`
 ` ......Hmph."`
 `Kinzo bir süre elleri arkasında, odanın içinde dolanarak konuşmaya nereden başlaması gerektiğini düşündü...`
@@ -75,7 +75,7 @@
 `Hâlâ acı çekmediğimizi söylemek yalan olur.`
 `...Şu anda bile, gardımızı biraz düşürsek, muhtemelen Jessica gibi öfkelenmeye başlar, duygularımızı bir tür şiddetle açığa vururduk.`
 `Gohda-san'ın döndükten sonra söylediğine göre, şu anda Kanon-kun Jessica'ya göz kulak oluyormuş.`
-`...Görünüşe göre, duygusal olarak hâlâ çok gergindi.`
+`...Görünüşe göre, hâlâ çok gergindi.`
 `"......Anlıyorum.`
 ` Teşekkürler.`
 ` ...Belki genç bir çocuk, genç bir çocuğun duygularını daha iyi anlayabilir.`
@@ -99,7 +99,7 @@
 ` .........Artık iyiyim."`
 `Polis kapsamlı bir soruşturma sonunda mutlaka bazı kanıtlar bulacaktır.`
 ` ...Ama biz bunu bekleyebilecek kadar yetişkin değildik.`
-`...Kiliseyi kendi çapımda araştırmış, polis gelmeden önce suçluyu yakalamaya çalışmıştım.`
+`...Kiliseyi kendi çapımda araştırıp polis gelmeden önce suçluyu yakalamaya çalışmıştım.`
 `......Ve bulduğum şey—sinir bozucu bir şekilde—hiçbir şeydi.`
 `{n}......Tek bir ipucu bile bulamamıştım.`
 `"Hadi, ......dışarı.`
@@ -109,7 +109,7 @@
 `"Hadi, hadi, Maria-sama.`
 ` Geri dönelim...`
 ` Burası çok soğuk."`
-`"............Anne, baba.`
+`"............Anne, Baba.`
 ` ......Her şey için teşekkür ederim.`
 ` ...Kesinlikle sizin beklentilerinize ihanet etmeyen bir adam olacağım..."`
 `George ailesine veda ederken son sözlerini söyledi.`
@@ -134,18 +134,18 @@
 ` Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
 ` Ahh."`
 `"Hey!!`
-` Sana sürekli o ürkütücü gülüşü yapmamanı söylemiyor muyum?!"`
+` Sana sürekli böyle ürkütücü gülmeyi bırakmanı söylemiyor muyum?!"`
 `"Maria, devam et.`
 ` ......Bunun anlamı ne?"`
 `"Fiziksel veya zihinsel bağlardan kurtulmak için kullanılan büyülü bir çember.`
 ` ......Ve çevresindeki İbranice yazıda: "Rab beni zincirlerimden kurtardı.`
 ` Onun adına şükran kurbanı sunacağım ve Rab'bin adını haykıracağım"."`
 `"......Şükran kurbanı mı...?`
-` Bana babam ve diğerlerini bu büyülü çembere kurban olsunlar diye mi öldürdüğünü söylüyorsun...?!"`
+` Bana Babam ve diğerlerini bu büyülü çembere kurban olsunlar diye mi öldürdüğünü söylüyorsun...?!"`
 `"Sakin ol, George-kun...!`
 ` Katil bizi kışkırtmaya çalışıyor.`
 ` ...Bunun hiçbir anlamı yok.`
-` Bunu düşünmek sadece kalbi zehirler."`
+` Bunu düşünmek bile kalbi zehirler."`
 `"......Ve biraz da İngilizce yazı var.`
 ` ...<Happy Halloween for>...<Maria>.`
 ` ......Anlıyorum.`
@@ -160,7 +160,7 @@
 `"......Evet, öyle bir şey."`
 `"Demek, kilise.`
 ` ......Onları öldürmeden önce kiliseye çağırmak için onca zahmete girmişler...`
-` ............Roza Teyze,`
+` ............Rosa Hala,`
 ` bu kilisenin özel bir anlamı falan var mı...?"`
 `"Özel bir anlam derken, ......ne demek istiyorsun?"`
 `"Şey, umm,`
@@ -174,9 +174,9 @@
 `"......Suçlunun bunu dikkate almamış olmasına imkân yok.`
 ` ...O hâlde, suçlunun bunu yapmak için neden bu kadar çaba sarf ettiği,`
 ` sorusuyla karşı karşıyayız..."`
-`"Bu noktada, sorulması gereken bir soru var.`
+`"Öyleyse, bu aşamada sorulması gereken bir soru var.`
 ` ......Altı cesedi bulduğumuz bu yerin...nasıl bir anlamı var?"`
-`"......Bu kilise......babam için önemliydi.`
+`"......Bu kilise......Babam için önemliydi.`
 ` ......Çocukluğumdan beri buraya girmemem konusunda sıkı sıkı tembihlenmiştim."`
 `"Uu.`
 ` ...Maria da bir keresinde buraya gelmişti ve çok azar işitmişti...`
@@ -186,18 +186,18 @@
 `"Bilmiyorum.`
 ` ......Babam bu kiliseyi çok kutsal görüyordu ve ona o kadar değer veriyordu ki birkaç kez yeniden dekore ettirdi."`
 `"...Ama hepinizin bildiği gibi,`
-` babam sadece kara büyüyü çok seviyordu—yani dini bütün biri olduğu için değil.`
+` Babam sadece kara büyüye ilgisi vardı—yani dini bütün biri olduğu için değil.`
 ` ......Tanrı'ya dua etmek için buraya geldiğini hiç duymadım."`
 `"......Benim bildiğim kadarıyla bile, Efendi buraya hiç gelmedi.`
-` Hatta buraya "yasak kilise" adını vermiştik, ...umm,`
-` ve perili bir ev gibi oldukça ürkütücü olduğunu düşünüyorduk."`
-`"Babam kendisi hiç yaklaşmasa da, nedense yılda birkaç kez hizmetkârlara temizletiyordu.`
-` ......Sanki her an kullanılabilecek şekilde her zaman temiz tutuyormuş gibiydi."`
-`"Ve buna rağmen, "yasak kilise" deniyor...`
+` Hatta buraya "yasak kilise" adını verdik, ...umm,`
+` ve perili bir ev gibi oldukça ürkütücü olduğunu düşündük."`
+`"Babam kendisi hiç yaklaşmasa da, nedense kiliseyi yılda birkaç kez hizmetkârlara temizletiyordu.`
+` ......Sanki her an kullanılabilsin diye temiz tutuyormuş gibiydi."`
+`"Ve buna rağmen, ona "yasak kilise" deniyor...`
 ` ......Ihihi!`
 ` Bu biraz düşüncesizce olabilir ama kulağa ilginç gelmiyor mu?`
-` Doktor Nanjo, siz büyükbabamın eski bir arkadaşısınız, değil mi?`
-` Ona hiç bu konuda bir şey sordunuz mu?"`
+` Doktor Nanjo, siz Büyükbabamın eski bir arkadaşısınız, değil mi?`
+` Ona hiç bu konuda bir şey sorduğunuz oldu mu?"`
 `"............Uzun zaman önce sormuştum ama konuyu geçiştirmek için ne dediğini unuttum.`
 ` ......Doğru, sanırım şöyle bir şey demişti..."`
 `"......Bir gün o da orada bir kutsama görebilecekti.`
@@ -213,7 +213,7 @@
 ` Günah çıkarma da kiliselerde yapılmıyor mu?`
 ` ..................Her neyse, kulağa şüpheli geliyor."`
 `"......Nedenini bilmiyorum ama,`
-` ......Büyükbaba'nın gözünde, tıpkı Doktor Nanjo'nun da dediği gibi,`
+` ......Büyükbabamın gözünde, tıpkı Doktor Nanjo'nun da dediği gibi,`
 ` ......bir mucize gerçekleşmediği sürece kutsanmayacağı gerçeği, bu kilisenin inşa edildiği zamandan beri değişmez bir gerçekmiş gibi görünüyor."`
 `"Bu kadarını nasıl biliyorsun...?"`
 `"Bak, ...orada açıkça yazıyor.`
@@ -234,8 +234,8 @@
 ` İki elin parmaklarıyla bile buna yakın bir sayı sayamazsınız.`
 ` Bir mucize gerçekleşmediği sürece bu gerçekten imkânsız olurdu."`
 `"......Gerçekten de.`
-` Kinzo-san'ın her şeyi kumarla ilişkilendirme eğiliminde olduğu zamanlardaki konuşmasına çok benziyor."`
-`"Hey, hey, hepiniz okuyabiliyor musunuz?`
+` Kinzo-san'ın her şeyi kumarla ilişkilendirme eğiliminde olduğu zamanlardaki konuşma şekline çok benziyor."`
+`"Hey, hey, hepiniz okuyabildiniz mi?`
 ` Biri bana da ne anlama geldiğini söylesin."`
 `"Kihihihihihihi.`
 ` ...En azından İngilizce öğren.`
@@ -246,59 +246,59 @@
 `ahh`
 `aah."`
 `"Sen kendi işine bak.`
-` Peki orada ne yazıyor?"`
-`"...Kabaca şöyle yazıyor:`
+` Peki, orada ne yazıyor?"`
+`"...Kabaca anlamı şöyle:`
 ` "Bu kapı sadece bir mucize gerçekleştiğinde açılır.`
 ` Yalnızca bir mucize gerçekleştiğinde kutsanacaksınız"."`
-`"......Büyükbabanın büyücülüğü astronomik derecede düşük olasılıklara dayanıyor.`
+`"......Büyükbabamın büyücülüğü astronomik derecede düşük olasılıklara dayanıyor.`
 ` ...Diğer bir deyişle, bu kapıyı açacak mucize......muhtemelen inanılmaz derecede büyük bir büyü gücü gerektiriyor.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
 ` Aah."`
 `"Güüzel, iyi iş, şimdi çeneni kapat.`
-` Rosa Teyze, Maria'yı İngilizce kursuna mı gönderiyordun?`
-` Sanırım bu doğru, İngilizce öğrenmeye küçük yaşlarda başlanmalı."`
+` Rosa Hala, Maria'yı İngilizce kursuna mı gönderiyordun?`
+` Sanırım doğru olan bu, İngilizce öğrenmeye küçük yaşlarda başlamak gerek."`
 `".........Yasak kilise.`
 ` ......Cadı {f:5:Beatrice} gerçekten bir cadı olsa da olmasa da, birkaç on yıl önce gerçekten var olduğu,`
-` ......ve Büyükbabanın metresi olduğu söylentileri var."`
+` ......ve Büyükbabamın metresi olduğu söylentileri var."`
 `"Bu, şey, sadece benim hayal gücüm ama...`
-`......Efendi'nin {f:5:Beatrice}-sama'yı gerçekten sevdiğini tahmin ediyorum.`
+`......Efendinin {f:5:Beatrice}-sama'yı gerçekten seviyordu diye düşünüyorum.`
 ` Ancak zaten evliydi, bu yüzden birlikte olamazlardı."`
 `"...Anlıyorum.`
-` .........Eğer ölü {f:5:Beatrice} bir mucizenin büyüsüyle diriltilebiliyorsa, artık Büyükanne öldüğüne göre, onunla alnı açık bir şekilde evlenebilirdi.`
+` .........Eğer ölü {f:5:Beatrice} bir mucizenin büyüsüyle diriltilebilseydi, artık Büyükannem öldüğüne göre, onunla alnı açık bir şekilde evlenebilirdi.`
 ` Ve onunla bu kilisede evlenecekti......... Böyle bir peri masalı olabilir mi?"`
-`"......Kulağa o kadar da mantıksız gelmiyor.`
+`"......Bence kulağa o kadar da mantıksız gelmiyor.`
 ` ...Babamın şimdi bile {f:5:Beatrice}'i çok sevdiği bilinen bir gerçek."`
 `"......Ayrıca, her ne kadar ürkütücü olduğunu söylesem de,`
-` kilisenin içinin oldukça görkemli olduğunu düşünüyorum.`
+` kilisenin içinin oldukça görkemli olduğunu hatırlıyorum gibi.`
 ` .........Babamın bu kiliseyi ölü metresiyle düğün yapma umuduyla inşa ettiği düşüncesi aslında o kadar da mantıksız olmayabilir."`
-`"...Büyükbaba bu kiliseyi inşa ettiğinde muhtemelen yaşadığı sürece burayı asla kilise olarak kullanmayacağını biliyordu."`
+`"...Büyükbabam bu kiliseyi inşa ettiğinde muhtemelen yaşadığı sürece burayı asla kilise olarak kullanmayacağını biliyordu."`
 `"......Ama cadının bir mucize ile dirilmesi için dua etti.`
 ` Ve eğer o mucize gerçekleşirse, burada evlenebileceklerini düşündü..."`
 `"......Anlıyorum.`
 ` ...Bu şekilde düşünürsek, burası gerçekten {f:5:Beatrice}-sama için de son derece önemli bir yer olurdu...`
 ` Kilisenin asla açılmayacağını bilmesine rağmen.`
 ` ......Hüzünlü bir aşk hikâyesi."`
-`Gohda-san'ın bedeni benimkinden bile büyük olmasına rağmen sözleri dokunaklıydı.`
+`Gohda-san'ın bedeni benimkinden bile büyük olsa da sözleri dokunaklıydı.`
 `...Herkes sessizdi ama bu görüşle hemfikir oldukları anlaşılıyordu.`
 `"Kilisenin asla açılmayacağını bilmesine rağmen,`
-` ......muhtemelen yine de bir mucizenin gerçekleşeceği günün hayalini kuruyordu.`
+` ......muhtemelen bir mucizenin gerçekleşeceği günün hayalini kuruyordu.`
 ` .........Kinzo-san gençlik günlerinde büyük bir romantikti.`
 ` ...Onu anlıyorum."`
 `"Ihihi.`
 ` Kim bilir.`
 ` ......Ama hepiniz yılda dört kez gelip temizliyordunuz, değil mi?"`
 `"Hiç açılmadı da ne demek?`
-` İçeri bir süre önce girmedik mi?`
+` İçeriye kendimiz az önce girmedik mi?`
 ` Bu bir mucize falan değildi.`
-` Anahtarı getirdik, tıkırdadı ve içeri girdik.`
+` Anahtarı getirdik, tık, ve içerdeydik.`
 ` Hepsi bu kadar, bu saçmalık."`
 `"..................Heh?`
 ` ............Ne?!`
 ` ...............Bekle, .........bu da ne?"`
 `"Eh, "Bu da ne" derken, ne demek istiyorsun...?"`
 `Tek yaptığımın ortalığı karıştırmak olduğunu sanıyordum çünkü atmosferin bu kadar hüzünlü hale gelmesinden hoşlanmamıştım.`
-` ......Ama Rosa Teyze aniden ciddi bir yüz ifadesiyle üzerime atladı.`
-`Rosa Teyze'nin yüzü giderek solgunlaştı.`
+` ......Ama Rosa Hala aniden ciddi bir yüz ifadesiyle üzerime atladı.`
+`Rosa Halanın yüzü giderek solgunlaştı.`
 ` ...Kapının üzerindeki büyülü çembere baktı, sonra eline, sonra ona, bir eline bir ona.`
 `"So-......Sorun nedir, Rosa-sama...?"`
 `"Hey, Gohda-san!`
@@ -315,7 +315,7 @@
 `......Maria'nın az önceki kutlaması buna çok benziyordu...`
 `"...E-......Evet, bu doğru.`
 ` Bu anahtardan sadece bir tane var.`
-` Efendi'nin değerli kilisesinin anahtarı olduğundan sadece bir tane var ve kopyası yok.`
+` Efendinin değerli kilisesinin anahtarı olduğundan sadece bir tane var ve kopyası yok.`
 ` ...Normalde hizmetkâr odasındaki anahtar kutusunda muhafaza edilir, ancak..."`
 `"Doğru.`
 ` Ve Genji-san kayıp olduğunu söyledi.`
@@ -323,7 +323,7 @@
 ` Ve bu dün oldu!"`
 `"............Ne...?`
 ` Yani başka bir deyişle,`
-` .........bu çok garip değil mi?"`
+` .........bu çok mantıksız, değil mi?"`
 `"...Bu olamaz.`
 ` .........Bu iş garipleşmeye başladı."`
 `"N-Ne demek istiyorsunuz...?`
@@ -337,7 +337,7 @@
 ` Kilitliydi!!`
 ` Kilidi ben açtım!!`
 ` Eminim!!"`
-`Rosa Teyze kilisenin kapısını kapatıyor, kilitliyor, kilidi kontrol etmek için çekiştiriyor ve tekrar açıp duruyordu.`
+`Rosa Hala kilisenin kapısını kapatıyor, kilitliyor, kilidi kontrol etmek için çekiştiriyor ve tekrar açıp duruyordu.`
 `Yüzü yine solgunlaşıyordu...`
 `"Ben Maria'nın zarfından anahtarı çıkarıp kapıyı açana kadar,`
 ` kesinlikle kilitliydi!!`
@@ -347,7 +347,7 @@
 `"Ama o zaman bu......garip değil mi......?!"`
 `"Evet, öyle.`
 ` .........Tek anahtarı dün öğlen saatlerinde Maria, kendisine cadı diyen bir kadından aldı.`
-` Yani, dün öğle saatlerinden Rosa Teyze'nin kapıyı açtığı bu sabaha kadar bu kilise kilitli bir odaydı."`
+` Yani, dün öğle saatlerinden Rosa Halanın kapıyı açtığı bu sabaha kadar bu kilise kilitli bir odaydı."`
 `".........O altısını buraya nasıl soktular ve onları nasıl öldürdüler?!"`
 `Altı kişinin ölümü kafamızı karıştırmıştı.`
 ` O tuhaf büyülü çemberi ve kilisenin hikâyesini duyduktan sonra bir şeyleri çözdüğümüzü düşünmüştük.`
@@ -379,10 +379,10 @@
 ` Ha, siz insanların düşünmeyi bırakmak için kullandığı bahaneler hep bunlar.`
 ` Seni aşağılık insan, bu bahane de ne?!"`
 `"Laplace'ın şeytanı gibi olmadığın sürece düşünemeyeceğini mi söylüyorsun, seni beceriksiz aptal?!!`
-` ......Ve sanki bilgi eksikliği senin için dezavantaj yaratıyormuş gibi konuşuyorsun, oysa aslında tam tersi."`
+` ......Ve sanki bilgi eksikliği senin için dezavantaj yaratıyormuş gibi konuşuyorsun, oysa aslında tam tersi, görüyor musun?"`
 `"Sana ne kadar çok bilgi verilirse, o kadar çok başın ağrır!`
 ` Bu sadece seni sıkıştıran kompresörün gücünün artmasına neden olacaktır!`
-` *cackle*cackle*cackle*cackle*cackle*!!"`
+` *kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!!"`
 `"Hoh, o zaman, şunu söyleyeyim.`
 ` İlk etapta buranın "kilitli bir oda" olduğunu doğrulamak bile imkânsız!!`
 ` Eğer şeytanlardan bahsediyorsak, o oyunu da oynayabilirim."`
@@ -406,7 +406,7 @@
 ` Eminim bu kilisede bulunması imkânsız gizli bir geçit vardır.`
 ` Bu yüzden tahminde bulunmaya başlamama bile gerek yok ve büyünün imkânsız olduğunu söyleyebilirim!!"`
 `".........Hohoh, demek bu muhakeme tarzını kullanıyorsun.`
-` *cackle*cackle*, ne kadar safça."`
+` *kıKIr*kıKIr*, ne kadar safça."`
 `"Beklenen bir hamle.`
 ` Ben de cevabımı vereyim.`
 ` ......Değersiz insanların dedektiflik romanlarında yer alan "kilitli odalar"ın her zaman saçma olduğunu düşünmüşümdür."`
@@ -416,9 +416,9 @@
 ` Düşünmüyorsun, değil mi?!"`
 `"{i:Bunu kilitli bir oda gibi göstermek için hangi numarayı kullandılar}!`
 ` İşte böyle düşünüyorsun."`
-`"Başka bir deyişle, insanlığın yüz yıl boyunca inşa ettiği tüm kilitli oda cinayetlerinden tek bir tanesi bile eksiksiz değil!!"`
+`"Yani, insanlığın yüz yıl boyunca inşa ettiği tüm kilitli oda cinayetlerinden tek bir tanesi bile eksiksiz değil!!"`
 `"Oooh!!`
-` Ne konuşma ama—ama biliyorsun ki gizem hayranları oldukça korkutucu.`
+` Benden söylemesi—biliyorsun ki gizem hayranları oldukça korkutucular.`
 ` Christie muhtemelen mezarında dişlerini gıcırdatıyordur!"`
 `"Hmph!!`
 ` Ama ben farklıyım.`
@@ -451,20 +451,20 @@
 ` Özetle, ya beni kabul edecek ve bana boyun eğeceksin ya da eğmeyeceksin!"`
 `"En azından bu konuda seninle aynı fikirdeyim!!`
 ` Bunu senin de arzu ettiğin gibi mutlaka halledeceğiz!!"`
-`"*cackle*cackle*!`
-` Bu tavır hoşuma gitti!`
+`"*kıKIr*kıKIr*!`
+` Bu tavrın hoşuma gitti!`
 ` .........Ve aklıma bir fikir geldi.`
-` Sanırım aramızdaki bu oyuna yeni bir kural ekleyeceğim."`
+` Aramızdaki bu oyuna yeni bir kural eklemeyi düşünüyorum."`
 `"Yeni bir kural mı?!`
-` ...Bahse girerim sana avantaj sağlayacak bir kuraldır, değil mi?!"`
+` ...Eminim sana avantaj sağlayacak bir kuraldır, değil mi?!"`
 `"Tabii ki de hayır.`
 ` Senin gibi insanların talep etmekten asla bıkmadığı şeyi sana vereceğim.`
-` Siz beceriksiz aptallar her zaman düşünmekten vazgeçer ve sonra da "bilgi eksikliği" diye sızlanırsınız!`
-` Daha sonra size bilgi verildiğinde de, "dayanağı inkâr ederek" bilginin doğru olup olmadığından şüphe etmeye başlıyorsunuz!"`
-`"Ne kadar kullanışlı değil mi?`
+` Siz beceriksiz aptalların her zaman düşünmekten vazgeçip sonra da sızlanmanızın nedeni "bilgi eksikliği"!`
+` Daha sonra size bilgi verildiğinde de, "dayanağı inkâr ederek" bilginin doğru olup olmadığından şüphe etmeye başlarsınız!"`
+`"Ne kadar kullanışlı, değil mi?`
 ` Kendi beceriksizliğinizi gizlemek için ne kadar da zekice kelimeler.`
 ` Bu kullanışlı bahaneleri eleyeceğim.`
-` Bana teşekkür etmelisin, *cackle*!"`
+` Bana teşekkür etmelisin, *kıKIr*!"`
 `"Kapıdan geçtiklerini söyledin, ve ben de bunun mümkün olamayacağını söyleyerek reddettim.`
 ` ......Bunun kaçamak bir cevap olduğunu mu söylüyorsun?"`
 `"Evet.`
@@ -474,7 +474,7 @@
 ` Açıklamaya devam et!"`
 `"Hangi büyülü hamleyi kullanırsam kullanayım,`
 ` her zaman "bilgi eksikliği" ve "dayanağı inkâr etme"yi tekrarlayarak kaçmaya devam edebilirsin."`
-`"...Bu şekilde eninde sonunda kazanacak olsam da, bu son derece sıkıcı olurdu.`
+`"...Bu şekilde yine eninde sonunda kazanırdım da, bu son derece sıkıcı olurdu.`
 ` ......Bu nedenle, sana arzu ettiğin "bilgiyi" ve "dayanağı" vereceğim."`
 `"Ancak yine de, muhtemelen söylediğim her kelimeden şüphe duyacaksın.`
 ` Bu kendi içinde kötü değil.`
@@ -501,7 +501,7 @@
 `"<Stop>!!`
 ` Kuralı tamamlayacağım."`
 `"......Gerçeği söylerken kırmızı kullanacağım,`
-` ve {i:bunu yaptığımda kanıt göstererek bunu kanıtlama sorumluluğunu taşımıyorum}!`
+` ve {i:bunu yaptığımda kanıt göstererek bunu kanıtlama sorumluluğunu taşımayacağım}!`
 ` Bu açıkça bir doğrudur ve gerçektir!!"`
 `"Sebebi basit.`
 ` Tüm suçları büyü ile işliyorum.`
@@ -520,7 +520,7 @@
 `"......A-Anahtar!`
 ` Genji-san ve diğerleri sadece bir tane anahtar olduğunu söylediler ama bunu kanıtlamak imkânsız!`
 ` Suçlu gizlice anahtarı kopyaladı...!"`
-`"*cackle*cackle*cackle*cackle*!`
+`"*kıKIr*kıKIr*kıKIr*kıKIr*!`
 ` {p:1:Kilisenin yalnızca bir anahtarı var}!"`
 `"Arg......`
 ` O-O zaman peki ya bu?`
@@ -529,7 +529,7 @@
 ` Kilit açmak için bir alet!!"`
 `"Bu safça hareket de ne?`
 ` {p:1:Kilisenin kilidini, kilisenin anahtarından başka bir şeyle açmak imkânsız}!!`
-` Elbette büyü gücüyle açılabilmesine rağmen...?"`
+` Ama tabii büyü gücüyle açılabilir, değil mi...?"`
 `"Peki ya bu!!`
 ` Kapının kendisinde bir sorun var!`
 ` Kilitli olsa bile, geçmenin bir yolu vardı...!`
@@ -538,9 +538,9 @@
 ` İçeri girmeden önce menteşeleri söküp daha sonra tüm kapıyı yerinden çıkarmış olmaları da mümkün!!"`
 `"Wahahahahahahahahahaha!`
 ` İnsanlığın yüz yıllık zekası bu mu, Battleeeeeeer?!`
-` {p:1:Kilisenin kapısı kilitlendiğinde, her türlü giriş ve çıkış yöntemi engellenmiş olur}!!"`
+` {p:1:Kilisenin kapısı kilitlendiğinde, her türlü giriş ve çıkış yöntemini engeller}!!"`
 `"Tabii büyü kullanamadığın sürece...?`
-` *cackle*!`
+` *kıKIr*!`
 ` Şah mat zamanı geldi mi?!"`
 `"Yakın bile değil!!`
 ` Altı kişinin "kapıdan" girdiğini söyledin, ama bunun ön kapı olduğunu söylemedin!`
@@ -560,11 +560,11 @@
 ` Hadi, pes ediyor musun?!`
 ` Öyleyse teslim olduğunu ilan et ve kralını devirirmiş gibi diz çök!!"`
 `"Ve sonra da ayakkabılarımı öp!`
-` Senin gibi bir adamı ayakkabılarımı yalamaya zorlamaktan daha büyük bir zevk olamaz, *cackle*cackle*cackle*cackle*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
+` Senin gibi bir adamı ayakkabılarımı yalamaya zorlamaktan daha büyük bir zevk olamaz, *kıKIr*kıKIr*kıKIr*kıKIr*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
 `.........Kahretsiiiiiiin...`
 ` Bu hiç iyi değil, hiç iyi değil, hiç iyi değil...`
 `{n}Yani cadıya karşı kazanamıyor muyum...?!`
-`Bu hiç de satranç değil—Bir satranç probleminde kaybeden taraf olmak zorunda bırakıldım...!`
+`Bu hiç de satranç değil—Bir satranç probleminde kaybeden taraf olmaya bırakıldım...!`
 ` Yapabileceğim en iyi şey ayrıntılar hakkında tartışmak ve bir beraberlik almak mı...?`
 `"Bu kesinlikle olmayacak...!`
 ` Ya ben teslim olacağım, ya da sen teslim olacaksın!!`
@@ -593,7 +593,7 @@
 ` Endişelenme.`
 ` Teslim olmak sadece anlık bir utançtır.`
 ` Sonrasında, sadece her şeyi oluruna bırakmanın zevki kalır..."`
-`"......*cackle*cackle*cackle*cackle*!!`
+`"......*kıKIr*kıKIr*kıKIr*kıKIr*!!`
 ` Haydi, teslim ol, haykır.`
 ` .........Seni duyamıyorum...`
 ` Gür bir sesle net bir şekilde söyle."`
@@ -606,7 +606,7 @@
 `"...............Hoh.`
 ` Pekâlâ.`
 ` Sıra sende.`
-` ...*cackle*cackle*."`
+` ...*kıKIr*kıKIr*."`
 `"Koymuş olduğun bu kuralın kendi silahın olduğunu düşünme hatasına düştüm.`
 ` ......Ancak, bunun benim için de bir silaha dönüşebileceğini fark ettim.`
 ` ............Yani, her şey şuna geliyor."`
@@ -621,7 +621,7 @@
 ` ............İlk etapta kilitli bir oda olmayan kilise nasıl kilitli bir oda gibi gösterildi?"`
 `"İşte geldi.`
 ` ......İnsanların yüzyıl önce ortaya çıkardığı düşünme tekniği.`
-` Denemekten çekinme, *cackle*cackle*!!"`
+` Denemekten çekinme, *kıKIr*kıKIr*!!"`
 `"...Bunu benim için kırmızıyla söyle.`
 ` Eğer imkânsızsa, reddet.`
 ` ...İşte geliyor."`
@@ -640,7 +640,7 @@
 ` ......Yani kapıyı değil de, anahtarın kendisini düşünüyorsun."`
 `"Maria dün senden bir zarf aldı.`
 ` Maria zarfı açmadı ama içindekini hissetmiş ve içinde bir anahtar olduğunu anlamış olabilir.`
-` ......Ama bunun kesinlikle kilisenin anahtarı olup olmadığını kontrol etmiş olamaz."`
+` ......Ama bunun kesinlikle kilisenin anahtarı olup olmadığını kontrol etmiş olduğunu söyleyemeyiz."`
 `".........Demek istediğim şu:`
 ` ......Maria'ya verilen zarfın içindeki sahteydi."`
 `"...Bunca zaman bu saçmalık için mi bekledim?`
@@ -657,7 +657,7 @@
 ` ......Dün öğlen Maria'ya içinde anahtar olan bir zarf verdin.`
 ` Ve ona zarfı açmaması gerektiğini söyledin.`
 ` .........Maria muhtemelen içinde bir anahtar olduğunu fark etti."`
-`"Ve daha sonra, Rosa Teyze zarfın içindekini kilisenin kapısını açmak için kullandığından,`
+`"Ve daha sonra, Rosa Hala zarfın içindekini kilisenin kapısını açmak için kullandığından,`
 ` {i:onun kilisenin anahtarı olduğunu düşündük}.`
 ` Şüpheli kısım burası!"`
 `"........................Yani söylemeye çalıştığın şey bu mu?`
@@ -675,7 +675,7 @@
 ` ...{p:1:Maria'ya verdiğim zarfın içindeki nesne gerçekten de kilisenin anahtarıydı}."`
 `"Devam ediyorum.`
 ` ......Kırmızı ile tekrar edebilir misin?`
-` ......‘O zarf, Rosa Teyze onu açana kadar tamamen Maria'nın gözetimi altındaydı’."`
+` ......‘O zarf, Rosa Hala onu açana kadar tamamen Maria'nın gözetimi altındaydı’."`
 `".........................................."`
 `"...Eğer imkânsızsa, o zaman reddettiğini söyle.`
 ` Şah."`
@@ -684,7 +684,7 @@
 ` ...Şimdi senin kralının kaçma vakti, Beato."`
 `"......Ehh, reddetmemin bir sebebi var.`
 ` Bu, "onun gözetimi altında" ifadesinin tanımıyla ilgili.`
-` ...En net anlamıyla, Maria'nın günün her saatinde gözünün üzerinde olması gerekirdi."`
+` ...En net anlamıyla, Maria'nın günün her saatinde gözünün onun üzerinde olması gerekirdi."`
 `"...Ama Maria o kadar ileri gitmedi.`
 ` Çantasının dışında tuttuğu süre boyunca muhtemelen tamamen onun gözetimi altındaydı, ancak çantasına koyduktan sonra görüş alanından kayboldu.`
 ` ......Yalnızca "onun gözetimi altında" ifadesi bu bakımdan uygunsuz, bu yüzden kırmızı kullanamadım.`
@@ -695,9 +695,9 @@
 ` Kadınlara karşı naziğimdir.`
 ` Kadınları incitmem.`
 ` {i:Bir kadının beklentilerine ihanet etmem}!"`
-`".........Benim için kırmızıyla tekrarla—tabii eğer yapabiliyorsan.`
-` "Maria'nın çantasına, Rosa Teyze zarfı alıncaya kadar kimse dokunmadı"."`
-`"........................Bunu da......reddediyorum.`
+`".........Benim için kırmızıyla tekrarla— eğer yapabiliyorsan söyle.`
+` "Maria'nın çantasına, Rosa Hala zarfı alıncaya kadar kimse dokunmadı"."`
+`"........................Bunu da......reddedeceğim.`
 ` ...Nedenini açıklamayacağım."`
 `"Yanlış.`
 ` ......Açıklamayacağından değil.`
@@ -706,13 +706,13 @@
 `".................................kh..."`
 `"Eğer yapamıyorsan, senin yerine ben açıklayacağım.`
 ` .........Senin Maria'ya verdiğin zarfın içinde gerçekten de kilisenin anahtarı vardı.`
-` ...Sonra Maria onu çantasına koydu ve ertesi sabah Rosa Teyze onu alıp kilidi açtı."`
+` ...Sonra Maria onu çantasına koydu ve ertesi sabah Rosa Hala onu alıp kilidi açtı."`
 `"............Ancak!`
 ` Maria çantayı tamamen gözetim altında tutmuyordu!`
 ` Büyüye gerek yok.`
 ` Bu bir insan için mümkün olan bir kilitli oda numarası!"`
 `"Suçlu {y:0:İnsan}{n:0:insan}, Maria'ya anahtarı verdi,`
-` ve ertesi sabah Rosa Teyze'nin anahtarı kullanmasını sağlayarak ortada kilitli bir oda olduğu illüzyonunu yarattı."`
+` ve ertesi sabah Rosa Halanın anahtarı kullanmasını sağlayarak ortada kilitli bir oda olduğu illüzyonunu yarattı."`
 `"Bu süre zarfında Maria'nın çantasından anahtarı alan suçlunun anahtarı kullanmış,`
 ` ve sabaha karşı çantaya geri koymuş olma ihtimalini inkâr edemezsin!!"`
 `"Kırmızıyla söyleyebilir misin?!"`
@@ -724,14 +724,14 @@
 ` Rosa onu açılmamış bir zarftan aldı—"`
 `"Öyle mi? Duyalım o zaman!!"`
 `"Tekrarla!!`
-` "Dün öğle saatlerinde teslim edilen zarf ile Rosa Teyze'nin açtığı zarf aynı zarftı"."`
+` "Dün öğle saatlerinde teslim edilen zarf ile Rosa Halanın açtığı zarf aynı zarftı"."`
 `"B-Bunu tekrarlayabilirim.`
 ` {p:1:Maria'ya verdiğim zarf ile Rosa'nın açtığı zarf aynı zarftı}!!"`
 `"......Haah...!`
 ` ...Aaaaah, bu hiç iyi değil, hiç de iyi değil.`
 ` Bu artık kimin umrunda?"`
 `"...Senden beklentilerim vardı.`
-` ......Eğer burada teslim olmuş olsaydın, senin satır aralarını okumakta oldukça iyi biri olduğunu düşünebilirdim.`
+` ......Eğer ima edileni anlamakta biraz daha iyi olsaydın tam burada pes ederdin diye düşünürdüm.`
 ` ......Bu yüzden hayal kırıklığına uğradım.`
 ` ............{i:Beklentilerime ihanet ettin}."`
 `"N-............Ne......dedin.........!!"`
@@ -743,7 +743,7 @@
 ` Bu gerçek bir şah mat.`
 ` ......Bir kez daha soracağım, tekrarla!!`
 ` Söyleyebilirsen söyle!"`
-`"‘Maria'nın aldığı zarfın içindeki kilisenin anahtarı, Rosa Teyze zarfı açana kadar bir kez bile kullanılmadı’!!"`
+`"‘Maria'nın aldığı zarfın içindeki kilisenin anahtarı, Rosa Hala zarfı açana kadar bir kez bile kullanılmadı’!!"`
 `"..................h...`
 `............kh...`
 `...............nasıl...`
@@ -754,12 +754,12 @@
 `aşağılık bir insana.........!!"`
 `"Söylemeye devam edeceğim, {f:5:Beatrice}!!!"`
 `"Tekrarla!!`
-` "Maria'nın aldığı zarfın içindeki kilisenin anahtarı, Rosa Teyze zarfı açana kadar bir kez bile kullanılmadı"!!"`
+` "Maria'nın aldığı zarfın içindeki kilisenin anahtarı, Rosa Hala zarfı açana kadar bir kez bile kullanılmadı"!!"`
 `"......u...ku......ooooooooooooooooooooooooooohhh!!!"`
 `"Eğer bağıracaksan, o zaman kelimelerle yap—<Resign>, değil mi?!`
 ` İşte bu!!`
 ` Gerçek bu."`
-`"Maria'nın anahtarı bu sabah Rosa Teyze'nin eline geçmeden önce, bir noktada başka birinin eline geçti."`
+`"Maria'nın anahtarı bu sabah Rosa Halanın eline geçmeden önce, bir noktada başka birinin eline geçti."`
 `"Sonra onu kullandılar, zarfı tekrar mühürlediler ve Maria'nın çantasına geri koyarak hiç kullanılmamış gibi gösterdiler!"`
 `"Bu, mühürlü balmumu bozulmadığı için anahtarın kullanılmadığı iddiasına dayanan ucuz bir hile!"`
 `"Şah mat!!`
@@ -778,7 +778,7 @@
 ` Çünkü aramızda Maria'dan anahtarı çalacak, onu kullanacak ve bu kadar korkunç bir şey yapacak bir insan olduğunu kesinlikle kabul etmeyeceğim!!"`
 `"Heh, hehehehehhahahahahahahaha!!!`
 ` Pes ediyorum, <Resign>!`
-` Bu oyun tahtası için şimdilik pes ediyorum.`
+` Bu oyun tahtası durumu için şimdilik pes ediyorum.`
 ` ...Ama sen gerçekten safsın, Battler."`
 `"Veda sözleri kaybedenlerin ayrıcalığıdır.`
 ` İstediğin kadar tadını çıkar."`
@@ -786,7 +786,7 @@
 ` Varlığımı inkâr etmeye devam ettiğin sürece, eninde sonunda köşeye sıkışacaksın..."`
 `"Ne de olsa, beni inkâr ettiğin sürece, o sonsuz sevgi beslediğin akrabalarından şüphelenmek zorunda kalacaksın...!`
 ` En sonunda, senin için değerli olan birinden şüphelenmek zorunda kaldığında, o zaman benim varlığımı kesinlikle kabul edeceksin...!!"`
-`"*cackle*cackle*, kesinlikle, bu tahtayı aldın.`
+`"*kıKIr*kıKIr*, kesinlikle, bu tahtayı aldın.`
 ` ......Ancak, bu saf mantık seni kesinlikle yok edecek...`
 ` ......Sonuçta bana karşı kazanamazsın!!`
 ` Ushiromiya Battleeeeeeeeeeeeeeeeeeeer!!"`

@@ -81,7 +81,7 @@
 `{n}...İçinde yaklaşık on santimetre çapında küçük, yuvarlak bir ayna vardı.`
 `Oldukça eski görünüyordu, ancak aynanın arkasındaki tasarım çok süslüydü ve tarihi değeri olan bir şey gibi hissettiriyordu.`
 `En azından, plastik bir akrep anahtarlığına benzeyen diğer tılsımla karşılaştırıldığında çok daha etkili görünüyordu.`
-`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve Büyükbabasının hatıraları dağıtılırken büyükannesi tarafından kendisine özel olarak verilmişti.`
+`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve Büyükbabasının hatıraları dağıtılırken Büyükannesi tarafından kendisine özel olarak verilmişti.`
 `Eski zamanlardan beri aynaların içinde garip güçlerin yaşadığına inanılırdı.`
 `{n}Büyük olasılıkla ışığı yansıtma biçimleri, talihsizliği ve kötülüğü de aynı şekilde saptırdıklarına dair bir inanç yaratmıştı.`
 `Natsuhi aynayı kesesine geri koydu.`
@@ -156,7 +156,7 @@
 ` Uyandığımdan beri midem rahat durmuyor.`
 ` Wahahaha."`
 `"Evet, burada dört gözle beklediğin tek şey yemek, değil mi?`
-` *giggle* *giggle*."`
+` *kıkır* *kıkır*."`
 `".........Eva-san, sizin de bu sabah neşeli olduğunuzu gördüğüme sevindim."`
 `Natsuhi, Eva'nın sabahın erken saatleri olmasına rağmen son derece rekabetçi olan bakışlarına yorgun bir ifadeyle karşılık verdi.`
 `Ardından Kanon koşarak içeri girdi.`
@@ -225,7 +225,7 @@
 ` Üzgünüm, Genji-san, Kanon-kun, ama dışarıda arayabilir misiniz?`
 ` Eminim Nii-san'ın dışarı çıkıp kafalarını dağıtmak için yürüyüş yapmalarını önermesi garip olmaz.`
 ` Bu havada bile."`
-`"Ben babamın çalışma odasına gideceğim.`
+`"Ben Babamın çalışma odasına gideceğim.`
 ` Ne de olsa orada olma ihtimalleri hâlâ var, değil mi?"`
 `"..................Eva-san, senin gibi bir misafir kendini zahmete sokmamalı.`
 ` Ben gideceğim.`
@@ -239,9 +239,9 @@
 ` En azından Babamla kahvaltı etmek istiyorum.`
 ` Acaba aşağı inmesi ve bize katılması için onu ikna edebilir misin?"`
 `"......Görünüşe bakılırsa geri kalanımızı tamamen hor görüyor ama eminim {i:güvendiği} Natsuhi sorarsa mutlaka dinleyecektir."`
-`"...Benimle bu kadar sert konuştuktan sonra babamı ikna edemezsen ve aşağıya kendi başına inmek zorunda kalırsan.........`
+`"...Benimle bu kadar sert konuştuktan sonra Babamı ikna edemezsen ve aşağıya kendi başına inmek zorunda kalırsan.........`
 `Bir daha asla onun güvenini kazandığını söyleyebileceğini sanmıyorum, öyle değil mi...?`
-` *giggle*giggle*!"`
+` *kıkır*kıkır*!"`
 `"............Kendimden tam olarak emin değilim ama deneyeceğim."`
 `Natsuhi cesareti kırılmış bir şekilde cevap verdi.`
 `{n}Ancak Kinzo'nun huyunu bildiğinden, onu dışarı çıkarabileceğine dair hiçbir inancı yoktu.`
@@ -258,7 +258,7 @@
 `Ancak, Genji'ye Kinzo tarafından özellikle güvenildiği için, o kapının anahtarını taşımasına izin verilmişti...`
 `"Ama bu anahtar kullanılırsa, azarlanmaz mısın...?"`
 `"......Efendi derin bir uykudayken, kapıyı çalmak onun kulaklarına ulaşmayabilir."`
-`"...Ve Efendi'yi odasından çıkmaya ikna etmeye çalışırken, kapının ardından konuşmak zorunda kalırsanız daha zor olur.`
+`"...Ve Efendiyi odasından çıkmaya ikna etmeye çalışırken, kapının ardından konuşmak zorunda kalırsanız daha zor olur.`
 ` Lütfen bunu kullanın..."`
 `"......Genji..."`
 `Natsuhi şimdiye kadar Genji'nin doğrudan Kinzo'nun emrinde çalışan soğuk bir hizmetkâr olduğunu ve asla onun için çalışmayacağını düşünmüştü.`
@@ -267,10 +267,10 @@
 `...Ama Natsuhi onların gidişini izlerken, arkasından ona söylenen sözler alaycıydı.`
 `"O zaman Babamı da yanında getirdiğinden emin ol, tamam mı?`
 ` Ne de olsa soran kişi oğlunun sevgili eşi. Eminim seni dinleyecektir.`
-` *giggle*giggle*.`
+` *kıkır*kıkır*.`
 ` Biz misafiriz, o yüzden burada rahatça dinlenelim."`
 `"Kes şunu Eva, çok konuşuyorsun.`
-` Üzgünüm, Natsuhi nee-san, babamı sana bırakıyoruz..."`
+` Üzgünüm, Natsuhi nee-san, Babamı sana bırakıyoruz..."`
 `Natsuhi cevap vermeden hızlı adımlarla oradan ayrıldı, topukları her adımda yüksek sesle yere vuruyordu.`
 `Önceki gece yaşanan onca heyecandan sonra kimsenin uyanmasına imkân yoktu.`
 `George-aniki, Jessica ve ben kuzenlerin odasındaki yatakta yüksek sesle horluyorduk.`
@@ -319,7 +319,7 @@
 `"Zaten kahvaltı vakti de geldi, o yüzden malikâneye gidelim."`
 `"İyi fikir.`
 ` Maria, birlikte malikâneye gidelim, olur mu?`
-` Eminim Rosa Teyze de oradadır."`
+` Eminim Rosa Hala da oradadır."`
 `"Uu?`
 ` Annem malikânede mi?`
 ` O zaman gideceğim.`
@@ -427,10 +427,10 @@
 `"Babam aile konferansına katılmayacağını söyledi.`
 ` Böyle saçma bir konuyla ilgilenmediğini söyledi."`
 `"...Evet, evet, bahaneler, bahaneler.`
-` Eğer babamı ikna edemediysen, bunu açıkça söyle."`
+` Eğer Babamı ikna edemediysen, bunu açıkça söyle."`
 `"......Ne kadar acınası.`
 ` Babamın pişmanlık duygularını anlamaya başlıyorum."`
-`"Ne-......Ne demek istiyorsun...?"`
+`"N-......Ne demek istiyorsun...?"`
 `Natsuhi cevap vermedi.`
 `Tıpkı Kinzo'nun az önce yaptığı gibi, merdivenlerden inerken Eva'ya sırtını gösterdi.`
 `Ne olduğunu anlamaya çalışan Eva, sadece kendisiyle dalga geçildiğini ve Natsuhi'nin kendine olan güvenini hızla artıracak bir şey yaşandığını anlayabildi.`
@@ -605,7 +605,7 @@
 `George onları pencereden gül bahçesine doğru koşarken fark etti.`
 `"......Bu da ne?`
 ` Genji-san ve Doktor Nanjo ve,`
-` ......ve bu Natsuhi Teyze değil mi?"`
+` ......ve bu Natsuhi Yenge değil mi?"`
 `"Ne oldu, Aniki?"`
 `".........Belki bir şey olmuştur.`
 ` Korkunç bir şekilde telaşlanmış görünüyorlardı."`
@@ -674,7 +674,7 @@
 ` ama o, o kıyafet,`
 ` ...o yaşlı piçin, değil mi...?`
 ` Anladım, o zaman bu Krauss Amca...`
-` Ve Kyrie-san, ve Rosa Teyze, uwooOOOOOOoooooOOo!!!`
+` Ve Kyrie-san, ve Rosa Hala, uUuooOOOOOOoooooOOo!!!`
 `"Baba, BABA!!!"`
 `"Yapmamalısın, Jessica!!`
 ` İçeri girmemelisin!`
@@ -690,7 +690,7 @@
 `"......Peki bu ne anlama geliyor?`
 ` Sadece onları öldürmek yetmedi, ...üstüne böyle bir şey de mi yaptılar?!!`
 ` Şeytan, bu şeytanın işi!!"`
-`Natsuhi Teyze Jessica'yı, Eva Teyze de George-aniki'yi kollarından yakaladı,`
+`Natsuhi Yenge Jessica'yı, Eva Hala da George-aniki'yi kollarından yakaladı,`
 ` ......bu yüzden ambarın girişine yaklaşabilen tek kişi bendim.`
 `............Aah,`
 ` ...keşke burada beni de tutabilecek biri olsaydı,`
@@ -707,7 +707,7 @@
 ` Hayır, oraya atılmışlardı!`
 `Onları kıyafetlerinden çıkarabilirdim.`
 `......Şu yaşlı piç ve Kyrie-san.`
-` ...Krauss Amca ve Rosa Teyze.`
+` ...Krauss Amca ve Rosa Hala.`
 ` ......Daha geride, ...Gohda-san ve...`
 `dahası da mı var?`
 ` Kaç kişi öldü...`
@@ -734,10 +734,10 @@
 `"...Yüzü yok... Yüzleri yok...`
 ` Siktir siktir siktir siktir, hiiiiiiiiiiiiiii!!!"`
 `"......Battler-san, daha fazla bakmamalısın...`
-` Annen ve baban onları bu şekilde görmeni asla istemezlerdi...!`
-` Annen ve babanın hatırı için, ...daha fazla bakmamalısın!!"`
+` Annen ve Baban onları bu şekilde görmeni asla istemezlerdi...!`
+` Annen ve Babanın hatırı için, ...daha fazla bakmamalısın!!"`
 `"Ölü insanların huzur içinde uyuyormuş gibi görünen yüzleri olması gerekir, değil mi?!`
-` Yüzleri yok, babamın ve Kyrie-san'ın yüzleri yok!!`
+` Yüzleri yok, Babamın ve Kyrie-san'ın yüzleri yok!!`
 ` Öldüklerinde ne tür bir yüzleri olduğunu bile bilmiyorum!!"`
 `"Ne yapmam gerekiyor?!`
 ` Babamı ve diğerlerini her hatırladığımda bu parçalanmış korkunç yüzleri hatırlamak zorunda olduğumu mu söylüyorsun?!`
@@ -767,7 +767,7 @@
 `"...............Baba...`
 ` .........Öldürü—`
 ` .........orada yatanlar...`
-`Krauss Amca, Rudolf Amca, Kyrie Teyze,`
+`Krauss Dayı, Rudolf Dayı, Kyrie Yenge,`
 ` Rosa Teyze, Gohda-san...`
 ` ...............Beş kişi mi...?"`
 `"............Hayır.`
@@ -790,9 +790,9 @@
 ` ......Hafifçe sallandı, alt dudağı titriyordu...`
 `Çığlık atarak ve ağlayarak sevgilisinin yanına koşmak istedi.`
 `...Ama, .........aceleyle ona doğru koşmadan önce,`
-` ......tüm gücünü topladı ve babasına sordu.`
+` ......tüm gücünü topladı ve Babasına sordu.`
 `"......Shannon da...`
-`......Krauss Amca ve diğeriyle...`
+`......Krauss Dayım ve diğeriyle...`
 `.........aynı mı?"`
 `"................................."`
 `Hideyoshi bu sözlerin anlamını derinden anladı.`
