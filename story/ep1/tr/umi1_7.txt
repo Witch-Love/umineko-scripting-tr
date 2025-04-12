@@ -238,7 +238,7 @@
 ` Şemsiyen vardı.`
 ` Doğru şeyleri taşımakta çok iyisin."`
 `"......Uu.`
-` Şemsiyem yoktu.`
+` Maria'nın şemsiyesi yoktu.`
 ` Uu."`
 `"Ne? O zaman elindeki beyaz şemsiyeyi nereden buldun?"`
 `"Uu!`
@@ -353,7 +353,7 @@
 `"O zaman belki de Kumasawa-san ya da Shannon-chan'dı?"`
 `"...Pardon?`
 ` Bi-Bir hata mı yaptım...?"`
-`Shannon büzülerek, yanlışlıkla, yarı yolda geldiği için bir hata yapmakla suçlandığını düşündü.`
+`Shannon ürktü, yarı yolda geldiği için yanlışlıkla bir hata yapmakla suçlandığını düşündü.`
 `"Hayır, yapmadın.`
 ` Maria-chan gül bahçesinde yalnızken yağmur yağmaya başladı.`
 ` Birisi ona şemsiye verdi.`
@@ -529,7 +529,7 @@
 `"......Efendiye haber vermeli miyiz?"`
 `"Buna gerek yok.`
 ` .........Eğer gerçekten döndüyse, eninde sonunda Efendinin huzuruna kendi isteğiyle çıkacaktır.`
-` .........Ne de olsa, o dönek bir kadın.`
+` .........Ne de olsa, o vefasız biri.`
 ` Efendiye haber verip de onun görünmediğini fark etmek anlamsız olurdu..."`
 `"..................Bu, Efendinin ritüelinin çoktan başladığı anlamına mı geliyor acaba?"`
 `"...Muhtemelen.`
@@ -770,7 +770,7 @@
 `"......Özel bir madde mi...?"`
 `"Ne-Nedir o...?!"`
 `{e:070:Özel Madde.`
-`Sözleşmenin feshi üzerine {f:5:Beatrice} altını ve birikmiş faizi tahsil etme hakkına sahiptir.`
+`Sözleşmenin feshi üzerine {f:5:Beatrice}, altını ve birikmiş faizi tahsil etme hakkına sahiptir.`
 `Fakat, eğer birisi bu sözleşmedeki gizli altını keşfedebilirse,`
 ` {f:5:Beatrice} bu haklarından sonsuza kadar vazgeçecektir.}`
 `{e:070:......Faiz tahsilatı kısa bir süre içinde yapılacaktır, ancak herhangi biriniz bu özel maddenin şartlarını yerine getirebilirse,`
