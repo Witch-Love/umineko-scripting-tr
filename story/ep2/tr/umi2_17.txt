@@ -1,12 +1,12 @@
 `Battler yemek salonundaydı.`
 `Bu yağmurun ortasında konukevine dönecek iradeyi kendisinde bulamayınca,`
 `oturacak rastgele bir yer bulmak için gönülsüzce malikânenin içinde dolaşmış, ...ve yemek salonuna yerleşmişti.`
-`Kapıyı kilitlemeye zahmet bile etmemişti.`
-`Artık izole olduğu için formsuz katilin ya da Altın Cadı'nın onu öldürmeye gelebileceği aklından geçmişti,`
+`Kapıyı kilitlemeye zahmet etmemişti.`
+`Artık yalnız olduğu için formsuz katilin ya da Altın Cadı'nın onu öldürmeye gelebileceği aklından geçmişti,`
 ` ama artık buna direnmeyi düşünmüyordu.`
 `Aksine, suçluyu bir kilitle engellemeye hiç niyeti yoktu.`
 `{n}Söz konusu kişinin üzerine açık bir şekilde, doğrudan gelmesini istiyordu.`
-`...Eğer bu kişi bir katilse, ondan hoşça kal hediyesi olarak o harika kilitli oda numaralarından bazılarını anlatmasını isteyebileceğini düşündü.`
+`...Eğer bu kişi bir katilse, ondan veda hediyesi olarak o harika kilitli oda numaralarından bazılarını anlatmasını isteyebileceğini düşündü.`
 `Ve eğer bir cadıysa, ondan en azından harika bir büyüyle canını almasını isteyebileceğini düşündü.`
 `......Ancak, ironik bir şekilde, hiç kimse Battler'la yüzleşmeye gelmedi...`
 `Battler içki dolabını kendi başına açtı ve dilediği içkinin tadını doyasıya çıkardı.`
@@ -19,10 +19,10 @@
 ` Ve lütfen kendini tanıt.`
 ` Eğer insansan, bana adını söyle.`
 ` {f:5:Beatrice} isen, üç beden ölçünü söyle."`
-`"Öyle görünmeyebilirim, ama bir göğüs uzmanı olarak tanınırım."`
+`"Öyle görünmesedem de bir göğüs uzmanı olarak tanınırım."`
 `".........Ben Genji, Battler-sama."`
-`"...Huh, Genji-san demek.`
-` ......Üzgünüm, ama senin göğüs ölçünle ilgilenmiyorum.`
+`"...Ha, Genji-san demek.`
+` ......Üzgünüm, ama senin göğüs ölçüne ilgim yok.`
 ` Lütfen, içeri gel. Kapı açık."`
 `".........İzninizle."`
 `Genji-san kapıyı açtı ve selam verdi.`
@@ -39,15 +39,15 @@
 `Bu sözler...acıttı...`
 `{n}......Tabii ki istemiyordum.`
 `"...............................`
-` Şu noktada ne yapabilirim ki?`
+` Artık ne yapabilirim ki?`
 ` ......Her an ölmeye hazırım..."`
 `"......Tıpkı Efendi gibisiniz.`
-` Gerçekten de Efendinin kanı size güçlü bir şekilde aktarılmış...."`
+` Gerçekten de siz Efendinin kanını son derece tevarüs etmişsiniz...."`
 `"Büyükbabamın, o olağanüstü adamın, aslında her an ölmeye hazır olduğunu mu ima ediyorsun?`
 ` Bunu ilk kez duyuyorum."`
 `".........Efendinin yaşantısı,`
 ` ......bir dizi üzücü hadiseden sonra,`
-` ......tamamen kefaret ödemeye yönelikti."`
+` ......tamamen kefaret ödemeye indirgenmişti."`
 `"...Neler biliyorsun?"`
 `"............{f:5:Beatrice}-sama'nın ritüeli sekizinci alacakaranlık sona erdiğinde tamamlandı.`
 ` ...Artık...size her şeyi anlatabileceğime inanıyorum."`
@@ -63,8 +63,8 @@
 ` Size eşlik edeceğim.`
 ` Battler-sama."`
 `Genji-san onu takip etmemi söyledikten sonra koridorda yürümeye başladı.`
-`Tamamen ayıldım ve onun peşinden gitmeye başladım...`
-`Üçüncü kata doğru uzanan, .........geniş merdivenleri çıktık.`
+`Tamamen ayıldım ve onun peşinden gittim...`
+`Geniş merdivenleri çıktık, .........üçüncü kata doğru.`
 `{n}Genji-san yarı yolda yürümeyi bıraktı.`
 `{n}Daha sonra bana doğru döndü ve konuştu.`
 `".........Battler-sama.`
@@ -86,8 +86,8 @@
 ` Dokuzuncu alacakaranlıkta, cadı dirilecek, ......ve hiçbiri hayatta kalmayacak.`
 `Bu, {f:5:Beatrice}'in çoktan dirildiği anlamına geliyordu.`
 `{n}...Ve muhtemelen, hiçbirimizin hayatta kalmasına izin verilmeyecekti.`
-`Her halükârda hayatımı kaybedeceksem, ......ölmeden önce gerçeği öğrenmek isterdim.`
-`{n}...Kabullenmenin ne kadar zor olduğu önemli değildi.`
+`Her halükârda hayatımı kaybedeceksem, ......ölmeden önce gerçeği öğrenmek istedim.`
+`{n}...Kabullenmenin ne kadar zor olabileceği önemli değildi.`
 `"..................Evet.`
 ` ......Bir iblis ya da cadı ortaya çıksa bile, ...buna hazırım."`
 `".........Gerçekten de Efendinin gençliğine benziyorsunuz.`
@@ -137,7 +137,7 @@
 ` Tadını çıkar, 30 yıl boyunca mayaladığım hamlenin tadını çıkar."`
 `"......Heheheheheheheh.`
 ` Gerçekten de bu son derece gelişmiş bir hamle.`
-` ......Çok eğlenceli, çok eğlenceli... *kıKIr*kıKIr*kıKIr*kıKIr*, hahahahahahaha...!!`
+` ......Nasıl bir eğlence, nasıl bir eğlence... *kıKIr*kıKIr*kıKIr*kıKIr*, hahahahahahaha...!!`
 ` Yenilmez, yenilmez."`
 `"......B-`
 `............Bu da...`
@@ -159,7 +159,7 @@
 ` Bu adam için en uygun seçenek ne olabilir...?"`
 `"......Efendinin gençlik günlerinden beri sevdiği."`
 `"Bu ideal; ona servis et.`
-` ......Buraya gelerek iyi iş başardın, Ushiromiya Battler.`
+` ......Buraya gelmekle iyi ettin, Ushiromiya Battler.`
 ` Öncelikle, otur."`
 `".........Adımı defalarca kez andın, haksız mıyım?`
 ` Buna istinaden, benimle görüşmene izin verdim.`
@@ -167,7 +167,7 @@
 ` Ne talep edeceksin?"`
 `"......Altın Diyar'ın kapısı çok yakında açılacak.`
 ` Yakında, yeniden dirilişimi kutlamak için cadıları ağırlayacağım bir ziyafet vereceğiz.`
-` ...O vakte kadar, dilediğin kadar soruyu yanıtlayacağım."`
+` ...Bu süre zarfında, dilediğin kadar soruyu yanıtlayacağım."`
 `"Benim, ......benim sormak istediğim bir sürü şey var!!`
 ` Bu adada ne yaşandı?!`
 ` Ve bu cinayetler neden gerçekleşti?!"`
@@ -184,7 +184,7 @@
 ` Bana cevap ver, hepsine!!!"`
 `"Arrrrghhh, sessiz ol!!`
 ` Sadece öylece sorarak cevap alacağını mı sanıyorsun?!?!"`
-`"Böyle deme, Kinzo.`
+`"Öyle deme, Kinzo.`
 ` Kırılgan ve uçucu bir örümcek ağı bir zamanlar Kral Hirodes'e karşı koruma sağlamıştı.`
 ` ......Bu dünyada işe yaramaz hiçbir şey olmadığı gibi, anlamsız hiçbir soru da yoktur."`
 `"Pekâlâ, tüm sorularını yanıtlayacağım.`
