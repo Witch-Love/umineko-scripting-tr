@@ -2,11 +2,11 @@
 ` ...hoşuna gitti mi?`
 ` Az önceki oyunumuz."`
 `"......Tek taraflı bir oyun, sürükleyici olmaktan çıkar ve sıkıcı hale gelir."`
-`"*kıKIr*kıKIr*. Amanın, her zamanki gibi sert bir eleştiri.`
+`"*kıKIr*kıKIr*. Amanın, her zamanki gibi acımasız bir eleştirmensiniz.`
 ` ......Can sıkıntısından hiç hoşlanmayan Leydi {f:5:Bernkastel}'in bile,`
 ` bu zorlayıcı gelişmelerle tatmin olacağından o kadar emindim ki... Ne vicdansızlık."`
 `"...Zorlayıcı olduğunu, ...kabul ediyorum.`
-` ...Ancak, adil bir oyun olma açısından korkunçtu.`
+` ...Ancak, adil bir oyun olma açısından berbattı.`
 ` Koşulları biraz daha eşitlemen gerekiyor, ya da—"`
 `"......Bana kazanmanın bir yolu olmadığı mı söylenecek?`
 ` Leydi {f:5:Bernkastel} tarafından mı?`
@@ -43,12 +43,12 @@
 `"Ne aptal bir çocuk.`
 ` Neden bana karşı kazanmanın tek nedeninin biraz şans ve pek de iyi olmayan bir eşleşmeden kaynaklandığını anlayamıyorsun?`
 ` Bu seni çok kibirli yaptı, ve şimdi de {f:5:Beatrice} ile savaşmaya mı başladın? Haddini bilmen gerekmiyor mu?"`
-`"*kıkırdar*, {f:5:Beatrice} güçlüdür.`
+`"*kıkırdar*, {f:5:Beatrice}'in güçlü olduğunu biliyorsun, değil mi?`
 ` Ve benden daha da acımasız.`
 ` Sadece birazcık!"`
 `"Ayrıca, birinin adını Lambda diye kısaltma!"`
 `".........Beato, sen de bir aptalsın.`
-` Eğer bu çocuk senin oyununda olursa, her şeyi saçma bir maskaralığa çevirecek."`
+` Eğer bu çocuk senin oyununda olsa, her şeyi saçma bir maskaralığa çevirecek."`
 `"Leydi {f:5:Lambdadelta}'yı buraya sadece kenardan izlesin diye çağırmadım."`
 `"Senin bana karşı bahis oynadığını öğrendikten sonra, sana karşı bahis oynayacağını söyledi."`
 `"..............................Hâlâ kin tutuyorsun, değil mi?"`
@@ -71,7 +71,7 @@
 `"............Bunu dört gözle bekliyorum, Lambda.`
 ` Ve Beato.`
 ` ...Kim kazanırsa kazansın ya da kim kaybederse kaybetsin, bu bizim için çok anlamlı bir mücadele olacak."`
-`"Bu doğru.`
+`"Doğru.`
 ` Elbette kolay kolay kaybetmeyeceğim ama bu kazanmak ya da kaybetmekten daha önemli."`
 `"Ne de olsa, biz can sıkıntısını hiç sevmeyiz."`
 `Üç cadı kıkırdadı, güldü ve kahkahalar attı.`
@@ -93,7 +93,7 @@
 ` Ona göz kulak ol.`
 ` Öyle görünmeyebilir ama yalnızlık çekiyor."`
 `"Anlıyorum.`
-` Demek o da şu yeni moda whatchamacallit'lerden biri.`
+` Demek o da şu yeni moda bilmem nelerden biri.`
 ` *kıKIr*, Leydi {f:5:Lambdadelta}'dan beklendiği gibi.`
 ` Oldukça yenilikçi.`
 ` *kıKIr*kıKIr*kıKIr*kıKIr*."`
@@ -105,7 +105,7 @@
 `......Özür dilerim.`
 ` Baş belası biri geldi ama ona aldırış etme.`
 `Daha da önemlisi,`
-` .........işler kesinlikle çirkinleşti.`
+` .........işler epey çirkinleşti.`
 `Lambda ile oynadığım oyunda dehşet verici kötü sonlar yaşadığımı düşünürdüm,`
 ` .........ama bu seferki, ......son derece korkunç.`
 `...Dizlerine kapanarak kalbini kapatma arzunu anlamıyor değilim.`
@@ -118,7 +118,7 @@
 `......Belki de senin için bir abla gibiyimdir.`
 ` Bu yüzden sana gücümü ödünç vermeye karar verdim.`
 `Ancak,`
-` ............benim kaderimle karşılaştırıldığında bile,`
+` ............benim kaderimle kıyaslandığında bile,`
 ` ......seninki...gerçekten acımasız.`
 `Sana yalnızca sempati duymakla kalmıyorum, trajik kaderin beni neredeyse gözyaşlarına boğuyor.`
 `Ama lütfen, cesaretini kaybetme.`
@@ -135,7 +135,7 @@
 `Bu düzensizlik sorun yaratabilir.`
 `......Ancak, satrançta olduğu gibi,`
 ` bir oyuncu işe yaramaz bir hamleyle rakibi için biraz karışıklık yaratabilir, ancak yine de daha değerli bir hamleyi kaçırmış olur.`
-`Başka bir deyişle, bunu avantaja çevirme şansı sıfır değildir.`
+`Başka bir deyişle, bunu avantaja çevirme şansı sıfır değil.`
 `Bana inanamayabilirsin ama bu oyun da aynı böyleydi.`
 `......Bu gelişmeler oldukça güçlü görünse de,`
 ` ...aslında zayıf noktaları vardı.`
@@ -145,7 +145,7 @@
 `Düşünmeyi bırakma.`
 `Hiçbir olasılığı göz ardı etme.`
 `Sen savaşma isteğini koruduğun sürece Beato kazanamayacaktır.`
-`Bir cadının savaşında savunma çok önemlidir, biliyor musun?`
+`Bir cadının savaşında savunma çok önemlidir, bilir misin?`
 `Kazanmaya çalışmak yerine, kaybetmemeye çalış.`
 `...Eğer onu kabullendiğinde kaybediyorsan, o zaman kesinlikle onu kabul etmemelisin.`
 `......Cadıları kabullenmeni sağlamak.`
@@ -165,8 +165,8 @@
 `"...Ah, işte buradasın.`
 ` Bern bir yerlere mi kaçtı?`
 ` *kıkırdar*, daha ezik olabilir mi?"`
-`Yine de.`
-`Bern'in seçtiği taşlar her zamanki gibi uyduruk, huh.`
+`Neyse.`
+`Bern'in seçtiği taşlar her zamanki gibi uyduruk, ha.`
 `Satrançta da böyle, değil mi?`
 `Eğer tüm taşların piyon olsaydı, kazanma şansın sıfır olurdu, değil mi?`
 `Eğer tüm taşların kale ve fil olsaydı, kaybetmene imkân olmazdı.`
@@ -174,14 +174,14 @@
 ` ve o aptal Bern benim merhametimi hiç umursamadı ve tüm piyonlarını sekizinci sıradan terfi ettirerek başladı!!`
 `O da neydi öyle, o bir mağlubiyet falan değildi!!`
 ` Aaah, bunu hatırlamak bile midemi bulandırıyor.`
-`Bern'in aptal suskun yüzünü görünceye kadar sinirli kalacağım.`
-`İşte bu yüzden Bern'in yüzündeki suskun ifadeyi görene kadar rahat edemeyeceğim.`
+`Anlayacağın Bern'in aptal suskun yüzünü görünceye kadar sinirli kalacağım.`
+`Yani, Bern'in taşını bu halde görünce harika hissediyorum valla.`
 `Ayrıca, ister inan ister inanma, o kız kaybetmekten gerçekten nefret ediyor,`
 ` eminim şu anda sinirden dişlerini gıcırdatıyor ve bebek gibi ağlıyordur,`
 ` gerçekten çok ezik, *kıkır*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!`
-`Hadi, benimle birlikle gül, oh‐hoh‐hoh‐hoh‐ho!`
+`Hadi, benimle birlikle gülsene, oh‐hoh‐hoh‐hoh‐ho!`
 `............Bir saniye.`
-`Sen hâlâ dizlerine mi sarılıyorsun?`
+`Sen hâlâ dizlerine mi sarılıyorsun ya?`
 `Beato biraz ciddileşti diye hemen böyle mi oldun?`
 `Bundan daha zavallı olabilir misin?`
 `Çok acınası haldesin, sana biraz yardım edeceğim.`
