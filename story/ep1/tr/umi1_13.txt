@@ -67,15 +67,15 @@
 `...Bu adayı satranca benzetirseniz, Kinzo oyunu başlatmıştı ve sonuç olarak altı taş çoktan eksilmişti.`
 `......Genji, sadece kendisinin satranç tahtasının dışında ve güvende olduğuna inandığı için sakin olabilir miydi?`
 `Nanjo bunu düşündü.`
-` ......Herkes bu satranç tahtasında istisnasız eşit olarak dizilmiş taşlar değil miydi?`
+` ......İstisnasız herkes bu satranç tahtasında eşit ölçüde dizilmiş taşlar değil miydi?`
 `......Kinzo'nun güvenini herkesten çok kazanmış olan Genji bile,`
-` ...hayır, Kinzo'nun tek yakın dostu olarak konumundan gurur duysa da,`
-` ...Nanjo'nun kendisi de satranç tahtasına yerleştirilmiş taşlardan biri değil miydi?`
+` ...bırak onu, Kinzo'nun tek yakın dostu olarak konumundan gurur duyan,`
+` ...Nanjo'nun kendisi bile satranç tahtasına yerleştirilmiş taşlardan biri miydi?`
 `".........Genji-san.`
 ` ...Bu gece için gerçekten çok korkuyorum.`
 ` ......Tüm kalbimle yarın sabah olduğunda hâlâ güvende olacağımızı umuyorum..."`
 `Eva ve Hideyoshi'nin geldikleri misafir odası, konukevi inşa edilmeden önce misafirleri ağırlamak için kullanılıyordu.`
-`Yani birkaç yıl öncesine kadar her aile konferansında bu odada kalmışlardı ve odaya çok aşinaydılar.`
+`Birkaç yıl öncesine kadar her aile toplantısında kaldıkları, aşina oldukları bir odadaydılar..`
 `Bu oda, tıpkı bir otel odası gibi, bir yatak odası ve bir banyoya sahipti,`
 ` bu yüzden hâlâ kapalı olsalar da, salondan çok daha rahattı.`
 `"Sanırım kendi ailenle yalnız kaldığında daha fazla rahatlayabildiğin doğru.`
@@ -113,9 +113,9 @@
 `...Hiçbir yakın akrabası olmayan Hideyoshi için bu,`
 ` aile denen o uzun zamandır unuttuğu şeyi bir kez daha hissetme şansıydı.`
 `Bu yüzden evlendikten sonra hangi soyadını taşıyacakları konusunda hiçbir sorun çıkarmadan kabul etti ve adının Ushiromiya aile kütüğüne kaydedilmesini onayladı.`
-`Kinzo'yu ikna etmek kolay olmadı ama kızı olarak Eva Kinzo'nun kişiliğini iyi biliyordu.`
+`Kinzo'yu ikna etmek kolay olmadı ama kızı olarak Eva, Kinzo'nun kişiliğini iyi biliyordu.`
 `......Böylece, Kinzo'nun Natsuhi'den en memnun olmadığı zamanı seçti,`
-` ve Hideyoshi'yi damadı olarak kabul ettirmeyi ustalıkla başardı.`
+` böylelikle Hideyoshi'yi damadı olarak kabul ettirmeyi ustalıkla başardı.`
 `......Sıfırdan başlayıp başarıya ulaşan Hideyoshi'ye bakan Kinzo, kendisinden bir parça görmüş olmalı.`
 `Kısa sürede Hideyoshi'yi sevdi ve Ushiromiya nüfusuna geçmesine izin verdi...`
 `George sonunda Ushiromiya ailesinin halefi olacaktı.`
@@ -215,7 +215,7 @@
 `Natsuhi baş ağrısının yeniden zonklamaya başladığını hissetti ve hafifçe şakaklarını tuttu...`
 `Mutfakla salon arasındaki mesafe o kadar da uzak değildi, bu yüzden Genji oraya tek başına gidip gelmişti ama misafir odası biraz daha uzaktaydı.`
 `Natsuhi onu iyi bir nedeni olmadan yalnız kalmaması konusunda uyarmıştı,`
-` ve az önce Nanjo da onu uyarmış, güvenliği için biraz daha endişelenmesinin daha iyi olacağını söylemişti.`
+` dahası az önce Nanjo da onu uyarmış, güvenliği için biraz daha endişelenmesinin daha iyi olacağını söylemişti.`
 `...Genji yanına Kanon'u aldı ve ikisi birlikte Eva ve Hideyoshi'nin misafir odasına ziyarete gittiler.`
 `Genji kapıyı çaldı.`
 `"......Eva-sama, Hideyoshi-sama.`
@@ -314,7 +314,7 @@
 `...Kendisine ne olacağı umurunda değildi.`
 `{n}......Ama en kötü senaryoda, Kanon'a bir şey olmasını istemiyordu.`
 `Mutfakta servis arabasına yemek doldurmakta olan Kumasawa,`
-` ve Genji'yi ters köşeye yatıracak bir hamle düşünmüş gibi görünen ve ona göstermek için dönüşünü bekleyen Nanjo vardı.`
+` yanındaysa Genji'yi köşeye sıkıştıracak bir hamle bulmuş gibi görünen ve ona göstermek için dönüşünü bekleyen Nanjo vardı.`
 `...Ama Genji'nin tavrında bir terslik olduğunu anında fark etti.`
 `"......Oh, ......ne oldu, Genji-san..."`
 `".........Doktor Nanjo, özür dilerim ama lütfen bu maçı bir süreliğine askıya almama izin verin.`
@@ -329,7 +329,7 @@
 `"Ne-...Ne oldu Kanon-san......?"`
 `Durumu kavrayamayan Kumasawa da Nanjo ile hemen hemen aynı şeyi söyledi ve koridora fırlayan Kanon'un peşinden gitti...`
 `Kanon, Kumasawa'nın eşliğinde ambara gitti,`
-` ve alet kutularına yerleştirilmiş ve duvarlara asılmış aletler arasından zinciri kesmek için kullanılabilecek bir alet aradı.`
+` vardığındaysa alet kutularına yerleştirilmiş ve duvarlara asılmış aletler arasından zinciri kesmek için kullanılabilecek bir alet aradı.`
 `"Ne arıyorsun...?`
 ` ...Yardım edeceğim......"`
 `"......Kapı zincirini keseceğiz.`
@@ -337,15 +337,15 @@
 `"Kapı zincirini mi...?`
 ` Ne-Neden böyle bir şey yapacaksınız ki...?"`
 `"............Zincir Eva-sama ve Hideyoshi-sama'nın odasında sabitlenmiş.`
-` ...İçeride olmaları gerektiği halde onlara seslendiğimizde cevap vermediler."`
+` ...İçeride olmaları gerektiği hâlde onlara seslendiğimizde cevap vermediler."`
 `Kumasawa'nın zincirin kesilmesiyle Eva ve Hideyoshi'nin cevap vermemesinin nasıl bağlantılı olduğunu anlaması biraz zaman aldı ama bunun acil bir durum olduğunu fark etti.`
 `"Bu muhtemelen..."`
 `Kanon duvarda asılı duran çok büyük bir kesme aletini indirdi.`
 `{n}Buna kesici deniyordu ama belki de büyük bir pense şeklinde olduğu söylenirse daha kolay anlaşılabilirdi.`
-`......Bunun parmaklarından birini kolayca kesebilecek tehlikeli bir alet olduğu konusunda uyarıldığını hatırladı...`
-`Kanon bunu kaptı ve merdivenlerden yukarı koştu.`
+`......Bunun, parmaklarından birini kolayca kesebilecek tehlikeli bir alet olduğu konusunda uyarıldığını hatırladı...`
+`Kanon aleti kaptı ve merdivenlerden yukarı koştu.`
 `{n}.........İçgüdüsel olarak biliyordu.`
-` ...Onu çabucak açmak için her dakika, her saniye savaşmalıydı.`
+` ...Kapıyı çabucak açmak için her dakika, her saniye savaşmalıydı.`
 `{n}............Ya da belki de,`
 ` ......çoktan............`
 `"Lütfen bekle, Kanon-san......!`
@@ -357,7 +357,7 @@
 `......bu nedir.........`
 ` .........hiiiiiiiii......"`
 `Kumasawa bitkin bir çığlık attı, yüzü solgundu...`
-`Bu şaşırtıcı değildi...`
+`Bu o kadar da şaşırtıcı değildi...`
 ` Çünkü, tam orada, .........kapının üzerinde, ......tıpkı gül bahçesi ambarının kepengine çizilmiş olan büyülü çember gibi,`
 ` kana benzeyen boyayla çizilmiş ürkütücü bir şekil daha vardı.`
 `Ancak bunun "büyülü çember" olarak adlandırılıp adlandırılamayacağı şüpheliydi.`
@@ -369,7 +369,7 @@
 `Kısa bir süreliğine mutfağa gitmişti.`
 ` Daha sonra da bir alet almak için ambara koşmuş ve hemen geri dönmüştü.`
 `Bunları bir araya getirdiğinizde beş dakikadan fazla sürmüş olamazdı.`
-`...Nasıl olur da biri o süre içinde bu kadar ürkütücü bir şey çizebilirdi...?!`
+`...Nasıl olur da biri o süre içinde bu ürkütücü şeyi çizebilirdi...?!`
 `Ve sanki yeni çizilmiş gibi,`
 ` neredeyse kapının kendisi kanıyormuş gibi, birkaç rahatsız edici dikey kırmızı çizgi yavaşça aşağıya damlayarak uzadıkça uzamıştı......`
 `"......hiiiiiiiiiii... ......hiiiiiiiiiiiiiiii...!"`
@@ -400,7 +400,7 @@
 `"........................Eva‐sama......?"`
 `Eva sırt üstü yatağının üzerindeydi.`
 `{n}......Yatağın üzerinde ve ayakkabıları hâlâ ayağında mı...?`
-`Kanon'un arkasından korkuyla içeri giren ve onun arkasına saklanan Kumasawa, Eva'yı o halde görünce yine kısa bir "hii!!!" diye bağırdı.`
+`Kanon'un arkasından korkuyla içeri giren ve onun arkasına saklanan Kumasawa, Eva'yı o hâlde görünce yine kısa bir "hii!!!" diye bağırdı.`
 `Eva'nın ayakkabıları Kanon'un gördüğü ilk parçasıydı, bu yüzden yatakta ayakkabı giymenin uyumsuzluğu aklına gelen ilk şeydi,`
 ` ...ancak görüş hattını Eva'nın başına doğru kaydırdıktan sonra Kanon,`
 ` ...Kumasawa gibi kısa bir çığlık atmaktan kendini alamadı...`
@@ -468,7 +468,7 @@
 `"Ama öyle bile olsa, ......bu kadar kısa saplı bir silah kafatasına bunu nasıl yapabilir......?`
 ` Hayal bile edemiyorum..."`
 `Nanjo nabızlarını ve göz bebeklerini kontrol ederek ölümlerinden bir kez daha emin oldu.`
-`...Kanon bu iş gibi muameleyi izlerken şöyle düşündü.`
+`...Kanon bu resmi muameleyi izlerken şöyle düşündü.`
 `{n}......Bütün bunları yapmadan bir bakışta öldüklerini anlayamaz mıydın?`
 `Nanjo silahı çıkarmayı düşündü,`
 ` ancak mümkünse olay yerini rahatsız etmeden polise teslim etmenin daha iyi olacağına karar verdikten sonra onu kendi haline bıraktı.`
@@ -476,8 +476,8 @@
 `{n}...Daha doğrusu, düz bir bıçak şeklinde değil, koni şeklindeydi.`
 `...Bir bıçaktan ziyade, kısa saplı bir mızrağa benzediğini fark etti, kesmekten ziyade saplamaya daha uygun bir şekli vardı.`
 `Kısa bir mızraktan da ziyade, bazı insanlar buna kalın bir buz kıracağı diyebilirdi.`
-`Her halükarda, rahatsız edici tasarıma sahip bu silahın asıl iğrenç amacı,`
-` ve bu amacın tam olarak nasıl gerçekleştirildiği, burada o kadar açık bir şekilde sergileniyordu ki, bunu tanımlamak için başka kelimeler kullanmaya kesinlikle gerek yoktu...`
+`Her halükarda, rahatsız edici tasarıma sahip bu silahın asıl iğrenç amacı ve bu amacın tam olarak nasıl gerçekleştirildiği,`
+` burada o kadar açık bir şekilde sergileniyordu ki, bunu tanımlamak için başka kelimeler kullanmaya kesinlikle gerek yoktu...`
 `Natsuhi, banyoyu dolduran tiksindirici buhardan bir an önce kaçmayı umarak,`
 ` ağzını bir mendille kapattı ve odadan fırladı...`
 `Korkunç bedenlerini bir anlığına görmek bile görüntüyü gözlerine kazımaya yetmişti.`
@@ -488,7 +488,7 @@
 ` ...George-kun'un bu odayı görmesine izin veremeyiz.`
 ` Çabuk, bu odayı kapatın...!"`
 `".........Tan-...Tanrım, hayır, onlara gösterilmemeli...`
-` Eğer George-san ailesini bu acımasız halde görürse......"`
+` Eğer George-san ailesini bu acımasız hâlde görürse......"`
 `Ama koridorda hızla yaklaşan ayak seslerinin George'a ait olduğunu, o henüz gelmeden önce bile anlayabiliyorlardı.`
 `George ve diğer çocuklar salonda bekliyorlardı.`
 `Ama Genji'nin Natsuhi'yi dışarı çağırdığını gördüklerinde ve onun solgunlaşıp odadan fırlayıp çıktığını fark ettiklerinde, onun kötü bir haber getirmiş olabileceğini düşünmüşlerdi.`
@@ -553,7 +553,7 @@
 `".........Evet, bu hiç de iyi değil.`
 ` Cadı bizi köşeye sıkıştırıyor.`
 ` Her zaman savunmadayız...!`
-` Ve bu hiç iyi değil, hiç iyi değil!`
+` Ve bu iyi değil, hem de hiç değil!`
 ` Satranç tahtasını ters çevireceğim...!!`
 ` O piç herhalde bizi koyun gibi görüp yarına kadar korkudan sineceğimizi ve kaçacak yerimiz olmadığını düşünüyor."`
 `"...Ama bil bakalım ne olacak, onu ters çevireceğim!!`
