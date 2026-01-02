@@ -57,7 +57,7 @@
 `"Merak etme.`
 ` Maria tarafından onaylandım.`
 ` ...Ruhani yönden hiçbir yeteneğim olmadığını söyledi.`
-` Ihihi...!"`
+` İhihi...!"`
 `".........Maria ve...`
 `.........diğerlerine...`
 `çok mu acımasızdık?"`
@@ -385,9 +385,9 @@
 ` ...Kanon-kun'un durumunda olduğu gibi, o "buz kıracaklarından" birini birinin göğsüne saplamak imkânsız olmazdı.`
 ` ......Ama kafatasını yarmak ve annemle babamda olduğu gibi alnına saplamak o kadar da kolay olmazdı."`
 `"Suçlunun o tür bir hayvani güce sahip olduğunu mu düşünüyorsun...?!"`
-`"...Muhtemelen ateş edebilen ya da o "buz kıracaklarını" fırlatabilen bir tür silahları ya da bir cihazları vardır.`
+`"...Muhtemelen ateş edebilen ya da o "buz kıracaklarını" fırlatabilen bir tür silahları ya da cihazları vardır.`
 ` Sapı sadece insan gücüyle o kadar derine sokulamayacak kadar kısaydı."`
-`"......Durum ne olursa olsun, onlar bir kafatasını kırmak için yeterli güce sahipler.`
+`"......Durum ne olursa olsun, bir kafatasını kırmak için yeterli güce sahipler.`
 ` ...Kanon'un yarasının ciğerlerine kadar ulaştığını işitmiştim.`
 ` ......Suçluyu görseniz bile öne atılmayın.`
 ` Arkamdan uzaklaşmamalısınız."`
@@ -401,8 +401,8 @@
 ` ...ve tabii ki Natsuhi Yenge de...`
 `...duyularını en üst sınıra kadar zorluyor, gerilimin en yoğun ve en korkunç anında, yavaşça bir adım, sonra bir adım daha atıyorlardı...`
 `.........Aaah, biz ne korkunç insanlarız...`
-`...Bu kadar korkunç bir dünya, ......ve sırf o mektubun saçtığı şüphe tohumları yüzünden Maria ve diğerlerini bu dünyanın tam ortasına ittik...`
-`Sonunda birinci kata ulaşmıştık.`
+`...Ne kadar korkunç bir dünya, ......ve sırf o mektubun saçtığı şüphe tohumları yüzünden Maria ve diğerlerini bu dünyanın tam ortasına ittik...`
+`Sonunda alt kata ulaşmıştık.`
 ` .........Salon koridorun hemen karşısındaydı.`
 `Dikkatle dinlediğimizde, .........belli belirsiz duyabiliyorduk.`
 `{n}......Maria'nın ürkütücü şarkı sesi.`
@@ -445,7 +445,7 @@
 ` Kapıyı açtıktan sonra öylece durursak, o buz kıracakları tam ortadan gelebilir...!"`
 `"Farkındayım.`
 ` .........Hazır mıyız...?"`
-`"Ihihi...!`
+`"İhihi...!`
 ` Keşke "hayır" diyebilseydim...!"`
 `Kendimi hazırladım.`
 `{n}...Bana buz kıracağı fırlatacaklarsa, bakalım şamdanımı beğenecekler mi!!`
@@ -576,7 +576,7 @@
 `{e:070:― Gel, yüzünü duvara dön ve benim için bir şarkı söyle.`
 `......Çok ama çok güzel şarkılar söyleyeceksin, her ne olursa olsun, ne duyarsan duy, duymayacaksın, bilmeyeceksin.`
 `Gel, bana eğlenceli şarkılarından bir sürü dinlet.}`
-`"Bu yüzden ben de sürekli şarkı söylüyordum.`
+`"Bu yüzden Maria da durmadan şarkı söylüyor.`
 ` Tekrar ve tekrar söylüyordum.`
 ` Yani hiçbir şey duymadım, hiçbir şey bilmiyordum.`
 ` ...Ve sonra Battler ve sizler geldiniz.`
@@ -606,7 +606,7 @@
 `"A-Anne? Nereye gitti......?!"`
 `"...............Az önce tek başına mektup okuyarak dışarı çıktı."`
 `Mektup mu?!`
-` B-Bu mantıklı, suçlu sekizinci alacakaranlıkla birlikte işini bitirdi ve onlar için her şey yolunda gitti.`
+` B-Bu mantıklı, suçlu sekizinci alacakaranlıkla birlikte işini bitirdi ve her şey istedikleri gibi gitti.`
 `Daha da övünebilmek için bir mektup bırakmış olabilirler.`
 `Maria'yı sorgulamaya o kadar dalmıştık ki bir mektup aramayı unutmuştuk...!`
 `Ama bu kadar iyi silahlanmış olsa bile, mektubu okuduktan sonra neden bu tehlikeli malikânede tek başına odadan çıkmıştı?!`
@@ -673,7 +673,7 @@
 `Bir trajedinin kahramanı gibi, yere uzanmış ve ışığın merkezinde kalmış,`
 ` .........o sessizliğin güzelliğine bürünmüş olan Natsuhi Yenge,`
 ` ......yüzü yukarı dönük, yere yığılmıştı......`
-`Yarı delirmiş bir halde Jessica, Natsuhi Yengeye doğru koştu.`
+`Yarı delirmiş bir hâlde Jessica, Natsuhi Yengeye doğru koştu.`
 `...Alnına,`
 ` ...sanki güvercin kanı yakuttan parlak bir parça yerleştirilmiş gibiydi.`
 `......Ve,`
@@ -696,7 +696,7 @@
 ` ......neden kendi alnına ateş etti?!"`
 `"......Maria-chan, Natsuhi Yenge odadan çıkmadan önce bir mektup okumadı mı?!`
 ` Burada mektup falan yok!`
-` Kahretsin, ne okudu ve neden buraya sürüklendi?!"`
+` Kahretsin, ne okudu ve neden buraya geldi?!"`
 `"Bilmiyorum bilmiyorum, bu kimin umrunda...?!!`
 ` Neler oluyor, neden intihar ettin?!`
 ` Niye......beni yalnız bıraktın?!"`
@@ -752,7 +752,7 @@
 ` ......hepimiz karanlığa doğru baktık...`
 `Gözlerimiz...{f:5:Beatrice}'in portresinin önüne çakılı kaldı.`
 `Ve orada, Maria...`
-`...portrenin öznesiyle...`
+`...portredeki kişiyle...`
 `sarıldı.`
 `Şaka yapıyor olmalısın,`
 ` ......bu...saçmalık, imkânsız...`
@@ -761,7 +761,7 @@
 `Senin gibi şeyler "gerçek" olmamalı,`
 ` çünkü burası insanların dünyası—insan olmayan bir şeyi kabul edebileceğimi mi sanıyorsun?! Asla, asla!!`
 `Tüfeğin manivelasını sertçe çektim; kovan fırladı, yere düştü ve yeni bir mermi dolduruldu.`
-`Sonra cadıyı namlunun ucundan bakarak nişan aldım...`
+`Sonra namlunun ucundan bakarak cadıya nişan aldım...`
 `Maria arkasını döndü.`
 `{n}......Hâlâ Altın Cadı'ya sarılırken arkasını döndü.`
 `"......Sana bunun anlamsız olduğunu söylemedim mi?`

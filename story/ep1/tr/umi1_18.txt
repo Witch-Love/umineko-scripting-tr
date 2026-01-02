@@ -49,9 +49,9 @@
 `"...Muhtemelen en son anda karşılaştık.`
 ` ...Altın Cadı ile."`
 `"Bu yüzden Maria, {f:5:Beatrice}'in var olduğunu söyleyip durdu.`
-` Her şey kötü gitti çünkü kimse inanmadı.`
+` Her şey kötü gitti çünkü kimse başından inanmadı.`
 ` Uu!`
-` Cadı arkadaşlarımdan biri bile inanmazsan mucizelerin gerçekleşmeyeceğini söylüyor!`
+` Cadı arkadaşlarımdan biri bile inanmazsa mucizelerin gerçekleşmeyeceğini söylüyor!`
 ` Uu!"`
 `"Bu doğru.`
 ` {f:5:Beatrice}-sama ona saygı duyanlara karşı cömerttir."`
@@ -84,7 +84,7 @@
 ` Hikâye boyunca bunu inkâr etmek için her türlü şeyi düşündük."`
 `"...Ama şimdi açıkça söyleyebilirim.`
 ` Her biri, hepsi, bir insan için imkânsız suçlardı.`
-` ......Büyünün sağlayabileceği tüm gücü kullanmasaydı, cadı {f:5:Beatrice}'in bu suçları işlenmesi imkânsız olurdu."`
+` ......Büyünün gücünü ustalıkla kullanabilen cadı {f:5:Beatrice}'den başkasının bu suçları işlemesi imkânsız olurdu."`
 `"Suçlu bir cadıydı.`
 ` Bu nokta artık çok net.`
 ` {f:5:Beatrice}-sama çok yaşa.`
@@ -93,7 +93,7 @@
 ` Herkes inandı.`
 ` Maria mutlu.`
 ` Uu!"`
-`"......Tanrılar ve cadılar, onlardan korkan insanlara ürkütücü gelebilir,`
+`"......Tanrılar ve cadılar, onlara inanmayan insanlara ürkütücü gelebilir,`
 ` ama bence onlara inanan ve saygı duyanlara karşı sevgi besliyor olmalılar."`
 `"............Nee-san'ın tam da dediği gibi."`
 `"Artık cinayet davaları sona erdi.`
@@ -113,7 +113,7 @@
 `"Artık biraz geç kaldık.`
 ` Öyle bile olsa, şimdi çözmeyi deneyelim ve bakalım cadı bizi affedecek mi?`
 ` Hadi hadi, kitabenin bilmecesini çözmeye çalışalım.`
-` ......İşte buradayız, "Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen"..."`
+` ......İşte buradayız, "Tatlı su nehrine bakın, sevgili memleketimin üzerinden geçen"..."`
 `Maria defterini masanın üzerine koyup kitabenin yazılı olduğu sayfayı açtığında,`
 ` herkes dikkatle baktı ve bilmeceyle ilgili tahminlerde bulunmaya başladıkça eğlenceli ve canlı tartışmalar yaşandı.`
 `Siyah çayın ve taze pişmiş vanilyalı kurabiyelerin kokusu eşliğinde, zamanlarını rahat ve mutlu bir şekilde geçirdiler......`
@@ -126,7 +126,7 @@
 ` ...Böyle bir şeyin var olmadığını anlamıyor musunuz?"`
 `Sadece bu sözlerle, ...çay partisinin mutlu atmosferi bir anda yok oldu.`
 `George ve Jessica.`
-` Ve Shannon ve Kanon.`
+` Shannon ve Kanon.`
 ` Ve Maria.`
 `......Hepsi boş boş bakıyor, Battler'ın neden böyle tuhaf şeyler söylediğini merak ediyordu.`
 `Aptal ve küstah Battler bile yanlış bir şey söylediğini fark etti.`
@@ -135,7 +135,7 @@
 `"E-Evet, evet!`
 ` ...Vakaların hiçbiri bir insan için mümkün olamazdı."`
 `"Bu doğru...`
-` Sonuçta, insanlarla açıklayamayacağınız şeylerle dolu değil miydi...?"`
+` Sonuçta, insanlarla açıklayamayacağınız onca şey olmadı mı...?"`
 `"...Battler-sama, ne dediğinizi anlayamıyorum."`
 `"{i:Siz çocukların} neyden bahsettiğiniz hakkında en ufak bir fikri olmayan benim!`
 ` Bu suçları insanların işlediği açık değil mi?`
@@ -154,7 +154,7 @@
 `...şey..."`
 `"O zaman, Battler...`
 ` Büyükbabamın kilitli çalışma odasından kaybolmasını nasıl açıklıyorsun...?`
-` Büyükbabam kapı mühürlü olduğu halde aniden ortadan kayboldu, hatırladın mı...?"`
+` Büyükbabam kapı mühürlü olduğu hâlde aniden ortadan kayboldu, hatırladın mı...?"`
 `"Hikâye sırasında bunu da konuşmuştuk.`
 ` Büyükbabamın fişi atlatmak için bir numara yapmış olması imkânsız değil.`
 ` Pencereden atlamış ya da düşmüş ve Natsuhi Yenge de kapıyı içeriden kilitlemiş olabilir.`
@@ -177,7 +177,7 @@
 ` Bir kitapçıdan ya da başka bir yerden birkaç kilitli oda gizemi satın alsaydın, muhtemelen mükemmel bir şekilde uyacak bir numara bulabilirdin."`
 `"......Her neyse, şu anda aklıma bir tane bile gelmiyor...ama bir insanın yeterince uğraşırsa bunu bir şekilde başarabileceğinden eminim."`
 `"Bu argüman korkunç derecede mantıksız değil mi...?`
-` Nasıl olduğunu açıklayamadığın halde bir insanın bir şeyi yapmasının mümkün olduğunu iddia etmek çok saçma..."`
+` Nasıl olduğunu açıklayamadığın hâlde bir insanın bir şeyi yapmasının mümkün olduğunu iddia etmek çok saçma..."`
 `"......Neresi saçma?`
 ` Aniki, hepiniz neden düşünmeyi bıraktınız?`
 ` İmkânsız görünse bile, yapılabilir olmalı.`
@@ -188,10 +188,10 @@
 `"Sırf bunu açıklayamıyorum diye suçlu hemen cadı mı oluyor?`
 ` Bu argümanla, dünyadaki çözülmemiş suçların hepsi, suçlunun bir cadı olduğu söylenerek çözülebilir!"`
 `"......Battler, konuyu saptırıyorsun ve hiçbir şeyi açıklamıyorsun.`
-` ...Biz diyoruz ki "Bunu bir insan yapamaz.`
+` ...Maria ve diğerleri diyor ki "Bunu bir insan yapamaz.`
 ` Bu yüzden suçlu insan olmayan bir şey.`
 ` Ve o şey de bir cadı."`
-` Ama sen hiçbir şey açıklayamadığın halde keyfi olarak cadıların imkânsız olduğuna karar kılmaya devam ediyorsun."`
+` Ama sen hiçbir şey açıklayamadığın hâlde keyfi olarak cadıların imkânsız olduğuna karar kılmaya devam ediyorsun."`
 `"......Kihihihihihihihihihihihi, neredeyse insanlık karanlık çağlardaymış gibi.`
 ` Tıpkı Dünya'nın dönüyor olamayacağını, nasıl döndüğünü söyleyemeseler de,`
 ` gök yüzünün Dünya'nın etrafında dönüyor olması gerektiğini iddia eden aptallar gibi."`
@@ -276,8 +276,8 @@
 ` Cesetleri incelerken hata yapma olasılığının çok yüksek olduğunu söylemişti!`
 ` İyi gizlenmişler ya da yedek bir ceset falan hazırlamışlar ve kendi ölümlerini taklit etmişlerdir!!`
 ` Kullandıkları yöntemi ya da numarayı sonraya bırakalım...ve...görüyorsunuz, 19. bir kişinin varlığını inkâr etmek o kadar da zor değil!"`
-`"Bir {i:cadı} bile değil!`
-` En azından bu kadarı tamamen imkânsız!!"`
+`"Bir {i:cadı} ha?`
+` İşte buna kesinlikle imkân yok!!"`
 `"............Battler'ın neden inatla bizden birinin suçlu olduğunu söylemeye çalıştığını anlamıyorum.`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, yani Battler, akrabalarının birinden mi şüphelenmek istiyorsun...?"`
 `"Öyle değil...`
@@ -342,7 +342,7 @@
 `".....................Hmm, neden?"`
 `"Üzgünüm, ama neden satranç tahtasını son bir kez daha çevirmeme izin vermiyorsunuz...?`
 ` Eğer beni bir cadı olduğunu kabul etmeye zorlamak istiyorsanız, bunun gerçekten kolay bir yolu var."`
-`"......Ve bu "insanlar bunu yapamaz, o halde bir cadı olmalı" demenin dolambaçlı bir yolu değil!`
+`"......Ve bu "insanlar bunu yapamaz, o hâlde bir cadı olmalı" demenin dolambaçlı bir yolu değil!`
 ` Tek yapmanız gereken bana bir cadının bunu büyüyle nasıl yaptığını göstermek."`
 `"Dahası, Maria'nın daha önce söylediği şey onun mezarını gerçekten kazacak olan şey.`
 ` ......Bir kişi bile inanmazsa bir "mucize" gerçekleşmeyeceğini söyledin."`
@@ -399,7 +399,7 @@
 ` Bize kendini gösterme zahmetine girmen çok nazik bir davranış,`
 ` ama senin var olduğuna zerre inanmıyorum."`
 `"O iki gün boyunca pek çok garip şey olduğu doğru.`
-` Tıpkı Maria'nın daha önce söylediği gibi, tüm numaraların açıklanabileceğini düşünsem de, yine de her birinin pratik ayrıntılarını ortaya koyamıyorum.`
+` Tıpkı Maria'nın daha önce söylediği gibi, tüm numaraların açıklanabileceğini düşünsem de, yine de her birinin somut ayrıntılarını ortaya koyamıyorum.`
 ` Ama bu teslim olacağım anlamına gelmiyor."`
 `"Ben Aniki ve diğerlerinden farklıyım, anlıyor musun?`
 ` Açıklayamadığım için bunun bir cadının işi olduğunu asla kabul etmeyeceğim."`

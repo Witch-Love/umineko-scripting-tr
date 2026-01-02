@@ -342,9 +342,9 @@
 `Ama işin sonunda, Natsuhi Yenge çok diretince oraya gitmeye karar verdik.`
 `Herkes zaten paranoyaya kapılmıştı.`
 `...Kumasawa-san akşam yemeğini önceden hazırlamıştı ama George-aniki'nin ailesinin karıştığı olaydan sonra mutfak ve salon geçici olarak boş kalmıştı.`
-`Birisi yemeklerin o sırada yemeklerin zehirlenmiş olabileceğini söyledi.`
+`Birisi yemeklerin o sırada zehirlenmiş olabileceğini söyledi.`
 `{n}...Bu nedenle, Kumasawa-san'ın bizim için hazırlama zahmetine katlandığı yemeklere dokunamadık bile.`
-`.........İlk altısının nasıl öldürüldüğü hâlâ bilinmiyordu ama zehirin ihtimali vardı.`
+`.........İlk altısının nasıl öldürüldüğü hâlâ bilinmiyordu ama zehirlenmiş olma ihtimalleri vardı.`
 `...Ve gerçekten de, bu yöntemle tek bir kişi bile altı yetişkin insanı öldürebilirdi.`
 `...Üstelik bu fikir, Natsuhi Yengenin tüfeğinden korkan bir suçlu varmış gibi algılanmasına neden oluyordu ve bu da duygusal dengemize çok iyi geliyordu.`
 `Ancak yorgunluk ve açlık hayal ettiğimizden daha da zorluydu.`
@@ -382,11 +382,11 @@
 `"......O zaman {f:5:Beatrice} Büyükbabamı nasıl dışarı çıkardı...?"`
 `"............Tıpkı Battler'ın dediği gibi.`
 ` ...{f:5:Beatrice} içeri giremez.`
-` Ama onun büyüsü var ve aynı zamanda dostları da var.`
+` Ama onun büyüsü ve hizmetkârları var.`
 ` Bunları kullanarak Büyükbabamı çalışma odasından çıkmaya zorlayabilir."`
 `"Aah, bunu bir mangada okumuştum.`
 ` Vampirlerin haçlardan korktukları için yaklaşamadıkları bir sahne vardı,`
-` ancak yardımcıları sorun yaşamadı, bu yüzden yardımcılarını saldırttılar."`
+` ancak hizmetkârları sorun yaşamadı, bu yüzden onları saldırttılar."`
 `"Battler, dün size verdiğim akrep anahtarlık benzeri tılsımın üzerinde Mars'ın beşinci büyülü çemberi de vardı.`
 ` İçindeki güç çok azdı ama adadan ayrılana kadar seni korumaya yeterdi."`
 `".........Yine de kendininkini kaybetmişsin gibi görünüyor.`
@@ -460,7 +460,7 @@
 `......her şeye rağmen bu maçı tamamlayamadık..."`
 `".........Doktor Nanjo..."`
 `"...Uzun zamandır Kinzo-san'ın dostuydum, ......ama onun hakkında neredeyse hiçbir şey bilmiyordum.`
-` ...Kinzo-san'ın her zaman, bilge olan Kinzo-san ile birlikte bir delilik tarafından tuzağa düşürülmüş olan Kinzo-san olarak iki tane olduğuna inanmışımdır..."`
+` ...Kinzo-san’ın daima, bilge olan Kinzo-san ile birlikte bir deliliğe esir düşmüş Kinzo-san olmak üzere iki ayrı kişiliğinin olduğuna inanmışımdır..."`
 `"............Ben, Kinzo-san hakkında hiçbir şeyi anlamadım..."`
 `"...Konu özellikle {f:5:Beatrice}-sama olduğunda, kişiliği değişiyor gibi görünürdü..."`
 `Kumasawa-san'ın yukarı doğru baktığı yönde {f:5:Beatrice}'in bir portresi görülebiliyordu.`
@@ -520,7 +520,7 @@
 ` ...Genji, bize bildiğin her şeyi anlat."`
 `"......................................."`
 `Genji-san cevap vermedi.`
-` ...Bildiği halde sessiz mi kalıyordu, yoksa hiçbir şey bilmiyor muydu?`
+` ...Bildiği hâlde sessiz mi kalıyordu, yoksa hiçbir şey bilmiyor muydu?`
 `...Yine de iyi bir tahminim vardı.`
 ` ...Cadı {f:5:Beatrice}'in hayalet hikâyesi hizmetkârlar arasında uzun zamandır konuşuluyordu.`
 `......O da muhtemelen Büyükbabama ve onun okült merakına yakından tanık olmuştu.`
@@ -543,7 +543,7 @@
 `Onlar için gerçek eşlerinin yanı sıra başka bir sevgiliye sahip olmak da mümkün.`
 `{n}...Büyükbabamın hayatında Büyükanneden başka bir kadın daha olduğu ihtimalini inkâr edemeyiz.`
 `"Sanırım...`
-` Büyükannem de hayattayken, görünüşe göre bundan ciddi şekilde şüpheleniyordu.`
+` Büyükannem de hayattayken, bundan ciddi şekilde şüpheleniyordu.`
 ` Onu aldattığından.`
 ` ......Her zaman Büyükbabamın kafasındaki cadıdan bahsettiğini düşünmüştüm ama..."`
 `"...Bu gerçekten ilginçleşmeye başladı.`
@@ -552,7 +552,7 @@
 `"Malikânenin inşaatının 1952'de tamamlandığını duymuştum."`
 `"Bu da {f:5:Beatrice} denen kişinin otuz yılı aşkın bir süredir Büyükbabam ile ilişki içinde olduğu anlamına gelir..."`
 `"Otuz yıl önceki o metres...ya da onun bir akrabası veya gizli çocuğu...bir tür kin besliyor ve intikam planlıyor olabilir mi?`
-` ...Ihihi, anlıyorum, bu standart Batı malikânesi gizemi gibi gelmeye başladı."`
+` ...İhihi, anlıyorum, bu standart Batı malikânesi gizemi gibi gelmeye başladı."`
 `"............Bu iğrenç bir konu ama kabul edilmesi en kolay muhakeme.`
 ` ...Ne diyorsun Genji?"`
 `"..............................`
@@ -598,7 +598,7 @@
 `{n}...Etrafımıza bakarak bunu anlamak çok kolaydı.`
 `......Bu oda kara büyüyle ilgili yığınla şeyle doluydu.`
 `{n}Ve Büyükbabam günlerini buraya kapanarak, araştırmasına dalarak ve dış dünyadan soyutlanarak geçirmiş, tek bir gün bile dinlenmemişti.`
-`......Büyükbabamın {f:5:Beatrice}'e olan sevgisinin ne kadar derin olduğunu fark etmeden edemiyordunuz...`
+`......Büyükbabamın {f:5:Beatrice}'e olan sevgisinin ne kadar derin olduğunu fark etmemek elde değildi...`
 `".....................`
 ` ......Ben......her şeyi yanlış anladım Genji-san."`
 `"...............Neyi acaba?"`
@@ -826,7 +826,7 @@
 ` .........Dört hazinenin ikinci ve üçüncüsüne bakın."`
 `"............‘Biri tüm ölü ruhların dirilişi olacak.`
 ` Biri kaybedilmiş aşkın dirilişi olacak.’`
-` ......Yani Büyükbabam bu ritüelin ortasında ölmüş olsa bile eninde sonunda dirileceğine mi inanıyordu...?"`
+` ......Yani Büyükbabam bu ritüel esnasında ölmüş olsa bile eninde sonunda dirileceğine mi inanıyordu...?"`
 `"Saçmalık, bu delilik!!`
 ` Öldüğün zaman her şey biter, değil mi?!`
 ` Ölüler hayata geri dönmez.`
@@ -1160,7 +1160,7 @@
 `"........................"`
 `Maria sessizce tılsımı aldı.`
 `{n}......Bundan sonra hiçbir şey söyleyemedim...`
-`"............O halde millet, iyi geceler......"`
+`"............O hâlde millet, iyi geceler......"`
 `Cevap veremeden, ......yüz ifadelerimiz tamamen bitkin düşmüş bir halde onların gidişini izledik.`
 `......Ve kapı kapanana ve otomatik kilit sesini duyana kadar bir sonraki nefesimizi bile alamadık...`
 `Sonra, nihayet nefes almama izin verildi.`
