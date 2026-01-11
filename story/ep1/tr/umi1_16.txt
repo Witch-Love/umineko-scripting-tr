@@ -606,7 +606,7 @@
 `"A-Anne? Nereye gitti......?!"`
 `"...............Az önce tek başına mektup okuyarak dışarı çıktı."`
 `Mektup mu?!`
-` B-Bu mantıklı, suçlu sekizinci alacakaranlıkla birlikte işini bitirdi ve her şey istedikleri gibi gitti.`
+` B-Bu mantıklı, suçlu sekizinci alacakaranlıkla birlikte işini bitirdi ve her şey istediği gibi gitti.`
 `Daha da övünebilmek için bir mektup bırakmış olabilirler.`
 `Maria'yı sorgulamaya o kadar dalmıştık ki bir mektup aramayı unutmuştuk...!`
 `Ama bu kadar iyi silahlanmış olsa bile, mektubu okuduktan sonra neden bu tehlikeli malikânede tek başına odadan çıkmıştı?!`
@@ -752,7 +752,7 @@
 ` ......hepimiz karanlığa doğru baktık...`
 `Gözlerimiz...{f:5:Beatrice}'in portresinin önüne çakılı kaldı.`
 `Ve orada, Maria...`
-`...portredeki kişiyle...`
+`...portrenin öznesiyle...`
 `sarıldı.`
 `Şaka yapıyor olmalısın,`
 ` ......bu...saçmalık, imkânsız...`
