@@ -21,8 +21,8 @@
 `Rokkenjima'da Ushiromiya ailesinin malikânesi dışında hiçbir şey yoktu, bu nedenle eskiden kapıları kilitleme âdeti yoktu.`
 `Ancak Natsuhi, gece yarısından sabahın erken saatlerine kadar malikâneyi kilitlemenin görevlerinin bir parçası olmasını emretmişti.`
 `Ve sabahın erken saatlerinde kilitlerin açılması ise sabah vardiyasında çalışan hizmetkârlar tarafından yapılacaktı.`
-`Gohda uyanır uyanmaz kahvaltı hazırlıklarına başlayacağı için bu görev Genji ile Kanon’a düşmüştü.`
-`Malikâneye sessizlik çökmüş, sanki hâlâ uykudaymış izlenimi veriyordu.`
+`Gohda uyanır uyanmaz kahvaltı hazırlıklarına başlayacağı için bu görev Genji ve Kanon tarafından üstlenilecekti.`
+`Malikâneye sessizlik çökmüş, sanki malikânenin kendisi hâlâ uykudaymış izlenimi veriyordu.`
 `".........O hâlde sabah işlerine başlayalım."`
 `"Evet."`
 `İkisi ayrılarak malikânenin her tarafındaki perdeleri açmaya başladılar.`
@@ -55,7 +55,7 @@
 `Uykusu her zaman hafifti ve ilaç olmadan hiç uyuyamazdı bile.`
 `{n}...Natsuhi için uyumak kesinlikle güzel bir şey değildi.`
 `Dışarı baktığında, yağmurun hâlâ yağdığını gördü.`
-`{n}Azıcık bir ışık hissetmemiş olsaydı, yanlışlıkla hâlâ gece olduğunu sanabilirdi.`
+`{n}Ufacık bir ışık hissetmemiş olsaydı, yanlışlıkla hâlâ gece olduğunu sanabilirdi.`
 `...Kendisi de ev sahiplerinden biriydi, bu yüzden misafirlerinden daha geç uyanmamalıydı.`
 `Kendini zorlayarak, dünün yorgunluğunu hâlâ tam olarak üzerinden atamamış olan bedenini kaldırdı.`
 `Bu odanın içinde olduğu sürece kimse ona eziyet etmeyecekti.`
@@ -106,7 +106,7 @@
 `"Dahili hatlar mı kesildi?`
 ` Bu sıkıntı olacak.`
 ` Tamir etmek mümkün mü?"`
-`"......Korkarım ki hasarın yerini bilmiyoruz.`
+`"......Korkarım ki arızanın yerini bilmiyoruz.`
 ` Bir uzman çağırıp tamir ettirmek istiyorum."`
 `"Bu da tayfun geçene kadar tamir edemeyeceğimiz anlamına mı geliyor?`
 ` ...Başka bir deyişle, misafirlerimizin konaklama süresinin geri kalanında hatlar devre dışı kalacak.`
@@ -186,8 +186,8 @@
 `"Uh.........Evet.`
 ` Konukevindeki odalarında da değiller."`
 `Sadece Gohda'nın kayıp olduğunu duyduğunda, uyuyakalmış ya da bir yerlerde aylak aylak dolaşıyor olabileceğini düşünmüştü,`
-` ama akrabalarından birkaçının da kayıp olduğunu duyunca biraz daha iyimser düşünmeye başladı.`
-`Dün geceki aile konferansı gece boyunca sürdü ve hatta şimdi bile devam ediyor olabilirdi.`
+` ama akrabalarından birkaçının da kayıp olduğunu duyunca biraz daha optimistik düşünmeye başladı.`
+`Dün geceki aile konferansı bütün gece devam etmiş ve hatta hâlâ devam ediyor olabilirdi.`
 `Bu durumda, o havasız odada kaldıktan sonra hepsi kafalarını dağıtmak istemiş,`
 ` sonuç olarak da grupça yağmur altında yürüyüşe çıkabilecekleri düşünülebilirdi.`
 `..."kafalarını dağıtmak" ile ilgili kısım gerçekten de Krauss'un söyleyebileceği bir şeye benziyordu.`
@@ -195,7 +195,7 @@
 `Gohda zamanın nasıl geçtiğini anlayamayacak bir adam değildi.`
 `{n}Geri dönmezse kahvaltı hazırlıklarının aksayacağını anlamış olmalıydı.`
 `Belki de her ne kadar ayrılmak istese de ortam buna el vermiyordu,`
-` şu anda bile konferans bu şekilde devam ediyor olabilirdi.`
+` ve konferans şu anda bile bu şekilde devam ediyor olabilirdi.`
 `......Evet, Natsuhi bunun son derece ikna edici bir teori olduğunu düşündü.`
 `Natsuhi, o sabah bir önceki gecenin içine çekildiği yanılsamasını hatırladı`
 ` ...ve bu hissin sadece bir yanılsama olmadığını anlayınca bir kez daha derin ve bitkin bir nefes aldı.`
@@ -281,7 +281,7 @@
 `Daha sonra annesinin yanında olmadığını fark etti ve çabucak yalnızlığa kapıldı.`
 `Maria kuzenlerin odasından çıktı, kendisi ve annesi için ayarlanan odaya gitmeye çalıştı.`
 `Mışıl mışıl uyuyan üçlüye aldırmadan, çıkarken yüksek bir çarpma sesi çıkardı.`
-`Bunun üzerine Battler mırıldandı ve yatağının öbür ucuna döndü ama bu onu uyandırmaya yetmedi.`
+`Bunun üzerine Battler mırıldandı ve yatağında öbür tarafa döndü ama bu onu uyandırmaya yetmedi.`
 `Bir süre sonra Maria geri döndü ve kapıyı bir kez daha büyük bir gürültüyle açtı.`
 `"..................Uu."`
 `Odadan çıkarken yüzü uykuluydu ama döndükten sonra artık hoşnutsuz görünüyordu.`
