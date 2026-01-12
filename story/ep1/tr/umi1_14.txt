@@ -6,7 +6,7 @@
 `Natsuhi eline aldığı Batı tarzı zarfı hâlâ açmamıştı.`
 `{n}...Ama şimdi herkes odadan çıkacağı için zarfı salonda, herkesin görebileceği bir yerde açmaya karar verdi.`
 `Salona geri dönmek üzere koridora çıkar çıkmaz,`
-` .........bazıları hemen bir şeylerin yolunda olmadığını hissetti, ...ya da belki de garip bir şeyler sezmiştiler.`
+` .........bazıları hemen bir şeylerin yolunda olmadığını hissetti, ...ya da belki de garip bir şeyler sezdiler.`
 `"...............Uu.`
 ` ......Pis koku."`
 `"Ah, ...Maria, sen de mi fark ettin?`
@@ -37,7 +37,7 @@
 `...Artık göğsünü dolduran tek şey, sevgili anne ve babasının hayatlarını çalan katile karşı duyduğu nefretin sessiz aleviydi.`
 `"...Odanın zinciri sabitlenmişti.`
 ` ...Bakarak söyleyebildiğim kadarıyla, dışarıdan açılamayacağından eminim.`
-` ......Yani tam anlamıyla kusursuz bir kilitli odaymış."`
+` ......Yani, tam anlamıyla kusursuz bir kilitli oda."`
 `".........Evet, öyle.`
 ` Gül bahçesi ambarı söz konusu olduğunda, kepengin anahtarını hizmetkâr odasından gizlice çıkarmış olabilirlerdi,`
 ` ya da belki de yedek bir anahtarları vardı... Bunu yapabilecekleri birçok yol hayal edebiliyorum."`
@@ -55,7 +55,7 @@
 `Ama bu kapı çok daha basit.`
 `Kapı zinciriyle içeriden mühürlenmiş.`
 `{n}Pencere de içeriden kapatılmıştı ve cesetler odanın içindeydi.`
-`......Bu sefer gerçekten, abartısız, tam bir kilitli odaydı.`
+`......Bu sefer gerçekten, abartısız, gerçek bir kilitli odaydı.`
 `...Bu doğru.`
 ` Büyükbabamın kayboluşunu da dahil ederseniz, üç olay meydana geldi ve üçünde de kapı ilgi odağı oldu.`
 `İlki kepenkti.`
@@ -368,7 +368,7 @@
 `O kısımda bazı küçük farklılıklar var gibi görünüyordu.`
 ` Yine de, genel şekilleri söz konusu olduğunda, silahların hepsi aynı türdendi.`
 `Acımasızca görünse de, olay yerini korumak için silahları Eva Hala ve Hideyoshi Enişteye saplanmış halde bırakmıştık.`
-`...Böylece ilk kez silahın tamamını kusursuzca görebildim.`
+`...Böylece ilk kez silahın tamamını doğrudan görebildim.`
 `Gerçekten de silah bıçak gibi keskin değil, buz kıracağı,`
 ` ...ya da daha doğrusu ince bir kazık şeklindeydi.`
 `Ve ayrıca, ...spiral şeklinde bir tasarımı vardı, bir çeşit matkap gibi?`
@@ -396,7 +396,7 @@
 `.........Büyükbabam,`
 ` sabah kaybolan ve nerede olduğu bilinmeyen kişi.`
 `".........Sanırım...bu, büyük olasılıkla Efendi."`
-`"...............katılıyorum.`
+`"............Ben de...katılıyorum.`
 ` ............Böyle bir şekilde vefat etmiş olması......`
 ` .........Ne kadar içler acısı..."`
 `"...Ama bu cesedin......gerçekten Büyükbabam olduğuna dair bir kanıt var mı...?`
@@ -446,7 +446,7 @@
 `Genji-san'a göre alevler o kadar güçlü olmadığına göre, ceset uzun zaman önce yanmaya başlamış olmalı,`
 ` zamanla o pis koku yavaş yavaş fırından çıkıp odayı doldurmuş, sonunda da dışarı taşarak merdivenlerden yukarı yükselmiş olmalıydı.`
 `......Az ya da iyi pişmiş olması bir yana,`
-` Büyükbabam otomatik kilitli, kapalı bir odada olmasına rağmen...dışarı çıkarılmış, öldürülmüş ve yakılmıştı.`
+` Büyükbabam otomatik kilidinin yarattığı kilitli bir odada olmasına rağmen...dışarı çıkarılmış, öldürülmüş ve yakılmıştı.`
 ` ...Muhtemelen buna şüphe yok...`
 `Ancak, Genji-san'a göre, kazan dairesi genellikle kilitliymiş.`
 `......Grubumuzun dışından birinin suç işlemek için etrafta dolaşıyor olma ihtimali artık çok yüksekti,`
@@ -477,7 +477,7 @@
 `......Bazı cesetlerin yüzleri, kim olduklarını doğrulamamıza yetecek kadar korunmuştu, ama örneğin benim yaşlı piçin...`
 `yüzü tamamen kaybolmuştu, sanki derisi soyulmuş gibiydi...`
 `Hangi cesedin hangisi olduğunu sadece kıyafetlerinden ve bulundukları ortamdan anlayabildik...`
-`Suçlu önceden sahte bir ceset hazırlamış ve ölmüş gibi görünmesi için kılık değiştirmiş...sonra da bir yere saklanıp öldürmeye devam etmiş olabilir miydi...?`
+`Suçlu önceden sahte bir ceset hazırlamış ve ölmüş gibi görünmesi için kılık değiştirmiş...sonra da bir yere saklanıp öldürme çılgınlığına devam etmiş olabilir miydi...?`
 `...Kulağa saçma geliyor ama bu imkânsız bir numara olduğu anlamına gelmiyor.`
 `......Bu 19. kişiye teslim olmak için çok erken,`
 ` ......hayır, .........bu cadıya......!`

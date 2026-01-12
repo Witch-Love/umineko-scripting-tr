@@ -37,7 +37,7 @@
 `".....................Eğer konu sadece benimle ilgili olsaydı, o zaman hayır, bunu yapmak istemezdim.`
 ` Ancak, aileniz ve çalışanlarınız, emrinizdekiler ve onların aileleri size bel bağladığında, ...savaşmanız gereken bazı zamanlar vardır."`
 `".........Bu tür kavgalardan nefret ederim.`
-` Büyükbabamın mirası hakkında ileri geri konuşma fikri midemi bulandırıyor."`
+` Büyükbabamın mirası hakkında ileri geri konuşulması midemi bulandırıyor."`
 `Jessica şiddetle tükürür gibi yaptı.`
 `{n}...Bu sert tepki acısının derinliğini açıkça ortaya koyuyordu.`
 `"...Bu konu hakkında konuşmayı bırakalım.`
@@ -141,9 +141,9 @@
 `{n}Bunu merak ederek parmaklarımla saymaya başladım ve gerçekten de 18 kişi vardı.`
 `"19. kişinin var olduğunu düşünüyor muyum, diyorsun.`
 ` ......Tam olarak ne demek istiyorsun?"`
-`"Tam olarak söylediğim gibi.`
+`"Tam olarak söylediğimi.`
 ` ......Görünüşe göre Maria'ya o şemsiyeyi ödünç veren kişi bizden, yani 18 kişiden biri değildi.`
-` Bu nedenle, 19. bir kişinin var olduğunu ve Maria'ya şemsiyeyi ödünç veren kişinin bu olduğunu düşünmek çıkarılabilir değil mi?"`
+` Bu nedenle, 19. bir kişinin var olduğunu ve Maria'ya şemsiyeyi ödünç veren kişinin bu olduğunu düşünmek mantıklı değil mi?"`
 `"............Peki, ......evet, sanırım."`
 `"O zaman bu kişi şimdi tam olarak nerede?`
 ` En azından, yağmur yağmaya başladığında bu adada olmalıydı.`
@@ -251,7 +251,7 @@
 `"Her koşulda, anahtar Maria-chan'da.`
 ` {f:5:Beatrice}'in 18 kişiden biri mi yoksa 19. kişi mi olduğunun anahtarı."`
 `"...Maria inatçıdır, biliyor musun?`
-` O kız, sinirlendiğinde, onu iyi hissettirmek oldukça zordur."`
+` O kız, sinirlendiğinde, onu iyi hissettirmek oldukça zor."`
 `"Battler-kun, sanırım senin gibi bir çocuğun onu neşelendirme ihtimali benim gibi bir yetişkinden daha yüksek.`
 ` ...Kendini iyi hissettikten sonra, ona sormayı dene."`
 `"......Mirasın paylaşımı konusundaki tüm bu ileri geri konuşmaların umurunda olmadığını biliyorum,`
@@ -323,7 +323,7 @@
 ` Korkması gereken benim.`
 ` ............Yani, ......"`
 `Bu noktada, bir an için sözlerini yuttu.`
-`...Babamın bile isteye gerilim yaratacak türden bir insan olduğunu hatırlamıyorum.`
+`...Babamın yapay olarak gerilim yaratacak türden bir insan olduğunu hatırlamıyorum.`
 `"...Beni korkutuyorsun, Baba.`
 ` Şu anda tüm ailen burada.`
 ` Lafı dolandırmayı bırak da söyle."`
@@ -396,7 +396,7 @@
 `{n}Arada bir gök gürlüyordu ama bu Natsuhi'nin yüz ifadesini etkilemiyordu.`
 `......İfadesi tamamen yıpranmıştı.`
 `Az önce yemek salonunda akrabalar arasında geçen tartışma Natsuhi'nin zihninde tekrarlanıyordu...`
-`{f:5:Beatrice}, altınların yanı sıra Ushiromiya ailesinin reisliğinin ve tüm mal varlığının da bilmeceyi çözecek kişiye devredileceğini beyan etmişti.`
+`{f:5:Beatrice}, altınların yanı sıra Ushiromiya ailesinin reisliğinin ve tüm mal varlığının da bilmeceyi çözecek kişiye devredileceğini ilan etmişti.`
 `...Başka bir deyişle, en büyük kardeş olarak Krauss'un aile reisliği için sahip olduğu mutlak garantiyi baltalamayı planlıyordu.`
 `Normalde diğer kardeşlerin reisin yerine geçme şansı kesinlikle yoktu.`
 `Onlar için {f:5:Beatrice}'in bu "teklifi" son derece cazipti.`
@@ -426,7 +426,7 @@
 `{n}Saklı altın Kinzo'nun ölümüyle birlikte sonsuza dek tarihe karışsa bile, bu servet herkesi tatmin etmeye fazlasıyla yetecekti.`
 `Bu nedenle, altına bizzat ilgileri olmasa bile,`
 ` birinin altını bulması durumunda bu kişiye aile reisliği makamının verilebileceği korkusu ömür boyu sürecekti.`
-`Ve bu tür bir Aşil tendonu er ya da geç birileri tarafından kesinlikle faydanılacaktı.`
+`Ve bu tür bir Achilles'in topuğu er ya da geç birileri tarafından kesinlikle kullanılacaktı.`
 `Bu ölümcül zayıflığa sahip tek kişi, reisin halefi olan Krauss'tu.`
 `{n}......Diğer kardeşler bir koz bulmuştu,`
 ` ...hayır, onlara Kinzo tarafından sadece Krauss'un zararına olan bir koz verilmişti ve onlar da bundan sonuna kadar yararlanmışlardı.`
@@ -475,7 +475,7 @@
 ` ......ve onun üzerine de yetişkin bir adamın kolu büyüklüğünde "bir şey" konulmuştu.`
 `......Bu şey Natsuhi'nin nefesini kesti.`
 `"İnanılmaz saflıkta bir altın külçe.`
-` Bunsuz, kimse Altın Efsanesi'ne inanmaz."`
+` Bu olmasaydı, kimse Altın Efsanesi'ne inanmazdı."`
 `Som altından bir külçeydi.`
 `Soluk ışıkta bile asil ve ağırbaşlı bir altın parıltısıyla ışıldıyordu...`
 `"Bu sıradan bir külçe değil.`
@@ -535,7 +535,7 @@
 ` .........bunu mu alıyorum.........?!!`
 ` Nasıl......`
 ` ............Nasıl yaparsın............!!"`
-`Krauss yüzünü buruşturdu, içerlemiş görünüyordu...`
+`Krauss yüzünü buruşturdu, sinirli görünüyordu...`
 `{n}Yüz ifadesi Natsuhi'nin bu huyundan ne kadar rahatsız olduğunu etkili bir şekilde ifade ediyordu...`
 `"......Ben.........`
 ` Ben artık işine yarayabileceğimi sanmıyorum............"`
@@ -606,7 +606,7 @@
 `...İçgüdüsel olarak, Natsuhi'nin boğazından azarlama sözcükleri yükseldi.`
 `{n}.........Ancak, sözcüklerin yükselirken güçleri tükendi ve dudaklarından dışarı çıkamadılar.`
 `"........................Jessica.`
-` Üzgünüm, annenin başı fena ağrıyor.`
+` Üzgünüm, annenin korkunç bir baş ağrısı var.`
 ` Lütfen beni yalnız bırak."`
 `"..................Oh......"`
 `Jessica annesinin ilk kez gördüğü bu bitkin hali karşısında biraz şaşırmıştı.`
@@ -661,7 +661,7 @@
 ` Bende kalması için bir sebep yok, yani......`
 `sana veriyorum."`
 `Bu, Maria'nın sahilde ona verdiği akrep tılsımıydı.`
-`Maria'dan çeşitli etkilerini duymuş olmasına rağmen, şu anda Jessica'nın zihni bomboştu ve ancak bu kadarını söyleyebilmişti.`
+`Maria'dan çeşitli etkilerini duymuş olmasına rağmen, şu anda Jessica'nın zihni bomboştu ve bu kadarını bile söylemek elinden gelen tek şeydi.`
 `Annesinin muhtemelen tılsımı kabul etmeyeceğini düşünen Jessica, tılsımı ona uzatan elini hemen geri çekmişti.`
 `......Bu yüzden Natsuhi geri gelip o eli tuttuğunda son derece şaşırmıştı...`
 `"......................Bu nedir?`
@@ -719,7 +719,7 @@
 ` Ne de olsa Maria'yı avutma konusunda bir uzmanımız var!"`
 `"B-Benden mi bahsediyorsun?`
 ` Bunu tek başıma yapamam.`
-` Beraber olmaya ihtiyacımız var."`
+` Herkese ihtiyacımız var."`
 `"Bu doğru.`
 ` Battler, daha önce Maria ile takılan sen değil miydin?"`
 `Biz bunları söylerken, Rosa Hala gülümsedi, gerçekten mutlu görünüyordu.`
@@ -738,11 +738,11 @@
 `Dışarıda şiddetli yağmur yağıyordu ve Aniki aynı anda hem şemsiye tutup hem de Maria'yı taşıyamazdı.`
 `Rosa Hala yardım etmek için bizimle konukevine kadar gelecek gibi görünüyordu.`
 `Ancak Krauss Amcanın kendisine seslendiğini duyunca geri dönmekten başka çaresi kalmadı.`
-`"......Oh olamaz.`
+`"......İşte bu bir sorun.`
 ` Geri dönmek zorundayım."`
 `".........Ah, hepiniz konukevine mi dönüyorsunuz?"`
 `Girişe doğru giderken koridordan çıktıktan sonra hizmetkâr odasının kapısı açıldı ve Shannon-chan dışarı çıktı.`
-`"Hava iyice karardı, bu yüzden size rehberlik etmeme izin verin."`
+`"Hava iyice karardı, bu nedenle size rehberlik etmeme izin verin."`
 `"Mükemmel zamanlama, Shannon-chan.`
 ` George-kun Maria'yı oraya kadar taşıyacak.`
 ` Onun için bir şemsiye tutabilir misin?"`
@@ -802,7 +802,7 @@
 ` Aynı zamanda sizin de burada kalacağınıza dair az önce bir telefon aldık."`
 `"Ha...?`
 ` Bu-Bu oldukça büyük bir değişiklik...`
-` Konukevi ve malikânedeki vardiyalar tamamen tersine çevrildi, değil mi...?"`
+` Konukevi ve malikânedeki vardiyalar tamamen tersine çevrilmiş olmadı mı...?"`
 `Başlangıçta, Shannon ve Kanon'a malikânede gece vardiyası verilirken, tüm akrabaların kaldığı konukevindeki gece vardiyası, eğlence konusunda bolca deneyimi olan Gohda'ya verilmişti.`
 `Kumasawa'nın konukevinde, Genji'nin ise malikânede kalması planlanmıştı.`
 `Ancak, Krauss aniden programın değiştirilmesini emretmiş gibi görünüyordu.`
@@ -827,7 +827,7 @@
 `Genji başıyla onayladı, bir paravanın arkasına geçti, ceketini çıkardı ve gün boyu süren gerginliğin ardından yavaş yavaş gevşemeye başladı...`
 `".........Az önce geri dönenler çocuklar mıydı...?"`
 `"Evet.`
-` Diğer akrabalar malikânede bir konferans yapıyorlar.`
+` Diğer akrabalar malikânede bir toplantı yapıyorlar.`
 ` Çok geç saatlere kadar sürecek gibi görünüyor..."`
 `"......Böylesi daha iyi.`
 ` Zaten geç oldu, ve hava da yağmurlu.`
@@ -848,7 +848,7 @@
 ` Az önce, çocukların odasına gidip onlarla oynamam istendi..."`
 `Shannon özür dileyerek başını eğdi, ...ve Kanon'un gözlerine doğru kararsız bir bakış attı.`
 `Kanon onun bakışından kaçındı ve içini çekerek net bir şekilde konuştu.`
-`Görünüşe göre "ablası"na ayrıcalık tanımayı planlamıyordu.`
+`Görünüşe göre "kız kardeşi"ne ayrıcalık tanımayı planlamıyordu.`
 `"............Yapamazsın.`
 ` Gece vardiyasına verildin.`
 ` ...Ayrıca bizim gibi mobilyaların oyun davetlerine cevap vermesine gerek yok.`
@@ -958,7 +958,7 @@
 `Fukuin Evi'nin tüm öğrencileri yetimdi.`
 `{n}Ya da, bazı özel koşullar nedeniyle aileleri tarafından evlatlıktan reddedilmiş kişilerdi.`
 `......Bu nedenle öğrencilere birbirlerini tek aileleri olarak görmeleri öğretilmişti.`
-`Bu yüzden Kanon'un Shannon'u ablalı olarak görmesi oldukça doğaldı.`
+`Bu nedenle Kanon'un Shannon'u kız kardeşi olarak görmesi oldukça doğaldı.`
 `Bugün malikânede sadece Shannon ve Kanon çalışıyordu,`
 ` vardiya değişiminde çalışan Manon ({p:0:眞音}) ve Lenon ({p:0:恋音}) adında, isimlerindeki "{p:0:音}" karakterini miras alan başka hizmetkârlarda vardı.`
 `...Bununla birlikte, Ushiromiya ailesinde uzun süre kalan çok fazla hizmetkâr yoktu.`
@@ -1001,7 +1001,7 @@
 ` ....................."`
 `Shannon bu sözleri inkâr edemezdi.`
 `...Yaşam tarzıyla ilgili somut bir sorun bulamamıştı`
-` üstelik kendini herhangi bir şekilde değiştirmek gibi bir arzusu ya da hedefi olmadığı için de hayatına boş boş devam etmişti.`
+` ve kendini herhangi bir şekilde değiştirmek gibi bir arzusu ya da hedefi olmadığı için de hayatına boş boş devam etmişti.`
 `...Ve eğer ona hayatının hâlihazırda tatmin edici olup olmadığı sorulsaydı,`
 ` ...mutlaka başını sallayamazdı......`
 `Bu, gözlerini kasten kaçırdığı bir gerçek olabilirdi.`
@@ -1060,7 +1060,7 @@
 `......itaatsizlik edemem..."`
 `"Evet, bu doğru.`
 ` ...Aferin sana."`
-`Kıpkırmızı yüzünü göstermek istemeyen Shannon, George'un elindeki yüzüğü çekingen bir tavırla kabul ederken gözlerini hâlâ yere dikiliydi...`
+`Kıpkırmızı yüzünü göstermek istemeyen Shannon, George'un elindeki yüzüğü çekingen bir tavırla kabul ederken gözleri hâlâ yere dikiliydi...`
 `Bu yüzük basit bir aksesuar değildi.`
 `......Eski çağlardan beri özel bir kadına sunulması gereken, özel bir anlamı olan asil bir objeydi.`
 `...Yani George ona yüzüğü almasını emredebilirdi ama bunun ötesinde bir şey emredemezdi.`
