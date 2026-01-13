@@ -49,7 +49,7 @@
 `Nanjo, sağlığı nedeniyle Kinzo'ya sık sık bir vasiyet yazmasını önermişti ama her seferinde Kinzo öfkeden deliye dönüyordu.`
 `......O zamandan beri Kinzo'nun en çok tepki gösterdiği kelime "vasiyet" olmuştu.`
 `Bu kelime bizzat onun ağzından çıktığı için Shannon bir anlığına duyduğu şeyden şüphe etmekten kendini alamadı.`
-`Shannon aceleyle yan masayı ve yazı kağıdı hazırladı.`
+`Shannon aceleyle yan masayı ve yazmak için bir kağıt hazırladı.`
 ` Genji de kendisine emredildiği gibi her zamanki yeşil şeytanını hazırlamaya başladı...`
 `"Ben hazırım."`
 `".........Hmm.`
@@ -186,15 +186,15 @@
 `"Bilmiyorum.`
 ` ......Babam bu kiliseyi çok kutsal görüyordu ve ona o kadar değer veriyordu ki birkaç kez yeniden dekore ettirdi."`
 `"...Ama hepinizin bildiği gibi,`
-` Babam sadece kara büyüye ilgisi vardı—yani dini bütün biri olduğu için değil.`
+` Babamın sadece kara büyüye ilgisi vardı—yani dini bütün biri olduğu için değil.`
 ` ......Tanrı'ya dua etmek için buraya geldiğini hiç duymadım."`
 `"......Benim bildiğim kadarıyla bile, Efendi buraya hiç gelmedi.`
-` Hatta buraya "yasak kilise" adını verdik, ...umm,`
+` Hatta buraya "yasak kilise" adını verdik, ...şey,`
 ` ve perili bir ev gibi oldukça ürkütücü olduğunu düşündük."`
 `"Babam kendisi hiç yaklaşmasa da, nedense kiliseyi yılda birkaç kez hizmetkârlara temizletiyordu.`
 ` ......Sanki her an kullanılabilsin diye temiz tutuyormuş gibiydi."`
 `"Ve buna rağmen, ona "yasak kilise" deniyor...`
-` ......Ihihi!`
+` ......İhihi!`
 ` Bu biraz düşüncesizce olabilir ama kulağa ilginç gelmiyor mu?`
 ` Doktor Nanjo, siz Büyükbabamın eski bir arkadaşısınız, değil mi?`
 ` Ona hiç bu konuda bir şey sorduğunuz oldu mu?"`
@@ -261,7 +261,7 @@
 ` ......Cadı {f:5:Beatrice} gerçekten bir cadı olsa da olmasa da, birkaç on yıl önce gerçekten var olduğu,`
 ` ......ve Büyükbabamın metresi olduğu söylentileri var."`
 `"Bu, şey, sadece benim hayal gücüm ama...`
-`......Efendinin {f:5:Beatrice}-sama'yı gerçekten seviyordu diye düşünüyorum.`
+`......Efendinin {f:5:Beatrice}-sama'yı gerçekten sevdiğini düşünüyorum.`
 ` Ancak zaten evliydi, bu yüzden birlikte olamazlardı."`
 `"...Anlıyorum.`
 ` .........Eğer ölü {f:5:Beatrice} bir mucizenin büyüsüyle diriltilebilseydi, artık Büyükannem öldüğüne göre, onunla alnı açık bir şekilde evlenebilirdi.`
@@ -269,7 +269,7 @@
 `"......Bence kulağa o kadar da mantıksız gelmiyor.`
 ` ...Babamın şimdi bile {f:5:Beatrice}'i çok sevdiği bilinen bir gerçek."`
 `"......Ayrıca, her ne kadar ürkütücü olduğunu söylesem de,`
-` kilisenin içinin oldukça görkemli olduğunu hatırlıyorum gibi.`
+` kilisenin içinin oldukça görkemli olduğunu düşünüyorum.`
 ` .........Babamın bu kiliseyi ölü metresiyle düğün yapma umuduyla inşa ettiği düşüncesi aslında o kadar da mantıksız olmayabilir."`
 `"...Büyükbabam bu kiliseyi inşa ettiğinde muhtemelen yaşadığı sürece burayı asla kilise olarak kullanmayacağını biliyordu."`
 `"......Ama cadının bir mucize ile dirilmesi için dua etti.`
@@ -284,7 +284,7 @@
 ` ......muhtemelen bir mucizenin gerçekleşeceği günün hayalini kuruyordu.`
 ` .........Kinzo-san gençlik günlerinde büyük bir romantikti.`
 ` ...Onu anlıyorum."`
-`"Ihihi.`
+`"İhihi.`
 ` Kim bilir.`
 ` ......Ama hepiniz yılda dört kez gelip temizliyordunuz, değil mi?"`
 `"Hiç açılmadı da ne demek?`
@@ -379,7 +379,7 @@
 ` Ha, siz insanların düşünmeyi bırakmak için kullandığı bahaneler hep bunlar.`
 ` Seni aşağılık insan, bu bahane de ne?!"`
 `"Laplace'ın şeytanı gibi olmadığın sürece düşünemeyeceğini mi söylüyorsun, seni beceriksiz aptal?!!`
-` ......Ve sanki bilgi eksikliği senin için dezavantaj yaratıyormuş gibi konuşuyorsun, oysa aslında tam tersi, görüyor musun?"`
+` ......Ve sanki bilgi eksikliği senin için dezavantaj yaratıyormuş gibi konuşuyorsun, oysa aslında tam tersi."`
 `"Sana ne kadar çok bilgi verilirse, o kadar çok başın ağrır!`
 ` Bu sadece seni sıkıştıran kompresörün gücünün artmasına neden olacaktır!`
 ` *kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!!"`
@@ -459,7 +459,7 @@
 ` ...Eminim sana avantaj sağlayacak bir kuraldır, değil mi?!"`
 `"Tabii ki de hayır.`
 ` Senin gibi insanların talep etmekten asla bıkmadığı şeyi sana vereceğim.`
-` Siz beceriksiz aptalların her zaman düşünmekten vazgeçip sonra da sızlanmanızın nedeni "bilgi eksikliği"!`
+` Siz beceriksiz aptalların her zaman düşünmekten vazgeçip sonra da sızlanmasının nedeni "bilgi eksikliği"!`
 ` Daha sonra size bilgi verildiğinde de, "dayanağı inkâr ederek" bilginin doğru olup olmadığından şüphe etmeye başlarsınız!"`
 `"Ne kadar kullanışlı, değil mi?`
 ` Kendi beceriksizliğinizi gizlemek için ne kadar da zekice kelimeler.`
@@ -474,7 +474,7 @@
 ` Açıklamaya devam et!"`
 `"Hangi büyülü hamleyi kullanırsam kullanayım,`
 ` her zaman "bilgi eksikliği" ve "dayanağı inkâr etme"yi tekrarlayarak kaçmaya devam edebilirsin."`
-`"...Bu şekilde yine eninde sonunda kazanırdım da, bu son derece sıkıcı olurdu.`
+`"...Bu şekilde eninde sonunda yine de kazanacak olsam da, bu son derece sıkıcı olurdu.`
 ` ......Bu nedenle, sana arzu ettiğin "bilgiyi" ve "dayanağı" vereceğim."`
 `"Ancak yine de, muhtemelen söylediğim her kelimeden şüphe duyacaksın.`
 ` Bu kendi içinde kötü değil.`
@@ -564,7 +564,7 @@
 `.........Kahretsiiiiiiin...`
 ` Bu hiç iyi değil, hiç iyi değil, hiç iyi değil...`
 `{n}Yani cadıya karşı kazanamıyor muyum...?!`
-`Bu hiç de satranç değil—Bir satranç probleminde kaybeden taraf olmaya bırakıldım...!`
+`Bu hiç de satranç değil—Bir satranç probleminde kaybeden taraf olmak zorunda bırakıldım...!`
 ` Yapabileceğim en iyi şey ayrıntılar hakkında tartışmak ve bir beraberlik almak mı...?`
 `"Bu kesinlikle olmayacak...!`
 ` Ya ben teslim olacağım, ya da sen teslim olacaksın!!`
@@ -695,7 +695,7 @@
 ` Kadınlara karşı naziğimdir.`
 ` Kadınları incitmem.`
 ` {i:Bir kadının beklentilerine ihanet etmem}!"`
-`".........Benim için kırmızıyla tekrarla— eğer yapabiliyorsan söyle.`
+`".........Benim için kırmızıyla tekrarla—tabii yapabiliyorsan.`
 ` "Maria'nın çantasına, Rosa Hala zarfı alıncaya kadar kimse dokunmadı"."`
 `"........................Bunu da......reddedeceğim.`
 ` ...Nedenini açıklamayacağım."`

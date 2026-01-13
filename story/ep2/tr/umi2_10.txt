@@ -12,7 +12,7 @@
 `Sonunda, "Cadı'nın VIP Odası" göründü.`
 `{n}Bu VIP odası her zaman kapalı tutulurdu ve asla kullanılmazdı.`
 `...Ne tür bir misafir gelirse gelsin, Kinzo kimsenin bu odayı kullanmasına izin vermezdi.`
-`......Yine de, her zaman kullanılabilmesi için hizmetkârlara bu odanın temizliği yaptırılırdı.`
+`......Yine de, her zaman kullanılabilir durumda olması için hizmetkârlara bu odanın temizliği yaptırılırdı.`
 `Bu yüzden hizmetkârlar, formsuz diğer efendilerine ithafen bu odaya "Cadı'nın VIP Odası" demeye başlamışlardı.`
 `Jessica da bunu biliyordu.`
 ` Ve, o odada kalarak kendine cadı diyen kadının küstahlığına katlanamıyordu.`
@@ -23,13 +23,13 @@
 `...Ne kadar cadı numarası yaparsa yapsın, ona sadece kokuşmuş, terli bir {y:0:İnsan}{n:0:insan} olduğunu öğreteceğim!`
 `Jessica tüm gücüyle bağırarak VIP odasının kapısına vurdu.`
 `Kesinlikle tıklama denilecek bir ses değildi.`
-` ...Bu ses öfkesinin çekicinin vuruşuydu, "kapıyı açmazsan onu kırarım" diyordu.`
+` ...Bu ses öfkesinin çekicinin vuruşuydu, adeta "eğer açmazsan kapıyı kırarım" diyordu.`
 `"Aç şunu, {f:5:Beatrice}!!`
 ` Çık dışarı!!`
 ` Duyuyorsun, değil mi?!`
 ` Aç kapıyı!!!"`
 `Cevap gelmedi.`
-` ...Jessica hiç tereddüt etmeden kapı kolunu çevirdi, ama kilidin direncini hissetti.`
+` ...Jessica hiç tereddüt etmeden kapı kolunu çevirdi, ama kilidin yarattığı direnci hissetti.`
 `Jessica iki hizmetkâra döndü ve talepkâr bir tavırla ateş püskürttü.`
 `"Master anahtar bu kapıyı açıyor, değil mi?!`
 ` Açın!!"`
@@ -102,7 +102,7 @@
 `Kağıtta yazanlar şunlardı...`
 `{e:070:—Buraya paldır küldür gelmeni bekleyerek vaktimi boşa harcayacağımı mı sanıyordun?`
 ` Bu entelektüel geceye uygun olamayacak kadar vahşisin.`
-` Seni böyle beceriksiz bir aptal olarak yetiştirdikten sonra ailenin yüzleri kim bilir nasıldı?`
+` Seni böyle beceriksiz bir aptal olarak yetiştirdikten sonra ailenin yüzleri kim bilir nasıldır?`
 ` Ah evet, onları gördüm, tıpkı senin gibi muhteşem aptal suratları vardı.`
 ` Şimdi karınları tıka basa dolu hâlde Şeker Diyarı'ndalar!}`
 `......Tam da o cadının yazacağı bir şeye benziyordu...`
@@ -133,7 +133,7 @@
 `Jessica çok ama çok ağladı.`
 ` ...Çünkü ağlamazsa, öfkesi yeniden birikmeye başlayacak, ve onu tüketecekti.`
 `Ama tekrar ve tekrar, mektubun aşağılayıcı mesajını hatırladı...`
-` ......Seni böyle beceriksiz bir aptal olarak yetiştirdikten sonra ailenin yüzleri kim bilir nasıldı?`
+` ......Seni böyle beceriksiz bir aptal olarak yetiştirdikten sonra ailenin yüzleri kim bilir nasıldır?`
 `"Onlar aptal değil!!`
 ` Babam da annem de zekiydi!!`
 ` Benim gibi değillerdi, gerçekten zekiydiler!!`
