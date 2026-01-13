@@ -1,7 +1,7 @@
 `Battler yemek salonundaydı.`
 `Bu yağmurun ortasında konukevine dönecek iradeyi kendisinde bulamayınca,`
 `oturacak rastgele bir yer bulmak için gönülsüzce malikânenin içinde dolaşmış, ...ve yemek salonuna yerleşmişti.`
-`Kapıyı kilitlemeye zahmet etmemişti.`
+`Kapıyı kilitlemeye bile zahmet etmemişti.`
 `Artık yalnız olduğu için formsuz katilin ya da Altın Cadı'nın onu öldürmeye gelebileceği aklından geçmişti,`
 ` ama artık buna direnmeyi düşünmüyordu.`
 `Aksine, suçluyu bir kilitle engellemeye hiç niyeti yoktu.`
@@ -19,7 +19,7 @@
 ` Ve lütfen kendini tanıt.`
 ` Eğer insansan, bana adını söyle.`
 ` {f:5:Beatrice} isen, üç beden ölçünü söyle."`
-`"Öyle görünmesedem de bir göğüs uzmanı olarak tanınırım."`
+`"Öyle görünmesem de bir göğüs uzmanı olarak tanınırım."`
 `".........Ben Genji, Battler-sama."`
 `"...Ha, Genji-san demek.`
 ` ......Üzgünüm, ama senin göğüs ölçüne ilgim yok.`
@@ -64,7 +64,7 @@
 ` Battler-sama."`
 `Genji-san onu takip etmemi söyledikten sonra koridorda yürümeye başladı.`
 `Tamamen ayıldım ve onun peşinden gittim...`
-`Geniş merdivenleri çıktık, .........üçüncü kata doğru.`
+`Üçüncü kata doğru uzanan, .........geniş merdivenleri çıktık.`
 `{n}Genji-san yarı yolda yürümeyi bıraktı.`
 `{n}Daha sonra bana doğru döndü ve konuştu.`
 `".........Battler-sama.`
