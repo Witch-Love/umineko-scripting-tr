@@ -2,7 +2,7 @@
 ` ...hoşuna gitti mi?`
 ` Az önceki oyunumuz."`
 `"......Tek taraflı bir oyun, sürükleyici olmaktan çıkar ve sıkıcı hale gelir."`
-`"*kıKIr*kıKIr*. Amanın, her zamanki gibi acımasız bir eleştirmensiniz.`
+`"*kıKIr*kıKIr*. Amanın, her zamanki gibi acımasız bir eleştirmensin.`
 ` ......Can sıkıntısından hiç hoşlanmayan Leydi {f:5:Bernkastel}'in bile,`
 ` bu zorlayıcı gelişmelerle tatmin olacağından o kadar emindim ki... Ne vicdansızlık."`
 `"...Zorlayıcı olduğunu, ...kabul ediyorum.`
@@ -43,12 +43,12 @@
 `"Ne aptal bir çocuk.`
 ` Neden bana karşı kazanmanın tek nedeninin biraz şans ve pek de iyi olmayan bir eşleşmeden kaynaklandığını anlayamıyorsun?`
 ` Bu seni çok kibirli yaptı, ve şimdi de {f:5:Beatrice} ile savaşmaya mı başladın? Haddini bilmen gerekmiyor mu?"`
-`"*kıkırdar*, {f:5:Beatrice}'in güçlü olduğunu biliyorsun, değil mi?`
+`"*kıkırdar*, {f:5:Beatrice} güçlüdür.`
 ` Ve benden daha da acımasız.`
 ` Sadece birazcık!"`
 `"Ayrıca, birinin adını Lambda diye kısaltma!"`
 `".........Beato, sen de bir aptalsın.`
-` Eğer bu çocuk senin oyununda olsa, her şeyi saçma bir maskaralığa çevirecek."`
+` Eğer bu çocuk senin oyununda olursa, her şeyi saçma bir maskaralığa çevirecek."`
 `"Leydi {f:5:Lambdadelta}'yı buraya sadece kenardan izlesin diye çağırmadım."`
 `"Senin bana karşı bahis oynadığını öğrendikten sonra, sana karşı bahis oynayacağını söyledi."`
 `"..............................Hâlâ kin tutuyorsun, değil mi?"`
@@ -145,7 +145,7 @@
 `Düşünmeyi bırakma.`
 `Hiçbir olasılığı göz ardı etme.`
 `Sen savaşma isteğini koruduğun sürece Beato kazanamayacaktır.`
-`Bir cadının savaşında savunma çok önemlidir, bilir misin?`
+`Bir cadının savaşında savunma çok önemlidir.`
 `Kazanmaya çalışmak yerine, kaybetmemeye çalış.`
 `...Eğer onu kabullendiğinde kaybediyorsan, o zaman kesinlikle onu kabul etmemelisin.`
 `......Cadıları kabullenmeni sağlamak.`
@@ -165,8 +165,8 @@
 `"...Ah, işte buradasın.`
 ` Bern bir yerlere mi kaçtı?`
 ` *kıkırdar*, daha ezik olabilir mi?"`
-`Neyse.`
-`Bern'in seçtiği taşlar her zamanki gibi uyduruk, ha.`
+`Yine de,`
+` Bern'in seçtiği taşlar her zamanki gibi uyduruk, ha.`
 `Satrançta da böyle, değil mi?`
 `Eğer tüm taşların piyon olsaydı, kazanma şansın sıfır olurdu, değil mi?`
 `Eğer tüm taşların kale ve fil olsaydı, kaybetmene imkân olmazdı.`
@@ -175,13 +175,13 @@
 `O da neydi öyle, o bir mağlubiyet falan değildi!!`
 ` Aaah, bunu hatırlamak bile midemi bulandırıyor.`
 `Anlayacağın Bern'in aptal suskun yüzünü görünceye kadar sinirli kalacağım.`
-`Yani, Bern'in taşını bu halde görünce harika hissediyorum valla.`
+`İşte bu yüzden Bern'in yüzündeki o ifadeyi görene kadar rahat edemeyeceğim.`
 `Ayrıca, ister inan ister inanma, o kız kaybetmekten gerçekten nefret ediyor,`
 ` eminim şu anda sinirden dişlerini gıcırdatıyor ve bebek gibi ağlıyordur,`
 ` gerçekten çok ezik, *kıkır*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!`
 `Hadi, benimle birlikle gülsene, oh‐hoh‐hoh‐hoh‐ho!`
 `............Bir saniye.`
-`Sen hâlâ dizlerine mi sarılıyorsun ya?`
+`Sen hâlâ dizlerine mi sarılıyorsun?`
 `Beato biraz ciddileşti diye hemen böyle mi oldun?`
 `Bundan daha zavallı olabilir misin?`
 `Çok acınası haldesin, sana biraz yardım edeceğim.`
