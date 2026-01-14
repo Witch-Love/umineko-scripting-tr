@@ -11,7 +11,7 @@
 ` Yine de, ......tüm bunlar bir illüzyonmuş gibi hissediyorum..."`
 `"...Anlıyorum.`
 ` ......Demek Rosa Teyzenin önünde bu yüzden ayrıntılara giremedin."`
-`"......Eğer bana bu anlattıklarını ona da anlatmış olsaydın, bu daha büyük sorun çıkarırdı.`
+`"......Eğer bana bu anlattıklarını ona da anlatmış olsaydın, bu daha büyük sorunlar doğururdu.`
 ` ...Evet, şimdi anlıyorum ki Genji-san her şeyi son derece soğukkanlı bir şekilde halletmiş."`
 `"...............Keşke bunu açıklayabilecek gücüm olsaydı."`
 `George bunu gerçekten görmemişti, bu yüzden inanması için ısrar edildiğinde bile bunu hayal edemiyordu.`
@@ -22,10 +22,10 @@
 ` Bunu neden yaptın?"`
 `"......Doğru, onu ben de düşünüyordum.`
 ` Neden örümcek ağları?"`
-`"Bir kere Kumasawa-san'dan duymuştum.`
+`"Bir keresinde Kumasawa-san'dan duymuştum.`
 ` ......Uzun zaman önce Rokkenjima'da kötü ruhlar yaşarmış, ve şey, onlar örümcek ağlarından korkarlarmış.`
 ` Ve de efsaneye göre insanlar örümcek ağlarının büyüye karşı koruyucu olduğunu düşünüyorlarmış."`
-`"......Bu yüzden ben, şey, ......ona göre hareket ettim.`
+`"......Bu yüzden, şey, ......hepsi bu.`
 ` Sanırım benim de biraz kafam karışmıştı..."`
 `"............İlginç bir hikâye.`
 ` ...Kumasawa bu tür masallar hakkında çok bilgiliydi."`
@@ -44,12 +44,12 @@
 ` ......Bunun için seni suçlamıyorum."`
 `Shannon çok eskiden beri George'la nasıl tanıştığına dair belli bir okült yönü olduğunu sık sık ima ediyordu.`
 `George onun anlattıklarına kulak verse de, aşkı kader, şans ve mucizelerle ilişkilendiren bir kız için bunun hep tipik bir durum olduğunu düşünmüştü.`
-`......George, torii tapınağında bulunan ruh aynasını kırmanın biraz fazla ileri gittiğini düşünmüş olsa da onu affetmiş,`
+`......George, torii tapınağında bulunan ruh aynasını kırmanın biraz fazla ileri gitmek olduğunu düşünmüş olsa da onu affetmiş,`
 ` ve kendisiyle ciddi bir ilişki kurmak istediği için yaptığı küçük bir şaka olarak kabul edip gülmüştü.`
 `......Küflü bir tapınakta bir ayna kırmak birlikteliğimizin kaderini değiştirmeyecekti.`
 `Ve bu asla bir lanete neden olmazdı.`
 `{n}Bunun sadece tozla kaplı küflü bir ayna olduğunu söyleyerek onu neşelendirdiğimi hatırlıyorum.`
-`"...Bu adada çalışmaya başladıktan sonra, birçok iş arkadaşlarım bana {f:5:Beatrice} adında bir ruhun var olduğundan bahsettiler."`
+`"...{f:5:Beatrice}-sama adında bir ruhun hikâyesini, birkaç iş arkadaşımdan, bu adada çalışmaya başladıktan sonra dinledim."`
 `"Başlangıçta bunun saçmalık olduğunu düşünmüştüm,`
 ` ancak bu konuda yorum yapmak düşüncesizce göründüğünden,`
 ` ...dışarıdan bakıldığında ben de buna inanıyormuşum gibi davrandım.`
@@ -84,14 +84,14 @@
 ` ...George-sama."`
 `Ve hepsi tekrar sessizliğe gömüldü.`
 `Ne kadar teselli edilirse edilsin, Shannon ağlamaya devam etti, cadının tatlı fısıltılarını dinlemenin ve o gün ruh aynasını kırmanın her şeyin ters gitmesine neden olduğunu düşünerek ağlıyordu...`
-`"..................Sana bunları anlatan cadı...eğer o ayna varsa güçlerini kaybeder mi?"`
+`"..................Sana bunları anlatan cadı...eğer o ayna var olursa güçlerini kaybeder mi?"`
 `"...Sanırım bana biraz açıklamıştı ama tam olarak hatırlamıyorum.`
 ` ......Sanırım o ayna var olduğu müddetçe gücünü nasıl serbest bırakamayacağı hakkında bir şeyler söylemişti."`
 `"......Peki senin kırdığın aynaya ne oldu?"`
 `"Hatırlamıyorum.`
 ` Sanırım, ...kırık hâlde bıraktığım için, ...bıraktığım şekilde orada öylece duruyordu."`
-`"......Yani, denildiği gibi, kayalığa yıldırım çarpıp yok olduğunda, okyanusun dibinde kaybolurdu...`
-` Peki, bahse girerim onu toplayıp yapıştırmak yine de işe yaramazdı.`
+`"......Yani, denildiği gibi, kayalığa yıldırım çarpıp yok olduğunda, okyanusun dibine gitmiş olmalı...`
+` Yani, bahse girerim onu toplayıp yapıştırmak yine de işe yaramazdı.`
 ` Hahahahaha."`
 `".........Ben, .........gerçekten.........ne yaptım........."`
 `"......Özür dilerim.`
@@ -106,7 +106,7 @@
 `"......Oh?`
 ` Natsuhi Yenge mi?"`
 `"Evet.`
-` Sanırım onu Büyükbabasından aile yadigarı olarak almıştı ve çok güçlü bir büyü kovma gücüne sahip, "tarihi açıdan zengin"(?)`
+` Sanırım onu Büyükbabasından aile yadigârı olarak almıştı ve çok güçlü bir büyü kovma gücüne sahip, "tarihi açıdan zengin"(?)`
 ` bir ruh aynası ya da onun gibi bir şeydi..."`
 `"............Aynı hikâyeyi ben de duydum.`
 ` ......Aynanın iyi olmayan şeyleri yansıtma ve geri püskürtme gücüne sahip olmasıyla ilgili bir şey."`
@@ -220,12 +220,12 @@
 `......Ruletin nasıl sonuçlanacağını bilmiyordu.`
 `{n}Ama bu karar çok yakında verilecekti.`
 `.........Kimse rulet topunun yuvarlanmasına müdahale edemezdi...`
-`Salonun kapısı kilitliydi, aynı zamanda da kanepe ve benzeri şeylerden yapılmış bir barikatla bloke edilmişti.`
+`Salonun kapısı kilitliydi, aynı zamanda da kanepe ve benzeri şeylerden oluşan bir barikatla bloke edilmişti.`
 `Bu nedenle Rosa Hala, şüpheli birinin camı kırarak içeri gireceğinden şüpheleniyor gibiydi.`
 `Tek kişilik bir kanepeye oturmuş, sırtı kapıya dönük, silahını tutmaya devam ediyordu.`
 `Ben artık neyin ne olduğunu bilmiyordum ve bu yüzden, bedenim ve zihnim yıpranmış bir halde, Maria ile onun istediği gibi oyun oynuyordum.`
 `Maria'nın söylediğine göre,`
-` ...{f:5:Beatrice} altının kitabesini çözüp çözemeyeceğimizi görmek için bizi test ediyordu, bu yüzden bilmeceyi çözmeye çalışmamız gerekiyordu.`
+` ...{f:5:Beatrice} altının kitabesini çözüp çözemeyeceğimizi görmek için bizi test ediyordu, bu nedenle bilmeceyi çözmeye çalışmamız gerekiyordu.`
 `Başlangıçta biraz ilgimi çekmişti ve çözmeye çalışmıştım ama o tuhaf paragrafların ne anlama geldiği hakkında en ufak bir fikrim yoktu.`
 `......İçinde bir bilmecenin saklı olduğuna şüphem yoktu ama bunu tesadüfen çözebileceğimi hayal bile edemiyordum.`
 `Kitabenin orta kısmında, ilk alacakaranlıktan onuncu alacakaranlığa kadar Altın Diyar'a yolculuk etmeyi söyleyen satırlar vardı.`
@@ -246,7 +246,7 @@
 `{n}...Odaya göz gezdirdiğimde burada üç kişi olduğumuzu fark ettim, ama nasıl desem, duygularım adeta felç olmuş gibiydi.`
 `...Garip bir şekilde, bunu korkutucu bulmadım.`
 `Maria, vücudumun üst kısmını kanepeye yaslamış, tembel tembel tavana bakmakta olan beni fark etti.`
-`...Görünüşe göre, bilmece çözerken tembellik ettiğimi hissetmişti.`
+`...Görünüşe göre, bilmece çözerken tembellik ettiğimi fark etmişti.`
 `{n}Bana kızdı ve yeterince ciddi olmadığımı söyledi.`
 `"......Hey, Maria."`
 `"Uu...?"`
@@ -329,7 +329,7 @@
 ` ......{f:5:Beatrice} neyin peşinde ki bu suçu işliyor?`
 `Eğer hepimizi katletmek isteseydi, bunu tüm bu çılgın düzeneğe gerek duymadan gizlice yapabilirdi.`
 ` Bu kadar titiz bir ön bilgilendirmeye, kilitli odalar gibi dramatik yöntemlere hiç gerek yoktu.`
-`...Her şey fazlasıyla dramatize edilmiş.`
+`...Her şey fazlasıyla dramatize.`
 `{n}Amacını hiç anlamıyorum.`
 `{f:5:Beatrice}'i açgözlü bir insan suçlu olarak düşünmeye devam ettiğim sürece hiçbir şey anlayamayacak mıyım?`
 `...Onu bir cadı olarak kabul etmezsem, satranç tahtasındaki taşları bile yerlerine yerleştiremeyecek miyim......?`
@@ -366,8 +366,8 @@
 `{n}Maria bir süredir bir şeyler iddia ediyordu.`
 `Eğer cadının bize sunduğu bilmeceyi çözebilirsek, ritüel durdurulacak ve kesinlikle kurtulacaktık.`
 `Ve sanırım {f:5:Beatrice}'in verdiği bir sözü asla bozmayacağını da söylemişti.`
-`......Yani burada tanımlanan kişi Maria'nın kendisi.`
-`{n}Maria asla sözünden dönmez ve onun çok masum bir kalbi vardır...`
+`......Ama burada bahsettiğimiz kişi Maria.`
+`{n}Maria asla sözünden dönmez ve çok masum bir kalbi vardır...`
 `Yani {f:5:Beatrice}'in de sözünden dönmeyeceğine inanıyordu.`
 `{n}Maria buna inanabilirdi.`
 `Ama bu yalnızca Maria'nın hayal ettiği {f:5:Beatrice}'in bir imajı olamaz mı...?`
@@ -399,7 +399,7 @@
 ` Ben bile bazen insanlarla sözleşmeler yapıyorum, ancak tek bir aptalca dileği yerine getirmek için ne kadar katı bir anlaşma yapılması gerektiğini hayal edebileceğinden bile şüpheliyim."`
 `"...Küçük bir boşluk bile olsa, hemen "dilek sayısını yüze çıkar" veya "küçük bir nesneye dönüşmeyi dene" gibi ifadelerde bulunurlar."`
 `"......Babamın bana sık sık söylediği bir şey var.`
-` Sözleşmeler kadar korkutucu bir şey yoktur derdi.`
+` Sözleşmeler kadar korkutucu bir şey olmadığını söyler.`
 ` ......Sözleşmeleri iyice okumadan kabul eden insanların iliklerine kadar kemirilmesinin doğal olduğunu söylerdi.`
 ` ...Kötü yollardan para kazandı."`
 `"............Düşün.`
@@ -555,7 +555,7 @@
 `"Huh?!`
 ` ...............?!?!"`
 `"Orada öylece dikilmek istediğinize emin misiniz...?`
-` Eğer buranın mezarınız olmaya uygun olduğunu düşünüyorsanız, iyi o zaman.`
+` Eğer buranın mezarınız olmaya uygun olduğunu düşünüyorsanız, o zaman iyi.`
 ` *kıKIr*kıKIr*!!`
 ` Eski efendilerinizin yanında kalıp, ölümden sonra bile onlara hizmet etmek istediğiniz için ruhunuzu onurlandıracağım!"`
 `Cadıyı sarmalayan altın kasırga birden patladı.`
@@ -604,7 +604,7 @@
 ` Bilmiyorum, ...bilmiyorum...!!"`
 `"Başka seçenek yok—hadi kıralım!`
 ` Ama bunu pervasızca yapamayız, içindeki aynayı kırabiliriz.`
-` Bunu zorlayarak açmak için herhangi bir alet yok mu...?!`
+` Bunu zorlayarak açabileceğimiz bir alet yok mu...?!`
 ` Kahretsin...!!"`
 `Gohda odanın her yanına bakarak kullanabilecekleri bir alet olup olmadığını bulmaya çalışıyordu.`
 `{n}Ve içeri girdiklerinden beri aralık kalmış olan kapıyı fark etti.`
@@ -813,9 +813,9 @@
 ` George-san ve ben birbirimize aşk yemini ettik.`
 ` Kanıt olarak da, yüzüğü kabul ettim."`
 `"......Böylece, ebedi yeminimiz tamamlanmış oldu!`
-` Kötü büyün ve niyetinle bize ne kadar işkence edersen et, bunu sonsuza kadar asla lekeleyemezsin!!"`
+` Kötü büyün ve niyetinle bize ne kadar işkence edersen et, sonsuzluğu lekeleyemezsin!!"`
 `"......Ha!`
-` Sanki bu temiz ve düzgünmüş gibi şiir okuma!!`
+` Şiir okuyormuş gibi temiz ve düzgün konuşma!!`
 ` Aşk bir şehvettir ve bir shoujo mangasında olduğu gibi sadece güzel kelimelerle açıklanamaz.`
 ` Erkekler senin kokuna kapılıp etrafına toplanan sinekler ve kurtçuklardır.`
 ` Sen bu yaşta bunu hâlâ anlayamıyor musu{-}u{-}u{-}u{-}u{-}u{-}u{-}uun?"`
@@ -837,11 +837,11 @@
 ` senin zayıf direncine kıyasla Parmigiano-Reggiano rendelemek çok daha fazla çaba gerektirirdi`
 ` hiiyahhaaahahaah!!"`
 `Odayı kaplayan altın renkli rüzgâr fırtınası, Shannon ve George'u koruyan sütunun duvarlarını yavaş yavaş kazıyordu.`
-`Parlak kırmızı dalgalanmalar çılgınca dirençin örüntüleri çiziyorlardı ama duvar ikisini de sarmaya başlayıp kırmızı bir çaresizlik duvarına dönüşüyordu...`
+`Parlak kırmızı dalgalanmalar çılgınca direnç örüntüleri çiziyorlardı ama duvar ikisini de sarmaya başlayıp kırmızı bir çaresizlik duvarına dönüşüyordu...`
 `"............George-san, özür dilerim......`
-` .........Sonunda bu...`
+` .........Bu...`
 `......benim için,`
-` ...imkânsızmış........."`
+` ...imkânsız........."`
 `"......Evet... Teşekkür ederim.`
 ` ...Benim uğruma savaştın.`
 ` ...Sadece bu bile beni mutlu ediyor."`
