@@ -14,18 +14,18 @@
 ` ......Bir bayan.`
 `.........Portrenin...`
 `cadısı.`
-`Görünüşe bakılırsa tek taraflı sohbet ediyordu.`
+`Ttek taraflı bir konuşma yapıyor gibi görünüyordu.`
 `Muhtemelen Rosa ile konuşuyordu,`
 ` ama Rosa'nın zihni yoğun bir sis bulutuyla kaplıydı ve ne söylendiğine dair en ufak bir fikri yoktu...`
 `"......Her şey olabilir.`
 ` Arzu ettiğin bir şey varsa, tamamını sana vereceğim.`
 ` Bunu iyi şansının bir ödülü ya da taleplerime karşılık uygun bir değiş tokuş olarak düşünebilirsin."`
 `"Senin için bu o kadar da büyük bir şey olmayabilir.`
-` Ama bu alışveriş benim için o kadar önemli."`
+` Ama bu alışveriş benim için oldukça önemli."`
 `............Neyden...bahsediyor?`
 `...Bilmiyorum,`
 ` ...bilmiyorum.`
-`"Şu var ki, ......{i:benim} bir cadı olduğumu düşünürsek,`
+`"Ancak, ......{i:benim} bir cadı olduğumu düşünürsek,`
 ` yalnızca bir cadının bahşedebileceği bir şey istemenin akıllıca olacağını düşünüyorum."`
 `"Bu nadir bir şans değil mi?`
 ` Altın {f:5:Beatrice} olan benden, gerçekten de bir lütuf alabilirsin, `
@@ -38,7 +38,7 @@
 ` ......Sonuçta, insan dünyasının her zevki para cinsinden ifade edilebilir.`
 ` Başka bir deyişle, altın insan zevkinin bizzat kendisidir."`
 `"Hayal edebiliyor musun?`
-` Yaşadığın sürece bitiremeyeceğin, dağ kadar altın."`
+` Yaşadığın sürece bitiremeyeceğin, altından bir dağ."`
 `Cadı piposunu üfledi ve yedi ayrı renkte duman etrafı kapladı.`
 `Bunu yaptığında, salonun içi...aniden altın külçe yığınlarıyla doldu.`
 `Parlayan altın renkli bir duvar gibi görünüyordu.`
@@ -81,7 +81,7 @@
 `Ah, bu Krauss nii-san'ın sesi.`
 `{n}Krauss nii-san çok yetişkin, yani çok akıllı.`
 `{n}Bu yüzden, aptal çocuk Rosa'dan nefret ederdi.`
-`Çok korkutucu bir insandı. Sık sık dövülürdüm, ve oyuncaklarım elimden alınırdı ve kırılırdı.`
+`Çok korkutucu bir insandı. Bana sık sık vururdu, oyuncaklarımı elimden alır ve kırardı.`
 `Kötü bir şey yaptığım için cezalandırıldığımı söylerdi ama ben ne yaptığımı ya da neden cezalandırıldığımı anlayamazdım.`
 `Her zaman aniden cezalandırılırdım ve sonrasında da yapmacık bir şekilde bunun bir şeyin cezası olduğunu söylerdi,`
 ` ama bu her zaman ne yaptığımı hatırlamadığım bir şeydi.`
@@ -91,7 +91,7 @@
 `Ah, bu Eva nee-san'ın sesi.`
 `{n}Eva nee-san çok yetişkin, yani çok akıllı.`
 `{n}Bu yüzden, aptal çocuk Rosa'dan nefret ederdi.`
-`Çok kurnaz bir insandı. Bana sık sık yalan söylenirdi, ben kandırıldım ve zorbalık görürdüm.`
+`Çok sinsi bir insandı. Bana sık sık yalan söyler, kandırır ve zorbalık yapardı.`
 `Bana bunun aptal olduğum için olduğunu ve aptal insanların kendilerinden daha zeki olanlar tarafından kandırılmasının doğal olduğunu söylerdi.`
 `Bu yüzden Eva nee-san gibi bilge bir insan olmak istedim ve onun söylediklerini dinledim, ancak onun sözünü dinlediğimde nedense birileri bana hep çok kızdı.`
 `......Bu yüzden Eva nee-san'dan gerçekten nefret ederdim.`
@@ -142,7 +142,7 @@
 ` *kıKIr*kıKIr*..."`
 `Cadı parmaklarını şıklattı ve oda hâlâ bir altın dağıyla kaplı olduğundan başka bir dünyadan fırlamış gibi görünse de,`
 ` masanın üzerinde olağanüstü güzellikte bir masa örtüsü belirdi,`
-` ve bir peri masalındaki şatoda verilen bir ziyafetin açılışını andıran şahane yemekler ortaya dizildi.`
+` ve neredeyse bir peri masalındaki şatoda verilen bir ziyafetin açılışını andıran şahane yemekler ortaya dizildi.`
 `Rosa bir an için bunun ne kadar muhteşem olduğuna dair hoş bir şaşkınlık hissetti,`
 ` ...ama aynı zamanda biraz da hayal kırıklığı hissetti.`
 `Çünkü kendini, kardeşleri tarafından zorbalığa uğramanın, ne kadar lezzetli olursa olsun...`
@@ -159,7 +159,7 @@
 ` bu yüzden yiyebilmesinin imkânı yoktu.`
 `Belki onlar da bunu anlamışlardı.`
 `Keçi kafalı hizmetkârlar Rosa'nın yakasına bir peçete bağladılar,`
-` ve kibarca bir kadeh ziyafet öncesi içkiyi Rosa'nın ağzına götürüp içmesine yardım ettiler.`
+` ve kibarca bir kadeh içkiyi Rosa'nın ağzına götürüp içmesine yardım ettiler.`
 `Rosa, bir keresinde yüksek ateş içinde yatarken ağzına pirinç lapası veren yaşlı bir hizmetkârı hatırladı.`
 `Tam olarak içemediğinden dudaklarından aşağı damlıyordu ama güzel kokulu tatlılığın ağzına yayıldığını hissedebiliyordu.`
 `"Tatlı bir aperatif olan Alman yapımı Noble Rot şarabı.`
@@ -168,7 +168,7 @@
 ` Rengi ise tamamen kardeşinin kompresöre konularak elde edilen kanının altın damlalarından geliyor."`
 `"Hığk......?! *öksürük*, *öksürük*......!!"`
 `Rosa şiddetle öksürdü.`
-` Ve yüzünü boyayan parlak kırmızı renk, sanki kan öksürmüş gibi görünmesine neden oldu.`
+` Yüzünü boyayan parlak kırmızı renk, sanki kan öksürmüş gibi görünmesine neden oldu.`
 `"Siyah çay hakkında çok şey biliyorsun, bu yüzden bunun ne anlama geldiğini de biliyor olmalısın, değil mi?`
 ` "Altın damla" son damlayı ifade eder.`
 ` Siyah çayın içindeki en değerli damla olarak bilinir."`
@@ -229,7 +229,7 @@
 `Rosa salatanın içindeki pembe renkli etlerin gerçek içeriğini öğrendiğinde,`
 ` ani bir içgüdüyle adeta bağırsaklarını kusmak istedi.`
 `...Dahası, keçi uşakları bir çatal saplayarak Rosa'nın ağzına götürdüler.`
-`"Kız kardeşinin çatal dilinin tadı nasıl?`
+`"Kız kardeşinin çatallanmış dilinin tadı nasıl?`
 ` Oldukça yumuşak ve büyüleyici olmalı, değil mi?`
 ` *kıKIr*kıKIr*!"`
 `Ağzında nasıl da tatlı, yumuşak ve büyüleyici bir tadı olmalı.`
@@ -300,7 +300,7 @@
 ` Annem dışarıda bir adamla kaldığında, yalnız kaldım ve yaramazlık yapıp odamı dağıttım."`
 `"Kendi başıma aramaya çıktığımda kayboldum, polis beni almak zorunda kaldı ve annemi utandırdım.`
 ` Eve günlerce gelmeyince ağladım ve komşular beni teselli etmek zorunda kaldı ve annemi yine utandırdım."`
-`"Böyle olduğum için, annemin başına bela açıyorum.`
+`"Maria böyle olduğu için, annemin başına bela açıyorum.`
 ` Doğduğum için özür dilerim.`
 ` Bu yüzden Maria, annem için fırında pişmiş lezzetli elmalar olacak."`
 `"Belki de Maria o zaman, annemi ilk defa var olduğu için mutlu edebilir.`
@@ -359,7 +359,7 @@
 ` Birinin seni yemesi hakkında konuşmak için daha on yılın var.`
 ` Ama on yıl sonra, bunu bana söylesen iyi olur. Söz ver."`
 `"......Uu.`
-` Söz."`
+` Söz veriyorum."`
 `"Ba-...Battler-kun...!"`
 `"Beklettiğim için üzgünüm, Rosa Hala.`
 ` Unutmuştum.`

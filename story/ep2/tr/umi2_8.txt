@@ -2,14 +2,14 @@
 `Konukevine kovulan çocuklar ve Nanjo kuzenlerin odasında toplanmış,`
 ` Kumasawa'nın tatlı olarak getirdiği pastayı yiyorlardı.`
 `Hem harikaydı hem de son derece lükstü, kreması da boldu ve meyvelerle nefis bir şekilde süslenmişti,`
-` lezzetli olmasına rağmen, nedense tadı akşam yemeğininki kadar güzel değildi...`
+` lezzetli olmasına rağmen, nedense tadı akşam yemeği kadar güzel değildi...`
 `"Haha, Gohda-san'ın sunumları olmadan tadı o kadar da güzel olmuyor."`
-`"Ve eğer Kumasawa baa-chan'dan tanıtım istesek, anca uskumrudan yapıldığını söyler."`
+`"Ve eğer Kumasawa baa-chan'dan bunu tanıtmasını isteseydik, sadece uskumrudan yapıldığını söyleyecekti."`
 `"Uu?!`
 ` Gerçekten mi?!`
 ` Uskumrudan pasta yapılabiliyor mu?!"`
 `"Hoh-hoh-hoh-ho.`
-` Oh, tanrım, evet, bu pasta da öyle, uskumrunun sıkılmış suyunu un ve yumurtayla karıştırıp pişirdiğinizde yumuşacık oluyor.`
+` Oh, evet, bu pasta da öyle, uskumrunun sıkılmış suyunu un ve yumurtayla karıştırıp pişirdiğinizde yumuşacık oluyor.`
 ` Hoh-hoh-hoh-ho."`
 `"Bu doğru olsaydı inanılmaz olurdu.`
 ` Belki de uskumru pastası Babamın dükkanlarındaki yeni menüde yer alır."`
@@ -22,21 +22,21 @@
 `"Hoh-hoh-hoh-ho!`
 ` Ama çok lezzetli!"`
 `Kumasawa, uzmanlık alanı olan uskumru şakalarıyla ortamı sahiden neşelendiriyordu.`
-` ...Ancak sağanak yağmurun sesi düşüncelerini devamlı gizemli konuğa yöneltti.`
-`Neticede, burada {f:5:Beatrice} ile tanışan tek kişi olduğu için Maria'yı yine sorularla boğdular.`
+` ...Ancak sağanak yağmurun sesi, tüm dikkatlerini gizemli konuğa yöneltiyordu.`
+`Neticede, burada {f:5:Beatrice} ile tanışan tek kişi olduğu için Maria'yı yine soru yağmuruna tuttular.`
 `".........Bu hikâyenin doğru olabileceğine...hiç inancım yoktu."`
 `"Söylediklerinize bakılırsa, inanmıyor olsanız bile Maria'nın bir cadıyla buluştuğunu ilk kez duymuyormuşsunuz gibi duruyor."`
 `"...Evet.`
 ` O yaştaki hayal gücü geniş çocuklar için oldukça tipik bir peri masalı olduğunu düşünmüştüm."`
-`"Gerçeeek!!`
+`"Gerçeek!!`
 ` {f:5:Beatrice} "gerçeeek"!`
 ` Her yıl aile konferansına geldiğimizde Maria onunla buluşuyor ve birlikte oynuyoruz!"`
 `"Bu doğru.`
-` {f:5:Beatrice}-sama genellikle kendini göstermese de,`
-` bazen eşek şakaları yapmak için şıp diye temiz kalpli ve dürüst insanların karşısına çıktığını duymuştum.`
+` {f:5:Beatrice}-sama her ne kadar genellikle kendini göstermese de,`
+` bazen eşek şakaları yapmak için beklenmedik bir şekilde temiz kalpli ve dürüst insanların karşısına çıktığını duymuştum.`
 ` Hoh-hoh-ho."`
 `{f:5:Beatrice}, Rokkenjima cadısıyla ilgili peri masalındaki varlığa atıfta bulunan bir isimdi.`
-`Aile ve hizmetkârlar, Kinzo'yu iyi bir ruh halinde tutabilmek için kuruntularındaki cadı imajını kabul ettiklerinden dolayı,`
+`Aile ve hizmetkârlar, Kinzo'yu iyi bir ruh halinde tutabilmek için kuruntularındaki cadı imajını kabul ettikleri için,`
 ` bu imaj Rokkenjima'nın peri masalı ya da belki de hayalet hikâyesi olarak anılmaya başlandı...`
 `Bu geçmişi bilen aile üyeleri için Altın Cadı masalının pek bir önemi yoktu.`
 ` ...Ancak bunu Kinzo'nun önünde söyleyemezlerdi.`
@@ -58,17 +58,17 @@
 `Bunu itiraf etmek muhtemelen kaba bir davranış olurdu.`
 `George, Maria'nın öğrenmemesi için son derece dikkatli davranırken bunu itiraf etti.`
 `"Başka bir deyişle, ......bir nevi Noel Baba gibi.`
-` Bir çocuğun hayallerini korumak için, ebeveynler birlikte plan yapar ve uykuya dalmış bir çocuğun başucuna hediyeler koydukları hakkında yalan söylerler."`
+` Bir çocuğun hayallerini korumak için, ebeveynler birlikte plan yapar ve uykuya dalmış bir çocuğun başucuna hediyeler koyarak yalan söylerler."`
 `"......Yani, çocukların hayallerini korumak gerekir tabii.`
 ` ...Bana gelince, tabii ki Noel Baba'nın var olmadığını uzun zaman önce öğrendim.`
 ` ......Ama o hayalden uyanmamak sorun olmasaydı, hayatım boyunca buna inanmak isterdim."`
 `"...Dünyanın zor olduğunu bildikleri için,`
-` ...yetişkinler en azından bir çocuğun lekesiz hayallerini korumak isterler."`
+` ...yetişkinler en azından bir çocuğun lekelenmemiş hayallerini korumak isterler."`
 `"Uu!!`
 ` {f:5:Beatrice} gerçek!`
 ` "Gerçeeek"!!!"`
 `"Evet, kesinlikle.`
-` {f:5:Beatrice}-sama gerçekten var, değil mi?`
+` {f:5:Beatrice}-sama gerçekten var.`
 ` Bir süre önce, siyah çay yapmak için uskumru kuruturken, aniden—"`
 `"......İşte, aslında böyle bir şey.`
 ` ...Ya da en azından biz öyle sanıyorduk."`
@@ -86,7 +86,7 @@
 ` ve tüm varsayımları altüst ediyordu...`
 `"......İşte cadı {f:5:Beatrice}-sama'nın bundan ibaret olduğuna inanıyorduk, ama sonra gerçekten de önümüzde belirdi.`
 ` Durum bu mu?"`
-`"Dahası, ailelerimizin yaygarasına bakılırsa, davetli bir misafir değil gibi gözüküyor.`
+`"Dahası, ailelerimizin yaygarasına bakılırsa, davetli bir misafir olmadığı anlaşılıyor.`
 ` ......Bu kulağa ilginç geliyor."`
 `"Aslında {f:5:Beatrice} adında bir kadının var olmadığını söyleyebilmek için hiçbir kanıt yok.`
 ` ......Rudolf Dayımın Şeytan'ın İspatı dediği şey bu.`
@@ -98,7 +98,7 @@
 ` ......Uzun zaman önce Kinzo-san'ın {f:5:Beatrice} adında bir metresi ve ondan gayrimeşru bir çocuğu olup olmadığını öğrenmek istiyorlardı."`
 `"Anlıyorum.`
 ` Ailelerimizin kafaları miras dağılımıyla meşgul.`
-` Yani bir metresin kızı ortaya çıkarsa, bunun onlar için sorun yaratacağı ortada."`
+` Yani bir metresin kızı ortaya çıkarsa, bunun onlar için sorun yaratacağı çok açık."`
 `"Krauss-san ve diğerleri muhtemelen önce Genji-san'a sormuşlardır.`
 ` Ancak Genji-san, Kinzo-san'ın sağ kolu olarak ona sadakat yemini ettiğinden, ...muhtemelen Kinzo-san için benden daha güvenilir bir dosttur."`
 `"......Genji-san'ın onlara bir şey söylediğini zannetmiyorum.`
@@ -110,30 +110,30 @@
 ` ...Hayır, onunla hiç tanışmadım.`
 ` ...Ancak böyle bir kadınla ilişkisi olduğunu Kinzo-san'dan duydum.`
 ` .........Çok uzun zaman önce vefat ettiğini söyledi."`
-`"......Ölmüş.`
+`"......Ölmüş mü?`
 ` ......Peki ondan bir çocuğu oldu mu?"`
 `"Bunu bilmiyorum.`
 ` ......Ama Kinzo-san her zaman {f:5:Beatrice}'i nasıl diriltebileceğini araştırdığını söylüyor."`
 `"...Genellikle bir kişi sevgilisini kaybeder ve sevgilisinden geriye bir çocuk kalırsa, tüm sevgisini o çocuğa yönlendirir.`
-` ......Bu nedenle, doğal olarak Kinzo-san ve {f:5:Beatrice} arasında muhtemelen bir çocuk yoktur diye düşündük..."`
+` ......Bu nedenle, doğal olarak Kinzo-san ve {f:5:Beatrice} arasında muhtemelen bir çocuk olmadığını düşündük..."`
 `"............Hm?`
 ` ....Bu da bizi başka bir Şeytan'ın İspatı ile baş başa bırakıyor."`
 `"......Evet.`
 ` ......Metresinden çocuğu "olmadığını" kanıtlamak imkânsız.`
 ` ......Şimdi gerçekten ortaya çıktığına göre, "olduğunu" varsaymak zorundayız."`
-`"Bu biraz aceleye getirilmiş bir iddia.`
+`"Bu biraz aceleye getirilmiş bir argüman.`
 ` ......Birilerinin Ushiromiya'nın miras meselesiyle ilgili sorunlardan haberdar olması,`
 ` Büyükbabamın uzun zaman önceki metresiyle ilişkisini öğrenmesi,`
 ` ve onun kimliğine bürünerek miras meselesine dahil olmaya çalışması daha gerçekçi."`
 `"......Evet, bu daha gerçekçi.`
 ` ...Ancak, onun gerçekten de izole bir şekilde yaşamış, büyükbaba tarafından unutulmuş,`
 ` ve intikam için geri dönmüş gizli bir çocuk olma ihtimalini de görmezden gelemeyiz, değil mi...?"`
-`"İntikam mııı?!`
+`"İntikam mıı?!`
 ` Bu da nereden çıktı?!"`
 `"Aaah, üzgünüm, üzgünüm...`
 ` Biz erkekler kulağa ilginç gelsin diye olayları dramatize etmeyi severiz.`
-` Çok fazla tuhaf dram dizileri izledim.`
-` Ihihihi!"`
+` Çok fazla tuhaf drama dizisi izledim.`
+` İhihihi!"`
 `Normalde bu ufak bir şaka olurdu.`
 `......Ama kimsenin davet etmediği, kendisine {f:5:Beatrice} diyen gizemli bir konuk,`
 ` aile konferansının yapılacağı gün, yani cadı olmadan bile kan gölüne dönüşme tehlikesi taşıyan miras paylaşımı tartışmasının yapılacağı gün ortaya çıkmıştı.`
@@ -142,8 +142,8 @@
 `"Hahahahaha...`
 ` Anlıyorum, anlıyorum, bu kulağa gerçekten ilginç geliyor.`
 ` Böyle bir konusu olan bir roman okumayı çok isterdim."`
-`"Valla, aslında bunun gerçekte yaşanabileceğini sanmıyorum.`
-` ......Sonuçta şu anda bu adada bir, iki, üç... 18 kişi var, değil mi?"`
+`"Aslında bunun gerçekte yaşanabileceğini sanmıyorum.`
+` ......Sonuçta, şu anda bu adada bir, iki, üç... 18 kişi var, değil mi?"`
 `"Eğer acayip bir şey yaparsa, onu hemen etkisiz hale getirebiliriz.`
 ` Ve tayfun nedeniyle adadan bile ayrılamaz.`
 ` Kısacası, böyle manyakça bir suçu işleyebilmesinin imkânı yok."`
@@ -153,12 +153,12 @@
 `"Hiç sanmıyorum.`
 ` ...Eğer amacı intikam almak olsaydı, kendini göstermeden gizlice gelmesi daha gerçekçi olurdu.`
 ` Tarihi tiyatro oyunları dışında insanların intikam için açıkça ortaya çıktığını pek duymazsınız."`
-`"Ben o kadar emin olmazdım.`
+`"Bunu bilemeyiz.`
 ` İntikam duygulara dayanır, mantığa falan değil.`
-` Ve eğer intikamı bu uğurda canını vermeye razı olacak kadar çok istiyorsa, polisten, insan sayısından ya da çıkış yolu olmamasından korkmayabilir."`
+` Ve eğer intikamı bu uğurda canını vermeye razı olacak kadar çok istiyorsa, polisten, insan sayısından ya da çıkış yolu olmamasından pek korkmayabilir."`
 `"Sorun yok, Jessica-chan.`
 ` Hayal ettiğimiz korkunç şeylerin hiçbiri olmayacak."`
-`"Ihihi!`
+`"İhihi!`
 ` Sanki miras için ailelerimiz arasındaki savaş hiç korkunç değilmiş gibi."`
 `"......Haklısın.`
 ` ...Babam ve Rudolf Amca oldukça güçlüler ve Eva Hala bile dövüş sanatları eğitimi aldı.`
@@ -178,7 +178,7 @@
 `Ani, ürpertici kahkaha hepimizi yerinden sıçrattı.`
 `......Ve bu acayip kahkahanın Maria'dan geldiğini fark ettiğimizde bir kez daha şok olduk.`
 `".........Demek öyle.`
-` ...Senin algın bu, öyle mi Battler?"`
+` ...Senin algılama şeklin bu, öyle mi Battler?"`
 `"Ne-.........Neydi bu?`
 ` Böyle ürkütücü bir şekilde gülme."`
 `"Battler, {f:5:Beatrice}'in varlığını şimdilik kabul ediyorsun.`
@@ -187,15 +187,15 @@
 ` ...19. kişi olan {f:5:Beatrice}'in bir cadı olduğunu kabul etmiyorsun, değil mi...?"`
 `"Bunun için mi hepimizi şoke ettin?`
 ` ......Tabii ki kabul etmiyorum.`
-` {i:Cadı diye bir şey olmadığı bariz}.`
+` {i:Cadı diye bir şey olmadığı çok açık}.`
 ` Cadı gibi davranan bir insan kadından başka bir şey olmasına imkân yok."`
 `"......Kihihihihihihihihihihihihihihi.`
 ` Hmmm...?`
 ` Ne tuhaf, değil mi Battler?`
 ` ......Bu bir Şeytan'ın İspatı değil mi?`
-` ......"Cadı diye bir şey olmadığı bariz" mi?`
-` Ama Battler, sırf bir cadıyla hiç karşılaşmamış olduğun için,`
-` cadıların varlığını inkâr edemeyeceğin anlamına gelmez mi...?"`
+` ......"Cadı diye bir şey olmadığı çok açık" mı?`
+` Ama Battler, sırf bir cadıyla hiç karşılaşmamış olman,`
+` cadıların varlığını inkâr edebileceğin anlamına gelir mi...?"`
 `"...............`
 ` .........Bu doğru.`
 ` ...Bu gerçekten doğru.`
@@ -206,9 +206,9 @@
 ` Nasıl olur da kanıtlayamadığın hâlde cadıların var olmadığını iddia edebiliyorsun...?"`
 `"Çünkü böyle şeyler gerçek değil."`
 `"Kihihihihihihihihihihihihihihihi!`
-` Ve bu Q.E.D. mi?`
+` Ve bu {ruby:Q.E.D.:quod erat demonstrandum} mi?`
 ` Herhangi bir kanıt ya da dayanak olmadan sonuca varılan kanıt?`
-` Cehaletin sorunlarını nasıl rafa koyduklarının klasik bir örneği.`
+` Cehaletin, sorunları nasıl gizlediğinin klasik bir örneği.`
 ` Düşüncelerin fütursuzca rafa kaldırılması.`
 ` Kihihihihihihihi...!"`
 `"Bu durumda, tek bir cevabım var, Maria.`
@@ -294,7 +294,7 @@
 `"Demek öyle.`
 ` ...Yine de, yemek yiyen bir cadı...nedense kulağa pek gerçekçi gelmiyor.`
 ` Belki de bu adadaki cadı efsanesini bilen biri {f:5:Beatrice}'in adını kullanıyordur."`
-`".........Shannon-chan, bence {f:5:Beatrice}'e saygı duymaya başlamışsın ve onu malikânenin koruyucu tanrıçası gibi bir şey olarak görüyormuşsun.`
+`".........Shannon-chan, bence {f:5:Beatrice}'e muhtemelen saygı duymaya başladın ve onu malikânenin koruyucu tanrıçası gibi bir şey olarak görüyorsun.`
 ` Ve gerçekten kendine böyle diyen bir kişi ortaya çıktığında, muhtemelen biraz rahatsız olmuşsundur."`
 `".........`
 ` .........Evet.`
@@ -357,7 +357,7 @@
 ` Seni eşim yapacağım.`
 ` ...Seni başka kimseye vermeyeceğim.`
 ` Seni tamamen benim yapacağım.`
-` ...Yani kimse sakın sana elini sürmesin.`
+` ...Yani kimse sana elini sürmese iyi olur.`
 ` ......Bu yüzüğün anlamı bu.`
 ` ...Hiç şüphesiz."`
 `"Çok teşekkür ederim, George-san.`
@@ -508,7 +508,7 @@
 ` Eğer, eğer o tuhaf şakayı yapmamış olsaydı, Leydi'ye hiç ilgi duymazdım...!!!"`
 `"............{f:5:Beatrice}-sama çok acımasız, değil mi?`
 ` ...Kanon-kun, seni acı gözyaşlarıyla ağlatmak için kaderin ile oyunlar oynadı.`
-` .........Ama cadı bakılırsa planladığı şeyi başaramıyor.`
+` .........Ama cadı muhtemelen planladığı şeyi başaramıyor.`
 ` ...Ne de olsa—"`
 `Aşkı bilmek, seni hayata bağlayan kalıcı bir bağ değildir.`
 ` Hayat yolculuğunda varılması gereken yerdir...`
@@ -553,7 +553,7 @@
 ` Kelimelerini daha dikkatli seç.`
 ` .........O, bu ailenin en onurlu konuğu."`
 `"............B-Biz de kabul ediyoruz.`
-` ...Söylenecek başka bir şey yok."`
+` ...Karşı çıkamam."`
 `"Evet.`
 ` ...Kabul ediyorum.`
 ` .........Kesinlikle hiçbir şikayetim yok.`

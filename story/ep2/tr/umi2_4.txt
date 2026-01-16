@@ -14,12 +14,12 @@
 `Trenin içi tamamen dolu olmasa da neredeyse tüm koltukların dolu olmasına yetecek kadar insan vardı.`
 `Maria oturduğu yerde ayaklarını ileri geri savurarak yaygara koparıyor, Rosa ise kaşlarını çatmış ona bakıyordu.`
 `Rosa ona alçak sesle defalarca durmasını söylemişti ama Maria hiç aldırış etmiyordu.`
-`...Maria bir kez bu hale geldi mi, durumu ne kadar açıklamaya ya da onu sakinleştirmeye çalışırsanız çalışın, dinlemez.`
+`...Maria bir kez bu hale geldi mi, durumu ne kadar açıklamaya ya da onu sakinleştirmeye çalışırsanız çalışın, dinlemiyordu.`
 `Eskiden Rosa böyle zamanlarda Maria'yı şımartır ve ona istediğini verirdi.`
 `Ama muhtemelen sorun da buydu.`
-`Şüphesiz ki küçük Maria gürültülü bir şekilde söylenmeye devam ederse annesinin pes edeceği ve onu dinleyeceği gibi yanlış bir izlenime kapılmıştı.`
-`Rosa bu hatanın farkına bir eğitim kitabı aracılığıyla varmıştı, o zamandan beri sevgili kızını şımartmamak için kalbini katılaştırmıştı...`
-`Fakat, Maria'yla karşılıklı anlayışı giderek zayıflamaya başladı ve kendi güçsüzlüğü yüzünden cesareti gittikçe daha sık kırılmaya başladı...`
+`Şüphesiz ki, küçük Maria gürültülü bir şekilde söylenmeye devam ederse annesinin pes edeceği ve onu dinleyeceği gibi yanlış bir izlenime kapılmıştı.`
+`Rosa bu hatanın farkına bir eğitim kitabı aracılığıyla varmış, o zamandan beri sevgili kızını şımartmamak için kalbini katılaştırmıştı...`
+`Fakat, Maria'yla karşılıklı anlayışı giderek zayıflamaya başladı ve kendi çaresizliği yüzünden cesareti gittikçe daha sık kırılmaya başlamıştı...`
 `"Cadılar Bayramı, Cadılar Bayramı!!`
 ` Şaka mı şeker mi, uu-uu-uu!!"`
 `"Sana şeker falan vermeyeceğim!`
@@ -37,7 +37,7 @@
 `"Sorun değil, hoh-hoh-ho.`
 ` O çok hoş bir genç bayan.`
 ` Kaç yaşında?"`
-`Yaşlı kadının sözlerinde herhangi bir kötü niyet yatmıyor olabilidi.`
+`Yaşlı kadının sözlerinde herhangi bir kötü niyet yatmıyor olabilirdi.`
 `{n}...Ama Rosa bunu son derece aşağılayıcı bir şekilde algılamış gibi görünüyordu.`
 `"Maria! Sana hep yabancılardan şeker almamanı söylüyorum!!"`
 `"Uu!`
@@ -45,7 +45,7 @@
 ` Bunu Maria'ya verdi!!`
 ` Uu-`
 `uu!!`
-` Hayır, o Maria'nın!!"`
+` Hayır, Maria'nın!!"`
 `"Bırak şunu!`
 ` Sana her zaman annenin sözünü dinlemeni söylemiyor muyum?!!"`
 `"Maria'nın!!`
@@ -83,7 +83,7 @@
 ` Uu-uu-uu!!"`
 `"Beni duymuyor musun, sana çeneni kapamanı söylüyorum!!`
 ` Senin "uu-uu" sesin!`
-` Sana onu KESMENİ söylüyorum!!"`
+` Sana şunu KESMENİ söylüyorum!!"`
 `"Anlamıyor musun, işte bu yüzden sınıfta arkadaş edinemiyorsun!!`
 ` Kendine gel!!`
 ` Neden kafanın içinde hep bir anaokulu çocuğu gibisin?!!`
@@ -97,11 +97,11 @@
 ` Anne, acıyor...!`
 ` Anne, kurtar beni, anne, kurtar beni...!`
 ` Uu-uu-uu-uu!!"`
-`"NEDEN şu mızmızlanmanı durduramıyorsun?!!`
+`"NEDEN şu "uu-uu" sesini KESMİYORSUN?!!`
 ` Böyle olduğun için arkadaş edinemiyorsun!!`
 ` Böyle olduğun için baban iş gezisinden hiç dönmüyor!!`
 ` Böyle olduğun için ben...!!"`
-`"A-...Afedersiniz, ...madam, bir sorun mu var...?"`
+`"A-...Afedersiniz, ...bayan, bir sorun mu var...?"`
 `"{i:İstediğin}...{i:bir şey} mi var...?!"`
 `Ona ürkekçe seslenen kişi istasyon görevlisiydi.`
 `{n}Rosa ona "bir anne ve çocuğun sorunlarına burnunu sokma" diyen bir bakış fırlattı.`
@@ -110,7 +110,7 @@
 `...Onun duygu dolu azarlamaları, perondaki yolcuların istasyon görevlisine onunla konuşmanın iyi bir fikir olacağını söylemelerine neden olmuştu.`
 `Rosa istasyon görevlisine bağırarak bir sonraki trene bineceklerini ve onları daha fazla rahatsız etmemesini söyledi.`
 `...Ve sonra, nihayet, ya da belki de ikinci kez demeliyiz, ...Rosa perondaki yolcuların uzaktan kendisine baktıklarını fark etti.`
-`......Rosa biraz terledi; rüzgârın terini soğuttuğunu ve ona eziyet ettiğini hissetti.`
+`......Rosa hafifçe terledi; rüzgârın terini soğuttuğunu ve ona eziyet ettiğini hissetti.`
 `Maria hâlâ ağlıyor, başını korumaya çalışıyordu.`
 `{n}......Hayır—bu dayak durmadığı sürece, muhtemelen sonsuza dek ağlamaya devam edecekti.`
 `"........................`
@@ -178,12 +178,12 @@
 `İkisinin de yüzü hâlâ kıpkırmızıydı,`
 ` ......ama birbirlerine garip bir şekilde gülümseyen anne ve çocuk arasında bir sıcaklık hissedilebiliyordu...`
 `".........Hayatım.`
-` Böyle bir yerde ne işin var?"`
-`"Oh, sensin.`
+` Böyle bir yerde ne yapıyorsun?"`
+`"Sensin demek.`
 ` .........Hiçbir şey.`
 ` Sadece buranın düşünmek için hoş bir yer olduğunu düşündüm."`
 `"...Bugün için tüm hazırlıkları bitirdim.`
-` Şimdilik biraz çay içerek dinlenip bekleyelim mi?"`
+` Şimdilik, dinlenirken biraz çay içerek bekleyelim mi?"`
 `".........Üzgünüm.`
 ` Bütün sorunlarımı hep sana yüklüyorum."`
 `"...Lütfen.`
@@ -206,7 +206,7 @@
 `Büyük bir yatırım büyük bir getiri sağlar,`
 ` ancak büyük tahterevalliler gibi, hemen sonuç göstermek yerine yavaş yavaş hareket ederken sallanırlar.`
 `Yeri geldiğinde tahterevallinin olumlu tarafa daha hızlı eğilmesi için daha fazla yatırım yapardı.`
-`......Doğal olarak bunu yaptı çünkü çok da uzak olmayan bir gelecekte yapmış olduğu tüm yatırımları karşılayacağına güveniyordu.`
+`......Doğal olarak bunu yapıyordu çünkü çok da uzak olmayan bir gelecekte yapmış olduğu tüm yatırımları karşılayacağına güveniyordu.`
 `......Ancak Krauss'un seçtiği tahterevalliler hiçbir zaman onun istediği gibi sonuçlanmadı.`
 `...Öngörüleri yanlış değildi, ......ama zamanlar yavaştı.`
 `{n}Ona hiç yetişemediler.`
@@ -220,7 +220,7 @@
 `Hava gittikçe kötüleşiyor gibi görünüyordu.`
 `{n}Bu yüzden kimse oynamak için dışarı çıkmıyordu.`
 `Ama tahterevalli popüler bir oyun aleti olduğu için mutlaka birileri gelirdi.`
-`...Eğer hava kötüleştiğinden yerini bırakırsa, kesinlikle birileri onun yerini kapacaktı,`
+`...Eğer hava kötüleşiyor diye yerini bıraksaydı, kesinlikle birileri onun yerini kapacaktı,`
 ` ve o da sadece uzaktan, tahterevallide eğlenen bir başkasını imrenerek seyredecekti...`
 `Tahterevallinin bir tarafında, tek başına sabırla beklemeye devam etti...`
 `{n}Krauss'un şu anki girişimi ve durumu buydu.`
@@ -253,7 +253,7 @@
 ` ...O açgözlü kardeşlerin Babamla görüşmesine asla izin vermeyeceğim."`
 `"Merhaba, Gohda burada.`
 ` ......Evet, lütfen bana bırakın!`
-` Yıllık büyük iş için yeteneklerimi ortaya koymaktan endişeliyim."`
+` Yıllık büyük iş için yeteneklerimi ortaya koymak için sabırsızlanıyorum."`
 `Mutfakta çeşitli renklerde malzemeler toplanmış ve ön hazırlıklara çoktan başlanmıştı.`
 `Daha sabah olmasına rağmen, akşam yemeği için gerekli malzemeler tencerelere konmuş ve buharda pişirilmeye başlanmıştı bile.`
 `Normalde Gohda'nın yemek pişirmek dışında çeşitli işlerle uğraşması gerekirdi ama aile toplantısı günü kendini tamamen bu işe adayabilirdi.`
@@ -261,13 +261,13 @@
 `"Evet, akşam yemeğinde mükemmel bir dana bifteği olacak...!`
 ` Harika bir et parçası buzdolabında bu akşam için sabırsızlıkla bekliyor.`
 ` Lütfen diğer hizmetkârlara da bu geceyi iple çekmelerini söyleyin—onları da hayal kırıklığına uğratmayacağım."`
-`Gohda'nın hizmetkâr arkadaşlarına karşı bu kadar keyfi yerinde olması nadir görülen bir durumdu.`
+`Gohda'nın hizmetkâr arkadaşlarına karşı bu kadar iyi bir ruh hali içinde olması nadir görülen bir durumdu.`
 `Sadece Ushiromiya ailesi için çalışan bir şef olmakla övünen Gohda için, aile konferansında yemeklerini sergileme hakkı en büyük onurdu.`
 `"......Tamam.`
 ` Bu işi sana bırakıyorum.`
 ` ...Ayrıca, Kumasawa orada mı?"`
 `"Kumasawa-san mı?`
-` Onu daha önce görmüştüm ama şimdi burada değil.`
+` Onu daha önce görmüştüm ama şu an burada değil.`
 ` Belki de konukevine hazırlık yapmaya gitmiştir."`
 `"......Demek yine aylaklık yapıyor.`
 ` ......Hayır, sorun değil.`
@@ -282,10 +282,10 @@
 `"...Battler-sama'nın altı yıl sonra ilk kez bu yıl geleceğini duydum.`
 ` Sanırım Leydim diğer üç kuzenle birlikte geç saatlere kadar oturmak istiyor.`
 ` ......Hazırlıkları yapın.`
-` Madama söylemenize gerek yok."`
+` Madama söylemenize ihtiyaç yok."`
 `"Anlıyorum.`
 ` Anlaşıldı."`
-`"......Yani bu gece, geç saatlerde vardiyamız olacak ve hemen ardından yarın da sabah vardiyasına geçeceğiz.`
+`"......Yani bu gece, gece vardiyamız olacak ve hemen ardından yarın da sabah vardiyasına geçeceğiz.`
 ` Bu iki gün yorucu olacak gibi görünüyor."`
 `"Bu arada, hava tahminlerine göre bir tayfun tam buraya vuracakmış...`
 ` Bu sorun olacak mı acaba?"`
@@ -360,18 +360,18 @@
 ` ...Bakın, işte geldi."`
 `"Ohoooooooooh!!!`
 ` Bu Rosa-san değil mi!`
-` Maria-chan, görüşmeyeli oldu!!"`
-`"Görüşmeyeli oldu!`
+` Maria-chan, görüşmeyeli uzun zaman oldu!!"`
+`"Görüşmeyeli uzun zaman oldu!`
 ` Uu!"`
 `"Maria!`
-` Bunun "Sizi tekrar görmek güzel" olması gerekmiyor mu?`
+` Bunun "Seni tekrar görmek güzel" olması gerekmiyor mu?`
 ` Enişteni düzgünce selamla."`
 `"Uu.`
-` Sizi...tekrar görmek güzel..."`
+` Seni...tekrar görmek güzel..."`
 `"İşte böyle!`
 ` İyi dedin!`
 ` Ödül olarak biraz şekere ne dersin?!`
-` ......Oh, huh?`
+` ......Oh, hah?`
 ` Nereye koymuştum onları?"`
 `"Rosa-san, seni tekrar görmek güzel.`
 ` Seni görmek de güzel, Maria-chan."`
@@ -439,8 +439,8 @@
 `{n}Şimdi, sanki onlarca yıldır arkadaşlarmış gibi neşeliydi.`
 `"Evet, Japonya'da Cadılar Bayramı küçük bir olay, değil mi...?`
 ` Yurtdışı haberlerinde sık sık kostümle dolaşan insanlar görüyoruz ama ben bunu Japonya'da hiç görmedim."`
-`"Maria da kostüm giymek istedi.`
-` Tüm kuzenlerle birlikte kostüm giyip şaka mı şeker mi yapmak istedim..."`
+`"Maria da kostüm giymek isterdi.`
+` Tüm kuzenlerle birlikte kostüm giyip şaka mı şeker mi yapmak isterdim..."`
 `"Evet, evet. Sonraki sefere ikimiz birlikte yapalım!`
 ` Maria, sen ne olarak dolaşmak isterdin?"`
 `"Cadı!!`
@@ -467,7 +467,7 @@
 ` ......Ya belki onun torunlarından biri aniden ortaya çıkıp bize tahsis edilen altınları iade etmemiz gerektiğini falan söylerse?"`
 `"Hoh‐hoh‐hoh‐ho...`
 ` Krauss-sama ve diğer akrabalar da muhtemelen bu yıl Efendinin mirası konusunu tartışacaklar.`
-` ...Cadının altınları hakkında bu kadar yoğun bir heyecan varken, o altınları bahşeden cadının sonunda ortaya çıkması hiç de garip olacağını sanmıyorum."`
+` ...Cadının altınları hakkında bu kadar yoğun bir heyecan varken, o altınları bahşeden cadının sonunda ortaya çıkmasının hiç de garip olacağını sanmıyorum."`
 `"Kumasawa-san,`
 ` ...sürekli işi bırakıp tekrar işe alınıyorsun ama sen de Genji-san gibi uzun süredir buradasın, değil mi?`
 ` ......{f:5:Beatrice} hakkında daha çok şey biliyorsun, değil mi?"`
@@ -476,10 +476,10 @@
 ` Hatırlamaya çalışsam bile, bu yaşlı kadın daha bu sabah kahvaltıda ne yediğini bile anımsayamıyor..."`
 `"Kumasawa-san, hep bu tür kaçamak cevaplar veriyorsun, ama bir şeyler biliyorsun, değil mi?`
 ` Bazen sende sanki bir şeyler biliyormuşsun da arkamızdan gülüyormuşsun gibi sinsi bir hava seziyorum..."`
-`"Hoh‐hoh‐ho... Bu çok ağır.`
+`"Hoh‐hoh‐ho... Bu çok kırıcı.`
 ` ...Benim hiç sırrım yok.`
 ` ......Söyleyebileceğim tek şey...`
-`{f:5:Beatrice}-sama'nın Altın Cadı olduğu... ve bu adanın gecesini kontrol eden diğer Efendi olduğu."`
+`{f:5:Beatrice}-sama'nın Altın Cadı olduğu... ve bu adanın gecesini kontrol eden diğer bir Efendisi olduğu."`
 `"Evet, şimdi de Büyükbabamın söylediklerini tekrarlıyorsun.`
 ` Para alıyor olsan da Büyükbabamın masallarını sürdürmek zahmetli olmalı."`
 `"......Yine de, şu kadarını söyleyebilirim."`
@@ -493,7 +493,7 @@
 `"Ve gezgin bir dağ keşişi ya da birileri o tapınağı inşa edip ruhları huzura kavuşturduğunda her şey yoluna girdi, değil mi?`
 ` ...Ne şüpheli bir hikâye."`
 `"Bu yaz gecenin karanlığını yırtıp geçen ürkütücü mor bir yıldırım tarafından tapınağın yok edildiği söyleniyor..."`
-`"Kumasawa-san, bu hikâyeleri gerçekten seviyorsun, değil mi?`
+`"Kumasawa-san, bu hikâyeleri gerçekten seviyorsun.`
 ` Elbette, bir yıldırımın ölüleri huzur içinde tutan tapınağı yok etmesi oldukça ürkütücü olurdu.`
 ` Ama zaten oldukça yıpranmıştı.`
 ` Bahse girerim büyük bir dalga tarafından sürüklenmiştir.`
@@ -548,7 +548,7 @@
 ` Kötü haber şu ki, karşı taraf dava açmaya hazırlanıyor.`
 ` Daha birkaç gün önce, benzer bir dava ezici bir çoğunlukla davacının lehine sonuçlandı.`
 ` Sanıklar da aşağı yukarı bizim kullanmayı planladığımız argümanları ileri sürüyorlardı, ancak bunların hepsi reddedildi."`
-`"Bunu söylemekten korkuyorum, ancak şu anda olduğu gibi mahkeme salonuna çıkarsak, iddialarımızın her birinin reddedilmesi ihtimali aşırı yüksek."`
+`"Bunu söylemekten korkuyorum, ancak şu anda olduğu gibi mahkeme salonuna çıkarsak, iddialarımızın her birinin reddedilmesi son derece muhtemel."`
 `"...Yani o duruşma tam bir fiyaskoyla sonuçlandı.`
 ` ......Ve ben de onların pozisyonunun bizimkinden daha sağlam olduğunu düşünüyordum.`
 ` Zor bir durum.`
@@ -658,7 +658,7 @@
 ` ......Tıpkı onun henüz kendini göstermediği gibi."`
 `Kinzo başını kaldırdı ve bakışlarının yönü duvarda saygıyla sergilenen cadı portresine doğru yöneldi...`
 `".................."`
-`Kinzo'nun zihninde, bugünün aile konferansı gününün tüm sevgili ailesinin bir araya geleceği bir gün olduğuna dair hiçbir düşünce yoktu.`
+`Kinzo'nun zihninde, bugünün aile konferansı günü, tüm sevgili ailesinin bir araya geleceği gün olduğuna dair hiçbir düşünce yoktu.`
 `......Kafasında, sadece yağlı boya tablodaki cadının portresinin dışında hiç gülümsemeyen yüzü vardı...`
 `Herkes Kinzo'nun {f:5:Beatrice} hakkında konuşurken, gereksiz yere araya girmenin onun öfkesini kışkırtacağını biliyordu...`
 `"Bugün, ...özel bir ritüel gerçekleştireceğim."`
@@ -671,7 +671,7 @@
 `......Görünüşe göre Kinzo, kendi kaderini belli bir tür risk içeren ihtimallere yatırarak ve riskleri yenerek ortaya çıkan büyü ve mucizelere inanıyordu...`
 `"Kinzo-san, bir zamanlar sana Altın Kumarbaz denilmiş olabilir,`
 ` ama her an öteki dünyaya gidebilecekken, bu yaşlı bedenle ne tür bir kumar oynayacağını hayal dahi edemiyorum...`
-` Sanırım bu görülmeye değer olacak..."`
+` Sanırım bu görülmeye değer..."`
 `"Hmph...`
 ` ......Demek öyle.`
 ` Yani, büyü konusunda bilgisiz olan sana kalsa, derinlemesine araştırdığım bu gizli ritüel bile bir kumar olarak nitelendirilecekti.`
@@ -693,7 +693,7 @@
 ` Altı yıl sonra ilk kez geleceğini duydum.`
 ` Eminim harika bir delikanlı olmuştur."`
 `"............Oh, Battler.`
-` ...Topu topu altı yıldır uzakta olan bir misafiri "uzun zamandır beklenen" olarak tanımlamazdım."`
+` ...Altı yıldır uzakta olan bir misafiri "uzun zamandır beklenen" olarak tanımlamazdım."`
 `Battler'ın adını duyunca, sanki hayal kırıklığına uğramış gibi kötü bir ifade takındı ve Nanjo'ya tekrar sırtını döndü.`
 `"Sanırım bu altı yıl senin için göz açıp kapayıncaya kadar geçti, bu odada araştırmana gömüldün..."`
 `"Hmph.`
@@ -712,7 +712,7 @@
 ` Şu an meşgulüm."`
 `"Ben Genji.`
 ` Aile adaya geldi."`
-`"Peki bunun benle alakası ne?`
+`"Peki bunun benimle alakası ne?`
 ` Onlara çay falan ikram edebilirsin."`
 `"...Anlaşıldı.`
 ` Öyle yapacağım."`

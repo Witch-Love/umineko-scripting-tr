@@ -47,7 +47,7 @@
 `"...............Uzun...`
 `...zaman oldu..."`
 `Kanon konuğa karşı bir nebze de olsa nezaket kurallarını aklından çıkarmamaya çalıştı.`
-`{n}...Fakat bu şüphe uyandıran cadının ziyareti yüzünden kalbini kara bulutlar kaplamaya başlamıştı, tam da aile konferansının yapılacağı bu günde...`
+`{n}...Fakat bu şüpheli cadının ziyareti yüzünden kalbini kara bulutlar kaplamaya başlamıştı ve tam da aile konferansının yapılacağı bu günde...`
 `"Görünüşe göre burada bulunma amacımı öğrenmek için can atıyorsun.`
 ` ......Doğru muyum...?"`
 `"................................."`
@@ -67,13 +67,13 @@
 `"......*kıKIr*kıKIr*kıKIr*kıKIr*!`
 ` Haksız değilsin!`
 ` Cadıların söyleyecek iyi bir şeyleri yoktur.`
-` Doğru söylüyorsun."`
+` Tamamen haklısın."`
 `"Ancak tıpkı makas gibi cadıların potansiyeli de tamamen nasıl kullanıldıklarına bağlıdır.`
 ` ...Bazen Kral Süleyman gibi büyük işler başaran insanlar olur."`
 `".........Elbette, çoğunlukla peri masallarında anlatılanlar gibi iyi bir kaderle karşılaşılmıyor.`
 ` *kıKIr*kıKIr*...!`
 ` .........Ama Kinzo kurnazdır.`
-` Benim faiz tahsilatımı bile kendi ritüelinin parçası haline getirdi."`
+` Benim faiz tahsilatımı bile kendi ritüelinin bir parçası haline getirdi."`
 `"Beni bile aşan muazzam bir büyücü mü?`
 ` ......Yoksa deliliğe kapılmış bir aptal mı?`
 ` ...İlginç.`
@@ -138,9 +138,9 @@
 ` ...Heheheheh, sıradan mobilyalar bunu anlayamazlar—zamanımı boşa harcıyorum."`
 `Kanon cadının söylediklerini anlayamadı.`
 `Ancak, onun insanların kaderlerini bir gösteri olarak gören,`
-` ve onlara bir tür zarar vermekten zevk alan korkunç bir varlık olduğunu yeterince iyi fark etti.`
+` ve onlara bir tür zarar vermekten zevk alan korkunç bir varlık olduğunu yeterince iyi anladı.`
 `......Ancak mobilyaların bir kaderi bırak, ruhu ya da yaşamı bile yoktu.`
-` Zavallı "mobilyalar" dünyadan ayrılacakları güne kadar hizmet etmekten başka bir şey yapmazlar.`
+` Zavallı "mobilyalar" dünyadan ayrılacakları güne kadar hizmet etmekten başka bir şey yapamıyorlardı.`
 `...Böyle mobilyalar için, onları her şeyden kurtarmaya gelen bir cadı, aynı zamanda merhametle dolup taşan bir varlıktı...`
 `Kanon'un sabırsızlıkla beklediği gün gelmiş olmasına rağmen, bunu kolayca kabullenemiyordu ve bu onu çok şaşırtmıştı.`
 `...Neden...?`
@@ -160,15 +160,15 @@
 `Shannon...`
 `......böyle bir şeyi artık memnuniyetle kabul edebilir miydi?`
 `......İmkânsız.`
-` ...Shannon'un geçmeyen pişmanlıkları olurdu.`
+` ...Shannon'un kalıcı pişmanlıkları olacaktı.`
 `{n}......Bu muhtemelen Shannon için büyük bir acı ve eziyet kaynağı olacaktı.`
 `Ve bu pişmanlıklar......... bizzat bu cadı tarafından yerleştirilmişti.`
 `Neden mi?`
-` Çünkü bu "daha ilginç" olur diye......!`
+` Çünkü böylesi "daha ilginç"......!`
 `"......Shannon......bu günü sabırsızlıkla bekliyor olmalıydı, ama şimdi bilmemesi gereken duygulara sahip olduğu için,`
 ` ......muhtemelen çok zor zamanlar geçirmek zorunda kalacak.`
 ` .........Ben...mobilyalar adına serbest bırakılacağımız günü bizlere bahşettiğiniz için teşekkür ederim."`
-`"......Ve...Shannon'un bu günü kabullenmesini güçleştirdiğin için senden nefret ediyorum...!"`
+`"......Ama...Shannon'un bu günü kabullenmesini güçleştirdiğin için senden nefret ediyorum...!"`
 `"Tıpkı Shannon gibi senin de pişmanlıklarından acı duymanı istedim.`
 ` ......Ama sen inatçı bir saflıkla mobilya olarak kalmaya devam ettin ve seni yönlendirmeme asla izin vermedin."`
 `"............Ama, görünüşe göre Shannon'u gereğinden çok seviyorsun, değil mi?`
@@ -186,15 +186,15 @@
 ` .........Diz çök!!"`
 `"Ne-......ne...?!"`
 `"Diz çök ve ayakkabılarımı öp.`
-` .........Aksi takdirde, burayı terk edeceğim.`
-` ...Geri döneceğim ve kendimi sonsuza dek bir daha göstermeyeceğim."`
+` .........Böylece, burayı terk edeceğim.`
+` ...Geri döneceğim ve kendimi sonsuza dek bir daha asla göstermeyeceğim."`
 `"............Ee, Kanon?`
-` Buna dayanabilir misin...?"`
+` Buna katlanabilir misin...?"`
 `".....................khh......"`
 `"Altın Diyar'ın kapısı açılırsa, zorluklarla dolu mobilya yaşamınız sona erecek.`
 ` ......Eğer arzu edersen, sana bir insan hayatı bile verebilirim.`
 ` Böylece Jessica ile aynı seviyede olabilirsin!`
-` Elbette aşkın tadını deneyimlemek istiyorsundur...!"`
+` Elbette aşkın tadını deneyimlemek istiyorsun...!"`
 `".........Bunu saklamaya çalışmanın bir anlamı yok...`
 ` Shannon'un tatlı aşk bataklığında debelenmesini kıskandın.`
 ` ...Aşkın tadını bilmek için can atıyorsun...`
@@ -211,7 +211,7 @@
 ` İkinci alacakaranlıkta, geride kalanlar yakın olan ikisini birbirinden ayıracak..."`
 `Cadı kitabeyi tekrar okumaya başladı.`
 `{n}Çok ani olmuştu ve mevcut konudan çok güçlü bir şekilde uzaklaşmıştı.`
-`Ancak, onun meydan okuyan gülümsemesine bakılınca, kitabeyi Kanon'a karşı tehdit olarak kullanıyor gibi görünüyordu.`
+`Ancak, onun meydan okuyan gülümsemesine bakılınca, sanki bu kitabeyi Kanon'a karşı bir tehdit olarak kullanıyor gibi görünüyordu.`
 `".........Anlamıyor musun?`
 ` ...Kitabenin ritüelinin başarılı olabilmesi için, "ikinci alacakaranlıkta", yakın olan iki kişinin kurban edilmesi gerekir."`
 `"............Yakın olan herhangi iki kişi olabilir.`
@@ -224,7 +224,7 @@
 ` ...Her şeyden vazgeçtiğine ve bugüne kadar bir mobilya gibi yaşadığına inanıyordu, tıpkı bir mobilyanın yaşaması gerektiği gibi.`
 `...Ama gerçekte bu doğru değildi.`
 `Shannon'u çok seviyordu.`
-` ...Ve bu nedenle, Shannon acı çektiğinde Kanon da acısını paylaştı.`
+` ...Ve bu nedenle, Shannon acı çektiğinde Kanon da acısını paylaşmıştı.`
 `Shannon keşke mobilya olarak varlığını sürdürmeye devam edip Kanon gibi kayıtsızca yaşasaydı,`
 ` bu dünyayla hiçbir bağı olmasaydı, bu kadar acı çekmek zorunda kalmazlardı...!`
 `Cadı, aşkın tadını öğrenmiş olan—`
@@ -293,7 +293,7 @@
 ` Al bakalım."`
 `Kumasawa raftan bir battaniye getirdi.`
 `{n}...Geniş salon serin değildi ama hava biraz soğumuştu.`
-`Bu yüzden battaniye Battler'ın üzerine örtüldüğünde, hemen kendini onunla sardı ve kabuğuna çekilen bir kaplumbağa gibi kıvrıldı.`
+`Bu yüzden battaniye Battler'ın üzerine örtüldüğünde, hemen kendini battaniyeye sardı ve kabuğuna çekilen bir kaplumbağa gibi kıvrıldı.`
 `"...Gerçekten uykun var.`
 ` Ne zaman kalkacaksın?`
 ` Seni uyandırırım."`
@@ -314,7 +314,7 @@
 `Kumasawa'dan battaniyeyi aldığında sevinçle ona sarındı ve televizyonun önünde yeniden kamp kurdu.`
 `"Peh.`
 ` ...Biz kuzenler altı yıl sonra nihayet bir araya geldik.`
-` Bu aile konferansının baş konuğu olduğundan haberi yok, değil mi?"`
+` Bu aile konferansının baş konuğu olduğundan hiç mi hiç haberi yok mu?"`
 `"......Seni duyabiliyoruumm...`
 ` ...Güzel ve huzurlu bir öğle yemeği yedim ve dışarıda tayfunla yağmur var.`
 ` ......Yapacak bir şey yok ve bu da şu anlama geliyor: Henüz sıra bana gelmedi."`
@@ -352,7 +352,7 @@
 ` ...O zaman, ......sahneye {i:ne zaman} çıkacaksın......"`
 `Bu durumda, bu sahnedeki ana karakter de {i:kim}...?`
 `".........Sen sadece ne bok istiyorsan onu yapıyorsun!`
-` ...Bu halt da ne böyle?`
+` ...Bütün bu halt da ne böyle?`
 ` ......Bu delilik...!!"`
 `"*kıKIr*kıKIr*kıKIr*kıKIr*...!`
 ` Anlayacağın, beni reddetmek için dayanak olarak kullandığın 18 ve 19 kişi ile ilgili argümanın gerçekten gülünçtü.`
@@ -364,7 +364,7 @@
 ` Böyle bir şeyi...nasıl kabul edebilirim?!`
 ` Bir cadı doğrudan ana kapıdan içeri mi girdi?!`
 ` Tam bir saçmalık!!"`
-`"Bu tavır ne böyle...?`
+`"Problem ne...?`
 ` Önceki oyunda, istediğin zaman ve istediğin şekilde hamle yapmana izin vermedim mi...?`
 ` Benim bu durumda yaptığım tek şey, senin hamlelerine uyacak şekilde bir taşı hareket ettirmek.`
 ` .........Daha ilk turda pes mi ediyorsun...?"`
@@ -509,7 +509,7 @@
 ` Buna gerçekten rakibimizin düşüncelerini tahmin etmek diyemem."`
 `"Hadi ama.`
 ` ...Her zamanki gibi, bu oldukça iyiydi.`
-` .........Artık saldırmak için biraz hareket alanımız olduğunu bildiğimize göre, bu bize biraz rahatlamamız için imkan sağlıyor."`
+` .........Artık saldırmak için biraz hareket alanımız olduğunu bildiğimize göre, bu bize biraz rahatlamamız için imkân sağlıyor."`
 `"Bilmediğimiz şey ise onun Krauss nii-san ile nasıl bağlantılı olduğu.`
 ` ......Bu Krauss nii-san için de bir sürpriz mi, yoksa onu buraya çağıran kişi Krauss nii-san'ın bizzat kendisi mi?"`
 `"......Eğer ikincisiyse, bu durum işleri çok sıkıntılı hale getirebilir."`
@@ -630,7 +630,7 @@
 `......Sonra bir defter çıkardı ve sayfalarını çevirmeye başladı.`
 `Sayfaların çoğu, kelimenin tam anlamıyla karalamalar olan çizimlerle kaplıydı.`
 `Hepsi okült benzeri şeylerdi,`
-` söylemesi sayfaları keyifle çeviren Maria'ya kaba gelebilirdi ama hepsi tüyler ürperticiydi.`
+` ve sayfaları keyifle çeviren Maria'ya kaba gelebilirdi ama hepsi tüyler ürperticiydi.`
 `"Bak! İşte!`
 ` {f:5:Beatrice} bunları benim için çizdi!!`
 ` Uu!!"`
@@ -731,7 +731,7 @@
 ` ...Kihihihihihihihihihi..."`
 `"Şu-`
 `......Şu gülüş.`
-` ......Hiç hoş değil, kes şunu."`
+` ......Hiç tatlı değil, kes şunu."`
 `".........Uu."`
 `"Aklıma gelmişken, Maria sen de bir mektup aldın.`
 ` .........İçinde ne yazıyordu?"`

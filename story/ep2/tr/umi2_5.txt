@@ -6,9 +6,9 @@
 `Ve sabahtan beri iyi anlaştığı Battler, konuyu Maria'nın çok sevdiği Cadılar Bayramı'na getirince, Maria yine enerjik bir şekilde etrafta dolanmaya başladı.`
 `Maria için,`
 ` annesinin ona aldığı o jack-o'-lantern şekerleri muhtemelen en kıymetli hazineydi.`
-`...Görünüşe göre bunlardan birkaç tane almışlardı ve karşılaştığı her insana şaka mı şeker mi diye inatla soruyor, şeker istemek yerine onlara şekeri kendisi veriyordu.`
+`...Görünüşe göre bunlardan birkaç tane almışlardı ve karşılaştığı her insana şaka mı şeker mi diye sorarak onlara şeker veriyordu.`
 `"Maria'nın Cadılar Bayramını neden bu kadar çok sevdiğini merak ediyorum.`
-` Japonlar için bunun hep oldukça alışılmadık bir olay olduğunu düşünüyordum."`
+` Japonlar için bunun hep oldukça alışılmadık bir olay olduğunu düşünmüşümdür."`
 `"Bunun nedeni etrafta kostümlerle dolaşabildikleri bir festival olması değil mi?`
 ` Her zamankinden farklı bir kıyafetle gezinmek eğlenceli olabilir."`
 `"Hmm, ...bunun arkasında biraz daha derin bir sebep olduğunu düşünüyorum.`
@@ -32,12 +32,12 @@
 `...Onu durdurmak için geç kalmışlar gibiydi.`
 `Maria sanki bu soruyu bekliyormuş gibi görünüyordu.`
 `Bir an için mutlu göründükten sonra, ifadesi adeta "Hiçbir şey bilmiyorsun, değil mi?" dercesine biraz acımasızlaştı.`
-`Bu, alanla ilgisi olmayanların favori konusu hakkında saçma bir şey söylemesinden tepesi atan bir düşkücünün ifadesiydi.`
+`Bu, alanla ilgisi olmayan bir yabancının cahilce ifadesine öfkelenen tutkunun dışavurumuydu.`
 `"Uu.`
-` ...Keltlere göre güneşin bir yıl boyunca değişen gücü..`
+` ...Keltlere göre güneşin bir yıl boyunca değişen gücü...`
 `onun doğumunu, büyüme dönemini, yaşlanmasını ve ölümünü ve ardından yeniden dirilişini temsil ederdi."`
 `"Anlıyorum.`
-` İlkbaharda zayıf ve ılık olan güneş büyümeye ve ısınmaya başlar,`
+` İlkbaharda zayıf ve sıcak olan güneş büyümeye ve iyice ısınmaya başlar,`
 ` ve sonra da yavaş yavaş zayıflar ve tükenir... Evet, bunun nasıl güneşin ömrünü tamamlaması olarak düşünülebileceğini anlıyorum."`
 `"Evet.`
 ` Bu yüzden Ekim ayının sonunda güneşin öldüğünü, bedenini ölüler diyarında dinlendirdiğini ve ardından kış gündönümünde yeniden dirildiğini düşünüyorlardı.`
@@ -59,7 +59,7 @@
 `Bunlardan biri de, ürkütücü canavarları taklit etmek ve ruhları korkutmaktı; görünüşe göre bu, ele geçirilmekten kaçınmanın bir yoluydu.`
 `"Böylece bu kısım bir festivale, o da kostümlü bir gösteriye dönüştü.`
 ` ...Maria gerçekten bilgili!"`
-`"......Harbiden de böyle.`
+`"......Harbiden de öyle.`
 ` Ben bile Cadılar Bayramı'nın böyle bir geçmişi olduğunu bilmiyordum."`
 `"Ama tüm bu "şaka mı şeker mi" olayı nereden çıktı?"`
 `Maria o kadar geniş bir bilgi birikimine sahipti ki, bir noktada yetişkinler de kulak misafiri olmaya başlamıştı.`
@@ -179,7 +179,7 @@
 `"P-Peki, ...burada sonsuza dek böyle kal!!`
 ` Sonra da öylece durup cadılar ve Cadılar Bayramı hakkında sonsuza dek mırıldanabilirsin!!"`
 `Rosa, Maria'ya bu sözleri söyledikten sonra Maria'yı arkasında bırakarak konukevine doğru gitti.`
-`...Maria, bu durumda ağlamanın normal olduğunu dahi aklına getiremeden,`
+`...Maria, ağlamayı dahi aklına getiremeden,`
 ` ayaklar altında ezilmiş ve tanınmaz hale gelmiş olan jack-o'-lantern şekerine bakmaya devam etti...`
 `"Oh, Rosa.`
 ` Nerelerdeydin?"`
@@ -258,7 +258,7 @@
 `Kanon, sol eliyle yaptığı yumruğun içinde şiddetli bir acı hissetti.`
 `{n}......Geçmişte {f:5:Beatrice} adında bir cadı ortaya çıkmış, onu ve Shannon'u yoldan çıkarmıştı.`
 `Her zaman kendisini bunun kötü bir rüya olduğuna inandırmaya çalışmıştı.`
-` ......Ancak Shannon onun kesinlikle gerçek bir cadı olduğu konusunda ısrar etti.`
+` ......Ancak Shannon onun kesinlikle gerçek bir cadı olduğu konusunda ısrar etmişti.`
 `Ve sonra, bu yaz.`
 `......Yerel Şinto tanrısının tapınağına yıldırım düşmüş ve bir gece vakti hiçbir iz bırakmadan ortadan kaybolmuştu.`
 `...Shannon'un aynayı kırdığını biliyordu.`
@@ -293,7 +293,7 @@
 `Nanjo, Natsuhi'ye baktı.`
 `{n}Sanki bu konu hakkında konuşurken Natsuhi'yi dikkate almama yetkisine sahip değilmiş gibi.`
 `"Babam hiç olmadığı kadar sağlıklı.`
-` Ona yatalak denmesi kabalığın zirvesi...!"`
+` Ona böyle şeyler söylenmesi kabalığın zirvesi...!"`
 `"Ama sadece üç aylık ömrü kaldı, değil mi?`
 ` Normalde bu, yatağından kalkamadan yitip gitmesi anlamına gelmez mi?`
 ` Değil mi, Doktor Nanjo?"`
@@ -313,7 +313,7 @@
 ` Ya da, Eva-san,`
 ` ......selamlaşma dışında Babamla konuşmak istediğiniz başka bir şey olabilir mi...?"`
 `"..................nn.`
-` ...Hadi ama, neyden bahsediyorsun."`
+` ...Hadi ama, neyden bahsediyorsun?"`
 `"Yeter, Eva.`
 ` Natsuhi-san, bizi affet.`
 ` Eva, sadece kızı olarak Babamın durumu hakkında endişeleniyor.`
@@ -412,7 +412,7 @@
 ` İkimiz de kızları olan anneleriz, bu yüzden bu tür konuşmaları daha sık yapmalıyız.`
 ` Ama her görüştüğümüzde tuhaf şeyler hakkında konuşuyoruz..."`
 `"......Bunun için malikânedeki bu atmosferi suçlayabilirsin.`
-` Bu havayı soluduklarında herkes çok gerginleşiyor.`
+` Bu havayı soluduktan sonra herkes çok gerginleşiyor.`
 ` ......Rosa-san, bir kez olsun, aile konferansında olmadığımız bir zamanda seninle güzel, uzun bir fincan çay içmek istiyorum.`
 ` Ginza'da benim favorim olan harika bir kahve dükkanı var.`
 ` Lütfen en yakın zamanda seni davet etmeme izin ver."`
@@ -447,7 +447,7 @@
 ` Rosa olmadan da devam edebiliriz.`
 ` Elimizdeki konuya dönelim."`
 `".................."`
-`Rosa girişten gül bahçesine doğru koştu.`
+`Rosa girişten gül bahçesine doğru fırladı.`
 `Kapıyı açtığında, yüzüne çarpan rüzgâr esinti denemeyecek kadar şiddetliydi ve ona tayfunun düşündüğünden daha hızlı yaklaştığını söylüyordu.`
 `Tıpkı Kyrie'nin söylediği gibi, küçük yağmur damlacıkları rüzgâra karışmıştı.`
 ` Ayrıca alçak bir gök gürültüsü de vardı.`
@@ -549,7 +549,7 @@
 `Bunu söylerken Maria'nın başını okşadı ve sinsice gülümsedi...`
 `Rosa, Maria'yı mutlu bir şekilde şımartmakta olan kadının adını bilemezdi.`
 ` ...Ancak Maria ilk göründüğü anda ona seslenmişti.`
-`Dolayısıyla, Rosa onunla hiç tanışmamış olmasına ve onun Rosa'ya adını söylememiş olmasına rağmen, Rosa onun adını öğrenebildi.`
+`Dolayısıyla, Rosa onunla hiç tanışmamış olmasına ve onun Rosa'ya adını söylememiş olmasına rağmen, Rosa onun adını öğrenebilmişti.`
 `......Ancak bu ismin Rokkenjima'da ve Ushiromiya ailesinde özel bir anlamı vardı.`
 `......Bu kadar aptalca bir şeyin olmasına imkân yok......!`
 `"{f:5:Beatrice}!`
@@ -559,7 +559,7 @@
 ` Uu!"`
 `"Mm, <Happy Halloween>.`
 ` Hoh, bu benim için mi?`
-` Araf'ın karanlığında kaybolmuş, cennete ya da cehenneme gidemeyen bir adama verilen tek ve biricik ışığın bile böyle bir şekere dönüştürüldüğünde gerçekten büyüleyici gözüküyor."`
+` Araf'ın karanlığında kaybolmuş, cennete ya da cehenneme gidemeyen bir adama verilen tek ve biricik ışığın bile böyle bir şekere dönüştürülmesi gerçekten büyüleyici."`
 `"......Şu anda, hem insanların dünyasından hem de insan olmayanların dünyasından koparılmış bu adada,`
 ` bundan daha uygun bir tatlı olamaz.`
 ` *kıKIr*kıKIr*...!"`
@@ -577,8 +577,8 @@
 ` Şekeri ver."`
 `"Uu!"`
 `Maria şekeri neşeyle uzattı.`
-`......Rosa olanları hayretle izlemekten başka bir şey yapamadı.`
-`{n}...Bu kişi şekerin acınası bir şekilde ayak altında ezildiği gerçeğini Maria'yı tatmin edecek şekilde nasıl görmezden gelebiliyordu...?`
+`......Rosa olanları hayretler içinde izlemekten başka bir şey yapamadı.`
+`{n}...Bu kişi şekerin acınası bir şekilde ayaklar altında ezildiği gerçeğini Maria'yı tatmin edecek şekilde nasıl görmezden gelebiliyordu...?`
 `Maria şekerin eskisi kadar iyi olacak şekilde düzeltebileceğine inanmış gibi görünüyordu.`
 `...Gerçek bir "büyü" olmadan bunun yapılmasına imkân yoktu...!`
 `"Şuna bir bak, oldukça kötü ezilmiş, değil mi?`
