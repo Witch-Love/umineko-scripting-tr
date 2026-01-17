@@ -15,7 +15,7 @@
 ` ......Çok yakında Altın Diyar'ın kapısı...açılacak."`
 `"Şu ürpertici sesle gülmeyi kes!!`
 ` {f:5:Beatrice} nerede?!`
-` Evet, biliyorum, buralarda bir yerde, değil mi?!`
+` Evet, eminim, buralarda bir yerde, değil mi?!`
 ` Biliyorsun, değil mi?!`
 ` Nerede?!"`
 `"Kihihihihihihihihihihihi.`
@@ -27,7 +27,7 @@
 ` ......Aaah, {i:benim} bile neredeyse gülesim geliyor!!`
 ` Bu doğru, o kesinlikle bir cadıydı, kesinlikle bir cadıydı!!`
 ` Ben anlamamıştım, kendine cadı diyen bir insan olduğunu sanmıştım, ama yanılmışım!!!"`
-`"...O gerçekten bir cadıydı!!`
+`"...O gerçekten bir cadıymış!!`
 ` Böyle bir şeye kanmayacağım!!`
 ` Buradasın, değil mi?!`
 ` Çık ortaya, göster kendini!!`
@@ -45,8 +45,8 @@
 ` Hoh, ne zekice bir hamle.`
 ` Dayanıklılık senin, ...hayır, Ushiromiya'ların kanında var."`
 `"......Ne kadar keyifli!`
-` Gerçek anlamda zarif bir gece.`
-` Ku‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"`
+` Gerçek anlamda mükemmel bir gece.`
+` Mu‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"`
 `".........Lordum; {f:5:Beatrice}-sama.`
 ` Çok yakında, ziyafet zamanı gelmiş olacak."`
 `"Şimdiden mi?`
@@ -66,7 +66,7 @@
 ` Önce ben gideceğim.`
 ` Shannon burada olup giyinmene yardım etseydi iyi olurdu ama ne yazık ki artık aramızda değil gibi görünüyor."`
 `"......Onu kullanmak istediğimde hiç ortalıkta olmuyor.`
-` Tamamen kullanışsız.`
+` Tamamen işe yaramaz.`
 ` .........Ancak, sen buraya kadar gelerek iyi ettin.`
 ` ...Mutluyum, dostum."`
 `"......Sözleriniz için minnettarım."`
@@ -88,7 +88,7 @@
 ` Mobilya, sadece moobilyaaa!"`
 `"Kim vücudunu bir mobilyaya göstermekten utanır ki?`
 ` Yani senin yüzünden utanç duymam için hiçbir neden yok.`
-` ...*cackle*cackle*cackle*cackle*cackle*!"`
+` ...*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!"`
 `Cadı ayağa kalktı ve ceketi omuzlarından aşağıya kayarak düştü.`
 `{n}......Ceket arkaya doğru düştü.`
 `Mobilya saygılı bir şekilde giysisini almak için yaklaştığında, cadı ona hafif bir tekme attı ve mobilya devrildi.`
@@ -102,11 +102,11 @@
 ` Hiç hata yapmadan.`
 ` Misafirler bekletiliyor, hemen üstümü değiştir."`
 `"..................Evet..."`
-`"*cackle*cackle*cackle*cackle*cackle*, kakakaka, hah‐hah‐hah‐hah‐hah‐hah‐ha!!`
+`"*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*, kakakaka, hah‐hah‐hah‐hah‐hah‐hah‐ha!!`
 ` Dikkatlice çöz.`
 ` Bu düğmelerin her biri senin gözbebeklerinden daha değerli.`
-` ...Eğer yanlışlıkla birini koparırsan, onun yerine senin bir gözünü dikerim...`
-` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!"`
+` ...Eğer yanlışlıkla birini koparırsan, onun yerine senin gözünü dikerim...`
+` *kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!!"`
 `Giriş, çok sayıda figürle birlikte dolup taşıyordu.`
 `{n}Etrafta uçuşan altın kelebekler altın renginde pırıl pırıl parlıyordu.`
 `Takım elbiseli ve smokinli beyefendiler ve elbiseli hanımefendiler oldukça dostane sohbetler yapıyor gibi görünüyorlardı.`
@@ -114,7 +114,7 @@
 `Ama hepsinin ortak bir özelliği vardı ve bu özellik son derece tuhaftı.`
 `......Çünkü hepsinin...keçi kafası vardı.`
 `Bunun bir maskeli keçi balosu mu,`
-` .........yoksa gerçekten keçi kafaları mı olduğunu söylemek imkânsızdı.`
+` .........yoksa gerçekten keçi kafaları mı olduğunu anlaması imkânsızdı.`
 `...İkincisi saçma bir düşünceydi ama bu tuhaf dünyada hangisinin doğru olduğu konusunda ciddi şüpheler vardı...`
 `Kinzo keçi soyluların arasındaydı ve onları karşılıyordu.`
 `Her biri birer onur konuğu gibi görünüyordu ve Kinzo onları normal davranışlarından beklenmeyecek kadar saygılı bir şekilde karşılıyordu.`
@@ -136,20 +136,20 @@
 `{n}...Zapt edici aletin tek amacı mobilyanın onurunu zedelemekti...`
 `Vücuduna başka bir şey giymesine izin verilmiyordu.`
 `Keçi soyluların arasına karışmış genç kadın keçilerden biri,`
-` mobilya onun önünden geçerken keçi maskesini usulca çıkardı ve içinde hiçbir ışık olmayan gözlerle konuştu.`
+` mobilya onun önünden geçerken keçi maskesini usulca çıkardı ve içinde ışık olmayan gözlerle konuştu.`
 `Bu yüz...uzun saçlı bir genç kıza aitmiş gibi görünüyordu...`
 `"...............Ne kadar acınası."`
-`"Ohh, Leydi {f:5:Bernkastel}.`
+`"Ooo, Leydi {f:5:Bernkastel}.`
 ` Hoş geldin.`
 ` Mobilyamı beğendin mi?"`
-`".........İyi bir zevk."`
+`".........Güzel zevk."`
 `Yalnızca bunu söyledikten sonra, {f:5:Bernkastel} adlı cadı bir kez daha keçi maskesini taktı,`
 ` ve diğer uzun boylu keçilerin gölgeleri arasında kayboldu...`
 `"Ahahahahahahaha...`
 ` Mızıkçı.`
 ` Çok sinirlenmiş."`
 `"Haklısın.`
-` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!"`
+` *kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!"`
 `Genç kadın keçiler kıkırdadı ve cadı bir kez daha tiz bir kahkaha attı.`
 `"Bu gece benim adıma burada toplandığınız için sonsuz teşekkürler!!`
 ` Geçmişten ve günümüzden, doğudan ve batıdan eski dostların bir araya geldiği bu "cadının ziyafetinin" tadını neden doyasıya çıkarmıyoruz...!"`
@@ -210,9 +210,9 @@
 `".........Hmph.`
 ` Demek benim mobilyam olmaya hâlâ uygun değilsin."`
 `"Güzel!`
-` Seni dikkatlice seveceğim türden, sadece bana uygun bir mobilyaya dönüştüreceğim.`
+` Seni dikkatlice sevdiğim türden, sadece bana uygun bir mobilyaya dönüştüreceğim.`
 ` ...Sanırım şimdilik yapabileceğin en iyi şey misafirleri eğlendirmek!"`
-`Keçi soylular çömelmiş mobilyaların etrafını sarmışlardı...`
+`Keçi soylular çömelmiş mobilyanın etrafını sarmışlardı...`
 `{n}Alev alev yanan kan kırmızısı gözleri, kendilerine verilen bu yeni genç yiyecek karşısında duydukları coşkuyu gizleyemiyor gibiydi.`
 `Ve sayısız iğrenç dişin çıktığı ağızlarından salyalar,`
 ` ...ya da belki de az önce yedikleri et ve şarabın artıkları damlıyordu...`
@@ -232,11 +232,11 @@
 ` Tıpkı mantar çıkartıldığında her zaman bir patlama olduğu gibi, bu da kesinlikle ağzından çıkacaktı.`
 `"...G...`
 `......yaa...`
-`ahiiii{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}iiIII!!!"`
+`ahiiii{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}iiİİİ!!!"`
 `{nobreak:{m:-5:—}—}Bir çığlık.`
-`{n}Bu, kendisinin sunulacağı mütevazı ziyafetin başladığının...bir işaretiydi.`
-`"Gyaaaaaaaaaaaaaa`
-`gebu{0}ki{0}kya{0}kya{0}ka{0}ku`
+`{n}Bu, kendisinin sunulacağı mütevazı ziyafetin... başladığının işaretiydi.`
+`"Gıyaaaaaaaaaaaaaa`
+`geüu{0}kı{0}kı{0}kı{0}ka{0}ku`
 `oooo{0}ga{0}a{0}ge{0}o{0}e`
 `oo{0}ooaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
@@ -254,7 +254,7 @@
 `Altın kelebeklerden oluşan bir ordu, sürünen devasa bir el gibi onları kovalıyordu!`
 ` Ve dehşet verici derecede tuhaf görünümlü, keçi başlı gölgemsi figürler onların peşindeydi...!`
 `Gözlerini yormasına gerek yoktu.`
-` Çünkü o alev alev yanan gözler ona yakalanması halinde neler olacağını anlatıyordu.`
+` Çünkü o alev alev yanan gözler ona yakalanırsa neler olacağını anlatıyordu.`
 `"......Anne, bekle,`
 ` Anne, bekle......`
 ` ...Uu-uu,`
@@ -279,7 +279,7 @@
 `{n}Onların şarap şişeleri olduğunu ve ters çevrildiklerinde içlerindeki koyu kırmızı içeriğin hemen dışarı akacağını düşünmüştü!`
 `"Anne!!`
 ` Anneeeeee!!"`
-`Serbest kalan Maria kollarıyla Rosa'ya sarıldı.`
+`Serbest kalan Maria Rosa'ya sarıldı.`
 `Ama takipçiler gelmeye devam ediyordu!`
 ` Artık {y:0:İnsan}{n:0:insan} gibi davranmaktan bile vazgeçmiş olan dev keçi kafalıların gül çalılarının arasından üzerlerine doğru koştuklarını görebiliyorlardı.`
 `Rosa, paltosunun cebinde bulunan fazladan birkaç mermiyi etrafa döktü ve Maria'ya onları yerden almasını söyledi.`
@@ -295,32 +295,32 @@
 ` Annemle birlikte!!`
 ` Uuu!!"`
 `Rosa'nın silahı dört kez kükredi.`
-` Ama yaklaşmakta olan devasa keçilerin göğsüne tam dört el ateş etmiş olmasına rağmen, keçiler irkilmemişti bile!!`
-`Keçiler, devasa gövdeleriyle Rosa ve Maria'yı ezmeyi planlıyorlarmış gibi şiddetli bir güçle koşuyorlardı!!`
+` Ama yaklaşmakta olan devasa keçinin göğsüne tam dört el ateş etmiş olmasına rağmen, keçi irkilmemişti bile!!`
+`Keçi, devasa gövdeleriyle Rosa ve Maria'yı ezmeyi planlıyormuş gibi şiddetli bir güçle koşuyordu!!`
 `"Mermileri yerleştir!!`
 ` Çabuk!!"`
 `"U-uu!!"`
 `Rosa külçenin bulunduğu örtüyü iki eliyle birden kavradı,`
 ` ve külçeyi arkasından sürükleyerek keçiye doğru koşmaya başladı!!`
-` O tuhaf görünümlü devlerden en ufak bir korku bile duymadan!!`
+` O tuhaf görünümlü devden en ufak bir korku bile duymadan!!`
 `Eğer kızımı korumak içinse, cehennemin bile üstesinden gelirim!!`
 `"Size...`
 `altın bir rüyanın neye benzediğini göstereceğiiiiimmmm!!!"`
 `Rosa'nın kükremesi.`
-` Keçi kafaların kükremesi.`
-`Korkunç ağırlıktaki külçe, inanılmaz bir merkezkaç kuvveti ve hız kazandıktan sonra keçi kafasının kafatasına çarptı.`
+` Keçi kafalının kükremesi.`
+`Korkunç ağırlıktaki külçe, inanılmaz bir merkezkaç kuvveti ve hız kazandıktan sonra keçi kafalının kafatasına çarptı.`
 `Rosa cebinden bir dolmakalem çıkardı.`
-` Ama onu ters tutuyordu.`
+` Ama onu bükük şekilde tutuyordu.`
 ` Avucunun içine,`
 ` orta parmağı ile yüzük parmağı arasındaki aralığa yerleştirdi, böylece yumruk yaptığında adeta bir iğne gibi dışarı çıkıyordu.`
-`Keçi kafası öne doğru devrilirken, Rosa yaptığı iğneyi keçi kafasının sol gözüne sapladı.`
-` Keçi kafasının kükremesi bir çığlık mıydı?`
+`Keçi kafası öne doğru devrilirken, Rosa yaptığı iğneyi onun sol gözüne sapladı.`
+` Keçi kafalının kükremesi bir çığlık mıydı?`
 `Ama Rosa'nın kükremesi farklıydı.`
-`Yumruğunu geri çekti ve hâlâ keçi kafasının gözüne saplı olan dolma kaleme yumruk atmaya başladı.`
+`Yumruğunu geri çekti ve hâlâ keçi kafalının gözüne saplı olan dolma kaleme yumruk atmaya başladı.`
 ` Kalemin keskin ucu, kafasının derinliklerine korkunç bir şekilde oyulmuştu...!`
 `"Anne, mermileri doldurdum!!"`
-`"İyi iş!!"`
-`Maria'nın fırlattığı silahı kaptığımda, nihayet devin yere çakılırken çıkardığı gürültülü sesi duydum.`
+`"Aferin!!"`
+`Maria'nın fırlattığı silahı kaptığımda, nihayet devin yere devrilirken çıkardığı gürültülü sesi duydum.`
 `Ancak tam o sırada gül çalılıklarının diğer tarafındaki keçi kafalı takipçilerin sayılarının arttığını gördüm.`
 ` Biraz mesafe kazandım, bu fazlasıyla yeterli!`
 `Silahı ve külçeye sarılı örtüyü tutarak bir kez daha Maria'yla birlikte koştum.`
@@ -328,30 +328,30 @@
 `Neden bir elimi boşaltıp Maria'nın elini tutmuyorum...?!!`
 `Bedenimi koruyan silahı bırakamam.`
 `{n}Geleceğimi koruyan altını bırakamam.`
-`Ama yine de benim {i:geleceğim olan} kızımın elini bırakabilir miyim...?!`
+`Ama buna rağmen, benim {i:geleceğim olan} kızımın elini mi bıraktım...?!`
 `Koş.`
 ` Koş. Koş.`
 `Gül bahçesinden ayrıldı ve ağaçların arasından geçen merdivenlerden aşağı doğru koşmaya başladı.`
 `Ama Rosa biliyordu.`
 ` Korunun içinden geçen bu yol, uzun görünsün diye birçok kez dönüyor ve kıvrılıyordu.`
-` Doğruca ağaçların içinden geçti!`
+` Doğruca ağaçların arasından geçti!`
 `Çocukluğundan beri hep burada oynardı.`
 `{n}Yani biliyordu!`
-`Sahile. Sahile.`
+`Kıyıya. Kıyıya.`
 ` Denize, denize, denize.`
 `Peki ya denize ulaştıktan sonra?`
-`Yüzmekten yüzmekten başka yapacak bir şey yok, Maria yüzemezse, onu yüzerken taşırım!!`
+`Yüzmekten başka yapacak bir şey yok, Maria yüzemezse, onu yüzerken taşırım!!`
 `Bu adada ölümden başka bir şey yok!`
 `"Kya!!!"`
 `"Anneeee?!"`
 `Merdivenlerden hızla koşarak inerken, kötü bir adım attı.`
 `{n}Sol ayak bileğine şiddetli bir ağrı girdi ve zihni tamamen karardı.`
 `Rosa birkaç basamak aşağı düştü ve garip bir açıyla bükülmüş olan ayak bileğine şok içinde baktı.`
-`...Ve külçe ile örtü orada değildi.`
-` Düştüğü anda onu ellerinden kaçırmıştı ve o da karanlığın içinde bir yerlerde kaybolmuştu.`
+`...Ve külçe ile örtü yanında değildi.`
+` Düştüğü sırada onu elinden kaçırmıştı ve o da karanlığın içinde bir yerlerde kaybolmuştu.`
 `Geriye sadece silah kalmıştı.`
 `Yeryüzündeki sarsıntılar giderek yaklaşıyordu.`
-`{n}Keçi kafalarının gelmesi an meselesiydi.`
+`{n}Keçi kafalıların gelmesi an meselesiydi.`
 `Kaç tane olduklarını ya da ne kadar tuhaf görüneceklerini hayal etmek istemiyordu.`
 `Işıl ışıl dans eden altın takipçiler gelmişlerdi.`
 `Altın kelebekler Rosa ve Maria'nın etrafını sarmış, "ödül burada, ödül burada" dercesine parıldıyor ve bağırıyorlardı.`
@@ -361,12 +361,12 @@
 `{n}Altınım vardı, milyonlarca yen değerinde olabilirdi.`
 `Onunla her şeye baştan başlayabilirdim!!`
 ` Yine de düştüm, kaybettim ve hepsi bu değil, kendi hayatım ve hatta Maria'nın hayatı bile tehlikede!!`
-`......Benim hayatım neydi?!!!`
+`......Benim hayatım nasıldı?!!!`
 `Anlayamadığım bir evde doğdum!`
 `{n}Doğduğum günden beri sinir bozucu bir ağabeyim ve ablam var!!`
 `Benim suçum neydi?!`
 `Ne yaparsam yapayım ya da yapmayayım, her zaman başım beladaydı, hep zorbalığa uğradım ve dalga konusu oldum!!`
-` Benim hayatım neydi?!?!`
+` Benim hayatım nasıldı?!?!`
 `"Anne..., Anne, Anne...!!"`
 `"........................"`
 `Rosa'nın kalbindeki kükreme büzüşüp kayboldu.`
@@ -388,7 +388,7 @@
 ` Spor günlerine katıldım,`
 ` veli toplantılarına geldim,`
 ` ...ama ben sadece dışarıya nasıl göründüğümü düşünüyordum ve seni hiç umursamıyordum."`
-`"......Böyle bir anneyle...bile birlikte olmak istediğini mi söylüyorsun......?`
+`"......Böyle bir anneyle bile... birlikte olmak istediğini mi söylüyorsun......?`
 ` Bu kadar...`
 `...kötü bir anne olmama rağmen............!!"`
 `"Hey, Anne.`
@@ -416,7 +416,7 @@
 `Hâlâ Maria'ya sarılan Rosa, bir eliyle silahını doğrulttu.`
 `"Maria, birlikte gidelim.`
 ` Her zaman birlikte.`
-` ...Annenin bir daha asla kaybolmaması için daima beraber olalım..."`
+` ...Annenin bir daha asla yolunu şaşırmaması için daima beraber olalım..."`
 `"Evet...!!`
 ` Yakında birbirimizi görebileceğiz.`
 ` Hep birlikte olacağız..!!`
