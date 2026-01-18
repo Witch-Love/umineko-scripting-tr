@@ -1,0 +1,36 @@
+name: Sync master into branches
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+      - name: Merge master into branches
+        run: |
+          set -e
+
+          TARGET_BRANCHES=$(git for-each-ref --format='%(refname:strip=3)' refs/remotes/origin/dev)
+
+          git fetch origin
+
+          for branch in $TARGET_BRANCHES; do
+            git checkout $branch
+            git pull origin $branch
+
+            git merge origin/master --no-ff -m "Sync: master → ${branch}"
+
+            git push origin $branch
+          done
