@@ -18,26 +18,26 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 1 ✅</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅
-      * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅
-      * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅<sup>1</sup>
+      * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅<sup>1</sup>
+      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅<sup>1</sup>
+      * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅<sup>1</sup>
+      * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅<sup>1</sup>
       * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ✅<sup>1</sup>
-      * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ✅
-      * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ✅
-      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ✅
-      * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ✅
-      * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) ✅
-      * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ✅
-      * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ✅
-      * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ✅
-      * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ✅
-      * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ✅
-      * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ✅
+      * [Chapter 6](../../tree/master/story/ep1/tr/umi1_6.txt) ✅<sup>1</sup>
+      * [Chapter 7](../../tree/master/story/ep1/tr/umi1_7.txt) ✅<sup>1</sup>
+      * [Chapter 8](../../tree/master/story/ep1/tr/umi1_8.txt) ✅<sup>1</sup>
+      * [Chapter 9](../../tree/master/story/ep1/tr/umi1_9.txt) ✅<sup>1</sup>
+      * [Chapter 10](../../tree/master/story/ep1/tr/umi1_10.txt) ✅<sup>1</sup>
+      * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ✅<sup>1</sup>
+      * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ✅<sup>1</sup>
+      * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ✅<sup>1</sup>
+      * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ✅<sup>1</sup>
+      * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ✅<sup>1</sup>
+      * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ✅<sup>1</sup>
       * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ✅
-      * [Chapter 18 (Tea Party)](../../tree/master/story/ep1/tr/umi1_18.txt) ✅
-      * [Chapter 19 (Hidden Tea Party)](../../tree/master/story/ep1/tr/umi1_19.txt) ✅
+      * [Chapter 18 (Tea Party)](../../tree/master/story/ep1/tr/umi1_18.txt) ✅<sup>1</sup>
+      * [Chapter 19 (Hidden Tea Party)](../../tree/master/story/ep1/tr/umi1_19.txt) ✅<sup>1</sup>
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L2-L9) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L296-L303) ✅
@@ -52,28 +52,28 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 2 ✅</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep2/tr/umi2_1.txt) ✅<sup>1</sup>
-      * [Chapter 2](../../tree/master/story/ep2/tr/umi2_2.txt) ✅<sup>1</sup>
-      * [Chapter 3](../../tree/master/story/ep2/tr/umi2_3.txt) ✅
-      * [Chapter 4](../../tree/master/story/ep2/tr/umi2_4.txt) ✅
-      * [Chapter 5](../../tree/master/story/ep2/tr/umi2_5.txt) ✅
-      * [Chapter 6](../../tree/master/story/ep2/tr/umi2_6.txt) ✅
-      * [Chapter 7](../../tree/master/story/ep2/tr/umi2_7.txt) ✅
-      * [Chapter 8](../../tree/master/story/ep2/tr/umi2_8.txt) ✅
-      * [Chapter 9](../../tree/master/story/ep2/tr/umi2_9.txt) ✅
-      * [Chapter 10](../../tree/master/story/ep2/tr/umi2_10.txt) ✅
-      * [Chapter 11](../../tree/master/story/ep2/tr/umi2_11.txt) ✅
-      * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) ✅
-      * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) ✅
-      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ✅
-      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ✅
-      * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ✅
-      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅
-      * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅
-      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep2/tr/umi2_op.txt) ✅<sup>1</sup>
+      * [Chapter 1](../../tree/master/story/ep2/tr/umi2_1.txt) ✅<sup>2</sup>
+      * [Chapter 2](../../tree/master/story/ep2/tr/umi2_2.txt) ✅<sup>2</sup>
+      * [Chapter 3](../../tree/master/story/ep2/tr/umi2_3.txt) ✅<sup>1</sup>
+      * [Chapter 4](../../tree/master/story/ep2/tr/umi2_4.txt) ✅<sup>1</sup>
+      * [Chapter 5](../../tree/master/story/ep2/tr/umi2_5.txt) ✅<sup>1</sup>
+      * [Chapter 6](../../tree/master/story/ep2/tr/umi2_6.txt) ✅<sup>1</sup>
+      * [Chapter 7](../../tree/master/story/ep2/tr/umi2_7.txt) ✅<sup>1</sup>
+      * [Chapter 8](../../tree/master/story/ep2/tr/umi2_8.txt) ✅<sup>1</sup>
+      * [Chapter 9](../../tree/master/story/ep2/tr/umi2_9.txt) ✅<sup>1</sup>
+      * [Chapter 10](../../tree/master/story/ep2/tr/umi2_10.txt) ✅<sup>1</sup>
+      * [Chapter 11](../../tree/master/story/ep2/tr/umi2_11.txt) ✅<sup>1</sup>
+      * [Chapter 12](../../tree/master/story/ep2/tr/umi2_12.txt) ✅<sup>1</sup>
+      * [Chapter 13](../../tree/master/story/ep2/tr/umi2_13.txt) ✅<sup>1</sup>
+      * [Chapter 14](../../tree/master/story/ep2/tr/umi2_14.txt) ✅<sup>1</sup>
+      * [Chapter 15](../../tree/master/story/ep2/tr/umi2_15.txt) ✅<sup>1</sup>
+      * [Chapter 16](../../tree/master/story/ep2/tr/umi2_16.txt) ✅<sup>1</sup>
+      * [Chapter 17](../../tree/master/story/ep2/tr/umi2_17.txt) ✅<sup>1</sup>
+      * [Chapter 18](../../tree/master/story/ep2/tr/umi2_18.txt) ✅<sup>1</sup>
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep2/tr/umi2_19.txt) ✅<sup>1</sup>
          * [Song: Melody](../../../umineko-scripting-tr-files/tree/master/files/video/sub/58_tr.ass) ✅
-      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep2/tr/umi2_20.txt) ✅<sup>1</sup>
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L11-L18) ✅
       * [Tips Texts](../../blob/master/script/tr/menu.txt#L305-L312) ✅
@@ -88,9 +88,9 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 3 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅
-      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ✅
-      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ✅
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅<sup>1</sup>
+      * [Chapter 1](../../tree/master/story/ep3/tr/umi3_1.txt) ✅<sup>1</sup>
+      * [Chapter 2](../../tree/master/story/ep3/tr/umi3_2.txt) ✅<sup>1</sup>
       * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ✅
       * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ✅
       * [Chapter 5](../../tree/master/story/ep3/tr/umi3_5.txt) ✅
