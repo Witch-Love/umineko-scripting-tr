@@ -310,6 +310,6 @@ stralias verification_outdated,"Eski sürüm game.hash dosyası bulundu!{n}"
 stralias verification_end,"Devam etmek için sağ-tık!"
 
 stralias verification_uptodate,"Türkçe oyun versiyonu güncel."
-stralias verification_ancient,"Türkçe oyun versiyonu 1 aydan daha eski.{n}Güncel olmayan bir versiyon kullanıyor olabilirsiniz!{n}Oyunun güncel dosyalarını sitemizden indirebilirsiniz:{n}witch-love.com"
+stralias verification_ancient,"Türkçe oyun versiyonu 3 aydan daha eski.{n}Güncel olmayan bir versiyon kullanıyor olabilirsiniz!{n}Oyunun güncel dosyalarını sitemizden indirebilirsiniz:{n}witch-love.com"
 
 ;--System-text-end--
