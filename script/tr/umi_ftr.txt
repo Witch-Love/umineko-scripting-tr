@@ -33438,10 +33438,10 @@ goto *switch_game_q
 	timestamp %Free1
 
 	border_pad_push 10
-	if releasedate + 2592000 < %Free1 jumpf
+	if releasedate + 7776000 < %Free1 jumpf
 		lsph t_warning_lsp,":s;#86EF9C`{c:86EF9C:{o:10:"+verification_uptodate+"}}",70,920
 	~
-	if releasedate + 2592000 > %Free1 jumpf
+	if releasedate + 7776000 > %Free1 jumpf
 		lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,740
 		debug_string "This release may be outdated, assuming final version"
 	~
