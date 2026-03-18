@@ -18,7 +18,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 1 ✅</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅<sup>1</sup>
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅<sup>2</sup>
       * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅<sup>1</sup>
       * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅<sup>1</sup>
       * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅<sup>1</sup>
