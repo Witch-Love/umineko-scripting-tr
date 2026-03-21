@@ -20,7 +20,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep1/tr/umi1_op.txt) ✅<sup>2</sup>
       * [Chapter 1](../../tree/master/story/ep1/tr/umi1_1.txt) ✅<sup>2</sup>
-      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅<sup>1</sup>
+      * [Chapter 2](../../tree/master/story/ep1/tr/umi1_2.txt) ✅<sup>2</sup>
       * [Chapter 3](../../tree/master/story/ep1/tr/umi1_3.txt) ✅<sup>1</sup>
       * [Chapter 4](../../tree/master/story/ep1/tr/umi1_4.txt) ✅<sup>1</sup>
       * [Chapter 5](../../tree/master/story/ep1/tr/umi1_5.txt) ✅<sup>1</sup>
@@ -32,7 +32,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 11](../../tree/master/story/ep1/tr/umi1_11.txt) ✅<sup>1</sup>
       * [Chapter 12](../../tree/master/story/ep1/tr/umi1_12.txt) ✅<sup>1</sup>
       * [Chapter 13](../../tree/master/story/ep1/tr/umi1_13.txt) ✅<sup>1</sup>
-      * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ✅<sup>1</sup>
+      * [Chapter 14](../../tree/master/story/ep1/tr/umi1_14.txt) ✅<sup>2</sup>
       * [Chapter 15](../../tree/master/story/ep1/tr/umi1_15.txt) ✅<sup>2</sup>
       * [Chapter 16](../../tree/master/story/ep1/tr/umi1_16.txt) ✅<sup>1</sup>
       * [Chapter 17](../../tree/master/story/ep1/tr/umi1_17.txt) ✅
