@@ -1,6 +1,9 @@
 name: Sync master into branches
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
@@ -28,9 +31,12 @@ jobs:
 
           for branch in $TARGET_BRANCHES; do
             git checkout $branch
-            git pull origin $branch
+            git pull --rebase origin $branch
+            if ! git rebase origin/master; then
+              echo "::warning::Conflict on $branch, skipping rebase"
+              git rebase --abort
+              continue
+            fi
 
-            git merge origin/master --no-ff -m "Sync: master → ${branch}"
-
-            git push origin $branch
+            git push --force-with-lease origin $branch
           done
