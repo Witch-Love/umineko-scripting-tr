@@ -30,7 +30,11 @@ jobs:
             git checkout $branch
             git pull origin $branch
 
-            git merge origin/master --no-ff -m "Sync: master → ${branch}"
+            if ! git merge origin/master --no-ff -m "Sync: master → ${branch}"; then
+              echo "::warning::Conflict on $branch, skipped."
+              git merge --abort
+              continue
+            fi
 
             git push origin $branch
           done
