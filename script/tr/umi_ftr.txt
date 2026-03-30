@@ -15153,6 +15153,7 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 	exbtn t_btn_music_lsp,t_btn_music_lsp,"P84"
 	exbtn t_btn_exit_lsp,t_btn_exit_lsp,"P82"
 	spbtn t_trophy_lsp,t_trophy_lsp
+	spbtn t_warning_lsp,t_warning_lsp
 	if %omake = 0 spbtn t_btn_omake_lsp,t_btn_omake_lsp
 	if %omake = 1 spbtn t_btn_omake_lsp,t_btn_omake_end_lsp
 	btntime 30000
@@ -15160,6 +15161,7 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 
 	if %BtnRes = t_btn_start_lsp cell t_btn_start_lsp,1 : print 1 : btndef "" : goto *start_sub_menu
 	if %BtnRes = t_btn_web_lsp seplay 9,1001,100 : menu_window : shell "http://07th-expansion.net"
+	if %BtnRes = t_warning_lsp seplay 9,1001,100 : menu_window : shell "https://witch-love.com"
 	if %BtnRes = t_btn_tea_lsp cell t_btn_tea_lsp,1 : print 1 : btndef "" : goto *tea_sub_menu
 	if %BtnRes = t_btn_ura_tea_lsp cell t_btn_ura_tea_lsp,1 : print 1 : btndef "" : goto *ura_tea_sub_menu
 	if %BtnRes = t_btn_tips_lsp cell t_btn_tips_lsp,1 : print 1 : btndef "" : goto *tips_sub_menu
@@ -33439,10 +33441,10 @@ goto *switch_game_q
 
 	border_pad_push 10
 	if releasedate + 7776000 < %Free1 jumpf
-		lsph t_warning_lsp,":s;#86EF9C`{c:86EF9C:{o:10:"+verification_uptodate+"}}",70,860
+		lsph t_warning_lsp,":s;#46E05F#86EF9C`{o:10:"+verification_uptodate+"}",70,860
 	~
 	if releasedate + 7776000 > %Free1 jumpf
-		lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,740
+		lsph t_warning_lsp,":s;#FF0000#FF6464`{o:10:"+verification_ancient+"}",70,740
 		debug_string "This release may be outdated, assuming final version"
 	~
 	border_pad_pop	

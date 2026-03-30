@@ -103,7 +103,7 @@
 ` Ama bu çok doğal.`
 ` ......Sakin olun.`
 ` ...{f:5:Beatrice} bana bizzat söyledi."`
-`"{i:Tayfun geçip gidene kadar her şeyi halletmiş olacak.}`
+`"{i:Tayfun geçip gidene kadar her şeyi hâlletmiş olacak.}`
 ` Kihihihi`
 `...aah."`
 `"......Maria, aslında konuşkan olmandan hoşlanmıyor değilim ama şimdilik bu konuyu bırakalım.`
@@ -433,7 +433,7 @@
 `Kapı kapandığında otomatik olarak bir takırtı sesi çıkardı.`
 `{n}...Anlıyorum, bu kapı her kapandığında devreye giren otomatik kilit...`
 `Ve bu kapıyı dışarıdan açabilecek sadece iki anahtar vardı ve ikisi de bu odadaydı.`
-` ......Diğer bir deyişle, bu oda "kilitli bir oda" haline gelmişti.`
+` ......Diğer bir deyişle, bu oda "kilitli bir oda" hâline gelmişti.`
 `.........Kepenk, fiş, zincir.`
 `{n}......Ve şimdi de, otomatik kilit.`
 `...Bu dördüncü kapı şimdiye kadarki en görkemli şekilde kilitlenerek, kimsenin itiraz edemeyeceği mükemmel bir kilitli oda meydana getirmişti.`
@@ -450,7 +450,7 @@
 `Büyükbabamın televizyon izleme alışkanlığı olmadığı belli oluyordu; bu odada ne televizyon ne de bir radyo vardı.`
 `......Yarın sabaha kadar yağmurun sesini dinleyerek vakit geçirmekten başka yapacak bir şeyimiz olmayacaktı.`
 `Doktor Nanjo kanepenin önündeki masanın üzerinde duran satranç tahtasına baktı ve mırıldandı...`
-`Görünüşe göre düne kadar Büyükbabam ile oynadığı satranç maçının kısmen sona ermiş haliydi.`
+`Görünüşe göre düne kadar Büyükbabam ile oynadığı satranç maçının kısmen sona ermiş hâliydi.`
 `......Siyah, beyazı oldukça iyi köşeye sıkıştırmıştı ve birkaç hamle içinde şah mat edecek gibi görünüyordu—oyunun sonları.`
 `Şah mata neredeyse ulaşılmış olmasına rağmen,`
 ` ......oyunun sonları aceleye gelmişti,`
@@ -646,7 +646,7 @@
 ` ...Eğer hayatının yarısını araştırmalara harcamak Büyükbabamı hayata döndürdüyse ve sevdiği kadının ruhunun dirildiğine inanmak onun bu yaşa kadar yaşamasını sağladıysa, ...ben de inanacağım."`
 `".........Battler........................"`
 `"...Tek bir kadına duyulan aşk uzun süre devam ettiğinde,`
-` ......çevrenizdekiler tarafından paylaşılır ve gerçeklik haline gelir."`
+` ......çevrenizdekiler tarafından paylaşılır ve gerçeklik hâline gelir."`
 `".........Belki de sadece düşünceli davrandıklarını söyleyebilirsiniz.`
 ` .........Ama tam burada şimdi, ...ben buna büyü demek istiyorum."`
 `"............Bu düşünceli olmak değil.`
@@ -889,11 +889,11 @@
 `......Ama buna rağmen masanın üzerinde bir zarf vardı...?!`
 `"B-......Bu da ne?!?!`
 ` Neler oluyor Maria?!`
-` Bu zarf da nereden geldi?!"`
+` Bu zarf da nerden çıktı?!"`
 `"......Şimdi baktım ve orada duruyordu.`
 ` Uu."`
 `"Ben, ......ben hiçbir şey bilmiyorum, hiçbir şey!!"`
-`"Bu hiç komik değil, burada sadece sekiz kişiyiz!!`
+`"Bu hiç komik değil! Burada sadece sekiz kişiyiz!!`
 ` Dokuzuncu bir kişinin içeri sızabilmesine imkân yok!!`
 ` Portrenin etrafında toplandığımız birkaç saniye boyunca yeterli zaman yoktu, değil mi?!"`
 `"Hepiniz geri çekilin!!!`
@@ -902,15 +902,15 @@
 `Genji-san başını eğmişti ve yüzü ne olup bittiğine dair hiçbir fikri yokmuş gibi görünüyordu...`
 `Tabii ki ben de aynı şekilde hissettim, ......ama çok geçmeden Natsuhi Yengenin vardığı sonuca ben de vardım.`
 `Birkaç saniye öncesine kadar masada böyle bir mektup yoktu...!`
-` Ve bu odaya kimse girmemişti!`
+` Ayrıca bu odaya kimse girmemişti!`
 ` Demek ki aramızdan biri, herkesin portreyle meşgul olduğu birkaç saniyelik boşlukta onu oraya koymuştu...!!!`
 `"Battler-kun, o zarfı aç ve içinde yazanı oku!"`
 `"T-Tabii!!"`
 `Zarfı elime aldım.`
 ` ......Hâlâ balmumuyla mühürlüydü.`
-`İçindekileri görmeden bile, bunun açılmamış ve bilinmeyen bir zarf olduğunu anladım!`
+`İçinde ne yazdığını görmeden bile, bunun açılmamış ve bilinmeyen bir zarf olduğunu anladım!`
 `Mektup açacağıyla uğraşmadan, şiddetle yırtarak açtım ve içindeki mektubu çıkardım.`
-`Yazanlar şöyleydi.`
+`Yazanlar şöyleydi:`
 `{e:070:― Kinzo-sama'nın kitabesinin bilmecesi sizi eğlendiriyor mu?`
 `Hepinizin muhtemelen farkında olduğu gibi, çok kısıtlı bir zamanınız kaldı.`
 `Fırtına geçtikten sonra kaçmak gibi safça umutlardan lütfen vazgeçin.`
@@ -969,7 +969,7 @@
 `{n}Bu muhtemelen şüphelenilen herkesin vereceği normal bir tepkiydi.`
 `Kumasawa da aynıydı.`
 ` Jessica Kanon cinayetiyle ilgili olarak ondan şüphelenmeye başladığından beri tamamen telaşa kapılmıştı.`
-`Genji'nin sakin halinin bu kadar çarpıcı görünmesinin nedeni buydu.`
+`Genji'nin sakin hâlinin bu kadar çarpıcı görünmesinin nedeni buydu.`
 `Natsuhi Yenge tüfeğin namlusunu doğrulttu.`
 `"............Genji.`
 ` Sen Babamın bir numaralı astıydın.`
