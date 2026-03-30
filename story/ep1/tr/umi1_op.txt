@@ -183,7 +183,7 @@
 ` İlk kısım benim soyadım olan "Ushiromiya".`
 ` Şimdiye kadar Japonca telaffuzu oldukça makul.`
 `Sorun benim kendi adım.`
-`{n}.........{p:0:戦人}, "battle" ve "person" kelimelerinden oluşuyor ve "Battler" olarak telaffuz ediliyor.`
+`{n}.........{p:0:戦人}, "{ruby:戦:savaşmak}" ve "{ruby:人:insan}" karakterleriyle yazılıyor ve "Battler" olarak telaffuz ediliyor.`
 `Hepsini bir araya getirdiğinizde Ushiromiya Battler'ı elde ediyorsunuz.`
 `Oldukça çılgınca, değil mi?`
 ` Ailemin beni böyle çağırmaya karar vermesi yeterince çılgınca değilmiş gibi bir devlet memurunun bunu resmileştirmelerine izin vermesi daha da çılgınca.`
