@@ -1,5 +1,5 @@
 `"...Şimdi ne tür bir çay hazırlamalıyım?`
-` Gelmiş geçmiş tüm çay türlerini seçmekte özgürsünüz."`
+` Gelmiş geçmiş tüm çay türlerini seçmekte özgürsün."`
 `"......Kurutulmuş erik çayı.`
 ` ......Kurutulmuş eriklerin bir paketi 200 yen."`
 `"*kıKIr*kıKIr*...!`
@@ -14,8 +14,8 @@
 `".........Yanlış anlıyorsun.`
 ` Ben güçsüzüm.`
 ` Senin gibi, bir insanı yüzlerce kez öldürebilecek korkunç bir güce sahip bir cadının karşısında tamamen güçsüzüm."`
-`"Sizin gibi "güçsüz" bir cadının, kimsenin yaklaşamayacağı bir güce sahip olması gerçekten dehşet verici.`
-` Ne de olsa Büyük Cadı Leydi {f:5:Lambdadelta}'yı tek başına tahttan indirdiniz."`
+`"Senin gibi "güçsüz" bir cadının, kimsenin yaklaşamayacağı bir güce sahip olması gerçekten dehşet verici.`
+` Ne de olsa Büyük Cadı Leydi {f:5:Lambdadelta}'yı tek başına tahttan indirdin."`
 `"......Dayanıklılık müsabakasından galip çıktım yalnızca.`
 ` O sıkıldığı içindi."`
 `"Leydi {f:5:Lambdadelta} öyle demedi ama.`
@@ -26,13 +26,13 @@
 ` Tıpkı 1'i kaça bölersen böl, asla 0'a ulaşamayacağın gibi."`
 `"O kız bunu giderek "neredeyse sıfıra" yaklaştıracak ve "fiilen mutlak kesinliğe" yol açacak güce sahip.`
 ` ......Umarım bir daha asla böyle korkunç bir cadıyla savaşmak zorunda kalmam."`
-`"Ancak, siz de "olasılıklar sıfır olmadığı sürece" kesinlikle başarıya ulaşma gücüne sahipsiniz.`
-` ......Bu dünyada "mutlak" diye bir şey olmadığını söylemenize rağmen, siz de "mutlak" bir güce sahipsiniz.`
+`"Ancak, sen de "olasılıklar sıfır olmadığı sürece" kesinlikle başarıya ulaşma gücüne sahipsin.`
+` ......Bu dünyada "mutlak" diye bir şey olmadığını söylemene rağmen, sen de "mutlak" bir güce sahipsin.`
 ` ......Ne korkutucu, ne korkutucu, *kıKIr*kıKIr*kıKIr*...!"`
 `"......Bir insanı "sonsuza dek" öldürme gücü...`
 ` ...Bence sen daha korkunçsun."`
-`"Şaka yapıyorsunuz.`
-` ......Sizinkinin yanında benimki önemsiz bir güç.`
+`"Şaka yapıyorsun.`
+` ......Seninkinin yanında benimki önemsiz bir güç.`
 ` Boş övgü dedikleri bu olsa gerek."`
 `"......Burada bulunmamın karşılığı diyelim.`
 ` ...Ben kakeralar arasında gezen, sıkıntıdan kaçan bir gezginim.`
@@ -41,14 +41,14 @@
 `"*kıKIr*kıKIr*...!`
 ` Büyük Leydi {f:5:Bernkastel}'i gözlemci olarak ağırlamaktan, {f:5:Beatrice} olarak derin ve alçakgönüllü bir mutluluk duyuyorum.`
 ` *kıKIr*kıKIr*!`
-` Peki, düşünceleriniz nedir?"`
+` Peki, düşüncelerin nedir?"`
 `"............{f:5:Lambdadelta} oldukça acımasız ve korkunç olmasına karşın anlayabildiğim bir kızdı.`
 ` ...Sen ilk bakışta sevecen görünsen de seni hiç anlayamıyorum.`
 ` Bu yüzden ondan daha korkutucusun."`
 `"*kıKIr*kıKIr*kıKIr*...!`
 ` Döneklik doğamda var.`
-` Beni affedin.`
-` ...Üstelik, dönek zarlara kaderinizi emanet etmek sizin de sevdiğiniz bir şey değil mi,—Leydi {f:5:Bernkastel}?"`
+` Beni affet.`
+` ...Üstelik, dönek zarlara kaderini emanet etmek senin de sevdiğin bir şey değil mi,—Leydi {f:5:Bernkastel}?"`
 `"......Zarı attığımda, açıkça elde etmek istediğim bir yüzey var.`
 ` Senin aksine.`
 ` Fakat sen, bütün yüzeylere kendini hazırlıyorsun."`
@@ -69,11 +69,11 @@
 ` Can sıkıntısı, beni öldürebilecek tek zehir.`
 ` ......Bu yüzden beni öldürme, olur mu?`
 ` Sonsuz Cadı, Leydi {f:5:Beatrice}."`
-`"Eğer dileğiniz buysa ben, {f:5:Beatrice}, sizi çok daha fazla eğlendireceğim."`
+`"Eğer dileğin buysa ben, {f:5:Beatrice}, seni çok daha fazla eğlendireceğim."`
 `"......O hâlde, derhal bir sonraki satranç tahtasını getirmem daha iyi olmaz mı?`
-` Sizin için de, çayınızdan ziyade hikâyeyi tazelemem daha uygun olacaktır."`
+` Senin için de, çayından ziyade hikâyeyi tazelemem daha uygun olacaktır."`
 `"................................."`
-`"Kısa bir süre bekleyin.`
+`"Kısa bir süre bekle.`
 ` ......*kıKIr*kıKIr*!"`
 `............Baş belası olsa da senden hoşlanmış gibi görünüyor.`
 `Sana gücümü ödünç vermeyi gerçekten çok isterdim ama az önce duyduğun gibi, o kızın gücü ile benimki çok kötü bir eşleşmeye sahip.`
