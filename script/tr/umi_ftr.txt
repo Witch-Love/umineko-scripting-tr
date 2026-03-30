@@ -15279,8 +15279,7 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 
 		if %enable_cache == 0 goto *skip_load_ru
 
-		if %CHIRU_MODE = 0 cache_img 0,msgwnd_wnd
-		if %CHIRU_MODE = 1 cache_img 0,msgwnd_wnd_ep5
+		cache_img 0,msgwnd_wnd
 		cache_img 0,"graphics\system\wnd\msgwnd2.png"
 		cache_img 0,"graphics\system\wnd\msgwnd3.png"
 		cache_img 0,"graphics\system\wnd\msgwnd4.png"
