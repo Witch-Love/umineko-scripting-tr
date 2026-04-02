@@ -782,11 +782,11 @@
 ` Sakutaro cansız bir varlık değil, o bir aslan yavrusu."`
 `‘Uryuu!’`
 `"Hmm......`
-` ......Pelüş bir oyuncak, bir ruh kabı olmaya oldukça uygun.`
+` ......Pelüş bir oyuncak, bir ruhun bedeni olmaya oldukça uygun.`
 ` Bu nedenle, toksin taşımayan masum bir çocuğun seslenmesiyle, buna karşılık vermek isteyen bir ruhun içine yerleşmesi hiç de nadir değildir."`
 `{f:5:Beatrice}'in dediğine göre, bir çocuk "oyuncaklarla oynadığında",`
 ` oyuncakların bazen bilinç kazanıp onunla konuştukları, hatta kendi başlarına hareket ettikleri bile olurmuş.`
-`Fakat, o kaba aşılayabildikleri güç, masumiyetlerinden ötürü oldukça zayıf olurmuş.`
+`Fakat, o bedene aşılayabildikleri güç, masumiyetlerinden ötürü oldukça zayıf olurmuş.`
 `"Oyuncaklar konuşamaz, hareket edemez" gibi {y:0:İnsan}{n:0:insan} mantığının toksinleri ufacık bile işin içine girdiği an,`
 ` oyuncak, konuşamayan sıradan bir oyuncak olmaya geri dönermiş......`
 `"Ancak, ......senin bu...Sakutarou adlı pelüş oyuncağın farklı."`
@@ -800,7 +800,7 @@
 `‘Uryu‐uryu‐uryuu!’`
 `{f:5:Beatrice}, üzeri çayla dolu masada neşeyle Sakutaro'yla oynayan Maria'ya hayretle bakmış, şaşkınlıkla nefes vermişti.`
 `".........Ne kadar acayip.`
-` Şu "Sakutarou", özünde kumaş ve pamuktan bir kap olmasına karşın insan dünyasında tamamen tecelli etmiş.`
+` Şu "Sakutarou", özünde kumaş ve pamuktan bir bedene sahip olmasına karşın insan dünyasında tamamen tezahür etmiş.`
 ` Kendi kişiliği var ve onu çağıran kişiyle konuşuyor,`
 ` {i:hatta kendi hür iradesiyle hareket ediyor}."`
 `"......Üstelik daha da şaşırtıcı olan şey, onun başka bir dünyadan çağrılmış biri değil,`
@@ -813,17 +813,17 @@
 `"............Maria.`
 ` Senin bu gücün, hiç şüphesiz büyü."`
 `"Büyü mü......?`
-` Ama Maria daha sadece bir cadı öğrencisi, büyü falan kullanamaz ki..."`
+` Ama Maria daha sadece bir cadı çırağı, büyü falan kullanamaz ki..."`
 `"Hayır, büyü.`
-` .........Onu bilinçli kullanamadığın için henüz bir öğrenci olsan da,`
+` .........Onu bilinçli kullanamadığın için henüz bir çırak olsan da,`
 ` ......yine de bu, çok büyük bir büyü gücü!`
-` Arkadaşın Sakutarou'nun tecelli etmesi bile bunun harika bir kanıtıdır."`
-`"Te...selli mi...?"`
+` Arkadaşın Sakutarou'nun tezahür etmesi bile bunun harika bir kanıtıdır."`
+`"Te...zahürat mı...?"`
 `"Hıhı.`
 ` Senin durumunda, buna yaratmak da diyebiliriz.`
 ` ......Başka birinin elinde hiçbir ruh taşımayacak cansız bir varlık, senin büyünle bir ruha sahip oldu."`
 `"Üstelik onu muazzam bir güçle insan dünyasında tutuyorsun.`
-` ......Böylesine büyü karşıtı toksinle dolu günümüz dünyasında, bir yaşam formunu tecelli edecek seviyede bir büyü, benim için bile kolay bir şey değil."`
+` ......Böylesine büyü karşıtı toksinle dolu günümüz dünyasında, bir yaşam formunu tezahür edecek seviyede bir büyü, benim için bile kolay bir şey değil."`
 `Konu ruhsuz varlıklar olduğunda, onlardan sayısız miktarda yaratmak zor olmazdı.`
 `{n}Ancak ruha sahip varlıklar yaratmak aşırı zor bir şeydi.`
 `{n}...Beato bunu net bir şekilde açıkladı.`
@@ -841,7 +841,7 @@
 `"......1'i 100 yapmak kolaydır.`
 ` Ancak, 0'dan 1'i yaratmak kolay değildir.`
 ` ...Sen tam bir cadı olduğunda, benimle boy ölçüşmeni geçtim, kendimden üstün göreceğim bir Büyük Cadı olman olası."`
-`"Köken Cadısı, belki de.`
+`"Kökenlerin Cadısı, belki de.`
 ` .........Senin geleceğini görmeyi ben de iple çekiyorum."`
 `"Uu!`
 ` Beato bende cadılık yeteneği olduğunu söyledi~!"`
@@ -862,7 +862,7 @@
 `"Bir cadının hediyesi, büyülü bir şey olmalıdır.`
 ` Bu durumda, arkadaşının daima arkadaşın olarak kalabilmesi, ve seninle daha fazla oyun oynayabilmesi için..."`
 `"Sakutarou'ya büyü gücümü vermeliyim.`
-` Bununla, çok daha güçlü bir şekilde tecelli edebilecektir."`
+` Bununla, çok daha güçlü bir şekilde tezahür edebilecektir."`
 `"Uu?`
 ` Sakutaro'yla çok daha fazla eğlenip oyun mu oynayacağız...?`
 ` Ama nasıl?"`
@@ -874,7 +874,7 @@
 ` Değil mi, {f:5:Beatriceee}?!"`
 `"Hıhı.`
 ` Eminim beğeneceksindir.`
-` .........O hâlde...çok daha güçlü tecelli etmen için, çok daha güçlü bir imaj gerekli.`
+` .........O hâlde...çok daha güçlü tezahür etmen için, çok daha güçlü bir imaj gerekli.`
 ` .........Bakalım, bakalım, ne yapsak ki.`
 ` Hmmmmmmmmmm..."`
 `Beato kollarını kavuşturdu ve ne yaparak onları olabildiğince mutlu edebileceğini düşündü.`
@@ -920,18 +920,18 @@
 ` Artık sana şeker vermeyeceğim."`
 `"Kuhhyahhyahhya, üzgünüm, üzgünüm.`
 ` .........Pekâlâ, Maria.`
-` Büyü kitabını çıkar bakalım.`
+` {ruby:büyü kitabı:Grimoire}'ını çıkar bakalım.`
 ` Tabii, yazma gereçlerini de."`
 `"Uu?`
 ` Tamam, çıkarıyorum.`
 ` Bir şey mi yazacağız?"`
 `"......Amanın, ne işler peşindesin?"`
 `"Senden öğrendiğim bir büyüyü kullanacağım, Usta.`
-` .........Bir kabın içinde başka bir dünyanın sakinini tecelli ettirme büyüsü."`
-`"Onu uygulayarak, Maria'nın arkadaşını tecelli ettiren gücünü daha da güçlendirebileceğimi düşünüyorum.`
+` .........Bir bedenin içinde başka bir dünyanın sakinini tezahür ettirme büyüsü."`
+`"Onu uygulayarak, Maria'nın arkadaşını tezahür ettiren gücünü daha da güçlendirebileceğimi düşünüyorum.`
 ` ......Bunu Maria ve Maria'nın arkadaşına hediye etmek istiyorum."`
 `"Anladım.`
-` ...Çoktan tecelli etmiş bir varlık için pek de zor olmayacaktır.`
+` ...Çoktan tezahür etmiş bir varlık için pek de zor olmayacaktır.`
 ` Bunun harika bir hediye olacağı aşikâr.`
 ` O hâlde, ben de az da olsa yardım edeyim."`
 `"Bu, Ustamın şahit olmaya imza atacağı bir büyü demek, cesaretlendim...!`
@@ -944,9 +944,9 @@
 `"Bilmiyorum.`
 ` Ama korkunç olmayacağını düşünüyorum.`
 ` ......Acaba ne, heyecan verici, değil mi?"`
-`Beato, Maria'nın çantasından büyü kitabını ödünç aldı ve sayfaları görkemli bir şekilde birbiri ardına çevirdi.`
+`Beato, Maria'nın çantasından grimoire'ını ödünç aldı ve sayfaları görkemli bir şekilde birbiri ardına çevirdi.`
 `......Çeşit çeşit büyülü çemberin çizili olduğu sayfaların arasından boş bir sayfa buldu ve genişçe açtı.`
-`Ve, Sakutarou'ya doğru alaycı bir sırıtmayla baktıktan sonra hızlıca kalemini oynatmaya başladı.`
+`Ve, Sakutarou'ya doğru alaycı bir sırıtış attıktan sonra hızlıca kalemini oynatmaya başladı.`
 `......Bu, cadıların üst boyuttaki dünyaya ithafen yazdığı bir bildirge gibi bir şeydi.`
 `{f:5:Beatrice}'in yazması ve {f:5:Virgilia}'nın şahitlik ettiğini imzalaması üzerine etkisini gösterecek bir büyüydü.`
 `En başta Beato'nun ne yazmakta olduğunu idrak edemeyen Maria, bir süre sonra o dokümanın taşıdığı olağanüstü büyü gücünü fark etmiş ve göz bebekleri parıldamaya başlamıştı...`
@@ -975,10 +975,10 @@
 ` ......Adımla, bu ahde şahitlik ediyor ve kabul ediyorum.`
 ` .........Tamamlandı."`
 `{f:5:Virgilia} imzasını atarak bildirgeyi tamamladı.`
-`Bu, Sakutarou'nun insan dünyasında gerçekten tecelli edeceğini üst boyuttaki dünyanın varlıklarına bildiren güçlü bir dokümandı.`
+`Bu, Sakutarou'nun insan dünyasında gerçekten tezahür edeceğini üst boyuttaki dünyanın varlıklarına bildiren güçlü bir dokümandı.`
 `Maria tarafından yaratılan Sakutarou, iki cadı, {f:5:Beatrice} ve {f:5:Virgilia} tarafından tavsiye edilmiş,`
 ` ve tam şu anda, üst boyuttaki dünya onun varlığını kabul etmişti.`
-`......İşte bu, muazzam tecelli büyüsüydü.`
+`......İşte bu, muazzam tezahür büyüsüydü.`
 `Beato'nun söylediğin göre, {f:5:Virgilia}'nın burada olması çok büyük bir şanstı.`
 `Çünkü üst boyuttaki dünyaya yolladıkları dokümanın barındırdığı güç, onu imzalayan cadıların sayısına ve rütbelerine göre büyük oranda değişkenlik gösterirdi.`
 `Üstelik {f:5:Virgilia}'nın üst boyuttaki dünyada çokça arkadaşı vardı,`
@@ -1017,30 +1017,30 @@
 ` Bu harika hediye için gerçekten çok teşekkürler!!"`
 `"Teşekküre lüzum yok.`
 ` Muazzam büyüne ve arkadaşına saygımın bir göstergesiydi."`
-`".........Ve, artık bu seviyeye eriştikten sonra, her an öğrencilikten mezun olman garip olmazdı.`
+`".........Ve, artık bu seviyeye eriştikten sonra, her an çıraklıktan mezun olman garip olmazdı.`
 ` Bugünden itibaren sana daha fazla yeni ve eğlenceli büyü öğreteceğim."`
-`"......Şu andan itibaren kendine Köken Cadılığı Öğrencisi {f:5:Maria} diyebilirsin."`
-`"Köken Cadısı mı...?"`
+`"......Şu andan itibaren kendine Kökenlerin Cadılığı Çırağı {f:5:Maria} diyebilirsin."`
+`"Kökenlerin Cadısı mı...?"`
 `"Hıhı.`
 ` Yaratıcı olmaya göz koyan cadıların ünvanıdır.`
 ` Şu anda yalnızca etrafındaki küçük şeylere büyü üfleyecek kadar gücü olan bir Büyücüsün."`
 `"......Ancak, bin yıllık bir eğitim süreci geçirirsen, kendi büyü {i:kitabın} bir yana, galaksi yaratman bile imkânsız değildir."`
-`"......Köken Cadılığı yeteneği oldukça nadirdir.`
+`"......Kökenlerin Cadılığı yeteneği oldukça nadirdir.`
 ` Gençlik döneminde herkes ona sahip olsa da kimse ona sahip olmayı sürdüremez.`
 ` ......Bu ünvan, aynı zamanda kalbinin paklığını kaybetmediğinin de kanıtıdır."`
 `"Uu!!`
-` Köken Cadısı, harika!`
+` Kökenlerin Cadısı, harika!`
 ` Olacağım!`
-` Maria, Köken Cadılığı Öğrencisiii!"`
+` Maria, Kökenlerin Cadılığı Çırağıııı!"`
 `‘Maria, bu harika, bu harika...!`
-` Köken Cadısı, harika, harika, uryuu!’`
-`"En nihayetinde, kendine gerçek Köken Cadısı—Leydi {f:5:Maria} diyeceksin.`
+` Kökenlerin Cadısı, harika, harika, uryuu!’`
+`"En nihayetinde, kendine gerçek Kökenlerin Cadısı—Leydi {f:5:Maria} diyeceksin.`
 ` ......Yalnızca Sakutarou'ya değil, artık sana da rütbene yaraşır bir kılık vermeliyiz."`
 `".........İşte.`
-` Öğrenci olmasına karşın kendine cadı demeye lâyık birine yaraşır kıyafetler bahşedeceğim."`
+` Çırak olmasına karşın kendine cadı demeye lâyık birine yaraşır kıyafetler bahşedeceğim."`
 `Beato, asası olan pipoyu salladığında,`
 ` aniden ortaya çıkan sayısız altın kelebek Maria'yı sarmalamış, ona harika bir elbise bahşetmişlerdi.`
-`Bu, hiç şüphesiz bir gün Köken Cadısı ünvanına sahip olacak kıza yakışır, tatlılık ve ihtişamla taçlandırılmış bir elbiseydi...`
+`Bu, hiç şüphesiz bir gün Kökenlerin Cadısı ünvanına sahip olacak kıza yakışır, tatlılık ve ihtişamla taçlandırılmış bir elbiseydi...`
 `"Harika...!!`
 ` Harika harika harika harika!!`
 ` Çok tatlı, çok tatlı!`
@@ -1049,7 +1049,7 @@
 `"Cadı kıyafetini gelişigüzel bir şekilde göstermek olmaz.`
 ` Önemli anlara saklaman kıymetini arttırır.`
 ` *kıKIr*!"`
-`Sonrasında Büyük Cadı, cadı, öğrenci cadı ve yeni arkadaşları Sakutarou, şen şakrak bir şekilde çaylarının tadını çıkardı......`
+`Sonrasında Büyük Cadı, cadı, çırak cadı ve yeni arkadaşları Sakutarou, şen şakrak bir şekilde çaylarının tadını çıkardı......`
 `".........Gördün mü?`
 ` Böylesine mutluyum işte.`
 ` Ve böylesine eğleniyorum."`
@@ -1068,7 +1068,7 @@
 ` Ve sen de kullanabiliyordun.`
 ` Unuttun mu......?"`
 `"..........................."`
-`"Ange, sen de Mariage Sorcière'de ismi geçen bir öğrenci cadı değil miydin?"`
+`"Ange, sen de Mariage Sorcière'de ismi geçen bir çırak cadı değil miydin?"`
 `"............Evet.`
 ` Öyleydi galiba.`
 ` .........Mariage Sorcière,`
