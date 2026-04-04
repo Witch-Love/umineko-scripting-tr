@@ -407,12 +407,12 @@
 `{f:5:Virgilia} ve Ronove'nin kıkır kıkır gülüşmeleriyle,`
 ` {f:5:Beatrice}'in gıcıklık ölçeri sınırına ulaşmıştı.`
 `"Gaah, ikiniz birlik olup bana gülüyorsunuz!`
-` Ronove, bir süreliğine yok ol!`
+` Ronove, bir süreliğine formunu sil!`
 ` Hemen toz ol karşımdan!"`
 `"Anlaşılmıştır.`
 ` O halde, ben bir süre dinleneceğim.`
 ` Pukukukuku..."`
-`Ronove, hala gülmekte iken başını eğdi ve yok oldu.`
+`Ronove, hala gülmekte iken başını eğdi ve formunu sildi.`
 `Geriye yalnızca huysuz ve sinirli {f:5:Beatrice},`
 ` ve serinkanlılıkla çayını yudumlayan {f:5:Virgilia} kalmıştı.`
 `"..............."{p:1:Bu adada 18'den fazla insan yok}" diye verdiğin kırmızı gerçek, aslında kendini köşeye sıkıştırmana sebep oldu."`

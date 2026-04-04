@@ -824,8 +824,8 @@
 `"............Özellikle söyleyecek bir şeyim yok.`
 ` Sen bunu eğlenceli buluyorsan, istediğin kadar izlemeye devam edebilirsin.`
 ` ...Bitince beni çağır.`
-` O zamana kadar ben de varlığımı sileceğim."`
-`Battler'ın izinden giden {f:5:Virgilia}, kendini karanlığa sakladı.`
+` O zamana kadar ben de formumu sileceğim."`
+`Battler'ın izinden giden {f:5:Virgilia}, karanlığın içine daldı.`
 `Orada tek başına kalan Beato'nun, neler olup bittiğine dair en ufak bir fikri yoktu ve kendisinin kötü adam yerine konduğunu hissediyordu.`
 `"..............................`
 ` ......Ne var ki?`
@@ -853,7 +853,7 @@
 ` Sen de kaybolsana?!!`
 `"Pekâlâ, anlaşılmıştır.`
 ` ......O halde, izninizle."`
-`Ronove bile kendini karanlığa saklamış, Beato yalnız kalmıştı.`
+`Ronove bile karanlığın arasına dalmış, Beato yalnız kalmıştı.`
 `Yağmurlu gül bahçesinde tek bir kişi vardı.`
 `Kimse yalnız bir cadı ile oynamaz.`
 `Kimse onunla oynamadığı için o, yalnız bir cadı olur.`
@@ -1045,7 +1045,7 @@
 ` ......Elinden geleni yapmalısın.`
 ` Seni izliyor olacağım."`
 `Sonuna kadar kararsız davranan Beato, ona sadece bunları iletti,`
-` ve bir altın kelebek sürüsüne dönüşüp gözden kayboldu.`
+` ve bir altın kelebek sürüsüne dönüşüp formunu sildi.`
 ` Konuşmayı sürdürmekte zorlandığı için aceleyle ortadan kaybolduğunu söylemek daha uygun olabilirdi.`
 `Bunun sonucunda geriye kalanlar, üzerinde yağmur damlaları biriktiren Maria,`
 ` ve çite saplanmış halde gökyüzünü seyreden Rosa'nın cesetleriydi.`
@@ -1056,4 +1056,4 @@
 `{n}...Muhtemelen dilini şaklatıyordu.`
 `".................................`
 ` ...........................Ne sıkıcı biri."`
-`Bu son cümleyi geride bıraktı, ve o da sırra kadem bastı......`
+`Bu son cümleyi geride bırakarak o da formunu sildi......`
