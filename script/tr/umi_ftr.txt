@@ -1321,6 +1321,7 @@ numalias r_clear_lsp,%0  : inc %0 ;Show the background
 numalias r_system_lsp,%0 : inc %0 ;Go to the title screen
 numalias r_info_lsp,%0   : inc %0 ;Info text
 numalias r_bg_lsp,%0     : inc %0
+numalias r_wlrep_lsp,%0     : inc %0 ;Witch love report
 numalias r_used_lsp,%0			  ;Cleaner (last lsp from 100 to r_used_lsp)
 
 ;Character state array initialization
@@ -3943,6 +3944,7 @@ return
 	lsp r_logs_lsp2,r_click_buttons_logs,50,450	;6
 	lsp r_clear_lsp,r_click_buttons_clear,50,530	;7
 	lsp r_system_lsp,r_click_buttons_system,50,610	;8
+	lsp r_wlrep_lsp,r_click_buttons_wlrep,50,730	;9
 	lsp name_chapter_r_click,$name_chapter_r_click,0,0
 
 	gosub *rmenu_draw_time 
@@ -3969,6 +3971,7 @@ return
 		
 		spbtn r_clear_lsp,r_clear_lsp
 		spbtn r_system_lsp,r_system_lsp
+		spbtn r_wlrep_lsp,r_wlrep_lsp
 
 	*rmenu_btlp2
 		if %skip_flg == off gosub *rmenu_draw_time 
@@ -3988,6 +3991,7 @@ return
 		if %BtnRes = r_tips_lsp2 && %scenario_Number = 8 seplay 9,1001,100 : gosub *r_image_cleanup : mov %r_display,2 : gosub *rmenu_main : goto *r_exit2
 		if %BtnRes = r_tips_lsp2 seplay 9,1001,100 : gosub *r_image_cleanup : mov %r_display,1 : gosub *rmenu_main : goto *r_exit2
 		if %BtnRes = r_logs_lsp2 seplay 9,1001,100 : gosub *r_image_cleanup : mov %r_display,3 : gosub *rmenu_lookback : mov %r_display,0 : goto *rmenu_btlp_exit
+		if %BtnRes = r_wlrep_lsp seplay 9,1001,100 : getlog2 $wl_rep_lasttext : shell "https://witch-love.com/umineko/contributing/report/?chapter=" + $name_chapter_save + "&version=" + wl_rep_gameversion + "&text=" + $wl_rep_lasttext
 		; Right click
 		if %BtnRes = -1 gosub *menu_rain_unpause : goto *rmenu_btlp_exit
 		; Esc key (if useescspc) -- which doesn't seem to be set?
@@ -15161,7 +15165,7 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 
 	if %BtnRes = t_btn_start_lsp cell t_btn_start_lsp,1 : print 1 : btndef "" : goto *start_sub_menu
 	if %BtnRes = t_btn_web_lsp seplay 9,1001,100 : menu_window : shell "http://07th-expansion.net"
-	if %BtnRes = t_warning_lsp seplay 9,1001,100 : menu_window : shell "https://witch-love.com"
+	if %BtnRes = t_warning_lsp seplay 9,1001,100 : menu_window : shell "https://witch-love.com/umineko/checkversion/?currentversion=" + wl_rep_gameversion
 	if %BtnRes = t_btn_tea_lsp cell t_btn_tea_lsp,1 : print 1 : btndef "" : goto *tea_sub_menu
 	if %BtnRes = t_btn_ura_tea_lsp cell t_btn_ura_tea_lsp,1 : print 1 : btndef "" : goto *ura_tea_sub_menu
 	if %BtnRes = t_btn_tips_lsp cell t_btn_tips_lsp,1 : print 1 : btndef "" : goto *tips_sub_menu
@@ -17239,48 +17243,56 @@ if %scenario_Number = 8 goto *umi8_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o1
  if %UMINEKOEND >= 11 || $flag_scenario_1_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi1_op
 
 *umi2_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o2
  if %UMINEKOEND >= 21 || $flag_scenario_2_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi2_op
 
 *umi3_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o3
  if %UMINEKOEND >= 31 || $flag_scenario_3_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi3_op
 
 *umi4_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o4
  if %UMINEKOEND >= 41 || $flag_scenario_4_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi4_op
  
 *umi5_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o_chiru
  if %UMINEKOEND >= 51 || $flag_scenario_5_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi5_op
 
 *umi6_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o_chiru
  if %UMINEKOEND >= 61 || $flag_scenario_6_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi6_op
 
 *umi7_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o_chiru
  if %UMINEKOEND >= 71 || $flag_scenario_7_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi7_op
 
 *umi8_standby
  if %omake = 1 gosub *jump_sysdata_set1 : goto *o_chiru
  if %UMINEKOEND >= 81 || $flag_scenario_8_op == "●" goto *scenario_jump_q
  gosub *jump_sysdata_set1
+ gosub *witchlove_text
  goto *umi8_op
 
 ;***********************************************************
@@ -17328,14 +17340,14 @@ goto *scenario_jump_q3
 
 *scenario_start    ;Start from the beginning of the scenario
 	;Scenario start confirmation
-	if %scenario_Number = 1 gosub *jump_sysdata_set1 : goto *umi1_op ;Scenario 1 Obtain basic data
-	if %scenario_Number = 2 gosub *jump_sysdata_set1 : goto *umi2_op ;Scenario 2 Obtain basic data
-	if %scenario_Number = 3 gosub *jump_sysdata_set1 : goto *umi3_op ;Scenario 3 Obtain basic data
-	if %scenario_Number = 4 gosub *jump_sysdata_set1 : goto *umi4_op ;Scenario 4 Obtain basic data
-	if %scenario_Number = 5 gosub *jump_sysdata_set1 : goto *umi5_op ;Scenario 5 Obtain basic data
-	if %scenario_Number = 6 gosub *jump_sysdata_set1 : goto *umi6_op ;Scenario 6 Obtain basic data
-	if %scenario_Number = 7 gosub *jump_sysdata_set1 : goto *umi7_op ;Scenario 7 Obtain basic data
-	if %scenario_Number = 8 gosub *jump_sysdata_set1 : goto *umi8_op ;Scenario 8 Obtain basic data
+	if %scenario_Number = 1 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi1_op ;Scenario 1 Obtain basic data
+	if %scenario_Number = 2 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi2_op ;Scenario 2 Obtain basic data
+	if %scenario_Number = 3 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi3_op ;Scenario 3 Obtain basic data
+	if %scenario_Number = 4 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi4_op ;Scenario 4 Obtain basic data
+	if %scenario_Number = 5 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi5_op ;Scenario 5 Obtain basic data
+	if %scenario_Number = 6 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi6_op ;Scenario 6 Obtain basic data
+	if %scenario_Number = 7 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi7_op ;Scenario 7 Obtain basic data
+	if %scenario_Number = 8 gosub *jump_sysdata_set1 : gosub *witchlove_text : goto *umi8_op ;Scenario 8 Obtain basic data
 
 
 ;--------------------------------------------
@@ -18494,7 +18506,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi1_op_flags : skip_on : goto *umi1_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi1_op_flags : skip_on : gosub *witchlove_text : goto *umi1_op
 	if %BtnRes = 2 gosub *scenario_jump_hiduke_1986_10_4 : display_clock2 960,540,65,0,8*60,0,0 : gosub *scenario_jump_exit_efe1 : gosub *umi1_1_flags : skip_on : goto *umi1_1
 	if %BtnRes = 3 gosub *scenario_jump_hiduke_1986_10_4 : display_clock2 960,540,65,0,10*60+30,0,0 : gosub *scenario_jump_exit_efe1 : gosub *umi1_2_flags : skip_on : goto *umi1_2
 	if %BtnRes = 4 gosub *scenario_jump_hiduke_1986_10_4 : display_clock2 960,540,65,0,12*60,0,0 : gosub *scenario_jump_exit_efe1 : gosub *umi1_3_flags : skip_on : goto *umi1_3
@@ -18525,7 +18537,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi2_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : gosub *witchlove_text : goto *umi2_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi2_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi2_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi2_3
@@ -18555,7 +18567,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi3_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : gosub *witchlove_text : goto *umi3_op
 	if %BtnRes = 2 gosub *scenario_jump_hiduke_1986_10_4 : *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi3_1
 	if %BtnRes = 3 gosub *scenario_jump_hiduke_1986_10_4 : display_clock2 960,540,65,0,14*60,0,0 : gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi3_2
 	if %BtnRes = 4 gosub *scenario_jump_hiduke_1986_10_4 : display_clock2 960,540,65,0,20*60,0,0 : gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi3_3
@@ -18585,7 +18597,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi4_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : gosub *witchlove_text : goto *umi4_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi4_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi4_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi4_3
@@ -18616,7 +18628,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi5_op_flags : skip_on : goto *umi5_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi5_op_flags : skip_on : gosub *witchlove_text : goto *umi5_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : gosub *umi5_1_flags : skip_on : goto *umi5_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : gosub *umi5_2_flags : skip_on : goto *umi5_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : gosub *umi5_3_flags : skip_on : goto *umi5_3
@@ -18645,7 +18657,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi6_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : gosub *witchlove_text : goto *umi6_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on :  goto *umi6_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on :  goto *umi6_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on :  goto *umi6_3
@@ -18675,7 +18687,7 @@ return
 
 	skip_off
 
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : goto *umi7_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *jump_sysdata_set1 : skip_on : gosub *witchlove_text : goto *umi7_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 :gosub *jump_sysdata_set1 : skip_on : goto *umi7_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 :gosub *jump_sysdata_set1 : skip_on : goto *umi7_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 :gosub *jump_sysdata_set1 : skip_on : goto *umi7_3
@@ -18730,7 +18742,7 @@ return
 	~
 
 	; Flags call ep8 varset, ensuring that we correctly initialize the ep8 variables according to the provided choice vector
-	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi8_op_flags : skip_on : goto *umi8_op
+	if %BtnRes = 1 gosub *scenario_jump_exit_efe1 : gosub *umi8_op_flags : skip_on : gosub *witchlove_text : goto *umi8_op
 	if %BtnRes = 2 gosub *scenario_jump_exit_efe1 : gosub *umi8_1_flags : skip_on : goto *umi8_1
 	if %BtnRes = 3 gosub *scenario_jump_exit_efe1 : gosub *umi8_2_flags : skip_on : goto *umi8_2
 	if %BtnRes = 4 gosub *scenario_jump_exit_efe1 : gosub *umi8_3_flags : skip_on : goto *umi8_3
@@ -18749,6 +18761,25 @@ return
 	if %BtnRes = 17 gosub *scenario_jump_exit_efe1 : gosub *umi8_16_flags : skip_on : goto *umi8_16
 
 ;----------------------------------------
+
+*witchlove_text
+	textoff
+	waits 1500
+	lbg s0_3,"black"
+	flush 2
+	wait 1500
+	seplay 1,1010,70
+	textoff
+	waits 167
+	lbg s0_3,"witchlove_text"
+	flush 2
+	wait 12000
+	textoff
+	waits 167
+	lbg s0_3,"black"
+	flush 2
+	wait 500
+return
 
 *scenario_jump_hiduke_1986_10_4
 	csp_rst
@@ -30951,46 +30982,46 @@ lsp backlogupbtn,":a/2,0,3;graphics\system\wnd\uoncur.png",1827,210
 lsp backlogdownbtn,":a/2,0,3;graphics\system\wnd\uoffcur.png",1827,839
 lsph 317,":a/2,0,3;graphics\menu\trophy\bgs\lock.png",0,0
 if %CHIRU_MODE != 0 jumpf
-lsph2 400,":a/2,0,3;graphics\menu\trophy\bgs\000.png",0,0
-lsph2 401,":a/2,0,3;graphics\menu\trophy\bgs\001.png",0,0
-lsph2 402,":a/2,0,3;graphics\menu\trophy\bgs\002.png",0,0
-lsph2 403,":a/2,0,3;graphics\menu\trophy\bgs\003.png",0,0
-lsph2 404,":a/2,0,3;graphics\menu\trophy\bgs\004.png",0,0
-lsph2 405,":a/2,0,3;graphics\menu\trophy\bgs\005.png",0,0
-lsph2 406,":a/2,0,3;graphics\menu\trophy\bgs\006.png",0,0
-lsph2 407,":a/2,0,3;graphics\menu\trophy\bgs\007.png",0,0
-lsph2 408,":a/2,0,3;graphics\menu\trophy\bgs\008.png",0,0
-lsph2 409,":a/2,0,3;graphics\menu\trophy\bgs\009.png",0,0
-lsph2 410,":a/2,0,3;graphics\menu\trophy\bgs\010.png",0,0
-lsph2 411,":a/2,0,3;graphics\menu\trophy\bgs\011.png",0,0
-lsph2 412,":a/2,0,3;graphics\menu\trophy\bgs\012.png",0,0
-lsph2 413,":a/2,0,3;graphics\menu\trophy\bgs\013.png",0,0
-lsph2 414,":a/2,0,3;graphics\menu\trophy\bgs\014.png",0,0
-lsph2 415,":a/2,0,3;graphics\menu\trophy\bgs\015.png",0,0
-lsph2 416,":a/2,0,3;graphics\menu\trophy\bgs\016.png",0,0
-lsph2 417,":a/2,0,3;graphics\menu\trophy\bgs\017.png",0,0
-lsph2 418,":a/2,0,3;graphics\menu\trophy\bgs\018.png",0,0
-lsph2 419,":a/2,0,3;graphics\menu\trophy\bgs\019.png",0,0
-lsph2 420,":a/2,0,3;graphics\menu\trophy\bgs\020.png",0,0
-lsph2 421,":a/2,0,3;graphics\menu\trophy\bgs\021.png",0,0
-lsph2 422,":a/2,0,3;graphics\menu\trophy\bgs\022.png",0,0
-lsph2 423,":a/2,0,3;graphics\menu\trophy\bgs\023.png",0,0
-lsph2 424,":a/2,0,3;graphics\menu\trophy\bgs\024.png",0,0
-lsph2 425,":a/2,0,3;graphics\menu\trophy\bgs\025.png",0,0
-lsph2 426,":a/2,0,3;graphics\menu\trophy\bgs\026.png",0,0
-lsph2 427,":a/2,0,3;graphics\menu\trophy\bgs\027.png",0,0
+lsph2 400,":a/2,0,3;graphics\menu_tr\trophy\bgs\000.png",0,0
+lsph2 401,":a/2,0,3;graphics\menu_tr\trophy\bgs\001.png",0,0
+lsph2 402,":a/2,0,3;graphics\menu_tr\trophy\bgs\002.png",0,0
+lsph2 403,":a/2,0,3;graphics\menu_tr\trophy\bgs\003.png",0,0
+lsph2 404,":a/2,0,3;graphics\menu_tr\trophy\bgs\004.png",0,0
+lsph2 405,":a/2,0,3;graphics\menu_tr\trophy\bgs\005.png",0,0
+lsph2 406,":a/2,0,3;graphics\menu_tr\trophy\bgs\006.png",0,0
+lsph2 407,":a/2,0,3;graphics\menu_tr\trophy\bgs\007.png",0,0
+lsph2 408,":a/2,0,3;graphics\menu_tr\trophy\bgs\008.png",0,0
+lsph2 409,":a/2,0,3;graphics\menu_tr\trophy\bgs\009.png",0,0
+lsph2 410,":a/2,0,3;graphics\menu_tr\trophy\bgs\010.png",0,0
+lsph2 411,":a/2,0,3;graphics\menu_tr\trophy\bgs\011.png",0,0
+lsph2 412,":a/2,0,3;graphics\menu_tr\trophy\bgs\012.png",0,0
+lsph2 413,":a/2,0,3;graphics\menu_tr\trophy\bgs\013.png",0,0
+lsph2 414,":a/2,0,3;graphics\menu_tr\trophy\bgs\014.png",0,0
+lsph2 415,":a/2,0,3;graphics\menu_tr\trophy\bgs\015.png",0,0
+lsph2 416,":a/2,0,3;graphics\menu_tr\trophy\bgs\016.png",0,0
+lsph2 417,":a/2,0,3;graphics\menu_tr\trophy\bgs\017.png",0,0
+lsph2 418,":a/2,0,3;graphics\menu_tr\trophy\bgs\018.png",0,0
+lsph2 419,":a/2,0,3;graphics\menu_tr\trophy\bgs\019.png",0,0
+lsph2 420,":a/2,0,3;graphics\menu_tr\trophy\bgs\020.png",0,0
+lsph2 421,":a/2,0,3;graphics\menu_tr\trophy\bgs\021.png",0,0
+lsph2 422,":a/2,0,3;graphics\menu_tr\trophy\bgs\022.png",0,0
+lsph2 423,":a/2,0,3;graphics\menu_tr\trophy\bgs\023.png",0,0
+lsph2 424,":a/2,0,3;graphics\menu_tr\trophy\bgs\024.png",0,0
+lsph2 425,":a/2,0,3;graphics\menu_tr\trophy\bgs\025.png",0,0
+lsph2 426,":a/2,0,3;graphics\menu_tr\trophy\bgs\026.png",0,0
+lsph2 427,":a/2,0,3;graphics\menu_tr\trophy\bgs\027.png",0,0
 ~
 if %CHIRU_MODE != 1 jumpf
-lsph2 400,":a/2,0,3;graphics\menu\trophy\bgs\chiru\000.png",0,0
-lsph2 401,":a/2,0,3;graphics\menu\trophy\bgs\chiru\001.png",0,0
-lsph2 402,":a/2,0,3;graphics\menu\trophy\bgs\chiru\002.png",0,0
-lsph2 403,":a/2,0,3;graphics\menu\trophy\bgs\chiru\003.png",0,0
-lsph2 404,":a/2,0,3;graphics\menu\trophy\bgs\chiru\004.png",0,0
-lsph2 405,":a/2,0,3;graphics\menu\trophy\bgs\chiru\005.png",0,0
-lsph2 406,":a/2,0,3;graphics\menu\trophy\bgs\chiru\006.png",0,0
-lsph2 407,":a/2,0,3;graphics\menu\trophy\bgs\chiru\007.png",0,0
-lsph2 408,":a/2,0,3;graphics\menu\trophy\bgs\chiru\008.png",0,0
-lsph2 409,":a/2,0,3;graphics\menu\trophy\bgs\chiru\009.png",0,0
+lsph2 400,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\000.png",0,0
+lsph2 401,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\001.png",0,0
+lsph2 402,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\002.png",0,0
+lsph2 403,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\003.png",0,0
+lsph2 404,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\004.png",0,0
+lsph2 405,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\005.png",0,0
+lsph2 406,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\006.png",0,0
+lsph2 407,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\007.png",0,0
+lsph2 408,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\008.png",0,0
+lsph2 409,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\009.png",0,0
 lsph2 410,":a/2,0,3;graphics\menu\trophy\bgs\chiru\010.png",0,0
 lsph2 411,":a/2,0,3;graphics\menu\trophy\bgs\chiru\011.png",0,0
 lsph2 412,":a/2,0,3;graphics\menu\trophy\bgs\chiru\012.png",0,0
@@ -31009,25 +31040,25 @@ lsph2 424,":a/2,0,3;graphics\menu\trophy\bgs\chiru\024.png",0,0
 lsph2 425,":a/2,0,3;graphics\menu\trophy\bgs\chiru\025.png",0,0
 lsph2 426,":a/2,0,3;graphics\menu\trophy\bgs\chiru\026.png",0,0
 lsph2 427,":a/2,0,3;graphics\menu\trophy\bgs\chiru\027.png",0,0
-lsph2 428,":a/2,0,3;graphics\menu\trophy\bgs\chiru\028.png",0,0
-lsph2 429,":a/2,0,3;graphics\menu\trophy\bgs\chiru\029.png",0,0
-lsph2 430,":a/2,0,3;graphics\menu\trophy\bgs\chiru\030.png",0,0
-lsph2 431,":a/2,0,3;graphics\menu\trophy\bgs\chiru\031.png",0,0
-lsph2 432,":a/2,0,3;graphics\menu\trophy\bgs\chiru\032.png",0,0
-lsph2 433,":a/2,0,3;graphics\menu\trophy\bgs\chiru\033.png",0,0
-lsph2 434,":a/2,0,3;graphics\menu\trophy\bgs\chiru\034.png",0,0
-lsph2 435,":a/2,0,3;graphics\menu\trophy\bgs\chiru\035.png",0,0
-lsph2 436,":a/2,0,3;graphics\menu\trophy\bgs\chiru\036.png",0,0
-lsph2 437,":a/2,0,3;graphics\menu\trophy\bgs\chiru\037.png",0,0
-lsph2 438,":a/2,0,3;graphics\menu\trophy\bgs\chiru\038.png",0,0
-lsph2 439,":a/2,0,3;graphics\menu\trophy\bgs\chiru\039.png",0,0
-lsph2 440,":a/2,0,3;graphics\menu\trophy\bgs\chiru\040.png",0,0
-lsph2 441,":a/2,0,3;graphics\menu\trophy\bgs\chiru\041.png",0,0
-lsph2 442,":a/2,0,3;graphics\menu\trophy\bgs\chiru\042.png",0,0
-lsph2 443,":a/2,0,3;graphics\menu\trophy\bgs\chiru\043.png",0,0
-lsph2 444,":a/2,0,3;graphics\menu\trophy\bgs\chiru\044.png",0,0
-lsph2 445,":a/2,0,3;graphics\menu\trophy\bgs\chiru\045.png",0,0
-lsph2 446,":a/2,0,3;graphics\menu\trophy\bgs\chiru\046.png",0,0
+lsph2 428,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\028.png",0,0
+lsph2 429,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\029.png",0,0
+lsph2 430,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\030.png",0,0
+lsph2 431,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\031.png",0,0
+lsph2 432,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\032.png",0,0
+lsph2 433,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\033.png",0,0
+lsph2 434,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\034.png",0,0
+lsph2 435,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\035.png",0,0
+lsph2 436,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\036.png",0,0
+lsph2 437,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\037.png",0,0
+lsph2 438,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\038.png",0,0
+lsph2 439,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\039.png",0,0
+lsph2 440,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\040.png",0,0
+lsph2 441,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\041.png",0,0
+lsph2 442,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\042.png",0,0
+lsph2 443,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\043.png",0,0
+lsph2 444,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\044.png",0,0
+lsph2 445,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\045.png",0,0
+lsph2 446,":a/2,0,3;graphics\menu_tr\trophy\bgs\chiru\046.png",0,0
 ~
 spbtn backlogdownbtn,backlogdownbtn
 spbtn backlogupbtn,backlogupbtn
@@ -31699,86 +31730,86 @@ return
 	if %CHIRU_MODE = 1 goto *trophy_open_chiru
 
 	if %trophy_id = 0  && %8700 = 1 return
-	if %trophy_id = 0  && %8700 = 0 mov %8700,1 : mov $trophy_id,":a;graphics\trophy\TROP000.png" : goto *trophy_show
+	if %trophy_id = 0  && %8700 = 0 mov %8700,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP000.png" : goto *trophy_show
 	if %trophy_id = 1  && %8701 = 1 return
-	if %trophy_id = 1  && %8701 = 0 mov %8701,1 : mov $trophy_id,":a;graphics\trophy\TROP001.png" : goto *trophy_show
+	if %trophy_id = 1  && %8701 = 0 mov %8701,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP001.png" : goto *trophy_show
 	if %trophy_id = 2  && %8702 = 1 return
-	if %trophy_id = 2  && %8702 = 0 mov %8702,1 : mov $trophy_id,":a;graphics\trophy\TROP002.png" : goto *trophy_show
+	if %trophy_id = 2  && %8702 = 0 mov %8702,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP002.png" : goto *trophy_show
 	if %trophy_id = 3  && %8703 = 1 return
-	if %trophy_id = 3  && %8703 = 0 mov %8703,1 : mov $trophy_id,":a;graphics\trophy\TROP003.png" : goto *trophy_show
+	if %trophy_id = 3  && %8703 = 0 mov %8703,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP003.png" : goto *trophy_show
 	if %trophy_id = 4  && %8704 = 1 return
-	if %trophy_id = 4  && %8704 = 0 mov %8704,1 : mov $trophy_id,":a;graphics\trophy\TROP004.png" : goto *trophy_show
+	if %trophy_id = 4  && %8704 = 0 mov %8704,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP004.png" : goto *trophy_show
 	if %trophy_id = 5  && %8705 = 1 return
-	if %trophy_id = 5  && %8705 = 0 mov %8705,1 : mov $trophy_id,":a;graphics\trophy\TROP005.png" : goto *trophy_show
+	if %trophy_id = 5  && %8705 = 0 mov %8705,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP005.png" : goto *trophy_show
 	if %trophy_id = 6  && %8706 = 1 return
-	if %trophy_id = 6  && %8706 = 0 mov %8706,1 : mov $trophy_id,":a;graphics\trophy\TROP006.png" : goto *trophy_show
+	if %trophy_id = 6  && %8706 = 0 mov %8706,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP006.png" : goto *trophy_show
 	if %trophy_id = 7  && %8707 = 1 return
-	if %trophy_id = 7  && %8707 = 0 mov %8707,1 : mov $trophy_id,":a;graphics\trophy\TROP007.png" : goto *trophy_show
+	if %trophy_id = 7  && %8707 = 0 mov %8707,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP007.png" : goto *trophy_show
 	if %trophy_id = 8  && %8708 = 1 return
-	if %trophy_id = 8  && %8708 = 0 mov %8708,1 : mov $trophy_id,":a;graphics\trophy\TROP008.png" : goto *trophy_show
+	if %trophy_id = 8  && %8708 = 0 mov %8708,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP008.png" : goto *trophy_show
 	if %trophy_id = 9  && %8709 = 1 return
-	if %trophy_id = 9  && %8709 = 0 mov %8709,1 : mov $trophy_id,":a;graphics\trophy\TROP009.png" : goto *trophy_show
+	if %trophy_id = 9  && %8709 = 0 mov %8709,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP009.png" : goto *trophy_show
 	if %trophy_id = 10 && %8710 = 1 return
-	if %trophy_id = 10 && %8710 = 0 mov %8710,1 : mov $trophy_id,":a;graphics\trophy\TROP010.png" : goto *trophy_show
+	if %trophy_id = 10 && %8710 = 0 mov %8710,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP010.png" : goto *trophy_show
 	if %trophy_id = 11 && %8711 = 1 return
-	if %trophy_id = 11 && %8711 = 0 mov %8711,1 : mov $trophy_id,":a;graphics\trophy\TROP011.png" : goto *trophy_show
+	if %trophy_id = 11 && %8711 = 0 mov %8711,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP011.png" : goto *trophy_show
 	if %trophy_id = 12 && %8712 = 1 return
-	if %trophy_id = 12 && %8712 = 0 mov %8712,1 : mov $trophy_id,":a;graphics\trophy\TROP012.png" : goto *trophy_show
+	if %trophy_id = 12 && %8712 = 0 mov %8712,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP012.png" : goto *trophy_show
 	if %trophy_id = 13 && %8713 = 1 return
-	if %trophy_id = 13 && %8713 = 0 mov %8713,1 : mov $trophy_id,":a;graphics\trophy\TROP013.png" : goto *trophy_show
+	if %trophy_id = 13 && %8713 = 0 mov %8713,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP013.png" : goto *trophy_show
 	if %trophy_id = 14 && %8714 = 1 return
-	if %trophy_id = 14 && %8714 = 0 mov %8714,1 : mov $trophy_id,":a;graphics\trophy\TROP014.png" : goto *trophy_show
+	if %trophy_id = 14 && %8714 = 0 mov %8714,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP014.png" : goto *trophy_show
 	if %trophy_id = 15 && %8715 = 1 return
-	if %trophy_id = 15 && %8715 = 0 mov %8715,1 : mov $trophy_id,":a;graphics\trophy\TROP015.png" : goto *trophy_show
+	if %trophy_id = 15 && %8715 = 0 mov %8715,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP015.png" : goto *trophy_show
 	if %trophy_id = 16 && %8716 = 1 return
-	if %trophy_id = 16 && %8716 = 0 mov %8716,1 : mov $trophy_id,":a;graphics\trophy\TROP016.png" : goto *trophy_show
+	if %trophy_id = 16 && %8716 = 0 mov %8716,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP016.png" : goto *trophy_show
 	if %trophy_id = 17 && %8717 = 1 return
-	if %trophy_id = 17 && %8717 = 0 mov %8717,1 : mov $trophy_id,":a;graphics\trophy\TROP017.png" : goto *trophy_show
+	if %trophy_id = 17 && %8717 = 0 mov %8717,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP017.png" : goto *trophy_show
 	if %trophy_id = 18 && %8718 = 1 return
-	if %trophy_id = 18 && %8718 = 0 mov %8718,1 : mov $trophy_id,":a;graphics\trophy\TROP018.png" : goto *trophy_show
+	if %trophy_id = 18 && %8718 = 0 mov %8718,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP018.png" : goto *trophy_show
 	if %trophy_id = 19 && %8719 = 1 return
-	if %trophy_id = 19 && %8719 = 0 mov %8719,1 : mov $trophy_id,":a;graphics\trophy\TROP019.png" : goto *trophy_show
+	if %trophy_id = 19 && %8719 = 0 mov %8719,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP019.png" : goto *trophy_show
 	if %trophy_id = 20 && %8720 = 1 return
-	if %trophy_id = 20 && %8720 = 0 mov %8720,1 : mov $trophy_id,":a;graphics\trophy\TROP020.png" : goto *trophy_show
+	if %trophy_id = 20 && %8720 = 0 mov %8720,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP020.png" : goto *trophy_show
 	if %trophy_id = 21 && %8721 = 1 return
-	if %trophy_id = 21 && %8721 = 0 mov %8721,1 : mov $trophy_id,":a;graphics\trophy\TROP021.png" : goto *trophy_show
+	if %trophy_id = 21 && %8721 = 0 mov %8721,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP021.png" : goto *trophy_show
 	if %trophy_id = 22 && %8722 = 1 return
-	if %trophy_id = 22 && %8722 = 0 mov %8722,1 : mov $trophy_id,":a;graphics\trophy\TROP022.png" : goto *trophy_show
+	if %trophy_id = 22 && %8722 = 0 mov %8722,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP022.png" : goto *trophy_show
 	if %trophy_id = 23 && %8723 = 1 return
-	if %trophy_id = 23 && %8723 = 0 mov %8723,1 : mov $trophy_id,":a;graphics\trophy\TROP023.png" : goto *trophy_show
+	if %trophy_id = 23 && %8723 = 0 mov %8723,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP023.png" : goto *trophy_show
 	if %trophy_id = 24 && %8724 = 1 return
-	if %trophy_id = 24 && %8724 = 0 mov %8724,1 : mov $trophy_id,":a;graphics\trophy\TROP024.png" : goto *trophy_show
+	if %trophy_id = 24 && %8724 = 0 mov %8724,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP024.png" : goto *trophy_show
 	if %trophy_id = 25 && %8725 = 1 return
-	if %trophy_id = 25 && %8725 = 0 mov %8725,1 : mov $trophy_id,":a;graphics\trophy\TROP025.png" : goto *trophy_show
+	if %trophy_id = 25 && %8725 = 0 mov %8725,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP025.png" : goto *trophy_show
 	if %trophy_id = 26 && %8726 = 1 return
-	if %trophy_id = 26 && %8726 = 0 mov %8726,1 : mov $trophy_id,":a;graphics\trophy\TROP026.png" : goto *trophy_show
+	if %trophy_id = 26 && %8726 = 0 mov %8726,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP026.png" : goto *trophy_show
 	if %trophy_id = 27 && %8727 = 1 return
-	if %trophy_id = 27 && %8727 = 0 mov %8727,1 : mov $trophy_id,":a;graphics\trophy\TROP027.png" : goto *trophy_show
+	if %trophy_id = 27 && %8727 = 0 mov %8727,1 : mov $trophy_id,":a;graphics\trophy_tr\TROP027.png" : goto *trophy_show
 
 return
 
 *trophy_open_chiru
 
 	if %trophy_id = 0  && %8750 = 1 return
-	if %trophy_id = 0  && %8750 = 0 mov %8750,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP000.png" : goto *trophy_show
+	if %trophy_id = 0  && %8750 = 0 mov %8750,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP000.png" : goto *trophy_show
 	if %trophy_id = 1  && %8751 = 1 return
-	if %trophy_id = 1  && %8751 = 0 mov %8751,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP001.png" : goto *trophy_show
+	if %trophy_id = 1  && %8751 = 0 mov %8751,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP001.png" : goto *trophy_show
 	if %trophy_id = 2  && %8752 = 1 return
-	if %trophy_id = 2  && %8752 = 0 mov %8752,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP002.png" : goto *trophy_show
+	if %trophy_id = 2  && %8752 = 0 mov %8752,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP002.png" : goto *trophy_show
 	if %trophy_id = 3  && %8753 = 1 return
-	if %trophy_id = 3  && %8753 = 0 mov %8753,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP003.png" : goto *trophy_show
+	if %trophy_id = 3  && %8753 = 0 mov %8753,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP003.png" : goto *trophy_show
 	if %trophy_id = 4  && %8754 = 1 return
-	if %trophy_id = 4  && %8754 = 0 mov %8754,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP004.png" : goto *trophy_show
+	if %trophy_id = 4  && %8754 = 0 mov %8754,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP004.png" : goto *trophy_show
 	if %trophy_id = 5  && %8755 = 1 return
-	if %trophy_id = 5  && %8755 = 0 mov %8755,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP005.png" : goto *trophy_show
+	if %trophy_id = 5  && %8755 = 0 mov %8755,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP005.png" : goto *trophy_show
 	if %trophy_id = 6  && %8756 = 1 return
-	if %trophy_id = 6  && %8756 = 0 mov %8756,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP006.png" : goto *trophy_show
+	if %trophy_id = 6  && %8756 = 0 mov %8756,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP006.png" : goto *trophy_show
 	if %trophy_id = 7  && %8757 = 1 return
-	if %trophy_id = 7  && %8757 = 0 mov %8757,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP007.png" : goto *trophy_show
+	if %trophy_id = 7  && %8757 = 0 mov %8757,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP007.png" : goto *trophy_show
 	if %trophy_id = 8  && %8758 = 1 return
-	if %trophy_id = 8  && %8758 = 0 mov %8758,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP008.png" : goto *trophy_show
+	if %trophy_id = 8  && %8758 = 0 mov %8758,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP008.png" : goto *trophy_show
 	if %trophy_id = 9  && %8759 = 1 return
-	if %trophy_id = 9  && %8759 = 0 mov %8759,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP009.png" : goto *trophy_show
+	if %trophy_id = 9  && %8759 = 0 mov %8759,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP009.png" : goto *trophy_show
 	if %trophy_id = 10 && %8760 = 1 return
 	if %trophy_id = 10 && %8760 = 0 mov %8760,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP010.png" : goto *trophy_show
 	if %trophy_id = 11 && %8761 = 1 return
@@ -31816,43 +31847,43 @@ return
 	if %trophy_id = 27 && %8777 = 1 return
 	if %trophy_id = 27 && %8777 = 0 mov %8777,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP027.png" : goto *trophy_show
 	if %trophy_id = 28 && %8778 = 1 return
-	if %trophy_id = 28 && %8778 = 0 mov %8778,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP028.png" : goto *trophy_show
+	if %trophy_id = 28 && %8778 = 0 mov %8778,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP028.png" : goto *trophy_show
 	if %trophy_id = 29 && %8779 = 1 return
-	if %trophy_id = 29 && %8779 = 0 mov %8779,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP029.png" : goto *trophy_show
+	if %trophy_id = 29 && %8779 = 0 mov %8779,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP029.png" : goto *trophy_show
 	if %trophy_id = 30 && %8780 = 1 return
-	if %trophy_id = 30 && %8780 = 0 mov %8780,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP030.png" : goto *trophy_show
+	if %trophy_id = 30 && %8780 = 0 mov %8780,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP030.png" : goto *trophy_show
 	if %trophy_id = 31 && %8781 = 1 return
-	if %trophy_id = 31 && %8781 = 0 mov %8781,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP031.png" : goto *trophy_show
+	if %trophy_id = 31 && %8781 = 0 mov %8781,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP031.png" : goto *trophy_show
 	if %trophy_id = 32 && %8782 = 1 return
-	if %trophy_id = 32 && %8782 = 0 mov %8782,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP032.png" : goto *trophy_show
+	if %trophy_id = 32 && %8782 = 0 mov %8782,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP032.png" : goto *trophy_show
 	if %trophy_id = 33 && %8783 = 1 return
-	if %trophy_id = 33 && %8783 = 0 mov %8783,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP033.png" : goto *trophy_show
+	if %trophy_id = 33 && %8783 = 0 mov %8783,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP033.png" : goto *trophy_show
 	if %trophy_id = 34 && %8784 = 1 return
-	if %trophy_id = 34 && %8784 = 0 mov %8784,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP034.png" : goto *trophy_show
+	if %trophy_id = 34 && %8784 = 0 mov %8784,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP034.png" : goto *trophy_show
 	if %trophy_id = 35 && %8785 = 1 return
-	if %trophy_id = 35 && %8785 = 0 mov %8785,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP035.png" : goto *trophy_show
+	if %trophy_id = 35 && %8785 = 0 mov %8785,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP035.png" : goto *trophy_show
 	if %trophy_id = 36 && %8786 = 1 return
-	if %trophy_id = 36 && %8786 = 0 mov %8786,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP036.png" : goto *trophy_show
+	if %trophy_id = 36 && %8786 = 0 mov %8786,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP036.png" : goto *trophy_show
 	if %trophy_id = 37 && %8787 = 1 return
-	if %trophy_id = 37 && %8787 = 0 mov %8787,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP037.png" : goto *trophy_show
+	if %trophy_id = 37 && %8787 = 0 mov %8787,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP037.png" : goto *trophy_show
 	if %trophy_id = 38 && %8788 = 1 return
-	if %trophy_id = 38 && %8788 = 0 mov %8788,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP038.png" : goto *trophy_show
+	if %trophy_id = 38 && %8788 = 0 mov %8788,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP038.png" : goto *trophy_show
 	if %trophy_id = 39 && %8789 = 1 return
-	if %trophy_id = 39 && %8789 = 0 mov %8789,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP039.png" : goto *trophy_show
+	if %trophy_id = 39 && %8789 = 0 mov %8789,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP039.png" : goto *trophy_show
 	if %trophy_id = 40 && %8790 = 1 return
-	if %trophy_id = 40 && %8790 = 0 mov %8790,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP040.png" : goto *trophy_show
+	if %trophy_id = 40 && %8790 = 0 mov %8790,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP040.png" : goto *trophy_show
 	if %trophy_id = 41 && %8791 = 1 return
-	if %trophy_id = 41 && %8791 = 0 mov %8791,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP041.png" : goto *trophy_show
+	if %trophy_id = 41 && %8791 = 0 mov %8791,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP041.png" : goto *trophy_show
 	if %trophy_id = 42 && %8792 = 1 return
-	if %trophy_id = 42 && %8792 = 0 mov %8792,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP042.png" : goto *trophy_show
+	if %trophy_id = 42 && %8792 = 0 mov %8792,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP042.png" : goto *trophy_show
 	if %trophy_id = 43 && %8793 = 1 return
-	if %trophy_id = 43 && %8793 = 0 mov %8793,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP043.png" : goto *trophy_show
+	if %trophy_id = 43 && %8793 = 0 mov %8793,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP043.png" : goto *trophy_show
 	if %trophy_id = 44 && %8794 = 1 return
-	if %trophy_id = 44 && %8794 = 0 mov %8794,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP044.png" : goto *trophy_show
+	if %trophy_id = 44 && %8794 = 0 mov %8794,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP044.png" : goto *trophy_show
 	if %trophy_id = 45 && %8795 = 1 return
-	if %trophy_id = 45 && %8795 = 0 mov %8795,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP045.png" : goto *trophy_show
+	if %trophy_id = 45 && %8795 = 0 mov %8795,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP045.png" : goto *trophy_show
 	if %trophy_id = 46 && %8796 = 1 return
-	if %trophy_id = 46 && %8796 = 0 mov %8796,1 : mov $trophy_id,":a;graphics\trophy_chiru\TROP046.png" : goto *trophy_show
+	if %trophy_id = 46 && %8796 = 0 mov %8796,1 : mov $trophy_id,":a;graphics\trophy_chiru_tr\TROP046.png" : goto *trophy_show
 
 return
 
@@ -33439,13 +33470,14 @@ goto *switch_game_q
 	timestamp %Free1
 
 	border_pad_push 10
-	if releasedate + 7776000 < %Free1 jumpf
-		lsph t_warning_lsp,":s;#46E05F#86EF9C`{o:10:"+verification_uptodate+"}",70,860
-	~
-	if releasedate + 7776000 > %Free1 jumpf
-		lsph t_warning_lsp,":s;#FF0000#FF6464`{o:10:"+verification_ancient+"}",70,740
-		debug_string "This release may be outdated, assuming final version"
-	~
+	lsph t_warning_lsp,":s;#FFFFFF#E4EF86`{o:10:"+verification_uptodate+"}",70,800
+	;if releasedate + 7776000 < %Free1 jumpf
+	;	lsph t_warning_lsp,":s;#FFFFFF#E4EF86`{o:10:"+verification_uptodate+"}",70,800
+	;~
+	;if releasedate + 7776000 > %Free1 jumpf
+	;	lsph t_warning_lsp,":s;#FF0000#FF6464`{o:10:"+verification_ancient+"}",70,740
+	;	debug_string "This release may be outdated, assuming final version"
+	;~
 	border_pad_pop	
 return
 

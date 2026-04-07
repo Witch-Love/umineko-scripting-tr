@@ -1773,6 +1773,7 @@ stralias r_click_buttons_config,":a/2,0,3;graphics\menu_tr\r_click_menu\r_btn_se
 stralias r_click_buttons_logs,":a/2,0,3;graphics\menu_tr\r_click_menu\r_btn_logs.png"
 stralias r_click_buttons_clear,":a/2,0,3;graphics\menu_tr\r_click_menu\r_btn_clear.png"
 stralias r_click_buttons_system,":a/2,0,3;graphics\menu_tr\r_click_menu\r_btn_system.png"
+stralias r_click_buttons_wlrep,":a/2,0,3;graphics\menu_tr\r_click_menu\r_btn_wl_rep.png"
 
 ;Character names
 stralias name_ama,"Amakusa Juuza"

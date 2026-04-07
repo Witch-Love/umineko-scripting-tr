@@ -481,6 +481,8 @@ function main($argc, $argv) {
 			$scripting = $argv[3];
 
 			$script = file_get_contents($scripting.'/script/umi_hdr.txt').LF;
+			if ($locale == 'tr')
+				$script = file_get_contents($scripting.'/script/tr/umi_hdr.txt').LF;
 			$script = str_replace(CRLF, LF, $script);
 			$script = str_replace('builder_id', $gameid, $script);
 			$script = str_replace('builder_date', time(), $script);
