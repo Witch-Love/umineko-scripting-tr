@@ -4,28 +4,28 @@
 `Smokinli, iri yarı bir adam sıcak ve güler yüzüyle bizi bekliyordu.`
 `......Onu tanımıyordum ama kıyafetlerine bakarak Ushiromiya baş ailesinin hizmetkârlarından biri olduğunu tahmin ettim.`
 `"Leydim, evinize hoş geldiniz.`
-` Oldukça geç kaldınız, endişelenmeye başlamıştım."`
-`"İlgilendiğin için teşekkürler!`
-` Tekne Battler'ı çok korkuttu.`
+` Oldukça geç kaldığınız için endişelenmeye başlamıştım."`
+`"Ah, ilgin için teşekkürler!`
+` Battler tekneden çok korktu.`
 ` Onun için yavaşlamak zorunda kaldık.`
 ` Cidden, ne baş belası ama!"`
-`"K-Kapa çeneni... Bir gün işler tersine döndüğünde bunu hatırlayacağım... ugghh."`
-`Böyle giderse, haber tüm aileye yayılacak ve akşam yemeğinde en çok konuşulan kişi ben olacağım.`
-`Bu olmasa bile, altı yıllık yokluğum nedeniyle herkes benden bahsedecekti...ama şimdi onlara daha da sulu bir konu verdim...!`
-`Kahretsin, Ushiromiya baş ailesi neden bu ıssız adada yaşamak zorunda!`
+`"K-Kapa çeneni... Bir gün işler tersine döndüğünde bunu hatırlayacağım... uğğhh."`
+`Böyle giderse, haber tüm aileye yayılacak ve akşam yemeğinde en çok konuşulan konu ben olacağım.`
+`Bu olmasaydı bile, altı yıllık yokluğum nedeniyle herkes benden bahsedecekti...ama şimdi onlara daha da ilgi çekici bir konu verdim...!`
+`Kahretsin, neden Ushiromiya baş ailesi bu ıssız adada yaşamak zorunda ki!`
 `Bu esnada, tekne demirleme işlemini tamamlamıştı.`
 `{n}Aşağı inebilmemiz için küçük bir kalas indirildi.`
-`Ailelerimiz teker teker tekneden çıktı.`
+`Ailelerimiz teker teker tekneden çıktılar.`
 `"Uzun yolculuğunuzdan dolayı hepiniz oldukça yorgun olmalısınız.`
 ` Madam, lütfen size yardımcı olmama izin verin."`
 `"Teşekkür ederim.`
 ` Uzun zaman oldu, Gohda-san, nasılsın?"`
-`"İlginiz için teşekkür ederim.`
-` Hizmet etmek benim için her zaman bir zevktir."`
-`"Battler-kun, bu Gohda-san'la ilk karşılaşmanız değil mi?`
+`"Teşekkür ederim.`
+` Hizmet etmek benim için her zaman bir zevk."`
+`"Battler-kun, bu Gohda-san'la ilk karşılaşman, değil mi?`
 ` Yanılmıyorsam, altı yıl önce burada çalışmıyordun?"`
 `"Evet.`
-` Bu yüzden lütfen onu ilk kez karşılamama izin verin.`
+` Bu yüzden, Battler-sama lütfen sizi ilk kez karşılamama izin verin.`
 ` Sonunda sizinle tanışmak bir onur, Battler-sama."`
 `"......Ben boyum konusunda kendime güvenirim, ama sen devasasın.`
 ` ...Bu kesinlikle bizim ilk karşılaşmamız.`
@@ -33,34 +33,34 @@
 `"Benim için bir zevk.`
 ` Ben Battler."`
 `"Dönüşünüz merakla bekleniyordu efendim.`
-` Evvelki yıldan bu yana Ushiromiya baş ailesi için çalışıyorum; adım Gohda ({p:0:郷田}), hizmetkârınızım."`
+` Evvelki yıldan bu yana Ushiromiya baş ailesi için çalışıyorum. Adım Gohda ({p:0:郷田}), hizmetkârınızım."`
 `"Sizinle tanışmak benim için bir zevk.`
 ` İhtiyacınız olan bir şey olursa, lütfen bana iletmekten çekinmeyin."`
 `"Gohda-san, uzun zaman oldu."`
 `"George-sama, çok uzun zaman oldu.`
 ` Lütfen, size yardımcı olmama izin verin."`
 `"Her zamanki gibi, karşılama konusunda profesyonelsin...`
-` Eğer bir işe ihtiyacın olursa, beni haberdar et, tamam mı?`
+` Eğer bir işe ihtiyacın olursa beni haberdar et, tamam mı?`
 ` Seni anında işe alırım!"`
 `"Beni çok onurlandırıyorsunuz.`
 ` Lütfen size yardımcı olmama izin verin, Hideyoshi-sama."`
 `Gohda-san daha sonra tekneden inen herkese elini uzattı ve yanlarından geçerken onları karşıladı.`
-`Konuşması ve tavırları bir profesyonelin rafine cilasına sahipti.`
-`Başlangıçtaki kaba görünümünün aksine çok zarifti.`
-`İri cüssesi ilk başta biraz korkutucu görünmesine neden olsa da, ilk izlenimime göre çok daha kibardı.`
+`Konuşma tarzı ve tavırlarında bir profesyonelin sahip olduğu incelik ve zarafet vardı.`
+`İlk bakıştaki sert görünümüne rağmen, çok zarif biriydi.`
+`İri yapısı yüzünden ilk başta biraz ürkütücü görünüyordu, ama ilk izlenimimin aksine çok daha kibar biriydi.`
 `Adada iki yıldır görev yaptığını iddia ediyordu ama şüphesiz daha önce de benzer bir işte çalışmıştı.`
 `Herkes karaya çıktıktan sonra bağlama halatı çözüldü ve tekne limandan uzaklaşmaya başladı.`
-`Muhtemelen ana limanı olan Niijima'ya dönüyordu.`
-`Kaptan veda etmek için elini salladı.`
-`{n}Maria vicdanen el salladı.`
-`"............Hmmm, bir şeylerin neden bana yabancı geldiğini şimdi anladım.`
+`Muhtemelen kendi limanı olan Niijima'ya dönüyordu.`
+`Kaptan veda etmek için el salladı.`
+`{n}Maria da içtenlikle el sallayarak karşılık verdi.`
+`"............Hmmm, bir şeylerin neden bana tuhaf geldiğini şimdi anladım.`
 ` Martıların ağlamalarını duyamıyorum."`
 `"Martılar mı?`
 ` Kuşlar mı?"`
-`Bu adaya ne zaman gelsek martıların bizi hep canlı "nyaa nyaa" çığlıklarıyla karşıladıklarını hatırlıyorum.`
-`Ve bu yüzden ne zaman başka bir yerde martıların çığlıklarını duysam, bir aile konferansına gelmişim hissine kapılırım.`
-`Adanın Ushiromiya baş ailesinin yaşadığı küçük bir bölümü dışında, Rokkenjima'ya hiç ellenmemiş ve görünüşe göre yabani kuşlar için bir cennete dönüşmüş.`
-`Görünüşe göre, uçurumun bir yüzü devasa bir martı kolonisine ev sahipliği yapıyordu ve bu yüzden ada her zaman martılarla doluydu.`
+`Bu adaya ne zaman gelsek martıların bizi her zaman neşeli "nyaa nyaa" sesleriyle karşıladıklarını hatırlıyorum.`
+`Ve bu yüzden ne zaman başka bir yerde martıların seslerini duysam, bir aile konferansına gelmişim hissine kapılırım.`
+`Adanın Ushiromiya baş ailesinin yaşadığı küçük bir bölümü dışında, Rokkenjima'ya hiç ellenmemiş ve görünüşe göre yabani kuşlar için bir cennete dönüşmüştü.`
+`Bir kayalık ya da benzer bir yer devasa bir martı kolonisine yuva olmuştu ve bu yüzden ada her zaman martılarla doluydu.`
 `O martılar bizi selamlamaya gelmedikleri için kendimi biraz yalnız hissettim.`
 `"Sorun ne, Battler-kun?"`
 `"Oh, Rosa Hala.`
@@ -75,44 +75,44 @@
 `"Ne oldu da hepsi kayboldu?`
 ` Belki de Jessica heeepsini şiş kebap yapıp yemiştir!"`
 `"......Uu?!"`
-`"Lanet olsun, böyle rahatsız edici şeyler söyleme!`
+`"Ne zırvalıyorsun, böyle rahatsız edici şeyler söyleme!`
 ` Maria'nın kafasını karıştıracaksın!!"`
 `"Uu-uu-uu!`
 ` Jessica onee-chan onları şiş kebap yaptı, onları şiş kebap yaptı!`
 ` Uu!!"`
-`"Yapmadım, yapmadım!`
+`"Yapmadım yapmadım!`
 ` Neden böyle bir şey yapayım ki?!"`
 `"Bu doğru, bu doğ~ru. Jessica onları şiş kebap yaptı!`
-` Deri ve köfte, ciğer ve so~ğan!"`
-`"Et köftelerin içinde yüz!`
-` Ciğer ve soğan!`
+` Derisinden köftesine, ciğerinden soğanın~a!"`
+`"Dalalım et yığınına!`
+` Ciğerinden soğanına!`
 ` Uu‐uu‐uu!`
 ` Ahaha, ahaha!`
 ` *kıkır*kıkır*!"`
 `Ben Jessica ile dalga geçerken, Maria da eğleniyormuş gibi görünerek peşime takıldı.`
-`Ooh, olaylara nasıl katılacağını gerçekten biliyor!`
+`Ooh, gerçekten ortama uyum sağlamayı iyi biliyor!`
 `{n}Tamam o zaman, bugünden itibaren seni bir numaralı takipçim yapacağım!`
-`Ona gülümsediğimde o da sevinçle gülümsedi, sanırım bu küçük dayanışmadan dolayı mutluydu.`
+`Ona gülümsediğimde, o da sevinçle gülümsedi; sanırım bu küçük dayanışma anından dolayı mutluydu.`
 `"Öyle değil, Maria-chan.`
 ` Yabani kuşların hava ve atmosfer basıncındaki değişikliklere uyum sağladığını duymuştum.`
 ` Ve görünüşe göre hava bu gece daha da kötüleşecek.`
 ` Aceleyle yuvalarına dönmüş olabilirler."`
 `"............Uu.`
 ` Kebap yapmadı mı?`
-` Jessica Onee-chan onları kebap yapmadı mı?"`
+` Jessica onee-chan onları kebap yapmadı mı?"`
 `"Yapmadım, yapmadım!!`
 ` Sana söyledim, ben böyle şeyler yapmam!`
-` Pekâlâ, Battler, yalan söylediğini hemen itiraf et!"`
+` Pekâlâ, Battler yalan söylediğini hemen itiraf et!"`
 `"Battler-kun.`
-` Maria-chan saf bir kız, o yüzden şakaları bile ciddiye alıyor.`
+` Maria-chan saf bir kız olduğu için şakaları bile ciddiye alıyor.`
 ` Şakalarını daha dikkatli seçmelisin."`
 `...George-aniki beni nazikçe azarladı.`
-`...Boy bakımından Aniki'yi geçmiş olsam da, büyüğüm olarak hâlâ saygı görüyordu.`
+`...Boy bakımından Aniki'yi geçmiş olsam da, büyüğüm olarak hâlâ saygı duyuyordum.`
 ` İtaatkar bir şekilde özür dilemekten başka çarem yoktu.`
-`"H-hey,`
+`"H-Hey,`
 ` Benim hatam, benim hatam...`
 ` Maria, az önceki bir şakaydı.`
-` Sadece bugün martılar yuvalarında sessizler."`
+` Sadece bugün martılar yuvalarında sessizce duruyorlar."`
 `"......Battler yalan mı?`
 ` George onii-chan doğru mu?"`
 `{i:Ben eğleniyordum ama sen aslında beni kandırıyordun...?}`
@@ -124,26 +124,26 @@
 ` Bu tamamen gittikleri anlamına gelmez, değil mi?`
 ` Değil mi Hala?!"`
 `"Evet, doğru.`
-` Yarın hava düzeldiğinde eminim geri gelecekler ve "myaa myaa" çığlıklarını duymana izin verecekler."`
+` Yarın hava düzeldiğinde eminim geri gelecekler ve "myaa myaa" seslerini duyuracaklar."`
 `"Uu.`
 ` Geri gelmeleri için havanın düzelmesini bekleyeceğim.`
 ` Yarını bekle.`
 ` Havanın düzelmesini bekle.`
 ` Uu-uu!"`
-`Maria'nın ruh hali hafifledi ve martıların geri gelip gökyüzünü dolduracağı yarını dört gözle beklemeye başladı.`
-`Yine de, George-aniki çocuklarla ilgilenme konusunda gerçekten harika.`
-`...Sanırım altı yıl önce bir veletken Aniki'nin bana da çok iyi baktığını hatırlıyorum.`
-`......Aniki bu tür şeylerde oldukça yetenekli olabilir.`
+`Maria'nın keyfi yerine geldi ve martıların geri gelip gökyüzünü dolduracağı yarını iple çekmeye başladı.`
+`George-aniki çocuklarla ilgilenme konusunda gerçekten harika.`
+`...Sanırım altı yıl önce ben de yaramaz bir veletken Aniki'nin bana da çok iyi baktığını hatırlıyorum.`
+`......Aniki bu tür işlerde epey yetenekli olabilir.`
 `"George-kun, çocuklarla ilgilenme konusunda çok iyisin.`
 ` Bence çocuk bakımında çalışabilirsin!"`
 `"Evet, George nii-san, sanki bunu yapmak için doğmuşsun.`
-` Bana göre bu, bir şirket başkanının ofisinde iş yapmaktan daha "sen" gibi görünüyor."`
+` Bana kalırsa bu, bir şirketin başkanının ofisinde iş yapmak yerine sana daha çok yakışıyor."`
 `"Oh, hayır.`
 ` Çocuk bakımı kendi başına çok saygın bir {i:meslektir}.`
 ` Sadece çocukları severek yapabileceğin bir şey değil."`
 `"Gerçekten mütevazısın, George-kun.`
-` Ama Battler-kun biliyor musun, senin aran da çocuklarla çok iyi!`
-` Daha önce, bir süreliğine de olsa, Maria çok eğleniyor gibiydi.`
+` Ama Battler-kun, senin aran da çocuklarla çok iyi!`
+` Biraz önce, bir süreliğine de olsa, Maria çok eğleniyor gibiydi.`
 ` Az önce olduğu gibi onunla oynamaya devam et.`
 ` Sadece şakalarını dikkatli seç, olur mu?`
 ` *kıkırdar*."`
@@ -152,38 +152,38 @@
 `"{i:Hadi} ama, Rosa.`
 ` Ve siz veletler de, ne halt ediyorsunuz? Kımıldayın!"`
 `"Tamam, tamam, geliyoruz."`
-`Yaşlı piç acele etmemiz için bizi çağırıyordu.`
+`Yaşşlı piç bize acele etmemiz için işaret ediyordu.`
 `{n}İlerlesek iyi olur.`
-`Bavullarımızı odalarımıza yerleştirdikten sonra aynı tartışmayı yapmak için çok geç kalmış sayılmayız.`
+`Bavullarımızı odalarımıza yerleştirdikten sonra da aynı konuyu konuşmaya devam edebiliriz.`
 `"Pekâlâ millet, sizi kalacağınız konukevine doğru eşlik edeyim.`
 ` Lütfen, bu taraftan."`
-`Gohda-san herkese seslendi ve bizi yönlendirmeye başladı.`
-`{n}Kumasawa-san arkadan geldi.`
-`Yılan gibi kıvrılan bir patika loş bir ormanın içinden geçiyordu.`
-`{n}Biraz yokuş yukarı gidiyordu.`
+`Gohda-san herkese seslendi ve bize öncülük etmeye başladı.`
+`{n}Kumasawa-san da en arkadan geliyordu.`
+`Yılan gibi kıvrımlı patika, loş bir ormanın içinden geçiyordu.`
+`{n}Yol biraz yokuş yukarıydı.`
 `Eğimin çok fazla hissedilmemesi için patikanın kıvrımlı yapıldığını tahmin ediyorum,`
 ` ama şahsen, düz bir merdiven yapacak kadar erkek olsalardı daha mutlu olurdum.`
 `......Mesafe ve önem havası vermek için yolu bilerek kıvrımlı yaptıklarına şüphe yok...`
 `Çok geçmeden bahçe tarzı taş basamaklar gördük.`
 `...Ahhh, buradan sonrasını hatırlıyorum.`
-`{n}Buradan yukarı çıkın ve...`
-`Taş basamakların tepesinde güzel bir konukevi göründü.`
+`{n}Buradan yukarı çık ve...`
+`Taş basamakların tepesinde, güzel bir konukevi göründü.`
 `Dış cephesi elbette çok güzeldi ama bundan daha da fazlası vardı,`
 ` ......önünde uzanan o güzel gül bahçesinin ihtişamı karşısında kalbimizin çalınmasına engel olamadık.`
 `"Haah~!`
 ` Bu yıl da her zamanki gibi çok güzel...`
-` Gözler için gerçek bir zevk..."`
+` Gözler için gerçek bir ziyafet..."`
 `Taş basamakların tepesine ulaştıklarında, gül bahçesinin karşıladığı insanlar birbiri ardına takdirlerini dile getirdiler.`
 `"Çiçekler bu yıl daha az canlı gibi durmuyor mu?`
 ` Yaz yeterince sıcak geçmediği için olmalı."`
 `"Ben de öyle olduğuna inanıyorum.`
-` Geçen yılki çiçeklenmeyle kıyaslandığında, bu yılki çiçeklenmenin biraz daha düşük olması üzücü."`
+` Geçen yılki çiçek açışıyla karşılaştırıldığında, bu yılkinin biraz daha sönük kalması üzücü."`
 `Yine de muhteşem bir gül bahçesiydi.`
-`{n}Hatırlıyorum da, altı yıl önce bile her yıl beni çok sayıda gül karşılardı.`
+`{n}Hatırlıyorum da, altı yıl önce bile her yıl beni muazzam miktarda gül karşılardı.`
 `...Bu gül bahçesi Rokkenjima'ya gelen insanları ilk karşılayan şeydi.`
-` Her yıl gelen ebeveynlerimiz bile şaşkınlıklarını gizleyemezdi.`
-`Dahası, altı yıl önceki bahçenin anılarımda kalan "güçlendirilmiş" bir versiyonu gibi bile görünüyordu.`
-`"Burası her zaman çok şaşırtıcı.`
+` Her yıl gelen ebeveynlerimiz bile hayranlıklarını gizleyemezdi.`
+`Üstelik, altı yıl önce hafızamda kalan bahçenin adeta "geliştirilmiş" bir versiyonu gibi görünüyordu.`
+`"Burası her zaman muhteşem.`
 ` Kendi evimde de böyle bir gül bahçesine sahip olmak harika olurdu."`
 `"Unut bunu—onlarla kimin ilgileneceğini düşünüyorsun?`
 ` Güller böcekler ve hastalıklardan dolayı tam bir baş belası."`
@@ -192,16 +192,16 @@
 `"Öyle mi?`
 ` Ben böyle bir şey olduğunu bilmiyordum, o nedir?"`
 `"Evet, bakıyorum.`
-` Buna rağmen, böceklerin peşinden giden şey güldür, bu yüzden daha çok kötü bir etobur bitki gibidir."`
-`"...Oh, senin demek istediğin şey bu.`
+` Gerçi böceklerin peşine giden o gül olduğu için, aslında daha çok iğrenç bir etçil bitkiye benziyor."`
+`"...Oh, demek bunu kastediyordun.`
 ` Hadi ama Rosa, bugünlük buna bir son veremez misin?`
-` Bu tür şeyleri tamamen geride bıraktım."`
+` Bu tür şeyleri tamamen geçmişte bıraktım."`
 `"Emin değilim.`
-` Ne de olsa, neredeyse genetik düzeyde bir çapkınsın...!"`
+` Ne de olsa Rudolf nii-san, neredeyse genetik düzeyde bir çapkınsın...!"`
 `"Endişelenmene gerek yok, Rosa-san.`
 ` Eğer bir gül bana çok fazla sorun çıkarırsa, onu kökünden keserim."`
 `"Hoh-hoh-hoh-ho...bu ne korkutucu bir konuşma."`
-`"Kadınlar arasında popüler olan erkekler her zaman yanlarında tehlikeyle yaşamak zorunda kalırlar.`
+`"Kadınlar arasında popüler olan erkekler her zaman tehlikeyle iç içe yaşamak zorunda kalırlar.`
 ` Umarım bir sonraki hayatımda biraz daha güzel olurum!"`
 `"Hideyoshi nii-san, sana söylediğim gibi, hiç de öyle değil.`
 ` ...Ve Kyrie...kes şunu, beni korkutuyorsun.`
@@ -214,23 +214,23 @@
 ` Bak, bu benim zerafetime müke~mmel uyuyor."`
 `"Hey, kes şunu!`
 ` Maria seni taklit edecek ve dikenler yüzünden canı yanacak!"`
-`Gülün kokusunu almak için abartılı bir hareketle eğildiğimde Jessica bana bağırdı.`
+`Gülün kokusunu almak için abartılı bir hareketle eğildiğimde Jessica bana kızdı.`
 `...Aşırı tepki verdiğini düşünmüştüm ama arkamı döndüğümde Maria'nın her hareketimi taklit ettiğini ve bunun George-aniki'nin yüzüne büyük bir gülümseme yerleştirdiğini gördüm.`
-`"Hey şimdi, Maria-chan, dikkatli ol.`
+`"Hey Maria-chan, dikkatli ol.`
 ` Gülün dikenleri canını yakabilir."`
 `"......Uu?`
 ` ............George onii-chan.`
-` Bu gül çok tuhaf.`
+` Bu gül tuhaf.`
 ` Uu."`
 `"Tuhaf mı?`
 ` Sorun ne?"`
-`Maria tek bir gülü işaret etti.`
+`Maria bir gülü işaret etti.`
 `{n}Bunu neden tuhaf bulduğunu hemen anladım.`
-`Tüm bu muhteşem güllerin ortasında tek bir gül soluyordu.`
+`Tüm bu muhteşem güllerin ortasında bir tane gül soluyordu.`
 `Özel bir nedeni yoktu.`
 `{n}Bazı güller açar, bazıları ise solar.`
 `Hepsi bu kadardı, ama Maria sağlıklı bir grup gülün içinde sadece bir tane sağlıksız gül olmasından dolayı çok endişeli görünüyordu.`
-`...Bir şekilde dışlanmış gibi hissediyor olmalı.`
+`...Maria onun bir şekilde dışlanmış hissettiğini düşünüyor olmalı.`
 `"Yani sağlıklı olmayan tek gül bu olduğundan onun için üzülüyorsun...?"`
 `"......Uu.`
 ` Diğerlerinin hepsi sağlıklı ama bu üzgün."`
@@ -241,49 +241,49 @@
 ` Bu konuda bu kadar telaşlanmamalısın."`
 `".........Uu."`
 `Görünüşe göre Maria'nın saf ve hassas doğası, tek başına solan gül için duygusal bir acı hissetmesine neden oluyordu.`
-`Mantığını anlamış olsa da, yine de ona yalnızlık hissettiriyordu.`
+`Mantığını anlamış olsa da, yine de ona kötü hissettiriyordu.`
 `"Tamam, Maria-chan,`
-` o zaman neden biz gidene kadar bu güle bakmıyorsun?"`
+` o zaman neden gidene kadar bu güle bakmıyorsun?"`
 `"Uu?"`
 `George-aniki doğruldu ve cebini karıştırdı.`
 `{n}Sonra uçakta yediği şekerin ambalajını çıkardı.`
-`Onu ince bir ip haline getirdi ve bir çeşit işaret olarak güle nazikçe bağladı.`
-`"Heeey, bu çok şirin!"`
+`Onu ince bir ip hâline getirdi ve bir çeşit işaret olarak güle nazikçe bağladı.`
+`"Heeey, bu çok şirin oldu!"`
 `"Bununla işaretleyelim.`
 ` Daha sonra gelip ona biraz su verebilirsin.`
 ` Eminim Bay Gül mutlu olacaktır."`
 `"......Uu!`
 ` Gelip ona su verelim!"`
 `"Bence Bay Gül'e bir isim vermelisin.`
-` Eminim bu onu mutlu edecek ve onu biraz daha iyi tanıyacaksın."`
+` Eminim bu onu mutlu eder ve onu biraz daha iyi tanıyacaksın."`
 `"İsim...?`
 ` İsim...`
 ` ......Uu...uu..."`
 `Her zamanki asık suratına rağmen Maria kollarını kavuşturdu ve bunu dikkatle düşünmeye başladı.`
 `En azından, duygusal çöküşünden tamamen kurtulmuş gibi görünüyordu.`
-` İyi gidiyorsun, Aniki.`
-`"George nii-san her zaman çok anlayışlı olmuştur.`
+` İyi gidiyorsun Aniki.`
+`"George nii-san her zaman çok anlayışlı.`
 ` Ona saygı duymamak elde değil."`
 `"Evet.`
 ` Sanırım bu onun yeteneği.`
 ` Ondan bazı dersler almalıyız!"`
-`"Siz hepiniz çocukken bu bahçe böyle büyüleyici miydi?"`
-`"Ben evden ayrıldıktan hemen sonra bu kadar büyük oldu.`
-` Gerçi önceki rüstik bahçeyi daha çok severdim.`
-` Nii-san biraz şüpheli zevkiyle bahçeyle çok fazla oynadı.`
-` Önceki hali çok daha iyiydi."`
+`"Siz hepiniz çocukken de bu bahçe böyle büyüleyici miydi?"`
+`"Ben evden ayrıldıktan hemen sonra bu kadar görkemli hâle geldi.`
+` Gerçi önceki rustik bahçeyi daha çok severdim.`
+` Nii-san biraz tartışmalı zevkiyle bahçeyle çok fazla oynadı.`
+` Önceki hâli çok daha iyiydi."`
 `"Eva, olumlu düşünmelisin!`
-` Eskiden nasıl görünürse görünsün, şimdiki güzelliği hayran olunacak bir şey.`
-` Bu şekilde bakarsan çok daha fazla keyfini çıkarabilirsin."`
+` Eskiden nasıl görünürse görünsün, şu anki güzelliği hayranlık uyandırıcı.`
+` Bu açıdan bakarsan çok daha fazla keyfini çıkarabilirsin."`
 `"Öyle demek istemedim...`
 ` Sadece eski, daha harika bahçeyi de görmenizi isterdim diyordum."`
-`"Şimdi herkes, lütfen.`
+`"Peki o zaman millet, izninizle.`
 ` Şimdi size odalarınıza kadar rehberlik edeceğim."`
-`Gohda-san hazır olup olmadığımızı sormak için herkese seslendi,`
+`Gohda-san hazır olup olmadığımızı anlamak için herkese seslendi,`
 ` ama kalbimiz bir yıllık ara nedeniyle gül bahçesi tarafından tamamen çalınmıştı ve ona kulak vermedik.`
-`Bir seyahat grubu olmadığımız için, takip etmemiz gereken katı bir programımız yoktu.`
-`Ayrıca, ebeveynlerimiz için burası geri döndükleri eski doğdukları evdi, bu yüzden kimsenin baskısına maruz kalma zorunluluğu hissetmiyorlardı.`
-`Durumu anlayan Gohda-san, geniş bir gülümsemeyle, ebeveynlerimizin güllere olan ilgisini kaybetmesini ve bizi odalara götürmesini söylemesini beklemeye devam etti...`
+`Bir turist grubu olmadığımız için, takip etmemiz gereken katı bir programımız yoktu.`
+`Ayrıca, ebeveynlerimiz için burası geri döndükleri, sevdikleri eski evleri olduğundan, kimsenin baskısına maruz kalmak zorunda hissetmiyorlardı.`
+`Durumu anlayan Gohda-san, geniş bir gülümsemeyle, ebeveynlerimizin güllere olan ilgisini kaybedip bizi odalara kadar eşlik etmesini söylemelerini beklemeye başladı...`
 `"Oh...!`
 ` Heeey!`
 ` Bu Kanon-kun değil mi!`
@@ -291,28 +291,28 @@
 `Hideyoshi Enişte aniden bağırdı.`
 `El salladığı yönde,`
 ` .........ince yapılı bir çocuk vardı.`
-`Gohda gibi devasa bir adamın hemen ardından onunla karşılaşmak muhtemelen onun küçük boyunu vurguluyordu.`
+`Gohda gibi devasa bir adamın hemen ardından onunla karşılaşmak, muhtemelen onun ufak yapısını daha da belirgin hale getirmişti.`
 `Çocuk bir el arabasında yığılı bahçe aletlerini ve benzerlerini taşımanın ortasındaydı.`
-`Durması için çağrıldığını fark ettiğinde el arabasını yere bıraktı, şapkasını çıkardı ve başını eğdi.`
+`Durması gerektiğini fark edince, el arabasını yere bıraktı, şapkasını çıkardı ve başını eğdi.`
 `"..................`
 ` .........İyi günler."`
 `...Muhtemelen benden daha genç olduğunu düşündüm.`
 `{n}Etrafındaki genel havadan onun da bir hizmetkâr olduğunu anladım.`
-`Hideyoshi Enişteme selam vermesine rağmen, kendisi çekingen biri gibi görünüyordu.`
-`Duygudan yoksun bir selamlamaydı.`
-`Gohda-san ilgimizin ona kaydığını fark edince çocuğun yanına gitti ve onu bizimle tanıştırdı.`
-`"Battler-sama, sizi tanıştırayım.`
+`Hideyoshi Enişteme selam vermesine rağmen, kendisi pek konuşkan biri gibi görünmüyordu.`
+`Bu, duygudan yoksun bir selamlamaydı.`
+`Gohda-san ilgimizin ona yöneldiğini fark edince çocuğun yanına gitti ve onu bizimle tanıştırdı.`
+`"Battler-sama, sizi tanıştırmama izin verin.`
 ` Kendisi Ushiromiya'ya hizmet eden hizmetkârlardan biridir.`
 ` ...Kanon-san, misafirimizi selamla."`
-`"..................Sizinle tanıştığıma memnun oldum.`
+`"..................Tanıştığımıza memnun oldum.`
 ` Ben hizmetkâr............`
 `Kanon ({p:0:嘉音})."`
-`Evet, ilk izlenimimde yanılmamışım—çekingen ya da biraz kötü konuşan biri olduğu hissini verdi.`
+`Evet, ilk izlenimimde yanılmamışım—insanlardan uzak ya da belki de pek iyi konuşamayan biri gibi bir izlenim bırakıyordu.`
 `Bir hizmetkâr olarak olağanüstü kibar olan Gohda-san'ın aksine,`
 ` onun yaşındaki birinden bekleyeceğiniz olgunlaşmamışlığı hissetmemek mümkün değildi.`
-`Gohda-san fısıltıyla onu biraz daha kendini tanıtması için teşvik ettiğinde, Kanon adlı çocuk karşılık olarak gözlerini aşağıya doğru çevirdi.`
+`Gohda-san fısıldayarak ona biraz daha kendini tanıtmasını söylediğinde, Kanon adındaki çocuk gözlerini yere çevirdi.`
 `"Kanon-san.`
-` Onları biraz daha iyi karşılayabilir misin...?"`
+` Biraz daha iyi bir karşılama yapamaz mısın...?"`
 `"............Yapamam.`
 ` ............Çünkü biz...`
 `...mobilyayız."`
@@ -323,69 +323,69 @@
 ` Onu yanlış anlamayın...!"`
 `"Üç yıldır burada çalışıyorsun, değil mi?`
 ` Yani evet, Gohda-san'dan bir yıl daha uzun süredir buradasın, değil mi Kanon-kun?"`
-`Çok kötü bir izlenim bırakmış gibi görünmese de Jessica aceleyle onu destekledi.`
+`Çok kötü bir izlenim bırakmış gibi görünmese de Jessica aceleyle ona arka çıktı.`
 `...Anlıyorum, görünüşe göre pek sosyal olmaması her zaman aleyhine işliyor.`
 `"Harika, tanıştığımıza memnun oldum.`
 ` Ben Battler!`
 ` 18 yaşındayım, sen kaç yaşındasın?"`
 `"..........................."`
 `Sanki cevaplanması gereken bir soru olup olmadığını değerlendiriyormuş gibi bir sessizlik.`
-`{n}...Ama burada da Jessica devam etti.`
-`"Um, uhh...!`
+`{n}...Ama bu sefer de Jessica devam etti.`
+`"Ah, şey...!`
 ` Yanlış hatırlamıyorsam bizden iki yaş küçük, yani...16, değil mi?"`
-`"............Evet, ...bu doğru."`
+`"............Evet, ...doğru."`
 `Seçme şansı olsaydı bize yaşını söylememeyi tercih eder gibi görünüyordu.`
-`Yaşını söylemek istememesinin nedeni muhtemelen yaşının küçümseneceğini düşünmesiydi.`
+`Yaşını söylemek istememesinin sebebi, muhtemelen yaşından dolayı hor görüleceğini düşünmesiydi.`
 `...Onun yaşlarındayken, yetişkinler tarafından kaç yaşında olduğumun sorulmasından nefret ettiğimi hatırlıyorum.`
 `...Anlıyorum, 16 demek?`
-`{n}Bu hassas bir zaman olmalı.`
+`{n}Bu oldukça hassas bir dönem olmalı.`
 `{n}...Bu durumda, sormamam gereken bir şey sordum.`
-`"Heh heh~, bizim yaşımızda olmana sevindim!`
+`"Heh heh~, bizim yaşlarımızda olmana sevindim!`
 ` Rahat olup bana Battler diyebilirsin!`
 ` Ben de sana Kanon diyeceğim!"`
 `".........Çok teşekkür ederim.`
-` Ama sadece niyet yeterli, ...Battler-sama."`
+` Ama sadece düşünmeniz yeterli, ...Battler-sama."`
 `Jessica nedense telaşlı görünüyordu.`
-`{n}Onun reddetmesi yüzünden Kanon hakkındaki izlenimlerimin kötüleştiğini düşünüyor gibiydi.`
-`Jessica gibi bir kızın onun endişeli erkek kalbini anladığından şüpheliyim.`
-`Onu ergenlik çağına taşıyacak olan büyüğü olarak—sadece iki yaş farkla bile olsa—bunu anlamayı kendime görev edindim.`
+`{n}Kanon'un beni reddetmesi yüzünden ona karşı olan izlenimimin kötüye gittiğini düşünüyor gibiydi.`
+`Jessica gibi bir kızın onun karamsar erkek duygularını anlayabileceğinden şüpheliyim.`
+`Onu ergenlik çağına taşıyacak olan büyüğü olarak—sadece iki yaş fark bile olsa—bunu anlamayı kendime görev edindim.`
 `"Kanon-san, biraz daha nazik olabilir misin?`
 ` Güler yüzlü olmak da bir hizmetkârın görevidir."`
 `"...............Özür dilerim.`
 ` ...Çaba göstereceğim."`
 `"Hoh-hoh-ho...`
 ` Gohda-san, Kanon-kun elinden geleni yapıyor, değil mi?"`
-`Kabalığı konusunda sık sık uyarılmış gibi görünüyordu.`
-`{n}Ve görünüşe göre biraz bile gelişmemiş.`
-`Gohda-san iş gülümsemesini korudu, ancak küçük bir iç çekmeden duramadı.`
+`Kabalığı konusunda sık sık uyarılıyormuş gibi görünüyordu.`
+`{n}Ve görünüşe göre hiç gelişme kaydetmemiş.`
+`Gohda-san resmi gülümsemesini korudu, ancak küçük bir iç çekmeden duramadı.`
 `"......Öyleyse, hâlâ yapacak işlerim var.`
 ` .........İzninizle."`
 `Kanon'un kendisi de burada daha fazla sessiz kalmaktan rahatsız olmuşa benziyordu.`
 `Göstermelik bir selam daha verdikten sonra topuklarının üzerinde döndü ve el arabasını tekrar itmeye başladı.`
-`Tam o sırada, aniden, el arabası yalpaladı ve yükü dağıtarak düştü.`
-`Sanırım tek tekerlekli el arabası bir çakıl taşına takılmış ve dengesini kaybetmişti.`
-`"Ne yaptın sen...hadi hadi, çabuk temizle...!"`
-`Gohda-san, misafirlerin önünde sakar bir görüntü sergilemenin bir hizmetkârın utancı olduğunu hatırlatmak istercesine alçak sesle onu teşvik etti.`
-`Söylenmeden de gayet iyi anladığını gösteren Kanon-kun, el arabasını düşen eşyalarla birlikte sözsüz bir şekilde yeniden yükledi.`
-`Hafif görünümlü bahçe aletleri, kürekler ve benzerleriyle arası iyi görünüyordu ancak bazı gübre çuvallarını kollarıyla kavrayıp kaldırmakta zorlanıyor gibiydi.`
+`Tam o anda, el arabası aniden sallanıp devrildi ve yükü etrafa saçıldı.`
+`Sanırım tek tekerlekli el arabası bir çakıl taşına takıldı ve dengesini kaybetti.`
+`"Ne yaptın sen...hadi hadi, çabuk topla...!"`
+`Gohda-san, misafirlerin önünde sakarca bir görüntü sergilemenin bir hizmetkâr için utanç verici olduğunu hatırlatırcasına, alçak bir sesle onu acele ettirdi.`
+`Söylenmesine gerek kalmadan durumu gayet iyi anladığını gösteren Kanon-kun, düşen eşyaları tek kelime etmeden el arabasına yeniden yükledi.`
+`Hafif görünümlü bahçe aletleri, kürekler ve benzeri eşyalarla bir sorun yaşamamıştı, ancak birkaç torba gübreyi kollarıyla alıp kaldırmakta zorlanıyor gibiydi.`
 `"İyi misin? Çok dikkatsizsin.`
 ` Al bakalım."`
 `"Leydim, giysilerinizi kirleteceksiniz.`
-` Lütfen, bu işi ona bırakın."`
-`Gohda-san zarif bir hareketle Jessica'nın aldığı küreği aldı.`
+` Lütfen bu işi ona bırakın."`
+`Gohda-san zarif bir hareketle Jessica'nın kaldırdığı küreği geri aldı.`
 `Arkasında, gübre çuvallarıyla başı dertte olan Kanon-kun'un figürü vardı.`
 `"......Uu.`
-` Giysilerinizi kirletecek misiniz?"`
+` Giysilerinizi mi kirleteceksiniz?"`
 `"Merak etme, üzerimdekiler o kadar da şık değil."`
-`"Ayrıca, restoranda düşürdüğü çatalı garsona toplatan erkeklerden nefret ederim."`
+`"Ayrıca, restoranda düşürdüğü çatalı garsona aldıran erkeklerden nefret ederim."`
 `Düşen diğer torbaları kaldırdım.`
 `{n}Elbette hafif değillerdi ama benim için çocuk oyuncağıydı.`
 `Kanon-kun şaşkın gözlerini bana çevirdi.`
-`{n}Bir misafirden yardım almayı hiç beklemeyen birinin yüzüydü bu.`
+`{n}Bu, bir misafirden yardım almayı hiç tahmin etmeyen birinin yüzüydü.`
 `"............B-Battler-sama...`
 ` Buna gerek yok... Ben her şeyi halledeceğim, yani..."`
 `"Dert etme!`
-` Öyle görünmüyor olabilirim ama önemli olan her yerde varım!`
+` Öyle görünmüyor olabilirim ama ihtiyaç olan her yerde olurum!`
 ` Heheh!"`
 `Kanon-kun henüz büyüme çağını tamamlamamış ve zayıf bir vücuda sahipmiş gibi görünüyordu.`
 `Sanırım bu tür bir ağırlık onun için biraz fazla.`
@@ -393,14 +393,14 @@
 ` Kanon-kun, senin için zor olması doğal.`
 ` Kanon-kun, endişelenme."`
 `"Tamam, parlama zamanım geldi.`
-` Bu, önceki tekne kısmını telafi ediyor, değil mi?"`
+` Bu, önceki tekne konusunu telafi eder, değil mi?"`
 `"Ha!`
-` Sanki daha önceki maskaralıkların öylece silinip atılabilirmiş gibi!`
+` Sanki o maskaralıkların öylece silinip atılabilirmiş gibi!`
 ` Ah-hah-hah-ha!`
-` Sana sonra anlatırım, Kanon-kun—Battler tam bir komedi!"`
+` Kanon-kun, sana sonra anlatacağım—Battler tam bir komedi!"`
 `"Düşeceeek düşeceeek!!`
 ` Uu-uu-uu!!!"`
-`Şakalaşmalar işi çabuklaştırdı ve ne olduğunu anlamadan tüm eşyalar el arabasına geri yığıldı.`
+`Şakalaşmalar işi hızlandırdı ve ne olduğunu anlamadan tüm malzemeler el arabasına geri yüklendi.`
 `"............Böyle bir çirkinliği görmenize izin verdiğim için affınıza sığınıyorum."`
 `"Pekâlâ, bu kadar yeter.`
 ` Lütfen, git."`
@@ -410,35 +410,35 @@
 ` Zorbalık etmek yerine ona yardım etseydin daha iyi olmaz mıydı?"`
 `"...Çok haklısınız.`
 ` Çok ama çok affınıza sığınıyorum."`
-`Gohda-san gülümsemesinde bir kıpırdanma bile olmadan zarif bir şekilde özür diledi.`
+`Gohda-san, yüzündeki gülümsemeyi hiç bozmadan zarif bir şekilde özür diledi.`
 `"Kanon-kun'un da iyi olduğu bir sürü şey var.`
 ` Sadece genç olmak her zaman aleyhine işliyor.`
 ` Çok yazık."`
-`"Huysuz bir yaş.`
-` Ona karşı nazik ol.`
+`"Zorlu bir yaş.`
+` Ona karşı nazik olun.`
 ` Ağzını sıkı tutmak tam da bir hizmetkârda olması gereken şeydir.`
 ` Değil mi, Kumasawa-san?"`
 `"Hoh-hoh-hoh-ho, Rudolf-sama, gerçekten çok acımasızsınız!`
-` Benim kadar sessiz bir hizmetkâr yoktur elbette!"`
+` Benden daha sessiz bir hizmetkâr yoktur elbette!"`
 `Bu utanmaz yalan karşısında herkes alaycı bir şekilde gülümsedi.`
-`{n}Kendisi bile buna inanmıyordu, en çılgın rüyalarında bile.`
-`{n}Bunu hepimizi gevşetmek için söyledi.`
-`Evet, Kumasawa baa-chan eskiden böyle bir karakterdi.`
-`Kumasawa-san'ın neşeli gülümsemesi sayesinde biraz katılaşmış olan ruh hali bir anda düzeldi.`
+`{n}Buna kendisi bile inanmazdı, en çılgın hayallerinde bile.`
+`{n}Bunu hepimizi rahatlatmak için söyledi.`
+`Evet, Kumasawa baa-chan eskiden tam da böyle biriydi.`
+`Kumasawa-san'ın neşeli gülümsemesi sayesinde, biraz gerginleşen hava bir anda yumuşadı.`
 `"Bavulları bir an önce bırakmak istiyorum.`
-` Gohda-san, odalarımız için nasıl ayrılacağız?"`
-`"Geçen yılki gibi olacak.`
+` Gohda-san, odalara nasıl ayrılacağız?"`
+`"Geçen yıl olduğu gibi olacak.`
 ` Size rehberlik edeceğim.`
 ` Lütfen, bu taraftan."`
 `Şık ve zarif konukevine doğru yöneldik.`
 `{n}Burası bir geceliğine geçici olarak kalacağımız yer olacaktı.`
 `".........................................."`
 `Kanon bir çitin üzerinden misafirlerin konukevine girişini izledi.`
-`Sonra gözleri el arabasına yığılmış ağır gübre çuvallarına takıldı.`
+`Sonra gözlerini, el arabasında yığılmış olan o ağır gübre çuvallarına dikti.`
 `Aklından önceki hatasını geçirmeye devam etti.`
-`{n}İri yarı ve güçlü Battler, kendi kaldıramadığı çuvalları önünden tüy gibi kaldırmıştı.`
+`{n}İri ve güçlü Battler, kendi başına kaldıramayacağı önündeki çuvalları sanki tüy gibi kaldırmıştı.`
 `Dışarıdan bir gözlemcinin bu iyiliğin Kanon'da hangi duyguları uyandırdığını tahmin etmesi son derece zordu.`
-`Ancak başını arkadan sarkıtmasını izleyerek söyleyebileceğiniz kadarıyla, aklına takılan bir şey vardı.`
+`Ancak arkadan başını eğmiş hâlini izleyerek söyleyebileceğiniz kadarıyla, bir türlü kafasından atamadığı bir şey vardı.`
 `...Mırıldandığı kelimeler dudaklarından kaçtı.`
 `{n}Ama mırıldandığı kelimeler o kadar sessizdi ki kendi kulaklarına bile ulaşmadı.`
 `"...............Benim bile...`
@@ -446,131 +446,131 @@
 `Kanon başını eğdi, alt dudağını hafifçe ısırdı...`
 `"Gül bahçesini hatırlıyorum ama...`
 `bu konukevini hiç hatırlamıyorum.`
-` Yakın zamanda falan mı inşa edildi?"`
+` Yakın bir zamanda falan mı inşa edildi?"`
 `"Kapı direğine benzer bir şeyin üzerinde "Toraian" (Ziyaretçi Evi) yazıyordu ama herkes buraya konukevi dediği için ben de onlara uydum.`
 `Gül bahçesine bakan Batı tarzı yepyeni konukevi, bahçeyle uyum içinde özenle yapılmış muhteşem bir tasarıma sahipti.`
 `"Doğru!`
 ` Daha evvelki yıl inşa edildi.`
 ` O zamandan beri burada kalmamıza izin veriyorlar."`
-`"Hehe, evet, çünkü insanlar burayı o eski püskü malikâneden daha çok seviyor gibi görünüyor.`
+`"Hehe, çünkü insanlar burayı o eski püskü malikâneden daha çok seviyor gibi görünüyor.`
 ` Keşke benim odam da burada olsaydı!"`
 `"Uu!`
 ` Maria da bir tane istiyor!`
 ` Ben de istiyorum!"`
-`...Sanırım benim evime de üst sınıf diyebilirsiniz, ancak baştaki eve kıyasla ne kadar sıradan olduğunu bir kez daha hatırladım.`
+`...Sanırım benim evimi de üst sınıf olarak nitelendirebilirsiniz, ama ana binaya kıyasla ne kadar sıradan olduğunu bir kez daha fark ettim.`
 `Yılda bir kez gelen misafirler için bu tür harika bir konukevi inşa etmeleri şok edici bir zenginlik göstergesiydi.`
 `"Eva-sama, Hideyoshi-sama.`
 ` Lütfen bu odayı kullanın.`
-` Rudolf-sama, Kyrie-sama, lütfen bu odayı kullanın."`
-`"Ah evet, buranın ne kadar güzel ve zarif olduğunu takdir ediyorum.`
+` Rudolf-sama, Kyrie-sama, siz de lütfen bu odayı kullanın."`
+`"Ah evet, buranın ne kadar güzel ve zarif olduğunu gerçekten takdir ediyorum.`
 ` Batı tarzı gerçekten harika."`
-`"Batı tarzını birkaç gün idare edebilirim, ancak bundan daha uzun bir süre için eski güzel Japon tarzına ihtiyacınız var!`
-` Japonlar en iyi tatami minderlerinde rahatlar."`
+`"Batı tarzına birkaç gün dayanabilirim, ama bundan daha uzun sürerse, yine eski usul Japon tarzına dönmek gerekir!`
+` Japonlar en iyi tatami minderlerinde rahat ederler."`
 `"...Haha, yeni evimizi Japon tarzı mı yoksa Batı tarzı mı yapalım diye kavga ediyorlar.`
 ` Annem, babamın inşaatı Japon tarzı olarak başlatmasına hâlâ kin duyuyor ve bu konuda sürekli tartışıyorlar."`
-`"Annenle baban çok iyi geçiniyor, George nii-san... Çok kıskanıyorum.`
+`"George nii-san, seninkiler çok iyi geçiniyor... Çok kıskanıyorum.`
 ` Benimkiler çok soğuk.`
 ` Yine de konu ders notlarıma gelince birbirlerine hak veriyorlar."`
 `Tüm odalar iki kişilik gibi görünüyordu.`
-`{n}Buna minnettardım, çünkü artık "aile olmak" gibi saçma bir nedenle yaşlı piçle aynı odayı paylaşmak zorunda kalmayacaktım.`
+`{n}Buna minnettardım, çünkü artık "aile olduğumuz" gibi saçma bir nedenle yaşlı piçle aynı odayı paylaşmak zorunda kalmayacaktım.`
 `Ayrıca, o ikisinin etrafta benim gibi biri varken eğlenemeyeceklerini düşündüm, ihihi.`
 `"Bu ürpertici gülümseme de neyin nesi?`
-` Kirli bir şeyler düşünüyorsun, değil mi?"`
-`"Ihihihi~!`
-` Kiiirlii bir şey mi? Tabii ki de hayı~r!`
-` Lütfen... Keyfinize bakın~!"`
-`"Ow, owowowow!`
+` Aklında müstehcen bir şeyler var, değil mi?"`
+`"İhihihi~!`
+` Müüsteehcen mi? Tabii ki de hayı~r!`
+` Lütfen...keyfinize bakıın~!"`
+`"Ov, ovovovov!`
 ` Bu acıttı, seni yaşlı piç!"`
-`Babam bir kez daha kulaklarımı arkadan çekti.`
+`Babam bir kez daha kulağımı arkadan çekti.`
 `"Saçmalamayı kes.`
 ` Karnım ağrıyor ve hiç havamda değilim.`
 ` Bu sefer onur konuğu sensin.`
-` Babama, Aniki'ye ve diğerlerine olabildiğince iyi davran."`
-`"......En azından babamın önünde söylediklerine dikkat et, anladın mı?`
-` Çünkü espriler onun gözünde kurşun balon gibi patlar.`
-` ......Jessica-chan, son zamanlarda aile reisimizin ruh hali nasıl?"`
+` Babam, Aniki ve diğerleriyle olabildiğince iyi geçin."`
+`"......En azından Babamın önünde söylediklerine dikkat et, anladın mı?`
+` Çünkü espriler onun gözünde hiç hoş karşılanmaz.`
+` ......Jessica-chan, son zamanlarda aile reisimizin ruh hâli nasıl?"`
 `"...Hmm......`
 `geçen yılla aynı sanırım.`
 ` ......Üç ayı kaldığını söyleyip durduklarına bakılırsa, işte o kadar canlı,`
 ` huysuz,`
 ` ve her zamanki gibi sinirli."`
-`"Yani, bu yıl da her zamanki kötü ruh halinde.`
+`"Yani, bu yıl da her zamanki kötü ruh hâlinde.`
 ` ......Ve onunla ilgilenebilecek tek kişi Genji-san mı?"`
-`"Görünüşe göre Efendi kalbini sadece Genji-san'a açıyor.`
+`"Görünüşe göre Efendi kendini sadece Genji-san'a açıyor.`
 ` Son zamanlarda, biz küçük insanlar onunla konuşamıyoruz bile..."`
-`"Yine çalışma odasına kapanmış, muhtemelen o tuhaf kara büyüsünden başka bir şey yapmıyor.`
+`"Yine çalışma odasına kapanmış, muhtemelen o tuhaf kara büyüsünden başka bir şey yapmıyordur.`
 ` Hobi olarak ne yaptığı kendi bileceği iş, ama ortalığı kokutmaya başlayınca gerçekten sinirlerim bozuluyor.`
-` ...O çalışma odasında kalabilir ve bir daha asla dışarı çıkmayabilir, umurumda değil.`
+` ...O çalışma odasında kalabilir ve bir daha asla dışarı çıkmayabilir, umrumda değil.`
 ` Heheheh!"`
 `"Büyükler hakkında böyle konuşmamalısın.`
 ` Ushiromiya ailesini yeniden inşa ettiği için hepimiz ona borçluyuz ve biraz minnettarlıktan zarar gelmez."`
 `"Hm...şey...`
-` ......Özür dilerim."`
-`George-aniki tarafından azarlandıktan sonra Jessica'nın düşüncesizce söylediği sözleri geri almaktan başka çaresi kalmamıştı.`
-`Ushiromiya ailesi inanılmayacak kadar zengindi, ancak bu elbette tüm üyelerinin toplumun geri kalanıyla tamamen çelişen eksantrik insanlar olduğu anlamına geliyordu.`
-`Ailenin en tepesinde duran aile reisi—yani Büyükbabamız—bizim ailemiz için bile özellikle eksantrik ve ürkütücü bir kişiydi.`
-`Babam daha önce karnının ağrıdığını söylemişti ama sanırım bugün buraya gelen tüm yetişkinler aslında bunu hissediyordu.`
-`Hiç şüphesiz, umursamadan oynayıp gülen biz çocukları kıskanıyorlardı.`
-`Babamın bana anlattığı hikâyelere göre, ailenin reisi, oğullarına kendi yumruklarıyla darbeler yağdıran ve hatta kızlarını tahta bir kılıçla acımasızca döven vahşi bir adamdı.`
-`Madem çocuklarına karşı bu kadar katı bir gelenekçiydi, neden onların isimleri konusunda da aynı şeyi yapmıyordu?`
+` ......Üzgünüm."`
+`George-aniki tarafından azarlandıktan sonra Jessica'nın düşüncesizce söylediği sözleri geri almaktan başka çaresi kalmadı.`
+`Ushiromiya ailesi inanılmaz derecede zengindi, ama bu tabii ki tüm aile üyelerinin toplumun geri kalanıyla tamamen uyumsuz, eksantrik insanlar olduğu anlamına geliyordu.`
+`Ailenin en tepesinde duran aile reisi—yani Büyükbabam—bizim ailemiz içinde bile özellikle eksantrik ve ürkütücü bir kişiydi.`
+`Babam az önce karnının ağrıdığını söylemişti ama sanırım bugün buraya gelen tüm yetişkinler aslında bunu hissediyordu.`
+`Hiç şüphesiz, hiçbir dertleri olmadan sadece oynayıp gülen biz çocukları kıskanıyorlardı.`
+`Babamın bana anlattığı hikâyelere göre, ailenin reisi, oğullarına yumruklarıyla darbeler yağdıran ve hatta kızlarını tahta bir kılıçla acımasızca döven şiddet dolu bir adamdı.`
+`Madem çocuklarına karşı bu kadar katı bir gelenekçiydi, neden isimler konusunda da aynı tutumu sergilemedi?`
 `Bu yüzden biz torunları bile acı çekmek zorunda kalıyoruz.`
-`......Onunla ilgili çizdikleri korkunç imaja inanmakta hiç zorluk çekmiyorum.`
-`Yıllar içinde onu gördüğüme dair çok fazla anım yok, ama yüzünün tehditkâr gök gürültüsü bulutlarıyla dolu olduğunu ve etrafındaki insanların keskin bir bakışla kaçışmasına neden olduğunu hatırlıyorum.`
-`O etraftayken odanın atmosferinin çok gerginleştiğini, nefes bile alamadığınızı hatırlıyorum.`
-`Babamın şu anda benim onur konuğu olmamla ilgili söyledikleri şimdi benim için biraz daha önem taşıyor.`
+`......Onun hakkında çizdikleri o korkunç imaja inanmakta hiç zorlanmıyorum.`
+`Yıllar boyunca onunla karşılaştığım anlara dair pek fazla anım yok, ama yüzünün her zaman tehditkâr bulutlarla kaplı olduğunu ve keskin bakışlarıyla etrafındakileri her seferinde korkutup kaçırdığını hatırlıyorum.`
+`O etraftayken odanın atmosferinin çok gerginleştiğini, nefes bile alamadığımızı hatırlıyorum.`
+`Babamın az önce benim onur konuğu olduğumla ilgili söyledikleri, benim için artık biraz daha anlam kazanıyor.`
 `".........Altı yıl önce ilkokuldaydım ama artık bir lise öğrencisiyim, bundan kaçış yok.`
-` Eğer ona saygı göstermezsem, muhtemelen işler ciddileşecek.`
+` Eğer ona saygı göstermezsem, işler muhtemelen ciddiye bürünür.`
 ` ...Ooo, korkutucu."`
-`"Korkutucu görünüyor ama tamamen dehşet verici değil.`
-` Kesinlikle haksız değil.`
+`"Gerçekten ürkütücü görünüyor, ama o kadar da korkutucu değil.`
+` Asla adaletsiz davranmaz.`
 ` Sadece hoş bir konuşmacı değil, hepsi bu."`
-`"Ama George nii-san, harika ders notların sayesinde ezelden beri ailenin sevgilisisin, değil mi?`
+`"Ama George nii-san, harika ders notların sayesinde ezelden beri ailenin sevgilisi değil misin?`
 ` Büyükbabam bize tamamen farklı davranıyor!"`
-`"Benim gibi, ben de tahta kılıçla tokat yedim.`
+`"Ben de tahta kılıçla şaplaklandım.`
 ` Kıçıma, kıçıma!`
-` Çıplak kıçıma!"`
-`"Sen baş evin varisisin, Jessica-chan.`
+` Hem de çıplak kıçıma!"`
+`"Jessica-chan, sen baş ailenin varisisin.`
 ` Büyükbabam sana özel ilgi gösteriyor.`
-` Bu kadar katı olmasının senden ne kadar çok şey beklediğini gösterdiğini anlamalısın."`
-`"Oh, hadi ama.`
-` ...Cidden, görevi sana devredebilirim, George nii-san.`
+` Onun bu katı tavrının, senden ne kadar çok şey beklediğini gösterdiğini anlamalısın."`
+`"Dalga geçiyor olmalısın.`
+` ...Gerçekten görevi sana devredebilirim, George nii-san.`
 ` Bu benim için biraz ağır bir yük."`
 `Sanırım bunu daha önce de söyledim ama Jessica evin varisi olacak kız.`
 `{n}Omuzlarındaki baskı biz şube ailelerindeki kuzenlerden farklı olmalı.`
 `".........Uu?`
 ` Jessica onee-chan, ağır mı?`
-` Tutarsam hafifler mi?"`
+` Maria da tutarsa hafifler mi?"`
 `"Hm?`
 ` Ahahahaha, teşekkürler.`
-` Sorun değil, sana paslamayacağım, Maria-chan."`
-`"......Bu haçı mezara kadar taşıyacağım.`
+` Sorun değil Maria-chan, sana paslamayacağım."`
+`"......Bu yükü mezara kadar taşıyacağım.`
 ` ...Merak etme."`
-`Maria'nın masum düşüncesi için minnettar olsa da Jessica'nın yüzünde beliren gelecek kaygısından kolay kolay kurtulamayacağı anlaşılıyordu.`
+`Maria'nın masum düşüncesi için minnettar olsa da, Jessica'nın yüzünde beliren gelecek kaygısından kolay kolay kurtulamayacağı anlaşılıyordu.`
 `...Sanırım ben de farklı değilim.`
 ` Önünde sınavlar olan her lise öğrencisinin saklayamadığı bir gelecek kaygısı olması kaçınılmazdır.`
 `"Maria, buraya gel.`
-` Sen ve ben bu odada olacağız."`
+` Sen ve ben bu odada kalacağız."`
 `"Battler-kun, görünüşe göre sen de benimle bu odadasın."`
 `"Oh?`
 ` Bu b~ir sürpriz!`
 ` Ailemizin odasından daha büyük, wo~w!"`
 `"Kuzenler olarak zaten hepimiz bir yerde toplanacağız diye düşündüm.`
-` Bu yüzden gidip onlara büyük bir oda hazırlamalarını söyledim."`
+` Bu yüzden gidip onlara büyük bir oda hazırlatmalarını söyledim."`
 `"Uu!`
 ` Maria da burayı istiyor!`
 ` Burası annemle birlikte olmaktan daha iyi!`
 ` Uu-uu!"`
-`"Tamam, sen de burayı istiyorsun Maria!`
-` Pekâlâ, bu oda George ve benim, ama içeri girmen için sana özel izin vereceğiz!`
+`"Tamam, Maria demek sen de burayı istiyorsun!`
+` Pekâlâ, bu oda George-aniki ve benim, ama içeri girmen için sana özel izin vereceğiz!`
 ` Bunu annenden sır olarak sakla, tamam mı?"`
 `"Uu!`
 ` Sır!"`
-`Annesi Rosa Hala hemen arkasındaydı ama Maria yine de yumruklarını sıkıp havaya vurarak cevap verdi.`
+`Annesi, Rosa Hala hemen arkasındaydı ama Maria yine de yumruklarını sıkıp havaya kaldırarak cevap verdi.`
 `Bizimkiler bavulları odalara yerleştirdikten sonra tekrar koridorda toplandılar.`
 `"Ee, veletler, ne yapacaksınız?`
 ` Siz kuzenler burada kalıp sohbet mi edeceksiniz?"`
 `Görünüşe göre geldiklerini duyurmak için malikâneye doğru gidiyorlardı.`
-`...Normalde onları takip etmemiz ve herkesi birlikte karşılamamız gerekirdi,`
+`...Normalde onların peşinden gidip herkesi hep birlikte karşılamamız gerekirdi,`
 ` ama öyle olsaydı babam "Siz de geliyorsunuz!" der ve işi bitirirdi.`
 `Gelmezsek sorun olmayacağını söylüyor... Peki ne yapacağız?`
 `"Zaten birazdan yemek vakti gelecek.`
@@ -581,18 +581,18 @@
 `"Maria, sen odaya göz kulak ol tamam mı?`
 ` Uslu dur ve burada bekle."`
 `"......Uu."`
-`Artık Maria'ya odaya bakması söylendiğine göre, onu öylece bırakamazdık.`
+`Artık Maria'ya odada durması söylendiğine göre, onu öylece bırakamazdık.`
 `George-aniki bunu hemen fark etti ve hepimiz için net bir cevap verdi.`
-`"Pekâlâ, teklifinizi kabul edeceğiz ve odada kalacağız.`
+`"Pekâlâ, teklifi kabul edip burada kalacağız.`
 ` Bir yıl aradan sonra birbirimize anlatacak bir sürü hikâyemiz var."`
 `"En iyisi bu olur.`
 ` Ve Battler-kun'un da anlatacak altı yılı var ne de olsa!"`
 `"Evet, evet.`
-` İyi bir çocuk gibi evle ilgileneceğim."`
+` İyi bir çocuk olup evle ilgileneceğim."`
 `"Kumasawa-san, ben de burada kalacağım!`
-` Gerisini yetişkinlere bırakır ve biz çocuklar rütbe atlarız, heheheh!"`
+` Gerisini yetişkinlere bırakıp biz çocuklar aradan çekilelim, heheheh!"`
 `"Bu en iyisi olur, hoh-hoh-ho.`
-` Bunu Madam'a bildireceğim..."`
+` Bunu Madam'a ileteceğim..."`
 `"O zaman millet, size malikâneye kadar rehberlik edeceğim.`
 ` Lütfen, bu taraftan."`
 `"...Diğer çocuklar bir yana, George artık bir yetişkin. Bizimle gelse daha iyi olmaz mı?"`
@@ -601,8 +601,8 @@
 ` Peki o zaman, görüşürüz çocuklar!"`
 `Yetişkinler birbiri ardına ayrıldı.`
 `Limanda bize rehberlik ettiği zaman olduğu gibi Gohda-san önde, Kumasawa-san arkada gitti.`
-`Bize tahsis edilen kuzenlerin odasında toplandığımızda, George-aniki bir saniye müsaade istedi.`
-` Ortadan kaybolan yetişkinlerin arkasından gelen Kumasawa-san'ın yanına koştu ve ona bir şeyler soruyor gibiydi.`
+`Bize tahsis edilen kuzenlerin odasında toplandığımızda, George-aniki bir saniye müsaade isteyerek odadan çıktı.`
+` Ortadan kaybolan yetişkinlerin arkasından giden Kumasawa-san'ın yanına koştu ve ona bir şeyler soruyor gibi görünüyordu.`
 `Kısa süre sonra işini bitirip geri döndü.`
 `"Ne oldu, Aniki?"`
 `"Ah, bir şey yok.`
@@ -613,59 +613,59 @@
 `"......Hm~?`
 ` Hmhuhuhuhu.`
 ` George nii-san'ın Kumasawa-san'a sorup da bana sormadığı şey ne olabilir acaba~?`
-` Ah, hiçbir fikrim yok~!"`
+` Ah, hiç mi hiç fikrim yok~!"`
 `"Hayır, yanlış anladın...!`
 ` Jessica-chan, neyi yanlış anladığından emin değilim ama...!"`
-`Aniki'nin dili tutulmuştu.`
+`Aniki dilini yutmuş gibiydi.`
 `Sanki saklayacak bir şeyi varmış ve Jessica da ona takılıyor gibiydi.`
 `...Bu her neyse, sadece Jessica'nın bildiği ve benim bilmediğim bir şey hiç de eğlenceli değil!`
-`"Hey Maria, bu döngüden sadece bizim haberdar olmamamız sence adil mi~?`
-` Ne konuştuklarını bilmek istiyoruz, öyle değil mi~?!"`
+`"Hey Maria, bundan haberi olmayan tek kişiler olmamız sence de adil mi~?`
+` Ne konuştuklarını bilmek istemiyor muyuz~?!"`
 `"Uu!`
 ` Battler ve Maria da bilmek istiyor!`
 ` Battler ve Maria da bilmek istiyor!"`
 `""Uu-uu-uu-uu!!!""`
-`Maria ile birlikte "uu-uu"larken etrafta dolanıyordum.`
+`Maria ile birlikte "uu-uu"larken etrafta koşturuyorduk.`
 `"Hayır, size söylüyorum...önemli bir şey değil, ahahaha..."`
 `"Yalan~cı!`
-` Yalan söylemekte berbatsın, şimdi itiraf et!`
-` Maria, sen onun sağ tarafını gıdıkla, ben de sol tarafını gıdıklayayım!"`
+` Aniki yalan söylemekte berbatsın, şimdi itiraf et!`
+` Maria, sen onun sağı gıdıkla, ben de solunu gıdıklayayım!"`
 `"Uu!`
 ` Maria sağ tarafa, Battler sol tarafa!`
 ` Uu!"`
-`"Bekle bir saniye!!`
+`"Durun!!`
 ` Siz ikiniz durun...!!`
 ` Ahahaha, dur,`
 ` ahahahahahaha!!"`
-`George-aniki kaçmak için yatağın üzerinde yuvarlandı, Maria ve ben de onu kovalayarak oynadık.`
-`Aklımın bir köşesinde artık bir kedi yavrusu değil de liseli olduğumu söyleyen bir şeyler vardı ama buna rağmen bu tür bir eğlenceyi özlemiştim.`
+`George-aniki kaçmak için yatakta yuvarlandı, Maria ve ben de onunla uğraşarak oynadık.`
+`Aklımın bir köşesinde artık bir kedi yavrusu değil de liseli olduğumu söyleyen bir ses vardı ama buna rağmen bu tür bir eğlenceyi özlemiştim.`
 `Sıcak bir eğlence.`
 `"Haahahahaha, George nii-san'ın Kumasawa-san'a sorduğu şey...`
 ` Hmm~?`
 ` Şey, nasıl olduğunu bilirsin.`
 ` En son buraya geleli bir yıl oldu.`
-` Görünüşe göre bu süre zarfında işe girmiş veya işten ayrılmış olabilecek hizmetkârlara merhaba demek için can atıyor, anlıyor musun?"`
+` Görünüşe göre bu süre zarfında işe girmiş veya işten ayrılmış olabilecek hizmetkârlara merhaba demek için can atıyor."`
 `"......Uu?`
 ` Merhaba de, Maria da merhaba desin!"`
 `"Ne olacak ki, bunda suçluluk duyulacak bir şey yok, Aniki.`
 ` ......Hmm~~m?`
-` Sadece bu kadar değil, öyle değil mi??`
+` Hepsi bu değil, değil mi??`
 ` Maria aldanma, Aniki hâlâ bir şeyler saklı~yor!`
 ` Sorgulamaya devam et!!`
-` Uworyaaa!!"`
+` Uooryaaa!!"`
 `"K-Kesin şunu, cidden!`
 ` Aahahahahaha!`
 ` Maria-chan, sen de, durun artık!!"`
 `"Aahahahahaha, aahahahahaha!`
 ` *kıkır*kıkır*!!"`
 `"Muhtemelen temizlikle ya da yemek hazırlığıyla meşguldürler.`
-` Sorun değil, daha sonra gidip onları düzgünce karşılarız.`
-` Aslında Shannon'un seni karşılamasını istiyordun, Gohda'nın karşılamasını değil, değil mi?!`
+` Önemli değil, sonra gidip onlarla düzgünce selamlaşırız.`
+` Aslında Gohda'nın değil, Shannon'un seni karşılamasını istiyordun, değil mi?!`
 ` Heeheheh!"`
 `"Shannon mu?`
 ` ......Shannon.`
 ` ......Aaaaaaaaahh...`
-` O kızı hatırlıyorum!`
+` Hatırladım, şu kız!`
 ` O hâlâ hizmetkâr mı?`
 ` O nasıl?!"`
 `"Bu arada, Natsuhi nee-san.`
@@ -682,27 +682,27 @@
 ` Ünlü bir mağazanın karışımı ve baş ağrısına iyi geldiği söyleniyor.`
 ` Sana da iyi gelebileceğini düşündüm."`
 `Rosa her zaman vicdanlı bir kadındı.`
-`...Muhtemelen dört kardeşin en küçüğü olduğu için, hem de epey bir farkla,`
-` kardeşlerinin kinini barındırmadan büyümeyi başarmıştı.`
-`Onun bu düşüncesi Natsuhi'nin yüz ifadesini bir anlığına yumuşatmasına neden oldu,`
-` ama bu, yüz ifadesini yumuşak bir kayıtsızlığa dönüştüren uzun yılların endişesini ortadan kaldırmaya yetmedi...`
+`...Muhtemelen dört kardeşin en küçüğü—hem de epey bir farkla—olduğu için,`
+` kardeşlerinin toksik tavırlarını kendisine örnek almadan büyümeyi başarmıştı.`
+`Onun bu düşünceli tavrı, Natsuhi'nin yüzündeki ifadeyi bir anlığına yumuşattı,`
+` ama bu, yüzündeki ifadeyi donuk bir kayıtsızlığa dönüştüren yılların endişesini silip atmaya yetmedi...`
 `"Oh evet, hep başının ağrıdığını söylerdin.`
 ` Kendini toparla.`
-` Jessica-chan bu yıl sınavlara girecek, değil mi?`
+` Jessica-chan bu yıl sınavlara girmeyecek mi?`
 ` Bu onun hayatında bir dönüm noktası değil mi?`
 ` Annesi bu durumdayken ona nasıl yaslanabilir?`
 ` Ayrıca, Natsuhi nee-san, sen benden üç yaş küçüksün.`
 ` Kendini biraz toparlayamaz mısın?"`
 `"............`
 ` .........Özür dilerim.`
-` Bu rahatsızlıkla doğmuşum."`
-`Normal şartlar altında bile Eva bazen kelimelerini dikkatli seçemiyordu ama Natsuhi'ye yönelik sözleri, gülümseyerek saklıyor da olsa, bariz bir şekilde kötü niyet kırıntıları içeriyordu.`
+` Bu rahatsızlıkla doğdum."`
+`Normal şartlar altında bile Eva bazen kelimelerini dikkatli seçemiyordu ama Natsuhi'ye yönelik sözleri—gülümseyerek saklıyor da olsa—bariz bir şekilde kötü niyet kırıntıları içeriyordu.`
 `Elbette bu Natsuhi'nin gözünden kaçmadı.`
 `Yüzünü buruşturma isteğini çılgınca bastırdı ve Eva'yı görmezden geliyormuş gibi yaptı.`
 `"Battler-kun da bu yıl sınavlara girecek, değil mi?`
 ` Rudolf-san, senin de biraz endişelenmen gerekmiyor mu?`
 ` Kendi oğlunun iyiliği için, Natsuhi nee-san gibi baş ağrısı çekecek kadar ciddileş."`
-`"Ne söylersem, otomatik olarak karşı çıkıyor.`
+`"Ne söylersem otomatik olarak karşı çıkıyor.`
 ` Peki ne demeliyim? Tam tersini, ortalıkta aylaklık etmesinin sorun olmadığını mı?`
 ` Muhtemelen itaatkâr bir şekilde dinleyeceği tek şey bu olur."`
 `"Hideyoshi nii-san, George sınavlarında çok başarılı değil miydi?`
@@ -716,74 +716,74 @@
 ` Nasıl öğreneceğini öğrenmelisin!"`
 `"...Bu harika.`
 ` Jessica'mız da bunu anlayabilseydi iyi olurdu.`
-` Bunu çok ciddiye almıyorum ama Ushiromiya ailesinin bir varisi olarak, o—"`
-`"Gerçekten onu varis olmaya zorlamak zorunda mısınız?`
+` Bunu hiç ciddiye almıyor ama Ushiromiya ailesinin bir varisi olarak, o—"`
+`"Gerçekten onu halef olmaya zorlamak zorunda mısınız?`
 ` Kadınlar kendi mutluluklarını kendileri bulmalı.`
 ` Ebeveynler çocukları için buna karar vermemeli, değil mi?"`
 `"Sakin ol Eva.`
 ` Her aile çocuklarını kendi yöntemleriyle yetiştirir.`
-` Zorlayıcı olmamalısın."`
+` Israrcı olmamalısın."`
 `"Özür dilerim.`
 ` Natsuhi nee-san, yanlış anlama."`
 `"..........................."`
-`Bulutlu havaya rağmen pencereden giren ışık oldukça sıcaktı ama odada karanlık bir hava vardı,`
-` ...bu da muhtemelen Natsuhi dışında başka insanların da başını ağrıtmıştır.`
-`Kyrie bu ruh halinden kurtulmak istercesine orada bulunan herkese parlak bir öneride bulundu.`
-`"Yine de bu siyah çayın gerçekten hoş bir aroması var.`
+`Bulutlu havaya rağmen pencereden içeri süzülen ışık oldukça sıcaktı, ancak odada karanlık bir hava hakimdi,`
+` ...bu durum muhtemelen Natsuhi dışında başkalarının da başını ağrıtıyordu.`
+`Sanki o havayı dağıtmak istercesine, Kyrie orada bulunan herkese neşeyle bir öneride bulundu.`
+`"Gerçekten bu siyah çayın çok hoş bir aroması var.`
 ` Hadi soğumadan içelim.`
 ` Sanırım Japonya'da Leopold'un siyah çayı gibi bir şeyi Ginza dışında hiçbir yerde satın alamazsınız, değil mi?"`
 `"Kyrie nee-san, ne kadar bilgilisin.`
 ` Gerçekten almaya değerdi."`
-`Kyrie ve Rosa oturdukları yerden kalkıp siyah çayı hazırlar gibi yaptılar.`
+`Kyrie ve Rosa oturdukları yerden kalkıp siyah çayı hazırlamaya kalkıştılar.`
 `{n}Natsuhi onları engelledi.`
 `"......İkinize de teşekkürler.`
 ` Bunu sonraya saklayalım.`
-` Adamlarımızdan biri birazdan çay getirmeye gelecek, o yüzden lütfen keyfinize bakın."`
+` Bir çalışanımız birazdan çay getirecek, lütfen keyfinize bakın."`
 `"Siz ikiniz, bunu sonraya bırakın.`
 ` En azından bize bir "hoş geldin içeceği" ikram etsinler."`
-`Rudolf tekrar oturmaları için gözleriyle ince bir işaret verdi.`
-`{n}...Kyrie ve Rosa hemen anladılar ve itaatkâr bir şekilde yerlerine döndüler.`
-`Misafirler çoktan karşılanmıştı, bu yüzden onlar için çay hazırlama zamanı gelmişti.`
-`...Çay gecikmişti ve misafirlerin kendi çaylarını yapmaktan bahsetmeleri ev sahibi için utanç vericiydi.`
-`Natsuhi alt dudağını ısırdı, çayı getirmeleri çok uzun süren hizmetkârların beceriksizliğine sinirlenmişti.`
+`Rudolf gözleriyle onlara tekrar oturmaları için ince bir işaret verdi.`
+`{n}...Kyrie ve Rosa durumu hemen anladılar ve uysalca yerlerine döndüler.`
+`Misafirler çoktan karşılanmıştı, bu yüzden onlara çay ikram etme zamanı gelmişti.`
+`...Çay servisi geçikmişti ve misafirlerin çayı kendilerinin demlemesinden söz etmeleri ev sahibi için utanç verici bir durumdu.`
+`Natsuhi, çayı getirmeleri çok uzun süren hizmetkârların beceriksizliğine sinirlenmiş bir şekilde alt dudağını ısırdı.`
 `...Onun yüzünü gören Eva, hiç tereddüt etmeden kıkırdamaya başladı.`
 `......Elbette Shannon'un salonda neler olup bittiğini bilmesine imkân yoktu.`
 `Çay fincanlarıyla dolu bir servis arabasını iterek içeri girdiğinde,`
-` Natsuhi görünürde bir neden olmaksızın ona acı dolu bir bakış attı ve Shannon neyi yanlış yaptığını bilmeden irkilmekten kendini alamadı.`
+` Natsuhi hiçbir belirgin neden olmaksızın ona can sıkıcı bir bakış attı ve Shannon neyi yanlış yaptığını bilmeden irkilmekten kendini alamadı.`
 `"......İ-İzninizle.`
-` Sizin için biraz çay hazırlayayım."`
+` Sizin için çay dolduracağım."`
 `"Oh, Shannon-chan, uzun zaman oldu!`
 ` Seni her gördüğümde daha da güzelleşiyorsun!"`
-`".........Oh,`
+`".........Eh,`
 ` ...şey,`
 ` .........teşekkür ederim—"`
-`"Sohbeti masayı hazırladıktan sonraya bırakın.`
+`"Sohbeti masayı hazırladıktan sonraya bırak.`
 ` Çay soğuyacak."`
-`"......Ben, ...Ben özür dilerim, Madam."`
-`Korkmuş küçük bir hayvan gibi özür diledi ve servis arabasına çarparak birkaç çay kaşığını düşürürken sarsıcı bir gürültü çıkardı.`
-`Sakarlığı Natsuhi'nin yüz ifadesini daha da sertleştirdi, bu da Shannon'un daha da korkmasına neden oldu.`
+`"......Ben, ...ben özür dilerim, Madam."`
+`Küçük, korkmuş bir hayvan gibi özür diledi ve servis arabasına çarparak birkaç çay kaşığını düşürerek kulak tırmalayan bir gürültü çıkardı.`
+`Onun sakarlığı, Natsuhi'nin yüzündeki ifadeyi daha da sertleştirdi; bu da Shannon'u daha çok korkutmuştu.`
 `"Sorun değil, Natsuhi nee-san.`
-` Tek bir selamın ne önemi var?`
-` Zaten bu kadar uzun süre bekletildik, çay da oldukça soğuk olmalı.`
+` Bir selamdan ne sorun olacak ki?`
+` Zaten o kadar uzun süre bekletildik ki, çay her hâlükârda çoktan soğumuş olmalı.`
 ` Heheheh."`
 `"So...sorun değil...`
 ` Henüz soğumadı, o yüzden—"`
 `".........Shannon, masayı hazırlamayı bitir, çabuk."`
-`"Ben, ben özür dilerim Madam......"`
+`"Ben, özür dilerim Madam......"`
 `Natsuhi'nin sinirlenmeye başladığı belliydi.`
-`...Çayı geciktiren beceriksizlik, hizmetkârın sakarlığı, her şey Natsuhi'nin günlük rehberliğinin yetersizliğine işaret ediyor ve yüzünü kaybetmesine neden oluyordu.`
-`Ushiromiya baş ailesinin işlerinden sorumlu kişi olarak, bu beceriksizliğin bugün olmasına izin vermek kesinlikle tam bir aşağılanmadan başka bir şey değildi.`
+`...Çayın gecikmesine neden olan beceriksizlik, hizmetkârın sakarlığı—Her şey Natsuhi'nin günlük idaresindeki yetersizliğe işaret ediyordu ve bu da onun itibarını zedeliyordu.`
+`Ushiromiya baş ailesinin işlerinden sorumlu kişi olarak, bu beceriksizliğin tam da bugün olmasına izin vermek kesinlikle tam bir aşağılanmadan başka bir şey değildi.`
 `"Kes şunu, Natsuhi nee-san.`
 ` Elinden gelenin en iyisini yapmaya çalışan Shannon-chan'a zorbalık etmek sence de biraz acımasızca değil mi?"`
 `"Ben kimseye zorbalık yapmıyorum...!"`
 `"Ne güzel bir koku.`
 ` Bu çayın markasını sorabilir miyim?"`
-`"............Umm...`
+`"............ŞeY...`
 `......Ben, ...çok çok özür dilerim...`
-` Sizin için sonra öğrenirim..."`
+` Sizin için öğreneceğim..."`
 `Kyrie ona iyi davranmaya çalışmış, gergin havayı dağıtmak istemişti.`
-`...Ancak Shannon bunun yerine utanç verici bir tavır sergileyerek Natsuhi'nin yüzünü ve odanın havasını kararttı.`
-`Bu noktada Eva'nın kıkırdamaları odadaki herkes tarafından duyulacak kadar yüksekti.`
+`...Ancak Shannon bunun yerine utanç verici bir tavır sergilemiş, Natsuhi'nin yüzünü ve odadaki havayı karartmıştı.`
+`Bu noktada Eva'nın kıkırdamaları, odadaki herkesin duyabileceği kadar yüksek sesli hâle gelmişti.`
 `"Bu daaa neee?`
 ` Shannon-chan, bize ne servis ettiğini bile bilmiyor musun?`
 ` Hadi ama, misafirlere bu kadar şüpheli bir şey servis etmemelisin.`
@@ -795,32 +795,32 @@
 ` Ya da neden gümüş olmak zorunda olduklarını?`
 ` Nedenini biliyor musun?"`
 `"...............hayır...`
-`.........umm......"`
-`Eva'nın gözleri masayı hazırlayan Shannon'un üzerinde gezinirken yüzüne sinsi bir gülümseme yayıldı.`
-`...Tek başına ele alındığında, Eva'nın yüzündeki ifade, hınzırca bir şekilde çekici olabilirdi.`
-`Ancak, dudaklarından dökülen sözcükler bir usturanın keskinliğini taşıyordu.`
+`.........şey......"`
+`Eva'nın bakışları masayı hazırlayan Shannon'un üzerinde gezinirken yüzüne sinsi bir gülümseme yayıldı.`
+`...Tek başına ele alındığında, Eva'nın yüzündeki ifade, cazibeli bir şekilde çekici olabilirdi.`
+`Ancak, dudaklarından dökülen sözler bir jiletin keskinliğini taşıyordu.`
 `Shannon tüm gücüyle Eva'nın kendisine odaklanmaya devam eden bakışlarından kaçınmaya çalıştı.`
-`Shannon'un cevap vermekte zorlandığını anlayan Rosa hemen zamanında yardım etti.`
-`"Gümüşe zehir değerse kararır derler.`
-` ...*kıkırdar*, bir şeyler öğrendin, değil mi Shannon-chan?"`
-`Çay, zehir testi yapılmadığı sürece içilemez olarak değerlendiriliyordu.`
-`Natsuhi'nin gözünde bu hem çaya...hem de onu servis ettiği için kendisine yapılmış bir hakaretti.`
-`Rudolf kayıtsızca gülerek Eva'nın omzunu sıvazladı.`
-`"Haha, gümüş çatal bıçağa ihtiyacın yok.`
-` Zehirli dilinin bir yalamasıyla gümüş bir tabak bile simsiyah olur."`
-`"Wahahahaha!`
+`Shannon'un cevap vermekte zorlandığını anlayan Rosa tam zamanında yardım etti.`
+`"Gümüşün zehirle temas ederse matlaştığı söylenir.`
+` ...*kıkırdar*, Shannon-chan yeni bir şey öğrendin, değil mi?"`
+`Çay, zehir testi yapılmadığı sürece içilemez olarak değerlendirilmişti.`
+`Natsuhi'nin gözünde bu hem çaya...hem de onu servis ettirdiği için kendisine yapılmış bir hakaretti.`
+`Rudolf, alaycı bir şekilde gülerek Eva'nın omzuna hafifçe vurdu.`
+`"Haha, Aneki senin gümüş çatal bıçağa ihtiyacın yok.`
+` Zehirli dilinin bir dokunuşuyla gümüş bir tabak bile simsiyah olur."`
+`"Hahahahaha!`
 ` Bu zehirli dili her gün duyuyorum, bu yüzden şimdiye kadar zehire karşı bağışıklık kazanmış olmalıyım!`
-` Eva, bunu bana yapman umurumda değil, ama bağışıklılığı olmayanlar için biraz daha yumuşak olmalısın!`
-` Wahahahaha!"`
-`"Oh, ne kadar zalimsin.`
+` Eva, bunu bana yapman umrumda değil, ama bağışıklılığı olmayanlar için biraz daha yumuşak olmalısın!`
+` Hahahahaha!"`
+`"Oh, ne zalimsin.`
 ` Shannon-chan'a sadece çay hakkında biraz bilgi verdim, değil mi?`
 ` *kıkırdar*."`
-`Herkes Hideyoshi'nin at kahkahasının açtığı yoldan ilerledi ve buruk da olsa gülümsedi.`
-`Natsuhi'de bunun tek bir istisnası vardı ama yine de şimdilik salonun içindeki sohbet canlı ve dostane bir sohbet olarak algılanabilirdi.`
-`Shannon nihayet çay masasını hazırlamayı bitirip gitmeye hazırlanırken, Kyrie alçak sesle yardım edemediği için ondan özür diledi.`
-`...Shannon hafifçe eğildi ve aceleyle geri çekildi......`
-`Shannon gözlerini aşağıya dikmiş, el arabasını koridorda itiyordu...`
-`Etrafındaki acınası hava, zorbalığa maruz kaldığını açıkça gösteriyordu.`
+`Herkes Hideyoshi'nin at gibi kahkahasının izinden giderek, buruk da olsa gülümsedi.`
+`Bunun tek istisnası Natsuhi idi, ama yine de şimdilik salondaki sohbet, canlı ve dostane bir sohbet algılanabilir hâle gelmişti.`
+`Shannon nihayet çayları servis etmeyi bitirmiş ve gitmeye hazırlanırken, Kyrie alçak bir sesle yardımcı olamadığı için ondan özür diledi.`
+`...Shannon hafifçe eğildi ve aceleyle uzaklaştı......`
+`Shannon bakışlarını aşağıya dikmiş, servis arabasını koridorda itiyordu...`
+`Etrafındaki hüzünlü hava, onun bir tür zorbalığın en ağır yükünü omuzlarında taşıdığını açıkça gösteriyordu.`
 `"......Üzülme.`
 ` Nee-san, sen yanlış bir şey yapmadın."`
 `"...............Demek izliyordun."`
@@ -839,7 +839,7 @@
 `"......Sorun değil, teşekkür ederim Kanon-kun.`
 ` ...Gerçekten umursamıyorum..."`
 `"................................."`
-`Kanon'un sessizliği Shannon'un sözlerinin kalbinden gelmediğini açıkça gösteriyordu.`
+`Kanon'un sessizliği Shannon'un sözlerinin içten olmadığını açıkça ortaya koyuyordu.`
 `"............Teşekkür ederim.`
 ` Kanon-kun, beni anlayan tek kişi sen olsan bile, yine de sanırım biraz daha iyi hissediyorum."`
 `"......Nee-san, her şeyi çok fazla içine atıyorsun.`
@@ -855,7 +855,7 @@
 ` ......İzninizle......"`
 `"................................."`
 `Shannon alçakgönüllülükle itaat etti ve hemen arabayı itip gitmeye hazırlandı.`
-`Ancak Kanon, gözlerinde kelimelerle ifade edilemeyecek bir şey barındırarak sessizce Genji'ye baktı.`
+`Ancak Kanon, sözlerle ifade edemediği bir duyguyu gözlerinde taşıyarak sessizce Genji'ye baktı.`
 `"...............Sorun ne?`
 ` Bir şey mi oldu...?"`
 `"...Sha-`
@@ -868,14 +868,14 @@
 ` ......Lütfen."`
 `"............Nee-san, eğer öyle diyorsan."`
 `"..................`
-` ...Hepsi bu kadarsa, gidebilirsin."`
+` ...Hepsi bu kadarsa, gidebilirsiniz."`
 `"......Evet.`
 ` ......İzninizle."`
 `Koridordaki gölgelerin arasından, önlük giymiş yaşlı bir kadın onları izliyordu. O Kumasawa'ydı...`
 `......Ne kadar yürek parçalayıcı, Shannon-san, Kanon-san...`
 `Bu ikisine sataşılması için hiçbir sebep yok.`
 ` ...Ama Gohda-san tarafından sevilmedikleri inkâr edilemez...`
-`Gohda-san, Ushiromiya baş ailesi tarafından alınmadan önce, bir yerlerde muhteşem bir otel için çalıştığını duydum.`
+`Gohda-san, Ushiromiya baş ailesi tarafından alınmadan önce, bir yerlerde muhteşem bir otelde çalıştığını duymuştum.`
 `Orada öğrendiği iş tarzının oldukça iyi olduğunu düşünüyorum.`
 `Sadece...Gohda-san buradaki en yeni hizmetkâr.`
 `...Önceki görevlerinden çok gurur duyuyor olmalı.`
@@ -884,8 +884,8 @@
 `Tabii ki, deneyim açısından, Madam ailede çok daha uzun süredir var.`
 `Ancak.........Ben bu durumda Madam için de biraz sempati duymalıyım.`
 `...Efendi gerçekten zalim bir insan...`
-`Önemsiz kaprisinin Madam'a böyle bir aşağılık kompleksi aşılayacağını neden fark edemedi...`
-`......Doğal olarak, içten içe, Madam bile bu ikisine bu kadar sert davranmak için hiçbir neden olmadığını tamamen biliyor...`
+`Neden o önemsiz kaprisinin Madam'a böyle bir aşağılık kompleksi yaşatacağını fark edemedi...`
+`......Doğal olarak, içten içe Madam bile bu ikisine bu kadar sert davranmak için hiçbir neden olmadığını tamamen biliyor...`
 `...Ancak, kalbin mantığın bilmediği nedenleri vardır...`
 `Ahh, ne kadar yürek parçalayıcı...`
 `Onları gölgelerden izlemekten başka bir şey yapamıyorum......`
