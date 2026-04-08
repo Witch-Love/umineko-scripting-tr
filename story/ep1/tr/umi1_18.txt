@@ -1,7 +1,7 @@
 `"Hey, millet, "Umineko no Naku Koro ni"yi bitirmekle iyi iş çıkardınız!`
-` Eyvah eyvah, daha ne olup bittiğini anlamamışken hikâye bitiverdi!"`
+` Dostum, daha ne olup bittiğini anlamamışken hikâye bitiverdi!"`
 `"Peki tam olarak ne oldu?`
-` Yani bu, suçlu açığa çıkarılmadan zamanın tükendiği bir "kötü son" muydu?"`
+` Yani bu, suçlu açığa ifşalanamadan zamanın tükendiği bir "kötü son" muydu?"`
 `"Uu.`
 ` Kesinlikle kötü bir son.`
 ` Uu."`
@@ -17,8 +17,8 @@
 ` Korkunç bir kaderle karşılaşan yoldaşlar olarak iyi geçinelim ve birbirimizin yaralarını yalaya~~lım!`
 ` Helele~lelele!!"`
 `"Korkunç bir kaderden bahsetmişken, Shannon hepimizi geride bırakmadı mı?`
-` Çok güzel bir karakter olduğundan kesinlikle en sonuna kadar hayatta kalacağını düşünmüştüm,`
-` ama daha başlangıçta öldürüldü, üstelik...ne olmuştu?`
+` Çok güzel bir karakter olduğundan kesinlikle en sonuna kadar hayatta kalacağını düşünmüştüm.`
+` Ama daha başlangıçta öldürüldü, üstelik...ne olmuştu?`
 ` Yüzünün yarısı mı parçalanmıştı?`
 ` Bu çok kötü!"`
 `"............Rolüm bu olunca, şey......yapacak bir şey yoktu..."`
@@ -29,7 +29,7 @@
 `"Bu arada, Kanon-kun'un son anları çok havalı değil miydi sizce de?`
 ` Alt edilmiş olsa bile, suçluya kafa tutmadı mı?`
 ` Bizim kafa karıştırıcı son anlarımızdan çok daha iyiydi!"`
-`".........İşin sonunda, onunla boy ölçüşemedim bile."`
+`".........İşin sonunda, onunla boy ölçüşemedim."`
 `"Yine de, ...Kanon-kun'un ölümünün büyük bir ipucu olduğunu düşünüyorum.`
 ` Çünkü, bu sayede 19. kişinin var olduğu netleşti."`
 `"Haklısın.`
@@ -45,7 +45,7 @@
 ` Bir insan bunu yapamaz!`
 ` Uu!"`
 `"............19. kişinin var olduğu ortada, aynı zamanda o kişi, insanların hayal bile edemeyeceği bir güce sahip."`
-`"Bu durumda, o kişiye {f:5:Beatrice} dememizde bir sakınca yoktur."`
+`"Bu durumda, o kişiye {f:5:Beatrice} dememizde bir sakınca olmaz."`
 `"...Muhtemelen en son anda karşılaştık.`
 ` ...Altın Cadı ile."`
 `"Bu yüzden Maria, {f:5:Beatrice}'in var olduğunu söyleyip durdu.`
@@ -113,7 +113,7 @@
 `"Eh, bunun için biraz geç kaldık.`
 ` Yine de, çözmeyi deneyerek cadının affını kazanabiliriz.`
 ` Hadi hadi, kitabenin bilmecesini çözmeye çalışalım.`
-` ......Bir şey bir şey, "Tatlı su nehrine bakın, sevgili memleketimin üzerinden geçen"..."`
+` ......Bir şey bir şey, "Tatlı balık nehrine bakın, sevgili memleketimin üzerinden geçen"..."`
 `Maria defterini masanın üzerine koyup kitabenin yazılı olduğu sayfayı açtığında,`
 ` herkes dikkatle baktı ve bilmeceyle ilgili tahminlerde bulunmaya başladıkça eğlenceli ve canlı tartışmalar yaşandı.`
 `Siyah çayın ve taze pişmiş vanilyalı kurabiyelerin kokusu eşliğinde, zamanlarını rahat ve mutlu bir şekilde geçirdiler......`
@@ -137,15 +137,15 @@
 `"Bu doğru...`
 ` Sonuçta, insanlarla açıklayamayacağınız onca şey olmadı mı...?"`
 `"...Battler-sama, neyden bahsettiğinizi anlayamıyorum."`
-`"A-Asıl {i:sizin} neyden bahsettiğiniz hakkında hiçbir fikrim yok!`
+`"A-Asıl benim {i:sizin} neyden bahsettiğiniz hakkında hiçbir fikrim yok!`
 ` Bunların insanların işlediği suçlar olduğu açık değil mi?`
-` Cadı diye bir şey olamaz ki...?"`
+` Cadı diye bir şey olamaz, değil mi...?"`
 `"P-...Peki ya...`
 `...ben ambarda öldürüldüğümde yüzümün yarısına korkunç bir şey yapılmıştı,`
 ` ......eğer suçlu insansa, bunu nasıl başarmış olabilir...?"`
 `"...Bu...`
 ` ......şey...`
-` Bu kadar korkunç bir şeyi nasıl yapabildiklerini hayal etmek biraz zor."`
+` Bu kadar korkunç bir şeyi nasıl yapabildiğini hayal etmek biraz zor."`
 `"Ama orası gül bahçesinin ambarı değil mi?`
 ` Eminim içinde bir sürü garip alet vardır.`
 ` Tam emin değilim ama...mesela elektrikli testere gibi, öğütücü gibi elektrikli bir alet kullanmış olabilir, değil mi?"`
@@ -165,13 +165,13 @@
 ` annemle babamın misafir odasında öldürülmesini nasıl açıklıyorsun?`
 ` Kapı kilit ve zincirle mühürlenmişti.`
 ` Tabii ki, pencereler de.`
-` İnsansa, ailemi nasıl öldürebildi sence?"`
+` İnsansa, sence ailemi nasıl öldürebildi?"`
 `"...Şey,`
 ` ......haklısın, bu numarayı hikâye boyunca göz ardı etmiştik.`
 ` Her neyse, suçlunun en azından anahtara sahip olma ihtimali yüksek.`
 ` Ve zincirin izin verdiği kadar kapı aralığından içeri bakmak mümkündü."`
 `"......Bu son derece uzak bir ihtimal, ancak o aralıktan bir çeşit cihazın kullanılmış olması mümkün.`
-` ...Ya da belki de aralıktan bir şey sokmuşlardır...?"`
+` ...Ya da belki de aralıktan bir şey sokmuştur...?"`
 `"......Hmmmm, zincirler inanılmaz derecede basit olsalar da, kilitli bir oda inşa etmede büyük bir faktör...`
 ` .........Fakat, kilitli oda numarası dediğin fazlaca yazılmış bir şey.`
 ` Bir kitapçıdan kilitli oda gizemine dair birkaç kitap satın alarak, bizimkine cuk oturan bir numara bulabiliriz."`
@@ -217,7 +217,7 @@
 `"Seninle birlikte kazan dairesine girmiş ve seni gafil avlamış olabilir!`
 ` Ya da belki de, kazan dairesine girdiğinde bir tür tuzağı tetiklemiş ve o buz kıracağının ateşlenmesine sebep olmuş olabilirsin."`
 `"Ne de olsa çöp fırınından Büyükbabamın cesedinin kokusu geliyordu.`
-` Birinin gelmesi kaçınılmazdı, dolayısıyla suçlunun yapması gereken tek şey tuzağı kurup oradan uzak durmak ve ölüm saatin için bir mazeret yaratmaktı...!"`
+` Birinin gelmesi kaçınılmazdı. Dolayısıyla suçlunun yapması gereken tek şey tuzağı kurup oradan uzak durmak ve ölüm saatin için bir mazeret yaratmaktı...!"`
 `"......Kazan dairesindeki tuzak...nasıl bir şey...?"`
 `"Gerçekten.`
 ` Bundan sonrasında hepimiz hemen kazan dairesine koştuk.`
@@ -226,8 +226,8 @@
 ` Battler-sama, ne tür bir tuzakla öldürüldüğümü iddia ediyorsunuz...?"`
 `"Şey,`
 ` .........bunu bilmiyorum.`
-` ...Ama her şekilde, bir tür tuzak kurulmuş olmalı, ...ya da belki de birileri yalan söylüyordür...`
-`peki ya buna ne dersin?!"`
+` ...Ama her şekilde, bir tür tuzak kurulmuş olmalı, ...ya da belki de birileri yalan söylüyordu...`
+` Peki ya buna ne dersin?!"`
 `"Ya her şey Kanon-kun'un rol yapmasından ibaretse?!`
 ` İ-İşte bu, rol yapıyordun!!`
 ` Eva Hala ve Hideyoshi Enişte de rol yapıyorlardı.`
@@ -236,7 +236,7 @@
 ` .........senin...`
 `deminden beri, aklın...`
 `yerinde mi......?"`
-`"......Şey, .........soğuk içecek getireyim mi...?"`
+`"......Şey, .........soğuk bir içecek getireyim mi...?"`
 `"B-Bana böyle acıyan gözlerle bakacağınız kadar garip bir şey söylemedim...`
 ` Tek yaptığım numarayı düşünerek ihtimâllerden bahsetmek."`
 `"Üstelik, kurbanların aslında ölmemiş olması, gizem hikâyelerinin olmazsa olmazı değil midir?!"`
@@ -248,12 +248,12 @@
 ` ......Eğer ölü taklidi yaparak kurbanların arasına karışan suçlu elini kolunu sallayarak gezebildiyse, her şey açıklanabilir!"`
 `"............Ha...`
 ` Yani, Eva Halaların suçlu olduğunu mu söylüyorsun...?`
-` Ama Eva Halaların ölümünü Doktor Nanjo bir doktor olarak onaylamıştı."`
+` Ama Eva Halaların ölümünü Doktor Nanjo bir doktor olarak doğrulamıştı."`
 `"......Doğru.`
 ` Doktor Nanjo tüm kurbanları doğruladı.`
 ` ...Eğer Battler-sama'nın teorisinden ilerleyeceksek, Doktor Nanjo'nun da suçlu olması gerekmez mi?"`
 `"A-Aah, doğru!`
-` Doktor Nanjo'nun suçlulardan biri olabileceğini ve sahte ölüm ilanında bulunmuş olabileceğini düşününce, işler değişiyor...!`
+` Doktor Nanjo'nun da suçlulardan biri olabileceğini ve sahte ölüm ilanlarında bulunmuş olabileceğini düşününce, işler değişiyor...!`
 ` Hey, bu da gizem romanlarının olmazsa olmazlarından değil mi?!!"`
 `"......Ama Doktor Nanjo da öldürüldü..."`
 `"Şey, .........ona gelirsek...`
@@ -274,7 +274,7 @@
 ` Ya da, Doktor Nanjo cesetleri incelerken bir hata yaptıysa?!"`
 `"Hem kendisi de söylememiş miydi?`
 ` Ceset incelemede hata payının yüksek olduğunu!`
-` Çok iyi rol yapmış ya da yedek bir ceset falan hazırlayıp kendi ölümlerini empoze etmişlerdir!!`
+` Çok iyi rol yapmış ya da yedek bir ceset falan hazırlayıp kendi ölümlerini taklit etmişlerdir!!`
 ` Yöntemleri ve numaraları sonra düşünürüz...öyle ya da böyle...19. kişinin varlığını inkâr etmek o kadar da zor değil!"`
 `"Ne {i:cadısı} be?`
 ` Buna kesinlikle imkân yok!!"`
@@ -289,7 +289,7 @@
 ` Ama, olayları bu şekilde geçiştirmek doğru mu?!`
 ` Bu kadar insanı öldüren iğrenç suçluyu bulmak istemiyor musunuz?!"`
 `"Aniki, ailenin intikamını almak istemiyor musun?!`
-` Jessica, Kanon-kun'un intikamını almak istiyorsun, Kanon-kun, sen de Shannon-chan'ın intikamını almak istiyorsun, değil mi?!`
+` Jessica, Kanon-kun'un intikamını almak istiyorsun. Kanon-kun, sen de Shannon-chan'ın intikamını almak istiyorsun, değil mi?!`
 ` Shannon-chan, sen de en azından seni öldürenin kim olduğunu bilmek istiyorsundur."`
 `"Neden tammmaaaamen teslim olup suçlunun bir cadı olduğuna karar verdiniz?!`
 ` Deminden beri neyiniz var sizin?!"`
@@ -320,14 +320,14 @@
 ` Bir sürü dolaylı kanıt olduğu hâlde."`
 `"Açıklayamadığım her şeyin cadının işi olduğu argümanını kabul etmiyorum.`
 ` Bir ampulün nasıl parladığını, bir şeyin nasıl çalıştığını bilmiyorsanız, bu onların büyü olduğu anlamına mı gelir?"`
-`"Gelmez, değil mi!`
+`"Gelmez, değil mi?!`
 ` Büyü olmadan açıklanamayacak hiçbir şey yok!!`
 ` Cadılar ve büyüler, düşünmekten vazgeçmektir!`
-` Siz, sırf ne olduğunu anlamadığınız için teslim olup pes ettiniz!`
+` Aniki, siz sırf ne olduğunu anlamadığınız için teslim olup pes ettiniz!`
 ` Değil mi?!"`
 `".....................Ki‐hihihihihihihihihihihi.`
 ` ...Gerçekten,`
-` ......Yalnızca Battler, ne olursa olsun inanmayacak."`
+` ......yalnızca Battler, ne olursa olsun inanmayacak."`
 `"......Tek bir kişi bile inanmazsa, "mucize" gerçekleşmez.`
 ` ......Yani, cahil teorilerini gözden geçirmezsen, mucize, ......büyü tamamlanmayacak."`
 `"Heheh...`
@@ -343,15 +343,15 @@
 `"Üzgünüm ama, en son anda satranç tahtasını bir kez daha çevirmeme izin verin...`
 ` Cadının varlığını kabul etmemi istiyorsanız, bunun çok kolay bir yolu var."`
 `"......Ve bu, "insanlar yapamayacağından cadı olmalı" diyerek geçiştirebileceğiniz bir şey değil!`
-` Cadının bunu büyüyle nasıl yaptığını bana göstermelisiniz sadece."`
+` Cadının sadece bunu büyüyle nasıl yaptığını bana göstermelisiniz."`
 `"Dahası, az önce Maria'nın söylediği şey onun mezarını kazacak.`
-` ......Bir kişi bile inanmazsa bir "mucize" gerçekleşmeyeceği kısım."`
+` ......Bir kişi bile inanmazsa bir "mucize"nin gerçekleşmeyeceği kısım."`
 `"Gerçek mucizeler, birisi inansa da inanmasa da gerçekleşir!`
 ` Tek inanmayan ben olsam bile!!`
 ` Tam da bu yüzden, sırf ben inandığım için var olan mucizeler, büyüler ya da cadılar düpedüz yalandır!!"`
 `"................................."`
 `Battler'ın cahilce atıp tutmasının ardından oluşan tedirgin hava...`
-`çok ferahlatıcı ve hafif bir kahkaha ile düşünceli bir şekilde uçup gitti.`
+`çok ferahlatıcı ve hafif bir kahkaha ile hayranlıkla uçup gitti.`
 `Kimin kahkahası...?`
 ` Battler daha önce hiç duymadığı bu ses karşısında şaşırmıştı.`
 `George ve Jessica'ya, Shannon'a, Kanon'a ve Maria'ya baktığında hepsinin birden saygıyla sustuğunu fark etti.`
@@ -378,7 +378,7 @@
 ` Bu...`
 ` ......Çok kötü oldu.`
 ` ...Bu kadar çok mu cadının,`
-` ...19. kişinin suçlu olduğunu düşünmemi mi istiyorsunuz...?"`
+` ...19. kişinin suçlu olduğunu düşünmemi istiyorsunuz...?"`
 `"Giderek ilginçleşmeye başlıyor...!`
 ` Ve bu hiç de iyi değil...!!`
 ` Sen, Maria ve diğerlerinin iddia ettiği cadı {f:5:Beatrice}'in bir illüzyonu olmalısın."`
@@ -422,7 +422,7 @@
 ` ...Yani bu, o numaraya oldukça güvendiğin anlamına mı geliyor?`
 ` {i:Gerçek Suçlu}?"`
 `{f:5:Beatrice} altın piposunu salladı,`
-` ve ucundan yedi renk narin duman çıktı.`
+` ve ucundan yedi renkte narin dumanlar çıktı.`
 `...Duman hızla etrafı örttü,`
 ` ......ve kendilerini bir anda malikânenin koridorunda buldular.`
 `Gözlerinin önünde, zincirle kilitlenmiş ve hafifçe aralanmış bir kapı vardı...`
@@ -430,7 +430,7 @@
 `"......N-Ne kadar kullanışlı..."`
 `"Pekâlâ.`
 ` Bu kadar küçük bir aralıktan nasıl yapardın, "Battler"."`
-`"Ghk............`
+`"Iğk............`
 ` ......M-Muhtemelen, o "buz kıracaklarını" fırlatmak için bir alet vardı.`
 ` Onu kullanarak......"`
 `"Bu aralıktan görünmeyen, yatağın üzerindeki Eva'ya nasıl nişan alırdın?`
@@ -473,13 +473,13 @@
 `İki şeytani kazık bir ıstakanın vurduğu bilardo topları gibi harekete geçti ve kapının aralığından içeri girdi.`
 `Ardından odanın duvarlarından defalarca sekerek ağaçkakan sesine benzer bir ses çıkardılar.`
 `Ve sonunda, hoş bir ses duyuldu.`
-`......Bu küçük, tatmin edici bir sesti, tıpkı birisi odun keserken ve sallanan balta odunları düzgün ve kolay bir şekilde keserken duyulan sese benziyordu.`
+`......Bu küçük, tatmin edici bir sesti. Tıpkı birisi odun keserken ve sallanan balta odunları düzgün ve kolay bir şekilde keserken duyulan sese benziyordu.`
 `Bu, iki kazığın Eva ve Hideyoshi'nin alınlarının derinliklerine gömülme sesiydi.`
 `"............Tam da ortasından.`
 ` Görmek ister misin...?"`
 `Kesinlikle birinin alnının yarılması gibi iki ses duymuşlardı.`
-`Kapının diğer tarafında olduğu için Battler'ın bunu görmesine izin verilmemişti,`
-` ama o ikisi yine ölmüştü ve bu ikinci seferde, bir önceki sefer oldukları yerlerden bir santim bile uzakta değil, aynı kan izleriyle birlikte yatıyorlardı.`
+`Kapının diğer tarafında olduğu için Battler'ın bunu görmesine izin verilmemişti.`
+` Ama o ikisi yine ölmüştü ve bu ikinci seferde, bir önceki sefer oldukları yerlerden bir santim bile uzakta değil, aynı kan izleriyle birlikte yatıyorlardı.`
 `"S-............Seni piç...`
 ` B-......Bu saçmalıkla mı......`
 `o-onları öldüreceksin?!!"`
@@ -487,11 +487,11 @@
 ` ......Onları böyle öldürebilirim...!`
 ` *kıKIr*kıKIr*kıKIr*!"`
 `Birdenbire artık koridorda değil, önceki çay partisindelerdi.`
-`......Battler hariç herkes uysalca oturuyordu, ......ama Kanon ağzından taze kan süzülürken inliyordu.`
+`......Battler hariç herkes uysalca oturuyordu, ......ama Kanon ağzından kan süzülürken inliyordu.`
 `{n}Bir çay partisi için ne kadar kötü bir davranış.`
 `Satan'ın kazığı Kanon'un göğsünün derinliklerine gömülmüştü.`
 `"..................u...`
-`...............gah...`
+`...............ğah...`
 `......"`
 `"Ka‐......Kanon‐kun......`
 `Kanon‐kun!!`
@@ -525,7 +525,7 @@
 `"......Dur, Battler-kun...`
 ` {f:5:Beatrice}-sama'ya karşı ge...`
 `lemez...sin......"`
-`"............nn...`
+`"............ıı...`
 `......u...`
 `............u..."`
 `Shannon yanağını tutarak inlemeye başladı.`
@@ -551,22 +551,22 @@
 `Hayatında ilk kez, ......Battler nar yarılması gibi bir ses duydu.`
 `Kırmızı püskürme Battler'ın yüzüne bile geldi...`
 `Ne kadar üzücü—Shannon'un yüzü ikiye bölünmüştü, ...ve o ambardaki son korkunç anları bir kez daha tekrarlanmıştı.`
-`"U...uwaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!`
-` Uwaaaaaaaaaaaaaaaaaaa!!!"`
-`"G...ghhhkkk, lanet olsun sana, lanet olsun sanaaaaaaa!`
+`"U...uvaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!`
+` Uvaaaaaaaaaaaaaaaaaaa!!!"`
+`"G...ğhhhkkk, lanet olsun sana, lanet olsun sanaaaaaaa!`
 ` Kes şunu, kes şunu, kes şunuuuu!!`
 ` Ölüleri aşağılama, ölüleri aşağılamaaaaaaaa!!"`
-`"Uuuu......gah.........eeeggh!!"`
+`"Uuuu......ğah.........eeeğğh!!"`
 ` Bu kez kırmızı desenler George'un tüm vücuduna yayılmaya başladı...`
 ` Siyah çayın içine dökülen sütün çizdiği güzel bulutlar gibiydi.`
 ` Yavaşça yayılarak tüm vücuduna uzandılar.`
-`......Renkleri daha koyu hale geldikçe, George'a giderek daha fazla acı veriyor gibiydiler.`
+`......Renkleri daha koyu hâle geldikçe, George'a giderek daha fazla acı veriyor gibiydiler.`
 `Bu tuhaf desenlere bakan, ......Battler, George ve diğerlerinin yaşadığı garip ölümlerin doğası hakkında...`
 `acınacak derecede beceriksiz hayal gücüyle çılgınca düşünürken taş kesilmişti...`
 `Çok geçmeden, ......bu kırmızılık yakındaki Jessica'ya da ulaştı......`
 `"Gah,`
 ` .........ee...`
-`......ack...`
+`......ağh...`
 `.........hh!!"`
 `"D-Dur dur dur!!!`
 ` Aniki ne yaptı,`
@@ -581,7 +581,7 @@
 ` yok et onu...`
 ` O, ......bir kişi bile onu reddettiği sürece,`
 ` var olamayan bir illüzyon......!`
-` Uuuuughhh, gghhh!!"`
+` Uuuuuğhhh, ğğhhh!!"`
 `"İ-İyi misin, Jessica?!!`
 ` Ha, A-Aniki?!?!"`
 `George artık insan şeklinde değildi.`
@@ -609,10 +609,10 @@
 `Battler...`
 ` ......Battler, sen...`
 `...cadıya teslim olamazsın......!`
-` Geh...`
-`ggghh...`
-`......gggggghhkkkkkkk!!!"`
-`"Jessica, JESSICAAAAA, waaaaAAAAAAAaaaAAAahh!!"`
+` Eeh...`
+`ğğhh...`
+`......ğğğğğğhhkkkkkkk!!!"`
+`"Jessica, JESSICAAAAA, aaaaaAAAAAAAaaaAAAahh!!"`
 `Ne kadar üzücü—Jessica da aynı sonla karşılaştı.`
 `{n}...Tıpkı George gibi, onun da sonu bir kasabın artıkları gibi oldu.`
 `Parçalandı, eridi ve hepsi birbirine karıştı, böylece artık hangisinin George hangisinin Jessica olduğunu anlayamıyordunuz.`
@@ -625,7 +625,7 @@
 `......sorun......`
 `yok—"`
 `Kızarıklık Maria'nın tüm vücudunu yemeye başladı...`
-` Bunu gördüğünde, aptal Battler yüksek sesle çığlık attı.`
+` Bunu gördüğünde, aptal Battler yüksek sesle bağırmaya başladı.`
 `"Seni affetmeyeceğim, asla affetmeyeceğim!!`
 ` Ne cadısı, ne büyüsü?!`
 ` Varlığımın her zerresiyle seni reddedeceğim...!!`
@@ -639,10 +639,10 @@
 `"İyi konuşuyorsun, "Battler"...!`
 ` İşte bu, beni bin yıllık can sıkıntımdan kurtaracak olan şey!"`
 `"Hadi, açıkla bakalım.`
-` "İnsanlar ve numaralar"la açıkla!`
+` "İnsanlar ve numaralar" ile açıkla!`
 ` Ve insanların ne kadar aşağılık olduğunu öğren!!`
 ` İnsanlığın yüz yılda biriktirdiklerini benim bin yılıma karşı kullanmayı dene de görelim!!!`
-` Bu, seni yıldırmayı daha da zevkli hale getirecek...!!!"`
+` Bu, seni yıldırmayı daha da zevkli hâle getirecek...!!!"`
 `"Söyle bakalım, "Battler"!`
 ` Maria'nın mektubu?`
 ` Altı kişi nasıl öldürüldü?`
@@ -654,6 +654,6 @@
 ` Natsuhi'nin intiharı?!`
 ` Kitabenin bilmecesi?!`
 ` Saklı altının yeri?!"`
-`"Evet, Battler, "insanların" gücünü göster bakalım?!`
+`"Evet, Battler, "insanların" gücünü göster bakalım!!`
 ` Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
 `"OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`

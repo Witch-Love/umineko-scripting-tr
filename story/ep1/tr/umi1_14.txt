@@ -13,12 +13,12 @@
 ` ...Bu pis koku da ne...? Berbat kokuyor..."`
 `Hepsi havayı kokladığında,`
 ` ...koridorda daha önce kimsenin kokusunu almadığı, korkunç derecede kötü bir yanık kokusunun yayıldığını fark ettiler.`
-`"......Ben bir gidip mutfağı kontrol edeyim...`
+`"......Ben bir gidip mutfağı kontrol edeceğim...`
 ` Ocağın altını kapattığıma eminim ama......"`
 `Yanık kokusunu fark ettikten sonra, mutfakta yemek pişirmekte olan Kumasawa'nın buna kendi dikkatsizliğinin neden olduğundan şüphelenmesi doğaldı.`
 ` Kumasawa koşar adımlarla ayrıldı.`
 `"......Kanon, Kumasawa ile git.`
-` Yalnız kalmasın."`
+` Onu yalnız bırakma."`
 `"T-Tamam...!"`
 `Genji'nin emrini başıyla onayladıktan sonra, Kanon onun peşinden gitti.`
 `{n}...Diğerleri de koşmasalar da kokunun kaynağını aramak için onları takip ettiler.`
@@ -39,10 +39,10 @@
 ` ...Biraz önce gördüğüm kadarıyla, dışarıdan açılamayacağına eminim.`
 ` ......Yani, tam anlamıyla kusursuz bir kilitli oda."`
 `".........Evet, öyle.`
-` Gül bahçesi ambarı söz konusu olduğunda, kepengin anahtarını hizmetkâr odasından gizlice çıkarmış olabilirlerdi,`
-` ya da belki de yedek bir anahtarları vardı... Bunu yapabilecekleri birçok yol hayal edebiliyorum."`
+` Gül bahçesi ambarı söz konusu olduğunda, kepengin anahtarını hizmetkâr odasından gizlice çıkarmış olabilirdi.`
+` Ya da belki de yedek bir anahtarı vardı... Bunu yapabileceği birçok yol hayal edebiliyorum."`
 `".........Ama o zincir farklı.`
-` Zincir, genel olarak kullanılan kilitleme teknikleri arasında kilitli bir oda yaratmak için en basit olanıdır."`
+` Zincir, genel olarak kullanılan kilitleme teknikleri arasında kilitli bir oda yaratmak için en basit olanı."`
 `"Bir zincir, fiziksel olarak kırılmadığı sürece dışarıdan hiçbir şey yapılamaz.`
 ` Yani bu, suçlunun kapıdan içeri girip çıkamayacağı anlamına mı geliyor...?"`
 `"......Bu ilginç.`
@@ -53,7 +53,7 @@
 `Eva Hala, Natsuhi Yengenin Büyükbabamı pencereden atıp,`
 ` kapıdan çıkıp gitmiş olabileceğine dair bir teori öne sürmüştü.`
 `Ama bu kapı çok daha basitti.`
-`Zincirle içeriden mühürlüydü.`
+`Zincirle içeriden mühürlenmişti.`
 `{n}Pencere içeriden kapatılmış, cesetler de odanın içindeydi.`
 `......Bu seferki hiç abartısız, gerçek bir kilitli odaydı.`
 `...Doğru.`
@@ -62,19 +62,19 @@
 `Hizmetkâr odasında bir anahtar vardı ve birilerinin bunu bildiğini varsayarsak, pek de kilitli oda sayılmaz.`
 `İkincisi ise fişle mühürlenmiş olan kapıydı.`
 `Ancak Natsuhi Yenge odaya girdiğine göre,`
-` Büyükbabamı pencereden dışarı çıkarmış veya atmış, çıkmadan önce de pencereyi kilitlemiş olabilir.`
+` Büyükbabamı pencereden dışarı çıkarmış veya atmış, çıkmadan önce de pencereyi kilitlemiş olabilirdi.`
 `Ya da benim çılgın teorime göre, fiş gidene kadar saklanabilir ve daha sonra odadan çıkabilirdi.`
 ` ......Uzun lafın kısası, bu kapı birtakım aciz numarayla alt edilebilirdi.`
-`Bu bağlamda, buna da gerçek bir kilitli oda diyemezsiniz.`
+`Bu bağlamda, buna da gerçek bir kilitli oda diyemezdiniz.`
 `Şimdikiyse zincirle mühürlenmiş bir kapı.`
 `...İşte bu sefer çaresiziz.`
 `{n}Pencere, kapı...her şey içeriden kilitlenmişti.`
 ` Mükemmel bir kilitli odaydı.`
 `İlki kilitli bir oda değildi çünkü herkesten şüphelenilebilirdi.`
 `{n}...İkincisi de kilitli bir oda değildi çünkü Natsuhi Yengeden şüphelenilebilirdi.`
-`...Ama bu sefer, hiç kimseden şüphelenilemez!`
+`...Ama bu sefer, hiç kimseden şüphelenilemezdi!`
 `{n}Bu oda, herkesin erişimini engelleyen bir kapı zinciriyle mühürlenmiş mükemmel bir kilitli odaydı...!`
-`"......O halde, suçlu odaya girmeden mi suçu işledi...?`
+`"......O hâlde, suçlu odaya girmeden mi suçu işledi...?`
 ` Odanın dışından bir yöntemle mi...?"`
 `"Gerçekten de...`
 ` Zincir takılıyken bir insanın sığabileceği kadar geniş açılamasa da, küçük bir aralık açmak mümkün.`
@@ -110,7 +110,7 @@
 `"Bilmediğimden dolayı sahneyi sana bırakıyorum.`
 ` Gevezelik etme de açıkla."`
 `".........Battler, çok saldırgansın.`
-` Bu kadar kaba olursan söylemem bak......?`
+` Bu kadar kaba olursan söylemem, anladın mı......?`
 ` Aah!`
 ` Uu......Söyleyeceğim, söyleyeceğim, seni vahşi adam.`
 ` .........Bu, ayın ilk büyülü çemberi."`
@@ -134,12 +134,12 @@
 `"Tamamdır, aferin, şimdi kapa çeneni.`
 ` ......Bana uyar. O cadının meydan okumasını kabul ediyorum!"`
 `"......Maria-chan.`
-` ...Bu dünyada cadılar da iblisler de yoktur.`
-` ...Annem ve Babam birisi tarafından öldürdü!`
+` ...Bu dünyada cadılar da iblisler de yok.`
+` ...Babam ve Annem birisi tarafından öldürüldü!`
 ` Tanıdığım biri mi, tanımadığım biri mi bilmiyorum.`
 ` Ama her iki durumda da, kesinlikle bir insandı...!!"`
 `".........Evet, ama......nasıl?`
-` On santimetreden fazla açılmayan kapı aralığından içeridekilere nasıl ulaştı...!?"`
+` On santimetreden fazla açılmayan kapı aralığından içerdekilere nasıl ulaştı...!?"`
 `"Bunun yanı sıra, bu pis kokuya katlanamıyorum.`
 ` ......Ne olabilir ki...?!"`
 `Önden giden Kanon ve Kumasawa daha mutfağa varmadan kokunun oradan gelmediğini fark ettiler.`
@@ -156,24 +156,24 @@
 `Kumasawa bu sesten o kadar korkmuştu ki dizlerinin bağı çözülmüş ve yere kapanmıştı...`
 `......Çünkü {i:şu anda kazan dairesinde kimse olamazdı}.`
 `Daha birkaç saniye öncesine kadar herkes Eva ve Hideyoshi'nin odasında toplanmıştı!`
-`{n}O halde az önceki kapı kapanma sesine kim sebep oldu?!`
+`{n}O hâlde az önceki kapı kapanma sesine kim sebep olmuştu?!`
 `".................................!"`
 `"Kanon-san...!!"`
 `Durumu hemen kavrayan Kanon bodruma doğru koştu...!`
 `Az önce kapanan bir kapının sesini duyduklarına ve merdivenlerden çıkan birine rastlamadıklarına göre bu, kapıyı kapatan kişinin şu anda kazan dairesinin içinde olduğu anlamına geliyordu.`
-`Eğer kazan dairesi bir çıkmaz olsaydı, Kanon bu kadar acele etmezdi.`
-`...Ama Kanon bir hizmetkârdı, o yüzden biliyordu.`
-`{n}Biri malikâneye, diğeri avluya açılan iki giriş vardı.`
+`Eğer kazan dairesi bir çıkmaz sokak olsaydı, Kanon bu kadar acele etmezdi.`
+`...Ama Kanon bir hizmetkârdı ve o yüzden biliyordu.`
+`{n}Biri malikâneye, diğeri avluya açılan iki girişi vardı.`
 `Onu şimdi kovalamazsa, kaçabilirdi...!`
 `Kumasawa da Kanon kadar hızlı olmasa da aynı sonuca varmıştı.`
 `{n}...Ama onun yalnız gitmesine izin veremezdi...!`
 `Eğer kazan dairesindeki kişi,`
 ` ...ilk cinayette altı yetişkini kolayca öldürmüş olan suçluysa,`
 ` Kanon tek başınayken onun rakibi bile olamazdı.`
-`...Bu iddiaya göre Kumasawa'nın onunla birlikte gitmesi bir şey ifade etmezdi, ama...`
+`...Bu iddiaya göre Kumasawa'nın onunla birlikte gitmesi de bir şey ifade etmezdi, ama...`
 `Her hâlükârda, biraz geç de olsa Kumasawa Kanon'un yalnız gitmemesi gerektiğine karar verdi ve hızla merdivenlerden aşağı indi...!!!`
 `Geçen zaman içinde Kanon çoktan kazan dairesine girmişti.`
-`Kazan dairesinin karakteristik nemli sıcağı ona eziyet ediyordu.`
+`Kazan dairesinin karakteristik nemli sıcağı ona işkence ediyordu.`
 `{n}...Burası her zaman kötü kokulu ve sıcak bir yer olmuştu.`
 `Buna ek olarak, o korkunç koku her yere sinmişti...bu da Kanon'un midesinin bulanmasına neden oluyordu.`
 `......Bu odanın kokunun kaynağı olduğuna hiç şüphe yoktu.`
@@ -212,10 +212,10 @@
 ` .........Ben artık mobilya değilim.`
 ` .........Ben senin ruletindeki sıfırım...!"`
 `...Kanon'un yüzü aşağılanmışlıktan buruştu.`
-`{n}.........Feragat etmesine karşılık olarak alay edildiğini açıkça biliyordu.`
+`{n}.........Kendi inkârına karşılık olarak alay edildiğini açıkça biliyordu.`
 `Kanon'un alnı daha da kırıştı, ...ve yüzünde kimseye göstermediği öfkeli bir ifade belirdi.`
 `......Baltayı kavrayan elleri titriyordu.`
-` ...Teri damlalar halinde aşağıya doğru süzülüyordu...`
+` ...Teri damlalar hâlinde aşağıya doğru süzülüyordu...`
 `Kanon'un ellerinin titremesine neden olan duygunun sadece öfke olmadığı açıktı.`
 `...Ancak Kanon bu duyguyu bastırdı...`
 `".....................Sözlerinin beni bir daha yoldan çıkarmasına izin vermeyeceğim.`
@@ -223,29 +223,29 @@
 `"...B-`
 `......Bir sonraki çağırıcın için cehennemde bin yıl daha bekle,`
 ` {f:5:Beatriceeeeeeee}!!!"`
-`Kanon baltayı yukarı doğru savurup karanlığın içine dalmaya kalktığında, karanlık adetâ kıs kıs güldü.`
+`Kanon baltayı yukarı doğru kaldırarak karanlığın içine dalmaya kalktığında, karanlık âdeta kıs kıs güldü.`
 `Bu cesareti basit, tembel, nafile ve manasız bularak alay etti.`
 `......Baltasını hâlâ havada tutan Kanon,`
 ` .........bundan sonra bir adım daha atamadı...`
 `Bir gürültüyle,`
 ` Kanon'un tuttuğu balta yere düştü ve zeminde yuvarlandı...`
 `Ve bunu takip eden bir çift gürültüyle,`
-` Kanon'un dizleri yere çarptı, ...sol, sonra da sağ...`
+` Kanon'un dizleri yere çarptı, ...önce sol, sonra da sağ...`
 `Balta düştüğü için gökyüzünü yakalamaya çalışıyormuş gibi görünen o el yavaş yavaş alçaldı,`
 ` ......ve göğsüne dayandı.`
 ` Ve sonra, aynı şeyi diğer eli de yaptı.`
-`......Tam orada, ......üzerinde şeytanı andıran bir desen işlenmiş bir şey vardı.`
+`......Tam göğsünde, ......üzerinde şeytanı andıran bir desen işlenmiş bir şey vardı.`
 `{n}Eva ve Hideyoshi'nin alnına saplanan silahın aynısı......Kanon'un göğsündeydi......`
 `"...............u`
-`.....................ghh,`
+`.....................ğhh,`
 ` ............"`
 `Acı içinde kıvranan Kanon'un ağzının kenarından taze kanı damlıyordu...`
 `{n}...Kanon'un beyaz teni için...çok yoğun bir makyajdı...`
-`Bu manzaranın etrafında, ışıltılı altın kelebekler karanlığın içinde büyüleyici bir şekilde dans ediyordu...`
+`Bu manzaranın etrafında, ışıltılı altın kelebekler karanlığın içinde büyüleyici bir şekilde dans ediyorlardı...`
 `Bu çok ama çok güzel bir danstı—bir çocuğun kurban edilişine övgü, alay ve aşağılamadan oluşan bir cenaze töreni.`
 `...Kanon kendi ölümüne çoktan hazırlanmıştı,`
 ` ......fakat ölüme, en azından kendisine verilen şekline karşı çıkmak için son bir direniş denemesinde bulundu.`
-`...İki eliyle göğsüne saplanan silahın kabzasını kavradı,`
+`...İki eliyle göğsüne saplanan silahın sapını kavradı,`
 ` ............ve dişlerini doğaüstü bir acıyla gıcırdatarak...............`
 ` ..............................onu çekip çıkardı.`
 `Sadece bir anlığına, parlak kırmızı bir fışkırma oldu.`
@@ -288,7 +288,7 @@
 ` Bu kapı nereye açılıyor?!"`
 `"...A-Avluya...!"`
 `"Sanki kaçmana izin veririm de, seni şerefsiz piiiiiiiiiiiiiç!!!"`
-`Battler kapıya çarparken bir savaş çığlığı attı.`
+`Battler bir savaş çığlığı atarak kapıya çarptı.`
 `Dışarıdan gelen serin hava aniden içeri doldu.`
 `...Yukarı giden ince, engebeli merdivenler vardı.`
 `{n}...Battler bağırarak yukarı koştu!`
@@ -306,10 +306,10 @@
 `{n}Neredeyse yön duygusunu kaybedene kadar dönmeye devam etti.`
 `{n}Suçluyu bu manzaranın içinde bir yerlerde görebilmek için dua etti...!`
 `Ama hiç şansı yoktu.`
-` Döndükçe gördüğü tek şey malikânenin kalpsiz duvarları ve pencereleriydi...!`
+` Döndükçe gördüğü tek şey malikânenin soğuk duvarları ve pencereleriydi...!`
 `Dahası, avludan malikâneye iki giriş vardı ve ikisi de kilitli değildi.`
-`Avluya malikânenin dışından girilemediği için kapılar kilitsiz inşa edilmişti.`
-`......Hangisinden çıktıklarını anlayamıyordu!`
+`Avluya malikânenin dışından girilemediği için kapılar kilitsiz yapılmıştı.`
+`......Hangisinden çıktığını anlayamazdı!`
 `{n}Pes etmek zorunda kaldı.`
 `Battler küfürler savurarak yumruğunu duvara vurdu...`
 `"......Battler-kun!!`
@@ -324,7 +324,7 @@
 ` Bu yetmemiş gibi üç kişiyi daha öldürdün!!"`
 `"Dalga mı geçiyorsun, dalga mı geçiyorsun?!!`
 ` Eva Hala da Hideyoshi Enişte de her zaman bize karşı nazik davranan, neşe saçan insanlardı...!!!`
-` Kanon-kun ile daha dün tanıştım, ama eminim onunla iyi anlaşırdım!`
+` Kanon-kun ile daha dün tanıştım, ama eminim onunla da iyi anlaşırdım!`
 ` Onları neden öldürdün?!!"`
 `"Neden, neden...?!!!`
 ` İnsanlar öldüklerinde, tekrar hayata dönemezler, biliyorsun değil mi?!`
@@ -334,14 +334,14 @@
 ` Neden...?!!!`
 ` Aaaaaaaaaaaaaaaaahhhh...!!"`
 `...Battler, bir insanın kalbindeki acı ve pişmanlık duygularını anlayabilen bir çocuktu.`
-`{n}...Bu yüzden,`
+`{n}...Bu nedenle,`
 ` tüm gücüyle ağladı.`
 `Battler'ın her zaman güçlü bir insan olduğunu düşünen Natsuhi, onun bu hassas yönünü görünce biraz şaşırdı,`
 ` ...ve aynı zamanda genç bir insanın kalbinin ne kadar kolay incinebileceğini anladı, ve ona sarıldı.`
 `"........................Her şey yolunda.`
 ` ...Seni de, George-kun'u da, Maria-chan'ı da, Jessica'yı da...kesinlikle koruyacağım.`
 ` .........Bir anne olarak, ...ve Ushiromiya ailesinin temsilcisi olarak...!"`
-`"......uuuUUuuUuuUUUuughhhu!!`
+`"......uuuUUuuUuuUUUuuğhhhu!!`
 ` AaaaaaAAAAAAAAhhh!!"`
 `Battler, bir süre Natsuhi'nin göğsünde hıçkıra hıçkıra ağladıktan sonra,`
 ` acı bir gülümsemeyle gözyaşlarını sildi ve tıpkı daha önceki seferlerde yaptığı gibi, zaten yeterince ağladığını dile getirmeye çalıştı...`
@@ -355,7 +355,7 @@
 `{ruby:When the seagulls cry:Martılar ağladığında}, ...suç çözülecek.`
 `Ama, ...nedense, Battler hafif bir tedirginlik hissetti...sanki martılar bir daha hiç ağlamayacaklarmış gibi.`
 `......Bu doğru olamaz.`
-`{n}Tayfun geçtiğinde civelek martılar limana geri dönecek olmalı......`
+`{n}Tayfun geçtiğinde martılar limana geri dönecek olmalı......`
 `Natsuhi Yenge ile birlikte kazan dairesine döndüm ve odadakilere zayıf bir sesle hiçbir şey bulamadığımızı söyledim.`
 `Bana Doktor Nanjo ve George-aniki'nin Kanon-kun'u hizmetkâr odasına taşıdıklarını söylediler.`
 `Hizmetkâr odasında bir ilk yardım çantasıyla bir lavabo vardı ve görünüşe göre bir hemşire ofisi olarak da kullanılabiliyordu.`
@@ -364,15 +364,15 @@
 `Kaybedilen büyük miktarda kana ve belirsiz bir şekilde yere düşen silahın vahşi şekline bakarak,`
 ` ......Doktor Nanjo'nun tedavisinin muhtemelen sonuçsuz kalacağını düşündüm...`
 `Bu silah şüphesiz Eva Hala ve Hideyoshi Eniştenin alnına saplanmış olanla aynıydı.`
-`......Ama bir dakika, kabzadaki şeytani tasarım biraz farklı değil mi...?`
+`......Ama bir dakika, sapındaki şeytani tasarım biraz farklı değil mi...?`
 `O kısımda bazı küçük farklılıklar var gibi görünüyordu.`
 ` Yine de, genel şekilleri söz konusu olduğunda, silahların hepsi aynı türdendi.`
-`Acımasızca görünse de, olay yerini korumak için silahları Eva Hala ve Hideyoshi Enişteye saplanmış halde bırakmıştık.`
-`...Bu yüzden de silahın tamamını ilk defa şimdi görebildim.`
+`Acımasızca görünse de, olay yerini korumak için silahları Eva Hala ve Hideyoshi Enişteye saplanmış hâlde bırakmıştık.`
+`...Bu yüzden de silahın tamamını ilk defa şimdi görebilmiştim.`
 `Gerçekten de silah bir bıçak şeklinde değil de, buz kıracağı,`
 ` ...ya da daha doğrusu ince bir kazık şeklindeydi.`
 `Ve ayrıca, ...spiral şeklinde bir tasarımı vardı, bir çeşit matkap gibi?`
-`...Rahatsız edici bir benzetme yapmak gerekirse, şeytani bir ritüelde kurban edilen insanların kalbine saplanan bir şeye benziyordu...`
+`...Rahatsız edici bir benzetme yapmak gerekirse, şeytani bir ritüelde kurban edilen insanların kalbine saplanacak bir şeye benziyordu...`
 `Sapıyla birlikte yaklaşık yirmi beş santimetre uzunluğundaydı.`
 ` Bunun yarısı, koyu kırmızı kanla lekelenmiş olan kazık şeklindeki kısımdı.`
 `......Kan lekeli kısmın uzunluğu, Kanon-kun'un göğsüne ne kadar derin girmiş olduğunu açıkça gösteriyordu...`
@@ -382,10 +382,10 @@
 `Genji-san ve Maria gözlerini dikmiş ona bakıyorlardı.`
 `Natsuhi Yenge muhtemelen doğrudan bakmaya dayanamıyordu.`
 ` ...Sırtını ona dönerek başını sallamaya devam etti.`
-`"........................ug...!"`
+`"........................uğ...!"`
 `...Yaşanan onca şeyden sonra artık hiçbir şeyin beni şaşırtamayacağını düşünmüştüm ama...`
 `...bu...`
-`...gghh...!`
+`...ğğhh...!`
 `Bir süre orada içimde yükselen kusma isteğiyle sızlanarak dikildim...`
 `.........Bu doğaüstü kokunun gerçek kaynağı...`
 `......çöp fırınının içinden gelen...`
@@ -393,8 +393,8 @@
 `Giysiler, vücudun yüzeyi ve saçlar korkunç bir şekilde yanmıştı.`
 ` Bu ürkütücü cesedin ne yüzü, ne yaşı, ne de cinsiyeti tahmin edilebilecek durumdaydı...`
 `Ama sakince düşündüğümde, bu zamanda ortaya çıkan bir cesedin sadece bir kişi olabileceğini fark ettim.`
-`.........Büyükbabam,`
-` sabah kaybolan ve nerede olduğu bilinmeyen kişi.`
+`.........Büyükbabam.`
+` Sabah kaybolan ve nerede olduğu bilinmeyen kişi.`
 `".........Korkarım ki bu...büyük olasılıkla Efendi."`
 `"............Ben de...katılıyorum.`
 ` ............Böyle bir şekilde vefat etmiş olması......`
@@ -411,23 +411,23 @@
 `Tıpkı Genji-san'ın söylediği gibi, her ayakta da altı ayak parmağı vardı.`
 `Parmakların her biri o kadar doğal bir şekilde dizilmişti ki fark etmemiştim...`
 `"......Efendi doğuştan bu benzersiz nitelikteki ayak parmaklarına sahipti.`
-` ...Dolayısıyla, Ushiromiya ailesinin yeniden canlandırılması görevi Efendiye verildi."`
-`"Çok eskiden beri Ushiromiya ailesinde polidaktili vakalarının yaygın olduğunu duymuştum.`
+` ...Dolayısıyla, Ushiromiya ailesinin yeniden kurulması görevi Efendiye verildi."`
+`"Ushiromiya ailesinde polidaktili vakalarının çok eskiden beri yaygın olduğunu duymuştum.`
 ` ...Muhtemelen kalıtsal bir şey."`
 `Polidaktili kelimenin tam anlamıyla "fazla parmak" demektir.`
 `Kişi doğduğunda Tanrı'nın yaptığı küçük bir hata nedeniyle ayak ya da el parmaklarından biri ikiye ayrılır ve sayıları artmış olur.`
 `Ama genellikle dünyada polidaktili büyük bir meseleymiş gibi konuşulmaz.`
 `{n}Çünkü bu bir hastalık değil, insanların doğuştan sahip olduğu bir özelliktir.`
-`Bu yüzden hastane daha bebekken bunun farkına varır ve yaklaşık bir yaşına geldiklerinde onları normal hale getirmek için ameliyat ederler.`
+`Bu yüzden hastane daha bebekken bunun farkına varır ve yaklaşık bir yaşına geldiklerinde onları normal hâle getirmek için ameliyat ederler.`
 `Dolayısıyla, bir çocukta polidaktili olsa bile, kendi bilincine varmadan önce tedavi edilir, bu yüzden kendileri bile hatırlamayabilirler.`
 `Bu arada, her iki bin bebekten birinde görülme olasılığı olduğu söyleniyor,`
-` yani pek rastlanmasa da nadir sayılmaz.`
+` yani pek rastlanmasa da aşırı nadir sayılmaz.`
 `Bu konu açılmışken, sanırım Hideyoshi Enişte uzun zaman önce bana bir şeyden bahsetmişti.`
 ` ...Sengoku döneminin sonunda Japonya'yı birleştiren Toyotomi Hideyoshi'nin bile bir elinde altı parmağı olduğuna dair bir şey...`
 `Natsuhi Yengeye göre, Ushiromiya ailesinin birçok reisi arasında bilgelikleriyle en çok övülenlerin hepsi polidaktiliymiş.`
 `......Bu nedenle, Büyükbabam doğduğunda, akrabalarının hepsi onun başka bir bilge lider olabileceği düşüncesiyle heyecanlanmış.`
 ` Ve önde gelen akrabaların hepsi Büyük Kanto Depremi'nde öldüğünde, görünüşe göre aileyi bundan kurtarabilecek biri varsa,`
-` onun doğumunun kutsanmış işareti nedeniyle Büyükbabam olacağı tartışılıyordu.`
+` onun doğumunun kutsanmış işareti nedeniyle Büyükbabam olacağı tartışılıyormuş.`
 `Büyükbabam reis olmanın kötü bir iş olmadığını düşündüyse, bu altıncı ayak parmağı onun için oldukça şanslı olmalı.`
 `......Düşündüm de, sanırım polidaktili insanların tanrı muamelesi görmesi ve saygı duyulması gerektiğine inanılan bir ülke duymuştum...`
 `Bu konumuzun dışında ama gizem romanlarında bir cesedin kime ait olduğunu gizlemek için yakılması oldukça yaygındır.`
@@ -436,11 +436,11 @@
 `......Tıpkı Eva Hala ve Hideyoshi Enişte, ...ve göğsünden yaralanan Kanon-kun gibi,`
 ` onun da alnına...bir "iblisin buz kıracağı" saplanmıştı......!`
 `"............"Reis'in Yüzüğü" parmağında değil."`
-`"...Dün geceki mektuptaki gibi yani.`
+`"...Dün geceki mektupta söylediği gibi.`
 ` ..................Babam...`
 `...muhtemelen büyük hayal kırıklığına uğrardı......"`
 `Natsuhi Yenge başını öne eğdi ve gözlerini sıkıca kapattı...`
-`......Bu oda da aynı şekilde polise teslim etmemiz gereken hayati bir suç mahalli haline gelmişti.`
+`......Bu oda da aynı şekilde polise teslim etmemiz gereken hayati bir suç mahalli hâline gelmişti.`
 `......Büyükbabamın cesedini burada bırakmaya ve odayı kilitleyerek mühürlemeye karar verdik.`
 `Büyükbabamın cesedinin çöp fırınında ne zaman yanmaya başladığı belli değildi.`
 `Genji-san'a göre alevler o kadar da güçlü olmadığından ceset uzun zaman önce yanmaya başlamış,`
@@ -448,7 +448,7 @@
 `......Az ya da iyi pişmiş olması bir yana,`
 ` Büyükbabam otomatik kilidinin yarattığı kilitli bir odada olmasına rağmen...dışarı çıkarılmış, öldürülmüş ve yakılmıştı.`
 ` ...Buna şüphe olamazdı...`
-`Ancak, Genji-san'ın dediğine göre, kazan dairesi genellikle kilitli tutulurmuş.`
+`Ancak, Genji-san'ın dediğine göre, kazan dairesi genellikle kilitli tutuluyormuş.`
 `......Grubumuzun dışından birinin suç işlemek için etrafta dolaşıyor olma ihtimali artık çok yüksekti,`
 ` ve bu kişinin elinde master anahtar gibi bir şeyle dolaşıyor olma ihtimali de çok yüksekti.`
 `...Ne de olsa malikânenin tüm kapı ve pencereleri kontrol edilmişti.`
@@ -459,12 +459,12 @@
 `...Satranç tahtasını bir kez daha ters çevirirsem,`
 ` 19. kişinin varlığının bariz bir şekilde gözümüze sokulması...`
 `o 19. kişinin varlığını daha da imkânsızlaştırır.`
-` O 19. kişi karşımıza çıkmadığı sürece tabii...!`
+` Tabii o 19. kişi karşımıza çıkmadığı sürece...!`
 `......Eğer suçlu, Büyükbabamı fişle mühürlenmiş bir kapıdan çıkarabildiyse,`
 ` Eva Hala ve Hideyoshi Enişteyi zincirle mühürlenmiş bir kapının diğer tarafından öldürebildiyse,`
-` ......o zaman garip numaralar ve cihazlarla hayalî bir 19. kişi yaratmaları bile mümkün müdür...?!?!`
+` ......o zaman garip numaralar ve cihazlarla hayalî bir 19. kişi yaratması bile mümkün olur mu...?!?!`
 `Suçlunun hâlâ aramızda olduğuna inanırsak,`
-` ......bu durumda şüpheli listesi oldukça kısa.`
+` ......bu durumda şüpheli listesi oldukça dar.`
 `Biz dört çocuk, Natsuhi Yenge.`
 `{n}Genji‐san,`
 ` Kumasawa baa‐chan,`
@@ -476,7 +476,7 @@
 `Örneğin, ilk altı kişinin yüzleri korkunç bir şekilde parçalanmıştı.`
 `......Bazı cesetlerin yüzleri, kim olduklarını doğrulamamıza yetecek kadar korunmuştu, ama örneğin benim yaşlı piçin...`
 `yüzü tamamen kaybolmuştu, sanki derisi soyulmuş gibiydi...`
-`Hangi cesedin hangisi olduğunu sadece kıyafetlerinden ve bulundukları ortamdan anlayabildik...`
+`Hangi cesedin hangisi olduğunu sadece kıyafetlerinden ve bulundukları ortamdan anlayabilmiştik...`
 `Suçlu önceden sahte bir ceset hazırlayıp kendini ölü gibi göstermiş...sonra da bir yere saklanıp cinayet işlemeye devam etmiş olabilir miydi...?`
 `...Kulağa saçma gelmesi, imkânsız bir numara olduğu anlamına gelmez.`
 `......19. kişiye,`
@@ -509,8 +509,8 @@
 ` O vakit, oldukça yaklaştı.`
 ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
 `...Maria nasıl biri...?`
-`.........Maria'nın sadece altı yıl önce, üç yaşındaki halini biliyorum.`
-`{n}Saf, itaatkâr,—iyi bir çocuktu.`
+`.........Maria'nın sadece altı yıl önce, üç yaşındaki hâlini biliyorum.`
+`{n}Saf, uslu—iyi bir çocuktu.`
 `Altı yıl sonraki bu yeni Maria ile benim tanıdığım Maria, ...birbirine uymuyordu.`
 `......Kendine Maria diyen bu "cadı" da kim...?`
 `Cadılara olan inatçı inancıyla,`
@@ -530,9 +530,9 @@
 ` ...Battler hâlâ inanmıyor.`
 ` Uu."`
 `Maria sadece daha önce söylediklerini tekrarladı.`
-`......Maria 19. kişiyle, cadıyla buluşmuştu.`
+`......Maria 19. kişiyle, cadıyla karşılaşmıştı.`
 `Bu gerçekten 19. kişi miydi, yoksa ona aksini söylemesini tembihleyen 18 kişiden biri miydi?`
-`Kesin olan bir şey varsa o da Maria'nın sürekli bizimle birlikte olup, her zaman bir mazereti olduğu ve kendisini şüpheli duruma düşürecek hiçbir şey yapmadığıdır.`
+`Kesin olan bir şey varsa o da Maria'nın sürekli bizimle birlikte olup, her zaman bir mazereti olduğu ve kendisini şüpheli duruma düşürecek hiçbir şey yapmadığıydı.`
 `......O sadece {f:5:Beatrice}'in elçisi olduğu için çok mutlu ve kesinlikle 19. kişi değil.`
 ` ..................Diye düşünüyorum.`
 `Doğru ya,`

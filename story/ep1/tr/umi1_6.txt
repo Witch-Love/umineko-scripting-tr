@@ -276,21 +276,21 @@
 `Burası ıssız bir ada.`
 ` Malikâne o kadar cereyanlı ki, gök gürültülü ve fırtınalı bir gecede etrafta dolaşmak kesinlikle ürkütücü olurdu.`
 `"Ek olarak, bazı hizmetkârlar etrafta dans eden hayaletler ve ışıltılı kelebekler de görürlermiş.`
-` ......Kanon-kun da bir defa gece vardiyasında böyle bir şey gördüğünü söyledi."`
-`"Ve son zamanlarda, hizmetkârlar gece yarısına doğru malikânenin içinde duydukları tuhaf ayak seslerinden bahsediyorlardı.`
-` Biz, portredeki {f:5:Beatrice}-sama'nın görünmez hâlde malikânenin içinde dolaştığından bahsederdik."`
-`"...Bu uzun zaman önce olsa da,`
-` bu tür ayak seslerini geceleri devriye gezerken ben de duydum."`
+` ......Kanon-kun da bir defa gece vardiyasında böyle bir şey gördüğünü söylemişti."`
+`"Ve son zamanlarda malikânenin içinde gece yarısı sularında esrarengiz ayak seslerinin sık sık duyulduğu hizmetkârlar arasında gündeme geliyordu.`
+` Bizler, portredeki {f:5:Beatrice}-sama'nın formunu görünmez kılıp malikânenin içinde dolaştığından bahsederdik."`
+`"...Uzun zaman önce olsa da,`
+` benim de bu tür ayak seslerini gece vardiyasında duyduğum olmuştu."`
 `"......Hiuu.`
 ` Bu korkutucu..."`
 `"Ah, ...ama,`
 ` korkacak hiçbir şey yok.`
-` {f:5:Beatrice}-sama, Efendiden ayrı olarak bu malikanenin bir diğer sahibidir.`
-` Yani, ona saygı duyduğunuz ve garip bir şekilde korkmuş gibi davranmadığınız sürece kötü bir şey yapmayacaktır."`
+` {f:5:Beatrice}-sama, Efendiden ayrı olarak bu malikânenin bir diğer yöneticisidir.`
+` Yani, ondan korkmayıp ona saygı duyduğunuz sürece kesinlikle kötü bir şey yapmayacağı söylenir."`
 `"Ama ona saygı göstermezsen korkutucu şeyler olur, değil mi?"`
 `"...Evet.`
-` Ben işe başlamadan hemen önce, merdivenlerden düşüp sırtından ağır yaralanarak işten ayrılan biri olduğunu duymuştum.`
-` {f:5:Beatrice}-sama hakkında kötü konuşuyormuş.`
+` Ben işe başlamadan hemen önce, merdivenlerden düşüp sırtını çok ciddi yaralayan ve işten ayrılan birinin,`
+` {f:5:Beatrice}-sama hakkında kötü konuştuğunu duymuştum.`
 ` Bu nedenle, hizmetkârlar arasında {f:5:Beatrice}-sama'nın öfkesinin bu kişinin üzerine çöktüğüne dair bir söylenti dolaşıyordu..."`
 `"Uu...`
 ` Battler ve Jessica, öfkesini görecekler...`
@@ -379,7 +379,7 @@
 ` Maria-sama'nın bizzat tavsiye ettiği bir tılsımın güvenilir olduğundan eminim."`
 `Shannon-chan ellerini hafifçe birbirine vurduğunda, Maria da göğsünü kabarttı.`
 `Tekrardan tamamıyla neşelenmişti.`
-`Eğer onu bu kadar iyi bir ruh halinde tutacaksa, konuşmanın liderliğini bir süre daha ona bırakmak muhtemelen buna değerdi.`
+`Eğer onu bu kadar iyi bir ruh hâlinde tutacaksa, konuşmanın liderliğini bir süre daha ona bırakmak muhtemelen buna değerdi.`
 `Düşündüm de, herkes altının saklı yeri hakkında konuşurken konuya ayak uyduramamıştı ve biraz sıkılmış gibi görünüyordu.`
 `Kumasawa-san'ın pişirdiği kurabiyeleri yerken Jessica ve ben Maria'ya kara büyü hakkında bir şeyler sorduk.`
 `Maria sorularımıza cevap vererek mutlu bir şekilde sohbet etti.`
@@ -474,7 +474,7 @@
 `Bölgenin her yerini aradık ama ne de olsa onca gülün arasında sadece bir tanesiydi.`
 `Her ne kadar yakınlarda bir yerde olduğunu bilsek de, bulmak kolay olmuyordu.`
 `Tayfunun habercisi olan rüzgâr, bahçedeki güllerin dalgalanmasına neden oluyordu.`
-` Sanki Maria'nın gülünün yerini bulmayı imkânsız hale getirerek bizimle alay ediyor gibiydi...`
+` Sanki Maria'nın gülünün yerini bulmayı imkânsız hâle getirerek bizimle alay ediyor gibiydi...`
 `"Belki de burada değildi...`
 ` Ayrılıp aramayı deneyelim."`
 `"İyi fikir.`
@@ -646,7 +646,7 @@
 ` Uu-uu-uu-uu-uu-uu!!!"`
 `"Sana "uu-uu" demeyi kesmeni söyledim!!!`
 ` Kes şunu dedim!!"`
-`Kıvrılmış halde, giderek daha yüksek sesle bağıran Maria'nın kafasına Rosa Hala bir şaplak attı.`
+`Kıvrılmış hâlde, giderek daha yüksek sesle bağıran Maria'nın kafasına Rosa Hala bir şaplak attı.`
 `Onu engellemeye çalışsam da beni itip durdu...`
 `Sırtım George-aniki'ye çarptı.`
 `"......Uzun zaman önce Rosa Teyze de bunu Maria-chan'ın bebeklik alışkanlıklarından biri olarak görüyordu...`

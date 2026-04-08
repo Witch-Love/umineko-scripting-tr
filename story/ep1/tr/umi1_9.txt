@@ -11,16 +11,16 @@
 ` Her an çay istemeleri olası."`
 `"Bu doğru...`
 ` O zaman nasıl yapalım...? Ben burada kalıp—"`
-`"O halde, Shannon-san, üzgünüm ama malikânede devriye gezme işini senden rica edeceğim.`
+`"O hâlde, Shannon-san, üzgünüm ama malikânede devriye çıkma işini senden rica edeceğim.`
 ` Ben burada kalıp ailenin emirlerini bekleyeceğim."`
 `"T-......Tamam..."`
 `...Shannon bir nebze sinirlendiğini hissetti.`
 `Buraya iyilik olsun diye yardım etmeye gelmiş olmasına rağmen sanki doğal bir şeymiş gibi başkasının işini yapmaya zorlanıyordu.`
 `Dahası, Gohda kendi görevini düşüncesizce ona dayattıktan sonra tekrardan dergisindeki bulmacasına gömülmüştü.`
-`Shannon, bu seferlik büyüğüne duyduğu saygının göstergesi olarak başını eğdi ve devriye gezmek üzere odadan ayrıldı.`
-`Biraz sinirlenmek, şimdiye kadar hissettiği o boşluk hissini az da olsa kontrol altına almasını sağladı.`
+`Shannon, bu seferlik büyüğüne duyduğu saygının göstergesi olarak başını eğdi ve devriyeye çıkmak üzere odadan ayrıldı.`
+`Biraz sinirlenmek, şimdiye kadar hissettiği o boşluk hissini az da olsa kontrol altına almasını sağlamıştı.`
 `Bunun yanı sıra, Genji ve Kanon'a böyle bir yüz ifadesi gösteremezdi.`
-`{n}Kalbi sakinleşene kadar biraz kendine zaman ayırmak istiyordu, malikâneyi turlamak bunun için o kadar da kötü bir yol olmasa gerekti...`
+`{n}Kalbi sakinleşene kadar biraz kendine zaman ayırmak istiyordu. Malikâneyi turlamak bunun için o kadar da kötü bir yol olmasa gerekti...`
 `Yemek salonundan ailenin tartışmasının kargaşasını duymaya başladı.`
 `Biri uzun uzun konuşuyor, akabinde bir başkası ona karşı çıkıyordu.`
 ` Bu karşı çıkış uzunca devam ediyordu, ta ki bir başkası daha karşı çıkana kadar.`
@@ -32,21 +32,21 @@
 `Koridor boyunca yürüdü ve her pencerenin kapalı olup olmadığını kontrol etti.`
 `Rokkenjima'da Ushiromiya ailesinin dışında hiçkimse yoktu, dolayısıyla malikâneyi baştan aşağı kilitlemek o kadar da anlamlı bir görev değildi.`
 `Natsuhi bu tavrın dikkatsizlik olduğunu söyleyerek onları azarlayana dek, Ushiromiya hanesinde kapı ve pencere kilitlemek bir alışkanlık değildi.`
-`Pencereler donmuş, demir kısımlarıysa tamamen buz kesmişti ve onları teker teker kontrol etmeye her gidişinde kalbindeki ışıltının soğuduğunu hissediyordu.`
+`Tamamen buz tutmuş pencerelerdeki metal çıtalar dondurucu soğuktu ve her birini tek tek kontrol ederken, sanki kalbindeki ışıltının da soğuduğunu hissediyordu.`
 `".....................?"`
 `Tam o sırada, koridorun ötesinde parıldayan bir şey gördüğünü sandı.`
 `......Parıldama mı?`
 `{n}Bu tarz bir şey koridorun karanlığının ötesinde görünmemeliydi...`
 `Muhtemelen gözlerinin ona oyun oynadığını düşünse de,`
-` bir an için nefesini tuttu, perdelerden birine tutundu ve korkuyla koridora bakakaldı......`
+` bir an için nefesini tuttu, perdelerden birine sarıldı ve korkuyla koridora bakakaldı......`
 `Ancak ara sıra çakan şimşekler dışında hiçbir parıldama göremedi.`
 `......Neticede bu onun hayal gücü olmalıydı.`
 `{n}Belki de kalbini sakinleştiremediği için var olmayan bir şey görmüştü.`
 `Shannon pencereleri kontrol etmeye geri döndü...`
 `{n}Ancak aklının bir köşesinde, rahatsız edici bir ihtimal yeniden canlanmıştı.`
-`...Bu şey, Ushiromiya ailesine hizmet eden hizmetkârlar arasında anlatılan—hayalet hikâyesiydi.`
-`Malikânenin gece ve gündüz için farklı efendileri vardı.`
-` ...Gecenin efendisi {f:5:Beatrice}, bazen ışıltılı kelebekler suretinde malikânenin etrafında uçardı.`
+`...Bu, Ushiromiya ailesine hizmet eden hizmetkârlar arasında nesilden nesile aktarılan o hayalet hikâyesiydi.`
+`Malikânenin gece ve gündüz için farklı efendileri olduğu hikâye.`
+` ...Gecenin efendisi {f:5:Beatrice}'in, bazen parıldayan kelebekler suretinde malikânenin içinde uçtuğu hikâye.`
 `......Sahi, Kanon-kun bir keresinde bunu kendisinin de gördüğünü söylememiş miydi......?`
 `Ona inanmayıp sadece bir hayal gördüğünü söylediğimde suratı asılmıştı...`
 `.........Yoksa...gerçekten de...............?`

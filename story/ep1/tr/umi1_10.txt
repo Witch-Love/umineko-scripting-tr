@@ -1,7 +1,7 @@
 `Genji papyonunu bir kez daha sıktı ve perdelerdeki aralıktan dışarıya baktı.`
 `Belki de yağmur önceki geceden beri biraz dinmişti.`
 `{n}...Ama koyu yağmur bulutları sabah güneşinin geçişine izin verecek gibi görünmüyordu.`
-`Sabah loştu ve ferahlatıcı olmaktan oldukça uzaktı.`
+`Ferahlatıcı olmaktan çok uzak, loş bir sabahtı.`
 `".........Beklediğim gibi, bugün de duracak gibi görünmüyor..."`
 `"Sizi beklettiğim için özür dilerim, Genji-sama."`
 `Kanon görünüşünü kontrol etti ve lavabodan çıktı.`
@@ -14,13 +14,13 @@
 `Konukları ağırlamak için günlerce uğraşıp güzelleştirmelerine rağmen fırtınalı bir gece her şeyi mahvetmişti.`
 `Kanon iç çekti.`
 `İkili, malikâneye doğru yola koyuldu.`
-`{n}Gohda ile buluşup kahvaltı hazırlamaları gerekiyordu.`
-`Gohda öylesine mükemmeliyetçi biriydi ki, muhtemelen çoktan uyanmış, şimdi de cam işçiliği kadar zarif ve kusursuz bir kahvaltı hazırlığının ortasında olmalıydı.`
-`Malikânenin girişindeki çıkıntıya ulaştılar ve şemsiyelerini katladılar.`
+`{n}Gohda ile buluşup kahvaltıyı hazırlamaları gerekiyordu.`
+`Gohda öylesine mükemmeliyetçi biriydi ki, şüphesiz çoktan uyanmış, ve cam işçiliği kadar zarif ve enfes bir kahvaltı hazırlığının tam ortasında olmalıydı.`
+`Malikânenin girişindeki saçağa ulaştılar ve şemsiyelerini katladılar.`
 `Genji cebinden bir anahtarlık çıkardı ve ön kapının kilidini açmak için kullandı.`
-`Rokkenjima'da Ushiromiya ailesinin malikânesi dışında hiçbir şey yoktu, bu nedenle eskiden kapıları kilitleme âdeti yoktu.`
+`Rokkenjima'da Ushiromiya ailesinin malikânesi dışında hiçbir şey olmadığı için eskiden kapıları kilitleme âdeti yoktu.`
 `Ancak Natsuhi, gece yarısından sabahın erken saatlerine kadar malikâneyi kilitlemenin görevlerinin bir parçası olmasını emretmişti.`
-`Ve sabahın erken saatlerinde kilitlerin açılması ise sabah vardiyasında çalışan hizmetkârlar tarafından yapılacaktı.`
+`Sabahın erken saatlerinde kilitlerin açılması ise sabah vardiyasında çalışan hizmetkârlar tarafından yapılıyordu.`
 `Gohda uyanır uyanmaz kahvaltı hazırlıklarına başlayacağı için bu görev Genji ve Kanon tarafından üstlenilecekti.`
 `Malikâneye sessizlik çökmüş, sanki malikânenin kendisi hâlâ uykudaymış izlenimi veriyordu.`
 `".........O hâlde sabah işlerine başlayalım."`
@@ -29,24 +29,24 @@
 `...Perdeler kapalı kaldığı sürece, malikânenin içi sanki bir önceki geceyi hâlâ üzerinden atamamış gibi kasvetinden kurtulamayacaktı.`
 `Kanon, çok iyi bildiği bir prosedürü izleyerek, adımlarını bir kez bile geri almasına gerek kalmadan pencereleri birbiri ardına açarak malikâneyi dolaştı.`
 `Bu korkunç havaya rağmen perdeleri açtığında hava biraz olsun sabah gibi gelmeye başlamıştı.`
-`Bunları yaparken mutfağın önünden geçti.`
+`Perdeleri açarken mutfağın önünden geçti.`
 `...Henüz hiçbir şeyin kokusunu almamış olsa da, Gohda'nın o çok övündüğü yemeklerinin kokusunu beklerken boş midesi guruldamaya başladı.`
 `".........Günaydın.`
 ` ..................?"`
-`Mutfakta yemek hazırlamakla meşgul olacağını düşündüğü Gohda'ya selam vermek istedi ama Gohda ortalıkta görünmüyordu.`
-`Mutfak karanlıktı ve perdeleri bırakın, havalandırma fanı bile dönmüyordu.`
-`Odanın içi hâlâ soğuktu, ateşten eser yoktu ve tabii ki ortalıkta kahvaltı için hiçbir hazırlık yoktu.`
-`...Her ne kadar olmaması gereken bir şey olsa da, belki de Gohda uyuyakalmıştı.`
+`Mutfakta kahvaltı hazırlamakla meşgul olacağını düşündüğü Gohda'ya selam vermek istedi ama Gohda ortalıkta görünmüyordu.`
+`Mutfak karanlıktı ve perdeleri bırakın, havalandırma fanı bile çalışmıyordu.`
+`Odanın içi hâlâ soğuktu, ocağın ateşinden eser yoktu ve tabii ki ortalıkta kahvaltı için hiçbir hazırlık yoktu.`
+`...Böyle bir şeyin olması kabul edilebilir olmasa da, belki de Gohda uyuyakalmıştı.`
 `Hizmetkârlar da birer insan.`
 `{n}Bazen uyanamayabilirler ve sonuç olarak geç kalabilirler.`
 `...Nadiren de olsa böyle bir durumla karşılaşıldığında, bir hizmetkârın görevi; çirkin bir sahneye neden olmamak için,`
-` durumu gizlice düzeltmek ve efendilerinin böyle bir hatayı hiç fark etmemesini sağlamaktır.`
+` durumu gizlice düzeltmek ve efendilerinin böyle bir hatayı hiç fark etmemesini sağlamaktı.`
 `Kanon duvara monte edilmiş telefonun ahizesini kaldırdı ve hizmetkârların uyuduğu odanın dahili numarasını çevirdi.`
 `"........................?"`
 `......Çevirme sesinin o karakteristik sesini duyamadı.`
 `Kanon ahizeyi tekrar kaldırmayı denedi ama yine de her zamanki çevirme sesini duyamadı.`
-`Tekrar çevirmeyi denedi ama pek bir etkisi olmadı.`
-`......Dün gece çakan şimşek mekanik bir arızaya neden olmuş ve dahili telefon hatlarını bozmuş olabilir miydi?`
+`Tekrar çevirmeyi denedi ama bir etkisi olmadı.`
+`......Dün gece çakan yıldırımlar, mekanik bir arızaya neden olmuş ve dahili telefon hatlarını bozmuş olabilir miydi?`
 `Bu malikânedeki ekipmanların hepsi eski püsküydü.`
 `{n}Kanon, en küçük etkenin bile bu şeyin bozulmasına neden olabileceğinin farkındaydı.`
 `Kanon onu telefonla uyandırmaya çalışmaktan vazgeçti ve hizmetkârların uyuduğu odaya koştu.`
@@ -55,23 +55,23 @@
 `Uykusu her zaman hafifti ve ilaç olmadan hiç uyuyamazdı bile.`
 `{n}...Natsuhi için uyumak kesinlikle güzel bir şey değildi.`
 `Dışarı baktığında, yağmurun hâlâ yağdığını gördü.`
-`{n}Ufacık bir ışık hissetmemiş olsaydı, yanlışlıkla hâlâ gece olduğunu sanabilirdi.`
-`...Kendisi de ev sahiplerinden biriydi, bu yüzden misafirlerinden daha geç uyanmamalıydı.`
+`{n}Ufacık bir ışık hissetmemiş olsaydı, yanlışlıkla hâlâ gece olduğunu zannedebilirdi.`
+`...Kendisi de ev sahiplerinden biri olduğu için misafirlerinden daha geç uyanmamalıydı.`
 `Kendini zorlayarak, dünün yorgunluğunu hâlâ tam olarak üzerinden atamamış olan bedenini kaldırdı.`
-`Bu odanın içinde olduğu sürece kimse ona eziyet etmeyecekti.`
+`Bu odanın içinde olduğu sürece kimse ona eziyet edemezdi.`
 `{n}Baş ağrısı olduğundan daha da kötüleşmeyecekti.`
 `{n}......Bu oda onun tek huzurlu alanıydı.`
 `Buradan ayrılması, kocasının kardeşlerinin birbirlerinin zihinlerini irdelediği dünyaya geri dönmesi anlamına geliyordu.`
 `...Bu durumda sonsuza dek bu odada kilitli kalmak daha iyi olmaz mıydı...?`
 `Natsuhi bu fanteziye acı acı gülümsedi.`
 `{n}...Kinzo gibi olmaya başlamıştı.`
-`...Çoğu zaman Kinzo'ya kendi odasında kilitli kaldığı ve kimseye aldırış etmediği için laf etse de, gerçek şu ki aslında kendisi de bunu yapmayı arzuluyordu.`
-`......Natsuhi başını hafifçe salladı ve kurduğu hayalin yerini her zamanki baş ağrısının yeniden uyanışı aldı.`
+`...Çoğu zaman Kinzo'ya kendi odasında kilitli kaldığı ve kimseye aldırış etmediği için laf etse de, gerçek şu ki aslında kendisi de bunu yapabilmeyi arzuluyordu.`
+`......Natsuhi başını hafifçe salladı ve hayalleri, yerini her zamanki baş ağrısına bıraktı.`
 `Odadan çıkmak için kapı koluna uzandığında, eli önceki gece uyumadan önce kapıya astığı akrep tılsımına değdi.`
 `......Jessica'nın Natsuhi'ye verdiği Maria'nın tılsımıydı.`
 `Eğer doğru hatırlıyorsa, Jessica onun büyüyü geri püskürtme gücüne sahip olduğunu ve kapı koluna asması gerektiğini söylemişti.`
 `...Belki de bu tılsım sayesinde en azından bu oda kocasının kardeşlerinin kötülüklerinden korunmuştu.`
-`......Bunu düşündükçe ruh hali biraz daha neşelenmeye başladı.`
+`......Bunu düşündükçe ruh hâli biraz daha neşelenmeye başladı.`
 `"...............Jessica sağ olsun...biraz huzurlu bir uyku çekebildim gibi..."`
 `Sonra Natsuhi hatırladı.`
 `{n}Doğru ya, dün gece Jessica'ya bunun karşılığında ona kendi tılsımımı vereceğime söz vermiştim, değil mi?`
@@ -79,14 +79,14 @@
 `İçinde, Natsuhi'nin o zamanlar değerli olduğunu düşündüğü birçok küçük nesne vardı.`
 `Bunların arasından kırmızı bir kese çıkardı.`
 `{n}...İçinde yaklaşık on santimetre çapında küçük, yuvarlak bir ayna vardı.`
-`Oldukça eski görünüyordu, ancak aynanın arkasındaki tasarım çok süslüydü ve tarihi değeri olan bir şey gibi hissettiriyordu.`
-`En azından, plastik bir akrep anahtarlığına benzeyen diğer tılsımla karşılaştırıldığında çok daha etkili görünüyordu.`
-`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve Büyükbabasının hatıraları dağıtılırken Büyükannesi tarafından kendisine özel olarak verilmişti.`
-`Eski zamanlardan beri aynaların içinde garip güçlerin yaşadığına inanılırdı.`
+`Oldukça eski görünüyordu, ancak aynanın arkasındaki tasarım çok süslüydü ve tarihi değeri olan bir şey olduğu izlenimini veriyordu.`
+`Hiç değilse, plastik bir akrepten anahtarlığa benzeyen diğer tılsımla karşılaştırıldığında çok daha etkili görünüyordu.`
+`Bu aynanın kötü ruhları uzaklaştıran ruhani bir ayna olduğunu duymuştu ve Büyükbabasının eşyaları dağıtılırken Büyükannesi tarafından kendisine özel olarak verilmişti.`
+`Antik çağlardan beri aynaların içinde garip güçlerin barındığına inanılır.`
 `{n}Büyük olasılıkla ışığı yansıtma biçimleri, talihsizliği ve kötülüğü de aynı şekilde saptırdıklarına dair bir inanç yaratmıştı.`
 `Natsuhi aynayı kesesine geri koydu.`
 `{n}...Muhtemelen Jessica'ya vermek için uygun bir nesne olacaktı.`
-`Tam keseyi cebine yerleştirirken, kapıyı çalan birinin sesi aniden odanın içinde yankılandı.`
+`Tam keseyi cebine yerleştirirken, birdenbire birinin kapıyı çalma sesi odanın her köşesinde yankılandı.`
 `".........Evet?"`
 `"Günaydın, Madam. Ben Genji.`
 ` Sizi bu kadar erken uyandırdığım için özür dilerim."`
@@ -95,12 +95,12 @@
 `Daha önce hiçbir hizmetkâr sabahın bu kadar erken bir saatinde ona gelmemişti, özellikle de doğrudan.`
 `...Belki de kötü bir şey olmuştu.`
 `{n}Örneğin, belki de kahvaltı hazırlıkları sırasında ölümcül bir dikkatsizlik yapılmış ve ev halkı misafirlerin önünde utanç verici bir duruma düşmüştü.`
-`...Natsuhi yavaşça nefes aldı, sanki birazdan duyacağı sıkıntıları önceden sezmiş gibi...`
+`...Natsuhi, sanki birazdan duyacağı sıkıntıları önceden sezmiş gibi derin bir nefes aldı...`
 `Kapıyı açtığında Genji bir kez daha derin bir şekilde eğilerek onu selamladı.`
 `{n}Natsuhi tereddütle karşılık verdi.`
 `".........Günaydın.`
 ` Bir şey mi oldu?"`
-`"Özür dilerim.`
+`"Özürlerimi sunarım.`
 ` .........Dün geceki yıldırımlar nedeniyle telefonlar arızalanmış gibi görünüyor.`
 ` ...Dahili hatlar çalışmıyor, bu nedenle sizi doğrudan görmeye geldiğim için lütfen bağışlayın."`
 `"Dahili hatlar çalışmıyor mu?`
@@ -123,7 +123,7 @@
 `"......Buna gelince, ...Gohda'yı henüz bulamadık.`
 ` Kahvaltı hazırlıkları da henüz tamamlanmadı..."`
 `"Ne dedin?"`
-`Natsuhi öfkeliydi.`
+`Natsuhi öfkelendi.`
 `...Ona göre bu, telefonların çalışmamasından çok daha büyük bir sorundu.`
 `Ve buna rağmen, bu bilgi ertelenen kısımdı.`
 `Neden çoğu zaman her şey yolunda giderken, akrabalar ziyarete geldiğinde böyle bir şey oluyordu...`
@@ -132,10 +132,10 @@
 ` Her neyse, kimin hazırladığı önemli değil, çabucak kahvaltıyı hazırlayın.`
 ` ...............Ne—"`
 ` Natsuhi koridora çıktı ve odasının kapısını kapatmak için bir saniyeliğine arkasını döndü.`
-`Orada gördüğü tatsız "şey" onu tamamen sessizleştirmişti.`
+`Gördüğü tatsız "şey" onu tamamen sessizleştirmişti.`
 `...Tıpkı biri parmaklarını koyu kırmızı bir sıvıya batırmış ve kapı kolunun etrafındaki bölgeyi tırmalamış gibi rahatsız edici bir görüntüydü.`
-`Sanki biri iki elini de kana bulamış ve kapıyla kapı kolunu el yordamıyla yoklamış—`
-`böyle bir şey sahnelemek istemiş ve korkunç bir şaka olarak bu izi bırakmış gibiydi.`
+`Sanki biri iki elini de kana bulamış ve kapıyla kapı tokmağını el yordamıyla yoklamış gibi—`
+`sanki biri böyle bir sahne yaratmak istemiş ve bu izi korkunç bir şaka olarak bırakmış gibi.`
 `"B-`
 `......Bu nasıl bir eşek şakası.........?`
 ` Ne kadar görgüsüzce...!"`
@@ -144,23 +144,23 @@
 `"...B-...Büyük ihtimalle,`
 ` görgüsüz konuklardan birinin şakasıdır.`
 ` ......İğrenç, gerçekten iğrenç...!"`
-`Dünyada kim böyle çocukça ve iğrenç bir şaka yapar ki!`
-`Natsuhi'nin oldukça iyi bir tahmini vardı ama elbette ortada bir kanıt yoktu,`
-` bu yüzden konuyu zorlasa bile boş yere yaygara koparıyormuş gibi görünecekti.`
-`Aksine, en başta böyle bir şaka yapıldığını fark etmediğini söylemek onun için kesinlikle daha iyi olacaktı.`
+`Kim böyle çocukça ve iğrenç bir şaka yapar ki!`
+`Natsuhi'nin oldukça iyi bir tahmini vardı ama elbette ortada bir kanıt yoktu.`
+` Bu yüzden konuyu açsa bile boş yere yaygara koparıyormuş gibi görünecekti.`
+`Tam tersine, en başta böyle bir şaka yapıldığını fark etmediğini söylemesi onun için kesinlikle daha iyi olacaktı.`
 `Natsuhi temizlenmesi emrini verdi ve topuklarını şakırdatarak salona doğru yola koyuldu.`
 `Natsuhi ve Genji salona vardıklarında Eva ve Hideyoshi çoktan oradaydı.`
 `".........Günaydın millet."`
 `"Günaydın Natsuhi-san.`
 ` Kahvaltıyı da Gohda-san hazırlayacaktı, değil mi?`
 ` Sabahtan beri midem bir türlü rahat durmadı.`
-` Wahahaha."`
+` Hahahaha."`
 `"Burada dört gözle beklediğin tek şey yemek, değil mi?`
 ` *kıkır* *kıkır*."`
 `".........Eva-san, seni de sabah sabah bu kadar neşeli görmek ne hoş."`
 `Natsuhi, Eva'nın sabahın erken saatleri olmasına rağmen son derece rekabetçi olan bakışlarına yorgun bir ifadeyle karşılık verdi.`
 `Ardından Kanon koşarak içeri girdi.`
-`Malikâneye koşarak girdiği için akrabalarından özür dileyen bir selam verdikten sonra Genji'ye yaklaştı ve kısık bir sesle ona bir şeyler söyledi.`
+`Malikânede koşturduğu için akrabalardan özür dilercesine başını eğdikten sonra Genji'ye yaklaştı ve ona alçak sesle bir şeyler söyledi.`
 `"......Kanon.`
 ` Gohda'yı hâlâ bulamadın mı?"`
 `".........Özür dilerim, Madam.`
@@ -168,7 +168,7 @@
 ` ...ama yine de..."`
 `"Nereye gitmiş olabilir ki?`
 ` ......Her neyse, şu an Gohda'dan ziyâde kahvaltı hazırlıkları daha öncelikli.`
-` Derhal icabına bak."`
+` Derhâl icabına bak."`
 `".........Tamam."`
 `Kanon Genji'ye baktı.`
 `{n}...Bildirmesi gereken başka bir şey varmış gibi görünüyordu ama Genji'ye bunu söyleyecek doğru kişinin kendisi olup olmadığını sorması gerekiyordu.`
@@ -180,16 +180,16 @@
 `"Evet.`
 ` Sizden önce kocanıza kahvaltı hazırlığının bitmediği haberini vermeyi düşündüm ve odasına gittim, fakat orada değildi.`
 ` Üstelik, yalnızca kocanız da değil.`
-` ......Rudolf-sama ve eşi ile Rosa-sama da hiçbir yerde yoklar."`
+` ......Rudolf-sama ve eşiyle beraber Rosa-sama da hiçbir yerde yoklar."`
 `"Konukevinde de mi?`
 ` Malikânede bile mi yoklar?"`
-`"Uh.........Evet.`
+`"Ih.........Evet.`
 ` Konukevindeki odalarında da değiller."`
-`Sadece Gohda'nın kayıp olduğunu duyduğunda, uyuyakalmış ya da bir yerlerde aylak aylak dolaşıyor olabileceğini düşünmüştü,`
-` ama akrabalarından birkaçının da kayıp olduğunu duyunca biraz daha optimistik düşünmeye başladı.`
-`Dün geceki aile konferansı bütün gece devam etmiş ve hatta hâlâ devam ediyor olabilirdi.`
+`Sadece Gohda'nın kayıp olduğunu duyduğunda, uyuyakalmış ya da bir yerlerde aylaklık yapıyor olabileceğini düşünmüştü.`
+` Fakat akrabalardan birkaçının da kayıp olduğunu duyunca biraz daha optimistik düşünmeye başladı.`
+`Dün gecenin aile konferansı bütün gece devam etmiş ve hatta hâlâ devam ediyor olabilirdi.`
 `Bu durumda, o havasız odada kaldıktan sonra hepsi kafalarını dağıtmak istemiş,`
-` sonuç olarak da grupça yağmur altında yürüyüşe çıkabilecekleri düşünülebilirdi.`
+` ve sonuç olarak da grupça yağmur altında yürüyüşe çıkmış olabilecekleri düşünülebilirdi.`
 `..."Kafalarını dağıtmak" ile ilgili kısım gerçekten de Krauss'un söyleyebileceği bir şeye benziyordu.`
 `Muhtemelen Gohda, bir konuda onlara yardım etmek için onlarla birlikte gitmeye çağrılmıştı.`
 `Gohda zamanın nasıl geçtiğini anlayamayacak bir adam değildi.`
@@ -197,7 +197,7 @@
 `Belki de her ne kadar ayrılmak istese de ortam buna el vermiyordu,`
 ` ve konferans şu anda bile bu şekilde devam ediyor olabilirdi.`
 `......Evet, Natsuhi bunun son derece ikna edici bir teori olduğunu düşündü.`
-`Natsuhi, o sabah bir önceki gecenin içine çekildiği yanılsamasını hatırladı`
+`Natsuhi, sabah hissettiği, önceki gecenin içine çekiliyormuş gibi gelen o yanılsamayı hatırladı,`
 ` ...ve bu hissin sadece bir yanılsama olmadığını anlayınca bir kez daha derin ve bitkin bir nefes aldı.`
 `Çünkü Kinzo'nun mülkünün etrafında dolaşan pis akbabaların ziyafeti hâlâ devam ediyordu.`
 `"......Büyük olasılıkla bahçede bir yerde, ya da sahilde hâlâ miras hakkındaki tartışmayı tekrarlıyorlardır.`
@@ -207,7 +207,7 @@
 `Kısık sesle konuştuğunu düşünmüştü ama Hideyoshi onu duymuş ve durumu kavramayı başarmıştı.`
 `"Nii-san da Rudolf da oldukça çetinler.`
 ` Rosa da genç olduğundandır belki?`
-` ......Biz ikimiz gece yarısı 24'ten sonra o kadar uykuluyduk ki çabucak yataklarımıza döndük.`
+` ......Biz ikimiz gece yarısından sonra o kadar uykuluyduk ki çabucak yataklarımıza döndük.`
 ` Sahi, o sırada Nii-san ve diğerleri hâlâ hararetli bir tartışma içindeydiler.`
 ` ......Erkekler yok mu... Kızıştılar mı çok fenalar."`
 `Natsuhi ifadesiz bir şekilde homurdandı.`
@@ -219,7 +219,7 @@
 `"...Doğru, bunun mümkün olmadığını söyleyemeyiz.`
 ` Ne konuştuklarını bilmiyorum ama,`
 ` Babamın çalışma odasına gidip onu da tartışmaya dahil etmiş olma ihtimalleri gayet yüksek."`
-`"......Böylesine iğrenç bir konuyu Babamın çalışma odasına sokmak isteyebileceğini düşünemiyorum."`
+`"......Böylesine iğrenç bir konuyu Babamın kendi çalışma odasına sokmak isteyebileceğini düşünemiyorum."`
 `"Ah, öyle mi?`
 ` O zaman yapacak bir şey yok.`
 ` Genji-san ve Kanon-kun, üzgünüm ama dışarıya bakınabilir misiniz?`
@@ -230,17 +230,17 @@
 `"..................Eva-san, misafir olarak kendini böyle bir zahmete sokmamalısın.`
 ` Ben giderim.`
 ` Gitmişken ona günaydın da demiş olurum."`
-`"Amanın, öyleyse sana emanet.`
+`"Amanın, öyleyse sana bırakıyorum.`
 ` Ama günaydınına karşılık vereceğinden şüpheliyim.`
 ` Natsuhi nee-san, Babamla aranız iyi miydi ki?"`
 `".........Aramız iyi mi bilemem ama,`
 ` Ushiromiya ailesinin halefinin eşi olmamı onaylayacak kadar güvenini kazandığımdan eminim."`
-`"O halde, eminim sana karşılık verir, değil mi?`
-` Babamla hiç değilse kahvaltıyı beraber etmek istiyorum.`
-` Onu aşağı buyurmaya ikna edebilir misin?"`
+`"O hâlde, eminim sana karşılık verir, değil mi?`
+` Babamla hiç değilse kahvaltıyı beraber yemek istiyorum.`
+` Onu aşağı inmesi için ikna edebilir misin?"`
 `"......Bizden hiç hazzetmiyor gibi görünüyor, ama bu kadar {i:güvendiği} Natsuhi nee-san sorarsa mutlaka dinleyecektir."`
 `"...Bu kadar kesin konuşup Babamı ikna edemeden tek başına geri dönersen.........`
-`güvenini kazandım gibi bir şeyi bir daha söyleyemezsin herhalde...?`
+`güvenini kazandım gibi bir şeyi herhâlde bir daha söyleyemezsin...?`
 ` *kıkır*kıkır*!"`
 `"............Kendimden emin olmasam da çaba göstereceğim."`
 `Natsuhi cesareti kırılmış bir şekilde cevap verdi.`
@@ -269,15 +269,15 @@
 ` Oğlunun biricik eşisin sonuçta. Eminim seni dinleyecektir.`
 ` *kıkır*kıkır*.`
 ` Biz misafir olduğumuzdan burada rahatça dinleneceğiz."`
-`"Kes şunu Eva, çenen düştü iyice.`
+`"Kes şunu Eva, çenen iyice düştü.`
 ` Üzgünüm, Natsuhi nee-san, Babamı sana bırakıyoruz..."`
 `Natsuhi cevap vermeden hızlı adımlarla oradan ayrıldı, topukları her adımda yüksek sesle yere vuruyordu.`
 `Önceki gece yaşanan onca heyecandan sonra kimsenin uyanmasına imkân yoktu.`
 `George-aniki, Jessica ve ben kuzenlerin odasındaki yatakta yüksek sesle horluyorduk.`
 `Ama önceki gece bize hiç katılmayan ve doğruca yatağa giden Maria aniden gözlerini sonuna kadar açtı.`
 `"......................................."`
-`Uykulu gözlerini ovuşturup etrafına bakınırken, üç kuzenden gelen yüksek sesli horlama devam ediyordu.`
-`...Maria'nın bir süre ne olduğunu düşünmesi gerekti.`
+`Uykulu gözlerini ovuşturup etrafına bakınırken, üç kuzenden gelen yüksek sesli horlamalar devam ediyordu.`
+`...Maria'nın bir süre neler olduğunu düşünmesi gerekti.`
 `Daha sonra annesinin yanında olmadığını fark etti ve çabucak yalnızlığa kapıldı.`
 `Maria kuzenlerin odasından çıktı, kendisi ve annesi için ayarlanan odaya gitmeye çalıştı.`
 `Mışıl mışıl uyuyan üçlüye aldırmadan, çıkarken yüksek bir çarpma sesi çıkardı.`
@@ -313,10 +313,10 @@
 ` Anneee!`
 ` Uu-uu-uu!!"`
 `Maria sürekli "uu-uu" diye inliyor ve mutsuz görünüyordu.`
-`{n}Görünüşe göre annesini bulamadığı için yalnız değil, aslında annesini sandığı yerde bulamadığı için mutsuzdu ve bu da kendisini kandırılmış gibi hissetmesine neden oluyordu.`
+`{n}Görünüşe göre annesini bulamadığı için değil, aslında annesini sandığı yerde bulamadığı için mutsuzdu ve bu da kendisini kandırılmış gibi hissetmesine neden oluyordu.`
 `Ona annesinin nerede olduğunu söyleyebilseydik, bu onu tatmin etmek için yeterli olabilirdi,`
 ` ama ne yazık ki, burada olduğumuz sürece bunu öğrenmemizin bir yolu yoktu.`
-`"Nasılsa kahvaltı vakti geldi, malikâneye gidelim."`
+`"Nasılsa kahvaltı vakti geldi. Malikâneye gidelim."`
 `"Doğru.`
 ` Maria, birlikte malikâneye gidelim.`
 ` Eminim Rosa Hala da oradadır."`
@@ -332,8 +332,8 @@
 ` Ama cevap yoktu.`
 `...Hâlâ uyuyordu ve Natsuhi onu uyandıramazdı.`
 ` ...Eğer böyle bir şey söyleyerek aşağıya dönerse, Eva çok eğlenecek ve zafer kazanacaktı.`
-`Eva meselesi bir yana, yılda bir kez yapılan bu aile konferansında, dün bütün gün kilitli kalması ve konukları selamlamak için hâlâ dışarı çıkmaması problemi vardı.`
-`...Her ne kadar aile reisi olsa da—hayır, özellikle de aile reisi olduğundan—ortaya çıkmaması kabul edilebilir gibi değildi.`
+`Eva meselesi bir yana, yılda bir kez yapılan bu aile konferansında, dün bütün gün kilitli kalması ve konukları selamlamak için hâlâ dışarı çıkmaması problemi ortadaydı.`
+`...Her ne kadar aile reisi olsa da—hayır, özellikle de aile reisi olduğundan—dışarı çıkmaması kabul edilebilir gibi değildi.`
 `...Natsuhi onu ikna edebilir miydi?`
 `{n}Natsuhi kendini hazırladı ve Genji'den ödünç aldığı anahtarı kullanarak kapıyı açtı...`
 `Yarattığı dar açıklıktan beynini kemirecek gibi hissettiren tatlımsı bir koku yayıldı ve buna hazırlıklı olmasına rağmen yüzünü buruşturmaktan kendini alamadı.`
@@ -344,17 +344,17 @@
 `"..................İçeri nasıl girdin?"`
 `Kinzo sırtı hâlâ ona dönük olarak konuştu.`
 `Sesi sinirli değil, sakindi ve Natsuhi biraz rahatlamıştı.`
-`...Ancak yine de, en azından uyanık olmasına rağmen tüm o kapı çalma sesini duymazdan gelecek kadar kötü bir ruh halindeydi.`
+`...Ancak yine de, en azından uyanık olmasına rağmen tüm o kapı çalma sesini duymazdan gelecek kadar kötü bir ruh hâlindeydi.`
 `Natsuhi gerginliğinden kurtulmayı başaramadı.`
 `"......En içten özürlerimi sunarım.`
 ` Genji-san'dan rica edip çalışma odasının anahtarını ödünç aldım..."`
 `"Hoh...`
 ` Genji mi verdi?`
 ` .........Arkadaşım bu kadar önemli olduğunu düşündüyse, dinlemekten başka çarem yok.`
-` De, ...benimle ne işin var?"`
+` Evet, ...benimle ne işin var?"`
 `"E-Evet...`
 ` .........Çok yakında kahvaltı hazır olacak, mutlaka sizin de buyurmanızı istemiştik de..."`
-`"Kahvaltıyı burada edeceğim.`
+`"Burada kahvaltı edeceğim.`
 ` Her zamanki gibi buraya getirin."`
 `"Ama Baba...`
 ` Bu yılda bir kere yapılan bir aile konferansı.`
@@ -394,11 +394,11 @@
 `"B-......Bununla...ne demek istiyorsunuz,`
 ` ...Baba?"`
 `Natsuhi şok olmuştu.`
-`{n}......Eğer Kinzo'nun az önceki sözleri gerçekten anlam ifade ediyor olsaydı...`
+`{n}......Eğer Kinzo'nun az önce söylediği sözler onun gerçek düşünceleri ise...`
 `.........O ana kadar çektiği tüm acıları telafi etmek için fazlasıyla yeterli olurdu.`
 `"...............Unut gitsin.`
 ` Yaşlı bir adamın saçmalıkları işte."`
-`Kinzo bir kez daha yüzünü ondan çevirdi.`
+`Kinzo bir kez daha ona sırtını döndü.`
 `{n}...Ona unutmasını söylemişti ama Natsuhi kalbinde bir sıcaklık hissetmekten kendini alamıyordu...`
 `"...Baba.`
 ` ............Ben, kan bağıyla bağlı olmasak bile senin kızınım.`
@@ -412,18 +412,18 @@
 ` Ancak, bu kulak asılacak bir şey değil.`
 ` ...Sadece kartalı kalplerinde taşıyanlar benim gerçek kan bağıma sahiptir.`
 ` ............Seni Ushiromiya ailesine kabul edebilmiş olmayı artık bir onur olarak görüyorum..."`
-`Kinzo başka bir şey söylemeden sırtını Natsuhi'ye döndü.`
-`Ancak Natsuhi, uzun zaman önce çocukluğundan beri hissetmediği sıcak bir şeyin içinde kabardığını hissetmekten kendini alamadı...`
+`Kinzo, başka bir şey söylemeden Natsuhi'ye sırtını dönmüş hâlde durdu.`
+`Ancak Natsuhi, çocukluğundan beri hissetmediği, içinde yükselen o sıcak duyguyu hissetmekten kendini alamadı...`
 `Natsuhi onun arkasından sessizce eğildi ve odadan çıktı...`
 `"...Ah, ne mükemmel zamanlama.`
 ` Babamın durumu nasıl?`
-` Çok uzun sürdüğünden kontrol etmeye geldim de."`
+` Çok uzun sürdüğünden kontrol etmeye gelmiştim."`
 `Natsuhi çalışma odasından çıktığında Eva'nın merdivenleri çıktığını gördü ve göz göze geldiler.`
 `Eva, Natsuhi'nin Kinzo'yu ikna edemedikten sonra odayı aceleyle terk ettiğini düşünerek hoş olmayan bir şekilde sırıtıyordu.`
-`Ancak Natsuhi'nin şu anki hali böylesine anlamsız bir gülüşün onu rahatsız edemeyeceğini gösteriyordu.`
+`Ancak Natsuhi'nin şu anki hâli böylesine anlamsız bir gülüşün onu rahatsız edemeyeceğini gösteriyordu.`
 `......Aile armasını kıyafetlerine takmasına izin verilmiyordu.`
 `{n}.........Ama kalbinde taşımasına izni vardı.`
-`Bu yüzden Ushiromiya ailesinin şanını koruyacak birinin ağırbaşlılığıyla sakin, net, ...ve kendinden emin bir şekilde konuştu.`
+`Bu sebeple Ushiromiya ailesinin şanını koruyacak birinin ağırbaşlılığıyla sakin, net, ...ve kendinden emin bir şekilde konuştu.`
 `"Babam aile konferansına buyurmayacakmış.`
 ` Böyle ahlaksız bir konuyla ilgilenmediğini belirtti."`
 `"...Tabii tabii öyle demiştir.`
@@ -432,7 +432,7 @@
 ` Babamın yakındığı duyguları anlamaya başlıyorum."`
 `"B-......Bu da ne demek oluyor...?"`
 `Natsuhi cevap vermedi.`
-`Tıpkı Kinzo'nun az önce yaptığı gibi, merdivenlerden inerken Eva'ya sırtını gösterdi.`
+`Tıpkı Kinzo'nun az önce yaptığı gibi, merdivenlerden inerken Eva'ya sırtını dönmüştü.`
 `Ne olduğunu idrak etmeye çalışan Eva, yalnızca kendisiyle dalga geçildiğini ve Natsuhi'nin kendine olan güvenini hızla artıracak bir şey yaşandığını anlayabildi.`
 `Yine de Kinzo'nun gazabını göze alacak cesareti yoktu.`
 `Kapıyı bile çalamadan, sadece önündeki havayı tırmalayabildi, dilini ısırdı ve Natsuhi'nin peşinden gitti.`
@@ -444,11 +444,11 @@
 `"...Kahvaltı gecikecek ama, çay alır mıydın, Eva-san?"`
 `"......H-...Hayır, gerek yok."`
 `Eva, Natsuhi'nin tavrındaki farklılık karşısında şaşkınlığını gizleyemedi.`
-`...Çok cesurca davranıyordu ve Eva bunu kabul etmekten nefret etse de, onda bir asalet duygusu bile vardı.`
+`...O kadar cesurca davranıyordu ki, Eva bunu kabul etmekten nefret etse de, onda bir tür asalet bile seziliyordu.`
 `Hiçbir şeyde hata bulamayan Eva, Natsuhi'yi salona kadar takip etmekten başka bir şey yapamadı.`
 `İkisi salona döndüğünde sadece Hideyoshi değil, dört çocuk ve Nanjo da orada toplanmıştı.`
 `Hideyoshi ile konuşmakta olan Genji, Natsuhi'nin döndüğünü fark edince durumu bildirdi.`
-`"Kocamları hâlâ bulamadınız mı?"`
+`"Kocam ve diğerlerini hâlâ bulamadınız mı?"`
 `"......Evet, özür dilerim.`
 ` ......Ayrıca, Kumasawa kahvaltı hazırlıklarına başladı.`
 ` Biraz daha zamana ihtiyacı olduğunu söyledi."`
@@ -463,9 +463,9 @@
 `İnsan sayısı bu kadar artmışken, sanki ilginç bir şeyin dışında bırakılanlar sadece onlarmış gibi, gerçekten tatsız hissetmeye başlamışlardı.`
 `Çocuklar bile, hayır, özellikle Maria aynı şekilde hissediyor gibi görünüyordu.`
 `Öfkeliydi, midesi gurulduyordu, sanki annesi ve diğerleri onu yalnız bırakıp gitmiş ve onsuz lezzetli bir şeyler yiyorlardı.`
-`Diğer çocuklar onun kötü ruh halini düzeltmeye çalışarak televizyondaki kanallar arasında geziniyor, Maria'nın ilgisini çekebilecek bir program bulmaya çalışıyorlardı.`
+`Diğer çocuklar onun kötü ruh hâlini düzeltmeye çalışarak televizyondaki kanallar arasında geziniyor, Maria'nın ilgisini çekebilecek bir program bulmaya çalışıyorlardı.`
 `Nanjo kanepede oturmuş, bir yandan kitap okurken bir yandan da çocuklara mutlulukla bakıyordu.`
-` Satrançla ilgili bir kitap olduğuna şüphe yoktu.`
+` Hiç şüphesiz satrançla ilgili bir kitaptı.`
 `Onlara doğru hızla yaklaşan pıt pıt ayak sesleri duyuluyordu.`
 `{n}Sadece bir kişinin ayak sesi vardı, bu yüzden kaynağını görmeden önce bunun Krauss ve diğerleri değil, muhtemelen sadece Kanon olduğunu anladılar.`
 `"............Madam, izninizle."`
@@ -486,7 +486,7 @@
 ` Başka bir şey mi vardı?"`
 `".........Evet.`
 ` ...Kocasını ya da başka birini bulamadım ama,`
-` .........ummm."`
+` .........şey."`
 `Kanon'un sesi kaçamaklı geliyordu.`
 `{n}Hâlâ nerede olduklarını bilmiyordu ama belki de bununla ilgili bir şey bulmuştu.`
 `Eva ve Hideyoshi bu kelime alışverişini fark ettiklerinde yanlarına geldiler.`
@@ -519,15 +519,15 @@
 `Gül bahçesi ambarı, bahçeyi idare etmek için kullanılan çeşitli aletleri barındıran bir yerdi.`
 `Kesinlikle sevimli bir bina değildi.`
 `{n}Görünüşü nedeniyle gül bahçesinin bir köşesine gizlenmiş olarak inşa edilmişti.`
-`Kanon, Genji, Eva ve Hideyoshi ellerinde şemsiyelerle gül bahçesinden geçerek geldiler.`
-`Gül bahçesinin hemen dışındaki küçük bir patikaya girdiler; bu patika sadece bahçenin tadını çıkaranlar tarafından değil, bahçenin bakımını yapanlar tarafından kullanılıyordu.`
+`Kanon, Genji, Eva ve Hideyoshi ellerinde şemsiyelerle gül bahçesinden geçtiler.`
+`Gül bahçesinin hemen dışındaki küçük bir patikaya girdiler; bu patika bahçenin tadını çıkaranlar tarafından değil, bahçenin bakımını yapanlar tarafından kullanılıyordu.`
 `Yol boyunca hızla ilerlediklerinde ambarın önü göründü.`
 `Ambar çok eski bir barakaydı ve gül bahçesinin kusursuz güzelliğiyle kıyaslandığında oldukça köhne görünümlüydü.`
 ` Neden görülmesi zor bir yere inşa edildiğini anlamak kolaydı.`
 `Eva ve Hideyoshi, Kanon ve Genji'den çok sonra ambara varabildiler.`
 `"Hah...`
 `hah...`
-` Siz ikiniz çok hızlısınız...!`
+` Kanon-kun, siz ikiniz çok hızlısınız...!`
 ` Benim kalbim patlayacakmış gibi..."`
 `"Böyle bir yere ambar inşa etmişler.`
 ` .........ne—`
@@ -550,9 +550,9 @@
 `...bir tür şekil ya da işaret çizmek için kullanılmış,`
 ` ...uğursuz bir şey çağrıştırması amaçlanmıştı.`
 `...Eşmerkezli iki daire çizilmişti ve içlerinde haça benzeyen bir tasarım vardı.`
-`Haçın dört ucu oldukça abartılmıştı ve Avrupa'da bir yerlerden gelen bir tür armaya benziyordu.`
+`Haçın dört ucu oldukça abartılıydı ve sanki Avrupa'nın bir yerinden alınmış bir arma gibi görünüyordu.`
 `Ve bu şekillerin arasındaki çatlaklarda, birbirine yakın yazılmış, bazı tanıdık olmayan karakterler,`
-` ya da semboller vardı......`
+` semboller vardı......`
 `".........Ne kadar kaba bir grafiti...`
 ` ......Bu...onlardan mı?`
 ` Şeytani ritüellerde kullanılan şu büyülü çemberlerden biri mi?!"`
@@ -564,8 +564,8 @@
 `"Haklısın...`
 ` Sadece küçük bir ambar olsa da, böylesine rahatsız edici bir grafitiyi bir saniye bile dokunulmadan bırakmak istemiyorum."`
 `"Ambarın içinde biraz boya var.`
-` Acil bir önlem olarak geçici olarak üzerini boyayalım,`
-` daha sonra, havanın güzel olduğu bir gün tekrar boyarız.`
+` Acil bir önlem olarak geçici olarak üzerini boyayalım.`
+` Daha sonra, havanın güzel olduğu bir gün tekrar boyarız.`
 ` .............................."`
 `Genji kısa bir süre önce başka bir grafiti gördüğünü ve onun da bununla aynı renkte garip, koyu kırmızı bir maddeyle yapıldığını hatırladı...`
 `.........O da bu olmalı...`
@@ -600,7 +600,7 @@
 `Hâlâ televizyona dalmış olan çocuklar tarafından fark edilmemeye çalışarak koltuktan kalktı,`
 ` ardından ikisi birlikte ayak seslerini bastırarak hızla salondan çıktılar.`
 `Tam salondan çıkarken, çay seti yüklü bir servis arabasını itmekte olan Natsuhi ile karşılaştılar.`
-`Genji, Natsuhi'nin kulağına bir şeyler fısıldadı ve Natsuhi'nin yüzü de şokla renk değiştirdi.`
+`Genji, Natsuhi'nin kulağına bir şeyler fısıldadı ve Natsuhi'nin de yüzü şok olarak renk değiştirdi.`
 `...Sonra servis arabasını olduğu yerde bırakarak üçü birlikte girişe doğru koşmaya başladılar...`
 `George onları pencereden gül bahçesine doğru koşarken fark etti.`
 `"......Bu da ne?`
@@ -619,11 +619,11 @@
 `...Ama yetişkinlerin görünüşlerini umursamadan yağmura doğru koştuklarını gördükten sonra biraz güvensiz ve endişeli olduklarını inkâr edemezlerdi.`
 `"......Gidip bakalım mı?`
 ` Ne olduğunu merak ediyorum..."`
-`Jessica'nın güvensiz sözleri hepsi adına konuşuyordu.`
+`Jessica'nın kendinden emin olmayan sözleri, hepsinin duygularını yansıtıyordu.`
 `"Hey, Maria, sen de geliyor musun?`
 ` Yoksa televizyon mu izleyeceksin?"`
 `"Uu!`
-` Televizyon istiyorum!`
+` Maria televizyon izleyecek!`
 ` Uuu."`
 `"Kendi başımıza gidelim.`
 ` Maria-chan, çabucak döneriz.`
@@ -633,17 +633,17 @@
 `Ama Jessica koştukları yöne bakarak nereye gittikleri konusunda oldukça iyi bir fikre sahipmiş gibi görünüyordu.`
 `Jessica'yı takip ederek yağmurdan sırılsıklam olmuş gül bahçesine doğru koştular...`
 `Rüzgârın aniden güçlendiğini hissettiler.`
-`{n}...Gök gürültüsünün uğursuz sesi önceki gece olduğu gibi yükselmeye başladı.`
+`{n}...Gök gürültüsünün uğursuz sesi önceki gece olduğu gibi artmaya başlamıştı.`
 `Sanki ürkütücü bir şey adayı kuşatmış ve ilerlemelerini engellemeye çalışıyordu.`
 `"Jessica, bu tarafta ne var?!"`
-`"Yanlış hatırlamıyorsam, bahçe aletlerinin falan olduğu ambar vardı."`
+`"Yanlış hatırlamıyorsam, bahçe aletlerinin falan olduğu bir ambar vardı."`
 `"Öyle bir yerde ne olmuş olabilir ki..."`
 `Tam da Jessica'nın söylediği gibi, önlerinde bir ambar belirdi.`
 `{n}Oradaki yetişkinleri de görebiliyorlardı.`
 `Ambarın kepenkleri açıktı ve yetişkinlerden birkaçı bir şey arıyormuş gibi görünüyordu.`
 `Nedense sadece Natsuhi ambarın dışındaydı, elinde şemsiye bile yoktu; yüzü onlara dönük değildi ve başını öne eğmiş gibi görünüyordu...`
 `Az önce ayrılanlar—Genji, Nanjo, Natsuhi—`
-`ve onlardan önce giden—Kanon, Eva ve Hideyoshi—burayı büyük bir insan topluluğu haline getirmişti ama kesinlikle hiçbir hareketlilik yoktu.`
+`ve onlardan önce giden—Kanon, Eva ve Hideyoshi—burayı büyük bir insan topluluğu hâline getirmişti ama kesinlikle hiçbir hareketlilik yoktu.`
 `Natsuhi çocukların geldiğini fark ettiğinde yüzünde korkunç bir ifade belirdi ve kollarını iki yana açarak onlara doğru koşmaya başladı.`
 `"Gelmeyin!!!`
 ` Malikâneye geri dönün!!!"`
@@ -653,7 +653,7 @@
 ` çocuklar Natsuhi'nin onları uzak tutmaya çalıştığı o sahneyi gördüler.`
 `Kepenkleri sonuna kadar açık olan ambarın içinde titrek bir floresan ışığı yanıp sönüyordu.`
 ` Ve orada olan şey, ......`
-`"KyaaaaaAAAAAAaaaaaAAaa!!!"`
+`"İyaaaaaAAAAAAaaaaaAAaa!!!"`
 `Jessica'nın kulak delici çığlığı yükseldi.`
 `...Ama bu sadece Jessica'nın çığlığı en yüksek sesli olan olduğu içindi.`
 ` ...Aynı çığlık Battler ve George'un ağzından da çıktı...`
@@ -680,7 +680,7 @@
 ` İçeri girme!`
 ` Bakma!!!"`
 `"Baba, Baba!`
-` HyyaaaaaAAAAAAa!!!"`
+` HİyyaaaaaAAAAAAa!!!"`
 `".........Rigor mortis tüm vücuda yayılmış durumda...`
 ` ......Muhtemelen,`
 ` ölümlerinin üzerinden en az altı saat geçmiş...`
@@ -695,14 +695,14 @@
 `............Aah,`
 ` ...keşke burada beni de tutabilecek biri olsaydı da,`
 ` ......bu korkunç, şeytani sahne gözlerime kazınmasaydı...`
-`......Hayır, öyle değil.`
+`......Hayır, bu yanlış.`
 `...Beni tutacak insanlar burada olmadığı için oraya yaklaşabilmiş değildim...`
-` {i:Beni tutacak insanlar tam da burada olduğu için yaklaşabilmiştim!!}`
+`{n}{i:Beni tutacak insanlar tam da burada olduğu için yaklaşabilmiştim!!}`
 `...Tıpkı Jessica'nın söylediği gibi, bahçe aletlerini saklamak için kullanılan bir ambara benziyordu.`
 `Bir çim biçme makinesi ve onun yedek bıçakları,`
 ` bir orak ve bir çekiç,`
 ` bir testere ve bazı inşaat aletleri...`
-` Saksı bitkileri ve gübre torbaları yığılmış.`
+` Saksı bitkileri ve gübre torbaları yığılmıştı.`
 `Ve onlarla aynı şekilde muamele görmüş birkaç kişinin cesedi yerde dinlenmeye bırakılmıştı.`
 ` Hayır, yere atılmışlardı!`
 `Onları kıyafetlerinden çıkarabilirdim.`
@@ -713,7 +713,7 @@
 ` Kaç kişi öldü...`
 ` ......Sikeyim, tek elimle bile sayamıyorum, kahretsiiiiinnnnn!!!!!!!`
 `Amacı dışında kullanıldığında kesinlikle vahşi bir şekilde kullanılabilen bahçe aletlerinden biri miydi,`
-` yoksa buraya özellikle bunun için mi getirilmiş korkunç bir alet miydi, bilmiyordum.`
+` yoksa buraya özellikle bunun için getirilmiş korkunç bir alet miydi, bilmiyordum.`
 `......Durum ne olursa olsun,`
 ` .........burada yatan cesetlerin her birine korkunç bir makyaj yapılmıştı.`
 `...Ne makyajı...bu, ...`
@@ -722,7 +722,7 @@
 ` ...Gözlerin ya da burnun nerede olduğunu anlayamıyordum ama ağzı bulabiliyordum...çünkü genişçe açılmış, diş etleri açıkta kalmıştı!`
 `Ama ön dişler eksikti ve bunu örtmesi gereken yanak bile yırtılmış ve açılmıştı!`
 ` Bir erkek için yapıldıysa...üzerinde böylesine zaman harcanan bu şık makyajın hiçbir faydası olmayacağı aşikârdı...!!`
-`"...UwooooOOOOoooooooohh!!!`
+`"...UuooooOOOOoooooooohh!!!`
 ` Babaaaaaaaa!!`
 ` Senin kesinlikle cehenneme gideceğini düşünürdüm!"`
 `"Ama, ...o kadar da kötü değildin!!`
@@ -734,8 +734,8 @@
 `"...Yüzü yok... Yüzleri yok...`
 ` Siktir siktir siktir siktir, hiiiiiiiiiiiiiii!!!"`
 `"......Battler-san, daha fazla bakmamalısın...`
-` Annen ve Baban onları bu şekilde görmeni asla istemezlerdi...!`
-` Annen ve Babanın hatırı için, ...daha fazla bakmamalısın!!"`
+` Anne ve Baban onları bu şekilde görmeni asla istemezlerdi...!`
+` Anne ve Babanın hatırı için, ...daha fazla bakmamalısın!!"`
 `"Ölülerin huzur içinde uyuyan yüzleri olması gerekmez miydi?!`
 ` Yüzleri yok, Babamın ve Kyrie-san'ın yüzleri yok!!`
 ` Nasıl bir suratla öldüler...bunu bile anlayamıyorum!!"`
@@ -761,11 +761,11 @@
 `"Aniki, Aniki!!`
 ` UoooOoooOOOooooooooooo!!!"`
 `Kaç yaşında olduğumu ve nasıl göründüğümü umursamadan,`
-` ......dizlerimin üzerine çöktüm, Aniki'nin beline sarıldım ve hıçkıra hıçkıra ağladım.`
+` ......dizlerimin üzerine çöktüm, Aniki'nin beline sarıldım ve hıçkıra hıçkıra ağlamaya başladım.`
 `Sanki oradaki herkes adına ağlıyordum...`
 `Oradaki herkesin duygularına tercüman olurcasına tekrar tekrar bağırdım......`
 `"...............Baba...`
-` .........Ölenle—`
+` .........Ölenl—`
 ` .........orada yatanlar...`
 `Krauss Dayı, Rudolf Dayı, Kyrie Yenge,`
 ` Rosa Teyze, Gohda-san...`
@@ -834,7 +834,7 @@
 `{n}......Ne kadar zalimce...`
 `Madem ezeceklerdi, o zaman keşke tamamı ezilmiş olsaydı; o zaman Shannon'un kıyafetlerini giyenin başka biri olduğunu söyleyerek George'un kalbini bir süreliğine kandırabilirdi.`
 `Oysa, yüzün yarısını bırakmışlardı...!`
-`Bu, bedene yapılan büyük bir aşağılamaydı, ......aynı zamanda bu cesedin Shannon'dan başkasına ait olmadığını da açıkça ortaya koymuştu!`
+`Bu, bedene yapılan büyük bir aşağılamaydı, ......aynı zamanda bu cesedin Shannon'dan başkasına ait olmadığını da açıkça ortaya koyuyordu!`
 ` Ne kadar insanlık dışı, ne kadar canavarca...`
 `Hideyoshi'nin ayaklarının dibinde, Shannon'un yüz ifadesinin kalan yarısının görüntüsünü gözlerinde yakmak için elinden geleni yapan Kanon'du.`
 `......Kanon ağlamıyordu.`
@@ -851,7 +851,7 @@
 `...güçlü kaldığın için sana teşekkür ederdi..."`
 `"......Anlıyorum.`
 ` .........Anlıyorum, Baba, ......anlıyorum......"`
-`George ambarın dış duvarına yaslandı, ...zayıfça yere çöktü.`
+`George ambarın dış duvarına yaslandı, ...güçsüzce yere çöktü.`
 `".........Baba.`
 ` ......Bir ricam var."`
 `"Nedir......?"`
@@ -938,24 +938,24 @@
 `{n}...Şimdi onlar, yakınlarını kaybetmiş olmanın yaralarını taşıyan...yakın yaşlardaki çocuklardı.`
 `Çocukların geri döndüğünü gören Natsuhi, Genji'ye emir verdi.`
 `".........Genji.`
-` ...Derhal polise haber ver.`
+` ...Derhâl polise haber ver.`
 ` Tayfun geçene kadar gelemeyeceklerdir, ama bize bundan sonra ne yapmamız gerektiğini söyleyebilirler."`
 `"......Anlaşıldı.`
 ` Acil durum telsizi vardı, onunla irtibat kuracağım."`
 `Natsuhi bunu duyunca hatırladı.`
 `{n}Doğru ya, bugün telefonlar kesikti, değil mi...`
 `Ancak, bu izole adada telefonlarla ilgili bir sorun olabileceği varsayıldığından, bir telsiz kurulmuştu.`
-`...... Neyse, polisi arayalım ve talimatlarını alalım.`
+`......Neyse, polisi arayalım ve talimatlarını alalım.`
 `{n}...Diğer her şey bekleyebilir.`
 `".........Doktor Nanjo.`
 ` .........Burada yapabileceğiniz başka bir şey var mı?"`
 `"Ne yazık ki...`
 ` .........elimden bir şey gelmez........."`
 `"............Anlaşıldı.`
-` ...Genji, hiç değilse Kocamların yüzlerini bir şeyle örtebilir misin?`
+` ...Genji, hiç değilse kocam ve diğerlerinin yüzlerini bir şeyle örtebilir misin?`
 ` Onları bu şekilde teşhir etmek onlar için de aşağılayıcı..."`
 `".........Evet."`
-`Genji ambarın içinde asılı duran birkaç havluyu aldı,`
+`Genji ambarın içinde asılı duran birkaç havluyu aldığı sırada,`
 ` Eva tiz bir sesle onu durdurdu.`
 `"Durun biraz!`
 ` Bekleyin.`
@@ -964,7 +964,7 @@
 ` Kargaşamız yüzünden olay yerinde çamurlu ayak izleri bıraktık ama, bu eminim polisin soruşturması için sorun yaratacaktır!"`
 `"........................"`
 `Natsuhi ters ters Eva'ya baktı.`
-`{n}......Objektif olarak konuşursak, Eva haklıydı.`
+`{n}......Objektif olarak bakıldığında, Eva haklıydı.`
 `Yine de Eva'ya, öldükten sonra bile aşağılanan bu trajik cesetlere yüzlerini örtmek gibi,`
 ` basit bir nezaketi göstermeyi reddettiği için onu suçlar gibi baktı.`
 `......Ancak, Eva hem sakin hem de doğru konuşmuştu.`
@@ -973,7 +973,7 @@
 ` ......Birisi onları öldürmüştü.`
 ` Bu bir cinayet vakasıydı.`
 `Bu durumda, bölgeyi daha fazla rahatsız etmemek için dikkatli olmalıydılar...`
-`Polise mümkün olduğunca yardım etmeliydiler, böylece iğrenç suçluyu bulmak için kullanılabilecek bir ipucu verebilirlerdi.`
+`Polise mümkün olduğunca yardım etmeliydiler. Böylece iğrenç suçluyu bulmak için kullanılabilecek bir ipucu verebilirlerdi.`
 `"............Ben de Eva-san'a katılıyorum.`
 ` ...Polis gelene kadar buraya el sürmemeliyiz..."`
 `"......Madam, siz ne düşünüyorsunuz?"`
@@ -989,7 +989,7 @@
 ` O zaman, kepengi açan anahtarda suçlunun parmak izleri yok mudur?!"`
 `"......Polise kanıt olarak sunmanın faydalı olacağından eminim ama,`
 ` Kanon-kun onu eline alıp kilidi açmak için kullandı.`
-` Muhtemelen Kanon-kun'un parmak izleri de kalmıştır."`
+` Muhtemelen Kanon-kun'un parmak izi de kalmıştır."`
 `"Ayrıca, o anahtar az önce Genji-san'a verildi, o da çıplak elleriyle tuttu.`
 ` ...Çok da önemli bir kanıt olmayacaktır."`
 `".........Bu benim dikkatsizliğimdi.`
@@ -1001,22 +1001,22 @@
 `"O hâlde bu, suçlunun o anahtarı hizmetkâr odasından alıp çıktığı,`
 ` ...sonrasında da düzgünce eski yerine geri bıraktığı anlamına mı geliyor......?"`
 `Hideyoshi'nin teorisi akla yatkın gibi görünse de aslında biraz düşününce çok tuhaftı.`
-`{n}Çaldıkları bir anahtarı geri bırakmak için neden bu kadar zahmete girsinler ki?`
+`{n}Çaldığı bir anahtarı geri bırakmak için neden bu kadar zahmete girsin ki?`
 `{n}......Hayır, daha da derinlemesine düşünürseniz, daha da tuhaf bazı noktalar var.`
 `Genellikle bir suçlu bir cesedi sakladığında, cesedin bulunacağı zamanı geciktirmeye ve bu zamanı kaçmak için kullanmaya çalışır.`
-`Altı kişinin öldürüldüğü asıl yer burası değildi ama bu adada bir yerde öldürülmüşlerdi,`
-` buna rağmen bu ambara taşınmalarının nedeninin cesetleri saklamak ve suçun ortaya çıkmasını geciktirmek olduğu düşünülebilirdi.`
+`Altı kişinin öldürüldüğü asıl yer burası değildi ama bu adada bir yerde öldürülmüşlerdi.`
+` Buna rağmen bu ambara taşınmalarının nedeninin cesetleri saklamak ve suçun ortaya çıkmasını geciktirmek olduğu düşünülebilirdi.`
 `......Ama kepengin üzerine çizilen ve ürkütücü bir büyülü çembere benzeyen grafiti...`
 `cesetlerin burada saklandığını açıkça belirtiyordu.`
 `......Özellikle burada olduklarını belirtilmemişti ama altı kişi kaybolduktan sonra,`
-` bu kadar bariz bir karalama yaparak ve hatta anahtarı geri getirterek,`
-` ......sanki birileri cesetlerin burada bulunmasını istemiş gibi görünüyordu.`
+` bu kadar bariz bir karalama yaparak ve hatta anahtarı yerine bırakarak,`
+` ......sanki biri cesetlerin burada bulunmasını istemiş gibi görünüyordu.`
 `"......Her hâlükârda, bir defa suçlu tarafından açılıp kapatılmış bir kilide güven olmaz.`
 ` Burayı suçlunun elinden de korumayı garantilemek adına yeni bir kilit takmamız gerektiğini düşünüyorum."`
 `"İyi bir plan bence...`
 ` Ben de katılıyorum."`
-`Genji ambarın içini araştırdı ve küçük bir kutunun içinde duran yepyeni bir asma kilidi çıkardı.`
-`"Anahtarla ne yapmamı istersiniz...?"`
+`Genji ambarın içini araştırdı ve küçük bir kutunun içinde duran yepyeni bir asma kilit çıkardı.`
+`"Anahtarını ne yapmamı istersiniz...?"`
 `"......Ben alacağım.`
 ` Sorumluluğu üstleneceğim ve polise teslim edeceğim."`
 `Natsuhi asma kilidin anahtarını Genji'nin elinden aldı.`
@@ -1030,7 +1030,7 @@
 `......Natsuhi'ye göre, yeni kilidi takmak tamamen polis için olay yerini korumak amacıyla değil,`
 ` ......daha ziyâde, o ürkütücü iblis tarafından başka kurbanların yutulmasını önlemek için,`
 ` o ağzı sonsuza dek kapatmak istemiş olabileceğinden kaynaklanıyordu......`
-`"......Haydi, gidelim millet.`
+`"......Hadi, gidelim millet.`
 ` ...Doktor Nanjo, yardımlarınız için çok teşekkür ederim.`
 ` ...Genji, çabuk, polisle irtibata geç."`
 `"Döner dönmez onlarla irtibata geçeceğim..."`

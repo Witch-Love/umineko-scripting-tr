@@ -16,7 +16,7 @@
 ` Senin gibi, bir insanı yüzlerce kez öldürebilecek korkunç bir güce sahip bir cadının karşısında tamamen güçsüzüm."`
 `"Senin gibi "güçsüz" bir cadının, kimsenin yaklaşamayacağı bir güce sahip olması gerçekten dehşet verici.`
 ` Ne de olsa Büyük Cadı Leydi {f:5:Lambdadelta}'yı tek başına tahttan indirdin."`
-`"......Dayanıklılık müsabakasından galip çıktım yalnızca.`
+`"......Yalnızca bir dayanıklılık müsabakasından galip çıktım.`
 ` O sıkıldığı içindi."`
 `"Leydi {f:5:Lambdadelta} öyle demedi ama.`
 ` ...*kıKIr*kıKIr*kıKIr*, aşırı alçakgönüllülük de iticidir, Leydi {f:5:Bernkastel}."`
@@ -36,7 +36,7 @@
 ` Boş övgü dedikleri bu olsa gerek."`
 `"......Burada bulunmamın karşılığı diyelim.`
 ` ...Ben kakeralar arasında gezen, sıkıntıdan kaçan bir gezginim.`
-` ......İlginç bir şeye giriştiğini duyduğum için geldim sadece.`
+` ......Sadece ilginç bir şeye giriştiğini duyduğum için geldim.`
 ` İlginçliğini kaybettiğin anda kalkıp gideceğimden bir endişen olmasın."`
 `"*kıKIr*kıKIr*...!`
 ` Büyük Leydi {f:5:Bernkastel}'i gözlemci olarak ağırlamaktan, {f:5:Beatrice} olarak derin ve alçakgönüllü bir mutluluk duyuyorum.`
@@ -47,8 +47,8 @@
 ` Bu yüzden ondan daha korkutucusun."`
 `"*kıKIr*kıKIr*kıKIr*...!`
 ` Döneklik doğamda var.`
-` Beni affet.`
-` ...Üstelik, dönek zarlara kaderini emanet etmek senin de sevdiğin bir şey değil mi,—Leydi {f:5:Bernkastel}?"`
+` Beni mazur gör.`
+` ...Üstelik, dönek zarlara kaderini emanet etmek senin de sevdiğin bir şey değil mi—Leydi {f:5:Bernkastel}?"`
 `"......Zarı attığımda, açıkça elde etmek istediğim bir yüzey var.`
 ` Senin aksine.`
 ` Fakat sen, bütün yüzeylere kendini hazırlıyorsun."`
@@ -70,7 +70,7 @@
 ` ......Bu yüzden beni öldürme, olur mu?`
 ` Sonsuz Cadı, Leydi {f:5:Beatrice}."`
 `"Eğer dileğin buysa ben, {f:5:Beatrice}, seni çok daha fazla eğlendireceğim."`
-`"......O hâlde, derhal bir sonraki satranç tahtasını getirmem daha iyi olmaz mı?`
+`"......O hâlde, derhâl bir sonraki satranç tahtasını getirmem daha iyi olmaz mı?`
 ` Senin için de, çayından ziyade hikâyeyi tazelemem daha uygun olacaktır."`
 `"................................."`
 `"Kısa bir süre bekle.`
@@ -78,7 +78,7 @@
 `............Baş belası olsa da senden hoşlanmış gibi görünüyor.`
 `Sana gücümü ödünç vermeyi gerçekten çok isterdim ama az önce duyduğun gibi, o kızın gücü ile benimki çok kötü bir eşleşmeye sahip.`
 ` Ne şanssızlık.`
-`Ama, gerçekten acınacak halde olduğundan sana biraz yardım edeceğim.`
+`Ama, gerçekten acınacak hâlde olduğundan sana biraz yardım edeceğim.`
 `Öncelikle, bu kız hakkında.`
 `{f:5:Beatrice} adıyla anılan bir varlığı var, ama bu, onun "kendine özgü bedeni olan bir kadın" olduğu anlamına gelmiyor.`
 `Ne demek istediğimi anlıyor musun?`
@@ -106,7 +106,7 @@
 ` Fakat, eminim böylesi sıkıcı olurdu.`
 `......Bu yüzden sana gücümü ödünç vereceğim.`
 ` Ben sıkılmayayım diye.`
-`Ben dünyadaki en acımasız cadısıyım.`
+`Ben dünyadaki en acımasız cadıyım.`
 `Rakibim kim olursa olsun, mutlaka teslim olmalarını sağlarım.`
 `...Bu, Sonsuz Cadı {f:5:Beatrice} olsa bile...`
 `Sen benim taşımsın.`

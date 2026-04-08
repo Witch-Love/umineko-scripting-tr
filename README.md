@@ -22,22 +22,22 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 1](story/ep1/tr/umi1_1.txt) ✅<sup>2</sup>
       * [Chapter 2](story/ep1/tr/umi1_2.txt) ✅<sup>2</sup>
       * [Chapter 3](story/ep1/tr/umi1_3.txt) ✅<sup>2</sup>
-      * [Chapter 4](story/ep1/tr/umi1_4.txt) ✅<sup>1</sup>
-      * [Chapter 5](story/ep1/tr/umi1_5.txt) ✅<sup>1</sup>
-      * [Chapter 6](story/ep1/tr/umi1_6.txt) ✅<sup>1</sup>
-      * [Chapter 7](story/ep1/tr/umi1_7.txt) ✅<sup>1</sup>
-      * [Chapter 8](story/ep1/tr/umi1_8.txt) ✅<sup>1</sup>
-      * [Chapter 9](story/ep1/tr/umi1_9.txt) ✅<sup>1</sup>
-      * [Chapter 10](story/ep1/tr/umi1_10.txt) ✅<sup>1</sup>
-      * [Chapter 11](story/ep1/tr/umi1_11.txt) ✅<sup>1</sup>
-      * [Chapter 12](story/ep1/tr/umi1_12.txt) ✅<sup>1</sup>
+      * [Chapter 4](story/ep1/tr/umi1_4.txt) ✅<sup>2</sup>
+      * [Chapter 5](story/ep1/tr/umi1_5.txt) ✅<sup>2</sup>
+      * [Chapter 6](story/ep1/tr/umi1_6.txt) ✅<sup>2</sup>
+      * [Chapter 7](story/ep1/tr/umi1_7.txt) ✅<sup>2</sup>
+      * [Chapter 8](story/ep1/tr/umi1_8.txt) ✅<sup>2</sup>
+      * [Chapter 9](story/ep1/tr/umi1_9.txt) ✅<sup>2</sup>
+      * [Chapter 10](story/ep1/tr/umi1_10.txt) ✅<sup>2</sup>
+      * [Chapter 11](story/ep1/tr/umi1_11.txt) ✅<sup>2</sup>
+      * [Chapter 12](story/ep1/tr/umi1_12.txt) ✅<sup>2</sup>
       * [Chapter 13](story/ep1/tr/umi1_13.txt) ✅<sup>2</sup>
       * [Chapter 14](story/ep1/tr/umi1_14.txt) ✅<sup>2</sup>
       * [Chapter 15](story/ep1/tr/umi1_15.txt) ✅<sup>2</sup>
-      * [Chapter 16](story/ep1/tr/umi1_16.txt) ✅<sup>1</sup>
+      * [Chapter 16](story/ep1/tr/umi1_16.txt) ✅<sup>2</sup>
       * [Chapter 17](story/ep1/tr/umi1_17.txt) ✅
-      * [Chapter 18 (Tea Party)](story/ep1/tr/umi1_18.txt) ✅<sup>1</sup>
-      * [Chapter 19 (Hidden Tea Party)](story/ep1/tr/umi1_19.txt) ✅<sup>1</sup>
+      * [Chapter 18 (Tea Party)](story/ep1/tr/umi1_18.txt) ✅<sup>2</sup>
+      * [Chapter 19 (Hidden Tea Party)](story/ep1/tr/umi1_19.txt) ✅<sup>2</sup>
    * Other
       * [Tips Titles](script/tr/menu.txt#L2-L9) ✅
       * [Tips Texts](script/tr/menu.txt#L296-L303) ✅

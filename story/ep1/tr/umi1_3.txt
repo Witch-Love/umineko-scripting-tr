@@ -6,7 +6,7 @@
 ` Dürüst olmak gerekirse kendimi biraz rahatsız hissediyordum ama böyle sohbet edince sanırım içten içe o zamandan bu yana hiçbir şey değişmemiş."`
 `"Sen de aynı şekilde.`
 ` Battler, altı yıl sonra bile hiç değişmemişsin.`
-` Vücudun devasa bir hal almış olsa da, içinde hâlâ bir çocuksun."`
+` Vücudun devasa bir hâl almış olsa da, içinde hâlâ bir çocuksun."`
 `"Uu!`
 ` Maria da bir çocuk!`
 ` Maria da bir çocuk!"`
@@ -109,7 +109,7 @@
 ` ......Ama,`
 ` ............eğer bu bir emirse, yerine getireceğim.`
 ` ...Çünkü bu benim görevim."`
-`"Ahaha, o zaman bunu bir emir haline getiriyorum.`
+`"Ahaha, o zaman bunu bir emir hâline getiriyorum.`
 ` Şu andan itibaren, Battler-kun göğüslerine dokunmaya çalışırsa bir tokatla karşılık vereceksin.`
 ` Tamam mı?"`
 `"......E-Evet.`
@@ -327,7 +327,7 @@
 `Masada en başta yer alan, şeref koltuğu da denebilecek koltuk, en yüksek rütbeli kişiye aitti ve Büyükbabam için ayrılmıştı.`
 `Hâlâ boştu.`
 `{n}...Muhtemelen kendini önemli göstermek için en son gelmeyi planlıyordu.`
-`Onur koltuğuna bakıldığında oturma düzeni soldan sağa doğru ikişerli sıralar halindeydi ve koltuğa uzaklaştıkça rütbe de düşüyordu.`
+`Onur koltuğuna bakıldığında oturma düzeni soldan sağa doğru ikişerli sıralar hâlindeydi ve koltuğa uzaklaştıkça rütbe de düşüyordu.`
 `Dolayısıyla, şeref koltuğuna en yakın sıranın sol tarafında, yetişkin kardeşlerin en büyüğü olan Krauss Amca'ya ait ikinci koltuk bulunuyordu.`
 `.........Görünüşe göre o da henüz gelmemişti, o yüzden koltuk boştu.`
 `Onun karşısında, ilk sıranın sağ tarafında, ailenin en büyük kızı Eva Hala oturuyordu ve üçüncü sıradaydı.`
@@ -548,7 +548,7 @@
 `...Suyun kimyasal bir reaksiyona neden olduğu gibi garip bir görsel yanılsama yarattı. Bu da karışımın likör olarak algılanmasını daha da zorlaştırdı.`
 `Buna Kinzo'nun sevdiği özgün bir aroma ekledi ve tadında ince ayarlar yaptı.`
 `...Ortada bir tarif yoktu.`
-` Bu içeceğin başarısı, yalnızca Kinzo'nun onu içtiğinde yaşadığı ruh hali değişiklikleriyle ölçülüyordu ve o da bunu ancak onlarca yıl sonra yapmayı öğrenmişti.`
+` Bu içeceğin başarısı, yalnızca Kinzo'nun onu içtiğinde yaşadığı ruh hâli değişiklikleriyle ölçülüyordu ve o da bunu ancak onlarca yıl sonra yapmayı öğrenmişti.`
 `Genji kadehi bir tepsiye koydu ve Kinzo'ya doğru ilerledi.`
 `{n}Kinzo göz açıp kapayıncaya kadar pencereden dışarı bakmaya gitmişti.`
 `".........İstediğiniz gibi, Efendim."`
@@ -671,9 +671,9 @@
 `"Anlaşıldı. O hâlde, bayanlar ve baylar, bugünkü öğle yemeğine başlıyoruz."`
 `"......Doktor Nanjo, Babamın durumu o kadar kötü mü?`
 ` En azından yüzünü gösteremez miydi?"`
-`"Fiziksel durumundan ziyade, ruh hali...`
+`"Fiziksel durumundan ziyade, ruh hâli...`
 ` ve bunun için yazabileceğim bir ilaç yok."`
-`"Hadi ama, Tanrı aşkına, yine mi "ruh hali"?`
+`"Hadi ama, Tanrı aşkına, yine mi "ruh hâli"?`
 ` Bu berbat sonbahar döneminde programlarımızdan zaman ayırıp, onun nasıl olduğunu duymaya geldik.`
 ` Bu sadece—"`
 `"Hıh...o zaman istediğini aldın, Rudolf.`
@@ -682,19 +682,19 @@
 `"............Şaka mı yapıyorsun?"`
 `Rudolf omuz silkti.`
 `Görünüşe göre Rudolf, babasının canı ne isterse onu yapmasına içerliyor gibi görünse de, elinden geldiğinde onun yüzünü görmekten kaçınmayı tercih ediyordu.`
-`"Akşam yemeğinden önce ruh hali düzelecek gibi görünüyor mu?`
+`"Akşam yemeğinden önce ruh hâli düzelecek gibi görünüyor mu?`
 ` Krauss nii-san?"`
 `"Hiçbir fikrim yok.`
 ` Babama doğrudan sormayı deneyebilirsin.`
-` ...Yine de, onu rahatsız etmezsek ruh halinin daha hızlı düzeleceğini umuyorum."`
+` ...Yine de, onu rahatsız etmezsek ruh hâlinin daha hızlı düzeleceğini umuyorum."`
 `"Genji-san Büyükbabamın öfkesini kontrol altına alabilecek tek kişi.`
-` Kendi ebeveyninin kötü ruh haliyle başa çıkmak için bir hizmetkâra sahip olmak oldukça acınası."`
+` Kendi ebeveyninin kötü ruh hâliyle başa çıkmak için bir hizmetkâra sahip olmak oldukça acınası."`
 `"Jessica.`
 ` Gereksiz şeyler söyleme."`
 `Sadece kuzenleri tarafından duyulmasını planladığı bu şikâyet, Krauss'un kulaklarına da ulaşmıştı.`
 `Azarlanan Jessica kaşlarını çattı ve somurtarak arkasını döndü.`
 `"......O kadar sinirli olmasına bakılırsa, durumu o kadar da kötü olamaz, değil mi?`
-` Yani, eğer kendini iyi hissetmediğini söylüyorlarsa bu başka bir şey olurdu, ama eğer ruh hali bozuksa, bu en azından içinde hâlâ bir mücadele ruhu olduğunun kanıtı."`
+` Yani, eğer kendini iyi hissetmediğini söylüyorlarsa bu başka bir şey olurdu, ama eğer ruh hâli bozuksa, bu en azından içinde hâlâ bir mücadele ruhu olduğunun kanıtı."`
 `"Büyükbabamın iradesi gerçekten de çok güçlü.`
 ` ...Ama bu vücudunun her zaman bunu takip edeceği anlamına gelmiyor.`
 ` Geçen yıldan beri, ona üç ayı kaldığını söyleyip duruyorlar."`
