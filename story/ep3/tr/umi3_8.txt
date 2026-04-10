@@ -3,23 +3,23 @@
 ` Duyulan tek şey, dün geceden beri yağmaya devam eden yağmurun sesi ve rüzgârın uğultusuydu...`
 `"......Pek de sabah olmuş gibi hissettirmiyor.`
 ` Kalplerimizi sergilercesine korkunç bir hava."`
-`"O halde epey durgun diyebiliriz.`
+`"O hâlde epey durgun diyebiliriz.`
 ` Yağan mızrak değil de yağmur olduğu için şanslıyız."`
-`"Wahaha.`
+`"Hahaha.`
 ` İster yağmur ister mızrak olsun, ne yağarsa yağsın bana uyar."`
-`".........Şimdiden saat altı oldu mu?`
-` Fuaaaaaa...`
+`".........Saat şimdiden altı oldu mu?`
+` Huaaaaaa...`
 ` Bu kadarı yetmedi mi?`
 ` Artık şu gizemli 19. kişi, {f:5:Beatrice} harekete geçene kadar elden bir şey gelmez."`
 `"Bu doğru.`
-` ......Ancak, bize karşı kullanabilecekleri her türlü hamleyi düşündüğümüze inanıyorum."`
+` ......Ancak, bize karşı kullanabileceği her türlü hamleyi düşündüğümüze inanıyorum."`
 `"Aynen öyle.`
-` Kardeşlerimiz arasında bir hain ortaya çıkmadığı sürece, çoğu durumla başa çıkabilecek olmalıyız."`
-`"......Artık bu konuyu kapatsak ya?`
+` Kardeşler arasında bir hain ortaya çıkmadığı sürece, çoğu durumla başa çıkabilecek olmalıyız."`
+`"......Artık bu konuyu kapatsak mı?`
 ` Zaten bütün gece ayaktaydık.`
 ` ...Uykum var."`
 `"Haklısın.`
-` Kahvaltı ettikten sonra biraz dinlenmeye ne dersin?"`
+` Kahvaltı ettikten sonra biraz dinlenmeye ne dersiniz?"`
 `"...İyi fikir.`
 ` Bu yaşımda tüm gece ayakta kalmak zorlayıcı."`
 `Herkes gerinirken, ellerinden geldiğince bu ferahlatıcı olmayan sabahın olabildiğince tadını çıkarmaya çalıştılar.`
@@ -34,27 +34,27 @@
 ` ...Bu koku da ne?`
 ` Bu dayanılmaz..."`
 `Bu yaygara üzerine herkes kafasını koridora uzattı.`
-`{n}...Hafif bir kokuydu, ama şikayet etmeye başlanılınca açıkça fark edilir hale gelmişti.`
+`{n}...Hafif bir kokuydu, ama şikayet etmeye başlanılınca açıkça fark edilir hâle gelmişti.`
 `Her biri bu garip kokunun nereden geldiğini anlamak için kendi koku alma duyularına güvenerek koridora çıktı...`
 `"Bu da ne böyle?`
 ` Genji'den ilgilenmesini isteyelim.`
-` Eminim çoktan hizmetkâr odasına varıp sabah hazırlıklarına başlamış olmalı."`
+` Çoktan hizmetkâr odasına varıp sabah hazırlıklarına başlamış olduğuna eminim."`
 `"Mmhm, lütfen.`
 ` İhtimal vermek bile zor ama Gohda,`
 ` böyle bir kokuya neden olacak bir kahvaltı hazırlıyor olabilir mi acaba..."`
 `Rudolf'un grubu, kokunun kaynağını arayıp,`
 ` yer altındaki kazan dairesinden geldiğini fark etti.`
 `Ancak kapı kilitli olduğundan içeriye bakamadılar.`
-`Bu esnada Natsuhi'nin grubu, hizmetkâr odasında kimse var mı diye bakmaya giderken salonda garip bir şey fark ettiler.`
+`Bu esnada Natsuhi'nin grubu, hizmetkâr odasında birinin olup olmadığına bakmaya giderken salonda garip bir şey fark ettiler.`
 `"......Bu da nedir...?!"`
 `"N-Ne korkunç bir şaka...`
-` Kim yapar böyle bir şeyi...?"`
+` Böyle bir şeyi kim yapar...?"`
 `Salonun kapısının üzerinde kanı andıran, esrarengiz, kırmızı bir boyayla çizilmiş...`
 `büyü çemberi gibi bir şey vardı.`
 `"Mutfağa henüz kimse girmemiş.`
 ` ......B-Bu...da ne?"`
 `Kokunun mutfaktan geldiğini düşünen Eva'nın grubu,`
-` içeride kimsenin olmadığını, ve kahvaltı hazırlıklarının henüz başlamadığını görüp geri dönmüşlerdi.`
+` mutfakta kimsenin olmadığını ve kahvaltı hazırlıklarının henüz başlamadığını görüp geri dönmüşlerdi.`
 `......Sonrasında da salondaki sıra dışı şeyi gördüler.`
 `"Açılmıyor, kazan dairesi kilitli.`
 ` Kazan dairesinde bir şey arızalandıysa sıkıntıya girmez miyiz?`
@@ -64,41 +64,41 @@
 ` Kazan dairesinin kapısında da vardı."`
 `"O da nesi?!`
 ` Bu ürkütücü çizim sadece burada değil, başka yerlerde de mi var?!`
-` Haha, sizler, bunun ormanın cadısı {f:5:Beatrice}'in savaş fermanı olduğunu düşünmüyorsunuzdur herhalde?"`
-`Hideyoshi bunu alaya almaya çalışmıştı, fakat rüzgâr ve yağmuru dinlerken bu ürkütücü büyü çemberine bakmak, gerçekten de cadıdan gelen bir mesajmış gibi görünmesine neden oluyordu.`
-`...Akmaya başlayan parlak kırmızı boyanın düpedüz kan gibi gözükmesi, her şeyi daha da ürkütücü hale getiriyordu.`
+` Haha, sizler, bunun herhâlde ormanın cadısı {f:5:Beatrice}'in savaş fermanı olduğunu düşünmüyorsunuzdur?"`
+`Hideyoshi bunu alaya almaya çalışmış olsa da, rüzgâr ve yağmuru dinlerken bu ürkütücü büyü çemberine bakmak, gerçekten de cadıdan gelen bir mesajmış gibi görünmesine neden oluyordu.`
+`...Akmaya başlayan parlak kırmızı boyanın düpedüz kan gibi gözükmesi, her şeyi daha da ürkütücü hâle getiriyordu.`
 `Hideyoshi kapıyı açmaya yeltendi, ancak kilitliydi.`
-`...Normalde salon kilitlenmezdi.`
+`...Salon normalde kilitlenmezdi.`
 `{n}Birisi özellikle kilitlemişti.`
 `"......Bu da ne demek oluyor...?`
 ` Biz yemek salonunda konuşurken biri gizlice bunları mı çizdi?`
-` Salonun ve kazan dairesinin kapılarına?"`
+` Salon ve kazan dairesinin kapılarına?"`
 `"...Eminim hizmetkârların işidir.`
-` Biz hep beraberdik.`
+` Biz tüm zaman boyunca beraberdik.`
 ` Hepimizin mazereti var.`
 ` ......Muhtemelen Babamdan garip bir emir alıp böyle bir muziplik yaptılar."`
 `".........Dün Maria-chan'ın mektubuyla ilgili olayı düşününce,`
 ` hizmetkârların, Babamın talimatıyla bir işler çevirdiğinden şüphelenmek fazlasıyla mümkün.`
 ` ......Yeri gelmişken, onlar nerede?`
-` Saklambaç oynayacak halleri yok ya.`
+` Saklambaç oynayacak hâlleri yok ya.`
 ` Onları arayalım."`
 `"O-...Ondan önce, çocuklar ne alemde?`
 ` İyilerdir, değil mi?`
-` Gidip bir kontrol edeceğim, hazır oradayken hizmetkârlardan kimse var mı yok mu bakarım."`
-`"O halde ayrılalım.`
+` Gidip bir kontrol edeceğim, hazır konukevindeyken hizmetkârlardan kimsenin olup olmadığına da bakarım."`
+`"O hâlde ayrılalım.`
 ` Sen konukevinde veletlerin ne durumda olduğuna bakarken, biz de malikâneyi kontrol ederiz.`
 ` .........Düşünmek bile istemiyorum ama,`
 ` bu ürkütücü büyü çemberleri, gördüklerimizden ibaret olmayabilir."`
 `"......Babamın tuhaf bir oyununa dahil olmuş olabiliriz.`
 ` ...Babamın yanına uğrayıp durumu öğrenmeye çalışacağım.`
-` ......Eh, beni dinleyeceğinden şüpheliyim gerçi."`
+` ......Eh, gerçi beni dinleyeceğinden şüpheliyim."`
 `Yetişkinler ayrıldı.`
 `Sonuç olarak, dört çocuğun konukevinin ikinci katındaki kuzenlerin odasında ve güvende oldukları doğrulandı.`
 `Dün gece geç saatlere kadar oyun oynamış olmalılardı.`
-`{n}Dördü birden horlaya horlaya uyuyordu, bu yüzden Rosa onları uyandırmamaya karar verdi.`
+`{n}Dördü birden horlaya horlaya uyuyordu. Bu yüzden Rosa onları uyandırmamaya karar verdi.`
 `Ayrıca, dün gece dinlenmek için erkenden ayrılan Nanjo da iyiydi.`
 `{n}"Erken kalkan yol alır" atasözündeki gibi dinç bir şekilde uyanmıştı.`
-`Bu süre zarfında Kyrie ve Hideyoshi hizmetkârları aramıştı.`
+`Bu süre zarfında Kyrie ve Hideyoshi hizmetkârları aradılar.`
 `{n}Ama onları bulamadılar.`
 `...Konukevindeki hizmetkâr odası da boştu.`
 `"......Çocuklar iyi.`
@@ -108,36 +108,36 @@
 ` Çoktan çalışmaya başlamış olmaları gerekirdi..."`
 `"Dinlenme odası da boştu.`
 ` Yatakların kullanıldığına dair izler vardı, ama sıcak değillerdi."`
-`"Baksana, ...Krauss nii-san ve diğerlerinin düşündüğü gibi olmasın sakın?`
-` ......Bu muhtemelen babamın emriyle planlanmış bir oyun.`
+`"Baksanıza, ...Sakın Krauss nii-san ve diğerlerinin düşündüğü gibi olmasın?`
+` ......Bu muhtemelen Babamın emriyle planlanmış bir oyun.`
 ` O ürkütücü şeyleri çizip bir yerlere saklanıp,`
 ` bize bir şey yaptırmaya çalıştığı aşikâr."`
 `"......Servetini ve aile reisliğini kimin almaya layık olduğunu görmeye çalıştığını mı söylüyorsun?`
 ` ...Nereden bakarsam bakayım, bu..."`
 `"Hayır.`
-` ...Babam söz konusuysa, böyle bir şey yapıyor olması imkansız değil."`
+` ...Babam söz konusuysa, böyle bir şey yapıyor olması imkânsız değil."`
 `"Ne de olsa Babam büyük numaraları sever.`
-` ......Salona o kitabe yerleştirildiğinden beri bunu yapmayı planlamış olabilir."`
-`"...Durum buysa, oyunun başladığını ilan etmek, veyahut oyunu açıklamak gibi bir şey de yapar mı acaba.`
-` ......Maria-chan'a verilen zarf gibi, üzerinde arma olan başka bir zarf da ortaya çıkabilir belki."`
+` ......Girişe o kitabe yerleştirildiğinden beri bunu yapmayı planlamış olabilir."`
+`"...Durum buysa, acaba oyunun başladığını ilan etmek, veyahut oyunu açıklamak gibi bir şey de yapar mı?`
+` ......Maria-chan'a verilen zarf gibi, belki üzerinde arma olan başka bir zarf da ortaya çıkabilir."`
 `"............Haklısın.`
 ` Kim bilir, belki Nii-san ve diğerleri malikânede öyle bir şey bulmuşlardır."`
 `"Doktor Nanjo.`
 ` Sen hiçbir şey duydun mu?"`
-`"......A-Affınıza sığınırım, ancak benim olan bitene dair hiçbir bilgim yok.`
+`"......A-Affınıza sığınıyorum, ancak benim olan bitene dair hiçbir bilgim yok.`
 ` Şayet, ......evet,`
 ` Kinzo-san'ın büyük bir şey planladığına ben de sıcak bakmaktayım."`
 `"...Şimdilik mâlikaneye geri dönsek mi?`
 ` Belki orada bir şey bulmuşlardır."`
-`"Mazur görürseniz, ben de geleyim."`
+`"Mazur görürseniz, ben de geleceğim."`
 `"B-Ben burada kalacağım.`
-` ...Yukarıda çocuklar uyuyor.`
+` ...Maria ve diğer çocuklar uyuyor.`
 ` Neler olduğunu bilmiyoruz.`
 ` Çocukları yalnız bırakmak olmaz."`
 `"......Haklısın.`
-` Ben de Rosa-san'la birlikte buraya göz kulak olacağım.`
+` Ben de Rosa-san ile birlikte buraya göz kulak olacağım.`
 ` Kocama bunu iletebilir misiniz?"`
-`Rosa ve Kyrie konukevinde kaldı.`
+`Rosa ve Kyrie konukevinde kaldılar.`
 `{n}Hideyoshi, Nanjo'yla birlikte malikâneye döndü.`
 `Bu sırada, malikânede...`
 `İnanılmaz şekilde, ...veya belki de kötü hislerin doğru çıkma eğiliminden midir bilinmez ama...`
@@ -164,23 +164,23 @@
 `Hizmetkâr odasındaki anahtar kutusuna baktılar.`
 `Her hizmetkâr kendi master anahtarını üzerinde taşıdığı için onlar burada değildi.`
 `Ancak bütün odaların anahtarı burada olmalıydı.`
-`"............İçinde amma da fazla anahtar varmış."`
+`"............İçinde çok fazla anahtar varmış."`
 `"...Yok.`
 ` Ne kadar bakarsam bakayım, kazan dairesinin anahtarını bulamıyorum."`
 `"Baksana, Aneki.`
 ` ......Sadece büyü çemberi çizili odaların anahtarları...`
-` özellikle içinden alınmış."`
+`özellikle içinden alınmış."`
 `"......Sahiden de öyle.`
 ` ...Ne kadar can sıkıcı......"`
-`"Sanki büyü çemberi olan odalara girmemizi istemiyorlarmış gibi.`
-` ......Hayır, özellikle büyü çemberiyle işaretlediklerine göre, girmemizi istiyor olmasınlar...?"`
+`"Sanki birisi büyü çemberi olan odalara girmemizi istemiyormuş gibi.`
+` ......Hayır, özellikle büyü çemberiyle işaretlendiğine göre, girmemizi mi istiyor...?"`
 `"Bence en son söylediğin gibi.`
-` ...Kapıyı kırmak anca filmlerde olur, boşuna uğraşmayalım.`
-` Pencereyi kırmak işe yarayabilir ama."`
+` ...Kapıyı kırmak ancak filmlerde olur, boşuna uğraşmayalım.`
+` Ama pencereyi kırmak işe yarayabilir."`
 `Krauss, bunun cam kırmayı gerektirecek bir durum olup olmadığına karar vermekte biraz zorlanmıştı.`
 `O sırada Hideyoshi ve Nanjo geldi.`
 `{n}Konukevinde bir sıkıntı yoktu ve çocuklar güvendeydi.`
-`{n}Diğerlerine Rosa ve Kyrie'nin eve göz kulak olmak için orada kaldıklarını söylediler.`
+`{n}Diğerlerine Rosa ve Kyrie'nin etrafa göz kulak olmak için orada kaldıklarını söylediler.`
 `"Günaydın.`
 ` ...Sanırsam enteresan şeyler olmuş."`
 `"Günaydın, Doktor Nanjo.`
@@ -189,16 +189,16 @@
 ` Mektup falan bulunmadı mı?`
 ` Kesin bir şey bulunmuştur diye düşünmüştüm..."`
 `"......Haklısın.`
-` Ben de bunun babamın büyük bir şakası, ya da bir çeşit oyunu olduğuna inanıyorum...`
-` Ama durum buysa, bize bunu belirten bir mektup olması gerekirdi.`
+` Ben de bunun Babamın büyük bir şakası, ya da bir çeşit oyunu olduğuna inanıyorum...`
+` Ama durum bu olsaydı, bunu belirten bir mektup olması gerekirdi.`
 ` Maria-chan'a verdiği mektup gibi."`
 `"Ya oyunun başlangıç duyurusu, aslında Maria-chan'ın mektubuysa?`
 ` ‘Kitabenin bilmecesini çözmeye çalışın’—şeklinde oyunun detayları çoktan belirtilmiş olabilir."`
-`"O halde, malikânede bulunan beş büyü çemberi ne anlama geliyor olabilir?`
+`"O hâlde, malikânede bulunan beş büyü çember ne anlama geliyor olabilir?`
 ` ...Nerede oldukları belirsiz hizmetkârlara ne demeli?"`
 `"......Natsuhi nee-san.`
 ` Bugün toplam kaç hizmetkâr vardı?"`
-`"Huh?`
+`"Heh?`
 ` .........Genji, Gohda,`
 ` ......beş kişi de, neden ki?"`
 `"......Beş hizmetkâr.`
@@ -211,31 +211,31 @@
 ` Düzgünce halledin."`
 `Krauss sonuç olarak camı kırmalarına izin verdi.`
 `Ve kıracakları ilk camın, pencereye ulaşmanın en kolay olduğu birinci kattaki salon olmasına karar verdiler.`
-`Pencereden bakmaya çalıştılar,`
-` ancak perdeler çekili olduğundan içeriyi göremediler.`
+`Pencereden bakmaya çalışsalar da,`
+` perdeler çekili olduğundan içeriyi göremediler.`
 `Rudolf bahçede dolaşıp camı kırmaya uygun bir şey aradı.`
 `Çok geçmeden, elinden daha büyük bir taş bulup geri döndü.`
 `"Tamamen kırmana gerek yok.`
-` Kilidi döndürebilecek kadar açsan yeter."`
+` Kilidi döndürebilecek kadar açsan yeterli."`
 `"Fazla umutlanmasan mı?"`
 `Rudolf taşı kaldırıp birkaç kez cama vurdu.`
-`Çok geçmeden, kilidi dışarıdan açabilecek kadar büyük bir delik oluşturmayı başarmıştı.`
+`Çok geçmeden, kilidi dışarıdan açabilecek kadar büyük bir delik oluşturmayı başardı.`
 `...Elini bir bezle kapatıp delikten içeri soktu ve dikkatlice kilidi açtı.`
 `"Daha sonra koli bandıyla kapatsak iyi olacak.`
-` Yağmur içeri girer yoksa."`
-`Pencereyi açmasıyla rüzgâr ve yağmurun şiddetinde perdelerin uçuşması bir oldu.`
+` Yoksa yağmur içeri girer."`
+`Pencereyi açmasıyla rüzgâr ve yağmurun şiddetiyle perdelerin uçuşması bir oldu.`
 ` Perdeleri yana çekti.`
-`...Adları gibi bildikleri salon görülebiliyordu.`
+`...İyi tanıdıkları salonu görebiliyorlardı.`
 `Biraz rahatladılar.`
 ` ......Odanın içinde de şu ürkütücü büyü çemberlerinden,`
 ` veya garip bir ritüelin izleri olabileceği ihtimalinden şüphelenmişlerdi.`
-`Her halükârda, daha fazla yağmurda ıslanmak istemediklerinden,`
-` Krauss, Natsuhi, Eva, Hideyoshi, Rudolf ve Nanjo altılısı, hep birlikte salona girdi.`
+`Her hâlükârda, yağmurda daha fazla ıslanmak istemediklerinden,`
+` Krauss, Natsuhi, Eva, Hideyoshi, Rudolf ve Nanjo altılısı, hep birlikte salona girdiler.`
 `"......Pek de...göze çarpan bir şey yok gibi..."`
 `".........mmh—"`
 `"N-Ne oldu, Shannon?!"`
 `"Hey, hey, iyi misin?!`
-` Ne oldu sana böyle?!"`
+` Sana ne oldu böyle?!"`
 `"Kan var, kan!!`
 ` D-D-Doktor Nanjo, şuna bir bakın!!"`
 `"Hey, Shannon-chan!`
@@ -244,46 +244,46 @@
 `"O-Onu sarsmamalısınız...`
 ` Şimdi durumunu inceleyeceğim..."`
 `Bir kanepenin gölgesinde olduğundan, odaya girene kadar fark edilmemişti.`
-`Shannon yerde yatıyor, göğsü kanlar içinde kıpkırmızı parlıyordu......`
+`Shannon yerde, göğsü kanlar içinde kıpkırmızı yatıyordu......`
 `"He~~y,`
 ` Battleeer, neredesiiinn?`
 ` Gelsene, gelsene, Shannon'un cesedi ortaya çıktı~~~?`
 ` Artık sana zorbalık yapmayacağım, çık dışarı."`
 `"......Hmmmm?`
 ` Oh, işte buradasın.`
-` Orada kafanı tutarak ne yapıyorsun bakayım?"`
+` Orada kafanı tutarak ne yapıyorsun bakalım?"`
 `".............................."`
 `Battler başını masaya dayamış, elleriyle kafasını tutuyordu...`
-` Acınası hali, hiçbir şey görüp duymak istemediğini belli eder vaziyetteydi...`
+` Acınası hâli, hiçbir şey görüp duymak istemediğini belli eder vaziyetteydi...`
 `{f:5:Beatrice}'in alaycı laflarını işitmiş miydi?`
 `...Duyamıyor muydu, yoksa duymuyormuş gibi mi yapıyordu?`
 ` Her şekilde, kalbini bir kabuk gibi kapattığı aşikârdı...`
 `"Pu ku ku ku...`
 ` ......Ona biraz fazla eziyet etmiş olabilir misiniz, Leydim?`
 ` Ona onca şey gösterip karşılık vermesini istedikten sonra,`
-` beti benzi atmış halini anlayabiliyorum."`
+` neden beti benzi atmış olduğunu anlayabiliyorum."`
 `"Hey, Battleerr.`
-` Karşılık veremiyorsan pes etsene?`
+` Karşılık veremiyorsan pes etmeyecek misin?`
 ` Senin sıran.`
 ` Bir hamle yapmaz ya da pas geçmezsen,`
-` veyahut pes etmezsen olduğumuz yerde sayacağız."`
+` veya pes etmezsen olduğumuz yerde sayacağız."`
 `"..............................es."`
-`"......Huh?`
+`"......Heh?`
 ` Ne dedin?`
 ` Seni duyamadıımm?"`
 `"KES SESİNİ dedim!!`
 ` Aaaah, kapa çeneni kapa kapa kapaaaaa!!`
 ` Ne cadısı, ne büyüsü?!`
-` Ne yaparsan yap inanmayacağım, hiçbirine inanmayacağım,`
-` Kahretsin, kahretsin, kahretsin, kahretsin!"`
+` Ne yaparsan yap inanmayacağım, hiçbirine inanmayacağım.`
+` Kahretsin, kahretsin, kahretsin, kahretsin!!"`
 `"Benimle konuşma, bana bir şey gösterme, defol, defol, defol git!!`
-` O gıcık suratını benden uzak TUU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UUUUUT!!!"`
+` O gıcık suratını benden UZAK TUU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UUUUUT!!!"`
 `".........................!!!"`
 `Battler'ın bu ani çıkışı üzerine {f:5:Beatrice}, içgüdüsel olarak irkildi.`
 `"......Ö-Öyle diyorsun ama...`
 ` Sıranı bitirmezsen, benim sıram da gelmeyecek.`
 ` Beni çok sıkma diyesim geliyor ama—"`
-`"Çok da umurumda, o sesini kes artık!!`
+`"Çok da umurumda, kes şu sesini artık!!`
 ` Senin oyunun umurumda bile değil,`
 ` bu saçmalığa daha fazla katlanmayacağııımmm!!`
 ` Benimki bitene kadar senin sıran gelmeyecekse, sonsuza kadar bekle dur!!"`
@@ -291,16 +291,16 @@
 ` Cadıları da büyüyü de kabul etmeyeceğim, bu saçmalıkların hiçbirini kabul etmeyeceğim!!`
 ` Uuooooooooooohhh, SANA BENİMLE KONUŞMA DEDİİİ{-}İ{-}İ{-}İ{-}İ{-}İ{-}İ{-}İ{-}İ{-}İ{-}M{-}M{-}MMM!!!"`
 `......Artık neyin ne olduğunu anlayamıyorum.`
-`{n}O kadar saçma şeyler gösterildi ki, daha fazla nasıl direnebilirdim...`
+`{n}O kadar saçma şeyler gördükten sonra, direnmeye nasıl devam edebilirim...`
 `Gül bahçesinde aylak aylak dolaşıyordum.`
-`......Yağmur yağıyordu ve rüzgârlıydı, ama bu, bedenimin ıslandığı anlamına gelmiyordu.`
-` ...Rüzgârın ve yağmurun tam ortasında şemsiyesiz dolaşırken bir yalnızlık hissi vardı sadece.`
+`......Yağmur yağıyordu ve rüzgârlıydı. Ama bu, bedenimin ıslandığı anlamına gelmiyordu.`
+` ...Şemsiyesiz bir şekilde rüzgâr ve yağmurun ortasında dolaşırken içimi bir yalnızlık hissi kapladı.`
 `"..................Belki de ben...`
-` onun oyununa yenileli çok olmuştu."`
+`ona kaybedeli çok uzun zaman oldu."`
 `...Aslında, bir önceki oyunda net bir sonuca varıp varmadığımızı merak ediyordum.`
 `Ne de olsa bir süreliğine ona boyun eğmiştim.`
 `{n}Bu yüzden de dünya, cadılar ve büyülerle çevrelenmişti.`
-`......Şu anda Rokkenjima, cadıların cirit attığı, garip garip büyüler yaptığı farklı bir evren.`
+`......Şu anda Rokkenjima, cadıların cirit attığı, garip garip büyüler yaptığı farklı bir dünya.`
 `...Mesele bunu kabul etmek ya da reddetmek değil.`
 `Belki de Beato ile eşit şartlarda bir oyun oynadığım yanılgısına kapılmıştım.`
 `Önceki oyunda çoktan yenildiğime göre, ...bu, kaybettiğime dair imza atacağım bir tören olabilir.`
@@ -308,66 +308,66 @@
 `{n}Bunu kendi gözlerimle görmüştüm.`
 `Ayağımı yere sertçe vurdum.`
 ` ......Doğal olarak, zemin sertti.`
-`{n}Ve bir su birikintisi sıçradı.`
+`{n}Ve bir su birikintisi şapırdayarak sıçradı.`
 `Birkaç kule bu zemini yarmış, upuzun binalar adeta filizlenerek göğe yükselmişti.`
 `......Zemine vurmaya devam ettikçe,`
-`.........bunun mümkün olamayacağını kesin ve net şekilde anlamıştım.`
+` .........bunun mümkün olamayacağını kesin ve net şekilde anlamıştım.`
 `İşte tam da bu yüzden, bunu büyüden başka bir şeyle açıklayamıyordum......`
-`"......Kilitli odanın içinde anahtar olması gibi şeyler,`
+`"......Kilitli odanın içinde anahtar olması gibi şeyleri,`
 ` birçok dedektif romanında görüldüğünden dolayı anlayabiliyorum.`
 ` Ama, ......böylesi......`
 ` Tüm o büyük, gösterişli şeyler......`
-` Lanet olsuuunnn........."`
-`"...............Öğrencim başınıza çokça dert açmış olsa gerek."`
-`"...Huh?`
+` Kahretsiiiiin........."`
+`"...............Öğrencim başına çokça dert açmış olsa gerek."`
+`"...Ah?`
 ` .........Sen..."`
 `Ansızın duyduğum sesin kaynağına dönüp baktığımda,`
 ` ...gül bahçesindeki çardakta,`
-` ......{f:5:Beatrice} tarafından daha az önce alt edilmiş olması gereken Selef {f:5:Beatrice} vardı.`
-`".........Öldüğünü sanmıştım.`
+` ......{f:5:Beatrice} tarafından daha az önce alt edilmiş olması gereken Selef {f:5:Beatrice}'i gördüm.`
+`".........Öldüğünü düşünmüştüm.`
 ` Yaşıyorsun demek."`
 `"Hayır, öldüm.`
-` ...Artık ben, ele geçirilen bir taş gibi yalnızca tahtanın dışında bulunabilirim."`
+` ...Artık ben, ele geçirilen bir taş gibi yalnızca satranç tahtasının dışında bulunabilirim."`
 `"Sen Beato'nun ustası değil misin?`
-` bu da demek oluyor ki, sen de bir cadısın."`
+` Bu da demek oluyor ki, sen de bir cadısın."`
 `"......Evet, bu doğru."`
-`"Tch.`
+`"Cık.`
 ` Yani, başka bir deyişle,`
 ` ......bu, cadıların gerçekten var olduğunu mu gösteriyor?`
 ` Ve onu yenebilecek kişinin ben olmadığımı.`
 ` Müthiş büyüler kullanabildiğine göre o kişi sen olmalısın, değil mi?`
-` ...Benden artık bir halt olmaz.`
+` ...Ben artık bir işe yaramıyorum.`
 ` Yapabileceğim hiçbir şey kalmadı."`
 `"............Amanın.`
 ` Tamamen teslim mi oldun?"`
 `"Ne teslim olması?!`
 ` Bunları nasıl açıklayabilirim ki?!`
 ` Kuleler filizlenip yıkıldı!!`
-` Kocaman devler kalkanlarla mızraklarla dövüştü!"`
-`"Aaah, hatırlamak bile delirecekmişim gibi hissettiriyor, artık mantık yürütmenin ne faydası olabilir ki?!!`
-` Numaraları ve insan suçlu teorilerini çoktan aştı bu olay!!`
+` Kocaman devler kalkan ve mızraklarla dövüştü!"`
+`"Aaah, hatırlamak bile delirecekmişim gibi hissettiriyor. Artık mantık yürütmenin ne faydası olabilir?!!`
+` Bu olay, numaraları ve insan suçlu teorilerini çoktan aştı!!`
 ` Aaaaaaaaaaahh, sıçayım sıçayım sıçayım sıçayım!!"`
 `"Sakin ol.`
 ` ......Ben o çocuğun oyun tahtasındaki bir taştan ibaretim.`
-`Bu şekilde tahtadan çıkarıldıktan sonra hiçbir şey yapamayacak bir varlığım."`
+` Bu şekilde tahtadan çıkarıldıktan sonra hiçbir şey yapamayacak bir varlığım."`
 `"Ancak sen, o çocuğun rakibisin.`
 ` Kendini bırakmadığın sürece, o çocuğa her daim karşılık verebilecek güce sahipsin."`
 `"Kapa çeneni!`
-`Sen de garip büyüler okuyup kuleler ve mızraklar yaratmıyor muydun?!!"`
+` Sen de garip büyüler okuyup kuleler ve mızraklar yaratmıyor muydun?!!"`
 `"Ne karşılık vermesi?!`
-` Bana da büyü öğretip o büyük büyü savaşlarından birinde onunla savaşmam gerektiğini mi söylüyorsun?"`
+` Bana da büyü öğretip o büyük büyü savaşlarından birinde onunla savaşmam gerektiğini mi söylüyorsun?!!"`
 `"......İstersen,`
 ` sana birkaç büyü öğretebilirim."`
 `"Tam da hayalini kurduğum şey!`
 ` Onun o göğsünü tek hamlede parçalayabileceğim harika bir büyü öğret lütfen...!!`
 ` Hah, dalga geçmeyi bırak!"`
-`"Japon büyüsünde yağmur duası için bir tören varmış.`
+`"Japon büyüsünde yağmur duası için yapılan bir tören varmış.`
 ` Biliyor muydun?"`
-`"Yağmur duası mı?`
+`"Yağmur töreni mi?`
 ` Ateşin içine bir şeyler atıp dans eşliğinde yağmur duası edilen şey mi?`
-` ......O büyü değil ki.`
+` ......Bu büyü değil.`
 ` Ateşin ısısının göğe yükselmesi sonucu yağmur bulutu oluşması,`
-` kabul edilmiş bilimsel bir olgudur."`
+` kabul edilmiş bilimsel bir olgu."`
 `"Amanın?`
 ` ...Ben bunun doğuya has büyülerden biri olduğuna inanıyordum ama,`
 ` büyü değil miymiş?`
@@ -376,9 +376,9 @@
 `"Çok eski zamanlarda yapılan bir şey olabilir.`
 ` Ama bu tarz esrarengiz çoğu şeyin bilimsel bir açıklaması vardır."`
 `"Eşyalar neden yanar?`
-` Maddesinde flojiston bulunduğu için mi?"`
+` Maddesinde filojiston bulunduğu için mi?"`
 `"......Hayır, nesneler oksidasyon tepkimesi sebebiyle yanar.`
-` Flojiston teorisi, Lavoisier tarafından çürütülmüştü."`
+` Filojiston teorisi, Lavoisier tarafından çürütülmüştü."`
 `"Isı neden nesneden nesneye geçer?`
 ` Maddesinde kalori bulunduğu için mi?"`
 `"......Bunun Joule tarafından çürütüldüğüne eminim.`
@@ -386,39 +386,39 @@
 `"İyi çalışmışsın.`
 ` Bilgilerin doğru."`
 `"...Bunlar genel seviye bilgiler."`
-`"Flojiston da kalorik de, hatta Gökler ve Tanrı'nın sevgisi bile.`
+`"Filojiston da kalorik de, hatta Gökler ve Tanrı'nın sevgisi bile.`
 ` ......Hepsi bilimsel açıklamalar karşısında güçsüzdür.`
 ` Bana eskiden ağaçtan elma düşmesinin,`
 ` insanlara yiyecek veren Tanrı'nın sevgisi sayesinde olduğu söylenmişti."`
-`"Yerçekimi bile Tanrı'nın sevgisi mi olmuş?`
-` ...Eh, bilimden ziyâde dinî açıklamaları kullandıkları dönemin artıkları olsa gerek."`
+`"Yerçekimi bile mi Tanrı'nın sevgisi olmuş?`
+` ...Eh, bilimden ziyade dini açıklamaları kullandıkları dönemin artıkları olsa gerek."`
 `"Aynen öyle.`
 ` İnsanlar geçmişte bilgilerinin sınırlarına,`
-`...hayır, cehaletin ta kendisine "büyü" diyorlardı.`
+` ...hayır, cehaletin bizzat kendisine "büyü" diyorlardı.`
 ` ...Az önce yağmur duasında da bahsettiğimiz gibi."`
 `"Eski çağlardaki insanlar,`
 ` ateşin ısısının göğe yükselip bulutların oluşumuna yol açtığını bilimsel olarak anlayabiliyor muydu?`
 ` Anlayamasalar bile, en azından sonucun buna vardığını biliyorlardı."`
 `"......Bu sıkça yaşanmış bir şey olmalı.`
-` Ataların bilgeliği deriz ya.`
+` Atalarımızın bilgeliği.`
 ` Nedenini anlamasalar bile, uzun tecrübeler sayesinde bu sonucu elde edeceklerini biliyorlardı.`
 ` ...İlkelerini anlamadıkları olgular, muhtemelen onlar için büyüyle aynı şeydi."`
 `Onun da dediği gibi, ilkeleri anlamayan eski çağlardaki insanlar,`
-` yağmur duası aracılığıyla dileklerini göğe ulaştırıp yağmurun yağmasını sağladıklarına inanmıştı.`
+` yağmur duası aracılığıyla dileklerini göğe ulaştırıp yağmurun yağmasını sağladıklarına inanmışlardı.`
 `Onlara göre bu, hiç şüphesiz büyüydü.`
 `{n}Sıcak hava akımını anlamadıkları sürece...`
 `"Işık düğmesine basarsan, ışık yanar.`
-` ......Çocuklar ampulün neden yandığının ardındaki bilimsel ilkeleri bilmezler,`
-` sadece sonucu bilerek düğmeye basarlar.`
+` ......Çocuklar ampulün neden yandığının ardındaki bilimsel ilkeleri bilmezler.`
+` Sadece sonucu bilerek düğmeye basarlar.`
 ` Eğer ilkeleri bilmeden bir sonuç elde edebiliyorlarsa, bu onlar için "büyü" değil midir?"`
 `"...............Oldukça ilginç.`
 ` ...Eh, mantıken öyle.`
 ` ...Örneğin, televizyonlarımızdaki Braun tüplerinin neden resim gösterdiği konusunda hiçbir fikrimiz yok."`
 `"Yine de, televizyonda bir şeylerin görüntülenmesinin tamamen normal olduğunu düşünüyoruz.`
 ` Braun tüplerinin arkasındaki ilkeleri anlamasam bile, en azından "düğmeye basarsam televizyon izleyebileceğimi" biliyorum."`
-`"...Bu, sıcak hava akımını anlamadan yağmur duası etmekle bire bir aynı şey.`
-` ......Demem o ki, ilkeleri bilmediğim müddetçe, televizyon bile "büyü" ile aynı şeydir,`
-` hayır, büyünün ta kendisi mi desek?"`
+`"...Bu, sıcak hava akımını anlamadan yağmur duası etmekle birebir aynı şey.`
+` ......Demem o ki, ilkeleri bilmediğim müddetçe, televizyon bile "büyü" ile aynı şey.`
+` Hayır, büyünün ta kendisi mi olur?"`
 `"Braun tüplerinin nasıl yapıldığını biliyor musun?`
 ` Parçalarına ayırıp içine baktığın oldu mu?"`
 `"......Olmadı.`
@@ -427,21 +427,21 @@
 `"O bir uydurmacaydı.`
 ` Aslında Braun tüplerinin içinde gremlin adı verilen cüceler var,`
 ` ve işlerini büyüyle yapıyorlar."`
-`"Huh?!`
-` Saçmalamayı bırak, olur mu öyle şey...!"`
+`"Hah?!`
+` Saçmalamayı bırak, öyle bir şey olamaz...!"`
 `"Bir Braun tüpünün içine bakmadan bunu nasıl inkâr ediyorsun?"`
 `"......İçine hiç bakmadım, ama küçük insanların var olmadığına kalıbımı basarım!"`
-`"Burada Braun tüpü olmadığı sürece, bunu kanıtlamak imkansızdır."`
-`"B-Bu doğru, bu esnada bunu kanıtlamak imkansız,`
-` ...ama daha sonra bir yerde bir televizyonu parçalayıp sana gösterirsem, fikrini anında çürütebilirim!"`
+`"Burada Braun tüpü olmadığı sürece, bunu kanıtlamak imkânsızdır."`
+`"B-Bu doğru, şu an bunu kanıtlamak imkânsız.`
+` ...Ama daha sonra bir yerde bir televizyonu parçalayıp sana gösterirsem, fikrini anında çürütebilirim!"`
 `"Bu da demektir ki,`
-` Braun tüplerinin içinde gremlinler olduğunu, ve resimleri büyüyle yansıttıklarını söylediğim "büyü teorimi",`
-` Braun tüpünün içindekileri doğrulayana kadar çürütmek imkansızdır, değil mi?"`
+` Braun tüplerinin içinde gremlinler olduğunu ve resimleri büyüyle yansıttıklarını söylediğim "büyü teorimi",`
+` Braun tüpünün içindekileri doğrulayana kadar çürütmek imkânsızdır, değil mi?"`
 `".........Hmm,`
-` .........ne yani, yoksa?`
+` .........ne yani?`
 ` Bunun 'Şeytan'ın İspatı' olduğunu mu söylemeye çalışıyorsun?`
 ` Siz cadıların en sevdiği numara."`
-`"'Şeytan'ın İspatı', olumsuz bir gerçeği kanıtlamanın imkansızlığından yararlanan bir safsatadır.`
+`"'Şeytan'ın İspatı', olumsuz bir gerçeği kanıtlamanın imkânsızlığından yararlanan bir safsatadır.`
 ` Şayet bu, Braun tüpü olayı için geçerli değil.`
 ` O, tek bir televizyonu parçalayarak çözülebilecek bir şey."`
 `"......Haklısın.`
@@ -451,31 +451,31 @@
 ` Ve bu, bir Braun tüpünün içine baktığımız zaman doğrulanacak.`
 ` Fakat bunu doğrulayacağımız ana kadar, birbirimizin teorilerini inkâr edemeyiz."`
 `"Yani, tek bir gerçek olmasına rağmen,`
-` Braun tüpüne baktığımız ana kadar, birbiriyle çelişen iki gerçek aynı anda var olabilir.`
+` Braun tüpüne bakacağımız ana kadar, birbiriyle çelişen iki gerçek aynı anda var olabilir.`
 ` ......Sadece birinin var olabileceği iki gerçeğin aynı anda var olabildiği tuhaf bir açıklık."`
 `Kutunun içindeki kedi canlı mı yoksa ölü mü?`
 `{n}Kutuyu açarsanız, cevabı öğrenirsiniz.`
 ` Gerçeği öğrenirsiniz.`
-`Şayet, kutuyu açana kadar, kedinin yaşadığını da iddia edebilirsiniz öldüğünü de.`
+`Ancak, kutuyu açana kadar kedinin yaşadığını da öldüğünü de iddia edebilirsiniz.`
 `Her iki taraf da kendilerine göre "doğru" olan bir iddiada bulunabilir,`
-` ve birbirleriyle çelişseler bile, kutu açılmadığı sürece ikisi de tartışmayı kazanamaz.`
+` ve birbirleriyle çelişseler bile kutu açılmadığı sürece ikisi de tartışmayı kazanamaz.`
 `Yani, iki gerçek aynı anda var olabilir.`
 `Kutuya sadece bir kedi girmiş olsa da,`
-` kutunun içi, biri canlı biri ölü olmak üzere iki kedi olan garip, paralel bir dünyadır.`
+` kutunun içi, biri canlı ve biri ölü olmak üzere iki kedi olan garip, paralel bir dünyadır.`
 `İşte Rokkenjima, şu an tam olarak böyle bir yer.`
 `......Bu ada artık bilim teorisi ile büyü teorisinin aynı anda var olabildiği farklı bir dünya.`
-`...Bilim dünyasının bir sakini olarak sen,`
-` bir bakışta, bu adanın büyülü bir dünyanın içine çekildiğini düşünmüş olabilirsin.`
+`...Bilim dünyasının bir sakini olarak siz,`
+` bir bakışta, bu adanın büyülü bir dünyanın içine çekildiğini düşünmüş olabilirsiniz.`
 `Bu doğru olabilir, fakat kesin değildir.`
 `Kesin konuşmak gerekirse, bilim dünyasından çıkıp, bilim dünyası ile büyü dünyasının tam ortasındaki noktaya geçiş yaptık.`
-`Bu yüzden, sana göre dünya, bir bakışta büyü tarafına doğru eğilmiş gibi görünebilir.`
+`Bu yüzden, size göre dünya, bir bakışta büyü tarafına doğru eğilmiş gibi görünebilir.`
 `......Ama aslında bu ada, birbiriyle çelişen iki dünyaya kıyasla şu anda tamamen tarafsız bir konumda.`
 `"......Pek anlamıyorum...`
 ` Gerçeklik ve büyünün ortası mı?`
 ` Tamamen tarafsız bir dünya mı?`
-` Neresi be orası?`
+` Neresi orası?`
 ` Bunca zamandır her şey benim aleyhime değil miydi?!"`
-`"O halde şöyle düşünmende fayda var.`
+`"O hâlde şöyle düşünmende fayda var.`
 ` Bu bir duruşma.`
 ` Senin ve {f:5:Beatrice}'in karşıt iddiaları ortaya koyduğunuz bir mahkeme gibi düşün.`
 ` Braun tüpü davası olarak da tanımlayabiliriz."`
@@ -483,26 +483,26 @@
 ` Ve o içerideki cücelerin nasıl yaşadıklarını, neye benzediklerini,`
 ` ne tür bir büyü gücüne sahip olduklarını tek tek açıklıyor.`
 ` ......Ya sen?"`
-`"......Eh, bir kütüphanede ders çalışıp Braun tüplerinin nasıl yapıldığını anlatarak karşılık verirdim herhalde."`
+`"......Eh, herhâlde bir kütüphanede ders çalışıp Braun tüplerinin nasıl yapıldığını anlatarak karşılık verirdim."`
 `"Bu esnada mahkemede, hem senin iddian hem de o çocuğun iddiası aynı anda var oluyor.`
 ` ......Olur da o çocuğun iddiasına kulak verirsen,`
 ` gerçekmiş gibi duyulabilir. Gerçekmiş gibi görünebilir.`
 ` {i:Sana gösterilen de tam olarak buydu}."`
 `"............................"`
 `"Şu anki Rokkenjima'da, cadılar da büyüler de gerçekten var olabilir.`
-` ...Ancak burası, kedi kutusunun açıldığı ana kadarki belirsiz dalgalarda sürüklenen dünya.`
+` ...Ancak burası, kedi kutusunun açıldığı ana kadarki belirsiz dalgalarda sürüklenen bir dünya.`
 ` Tüm durumlar aynı anda açıklanabilir.`
 ` Fakat gerçek, tektir."`
-`"Bu da gözlemle çökertilir,`
-` ve sayısız gerçek ayıklanarak tek bir gerçek haline gelir.`
+`"Bu da gözlemle çökertilir.`
+` Sayısız gerçek ayıklanarak tek bir gerçek hâlini alır.`
 ` Mahkemeden örneklendirirsek,`
-` bu, yargıç tarafından onanmaya benzer.`
+` bu, yargıcın kararını vermesine benzer.`
 ` Savcının ve savunma avukatının iddia ettiği iki gerçek...`
-`kararla birlikte çöker ve biri kalır."`
+`kararla birlikte çöker ve bir olur."`
 `".........Senin deyişinle, kısacası,`
 ` ......şu anda bu ada, Braun tüpüne bakmadan hemen önceki dünya mı oluyor...?`
 ` Dolayısıyla, bilim teorisi de büyü teorisi de inkâr edilemez.`
-` ...İnkâr edilemiyorlarsa, o halde—"`
+` ...İnkâr edilemiyorlarsa, o hâlde—"`
 `"İkisi de gerçek olarak var olabilir.`
 ` Bu yüzden cadılar ve büyüler de var olabilir.`
 ` ...Ancak, aynı zamanda, bunu reddeden görüşün de gerçek olarak eş zamanlı var olabilir."`
@@ -527,17 +527,17 @@
 ` onun "büyü teorisi" ile çarpışacak, bu yüzden ben de o da birbirimizi alt edemeyeceğiz.`
 ` Dahası, nihai karar, Braun tüpünün içine bakmadıkça gerçekleşmeyecek."`
 `".........Bu dünyanın Braun tüpü nerede?`
-` ...Tartışmamıza da gerek yok ki o zaman.`
+` ...O zaman tartışmamıza da gerek olmadığı anlamına gelir.`
 ` ......Birbirimizle atışmadan Braun tüpünün içine baksak her şey çözülmez mi?"`
 `"İçinde gerçekten de cüceler varsa, yenilgiye uğramış olurum.`
 ` Yoksa da aksine ben kazanırım.`
 ` ......Neden bu tartışmayı Braun tüpüne bakmadan yapmak zorundayız?"`
-`"Bu, o çocuğun sana meydan okuduğu "oyunun" ta kendisidir.`
-` Mahkeme yerine satrançtan örnek vermeliyim.`
+`"Bu, o çocuğun sana meydan okuduğu "oyunun" ta kendisi.`
+` Mahkeme yerine satrançtan örneklendirmeliyim.`
 ` Zafer ve mağlubiyet, bir yargıç tarafından belirlenmez.`
 ` Bunu savaşan sizler bizzat belirleyeceksiniz."`
-`"......Gerçeklerin aynı anda var olabildiği saçma bir dünyada, rakibinle yaptığın bir tartışmayı kazanabilir misin ki?"`
-`"Sahi, sen öyle bir tartışmada {i:yenildiğin} için şu anda boyun eğmiyor musun?"`
+`"......Gerçeklerin aynı anda var olabildiği saçma bir dünyada, rakibinle yaptığın bir tartışmayı kazanabilir misin?"`
+`"Ama, sen öyle bir tartışmada {i:yenildiğin} için şu anda boyun eğmiyor musun?"`
 `"...............Heh.`
 ` ...Heheheh."`
 `"Şimdilik sana verebileceğim tavsiyeler bu kadar.`
@@ -547,9 +547,9 @@
 ` ......Senin intikamını da alacağım."`
 `"Hoh-hoh-ho, teşekkür ederim.`
 ` Dört gözle bekliyorum."`
-`"Adın ne senin?"`
+`"Senin adın ne?"`
 `"...{f:5:Beatrice} eskiden benim adımdı, ama onu teslim ettiğim için artık bir adım yok."`
-` .........O halde geçici bir isim alayım.`
+` .........O hâlde geçici bir isim almalıyım.`
 ` ......{f:5:Virgilius}.`
 ` ...Hayır,`
 ` {f:5:Virgilia}'ya ne dersin?"`
@@ -558,50 +558,50 @@
 ` Bu efsanevi bir tanrıçanın adı değil miydi?"`
 `"Hayır.`
 ` {f:5:Beatrice}'e rehberlik eden kişi anlamına gelir.`
-` ......Araf Dağı'nın zirvesinde bekleyen o çocuğa ulaşana kadar sana rehberlik edeceğim.`
+` ......Araf'ın zirvesinde bekleyen o çocuğa ulaşana kadar sana rehberlik edeceğim.`
 ` Bir rehbere uygun bir isim olsa gerek."`
 `"Cadıları inkâr eden biri olarak, bir cadıdan yardım alıyorum.`
 ` ......Demek öyle.`
 ` Farklı iddiaların aynı anda var olabildiği çelişkili bir dünyadaysak, bu bile mümkün.`
-` ...Ihihi, bu çok komik."`
-`"O çocuğun sözlerini ödünç alacağım, ama sen gerçekten de anka kuşu gibi birisin.`
+` ...İhihi, bu çok komik."`
+`"O çocuğun sözlerini söyleyeceğim, ama sen gerçekten de anka kuşu gibi birisin.`
 ` ......Savaşma hırsın çoktan yerine geldi."`
-`"...Hadi, kendini toparlayabildiysen, o çocuğun yanına,`
-` ......o çocuğun oturduğu satranç tahtasının karşısına dönün.`
+`"...Hadi, kendini toparlayabildiysen, o çocuğun yanına dön.`
+` ......O çocuğun oturduğu satranç tahtasının karşısına dön.`
 ` ......Öğrencimle ne kadar dövüşebileceğini görmek için sabırsızlanıyorum."`
 `"Evet, izle ve gör.`
 ` ............Artık onun saçmalıklarına aldırış etmeyeceğim.`
 ` Sonuna kadar soğukkanlılıkla dövüşeceğim.`
-` Bir daha asla onun kışkırtmacalarına gelmeyeceğim."`
-`"O halde dönelim.`
+` Bir daha asla onun kışkırtmalarına gelmeyeceğim."`
+`"O hâlde dönelim.`
 ` Savaş koltuğuna."`
 `"...Oh, ......oooh, Battler...!`
-` Nerelerdeydin bakayım?`
-` *kıkır*!`
-` Kaybeden ezikler kendini bir daha göstermez sanmıştım da?"`
+` Nerelerde saklandın?`
+` *kıKIr*!`
+` Kaybeden eziklerin kendini bir daha göstermediğini düşünmüştüm."`
 `"......Biraz beklettim.`
-` Sakinleşip geldim de."`
-`"Eeee?`
-` Ustamla aramdaki o hoş, heyecan verici, canlandırıcı, övgüye layık, muazzam fantezi savaşına verecek bir yanıtın var mıııııı?`
-` Öylesini fantezi olmadan açıklamak imkansız değil mi?`
+` Sakinleşip geldim."`
+`"Veee?`
+` Ustamla aramdaki o hoş, heyecan verici, neşeli, övgüye layık, muazzam fantezi savaşına verecek bir yanıtın var mıııııı?`
+` Öylesini fantezi olmadan açıklamak imkânsız değil mi?`
 ` Hihhyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaah?!"`
 `"...Leydim.`
-` Daha az önce nazik ve kibar davranacağınıza söz vermiştiniz ama?"`
-`"Ahhyahahahahahaha, oops, kendimi tutamadım.`
-` Battler'ın suratını gördüğümde ister istemez keyifleniyorum, anlarsın ya?`
-`Hadi hadi hadi, peki o halde Battler, az önceki savaşa nasıl karşılık vereceğini göstersene?`
+` Daha az önce nazik ve kibar davranacağınıza söz verdiğinizi sanıyordum?"`
+`"Ahhyahahahahahaha, uups, kendimi tutamadım.`
+` Battler'ın suratını gördüğümde ister istemez keyifleniyorum.`
+` Hadi hadi hadi, peki o hâlde Battler, az önceki savaşa nasıl karşılık vereceğini göstersene?`
 ` Hmmmmmm?"`
 `".................................`
 ` ...Savaş mı?`
 ` Bir şey mi oldu?"`
 `"......Ne?"`
-`"Bu gül bahçesinin neresinde.`
-` Birbiri ardına çıkardığın o kuleler, o mızraklar?`
+`"Bu gül bahçesinin neresinde?`
+` Birbiri ardına çıkardığın o kuleler, o mızraklar mı?`
 ` Nereye gittiler?`
-` ............Yoklar ki.`
+` ............Yoklar, değil mi?`
 ` ......Başka bir deyişle burası, Braun tüpünün içi."`
 `"......Braun tüpünün içi mi?`
-` *kıkır*, ne anlatıyorsun sen?"`
+` *kıKIr*, ne anlatıyorsun sen...?"`
 `"Tam şu anda,`
 ` gül bahçesinde hiçbir şey yok.`
 ` ...Biraz öncesine kadar büyüyle kuleler çıkartmış olabilirsin.`
@@ -609,19 +609,19 @@
 ` ......Senin deyiminle o büyülü savaş, bir iddianın ötesine geçmiyor.`
 ` Şu anda burada hiçbir şey olmaması da bunun kanıtı."`
 `"Az önceki cadı savaşına şöyle yanıt vereceğim:`
-` Şu an burada hiçbir şey olmaması, hiçbir şey yaşanmadığının kanıtıdır...!"`
+` Şu an burada hiçbir şey olmaması, hiçbir şey yaşanmadığının kanıtı...!"`
 `"..................`
 ` ......Hahaha, hah-hah-hah-hah-ha!`
-` Seni gidi, daha ilk alacakaranlıkta öylesine büyük bir karmaşa yaratamam, ayrıca ben de o gül bahçesini seviyorum, anlıyor musun?`
+` Biliyorsun, daha ilk alacakaranlıkta öylesine büyük bir karmaşayla ortalığı dağıtamam. Ayrıca ben de o gül bahçesini seviyorum.`
 ` Zararı önlemek için bir bariyerin içinde savaştım.`
 ` Bu yüzden gerçeklik üzerinde herhangi bir etkisi olmaması çok doğal."`
 `"......Bu senin "iddian", değil mi?`
 ` Eh, öyle olabilir."`
 `"Ancak!`
-` Şu an bu gül bahçesinde hiçbir şey yok,`
-` bu nedenle büyü yoktur şeklindeki iddiam hiçbir şekilde zedelenmedi!!"`
+` Şu an bu gül bahçesinde hiçbir şey yok.`
+` Bu nedenle büyü yoktur şeklindeki iddiam hiçbir şekilde zedelenmez!!"`
 `"D-Dur biraz, bu saçmalıkla büyümü inkâr edebilir misin?!`
-` Büyünün "olmadığını" kanıtlamak imkansızdır!`
+` Büyünün "olmadığını" kanıtlamak imkânsızdır!`
 ` Bu "Şeytan'ın İspatı"!!"`
 `"Gerçek, tam şu anda bu bahçede!`
 ` İçine baktığın an, Braun tüpünün içindeki cüceler yok olur.`
@@ -635,13 +635,13 @@
 `"...Unuttunuz mu, Leydim?`
 ` Çok Düzlemli Dünya Çökertme Tekniği.`
 ` Sonsuz Cadı'nın gücüne eş olan, Sonlu Cadı'nın gücü.`
-` Sonsuz Cadı'dan başkası bunu idrak edemez, ayrıca bu, en güçlü etkiyi bir Sonsuz Cadı'ya karşı kullanıldığında gösterir."`
+` Sonsuz Cadı'dan başkası bunu idrak edemez. Ayrıca bu, en güçlü etkiyi bir Sonsuz Cadı'ya karşı kullanıldığında gösterir."`
 `"Sch-‘Schrödinger'in kedi kutusu’ mu?!`
-` .........Ş-......Şu yaşlı cadı... aklına girmiş!!"`
+` .........Ş-......Şu yaşlı cadı...aklına girmiş!!"`
 `"Çok zaman kaybettik.`
-` Beş hizmetkâr ve Büyükbabayla birlikte altı ceset var!`
+` Beş hizmetkâr ve Büyükbabamla birlikte altı ceset var!`
 ` Olay yerini kontrol edelim.`
-` Aylaklık edip zamanı boşa harcadım.`
+` Aylaklık edip zamanımı boşa harcadım.`
 ` Şu andan itibaren hızlanacağım, tamam mı?"`
 `"Otur yerine, {f:5:Beatrice}!!`
 ` Nihayet ilk alacakaranlıktayız, değil mi? Asıl mesele başlıyor.`
