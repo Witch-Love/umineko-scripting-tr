@@ -5,7 +5,7 @@
 `Kinzo, arada bir şimşeklerle aydınlanan loş çalışma odasında,`
 ` kendi kendine mırıldanarak gülmeye devam etti.`
 `Masasının üzerinde duran karmaşık tasarımlı antika saatin üzerinde,`
-` üst üste binen iki akrep, sağa doğru eğilmeye ve birbirinden ayrılmaya başlamıştı.`
+` üst üste binen akrep ve yelkovan, sağa doğru eğilmeye ve birbirinden ayrılmaya başlamıştı.`
 `24'e kadar sayan zaman 0'a dönmüş ve yeniden saymaya başlamıştı...`
 `"......Zamanın akışı acımasız bir şeydir.`
 ` 24'e ulaşmak uğruna gün boyu ilerler, sonra da 0'a geri döner.`
@@ -196,7 +196,7 @@
 `{f:5:Beatrice}, Kanon'un nefret dolu yüzüyle açıkça alay etti...`
 `Ve Kanon, geç de olsa fark etti.`
 `{f:5:Beatrice} ve Kinzo, karşılıklı kanepelerde oturmuş satranç oyununun keyfini çıkarıyorlardı.`
-`Fakat Kinzo'nun kılını dahi kıpırdatmamıştı.`
+`Fakat Kinzo kılını dahi kıpırdatmamıştı.`
 ` İki eliyle başını tutup gözlerini sımsıkı kapatmış, ...sıradaki hamlesini düşünüyordu.`
 `......Hayır, acı mı çekiyordu...?`
 `".........Efendim........."`
@@ -240,7 +240,7 @@
 `hah`
 `hah!!"`
 `Kinzo aniden sıçrayarak ayağa kalktı ve bir opera sanatçısının kalabalığa dönüp baktığı gibi kollarını açtı,`
-` ...ve sanki yüzyıllık bir planı başarıya ulaşmışcasına güldü.`
+` ...ve sanki yüzyıllık bir planı başarıya ulaşmışçasına güldü.`
 `Bu kahkaha...`
 `...kıpkırmızı püskürdü.`
 `İçinden kıpkırmızı alevler fışkırdı.`
@@ -334,7 +334,7 @@
 ` Ne sıkıcı bir kadın."`
 `"............`
 ` .........{f:5:Beatrice}-sama, bu duygu sizin gibiler tarafından anlaşılamaz.`
-` ......Eğer hayatlarımızı arzuluyorsanız, buyrun alın.`
+` ......Eğer hayatlarımızı arzuluyorsanız, buyurun alın.`
 ` Bu görevi hürmetle yerine getireceğiz."`
 `"......Yeterli.`
 ` İyi dedin..."`
@@ -930,13 +930,13 @@
 `Shannon ve Kanon'a verdiği uyku kadar şefkat doluydu...`
 `"......Ne yapıyorsun, Ronove?`
 ` ......Ani ve sıkıcı bir son oldu."`
-`"Leydim, siz fevkalade bir Yüce Cadı değil misiniz?`
+`"Leydim, siz fevkalade bir Büyük Cadı değil misiniz?`
 ` Böyle şeylere aldırış etmiyor olmalısınız.`
 ` ......Shannon gibi birinin kışkırtmasıyla beyninize kan sıçraması, hiç sizlik bir şey değil."`
 `"...........................`
 ` ...hıh."`
 `{f:5:Beatrice}'in hoşuna gitmeyen ne vardı?`
-`{n}...Shannon'un sözleri çok mu ağrına gitmişti?`
+`{n}...Shannon'un sözleri çok mu ağırına gitmişti?`
 `Ronove, insan ve kadın kalbinin karmaşıklığından yakınır gibi hafifçe güldü ve Yedi Kız Kardeş'e gitmelerini emretti.`
 `......Ne de olsa ilk alacakaranlık için iki kurban daha gerekliydi.`
 `Yedi Kız Kardeş, hoplaya zıplaya gözden kayboldular...`
