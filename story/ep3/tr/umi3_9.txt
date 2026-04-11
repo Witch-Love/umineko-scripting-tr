@@ -123,7 +123,7 @@
 ` Bize bir kez daha o anlaşılmaz bilmeceyi çözmemiz söylenmiş, çözmezsek de hepimizin öldürüleceği tehdidinde bulunulmuştu.`
 `......Buna "oyun" denmez de ne denirdi...`
 `Suçluyu bulmak için binayı aramamız gerektiği yönündeki cesur görüş, bir kez gündeme gelmişti.`
-`Fakat silahlı olma ihtimali yüksekti ve üstelik sayılarının bir kişi ile sınırlı olmaması da çok yüksek ihtimaldi.`
+`Fakat silahlı olma ihtimali, hatta sayılarının bir kişi ile sınırlı olmaması ihtimali dahi çok yüksekti.`
 `Ayrıca, ...altıdan fazla kişiyi öldürebilecek olmalarına rağmen, {i:altıda durmuşlardı}.`
 `Sonuç olarak, suçluyu dikkatsizce kışkırtmaktan kaçınmamız,`
 ` ve polis gelene kadar güvenli bir alanda barikat kurmamız gerektiği kanaatine vardık...`
@@ -274,7 +274,7 @@
 ` Seni pislik, ne planlıyorsun...?"`
 `"*kıKIr*kıKIr*.`
 ` Öyle dik dik bakmanı gerektirecek bir şey değil, değil mi?`
-` Kilitli oda da olsa, daha onu açabilecek birkaç master anahtar yok mu?`
+` Kilitli oda da olsa, onu açabilecek birkaç master anahtar daha yok mu?`
 ` Samimiyetimden ötürü master anahtarların yanı sıra her odanın özel anahtarını da sana takdim ettim."`
 `"......Bu gidişattan hoşlanmadım.`
 ` ......Ancak gidişatın varacağı yeri görebiliyorum.`
@@ -371,7 +371,7 @@
 ` Farkında olmadığımız insanların varlığını reddet!"`
 `"Cevap vereceğim."`
 `"`
-`{p:1:Altı odada da saklanan kimse bulunmuyor}!"`
+`{p:1:Altı odada da saklanan kimse yok}!"`
 `"Pekâlâ.`
 ` Böylece altı kişiden başkasının içeride olmadığı doğrulandı.`
 ` Ölü numarası da yapmıyorlar."`
@@ -403,7 +403,7 @@
 `"...Şu ana kadarki her şey, alıştıklarımızı teyit ediyordu.`
 ` Kilitli odalar konusundaki hesaplaşmamız şimdi başlıyor, tamam mı...?`
 ` Suçlu içeride değilse, dışarıda.`
-` Ve onları dışarıdan bir şekilde öldürdü."`
+` Ve onları bir şekilde dışarıdan öldürdü."`
 `"*kıKIr*kıKIr*!`
 ` Sen aklını mı kaçırdın?`
 ` "Kilitli oda = dışarıdan cinayet işlemek imkânsızdır", değil mi?!`
@@ -486,7 +486,7 @@
 `"......Pekala, işler ilginçleşmeye başlamıyor mu?`
 ` Altı kişi kilitli odalarda öldü ve içeride başka kimse yoktu.`
 ` Dışarıdan herhangi bir müdahale de tuzak da yoktu.`
-` Eski ben olsaydım, bunu büyünün işi olduğunu düşünürdüm."`
+` Eski ben olsaydım, bunun büyünün işi olduğunu düşünürdüm."`
 `"......Ve böyle bir zamanda garip büyülerinden birini bana gösterseydin, muhtemelen sana boyun eğerdim.`
 ` .........Bu senin en iyi taktiğin."`
 `"...Hamlelerimi tamamen engelleyip, çaresiz hâlde dizlerime kapandığım o anda,`
@@ -507,7 +507,7 @@
 ` Neyi nasıl ters çevireceksin?!`
 ` Göster bakalııııımmmmm!!"`
 `"Evet, göstereceğim!!`
-` Olay kilitli odalardaki altı kişinin dışarıdan nasıl öldürüldüğünü düşünmekte değil!"`
+` Olay, kilitli odalardaki altı kişinin dışarıdan nasıl öldürüldüğünü düşünmekte değil!"`
 `"Aah, bu hiç iyi değil, hiç iyi değil, hiç ama hiç iyi değil!`
 ` Aynen öyle, dışarıdan nasıl öldürdüğün değil.`
 ` Mesele nasıl içeride ölüp kilitli oda oluşturduklarında!"`
