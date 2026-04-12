@@ -6,7 +6,7 @@
 ` Bütün çocuklara üst kattaki kuzenlerin odasına gitmelerini söylediler.`
 `Nişanlısını kaybettiği için acılı olan George'un buna karşı koyacak gücü yoktu, bu sebeple kuzenlerini 2. kata çıkarttı.`
 `Nanjo ilk başta lobide kitap okuyordu.`
-` ama akrabaların kendi aralarında konuşmak istedikleri gibi göründüklerini fark ettiğinde,`
+` Ama akrabaların kendi aralarında konuşmak istedikleri gibi göründüklerini fark ettiğinde,`
 ` "Size rahatsızlık vermesem iyi olur..." diyerek üst kattaki odasına döndü.`
 `".........Açlıktan ölüyorum.`
 ` Öylece oturmaya devam edersek uykumuz da gelecek."`
@@ -125,7 +125,7 @@
 ` Babamın gençlik yılları sırasında o bölgede tatlı balıklar olup olmadığını araştırmak son derece zor olurdu."`
 `"Tek bir nehir de olmayabilir.`
 ` Hepimizin coğrâfi anlamda bu konuyu iyice araştırdığını düşünüyorum.`
-` ......Eva, hatta durumu yerinde araştırmak için direkt olarak oraya bile gitmemiş miydin?"`
+` ......Eva, hatta durumu yerinde araştırmak için direkt olarak oraya gitmemiş miydin?"`
 `"Sadece tatil amaçlı gitmiştim.`
 ` ......Ama oranın görünüşü Babamın zamanından beri tamamen değişmişti.`
 ` Ne de olsa bir savaş yaşanmıştı.`
@@ -267,7 +267,7 @@
 `"Evet.`
 ` Rosa-san soyağacından ve "köy" karakterinin Maria-chan'ın adının bir parçası olduğundan bahsettiğinden beri,`
 ` sürekli aklımı kurcalıyordu."`
-`"......Örneğin Rudolf-san, "sevgili memleket" sözcükleriyle belli ki,`
+`"......Örneğin Rudolf-san, "sevgili memleket" sözcükleriyle,`
 ` bunun {loghint:chikei:coğrafya} veya {loghint:zahyou:koordinatlarla} ile ilgisi olduğunu varsayıyor, ancak bu doğru olmayabilir.`
 ` Bu bir tür bilmece, ...veya kelime oyunu olabilir."`
 `"......Kusura bakmayın.`
@@ -292,7 +292,7 @@
 `"Ah......hah, anladım.`
 ` .........??"`
 `Natsuhi, nihayet Rudolf'un söylediği haysiyetsiz bilmecenin cevabını anladı ve utanç içinde başını öne eğerken yüzü kızardı.`
-`"..........Bu "silme" dediğimiz işlemi acaba, "{loghint:korosu:öldürmenin}" yerine mi getirmeliyiz...?"`
+`"..........Bu "silme" dediğimiz işlemi acaba "{loghint:korosu:öldürmenin}" yerine mi getirmeliyiz...?"`
 `"Evet.`
 ` Ben de tam bunu düşünüyordum.`
 ` Altın Diyar'ın anahtarının {loghint:roku‐moji:altı karakterli} bir kelime olması mümkün."`
@@ -317,7 +317,7 @@
 ` ...Acaba tüm bunların bir kelime oyunu olduğu konusunda da mı yanılıyoruz...?"`
 `".....................hmmmmm..."`
 `Herkes kollarını kavuşturdu ve sessizliğe gömüldü.`
-`Şimdiye kadar ulaşamadıkları yeni bir fikre nihayet ulaşmak üzereydiler...ancak tam bir adım kala tökezlemişlerdi.`
+`Şimdiye kadar ulaşamadıkları yeni bir fikre nihayet ulaşmak üzereyken...tam bir adım kala tökezlemişlerdi.`
 `Bu esnada, Hideyoshi'nin midesi yüksek sesle guruldamaya başladı.`
 `O ana kadarki sessizlik kahkahalarla bozuldu.`
 `"Amanın, çok özür dilerim.`
@@ -626,7 +626,7 @@
 `Bu arşiv, o normal kitapların depolandığı yerdi.`
 `Hepsi de entelektüellere yönelik ansiklopediler gibi kalın mı kalın kitaplar olsalar da,`
 ` şimdi bir şeyi araştırmak istediğim için bu durum, benim için çok uygundu.`
-`Usulca içeri girdim, ......ve her ihtimale karşı silahımı kaldırarak odayı kontrol ederek içeride şüpheli birinin olmadığından emin oldum.`
+`Usulca içeri girdim, ......ve her ihtimale karşı silahımı kaldırıp odayı kontrol ederek içeride şüpheli birinin olmadığından emin oldum.`
 `Sonra da içeriden kilitledim.`
 `Aslında katilin bir yerlerde saklanıyor olabileceğini düşünmüyordum.`
 `...Beni korkutan şey, kardeşlerimden birinin araştırdıklarımı duyabileceği korkusuydu.`
