@@ -98,8 +98,8 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 7](story/ep3/tr/umi3_7.txt) ✅<sup>1</sup>
       * [Chapter 8](story/ep3/tr/umi3_8.txt) ✅<sup>1</sup>
       * [Chapter 9](story/ep3/tr/umi3_9.txt) ✅<sup>1</sup>
-      * [Chapter 10](story/ep3/tr/umi3_10.txt) `<- Burdayız`
-      * [Chapter 11](story/ep3/tr/umi3_11.txt) ❌
+      * [Chapter 10](story/ep3/tr/umi3_10.txt) ✅<sup>1</sup>
+      * [Chapter 11](story/ep3/tr/umi3_11.txt) `<- Burdayız`
       * [Chapter 12](story/ep3/tr/umi3_12.txt) ❌
       * [Chapter 13](story/ep3/tr/umi3_13.txt) ❌
       * [Chapter 14](story/ep3/tr/umi3_14.txt) ❌
