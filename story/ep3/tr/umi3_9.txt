@@ -150,7 +150,7 @@
 ` Senin eninde sonunda sığınmaya yelteneceğin kaçış yolunu en başta kapatmaya karar vermiş olmalı."`
 `"Beato çoktan bu adada 18'den fazla insan olmadığını kırmızıyla ilan etmişti.`
 ` ...Yani kısaca,`
-` .........{i:“pes et” diyor}.`
+` .........{i:‘pes et’ diyor}.`
 ` ......Artık 18'imiz arasındaki birinden şüphelenmek zorundayım."`
 `"......O çocuk, 18 taşı da eleyerek var olmaması gereken 19. kişi olarak belirecek,`
 ` ve sana kendisinin cadı olduğunu kabul ettirmeye çalışacak bir hamleyle gelecektir."`
@@ -202,7 +202,7 @@
 `"......Şu andan itibaren bu terim:`
 ` "{f:5:Beatrice}'in kilitli oda tanımı" olarak adlandırılacak!"`
 `"Ayrıntı doğrulaması.`
-` ......“Dışarıdan gelen müdahalelerin tamamı” ne demek?"`
+` ......‘Dışarıdan gelen müdahalelerin tamamı’ ne demek?"`
 `"Dışarıdan, misina gibi, uzun ve ince bir sopa gibi şeyler kullanılarak direkt olarak müdahalede bulunan her şeyi kapsar.`
 ` Kısacası, kapı ve pencerelerde bu tür numaraların kullanılabileceği ufacık bir aralık bile olmadığına emin olabilirsin."`
 `"Öyle mi dersin?`
