@@ -310,7 +310,7 @@ stralias verification_unsupported,"Desteklenmeyen game.hash dosyası bulundu!{n}
 stralias verification_outdated,"Eski sürüm game.hash dosyası bulundu!{n}"
 stralias verification_end,"Devam etmek için sağ-tık!"
 
-stralias verification_uptodate,"Sürüm: " + $CHIRU_MODE + "{n}Türkçe yama yeni sürüm kontrolü{n}yapmak için tıklayın."
+stralias verification_uptodate,"{c:86EF9C:{f:5:Witch Love}{n}Sürüm: " + $CHIRU_MODE + "}{n}{p:5:Yeni sürüm kontrolü yapmak için tıklayın}"
 stralias verification_ancient,"Türkçe oyun versiyonu 3 aydan daha eski.{n}Güncel olmayan bir versiyon kullanıyor olabilirsiniz!{n}Oyunun güncel dosyalarını sitemizden indirebilirsiniz.{n}witch-love.com"
 stralias wl_rep_gameversion,$CHIRU_MODE
 stralias wl_rep_lasttext,""
