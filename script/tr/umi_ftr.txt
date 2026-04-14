@@ -33470,7 +33470,7 @@ goto *switch_game_q
 	timestamp %Free1
 
 	border_pad_push 10
-	lsph t_warning_lsp,":s;#FFFFFF#E4EF86`{o:10:"+verification_uptodate+"}",70,800
+	lsph t_warning_lsp,":s;#FFFFFF#E4EF86`{o:10:"+verification_uptodate+"}",70,810
 	;if releasedate + 7776000 < %Free1 jumpf
 	;	lsph t_warning_lsp,":s;#FFFFFF#E4EF86`{o:10:"+verification_uptodate+"}",70,800
 	;~
