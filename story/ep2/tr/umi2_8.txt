@@ -206,7 +206,7 @@
 ` Nasıl olur da kanıtlayamadığın hâlde cadıların var olmadığını iddia edebiliyorsun...?"`
 `"Çünkü böyle şeyler gerçek değil."`
 `"Kihihihihihihihihihihihihihihihi!`
-` Ve bu {ruby:Q.E.D.:quod erat demonstrandum} mi?`
+` Ve bu {ruby:quod erat demonstrandum:Q.E.D.} mi?`
 ` Herhangi bir kanıt ya da dayanak olmadan sonuca varılan kanıt?`
 ` Cehaletin, sorunları nasıl gizlediğinin klasik bir örneği.`
 ` Düşüncelerin fütursuzca rafa kaldırılması.`
