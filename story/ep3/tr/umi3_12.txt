@@ -1,6 +1,6 @@
 `Rosa lobiye dönmüştü.`
 `Hâlâ onun dinlenme sırası olsa da,`
-` ancak yüzündeki ifadeden, bu gerginlikle derin bir uyku çekemeyeceği belliydi.`
+` yüzündeki ifadeden, bu gerginlikle derin bir uyku çekemeyeceği belliydi.`
 `"......Zorla bile olsa dinlenmelisin.`
 ` Yoksa daha sonra ayakta duramazsın."`
 `"Teşekkürler.`
@@ -323,7 +323,7 @@
 `Bunun biraz pervasızca olduğunu düşünmüştü.`
 `{n}............Ama sonuçta, ortada gerçek bir cinayet falan yoktu.`
 `Sabahtan beri kopan yaygaranın tamamı, Kinzo tarafından kurgulanmış bir saçmalıktı.`
-`O kilitli odalar zincirini dikkatlice düşünürseniz, tüm bunların kurbanların kendi kendine oynadığı bir oyundan ibaret olduğunu her şeyden daha net bir şekilde ortaya koyuyordu...`
+`O kilitli odalar zinciri dikkatlice düşünüldüğünde, tüm bunların kurbanların kendi kendine oynadığı bir oyundan ibaret olduğu apaçık ortadaydı...`
 `"......Gerçekten de gülü görünce uslu duracak mısın?"`
 `"Evet.`
 ` Gerçekten, Anne.`
@@ -501,7 +501,7 @@
 ` Artık {f:5:Beatrice}-sama olarak, düşündüğünüz her şeyi gerçeğe dönüştürme gücüne sahipsiniz.`
 ` Biraz kullandıktan sonra, buna alışırsınız."`
 `"......Değersiz eski kardeşim.`
-` Bir cadı olarak ilk kurbanım olarak seçilmiş olmayı bir onur olarak görmelisin.`
+` Bir cadı olarak, ilk kurbanım olarak seçilmiş olmayı bir onur olarak görmelisin.`
 ` İkinci alacakaranlıkta, yakın olan ikisini...kendi ellerimle ayıracağım...!!"`
 `Yeni {f:5:Beatrice}'in dilediği ilk şey,`
 ` ......hayır, kullandığı ilk büyü, insanlara verilen sınırlamaları aşmaktı.`
@@ -629,7 +629,7 @@
 `Rosa, bir kez daha yağmurlu gökyüzüne fırlatılmıştı.`
 ` Ancak gökyüzü yağmur damlalarıyla değil, portakal suyu damlalarıyla doluydu.`
 `Aşağı bakan Rosa, gözlerine inanamamıştı.`
-` Gül bahçesi ortadan kaybolmuş, altında uzanann zemin pastel renkli bir yapboz gibiydi.`
+` Gül bahçesi ortadan kaybolmuş, altında uzanan zemin pastel renkli bir yapboz gibiydi.`
 `......Bu, küçükken anlattığı bir rüyaydı. Jöleden bir okyanus gördüğü rüya.`
 `Siyah kısım kahveli jöleydi.`
 ` Kırmızı olan çilekli,`
@@ -807,7 +807,7 @@
 `"Duydun mu?!!`
 ` Bir daha karşıma çıkma!!`
 ` Sadece—SİKTİR—GİİİİİİİİİİİİİİİİİİTTTTT!!!"`
-`Battler kükrediği anda, cadıya karşı koyan gücü kırmızı bir duvara dönüşerek Beato'yu geri iterek ve onu poposunun üzerine düşürdü.`
+`Battler kükrediği anda, cadıya karşı koyan gücü kırmızı bir duvara dönüşüp, Beato'yu geri iterek onu poposunun üzerine düşürdü.`
 `"......Ovovovov...`
 ` ...Neyden bahsediyorsun, ilginç bir gösteri değil mi...?"`
 `Sanki bir mazeret uyduruyormuş gibi konuştu, ama bu sözlerin muhatabı olan Battler artık orada değildi.`
