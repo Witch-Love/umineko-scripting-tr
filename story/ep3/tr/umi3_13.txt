@@ -272,7 +272,7 @@
 ` ......Sana teşekkür etmek istediğim bir şey var.`
 ` ...O çocuğun oyunundan geri adım atmadığın için teşekkür ederim."`
 `Minnettarlık dolu sözler söyledi, ama Battler nedense hoşnutsuz bir ifade takındı.`
-`Sonra, adeta kendi kötü ruh hâlinden tiksinti duymuş gibi kıkırdadı.`
+`Sonra, âdeta kendi kötü ruh hâlinden tiksinti duymuş gibi kıkırdadı.`
 `"Artık cadılar ve iblisler bile bana teşekkür ettiğine göre, mahvoldum.`
 ` ......Oyuna devam edelim.`
 ` Elbette, sana yumuşak davranmak niyetinde değilim."`
@@ -287,7 +287,7 @@
 ` ...O zaman oradan başlayalım.`
 ` ...............Kahretsin, havaya giremiyorum bile."`
 `Rosa ve Maria'nın öldürülmesi, katilin hâlâ bir yerlerde saklanmakta olduğunu,`
-` ve bu cinayet zincirine yenilerinin ekleyeceğini açıkça gösteriyordu.`
+` ve bu cinayet zincirine yenilerinin ekleneceğini açıkça gösteriyordu.`
 `Rudolf, gözyaşları eşliğinde Rosa'nın cesedini dikkatsiz davrandığı için sürekli azarlıyordu.`
 ` Ancak Rosa, artık buna asla cevap veremeyecekti.`
 `İki cesedi misafir odalarından birine yerleştirmeye ve polis gelene kadar orayı mühürlemeye karar verdiler...`
@@ -301,7 +301,7 @@
 ` şeklindeki varsayımlarıyla kalplerini yatıştırmaya çalışıyorlardı.`
 `Tekrar bir cinayet işlenmesiyle bu düşünceleri yok olmuş,`
 ` ......ve bir kez daha sevdiklerinin kesinlikle öldürülmüş olduğu gerçeğiyle yüz yüze gelmişlerdi...`
-`Bir daha akıtmayacaklarını düşündükleri göz yaşlarına hakim olamayan ikiliye karşı Battler, hiçbir söz sarf edememişti...`
+`Bir daha akıtmayacaklarını düşündükleri göz yaşlarına hâkim olamayan ikiliye karşı Battler, hiçbir söz sarf edememişti...`
 `Olayın sonrasında, tüm yetişkinler çok daha tedbirli olmak amacıyla, bütün odaların güvenli ve her şeyin kilitli olup olmadığını kontrol ettiler.`
 `Bütün pencerelerin kepenklerinin kapalı ve kilitli olduğundan emin oldular ve herhangi bir yerde şüpheli birinin saklanıp saklanmadığını kontrol ettiler.`
 `Bunun yanı sıra silahlarını da bir kez daha kontrol edip,`
@@ -318,7 +318,7 @@
 `Bu, cinayetin tanıdıkları biri tarafından işlenmiş olduğu ihtimalini akıllara getiriyordu...`
 `"......İlk cinayet işlendiğinde,`
 ` içten içe bunun bir oyun olma ihtimalini düşünmüştüm.`
-`...Doktor Nanjo üzgünüm ama, senin de bu işin içinde olduğunu,`
+`...Doktor Nanjo'ya ayıp olacak ama, onun da bu işin içinde olup,`
 ` hizmetkârların öldüğüne bizi ikna ettiğini,`
 ` ve bunun Babam tarafından hazırlanmış büyük bir oyun olabileceğini düşünmüştüm."`
 `"......Sonuçta, o kilitli oda vakası, onlar ölü taklidi yapmadığı sürece gerçekleşmiş olamazdı."`
@@ -328,13 +328,13 @@
 ` ...hâlâ böyle olduğuna inanmak istiyorum."`
 `"...............Özür dilerim, ......ama öyle değil.`
 ` ...Ben oldukça yaşlıyım.`
-` Yanlış teşhis koyma ihtimalim olabilirim.`
+` Yanlış teşhis koyma ihtimalim olabilir.`
 ` ......Ancak, onların ölü olup olmadıkları konusunda asla hata yapmam..."`
 `"Anladık!`
 ` Bağıra bağıra söylemene gerek yok, Doktor Nanjo...!"`
 `"......Özür dilerim..."`
 `Bunu bilemezlerdi.`
-` Ancak Beato o altısının ölümünü,`
+` Ancak Beato, o altısının ölümünü,`
 ` ...hayır, bu seferki oyunda şu ana kadar olan tüm kurbanların ölümünü kırmızıyla doğrulamıştı.`
 `Her şeyin bir maskaralık olduğu ve bütün kurbanların aslında yaşıyor olduğu yönündeki zayıf umut,`
 ` ......ne yazık ki imkânsızdı...`
@@ -530,7 +530,7 @@
 `...Tabii ki kendini iyi hissetmeyen tek kişi Eva değildi.`
 ` Dün geceden beri gözlerini hiç kırpmamışlardı ve sabahtan beri gerginlikten bunalmış durumdaydılar.`
 `...Ailelerini korumak için ellerinden geleni yapıyorlardı.`
-` Fakat birazcık bile gevşeselerdi, hiç şüpkesiz her biri dibe vurmuş olurdu...`
+` Fakat birazcık bile gevşeselerdi, hiç şüphesiz her biri dibe vurmuş olurdu...`
 `"......Şimdiye kadar iyi ilerledin, ama bu noktadan sonrası zor olacak."`
 `"Zor mu dedin...?"`
 `"Mm.`
@@ -558,7 +558,7 @@
 `Gökten ateş yağdırabilir, denizi yarabilir ve kaybolan bir hayatı yeniden canlandırabilir.`
 `Ancak bu güç, onu reddeden toksin karşısında son derece zayıftır.`
 `Ve bu toksin, {y:0:İnsan}{n:0:insan}ların kutsal olan her şeye saygı duymayı unuttukları zamandan beri giderek artmış,`
-` ...en nihayetinde yeryüzü, büyünün mucizelerinin ortaya çıkamayacağı miktarda toksinle kaplı hâle gelmişti.`
+` ...ve en nihayetinde yeryüzü, büyünün mucizelerinin ortaya çıkamayacağı miktarda toksinle kaplı hâle gelmişti.`
 `Bu nedenle, dünyanın dört bir yanındaki cadılar yaşadıkları yerlerden kovulmuştu.`
 `...Büyülerini bir kenara bırakıp {y:0:İnsan}{n:0:insan} olarak yaşamaya, ya da {y:0:İnsan}{n:0:insan}ların toksinlerinin ulaşamadığı uzak bölgelerde saklanarak yaşamayı seçmek zorunda kalmışlardı.`
 `Bu bağlamda Rokkenjima, sadece on ila yirmi kişilik insan nüfusuyla cadılar için son derece elverişli bir bölgeydi.`
@@ -595,7 +595,7 @@
 `Ama Beato'nun aklına zalimce bir fikir gelseydi, o zaman kesinlikle vahşetin sınırlarını son oyunda olduğundan bile daha kötü bir şekilde zorlardı...`
 `"...........................`
 ` Rosa ve Maria'nın ölüm yöntemleri için de bana sağduyulu davranmamı söylemiştin.`
-` Ama bu biz cadılar için pek de faydalı bir davranış sayılmaz, değil mi?"`
+` Ama bu, biz cadılar için pek de faydalı bir davranış sayılmaz, değil mi?"`
 `"Açıkçası şu noktada, hiçbiri cadıların gerçekten var olduğuna zerre kadar inanmıyor.`
 ` Bunun bir fantezi değil de, bir gizem olduğundan tamamen eminler.`
 ` Biz cadılar için başarısız bir ilerleme oldu.`
@@ -625,7 +625,7 @@
 ` birbirlerini gözlemlemek ve güvenliklerini sağlamak için barikat kurarlar.`
 `......Bu durumun nasıl bozulacağı hakkında endişelenmek genelde katillerin ve gizem yazarlarının işidir.`
 ` Fakat spektrumun diğer ucunda var olması gereken cadıların da aynı endişeyi paylaşması ne kadar gülünç.`
-`Yeni cadı bir süre boyunca işaret parmağıyla yanağını dürterek derin düşüncelere dalmış gibi hareketler yaptı ve en sonunda konuştu.`
+`Yeni cadı, bir süre boyunca işaret parmağıyla yanağını dürterek derin düşüncelere dalmış gibi hareketler yaptı ve en sonunda konuştu.`
 `"...........................`
 ` ......Hayır, böyle iyiyim.`
 ` Ne de olsa bu bir test.`
