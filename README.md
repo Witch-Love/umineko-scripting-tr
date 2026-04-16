@@ -2,16 +2,9 @@
 
 [![Build Status](https://github.com/Witch-Love/umineko-scripting-tr/workflows/Build/badge.svg)](https://github.com/Witch-Love/umineko-scripting-tr/actions) [![Check Script Status](https://github.com/Witch-Love/umineko-scripting-tr/workflows/Check%20Script/badge.svg)](https://github.com/Witch-Love/umineko-scripting-tr/actions)
 
-Umineko Türkçe çeviri projemiz açık kaynaktır ve isteyen herkes istediği zaman katkıda bulunabilir! Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Bu nedenle süre sınırı gibi kısıtlamalarımız da bulunmamaktadır.
+Umineko Project üzerine yaptığımız bu Türkçe çeviri projemiz tamamen açık kaynak olmakla birlikte dışarıdan gelen tüm katkılara da açıktır. Acele çeviri yapmak yerine kaliteli çeviri yapmak önceliğimiz. Katkıda bulunmak istiyorsanız lütfen başlamadan önce sitemizi inceleyin!
 
-Katkıda bulunmak istiyorsanız lütfen [sitemizi](https://witch-love.com/umineko/contributing/info) inceleyin!
-
-## Kurulum
-Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşabilirsiniz.
-
-## İletişim
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  @singulariity
-- <img src="https://i.imgur.com/62IuQAp.png" width=20 title="Discord" />  [Discord Server](https://discord.gg/jyD5jn9Vpd)
+Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirsiniz.
 
 ## İlerleme
 * <details>
@@ -35,7 +28,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 14](story/ep1/tr/umi1_14.txt) ✅<sup>2</sup>
       * [Chapter 15](story/ep1/tr/umi1_15.txt) ✅<sup>2</sup>
       * [Chapter 16](story/ep1/tr/umi1_16.txt) ✅<sup>2</sup>
-      * [Chapter 17](story/ep1/tr/umi1_17.txt) ✅
+      * Chapter 17 ✅
       * [Chapter 18 (Tea Party)](story/ep1/tr/umi1_18.txt) ✅<sup>2</sup>
       * [Chapter 19 (Hidden Tea Party)](story/ep1/tr/umi1_19.txt) ✅<sup>2</sup>
    * Other
@@ -101,8 +94,8 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 10](story/ep3/tr/umi3_10.txt) ✅<sup>1</sup>
       * [Chapter 11](story/ep3/tr/umi3_11.txt) ✅<sup>1</sup>
       * [Chapter 12](story/ep3/tr/umi3_12.txt) ✅<sup>1</sup>
-      * [Chapter 13](story/ep3/tr/umi3_13.txt) `<- Burdayız`
-      * [Chapter 14](story/ep3/tr/umi3_14.txt) ❌
+      * [Chapter 13](story/ep3/tr/umi3_13.txt) ✅<sup>1</sup>
+      * [Chapter 14](story/ep3/tr/umi3_14.txt) `<- Burdayız`
       * [Chapter 15](story/ep3/tr/umi3_15.txt) ❌
       * [Chapter 16](story/ep3/tr/umi3_16.txt) ❌
       * [Chapter 17](story/ep3/tr/umi3_17.txt) ❌
