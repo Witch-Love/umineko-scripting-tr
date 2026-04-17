@@ -129,7 +129,7 @@
 ` ......Yine de, o pis koku hâlâ var."`
 `...Malikânedeki hava, ağır bir sessizlikle birlikte boğucu bir hâl almıştı.`
 `Daha da kötüsü, kazan dairesindeki Kinzo'nun yanmış cesedinden yayılan pis koku hâlâ havayı kaplıyordu.`
-` Zaten kalmayı planlamıyorlar olsalar da durum böyle olunca, malikâneden olabildiğince hızlı ayrılmak istediler.`
+` Zaten kalmayı planlamıyor olsalar da durum böyle olunca, malikâneden olabildiğince hızlı ayrılmak istediler.`
 `"Ön taraf, sorun yok.`
 ` Mutfağa bir koşu gidelim."`
 `"Şu işi çabucak bitirip geri dönelim.`
@@ -186,7 +186,7 @@
 `Onları diriltmeye devam ettiği sürece, sadece son öldürüşünde kurallara uyması yetecekti.`
 `Ronove, onun masum zalimliğinde bir cadıya uygun bazı yetenekler görse bile,`
 ` kendine has acımasız yönünü de fark etmeye başlamıştı.`
-`"......Çırak cadıların oldukça acımasız olduğu söylerler. Sanırım bunda haklılar."`
+`"......Çırak cadıların oldukça acımasız olduğunu söylerler. Sanırım bunda haklılar."`
 `".........Dilediğiniz gibi olsun, ...demek isterdim ama,`
 ` bu durumda biraz kendinizi tutmanızın daha akıllıca olacağını belirtmeliyim.`
 ` Ellerinde silahları var.`
@@ -338,7 +338,7 @@
 `"Bir kral meydanda dikkatsizce dolaşmaz.`
 ` Bu bir kralın—`
 `bir cadının asaleti!"`
-`Cesurca ikinci kata kaçmaya çalışan Rudolf'un önünde Belphegor yolunu çoktan kesmişti.`
+`Belphegor, cesurca ikinci kata kaçmaya çalışan Rudolf'un yolunu çoktan kesmişti.`
 `"Direnmenin ya da kaçmaya çalışmanın faydası yok.`
 ` ......Hiçbir şey düşünmene gerek yok.`
 ` Sadece gözlerini kapat.`
@@ -389,7 +389,7 @@
 `Leviathan'ın savurduğu kolundan mor bir iz uzanıyordu.`
 `{n}Bu şey, kötülüğün gücüyle dolup taşan büyülü bir kılıçtı.`
 `Kyrie silahıyla kendini buna karşı korudu.`
-`......Büyülü kılıç, metali tereyağı gibi kesebilse de, {i:silah} son derece yüksek büyü bir direncine sahipti.`
+`......Büyülü kılıç, metali tereyağı gibi kesebilse de, {i:silah} son derece yüksek bir büyü direncine sahipti.`
 ` Silahı, kılıcı sanki rulo hâline getirilmiş bir gazete misali kolayca engelleyebildi.`
 `Hızla, iki kez, üç kez.`
 ` Hepsini engelledi.`
@@ -482,7 +482,7 @@
 ` ...ve kurnaz bir şekilde hamile kaldı."`
 `"......Rudolf-san'ı suçlamıyorum.`
 ` O kadın vücudunu silah olarak kullanıp onu manipüle etti.`
-` Rudolf-san'ı onu kendisiyle nişanlanmaya zorladığı bir duruma soktu."`
+` Rudolf-san'ı kendisiyle nişanlanmaya zorladığı bir duruma soktu."`
 `Asumu-san, Battler-kun'a hamileydi.`
 `Ve aynı zamanda, ben de bir erkek çocuk taşıyordum.`
 `...Kaderin cilvesine bak ki, doğum tarihlerimiz aynı güne denk geldi.`
@@ -753,10 +753,10 @@
 ` Ve güçleri, bütün fiziksel ve büyülü savunmaları delip geçebiliyordu.`
 `......Kesin ölüm getiren acımasız bir silahtı.`
 `Ancak, mitolojik sınıf askerler arasında hemen hemen herkes tarafından kullanılan bir silahtı.`
-` Onlar için çok sıradan, ...gündelik dünyadakiler içinse çok sıradışıydı.`
+` Onlar için çok sıradan, ...gündelik dünyadakiler içinse çok sıra dışıydı.`
 `"N-Ne...?!"`
 `Rudolf, onları hızla takip eden bir şey olduğunu fark edip arkasını döndüğünde...`
-`Rudolf, altın yılan tarafından kalbinin tam ortasından vuruldu.`
+`Altın yılan tarafından kalbinin tam ortasından vuruldu.`
 ` Her şey bir anda oldu.`
 `"R-Rudolf-san......?!"`
 `Altın yılan Rudolf'u deldikten sonra,`
