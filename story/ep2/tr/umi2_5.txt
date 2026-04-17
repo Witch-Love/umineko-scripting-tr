@@ -31,7 +31,7 @@
 `Battler bunu sorduğunda, George ve Jessica kısık bir "ah—" sesi çıkardılar.`
 `...Onu durdurmak için geç kalmışlar gibiydi.`
 `Maria sanki bu soruyu bekliyormuş gibi görünüyordu.`
-`Bir an için mutlu göründükten sonra, ifadesi adeta "Hiçbir şey bilmiyorsun, değil mi?" dercesine biraz acımasızlaştı.`
+`Bir an için mutlu göründükten sonra, ifadesi âdeta "Hiçbir şey bilmiyorsun, değil mi?" dercesine biraz acımasızlaştı.`
 `Bu, alanla ilgisi olmayan bir yabancının cahilce ifadesine öfkelenen tutkunun dışavurumuydu.`
 `"Uu.`
 ` ...Keltlere göre güneşin bir yıl boyunca değişen gücü...`
@@ -114,7 +114,7 @@
 `"Vay be...`
 ` Bu oldukça geniş çaplı bir rüya.`
 ` ......Bu arada, {f:5:Beatrice} de kimdi?`
-` ......Neydi o, umm, umm, bunu daha önce de duymuştum..."`
+` ......Neydi o, şey, şey, bunu daha önce de duymuştum..."`
 `Battler altı yıldır ortalıkta yoktu ve Rokkenjima cadısı efsanesini tamamen unutmuştu.`
 `Ancak, {f:5:Beatrice}'in adını bilmediğini söylediğinde, Maria'nın o ana kadar çok parlak olan ruh hali bir anda bozuldu.`
 `Battler bunu gördüğünde, bunun bu adanın cadısının adı olduğunu anında hatırladı ama artık iş işten geçmişti.`
@@ -195,7 +195,7 @@
 ` Bir süreliğine istediğini yapmasına izin vermeye karar verdim."`
 `"............Bazen kızların kendi küçük dünyaları olduğunu unutuyoruz.`
 ` Bazen buna saygı duymamız gerekir, değil mi?"`
-`"......Evey öyle.`
+`"......Evet öyle.`
 ` ...İlgilendiğin için teşekkürler, Kyrie nee-san."`
 `"...Gohda-san.`
 ` Odamız nerede?"`
@@ -572,7 +572,7 @@
 ` ......Beato, sen normale döndürebilir misin...?"`
 `Maria üzerine basanın annesi olduğunu bilinçli olarak söylemedi.`
 `{n}Ancak cadı şekeri gördüğünde, bir nedenden dolayı Rosa'ya baktı ve sırıttı.`
-`...Rosa'nın omurgasından aşağı bir ürperti yayıldı, bu bakışın onun her yanını adeta görebildiğini hissetti.`
+`...Rosa'nın omurgasından aşağı bir ürperti yayıldı, bu bakışın onun her yanını âdeta görebildiğini hissetti.`
 `"Kolay olacak.`
 ` Şekeri ver."`
 `"Uu!"`
