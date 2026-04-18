@@ -14,7 +14,7 @@
 `"......Rulet bitinceye kadar zamanı nasıl geçirecekleri onlara kalmış.`
 ` Bırakın istediklerini yapsınlar."`
 `"............Evet."`
-`"...Umm......`
+`"...Şey......`
 `...Rosa-sama'ya ne söylemeliyim?"`
 `"Zamanı nasıl geçirecekleri onlara kalmış demedim mi?!`
 ` Şarkı söyleyebilirler, dans edebilirler!`
@@ -33,9 +33,9 @@
 ` Ve Shannon sen de.`
 ` Bugüne kadar bana iyi hizmet ettin."`
 `"S-...Sözleriniz için teşekkür ederim......`
-` ...Ama, umm........."`
+` ...Ama, şey........."`
 `"...............Biz size hizmet etmeye yemin etmiş mobilyalarız, lordum.`
-` ......Her zaman ve her halükarda, yanınızda bekliyor olacağız.`
+` ......Her zaman ve her hâlükârda, yanınızda bekliyor olacağız.`
 ` ......En sonuna kadar."`
 `"..................`
 ` ............İkinize de her şeyi...`
@@ -49,7 +49,7 @@
 `Nanjo, sağlığı nedeniyle Kinzo'ya sık sık bir vasiyet yazmasını önermişti ama her seferinde Kinzo öfkeden deliye dönüyordu.`
 `......O zamandan beri Kinzo'nun en çok tepki gösterdiği kelime "vasiyet" olmuştu.`
 `Bu kelime bizzat onun ağzından çıktığı için Shannon bir anlığına duyduğu şeyden şüphe etmekten kendini alamadı.`
-`Shannon aceleyle yan masayı ve yazmak için bir kağıt hazırladı.`
+`Shannon aceleyle yan masayı ve yazmak için bir kâğıt hazırladı.`
 ` Genji de kendisine emredildiği gibi her zamanki yeşil şeytanını hazırlamaya başladı...`
 `"Ben hazırım."`
 `".........Hmm.`
@@ -58,7 +58,7 @@
 ` ......Unutulmaz oyunlarımın bir kaydını bırakmak eğlenceli olurdu."`
 `".........Yüzyıllar öncesine ait eski oyunların kayıtlarını incelemek, ...bu oyuncuların zihinlerinde bir yolculuğa çıkmak gerçekten eğlencelidir.`
 ` .........Öyleyse benim hayatımın skor tablosu da gelecekte insanları fikirlerimi keşfetmek için bir yolculuğa çıkmaya çağıracak mı?`
-` ......Hmph."`
+` ......Hıh."`
 `Kinzo bir süre elleri arkasında, odanın içinde dolanarak konuşmaya nereden başlaması gerektiğini düşündü...`
 `"Lordum.`
 ` .........Buyrun."`
@@ -130,7 +130,7 @@
 `"...Sözde suçlu bir cadı, ve bu da bir şeytanı çağırmak için kullanılan büyülü bir çember falan mı......?"`
 `"Kihihihihihihihihihihi...`
 ` Bu güneşin yedinci büyülü çemberi.`
-` Bunu bile bilmiyorsun, heh...`
+` Bunu bile bilmiyorsun, ha...`
 ` Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
 ` Ahh."`
 `"Hey!!`
@@ -159,14 +159,14 @@
 ` ......Maria'dan mı duydun?"`
 `"......Evet, öyle bir şey."`
 `"Demek, kilise.`
-` ......Onları öldürmeden önce kiliseye çağırmak için onca zahmete girmişler...`
+` ......Onları öldürmeden önce kiliseye çağırmak için onca zahmete girmiş...`
 ` ............Rosa Hala,`
 ` bu kilisenin özel bir anlamı falan var mı...?"`
 `"Özel bir anlam derken, ......ne demek istiyorsun?"`
-`"Şey, umm,`
-` ............buraya kadar altı insan cesedi taşıyıp bu özenli dekorasyonları yapmışlar."`
-`"...Altı kişiyi öldürmeden önce mi buraya çağırıldı, yoksa öldürdükten sonra mı buraya taşındı bilemiyoruz,`
-` ...ama her iki durumda da bu çok zahmetli bir iş.`
+`"Yani, şey,`
+` ............buraya kadar altı insanın cesedini taşıyıp bu özenli dekorasyonları yapmış."`
+`"...Altı kişi öldürülmeden önce mi buraya çağırıldı, yoksa öldürdükten sonra mı buraya taşındı bilemiyoruz.`
+` ...Ama her iki durumda da bu çok zahmetli bir iş.`
 ` .........Suçlunun, burada...`
 ` {i:altı kişinin ölümünü istemesinin} sebebi ne olabilir......?"`
 `"......Haklısın.`
@@ -186,7 +186,7 @@
 `"Bilmiyorum.`
 ` ......Babam bu kiliseyi çok kutsal görüyordu ve ona o kadar değer veriyordu ki birkaç kez yeniden dekore ettirdi."`
 `"...Ama hepinizin bildiği gibi,`
-` Babamın sadece kara büyüye ilgisi vardı—yani dini bütün biri olduğu için değil.`
+` Babamın sadece kara büyüye ilgisi vardı—yani dinî bütün biri olduğu için değil.`
 ` ......Tanrı'ya dua etmek için buraya geldiğini hiç duymadım."`
 `"......Benim bildiğim kadarıyla bile, Efendi buraya hiç gelmedi.`
 ` Hatta buraya "yasak kilise" adını verdik, ...şey,`
@@ -227,8 +227,8 @@
 ` Üzgünüm, İngilizcem rezil."`
 `İki satırdan ilkini okuyamadıktan sonra vazgeçtim.`
 `{n}...Diğerleri düzgün okuyabiliyormuş gibi görünüyordu.`
-`"...Umm, sanırım "m", "b", "t", "q" diye devam ediyor,`
-` ...umm, umm... Ne kadar büyüktü... sanırım...umm...umm,`
+`"...Şey, sanırım "m", "b", "t", "q" diye devam ediyor,`
+` ...şey, şey... Ne kadar büyüktü... sanırım...şey...şey,`
 ` ..............."`
 `"......Her neyse, bu inanılmaz.`
 ` İki elin parmaklarıyla bile buna yakın bir sayı sayamazsınız.`
@@ -296,7 +296,7 @@
 ` ............Ne?!`
 ` ...............Bekle, .........bu da ne?"`
 `"Eh, "Bu da ne" derken, ne demek istiyorsun...?"`
-`Tek yaptığımın ortalığı karıştırmak olduğunu sanıyordum çünkü atmosferin bu kadar hüzünlü hale gelmesinden hoşlanmamıştım.`
+`Tek yaptığımın ortalığı karıştırmak olduğunu sanıyordum çünkü atmosferin bu kadar hüzünlü hâle gelmesinden hoşlanmamıştım.`
 ` ......Ama Rosa Hala aniden ciddi bir yüz ifadesiyle üzerime atladı.`
 `Rosa Halanın yüzü giderek solgunlaştı.`
 ` ...Kapının üzerindeki büyülü çembere baktı, sonra eline, sonra ona, bir eline bir ona.`
@@ -420,7 +420,7 @@
 `"Oooh!!`
 ` Benden söylemesi—biliyorsun ki gizem hayranları oldukça korkutucular.`
 ` Christie muhtemelen mezarında dişlerini gıcırdatıyordur!"`
-`"Hmph!!`
+`"Hıh!!`
 ` Ama ben farklıyım.`
 ` Ben gerçek bir kilitli oda yarattım!`
 ` Ve bunu kanıtlayabilirim.`
@@ -536,7 +536,7 @@
 ` Bunun ne olduğuna gelince, aklıma birkaç yol geliyor!"`
 `"Belki de bir kalenin büyük kapılarının üzerinde daha küçük bir kapı olması gibi, burada da başka bir kapı vardı!`
 ` İçeri girmeden önce menteşeleri söküp daha sonra tüm kapıyı yerinden çıkarmış olmaları da mümkün!!"`
-`"Wahahahahahahahahahaha!`
+`"Hahahahahahahahahahaha!`
 ` İnsanlığın yüz yıllık zekası bu mu, Battleeeeeeer?!`
 ` {p:1:Kilisenin kapısı kilitlendiğinde, her türlü giriş ve çıkış yöntemini engeller}!!"`
 `"Tabii büyü kullanamadığın sürece...?`
@@ -553,7 +553,7 @@
 ` Bunu nasıl yaptılar?!!`
 ` Büyü mü dedin?!`
 ` Kahretsin, kahretsin kahretsin kahretsin kahretsin kahretsin!!!"`
-`"Wahahahahahahaaah!!`
+`"Hahahahahahahaaah!!`
 ` Bir insanın limitlerine çoktan ulaştık mı?"`
 `"Öyleyse <Resign> vakti!!`
 ` Teslim olan oyuncunun böyle bağırması ve şahını devirmesi adettendir.`
@@ -630,7 +630,7 @@
 `"Kiliseye girmenin tek yolunun kapıdan geçmek olduğunu...ve sadece bir anahtar olduğunu anladım.`
 ` .........Ama bekle.`
 ` ...Asıl soru, anahtarın dün öğleden önce Maria'ya gerçekten teslim edilip edilmediği."`
-`".........Hmph, bu işi uzatıyorsun.`
+`".........Hıh, bu işi uzatıyorsun.`
 ` Sadede gel."`
 `"Şöyle bir şey.`
 ` ...Dün öğle saatlerinden bu yana anahtarın kullanılamaz durumda olduğu izlenimine kapıldık.`

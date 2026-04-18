@@ -14,10 +14,10 @@
 `"Maria-chan, Battler-kun'u yeni bir arkadaş olarak görüyor olmalı.`
 ` ...Havaalanında Battler-kun ile Cadılar Bayramı oynarken çok eğlendiğine eminim."`
 `"Battler da çok eğleniyormuş gibi duruyordu.`
-` Adam kocaman olmuş, ama eski halinin tıpatıp aynısı, içten içe hiç değişmemiş."`
+` Adam kocaman olmuş, ama eski hâlinin tıpatıp aynısı, içten içe hiç değişmemiş."`
 `"Gerçekten de.`
-` ...Battler-sama'nın altı yıl önceki hali olarak kalacak kadar kibar olduğunu hissediyorum."`
-`"Shannon, Battler-kun'un altı yıl önceki halini hatırlıyor musun?"`
+` ...Battler-sama'nın altı yıl önceki hâli olarak kalacak kadar kibar olduğunu hissediyorum."`
+`"Shannon, Battler-kun'un altı yıl önceki hâlini hatırlıyor musun?"`
 `"Evet.`
 ` Çünkü o, nasıl desem, çok enerjikti.`
 ` *kıkırdar*."`
@@ -26,8 +26,8 @@
 `"Evet, öyle.`
 ` Sanki o zamanlar daha aklı başında gibiydi.`
 ` Ahahahaha!"`
-`"O-...O zamanlar ben, umm, ......haddimi bilmiyordum, yani...`
-` Umm, tüm yanlış davranışlarım için özür dilemeliyim..."`
+`"O-...O zamanlar ben, şey, ......haddimi bilmiyordum, yani...`
+` Şey, tüm yanlış davranışlarım için özür dilemeliyim..."`
 `"......Bu profesyonel tavırlara hiç gerek yok.`
 ` İşin bir yana, şu anda olduğu gibi mola verdiğinde, o zamanlar olduğu gibi hep birlikte arkadaşça davranabilirsek sevinirim."`
 `"Aynen öyle.`
@@ -55,10 +55,10 @@
 ` Çok iyi gidiyor."`
 `Shannon ne diyeceğini şaşırmış, yüzü kıpkırmızı kesilmişken George parlak bir sesle ve hızlıca cevap verdi.`
 `{n}Bu kaygısız tavır, ilişkilerinin herkesi kıskandıracak kadar mükemmel ilerlediğini açıkça ortaya koyuyordu.`
-`"Tch, kıskandım.`
+`"Cık, kıskandım.`
 ` ......Bu, Shannon'un istifa edip yakında pasta keseceği anlamına mı geliyor?"`
 `"K-Kim bilir...`
-` Ben, umm......"`
+` Ben, şey......"`
 `"Kim bilir, değil mi?`
 ` Acaba ne cevap verecek?"`
 `George takılıyormuş gibi güldü ve Shannon'a yaklaştı.`
@@ -188,7 +188,7 @@
 ` O berbat bir adam."`
 `"......A-Ama, bu birini nasıl ağırlamam gerektiği konusunda bir temel oluşturmama yardımcı oluyor.`
 ` ......Gohda-san çok şey biliyor, bu yüzden söyleyecekleri de çok..."`
-`"Hmph.`
+`"Hıh.`
 ` ......Nee-san, gerçekten fazla iyi yüreklisin."`
 `"......Daha önemlisi,`
 ` ............VIP odasındaki konuk...`
@@ -330,7 +330,7 @@
 `{n}......Shannon aşkın tadını bilen ve acısını çeken tek kişi değildi.`
 `O da yaşamıştı.`
 `Jessica'nın o gün ona gösterdiği gözyaşları,`
-` ......ve o günden sonraki tüm günlerde işleri yoluna koymaya ve ruh halini düzeltmeye çalışırken yüzünde beliren acı dolu gülümsemeler...`
+` ......ve o günden sonraki tüm günlerde işleri yoluna koymaya ve ruh hâlini düzeltmeye çalışırken yüzünde beliren acı dolu gülümsemeler...`
 `Kanon'un kalbinde farkında olmadan yavaş yavaş bir tür değişim yaratmıştı...`
 `".........Shannon!`
 ` Uzun süredir sana sesleniyorum."`
@@ -390,7 +390,7 @@
 ` Gerisini sana bırakıyorum.`
 ` ...Benim sesim artık ona ulaşmıyor."`
 `Krauss başını hafifçe salladı, ve hızla çalışma odasının kapısına sırtını döndü.`
-`......Faydası olmayacağını bildiği halde, yalnızca kardeşlerinin hatrı için seslenmişti.`
+`......Faydası olmayacağını bildiği hâlde, yalnızca kardeşlerinin hatrı için seslenmişti.`
 `Genji, Krauss'un merdivenlerden inişini izledikten sonra, kapıdan tekrar seslendi.`
 `"...Lordum.`
 ` Yemeğin buraya taşınması için hazırlıklarımızı tamamladık.`
@@ -545,12 +545,12 @@
 `"Mobilyalar emirlere itaat eder.`
 ` ...Ama bir insan emirlere uyup uymayacağına kendisi karar verir.`
 ` {i:Bu yüzden emirlerine uymayacağım.}"`
-`"Hmph.`
+`"Hıh.`
 ` ...*kıKIr*kıKIr*kıKIr* hahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!`
 ` ......Söylediklerimi geri alıyorum.`
 ` Gerçekten ilgi çekicisin."`
 `"......Eğer o tohumları ekmemiş olsaydım, muhtemelen hiçbir duygu hissetmeden ritüelin kaderini yönlendirmesine izin verecektin.`
-` ......Ama şimdi gerçekten ilginç hale geldin ve beni gönülden eğlendiriyorsun.`
+` ......Ama şimdi gerçekten ilginç hâle geldin ve beni gönülden eğlendiriyorsun.`
 ` Bu güzel.`
 ` Can sıkıntısından hoşlanmam.`
 ` ......*kıKIr*kıKIr*kıKIr*kıKIr*kıKIr*!"`
@@ -666,7 +666,7 @@
 `Aile konferansındaki en muhteşem zaman gelmişti.`
 `{n}Akşam yemeği.`
 `Kinzo'nun aile konferansı konusunda ciddi olduğu zamanlarda, herkesin yılda sadece bir kez bir araya geldiği bu yemeğe son derece önem verirdi.`
-`Yemeğin standartlara uygun olmaması halinde, ev sahibi olarak bunu kendisi için büyük bir utanç olarak kabul ederdi,`
+`Yemeğin standartlara uygun olmaması hâlinde, ev sahibi olarak bunu kendisi için büyük bir utanç olarak kabul ederdi,`
 ` ve Natsuhi'ye gurur duyulması gereken bir yemek olduğundan kesinlikle emin olmasını şiddetle emrederdi.`
 `Bu nedenle, o ve Krauss, aşçılık yeteneklerine çok güvenen Gohda'yı işe almışlardı.`
 `......Böylece, güvendikleri harika bir akşam yemeği ortaya çıkarabileceklerdi,`
@@ -688,7 +688,7 @@
 `"Harika!`
 ` Sen gerçekten harika bir aşçısın!`
 ` Reklamı doğru yapılırsa yemek ve ilaç iki kat daha fazla sonuç verir!`
-` Normal yemekten iki kat daha lezzetli, ve reklamını da doğru yapman bunu iki kat daha iyi hale getiriyor.`
+` Normal yemekten iki kat daha lezzetli, ve reklamını da doğru yapman bunu iki kat daha iyi hâle getiriyor.`
 ` Lezzet ikiye katlanıp katlanıp duruyor!`
 ` Hahahahahaha!"`
 `"*kıkırdar*.`
@@ -725,11 +725,11 @@
 `......Eğer Kinzo'nun sabotajcısıysa,`
 ` ve amacı mirasın dört kardeşe verilmesini engellemekse,`
 ` Krauss ve diğer kardeşler arasındaki düşmanlık, düşmana fayda sağlayan zayıf bir noktadan başka bir şey olmayabilirdi...`
-`"O halde, lütfen keyfinize bakın..."`
+`"O hâlde, lütfen keyfinize bakın..."`
 `Sofra kurulup yemekler ikram edildikten sonra Gohda odadan ayrılmaya yeltendi ama Kyrie küçük bir sesle onu durdurdu.`
 `"......Evet, Kyrie-sama.`
 ` Bir şey mi oldu?"`
-`"Umm, üzgünüm.`
+`"Şey, üzgünüm.`
 ` ......Bugün burada bir misafir olduğunu sanıyordum—onu akşam yemeğinde göremeyecek miyiz...?"`
 `Bunu sessizce söylemeyi planlamıştı ama ne yazık ki sesi yan koltukta oturan Natsuhi'nin kulaklarına ulaştı.`
 `Natsuhi'nin bunu "bugün burada misafirler olsa da ev sahibi yemeğe gelmeyecek mi?" olarak duyduğu anlaşılıyordu.`
@@ -758,7 +758,7 @@
 `Gohda, Natsuhi tarafından sorgulanmayı hiç beklemiyormuş gibi biraz şaşırdı.`
 `......Bu onur konuğu çok titiz bir şekilde bahsedilmişti.`
 `{n}Krauss ve karısının bilmeyebileceğini hiç düşünmemişti.`
-`"Umm, ......{f:5:Beatrice}-sama."`
+`"Şey, ......{f:5:Beatrice}-sama."`
 `"{f:5:Beatrice}!!`
 ` İşte, işte!`
 ` {f:5:Beatrice} geldi, uu-uu-uu!!"`
@@ -804,7 +804,7 @@
 ` Görünüşe göre sizler perde arkasında ipleri elinde tutanın ben olduğuma inanıyorsunuz, ama bu büyük bir yanlış anlaşılma."`
 `"Krauss nii-san, sakin ol.`
 ` Artık birbirimizin nabzını yoklayacak bir aşamada değiliz.`
-` Eğer bu gizemli kişiyi senin de tanımadığını söylüyorsan, bu durum gülünç bir hal almaya başlıyor...!"`
+` Eğer bu gizemli kişiyi senin de tanımadığını söylüyorsan, bu durum gülünç bir hâl almaya başlıyor...!"`
 `"Hideyoshi-san, sözlerinizle biraz daha sağduyulu olamaz mısınız?`
 ` Kocam aile konferansına gereksiz insanları davet etmez."`
 `"Gerçekten de.`
@@ -819,7 +819,7 @@
 ` Anneme inanın!`
 ` Uu-uu!"`
 `Kısa süreli gerginlik kırıldı ve Maria da gürültü yapmaya başladı.`
-`{n}...Oda artık kaotik bir hal almıştı.`
+`{n}...Oda artık kaotik bir hâl almıştı.`
 `"Neler olduğu hakkında en ufak bir fikrim yok...`
 ` Neler oluyor?`
 ` Büyükbabama altını veren cadı bu yılki aile konferansına özel bir konuk olarak mı katılıyor...?!"`
@@ -893,7 +893,7 @@
 ` Baş ağrın daha da kötüleşecek.`
 ` ......Eşimin de dediği gibi.`
 ` Şu ana kadar ne konuştuğunuz hakkında hiçbir fikrim yok."`
-`"O halde tek bir cevap olabilir.`
+`"O hâlde tek bir cevap olabilir.`
 ` ......Onu buraya Babam çağırdı.`
 ` Bugünkü aile konferansı için!"`
 `"Aile konferansı için mi?!`
@@ -984,7 +984,7 @@
 `"Huh?`
 ` Nedenmiş?"`
 `"Elimde olsa ben de gitmek isterdim."`
-`"...Ihihihi!`
+`"...İhihihi!`
 ` Eminim isterdin.`
 ` Bırakayım da siz yetişkinler mirasla ilgili mutlu aile sohbetinizin tadını çıkarın."`
 `"............Ben de kalkacağım.`
@@ -1027,7 +1027,7 @@
 ` Etkilendim."`
 `"Çocuğun olmadığına emin misin?`
 ` Buna çok alışkınsın, ihihi!"`
-`George'un sözleri üzerine Maria'nın ruh hali tamamen normale döndü ve hatta herkesi aceleyle konukevine götürmek için harekete geçti.`
+`George'un sözleri üzerine Maria'nın ruh hâli tamamen normale döndü ve hatta herkesi aceleyle konukevine götürmek için harekete geçti.`
 `Görünüşe göre Gohda da kovulmaktan hoşlanmamıştı ama Natsuhi'ye itaatsizlik edemedi ve Battler ile diğerleriyle birlikte kapıyı kapatarak odadan çıktı...`
 `"......Yardımcı olabileceğim bir şey var mı?"`
 `"Evet, var.`
