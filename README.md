@@ -96,8 +96,8 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
       * [Chapter 12](story/ep3/tr/umi3_12.txt) ✅<sup>1</sup>
       * [Chapter 13](story/ep3/tr/umi3_13.txt) ✅<sup>1</sup>
       * [Chapter 14](story/ep3/tr/umi3_14.txt) ✅<sup>1</sup>
-      * [Chapter 15](story/ep3/tr/umi3_15.txt) `<- Burdayız`
-      * [Chapter 16](story/ep3/tr/umi3_16.txt) ❌
+      * [Chapter 15](story/ep3/tr/umi3_15.txt) ✅<sup>1</sup>
+      * [Chapter 16](story/ep3/tr/umi3_16.txt) `<- Burdayız`
       * [Chapter 17](story/ep3/tr/umi3_17.txt) ❌
       * [Chapter 18](story/ep3/tr/umi3_18.txt) ❌
       * [Chapter 19 (Tea Party)](story/ep3/tr/umi3_19.txt) ❌
