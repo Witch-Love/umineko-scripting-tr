@@ -81,7 +81,7 @@
 `"......Leydim.`
 ` .........Buraya bir şey yazılmış."`
 `"Yazılmış mı, ne?!"`
-`Jessica hızla yanına koştu ve kağıt parçasını sert bir şekilde kaptı.`
+`Jessica hızla yanına koştu ve kâğıt parçasını sert bir şekilde kaptı.`
 `......Muhtemelen saldırgan olmaya çalışmıyordu.`
 `{n}...Sadece şu anda gücünü kontrol edemiyordu.`
 `".........Ne dedin...?!`
@@ -99,7 +99,7 @@
 ` Seni öldüreceğim, seni öldüreceğim!!`
 ` Göster kendini de seni öldürene kadar dövebileyim!!!`
 ` Sana beni bırakmanı söyledim, kahretsiiiiiiin!"`
-`Kağıtta yazanlar şunlardı...`
+`Kâğıtta yazanlar şunlardı...`
 `{e:070:—Buraya paldır küldür gelmeni bekleyerek vaktimi boşa harcayacağımı mı sanıyordun?`
 ` Bu entelektüel geceye uygun olamayacak kadar vahşisin.`
 ` Seni böyle beceriksiz bir aptal olarak yetiştirdikten sonra ailenin yüzleri kim bilir nasıldır?`
@@ -126,9 +126,9 @@
 ` Jessica neredeyse teslim olur gibi yere yığıldı ve ağlamaya ve halıyı tırmalamaya başladı...`
 `......Gohda şaşırmıştı ama Kanon şaşırmamıştı.`
 `......Öfkesini dışa vurarak üzülme yöntemi elinden alınmıştı, ...yani bu kaçınılmazdı.`
-`"Uuuuuuuuuuughhh, waaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa!!`
+`"Uuuuuuuuuuuğhhh, vaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa!!`
 ` Baba......Anne......uuaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}auuu{0}u{0}u{0}uuuu!!"`
-`...Ushiromiya baş ailesinin kızı olduğu düşünüldüğünde, ...çok perişan bir haldeydi.`
+`...Ushiromiya baş ailesinin kızı olduğu düşünüldüğünde, ...çok perişan bir hâldeydi.`
 `......Tırnakları, ve hatta ayakları bile kıvrılarak halıyı tırmaladı.`
 `Jessica çok ama çok ağladı.`
 ` ...Çünkü ağlamazsa, öfkesi yeniden birikmeye başlayacak, ve onu tüketecekti.`
@@ -144,7 +144,7 @@
 `{n}Şimdi karınları tıka basa dolu hâlde Şeker Diyarı'ndalar!!`
 `"Ooooooooooooooohhh, kahretsiiiiin!!`
 ` Onu öldüreceğim, onu öldüreceğim, onun karnını yaracağım ve aynı şekilde ölmesini sağlayacağım!!`
-` Uuuuaaa{0}a{0}a{0}a{0}a{0}a{0}aaaa, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa......!!!`
+` Uuuuaaa{0}a{0}a{0}a{0}a{0}a{0}aaaa, vaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaa......!!!`
 ` Hık, *öksürme*öksürme*, *öksürme*öksürme*öksürme*!!!"`
 `Jessica'nın ağlayıp çığlıklar atması astım krizini tetiklendi...`
 ` Ona göz kulak olan hizmetkârlar telaşla yanına koşup sırtını sıvazladılar ama bu sadece Jessica'nın öfkesini körükledi...`
@@ -423,7 +423,7 @@
 `{n}Cadı, Kanon'a beklenti dolu bir bakış attı.`
 `......Sanki ona bu genç kızı nasıl korumayı planladığını sorar gibi, beklenti dolu kışkırtıcı bir bakışla ona bakıyordu!`
 `Uşak, sürünerek yukarı çıkarken tam bir canavar gibi görünüyordu,`
-` fakat soğukkanlı halinden Altın Cadı'ya hizmet etmeye fazlasıyla layık olduğu anlaşılıyordu.`
+` fakat soğukkanlı hâlinden Altın Cadı'ya hizmet etmeye fazlasıyla layık olduğu anlaşılıyordu.`
 `......Ve efendisinin beklentilerini karşılamak isteyen bir mobilyanın sevinciyle dolup taştığı anlaşılıyordu.`
 `".........Neden bana göstermiyorsun?`
 ` Kinzo'nun mobilyalarının gücünü!"`
@@ -460,7 +460,7 @@
 `"Yani kılıcını çekecek cesaretin vardı.`
 ` .........Hoşlandığın kızın önünde, insanlardan aşağı bir varlık olduğun gerçeğini ifşa etmek nasıl bir duygu?"`
 `"........................Kapa çeneni."`
-`"......Hmph.`
+`"......Hıh.`
 ` ......Öfkeden yanıp tutuşuyor olmana rağmen soğukkanlıymış gibi mi davranıyorsun?`
 ` ...Anlıyorum, gerçek sıcak alevlerin soğuk mavi bir renkle yandığını söylerler.`
 ` Şu an olduğun durum bu mu?"`
@@ -477,7 +477,7 @@
 ` Başlayın, mobilyalar!!"`
 `"............Hoh.`
 ` ...............Ne güzel bir eğri."`
-`Cadının hayranlık dolu sözleri sessizliği bozdu ve bir anlığına Jessica'yı içinde bulunduğu felç halinden kurtardı.`
+`Cadının hayranlık dolu sözleri sessizliği bozdu ve bir anlığına Jessica'yı içinde bulunduğu felç hâlinden kurtardı.`
 `"..............................`
 ` B-,`
 ` ......Ben...`
@@ -507,7 +507,7 @@
 `......Dizleri üzerine çöküp yere yığıldığında, nazikçe bir demet altın kelebeğe dönüştü...`
 `Yani yere çarpma sesi çıkarmamıştı.`
 ` Bu savaşı anlayamayanlar bile...en azından Kanon'un muhteşem olduğunu kesinlikle fark edebilirdi.`
-`"......Hmph.`
+`"......Hıh.`
 ` Demek bir el yapımı karşısında başarılı olamadı.`
 ` ...Görünüşe göre o kadar da acınası değilsin."`
 `"Sıradaki sensin, .........{f:5:Beatriceeeeeeeee}!!"`
@@ -548,10 +548,10 @@
 ` Bu yüzden sözünü geri al!`
 ` Kanon-kun'a bir daha mobilya deme, asla!!"`
 `".........Ley...dim........."`
-`"Hmph.`
+`"Hıh.`
 ` ......*kıKIr*kıKIr*kıKIr*kıKIr*.`
 ` ...Kuhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha.`
-` Wahahahahahahahaha!!"`
+` Hahahahahahahahaha!!"`
 `"Konuşma, insan!!`
 ` Bunu çabucak bitirelim; ne de olsa, bu daha sadece ikinci alacakaranlık.`
 ` Şimdi, birbirlerinin değerini kabul eden "yakın olan ikisini" kurban edeceğim."`
@@ -667,7 +667,7 @@
 `............insan...`
 `.........ol...du........."`
 `Bunlar...Kanon'un geride bıraktığı son sözlerdi.`
-`"Wahahahahahahahahaha, kukikaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!`
+`"Hahahahahahahahahaha, kukikaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!`
 ` Güldürme beni, mobilya!!"`
 `"Yüz yıl bile geçse, mobilya mobilyadır!`
 ` Mobilyalarını çöpe attıktan sonra onlar için bir mezar kazacak kadar aptal birini hiç duydun mu?`
