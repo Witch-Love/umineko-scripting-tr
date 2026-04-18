@@ -319,7 +319,7 @@
 `".........Öldüreceksen anında öldür!`
 ` Onlarla oynama!!`
 ` Öldürmeyeceksen, onlara eziyet etme!!`
-` İnsanların hayatıyla istediğin gibi oynayıp durduğun hayatın kutsallığını unutmuşsun.`
+` İnsanların hayatıyla istediğin gibi oynayıp durmaktan, hayatın kutsallığını unutmuşsun.`
 ` Bu yüzden seni kabul edemem...!"`
 `"Bir hayatın ağırlığını, o hayatın kaybedilmesindeki üzüntüyü anlamaktan aciz birini asla rakibim olarak kabul edemem!"`
 `"...............İşte bu yüzden Sonsuz Büyü, kara büyü olarak bilinir.`
@@ -392,7 +392,7 @@
 `".........{f:5:Virgilia}.`
 ` Oyunu geçici olarak durduralım.`
 ` Ronove temsilcilikten ayrıldığına göre,`
-` tek yapabileceğimiz Beato'nun uygun bir rakip olacağı niteliği kazanmasını beklemek."`
+` tek yapabileceğimiz Beato'nun uygun bir rakip olma niteliğini kazanmasını beklemek."`
 `"......Anlaşıldı.`
 ` ......Beato'nun bu nitelikleri kazandığı kabul edilene kadar, oyun oyuncular olmadan devam edecek.`
 ` Beato, bu senin için de uygun mu?"`
@@ -402,7 +402,7 @@
 `".........Evet, gidebilirsin."`
 `"...Peki o hâlde, sonra...görüşürüz."`
 `"Bekle.`
-` ......Bu kadar kederli bir surat yapm."`
+` ......Bu kadar kederli bir surat yapma."`
 `"........................Özür dilerim.`
 ` Kalbimdeki her şeyin yüzüme yansıması kişiliğimin bir parçası.`
 ` Bunu değiştiremem."`
@@ -524,7 +524,7 @@
 `"......Ömür boyu silinmeyecek bir iz bırakacak kadar, ...demek."`
 `"......Büyükbabamın okült hobisi gibi.`
 ` Bazı dedikodular dönüyordu.`
-` ......{f:5:Beatrice}'in, onun uzun zaman önce ölen sevgilisi olduğu ve buna o kadar üzüldüğü için kendini toparlayamadığı gibi."`
+` ......{f:5:Beatrice}'in, onun uzun zaman önce ölen sevgilisi olduğu ve buna çok üzüldüğü için kendini toparlayamadığı gibi."`
 `"......Bu yüzden de hayatının geri kalanını ölüleri diriltmek için okült araştırmalara adamaya başladığı...`
 ` ......gibisinden dedikodular vardı."`
 `"O hâlde, Büyükbabam son anlarında bu mucizeyi başardı.`
@@ -602,7 +602,7 @@
 ` ......Ruh hâlimi değiştirmek için odadan çıkmama rağmen,`
 ` ...Shannon'un yüzünün kafamdaki görüntüsü, en ufak şekilde bile solmuyordu...`
 `Onunla geçirdiğim o keyifli günler giderek daha da canlı hâle geliyor,`
-` ............ve onun vefat ettiği  yüzünü bile görememem beni hüzünlendiriyordu.`
+` ............ve onun vefat ettiği yüzünü bile görememem beni hüzünlendiriyordu.`
 `Yetişkinlerin anlattığına göre, silah ya da mızrak gibi bir şeyle öldürülmüştü.`
 `...Muhtemelen beni teselli etmeye çalışıyorlardı ama, ......ölümünden sonraki yüzünün çok güzel ve huzurlu göründüğünü söylemişlerdi.`
 `Acaba...dün gece ona verdiğim nişan yüzüğünü takıyor muydu?`
@@ -767,7 +767,7 @@
 `"Hadi, gidelim.`
 ` Beni takip et."`
 `Beato yavaşça havaya doğru süzüldü.`
-` Bu, sualtında gezintiye çıkan bir dalgıcın yaptığı gibi, son derece doğal bir hareketti.`
+` Bu, su altında gezintiye çıkan bir dalgıcın yaptığı gibi, son derece doğal bir hareketti.`
 `......Bu, onun yaptığını yaparak,`
 ` sanki suda yüzüyormuş gibi gökyüzünde süzülebileceğine inanmayı kolaştırıyordu.`
 `...Hayır, George buna kalpten inanıyordu.`
@@ -871,6 +871,6 @@
 ` Eğer senin gibi bir Yüce İblis öyle söylüyorsa, o zaman sadece benim hayal gücüm olmalı."`
 `Cadı ısrarla o varlığın kaybolduğunu hissettiği yöne baktı.`
 `......Baktığı yön, gül bahçesinin olduğu taraftı.`
-` Ve onun ötesinde, şimşeklerin aydınlattığı malikânenin karanlık siluetini görebiliyordu.`
+` Ve onun ötesinde, şimşeklerin aydınlattığı malikânenin karanlık silüetini görebiliyordu.`
 `......İçindeki açıklanamayan duyguyu bastırıp,`
 ` yüzünü tekrar konukevine dönene kadar epey bir zaman geçirmesi gerekti.`
