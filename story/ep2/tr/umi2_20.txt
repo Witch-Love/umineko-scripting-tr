@@ -1,7 +1,7 @@
 `"Peki o zaman,`
 ` ...hoşuna gitti mi?`
 ` Az önceki oyunumuz."`
-`"......Tek taraflı bir oyun, sürükleyici olmaktan çıkar ve sıkıcı hale gelir."`
+`"......Tek taraflı bir oyun, sürükleyici olmaktan çıkar ve sıkıcı hâle gelir."`
 `"*kıKIr*kıKIr*. Amanın, her zamanki gibi acımasız bir eleştirmensin.`
 ` ......Can sıkıntısından hiç hoşlanmayan Leydi {f:5:Bernkastel}'in bile,`
 ` bu zorlayıcı gelişmelerle tatmin olacağından o kadar emindim ki... Ne vicdansızlık."`
@@ -112,7 +112,7 @@
 `Eğer bu sonla birkaç kez daha karşılaşırsan,`
 ` kalbinin ölmesi yüz yıldan çok daha az sürecektir.`
 `......Beato benim içimi gördü, bu yüzden itiraf edeceğim.`
-`Şu anda tıpkı, benim geçmişte Lambda'nın dünyasına hapsedildiğim zamanki halim gibisin.`
+`Şu anda tıpkı, benim geçmişte Lambda'nın dünyasına hapsedildiğim zamanki hâlim gibisin.`
 `Zalim kaderin labirentine kapatılmış, bir cadının keyfince eziyet görüyordum.`
 `...Ben oradan doğmuş bir cadıyım.`
 `......Belki de senin için bir abla gibiyimdir.`
@@ -141,7 +141,7 @@
 ` ...aslında zayıf noktaları vardı.`
 `Âdeta bizim bunlardan faydalanmamızı istiyormuş gibi görünüyor.`
 `......Yine de, bu bir tuzak mı yoksa bizi test mi ediyor bilmiyorum.`
-`Her halükarda, teslim olma.`
+`Her hâlükârda, teslim olma.`
 `Düşünmeyi bırakma.`
 `Hiçbir olasılığı göz ardı etme.`
 `Sen savaşma isteğini koruduğun sürece Beato kazanamayacaktır.`
@@ -153,13 +153,13 @@
 `Artık müttefikin olduğumu ilan ettiğime göre, ben de elimden geldiğince gücümü sana ödünç vermek için çaba göstereceğim.`
 `Aynı çabayı sen de göster.`
 `Eğer hâlen dizlerine sarılıyorsan, hemen ayağa kalk.`
-`......Umm, böyle zamanlarda, ne diyordum?`
-`.........Umm, uh,`
+`......Şey, böyle zamanlarda, ne diyordum?`
+`.........Şey, uh,`
 ` .........Fi‐`
 `...fight,`
 ` oo~h.`
-` Mii,`
-` nipah~{p:0:☆}`
+` Mii—`
+`nipah~{p:0:☆}`
 `..................Bunu yapmak, çok utanç verici.`
 `......Senin için bu kadarını yaptım, şimdi acele et ve ayağa kalk.`
 `"...Ah, işte buradasın.`
@@ -184,15 +184,15 @@
 `Sen hâlâ dizlerine mi sarılıyorsun?`
 `Beato biraz ciddileşti diye hemen böyle mi oldun?`
 `Bundan daha zavallı olabilir misin?`
-`Çok acınası haldesin, sana biraz yardım edeceğim.`
+`Çok acınası hâldesin, sana biraz yardım edeceğim.`
 `Ben, evrenin en güçlüsü ve Kesinliğin Cadısı olan büyük Leydi {f:5:Lambdadelta},`
 ` kazanma konusundaki umutsuz olasılığını kesinliğe sadece bir nebze daha yakınlaştıracağım.`
 ` Bana teşekkür etsen iyi olur.`
 `{f:5:Beatrice}, gerçekten de zalim ve güçlü bir cadı olabilir, ama benimle boy ölçüşemez.`
 `Neden mi?`
 ` Çünkü o yumuşak.`
-`O çocuk, tahtayı birkaç hamle sonra mat edebileceği bir hale getirir ama kasıtlı olarak oyunu bitirmez.`
-`Değersiz taşları almak ya da işleri daha da tek taraflı hale getirmek için tahtaya çok fazla taş koymak gibi şeyler yapar.`
+`O çocuk, tahtayı birkaç hamle sonra mat edebileceği bir hâle getirir ama kasıtlı olarak oyunu bitirmez.`
+`Değersiz taşları almak ya da işleri daha da tek taraflı hâle getirmek için tahtaya çok fazla taş koymak gibi şeyler yapar.`
 `Mesele şu ki, kazanacağını düşündüğünde oyalanmak gibi kötü bir alışkanlığı var.`
 `Senin ve Bern için acı verici olan neredeyse tüm bu değişik saldırılar...`
 `bana tamamen israf ve abartı gibi geliyor.`
@@ -210,12 +210,12 @@
 `...Bern'in benim gibi kuralcı ve şeffaf bir tipi okuyup idare etmesi muhtemelen çok kolaydır.`
 ` Bu beni çok kızdırıyor!`
 `...Ama yine de, benim gibi süper ateş gücüne sahip bir tip, {f:5:Beatrice} gibi hafif, geniş menzilli bir yaylım ateşi tipine kolayca kafa tutabilir,`
-` bu yüzden sanırım bu bir tür taş-kağıt-makas gibi.`
-`Ben kağıtsam, Beato da taş.`
+` bu yüzden sanırım bu bir tür taş-kâğıt-makas gibi.`
+`Ben kâğıtsam, Beato da taş.`
 `Bern de sanırım makas olurdu.`
 `Beeelki, bunların hiçbir önemi yoktur.`
 `Elbette, benim kağıdım Bern'in makasına yenilir,`
-` ama tahta kadar kalın olan çok daha harika süper kağıt olsaydı, makası bile yenebilirdi, değil mi?!`
+` ama tahta kadar kalın olan çok daha harika süper kâğıt olsaydı, makası bile yenebilirdi, değil mi?!`
 `Kısaca, ben, Leydi {f:5:Lambdadelta},`
 ` süper kağıdım ve süper kalınım!`
 ` Hoh‐hoh‐hoh‐ho!`

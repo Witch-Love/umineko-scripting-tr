@@ -13,7 +13,7 @@
 ` Hoh-hoh-hoh-ho."`
 `"Bu doğru olsaydı inanılmaz olurdu.`
 ` Belki de uskumru pastası Babamın dükkanlarındaki yeni menüde yer alır."`
-`"Wahahaha!`
+`"Hahahaha!`
 ` Ne de olsa uskumru besleyici ve de oldukça sağlıklı bir imaja sahip.`
 ` Kadınlar ve yaşlılar arasında gerçekten popüler olabilir!`
 ` Ama ben yanına bile yaklaşmam!"`
@@ -36,7 +36,7 @@
 ` bazen eşek şakaları yapmak için beklenmedik bir şekilde temiz kalpli ve dürüst insanların karşısına çıktığını duymuştum.`
 ` Hoh-hoh-ho."`
 `{f:5:Beatrice}, Rokkenjima cadısıyla ilgili peri masalındaki varlığa atıfta bulunan bir isimdi.`
-`Aile ve hizmetkârlar, Kinzo'yu iyi bir ruh halinde tutabilmek için kuruntularındaki cadı imajını kabul ettikleri için,`
+`Aile ve hizmetkârlar, Kinzo'yu iyi bir ruh hâlinde tutabilmek için kuruntularındaki cadı imajını kabul ettikleri için,`
 ` bu imaj Rokkenjima'nın peri masalı ya da belki de hayalet hikâyesi olarak anılmaya başlandı...`
 `Bu geçmişi bilen aile üyeleri için Altın Cadı masalının pek bir önemi yoktu.`
 ` ...Ancak bunu Kinzo'nun önünde söyleyemezlerdi.`
@@ -126,7 +126,7 @@
 ` Büyükbabamın uzun zaman önceki metresiyle ilişkisini öğrenmesi,`
 ` ve onun kimliğine bürünerek miras meselesine dahil olmaya çalışması daha gerçekçi."`
 `"......Evet, bu daha gerçekçi.`
-` ...Ancak, onun gerçekten de izole bir şekilde yaşamış, büyükbaba tarafından unutulmuş,`
+` ...Ancak, onun gerçekten de izole bir şekilde yaşamış, Büyükbabam tarafından unutulmuş,`
 ` ve intikam için geri dönmüş gizli bir çocuk olma ihtimalini de görmezden gelemeyiz, değil mi...?"`
 `"İntikam mıı?!`
 ` Bu da nereden çıktı?!"`
@@ -144,7 +144,7 @@
 ` Böyle bir konusu olan bir roman okumayı çok isterdim."`
 `"Aslında bunun gerçekte yaşanabileceğini sanmıyorum.`
 ` ......Sonuçta, şu anda bu adada bir, iki, üç... 18 kişi var, değil mi?"`
-`"Eğer acayip bir şey yaparsa, onu hemen etkisiz hale getirebiliriz.`
+`"Eğer acayip bir şey yaparsa, onu hemen etkisiz hâle getirebiliriz.`
 ` Ve tayfun nedeniyle adadan bile ayrılamaz.`
 ` Kısacası, böyle manyakça bir suçu işleyebilmesinin imkânı yok."`
 `"......Katılıyorum.`
@@ -226,7 +226,7 @@
 `Ama Maria'nın yüz ifadesi değişmedi.`
 ` ......Sinsice gülerken Battler'a bakmaya devam etti...`
 `"Maria, sen de kes şunu.`
-` ...Tekrar iyi bir ruh haline dönelim, tamam mı?"`
+` ...Tekrar iyi bir ruh hâline dönelim, tamam mı?"`
 `"Kihihihihihihihihihihi, kihihihihihihihihihihihihi."`
 `"....................."`
 `"......Eğer istediğin buysa, {f:5:Beatrice} eminim ki sana gösterecektir.`
@@ -281,9 +281,9 @@
 ` ...Ona saygı göstermezsen lanetleniyorsun ve hatta gerçekten de en azından bir hizmetkâr bu şekilde bir kaza geçirmişti, değil mi?"`
 `"Evet...`
 ` ......Fakat bazı insanların diğerlerinden daha az ya da daha çok inandığı da doğru.`
-` ...Ben, umm, ...bu tür şeylere saygı duyulmasının unutulmaması gerektiğine inanıyorum, bu yüzden onun varlığından asla şüphe duymadım."`
+` ...Ben, şey, ...bu tür şeylere saygı duyulmasının unutulmaması gerektiğine inanıyorum, bu yüzden onun varlığından asla şüphe duymadım."`
 `"......Altın Cadı adında...`
-`...umm......bilinmeyen bir varlığın kesinlikle var olduğuna inanıyordum."`
+`...şey......bilinmeyen bir varlığın kesinlikle var olduğuna inanıyordum."`
 `"...Ve sonra o varlığı belirsiz cadı gerçekten kendini gösterdi ve bariz bir şekilde kapıdan içeri girdi... Olan bu muydu?"`
 `".........Bilmiyorum.`
 ` ...............Hiçbir şey...bilmiyorum."`
@@ -346,8 +346,8 @@
 ` Sana evlilik yüzüğü olarak verirdim.`
 ` ......Her iki durumda da sana bir yüzük vereceğim gerçeği değişmeyecek."`
 `"Yani bir tür sözleşme gibi, "Bu kadın benim, kimse ona dokunmasın" demek gibi."`
-`"Hha......hayır, umm, ......demek istediğim o değ......`
-` ...............*cough*."`
+`"Hha......hayır, şey, ......demek istediğim o değ......`
+` ...............*öksürür*."`
 `George utanç verici kişiliğini biliyordu.`
 ` Shannon'a aşık olduğunda ve mükemmel bir adam olmaya yemin ettiğinde, o utanç verici yanıyla yollarını ayırmaya da yemin etmişti.`
 `......Yani, bilerek biraz kabaca bir cevap vermeyi seçti.`
@@ -374,7 +374,7 @@
 ` Şu andan itibaren, bu bir nişan değil.`
 ` Bu bir evlilik yüzüğü."`
 `"Bu, ...bunda bir sorun yok mu...?`
-` Tanrı'nın onayı olmadan, umm, evliliğimizi ilan etmemiz doğru mu......?"`
+` Tanrı'nın onayı olmadan, şey, evliliğimizi ilan etmemiz doğru mu......?"`
 `"Evet.`
 ` Tanrıya, Babama ve Anneme bunu daha sonra anlatmamız yeterli olacaktır.`
 ` İkimizin evlendiğini ilan edeceğiz.`
@@ -424,7 +424,7 @@
 ` İçinde ikisini de kutsamaya fazlasıyla layık bir elmas yüzük vardı.`
 `George kafasının içinde defalarca prova ettiği o cümleyi söyledi.`
 `"Ben, ......Ben bu yüzüğü istediğin parmağına takmanı, ve bunun senin cevabın olmasını istiyorum.`
-` Umm, yani, yarın sabaha kadar......"`
+` Şey, yani, yarın sabaha kadar......"`
 `"......*kıkırdar*."`
 `Shannon gülümsedi, yüzüğü aldı,`
 ` ......ve tamamen doğal bir hareketle sol elinin yüzük parmağına taktı.`
@@ -454,7 +454,7 @@
 ` Asla insan olamayacağını biliyorsun!`
 ` Altın Diyar'a gitmedikçe insan olamayacağını biliyorsun!!"`
 `"......Neden Altın Diyar'a gitmeni sağlayacak vaadi bir kenara attın...?!!"`
-`"Oh evet.`
+`"Evet.`
 ` Yüzüğü kabul ederek, ......{f:5:Beatrice}-sama'nın verdiği söz boşa gitmiş oldu, değil mi?`
 ` ......*kıkırdar*, üzgünüm."`
 `"............Şimdi, ben, sen, George-sama, Efendi, her birimiz aynı durumdayız.`
@@ -466,7 +466,7 @@
 ` ......Görünüşe göre pişmanlıkları olan sensin, Kanon-kun."`
 `"Pişmanları olan sen değil misin Nee-san!`
 ` Nişanlanmadın mı?!`
-` Bunun asla gerçekleşmeyecek bir kader olduğunu bildiğin halde!!"`
+` Bunun asla gerçekleşmeyecek bir kader olduğunu bildiğin hâlde!!"`
 `"Evet.`
 ` ...Sonsuza, sonsuza kadar birlikte olacağımıza söz verdim."`
 `"......Peki biliyor musun?`
@@ -569,7 +569,7 @@
 ` {i:Şeytanları kanıtladın!}`
 ` Sen kazandın...!"`
 `"*kıKIr*kıKIr*kıKIr*...!`
-` Şeytan'ın İspatı, bir şeyi kanıtlamanın imkânsız olduğunu göstermek için kullanmayı sevdiğiniz kullanışlı bir bahaneydi, ......ama şimdi can düşmanınız haline geldi, değil mi?"`
+` Şeytan'ın İspatı, bir şeyi kanıtlamanın imkânsız olduğunu göstermek için kullanmayı sevdiğiniz kullanışlı bir bahaneydi, ......ama şimdi can düşmanınız hâline geldi, değil mi?"`
 `"......Bana zulmetme, büyük cadı.`
 ` .........Ben seni çoktan kabul ettim.`
 ` Pes ediyorum."`
