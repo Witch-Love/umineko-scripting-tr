@@ -142,8 +142,8 @@
 `{n}Bu, çalışma odasının Kinzo'nun elindekinin dışında var olan tek anahtarıydı.`
 `Anahtarı deliğe soktu ve ağır ağır çevirmeye başladı.`
 `{n}......Bir düşününce, bu ağırlığın, kilidin hâlâ sağlam olduğunu göstermesi gerekirdi.`
-`Ancak bariyerin yok edilmiş olması,`
-` bu kapının büyülü güçlere sahip herkes için uzun zamandır ardına kadar açık olduğu anlamına geliyordu...`
+`Ancak bariyerin yok edilmiş olması...`
+`bu kapının büyülü güçlere sahip herkes için uzun zamandır ardına kadar açık olduğu anlamına geliyordu...`
 `Kilitten çıkan ağır takırtı sesi, kapının {i:insanlara da} açıldığını işaret etti.`
 `"......İzninizle."`
 `Genji saygıyla başını eğmiş,`
@@ -488,11 +488,11 @@
 `"Pu ku ku ku ku!`
 ` Hangisine tezahürat yapsam ki?"`
 `"...Sen...`
-` ......benimle aynı seviyede olduğunu mu ima ediyorsun...!"`
+`......benimle aynı seviyede olduğunu mu ima ediyorsun...!"`
 `".........Bana yukarıdan bakma.`
 ` Sende o kibir olduğu sürece, bana karşı asla kazanamazsın."`
-`"B-Benim,`
-` ...Araf'ın Yedi Kız Kardeşi'nin en büyüğü, Lucifer'in asla kazanamayacağını mı söylüyorsun?!`
+`"B-Benim...`
+`...Araf'ın Yedi Kız Kardeşi'nin en büyüğü, Lucifer'in asla kazanamayacağını mı söylüyorsun?!`
 ` B-Bu...nasıl bir kendini beğenmişlik!"`
 `"...Ne..............."`
 `Kanon umutsuzca hayatta kalmaya çalışıyor, insan olmak için güçlü bir arzu duyuyordu.`
@@ -736,7 +736,7 @@
 ` .........uuuuuuuuğhhuhu!!`
 ` Uvaaaaaaaaaaaaaaaaa...!!"`
 `Bu aşağılayıcı sözleri söylemeye daha fazla dayanamayan,`
-`...kibrin adını taşıyan kız, ağlamaya başladı.`
+` ...kibrin adını taşıyan kız, ağlamaya başladı.`
 `Ancak, altı küçük kız kardeş soğukkanlılıkla kıkırdamaya devam etti.`
 `"Heyyyy!`
 ` Ağlayarak bizi kandıracağını sanma!`
@@ -870,7 +870,7 @@
 `Bu sırada, .........Genji usulca kırmızı bariyerin içine girdi.`
 `{n}Bu bariyer, kötü niyeti olmayanları engellemiyor olmalıydı.`
 `Sonrasında Genji...Shannon'u nazikçe arkasından tuttu,`
-`......ve sağ eliyle gözlerini kapattı.`
+` ......ve sağ eliyle gözlerini kapattı.`
 `"............Genji‐sama..."`
 `"Yeterince şey yaptın...`
 ` .........Benden önce uyu."`

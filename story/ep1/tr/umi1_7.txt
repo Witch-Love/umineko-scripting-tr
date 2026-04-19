@@ -312,7 +312,7 @@
 ` İblislerin Ruleti çoktan dönmeye başladı.`
 ` Bu noktada akşam yemeğinin ne anlamı var ki........."`
 `Kinzo sanki kapıya vurulan gürültüyü duymamış gibi,`
-` tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
+`{n}tam bir huzur içinde, sessizce bir sonraki satranç hamlesini düşünüyordu...`
 `Her zaman olduğu gibi, yemek salonunda eksik olan tek kişi Kinzo'ydu.`
 `{n}Krauss, acı bir gülümsemeyle Nanjo'yla birlikte geri döndü.`
 `"Babam her zaman olduğu gibi kendini iyi hissetmiyor.`
@@ -393,7 +393,7 @@
 ` Diğerleriyle yaptığım "dostça" sohbetten sonra başım o kadar kötü ağrıyordu ki odamda dinleniyordum.`
 ` Hâliyle hiç dışarı çıkmadım."`
 `".........O zaman kimdi?`
-` George-kun, sizler...`
+` George-kun, siz...`
 `...olamazsınız herhâlde."`
 `"Hayır, biz değildik.`
 ` Bütün bu zaman boyunca konukevinde televizyon izliyorduk."`
