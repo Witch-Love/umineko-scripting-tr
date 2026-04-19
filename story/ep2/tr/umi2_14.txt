@@ -720,7 +720,7 @@
 `"......Eğer, güveninizi bir kez daha bize bahşederseniz, bundan daha büyük bir sevinç olamaz."`
 `"Haklısın.`
 ` ......Birbirimizi kesinlikle anlayabileceğiz.`
-` ......{ruby:When the seagulls cry:{i:Martılar ağladığında.}}"`
+` ......{ruby:Umineko no Naku Koro ni:{i:Martılar ağladığında.}}"`
 `".........Polis gelene kadar bu odayı olduğu gibi bırakmamız muhtemelen daha iyi olur.`
 ` Rosa-sama, lütfen kilitleyebilir misiniz?`
 ` ......Biz mutfağa döneceğiz.`
@@ -738,7 +738,7 @@
 ` Tüm bunlar tayfunun estirdiği rüzgârların ve yağan yağmurun bir çılgınlığı.`
 ` ......Gösteri sona erdiğinde, ve perde kapandığında,`
 ` ......kesinlikle yeniden el ele tutuşabileceğiz."`
-`"......{ruby:When the seagulls cry:{i:Martılar...ağladığında.}}"`
+`"......{ruby:Umineko no Naku Koro ni:{i:Martılar...ağladığında.}}"`
 `Rosa Hala cevap olarak başını salladı...`
 `Genji-san topuklarının üzerinde döndü.`
 `{n}Ve hizmetkâr odasından çıktı.`

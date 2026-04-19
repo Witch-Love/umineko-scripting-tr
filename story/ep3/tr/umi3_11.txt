@@ -387,7 +387,7 @@
 `"Bir gece mi, ...buna söz veremem...!"`
 `"Sıradaki aile reisi olan sana olan saygımdan ötürü, bir geceliğine seni destekleyeceğim.`
 ` ......Bu yılki aile konferansı, tayfun geçtiğinde ve tekne yarın sabah bizi almaya geldiğinde,`
-` ...doğru, martılar ağladığında son bulacak.`
+` ...doğru, {ruby:Umineko no Naku Koro ni:martılar ağladığında} son bulacak.`
 ` ......O zamana kadar sesimi çıkartmayacağım."`
 `"Eğer daha fazla düşünecek zamana ihtiyacın olacak olursa, ...neden o zaman geldiğinde tekrar konuşmuyoruz?`
 ` .........Ben, senin pozisyonunu...`

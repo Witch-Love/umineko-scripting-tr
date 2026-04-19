@@ -352,7 +352,7 @@
 ` .........Suçlu ne kadar uğraşırsa uğraşsın, bu adadan kaçmasına imkân yok...!!!"`
 `"......Doğru.`
 ` ...Polis geldiğinde..."`
-`{ruby:When the seagulls cry:Martılar ağladığında}, ...suç çözülecek.`
+`{ruby:Umineko no Naku Koro ni:Martılar ağladığında}, ...suç çözülecek.`
 `Ama, ...nedense, Battler hafif bir tedirginlik hissetti...sanki martılar bir daha hiç ağlamayacaklarmış gibi.`
 `......Bu doğru olamaz.`
 `{n}Tayfun geçtiğinde martılar limana geri dönecek olmalı......`
