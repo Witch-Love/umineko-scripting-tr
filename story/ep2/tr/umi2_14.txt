@@ -390,8 +390,8 @@
 ` {p:1:Dolayısıyla, hem Jessica'nın odası hem de bu hizmetkâr odası vakasında, sizin farkında olmadığınız hiçbir insan yok}.`
 ` {p:1:Kimse saklanmıyor}."`
 `"Ve dahasını da söyleyeceğim.`
-` {p:1:Kapıların anahtar kullanılmadan dışarıdan kilitlenebileceği bir yöntem bulunmuyor}.`
-` {p:1:Pencerelere gelince, dışarıdan bir şekilde kilitlenmelerini sağlayacak herhangi bir yöntem yok}."`
+` {p:1:Kapıların anahtar kullanılmadan dışarıdan kilitlenebileceği bir yöntem yok}.`
+` {p:1:Pencerelere gelince, dışarıdan kilitlenebilecekleri herhangi bir yöntem yok}."`
 `"Ve şunu da söylemeliyim.`
 ` {p:1:Tam bir beceriksizsin}!"`
 `"*kıKIr*kıKIr*kıKIr*kıKIr*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
@@ -849,8 +849,8 @@
 `"Lütfen, Beato, burada kendini göster ve Rosa Halaya...`
 `tüm master anahtarların bunlar olduğunu, ve artık kimseden şüphelenmeye gerek olmadığını söyle...!!!"`
 `"`
-`{p:1:Master anahtarlardan beş tane var}.`
-` {p:1:Master anahtarlardan beş tane var}."`
+`{p:1:Master anahtarlardan sadece beş tane var}.`
+` {p:1:Master anahtarlardan sadece beş tane var}."`
 `"...*kıKIr*, problem ne acaba?`
 ` Ben ne kadar söylersem söyleyeyim Rosa'nın kulağına ulaşmıyor.`
 ` Görünüşe göre hâlâ benim varlığımı inkâr eden birileri var, öyle değil miiiii?`

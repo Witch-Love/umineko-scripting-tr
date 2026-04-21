@@ -1414,7 +1414,7 @@
 `".........Bu doğru.`
 ` İşin sonunda, üç kişi yiyecek almak için dışarı çıktı."`
 `"Mızmızlanacağını bildiğimden biraz kırmızı serpiştireceğim.`
-` {p:1:Kyrie yiyeceğe ihtiyaçları olduğunu düşünmüyordu}.`
+` {p:1:Kyrie yiyeceğe ihtiyaçları olmadığını düşünüyordu}.`
 ` Bir günlüğüne yemek yememek onları öldürmeyeceğinden,`
 ` {p:1:konukevinden çıkmamaları gerektiğini vurgulamıştı}."`
 `"Buna rağmen bizzat kendisi...`
@@ -1485,7 +1485,7 @@
 ` Kendi tarzında düşün!"`
 `"Neden hemen şimdi pes etmiyorsun?`
 ` Hazır başlamışken seni kırmızıyla daha da köşeye sıkıştıracağım.`
-` {p:1:Kyrie, ölmeden önceki son anına kadar ‘yemek almaya gitmeyeceğim, malikâneye gitmeyeceğim’ şeklindeki davranış biçimini sürdürdü}!"`
+` {p:1:Kyrie, ölmeden önceki son anına kadar ‘yiyecek almaya gitmeyeceğim, malikâneye gitmeyeceğim’ şeklindeki davranış biçimini sürdürdü}!"`
 `"Buna rağmen, fikri ortaya kendisi attı ve malikâneye doğru yola koyuldu.`
 ` El arabasını iterek yiyecek taşımaya çalışıyordu.`
 ` Bu çelişki neden?`
@@ -1832,7 +1832,7 @@
 `"`
 `{p:1:Jessica yaralandıktan sonra},`
 ` {p:1:Eva daima Battler'ın gözetimi altındaydı}.`
-` {p:1:Battler ne suçlu ne de suç ortağı}.`
+` {p:1:Battler suçlu da değil, suç ortağı da değil}.`
 ` {p:1:Bu sayede, Eva için mükemmel bir mazeret yaratabiliriz}."`
 `"N-......Ne...............?"`
 `"Seni,`
