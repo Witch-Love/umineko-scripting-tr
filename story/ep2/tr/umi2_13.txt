@@ -263,7 +263,7 @@
 ` Teşekkürler.`
 ` Kudretli cadı'nın çok diplomatik davranması sayesinde, her yeri aramadan odanın gizli kapısı olmadığı sonucuna varabiliyorum."`
 `"Kesinlikle.`
-` {p:1:Bu odada hiç gizli kapı yok}.`
+` {p:1:Bu odada gizli kapı yok}.`
 ` {p:1:Kapı ve pencereler dışında içeri girmenin ya da dışarı çıkmanın hiçbir yolu yok}."`
 `"......Bu da demek oluyor ki...`
 `...Rosa Halanın o kadar emin olduğu teori...`
@@ -271,7 +271,7 @@
 `"...Üstelik, sinir bozucu bir şekilde, bu teoriyi çürütmek imkânsız.`
 ` ......Eğer cadı olan sen, kırmızıyla`
 ` "`
-`{p:1:hiç gizli kapı yok}" dersen, tüm mesele hallolur."`
+`{p:1:gizli kapı yok}" dersen, tüm mesele hallolur."`
 `"......Ancak, benim gibi bir insan, Rosa Halaya ne kadar karşı çıkıp tartışmaya çalışırsa çalışsın, muhtemelen bunu kabul etmeyecektir.`
 ` {i:İnsanlar gizli bir kapının olmadığını kanıtlayamaz}."`
 `"Bu bir Şeytan'ın İspatı.`

@@ -78,7 +78,7 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
 </details>
 
 * <details>
-  <summary>Episode 3 ✍️</summary>
+  <summary>Episode 3 ✅</summary>
 
    * Story
       * [Chapter 0 (Prologue)](story/ep3/tr/umi3_op.txt) ✅<sup>1</sup>
@@ -99,9 +99,9 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
       * [Chapter 15](story/ep3/tr/umi3_15.txt) ✅<sup>1</sup>
       * [Chapter 16](story/ep3/tr/umi3_16.txt) ✅<sup>1</sup>
       * [Chapter 17](story/ep3/tr/umi3_17.txt) ✅<sup>1</sup>
-      * [Chapter 18](story/ep3/tr/umi3_18.txt) `<- Burdayız`
-      * [Chapter 19 (Tea Party)](story/ep3/tr/umi3_19.txt) ❌
-      * [Chapter 20 (Hidden Tea Party)](story/ep3/tr/umi3_20.txt) ❌
+      * [Chapter 18](story/ep3/tr/umi3_18.txt) ✅<sup>1</sup>
+      * [Chapter 19 (Tea Party)](story/ep3/tr/umi3_19.txt) ✅<sup>1</sup>
+      * [Chapter 20 (Hidden Tea Party)](story/ep3/tr/umi3_20.txt) ✅<sup>1</sup>
          * [Song: activepain](https://github.com/Witch-Love/umineko-scripting-tr-files/blob/master/files/video/sub/83_tr.ass) ✅
    * Other
       * [Tips Titles](script/tr/menu.txt#L20-L26) ✅
@@ -114,10 +114,10 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
 </details>
 
 * <details>
-  <summary>Episode 4 ❌</summary>
+  <summary>Episode 4 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](story/ep4/tr/umi4_op.txt) ❌
+      * [Chapter 0 (Prologue)](story/ep4/tr/umi4_op.txt) `<- Burdayız`
       * [Chapter 1](story/ep4/tr/umi4_1.txt) ❌
       * [Chapter 2](story/ep4/tr/umi4_2.txt) ❌
       * [Chapter 3](story/ep4/tr/umi4_3.txt) ❌
