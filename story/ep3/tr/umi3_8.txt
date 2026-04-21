@@ -104,7 +104,7 @@
 `"......Çocuklar iyi.`
 ` Dün gece geç yatmışlar."`
 `"Hizmetkâr odası boş.`
-`...Vardiya listesinde sabah vardiyasının altıda başladığı yazıyordu.`
+` ...Vardiya listesinde sabah vardiyasının altıda başladığı yazıyordu.`
 ` Çoktan çalışmaya başlamış olmaları gerekirdi..."`
 `"Dinlenme odası da boştu.`
 ` Yatakların kullanıldığına dair izler vardı, ama sıcak değillerdi."`
@@ -388,16 +388,16 @@
 `"...Bunlar genel seviye bilgiler."`
 `"Filojiston da kalorik de, hatta Gökler ve Tanrı'nın sevgisi bile.`
 ` ......Hepsi bilimsel açıklamalar karşısında güçsüzdür.`
-` Bana eskiden ağaçtan elma düşmesinin,`
-` insanlara yiyecek veren Tanrı'nın sevgisi sayesinde olduğu söylenmişti."`
+` Bana eskiden ağaçtan elma düşmesinin...`
+`insanlara yiyecek veren Tanrı'nın sevgisi sayesinde olduğu söylenmişti."`
 `"Yerçekimi bile mi Tanrı'nın sevgisi olmuş?`
 ` ...Eh, bilimden ziyade dinî açıklamaları kullandıkları dönemin artıkları olsa gerek."`
 `"Aynen öyle.`
-` İnsanlar geçmişte bilgilerinin sınırlarına,`
-` ...hayır, cehaletin bizzat kendisine "büyü" diyorlardı.`
+` İnsanlar geçmişte bilgilerinin sınırlarına...`
+`...hayır, cehaletin bizzat kendisine "büyü" diyorlardı.`
 ` ...Az önce yağmur duasında da bahsettiğimiz gibi."`
-`"Eski çağlardaki insanlar,`
-` ateşin ısısının göğe yükselip bulutların oluşumuna yol açtığını bilimsel olarak anlayabiliyor muydu?`
+`"Eski çağlardaki insanlar...`
+`ateşin ısısının göğe yükselip bulutların oluşumuna yol açtığını bilimsel olarak anlayabiliyor muydu?`
 ` Anlayamasalar bile, en azından sonucun buna vardığını biliyorlardı."`
 `"......Bu sıkça yaşanmış bir şey olmalı.`
 ` Atalarımızın bilgeliği.`
@@ -628,7 +628,7 @@
 ` Ve burada hiçbir büyü kalıntısı yok!`
 ` Bu yüzden de siz cadılar arasındaki o savaş {i:gerçekleşmedi}!!"`
 `"N-`
-` ......ne,`
+`......ne,`
 ` B-Bu karşılık......?!`
 ` Bu güç,`
 ` ...y-yoksa...?!"`

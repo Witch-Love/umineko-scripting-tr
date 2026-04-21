@@ -240,14 +240,14 @@
 `Sanki iki {f:5:Beatrice}'in arasında havada kıvılcımlar patlamış gibiydi.`
 `Birbirlerine attıkları tek bir bakışla, alandaki tüm ruhların kökünü kurutmuşlardı.`
 `...Bunu gören Yedi Kız Kardeş'in tüyleri ürperdi.`
-`...Üç adım daha yakın olsalar, çoktan toza dönüşmüş olurlardı.`
+` ...Üç adım daha yakın olsalar, çoktan toza dönüşmüş olurlardı.`
 `"Hadi, buyur gel.`
 ` {f:5:Beatrice}.`
 ` ...Sana o adı teslim etmek, hayatımdaki tek pişmanlığım.`
 ` Bu hatayı şimdi, kendi ellerimle düzelteceğim!"`
 `"*kıKIr*kıKIr*kıKIr*...`
 ` ...Cık cık cık.`
-`......Öyle değil, Ustaaa.`
+` ......Öyle değil, Ustaaa.`
 ` Benim tek hatam...`
 `bu seviyede bir gücü öğrenmek için senin öğrencin olmaktı, anlıyor musuuunn?"`
 `"Ne büyüsü?`
@@ -510,7 +510,7 @@
 ` ...Nihayet hatırlamaya başladın mı...?`
 ` ............Ha, Usta.`
 ` Arkandaki o şeyi...`
-` ...hatırladın mı...?"`
+`...hatırladın mıı...?"`
 `"...Ne dedin...?`
 ` .................................Bu..."`
 `Selef {f:5:Beatrice} arkasına döndüğünde,`

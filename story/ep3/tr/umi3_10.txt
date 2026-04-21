@@ -262,7 +262,7 @@
 ` ......Hayır, {loghint:muttsu:altı şeyden} oluşan belirli bir grubu işaret ediyor desek daha iyi.`
 ` ......Eğer kelimenin tam anlamıyla kurban sunmaktan bahsetmiyorsa tabii.`
 ` ...Mesela, bu bir anagram olabilir."`
-` "Anagram mı?`
+`"Anagram mı?`
 ` Kelime oyunu mu demek istiyorsun...?"`
 `"Evet.`
 ` Rosa-san soyağacından ve "köy" karakterinin Maria-chan'ın adının bir parçası olduğundan bahsettiğinden beri,`
@@ -611,7 +611,7 @@
 `"......Eva,`
 ` uykun varsa, kendini zorlama.`
 ` İlk sen dinlen."`
-` Te-......Teşekkür ederim.`
+`"Te-......Teşekkür ederim.`
 ` Lavaboya gidip yüzümü yıkayacağım."`
 `"Sakin olup dinlenmelisin.`
 ` ...Ya sağlığın tekrar kötüleşirse?"`
