@@ -999,8 +999,8 @@
 `"Pekâlâ.`
 ` İlk olarak,`
 ` {p:1:herhangi bir tür gizli kapı kesinlikle bulunmuyor}.`
-` {p:1:Bu kapı içeri girmenin ya da dışarı çıkmanın tek yolu}.`
-` {p:1:Bu kapıyı kilitlemenin tek yolu Jessica'nın tek anahtarı ya da her hizmetkârda sadece bir adet bulunan master anahtarlar}."`
+` {p:1:Bu kapı, içeri girmenin ya da dışarı çıkmanın tek yolu}.`
+` {p:1:Bu kapıyı kilitlemenin tek yolu, Jessica'nın tek anahtarı ya da her hizmetkârda sadece bir adet bulunan master anahtarlar}."`
 `"Oda ikinci katta, lakin muhtemelen pencereden girip çıkmak mümkündür.`
 ` Ancak,`
 ` {p:1:pencere içeriden kilitli}."`
@@ -1048,7 +1048,7 @@
 ` Beni parmağında oynatıyor gibisin, sinir bozucu...`
 ` Bir süre sessiz kal, düşünüyorum...!"`
 `"Tabii ki, bu kapı da kiliseninkiyle aynı.`
-` {p:1:Kilitlendiğinde, herhangi bir şekilde giriş veya çıkışa izin vermez}."`
+` {p:1:Kilitlendiğinde, hiçbir şekilde giriş veya çıkış yapılamaz}."`
 `"Dahası da var. {p:1:Hiçbir yöntem, anahtar kullanmadan kapıyı dışarıdan kilitleyemez}.`
 ` *kıKIr*kıKIr*...!"`
 `"Cık.`
