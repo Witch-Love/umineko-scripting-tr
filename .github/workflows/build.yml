@@ -2,6 +2,12 @@ name: Build
 
 on: 
   workflow_dispatch:
+    inputs:
+      message:
+        description: 'Release message'
+        required: false
+        default: ''
+        type: string
   repository_dispatch:
 
 jobs:
@@ -10,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -40,8 +46,11 @@ jobs:
           cd ciout
           wget https://github.com/Witch-Love/umineko-scripting-tr-files/releases/latest/download/locale_tr_game.hash
           zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file game.hash locale_tr_game.hash default.cfg tr.cfg chiru_tr.file || exit 1
-          cd ..
-          echo "Kurulum detayları için [buraya](https://witch-love.com/umineko/installation) bakınız." >> release_notes.md
+      - name: Write release notes
+        run: |
+          cat <<EOF >> release_notes.md
+          ${{ inputs.message != '' && inputs.message || 'No specific release notes provided.' }}
+          EOF
 
       - name: Release
         if: github.repository_owner == 'Witch-Love'
