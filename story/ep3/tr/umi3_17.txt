@@ -60,7 +60,7 @@
 `......Ve, bunu söylemek acımasızca olsa da,`
 ` Krauss Amca ve Natsuhi Yenge çoktan ölmüştü.`
 ` Yani onlar için yapabileceğimiz bir şey yoktu...`
-`Sonunda, Jessica'yı teselli edip birlikte malikaneye gitmekten başka çaremiz yoktu.`
+`Sonunda, Jessica'yı teselli edip birlikte malikâneye gitmekten başka çaremiz yoktu.`
 `...Neyse ki Jessica ayağa kalktı.`
 `Belki de kederine şimdilik bir son verebilmişti.`
 ` ......Ama onun yerine ortaya çıkan şey, şeytani bir ifadeydi.`
@@ -257,7 +257,7 @@
 ` Neden?"`
 `"Çünkü {i:suçlu sensin}, işte bu yüzden!!`
 ` Babamı ve Annemi öldürdün, onları dışarı taşıdın, utanmadan kapıyı kilitledin.`
-` Ve bunu lanet olası o cadı yapmış gibi göstermeye çalıştın...!!"`
+` Ve bunu o lanet olası cadı yapmış gibi göstermeye çalıştın...!!"`
 `"O zaman George neden ortadan kayboldu?!`
 ` Aşağı hiç inmediğinden haberin var mı?!`
 ` Yani üst kattan mı kayboldu?!"`
@@ -316,7 +316,7 @@
 `"Gözlerim acıyor, acıyor...`
 ` ...Göremiyorum,`
 ` ...göremiyorum......!!"`
-`Doktor Nanjo, Jessica'ya destek oldu ve onunla hizmetkâr odasında yarasıyla ilgileneceğini söyledi.`
+`Doktor Nanjo, Jessica'ya destek oldu ve ona hizmetkâr odasında yarasıyla ilgileneceğini söyledi.`
 `......Görünüşe göre bu malikânedeki hizmetkâr odasında bir yatak ve ilk yardım çantası vardı. Bu sayede bir revir olarak da işlev görebiliyordu.`
 `"Kahretsiiiiin!!`
 ` Babamın ve Annemin katili!!`
@@ -366,7 +366,7 @@
 ` Büyükbabam ve hizmetkârlar için de aynı şey geçerli.`
 ` Dün geceki aile konferansından gizlice sıvışıp hepsini öldürmüş olmalı...!!"`
 `"......E-Eğer durum buysa, polis soruşturur soruşturmaz ortaya çıkacaktır."`
-`"Polisler inanılmazdır, bilirsin—bir adli tıpta açığa çıkarılamayacak hiçbir şey yoktur.`
+`"Polisler inanılmazdır, bilirsin—adli tıpta açığa çıkarılamayacak hiçbir şey yoktur.`
 ` ......Kimseden şüphelenmemize ya da nefret etmemize gerek yok.`
 ` Polisler her şeyi çözecektir."`
 `"O yüzden Jessica-san, şimdilik dikkatini vücudunu dinlendirmeye ve gözlerini yormamaya vermelisin.`
@@ -464,7 +464,7 @@
 ` ......yardım edin.........!!`
 ` Hiiiiiiiiiiii!!"`
 `Etrafı elleriyle yoklayarak kaçmak için bir yol bulmaya çalıştı.`
-` Bu odayı çok iyi bilmesine rağmen, gözlerinin görmemesi bu odayı onun için karanlık bir kilitli oda hâline gelmişti.`
+` Bu odayı çok iyi bilmesine rağmen, gözlerinin görmemesi bu odayı onun için karanlık bir kilitli oda hâline getirmişti.`
 `Raflara ve oraya buraya çarpmasının üzerine, bazı metal kutular ve şişeler kafasına düştü.`
 `...Bu hâldeyken kafasını koruyarak hareket etmeye çalışmak bile yeterli gelmiyordu.`
 `...İnsanların görme duyularını kaybettiklerinde ne kadar acizleştiklerini acı bir şekilde fark etmeye başlamıştı.`
@@ -552,7 +552,7 @@
 ` .........Şimdiye kadar, sayamayacağım kadar çok canla oynadım ve can aldım.`
 ` ...Bu yüzden aynı sayıda hayatı kurtarmak dışında bu günahı telafi edemeyebilirim."`
 `"......Nasıl olsa kaybedecek hiçbir şeyim kalmadı.`
-` ...Adını da büyü gücünü de devretmiş, artık sadece cadı olarak bile görülmeyen sıradan bir altın kelebeğim."`
+` ...Adını da büyü gücünü de devretmiş, artık cadı olarak bile görülmeyen sıradan bir altın kelebeğim."`
 `".........Battler-sama ne olacak?`
 ` Oyununuzun yarısındasınız.`
 ` Siz dönene kadar bekleyeceğini söylemişti, Leydim."`
@@ -603,7 +603,7 @@
 `Bunu yapabilirseniz, ......formum sizin için bile görünür hâle gelecektir, Leydim...`
 `Jessica, bu sözlere harfi harfine uydu.`
 `{n}Kafasındaki tüm boş düşüncelerinden arındı ve nefes alış verişini düzene soktu.`
-`......Aslında, öldüğünü sandığı sevdiğinin sesini duyması, âdeta kalbini patlatacaktı.`
+`......Aslında, öldüğünü sandığı sevdiğinin sesini duyması âdeta kalbini patlatacaktı.`
 `Buna var gücüyle karşı koydu.`
 `......Ardından, ......Kanon-kun'un gerçekten tam karşısında olduğunu hissedebilmeye başladı.`
 `......Göremese bile, ......onu net bir şekilde hissedebiliyordu.`
@@ -841,7 +841,7 @@
 ` 410'a veri bağlantısı."`
 `"410, veri alındı. Nihi!`
 ` O zaman önce Selefi{0}{nobreak:{m:-5:——}—}{0}meliyiz nyeh.`
-` Yüce Leydi {f:5:Beatrice}, ateş izni lütfen!"`
+` Büyük Leydi {f:5:Beatrice}, ateş izni lütfen!"`
 `"Vurun gitsin.`
 ` ...Ah, ama hayati noktalardan sakının.`
 ` O kocakarıya soracaklarım var."`
@@ -1189,7 +1189,7 @@
 `"B-Büyüye karşı direnci, {ruby:sonsuz dokuz:<Endless Nine>}...`
 ` E-Efsanevi sınıf büyülü saldırıların bile hedef üzerinde hiçbir etkisi yok!!"`
 `Altın yayların ateşleyici parçaları, karşılıklı aşındırıcı etkileriyle her türlü büyülü zırhı delip geçebilirdi.`
-`Bunu büyü karşıtı dirençle engellenmeye çalıştığınızda, sekiz basamaklı bir değer bile bu etkiden kaçamazdı.`
+`Bunu büyü-karşıtı dirençle engellenmeye çalıştığınızda, sekiz basamaklı bir değer bile bu etkiden kaçamazdı.`
 `...Dahası, efsanelerde geçen destansı tanrılar arasında bile dokuz basamaklı bir direnç statüsüne ulaşan pek fazla tanrı yoktu.`
 `Bu nedenle, akla gelebilecek neredeyse tüm değerleri ölçmek için dokuz basamak yeterliydi.`
 `...Battler, bu basamakların dokuzunu da 9'larla doldurmuştu......`
@@ -1261,12 +1261,12 @@
 `"Ha?`
 ` Saçmalıııkk!`
 ` Hadi, gel, hatırlamaya çalış!`
-` Ushiromiya Hideyoshi nasıl bir formun vardı?!!"`
+` Ushiromiya Hideyoshi, nasıl bir formun vardı?!!"`
 `"Ne?`
 ` Ne yaptı bu?"`
 `"......Ölü çağırma.`
 ` Bir cadı için, ölüleri bile tanık kürsüsüne çıkarmak kolaydır..."`
-`Şeffaf bir Hideyoshi Enişte çağırıldı.`
+`Şeffaf bir Hideyoshi Enişte çağrıldı.`
 `...Büyü sahiden de çok kullanışlı.`
 `{n}Burada neler olup bittiğini göremiyormuş gibi duruyordu. Sanki televizyonun diğer tarafındaki biri gibiydi.`
 `"Tanık çağrısı.`
@@ -1639,10 +1639,10 @@
 ` Ne kadar küçümsensem de......benim onurum için savaşan Battler'ın,`
 ` ......onun onuru uğruna, ...yılmamalıyım........."`
 `Beato üzerine yağdırılan aşağılama sözcükleri karşısında gözyaşlarını tutamadı.`
-` Kyrie'nin üzerinde başka bir bulma umuduyla, ......Battler'ı içinde bulunduğu kötü durumdan kurtarabilecek bir şey bulma umuduyla,`
+` Kyrie'nin üzerinde başka bir şey bulma umuduyla, ......Battler'ı içinde bulunduğu kötü durumdan kurtarabilecek bir şey bulma umuduyla,`
 ` ......ısrarla aramaya devam etti.`
 `...Ancak başka bir şey çıkmadı......`
-`"...............Kahreetsin......`
+`"...............Kahretsin......`
 ` ......Yalvarıyorum, ......Ushiromiya Kyrie......`
 ` Oğlunu bu kötü durumdan kurtaracağını biliyorum......`
 ` .........Ne olur, ......ölü olsan bile, onun iyiliği için bana gücünü bahşet......"`
@@ -1911,7 +1911,7 @@
 ` {p:1:Jessica'nın gözleri tamamen kapanmıştı ve cinayet işlemek onun için imkânsızdı}!"`
 `"Ne tür bir kişiliğe sahip olursa olsun, o bedende cinayet işlenemez!`
 ` Acaba bu şekilde söylersem tatmin olur musun?"`
-`"{p:1:Jessica'nın bedeninin neden olduğu eylemler, Nanjo'nun öldürülmesiyle ilişkisizdi ve bir etkisi yoktu}!`
+`"{p:1:Jessica'nın bedeninin neden olduğu eylemler, Nanjo'nun öldürülmesiyle ilişkisizdi ve buna bir etkisi yoktu}!`
 ` {p:1:Bu, Battler ve Eva için de geçerli}.`
 ` Kısaca, ne kadar mücadele etsen de, ne kadar yorumlasan da,`
 ` {p:1:Jessica da Battler da Eva da Nanjo'yu öldüren suçlu değil}!"`
@@ -2017,7 +2017,7 @@
 ` Burada teslim mi olacaksın...?!`
 ` Benimle tekrar çarpışamadan, böyle bir yerde kaybolup gidecek misin......?!"`
 `"Bu sözü bozmak istemiyorum......`
-` ............Ancak......onu inkâr bir hamle düşünemiyorum...!!"`
+` ............Ancak......onu inkâr eden bir hamle düşünemiyorum...!!"`
 `"En başında, ...ortada çözülecek bir sorun bile yok!`
 ` Şüpheliler dışında hiçbir şey yok, ve şüphelilerin hepsi de masum!`
 ` Kırmızıyla masum oldukları söylendi!`
