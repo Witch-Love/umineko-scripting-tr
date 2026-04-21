@@ -4,6 +4,20 @@ function err() {
 	die(0);
 }
 
+function message($type, $message) {
+	$is_actions = getenv('GITHUB_ACTIONS') === 'true';
+
+	if ($is_actions) {
+		echo "::$type::$message" . PHP_EOL;
+	} else {
+		if ($type == "warning" || $type == "error") {
+			fwrite(STDERR, $message . PHP_EOL);
+		} else {
+			echo $message . PHP_EOL;
+		}
+	}
+}
+
 function readDirs($path) {
 	$dirHandle = opendir($path);
 	$list = [];
@@ -45,48 +59,73 @@ function main($argc, $argv) {
 					$lines_tr = count(file($chapter_tr));
 					$lines_en = count(file($chapter_en));
 					if ($lines_tr != $lines_en) {
-						echo "==========================================".PHP_EOL;
-						echo "!! ERROR !!".PHP_EOL;
-						echo "Line counts don't match ";
+						$msg = "==========================================";
+						$msg .= PHP_EOL . "!! ERROR !!";
+						$msg .= PHP_EOL . "Line counts don't match";
 						$diff = $lines_en - $lines_tr;
 						if ($diff > 0) {
-							echo "( $diff missing line(s) )".PHP_EOL;
+							$msg .= PHP_EOL . "( $diff missing line(s) )";
 						} else {
 							$diff = abs($diff);
-							echo "( $diff extra line(s) )".PHP_EOL;
+							$msg .= PHP_EOL . "( $diff extra line(s) )";
 						}
-						echo "File: $chapter_tr".PHP_EOL;
-						echo "Default count: $lines_en".PHP_EOL;
-						echo "New count: $lines_tr".PHP_EOL;
+						$msg .= PHP_EOL . "File: $chapter_tr";
+						$msg .= PHP_EOL . "Default count: $lines_en";
+						$msg .= PHP_EOL . "New count: $lines_tr";
+						message("error", $msg);
 						$exit = true;
 					}
 
 					// check : backticks
-					$exp = "/(`)(.*)(`)(\n|)/";
+					$exp_backtics = "/^`(.*)`$/";
 
 					$handle = fopen($chapter_tr, "r");
 					if ($handle) {
 						$n = 1;
 						while (($line = fgets($handle)) !== false) {
-							if (preg_match($exp, $line) == 0) {
-								echo "==========================================".PHP_EOL;
-								echo "!! ERROR !!".PHP_EOL;
-								echo "Missing backtick(s)".PHP_EOL;
-								echo "File: $chapter_tr".PHP_EOL;
-								echo "Line: $n".PHP_EOL;
+							if (preg_match($exp_backtics, $line) == 0) {
+								$msg = "==========================================";
+								$msg .= PHP_EOL . "!! ERROR !!";
+								$msg .= PHP_EOL . "Missing backtick(s) or wrong line format";
+								$msg .= PHP_EOL . "File: $chapter_tr";
+								$msg .= PHP_EOL . "Line: $n";
+								message("error", $msg);
 								$exit = true;
 							}
 							$n++;
 						}
 						fclose($handle);
 					}
+
+					// check quotation marks
+					$handle_tr = fopen($chapter_tr, "r");
+					$handle_en = fopen($chapter_en, "r");
+					if ($handle_tr && $handle_en) {
+						$n = 1;
+						while (($line_tr = fgets($handle_tr)) !== false && ($line_en = fgets($handle_en)) !== false) {
+							$count_qmarks_tr = substr_count($line_tr, '"');
+							$count_qmarks_en = substr_count($line_en, '"');
+							if ($count_qmarks_en != $count_qmarks_tr) {
+								$msg = "==========================================";
+								$msg .= PHP_EOL . "!! WARNING !!";
+								$msg .= PHP_EOL . "Quatation marks' count don't match";
+								$msg .= PHP_EOL . "File: $chapter_tr";
+								$msg .= PHP_EOL . "Line: $n";
+								$msg .= PHP_EOL . "Default count: $count_qmarks_en";
+								$msg .= PHP_EOL . "New count: $count_qmarks_tr";
+								message("warning", $msg);
+							}
+							$n++;
+						}
+						fclose($handle_tr);
+						fclose($handle_en);
+					}
 				}
 			}
 			if ($exit) {
-				echo "==========================================".PHP_EOL;
 				exit(1);
 			}
-			echo "All good.";
+			message("notice", "All good.");
 			break;
 		default:
 			err();
