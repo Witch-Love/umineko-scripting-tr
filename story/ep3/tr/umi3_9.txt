@@ -196,7 +196,7 @@
 `"......Beato için açıklama talebi.`
 ` Kilitli oda tanımını tekrar doğrula."`
 `"Mmhm.`
-`"Kilitli Oda" terimi, odanın içi ile dışı arasındaki her türlü geçişin tamamen engellendiği bir odayı ifade eder.`
+` "Kilitli Oda" terimi, odanın içi ile dışı arasındaki her türlü geçişin tamamen engellendiği bir odayı ifade eder.`
 ` Hâliyle, içeri sızmanın ve dışarı kaçmanın yanı sıra herhangi bir müdahale de olanaksızdır.`
 ` Kapsamlıca açıklarsak, gizli kapıların ve dışarıdan gelen müdahalelerin tamamının reddi de buna dahildir."`
 `"......Şu andan itibaren bu terim:`
@@ -344,7 +344,7 @@
 ` ......Nedense bunu içime sindiremiyorum."`
 `"Leydim, bir satranç müsabakası içerisinde değil misiniz?"`
 `"Orası doğru ama...`
-` ...muu!"`
+`...muu!"`
 `{f:5:Beatrice}, "neden bilmiyorum ama hoşuma gitmiyor!" dercesine bir ifadeyle yanaklarını şişirdi.`
 `"Polis henüz olay mahalline intikal etmediğinden, insan tarafının bir şeyleri doğrulama yeteneği sınırlı.`
 ` Kesin bir ölüm teyidi için tekrarlama talep edilmesini önermekteyim."`
@@ -670,7 +670,7 @@
 ` Kaybetmen yerine berabere kalmışız gibi davranacağım."`
 `"......İğrenç merhametine ihtiyaç yok.`
 ` Buranın benim kaybım olduğunu söyledim.`
-`...Senin yağmurdan sırılsıklam olmuş bir köpeğe sopayla vurmak gibi bir hobin mi var?"`
+` ...Senin yağmurdan sırılsıklam olmuş bir köpeğe sopayla vurmak gibi bir hobin mi var?"`
 `"Hayır.`
 ` Senin aksine."`
 `".............................."`
@@ -692,8 +692,8 @@
 `Ancak bu suçu kimin, neden ve nasıl işlediğine geldiğimizde,`
 ` en ufak fikrim bile yoktu...`
 `Kazandıktan sonra böyle söylememeliyim,`
-` ......ama içimden bir ses,`
-` {f:5:Beatrice} bana bunun bir insan için tamamen imkânsız olduğunu söyleseydi, kafamın daha az karışmış olacağını söylüyor.`
+` ......ama içimden bir ses...`
+`{f:5:Beatrice} bana bunun bir insan için tamamen imkânsız olduğunu söyleseydi, kafamın daha az karışmış olacağını söylüyor.`
 `Her ne kadar X adını taşıyan bu soyut taşların arkasına saklansam da,`
 `{n}............akıl sır erdirilemez, tüyler ürpertici bir niyetin,`
 ` bu malikâneyi sarmaladığı gerçeğini göz ardı etmek mümkün değildi...`
