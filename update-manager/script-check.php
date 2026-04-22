@@ -8,14 +8,15 @@ function message($type, $message) {
 	$is_actions = getenv('GITHUB_ACTIONS') === 'true';
 
 	if ($is_actions) {
-		echo "::$type::$message" . PHP_EOL;
+		echo "::$type::" . rawurlencode($message);
 	} else {
 		if ($type == "warning" || $type == "error") {
-			fwrite(STDERR, $message . PHP_EOL);
+			fwrite(STDERR, $message);
 		} else {
-			echo $message . PHP_EOL;
+			echo $message;
 		}
 	}
+	echo PHP_EOL;
 }
 
 function readDirs($path) {
