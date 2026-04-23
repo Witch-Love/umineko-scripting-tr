@@ -383,13 +383,13 @@ stralias grim_3_9_1,""
 stralias grim_3_10_1,""
 
 ;Grimoire texts ep4
-stralias grim_4_1_1,":s;#FFFFFF`{p:5:The Japanese confectionery company Glico, also famous for producing Pocky, began its business in 1922 with boxes of Glico caramels, which featured art of a running man, triumphantly smiling with his arms raised. The marketing was that a single caramel gives you the energy to run {nobr:300 m}.{n}{n}The Glico running man became an iconic trademark and mascot that the company still uses today.}"
+stralias grim_4_1_1,":s;#FFFFFF`{p:5:Pocky çubuk krakeri ile tanınan Japon şekerleme şirketi Glico, faaliyetlerine 1922 yılında, kollarını havaya kaldırmış ve zafer dolu bir gülümsemeyle koşan bir adamın resminin yer aldığı Glico karamel kutuları ile başladı. Pazarlama stratejisi, tek bir karamelin insanlara {nobr:300 m} koşacak enerji vereceği yönündeydi.{n}{n}Glico’nun koşan adamı, şirketin bugün hâlâ kullandığı ikonik bir marka simgesi ve maskotu hâline geldi.}"
 stralias grim_4_2_1,":s;#FFFFFF`{p:5:Shotoku Taishi, or Prince Shotoku (574–622), is the extremely culturally influential Japanese regent depicted on the old 5000‐yen and 10000‐yen Japanese banknotes issued from 1958–1986. His name was used to refer to those notes informally.{n}{n}In modern Japan, 10000‐yen notes are sometimes referred to as “Yukichi” after Fukuzawa Yukichi, the figure on the new 10000‐yen banknote that entered circulation in 1984.}"
 stralias grim_4_3_1,":s;#FFFFFF`{p:5:{p:4:茶漬け} ({i:chazuke}), known as “bubuzuke” in Kyoto where Sumadera Kasumi is from, is green tea poured over rice with savory toppings.{n}It is said that in Kyoto, offering chazuke to a guest is often not meant sincerely, but is merely a way of indicating in a roundabout fashion that it is time for the guest to leave, and the guest is expected to know when to refuse.{n}{n}Effectively, in this scene, Tetsuro brazenly steals a phrase from Kasumi's own cultural roots to tell her not to let the door hit her on the way out.}"
 stralias grim_4_4_1,":s;#FFFFFF`{p:5:When peanuts that have been removed from their shells are cracked in half, one half has a nub on the end with small leaves protruding from it.{n}In Japan, young children are sometimes told that the half with this nub is the grandpa, because the leaves look like a moustache.{n}{n}The other half, obviously, would be the grandma.}"
 stralias grim_4_5_1,":s;#FFFFFF`{p:5:Shiritori is a Japanese word game. Players take in turns to say words, and each word must begin with the last Japanese character of the previous word, forming a chain.{n}{n}Only nouns are allowed, and accidentally saying a word that ends with the character “n” ({p:4:ん}) loses you the game, because no Japanese word begins with “n” (a word like “ninja”, for example, begins with “ni” ({p:4:に}), not “n”).{n}{n}The exact rules for what is allowed and what exactly constitutes “the last character” often vary and need clarification.}"
 stralias grim_4_6_1,":s;#FFFFFF`{p:5:“Udaikan” is a misreading of the “Ushiromiya” kanji ({p:4:右代宮}).{n}{n}The officer mistook the last kanji {p:4:宮} ({i:miya}) for {p:4:官} ({i:kan}).{n}{n}This would also have caused him to pick the wrong reading for {p:4:代} due to the existence of the word {p:4:代官} ({i:daikan}, magistrate).}"
-stralias grim_4_7_1,":s;#FFFFFF`{p:5:A “communication booklet” is a notebook which elementary schoolers in Japan take to school with them, used as a short‐message communication tool between parents and teachers.{n}{n}For instance, the students will be told to write down information that parents need to know about the next day of classes; parents can use them to keep teachers informed of lost items, health issues, or request that their child skips a gym class; and because children tend to go to school in groups, notices of absence or lateness can also be written in them and the booklet handed to the group.}"
+stralias grim_4_7_1,":s;#FFFFFF`{p:5:“İletişim kitapçığı”, Japonya’daki ilkokul öğrencilerinin okula getirdikleri ve ebeveynler ile öğretmenler arasında kısa mesajlaşmalar amacıyla kullanılan bir defterdir.{n}{n}Örneğin, öğrencilere ertesi günkü derslerle ilgili ebeveynlerin bilmesi gereken bilgileri not etmeleri istenebilir. Ebeveynler de, öğretmenlere kaybolan eşyalar, sağlık sorunları ya da çocukların beden eğitimi dersine girmemeleri gerektiği gibi taleplerini iletmek için kullanabilirler. Ayrıca çocuklar okula genellikle gruplar hâlinde gittikleri için, devamsızlık veya geç kalacaklarına dair bilgilendirmeler de bu kitapçığa yazılabilir ve çocuğun grubuna teslim edilebilir.}"
 stralias grim_4_8_1,":s;#FFFFFF`{p:5:These are references to modern Japanese fashion subcultures.{n}{n}“Alice and the Graveyard” references “Alice and the Pirates”, a gothic/pirate‐punk lolita fashion brand.{n}{n}“666” references the famous department and fashion store “109” in Shibuya, Japan's popular youth culture district.{n}{n}Finally, “Devilish Pretty” is a reference to “Angelic Pretty”, a very famous sweet lolita fashion brand.}"
 stralias grim_4_9_1,":s;#FFFFFF`{p:5:The term “flag” here originally described an invisible state value in a game's coding, which is said to be “tripped” or “triggered” when the player takes some action that influences future events.{n}The moment of the flag trip itself is usually not visible, and can only be detected through later changes in dialogue or events that signal to the player that they have impacted events or changed route.{n}{n}In casual usage of the term, and especially when applying the concept to a non‐interactive medium, these moments that indicate clearly to the genre‐savvy that events are inexorably unfolding a certain way are {i:themselves} called “flags”, and it is in this sense that the phrase “loser flag” is used here: to refer to the occurrence of a cliché that is almost always followed by total failure for a character in a story.}"
 stralias grim_4_10_1,""
@@ -1943,7 +1943,7 @@ stralias ep8_9_page_6_2_t,":s;#FFFFFF`{p:3:Battler: “The three of us were toge
 ; trophies
 
 stralias trophy_text_locked,"{p:18:Kilitli Kupa}"
-stralias trophy_text_new,":s;#FFFFFF`{p:11:Kupalar menüsünde yeni bir Kupa'nın kilidi açıldı!}`"
+stralias trophy_text_new,":s;#FFFFFF`{p:11:Kupalar menüsünde yeni bir Kupanın kilidi açıldı!}`"
 numalias trophy_text_x,537
 numalias trophy_text_y,680
 
@@ -1966,16 +1966,16 @@ stralias trophy_text_15,"{p:18:Gümüş Kupa{n}Episode 3 Çay Partisi{n}Episode 
 stralias trophy_text_16,"{p:18:Gümüş Kupa{n}Episode 3 Gizli Çay Partisi{n}Episode 3’ün gizli çay partisini sonuna kadar oku (‘????’).}"
 stralias trophy_text_17,"{p:18:Gümüş Kupa{n}Episode 4 Çay Partisi{n}Episode 4’ün çay partisini sonuna kadar oku.}"
 stralias trophy_text_18,"{p:18:Gümüş Kupa{n}Episode 4 Gizli Çay Partisi{n}Episode 4’ün gizli çay partisini sonuna kadar oku (‘????’).}"
-stralias trophy_text_19,"{p:18:Gümüş Kupa{n}Güç Birikimi{n}50 saate oynama süresine ulaş.{n}Ancak 157,680 saate göre oldukça düşük sayılır.}"
-stralias trophy_text_20,"{p:18:Gümüş Kupa{n}Bu Kadar Tıklamış Olmana İmkân Yok{n}Mesajları 30,000 defa ilerlet.{n}Kinzo-san için bu hiç de şaşırtıcı değil.}"
-stralias trophy_text_21,"{p:18:Gümüş Kupa{n}Rosa Musou{n}Altın Rüüüüüüüüüüüüüya!!!}"
+stralias trophy_text_19,"{p:18:Gümüş Kupa{n}Güç Birikimi{n}50 saate oynama süresine ulaş.{n}Ancak 157.680 saate göre oldukça düşük sayılır.}"
+stralias trophy_text_20,"{p:18:Gümüş Kupa{n}Bu Kadar Tıklamış Olmana İmkân Yok{n}Mesajları 30.000 defa ilerlet.{n}Kinzo-san için bu hiç de şaşırtıcı değil.}"
+stralias trophy_text_21,"{p:18:Gümüş Kupa{n}Rosa Musou{n}Altın Rüyaaaaaaaaaaaaa!!!}"
 stralias trophy_text_22,"{p:18:Altın Kupa{n}Altın Cadı’nın Efsanesi{n}Episode 1’i sonuna kadar oku.}"
 stralias trophy_text_23,"{p:18:Altın Kupa{n}Altın Cadı’nın Hamlesi{n}Episode 2’yi sonuna kadar oku.}"
 stralias trophy_text_24,"{p:18:Altın Kupa{n}Altın Cadı’nın Ziyafeti{n}Episode 3’ü sonuna kadar oku.}"
 stralias trophy_text_25,"{p:18:Altın Kupa{n}Altın Cadı’nın İttifakı{n}Episode 4’ü sonuna kadar oku.}"
 stralias trophy_text_26,"{p:18:Altın Kupa{n}Resim Avcısı{n}Resim Kutusunda %100 tamamlama sağla.}"
 stralias trophy_text_27,"{p:18:Altın Kupa{n}Müzik Avcısı{n}Müzik Kutusunda %100 tamamlama sağla.}"
-stralias trophy_text_50,"{p:18:Platin Kupa{n}Cadı Avcısı{n}Tüm kupaları topla.}"
+stralias trophy_text_50,trophy_text_00
 stralias trophy_text_51,"{p:18:Bronz Kupa{n}Rokkenjima’ya Dönüş{n}Rokkenjima adasına geri dön.}"
 stralias trophy_text_52,"{p:18:Bronz Kupa{n}Episode 5 İpucu Avcısı{n}Episode 5’in tüm ipuçlarına göz at.}"
 stralias trophy_text_53,"{p:18:Bronz Kupa{n}Episode 5 Karakter Avcısı{n}Episode 5’in tüm karakterlerine göz at.}"
@@ -1984,7 +1984,7 @@ stralias trophy_text_55,"{p:18:Bronz Kupa{n}Episode 6 Karakter Avcısı{n}Episod
 stralias trophy_text_56,"{p:18:Bronz Kupa{n}Episode 7 İpucu Avcısı{n}Episode 7’nin tüm ipuçlarına göz at.}"
 stralias trophy_text_57,"{p:18:Bronz Kupa{n}Episode 7 Karakter Avcısı{n}Episode 7’nin tüm karakterlerine göz at.}"
 stralias trophy_text_58,"{p:18:Bronz Kupa{n}Episode 8 Karakter Avcısı{n}Episode 8’in tüm karakterlerine göz at.}"
-stralias trophy_text_59,"{p:18:Bronz Kupa{n}Ayarlayıcı{n}Ayarlar menüsünden bir ayar değiştir.}"
+stralias trophy_text_59,trophy_text_10
 stralias trophy_text_60,"{p:18:Bronz Kupa{n}Kinzo’nun Hediyesi: Ovma Fırçası{n}Kinzo’dan hediye olarak bir ovma fırçası aldın.}"
 stralias trophy_text_61,"{p:18:Bronz Kupa{n}Kinzo’nun Hediyesi: Uskumru Konservesi{n}Kinzo’dan hediye olarak bir konserve uskumru aldın. Üzerinde ‘Kumasawa’ yazıyor.}"
 stralias trophy_text_62,"{p:18:Bronz Kupa{n}Kinzo’nun Hediyesi: Tek Kanat Armalı Hafızalı Köpük Yastık{n}Kinzo’dan hediye olarak Tek Kanatlı Arma’ya sahip bir hafızalı köpük yastık aldın.}"
@@ -2013,15 +2013,15 @@ stralias trophy_text_84,"{p:18:Gümüş Kupa{n}Episode 7 Çay Partisi{n}Episode 
 stralias trophy_text_85,"{p:18:Gümüş Kupa{n}Episode 7 Gizli Çay Partisi{n}Episode 7’nin gizli çay partisini sonuna kadar oku (‘????’).}"
 stralias trophy_text_86,"{p:18:Gümüş Kupa{n}Episode 8 Çay Partisi{n}Episode 8’in çay partisini sonuna kadar oku.}"
 stralias trophy_text_87,"{p:18:Gümüş Kupa{n}Episode 8 Gizli Çay Partisi{n}Episode 8’in gizli çay partisini sonuna kadar oku (‘????’).}"
-stralias trophy_text_88,"{p:18:Gümüş Kupa{n}Güç Birikimi{n}50 saate oynama süresine ulaş.{n}Ancak 157,680 saate göre oldukça düşük sayılır.}"
-stralias trophy_text_89,"{p:18:Gümüş Kupa{n}Bu Kadar Tıklamış Olmana İmkân Yok{n}Mesajları 30,000 defa ilerlet.{n}Kinzo-san için bu hiç de şaşırtıcı değil.}"
+stralias trophy_text_88,trophy_text_19
+stralias trophy_text_89,trophy_text_20
 stralias trophy_text_90,"{p:18:Altın Kupa{n}Altın Cadı’nın Sonu{n}Episode 5’in sonuna kadar oku.}"
 stralias trophy_text_91,"{p:18:Altın Kupa{n}Altın Cadı’nın Şafağı{n}Episode 6’nın sonuna kadar oku.}"
 stralias trophy_text_92,"{p:18:Altın Kupa{n}Altın Cadı’nın Ağıtı{n}Episode 7’nin sonuna kadar oku.}"
 stralias trophy_text_93,"{p:18:Altın Kupa{n}Altın Cadı’nın Alacakaranlığı: Numara{n}Episode 8’in ‘Numara Sonu’nu sonuna kadar oku.}"
 stralias trophy_text_94,"{p:18:Altın Kupa{n}Altın Cadı’nın Alacakaranlığı: Büyü{n}Episode 8’in ‘Büyü Sonu’nu sonuna kadar oku.}"
-stralias trophy_text_95,"{p:18:Altın Kupa{n}Resim Avcısı{n}Resim Kutusunda %100 tamamlama sağla.}"
-stralias trophy_text_96,"{p:18:Altın Kupa{n}Müzik Avcısı{n}Müzik Kutusunda %100 tamamlama sağla.}"
+stralias trophy_text_95,trophy_text_26
+stralias trophy_text_96,trophy_text_27
 
 ; ugly temporary config fix
 

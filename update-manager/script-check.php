@@ -8,7 +8,7 @@ function message($type, $message) {
 	$is_actions = getenv('GITHUB_ACTIONS') === 'true';
 
 	if ($is_actions) {
-		echo "::$type::" . rawurlencode($message);
+		echo "::$type::" . str_replace("\n", '%0A', $message);
 	} else {
 		if ($type == "warning" || $type == "error") {
 			fwrite(STDERR, $message);
