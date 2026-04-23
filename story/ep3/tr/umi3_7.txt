@@ -413,7 +413,7 @@
 `Bu, Buz Devleri Kralı'nı sarsan efsanevi çekiçti.`
 `{n}Dev Askerler, korkularına yenik düşmüşlerdi.`
 `Efendilerinin emirlerine rağmen, o çekicin önünü kesemediler.`
-`"Back rank mate!`
+`"<Back-rank mate>!`
 ` Huzur içinde yat."`
 `"...Kahretsiiiiiiiinnnnnn.........!!!"`
 `Bu devasa metal yığını kasırgasının karşısında {f:5:Beatrice}, küçük bir toz zerresinden başka bir şey değildi.`
@@ -433,8 +433,8 @@
 `{n}Üstelik tanrıların mızrağı, bir kez daha onun elindeydi...`
 `Başka bir deyişle bu, Dev Askerler ve Savaş Kulesi tarafından oluşturulan surların üzerinden atlayarak göklerden saldıran tanrısal bir şövalyeydi.`
 `"......*kıkır*...`
-` Beni hakladınnn..."`
-`"Smothered mate.`
+` Beni hakladııın..."`
+`"<Smothered mate>.`
 ` Eğlenceliydi, {f:5:Beatrice}!"`
 `"Uuuoooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooo!!!"`
 `Aynı adı taşıyan iki cadı arasındaki ölümüne mücadele...sonuca ulaşmıştı.`

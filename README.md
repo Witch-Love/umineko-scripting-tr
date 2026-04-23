@@ -117,9 +117,9 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
   <summary>Episode 4 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](story/ep4/tr/umi4_op.txt) `<- Burdayız`
-      * [Chapter 1](story/ep4/tr/umi4_1.txt) ❌
-      * [Chapter 2](story/ep4/tr/umi4_2.txt) ❌
+      * [Chapter 0 (Prologue)](story/ep4/tr/umi4_op.txt) ✅<sup>1</sup>
+      * [Chapter 1](story/ep4/tr/umi4_1.txt) ✅<sup>1</sup>
+      * [Chapter 2](story/ep4/tr/umi4_2.txt) `<- Burdayız`
       * [Chapter 3](story/ep4/tr/umi4_3.txt) ❌
       * [Chapter 4](story/ep4/tr/umi4_4.txt) ❌
       * [Chapter 5](story/ep4/tr/umi4_5.txt) ❌
@@ -268,7 +268,7 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
       * [Chapter 5](story/ep8/tr/umi8_5.txt) ❌
       * [Chapter 6](story/ep8/tr/umi8_6.txt) ❌
       * [Chapter 7](story/ep8/tr/umi8_7.txt) ❌
-         * [Bern's Puzzle](script/tr/menu.txt#L1494-L1505) ❌
+         * [Bern's Puzzle](script/tr/menu.txt#L1493-L1504) ❌
          * [Bern's Puzzle Menu](script/tr/menu.txt#L1848-L1878) ✅
          * [Bern's Puzzle Hints](script/tr/menu.txt#L1880-L1940) ❌
       * [Chapter 8](story/ep8/tr/umi8_8.txt) ❌
