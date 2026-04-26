@@ -547,7 +547,7 @@
 ` Başka bir gizli kapıdan girmiş olabilirler!!"`
 `"Çok konuşuyorsun, seni beceriksiz aptal.`
 ` O zaman daha önceki hamlemi biraz daha ilerleteyim.`
-` {p:1:altısı içeriye kesinlikle {i:bu ön kapıdan} girdi}!!"`
+` {p:1:Altısı içeriye kesinlikle {i:bu ön kapıdan} girdi}!!"`
 `"Bu saçmalık!!`
 ` Kapı kilitliydi, bu tek anahtarı kullanmadan kilidi açmak olanaksızdı ama yine de altı kişi de bu kapıdan mı içeri girdi?!?!`
 ` Bunu nasıl yaptılar?!!`

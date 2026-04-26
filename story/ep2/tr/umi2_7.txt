@@ -6,7 +6,7 @@
 `Böyle zamanlarda Rosa Hala onu insanların önünde nadiren azarlardı.`
 `{n}...Genellikle Maria'yı gizlice çağırır ve yalnız kaldıklarında onu azarlardı.`
 `Bu yüzden, Maria bir yere çağrıldığına göre, şu anda azarlanıyor olmalı diye düşündüler.`
-`Saate baktıklarında neredeyse altı olduğunu fark ettiler.`
+`Saate baktıklarında neredeyse 6 olduğunu fark ettiler.`
 `{n}Maria'nın bunca zamandır azarlandığı kulağa pek de mantıklı gelmiyordu.`
 `Belki de her hafta izlediği bir animenin başlama saati falan gelmişti.`
 ` Muhtemelen malikânenin salonunda kalmaya karar vermişti.`
@@ -850,7 +850,7 @@
 ` .........Ama bana adını söylemedi.`
 ` Bu yüzden onun {f:5:Beatrice} olduğunu kesin olarak söyleyemem."`
 `"......Ancak, eğer bu subjektifse ise özür dilerim,`
-` ......ama onunla girişte karşılaştığım için yüzünü portre ile kıyaslama şansım oldu.`
+` ......ama onunla giriş holünde karşılaştığım için yüzünü portre ile kıyaslama şansım oldu.`
 ` ...İlk izlenimim, onun hiç şüphesiz portrenin öznesi olduğu yönündeydi.`
 ` .........Unutmayın, bunların hepsi subjektif."`
 `"Bu mümkün değil!`

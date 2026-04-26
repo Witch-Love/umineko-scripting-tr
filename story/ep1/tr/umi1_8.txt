@@ -690,7 +690,7 @@
 `"Hayır.`
 ` Az önce geri döndü, şu an kanepede uyuyor.`
 ` Maria için saat çoktan geç oldu."`
-`Saate baktığımda, saat 10'u biraz geçiyordu.`
+`Saate baktığımda, saat 22'yi biraz geçiyordu.`
 `{n}...Bütün gece ayakta kalacak olsak bile, odamıza dönme zamanı gelmişti.`
 `"Bu arada, Annem malikânede bizim için bir oda hazırlatmıştı, ama...`
 `...ne yapalım?"`

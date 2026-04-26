@@ -78,7 +78,7 @@
 `"Be-......Bekle.`
 ` Şimdi geliyorum."`
 `Bu Genji'nin sesiydi.`
-`{n}Saate baktığında saat yedi bile değildi.`
+`{n}Saate baktığında saat 7 bile değildi.`
 `......Misafirleri uyandırmak için fazla erken olduğu ortadaydı.`
 `{n}...Buna neden olacak kadar kötü bir şey mi olmuştu?`
 `Bu uğursuz önsezi sayesinde uykulu hâlinin giderek kaybolduğunu hissetti.`
@@ -418,7 +418,7 @@
 ` Kimse var mııı?!`
 ` Cevap veriin!"`
 `Jessica koridor boyunca seslendikten sonra nihayet bir cevap geldi.`
-` Girişten geliyordu.`
+` Giriş holünden geliyordu.`
 `"Seni duyabiliyoruum.`
 ` ...Bir şey mi oldu?"`
 `"Bu Doktor Nanjo.`

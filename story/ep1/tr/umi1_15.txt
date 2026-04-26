@@ -144,7 +144,7 @@
 ` ......Suçluyu bulmak için gecenin ilerleyen saatlerinde kafa patlatabiliriz.`
 ` Şimdilik nereye kapanacağımızı düşünmeliyiz."`
 `Bunu söylerken herkese saati gösterdim.`
-`Saat çoktan akşamın sekiziydi.`
+`Saat çoktan akşam 8 olmuştu.`
 ` ...Sabahın erken saatlerinden beri tekrar tekrar şok geçiriyorduk ve hem bedenlerimiz hem de zihinlerimiz tamamen bitkin düşmüştü.`
 `......Yarına kadar daha çok ama çok uzun bir zaman vardı.`
 ` Kendimize barikat kurabileceğimiz bir yer bulmamız gerekiyordu; bedenlerimizi dinlendirebileceğimiz ve kendimizi birazcık da olsa güvende hissedebileceğimiz bir yer...`
@@ -464,7 +464,7 @@
 `"............Ben, Kinzo-san hakkında hiçbir şeyi anlamadım..."`
 `"...Konu özellikle {f:5:Beatrice}-sama olduğunda, kişiliği değişiyor gibi görünürdü..."`
 `Kumasawa-san'ın yukarı doğru baktığı yönde {f:5:Beatrice}'in bir portresi görülebiliyordu.`
-`Girişte asılı olan gibi büyük değildi, bu oda için yapılmış küçük bir portreydi.`
+`Giriş holünde asılı olan gibi büyük değildi, bu oda için yapılmış küçük bir portreydi.`
 `Büyükbabam muhtemelen her gün bu odadaydı...`
 `ve zamanının çoğunu portredeki cadıyla konuşarak geçiriyordu.`
 `......Büyükbabam için {f:5:Beatrice} kimdi ki?`
@@ -702,9 +702,9 @@
 `......Hadi ama {f:5:Beatrice}.`
 `{n}Ne biliyorsun...?`
 `{f:5:Beatrice}'in portresinin önüne gelmiştim.`
-`Girişteki kadar büyük değildi,`
+`Giriş holündeki kadar büyük değildi,`
 ` ama ünlü bir ressama çizdirdiği portre, bu küçük boyutta da aynı derecede korkutucuydu.`
-`...Altında, tıpkı girişte olduğu gibi......altının saklandığı yeri işaret ettiği söylenen bir kitabe vardı.`
+`...Altında, tıpkı giriş holünde olduğu gibi, altının saklandığı yeri işaret ettiği söylenen bir kitabe vardı......`
 `"..................ah...`
 `...............!`
 ` Kurbanlar...`

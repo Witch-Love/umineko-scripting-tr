@@ -1,4 +1,4 @@
-`Girişe doğru ilerlerken koridordan tekrar geçtik.`
+`Girişe doğru ilerlerken giriş holünden tekrar geçtik.`
 `Böylece cadının portresini bir kez daha gördük.`
 `Ancak, "görmek" kelimesi muhtemelen bu durumu açıklamak için doğru kelime değildi.`
 `......Görmekten ziyade, gözlerimiz ona çekilmiş gibiydi.`
@@ -110,8 +110,8 @@
 ` Bunu nakite çevirseydin ne kadar ederdi?`
 ` Gülünç bir miktar olmalı, değil mi?!"`
 `".........Kesinlikle absürt bir miktar olurdu.`
-` Tarihin başlangıcından bu yana insanoğlu tarafından çıkarılan toplam altın miktarının en fazla 100,000 ton olduğu söyleniyor.`
-` İnsanlık tarihi boyunca elde edilen tüm altının 1/10,000'inin tek bir kişiye ait olması delilik."`
+` Tarihin başlangıcından bu yana insanoğlu tarafından çıkarılan toplam altın miktarının en fazla 100.000 ton olduğu söyleniyor.`
+` İnsanlık tarihi boyunca elde edilen tüm altının 1/10.000'inin tek bir kişiye ait olması delilik."`
 `"...Üstelik hepsinin tek bir yerde bulunması ve sanki çok basit bir şeymiş gibi Büyükbabama öylece ödünç verebilecek bir "cadı" olması.`
 ` ......Bu sıradan bir insan olamaz."`
 `"Bana kalırsa, "10 ton" kısmı tamamen uydurma gibi.`
@@ -153,7 +153,7 @@
 `...O kadar muazzam bir meblağdan bahsediyorduk ki, bu meblağ yüz hayata eşitti.`
 `......20 yaşından 60 yaşına kadar 40 yıl çalışıldığını varsayarsak,`
 ` ......o zaman 4000 yıllık çalışmanın ücretine eşit.`
-`Bu, {ruby:MÖ 14,000-300:Jomon} döneminden itibaren her gün çalışarak nihayet biriktirebileceğiniz bir meblağ.`
+`Bu, {ruby:MÖ 14.000-300:Jomon} döneminden itibaren her gün çalışarak nihayet biriktirebileceğiniz bir meblağ.`
 `"...Uu.`
 ` 20 milyar yen çok mu büyük...?"`
 `"Evet, çok büyük.`
@@ -476,12 +476,12 @@
 `"Üçüncü şartımız:`
 ` Altından Ushiromiya baş ailesinin halefi ünvanını taşıyan kişiye verilecek pay %50 olacaktır. Geri kalanı ise tüm kardeşler arasında adil bir şekilde paylaştırılacaktır.`
 ` Elbette buna sen de dahilsin, Krauss nii-san."`
-`"20 milyarın 12.5 milyarı Aniki'ye,`
-` 2.5 milyarı Eva nee-san'a,`
-` 2.5 milyarı bana,`
-` 2.5 milyarı da Rosa'ya gidecek."`
+`"20 milyarın 12,5 milyarı Aniki'ye,`
+` 2,5 milyarı Eva nee-san'a,`
+` 2,5 milyarı bana,`
+` 2,5 milyarı da Rosa'ya gidecek."`
 `"............Beni ağlatabilecek kadar minnettar hissettiren bir paylaşım.`
-` Yani diyorsunuz ki, var olmayan altın uğruna size 7.5 milyar ödemeliyim."`
+` Yani diyorsunuz ki, var olmayan altın uğruna size 7,5 milyar ödemeliyim."`
 `"Sorun ne?`
 ` Nii-san, senin payın bizimkinin beş katı.`
 ` Bu o kadar iyi bir anlaşma ki ben olsam sevinçten havalara uçardım.`
@@ -491,11 +491,11 @@
 ` Ancak, depozito olarak payımızın %10'u bize derhâl ödenecektir.`
 ` Ödeme gelecek yılın Mart ayından önce yapılmalıdır."`
 `"......Ne düşünüyorsun, Krauss nii-san? Bu, Babamın mal varlığını yönetmek için ihtiyaç duyduğun güveni yeniden kazanabilmen için ideal bir fırsat değil mi?!`
-` Elbette, Babam vefat etmeden önce 7.5 milyarın tamamını toplamak imkânsız olabilir.`
+` Elbette, Babam vefat etmeden önce 7,5 milyarın tamamını toplamak imkânsız olabilir.`
 ` Ancak, 750 milyonluk bir depozitoyu ayarlayamayacağını söyleyemezsin, değil mi?"`
 `"750 milyonu altı ay içinde ödemek biraz zorlayıcı olsa da,`
 ` senin gibi siyaset ve iş dünyasında pek çok dostu olan biri bunu başarabilir."`
-`"Aslında 7.5 milyarı hemen, tek seferde almayı isterdim.`
+`"Aslında 7,5 milyarı hemen, tek seferde almayı isterdim.`
 ` Ancak konumunla ilgili endişelerimizden dolayı, şimdilik %10'unu teslim edecek samimiyeti gösterirsen,`
 ` kalan %90'lık kısmın mirasın dağıtımına dek bekletilmesinde bir sakınca yok.`
 ` ...Değil mi?`
@@ -508,7 +508,7 @@
 `"Nii-san, eğer bunları kabul edersen Babamın mal varlığının soruşturulmasını sana bırakacağız.`
 ` Yine de bu soruşturmanın sonuçları itiraza tabi olacaktır."`
 `"...Bu çok doğal, değil mi?`
-` Paylarımızı 7.5 milyar aşağı çekersen üzülürüz."`
+` Paylarımızı 7,5 milyar aşağı çekersen üzülürüz."`
 `"Genel bir kural olarak, şikayetçi olmaktan kaçınacağız.`
 ` Düzgünce yaptığın sürece sorun yok.`
 ` ...Önemli ölçüde bariz bir şey yapmadığın sürece, durumu daha da kötüleştirmeyi düşünmüyoruz.`
@@ -600,7 +600,7 @@
 ` Sessiz ol ve imzala."`
 `"Eva, neden bu kadar sabırsızsın?`
 ` Tabii ki imzalayacağım.`
-` Size altından payınız olan 7.5 milyar yen için söz veriyorum.`
+` Size altından payınız olan 7,5 milyar yen için söz veriyorum.`
 ` Babamın mirası dağıtıldığında, onu özenli ve düzgün bir şekilde nakite çevireceğime de söz veriyorum."`
 `".........Ancak, sizden taviz vermenizi rica etmem gereken bir nokta var."`
 `"............Neyden bahsediyorsun?`
@@ -792,7 +792,7 @@
 `Ama bu hareket kendisini daha da acınası hissetmesine neden olduğundan Rudolf onun elini savuşturdu.`
 `...Krauss, bunu görmek onu son derece mutlu etmişçesine güldü.`
 `"Keşke böyle bir zamanda Babamın saklı altınını gerçekten bulabilseydik.`
-` Sizin için hemen 2.5 milyar yenlik paylara bölebilirdim.`
+` Sizin için hemen 2,5 milyar yenlik paylara bölebilirdim.`
 ` Ne kadar ne kadar ne kadar da üzücü!`
 ` Ne kadar da son derece tamamen gerçekten umutsuzca üzücü!"`
 `"............Bu akşam kardeşler olarak birlikte içelim ve Babamın saklı altınının nerede olduğunu tartışalım.`
@@ -803,7 +803,7 @@
 ` Ne kadar da ilginç.`
 ` Peki ekledikleri şartlar neler?"`
 `"......Evet.`
-` Krauss-sama altını gerçekten bulmuş olsa da olmasa da, Eva-sama, Rudolf-sama ve Rosa-sama'ya payları olarak toplam 7.5 milyar yen ödeyecekti.`
+` Krauss-sama altını gerçekten bulmuş olsa da olmasa da, Eva-sama, Rudolf-sama ve Rosa-sama'ya payları olarak toplam 7,5 milyar yen ödeyecekti.`
 ` Ancak bunun %10'u Mart ayından önce ödenecekti."`
 `"Fu, hah-hah-hah-hah-hah-ha...`
 ` Krauss, seni dangalak.`
