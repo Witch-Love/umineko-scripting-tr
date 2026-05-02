@@ -119,9 +119,9 @@ Detaylı kurulum adımlarına [sitemizden](https://witch-love.com/) ulaşabilirs
    * Story
       * [Chapter 0 (Prologue)](story/ep4/tr/umi4_op.txt) ✅<sup>1</sup>
       * [Chapter 1](story/ep4/tr/umi4_1.txt) ✅<sup>1</sup>
-      * [Chapter 2](story/ep4/tr/umi4_2.txt) `<- Burdayız`
-      * [Chapter 3](story/ep4/tr/umi4_3.txt) ❌
-      * [Chapter 4](story/ep4/tr/umi4_4.txt) ❌
+      * [Chapter 2](story/ep4/tr/umi4_2.txt) ✅<sup>1</sup>
+      * [Chapter 3](story/ep4/tr/umi4_3.txt) ✅<sup>1</sup>
+      * [Chapter 4](story/ep4/tr/umi4_4.txt) `<- Burdayız`
       * [Chapter 5](story/ep4/tr/umi4_5.txt) ❌
       * [Chapter 6](story/ep4/tr/umi4_6.txt) ❌
       * [Chapter 7](story/ep4/tr/umi4_7.txt) ❌
