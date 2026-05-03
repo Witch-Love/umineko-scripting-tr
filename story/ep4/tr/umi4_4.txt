@@ -5,7 +5,7 @@
 `"Bu yılı atlatabileceğinden şüpheli olduğumuz Babam, şu anda bile dinç bir şekilde okült araştırmalarıyla uğraşmaya devam ediyor.`
 ` Buna rağmen hâlâ üç ayı kaldığını mı söylüyorsun, Doktor?"`
 `"D-Dediğim gibi, Kinzo-san'ın—"`
-`"Savgıdeğer Babamızın hâlâ dinç olması harika bir şey değil mi?`
+`"Saygıdeğer Babamızın hâlâ dinç olması harika bir şey değil mi?`
 ` Babamıza saygınızdan ötürü onunla görüşmek için can atıyor olsanız da, yapacak bir şey yok.`
 ` Sadece sizinle görüşmek istemediğini kabullenemiyorsunuz, hepsi bu."`
 `"...Henüz gün bile batmamışken mirası aranızda bölüştürmeye başladığınızı düşünürsek,`
@@ -157,7 +157,7 @@
 `"Ancak senin mantığınla bu "kazayla ölmek" sayılır ve ben denetim sorumluluğumu yerine getirememiş olurum.`
 ` ......Bu durum benim için haksız bir dezavantaj oluşturuyor."`
 `"Böyle ufak detaylara takılmaya hiç niyetim yok.`
-` Benim varsaydıklarım, bakıcının görevini layığıyla yerine getirip bu gibi durumları önleyebileceği seviye şeyler."`
+` Benim varsaydıklarım, bakıcının görevini layığıyla yerine getirip bu gibi durumları önleyebileceği seviyede şeyler."`
 `"Yemeği yedirdiği noktaya kadar iş bakıcının görevi olabilir, fakat yutup yutmaması, hiç şüphesiz bakıcının sorumluluğu dışındadır.`
 ` Krauss nii‐san, öne sürdüğün durumla ilgili hiçbir sorunum yok."`
 `".........Hoh.`
@@ -167,7 +167,7 @@
 `".....................`
 ` ...............Hoh?"`
 `"Babam şu anda aklı başında görünüyor olabilir,`
-` ancak herhangi bir an mantıklı düşünme ve karar verme yetisini yitirmesi hiç de şaşırtıcı olmazdı."`
+` ancak her an mantıklı düşünme ve karar verme yetisini yitirmesi hiç de şaşırtıcı olmazdı."`
 `"......Gözünü çevirdiğin bir anda etrafta boş boş dolanıp bir kazaya karışabilir,`
 ` ......ya da beklenmedik şekilde ormanda yolunu şaşırıp kaybolarak, bir daha asla bulunamayabilir."`
 `"......Böyle bir durum, açıkça bakıcının sorumluluğunda değil midir...?"`
@@ -201,7 +201,7 @@
 ` Doktor Nanjo'yu kimin öldürdüğü gizemi miydi?"`
 `"Evet.`
 ` ......Cadı hiç şüphesiz kırmızıyla söyledi.`
-` ...18 kişinin her birinin isimlerini sıralayıp ölü ya da diri olduğunu, ...ve bundan daha fazla insan olmadığını net bir şekilde belirtti.`
+` ...18 kişinin her birinin isimlerini sıralayıp ölü ya da hayatta olduklarını, ...ve bundan daha fazla insan olmadığını net bir şekilde belirtti.`
 ` ......Fakat bu teori sayesinde, o boşluktan sıvışabilirim...!"`
 `".....................`
 ` ......Anlıyorum.`
@@ -353,7 +353,7 @@
 `"Cadı, tekrarlama taleplerinin zamanlamasını ileri alarak cevaplamayı öğrendi.`
 ` ......Sanırım "ertelemek" de diyebiliriz."`
 `"......N-Ne saçma bir hareket......`
-` ...O hâlde, hatalı bir muhakeme öne sürsem bile, Beato'nun bunu bilerek çürütmeden beni kasten tökezletme ihtimali var.`
+` ...O hâlde, hatalı bir muhakeme öne sürsem bile, Beato'nun bunu bilerek çürütmeyerek beni kasten tökezletme ihtimali var.`
 ` Muhakememi büyütüp devasa bir teoriye dönüştürdüğüm en son anda onu cırt diye kökünden kesip,`
 ` her şeyi tersine çevirebileceğini mi söylüyorsun......?!"`
 `Bir muhakeme, bir başka muhakemenin birbirine bağlandığı köprüdür.`
@@ -402,7 +402,7 @@
 ` ......Ve bu, 6 Ekim 00:01'e kadar kesinlikle gerçekleşmeli."`
 `"......Ancak, dikkatli ol.`
 ` Cadının, tekrarlama taleplerinden yalnızca bir tanesini kesip atması yeterli.`
-` Fakat bütün gizemleri açığa kavuşturmadıkça, zafer ilan edemeyiz."`
+` Fakat biz bütün gizemleri açığa kavuşturmadıkça, zafer ilan edemeyiz."`
 `"Tıpkı benim kırmızı kullandığım gibi,`
 ` Battler, şu andan itibaren maviyi kullanmana izin veriyorum."`
 `"Büyülü cinayetlerimi insanlarla ve numaralarla açıklarken, maviyle beyan edebilirsin.`
@@ -443,7 +443,7 @@
 `"O zaman nasıl savaşmalıyım......?`
 ` .........Yoksa—"`
 `"Evet, aynen öyle.`
-` ......Gizemlere tek bir argümanla meydan okunmazsın.`
+` ......Gizemlere tek bir argümanla meydan okumazsın.`
 ` {i:Onları koca bir duvarla ezersin}.`
 ` Önceki oyunda muhakemelerine yaklaşımının bu yönde olduğunu kendin söylemiştin."`
 `Duvarla...ezmek.`
@@ -489,7 +489,7 @@
 ` Düşünmeyi bırakmak, silahımızın tutukluk yapmasıyla aynı şey...!`
 `{n}Şimdiye kadar kullandığım o acınası muhakeme yöntemim, bir nevi sapan gibiydi.`
 `Zayıf atışlarla Beato'nun kırmızılarına yenik düşüyor, sıradaki mermim ile tekrar hedef alıyormuşum gibi tuhaf bir yöntemdi.`
-`İnsanları ve numaraları gerçeğin kendisi olduğunu iddia eden "mavi gerçeğim" ile...`
+`İnsanların ve numaraların gerçeğin kendisi olduğunu iddia eden "mavi gerçeğim" ile...`
 `...yani hayal gücüm ve ateş hızımla, cadının yarattığı illüzyonları tümüyle ezip geçeceğim...!`
 `Bu benim...`
 `Ushiromiya Battler'ın savaşma stili olacak...!`
@@ -513,8 +513,8 @@
 ` {p:2:Dolayısıyla, adadaki gerçek insan sayısı 17}!`
 ` {p:2:Aramıza bilinmeyen kişi X'in de dahil olmasıyla 18 kişi olduk}.`
 ` {p:2:Bu X kişisinin var olduğunu varsayarsak, 17 kişinin hepsinin mazereti olsa bile suç mümkün}!!"`
-`"......Kısaca, bu noktadan itibaren Babamla görüşmemize engel olursan, şu şekilde düşünmekten başka çaremiz kalmayacak.`
-` Kısaca: Babam çoktan vefat etti.`
+`"......Yani, bu noktadan itibaren Babamla görüşmemize engel olursan, şu şekilde düşünmekten başka çaremiz kalmayacak.`
+` Özetle: Babam çoktan vefat etti.`
 ` Ancak, mirası bölüşmek istemeyen Krauss nii-san bunu saklıyor. Şeklinde."`
 `"....................................`
 ` ...Saçmalık."`
@@ -687,7 +687,7 @@
 `Arada bir gök gürültüsü duyuluyor, loş oda kısa bir süre aydınlanıp ardından geri kararıyordu.`
 ` ......Fırtınanın adayı hapsetmesine çok az kalmış olmalıydı.`
 `"......Baba...!`
-` Lütfen, sadece seferlik, o saygısızlara aile reisinin ihtişamını gösterin...!"`
+` Lütfen, sadece bu seferlik, o saygısızlara aile reisinin ihtişamını gösterin...!"`
 `"Bu iyi değil........."`
 `Pencerenin önünde, görkemli sırtını onlara dönmüş olan iri bir gölge,`
 ` sessiz, ve bir o kadar güçlü şekilde...cevapladı.`
