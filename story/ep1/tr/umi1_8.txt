@@ -237,7 +237,7 @@
 `"...Ancak bu anahtar, onun kalbinin derinliklerinde sıkıca kilitlendi.`
 ` Anlamadan dinlemeden cadının varlığını inkâr ettiler ve onun gerçekte kim olduğuna dair onu soru yağmuruna tuttular.`
 ` ......Maria-chan şu saatten sonra yetişkinlere kalbini açmayacaktır."`
-`Loş koridorda, {f:5:Beatrice}'in portresinin önünde, ......Maria hıçkıra hıçkıra ağlıyordu.`
+`Loş ışıklı holde, {f:5:Beatrice}'in portresinin önünde, ......Maria hıçkıra hıçkıra ağlıyordu.`
 `"......Uu...`
 ` Uu.`
 ` ...Kimse Maria'nın {f:5:Beatrice} ile karşılaştığına inanmıyor!`
@@ -392,7 +392,7 @@
 `"Buna sevindim.`
 ` İletişim önemlidir."`
 `Kyrie-san göz kırparak cevap verdikten sonra Babamın peşinden gitti...`
-`Loş koridorda Natsuhi görülüyordu.`
+`Loş ışıklı koridorda Natsuhi görülüyordu.`
 `{n}Arada bir gök gürlüyordu ama bu Natsuhi'nin yüz ifadesini etkilemiyordu.`
 `......İfadesi tamamen bitkin görünüyordu.`
 `Az önce yemek salonunda akrabalar arasında geçen tartışma Natsuhi'nin zihninde tekrarlanıyordu...`
