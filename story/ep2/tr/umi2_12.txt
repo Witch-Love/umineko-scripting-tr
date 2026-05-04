@@ -898,7 +898,7 @@
 `"Gerçekten çok basit.`
 ` ...Bu, gözden kaçırmaya çok yaklaştığım bir şeydi.`
 ` ......Beato!"`
-`"Tekrarla!!`
+`"Tekrarlama talebi!!`
 ` Söyleyebilirsen söyle: "Kanon-kun'da bir master anahtar vardı"!!"`
 `"...........................Hoh...!"`
 `"......Kanon-kun'un üzerinde master anahtar yok muydu?!`
@@ -1008,13 +1008,13 @@
 ` ...Kapı ve kilit üzerine tartışmaya başlarsam, muhtemelen avucunun içinden çıkamam."`
 `"Nasıl istersen öyle yap.`
 ` Peki o zaman, neyi tekrar etmeliyim?"`
-`".........Tekrarla.`
+`".........Tekrarlama talebi.`
 ` "Kanon-kun bu odada öldürüldü"."`
 `"Mmhm.`
 ` "{p:1:Kanon bu odada öldürüldü}".`
 ` Ama tabii büyüyle cesedini sildim.`
 ` *kıKIr*kıKIr*kıKIr*!"`
-`"Ve bir daha, tekrarla.`
+`"Ve bir daha, tekrarlama talebi.`
 ` "Kanon-kun'un cesedi bu odada"."`
 `"*kıKIr*kıKIr*kıKIr*kıKIr*!`
 ` Reddediyorum.`
@@ -1028,7 +1028,7 @@
 ` Yoksa kapısı kilitli bir odada bulunan iki kişiyi öldürmeyi nasıl başardıkları mı?`
 ` Yoksa ikisini de öldürdükten sonra nasıl kaçmayı başardıkları mı?"`
 `"......Bunu söylemekten nefret ediyorum, ama adım adım ilerlemem gerekecek.`
-` ...Tekrarla.`
+` ...Tekrarlama talebi.`
 ` ......‘En son master anahtarla kilitlendi’."`
 `"Bunu da reddediyorum.`
 ` *kıKIr*kıKIr*."`
