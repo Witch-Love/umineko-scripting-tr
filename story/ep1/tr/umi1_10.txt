@@ -16,7 +16,7 @@
 `İkili, malikâneye doğru yola koyuldu.`
 `{n}Gohda ile buluşup kahvaltıyı hazırlamaları gerekiyordu.`
 `Gohda öylesine mükemmeliyetçi biriydi ki, şüphesiz çoktan uyanmış, ve cam işçiliği kadar zarif ve enfes bir kahvaltı hazırlığının tam ortasında olmalıydı.`
-`Malikânenin girişindeki saçağa ulaştılar ve şemsiyelerini katladılar.`
+`Malikânenin girişindeki çıkıntıya ulaştılar ve şemsiyelerini katladılar.`
 `Genji cebinden bir anahtarlık çıkardı ve ön kapının kilidini açmak için kullandı.`
 `Rokkenjima'da Ushiromiya ailesinin malikânesi dışında hiçbir şey olmadığı için eskiden kapıları kilitleme âdeti yoktu.`
 `Ancak Natsuhi, gece yarısından sabahın erken saatlerine kadar malikâneyi kilitlemenin görevlerinin bir parçası olmasını emretmişti.`
@@ -254,7 +254,7 @@
 `"Bu...?"`
 `Genji, Natsuhi'ye süslü tasarımıyla parıldayan altın bir anahtar uzattı.`
 `{n}Bu Kinzo'nun çalışma odasının anahtarıydı.`
-`Çalışma odası her zaman kendini kilitlerdi ve Kinzo girişi yasakladığı sürece kilidi açılamazdı.`
+`Çalışma odası her zaman kendini kilitlerdi ve Kinzo girilmesini yasakladığı sürece kilidi açılamazdı.`
 `Ancak, Genji'ye Kinzo tarafından özellikle güvenildiği için, o kapının anahtarını taşımasına izin verilmişti...`
 `"Ama bu anahtarı kullanırsam, sen de azarlanmaz mısın...?"`
 `"......Efendi derin bir uykudayken, kapıyı çalmak onun kulaklarına ulaşamayabilir."`
