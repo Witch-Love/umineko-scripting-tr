@@ -114,7 +114,7 @@
 `{n}Ve reisliği benden kimin devralacağını görmek için sabırsızlanıyorum.`
 `{n}{n}{nobreak:{m:-3:—}—}Altın {f:5:Beatrice}.}`
 `...Kitabenin bilmecesi...o şeydi.`
-`Malikânenin giriş holünde sergilenen cadı portresinin olduğu yerde yazılı olan o tuhaf kitabe.`
+`Malikânenin holünde sergilenen cadı portresinin olduğu yerde yazılı olan o tuhaf kitabe.`
 `Yazılmasını emreden kişi Büyükbabamdı.`
 ` Ve görünen o ki, onu çözen kişiye aile reisliği ya da saklı altın gibi bir şey verilecekti.`
 `Birkaç yıl önce orada ilk kez sergilenmeye başladığından beri onu alaya alıyormuş gibi tavır takınan tüm akrabalar,`
@@ -229,7 +229,7 @@
 `"Pekâlâ."`
 `".........Shannon'un cesedinde bir master anahtar bulunuyordu.`
 ` Onu bulan aile üyeleri tarafından alındı."`
-`"Beato, tekrarla.`
+`"Beato, tekrarlama talebi.`
 ` Bu sefer kaç tane master anahtar var?"`
 `"...Hıh. Geçen seferkiyle aynı.`
 ` {p:1:Her hizmetkâr için bir tane olmak üzere beş tane var}."`
@@ -348,9 +348,9 @@
 `{f:5:Beatrice}, "neden bilmiyorum ama hoşuma gitmiyor!" dercesine bir ifadeyle yanaklarını şişirdi.`
 `"Polis henüz olay mahalline intikal etmediğinden, insan tarafının bir şeyleri doğrulama yeteneği sınırlı.`
 ` Kesin bir ölüm teyidi için tekrarlama talep edilmesini önermekteyim."`
-`"Pekala, tam burada saldıracağım. Tekrarla!!"`
+`"Pekala, tam burada saldıracağım. Tekrarlama talebi!!"`
 `"‘Altı kurbanın hepsi öldü’!!"`
-`"......Leydim, bekleyen bir tekrarlama isteğiniz var?"`
+`"......Leydim, bekleyen bir tekrarlama talebiniz var?"`
 `"Hey, aylaklık etme!!`
 ` Tekrarlamayı ret mi ediyorsun?!`
 ` Savaşımız burada başlıyor!!"`
@@ -366,7 +366,7 @@
 `"*kıKIr*!`
 ` Artık sana merhamet etmeyeceğim, nasıl istersen öyle gel.`
 ` Onları birbiri ardına dilimleyeceğim!"`
-`"Bir kez daha tekrarla!`
+`"Bir tekrarlama talebi daha!`
 ` Altı odanın hiçbirinde kimse saklanmıyor!`
 ` Farkında olmadığımız insanların varlığını reddet!"`
 `"Cevap vereceğim."`
@@ -379,7 +379,7 @@
 ` Bir insanın yapabileceği hiçbir şey yok.`
 ` İtaatkâr bir şekilde diz çöküp, muhteşem büyümle kilitlerle istediğim gibi oynadığım anları izleseneeee?"`
 `"Saçmalamayı kes.`
-` Bir kez daha tekrarla.`
+` Bir kez daha tekrarlama talebi.`
 ` "Altısı da anında öldü"!"`
 `"Anında mı?`
 ` Hoh, o da ne demek oluyor?"`
@@ -550,7 +550,7 @@
 `"Tamam!!`
 ` Ancak intihar gibi aciz bir kelimeyle onu köşeye sıkıştıramam!!`
 ` Beato, bu senin sonun!!"`
-`"Tekrarla!`
+`"Tekrarlama talebi!`
 ` "Altı ölümün hepsi cinayetti"!!"`
 `".....................Bu epey acı verici."`
 `"Uğuu...!!`

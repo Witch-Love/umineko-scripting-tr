@@ -241,7 +241,7 @@
 `".........Onları nasıl öldüreceğimizin bile kuralları var.`
 ` .........Neden selefim tarafından kısıtlanmak zorundayım ki?`
 ` ............Çok katı ve sıkıcı."`
-`Cadı, giriş holünde asılı duran Selef {f:5:Beatrice}'in portresine bakarken lanet okudu...`
+`Cadı, holde asılı duran Selef {f:5:Beatrice}'in portresine bakarken lanet okudu...`
 `Üçü çoktan mutfağa varmış ve yiyecek malzemelerini toplamaya başlamıştı.`
 `İçine zehir katılmış olabileceği ihtimalini düşünerek, güzel görünmelerine rağmen meyve ve sebzelerden vazgeçtiler.`
 ` Sadece güvenli konserve yiyeceklerle koca bir karton kutuyu doldurdular.`
@@ -284,7 +284,7 @@
 ` Bir santim bile oynamıyor..."`
 `Rudolf çeşitli yöntemler denedi. Güç kullandı, iyice zorladı,`
 ` ancak kilit taş kadar sertti ve yerinden bile kıpırdamadı.`
-`"...Olmuyorsa zorlamayalım. Ön kapıdan çıkalım.`
+`"...Olmuyorsa zorlamaya gerek yok. Ön kapıdan çıkalım.`
 ` Şu an burada durup zaman kaybedersek daha da kötü olacak."`
 `".............................."`
 `"......Bunun bir tuzak olduğunu mu söylüyorsun?"`
@@ -292,7 +292,7 @@
 ` Dikkatli olun."`
 `Üçü de gergin ifadelerle tekrar koridora döndüler ve girişe doğru yöneldiler...`
 `"K-......Kim var orada?!!"`
-`Giriş holüne adımlarını attıkları anda Rudolf, tam önlerinde şüpheli bir gölge fark etti ve bağırdı...`
+`Hole adımlarını attıkları anda Rudolf, tam önlerinde şüpheli bir gölge fark etti ve bağırdı...`
 `O anda, altın yapraklardan oluşan bir fırtına esmeye başladı ve altın kelebekler etrafı altın rengine boyadı.`
 `"............Buna inanamıyorum.`
 ` Aşağılık bir {y:0:İnsan}{n:0:insan} pusuda beklediğimizi tahmin mi etti?"`
@@ -313,7 +313,7 @@
 ` Sizinle bir süre oynamamız emredildi.`
 ` Direnmekte özgürsünüz, ama bunun faydasız olduğunu bilin...!"`
 `Bu ses yukarıdan geldi.`
-`{n}Belphegor, giriş holündeki avizenin tepesindeydi.`
+`{n}Belphegor, holdeki avizenin tepesindeydi.`
 `{n}Zarif bir şekilde onlara bakıyor, zalim bir gülümsemeyle idam edileceklerini ilan ediyordu.`
 `"......N-`
 `......Neyin nesi, bu kızlar...?!"`
@@ -404,7 +404,7 @@
 `"Biliyor musun, kocam etrafta olmadığında oldukça acımasız olabiliyorum."`
 `"Vhoavhoaoaoaoao!!"`
 `Rudolf merdivenden aşağı yuvarlandı.`
-` Belphegor tarafından yavaş yavaş köşeye sıkıştırılmış ve asıl bulundukları giriş holüne geri püskürtülmüştü.`
+` Belphegor tarafından yavaş yavaş köşeye sıkıştırılmış ve asıl bulundukları hole geri püskürtülmüştü.`
 `".........Selef-sama'nın mobilyaları oldukça iyi.`
 ` Yine de çekicilikten yoksunlar!"`
 `"{f:5:Beatrice}-sama...!`
@@ -659,7 +659,7 @@
 ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!"`
 `"Saçma şeylere kalkışma...!`
 ` Tetiği çekerim...!"`
-`Cadının çağrısına yanıt olarak, salon bir kez daha altın rengine gömüldü.`
+`Cadının çağrısına yanıt olarak, hol bir kez daha altın rengine büründü.`
 `Bu, ışıl ışıl parlayan altın kelebeklerin vahşi dansıydı,`
 ` ...sanki altın yapraklardan oluşan bir okyanus tarafından yutulmuş gibi hissettiler.`
 `Ronove, büyü gücündeki bu artış karşısında şok olmuştu.`
@@ -970,7 +970,7 @@
 ` ...O vakit, gezgin pelerinini bile katlayabilir."`
 `".........Yani ben...`
 `...yanılıyor muydum........."`
-`...Ushiromiya malikânesinin güzel giriş holü, altın yapraklardan oluşan altın gibi bir parıltıyla kaplıydı.`
+`...Ushiromiya malikânesinin güzel holü, altın yapraklardan oluşan altın gibi bir parıltıyla kaplıydı.`
 ` ...Ve de koyu kan fışkırmalarıyla koyu kırmızıya boyanmıştı.`
 `Rudolf ve Kyrie'nin yaşadığı ölümlerin sayısı, uzun zamandır hem el hem de ayak parmaklarıyla sayılabilecek sayıyı çoktan aşmıştı.`
 `Cadı o kadar şiddetli nefes alıyordu ki omuzları titriyordu, ama bunun nedeni yorgun olması değildi.`
@@ -1012,7 +1012,7 @@
 `"Heh?`
 ` ......Ah, sen.`
 ` Buradasın."`
-`O trajediyle süslenmiş giriş holünde Hideyoshi, silahını kaldırmış hâlde kendini gösterdi.`
+`O trajediyle süslenmiş holde Hideyoshi, silahını kaldırmış hâlde kendini gösterdi.`
 `Cadı malikâneyi bir bariyerle mühürlemişti, bu yüzden Hideyoshi'nin kaçacak hiçbir yeri yoktu.`
 `...Muhtemelen Rudolf ya da Kyrie'nin silahını alıp geri dönmüştü.`
 `Korkulması gereken bir şey olan silah, büyü gücüyle dolup taştığı için artık ciddiye aldığı bir nesne değildi.`
@@ -1057,7 +1057,7 @@
 ` Ben—"`
 `Kuru bir ses.`
 `...Bu, Hideyoshi'nin cadının suratına attığı tokadın sesiydi.`
-`Taze kanla koyu kırmızıya boyanmış giriş holüne bakarak cadının ne kadar korkunç olduğunu tahmin edebilmesi gerekirdi.`
+`Taze kanla koyu kırmızıya boyanmış hole bakarak cadının ne kadar korkunç olduğunu tahmin edebilmesi gerekirdi.`
 `Ancak Hideyoshi korkmadan, tereddüt bile etmeden, kararlılıkla ona doğru yürümüş ve yanağına vurmuştu.`
 `"....................."`
 `"Seni aptal!!`
