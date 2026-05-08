@@ -38,6 +38,7 @@ jobs:
           echo "Build number ${BUILD}"
           mkdir -p ciout
           php update-manager/update-manager.php dscript "ciout/tr.txt" . tr ${BUILD} || exit 1
+          php update-manager/script-patch.php "ciout/tr.txt" tr || exit 1
           php update-manager/update-manager.php script ciout/tr.txt "ciout/tr.file" 8 || exit 1
           cp misc/game.hash ciout
           cp misc/default.cfg ciout
