@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Witch Love script checker
+ * 
+ * This script checks the script for the errors
+ */
+
 function err() {
 	die(0);
 }
