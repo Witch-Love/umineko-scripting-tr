@@ -90,7 +90,7 @@
 ` Dalmışım.`
 ` Düşürdüğüm için özür dilerim."`
 `Yerdeki fincan paramparça olmuştu.`
-`......Elinden düşürerek o kadar gürültü çıkararak, onu bu kadar parçaya ayrılabilir miydi?`
+`......O yükseklikten düşürmesi, gerçekten o kadar gürültü çıkarıp, fincanı bu kadar parçaya ayrılabilir miydi?`
 `Battler kadar kalın kafalı biri bile bunun, onun bir şeye sinirlendiğinin göstergesi olduğunun farkındaydı.`
 ` Ancak birdenbire neye bu kadar sinirlenmiş olabileceğini anlayamıyordu.`
 `Gretel, fincanın parçalarını eğilip toplamak üzereyken, Ronove birdenbire ortaya çıkarak onu durdurdu.`
@@ -221,7 +221,7 @@
 ` ...Nasılsa kimse Maria'yı arasına almıyor."`
 `‘Uryu......`
 ` ......Annem az önce işten döndüğünde sana hediye alacağına telefonda söz vermedi mi?’`
-`‘Annem Maria'yı önemsediği ve onu yalnız bırakmaktan üzgün olduğu için,`
+`‘Annemin Maria'yı önemsediği ve onu yalnız bırakmaktan üzgün olduğu için,`
 ` bu sözü verdiğini düşünüyorum.’`
 `".........Öyle mi dersin?"`
 `‘Uryu!`
@@ -474,7 +474,7 @@
 `"Maria bu günlükte o gece yaşananların çok ama çok eğlenceli olduğunu yazmıştı."`
 `"......Maria onee-chan, o gece yaşananların seni çok mutlu ettiğini anlatmışsın."`
 `"Buna rağmen günlüğümü okuyan Ange, o gece yaşananların çok ama çok üzücü olduğunu okudu."`
-`"......Maria onee-chan mutlu olduğunu yazmış olmana rağmen, ben öyle olmadığı çıkarımını yaptım."`
+`"......Maria onee-chan, sen mutlu olduğunu yazmış olmana rağmen, ben öyle olmadığı çıkarımını yaptım."`
 `"Yapma."`
 `"................................."`
 `"Bu...mutlu bir geceyi anlatıyor.`
@@ -673,7 +673,7 @@
 ` ......Ange, senin bahsettiğin yalnızca dolaylı kanıt.`
 ` Hayal gücü ve kuruntu.`
 ` ......Neden bunları Maria'yla Annemin arasının kötüleşmesi olarak yorumladığını anlamıyorum."`
-`"Asıl ben, senin bunları Rosa Halanın işine bu kadar gelecek şekilde yorumladığını anlamıyorum!!"`
+`"Asıl ben, senin bunları nasıl Rosa Halanın bu kadar işine gelecek şekilde yorumladığını anlamıyorum!!"`
 `".........Gerçekten acınası bir çocuksun, Ange.`
 ` .........Seni mutlu edecek kakeralar,`
 ` o kadar fazla ve her yere saçılmış olmalarına rağmen onları bulamıyorsun."`
@@ -824,7 +824,7 @@
 ` ......Başka birinin elinde hiçbir ruh taşımayacak cansız bir varlık, senin büyünle bir ruha sahip oldu."`
 `"Üstelik onu muazzam bir güçle insan dünyasında tutuyorsun.`
 ` ......Böylesine büyü karşıtı toksinle dolu günümüz dünyasında, bir yaşam formunu tezahür edecek seviyede bir büyü, benim için bile kolay bir şey değil."`
-`Konu ruhsuz varlıklar olduğunda, onlardan sayısız sayıda yaratmak zor olmazdı.`
+`Konu ruhsuz varlıklar olduğunda, onlardan sınırsız sayıda yaratmak zor olmazdı.`
 `{n}Ancak ruha sahip varlıklar yaratmak aşırı zordu.`
 `{n}...Beato bunu kesin bir dille açıkladı.`
 `".........Beato, ne dediğini pek anlamıyorum.`
@@ -837,7 +837,7 @@
 `‘Uryu~!’`
 `"......Hayranlık duyduğum şey, pelüş oyuncağa ruh vermenle sınırlı değil.`
 ` Bunu yaparak kendi dünya görüşünü değiştiriyorsun.`
-` ......Senin, yokluktan var etme gücün, herkesten çok daha üstün."`
+` ......Senin, yoktan var etme gücün, herkesten çok daha üstün."`
 `"......1'i 100 yapmak kolaydır.`
 ` Ancak, 0'dan 1 yaratmak kolay değildir.`
 ` ...Sen tam bir cadı olduğunda, benimle boy ölçüşmekle kalmayıp, hatta benim bile üstünlüğünü kabul etmek zorunda kalacağım bir Büyük Cadı olman olası."`
@@ -859,7 +859,7 @@
 ` ......Evet, ben de yeni arkadaşıma bir hediye vermezsem olmaz."`
 `"Uu?`
 ` Beato, Sakutaro'ya hediye mi verecek......?"`
-`"Bir cadının gelen hediye, elbette büyülü güce sahip bir şey olmalı.`
+`"Bir cadıdan gelen hediye, elbette büyülü güce sahip bir şey olmalı.`
 ` Bu durumda, arkadaşının daima arkadaşın olarak kalabilmesi, ve seninle daha fazla oyun oynayabilmesi için..."`
 `"Sakutarou'ya büyü gücümü vermeliyim.`
 ` Bununla, çok daha güçlü bir şekilde tezahür edebilecektir."`
@@ -955,7 +955,7 @@
 ` Ne oldu, Maria, ne çiziyor?!`
 ` Uryu‐uryu?!’`
 `Sakutarou, Maria'nın kucağında olduğundan masanın üzerinde neyin yazılmakta olduğunu bilmiyordu.`
-`......Ama görse bile, Sakutarou muhtemelen anlamazdı.`
+`......Ama görse bile, muhtemelen anlamazdı.`
 `"Bu harika, Sakutaro!!`
 ` Biraz daha bekle, az kaldı, az kaldı!`
 ` Beato harikasın, Beato harikasın!!"`
