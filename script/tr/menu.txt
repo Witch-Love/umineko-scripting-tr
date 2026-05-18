@@ -31,7 +31,7 @@ stralias r_tips_4_2,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Büyü Sistemi}"
 stralias r_tips_4_3,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Grimoire}"
 stralias r_tips_4_4,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Beatrice'in Ünvanları}"
 stralias r_tips_4_5,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Cadılar Hakkında}"
-stralias r_tips_4_6,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Gezginler Hakkında}"
+stralias r_tips_4_6,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Seyyahlar Hakkında}"
 stralias r_tips_4_7,":s;#C7C7C7#FFFFFF`{p:13:{fit}{w:700:}Yaratıcılar Hakkında}"
 
 ;chiru
@@ -1229,7 +1229,7 @@ stralias chars_4_sha_2,":s;#FFFFFF`{p:3:Shannon ({p:4:紗音}){n}{n}Corpse disco
 ;EP4_2
 stralias chars_4_2_bea_1,chars_2_2_bea_1
 stralias chars_4_2_bea_2,":s;#FFFFFF`{p:3:{f:5:Beatrice} ({p:4:ベアトリーチェ}){n}{n}The Endless Witch who has lived for a thousand years.{n}Possesses the fatherly magical power to grant endless evolution to the sea.{n}{n}However, that power is meaningless.{n}The sea of zero is nothing but zeroes, no matter how they are multiplied.{n}{n}But once 1 was miraculously born into that sea—her world became infinite.{n}{n}Once she was joined with the Witch of Origins in Mariage Sorcière, their system of magic obtained endless expansion and infinite power.}"
-stralias chars_4_2_ber_1,":s;#FFFFFF`{p:3:{f:5:Bernkastel} ({p:4:ベルンカステル}){n}{n}Bin yıldır yaşayan Mucizelerin Cadısı.{n}{f:5:Beatrice}'i kendi oyununda yenmek için {f:5:Ange} adlı bir taş gönderdi.{n}{n}Kakera denizini aşan gezgin cadılar, kendi bölgelerinden ayrılamayan cadılardan çok daha üst‐kademe varlıklar.{n}{n}Aynı bölgede bulunduklarında eşit olsalar da, esasında onun sahip olduğu büyü gücü {f:5:Beatrice}'inkini fazlasıyla aşıyor.{n}{n}Sıkıntıdan kaçabilmek için sürekli seyahat eden cadılar, yaptıkları yolculuklarda acaba ne arıyorlar......?}"
+stralias chars_4_2_ber_1,":s;#FFFFFF`{p:3:{f:5:Bernkastel} ({p:4:ベルンカステル}){n}{n}Bin yıldır yaşayan Mucizelerin Cadısı.{n}{f:5:Beatrice}'i kendi oyununda yenmek için {f:5:Ange} adlı bir taş gönderdi.{n}{n}Kakera denizinde seyahat eden seyyah cadılar, kendi bölgelerinden ayrılamayan cadılardan çok daha üst‐kademe varlıklar.{n}{n}Aynı bölgede bulunduklarında eşit olsalar da, esasında onun sahip olduğu büyü gücü {f:5:Beatrice}'in büyü gücünü fazlasıyla aşıyor.{n}{n}Sıkıntıdan kaçabilmek için sürekli durmaksızın seyir hâlinde olan cadılar, yaptıkları bu yolculuklarda acaba ne arıyorlar......?}"
 stralias chars_4_2_enj_1,":s;#FFFFFF`{p:3:{f:5:Ange} ({p:4:エンジェ}){n}{n}Gelecek bin yıl boyunca yaşayacak olan Sonsuz Cadı.{n}Ya da, tüm cadıları öldürecek olan cadı avcısı.{n}{n}Cadıları anlamadan, hiç kimse bir cadıyı öldüremez.{n}Cadıları anladıktan sonra, hiç kimse bir cadıyı yine de öldüremez.{n}{n}O, cadıları anlıyor—ve onları inkâr ediyor.{n}Bu çelişkili gücün kendisi, ona cadıları öldürebilmesi için gereken kılıcı veriyor.}"
 stralias chars_4_2_gap_1,":s;#FFFFFF`{p:3:Gaap ({p:4:ガァプ}){n}{n}One of the 72 Great Demons. She is also {f:5:Beatrice}'s friend.{n}Grants the power of teleportation as the mage requests it.{n}{n}She uses this wonderful power only for pranks.{n}Her favorite trick is hiding keys and bags on busy mornings.{n}{n}However, this power of hers is an ultimate weapon that risks delivering the lethal blow to a locked‐room mystery.{n}Her queen‐bee‐like strikes would probably penetrate all famous detectives, and make them surrender.}"
 stralias chars_4_2_goa_1,chars_3_2_goa_1
