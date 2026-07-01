@@ -28851,7 +28851,7 @@ return
 	if $Free3 == "cn" mov $Free3,"Chinese Simp."
 	if $Free3 == "cht" mov $Free3,"Chinese Trad."
 	if $Free3 == "it" mov $Free3,"Italiano"
-	if $Free3 == "tr" mov $Free3,"Türkçe"
+	if $Free3 == "tr" mov $Free3,"Witch Love"
 	if $Free3 == "idn" mov $Free3,"Indonesia"
 	if $Free3 == "vi" mov $Free3,"Tiếng Việt"
 	lsp 268,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,226

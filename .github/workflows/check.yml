@@ -1,0 +1,22 @@
+name: Check Script
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    name: Check Scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Checks
+        run: |
+          php update-manager/script-check.php check tr || exit 1
