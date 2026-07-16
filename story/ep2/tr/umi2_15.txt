@@ -64,7 +64,7 @@
 ` .........Söylemek istediğim tek şey......olay olduğunda......burada beş kişiydik."`
 `"......Ve ben de Kanon'un arka kapıdan döndüğünü sandım.`
 ` Sonra onu hizmetkâr odasına taşıdık,`
-` .........bir şeyler oldu ve Doktor Nanjo ve Kumasawa hayatlarını kaybettiler."`
+` .........bir şeyler oldu ve Doktor Nanjo ile Kumasawa hayatlarını kaybettiler."`
 `"......Hepsi bu.`
 ` ......Biz gördüğümüz her şeyi size zaten açıkladık.`
 ` ...Kendiniz görmediğiniz hâlde sizi buna inanmaya zorlamanın çok mantıksız olacağını anlıyorum."`
@@ -112,7 +112,7 @@
 ` ......Aynanın iyi olmayan şeyleri yansıtma ve geri püskürtme gücüne sahip olmasıyla ilgili bir şey."`
 `"Eğer o ruh aynasına sahip olsaydık, ......cadı {f:5:Beatrice}'e karşı koyabilir miydik?"`
 `"Heh......"`
-`George bunu söylediğince, hizmetkârlar başlarını kaldırıp baktılar.`
+`George bunu söylediğinde, hizmetkârlar başlarını kaldırıp baktılar.`
 `"......Bulunduğu tapınak ve torii artık olmayabilir ama önemli olan başka bir ruh aynasının hâlâ var olması."`
 `".........Natsuhi Yengenin ailesinin Şinto rahiplerinin soyundan geldiğini duymuştum.`
 ` Belki de bu sadece basit bir ayna değildir."`

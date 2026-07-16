@@ -233,7 +233,7 @@
 `"*kıKIr*kıKIr*.`
 ` Önden saldırı vazgeçilmezdir.`
 ` ...Arka saldırı yalnızca ön saldırıyla beraber ilerlediği için bir anlam taşır.`
-` Eğer sadece arkadan saldırıyı kullanacak kadar yozlaşırsam, bu, yöntemlerim amacım hâline geldiğinde ortaya çıkan ahmakça bir plandan başka bir şey olmaz."`
+` Eğer sadece arkadan saldırıyı kullanacak kadar yozlaşırsam; bu, yöntemlerim amacım hâline geldiğinde ortaya çıkan ahmakça bir plandan başka bir şey olmaz."`
 `"...İhihi, gerçekten mi?`
 ` Peki o zaman, çokça gurur duyduğun o kırmızıyla "hizmetkâr odasında kimse saklanmıyordu" cümlesini tekrarlar mısın?"`
 `"Buna gerek yok.`
@@ -410,7 +410,7 @@
 `......Tam da karanlıkta bir ışık gördüğümü sandığım anda,`
 ` ............kayboldu,`
 ` .........şimdi kayboldu.........`
-`kar kırmızısı bir deniz tarafından...`
+`kan kırmızısı bir deniz tarafından...`
 `...yutulup gitti.........!`
 `Kırmızı,`
 ` ...`
