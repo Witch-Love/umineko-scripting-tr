@@ -19,7 +19,7 @@
 `...Tam da tahmin edebileceğiniz gibi, aradan altı yıl geçtiği için, sohbet benim üzerimde yoğunlaştı.`
 `"Yine de, gerçekten uzamışsın.`
 ` Kendime kısa diyemem ama yine de boyun beni şaşırttı."`
-`"Evet. Battler-sama'nın altı yıl önceki halini çok iyi hatırlıyorum fakat yine de şaşırdım."`
+`"Evet. Battler-sama'nın altı yıl önceki hâlini çok iyi hatırlıyorum fakat yine de şaşırdım."`
 `"Değil mi?`
 ` Onun eskiden bildiğimiz Battler olduğuna inanmak güç."`
 `"Hepinizin altı yıl öncesini bu kadar çok hatırlamasına şaşırdım.`
@@ -29,7 +29,7 @@
 ` Bunun biraz incittiğini biliyorsun, değil mi?"`
 `"Hadi ama, altı yıl geçti, değil mi?`
 ` Benden hatırlamamı beklemen haksızlık...!"`
-`"...Yani, altı yıl önce olan şeyleri pek iyi hatırlayamıyor musun?`
+`"...Yani, altı yıl önce olan şeyleri pek iyi hatırlayamıyor musunuz?`
 ` Ben sanki dünmüş gibi net olarak hatırlayabiliyorum..."`
 `"Shannon, çünkü senin hafızan çok iyi.`
 ` Bahse girerim Battler-kun'un altı yıl önce ne tür şeyler yaptığını ve söylediğini çok iyi hatırlıyorsundur, değil mi?"`
@@ -47,7 +47,7 @@
 ` ......Buradan ayrılırken şöyle bir şey söylediğine eminim.`
 ` "Geri geleceğim... <See you again>.`
 ` Beyaz bir at üzerinde seni almaya geleceğim.""`
-`"Gyaaaaaaaaaaaaaaaaaaaahhh,`
+`"İyaaaaaaaaaaaaaaaaaaaahhh,`
 ` yapmaaaaaa, çok utanç vericiii{-}i{-}i{-}i{-}i{-}ii!!"`
 `"İyaaah‐hah‐hah‐hah‐hah‐ha!!"`
 `"Eminim söylemiştir, eminim söylemiştir!`
@@ -99,7 +99,7 @@
 ` Nasıl nasıl, nasıl fark ettin?!`
 ` Battler, insanları düşündüğümden daha iyi anlıyorsun."`
 `"Tüeh, ...hııaaaaaaah?!`
-` Ben sadece dalga geçiyordum— Gerçekten de çıkıyorlar mı?"`
+` Ben sadece dalga geçiyordum—Gerçekten de çıkıyorlar mı?"`
 `"Şşşt!`
 ` Sesin çok çıkıyor!`
 ` ...Görünüşe göre şimdilik bunu gizli tutuyorlar, tamam mı?`
@@ -251,7 +251,7 @@
 `"Hahahahahaha."`
 `George-aniki ve Jessica gülüştüler ama bu biraz gergin bir gülüştü.`
 ` ...Fazla mı konuştum?`
-`Ailelerimizin tekme yolculuğu sırasında ve havaalanında arada bir nasıl sessiz ifadeler ve yorgun yüzler takındığına bakılırsa, bu belki de söylememem gereken bir şeydi.`
+`Ailelerimizin tekne yolculuğu sırasında ve havaalanında arada bir nasıl sessiz ifadeler ve yorgun yüzler takındığına bakılırsa, bu belki de söylememem gereken bir şeydi.`
 `"...Haklısın.`
 ` Tıpkı Jessica'nın dediği gibi.`
 ` Birbirimize karşı her zaman dostça davranalım."`
@@ -440,7 +440,7 @@
 `{f:5:Beatrice}, konsantre olmuş bir hâlde öncekinden daha da fazla inlemekte olan sevimli cadı çırağının hatırı için,`
 ` ufak bir büyü daha yapmaya karar verdi.`
 `Parmaklarını şıklattı ve bir altın kelebek belirdi, etrafta kanat çırptı ve henüz canlanmış olan çiçeğin üzerine kondu.`
-`Sonra aniden patlayarak açıldı ve kayboldu, altın bir dantel haline geldi ve gülü işaretledi...`
+`Sonra aniden patlayarak açıldı ve kayboldu, altın bir dantel hâline geldi ve gülü işaretledi...`
 `"Bu kadarı yeterli.`
 ` ......Maria.`
 ` Şimdi gözlerini açabilirsin."`
@@ -463,7 +463,7 @@
 `Fırtınanın yarattığı bariyer Rokkenjima'yı gerçek dünyadan ayırdı.`
 `Şimdi Altın Cadı'nın, Sonsuz Cadı'nın, {f:5:Beatrice}'in yeryüzüne inme zamanı.`
 `{f:5:Beatrice} cebinden üzerinde aile arması olan Tek Kanatlı Kartal'ın bulunduğu bir zarf çıkardı ve Maria'ya verdi.`
-`Maria cadının habercisi olarak seçildiği için sevinçten havalara uçtu.`
+`Maria cadının elçisi olarak seçildiği için sevinçten havalara uçtu.`
 `"Evet, Kinzo.`
 ` Eğlencene bir defa daha katılmaya geldim.`
 ` Hazırlıklarım çoktan tamamlandı.`
@@ -482,7 +482,7 @@
 `"Kaybedeceğimi görmüyorum.`
 ` Sen sadece benimsin.`
 ` Sonsuza dek!!"`
-`Kinzo'nun fırlattığı yüzük altından tek bir kelebeğe dönüştü ve rüzgârda ve yağmurun altında kanat çırptı.`
+`Kinzo'nun fırlattığı yüzük altından bir kelebeğe dönüştü ve rüzgârda ve yağmurun altında kanat çırptı.`
 `Âdeta oraya yönlendiriliyormuş gibi gül bahçesine doğru yöneldi.`
 `Ardından Altın Cadı'nın figürünü buldu ve aşağı doğru kanat çırptı......`
 `Tam {f:5:Beatrice}'in önüne geldiğinde,`
@@ -505,7 +505,7 @@
 ` Ne de olsa, sizin oldukça unutkan olduğunuzu biliyorum."`
 `"*kıKIr*kıKIr*...!`
 ` Anlıyorum, evet, kesinlikle unutkanım.`
-` Tekrar duyana kadar alaycı konuşmanı bile hatırlayamadım."`
+` Senin o alaycı konuşmanı tekrar duyana kadar hatırlayamadım bile."`
 `"Leydim, sizin için."`
 `Abartılı ancak zarif bir hareketle eğilerek saygıyla selam verdi,`
 ` ve az önce yakalamış olduğu Aile Reisi Yüzüğü'nü {f:5:Beatrice}'e uzattı.`
@@ -522,13 +522,13 @@
 ` Değil mi, Battler?"`
 `"Memnun oldum.`
 ` Kendimi tanıtmama izin verin.`
-` Leydi {f:5:Beatrice}'in hizmetindeyim, benim adım Ronove.`
+` Leydi {f:5:Beatrice}'in hizmetindeyim. Benim adım Ronove.`
 ` Sizinle tanışmak gerçekten bir zevk."`
 `"Gördün mü?`
 ` Ağzı açık kaldı ve onu kapatamıyor, değil mi?`
 ` *kıKIr*kıKIr*!"`
 `"Bu çok normal değil mi, bir akıl almaz adam daha türedi!!`
-` Keçi kafalı insanlar Bon dansı yapmaya başlayacak diye söyleniyordum, sonra keçi kafaları sürüler halinde ortaya çıkmaya başladı,`
+` Keçi kafalı insanlar Bon dansı yapmaya başlayacak diye söyleniyordum, sonra keçi kafaları sürüler hâlinde ortaya çıkmaya başladı,`
 ` ve o andan itibaren, o yedi seksi hatun bir yana, şimdi bir uşak bile ortaya çıktı!!`
 ` Hiç mantıklı değil, artık kes şunu!!"`
 `"Bu arada, Battler.`
@@ -579,7 +579,7 @@
 ` Çok çabuk anlaşmaya başladınız.`
 ` Kıskandım."`
 `"Amanın.`
-` Leydim, sizi kıskandırdığım için çok özür dilerim.`
+` Leydim, sizi kıskandırdığım için özürlerimi sunarım.`
 ` Misafirinizi sizden gizlice kaçırmayacağım."`
 `"O hâlde, şimdilik diğer mobilyaları selamlamak ve baş mobilya olarak görevimi yeniden üstlendiğimi kendilerine bildirmek üzere ayrılıyorum.`
 ` Lütfen kısa süreli yokluğumu bağışlayın."`
@@ -601,7 +601,7 @@
 `"*kıKIr*kıKIr*kıKIr*!`
 ` Cesaretini toplamaya başlamışsın!"`
 `"Ancak, karşılıklı konuşmak, karşındaki kişiyi kabul etmek anlamına gelir.`
-` Artık boş konuşmalarıma karşılık vermeye başlamış olman, varlığımı yavaş yavaş kabul etmeye başladığının bir kanıtıdır."`
+` Artık boş konuşmalarıma karşılık vermeye başlamış olman, varlığımı yavaş yavaş kabul etmeye başladığının bir kanıtı."`
 `"Heh.`
 ` Güneş batıdan doğmaya başlasa bile, senin bir cadı olduğunu kesinlikle, kesinlikle, asla kabul etmeyeceğim.`
 ` Belki de ağlamaya ve ayakkabımı öpmeye başlarsan, daha yapıcı bir tartışma yapmaya istekli olabilirim."`
@@ -619,7 +619,7 @@
 ` Bu ne anlama geliyor...?"`
 `"Hmm, evet.`
 ` Sen hâlâ direniyorsun ama ben kıdemli bir cadıyım.`
-` Cehennemdeki pek çok insan olmayan varlıkla temas halindeyim."`
+` Cehennemdeki pek çok insan olmayan varlıkla temas hâlindeyim."`
 `"Buna eminim.`
 ` Bağlantılarının hiçbiri normal değil.`
 ` Önce birkaç keçi yaratık, sonra o seksi kalçalı hatunlar ve bu sefer de iblis bir uşak belirdi.`
@@ -635,7 +635,7 @@
 ` *kıKIr*kıKIr*...!"`
 `"......Şunu açıklığa kavuşturalım.`
 ` Gücünü kaybettiğinden beri, uzun bir süredir onları çağıramıyordun."`
-`"...Ve büyü gücün yavaş yavaş toparlanıyor, bu yüzden giderek daha fazla canavar çağırabilir hale geldin.`
+`"...Ve büyü gücün yavaş yavaş toparlanıyor, bu yüzden giderek daha fazla canavar çağırabilir hâle geldin.`
 ` Söylemeye çalıştığın şey bu mu?"`
 `"Söylediğin gibi.`
 ` Uçurumdan aşağı son adımı atmaktan kaçınmayı başardın,`
@@ -725,7 +725,7 @@
 ` Mührün gerçek olduğuna mı?`
 ` Buna nasıl güvenebiliriz ki!!"`
 `"O zaman gidip doğrudan Babamıza sormayı deneyelim!`
-` Ruh halinin kötü olduğunu ya da kendini iyi hissetmediğini söyleyerek paçayı kurtarabileceğin bir noktada değiliz, biliyorsun değil mi?!"`
+` Ruh hâlinin kötü olduğunu ya da kendini iyi hissetmediğini söyleyerek paçayı kurtarabileceğin bir noktada değiliz, biliyorsun değil mi?!"`
 `"Mühürlü balmumu bu mektubun Babamın temsilcisinden geldiğini açıkça gösteriyor!`
 ` Eğer bundan şüphe ediyorsan, o zaman bir kanıt göster, Nii-san.`
 ` Bu mektubun Babamın isteklerinin bir beyanı olmadığını kanıtla!!"`
@@ -744,7 +744,7 @@
 ` Halef olabilmemiz için dördümüze de eşit şans verdiği çok açık değil mi?!!"`
 `"Aptal, öl, seni işe yaramaz kadın!!"`
 `Rosa gerçekten aptal.`
-` Neden vazgeçip sonsuza dek ölmüyooor...?`
+` Pes edip geberse yaaa...?`
 `"Ü-Üzgünüm...!`
 ` H-Haklısın...`
 ` Özür dilerim..."`

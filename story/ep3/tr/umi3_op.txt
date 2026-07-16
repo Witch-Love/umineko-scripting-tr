@@ -47,7 +47,7 @@
 `"G-Gerçekten mi...?"`
 `"Eğer güçlerime inanacak kadar nazik olursanız evet, prenses.`
 ` Büyü gücünün temeli inançtan gelir.`
-` ......Mucizeler yalnızca güçlü bir şekilde inananların huzuruna çıkabilir."`
+` ......Mucizeler yalnızca kuvvetli bir şekilde inananların huzuruna çıkabilir."`
 `"İ-...İnanıyorum...`
 ` {f:5:Beatrice}, senin büyüne inanıyorum.`
 ` Bu yüzden, lütfen bu vazoyu tamir et.`
@@ -76,18 +76,18 @@
 ` Kırılmış bir şeyi orijinal formuna geri kazandırabilmek çok ama çok zor bir şeydir.`
 ` Büyümle, yalnızca şimdilik ona eskiden nasıl olduğunu hatırlatmaktan fazlasını yapamam."`
 `"......?`
-` Ama vazo tekrar eski haline döndü, değil mi...?"`
+` Ama vazo tekrar eski hâline döndü, değil mi...?"`
 `"Evet, doğru.`
 ` Lakin bu, vazonun kaderinde yer alan kırılmayı önlediğim anlamına gelmiyor.`
-` Şimdilik, kırılan vazonun kırılmadan önceki halini hatırlamasını sağlamaktan başka bir şey yapmadım.`
-` Parçalanmış bir kaderi orijinal haline döndürebilen büyü gücü benim bile henüz ulaşamadığım çok yüksek bir seviyededir."`
+` Şimdilik, kırılan vazonun kırılmadan önceki hâlini hatırlamasını sağlamaktan başka bir şey yapmadım.`
+` Parçalanmış bir kaderi orijinal hâline döndürebilen büyü gücü benim bile henüz ulaşamadığım çok yüksek bir seviyededir."`
 `O sırada malikânenin içinden bir hizmetkârın tiz çığlığı duyuldu.`
 `Ne olduğunu görmek için gittiğimde,`
 ` ......hizmetkârlardan birkaçının toplandığını ve kırılan vazonun parçalarını temizlediklerini gördüm.`
 `Söylediklerine bakılırsa, kara bir kedi bir yerlerden gizlice içeri girip vazonun üzerine tırmanmış ve onu devirmişti.`
 `{f:5:Beatrice}'in söylediklerinin ne anlama geldiğini anlamıştım.`
 `...Vazoyu kırdığım anda, "vazo kırıldı".`
-`{f:5:Beatrice} bana vazonun eski haline döndüğünü göstermişti, ama bu geçici bir şeydi.`
+`{f:5:Beatrice} bana vazonun eski hâline döndüğünü göstermişti, ama bu geçici bir şeydi.`
 ` Bu, "vazo kırıldı" kaderinin değişmiş olduğu anlamına gelmiyordu.`
 `Sonuç olarak, ......vazo gerçek kaderini hatırlamış ve "kırılmıştı".`
 `{n}Ama onu ben kırmamıştım; bunun yerine, içeri sızan bir kedi onu kırmıştı...`
@@ -95,7 +95,7 @@
 ` {f:5:Beatrice} "Vazoyu onaralım" dememişti.`
 `Bunu benim cezalandırılmama engel olacak şekilde yapacağını söylemişti.`
 `Vazonun kırılacağı kaderi değişmemişti ama onu benim kırmış olduğum gerçeği kesinlikle değişmişti...`
-`{f:5:Beatrice} beni o büyüyle ustaca tehlikeden kurtarmıştı...`
+`{f:5:Beatrice} beni o büyüyle tehlikeden ustaca kurtarmıştı...`
 `"Bir şeyleri kırmak gerçekten çok kolaydır.`
 ` Prenses, tıpkı sizin vazoyu kırmak için büyüye ihtiyaç duymamanız gibi."`
 `"...Bir şeyi tamir etmek çok mu zor...?"`
@@ -115,7 +115,7 @@
 `"Benim eğitim günlerimin sona ermesine daha çok zaman var.`
 ` Ne de olsa vazoya kaderini bir saatliğine bile unutturamadım.`
 ` Bana büyüyü öğreten ustam burada olsaydı, eminim ki,`
-` vazoyu ebedi olarak eski haline döndürebilirdi."`
+` vazoyu ebedi olarak eski hâline döndürebilirdi."`
 `"Ne kadar kırılırsa kırılsın, tekrar ve tekrar tamir edebilir miydi...?"`
 `"Evet.`
 ` Biri o seviyeye ulaştığında, sonsuz büyü gücüne sahip olur.`
@@ -141,7 +141,7 @@
 `"Hayır, yok.`
 ` Ben de bir cadı olmak istiyorum."`
 `"......Anladım.`
-` O hâlde, siz yorulana kadar prenses, öğrencim olmanıza izin vereceğim.`
+` O hâlde prenses, siz yorulana kadar öğrencim olmanıza izin vereceğim.`
 ` ...Bana Usta olarak hitap edebilir misiniz?"`
 `"Evet, Usta."`
 `"Bu iyi bir cevap.`
@@ -209,9 +209,9 @@
 `{n}...Gerçekten, mobilyalarım sıkılmama izin vermiyor.`
 `Mobilyalar formlarını sildikten sonra...geriye kalan tek şey kırık bir oyuncağın son kalıntıları olan pis bir dağınıklıktı.`
 `Artık hiçbir formu yoktu.`
-`"...Böyle göründüğünde orijinal halini hatırlamakta ben bile zorlanıyorum.`
+`"...Böyle göründüğünde orijinal hâlini hatırlamakta ben bile zorlanıyorum.`
 ` Kendi kendini hatırlamasını sağlamak daha iyi.`
-` ......Oh, pekâlâ."`
+` ......Amanın."`
 `Altın pipomu salladım.`
 `Ve söyledim.`
 ` Şarkıyı söyledim.`
@@ -222,7 +222,7 @@
 `"Hangi parçaların kol, hangi parçaların bacak olduğu hakkında hiçbir fikrim yok.`
 ` Eğer benim yerime sen hatırlamazsan, senin yüzünü ben bile hatırlayamayacağım.`
 ` *kıKIr*kıKIr*kıKIr*!"`
-`Büyünün gücüyle, zavallı et parçaları eski hallerini hatırlamaya başladılar.`
+`Büyünün gücüyle, zavallı et parçaları eski hâllerini hatırlamaya başladılar.`
 `Kim kime bağlıydı.`
 ` Nerede, nereye bağlıydı.`
 `Evet, tıpkı böyle.`
@@ -270,9 +270,9 @@
 `"Kontrol sende değil!"`
 `"Evet, Battler-kun.`
 ` Kaldığımız yerden devam edelim mi?`
-` Jessica-chan'ın odasını master anahtarla kilitledikten sonra, anahtarı odanın içindeki cesedin cebine geri nasıl koydular?"`
+` Master anahtarla Jessica-chan'ın odası kilitlendikten sonra, anahtar odanın içindeki cesedin cebine geri nasıl kondu?"`
 `"......Örneğin...`
-` ...İşte bu, olta gibi bir şey kullanarak anahtarı kapının aralığından odaya geri soktular..."`
+` ...İşte bu, olta gibi bir şey kullanarak anahtarı kapının aralığından odaya geri soktu..."`
 `"İyahhahahahahahaha!!`
 ` Yanlııış!"`
 `"Çok safça.`

@@ -117,7 +117,7 @@
 `"Kulağa hoş geliyor.`
 ` Kafamızı sakinleştirmemiz daha akıllıca olur.`
 ` Bebeğim, sen de sigara içmek istemez misin?"`
-`"...Aneki kötü bir ruh halinde gibi görünüyor.`
+`"...Aneki kötü bir ruh hâlinde gibi görünüyor.`
 ` O yüzden bu sefer pas geçeceğim.`
 ` Ama soğuk içecekler konusunda katılıyorum.`
 ` Rosa, birine su getirmesini söyle.`
@@ -204,7 +204,7 @@
 `".........Hideyoshi-san,`
 ` bir cadıdan ziyade daha basit bir şeyden bahsediyoruz gibi görünüyor.`
 ` ...Bakalım doğru anlamış mıyım."`
-`"Hepiniz Babamın bu adada bir yerlerde gizlice yaşayan {f:5:Beatrice} adında bir metresi olduğundan şüpheleniyorsunuz.`
+`"Hepiniz Babamın {f:5:Beatrice} adında bir metresi olduğundan ve bu adada bir yerlerde gizlice yaşadığından şüpheleniyorsunuz.`
 ` ......Böyle bir şey mi?"`
 `"Babam kurallara sıkı sıkıya bağlı kalma konusunda her zaman örnek bir insan olmuştur!`
 ` Bu adada böylesine pis bir şey yapabileceği kesinlikle düşünülemez...!"`
@@ -214,8 +214,8 @@
 `Kinzo'nun bu adadaki malikâneyi inşa ettiği ilk günden beri kulaktan kulağa dolanıyordu......`
 `"......Özür dilerim Natsuhi-san, Babama ne kadar saygı duyduğunu biliyorum ama bu söylenti uzun zamandır ortalıkta dolaşıyor.`
 ` Babam Rokkenjima'daki tüm binaları bizzat kendisi inşa ettirdi."`
-`"...Başından beri bu malikânenin sadece Babamın bildiği bazı gizli numaraları veya gizli odaları olabileceğinden şüpheleniliyordu,`
-` ve ayrıca bu adada bir yerlerde saklı, hiçbirimizin bilmediği gizli bir köşkün olabileceği de hep konuşuluyordu."`
+`"...Başından beri bu malikânenin sadece Babamın bildiği bazı gizli numaraları veya gizli odaları olabileceğinden şüpheleniliyordu.`
+` Ayrıca bu adada bir yerlerde saklı, hiçbirimizin bilmediği gizli bir köşkün olabileceği de hep konuşuluyordu."`
 `"Evet, öyle.`
 ` Bu ada haritada küçük görünüyor olabilir, ...ama sadece Ushiromiya ailesinin yaşaması için oldukça büyük."`
 `"......Bu yüzden insanlar, metresinin içinde yaşayabileceği vahşi ormanda bir yerlerde gizli bir köşk inşa edip etmediğini merak ettiler.`
@@ -232,7 +232,7 @@
 `Ve üstelik böylesine abartılı bir malikâneye sahip olan Kinzo'dan bahsediyorduk.`
 `{n}......Gizli odaların varlığından şüphelenmek için sonsuz olasılık vardı...`
 `"Rokkenjima cadısının efsanesi,`
-` ...bildiğim kadarıyla, çocukları korkutarak vahşi ormana girmelerini önlemek için uydurulmuş bir masaldan ibaretti..`
+` ...bildiğim kadarıyla, çocukları korkutarak vahşi ormana girmelerini önlemek için uydurulmuş bir masaldan ibaretti.`
 ` ...Ama kulağa hikâyenin biraz daha fazlası varmış gibi gelmeye başladı."`
 `"Evet, öyle denebilir.`
 ` Bildiğiniz gibi, burası Ushiromiya malikânesinden başka hiçbir şeyin olmadığı ıssız bir ada."`
@@ -387,7 +387,7 @@
 ` ......Tüm bunları aileden herhangi biri ya da hizmetkârlar fark etmeden sürdürmek mümkün olabilir mi?"`
 `"............Bu şekilde söyleyince, teorimizin zayıf bir noktası gibi görünüyor.`
 ` ...Ancak bu, Babamın yine de bunu başarabileceği hissinden kurtulmam için yeterli değil.`
-` ...Ne da olsa, Babamdan bahsediyoruz."`
+` ...Ne de olsa, Babamdan bahsediyoruz."`
 `"Doğru.`
 ` ...Babamdan bahsediyoruz."`
 `"Babam başarmak istediği bir şey olduğunda, ne olursa olsun başarırdı.`
@@ -496,18 +496,18 @@
 `"......Yani,`
 ` ......bu doğru.`
 ` Bir bilmecenin cevabını öğrendikten sonra pes edeceğimizi,`
-` "Al bakalım" diyerek teslim edeceğimizi düşünecek kadar saf olmalarına imkn yok."`
+` "Al bakalım" diyerek teslim edeceğimizi düşünecek kadar saf olmalarına imkân yok."`
 `"Tabii ki.`
 ` Ushiromiya ailesinin reisliği öyle kolayca devredilebilecek bir şey değil!"`
 `"Aynen öyle.`
 ` {f:5:Beatrice} böyle bir oyunu tek taraflı olarak nasıl sunarsa sunsun, bize cevabı muhteşem bir şekilde gösterse bile,`
-` reisliği itaatkar bir şekilde devretmemizin imkânı yok."`
+` reisliği itaatkâr bir şekilde devretmemizin imkânı yok."`
 `"......Başka bir deyişle, bizi hepimiz için eşit koşullara sahip bir oyuna davet etme şeklinde zorlayıcı bir güce sahip olmadığı sürece,`
 ` bu oyun, gerçekten bir oyun olarak sayılmayacak."`
 `"Haklısın.`
 ` ......Kaybedenlerin {i:zorlayıcı bir etken nedeniyle} reislikten vazgeçmekten başka çareleri kalmadığı sürece, bu gerçekten bir oyun sayılmaz."`
 `"Peki bu zorlayıcı etken ne olabilir?`
-` Bizi zincire vurup tehdit ederek reisliği devretmeye mi zorlayacaklar?"`
+` Bizi zincire vurup tehdit ederek reisliği devretmeye mi zorlayacak?"`
 `".........Anlıyorum.`
 ` Anladım.`
 ` ......Reislikten kendi isteğimizle vazgeçmemiz için bir şeyler yapması gerekirdi.`
