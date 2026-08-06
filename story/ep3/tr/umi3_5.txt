@@ -435,8 +435,8 @@
 `"............Hmmmmm..."`
 `Hikâyeyi bir kez daha gözden geçirelim.`
 `{n}Acaba şöyle bir şey olamaz mı?`
-`Büyükbabamın {f:5:Beatrice} adında karşılıksız aşık olduğu biri vardı.`
-`{n}Ve onu bu gizli köşke hapsetti ve ona devamlı olarak kur yaptı.`
+`Büyükbabamın {f:5:Beatrice} adında karşılıksız âşık olduğu biri vardı.`
+`{n}Ve onu bu gizli köşke hapsetti ardından ona devamlı olarak kur yaptı.`
 `{n}Ama kadın inatçıydı ve bir türlü pes etmiyordu.`
 `En nihayetinde, buradan kaçamayacağı konusunda karamsarlığa kapıldı...`
 `ve muhtemelen intihar etti.`
@@ -580,7 +580,7 @@
 `".........Teşekkür ederim.`
 ` ...Annem tarafından çok sert bir şekilde azarlandığım bir gündü."`
 `Öğretmenim bunu bir sır olarak tutacağına söz vermiş olsa da,`
-` ...görünüşe göre Anneme benim nasıl şikâyette bulunduğumla ilgili her şeyi anlatmışlar.`
+` ...görünüşe göre benim nasıl şikâyette bulunduğumla ilgili her şeyi Anneme anlatmıştı.`
 `Annem beni korkunç bir şekilde azarladı ve Ushiromiya ailesinin yüz karası olduğumu söyledi.`
 `......Tabii ki elimden gelenin en iyisini yapıyordum.`
 `Ama Krauss nii-san'ın asaletine sahip değildim,`
@@ -600,7 +600,7 @@
 ` Ya da belki de ortadan kaybolarak ailemi endişelendirmeye çalıştığım çocuksu bir direniş biçimiydi..."`
 `".........Çocukça bir düşünceyle eğer ormanın derinliklerine gidersem Ushiromiya evinden kurtulabileceğimi,`
 ` ya da kaybolup onları endişelendirerek onlardan intikam alabileceğimi düşündüm."`
-`"Sonra da, ......sana girmemen söylenen ormana mı gittin?"`
+`"Sonra da, ......sana gitmemen gerektiği söylenen ormana mı gittin?"`
 `"......Evet.`
 ` Sahile ulaştıktan sonra deniz kıyısını takip ettim.`
 ` ......Özel bir nedenim yoktu,`
@@ -809,7 +809,7 @@
 ` Ona göre, Rokkenjima'nın uçsuz bucaksız ormanı aşılmaması gereken bir duvardı,`
 ` ve Ushiromiya ailesi ile metresinin köşkü gibi iki zıt dünyayı birbirinden ayırıyordu."`
 `"Çitin yüksekliğini düşünecek olursanız, Babamın bahçesiyle birlikte tüm araziyi dev bir hapishaneye çevirdiğini görürsünüz.`
-` ......Tıpkı iki ayrı dünyasını birbirinden ayıran bir ülke sınırı gibi."`
+` ......Tıpkı iki ayrı dünyayı birbirinden ayıran bir ülke sınırı gibi."`
 `"...Kurtları bir kenara bırakın, o sırada bölgede başıboş köpekler var mıydı?`
 ` Onlardan korunmak için bir çit olabilir."`
 `"Rokkenjima'da kurt ya da başıboş köpek yok.`
@@ -1200,9 +1200,9 @@
 ` Sakın bana kendini büyüyle dirilttiğini falan söyleme!!"`
 `"*kıKIr*kıKIr*.`
 ` Sanırım bunu zaten açıklamıştım."`
-`"......Orada yatan ben, kuşkusuz ruhumu taşıyor,`
-` ama o beden, beni fiziksel dünyaya bağlayan etten bir kafesten başka bir şey değildi.`
-` Ve bu etten kafes böylece kırıldı.`
+`"......Orada yatan ben, kuşkusuz ruhumu taşıyor.`
+` O beden, beni fiziksel dünyaya bağlayan etten bir kafesten başka bir şey değildi.`
+` Böylece bu etten kafes kırıldı.`
 ` ......Bunun ne anlama geldiğini anlıyor musun?"`
 `"...............Artık hiçbir fikrim yok.`
 ` ......Cadı-kız numaralarınla eğlenmeye devam et.`
@@ -1229,7 +1229,7 @@
 `Kısa bir mesafe öteden onu izledim.`
 `Ah, ...yani oradan düştüm ve öldüm.........`
 `Bir süre için, doğru olanın bu olduğuna inandım.`
-` ...Rosa'nın cesedimin yanında uzun bir süre geçirdiğini gördüm, sonra uzaklaşırken onu izledim.`
+` ...Rosa'nın cesedimin yanında uzun bir süre geçirdiğini gördüm ve ardından uzaklaşırken onu izledim.`
 `......Nihayetinde, o cesetten bambaşka bir birey olduğumu fark ettim...`
 `".....................Doğru.`
 ` Ben......benim.`
@@ -1397,8 +1397,8 @@
 `".........Ancak benim için işin zor kısmı daha yeni başlıyor.`
 ` Eğer dürüstlüğü bir kenara bırakmayı seçersen,`
 ` 18 kişinin arasından suçluyu özgürce arayabilirsin!`
-` Seni mat etmek ve beni kabul etmeye zorlamak için,`
-` bu 18 taşın arasından bir yol bulmak,`
+` O 18 taşın arasından bir yol bulup,`
+` seni beni kabul etmeye zorlamak ve şah mat etmek,`
 ` .........gerçekten zor olacak."`
 `"Sanki bunu yapardım da!!`
 ` 18 kişinin hiçbirinden şüphe etmeyeceğim!`
