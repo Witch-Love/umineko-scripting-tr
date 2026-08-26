@@ -1290,7 +1290,7 @@
 ` ......Beato bir kez bile böyle çocukça numaralar kullanmadı."`
 `".........Battler..."`
 `"Tekrarlama talebi!!`
-` "Eva Hala da suçun işlenmesinden öncesinde de sonrasında da, her zaman odadaydı"!!"`
+` "Eva Hala da suçun işlenmesinin öncesinde de sonrasında da, her zaman odadaydı"!!"`
 `"Hideyoshi Enişte sadece mazeret yaratmak için oradaydı.`
 ` Eniştemin odada kalmasını sağlayıp gizlice dışarı çıktın.`
 ` ......Öyle olmadıysa, bu adam bunu kırmızıyla söyleyebilmeli!!!"`
@@ -1578,7 +1578,7 @@
 ` Ne bulursanız bulun, hiçbir şey anlayamayacaksınız!!"`
 `".........Hiçbir şey bulamayabiliriz...`
 ` ......Ama, ......Battler, seni ezip geçmek için bir hamle düşünmeye çalışırken dişlerini gıcırdatıyor.`
-` .........Benim elimde gelen tek şey bu......"`
+` .........Benim elimden gelen tek şey bu......"`
 `Beato yeniden oluşturulan holde, dizlerinin üstüne çöktü.`
 ` Kyrie'nin yerde yatan cesedine yaklaştı ve incelemeye başladı.`
 `"İ-{y:0:İnsan}{n:0:İnsan} tarafının nasıl savaştığını tam olarak anlamış değilim...`
@@ -1871,7 +1871,7 @@
 `{p:1:Eva yaşıyor}.`
 `{p:1:Jessica yaşıyor}.`
 `Hepsi bu kadar, 18'i de!`
-`"Yani, son kurban olan Nanjo'nun öldüğü anda,`
+`"Yani, son kurban olan Nanjo öldüğü anda,`
 ` yalnızca Battler, Eva ve Jessica üçlüsünün hayatta olduğunu anladınız, değil mi?"`
 `".........N-......Ne dedin...?`
 ` ......S-......Sen, ...yoksa............"`
