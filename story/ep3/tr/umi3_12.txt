@@ -635,7 +635,7 @@
 ` Kırmızı olan çilekli,`
 ` sarı olan ananaslı,`
 ` yeşil olan da kavunlu.`
-`Beyaz olan kısım neliydi, belki de elmalı...?`
+`Beyaz olan kısım neliydi, elmalı mı...?`
 `.........Rosa'nın böyle bir şeyi düşünecek zamanı var mıydı ki?`
 `Rosa, o renk dolu okyanusa doğru düştü.`
 `......Ve üzüm aromalı mor okyanusun derinliklerine gömüldü.`
@@ -643,7 +643,7 @@
 ` Dibi yoktu.`
 `Rosa batarken, üzüm jöleli okyanusta yüzen şeffaf balık sürüsünü görünce şok olmuştu.`
 `Muhtemelen üzüm kabuğundan yapılmışlardı.`
-`Sonra durmaksızın, gittikçe daha da derine, Mariana Çukuru kadar derine batmaya devam etti.`
+`Sonra durmaksızın, gittikçe daha da derine, Mariana Çukurunun dibine ulaşacak kadar derine batmaya devam etti.`
 ` ......Jöle okyanusunun su basıncıyla ezilmeye başlamış,`
 ` kaburgaları ezilip çatırdamış, omurgası kırılıp çatlamıştı.`
 `...En sonunda küçük, şekilsiz bir köfteye dönüşmüştü.`
@@ -782,7 +782,7 @@
 ` Eva Hala ile oynama!!`
 ` Bu saçmalığı derhâl DURDUUUUUUUUURRRRRR!!"`
 `"Sana söyledim, Rosa'yla oynayan artık ben değilim.`
-` O yeni {f:5:Beatrice} olduğunu söylüyorum."`
+` Oynayanın o yeni {f:5:Beatrice} olduğunu söylüyorum."`
 `"Böyle ciyaklamanı gerektirecek kadar acımasızca mı?`
 ` Sen de aslında böyle şeylere bayılıyorsun, değil mi?!`
 ` Aslında büyüye biraz ilgi duyuyorsun ve—`
@@ -853,7 +853,7 @@
 ` Sen de kaybolsana?!!"`
 `"Pekâlâ, anlaşıldı.`
 ` ......O hâlde, izninizle."`
-`Ronove da karanlığın arasına dalmış, Beato yalnız kalmıştı.`
+`Ronove bile karanlığın arasına dalmış, Beato yapayalnız kalmıştı.`
 `Yağmurlu gül bahçesinde tek bir kişi vardı.`
 `Kimse yalnız bir cadı ile oynamaz.`
 `Kimse onunla oynamadığı için o, yalnız bir cadı olur.`

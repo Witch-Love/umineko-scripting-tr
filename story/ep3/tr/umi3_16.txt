@@ -108,9 +108,9 @@
 `......Karanlığın içinde yalnızca Eva kalmıştı.`
 `{n}Kendini sorgulamaya başladı...`
 `"Ben miydim......?`
-` Onları......{i:ben} mi öldürdüm......?`
+` {i:Ben} mi......onları öldürdüm......?`
 ` Onu öldüren...ben miydim......?`
-` ......Onu...{i:ben} mi......öldürdüm............?"`
+` ......{i:Ben} mi...öldürdüm......onu............?"`
 `Bu soru, kendisinin asla cevaplayamayacağı bir soruydu......`
 `"...ğ... *öhö*öhö*öhö*!!`
 ` *öhö*öhö*öhö*!!"`
@@ -321,7 +321,7 @@
 ` Ölümünden sonra bile bir insana olan sevgisini korumaya devam eden bu bilinmeyen varlığa saygılarını sundular...`
 `Shannon'un bedeni, göklerdeki ışığın içine çekildi ve gözden kaybolmaya başladı...`
 `Ölüler Diyarının kapkara karanlığında, altın kelebeklerin soluk titremeleri görülebiliyordu.`
-`...Bu, onlara uzun zamandır unutmuş oldukları gece gökyüzündeki nazik yıldızları hatırlattı...`
+`...Bu, onlara uzun zamandır unutmuş oldukları gece gökyüzünün nazik yıldızlarını hatırlattı...`
 `"........................hh!"`
 `George, hiçbir şey söylememesi gerektiğini hatırladı ve aceleyle ağzını kapattı.`
 `Fakat kalbi boğazından dışarı fırlayacakmış gibi hissediyordu.`
@@ -336,9 +336,9 @@
 `Dudakları zayıfça titreyen Shannon,`
 ` ......bunu kesinlikle söylemişti.`
 `Kelimeler çok silikti.`
-`{n}O kadar silikti ki normalde kulaklarına bile ulaşmamamalıydı.`
+`{n}O kadar silikti ki normalde kulaklarına bile ulaşmamalıydı.`
 `......Ancak George, onu açıkça duymuştu.`
-`.........Sevdiğini, nişanlısını, ölmüş olması gereken en sevdiği kişinin,`
+`.........Sevdiğinin, nişanlısının, ölmüş olması gereken en sevdiği kişinin,`
 ` onun adını bir kez daha söylediğini duymuştu...`
 `"Shannon,`
 ` .........Shannon.........`
@@ -617,14 +617,14 @@
 `......Ancak, bardaktan boşanırcasına yağan yağmurun ortasında, çimenlerin üzerinde herhangi bir iz göremedi.`
 `"......Birinci katta da böyle bir pencere olabilir.`
 ` Kimse fark etmeden dışarı çıkmak mümkün."`
-`"Ancak sadece kapılar değil, pencereler de kilitliydi ve kepenkler de indirilmişti, değil mi...?`
-` Dışarı çıkmak mümkün ama kilitlemek imkânsız olurdu..."`
+`"Ancak sadece kapılar değil, pencereler de kilitliydi ve kepenkler de indirilmemiş miydi...?`
+` Dışarı çıkmak mümkün olsa da kilitlemek imkânsız olurdu..."`
 `"Ama kilitlenebiliyorlar?`
 ` Bu şekilde, tık diye."`
 `Battler, sanki bu son derece açık bir şeymiş gibi, pencereyi kapattı ve kilitledi.`
 `"............B-......Battler-san, yoksa..............."`
 `"Eğer içeriden biri kilitlediyse, bu kilitli oda bir çocuk oyuncağı."`
-`"A-ama bu,`
+`"A-Ama bu,`
 ` .........demektir ki,`
 ` ......ooooooohhhh......"`
 `Nanjo'nun yüzü bembeyaz oldu ve birkaç kez başını salladı.`
@@ -677,7 +677,7 @@
 `"Aynen öyle, gideceksek hemen gidelim...!!`
 ` Burada kapalı kalmaktan bıktım usandım...!!`
 ` Hadi gidip Babamı, Annemi ve George nii-san'ı olabildiğince çabuk bulalım...!!"`
-`Jessica'nın tüm kanı başına sıçramıştı.`
+`Jessica'nın tüm kanı beynine sıçramıştı.`
 `{n}...Umarım bu onun astımını tetiklemez.`
 `"Kalmak isteyen kalabilir.`
 ` Ama biz dışarıya bakacağız...!"`
@@ -692,7 +692,7 @@
 `Bu şekilde dördümüz konukevinden ayrılmaya karar verdik.`
 `......Güvende olacağımıza inanarak kendimize barikat kurmuş, ......sonra da sekiz kişiyi kaybetmiştik.`
 `Sanki burası, kurbanların birbiri ardına öldürülmek üzere tutulduğu bir bekleme hücresinden başka bir şey değilmiş gibiydi.`
-`Zinciri çıkardık, ön kapının kilidini açtık ve kapıyı açtık.`
+`Zinciri çıkardık, ön kapının kilidini açtık ve kapıyı araladık.`
 `Hava çoktan kararmıştı.`
 ` Dışarıda yolu loş bir şekilde aydınlatan bazı ışıklar olsa da,`
 ` ......şüpheli bir kişinin saklanıyor olabileceği karanlığı aydınlatmaya yetecek aydınlığa sahip değillerdi.`

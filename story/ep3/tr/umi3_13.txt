@@ -296,12 +296,12 @@
 `"aslında suç işlenmedi, tüm bunlar Kinzo ve hizmetkârların bir oyunu ya da maskaralığı" düşüncesini yok etmişti.`
 `Sevdikleri insanları kaybetmenin üzüntüsünden kendilerini uzaklaştırmaya çalışan George ve Jessica,`
 ` sabahtan beri bütün zamanlarını her türlü olasılığı konuşarak geçirmişlerdi.`
-`......Bütün bu cinayetlerin bir oyun olduğunu...`
+`......Bütün bu cinayetlerin bir oyun olduğu...`
 `...ve Shannon'un da Kanon'un da ölü taklidi yapıyor olmaları gerektiği,`
 ` şeklindeki varsayımlarıyla kalplerini yatıştırmaya çalışıyorlardı.`
 `Tekrar bir cinayet işlenmesiyle bu düşünceleri yok olmuş,`
 ` ......ve bir kez daha sevdiklerinin kesinlikle öldürülmüş olduğu gerçeğiyle yüz yüze gelmişlerdi...`
-`Bir daha akıtmayacaklarını düşündükleri göz yaşlarına hâkim olamayan ikiliye karşı Battler, hiçbir söz sarf edememişti...`
+`Bir daha akıtmayacaklarını düşündükleri gözyaşlarına hâkim olamayan ikiliye karşı Battler, hiçbir söz sarf edememişti...`
 `Olayın sonrasında, tüm yetişkinler çok daha tedbirli olmak amacıyla, bütün odaların güvenli ve her şeyin kilitli olup olmadığını kontrol ettiler.`
 `Bütün pencerelerin kepenklerinin kapalı ve kilitli olduğundan emin oldular ve herhangi bir yerde şüpheli birinin saklanıp saklanmadığını kontrol ettiler.`
 `Bunun yanı sıra silahlarını da bir kez daha kontrol edip,`
@@ -402,7 +402,7 @@
 ` ......Tek başımaydım, bu yüzden kimse mazeretimi doğrulayamaz.`
 ` Ancak çocuklarla birlikte üst kata çıktığımı herkes görmüş olmalı."`
 `"...Bunun gibi pek çok şey söyleyebilirsin.`
-` Peki ya pencereden atlayıp Rosa'ya saldırıp,`
+` Peki ya pencereden atlayıp Rosa'ya saldırdıktan sonra,`
 ` yağmur borusundan falan tırmanarak geri döndüysen...?"`
 `"H-H-Hayatta olmaz.`
 ` Bu yaşlı bedenimle, ikinci kattan aşağı atlayıp...sonra da yukarı tırmanmak gibi bir şeyi nasıl yapabilirim..."`
@@ -442,7 +442,7 @@
 `"...Cadının kitabesinde yazdığı şekilde bu cinayetlere devam etmeyi mi planlıyorsun...?`
 ` Yoksa...beş kişiyi daha mı öldürmeyi planlıyorsun...?"`
 `"Evet.`
-` O sinir bozucu ritüeli tamamlamazsam, bir cadı olarak gücüm tam anlamıyla yerine gelmeyecek görünüyor.`
+` O sinir bozucu ritüeli tamamlamazsam, bir cadı olarak gücüm tam anlamıyla yerine gelmeyecek gibi görünüyor.`
 ` ......Hey, "ben"..."`
 `"...Cadıların gücü gerçekten harika.`
 ` Hayal ettiğimiz her şeyi gerçeğe dönüştürebiliyor.`
@@ -567,7 +567,7 @@
 ` bu da {y:0:İnsan}{n:0:insan}lardan yayılan büyü karşıtı toksinin zayıflamasına sebep olmuştu.`
 `Hem küçük nüfuslu, hem de büyülü bir varlığın kabul edilme olasılığı nispeten yüksek.`
 `{n}Yani, büyü karşıtı toksinleri oldukça zayıf.`
-`...Yalnızca bu ikisinin birleştiği bir vadide...modern çağda bir cadı yaşayabilirdi...`
+`...Modern bir çağda...yalnızca bu ikisinin birleştiği bir vadide bir cadının yaşaması mümkün olabilirdi...`
 `"Anlıyorum.`
 ` ......Bu formüle göre, bir cadının gücünü verimli kullanabilmesi için uyması gereken birkaç kural olduğunu söyleyebiliriz."`
 `"İlki, bir sahne oluşturmak.`
@@ -617,14 +617,14 @@
 ` ...Kısaca, bundan sonraki en önemli nokta bu barikat durumunu nasıl yok edeceğimiz ve onları küçük gruplara nasıl ayıracağımız olacak."`
 `"Ancak, şu anda oldukça temkinliler.`
 ` Barikatları kolay kolay yıkılmayacaktır...`
-` Hem iki oyun önceki Kinzo'nun çalışma odasındaki barikat, hem de geçen sefer olan salondaki barikat oldukça zorluydu.`
+` Hem iki oyun önceki Kinzo'nun çalışma odasındaki barikat, hem de geçen sefer salonda kurulan barikat oldukça zorluydu.`
 ` Dahası bu seferki barikat, hayatta kalan kurnaz yetişkinler tarafından kuruldu."`
 `"Durum, öncekilerden çok daha zor, anlıyor musun?`
 ` ......Dilersen sana özel bir tavsiyede bulunabilirim..."`
 `İlk cinayet vakası kapalı bir çevrede meydana gelirse, hayatta kalanlar mutlaka bir araya toplanır,`
 ` birbirlerini gözlemlemek ve güvenliklerini sağlamak için barikat kurarlar.`
 `......Bu durumun nasıl bozulacağı hakkında endişelenmek genelde katillerin ve gizem yazarlarının işidir.`
-` Fakat spektrumun diğer ucunda var olması gereken cadıların da aynı endişeyi paylaşması ne kadar gülünç.`
+` Fakat bunun tam zıttında yer alıyor olması gereken cadıların da aynı endişeyi paylaşması ne kadar gülünç.`
 `Yeni cadı, bir süre boyunca işaret parmağıyla yanağını dürterek derin düşüncelere dalmış gibi hareketler yaptı ve en sonunda konuştu.`
 `"...........................`
 ` ......Hayır, böyle iyiyim.`
