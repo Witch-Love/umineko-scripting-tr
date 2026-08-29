@@ -108,9 +108,9 @@
 `......Karanlığın içinde yalnızca Eva kalmıştı.`
 `{n}Kendini sorgulamaya başladı...`
 `"Ben miydim......?`
-` Onları......{i:ben} mi öldürdüm......?`
+` {i:Ben} mi......onları öldürdüm......?`
 ` Onu öldüren...ben miydim......?`
-` ......Onu...{i:ben} mi......öldürdüm............?"`
+` ......{i:Ben} mi...öldürdüm......onu............?"`
 `Bu soru, kendisinin asla cevaplayamayacağı bir soruydu......`
 `"...ğ... *öhö*öhö*öhö*!!`
 ` *öhö*öhö*öhö*!!"`
@@ -617,14 +617,14 @@
 `......Ancak, bardaktan boşanırcasına yağan yağmurun ortasında, çimenlerin üzerinde herhangi bir iz göremedi.`
 `"......Birinci katta da böyle bir pencere olabilir.`
 ` Kimse fark etmeden dışarı çıkmak mümkün."`
-`"Ancak sadece kapılar değil, pencereler de kilitliydi ve kepenkler de indirilmişti, değil mi...?`
-` Dışarı çıkmak mümkün ama kilitlemek imkânsız olurdu..."`
+`"Ancak sadece kapılar değil, pencereler de kilitliydi ve kepenkler de indirilmemiş miydi...?`
+` Dışarı çıkmak mümkün olsa da kilitlemek imkânsız olurdu..."`
 `"Ama kilitlenebiliyorlar?`
 ` Bu şekilde, tık diye."`
 `Battler, sanki bu son derece açık bir şeymiş gibi, pencereyi kapattı ve kilitledi.`
 `"............B-......Battler-san, yoksa..............."`
 `"Eğer içeriden biri kilitlediyse, bu kilitli oda bir çocuk oyuncağı."`
-`"A-ama bu,`
+`"A-Ama bu,`
 ` .........demektir ki,`
 ` ......ooooooohhhh......"`
 `Nanjo'nun yüzü bembeyaz oldu ve birkaç kez başını salladı.`
@@ -677,7 +677,7 @@
 `"Aynen öyle, gideceksek hemen gidelim...!!`
 ` Burada kapalı kalmaktan bıktım usandım...!!`
 ` Hadi gidip Babamı, Annemi ve George nii-san'ı olabildiğince çabuk bulalım...!!"`
-`Jessica'nın tüm kanı başına sıçramıştı.`
+`Jessica'nın tüm kanı beynine sıçramıştı.`
 `{n}...Umarım bu onun astımını tetiklemez.`
 `"Kalmak isteyen kalabilir.`
 ` Ama biz dışarıya bakacağız...!"`
