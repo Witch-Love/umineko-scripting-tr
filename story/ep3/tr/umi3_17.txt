@@ -227,7 +227,7 @@
 `...O sırada Shannon-chan bize kurabiye getirmemiş miydi?`
 `Kumasawa-san'ın pişirdiğini falan söylemişti.`
 `......Kurabiyelerin içinde gerçekten pişmiş uskumru olsaydı, muhtemelen gülmekten yerlere yatardım.`
-`............Demek Kumasawa-baa-chan'ın uskumru şakalarını bir daha asla duyamayağım, ha...`
+`............Demek Kumasawa-baa-chan'ın uskumru şakalarını bir daha asla duyamayacağım, ha...`
 `...Doğru ya, sadece Kumasawa-baa-chan'ı anmak, diğerlerine haksızlık olur...`
 `.........Babam ve Kyrie-san...dışarı neden çıktılar ki?`
 `Bir gün yemek yemesek ölecek değildik ya.`
@@ -334,7 +334,7 @@
 ` Benim suçum değil, benim suçum değil...!!"`
 `"Bekle bir saniye, Eva Hala...!!`
 ` Tek başına gitme!!"`
-`Eva Hala kendi hatasına tahammül edemediği için miydi,`
+`Eva Hala kendi hatasına tahammül edemediği için mi,`
 ` yoksa biricik oğlunu öldüren kişiye duyduğu öfke yüzünden mi kendini kaybetmişti,`
 ` ...yoksa ikisi birbirine mi karışmıştı, bilmiyordum.`
 `...Her hâlükârda, korku içinde, çığlıklar atıp bağırarak koridora doğru koştu.`
@@ -658,7 +658,7 @@
 `"...Güvende miyiz...?`
 ` Böyle konuşmaya devam edersek, onun tarafından fark edilmez miyiz?`
 ` Sesimizi duymaz mı...?"`
-`"......Bir gizlilik bariyer kurdum.`
+`"......Bir gizlilik bariyeri kurdum.`
 ` Yüksek ses çıkarmazsanız veya gürültülü konuşmazsanız, kimse fark etmeyecektir.`
 ` ......Bu yüzden kimse benim varlığımı fark edemez."`
 `"...P-...Pek anlamıyorum ama, ...sessiz kaldığımız sürece sorun olmayacak, değil mi...?`
@@ -1290,7 +1290,7 @@
 ` ......Beato bir kez bile böyle çocukça numaralar kullanmadı."`
 `".........Battler..."`
 `"Tekrarlama talebi!!`
-` "Eva Hala da suçun işlenmesinden öncesinde de sonrasında da, her zaman odadaydı"!!"`
+` "Eva Hala da suçun işlenmesinin öncesinde de sonrasında da, her zaman odadaydı"!!"`
 `"Hideyoshi Enişte sadece mazeret yaratmak için oradaydı.`
 ` Eniştemin odada kalmasını sağlayıp gizlice dışarı çıktın.`
 ` ......Öyle olmadıysa, bu adam bunu kırmızıyla söyleyebilmeli!!!"`
@@ -1578,7 +1578,7 @@
 ` Ne bulursanız bulun, hiçbir şey anlayamayacaksınız!!"`
 `".........Hiçbir şey bulamayabiliriz...`
 ` ......Ama, ......Battler, seni ezip geçmek için bir hamle düşünmeye çalışırken dişlerini gıcırdatıyor.`
-` .........Benim elimde gelen tek şey bu......"`
+` .........Benim elimden gelen tek şey bu......"`
 `Beato yeniden oluşturulan holde, dizlerinin üstüne çöktü.`
 ` Kyrie'nin yerde yatan cesedine yaklaştı ve incelemeye başladı.`
 `"İ-{y:0:İnsan}{n:0:İnsan} tarafının nasıl savaştığını tam olarak anlamış değilim...`
@@ -1871,7 +1871,7 @@
 `{p:1:Eva yaşıyor}.`
 `{p:1:Jessica yaşıyor}.`
 `Hepsi bu kadar, 18'i de!`
-`"Yani, son kurban olan Nanjo'nun öldüğü anda,`
+`"Yani, son kurban olan Nanjo öldüğü anda,`
 ` yalnızca Battler, Eva ve Jessica üçlüsünün hayatta olduğunu anladınız, değil mi?"`
 `".........N-......Ne dedin...?`
 ` ......S-......Sen, ...yoksa............"`
