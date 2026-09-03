@@ -7,13 +7,13 @@
 `"Hiçbir fikrim yok...`
 ` ......Burası malikânenin altı mı......?`
 ` Yemek salonunun tam altında...böyle bir oda mı vardı...?"`
-`Bir tür çukura yakalanmış ve bu odaya {i:düşmüşlerdi}.`
+`Bir tür deliğe yakalanmış ve bu odaya {i:düşmüşlerdi}.`
 `Dolayısıyla, bu odanın yemek salonunun tam altında olduğunu düşünmek mantıklı olurdu.`
-`......Ancak, Krauss bile, yıllardır keyifle yemek yediği yemek salonunda çukur tuzakları kurulu olduğuna,`
+`......Ancak, Krauss bile, yıllardır keyifle yemek yediği yemek salonunda delik tuzakları kurulu olduğuna,`
 ` ...ve tam altında bu zindan benzeri odanın olduğuna inanamıyordu.`
 `Fakat yukarı baktıklarında tavanın pürüzlü taştan yapıldığını gördüler, ......ve o tavanın neresinden düşmüş olabileceklerini anlayamadılar.`
 `Hayır, buraya düşen beş kişi de aynı şeyi düşünüyordu.`
-`Bir çukura düşmüş gibi hissetmiş olsalar da,`
+`Bir delikten düşmüş gibi hissetmiş olsalar da,`
 ` ......yemek salonunda tuzaklar olması ya da tam altında bu zindan benzeri yerin olması imkansızdı.`
 `......Lakin {i:gerçek}, buraya düşüp kilitli kaldıkları yönündeydi.`
 `{n}......Ve bu yüzden, ...kafaları karıştı.`
@@ -125,7 +125,7 @@
 ` .........İnsanları anında bayıltan bir ilaç var mı acaba?"`
 `"......İnsanları anında bayıltan bir ilaç mı......?`
 ` Neyden bahsediyorsunuz......?"`
-`"Bir çukura yakalanıp bu zindana düştüğümüzü düşünüyoruz.`
+`"Bir deliğe yakalanıp bu zindana düştüğümüzü düşünüyoruz.`
 ` ......O panik anında, yaşananın bu olduğuna inanmıştık."`
 `"......Ama bu odanın büyüklüğüne bakınca bir şeyin farkına vardım.`
 ` Bu zindan yemek salonunun altında olamaz."`
@@ -142,26 +142,26 @@
 `"S-...Sahiden, söyleyince fark ettim.`
 ` ......Hemen ardından düşen bendim, bu yüzden ikinizin nerede durduğunu oldukça iyi hatırlıyorum.`
 ` ......Yemek salonunda ikinizin arasındaki mesafe, bu odanın tamamından daha uzun gibiydi."`
-`"Bir çukura düştük ve doğrudan buraya çakıldık.`
+`"Bir delikten düştük ve doğrudan buraya çakıldık.`
 ` ......Birbiriyle kesişen borulara düşüp, bir araya geldikten sonra buraya düşmüş değiliz."`
 `"Düşüş aniden oldu, değil mi?`
 ` Öyle karmaşık bir su borusu sisteminde yuvarlandığımızı hatırlamıyorum."`
-`"............Doğru, bunu bir çukurla açıklayamayız.`
+`"............Doğru, bunu bir delikle açıklayamayız.`
 ` ...Garip bir durum."`
 `"Bunun Kyrie-sama'nın bahsettiği, insanları anında bayıltan ilaçla ne ilgisi var...?"`
 `"...........................`
-` ......Kyrie-sama muhtemelen yemek salonunda çukur olmadığını düşünüyor olmalı."`
+` ......Kyrie-sama muhtemelen yemek salonunda delik olmadığını düşünüyor olmalı."`
 `"Ama gerçekten de düştük."`
-`"Bir çukura düştüğümüz hissine kapıldık dememiz daha doğru olur.`
+`"Bir delikten düştüğümüz hissine kapıldık dememiz daha doğru olur.`
 ` ......Buna şüphe yok.`
 ` Bu deneyimi bundan başka bir şekilde tarif edemeyiz."`
 `"A-Anlıyorum......`
 ` Yani, demek istediğiniz şu..."`
-`"......Bir çukura atılmadık,`
+`"......Bir deliğe atılmadık,`
 ` ......ama örneğin, zehirli bir okla vurulduk, anında bilincimizi kaybettik ve yere düştüğümüz anı,`
-` sanki bir çukura düşmüşüz gibi hatırlıyor olabiliriz......"`
+` sanki bir delikten düşmüşüz gibi hatırlıyor olabiliriz......"`
 `"............Anlıyorum.`
-` Bu, uzun yıllardır yemek yediğimiz yemek salonunda hiç fark etmediğimiz sayısız çukur tuzağı olduğu iddiasından çok daha ikna edici bir açıklama."`
+` Bu, uzun yıllardır yemek yediğimiz yemek salonunda hiç fark etmediğimiz sayısız delik tuzağı olduğu iddiasından çok daha ikna edici bir açıklama."`
 `"......Nee-san.`
 ` Saatin var mı?"`
 `"Eh?`
@@ -173,7 +173,7 @@
 ` ...Yani, yemek salonundaki o kargaşadan bu yana 10 dakikadan fazla zaman geçmemiş."`
 `"Benim saatim de aynı.`
 ` ............Bizi bayıltıp bir yere taşıdıklarını varsaymak için bu süre çok kısa.`
-` .........Sadece saate bakarak, gerçekten de bir çukurla yemek salonunun hemen altına düştüğümüzü düşünmek mantıklı."`
+` .........Sadece saate bakarak, gerçekten de bir delikten yemek salonunun hemen altına düştüğümüzü düşünmek mantıklı."`
 `"Saat ibreleriyle kolayca oynanabilir.`
 ` ......Biz baygınken, herkesin saatini geriye almış olabilirler.`
 ` Bu olasılığın olmadığını kanıtlamamız imkânsız."`
@@ -328,7 +328,7 @@
 ` İş, "konu Babamsa, bu mümkün" lafına mı geliyor...?"`
 `Birkaç gizemli insan aniden yoktan var oldu,`
 ` ......altı kişinin kafası gizemli, altın renkli uçan bir nesne tarafından parçalandı,`
-` ......ve biz beşimiz, gizemli bir çukura düşerek ya da bayıltıcı ilaçlı bir okla vurularak gizemli bir yeraltı zindanına kapatıldık......`
+` ......ve biz beşimiz, gizemli bir delikten düşerek ya da bayıltıcı ilaçlı bir okla vurularak gizemli bir yeraltı zindanına kapatıldık......`
 `Aile konferansı saat 22:00'ı biraz geçtikten sonra başladı.`
 `{n}......O zamandan beri yaklaşık 30 dakikadan fazla geçmemişti.`
 `Muhtemelen,`
@@ -841,7 +841,7 @@
 `......Eğer durum böyleyse,`
 ` yemek salonundaki katliamdan sonra, sadece birkaç dakika içinde zindana götürülmüşlerdi.`
 `Bayılmaları ve taşınmalarına yetecek kadar zaman geçmemişti.`
-`O hâlde o şeyler gerçekten çukurdu ve burası yemek salonunun hemen altı mıydı......?`
+`O hâlde o şeyler gerçekten de delikti ve burası yemek salonunun hemen altı mıydı......?`
 `Tek yapabilecekleri, Nanjo'nun buranın neresi olduğunu bulabilmesi için dua etmekti...`
 `"......Geliyorlar.`
 ` Muhtemelen...dört kişiler.`
@@ -882,7 +882,7 @@
 ` ...............Y-Yoksa........"`
 `"......Bir fikrin var mı?"`
 `"Hayır, ama, .........bu akıl almaz.`
-` ......Öncelikle, bir çukura düştük, onun da ötesinde, buraya yalnızca birkaç dakika sonra kilitlendik...`
+` ......Öncelikle, bir delikten düştük, onun da ötesinde, buraya yalnızca birkaç dakika sonra kilitlendik...`
 ` ......Bu, fiziksel bakımdan, mesafe bakımından imkânsız......"`
 `"Bir {y:0:İnsan}{n:0:insan} için, değil mi?`
 ` *kıkırdar*."`
