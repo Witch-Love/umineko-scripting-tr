@@ -82,7 +82,7 @@
 `"Bu sadece görünüşte öyle.`
 ` ......Muhtemelen Kinzo-san, en başından beri reisliği Eva-san'ın devralmasını planlamıştı."`
 `"En büyük oğlunun halef olacağı yönündeki kuralından caysa bile, Krauss-san'dan farklı olarak, çalışkan ve kıvrak zekalı Eva-san'ın ailenin başına geçmesini istiyordu."`
-`"...Kitabenin bilmecisini çözen kişinin aile reisi olacağını şeklindeki yeni kural...`
+`"...Kitabenin bilmecisini çözen kişinin aile reisi olacağı şeklindeki yeni kural...`
 `muhtemelen yalnızca bu pozisyonu Krauss-san'ın elinden almak için yaptığı bir maskaralıktı."`
 `"Maskaralık mı...nasıl yani?"`
 `"Kimsenin o kitabeyi çözmesine gerek yoktu.`
@@ -351,7 +351,7 @@
 `Aşağıda kimse yok gibi görünüyordu.`
 `{n}...Kaçacaksam tek şansım bu...!`
 `Tam bunu düşündüğüm anda, lastiklerinden inanılmaz bir kayma sesi çıkaran siyah bir otomobil, tam aşağımda kayarak aniden durdu.`
-`......Lastik seslerinden anlaşıldığı kadarıyla, bunun gibi başka araçlar da vardı ve bu da, buradaki yolu kapatmaya gelmişti.`
+`......Lastik seslerinden anlaşıldığı kadarıyla bunun gibi başka araçlar da vardı ve bu araç, buradaki yolu kapatmaya gelmişti.`
 `"......Kasumi Teyze, hiç kötü değil.`
 ` Yangın merdivenlerinden çıkan yeğenine limuzin gönderiyorsun demek."`
 `Pat-pat! Kapıları şiddetlice açılan araçlardan siyah takım elbiseli üç adam dışarı fırladı ve yangın merdiveninin yukarısına baktılar.`
@@ -639,7 +639,7 @@
 ` ......Ve bu, gözle görülebilir bir şey mi?`
 `Bir ihtimal...gerçek gözlerimin önüne serilse bile,`
 ` ......benim {y:1:‘göremeyeceğim’}{n:1:göremeyeceğim} bir şey olabilir...`
-`"......Aşk olmadan, {y:1:‘görülemez’}{n:1:görülemez}, demek..."`
+`"......Aşk olmadan {y:1:‘görülemez’}{n:1:görülemez} demek..."`
 `".........Kakeran oldukça eğlenceliymiş.`
 ` Hiç sıkılmadım."`
 `"Sen söylemiştin.`
