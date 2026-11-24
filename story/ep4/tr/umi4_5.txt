@@ -45,15 +45,15 @@
 ` Anneme söz.`
 ` ......Uu{p:0:☆}"`
 `Rosa, Maria'ya nazikçe sarılırken, serçe parmaklarını birleştirerek birbirlerine söz verdiler.`
-`Serçe parmaklarının ifade ettiği bu anne-kız bağının,`
-` Maria'nın vücuduna eski sıcaklığını geri kazandırdığı, bu ana tanıklık eden Battler ve diğerleri tarafından da fark edilmişti.`
+`Serçe parmaklarının ifade ettiği bu anne-kız bağının Maria'nın vücuduna eski sıcaklığını geri kazandırışı...`
+` ...bu ana tanıklık eden Battler ve diğerleri tarafından da fark edilmişti.`
 `"Kanon‐kun, havlu için teşekkürler.`
 ` Çok yardımcı oldun."`
 `"......O hâlde, izninizle."`
 `Kanon, teşekkür edilecek bir şey yapmadığını düşünerek boş bir ifadeyle selam verdi ve ardından salondan ayrıldı.`
 `"......Pekâlâ, yemek vakti geldi.`
 ` Hep birlikte gidelim.`
-` ......Maria, bu kadar uslu olduğu için Annen tatlısının yarısını sana verecek."`
+` ......Maria, bu kadar uslu olduğun için Annen tatlısının yarısını sana verecek."`
 `"Uu!`
 ` Gerçekten mi, Anne?!`
 ` Uu‐uu, tatlısını verecek, uu‐uu‐uu{p:0:♪}`
@@ -68,7 +68,7 @@
 ` Bunu izleyen kuzenler bile, göğüslerini dolduran bir tür nostaljik sıcaklık hissetmeye başladılar.`
 `"......Bu yaşlar, ebeveynlerinle aranın en iyi olduğu zamanlar olsa gerek."`
 `"Benim için pek öyle değildi.`
-` Annem, hep ders çalış, ders çalış diye başımın etini yerdi."`
+` Annem hep "Ders çalış, ders çalış!" diye başımın etini yerdi."`
 `"Çocuklarını sevdikleri için öyle.`
 ` Ebeveyn sevgisi her zaman şefkatli ve anlayışlı olmaz.`
 ` Benim annem de bana karşı sert davranırdı, ama artık bunun beni çok sevdiği için olduğunu anlıyorum."`
@@ -90,7 +90,7 @@
 ` Dalmışım.`
 ` Düşürdüğüm için özür dilerim."`
 `Yerdeki fincan paramparça olmuştu.`
-`......O yükseklikten düşürmesi, gerçekten o kadar gürültü çıkarıp, fincanı bu kadar parçaya ayrılabilir miydi?`
+`......O yükseklikten düşürmesi, gerçekten o kadar gürültü çıkarıp fincanı bu kadar parçaya ayrılabilir miydi?`
 `Battler kadar kalın kafalı biri bile bunun, onun bir şeye sinirlendiğinin göstergesi olduğunun farkındaydı.`
 ` Ancak birdenbire neye bu kadar sinirlenmiş olabileceğini anlayamıyordu.`
 `Gretel, fincanın parçalarını eğilip toplamak üzereyken, Ronove birdenbire ortaya çıkarak onu durdurdu.`
@@ -137,7 +137,7 @@
 ` Ve gelecekte olan gözlemciler, daima bu şekli bir yenisiyle değiştirir.`
 ` .........Ange, Maria'nın mutluluğuyla ne yapmak istiyorsun...?"`
 `".............................."`
-`Günlüğün sayfaları git gide daha hızlı çevriliyordu...`
+`Günlüğün sayfaları gitgide daha hızlı çevriliyordu...`
 `{n}Sonrasında günlüğün derinliklerinden göz kamaştırıcı bir ışık dışarı taştı, ......her şeyi yutarak tüm etrafı beyaza boyadı.`
 `".........Üzgünüm, Maria.`
 ` Annenin acilen yoluna koyması gereken tonla iş var, yani bir süre daha iş yerinde kalmam gerekiyor.`
@@ -187,7 +187,7 @@
 ` ......Televizyon mu...izlemek istiyorsun?"`
 `‘......Uryu?`
 ` Maria, sen artık izlemek istemiyor musun...?`
-` Yarışmacı takım bütün soruları doğru cevaplarsa durumu tersine çevirebilirler.`
+` Yarışmacı takım bütün soruları doğru cevaplarsa durumu tersine çevirebilir.`
 ` Uryu~!’`
 `".........Evet.`
 ` .........Bu kadar televizyon...yeter."`
@@ -197,7 +197,7 @@
 ` bembeyaz bir suratla hemen duş alır ve kendini yatağa atardı.`
 `Hafta sonlarında bile mesaiye kalacağını ya da iş yerinde kalacağını söyler, neredeyse hiç eve dönmezdi.`
 `......Son zamanlarda önemli işleri olduğunu söylemesi sıklaşmıştı...`
-`......Resim dersinde çok uğraşarak çizdiğim, herkesin alay edip güldüğü resmimi,`
+`......Resim dersinde çok uğraşarak çizdiğim ancak herkesin alay edip güldüğü resmimi,`
 ` en azından Anneme göstermek istiyordum...ama bir kez daha ona gösteremedim.`
 `Annem eve döndüğünde, sınıftakilerin benim üstüme yıktığı temizlik işini tek başıma bir güzel halledip öğretmenim tarafından övülmemden,`
 `her alışverişe gidişimde marketteki amcanın beni takdir edip bedava kahve vermesinden,`
@@ -839,7 +839,7 @@
 ` Bunu yaparak kendi dünya görüşünü değiştiriyorsun.`
 ` ......Senin, yoktan var etme gücün, herkesten çok daha üstün."`
 `"......1'i 100 yapmak kolaydır.`
-` Ancak, 0'dan 1 yaratmak kolay değildir.`
+` Ancak 0'dan 1 yaratmak kolay değildir.`
 ` ...Sen tam bir cadı olduğunda, benimle boy ölçüşmekle kalmayıp, hatta benim bile üstünlüğünü kabul etmek zorunda kalacağım bir Büyük Cadı olman olası."`
 `"Kökenlerin Cadısı, belki de.`
 ` .........Senin varacağın geleceği görmeyi sabırsızlıkla bekliyorum."`
@@ -882,7 +882,7 @@
 `......başka bir cadı daha belirdi.`
 `{n}Beato'nun ustası, {f:5:Virgilia}'ydı.`
 `{f:5:Virgilia} gerçek bir Büyük Cadıydı.`
-`...Maria, Beato'yu zaten Büyük Cadı olarak gördüğüne göre, Beato'nun Büyük Cadı dediği bu kişinin, Büyük Büyük Cadı olduğuna şüphe yoktu.`
+`...Maria Beato'yu zaten Büyük Cadı olarak gördüğüne göre Beato'nun Büyük Cadı dediği bu kişinin, Büyük Büyük Cadı olduğuna şüphe yoktu.`
 `Beato'nun söylediğine göre o, Beato'nun şu anda bile onun büyü gücünün yanına bile yaklaşamayacağı biriydi.`
 `"Aman, aman.`
 ` Şen şakrak sesler duyar gibi oldum.`
@@ -979,7 +979,7 @@
 `Maria tarafından yaratılan Sakutarou, iki cadı, {f:5:Beatrice} ve {f:5:Virgilia} tarafından referans olunmuş,`
 ` ve tam şu anda, üst boyuttaki dünya onun varlığını kabul etmişti.`
 `......İşte bu, olağanüstü tezahür büyüsüydü.`
-`Beato'nun söylediğin göre, {f:5:Virgilia}'nın burada olması çok büyük bir şanstı.`
+`Beato'nun söylediğine göre, {f:5:Virgilia}'nın burada olması çok büyük bir şanstı.`
 `Çünkü üst boyuttaki dünyaya yolladıkları dokümanın barındırdığı güç, onu imzalayan cadıların sayısına ve rütbelerine göre büyük oranda değişkenlik gösteriyordu.`
 `Üstelik {f:5:Virgilia}'nın üst boyuttaki dünyada çok sayıda arkadaşı vardı.`
 ` Dolayısıyla onun imzası, dokümana Beato'nun imzasıyla kıyaslanamayacak derecede güç vermişti.`
@@ -1040,7 +1040,7 @@
 ` Çırak olmasına rağmen kendine cadı demeye lâyık birine yaraşır bir kıyafet bahşedeceğim."`
 `Beato, asası olan pipoyu salladığında,`
 ` aniden ortaya çıkan sayısız altın kelebek Maria'yı sarmalamış, ona harika bir elbise bahşetmişlerdi.`
-`Bu, hiç şüphesiz bir gün Kökenlerin Cadısı ünvanına sahip olacak kıza yakışır, tatlılık ve ihtişamla taçlandırılmış bir elbiseydi...`
+`Bu hiç şüphesiz bir gün Kökenlerin Cadısı ünvanına sahip olacak kıza yakışır, tatlılık ve ihtişamla taçlandırılmış bir elbiseydi...`
 `"Harika...!!`
 ` Harika harika harika harika!!`
 ` Çok tatlı, çok tatlı!`
